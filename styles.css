@@ -28,11 +28,10 @@ header {
 }
 
 svg path {
-  fill: #cfd8dc;
   stroke: #455a64;
   stroke-width: 0.5;
-  cursor: pointer;
-  pointer-events: all;
+  vector-effect: non-scaling-stroke;
+  paint-order: stroke fill;
 }
 
 /* Hover without destroying score colors */
