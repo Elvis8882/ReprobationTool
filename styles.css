@@ -10,9 +10,10 @@ svg path {
   cursor: pointer;
 }
 
-svg path:hover {
-  fill: #90caf9;
+svg path:not([data-note]):hover {
+  opacity: 0.8;
 }
+
 
 #popup {
   position: fixed;
@@ -33,6 +34,21 @@ svg path:hover {
   background: #1976d2;
   color: white;
   cursor: pointer;
+}
+
+svg path {
+  pointer-events: all;
+}
+
+.hidden {
+  display: none;
+}
+
+#overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.4);
+  z-index: 999;
 }
 
 
