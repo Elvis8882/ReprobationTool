@@ -27,17 +27,25 @@ header {
   margin-bottom: 5px;
 }
 
+/* Base country style (unchanged visual weight) */
 svg path {
   stroke: #ffffff;
   stroke-width: 0.5;
   vector-effect: non-scaling-stroke;
-}
+  transition: fill 0.15s ease, stroke-width 0.15s ease;
 
-/* Hover without destroying score colors */
+
+/* Hover */
 svg path:hover {
-  opacity: 0.8;
+  opacity: 0.85;
 }
 
+  /* Selected country outline */
+svg path.selected {
+  stroke: #000000;
+  stroke-width: 1.5;
+}
+  
 #overlay {
   position: fixed;
   inset: 0;
