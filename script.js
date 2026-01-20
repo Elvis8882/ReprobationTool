@@ -1,3 +1,24 @@
+const mockScores = {
+  DE: 72,
+  FR: 65,
+  IT: 48,
+  ES: 55,
+  PL: 60
+};
+
+function scoreToColor(score) {
+  if (score >= 70) return "#66bb6a";
+  if (score >= 50) return "#ffee58";
+  return "#ef5350";
+}
+
+document.querySelectorAll("svg path").forEach(country => {
+  const score = mockScores[country.id];
+  if (score) {
+    country.style.fill = scoreToColor(score);
+  }
+});
+
 document.querySelectorAll("svg path").forEach(country => {
   country.addEventListener("click", () => {
     openPopup(country);
@@ -23,24 +44,4 @@ function openPopup(countryEl) {
 function closePopup() {
   document.getElementById("popup").classList.add("hidden");
 }
-const mockScores = {
-  DE: 72,
-  FR: 65,
-  IT: 48,
-  ES: 55,
-  PL: 60
-};
-
-function scoreToColor(score) {
-  if (score >= 70) return "#66bb6a";
-  if (score >= 50) return "#ffee58";
-  return "#ef5350";
-}
-
-document.querySelectorAll("svg path").forEach(country => {
-  const score = mockScores[country.id];
-  if (score) {
-    country.style.fill = scoreToColor(score);
-  }
-});
 
