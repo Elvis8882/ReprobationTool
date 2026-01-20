@@ -8,12 +8,26 @@ svg path {
   stroke: #455a64;
   stroke-width: 0.5;
   cursor: pointer;
+  pointer-events: all;
 }
 
-svg path:not([data-note]):hover {
+/* Hover without destroying score colors */
+svg path:hover {
   opacity: 0.8;
 }
 
+#overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.4);
+  z-index: 999;
+  pointer-events: auto;
+}
+
+#overlay.hidden {
+  display: none;
+  pointer-events: none;
+}
 
 #popup {
   position: fixed;
@@ -27,6 +41,7 @@ svg path:not([data-note]):hover {
   box-shadow: 0 10px 30px rgba(0,0,0,0.3);
   z-index: 1000;
 }
+
 #popup button {
   margin-top: 10px;
   padding: 6px 12px;
@@ -36,25 +51,6 @@ svg path:not([data-note]):hover {
   cursor: pointer;
 }
 
-svg path {
-  pointer-events: all;
-}
-
-.hidden {
-  display: none;
-}
-
-#overlay {
-  position: fixed;
-  inset: 0;
-  background: rgba(0,0,0,0.4);
-  z-index: 999;
-}
-
-
-.hidden {
-  display: none;
-}
 #legend {
   margin-top: 15px;
 }
@@ -69,4 +65,3 @@ svg path {
 .low { background: #ef9a9a; }
 .mid { background: #fff59d; }
 .high { background: #a5d6a7; }
-
