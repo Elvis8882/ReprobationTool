@@ -101,28 +101,28 @@ function closePopup() {
 
 // ================= HIGHLIGHTING =================
 function highlightCountry(countryId) {
-  const baseCode = countryId.split("-")[0];
 
   // Reset all
   document.querySelectorAll("svg path").forEach(p => {
     p.style.strokeWidth = "0.5";
-    p.style.stroke = "#455a64";
+    p.style.stroke = "#ffffff";
+    p.style.vectorEffect = "non-scaling-stroke";
   });
 
+  // Highlight selected country (all its paths)
+  document
+    .querySelectorAll(`svg path[id^="${countryId}"]`)
+    .forEach(p => {
+      p.style.stroke = "#000000";
+      p.style.strokeWidth = "2.5";
+      p.style.vectorEffect = "non-scaling-stroke";
+    });
+
+  // Highlight list item
   document.querySelectorAll("#country-list li").forEach(li => {
-    li.classList.remove("active");
+    li.classList.toggle(
+      "active",
+      li.dataset.countryId === countryId
+    );
   });
-
-  // Highlight ALL paths of the country
-  document.querySelectorAll(`svg path[id^="${baseCode}"]`).forEach(p => {
-    p.style.strokeWidth = "2.5";
-    p.style.stroke = "#000";     // stronger contrast
-  });
-
-  const listItem = document.querySelector(
-    `#country-list li[data-country-id="${baseCode}"]`
-  );
-  if (listItem) {
-    listItem.classList.add("active");
-  }
 }
