@@ -28,4 +28,18 @@ svg path:hover {
 .hidden {
   display: none;
 }
+#legend {
+  margin-top: 15px;
+}
+
+.legend-box {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  margin: 0 5px;
+}
+
+.low { background: #ef9a9a; }
+.mid { background: #fff59d; }
+.high { background: #a5d6a7; }
 
