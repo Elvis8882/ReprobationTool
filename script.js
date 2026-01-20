@@ -17,8 +17,8 @@ const countryNames = {
   AM: "Armenia", AZ: "Azerbaijan", BH: "Bahrain", GE: "Georgia",
   IR: "Iran", IQ: "Iraq", IL: "Israel", JO: "Jordan", KW: "Kuwait",
   LB: "Lebanon", OM: "Oman", PS: "Palestine", QA: "Qatar",
-  SA: "Saudi Arabia", SY: "Syria", TR: "Turkey",
-  AE: "United Arab Emirates", YE: "Yemen", ru-kaliningrad: "Russia (Kaliningrad)", ru-main: "Russia (Mainland)
+  SA: "Saudi Arabia", SY: "Syria", TR: "Turkey", KZ: "Kazakhstan", TM: "Turkmenistan",
+  AE: "United Arab Emirates", YE: "Yemen", ru-kaliningrad: "Russia (Kaliningrad)", ru-main: "Russia (Mainland),
 
   // North Africa
   DZ: "Algeria", EG: "Egypt", LY: "Libya", MA: "Morocco",
