@@ -32,12 +32,30 @@ document.addEventListener("DOMContentLoaded", () => {
   country.setAttribute("data-note", "scored");
 }
 
-
     // Click popup
-    country.addEventListener("click", () => {
-      openPopup(country);
-    });
+  country.addEventListener("click", () => {
+    highlightCountry(country.id);
+    openPopup(country);
   });
+
+  });
+  const countryListEl = document.getElementById("country-list");
+
+countries.forEach(country => {
+  const name = country.getAttribute("name");
+  if (!name) return;
+
+  const li = document.createElement("li");
+  li.textContent = name;
+  li.dataset.countryId = country.id;
+
+  li.addEventListener("click", () => {
+    highlightCountry(country.id);
+    openPopup(country);
+  });
+
+  countryListEl.appendChild(li);
+});
 });
 
 function openPopup(countryEl) {
@@ -56,3 +74,31 @@ function openPopup(countryEl) {
 function closePopup() {
   document.getElementById("overlay").classList.add("hidden");
 }
+
+function highlightCountry(countryId) {
+
+  // Reset all map highlights
+  document.querySelectorAll("svg path").forEach(p => {
+    p.style.strokeWidth = "0.5";
+  });
+
+  // Reset list highlights
+  document.querySelectorAll("#country-list li").forEach(li => {
+    li.classList.remove("active");
+  });
+
+  // Highlight map country
+  const countryPath = document.getElementById(countryId);
+  if (countryPath) {
+    countryPath.style.strokeWidth = "2";
+  }
+
+  // Highlight list item
+  const listItem = document.querySelector(
+    `#country-list li[data-country-id="${countryId}"]`
+  );
+  if (listItem) {
+    listItem.classList.add("active");
+  }
+}
+
