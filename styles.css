@@ -1,29 +1,30 @@
-html, body {
+/* 1. Reset margins and paddings to avoid page scroll */
+* {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
   height: 100%;
   width: 100%;
-  box-sizing: border-box;
   font-family: Arial, sans-serif;
-  text-align: center;
-}
-
-body {
   display: flex;
-  flex-direction: column;
+  flex-direction: column; /* vertical layout */
 }
 
+/* 2. Header and subtitle */
 header {
   margin: 5px 0;
-  font-size: 1rem;
+  font-size: 1.5rem;
   text-align: center;
 }
 
 #subtitle {
-  margin: 0 0 5px 0;
   text-align: center;
-  font-size: 0.5rem;
+  font-size: 1rem;
   color: #555;
+  margin-bottom: 5px;
 }
 
 svg path {
@@ -92,29 +93,21 @@ svg path:hover {
 #layout {
   display: grid;
   grid-template-columns: 1fr 3fr 1fr;
-  flex: 1 1 auto; /* fill remaining vertical space */
+  flex: 1 1 auto;  /* grow to fill remaining space */
   gap: 10px;
   padding: 10px;
-  box-sizing: border-box;
+  min-height: 0;   /* crucial: allows children to scroll */
 }
 
-main {
+/* 4. Panels fill grid cells */
+main, aside {
   background: #f5f5f5;
   padding: 10px;
   border-radius: 6px;
   height: 100%;
+  min-height: 0;  /* crucial for scrollable children inside flex/grid */
   display: flex;
-  justify-content: center;
-  align-items: center;
-  overflow: hidden;  /* map only */
-}
-
-aside {
-  background: #f5f5f5;
-  padding: 10px;
-  border-radius: 6px;
-  height: 100%;
-  overflow-y: auto; /* scroll side panels internally */
+  flex-direction: column;
 }
 
 /* LEFT PANEL */
@@ -129,8 +122,11 @@ aside {
 
 /* CENTER MAP */
 #map-panel {
-  height: 100%;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden; /* map only */
 }
+
 #map-container {
   width: 100%;
   height: 100%;
@@ -147,8 +143,6 @@ aside {
 
 #country-list {
   list-style: none;
-  padding: 0;
-  margin: 0;
 }
 
 #country-list li {
