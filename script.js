@@ -28,8 +28,10 @@ document.addEventListener("DOMContentLoaded", () => {
     // Color country
     const score = mockScores[country.id];
     if (score !== undefined) {
-      country.style.fill = scoreToColor(score);
-    }
+  country.style.fill = scoreToColor(score);
+  country.setAttribute("data-note", "scored");
+}
+
 
     // Click popup
     country.addEventListener("click", () => {
