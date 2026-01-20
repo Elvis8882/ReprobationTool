@@ -65,3 +65,69 @@ svg path:hover {
 .low { background: #ef9a9a; }
 .mid { background: #fff59d; }
 .high { background: #a5d6a7; }
+
+#layout {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  gap: 10px;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+aside, main {
+  background: #f5f5f5;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+/* LEFT PANEL */
+#news-panel {
+  min-height: 500px;
+  text-align: left;
+}
+
+#news-panel .placeholder {
+  color: #777;
+  font-style: italic;
+}
+
+/* CENTER MAP */
+#map-panel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#map-container svg {
+  width: 100%;
+  height: auto;
+}
+
+/* RIGHT PANEL */
+#country-panel {
+  max-height: 500px;
+  overflow-y: auto;
+}
+
+#country-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#country-list li {
+  padding: 6px 8px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+#country-list li:hover {
+  background: #e0e0e0;
+}
+
+/* Highlight selected country in list */
+#country-list li.active {
+  background: #bbdefb;
+  font-weight: bold;
+}
