@@ -18,7 +18,7 @@ const countryNames = {
   IR: "Iran", IQ: "Iraq", IL: "Israel", JO: "Jordan", KW: "Kuwait",
   LB: "Lebanon", OM: "Oman", PS: "Palestine", QA: "Qatar",
   SA: "Saudi Arabia", SY: "Syria", TR: "Turkey",
-  AE: "United Arab Emirates", YE: "Yemen",
+  AE: "United Arab Emirates", YE: "Yemen", ru-kaliningrad: "Russia (Kaliningrad)", ru-main: "Russia (Mainland)
 
   // North Africa
   DZ: "Algeria", EG: "Egypt", LY: "Libya", MA: "Morocco",
@@ -101,25 +101,26 @@ function closePopup() {
 
 // ================= HIGHLIGHTING =================
 function highlightCountry(countryId) {
-  // Reset map strokes
+  const baseCode = countryId.split("-")[0];
+
+  // Reset all
   document.querySelectorAll("svg path").forEach(p => {
     p.style.strokeWidth = "0.5";
+    p.style.stroke = "#455a64";
   });
 
-  // Reset list highlights
   document.querySelectorAll("#country-list li").forEach(li => {
     li.classList.remove("active");
   });
 
-  // Highlight map
-  const countryPath = document.getElementById(countryId);
-  if (countryPath) {
-    countryPath.style.strokeWidth = "2";
-  }
+  // Highlight ALL paths of the country
+  document.querySelectorAll(`svg path[id^="${baseCode}"]`).forEach(p => {
+    p.style.strokeWidth = "2.5";
+    p.style.stroke = "#000";     // stronger contrast
+  });
 
-  // Highlight list
   const listItem = document.querySelector(
-    `#country-list li[data-country-id="${countryId}"]`
+    `#country-list li[data-country-id="${baseCode}"]`
   );
   if (listItem) {
     listItem.classList.add("active");
