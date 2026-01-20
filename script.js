@@ -12,41 +12,45 @@ function scoreToColor(score) {
   return "#ef5350";
 }
 
-document.querySelectorAll("svg path").forEach(country => {
-  const score = mockScores[country.id];
-  if (score) {
-    country.style.fill = scoreToColor(score);
-  }
-});
+document.addEventListener("DOMContentLoaded", () => {
 
-document.querySelectorAll("svg path").forEach(country => {
-  country.addEventListener("click", () => {
-    openPopup(country);
+  const countries = document.querySelectorAll("svg path");
+  console.log("Countries found:", countries.length);
+
+  countries.forEach(country => {
+
+    // Tooltip from SVG attribute
+    const name = country.getAttribute("name");
+    if (name) {
+      country.setAttribute("title", name);
+    }
+
+    // Color country
+    const score = mockScores[country.id];
+    if (score !== undefined) {
+      country.style.fill = scoreToColor(score);
+    }
+
+    // Click popup
+    country.addEventListener("click", () => {
+      openPopup(country);
+    });
   });
 });
 
 function openPopup(countryEl) {
-  const countryCode = countryEl.id;
-  const countryName =
+  const name =
     countryEl.getAttribute("name") ||
     countryEl.getAttribute("title") ||
-    countryCode;
+    countryEl.id;
 
-  document.getElementById("country-name").innerText = countryName;
-
+  document.getElementById("country-name").innerText = name;
   document.getElementById("country-content").innerText =
     "Media score and insights coming soon.";
 
   document.getElementById("overlay").classList.remove("hidden");
 }
 
-
 function closePopup() {
-  document.getElementById("popup").classList.add("hidden");
+  document.getElementById("overlay").classList.add("hidden");
 }
-
-document.querySelectorAll("svg path").forEach(country => {
-  country.addEventListener("mouseenter", e => {
-    e.target.setAttribute("title", countryNames[country.id]);
-  });
-});
