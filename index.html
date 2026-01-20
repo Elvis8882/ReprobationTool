@@ -112,11 +112,14 @@
 
 </div>
 
-<div id="popup" class="hidden">
-  <h2 id="country-name"></h2>
-  <p id="country-content"></p>
-  <button onclick="closePopup()">Close</button>
+<div id="overlay" class="hidden" onclick="closePopup()">
+  <div id="popup" onclick="event.stopPropagation()">
+    <h2 id="country-name"></h2>
+    <p id="country-content"></p>
+    <button onclick="closePopup()">Close</button>
+  </div>
 </div>
+
 
 <div id="legend">
   <span class="legend-box low"></span> Low Score
