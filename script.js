@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Map click
     country.addEventListener("click", () => {
       highlightCountry(code);
-      openPopup(country);
+      openPopup(code);
     });
 
     // Country list entry
@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       li.addEventListener("click", () => {
         highlightCountry(code);
-        openPopup(country);
+        openPopup(code);
       });
 
       countryListEl.appendChild(li);
@@ -85,8 +85,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // ================= POPUP =================
 function openPopup(countryEl) {
-  const code = countryEl.id;
-  const name = countryNames[code] || code;
+  const name = countryNames[countryEl.id] || countryEl.id;
 
   document.getElementById("country-name").innerText = name;
   document.getElementById("country-content").innerText =
@@ -102,27 +101,25 @@ function closePopup() {
 // ================= HIGHLIGHTING =================
 function highlightCountry(countryId) {
 
-  // Reset all
-  document.querySelectorAll("svg path").forEach(p => {
-    p.style.strokeWidth = "0.5";
-    p.style.stroke = "#ffffff";
-    p.style.vectorEffect = "non-scaling-stroke";
-  });
+  // Clear map selection
+  document.querySelectorAll("svg path.selected")
+    .forEach(p => p.classList.remove("selected"));
 
-  // Highlight selected country (all its paths)
-  document
-    .querySelectorAll(`svg path[id^="${countryId}"]`)
-    .forEach(p => {
-      p.style.stroke = "#000000";
-      p.style.strokeWidth = "2.5";
-      p.style.vectorEffect = "non-scaling-stroke";
-    });
+  // Clear list selection
+  document.querySelectorAll("#country-list li")
+    .forEach(li => li.classList.remove("active"));
 
-  // Highlight list item
-  document.querySelectorAll("#country-list li").forEach(li => {
-    li.classList.toggle(
-      "active",
-      li.dataset.countryId === countryId
-    );
-  });
+  // Select map country
+  const countryPath = document.getElementById(countryId);
+  if (countryPath) {
+    countryPath.classList.add("selected");
+  }
+
+  // Select list item
+  const listItem = document.querySelector(
+    `#country-list li[data-country-id="${countryId}"]`
+  );
+  if (listItem) {
+    listItem.classList.add("active");
+  }
 }
