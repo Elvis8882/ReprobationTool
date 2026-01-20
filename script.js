@@ -45,3 +45,8 @@ function closePopup() {
   document.getElementById("popup").classList.add("hidden");
 }
 
+document.querySelectorAll("svg path").forEach(country => {
+  country.addEventListener("mouseenter", e => {
+    e.target.setAttribute("title", countryNames[country.id]);
+  });
+});
