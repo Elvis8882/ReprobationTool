@@ -5,7 +5,8 @@ const mockScores = {
   FR: 65,
   IT: 48,
   ES: 55,
-  PL: 60
+  PL: 60,
+  RU-MAIN: 10
 };
 
 function scoreToColor(score) {
@@ -168,11 +169,19 @@ function setSelectedCountry(countryEl) {
   document.getElementById("calculate-score-btn").disabled = false;   // enable button
 }
 
+const PRANK_COUNTRY_ID = "RU-MAIN"; // country to prank
+const PRANK_URL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"; // YouTube link
+
 document.getElementById("calculate-score-btn").addEventListener("click", () => {
-  if (selectedCountryEl) {
-    openPopup(selectedCountryEl); // trigger the same popup
+  if (!selectedCountryEl) return;
+
+  if (selectedCountryEl.id === PRANK_COUNTRY_ID) {
+    window.open(PRANK_URL, "_blank"); // prank!
+  } else {
+    openPopup(selectedCountryEl); // normal behavior
   }
 });
+
 
 
 
