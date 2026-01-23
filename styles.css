@@ -113,6 +113,13 @@ main, aside {
 /* LEFT PANEL */
 #news-panel {
   overflow-y: auto; /* scroll if content exceeds panel height */
+  padding: 16px;    /* add some breathing room inside panel */
+}
+
+#news-panel h3 {
+  text-align: center;
+  margin: 16px 0;
+  width: 100%;
 }
 
 #news-panel .placeholder {
@@ -146,6 +153,12 @@ main, aside {
   text-align: center;
   margin: 16px 0;
   width: 100%;
+}
+
+.panel-divider {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 12px 0;
 }
 
 
