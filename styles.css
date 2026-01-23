@@ -120,8 +120,8 @@ svg path:hover {
 .legend-selection {
   display: flex;
   align-items: center;
-  justify-content: center;   /* centers inside this flex box */
   gap: 8px;
+  margin-left: auto;   /* pushes this item to the right */
 }
 
 #calculate-score-btn {
