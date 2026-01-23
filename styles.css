@@ -98,22 +98,21 @@ svg path:hover {
   display: flex;
   align-items: center;
   gap: 10px;
-  flex-shrink: 0;              /* prevent shrinking */
 }
 
 .legend-container {
   display: flex;               /* horizontal layout */
   align-items: center;         /* vertical centering */
   justify-content: flex-start; /* left-align everything initially */
-  gap: 20px;                   /* spacing between left and right parts */
+  gap: 40px;                   /* spacing between left and right parts */
 }
 
 .legend-selection {
   display: flex;
   align-items: center;
+  justify-content: center;     /* centers inside its own flex box */
   gap: 8px;
-  justify-content: center;      /* horizontally center the selection/button */
-  flex-grow: 1;                 /* take remaining space to push itself to middle */
+  flex-grow: 1;                /* pushes it to the middle of remaining space */
 }
 
 #calculate-score-btn {
