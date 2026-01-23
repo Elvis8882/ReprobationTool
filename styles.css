@@ -78,7 +78,11 @@ svg path:hover {
 }
 
 #legend {
-  margin-top: 15px;
+  display: flex;
+  flex-direction: column;      /* keep children stacked */
+  justify-content: center;     /* vertical centering */
+  height: 100%;                /* take full height of the panel */
+  padding-left: 12px;          /* keep left alignment for legend-scale */
 }
 
 .legend-box {
