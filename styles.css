@@ -82,12 +82,8 @@ svg path:hover {
   flex-direction: row;        /* left-to-right */
   align-items: center;        /* vertical centering of items in the line */
   justify-content: flex-start; /* keep everything left-aligned */
-  gap: 40px;                  /* space between boxes and selection/button */
-  padding-left: 12px;
-  height: auto;               /* important: shrink to content */
-  min-height: 0;              /* prevent inherited flex stretching */
-  height: auto;
-  flex-wrap: nowrap;
+  padding: 0 12px;          /* just horizontal padding */
+  height: auto;             /* natural height */
 }
 
 .legend-box {
@@ -149,9 +145,10 @@ svg path:hover {
   display: grid;
   grid-template-columns: 1fr 3fr 1fr;
   flex: 1 1 auto;  /* grow to fill remaining space */
-  gap: 5px;
-  padding: 5px;
+  gap: 10px;
+  padding: 0 10px;
   min-height: 0;   /* crucial: allows children to scroll */
+  overflow: hidden;   /* prevent grid from growing */
 }
 
 /* 4. Panels fill grid cells */
@@ -163,6 +160,7 @@ main, aside {
   min-height: 0;  /* crucial for scrollable children inside flex/grid */
   display: flex;
   flex-direction: column;
+  overflow: hidden;
 }
 
 /* LEFT PANEL */
