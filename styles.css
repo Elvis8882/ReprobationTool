@@ -78,12 +78,11 @@ svg path:hover {
 }
 
 #legend {
-  display: flex;              /* horizontal layout */
-  flex-direction: row;        /* left-to-right */
-  align-items: center;        /* vertical centering of items in the line */
-  justify-content: flex-start; /* keep everything left-aligned */
-  padding: 0 12px;          /* just horizontal padding */
-  height: auto;             /* natural height */
+  display: flex;
+  align-items: center;        /* vertical centering inside legend */
+  gap: 40px;                  /* space between scores and selection */
+  padding-left: 12px;
+  height: auto;               /* do not stretch to full panel */
 }
 
 .legend-box {
@@ -115,9 +114,9 @@ svg path:hover {
 
 .legend-selection {
   display: flex;
-  align-items: center;
+  align-items: center;        /* vertical center inside legend container */
+  justify-content: center;    /* horizontal centering inside its own width */
   gap: 8px;
-  margin-left: auto;   /* pushes this item to the right */
 }
 
 #calculate-score-btn {
