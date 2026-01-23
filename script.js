@@ -41,21 +41,55 @@ document.addEventListener("DOMContentLoaded", () => {
   });
   const countryListEl = document.getElementById("country-list");
 
+const euCountries = [];
+const otherCountries = [];
+
 countries.forEach(country => {
   const name = country.getAttribute("name");
   if (!name) return;
 
-  const li = document.createElement("li");
-  li.textContent = name;
-  li.dataset.countryId = country.id;
+  const entry = {
+    id: country.id,
+    name,
+    el: country
+  };
 
-  li.addEventListener("click", () => {
-    highlightCountry(country.id);
-    openPopup(country);
-  });
-
-  countryListEl.appendChild(li);
+  if (country.classList.contains("European_Union")) {
+    euCountries.push(entry);
+  } else {
+    otherCountries.push(entry);
+  }
 });
+const sortByName = (a, b) =>
+  a.name.localeCompare(b.name, "en");
+
+euCountries.sort(sortByName);
+otherCountries.sort(sortByName);
+
+countryListEl.innerHTML = "";
+
+function renderSection(title, items) {
+  const header = document.createElement("li");
+  header.textContent = title;
+  header.className = "country-section";
+  countryListEl.appendChild(header);
+
+  items.forEach(country => {
+    const li = document.createElement("li");
+    li.textContent = country.name;
+    li.dataset.countryId = country.id;
+
+    li.addEventListener("click", () => {
+      highlightCountry(country.id);
+      openPopup(country.el);
+    });
+
+    countryListEl.appendChild(li);
+  });
+}
+
+renderSection("European Union", euCountries);
+renderSection("Other", otherCountries);
 });
 
 function openPopup(countryEl) {
