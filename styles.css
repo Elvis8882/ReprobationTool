@@ -78,19 +78,64 @@ svg path:hover {
 }
 
 #legend {
-  margin-top: 15px;
+  align-self: flex-start; /* keeps left alignment */
+  margin-left: 12px;
 }
 
 .legend-box {
   display: inline-block;
   width: 15px;
   height: 15px;
-  margin: 0 5px;
+  margin-right: 6px;
+  vertical-align: middle;
 }
 
 .low { background: #ef9a9a; }
 .mid { background: #fff59d; }
 .high { background: #a5d6a7; }
+
+/* Legend vertical spacing and alignment */
+.legend-scale {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.legend-divider {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 10px 0;
+}
+
+.legend-selection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  margin-top: 6px;
+}
+
+#calculate-score-btn {
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+#calculate-score-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* Highlight selected country on map */
+svg path.active {
+  fill: #90caf9; /* light blue */
+  fill-opacity: 1;
+}
+
+/* Hover without overriding selected fill */
+svg path:hover {
+  fill-opacity: 0.85;
+}
 
 #layout {
   display: grid;
