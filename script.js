@@ -5,7 +5,8 @@ const mockScores = {
   FR: 65,
   IT: 48,
   ES: 55,
-  PL: 60
+  PL: 60,
+  RU-MAIN: 2
 };
 
 function scoreToColor(score) {
