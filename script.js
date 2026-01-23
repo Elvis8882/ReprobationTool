@@ -93,7 +93,6 @@ function renderSection(title, items) {
     li.addEventListener("click", () => {
       highlightCountry(country.id);
       setSelectedCountry(country.el); // add this line
-      openPopup(country.el);
     });
 
     countryListEl.appendChild(li);
