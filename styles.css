@@ -86,6 +86,8 @@ svg path:hover {
   padding-left: 12px;
   height: auto;               /* important: shrink to content */
   min-height: 0;              /* prevent inherited flex stretching */
+  height: auto;
+  flex-wrap: nowrap;
 }
 
 .legend-box {
