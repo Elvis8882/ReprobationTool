@@ -78,13 +78,14 @@ svg path:hover {
 }
 
 #legend {
-  display: flex;
-  flex-direction: row;        /* horizontal layout */
-  align-items: center;        /* vertical center within the line */
-  justify-content: flex-start; /* keep legend left-aligned */
-  gap: 40px;                  /* space between left (boxes) and right (selection) */
+  display: flex;              /* horizontal layout */
+  flex-direction: row;        /* left-to-right */
+  align-items: center;        /* vertical centering of items in the line */
+  justify-content: flex-start; /* keep everything left-aligned */
+  gap: 40px;                  /* space between boxes and selection/button */
   padding-left: 12px;
-  flex-wrap: nowrap;          /* ensure single line */
+  height: auto;               /* important: shrink to content */
+  min-height: 0;              /* prevent inherited flex stretching */
 }
 
 .legend-box {
@@ -117,7 +118,7 @@ svg path:hover {
 .legend-selection {
   display: flex;
   align-items: center;
-  justify-content: center;   /* centers inside its own box */
+  justify-content: center;   /* centers inside this flex box */
   gap: 8px;
 }
 
