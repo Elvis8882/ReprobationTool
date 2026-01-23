@@ -168,18 +168,23 @@ function setSelectedCountry(countryEl) {
   document.getElementById("calculate-score-btn").disabled = false;   // enable button
 }
 
-const PRANK_COUNTRY_ID = "IT"; // country to prank
-const PRANK_URL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"; // YouTube link
+const PRANK_COUNTRY_ID = "NL"; // the country code in your SVG
+const PRANK_URL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
 
 document.getElementById("calculate-score-btn").addEventListener("click", () => {
   if (!selectedCountryEl) return;
 
-  if (selectedCountryEl.id === PRANK_COUNTRY_ID) {
-    window.open(PRANK_URL, "_blank"); // prank!
+  const countryId = selectedCountryEl.id; // get the country id from SVG path
+
+  if (countryId === PRANK_COUNTRY_ID) {
+    // Open new tab for prank country
+    window.open(PRANK_URL, "_blank");
   } else {
-    openPopup(selectedCountryEl); // normal behavior
+    // Normal popup for other countries
+    openPopup(selectedCountryEl);
   }
 });
+
 
 
 function openPopup(countryEl) {
