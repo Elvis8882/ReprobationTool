@@ -161,6 +161,14 @@ main, aside {
   margin: 12px 0;
 }
 
+#country-filter {
+  width: 100%;
+  padding: 6px 10px;
+  margin-bottom: 8px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
 
 #country-list {
   list-style: none;
