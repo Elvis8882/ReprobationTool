@@ -77,12 +77,13 @@ svg path:hover {
   cursor: pointer;
 }
 
+/* Make legend fill the panel */
 #legend {
   display: flex;
-  flex-direction: column;      /* keep children stacked */
-  justify-content: center;     /* vertical centering */
-  height: 100%;                /* take full height of the panel */
-  padding-left: 12px;          /* keep left alignment for legend-scale */
+  flex-direction: column;
+  justify-content: center;  /* vertical centering */
+  height: 100%;             /* fill parent panel height */
+  padding-left: 12px;       /* optional spacing */
 }
 
 .legend-box {
@@ -97,26 +98,29 @@ svg path:hover {
 .mid { background: #fff59d; }
 .high { background: #a5d6a7; }
 
-/* Legend vertical spacing and alignment */
+/* Keep boxes left-aligned */
 .legend-scale {
   display: flex;
   align-items: center;
   gap: 10px;
 }
 
+/* Horizontal layout of boxes + selection/button */
 .legend-container {
-  display: flex;               /* horizontal layout */
-  align-items: center;         /* vertical centering */
-  justify-content: flex-start; /* left-align everything initially */
-  gap: 40px;                   /* spacing between left and right parts */
+  display: flex;
+  align-items: center;      /* vertical center inside container */
+  justify-content: flex-start; /* keep boxes left-aligned */
+  gap: 40px;                /* space between left and right parts */
+  width: 100%;
 }
 
+/* Center selection/button horizontally within its space */
 .legend-selection {
   display: flex;
-  align-items: center;
-  justify-content: center;     /* centers inside its own flex box */
+  align-items: center;       
+  justify-content: center;   /* horizontal center */
   gap: 8px;
-  flex-grow: 1;                /* pushes it to the middle of remaining space */
+  flex-grow: 1;              /* occupy remaining space */
 }
 
 #calculate-score-btn {
