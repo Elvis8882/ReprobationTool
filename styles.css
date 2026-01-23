@@ -145,10 +145,11 @@ main, aside {
   list-style: none;
 }
 
-#country-list li {
-  padding: 6px 8px;
-  cursor: pointer;
-  border-radius: 4px;
+#country-list li.country-section {
+  font-weight: bold;
+  margin-top: 10px;
+  cursor: default;
+  color: #555;
 }
 
 #country-list li:hover {
