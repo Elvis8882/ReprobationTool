@@ -139,7 +139,15 @@ main, aside {
 /* RIGHT PANEL */
 #country-panel {
   overflow-y: auto; /* scroll if content exceeds panel height */
+  padding: 16px;    /* add some breathing room inside panel */
 }
+
+#country-panel h3 {
+  text-align: center;
+  margin: 16px 0;
+  width: 100%;
+}
+
 
 #country-list {
   list-style: none;
@@ -147,9 +155,19 @@ main, aside {
 
 #country-list li.country-section {
   font-weight: bold;
-  margin-top: 10px;
+  margin-top: 20px;    /* more space above section */
+  margin-bottom: 10px; /* more space below section */
   cursor: default;
   color: #555;
+  font-size: 1rem;
+}
+
+#country-list li:not(.country-section) {
+  padding: 6px 12px;      /* makes click area larger */
+  margin-bottom: 4px;      /* space between countries */
+  border-radius: 4px;      /* optional, nicer UX */
+  cursor: pointer;
+  transition: background 0.2s;
 }
 
 #country-list li:hover {
