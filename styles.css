@@ -33,11 +33,13 @@ svg path {
   stroke-width: 0.5;
   cursor: pointer;
   pointer-events: all;
+  transition: fill 0.2s ease, stroke-width 0.2s ease;
 }
+
 
 /* Hover without destroying score colors */
 svg path:hover {
-  opacity: 0.8;
+  fill-opacity: 0.85;
 }
 
 #overlay {
