@@ -44,8 +44,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Click popup
   country.addEventListener("click", () => {
-    highlightCountry(country.id);
-    openPopup(country);
+  highlightCountry(country.id);
+  setSelectedCountry(country); // updates legend + button
   });
 
   });
@@ -92,6 +92,7 @@ function renderSection(title, items) {
 
     li.addEventListener("click", () => {
       highlightCountry(country.id);
+      setSelectedCountry(country.el); // add this line
       openPopup(country.el);
     });
 
@@ -158,6 +159,24 @@ filterInput.addEventListener("input", () => {
 
 
 });
+
+let selectedCountryEl = null;  // global variable
+
+function setSelectedCountry(countryEl) {
+  selectedCountryEl = countryEl; // store the selected country
+  const name = countryEl.getAttribute("name") || countryEl.id;
+  document.getElementById("selected-country-name").innerText = name; // update legend text
+  document.getElementById("calculate-score-btn").disabled = false;   // enable button
+}
+
+document.getElementById("calculate-score-btn").addEventListener("click", () => {
+  if (selectedCountryEl) {
+    openPopup(selectedCountryEl); // trigger the same popup
+  }
+});
+
+
+
 
 function openPopup(countryEl) {
   const name =
