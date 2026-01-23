@@ -77,6 +77,7 @@ function renderSection(title, items) {
   items.forEach(country => {
     const li = document.createElement("li");
     li.textContent = country.name;
+    li.dataset.originalName = country.name;
     li.dataset.countryId = country.id;
 
     li.addEventListener("click", () => {
@@ -94,30 +95,58 @@ renderSection("Other", otherCountries);
 const filterInput = document.getElementById("country-filter");
 
 filterInput.addEventListener("input", () => {
-  const filterValue = filterInput.value.toLowerCase();
+  const query = filterInput.value.trim();
 
-  document.querySelectorAll("#country-list li").forEach(li => {
-    // Always show section headers if at least one country matches
-    if (li.classList.contains("country-section")) {
-      // Check if next siblings match the filter
-      let next = li.nextElementSibling;
-      let showSection = false;
-      while (next && !next.classList.contains("country-section")) {
-        if (next.textContent.toLowerCase().includes(filterValue)) {
-          showSection = true;
-          break;
-        }
-        next = next.nextElementSibling;
+  document
+    .querySelectorAll("#country-list li.country-section")
+    .forEach(sectionHeader => {
+
+      let items = [];
+      let node = sectionHeader.nextElementSibling;
+
+      // Collect countries under this section
+      while (node && !node.classList.contains("country-section")) {
+        items.push(node);
+        node = node.nextElementSibling;
       }
-      li.style.display = showSection ? "" : "none";
-    } else {
-      // Normal country item
-      li.style.display = li.textContent.toLowerCase().includes(filterValue)
-        ? ""
-        : "none";
-    }
-  });
-});  
+
+      // Score & filter
+      const scored = items
+        .map(li => {
+          const name = li.dataset.originalName;
+          return {
+            li,
+            name,
+            score: relevanceScore(name, query)
+          };
+        })
+        .filter(item => !query || item.score > 0);
+
+      // Sort by relevance, then alphabetically
+      scored.sort((a, b) =>
+        b.score - a.score ||
+        a.name.localeCompare(b.name, "en")
+      );
+
+      // Reset all items
+      items.forEach(li => {
+        li.style.display = "none";
+        li.innerHTML = li.dataset.originalName;
+      });
+
+      // Show matched items with highlight
+      scored.forEach(({ li, name }) => {
+        li.innerHTML = highlightMatch(name, query);
+        li.style.display = "";
+        sectionHeader.parentNode.insertBefore(li, node);
+      });
+
+      // Show / hide section header
+      sectionHeader.style.display = scored.length ? "" : "none";
+    });
+});
+
+
 });
 
 function openPopup(countryEl) {
@@ -162,4 +191,38 @@ function highlightCountry(countryId) {
   if (listItem) {
     listItem.classList.add("active");
   }
+}
+
+function normalize(str) {
+  return str
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "");
+}
+
+function relevanceScore(name, query) {
+  if (!query) return 1;
+
+  const n = normalize(name);
+  const q = normalize(query);
+
+  // 1. Starts with typed text (best)
+  if (n.startsWith(q)) return 300;
+
+  // 2. Word starts with typed text (e.g. "Bosnia and Herzegovina")
+  if (n.split(" ").some(word => word.startsWith(q))) return 200;
+
+  // 3. Contains typed text anywhere
+  if (n.includes(q)) return 100;
+
+  return 0;
+}
+
+function highlightMatch(text, query) {
+  if (!query) return text;
+
+  const safe = query.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const regex = new RegExp(`(${safe})`, "ig");
+
+  return text.replace(regex, "<mark>$1</mark>");
 }
