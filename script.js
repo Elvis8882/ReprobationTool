@@ -90,6 +90,34 @@ function renderSection(title, items) {
 
 renderSection("European Union", euCountries);
 renderSection("Other", otherCountries);
+
+const filterInput = document.getElementById("country-filter");
+
+filterInput.addEventListener("input", () => {
+  const filterValue = filterInput.value.toLowerCase();
+
+  document.querySelectorAll("#country-list li").forEach(li => {
+    // Always show section headers if at least one country matches
+    if (li.classList.contains("country-section")) {
+      // Check if next siblings match the filter
+      let next = li.nextElementSibling;
+      let showSection = false;
+      while (next && !next.classList.contains("country-section")) {
+        if (next.textContent.toLowerCase().includes(filterValue)) {
+          showSection = true;
+          break;
+        }
+        next = next.nextElementSibling;
+      }
+      li.style.display = showSection ? "" : "none";
+    } else {
+      // Normal country item
+      li.style.display = li.textContent.toLowerCase().includes(filterValue)
+        ? ""
+        : "none";
+    }
+  });
+});  
 });
 
 function openPopup(countryEl) {
