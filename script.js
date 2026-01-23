@@ -1,3 +1,5 @@
+const SELECTED_FILL = "#bbdefb"; // light blue
+
 const mockScores = {
   DE: 72,
   FR: 65,
@@ -28,9 +30,17 @@ document.addEventListener("DOMContentLoaded", () => {
     // Color country
     const score = mockScores[country.id];
     if (score !== undefined) {
-  country.style.fill = scoreToColor(score);
-  country.setAttribute("data-note", "scored");
+    const fill = scoreToColor(score);
+    country.style.fill = fill;
+    country.dataset.originalFill = fill;
+    country.setAttribute("data-note", "scored");
+
 }
+
+    if (!country.dataset.originalFill) {
+    country.dataset.originalFill = country.style.fill || "";
+  }
+
 
     // Click popup
   country.addEventListener("click", () => {
@@ -171,6 +181,11 @@ function highlightCountry(countryId) {
   // Reset all map highlights
   document.querySelectorAll("svg path").forEach(p => {
     p.style.strokeWidth = "0.5";
+
+    // Restore original fill
+    if (p.dataset.originalFill !== undefined) {
+      p.style.fill = p.dataset.originalFill;
+    }
   });
 
   // Reset list highlights
@@ -182,6 +197,7 @@ function highlightCountry(countryId) {
   const countryPath = document.getElementById(countryId);
   if (countryPath) {
     countryPath.style.strokeWidth = "2";
+    countryPath.style.fill = SELECTED_FILL;
   }
 
   // Highlight list item
@@ -192,6 +208,7 @@ function highlightCountry(countryId) {
     listItem.classList.add("active");
   }
 }
+
 
 function normalize(str) {
   return str
