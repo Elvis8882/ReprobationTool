@@ -102,17 +102,24 @@ svg path:hover {
   height: auto;               /* do not stretch to full panel */
 }
 
-.legend-box {
-  display: inline-block;
-  width: 15px;
-  height: 15px;
-  margin-right: 6px;
-  vertical-align: middle;
+.legend-gradient {
+  width: 200px;
+  height: 14px;
+  border-radius: 4px;
+  background: linear-gradient(
+    to right,
+    #b71c1c,
+    #ef5350,
+    #ffd54f,
+    #aed581,
+    #66bb6a
+  );
 }
 
-.low { background: #ef9a9a; }
-.mid { background: #fff59d; }
-.high { background: #a5d6a7; }
+.legend-label {
+  font-size: 12px;
+  white-space: nowrap;
+}
 
 .legend-scale {
   display: flex;
