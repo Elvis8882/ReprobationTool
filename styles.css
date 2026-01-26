@@ -310,31 +310,24 @@ dialog::backdrop {
   display: none;
 }
 
-.sentiment-bar {
+.sentiment-bar-container {
   display: flex;
-  height: 20px;
   width: 100%;
-  margin-top: 4px;
-  border-radius: 4px;
+  height: 12px;
+  border-radius: 6px;
   overflow: hidden;
+  margin-top: 4px;
   background: #eee;
 }
 
-.bar {
+.sent-bar {
   height: 100%;
+  transition: width 0.5s;
 }
 
-.bar.positive {
-  background-color: #66bb6a;
-}
-
-.bar.neutral {
-  background-color: #ffee58;
-}
-
-.bar.negative {
-  background-color: #ef5350;
-}
+.sent-bar.positive { background: #66bb6a; }
+.sent-bar.neutral  { background: #ffee58; }
+.sent-bar.negative { background: #ef5350; }
 
 .spinner {
   width: 28px;
