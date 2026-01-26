@@ -76,6 +76,16 @@ svg path:hover {
   gap: 12px;
 }
 
+/* body of popup keeps header fixed, content flexes */
+.popup-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* vertical centering */
+  align-items: center;
+  min-height: 100px;       /* reserve enough space for spinner/data */
+  gap: 12px;
+}
+
 #popup button {
   margin-top: 10px;
   padding: 6px 12px;
@@ -286,9 +296,18 @@ dialog::backdrop {
   min-height: 80px; /* reserve space */
 }
 
-#popup-loading.hidden, #popup-data.hidden {
-  visibility: hidden; /* keep layout space reserved */
-  height: 0;
+/* spinner + text centered inside popup-body */
+#popup-loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+/* hide properly without removing layout */
+#popup-loading.hidden,
+#popup-data.hidden {
+  display: none;  /* okay since flex container reserves space */
 }
 
 .spinner {
