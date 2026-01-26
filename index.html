@@ -129,22 +129,38 @@
       <div id="popup-data" class="hidden">
         <p id="popup-error" class="hidden">No data available yet.</p>
         
-        <p><strong>Score:</strong> <span id="countryScore"></span></p>
-        <p id="countryTrend"></p>
-        <p id="countryAssessment"></p> <!-- NEW -->
-        <p><strong>Articles:</strong> <span id="countryArticles"></span></p>
-
-      <div id="sentiment" class="sentiment">
-        <p>Positive: <span id="sentPos"></span></p>
-        <p>Neutral: <span id="sentNeu"></span></p>
-        <p>Negative: <span id="sentNeg"></span></p>
-      
-        <div class="sentiment-bar-container">
-          <div id="sentPosBar" class="sent-bar positive"></div>
-          <div id="sentNeuBar" class="sent-bar neutral"></div>
-          <div id="sentNegBar" class="sent-bar negative"></div>
+        <div class="score-trend-row">
+          <p>
+            <strong>Score:</strong> 
+            <span id="countryScore"></span>
+            <span id="countryTrend" class="trend"></span>
+          </p>
         </div>
-      </div>
+
+        <p class="assessment">
+          <strong>Assessment:</strong>
+          <span id="countryAssessmentValue"></span>
+        </p>
+
+        <p class="article-line">
+          <span class="label">Articles:</span>
+          <span id="countryArticles" class="value"></span>
+        </p>
+
+
+        <div id="sentiment" class="sentiment">
+          <div class="sentiment-numbers">
+            <span id="sentPos" class="positive"></span>
+            <span id="sentNeu" class="neutral"></span>
+            <span id="sentNeg" class="negative"></span>
+          </div>
+          
+          <div class="sentiment-bar-container">
+            <div id="sentPosBar" class="sent-bar positive"></div>
+            <div id="sentNeuBar" class="sent-bar neutral"></div>
+            <div id="sentNegBar" class="sent-bar negative"></div>
+          </div>
+        </div>
 
         <small>Last updated: <span id="lastUpdated"></span></small>
       </div>
