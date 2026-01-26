@@ -66,6 +66,14 @@ svg path:hover {
   border-radius: 8px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.3);
   z-index: 1000;
+
+  /* reserve space for spinner + content to avoid jumps */
+  min-height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  gap: 12px;
 }
 
 #popup button {
@@ -269,12 +277,18 @@ dialog::backdrop {
   background: rgba(0, 0, 0, 0.4);
 }
 
-.popup-loading {
+#popup-loading, #popup-data {
+  /* take full width, center spinner/text */
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 0.6rem;
-  margin-top: 1rem;
+  min-height: 80px; /* reserve space */
+}
+
+#popup-loading.hidden, #popup-data.hidden {
+  visibility: hidden; /* keep layout space reserved */
+  height: 0;
 }
 
 .spinner {
