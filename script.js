@@ -196,16 +196,20 @@ async function openPopup(countryEl) {
   const countryName = countryEl.getAttribute("name") || code;
   titleEl.innerText = countryName;
 
+  // Reset previous content
+  dataEl.innerHTML = "";
+
   // Show overlay and spinner, hide data
   overlay.classList.remove("hidden");
   loadingEl.classList.remove("hidden");
   dataEl.classList.add("hidden");
 
-  await nextFrame(); // ensures spinner renders before delay
+  // Force browser paint so spinner is visible
+  await nextFrame();
 
   try {
-    // Cache-busting to force loading spinner every time
-    const res = await fetch(`./countries/${code}.json?${new Date().getTime()}`);
+    // Cache-busting query param ensures fresh fetch every time
+    const res = await fetch(`./countries/${code}.json?cacheBust=${Date.now()}`);
     if (!res.ok) throw new Error("No data");
 
     const data = await res.json();
@@ -237,22 +241,24 @@ async function openPopup(countryEl) {
 
     // Stacked bar percentages
     const totalSent = data.sentiment.positive + data.sentiment.neutral + data.sentiment.negative;
+    
     document.getElementById("sentPosBar").style.width = `${(data.sentiment.positive / totalSent) * 100}%`;
     document.getElementById("sentNeuBar").style.width = `${(data.sentiment.neutral / totalSent) * 100}%`;
     document.getElementById("sentNegBar").style.width = `${(data.sentiment.negative / totalSent) * 100}%`;
-
+    
     // Last updated
     document.getElementById("lastUpdated").innerText = new Date(data.last_updated).toLocaleString();
 
   } catch (err) {
-    // No data scenario: still show country name
+    // No data scenario: still show country name in header
     dataEl.innerHTML = "<p>No data available yet.</p>";
   } finally {
-    // Hide spinner, show data
+    // Hide spinner and show data
     loadingEl.classList.add("hidden");
     dataEl.classList.remove("hidden");
   }
 }
+
 
 function closePopup() {
   document.getElementById("overlay").classList.add("hidden");
