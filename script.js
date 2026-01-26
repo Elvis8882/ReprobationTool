@@ -191,6 +191,11 @@ async function openPopup(countryEl) {
   const loadingEl = document.getElementById("popup-loading");
   const dataEl = document.getElementById("popup-data");
   const titleEl = document.getElementById("popup-country-name");
+  const errorEl = document.getElementById("popup-error");
+
+  // reset visibility
+  errorEl.classList.add("hidden");
+  document.getElementById("sentiment").style.display = "";
 
   // Always show country name in header
   const countryName = countryEl.getAttribute("name") || code;
@@ -253,9 +258,15 @@ async function openPopup(countryEl) {
     document.getElementById("lastUpdated").innerText = new Date(data.last_updated).toLocaleString();
 
   } catch (err) {
-    // No data scenario: still show country name in header
-    dataEl.innerHTML = "<p>No data available yet.</p>";
-  } finally {
+  errorEl.classList.remove("hidden");
+
+  // hide data sections but keep DOM intact
+  document.getElementById("sentiment").style.display = "none";
+  document.getElementById("countryScore").innerText = "—";
+  document.getElementById("countryTrend").innerText = "";
+  document.getElementById("countryArticles").innerText = "—";
+  document.getElementById("lastUpdated").innerText = "—";
+} finally {
     // Hide spinner and show data
     loadingEl.classList.add("hidden");
     dataEl.classList.remove("hidden");
