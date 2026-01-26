@@ -218,7 +218,7 @@ function resetPopupData() {
   document.getElementById("countryScore").innerText = "";
   document.getElementById("countryTrend").innerText = "";
   document.getElementById("countryArticles").innerText = "";
-  document.getElementById("countryAssessment").innerText = "";
+  document.getElementById("countryAssessmentValue").innerText = ""; // updated ID
 
   document.getElementById("sentPos").innerText = "";
   document.getElementById("sentNeu").innerText = "";
@@ -232,6 +232,7 @@ function resetPopupData() {
     if (el) el.style.width = "0%";
   });
 }
+
 
 async function openPopup(countryEl) {
   const code = countryEl.id;
@@ -310,11 +311,15 @@ async function openPopup(countryEl) {
     const negBar = document.getElementById("sentNegBar");
     
     if (posBar && neuBar && negBar) {
-      const totalSent = data.sentiment.positive + data.sentiment.neutral + data.sentiment.negative;
+    const pos = data.sentiment.positive || 0;
+    const neu = data.sentiment.neutral || 0;
+    const neg = data.sentiment.negative || 0;
+    const totalSent = pos + neu + neg || 1; // avoid divide by zero
     
-      posBar.style.width = `${(data.sentiment.positive / totalSent) * 100}%`;
-      neuBar.style.width = `${(data.sentiment.neutral / totalSent) * 100}%`;
-      negBar.style.width = `${(data.sentiment.negative / totalSent) * 100}%`;
+    posBar.style.width = `${(pos / totalSent) * 100}%`;
+    neuBar.style.width = `${(neu / totalSent) * 100}%`;
+    negBar.style.width = `${(neg / totalSent) * 100}%`;
+
     }
 
     // Last updated
