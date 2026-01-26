@@ -80,10 +80,11 @@ svg path:hover {
 .popup-body {
   display: flex;
   flex-direction: column;
-  justify-content: center; /* vertical centering */
+  justify-content: center; /* center vertically */
   align-items: center;
-  min-height: 100px;       /* reserve enough space for spinner/data */
+  min-height: 120px;       /* space for spinner and text */
   gap: 12px;
+  text-align: center;
 }
 
 #popup button {
@@ -296,7 +297,6 @@ dialog::backdrop {
   min-height: 80px; /* reserve space */
 }
 
-/* spinner + text centered inside popup-body */
 #popup-loading {
   display: flex;
   flex-direction: column;
@@ -307,7 +307,7 @@ dialog::backdrop {
 /* hide properly without removing layout */
 #popup-loading.hidden,
 #popup-data.hidden {
-  display: none;  /* okay since flex container reserves space */
+  display: none;
 }
 
 .spinner {
