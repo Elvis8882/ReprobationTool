@@ -185,13 +185,17 @@ document.getElementById("calculate-score-btn").addEventListener("click", () => {
   }
 });
 
-
-
 async function openPopup(countryEl) {
   const code = countryEl.id;
 
-  document.getElementById("country-name").innerText = "Loading…";
-  document.getElementById("country-content").innerText = "";
+  document.getElementById("country-name").innerText = "Analyzing…";
+
+  const loadingEl = document.getElementById("popup-loading");
+  const dataEl = document.getElementById("popup-data");
+
+  loadingEl.classList.remove("hidden");
+  dataEl.classList.add("hidden");
+
   document.getElementById("overlay").classList.remove("hidden");
 
   try {
@@ -200,9 +204,12 @@ async function openPopup(countryEl) {
 
     const data = await res.json();
 
+    // Artificial delay (UX polish)
+    await delay(1500); // 👈 tweak: 800–2000ms feels good
+
     document.getElementById("country-name").innerText = data.country;
 
-    document.getElementById("country-content").innerHTML = `
+    dataEl.innerHTML = `
       <p><strong>Score:</strong> ${data.score}</p>
       <p><strong>Trend:</strong> ${data.trend.direction === "up" ? "▲" : "▼"} ${data.trend.delta}</p>
       <p><strong>Articles:</strong> ${data.articles}</p>
@@ -216,12 +223,16 @@ async function openPopup(countryEl) {
 
       <small>Last updated: ${new Date(data.last_updated).toLocaleString()}</small>
     `;
+
+    loadingEl.classList.add("hidden");
+    dataEl.classList.remove("hidden");
+
   } catch (err) {
-    document.getElementById("country-content").innerText =
-      "No data available yet.";
+    loadingEl.classList.add("hidden");
+    dataEl.classList.remove("hidden");
+    dataEl.innerText = "No data available yet.";
   }
 }
-
 
 function closePopup() {
   document.getElementById("overlay").classList.add("hidden");
@@ -293,4 +304,8 @@ function highlightMatch(text, query) {
   const regex = new RegExp(`(${safe})`, "ig");
 
   return text.replace(regex, "<mark>$1</mark>");
+}
+
+function delay(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
 }
