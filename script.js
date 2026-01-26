@@ -187,18 +187,41 @@ document.getElementById("calculate-score-btn").addEventListener("click", () => {
 
 
 
-function openPopup(countryEl) {
-  const name =
-    countryEl.getAttribute("name") ||
-    countryEl.getAttribute("title") ||
-    countryEl.id;
+async function openPopup(countryEl) {
+  const code = countryEl.id;
 
-  document.getElementById("country-name").innerText = name;
-  document.getElementById("country-content").innerText =
-    "Media score and insights coming soon.";
-
+  document.getElementById("country-name").innerText = "Loading…";
+  document.getElementById("country-content").innerText = "";
   document.getElementById("overlay").classList.remove("hidden");
+
+  try {
+    const res = await fetch(`./countries/${code}.json`);
+    if (!res.ok) throw new Error("No data");
+
+    const data = await res.json();
+
+    document.getElementById("country-name").innerText = data.country;
+
+    document.getElementById("country-content").innerHTML = `
+      <p><strong>Score:</strong> ${data.score}</p>
+      <p><strong>Trend:</strong> ${data.trend.direction === "up" ? "▲" : "▼"} ${data.trend.delta}</p>
+      <p><strong>Articles:</strong> ${data.articles}</p>
+
+      <p><strong>Sentiment</strong></p>
+      <ul>
+        <li>Positive: ${data.sentiment.positive}</li>
+        <li>Neutral: ${data.sentiment.neutral}</li>
+        <li>Negative: ${data.sentiment.negative}</li>
+      </ul>
+
+      <small>Last updated: ${new Date(data.last_updated).toLocaleString()}</small>
+    `;
+  } catch (err) {
+    document.getElementById("country-content").innerText =
+      "No data available yet.";
+  }
 }
+
 
 function closePopup() {
   document.getElementById("overlay").classList.add("hidden");
