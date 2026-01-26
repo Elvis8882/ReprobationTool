@@ -1,12 +1,23 @@
 const SELECTED_FILL = "#bbdefb"; // light blue
+const countryScores = {};
 
-const mockScores = {
-  DE: 72,
-  FR: 65,
-  IT: 48,
-  ES: 55,
-  PL: 60
-};
+async function loadCountryScores(countries) {
+  const tasks = Array.from(countries).map(async country => {
+    const code = country.id;
+
+    try {
+      const res = await fetch(`countries/${code}.json`);
+      if (!res.ok) return;
+
+      const data = await res.json();
+      countryScores[code] = data.score;
+    } catch {
+      // no JSON → ignore
+    }
+  });
+
+  await Promise.all(tasks);
+}
 
 function scoreToColor(score) {
   if (score >= 70) return "#66bb6a";
@@ -14,41 +25,40 @@ function scoreToColor(score) {
   return "#ef5350";
 }
 
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", async () => {
 
   const countries = document.querySelectorAll("svg path");
+  await loadCountryScores(countries);
   console.log("Countries found:", countries.length);
 
-  countries.forEach(country => {
+countries.forEach(country => {
 
-    // Tooltip from SVG attribute
-    const name = country.getAttribute("name");
-    if (name) {
-      country.setAttribute("title", name);
-    }
+  // Tooltip from SVG attribute
+  const name = country.getAttribute("name");
+  if (name) {
+    country.setAttribute("title", name);
+  }
 
-    // Color country
-    const score = mockScores[country.id];
-    if (score !== undefined) {
+  // Color country from JSON score
+  const score = countryScores[country.id];
+
+  if (score !== undefined) {
     const fill = scoreToColor(score);
     country.style.fill = fill;
     country.dataset.originalFill = fill;
     country.setAttribute("data-note", "scored");
-
-}
-
-    if (!country.dataset.originalFill) {
+  } else {
+    // preserve original SVG fill
     country.dataset.originalFill = country.style.fill || "";
   }
 
-
-    // Click popup
+  // Click popup
   country.addEventListener("click", () => {
-  highlightCountry(country.id);
-  setSelectedCountry(country); // updates legend + button
+    highlightCountry(country.id);
+    setSelectedCountry(country);
   });
+});
 
-  });
   const countryListEl = document.getElementById("country-list");
 
 const euCountries = [];
