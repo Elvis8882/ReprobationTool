@@ -127,8 +127,18 @@
       </div>
 
       <div id="popup-data" class="hidden">
-        <!-- populated by JS -->
+      <p><strong>Score:</strong> <span id="countryScore"></span></p>
+      <p><strong>Trend:</strong> <span id="countryTrend"></span></p>
+      <p><strong>Articles:</strong> <span id="countryArticles"></span></p>
+
+      <div id="sentiment" class="sentiment">
+      <p>Positive: <span id="sentPos"></span></p>
+      <p>Neutral: <span id="sentNeu"></span></p>
+      <p>Negative: <span id="sentNeg"></span></p>
       </div>
+
+  <small>Last updated: <span id="lastUpdated"></span></small>
+</div>
     </div>
 
     <button onclick="closePopup()">Close</button>
