@@ -197,7 +197,7 @@ async function openPopup(countryEl) {
   document.getElementById("overlay").classList.remove("hidden");
 
   // Show spinner
-  titleEl.innerText = "Analyzing media coverage…";
+  titleEl.innerText = "";
   loadingEl.classList.remove("hidden");
   dataEl.classList.add("hidden");
 
