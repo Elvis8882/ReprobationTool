@@ -192,30 +192,49 @@ async function openPopup(countryEl) {
   const loadingEl = document.getElementById("popup-loading");
   const dataEl = document.getElementById("popup-data");
 
-  titleEl.innerText = "Analyzing…";
+  // Show popup + spinner
+  document.getElementById("overlay").classList.remove("hidden");
   loadingEl.classList.remove("hidden");
   dataEl.classList.add("hidden");
+  titleEl.innerText = "Analyzing media coverage…";
 
-  document.getElementById("overlay").classList.remove("hidden");
-
-  // 👇 FORCE browser paint so spinner is visible
+  // Force browser paint
   await nextFrame();
 
   try {
+    // Attempt fetch
     const res = await fetch(`./countries/${code}.json`);
-    if (!res.ok) throw new Error("No data");
+    let data;
+    if (res.ok) {
+      data = await res.json();
+    } else if (mockScores[code] !== undefined) {
+      // fallback to mock data
+      data = {
+        country: countryEl.getAttribute("name") || code,
+        score: mockScores[code],
+        trend: { direction: "up", delta: 4 },
+        articles: 120,
+        sentiment: { positive: 50, neutral: 30, negative: 20 },
+        last_updated: new Date().toISOString()
+      };
+    } else {
+      throw new Error("No data");
+    }
 
-    const data = await res.json();
-
-    // Artificial UX delay
+    // Always show spinner for UX
     await delay(1500);
 
+    // Populate popup
     titleEl.innerText = data.country;
-
     dataEl.innerHTML = `
       <p><strong>Score:</strong> ${data.score}</p>
       <p><strong>Trend:</strong> ${data.trend.direction === "up" ? "▲" : "▼"} ${data.trend.delta}</p>
       <p><strong>Articles:</strong> ${data.articles}</p>
+      <ul>
+        <li>Positive: ${data.sentiment.positive}</li>
+        <li>Neutral: ${data.sentiment.neutral}</li>
+        <li>Negative: ${data.sentiment.negative}</li>
+      </ul>
       <small>Last updated: ${new Date(data.last_updated).toLocaleString()}</small>
     `;
 
@@ -228,6 +247,7 @@ async function openPopup(countryEl) {
     dataEl.innerText = "No data available yet.";
   }
 }
+
 
 function closePopup() {
   document.getElementById("overlay").classList.add("hidden");
