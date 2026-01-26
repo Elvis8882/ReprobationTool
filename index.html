@@ -131,18 +131,17 @@
         <p><strong>Trend:</strong> <span id="countryTrend"></span></p>
         <p><strong>Articles:</strong> <span id="countryArticles"></span></p>
 
-        <div id="sentiment" class="sentiment">
-          <p>Positive: <span id="sentPos"></span></p>
-          <p>Neutral: <span id="sentNeu"></span></p>
-          <p>Negative: <span id="sentNeg"></span></p>
-
-          <!-- stacked bar -->
-          <div class="sentiment-bar">
-            <div id="sentPosBar" class="bar positive"></div>
-            <div id="sentNeuBar" class="bar neutral"></div>
-            <div id="sentNegBar" class="bar negative"></div>
-          </div>
+      <div id="sentiment" class="sentiment">
+        <p>Positive: <span id="sentPos"></span></p>
+        <p>Neutral: <span id="sentNeu"></span></p>
+        <p>Negative: <span id="sentNeg"></span></p>
+      
+        <div class="sentiment-bar-container">
+          <div id="sentPosBar" class="sent-bar positive"></div>
+          <div id="sentNeuBar" class="sent-bar neutral"></div>
+          <div id="sentNegBar" class="sent-bar negative"></div>
         </div>
+      </div>
 
         <small>Last updated: <span id="lastUpdated"></span></small>
       </div>
