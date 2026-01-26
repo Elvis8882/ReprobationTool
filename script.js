@@ -196,9 +196,6 @@ async function openPopup(countryEl) {
   const countryName = countryEl.getAttribute("name") || code;
   titleEl.innerText = countryName;
 
-  // Reset previous content
-  dataEl.innerHTML = "";
-
   // Show overlay and spinner, hide data
   overlay.classList.remove("hidden");
   loadingEl.classList.remove("hidden");
