@@ -192,29 +192,25 @@ async function openPopup(countryEl) {
   const loadingEl = document.getElementById("popup-loading");    // spinner + text
   const dataEl = document.getElementById("popup-data");          // actual content
 
-  // --- SET HEADER IMMEDIATELY ---
   const countryName = countryEl.getAttribute("name") || countryEl.id;
-  titleEl.innerText = countryName;
+  titleEl.innerText = countryName;  // always show country name
 
-  // --- RESET POPUP ---
-  loadingEl.classList.remove("hidden"); // show spinner
-  dataEl.classList.add("hidden");       // hide data
-
+  // Show spinner, hide content
+  loadingEl.classList.remove("hidden");
+  dataEl.classList.add("hidden");
   document.getElementById("overlay").classList.remove("hidden");
 
-  // force browser to render spinner
-  await nextFrame();
+  await nextFrame(); // force render so spinner is visible
 
   try {
-    // fetch country JSON
     const res = await fetch(`./countries/${code}.json`);
     if (!res.ok) throw new Error("No data");
     const data = await res.json();
 
-    // artificial delay to simulate loading
+    // simulate delay
     await delay(1500);
 
-    // --- SHOW DATA ---
+    // populate content
     dataEl.innerHTML = `
       <p><strong>Score:</strong> ${data.score}</p>
       <p><strong>Trend:</strong> ${data.trend.direction === "up" ? "▲" : "▼"} ${data.trend.delta}</p>
@@ -222,17 +218,14 @@ async function openPopup(countryEl) {
       <small>Last updated: ${new Date(data.last_updated).toLocaleString()}</small>
     `;
 
-    loadingEl.classList.add("hidden");  // hide spinner
-    dataEl.classList.remove("hidden");  // show data
   } catch (err) {
+    dataEl.innerHTML = "<p>No data available yet.</p>";
+  } finally {
+    // hide spinner, show data
     loadingEl.classList.add("hidden");
     dataEl.classList.remove("hidden");
-    dataEl.innerText = "No data available yet.";
   }
 }
-
-
-
 
 function closePopup() {
   document.getElementById("overlay").classList.add("hidden");
