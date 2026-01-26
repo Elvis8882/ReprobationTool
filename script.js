@@ -209,7 +209,7 @@ async function openPopup(countryEl) {
 
   try {
     // Cache-busting query param ensures fresh fetch every time
-    const res = await fetch(`./countries/${code}.json?cacheBust=${Date.now()}`);
+    const res = await fetch(`countries/${code}.json?cacheBust=${Date.now()}`);
     if (!res.ok) throw new Error("No data");
 
     const data = await res.json();
