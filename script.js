@@ -187,45 +187,72 @@ document.getElementById("calculate-score-btn").addEventListener("click", () => {
 
 async function openPopup(countryEl) {
   const code = countryEl.id;
-  const titleEl = document.getElementById("popup-country-name");
+  const overlay = document.getElementById("overlay");
   const loadingEl = document.getElementById("popup-loading");
   const dataEl = document.getElementById("popup-data");
+  const titleEl = document.getElementById("popup-country-name");
 
-  const countryName = countryEl.getAttribute("name") || countryEl.id;
+  // Always show country name in header
+  const countryName = countryEl.getAttribute("name") || code;
   titleEl.innerText = countryName;
 
+  // Show overlay and spinner, hide data
+  overlay.classList.remove("hidden");
   loadingEl.classList.remove("hidden");
   dataEl.classList.add("hidden");
-  document.getElementById("overlay").classList.remove("hidden");
-  await nextFrame();
+
+  await nextFrame(); // ensures spinner renders before delay
 
   try {
+    // Cache-busting to force loading spinner every time
     const res = await fetch(`./countries/${code}.json?${new Date().getTime()}`);
     if (!res.ok) throw new Error("No data");
 
     const data = await res.json();
+
+    // Artificial UX delay
     await delay(1500);
 
-    // Populate fields
+    // Populate Score
     document.getElementById("countryScore").innerText = data.score;
-    document.getElementById("countryTrend").innerText = 
-      `${data.trend.direction === "up" ? "▲" : "▼"} ${data.trend.delta}`;
+
+    // Score color
+    const scoreP = document.getElementById("countryScore").parentElement;
+    if (data.score >= 70) scoreP.style.color = "#66bb6a";
+    else if (data.score >= 50) scoreP.style.color = "#ffee58";
+    else scoreP.style.color = "#ef5350";
+
+    // Trend
+    const trendEl = document.getElementById("countryTrend");
+    trendEl.innerText = `${data.trend.direction === "up" ? "▲" : "▼"} ${data.trend.delta}`;
+    trendEl.style.color = data.trend.direction === "up" ? "green" : "red";
+
+    // Articles
     document.getElementById("countryArticles").innerText = data.articles;
+
+    // Sentiment
     document.getElementById("sentPos").innerText = data.sentiment.positive;
     document.getElementById("sentNeu").innerText = data.sentiment.neutral;
     document.getElementById("sentNeg").innerText = data.sentiment.negative;
-    document.getElementById("lastUpdated").innerText = 
-      new Date(data.last_updated).toLocaleString();
+
+    // Stacked bar percentages
+    const totalSent = data.sentiment.positive + data.sentiment.neutral + data.sentiment.negative;
+    document.getElementById("sentPosBar").style.width = `${(data.sentiment.positive / totalSent) * 100}%`;
+    document.getElementById("sentNeuBar").style.width = `${(data.sentiment.neutral / totalSent) * 100}%`;
+    document.getElementById("sentNegBar").style.width = `${(data.sentiment.negative / totalSent) * 100}%`;
+
+    // Last updated
+    document.getElementById("lastUpdated").innerText = new Date(data.last_updated).toLocaleString();
 
   } catch (err) {
+    // No data scenario: still show country name
     dataEl.innerHTML = "<p>No data available yet.</p>";
   } finally {
+    // Hide spinner, show data
     loadingEl.classList.add("hidden");
     dataEl.classList.remove("hidden");
   }
 }
-
-
 
 function closePopup() {
   document.getElementById("overlay").classList.add("hidden");
