@@ -188,27 +188,28 @@ document.getElementById("calculate-score-btn").addEventListener("click", () => {
 async function openPopup(countryEl) {
   const code = countryEl.id;
 
+  const popup = document.getElementById("popup");
   const titleEl = document.getElementById("popup-country-name");
   const loadingEl = document.getElementById("popup-loading");
   const dataEl = document.getElementById("popup-data");
 
-  // Show popup + spinner
+  // Show overlay
   document.getElementById("overlay").classList.remove("hidden");
+
+  // Show spinner
+  titleEl.innerText = "Analyzing media coverage…";
   loadingEl.classList.remove("hidden");
   dataEl.classList.add("hidden");
-  titleEl.innerText = "Analyzing media coverage…";
 
-  // Force browser paint
-  await nextFrame();
+  await nextFrame(); // force paint
 
   try {
-    // Attempt fetch
     const res = await fetch(`./countries/${code}.json`);
     let data;
     if (res.ok) {
       data = await res.json();
     } else if (mockScores[code] !== undefined) {
-      // fallback to mock data
+      // fallback mock
       data = {
         country: countryEl.getAttribute("name") || code,
         score: mockScores[code],
@@ -221,10 +222,9 @@ async function openPopup(countryEl) {
       throw new Error("No data");
     }
 
-    // Always show spinner for UX
-    await delay(1500);
+    await delay(1500); // UX delay
 
-    // Populate popup
+    // Populate popup content
     titleEl.innerText = data.country;
     dataEl.innerHTML = `
       <p><strong>Score:</strong> ${data.score}</p>
@@ -247,6 +247,7 @@ async function openPopup(countryEl) {
     dataEl.innerText = "No data available yet.";
   }
 }
+
 
 
 function closePopup() {
