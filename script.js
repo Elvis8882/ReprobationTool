@@ -188,7 +188,6 @@ document.getElementById("calculate-score-btn").addEventListener("click", () => {
 async function openPopup(countryEl) {
   const code = countryEl.id;
 
-  const popup = document.getElementById("popup");
   const titleEl = document.getElementById("popup-country-name");
   const loadingEl = document.getElementById("popup-loading");
   const dataEl = document.getElementById("popup-data");
