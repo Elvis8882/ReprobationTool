@@ -317,14 +317,27 @@ dialog::backdrop {
   display: none;
 }
 
+.sentiment-numbers {
+  display: flex;
+  justify-content: space-between; /* spread numbers horizontally */
+  width: 100%;                    /* full width of popup */
+  margin-bottom: 4px;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.sentiment-numbers .positive { color: #66bb6a; }
+.sentiment-numbers .neutral  { color: #ffee58; }
+.sentiment-numbers .negative { color: #ef5350; }
+
 .sentiment-bar-container {
   display: flex;
-  width: 100%;
+  width: 100%;           /* almost full width like Close button */
   height: 12px;
   border-radius: 6px;
   overflow: hidden;
-  margin-top: 4px;
   background: #eee;
+  margin-bottom: 8px;
 }
 
 .sent-bar {
@@ -353,4 +366,60 @@ dialog::backdrop {
 
 .hidden {
   display: none;
+}
+
+#popup h2#popup-country-name {
+  text-align: center;       /* horizontally center the country name */
+  margin: 10px 0 20px 0;    /* spacing above and below */
+  font-size: 1.5em;         /* slightly larger than default */
+  font-weight: bold;         /* make it stand out */
+}
+.score-trend-row p {
+  display: flex;
+  align-items: center;   /* vertically center score and trend */
+  gap: 8px;              /* small space between score and trend */
+  font-size: 1.1em;      /* slightly bigger for visibility */
+  margin: 0;
+}
+
+.score-trend-row .trend {
+  font-weight: bold;
+}
+
+.score-trend-row .trend.up {
+  color: green;
+}
+
+.score-trend-row .trend.down {
+  color: red;
+}
+.assessment {
+  display: flex;
+  align-items: center;
+  gap: 6px;             /* space between header and value */
+  margin: 0;
+}
+
+.assessment strong {
+  color: black;          /* header always black */
+}
+
+#countryAssessmentValue {
+  font-weight: bold;     /* value bold for emphasis */
+}
+
+.article-line {
+  display: flex;
+  justify-content: flex-start; /* left-aligned */
+  align-items: center;
+  gap: 6px; /* space between label and value */
+}
+
+.article-line .label {
+  font-weight: bold;
+  color: black;
+}
+
+.article-line .value {
+  color: #1976d2; /* optional: make it distinct */
 }
