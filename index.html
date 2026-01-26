@@ -118,11 +118,14 @@
 <div id="overlay" class="hidden" onclick="closePopup()">
   <div id="popup" onclick="event.stopPropagation()">
     <h2 id="popup-country-name"></h2>
-    <p id="country-content"></p>
+    <div id="popup-loading" class="popup-loading hidden">
+      <div class="spinner"></div>
+      <p>Analyzing media coverage…</p>
+    </div>
+    <div id="popup-data" class="hidden"></div>
     <button onclick="closePopup()">Close</button>
   </div>
 </div>
-
 
 <div id="legend">
   <div class="legend-container">
@@ -162,15 +165,6 @@
   <small>Last updated: <span id="lastUpdated"></span></small>
 </dialog>
 
-<div id="popup-loading" class="popup-loading hidden">
-  <div class="spinner"></div>
-  <p>Analyzing media coverage…</p>
-</div>
-
-<div id="popup-data" class="hidden">
-  <!-- populated by JS -->
-</div>
- 
 
 <script src="script.js"></script>
 </body>
