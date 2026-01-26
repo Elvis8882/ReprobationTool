@@ -19,10 +19,29 @@ async function loadCountryScores(countries) {
   await Promise.all(tasks);
 }
 
+const SCORE_LEVELS = [
+  { min: 0,   max: 9,   label: "Damnation",            color: "#b71c1c" },
+  { min: 10,  max: 18,  label: "Excommunication",     color: "#c62828" },
+  { min: 19,  max: 27,  label: "Reprobation",         color: "#d32f2f" },
+  { min: 28,  max: 36,  label: "Strong Denunciation", color: "#e53935" },
+  { min: 37,  max: 45,  label: "Denunciation",        color: "#ef5350" },
+
+  { min: 46,  max: 54,  label: "Strong Reproach",     color: "#ffb74d" },
+  { min: 55,  max: 63,  label: "Reproach",            color: "#ffd54f" },
+
+  { min: 64,  max: 72,  label: "Extreme Disapproval", color: "#fff176" },
+  { min: 73,  max: 81,  label: "Strong Disapproval",  color: "#dce775" },
+  { min: 82,  max: 90,  label: "Disapproval",         color: "#aed581" },
+
+  { min: 91,  max: 100, label: "No Commentary",       color: "#66bb6a" }
+];
+
+function scoreToLevel(score) {
+  return SCORE_LEVELS.find(l => score >= l.min && score <= l.max);
+}
+
 function scoreToColor(score) {
-  if (score >= 70) return "#66bb6a";
-  if (score >= 50) return "#ffee58";
-  return "#ef5350";
+  return scoreToLevel(score)?.color || "#ccc";
 }
 
 document.addEventListener("DOMContentLoaded", async () => {
@@ -233,10 +252,19 @@ async function openPopup(countryEl) {
     document.getElementById("countryScore").innerText = data.score;
 
     // Score color
-    const scoreP = document.getElementById("countryScore").parentElement;
-    if (data.score >= 70) scoreP.style.color = "#66bb6a";
-    else if (data.score >= 50) scoreP.style.color = "#ffee58";
-    else scoreP.style.color = "#ef5350";
+    const level = scoreToLevel(data.score);
+    
+    const scoreEl = document.getElementById("countryScore");
+    const scoreP = scoreEl.parentElement;
+    
+    scoreEl.innerText = data.score;
+    scoreP.style.color = level.color;
+    
+    // Optional: show textual level
+    document.getElementById("countryTrend").insertAdjacentHTML(
+      "afterend",
+      `<p><strong>Assessment:</strong> ${level.label}</p>`
+    );
 
     // Trend
     const trendEl = document.getElementById("countryTrend");
