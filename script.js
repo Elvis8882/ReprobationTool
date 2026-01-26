@@ -283,14 +283,18 @@ async function openPopup(countryEl) {
     scoreP.style.color = level.color;
     
     // Optional: show textual level
-    const assessmentEl = document.getElementById("countryAssessment");
-    assessmentEl.innerText = `Assessment: ${level.label}`;
-    assessmentEl.style.color = level.color;
+    const assessmentValueEl = document.getElementById("countryAssessmentValue");
+    assessmentValueEl.innerText = level.label;
+    assessmentValueEl.style.color = level.color;
+
 
     // Trend
     const trendEl = document.getElementById("countryTrend");
-    trendEl.innerText = `${data.trend.direction === "up" ? "▲" : "▼"} ${data.trend.delta}`;
-    trendEl.style.color = data.trend.direction === "up" ? "green" : "red";
+    trendEl.innerText = `${data.trend.delta}`;
+    trendEl.classList.remove("up","down");
+    trendEl.classList.add(data.trend.direction === "up" ? "up" : "down");
+    trendEl.insertAdjacentText("afterbegin", data.trend.direction === "up" ? "▲ " : "▼ ");
+
 
     // Articles
     document.getElementById("countryArticles").innerText = data.articles;
