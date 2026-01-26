@@ -188,15 +188,18 @@ document.getElementById("calculate-score-btn").addEventListener("click", () => {
 async function openPopup(countryEl) {
   const code = countryEl.id;
 
-  document.getElementById("country-name").innerText = "Analyzing…";
-
+  const titleEl = document.getElementById("popup-country-name");
   const loadingEl = document.getElementById("popup-loading");
   const dataEl = document.getElementById("popup-data");
 
+  titleEl.innerText = "Analyzing…";
   loadingEl.classList.remove("hidden");
   dataEl.classList.add("hidden");
 
   document.getElementById("overlay").classList.remove("hidden");
+
+  // 👇 FORCE browser paint so spinner is visible
+  await nextFrame();
 
   try {
     const res = await fetch(`./countries/${code}.json`);
@@ -204,23 +207,15 @@ async function openPopup(countryEl) {
 
     const data = await res.json();
 
-    // Artificial delay (UX polish)
-    await delay(1500); // 👈 tweak: 800–2000ms feels good
+    // Artificial UX delay
+    await delay(1500);
 
-    document.getElementById("country-name").innerText = data.country;
+    titleEl.innerText = data.country;
 
     dataEl.innerHTML = `
       <p><strong>Score:</strong> ${data.score}</p>
       <p><strong>Trend:</strong> ${data.trend.direction === "up" ? "▲" : "▼"} ${data.trend.delta}</p>
       <p><strong>Articles:</strong> ${data.articles}</p>
-
-      <p><strong>Sentiment</strong></p>
-      <ul>
-        <li>Positive: ${data.sentiment.positive}</li>
-        <li>Neutral: ${data.sentiment.neutral}</li>
-        <li>Negative: ${data.sentiment.negative}</li>
-      </ul>
-
       <small>Last updated: ${new Date(data.last_updated).toLocaleString()}</small>
     `;
 
@@ -309,3 +304,8 @@ function highlightMatch(text, query) {
 function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
+
+function nextFrame() {
+  return new Promise(resolve => requestAnimationFrame(resolve));
+}
+
