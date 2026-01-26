@@ -192,40 +192,39 @@ async function openPopup(countryEl) {
   const dataEl = document.getElementById("popup-data");
 
   const countryName = countryEl.getAttribute("name") || countryEl.id;
-  titleEl.innerText = countryName;  // always show header
+  titleEl.innerText = countryName;
 
-  // Show spinner, hide content
   loadingEl.classList.remove("hidden");
   dataEl.classList.add("hidden");
   document.getElementById("overlay").classList.remove("hidden");
-
-  // Force the browser to render the spinner (for the UX effect)
   await nextFrame();
 
   try {
-    // Cache busting with a timestamp
     const res = await fetch(`./countries/${code}.json?${new Date().getTime()}`);
     if (!res.ok) throw new Error("No data");
 
     const data = await res.json();
+    await delay(1500);
 
-    // Artificial UX delay to simulate loading
-    await delay(1500); 
+    // Populate fields
+    document.getElementById("countryScore").innerText = data.score;
+    document.getElementById("countryTrend").innerText = 
+      `${data.trend.direction === "up" ? "▲" : "▼"} ${data.trend.delta}`;
+    document.getElementById("countryArticles").innerText = data.articles;
+    document.getElementById("sentPos").innerText = data.sentiment.positive;
+    document.getElementById("sentNeu").innerText = data.sentiment.neutral;
+    document.getElementById("sentNeg").innerText = data.sentiment.negative;
+    document.getElementById("lastUpdated").innerText = 
+      new Date(data.last_updated).toLocaleString();
 
-    dataEl.innerHTML = `
-      <p><strong>Score:</strong> ${data.score}</p>
-      <p><strong>Trend:</strong> ${data.trend.direction === "up" ? "▲" : "▼"} ${data.trend.delta}</p>
-      <p><strong>Articles:</strong> ${data.articles}</p>
-      <small>Last updated: ${new Date(data.last_updated).toLocaleString()}</small>
-    `;
   } catch (err) {
     dataEl.innerHTML = "<p>No data available yet.</p>";
   } finally {
-    // Hide spinner, show content
     loadingEl.classList.add("hidden");
     dataEl.classList.remove("hidden");
   }
 }
+
 
 
 function closePopup() {
