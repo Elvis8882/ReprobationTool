@@ -194,19 +194,23 @@ async function openPopup(countryEl) {
   const countryName = countryEl.getAttribute("name") || countryEl.id;
   titleEl.innerText = countryName;  // always show header
 
-  // show spinner, hide content
+  // Show spinner, hide content
   loadingEl.classList.remove("hidden");
   dataEl.classList.add("hidden");
   document.getElementById("overlay").classList.remove("hidden");
 
-  await nextFrame(); // force render
+  // Force the browser to render the spinner (for the UX effect)
+  await nextFrame();
 
   try {
-    const res = await fetch(`./countries/${code}.json`);
+    // Cache busting with a timestamp
+    const res = await fetch(`./countries/${code}.json?${new Date().getTime()}`);
     if (!res.ok) throw new Error("No data");
+
     const data = await res.json();
 
-    await delay(1500); // UX delay
+    // Artificial UX delay to simulate loading
+    await delay(1500); 
 
     dataEl.innerHTML = `
       <p><strong>Score:</strong> ${data.score}</p>
@@ -217,10 +221,12 @@ async function openPopup(countryEl) {
   } catch (err) {
     dataEl.innerHTML = "<p>No data available yet.</p>";
   } finally {
+    // Hide spinner, show content
     loadingEl.classList.add("hidden");
     dataEl.classList.remove("hidden");
   }
 }
+
 
 function closePopup() {
   document.getElementById("overlay").classList.add("hidden");
