@@ -127,23 +127,31 @@
       </div>
 
       <div id="popup-data" class="hidden">
-      <p><strong>Score:</strong> <span id="countryScore"></span></p>
-      <p><strong>Trend:</strong> <span id="countryTrend"></span></p>
-      <p><strong>Articles:</strong> <span id="countryArticles"></span></p>
+        <p><strong>Score:</strong> <span id="countryScore"></span></p>
+        <p><strong>Trend:</strong> <span id="countryTrend"></span></p>
+        <p><strong>Articles:</strong> <span id="countryArticles"></span></p>
 
-      <div id="sentiment" class="sentiment">
-      <p>Positive: <span id="sentPos"></span></p>
-      <p>Neutral: <span id="sentNeu"></span></p>
-      <p>Negative: <span id="sentNeg"></span></p>
+        <div id="sentiment" class="sentiment">
+          <p>Positive: <span id="sentPos"></span></p>
+          <p>Neutral: <span id="sentNeu"></span></p>
+          <p>Negative: <span id="sentNeg"></span></p>
+
+          <!-- stacked bar -->
+          <div class="sentiment-bar">
+            <div id="sentPosBar" class="bar positive"></div>
+            <div id="sentNeuBar" class="bar neutral"></div>
+            <div id="sentNegBar" class="bar negative"></div>
+          </div>
+        </div>
+
+        <small>Last updated: <span id="lastUpdated"></span></small>
       </div>
-
-  <small>Last updated: <span id="lastUpdated"></span></small>
-</div>
     </div>
 
     <button onclick="closePopup()">Close</button>
   </div>
 </div>
+
 
 <div id="legend">
   <div class="legend-container">
