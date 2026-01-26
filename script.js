@@ -214,6 +214,25 @@ document.getElementById("calculate-score-btn").addEventListener("click", () => {
   }
 });
 
+function resetPopupData() {
+  document.getElementById("countryScore").innerText = "";
+  document.getElementById("countryTrend").innerText = "";
+  document.getElementById("countryArticles").innerText = "";
+  document.getElementById("countryAssessment").innerText = "";
+
+  document.getElementById("sentPos").innerText = "";
+  document.getElementById("sentNeu").innerText = "";
+  document.getElementById("sentNeg").innerText = "";
+
+  document.getElementById("lastUpdated").innerText = "";
+
+  // Reset sentiment bars
+  ["sentPosBar", "sentNeuBar", "sentNegBar"].forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.style.width = "0%";
+  });
+}
+
 async function openPopup(countryEl) {
   const code = countryEl.id;
   const overlay = document.getElementById("overlay");
@@ -229,6 +248,9 @@ async function openPopup(countryEl) {
   // Always show country name in header
   const countryName = countryEl.getAttribute("name") || code;
   titleEl.innerText = countryName;
+
+  // RESET PREVIOUS STATE
+  resetPopupData();
 
   // Show overlay and spinner, hide data
   overlay.classList.remove("hidden");
@@ -261,10 +283,9 @@ async function openPopup(countryEl) {
     scoreP.style.color = level.color;
     
     // Optional: show textual level
-    document.getElementById("countryTrend").insertAdjacentHTML(
-      "afterend",
-      `<p><strong>Assessment:</strong> ${level.label}</p>`
-    );
+    const assessmentEl = document.getElementById("countryAssessment");
+    assessmentEl.innerText = `Assessment: ${level.label}`;
+    assessmentEl.style.color = level.color;
 
     // Trend
     const trendEl = document.getElementById("countryTrend");
