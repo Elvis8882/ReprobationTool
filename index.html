@@ -118,11 +118,19 @@
 <div id="overlay" class="hidden" onclick="closePopup()">
   <div id="popup" onclick="event.stopPropagation()">
     <h2 id="popup-country-name"></h2>
-    <div id="popup-loading" class="popup-loading hidden">
-      <div class="spinner"></div>
-      <p>Analyzing media coverage…</p>
+
+    <!-- new flex wrapper -->
+    <div id="popup-body" class="popup-body">
+      <div id="popup-loading" class="popup-loading hidden">
+        <div class="spinner"></div>
+        <p>Analyzing media coverage…</p>
+      </div>
+
+      <div id="popup-data" class="hidden">
+        <!-- populated by JS -->
+      </div>
     </div>
-    <div id="popup-data" class="hidden"></div>
+
     <button onclick="closePopup()">Close</button>
   </div>
 </div>
