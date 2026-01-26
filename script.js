@@ -187,41 +187,36 @@ document.getElementById("calculate-score-btn").addEventListener("click", () => {
 
 async function openPopup(countryEl) {
   const code = countryEl.id;
-
-  const titleEl = document.getElementById("popup-country-name"); // header
-  const loadingEl = document.getElementById("popup-loading");    // spinner + text
-  const dataEl = document.getElementById("popup-data");          // actual content
+  const titleEl = document.getElementById("popup-country-name");
+  const loadingEl = document.getElementById("popup-loading");
+  const dataEl = document.getElementById("popup-data");
 
   const countryName = countryEl.getAttribute("name") || countryEl.id;
-  titleEl.innerText = countryName;  // always show country name
+  titleEl.innerText = countryName;  // always show header
 
-  // Show spinner, hide content
+  // show spinner, hide content
   loadingEl.classList.remove("hidden");
   dataEl.classList.add("hidden");
   document.getElementById("overlay").classList.remove("hidden");
 
-  await nextFrame(); // force render so spinner is visible
+  await nextFrame(); // force render
 
   try {
     const res = await fetch(`./countries/${code}.json`);
     if (!res.ok) throw new Error("No data");
     const data = await res.json();
 
-    // simulate delay
-    await delay(1500);
+    await delay(1500); // UX delay
 
-    // populate content
     dataEl.innerHTML = `
       <p><strong>Score:</strong> ${data.score}</p>
       <p><strong>Trend:</strong> ${data.trend.direction === "up" ? "▲" : "▼"} ${data.trend.delta}</p>
       <p><strong>Articles:</strong> ${data.articles}</p>
       <small>Last updated: ${new Date(data.last_updated).toLocaleString()}</small>
     `;
-
   } catch (err) {
     dataEl.innerHTML = "<p>No data available yet.</p>";
   } finally {
-    // hide spinner, show data
     loadingEl.classList.add("hidden");
     dataEl.classList.remove("hidden");
   }
