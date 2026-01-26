@@ -234,18 +234,24 @@ async function openPopup(countryEl) {
     // Articles
     document.getElementById("countryArticles").innerText = data.articles;
 
-    // Sentiment
+    // Sentiment text
     document.getElementById("sentPos").innerText = data.sentiment.positive;
     document.getElementById("sentNeu").innerText = data.sentiment.neutral;
     document.getElementById("sentNeg").innerText = data.sentiment.negative;
+    
+    // Stacked bar percentages (only if elements exist)
+    const posBar = document.getElementById("sentPosBar");
+    const neuBar = document.getElementById("sentNeuBar");
+    const negBar = document.getElementById("sentNegBar");
+    
+    if (posBar && neuBar && negBar) {
+      const totalSent = data.sentiment.positive + data.sentiment.neutral + data.sentiment.negative;
+    
+      posBar.style.width = `${(data.sentiment.positive / totalSent) * 100}%`;
+      neuBar.style.width = `${(data.sentiment.neutral / totalSent) * 100}%`;
+      negBar.style.width = `${(data.sentiment.negative / totalSent) * 100}%`;
+    }
 
-    // Stacked bar percentages
-    const totalSent = data.sentiment.positive + data.sentiment.neutral + data.sentiment.negative;
-    
-    document.getElementById("sentPosBar").style.width = `${(data.sentiment.positive / totalSent) * 100}%`;
-    document.getElementById("sentNeuBar").style.width = `${(data.sentiment.neutral / totalSent) * 100}%`;
-    document.getElementById("sentNegBar").style.width = `${(data.sentiment.negative / totalSent) * 100}%`;
-    
     // Last updated
     document.getElementById("lastUpdated").innerText = new Date(data.last_updated).toLocaleString();
 
