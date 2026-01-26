@@ -257,3 +257,15 @@ main, aside {
   background: #bbdefb;
   font-weight: bold;
 }
+
+dialog {
+  border: none;
+  border-radius: 8px;
+  padding: 1.2rem;
+  width: 300px;
+}
+
+dialog::backdrop {
+  background: rgba(0, 0, 0, 0.4);
+}
+
