@@ -188,64 +188,49 @@ document.getElementById("calculate-score-btn").addEventListener("click", () => {
 async function openPopup(countryEl) {
   const code = countryEl.id;
 
-  const titleEl = document.getElementById("popup-country-name");
-  const loadingEl = document.getElementById("popup-loading");
-  const dataEl = document.getElementById("popup-data");
+  const titleEl = document.getElementById("popup-country-name"); // header
+  const loadingEl = document.getElementById("popup-loading");    // spinner + text
+  const dataEl = document.getElementById("popup-data");          // actual content
 
-  // Show overlay
+  // --- SET HEADER IMMEDIATELY ---
+  const countryName = countryEl.getAttribute("name") || countryEl.id;
+  titleEl.innerText = countryName;
+
+  // --- RESET POPUP ---
+  loadingEl.classList.remove("hidden"); // show spinner
+  dataEl.classList.add("hidden");       // hide data
+
   document.getElementById("overlay").classList.remove("hidden");
 
-  // Show spinner
-  titleEl.innerText = "";
-  loadingEl.classList.remove("hidden");
-  dataEl.classList.add("hidden");
-
-  await nextFrame(); // force paint
+  // force browser to render spinner
+  await nextFrame();
 
   try {
+    // fetch country JSON
     const res = await fetch(`./countries/${code}.json`);
-    let data;
-    if (res.ok) {
-      data = await res.json();
-    } else if (mockScores[code] !== undefined) {
-      // fallback mock
-      data = {
-        country: countryEl.getAttribute("name") || code,
-        score: mockScores[code],
-        trend: { direction: "up", delta: 4 },
-        articles: 120,
-        sentiment: { positive: 50, neutral: 30, negative: 20 },
-        last_updated: new Date().toISOString()
-      };
-    } else {
-      throw new Error("No data");
-    }
+    if (!res.ok) throw new Error("No data");
+    const data = await res.json();
 
-    await delay(1500); // UX delay
+    // artificial delay to simulate loading
+    await delay(1500);
 
-    // Populate popup content
-    titleEl.innerText = data.country;
+    // --- SHOW DATA ---
     dataEl.innerHTML = `
       <p><strong>Score:</strong> ${data.score}</p>
       <p><strong>Trend:</strong> ${data.trend.direction === "up" ? "▲" : "▼"} ${data.trend.delta}</p>
       <p><strong>Articles:</strong> ${data.articles}</p>
-      <ul>
-        <li>Positive: ${data.sentiment.positive}</li>
-        <li>Neutral: ${data.sentiment.neutral}</li>
-        <li>Negative: ${data.sentiment.negative}</li>
-      </ul>
       <small>Last updated: ${new Date(data.last_updated).toLocaleString()}</small>
     `;
 
-    loadingEl.classList.add("hidden");
-    dataEl.classList.remove("hidden");
-
+    loadingEl.classList.add("hidden");  // hide spinner
+    dataEl.classList.remove("hidden");  // show data
   } catch (err) {
     loadingEl.classList.add("hidden");
     dataEl.classList.remove("hidden");
     dataEl.innerText = "No data available yet.";
   }
 }
+
 
 
 
