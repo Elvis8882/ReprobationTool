@@ -196,21 +196,26 @@ async function openPopup(countryEl) {
       const neuNum = document.getElementById("sentNeu");
       const negNum = document.getElementById("sentNeg");
       
-      const pos = data.sentiment.positive || 0;
-      const neu = data.sentiment.neutral || 0;
-      const neg = data.sentiment.negative || 0;
+      if (posBar && neuBar && negBar) {
+        const pos = data.sentiment.positive || 0;
+        const neu = data.sentiment.neutral || 0;
+        const neg = data.sentiment.negative || 0;
+        const total = pos + neu + neg || 1;
       
-      const total = pos + neu + neg || 1;
+        // set bar widths
+        posBar.style.width = `${(pos / total) * 100}%`;
+        neuBar.style.width = `${(neu / total) * 100}%`;
+        negBar.style.width = `${(neg / total) * 100}%`;
       
-      /* proportional widths */
-      posBar.style.width = `${(pos / total) * 100}%`;
-      neuBar.style.width = `${(neu / total) * 100}%`;
-      negBar.style.width = `${(neg / total) * 100}%`;
+        // set numbers above proportionally (width = bar width)
+        posNum.style.flexBasis = `${(pos / total) * 100}%`;
+        neuNum.style.flexBasis = `${(neu / total) * 100}%`;
+        negNum.style.flexBasis = `${(neg / total) * 100}%`;
       
-      /* numbers */
-      posNum.textContent = pos;
-      neuNum.textContent = neu;
-      negNum.textContent = neg;
+        posNum.innerText = pos;
+        neuNum.innerText = neu;
+        negNum.innerText = neg;
+      }
 
     document.getElementById("lastUpdated").innerText =
       new Date(data.last_updated).toLocaleString();
