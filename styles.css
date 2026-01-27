@@ -421,37 +421,42 @@ dialog::backdrop {
   display: none;
 }
 
+#sentiment {
+  display: flex;
+  gap: 4px;
+  width: 100%;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
 /* Color of numbers matches bars */
 .sentiment-number.positive { color: #66bb6a; }
 .sentiment-number.neutral  { color: #ffee58; }
 .sentiment-number.negative { color: #ef5350; }
 
-/* Sentiment wrapper full width */
-.sentiment-bar-container {
-  display: flex;
-  gap: 4px;
-  width: 100%;      /* stretch almost full popup width */
-  height: 16px;     /* bar height */
+.sentiment-bar-container,
+.sent-bar {
+  width: 100%;  /* full width of item */
+  height: 12px;
+  border-radius: 6px;
+  background: #eee;
+  overflow: hidden;
 }
 
 .sentiment-item {
   display: flex;
   flex-direction: column;
   align-items: center;
-  flex: 1;          /* each bar takes equal width */
+  flex: 1; /* each item takes equal width */
 }
 
 .sentiment-number {
-  font-size: 0.85rem;
   font-weight: bold;
   margin-bottom: 2px;
-  display: block;
 }
 
 .sent-bar {
-  width: 100%;          /* full width of each item */
-  height: 16px;
-  border-radius: 4px;
+  height: 100%;
   transition: width 0.5s;
 }
 
@@ -498,11 +503,17 @@ dialog::backdrop {
   color: black;         /* header text always black */
 }
 
-.score-trend-row .score-value,
+.score-trend-row,
 .assessment span {
   color: #1976d2;       /* or same as Assessment value */
   font-weight: bold;
 }
+
+#countryScore {
+  font-weight: bold;
+  color: inherit; /* inherit color from JS or parent if dynamic */
+}
+
 
 .score-trend-row .trend {
   font-weight: bold;
