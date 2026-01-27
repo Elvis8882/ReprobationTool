@@ -188,31 +188,31 @@ async function openPopup(countryEl) {
 
     document.getElementById("countryArticles").innerText = data.articles;
 
-    const posBar = document.getElementById("sentPosBar");
-    const neuBar = document.getElementById("sentNeuBar");
-    const negBar = document.getElementById("sentNegBar");
-
-    if (posBar && neuBar && negBar) {
-      const pos = data.sentiment.positive || 0;
-      const neu = data.sentiment.neutral || 0;
-      const neg = data.sentiment.negative || 0;
-      const total = pos + neu + neg || 1;
-
-      document.getElementById("sentPosBar").style.width = `${(pos / total) * 100}%`;
-      document.getElementById("sentNeuBar").style.width = `${(neu / total) * 100}%`;
-      document.getElementById("sentNegBar").style.width = `${(neg / total) * 100}%`;
+      const posBar = document.getElementById("sentPosBar");
+      const neuBar = document.getElementById("sentNeuBar");
+      const negBar = document.getElementById("sentNegBar");
       
-            // numbers above bars
-      document.getElementById("sentPos").innerText = pos;
-      document.getElementById("sentNeu").innerText = neu;
-      document.getElementById("sentNeg").innerText = neg;
+      const posNum = document.getElementById("sentPos");
+      const neuNum = document.getElementById("sentNeu");
+      const negNum = document.getElementById("sentNeg");
       
-      // color numbers same as bars
-      document.getElementById("sentPos").style.color = "#66bb6a";
-      document.getElementById("sentNeu").style.color = "#ffee58";
-      document.getElementById("sentNeg").style.color = "#ef5350";
-             
-    }
+      if (posBar && neuBar && negBar) {
+        const pos = data.sentiment.positive || 0;
+        const neu = data.sentiment.neutral || 0;
+        const neg = data.sentiment.negative || 0;
+        const total = pos + neu + neg || 1;
+      
+        /* proportional widths */
+        posBar.style.width = `${(pos / total) * 100}%`;
+        neuBar.style.width = `${(neu / total) * 100}%`;
+        negBar.style.width = `${(neg / total) * 100}%`;
+      
+        /* numbers above bars */
+        posNum.innerText = pos;
+        neuNum.innerText = neu;
+        negNum.innerText = neg;
+      }
+
 
     document.getElementById("lastUpdated").innerText =
       new Date(data.last_updated).toLocaleString();
