@@ -554,3 +554,13 @@ dialog::backdrop {
 .article-line .value {
   color: #1976d2; /* optional: make it distinct */
 }
+
+#tooltip {
+  transition: opacity 0.15s ease;
+  opacity: 0;
+}
+
+#tooltip.show {
+  opacity: 1;
+}
+
