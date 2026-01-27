@@ -450,3 +450,31 @@ mapContainer.parentElement.addEventListener('wheel', panzoom.zoomWithWheel);
 document.getElementById("zoom-in").addEventListener("click", () => panzoom.zoomIn());
 document.getElementById("zoom-out").addEventListener("click", () => panzoom.zoomOut());
 
+/* =========================
+   Custom Tooltip
+========================= */
+
+const tooltip = document.getElementById("tooltip");
+
+const bars = [
+  {el: posBar, label: "Positive", color: "#66bb6a", value: pos},
+  {el: neuBar, label: "Neutral",  color: "#ffee58", value: neu},
+  {el: negBar, label: "Negative", color: "#ef5350", value: neg},
+];
+
+bars.forEach(b => {
+  b.el.addEventListener("mouseenter", () => {
+    tooltip.innerHTML = `<span style="color:${b.color}; font-weight:bold;">${b.label}: ${b.value}</span>`;
+    tooltip.style.display = "block";
+  });
+
+  b.el.addEventListener("mousemove", e => {
+    tooltip.style.left = e.pageX + 10 + "px";  // offset from mouse
+    tooltip.style.top  = e.pageY + 10 + "px";
+  });
+
+  b.el.addEventListener("mouseleave", () => {
+    tooltip.style.display = "none";
+  });
+});
+
