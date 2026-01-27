@@ -452,8 +452,11 @@ dialog::backdrop {
 .sentiment-bar-container {
   display: flex;
   width: 100%;
-  gap: 0;              /* bars touch each other */
+  align-items: flex-end;  /* 🔑 bars align together */
+  overflow: hidden;      /* smooth single-bar look */
+  border-radius: 8px;
 }
+
 
 .sent-bar {
   width: 100%;
