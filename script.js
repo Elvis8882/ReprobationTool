@@ -464,17 +464,25 @@ const bars = [
 
 bars.forEach(b => {
   b.el.addEventListener("mouseenter", () => {
-    tooltip.innerHTML = `<span style="color:${b.color}; font-weight:bold;">${b.label}: ${b.value}</span>`;
+    tooltip.innerHTML = `
+      <div style="display:flex; align-items:center; gap:6px;">
+        <div style="width:12px; height:12px; background:${b.color}; border-radius:50%;"></div>
+        <span><strong>${b.label}:</strong> ${b.value}</span>
+      </div>
+    `;
     tooltip.style.display = "block";
+    tooltip.classList.add("show"); // fade-in effect
   });
 
   b.el.addEventListener("mousemove", e => {
-    tooltip.style.left = e.pageX + 10 + "px";  // offset from mouse
+    tooltip.style.left = e.pageX + 10 + "px"; // offset so it doesn’t block cursor
     tooltip.style.top  = e.pageY + 10 + "px";
   });
 
   b.el.addEventListener("mouseleave", () => {
+    tooltip.classList.remove("show");  // fade-out effect
     tooltip.style.display = "none";
   });
 });
+
 
