@@ -173,8 +173,7 @@ async function openPopup(countryEl) {
     const scoreP = scoreEl.parentElement;
 
     scoreEl.innerText = data.score;
-    scoreP.style.color = level.color;
-     scoreEl.style.fontWeight = "bold"; 
+      scoreEl.style.fontWeight = "bold"; 
 
     const assessmentValueEl = document.getElementById("countryAssessmentValue");
     assessmentValueEl.innerText = level.label;
