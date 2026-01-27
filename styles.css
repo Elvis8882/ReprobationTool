@@ -1,0 +1,425 @@
+/* 1. Reset margins and paddings to avoid page scroll */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column; /* vertical layout */
+}
+
+/* 2. Header and subtitle */
+header {
+  margin: 1px 0;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+#subtitle {
+  text-align: center;
+  font-size: 0.85rem;
+  color: #555;
+  margin-bottom: 2px;
+}
+
+svg path {
+  fill: #cfd8dc;
+  stroke: #455a64;
+  stroke-width: 0.5;
+  cursor: pointer;
+  pointer-events: all;
+  transition: fill 0.2s ease, stroke-width 0.2s ease;
+}
+
+
+/* Hover without destroying score colors */
+svg path:hover {
+  fill-opacity: 0.85;
+}
+
+#overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.4);
+  z-index: 999;
+  pointer-events: auto;
+}
+
+#overlay.hidden {
+  display: none;
+  pointer-events: none;
+}
+
+#popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 300px;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+  z-index: 1000;
+
+  /* reserve space for spinner + content to avoid jumps */
+  min-height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  gap: 12px;
+}
+
+/* body of popup keeps header fixed, content flexes */
+.popup-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;       /* horizontal centering */
+  justify-content: center;   /* vertical centering of spinner/data */
+  min-height: 150px;         /* ensures spinner is visually centered */
+}
+
+#popup button {
+  margin-top: 10px;
+  padding: 6px 12px;
+  border: none;
+  background: #1976d2;
+  color: white;
+  cursor: pointer;
+}
+
+#legend {
+  display: flex;
+  align-items: center;        /* vertical centering inside legend */
+  gap: 40px;                  /* space between scores and selection */
+  padding-left: 12px;
+  height: auto;               /* do not stretch to full panel */
+}
+
+.legend-gradient {
+  width: 200px;
+  height: 14px;
+  border-radius: 4px;
+  background: linear-gradient(
+    to right,
+    #b71c1c,
+    #ef5350,
+    #ffd54f,
+    #aed581,
+    #66bb6a
+  );
+}
+
+.legend-label {
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.legend-scale {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Horizontal layout of boxes + selection/button */
+.legend-container {
+  display: flex;
+  align-items: center;      /* vertical center inside container */
+  justify-content: flex-start; /* keep boxes left-aligned */
+  gap: 40px;                /* space between left and right parts */
+  width: 100%;
+}
+
+.legend-selection {
+  display: flex;
+  align-items: center;        /* vertical center inside legend container */
+  justify-content: center;    /* horizontal centering inside its own width */
+  gap: 8px;
+}
+
+#calculate-score-btn {
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+#calculate-score-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* Highlight selected country on map */
+svg path.active {
+  fill: #90caf9; /* light blue */
+  fill-opacity: 1;
+}
+
+/* Hover without overriding selected fill */
+svg path:hover {
+  fill-opacity: 0.85;
+}
+
+#layout {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  flex: 1 1 auto;  /* grow to fill remaining space */
+  gap: 10px;
+  padding: 0 10px;
+  min-height: 0;   /* crucial: allows children to scroll */
+  overflow: hidden;   /* prevent grid from growing */
+}
+
+/* 4. Panels fill grid cells */
+main, aside {
+  background: #f5f5f5;
+  padding: 10px;
+  border-radius: 6px;
+  height: 100%;
+  min-height: 0;  /* crucial for scrollable children inside flex/grid */
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+/* LEFT PANEL */
+#news-panel {
+  overflow-y: auto; /* scroll if content exceeds panel height */
+  padding: 16px;    /* add some breathing room inside panel */
+}
+
+#news-panel h3 {
+  text-align: center;
+  margin: 16px 0;
+  width: 100%;
+}
+
+#news-panel .placeholder {
+  color: #777;
+  font-style: italic;
+}
+
+/* CENTER MAP */
+#map-panel {
+  justify-content: center;
+  align-items: center;
+  overflow: hidden; /* map only */
+}
+
+#map-container {
+  width: 100%;
+  height: 100%;
+}
+#map-container svg {
+  width: 100%;
+  height: 100%;
+}
+
+/* RIGHT PANEL */
+#country-panel {
+  overflow-y: auto; /* scroll if content exceeds panel height */
+  padding: 16px;    /* add some breathing room inside panel */
+}
+
+#country-panel h3 {
+  text-align: center;
+  margin: 16px 0;
+  width: 100%;
+}
+
+.panel-divider {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 12px 0;
+}
+
+#country-filter {
+  width: 100%;
+  padding: 6px 10px;
+  margin-bottom: 8px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+#country-list {
+  list-style: none;
+}
+
+#country-list li.country-section {
+  font-weight: bold;
+  margin-top: 20px;    /* more space above section */
+  margin-bottom: 10px; /* more space below section */
+  cursor: default;
+  color: #555;
+  font-size: 1rem;
+}
+
+#country-list li:not(.country-section) {
+  padding: 6px 12px;      /* makes click area larger */
+  margin-bottom: 4px;      /* space between countries */
+  border-radius: 4px;      /* optional, nicer UX */
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+#country-list li:hover {
+  background: #e0e0e0;
+}
+
+#country-list mark {
+  background: #fff59d;
+  padding: 0;
+}
+
+/* Highlight selected country in list */
+#country-list li.active {
+  background: #bbdefb;
+  font-weight: bold;
+}
+
+dialog {
+  border: none;
+  border-radius: 8px;
+  padding: 1.2rem;
+  width: 300px;
+}
+
+dialog::backdrop {
+  background: rgba(0, 0, 0, 0.4);
+}
+
+#popup-data {
+  /* take full width, center spinner/text */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.6rem;
+  min-height: 80px; /* reserve space */
+}
+
+.popup-loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  width: 100%;
+}
+
+/* hide properly without removing layout */
+#popup-loading.hidden,
+#popup-data.hidden {
+  display: none;
+}
+
+.sentiment-numbers {
+  display: flex;
+  justify-content: space-between; /* spread numbers horizontally */
+  width: 100%;                    /* full width of popup */
+  margin-bottom: 4px;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.sentiment-numbers .positive { color: #66bb6a; }
+.sentiment-numbers .neutral  { color: #ffee58; }
+.sentiment-numbers .negative { color: #ef5350; }
+
+.sentiment-bar-container {
+  display: flex;
+  width: 100%;           /* almost full width like Close button */
+  height: 12px;
+  border-radius: 6px;
+  overflow: hidden;
+  background: #eee;
+  margin-bottom: 8px;
+}
+
+.sent-bar {
+  height: 100%;
+  transition: width 0.5s;
+}
+
+.sent-bar.positive { background: #66bb6a; }
+.sent-bar.neutral  { background: #ffee58; }
+.sent-bar.negative { background: #ef5350; }
+
+.spinner {
+  width: 28px;
+  height: 28px;
+  border: 3px solid #ddd;
+  border-top: 3px solid #1976d2;
+  border-radius: 50%;
+  animation: spin 0.9s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.hidden {
+  display: none;
+}
+
+#popup h2#popup-country-name {
+  text-align: center;       /* horizontally center the country name */
+  margin: 10px 0 20px 0;    /* spacing above and below */
+  font-size: 1.5em;         /* slightly larger than default */
+  font-weight: bold;         /* make it stand out */
+}
+.score-trend-row p {
+  display: flex;
+  align-items: center;   /* vertically center score and trend */
+  gap: 8px;              /* small space between score and trend */
+  font-size: 1.1em;      /* slightly bigger for visibility */
+  margin: 0;
+}
+
+.score-trend-row .trend {
+  font-weight: bold;
+}
+
+.score-trend-row .trend.up {
+  color: green;
+}
+
+.score-trend-row .trend.down {
+  color: red;
+}
+.assessment {
+  display: flex;
+  align-items: center;
+  gap: 6px;             /* space between header and value */
+  margin: 0;
+}
+
+.assessment strong {
+  color: black;          /* header always black */
+}
+
+#countryAssessmentValue {
+  font-weight: bold;     /* value bold for emphasis */
+}
+
+.article-line {
+  display: flex;
+  justify-content: flex-start; /* left-aligned */
+  align-items: center;
+  gap: 6px; /* space between label and value */
+}
+
+.article-line .label {
+  font-weight: bold;
+  color: black;
+}
+
+.article-line .value {
+  color: #1976d2; /* optional: make it distinct */
+}
