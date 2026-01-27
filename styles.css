@@ -431,7 +431,8 @@ dialog::backdrop {
 .sentiment-number {
   font-weight: bold;
   font-size: 0.9rem;
-  margin-bottom: 2px; /* small space above bar */
+  margin-bottom: 4px;     /* spacing above bar */
+  color: inherit;         /* JS dynamically sets same color as bar */
 }
 
 /* Color of numbers matches bars */
@@ -442,18 +443,18 @@ dialog::backdrop {
 .sentiment-bar-container {
   display: flex;
   width: 100%;
-  height: 16px;
+  height: 16px;          /* bar height only */
   border-radius: 8px;
   overflow: hidden;
   background: #eee;
+  position: relative;     /* allows absolute positioning of numbers if needed */
 }
 
 .sent-bar-wrapper {
-  flex: 1; /* bars share equal width */
+  flex: 1;                /* each color portion scales */
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: flex-start; /* numbers above bars */
+  align-items: center;    /* center horizontally */
 }
 
 .sent-bar {
