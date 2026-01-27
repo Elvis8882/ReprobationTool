@@ -188,10 +188,6 @@ async function openPopup(countryEl) {
 
     document.getElementById("countryArticles").innerText = data.articles;
 
-    document.getElementById("sentPos").innerText = data.sentiment.positive;
-    document.getElementById("sentNeu").innerText = data.sentiment.neutral;
-    document.getElementById("sentNeg").innerText = data.sentiment.negative;
-
     const posBar = document.getElementById("sentPosBar");
     const neuBar = document.getElementById("sentNeuBar");
     const negBar = document.getElementById("sentNegBar");
@@ -205,6 +201,11 @@ async function openPopup(countryEl) {
       document.getElementById("sentPosBar").style.width = `${(pos / total) * 100}%`;
       document.getElementById("sentNeuBar").style.width = `${(neu / total) * 100}%`;
       document.getElementById("sentNegBar").style.width = `${(neg / total) * 100}%`;
+      
+      document.getElementById("sentPos").innerText = pos;
+      document.getElementById("sentNeu").innerText = neu;
+      document.getElementById("sentNeg").innerText = neg;
+       
     }
 
     document.getElementById("lastUpdated").innerText =
