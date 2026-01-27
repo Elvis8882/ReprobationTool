@@ -516,6 +516,15 @@ dialog::backdrop {
   color: inherit; /* inherit color from JS or parent if dynamic */
 }
 
+.score-label {
+  color: black;       /* always black */
+  font-weight: normal; /* not bold */
+  margin-right: 4px;
+}
+
+.score-value {
+  font-weight: bold;   /* JS also sets this dynamically */
+}
 
 .score-trend-row .trend {
   font-weight: bold;
