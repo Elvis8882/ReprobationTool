@@ -186,9 +186,25 @@ main, aside {
   overflow: hidden;
 }
 
+/* Sticky headers for left and right panels */
+#news-panel .panel-header,
+#country-panel .panel-header {
+  position: sticky;
+  top: 0;
+  background: #f5f5f5; /* same as panel background */
+  z-index: 10;          /* ensure above scrollable content */
+  padding-bottom: 8px;  /* optional spacing below header */
+}
+
+#news-panel .panel-content,
+#country-panel .panel-content {
+  flex: 1 1 auto;      /* grow to fill remaining height */
+  overflow-y: auto;    /* scroll vertically */
+  padding-right: 6px;  /* optional padding so scrollbar doesn't overlap content */
+}
+
 /* LEFT PANEL */
 #news-panel {
-  overflow-y: auto; /* scroll if content exceeds panel height */
   padding: 16px;    /* add some breathing room inside panel */
 }
 
@@ -221,7 +237,6 @@ main, aside {
 
 /* RIGHT PANEL */
 #country-panel {
-  overflow-y: auto; /* scroll if content exceeds panel height */
   padding: 16px;    /* add some breathing room inside panel */
 }
 
