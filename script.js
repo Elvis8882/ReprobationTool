@@ -208,9 +208,9 @@ async function openPopup(countryEl) {
         negBar.style.width = `${(neg / total) * 100}%`;
       
         // set numbers above proportionally (width = bar width)
-        posNum.style.flexBasis = `${(pos / total) * 100}%`;
-        neuNum.style.flexBasis = `${(neu / total) * 100}%`;
-        negNum.style.flexBasis = `${(neg / total) * 100}%`;
+        posNum.style.flex = `0 0 ${(pos / total) * 100}%`;
+        neuNum.style.flex = `0 0 ${(neu / total) * 100}%`;
+        negNum.style.flex = `0 0 ${(neg / total) * 100}%`;
       
         posNum.innerText = pos;
         neuNum.innerText = neu;
