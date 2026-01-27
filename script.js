@@ -411,3 +411,26 @@ document.addEventListener("DOMContentLoaded", async () => {
     });
 
 });
+
+/* =========================
+   Panzoom library
+========================= */
+
+// Select the container div (not the SVG directly)
+const mapContainer = document.getElementById("map-container");
+
+// Initialize Panzoom
+const panzoom = Panzoom(mapContainer, {
+  maxScale: 5,     // max zoom level
+  minScale: 1,     // min zoom level
+  contain: 'outside', // allow pan outside edges
+  step: 0.2,       // zoom step for buttons
+});
+
+// Make mouse wheel zoom
+mapContainer.parentElement.addEventListener('wheel', panzoom.zoomWithWheel);
+
+// Zoom buttons
+document.getElementById("zoom-in").addEventListener("click", () => panzoom.zoomIn());
+document.getElementById("zoom-out").addEventListener("click", () => panzoom.zoomOut());
+
