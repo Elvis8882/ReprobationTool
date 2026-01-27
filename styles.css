@@ -505,12 +505,6 @@ dialog::backdrop {
   color: black;         /* header text always black */
 }
 
-.score-trend-row,
-.assessment span {
-  color: #1976d2;       /* or same as Assessment value */
-  font-weight: bold;
-}
-
 #countryScore {
   font-weight: bold;
   color: inherit; /* inherit color from JS or parent if dynamic */
