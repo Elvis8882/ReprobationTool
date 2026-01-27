@@ -60,7 +60,8 @@ svg path:hover {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 300px;
+  width: 500px;
+  max-width: 90vw; /* prevent overflow on small screens */
   background: white;
   padding: 20px;
   border-radius: 8px;
