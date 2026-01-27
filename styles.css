@@ -507,13 +507,11 @@ dialog::backdrop {
 
 #countryScore {
   font-weight: bold;
-  color: inherit; /* inherit color from JS or parent if dynamic */
 }
 
 .score-label {
   color: black;       /* always black */
-  font-weight: normal; /* not bold */
-  margin-right: 4px;
+  font-weight: normal;
 }
 
 .score-value {
