@@ -425,18 +425,19 @@ dialog::backdrop {
   width: 100%;
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  gap: 4px;
 }
 
 .sentiment-numbers {
   display: flex;
   width: 100%;
+  justify-content: flex-start; /* numbers start from left, width will follow bar */
 }
 
 .sentiment-number {
-  text-align: center;
   font-weight: bold;
   font-size: 0.9rem;
+  text-align: center;
 }
 
 .sentiment-bar {
@@ -449,7 +450,7 @@ dialog::backdrop {
 
 .sent-bar {
   height: 100%;
-  transition: width 0.4s ease;
+  transition: width 0.5s;
 }
 
 /* colors */
