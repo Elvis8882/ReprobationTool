@@ -148,61 +148,83 @@
 
 </div>
 
-  <!-- POPUP -->
+ <!-- POPUP -->
 <div id="overlay" class="hidden" onclick="closePopup()">
   <div id="popup" onclick="event.stopPropagation()">
-    <h2 id="popup-country-name"></h2>
 
-    <!-- body wrapper for content and spinner -->
+    <!-- 1. Country Name -->
+    <h2 id="popup-country-name"></h2>
+    <hr class="popup-divider">
+
+    <!-- 2. Body wrapper for spinner/content -->
     <div id="popup-body" class="popup-body">
+
+      <!-- Loading spinner -->
       <div id="popup-loading" class="popup-loading hidden">
         <div class="spinner"></div>
         <p>Analyzing media coverage…</p>
       </div>
 
+      <!-- Data content -->
       <div id="popup-data" class="hidden">
         <p id="popup-error" class="hidden">No data available yet.</p>
-        
-        <div class="score-trend-row">
-          <p>
-            <strong>Score:</strong> 
-            <span id="countryScore"></span>
-            <span id="countryTrend" class="trend"></span>
+
+        <!-- Score / Assessment / Articles / Sentiment -->
+        <div class="popup-section" id="popup-metrics">
+
+          <div class="score-trend-row">
+            <p>
+              <strong>Score:</strong> 
+              <span id="countryScore" class="score-value"></span>
+              <span id="countryTrend" class="trend"></span>
+            </p>
+          </div>
+
+          <p class="assessment">
+            <strong>Assessment:</strong>
+            <span id="countryAssessmentValue"></span>
           </p>
-        </div>
 
-        <p class="assessment">
-          <strong>Assessment:</strong>
-          <span id="countryAssessmentValue"></span>
-        </p>
+          <p class="article-line">
+            <span class="label">Articles:</span>
+            <span id="countryArticles" class="value"></span>
+          </p>
 
-        <p class="article-line">
-          <span class="label">Articles:</span>
-          <span id="countryArticles" class="value"></span>
-        </p>
+          <div id="sentiment" class="sentiment">
+            <div class="sentiment-numbers">
+              <span id="sentPos" class="positive"></span>
+              <span id="sentNeu" class="neutral"></span>
+              <span id="sentNeg" class="negative"></span>
+            </div>
 
-
-        <div id="sentiment" class="sentiment">
-          <div class="sentiment-numbers">
-            <span id="sentPos" class="positive"></span>
-            <span id="sentNeu" class="neutral"></span>
-            <span id="sentNeg" class="negative"></span>
-          </div>
-          
-          <div class="sentiment-bar-container">
-            <div id="sentPosBar" class="sent-bar positive"></div>
-            <div id="sentNeuBar" class="sent-bar neutral"></div>
-            <div id="sentNegBar" class="sent-bar negative"></div>
+            <div class="sentiment-bar-container">
+              <div id="sentPosBar" class="sent-bar positive"></div>
+              <div id="sentNeuBar" class="sent-bar neutral"></div>
+              <div id="sentNegBar" class="sent-bar negative"></div>
+            </div>
           </div>
         </div>
 
-        <small>Last updated: <span id="lastUpdated"></span></small>
+        <!-- 3. Country-specific newsletters -->
+        <div class="popup-section" id="popup-newsletters">
+          <h3>Latest News</h3>
+          <ul id="popup-country-news">
+            <!-- JS will fill news items here -->
+          </ul>
+        </div>
+
+        <!-- 4. Last updated -->
+        <div class="popup-section" id="popup-last-updated">
+          <small>Last updated: <span id="lastUpdated"></span></small>
+        </div>
+
       </div>
     </div>
 
     <button onclick="closePopup()">Close</button>
   </div>
 </div>
+
 
 
 <!-- Panzoom library -->
