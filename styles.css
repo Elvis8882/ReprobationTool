@@ -431,7 +431,6 @@ dialog::backdrop {
 .sentiment-numbers {
   display: flex;
   width: 100%;
-  justify-content: flex-start; /* numbers start from left, width will follow bar */
 }
 
 .sentiment-number {
@@ -454,14 +453,13 @@ dialog::backdrop {
 }
 
 /* colors */
-.sentiment-number.positive,
-.sent-bar.positive { color: #66bb6a; background: #66bb6a; }
+.sentiment-number.positive { color: #66bb6a; }
+.sentiment-number.neutral  { color: #ffee58; }
+.sentiment-number.negative { color: #ef5350; }
+.sent-bar.positive { background: #66bb6a; }
+.sent-bar.neutral  { background: #ffee58; }
+.sent-bar.negative { background: #ef5350; }
 
-.sentiment-number.neutral,
-.sent-bar.neutral { color: #ffee58; background: #ffee58; }
-
-.sentiment-number.negative,
-.sent-bar.negative { color: #ef5350; background: #ef5350; }
 
 .spinner {
   width: 28px;
