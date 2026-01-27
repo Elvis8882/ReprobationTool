@@ -190,19 +190,22 @@
             <span id="countryArticles" class="value"></span>
           </p>
 
-          <div id="sentiment" class="sentiment">
-            <div class="sentiment-numbers">
-              <span id="sentPos" class="positive"></span>
-              <span id="sentNeu" class="neutral"></span>
-              <span id="sentNeg" class="negative"></span>
-            </div>
-
-            <div class="sentiment-bar-container">
+         <div id="sentiment" class="sentiment">
+          <div class="sentiment-bar-container">
+            <div class="sentiment-item">
+              <span id="sentPos" class="sentiment-number positive"></span>
               <div id="sentPosBar" class="sent-bar positive"></div>
+            </div>
+            <div class="sentiment-item">
+              <span id="sentNeu" class="sentiment-number neutral"></span>
               <div id="sentNeuBar" class="sent-bar neutral"></div>
+            </div>
+            <div class="sentiment-item">
+              <span id="sentNeg" class="sentiment-number negative"></span>
               <div id="sentNegBar" class="sent-bar negative"></div>
             </div>
           </div>
+        </div>
         </div>
 
         <!-- 3. Country-specific newsletters -->
