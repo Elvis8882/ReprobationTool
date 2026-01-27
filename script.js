@@ -174,6 +174,7 @@ async function openPopup(countryEl) {
 
     scoreEl.innerText = data.score;
     scoreP.style.color = level.color;
+     scoreEl.style.fontWeight = "bold"; 
 
     const assessmentValueEl = document.getElementById("countryAssessmentValue");
     assessmentValueEl.innerText = level.label;
@@ -201,9 +202,9 @@ async function openPopup(countryEl) {
       const neg = data.sentiment.negative || 0;
       const total = pos + neu + neg || 1;
 
-      posBar.style.width = `${(pos / total) * 100}%`;
-      neuBar.style.width = `${(neu / total) * 100}%`;
-      negBar.style.width = `${(neg / total) * 100}%`;
+      document.getElementById("sentPosBar").style.width = `${(pos / total) * 100}%`;
+      document.getElementById("sentNeuBar").style.width = `${(neu / total) * 100}%`;
+      document.getElementById("sentNegBar").style.width = `${(neg / total) * 100}%`;
     }
 
     document.getElementById("lastUpdated").innerText =
