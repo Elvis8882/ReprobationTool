@@ -190,23 +190,27 @@
             <span id="countryArticles" class="value"></span>
           </p>
 
-          <div id="sentiment" class="sentiment">
-
-          <!-- Numbers ABOVE the bar -->
-          <div class="sentiment-numbers">
-            <span id="sentPos" class="sentiment-number positive"></span>
-            <span id="sentNeu" class="sentiment-number neutral"></span>
-            <span id="sentNeg" class="sentiment-number negative"></span>
-          </div>
-        
-          <!-- One continuous bar -->
+        <div id="sentiment" class="sentiment">
           <div class="sentiment-bar-container">
-            <div id="sentPosBar" class="sent-bar positive"></div>
-            <div id="sentNeuBar" class="sent-bar neutral"></div>
-            <div id="sentNegBar" class="sent-bar negative"></div>
-          </div>
         
+            <div class="sent-bar-wrapper">
+              <span id="sentPos" class="sentiment-number positive"></span>
+              <div id="sentPosBar" class="sent-bar positive"></div>
+            </div>
+        
+            <div class="sent-bar-wrapper">
+              <span id="sentNeu" class="sentiment-number neutral"></span>
+              <div id="sentNeuBar" class="sent-bar neutral"></div>
+            </div>
+        
+            <div class="sent-bar-wrapper">
+              <span id="sentNeg" class="sentiment-number negative"></span>
+              <div id="sentNegBar" class="sent-bar negative"></div>
+            </div>
+        
+          </div>
         </div>
+
 
         </div>
 
