@@ -203,9 +203,14 @@ async function openPopup(countryEl) {
         const total = pos + neu + neg || 1;
       
         /* proportional widths */
-        posBar.style.width = `${(pos / total) * 100}%`;
-        neuBar.style.width = `${(neu / total) * 100}%`;
-        negBar.style.width = `${(neg / total) * 100}%`;
+      const posWrap = posBar.parentElement;
+      const neuWrap = neuBar.parentElement;
+      const negWrap = negBar.parentElement;
+      
+      posWrap.style.width = `${(pos / total) * 100}%`;
+      neuWrap.style.width = `${(neu / total) * 100}%`;
+      negWrap.style.width = `${(neg / total) * 100}%`;
+
       
         /* numbers above bars */
         posNum.innerText = pos;
