@@ -10,6 +10,27 @@ const PRANK_URL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
 
 let selectedCountryEl = null;  // global variable
 
+/* =========================
+   Custom tooltip
+========================= */
+// Only create tooltip once
+let tooltip = document.getElementById("sent-tooltip");
+if (!tooltip) {
+  tooltip = document.createElement("div");
+  tooltip.id = "sent-tooltip";
+  tooltip.style.position = "absolute";
+  tooltip.style.padding = "6px 10px";
+  tooltip.style.background = "#fff";
+  tooltip.style.border = "1px solid #ccc";
+  tooltip.style.borderRadius = "4px";
+  tooltip.style.boxShadow = "0 2px 6px rgba(0,0,0,0.2)";
+  tooltip.style.pointerEvents = "none";
+  tooltip.style.whiteSpace = "nowrap";
+  tooltip.style.transition = "opacity 0.2s";
+  tooltip.style.opacity = 0;
+  tooltip.style.zIndex = 2000;
+  document.body.appendChild(tooltip);
+}
 
 /* =========================
    SCORE LEVELS & MAPPING
@@ -216,9 +237,35 @@ async function openPopup(countryEl) {
         neuNum.innerText = neu;
         negNum.innerText = neg;
 
-         posBar.title = "Positive";
-         neuBar.title = "Neutral";
-         negBar.title = "Negative";
+        // Add tooltips
+         const bars = [
+           { el: posBar, label: "Positive", value: pos, color: "#66bb6a" },
+           { el: neuBar, label: "Neutral", value: neu, color: "#ffee58" },
+           { el: negBar, label: "Negative", value: neg, color: "#ef5350" },
+         ];
+         
+         bars.forEach(b => {
+           b.el.addEventListener("mouseenter", (e) => {
+             tooltip.innerHTML = `
+               <div style="display:flex; align-items:center; gap:6px;">
+                 <div style="width:12px; height:12px; background:${b.color}; border-radius:50%;"></div>
+                 <span><strong>${b.label}:</strong> ${b.value}</span>
+               </div>
+             `;
+             tooltip.style.opacity = 1;
+             tooltip.style.left = `${e.pageX + 10}px`;
+             tooltip.style.top = `${e.pageY + 10}px`;
+           });
+         
+           b.el.addEventListener("mousemove", (e) => {
+             tooltip.style.left = `${e.pageX + 10}px`;
+             tooltip.style.top = `${e.pageY + 10}px`;
+           });
+         
+           b.el.addEventListener("mouseleave", () => {
+             tooltip.style.opacity = 0;
+           });
+         });
 
       }
 
@@ -450,39 +497,5 @@ mapContainer.parentElement.addEventListener('wheel', panzoom.zoomWithWheel);
 document.getElementById("zoom-in").addEventListener("click", () => panzoom.zoomIn());
 document.getElementById("zoom-out").addEventListener("click", () => panzoom.zoomOut());
 
-/* =========================
-   Custom Tooltip
-========================= */
-
-const tooltip = document.getElementById("tooltip");
-
-const bars = [
-  {el: posBar, label: "Positive", color: "#66bb6a", value: pos},
-  {el: neuBar, label: "Neutral",  color: "#ffee58", value: neu},
-  {el: negBar, label: "Negative", color: "#ef5350", value: neg},
-];
-
-bars.forEach(b => {
-  b.el.addEventListener("mouseenter", () => {
-    tooltip.innerHTML = `
-      <div style="display:flex; align-items:center; gap:6px;">
-        <div style="width:12px; height:12px; background:${b.color}; border-radius:50%;"></div>
-        <span><strong>${b.label}:</strong> ${b.value}</span>
-      </div>
-    `;
-    tooltip.style.display = "block";
-    tooltip.classList.add("show"); // fade-in effect
-  });
-
-  b.el.addEventListener("mousemove", e => {
-    tooltip.style.left = e.pageX + 10 + "px"; // offset so it doesn’t block cursor
-    tooltip.style.top  = e.pageY + 10 + "px";
-  });
-
-  b.el.addEventListener("mouseleave", () => {
-    tooltip.classList.remove("show");  // fade-out effect
-    tooltip.style.display = "none";
-  });
-});
 
 
