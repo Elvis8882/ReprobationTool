@@ -215,6 +215,11 @@ async function openPopup(countryEl) {
         posNum.innerText = pos;
         neuNum.innerText = neu;
         negNum.innerText = neg;
+
+         posBar.title = "Positive";
+         neuBar.title = "Neutral";
+         negBar.title = "Negative";
+
       }
 
     document.getElementById("lastUpdated").innerText =
