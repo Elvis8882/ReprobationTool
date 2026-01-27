@@ -555,12 +555,10 @@ dialog::backdrop {
   color: #1976d2; /* optional: make it distinct */
 }
 
-#tooltip {
-  transition: opacity 0.15s ease;
+#sent-tooltip {
+  font-size: 0.9rem;
+  pointer-events: none;
   opacity: 0;
-}
-
-#tooltip.show {
-  opacity: 1;
+  transition: opacity 0.2s;
 }
 
