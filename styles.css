@@ -425,7 +425,13 @@ dialog::backdrop {
   display: flex;
   flex-direction: column;
   width: 100%;
-  gap: 4px;
+  gap: 8px;
+}
+
+.sentiment-number {
+  font-weight: bold;
+  font-size: 0.9rem;
+  margin-bottom: 2px; /* small space above bar */
 }
 
 /* Color of numbers matches bars */
@@ -443,10 +449,11 @@ dialog::backdrop {
 }
 
 .sent-bar-wrapper {
-  flex: 1;
+  flex: 1; /* bars share equal width */
   display: flex;
   flex-direction: column;
-  align-items: center; /* centers number above bar */
+  align-items: center;
+  justify-content: flex-start; /* numbers above bars */
 }
 
 .sent-bar {
