@@ -397,8 +397,6 @@ dialog::backdrop {
   align-items: flex-start; /* left-align content */
 }
 
-
-
 #popup-data {
   /* take full width, center spinner/text */
   display: flex;
@@ -423,22 +421,37 @@ dialog::backdrop {
   display: none;
 }
 
-/* Sentiment full width like Close button */
-.sentiment-numbers {
-  justify-content: flex-start; /* align numbers to left */
-  gap: 12px;
+/* Color of numbers matches bars */
+.sentiment-number.positive { color: #66bb6a; }
+.sentiment-number.neutral  { color: #ffee58; }
+.sentiment-number.negative { color: #ef5350; }
+
+/* Sentiment wrapper full width */
+.sentiment-bar-container {
+  display: flex;
+  gap: 4px;
+  width: 100%;      /* stretch almost full popup width */
+  height: 16px;     /* bar height */
 }
 
-.sentiment-numbers .positive { color: #66bb6a; }
-.sentiment-numbers .neutral  { color: #ffee58; }
-.sentiment-numbers .negative { color: #ef5350; }
+.sentiment-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;          /* each bar takes equal width */
+}
 
-.sentiment-bar-container {
-  width: 100%;   /* full width of popup */
+.sentiment-number {
+  font-size: 0.85rem;
+  font-weight: bold;
+  margin-bottom: 2px;
+  display: block;
 }
 
 .sent-bar {
-  height: 100%;
+  width: 100%;          /* full width of each item */
+  height: 16px;
+  border-radius: 4px;
   transition: width 0.5s;
 }
 
@@ -480,11 +493,14 @@ dialog::backdrop {
 }
 
 /* Score value colored, header in black */
-.score-trend-row strong {
-  color: black;
+.score-trend-row strong,
+.assessment strong {
+  color: black;         /* header text always black */
 }
-.score-trend-row .score-value {
-  color: #1976d2;
+
+.score-trend-row .score-value,
+.assessment span {
+  color: #1976d2;       /* or same as Assessment value */
   font-weight: bold;
 }
 
