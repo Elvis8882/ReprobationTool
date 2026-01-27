@@ -422,10 +422,7 @@ dialog::backdrop {
 }
 
 .sentiment {
-  display: flex;
-  flex-direction: column;
   width: 100%;
-  gap: 6px;
 }
 
 .sentiment-numbers {
@@ -434,10 +431,17 @@ dialog::backdrop {
 }
 
 .sentiment-number {
-  flex: 1;                 /* match bar width */
-  text-align: center;      /* center above bar */
   font-weight: bold;
   font-size: 0.9rem;
+  margin-bottom: 4px;
+  white-space: nowrap;
+}
+
+.sent-bar-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* center number over bar */
+  justify-content: flex-start;
 }
 
 /* Color of numbers matches bars */
@@ -448,15 +452,12 @@ dialog::backdrop {
 .sentiment-bar-container {
   display: flex;
   width: 100%;
-  height: 16px;
-  border-radius: 8px;
-  overflow: hidden;
-  background: #eee;
+  gap: 0;              /* bars touch each other */
 }
 
 .sent-bar {
-  height: 100%;
-  transition: width 0.4s ease;
+  width: 100%;
+  height: 16px;
 }
 
 .sent-bar.positive { background: #66bb6a; }
