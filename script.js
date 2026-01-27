@@ -202,10 +202,16 @@ async function openPopup(countryEl) {
       document.getElementById("sentNeuBar").style.width = `${(neu / total) * 100}%`;
       document.getElementById("sentNegBar").style.width = `${(neg / total) * 100}%`;
       
+            // numbers above bars
       document.getElementById("sentPos").innerText = pos;
       document.getElementById("sentNeu").innerText = neu;
       document.getElementById("sentNeg").innerText = neg;
-       
+      
+      // color numbers same as bars
+      document.getElementById("sentPos").style.color = "#66bb6a";
+      document.getElementById("sentNeu").style.color = "#ffee58";
+      document.getElementById("sentNeg").style.color = "#ef5350";
+             
     }
 
     document.getElementById("lastUpdated").innerText =
