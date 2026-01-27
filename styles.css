@@ -423,6 +423,9 @@ dialog::backdrop {
 
 .sentiment {
   width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
 }
 
 .sentiment-numbers {
@@ -431,44 +434,33 @@ dialog::backdrop {
 }
 
 .sentiment-number {
+  text-align: center;
   font-weight: bold;
   font-size: 0.9rem;
-  margin-bottom: 4px;
-  white-space: nowrap;
 }
 
-.sent-bar-wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-end; /* bar sits at bottom */
-
-  flex: 0 0 auto;
-  height: 100%;             
-}
-
-/* Color of numbers matches bars */
-.sentiment-number.positive { color: #66bb6a; }
-.sentiment-number.neutral  { color: #ffee58; }
-.sentiment-number.negative { color: #ef5350; }
-
-.sentiment-bar-container {
+.sentiment-bar {
   display: flex;
   width: 100%;
-  height: 16px;          
-  align-items: stretch; /* wrappers fill full height */
-  overflow: hidden;
+  height: 16px;
   border-radius: 8px;
+  overflow: hidden;
 }
 
 .sent-bar {
-  width: 100%;
   height: 100%;
+  transition: width 0.4s ease;
 }
 
-.sent-bar.positive { background: #66bb6a; }
-.sent-bar.neutral  { background: #ffee58; }
-.sent-bar.negative { background: #ef5350; }
+/* colors */
+.sentiment-number.positive,
+.sent-bar.positive { color: #66bb6a; background: #66bb6a; }
+
+.sentiment-number.neutral,
+.sent-bar.neutral { color: #ffee58; background: #ffee58; }
+
+.sentiment-number.negative,
+.sent-bar.negative { color: #ef5350; background: #ef5350; }
 
 .spinner {
   width: 28px;
