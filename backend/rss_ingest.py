@@ -1,4 +1,18 @@
 import feedparser
+
+for feed in feeds:
+    print(f"Reading feed: {feed['url']}")
+    d = feedparser.parse(feed["url"], request_headers={'User-Agent': 'Mozilla/5.0 (compatible; MyRSSBot/1.0)'})
+    
+    # Check for HTTP status
+    if hasattr(d, "status"):
+        if d.status != 200:
+            print(f"⚠️ Feed returned HTTP {d.status}, skipping")
+            continue
+    
+    print(f"Found {len(d.entries)} entries")
+    for entry in d.entries:
+
 import hashlib
 import json
 from datetime import datetime, timezone
@@ -45,8 +59,18 @@ def ingest():
     stored = 0
 
     for feed in feeds:
-        parsed = feedparser.parse(feed["url"])
+        print(f"Reading feed: {feed['url']}")
+        parsed = feedparser.parse(
+            feed["url"],
+            request_headers={'User-Agent': 'Mozilla/5.0 (compatible; MyRSSBot/1.0)'}
+        )
 
+        # HTTP error check
+        if hasattr(parsed, "status") and parsed.status != 200:
+            print(f"⚠️ Feed returned HTTP {parsed.status}, skipping")
+            continue
+
+        print(f"Found {len(parsed.entries)} entries")
         for entry in parsed.entries:
             if not entry.get("link"):
                 continue
@@ -69,9 +93,11 @@ def ingest():
 
             if save_article(article):
                 stored += 1
+                print(f"✅ Stored article: {article['title']}")
+            else:
+                print(f"ℹ️ Article already exists: {article['title']}")
 
     print(f"Stored {stored} new articles")
-
 
 if __name__ == "__main__":
     ingest()
