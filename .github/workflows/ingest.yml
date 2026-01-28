@@ -29,5 +29,6 @@ jobs:
           git config user.name "rss-bot"
           git config user.email "rss-bot@users.noreply.github.com"
           git add data/articles
-          git commit -m "Ingest RSS articles" || echo "No new articles"
-          git push
+          git diff --quiet || git commit -m "Ingest RSS articles"
+          git push origin HEAD:${{ github.ref }}
+
