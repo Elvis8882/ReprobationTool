@@ -1,18 +1,4 @@
 import feedparser
-
-for feed in feeds:
-    print(f"Reading feed: {feed['url']}")
-    d = feedparser.parse(feed["url"], request_headers={'User-Agent': 'Mozilla/5.0 (compatible; MyRSSBot/1.0)'})
-    
-    # Check for HTTP status
-    if hasattr(d, "status"):
-        if d.status != 200:
-            print(f"⚠️ Feed returned HTTP {d.status}, skipping")
-            continue
-    
-    print(f"Found {len(d.entries)} entries")
-    for entry in d.entries:
-
 import hashlib
 import json
 from datetime import datetime, timezone
