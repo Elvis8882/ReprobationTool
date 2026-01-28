@@ -29,7 +29,9 @@ jobs:
           git config user.name "rss-bot"
           git config user.email "rss-bot@users.noreply.github.com"
           git add data/articles
-          git diff --quiet || git commit -m "Ingest RSS articles"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
+          git diff --cached --quiet || git commit -m "Ingest RSS articles"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+
+
 
 
