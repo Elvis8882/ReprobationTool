@@ -365,13 +365,13 @@ async function openPopup(countryEl) {
 
     const assessmentValueEl = document.getElementById("countryAssessmentValue");
     if (articleCount === 0) {
-      scoreEl.innerText = "Not available";
-      scoreEl.style.color = "#777";
+      scoreEl.innerText = data.score;
+      scoreEl.style.color = level?.color || "#777"; // only the value
+      assessmentValueEl.innerText = level?.label || "No Commentary";
+      assessmentValueEl.style.color = level?.color || "#777";
       const trendEl = document.getElementById("countryTrend");
       trendEl.classList.remove("up", "down");
-      trendEl.innerText = "";
-      assessmentValueEl.innerText = "Not enough information";
-      assessmentValueEl.style.color = "#777";
+      trendEl.innerText = "—";
     } else {
       scoreEl.innerText = data.score;
       scoreEl.style.color = level?.color || "#777"; // only the value

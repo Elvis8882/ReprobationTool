@@ -1,5 +1,4 @@
 import json
-import math
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -42,19 +41,17 @@ def clamp(x, lo, hi):
 
 def compute_score(pos: int, neu: int, neg: int) -> int:
     """
-    Bounded 1–100 score, stable under unlimited article volume.
-    Uses:
-      - net sentiment: (pos - neg)/total in [-1, 1]
-      - volume bonus: log1p(total) scaled
+    Bounded 1–100 score with a neutral baseline near 90.
+    Negative sentiment weighs more heavily than positive sentiment.
     """
     total = pos + neu + neg
     if total == 0:
-        return 50
+        return 90
 
-    net = (pos - neg) / total
-    vol = math.log1p(total)
+    pos_ratio = pos / total
+    neg_ratio = neg / total
 
-    score = 50 + (30 * net) + (8 * vol)
+    score = 90 - (70 * neg_ratio) + (10 * pos_ratio)
     return int(round(clamp(score, 1, 100)))
 
 def sentiment_label(compound: float) -> str:
