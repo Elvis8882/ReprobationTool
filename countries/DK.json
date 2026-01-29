@@ -1,17 +1,135 @@
 {
-  "country_code": "DK",
-  "country": "Denmark",
-  "score": 89,
-  "trend": {
-    "delta": 1,
-    "direction": "up"
-  },
-  "articles": 88,
+  "country": "DK",
+  "score": 83,
+  "trend": "-6",
+  "sources": 49,
   "sentiment": {
-    "positive": 45,
-    "neutral": 40,
-    "negative": 15
+    "positive": 23,
+    "neutral": 6,
+    "negative": 20
   },
-  "last_updated": "2026-01-23T09:30:00Z",
-  "methodology_version": "1.0"
+  "latest_articles": [
+    {
+      "id": "d66d5e90f6450b9f241267909c7ebabc88dfb288",
+      "title": "Emission cuts slow as gas-fired heating makes a comeback",
+      "summary": "Limited progress puts EU climate target in jeopardy",
+      "url": "https://www.euractiv.com/news/emission-cuts-slow-as-gas-fired-heating-makes-a-comeback/",
+      "source": "Euractiv",
+      "published_at": "2026-01-29T09:41:32+00:00",
+      "sentiment": "negative",
+      "compound": -0.5267
+    },
+    {
+      "id": "574cde576d9b0b599766766de1c780e86c6bd7ad",
+      "title": "EU digital sovereignty gets a boost after Trump’s Greenland threats",
+      "summary": "Several capitals that had previously expressed reservations about embracing EU tech sovereignty have had a change of heart",
+      "url": "https://www.euractiv.com/news/eu-digital-sovereignty-gets-a-boost-after-trumps-greenland-threats/",
+      "source": "Euractiv",
+      "published_at": "2026-01-29T09:36:53+00:00",
+      "sentiment": "positive",
+      "compound": 0.6249
+    },
+    {
+      "id": "1a5b30a9e2c7b789611d032d5c11170e203a2fb9",
+      "title": "EU set to list Iran’s revolutionary guard corps as terrorist group",
+      "summary": "“There can be no impunity for the crimes committed,” said French Foreign Minister Jean-Noël Barrot",
+      "url": "https://www.euractiv.com/news/eu-set-to-list-irans-revolutionary-guard-corps-as-terrorist-group/",
+      "source": "Euractiv",
+      "published_at": "2026-01-29T09:10:07+00:00",
+      "sentiment": "negative",
+      "compound": -0.7845
+    },
+    {
+      "id": "3bf3d607544009f8e96fea0d7e33aa57ca100f8d",
+      "title": "THE HACK: Inside the haggling to pick EU customs seat",
+      "summary": "In today's edition: Baby steps for Amazon and Parliament, capitals move to shield democracy",
+      "url": "https://www.euractiv.com/news/the-hack-inside-the-haggling-to-pick-eu-customs-seat/",
+      "source": "Euractiv",
+      "published_at": "2026-01-29T08:22:06+00:00",
+      "sentiment": "positive",
+      "compound": 0.1779
+    },
+    {
+      "id": "ea528763b229135aa18be3a5dc8bf6236431bb61",
+      "title": "The Sahara files",
+      "summary": "In Thursday’s edition: IRGC sanctions, EU-Russia envoy, Visa strategy, Council rebuffs Weber, Amazon lobbyists",
+      "url": "https://www.euractiv.com/news/rapporteur-the-sahara-files/",
+      "source": "Euractiv",
+      "published_at": "2026-01-29T06:22:30+00:00",
+      "sentiment": "positive",
+      "compound": 0.1779
+    },
+    {
+      "id": "d1df455cb4f1df63d39437b20d652b114a49cfca",
+      "title": "Only more joint debt can save Europe, says EU social committee chief",
+      "summary": "History tells us it will be the most remote and poorest regions that will be sacrificed, Boland said",
+      "url": "https://www.euractiv.com/news/only-more-joint-debt-can-save-europe-says-eu-social-committee-chief/",
+      "source": "Euractiv",
+      "published_at": "2026-01-29T05:00:56+00:00",
+      "sentiment": "negative",
+      "compound": -0.5175
+    },
+    {
+      "id": "d3bcf1037a8cb22a677f76c317525812734e22fd",
+      "title": "Final push on abortion rights initiative ahead of Commission decision",
+      "summary": "Proposed EU fund would help women travel for abortion care",
+      "url": "https://www.euractiv.com/news/final-push-on-abortion-rights-initiative-ahead-of-commission-decision/",
+      "source": "Euractiv",
+      "published_at": "2026-01-29T05:00:28+00:00",
+      "sentiment": "positive",
+      "compound": 0.7096
+    },
+    {
+      "id": "60a14e8058b75b2ab1b99d66153b749ca49a6fcb",
+      "title": "What’s in a vinegar? Producers push EU for clearer rules",
+      "summary": "Industry seeks EU-wide definition, a move that could reopen old disputes",
+      "url": "https://www.euractiv.com/news/whats-in-a-vinegar-producers-push-eu-for-clearer-rules/",
+      "source": "Euractiv",
+      "published_at": "2026-01-29T05:00:27+00:00",
+      "sentiment": "negative",
+      "compound": -0.2732
+    },
+    {
+      "id": "dd0fb5d054c1b3b97440a133eb237217735b9db0",
+      "title": "The Brief – If you’re tired of Truth Social, try Mastodating",
+      "summary": "Trump's ripping off Mastodon is a perfect parable for EU hesitation to seize the tech tools it already has",
+      "url": "https://www.euractiv.com/opinion/the-brief-if-youre-tired-of-truth-social-try-mastodating/",
+      "source": "Euractiv",
+      "published_at": "2026-01-28T18:36:05+00:00",
+      "sentiment": "positive",
+      "compound": 0.25
+    },
+    {
+      "id": "cc6fd15bdeeddef3201f6ba00bf07dccd872a01a",
+      "title": "Petrol, diesel cars to retain over 10% market share post-2035, EU climate chief says",
+      "summary": "Hoekstra also said that the future will be “overwhelmingly or completely electric”, according to experts",
+      "url": "https://www.euractiv.com/news/petrol-diesel-cars-to-retain-over-10-market-share-post-2035-eu-climate-chief-says/",
+      "source": "Euractiv",
+      "published_at": "2026-01-28T16:36:12+00:00",
+      "sentiment": "positive",
+      "compound": 0.296
+    },
+    {
+      "id": "6b9c45ceef9104af28672ec2ac1f31f2a48846d0",
+      "title": "EU set to miss carbon storage target by half, Commission official says",
+      "summary": "Industry already challenging EU law on carbon storage deployment",
+      "url": "https://www.euractiv.com/news/eu-set-to-miss-carbon-storage-target-by-half-commission-official-says/",
+      "source": "Euractiv",
+      "published_at": "2026-01-28T16:18:57+00:00",
+      "sentiment": "neutral",
+      "compound": 0.0
+    },
+    {
+      "id": "6391fb49f337ccd9fe35fac76f40ec59d08697f4",
+      "title": "European Parliament to issue opinion on tobacco excise reform in June",
+      "summary": "Final decisions on tobacco taxes remain the Council’s exclusive competence",
+      "url": "https://www.euractiv.com/news/european-parliament-to-issue-opinion-on-tobacco-excise-reform-in-june/",
+      "source": "Euractiv",
+      "published_at": "2026-01-28T15:33:47+00:00",
+      "sentiment": "positive",
+      "compound": 0.128
+    }
+  ],
+  "window_days": 14,
+  "last_updated": "2026-01-29T11:53:28Z"
 }

@@ -1,17 +1,25 @@
 {
-  "country_code": "SY",
-  "country": "Syria",
-  "score": 25,
-  "trend": {
-    "delta": 1,
-    "direction": "up"
-  },
-  "articles": 88,
+  "country": "SY",
+  "score": 86,
+  "trend": "+61",
+  "sources": 1,
   "sentiment": {
-    "positive": 45,
-    "neutral": 40,
-    "negative": 15
+    "positive": 1,
+    "neutral": 0,
+    "negative": 0
   },
-  "last_updated": "2026-01-23T09:30:00Z",
-  "methodology_version": "1.0"
+  "latest_articles": [
+    {
+      "id": "d35af9c0a058eca9b56f7b060cba9241cd245bae",
+      "title": "Greenland goes mainstream",
+      "summary": "In Wednesday’s edition: Frederiksen’s tour, Ukraine loan, Syria, EU competitiveness, France’s far-right National Party",
+      "url": "https://www.euractiv.com/news/rapporteur-greenland-goes-mainstream/",
+      "source": "Euractiv",
+      "published_at": "2026-01-28T06:22:43+00:00",
+      "sentiment": "positive",
+      "compound": 0.4019
+    }
+  ],
+  "window_days": 14,
+  "last_updated": "2026-01-29T11:53:28Z"
 }

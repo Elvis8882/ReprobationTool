@@ -1,17 +1,55 @@
 {
-  "country_code": "GB",
-  "country": "United Kingdom",
-  "score": 52,
-  "trend": {
-    "delta": 1,
-    "direction": "up"
-  },
-  "articles": 88,
+  "country": "GB",
+  "score": 70,
+  "trend": "+18",
+  "sources": 4,
   "sentiment": {
-    "positive": 45,
-    "neutral": 40,
-    "negative": 15
+    "positive": 2,
+    "neutral": 1,
+    "negative": 1
   },
-  "last_updated": "2026-01-23T09:30:00Z",
-  "methodology_version": "1.0"
+  "latest_articles": [
+    {
+      "id": "38d98724c4c7a8e8c111b8c992804382761628f9",
+      "title": "Starmer, Xi stress need for stronger UK-China ties to face global headwinds",
+      "summary": "\"It's vital to build a more sophisticated relationship,\" Starmer told Xi",
+      "url": "https://www.euractiv.com/news/starmer-xi-stress-need-for-stronger-uk-china-ties-to-face-global-headwinds/",
+      "source": "Euractiv",
+      "published_at": "2026-01-29T06:42:48+00:00",
+      "sentiment": "positive",
+      "compound": 0.7089
+    },
+    {
+      "id": "3758464450b5ff82982c5f69df41bebd2c69a0a0",
+      "title": "UK watchdog pushes Google to give publishers a fairer deal on AI",
+      "summary": "Competition authority proposes tailored rules for Google’s search and AI tools",
+      "url": "https://www.euractiv.com/news/uk-watchdog-pushes-google-to-give-publishers-a-fairer-deal-on-ai/",
+      "source": "Euractiv",
+      "published_at": "2026-01-28T15:06:12+00:00",
+      "sentiment": "positive",
+      "compound": 0.0772
+    },
+    {
+      "id": "05c42daa4263e46b4e4a1c8b4117c7b60eb540f5",
+      "title": "EU, UK and Norway remain deadlocked over Atlantic fishing rights",
+      "summary": "Ireland, Poland and Spain push for import bans over overfishing",
+      "url": "https://www.euractiv.com/news/eu-uk-and-norway-remain-deadlocked-over-atlantic-fishing-rights/",
+      "source": "Euractiv",
+      "published_at": "2026-01-28T11:25:14+00:00",
+      "sentiment": "neutral",
+      "compound": 0.0
+    },
+    {
+      "id": "9b4f87082a45bbfcff9a0bd86ff30bc3e70a5210",
+      "title": "THE HACK: Google unhappy about EU AI proceedings",
+      "summary": "In today's edition: UK to get less Pornhub, EU nods off French social media kids ban",
+      "url": "https://www.euractiv.com/news/the-hack-google-unhappy-about-eu-ai-proceedings/",
+      "source": "Euractiv",
+      "published_at": "2026-01-28T09:16:16+00:00",
+      "sentiment": "negative",
+      "compound": -0.7506
+    }
+  ],
+  "window_days": 14,
+  "last_updated": "2026-01-29T11:53:28Z"
 }

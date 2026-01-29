@@ -1,17 +1,55 @@
 {
-  "country_code": "UA",
-  "country": "Ukraine",
-  "score": 25,
-  "trend": {
-    "delta": 1,
-    "direction": "up"
-  },
-  "articles": 88,
+  "country": "UA",
+  "score": 85,
+  "trend": "+60",
+  "sources": 4,
   "sentiment": {
-    "positive": 45,
-    "neutral": 40,
-    "negative": 15
+    "positive": 3,
+    "neutral": 1,
+    "negative": 0
   },
-  "last_updated": "2026-01-23T09:30:00Z",
-  "methodology_version": "1.0"
+  "latest_articles": [
+    {
+      "id": "12e7bafe647fddcd4352e95a8b35c1d4902411bb",
+      "title": "Hungary launches pre-election petition against EU aid for Ukraine",
+      "summary": "The campaign is expected to be accompanied by a barrage of billboards, television and internet adverts",
+      "url": "https://www.euractiv.com/news/hungary-launches-pre-election-petition-against-eu-aid-for-ukraine/",
+      "source": "Euractiv",
+      "published_at": "2026-01-28T07:38:52+00:00",
+      "sentiment": "neutral",
+      "compound": 0.0
+    },
+    {
+      "id": "d35af9c0a058eca9b56f7b060cba9241cd245bae",
+      "title": "Greenland goes mainstream",
+      "summary": "In Wednesday’s edition: Frederiksen’s tour, Ukraine loan, Syria, EU competitiveness, France’s far-right National Party",
+      "url": "https://www.euractiv.com/news/rapporteur-greenland-goes-mainstream/",
+      "source": "Euractiv",
+      "published_at": "2026-01-28T06:22:43+00:00",
+      "sentiment": "positive",
+      "compound": 0.4019
+    },
+    {
+      "id": "577a59dfb6c9545c322d88627bc13d7d74135ce1",
+      "title": "Berlin calls for €90bn Ukraine loan to benefit Kyiv’s biggest bilateral donors",
+      "summary": "Loan payouts could be linked to EU countries’ bilateral aid levels",
+      "url": "https://www.euractiv.com/news/berlin-calls-for-e90bn-ukraine-loan-to-benefit-kyivs-biggest-bilateral-donors/",
+      "source": "Euractiv",
+      "published_at": "2026-01-27T17:52:13+00:00",
+      "sentiment": "positive",
+      "compound": 0.4588
+    },
+    {
+      "id": "e7a552ff583fd33c1d4e55ebe068e23887816a7f",
+      "title": "FIREPOWER: NATO’s Rutte says Ukraine shouldn’t have to buy European",
+      "summary": "Plus, SAFE, Spain and India",
+      "url": "https://www.euractiv.com/news/firepower-natos-rutte-says-ukraine-shouldnt-have-to-buy-european/",
+      "source": "Euractiv",
+      "published_at": "2026-01-27T09:52:31+00:00",
+      "sentiment": "positive",
+      "compound": 0.5622
+    }
+  ],
+  "window_days": 14,
+  "last_updated": "2026-01-29T11:53:28Z"
 }

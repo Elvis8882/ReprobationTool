@@ -1,17 +1,35 @@
 {
-  "country_code": "RU",
-  "country": "Russian Federation",
-  "score": 5,
-  "trend": {
-    "delta": 1,
-    "direction": "up"
-  },
-  "articles": 88,
+  "country": "RU",
+  "score": 59,
+  "trend": "+54",
+  "sources": 2,
   "sentiment": {
-    "positive": 45,
-    "neutral": 40,
-    "negative": 15
+    "positive": 1,
+    "neutral": 0,
+    "negative": 1
   },
-  "last_updated": "2026-01-23T09:30:00Z",
-  "methodology_version": "1.0"
+  "latest_articles": [
+    {
+      "id": "ea528763b229135aa18be3a5dc8bf6236431bb61",
+      "title": "The Sahara files",
+      "summary": "In Thursday’s edition: IRGC sanctions, EU-Russia envoy, Visa strategy, Council rebuffs Weber, Amazon lobbyists",
+      "url": "https://www.euractiv.com/news/rapporteur-the-sahara-files/",
+      "source": "Euractiv",
+      "published_at": "2026-01-29T06:22:30+00:00",
+      "sentiment": "positive",
+      "compound": 0.1779
+    },
+    {
+      "id": "f3b4286f7e869679664beb5b373dbd98cf9e97b5",
+      "title": "VOLTAGE: Brussels targets Russian oil as ministers seal gas import ban",
+      "summary": "In today's edition: offshore wind, IMO green shipping plan, BEV sales data power",
+      "url": "https://www.euractiv.com/news/voltage-brussels-targets-russian-oil-as-ministers-seal-gas-import-ban/",
+      "source": "Euractiv",
+      "published_at": "2026-01-27T10:09:17+00:00",
+      "sentiment": "negative",
+      "compound": -0.5574
+    }
+  ],
+  "window_days": 14,
+  "last_updated": "2026-01-29T11:53:28Z"
 }

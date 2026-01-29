@@ -1,17 +1,45 @@
 {
-  "country_code": "IR",
-  "country": "Iran",
-  "score": 5,
-  "trend": {
-    "delta": 1,
-    "direction": "up"
-  },
-  "articles": 88,
+  "country": "IR",
+  "score": 31,
+  "trend": "+26",
+  "sources": 3,
   "sentiment": {
-    "positive": 45,
-    "neutral": 40,
-    "negative": 15
+    "positive": 0,
+    "neutral": 0,
+    "negative": 3
   },
-  "last_updated": "2026-01-23T09:30:00Z",
-  "methodology_version": "1.0"
+  "latest_articles": [
+    {
+      "id": "1a5b30a9e2c7b789611d032d5c11170e203a2fb9",
+      "title": "EU set to list Iran’s revolutionary guard corps as terrorist group",
+      "summary": "“There can be no impunity for the crimes committed,” said French Foreign Minister Jean-Noël Barrot",
+      "url": "https://www.euractiv.com/news/eu-set-to-list-irans-revolutionary-guard-corps-as-terrorist-group/",
+      "source": "Euractiv",
+      "published_at": "2026-01-29T09:10:07+00:00",
+      "sentiment": "negative",
+      "compound": -0.7845
+    },
+    {
+      "id": "a93e8d5fd7327d1cf75f8668b00b326d9875f436",
+      "title": "EXCLUSIVE: Iranian reformists privately call on Khamenei to step down",
+      "summary": "The effort to remove Ali Khamenei was halted by security threats, as Iranian media reported a suspected assassination attempt against one of the movement’s leading figures",
+      "url": "https://www.euractiv.com/news/exclusive-iranian-reformists-privately-call-on-khamenei-to-step-down/",
+      "source": "Euractiv",
+      "published_at": "2026-01-29T05:00:43+00:00",
+      "sentiment": "negative",
+      "compound": -0.6081
+    },
+    {
+      "id": "2ff8177d743f62cb7bbca256bc7a999ffe966d7e",
+      "title": "Iran warns of ‘destructive consequences’ if EU lists Guards as terror group",
+      "summary": "Italy's foreign minister said he would propose the idea \"in coordination with other partners\" when meeting his counterparts in Brussels later this week",
+      "url": "https://www.euractiv.com/news/iran-warns-of-destructive-consequences-if-eu-lists-guards-as-terror-group/",
+      "source": "Euractiv",
+      "published_at": "2026-01-27T16:00:18+00:00",
+      "sentiment": "negative",
+      "compound": -0.5859
+    }
+  ],
+  "window_days": 14,
+  "last_updated": "2026-01-29T11:53:28Z"
 }
