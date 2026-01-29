@@ -1,14 +1,24 @@
 {
   "country": "HR",
-  "score": 83,
-  "trend": "+24",
-  "sources": 47,
+  "score": 84,
+  "trend": "+1",
+  "sources": 48,
   "sentiment": {
-    "positive": 22,
+    "positive": 23,
     "neutral": 6,
     "negative": 19
   },
   "latest_articles": [
+    {
+      "id": "1bb6369e9d78b03c6ba7b8e206f037b0de49cbfc",
+      "title": "EU investment arm to spend over €4 billion on defence this year",
+      "summary": "The new figure accounts for 4% of the European Investment Bank's total investments",
+      "url": "https://www.euractiv.com/news/eu-investment-arm-to-spend-over-e4-billion-on-defence-this-year/",
+      "source": "Euractiv",
+      "published_at": "2026-01-29T11:58:00+00:00",
+      "sentiment": "positive",
+      "compound": 0.1027
+    },
     {
       "id": "d66d5e90f6450b9f241267909c7ebabc88dfb288",
       "title": "Emission cuts slow as gas-fired heating makes a comeback",
@@ -118,18 +128,8 @@
       "published_at": "2026-01-28T16:18:57+00:00",
       "sentiment": "neutral",
       "compound": 0.0
-    },
-    {
-      "id": "6391fb49f337ccd9fe35fac76f40ec59d08697f4",
-      "title": "European Parliament to issue opinion on tobacco excise reform in June",
-      "summary": "Final decisions on tobacco taxes remain the Council’s exclusive competence",
-      "url": "https://www.euractiv.com/news/european-parliament-to-issue-opinion-on-tobacco-excise-reform-in-june/",
-      "source": "Euractiv",
-      "published_at": "2026-01-28T15:33:47+00:00",
-      "sentiment": "positive",
-      "compound": 0.128
     }
   ],
   "window_days": 14,
-  "last_updated": "2026-01-29T11:53:28Z"
+  "last_updated": "2026-01-29T12:29:44Z"
 }

@@ -1,14 +1,24 @@
 {
   "country": "FR",
-  "score": 83,
-  "trend": "+18",
-  "sources": 52,
+  "score": 84,
+  "trend": "+1",
+  "sources": 53,
   "sentiment": {
-    "positive": 24,
+    "positive": 25,
     "neutral": 6,
     "negative": 22
   },
   "latest_articles": [
+    {
+      "id": "1bb6369e9d78b03c6ba7b8e206f037b0de49cbfc",
+      "title": "EU investment arm to spend over €4 billion on defence this year",
+      "summary": "The new figure accounts for 4% of the European Investment Bank's total investments",
+      "url": "https://www.euractiv.com/news/eu-investment-arm-to-spend-over-e4-billion-on-defence-this-year/",
+      "source": "Euractiv",
+      "published_at": "2026-01-29T11:58:00+00:00",
+      "sentiment": "positive",
+      "compound": 0.1027
+    },
     {
       "id": "4bbafbb5ac0cc0906e8e40056d1d5aa9b0fe7c53",
       "title": "Airbus Defence CEO: Two seperate fighter jets for FCAS a ‘good’ option",
@@ -118,18 +128,8 @@
       "published_at": "2026-01-28T18:36:05+00:00",
       "sentiment": "positive",
       "compound": 0.25
-    },
-    {
-      "id": "cc6fd15bdeeddef3201f6ba00bf07dccd872a01a",
-      "title": "Petrol, diesel cars to retain over 10% market share post-2035, EU climate chief says",
-      "summary": "Hoekstra also said that the future will be “overwhelmingly or completely electric”, according to experts",
-      "url": "https://www.euractiv.com/news/petrol-diesel-cars-to-retain-over-10-market-share-post-2035-eu-climate-chief-says/",
-      "source": "Euractiv",
-      "published_at": "2026-01-28T16:36:12+00:00",
-      "sentiment": "positive",
-      "compound": 0.296
     }
   ],
   "window_days": 14,
-  "last_updated": "2026-01-29T11:53:28Z"
+  "last_updated": "2026-01-29T12:29:44Z"
 }

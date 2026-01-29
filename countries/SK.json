@@ -1,14 +1,24 @@
 {
   "country": "SK",
-  "score": 82,
-  "trend": "+37",
-  "sources": 48,
+  "score": 83,
+  "trend": "+1",
+  "sources": 49,
   "sentiment": {
-    "positive": 22,
+    "positive": 23,
     "neutral": 6,
     "negative": 20
   },
   "latest_articles": [
+    {
+      "id": "1bb6369e9d78b03c6ba7b8e206f037b0de49cbfc",
+      "title": "EU investment arm to spend over €4 billion on defence this year",
+      "summary": "The new figure accounts for 4% of the European Investment Bank's total investments",
+      "url": "https://www.euractiv.com/news/eu-investment-arm-to-spend-over-e4-billion-on-defence-this-year/",
+      "source": "Euractiv",
+      "published_at": "2026-01-29T11:58:00+00:00",
+      "sentiment": "positive",
+      "compound": 0.1027
+    },
     {
       "id": "d66d5e90f6450b9f241267909c7ebabc88dfb288",
       "title": "Emission cuts slow as gas-fired heating makes a comeback",
@@ -118,18 +128,8 @@
       "published_at": "2026-01-28T16:36:12+00:00",
       "sentiment": "positive",
       "compound": 0.296
-    },
-    {
-      "id": "6b9c45ceef9104af28672ec2ac1f31f2a48846d0",
-      "title": "EU set to miss carbon storage target by half, Commission official says",
-      "summary": "Industry already challenging EU law on carbon storage deployment",
-      "url": "https://www.euractiv.com/news/eu-set-to-miss-carbon-storage-target-by-half-commission-official-says/",
-      "source": "Euractiv",
-      "published_at": "2026-01-28T16:18:57+00:00",
-      "sentiment": "neutral",
-      "compound": 0.0
     }
   ],
   "window_days": 14,
-  "last_updated": "2026-01-29T11:53:28Z"
+  "last_updated": "2026-01-29T12:29:44Z"
 }
