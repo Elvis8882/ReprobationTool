@@ -93,8 +93,7 @@ async function loadCountryScores(countries) {
     try {
       const data = await fetchCountryData(code);
       if (!data) return;
-      const articleCount =
-        data.articles ?? data.sources ?? data.latest_articles?.length ?? 0;
+      const articleCount = Number(data.sources ?? data.articles ?? data.latest_articles?.length ?? 0) || 0;
       countryArticleCounts[code] = articleCount;
       if (articleCount > 0 && typeof data.score === "number") {
         countryScores[code] = data.score;
@@ -309,32 +308,20 @@ function resetPopupData() {
   });
 }
 
-function normalizeTrend(trend) {
-  if (trend && typeof trend === "object") {
-    const deltaValue = Number(trend.delta);
-    if (!Number.isNaN(deltaValue)) {
-      const explicitDirection =
-        trend.direction === "up" ? "up" : trend.direction === "down" ? "down" : null;
-      const derivedDirection =
-        deltaValue > 0 ? "up" : deltaValue < 0 ? "down" : null;
+function parseTrend(trend) {
+  // Accept: "+3", "-2", "+0", 0, 2, -5, null/undefined
+  if (trend === null || trend === undefined) return null;
 
-      return {
-        delta: deltaValue,
-        direction: explicitDirection ?? derivedDirection
-      };
-    }
+  // If backend ever sends object, support it safely
+  if (typeof trend === "object") {
+    const delta = Number(trend.delta);
+    return Number.isFinite(delta) ? delta : null;
   }
 
-  const parsedDelta = Number(trend);
-  if (!Number.isNaN(parsedDelta)) {
-    return {
-      delta: parsedDelta,
-      direction: parsedDelta > 0 ? "up" : parsedDelta < 0 ? "down" : null
-    };
-  }
-
-  return { delta: null, direction: null };
+  const delta = Number(trend);
+  return Number.isFinite(delta) ? delta : null;
 }
+
 
 async function openPopup(countryEl) {
   const code = countryEl.id;
@@ -372,49 +359,44 @@ async function openPopup(countryEl) {
     scoreEl.style.fontWeight = "bold"; // value bold 
 
     const assessmentValueEl = document.getElementById("countryAssessmentValue");
-    if (articleCount === 0) {
-      scoreEl.innerText = NO_DATA_SCORE_TEXT;
-      scoreEl.style.color = "#777"; // only the value
-      assessmentValueEl.innerText = NO_DATA_ASSESSMENT_TEXT;
-      assessmentValueEl.style.color = "#777";
+       if (articleCount === 0) {
+     scoreEl.innerText = NO_DATA_SCORE_TEXT;
+     scoreEl.style.color = "#777";
+   
+     assessmentValueEl.innerText = NO_DATA_ASSESSMENT_TEXT;
+     assessmentValueEl.style.color = "#777";
+   } else {
+     scoreEl.innerText = data.score;
+     scoreEl.style.color = level?.color || "#777";
+   
+     assessmentValueEl.innerText = level.label;
+     assessmentValueEl.style.color = level.color;
+   }
+
+
       const trendEl = document.getElementById("countryTrend");
       trendEl.classList.remove("up", "down");
-      trendEl.innerText = "—";
-    } else {
-      scoreEl.innerText = data.score;
-      scoreEl.style.color = level?.color || "#777"; // only the value
-      assessmentValueEl.innerText = level.label;
-      assessmentValueEl.style.color = level.color;
-    }
-
-    if (articleCount !== 0) {
-      const trendEl = document.getElementById("countryTrend");
-      const trendInfo = normalizeTrend(data.trend);
-      trendEl.classList.remove("up", "down");
-
-      if (trendInfo.delta === null) {
-        trendEl.innerText = "—";
-      } else if (trendInfo.delta === 0) {
-        trendEl.innerText = "= 0";
+      
+      // NO DATA → NO TREND AT ALL
+      if (articleCount === 0) {
+        trendEl.innerText = "";
       } else {
-        const signedDelta =
-          trendInfo.direction === "down" && trendInfo.delta > 0
-            ? -trendInfo.delta
-            : trendInfo.direction === "up" && trendInfo.delta < 0
-              ? Math.abs(trendInfo.delta)
-              : trendInfo.delta;
-
-        trendEl.innerText = `${signedDelta}`;
-
-        if (trendInfo.direction === "up") {
+        const delta = Number(data.trend);
+      
+        if (!Number.isFinite(delta)) {
+          trendEl.innerText = "";
+        } else if (delta === 0) {
+          trendEl.innerText = "= 0";
+        } else if (delta > 0) {
           trendEl.classList.add("up");
-          trendEl.insertAdjacentText("afterbegin", "▲ ");
-        } else if (trendInfo.direction === "down") {
+          trendEl.innerText = `▲ +${delta}`;
+        } else {
           trendEl.classList.add("down");
-          trendEl.insertAdjacentText("afterbegin", "▼ ");
+          trendEl.innerText = `▼ ${delta}`; // already negative
         }
       }
-    }
+
+
 
     document.getElementById("countryArticles").innerText = articleCount;
 
