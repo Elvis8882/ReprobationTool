@@ -4,6 +4,7 @@
 
 const SELECTED_FILL = "#bbdefb"; // light blue
 const countryScores = {};
+const countryDataCache = new Map();
 
 const PRANK_COUNTRY_ID = "NL"; // the country code in your SVG
 const PRANK_URL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
@@ -84,10 +85,8 @@ async function loadCountryScores(countries) {
     const code = country.id;
 
     try {
-      const res = await fetch(`countries/${code}.json`);
-      if (!res.ok) return;
-
-      const data = await res.json();
+      const data = await fetchCountryData(code);
+      if (!data) return;
       countryScores[code] = data.score;
     } catch {
       // no JSON → ignore
@@ -95,6 +94,158 @@ async function loadCountryScores(countries) {
   });
 
   await Promise.all(tasks);
+}
+
+async function fetchCountryData(code) {
+  if (countryDataCache.has(code)) {
+    return countryDataCache.get(code);
+  }
+
+  const promise = fetch(`countries/${code}.json`)
+    .then(res => (res.ok ? res.json() : null))
+    .catch(() => null);
+
+  countryDataCache.set(code, promise);
+  return promise;
+}
+
+function truncateText(text, maxLength = 160) {
+  if (!text) return "";
+  if (text.length <= maxLength) return text;
+  return `${text.slice(0, maxLength).trim()}…`;
+}
+
+function createNewsItem(article) {
+  const li = document.createElement("li");
+  li.className = "news-item";
+
+  const title = document.createElement("div");
+  title.className = "news-title";
+
+  if (article.url) {
+    const link = document.createElement("a");
+    link.href = article.url;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    link.textContent = article.title || "Untitled article";
+    title.appendChild(link);
+  } else {
+    title.textContent = article.title || "Untitled article";
+  }
+
+  const summary = document.createElement("p");
+  summary.className = "news-summary";
+  summary.textContent = truncateText(article.summary || "Summary not available.");
+
+  const linkRow = document.createElement("div");
+  linkRow.className = "news-link";
+
+  if (article.url) {
+    const directLink = document.createElement("a");
+    directLink.href = article.url;
+    directLink.target = "_blank";
+    directLink.rel = "noopener noreferrer";
+    directLink.textContent = "Open link";
+    linkRow.appendChild(directLink);
+  }
+
+  li.appendChild(title);
+  li.appendChild(summary);
+  if (linkRow.childNodes.length > 0) {
+    li.appendChild(linkRow);
+  }
+
+  return li;
+}
+
+function renderArticles(listEl, articles, emptyMessage) {
+  if (!listEl) return;
+  listEl.innerHTML = "";
+
+  if (!articles.length) {
+    const emptyItem = document.createElement("li");
+    emptyItem.className = "news-empty";
+    emptyItem.textContent = emptyMessage;
+    listEl.appendChild(emptyItem);
+    return;
+  }
+
+  articles.forEach(article => {
+    listEl.appendChild(createNewsItem(article));
+  });
+}
+
+function dedupeArticles(articles) {
+  const seen = new Set();
+  const unique = [];
+
+  articles.forEach(article => {
+    const key = article.id || article.url || article.title;
+    if (!key || seen.has(key)) return;
+    seen.add(key);
+    unique.push(article);
+  });
+
+  return unique;
+}
+
+function calculateSentimentShares(pos, neu, neg) {
+  const total = pos + neu + neg;
+  const emptyShare = 100 / 3;
+
+  if (total === 0) {
+    return { posShare: emptyShare, neuShare: emptyShare, negShare: emptyShare };
+  }
+
+  const minShare = 5;
+  const zeroCount = [pos, neu, neg].filter(value => value === 0).length;
+
+  if (zeroCount === 0) {
+    return {
+      posShare: (pos / total) * 100,
+      neuShare: (neu / total) * 100,
+      negShare: (neg / total) * 100
+    };
+  }
+
+  const reserved = minShare * zeroCount;
+  const remaining = Math.max(100 - reserved, 0);
+  const nonZeroTotal = pos + neu + neg;
+
+  const posShare = pos === 0 ? minShare : (pos / nonZeroTotal) * remaining;
+  const neuShare = neu === 0 ? minShare : (neu / nonZeroTotal) * remaining;
+  const negShare = neg === 0 ? minShare : (neg / nonZeroTotal) * remaining;
+
+  return { posShare, neuShare, negShare };
+}
+
+async function loadLatestNews(countries) {
+  const listEl = document.getElementById("latest-news-list");
+  const placeholderEl = document.getElementById("latest-news-placeholder");
+
+  const tasks = Array.from(countries).map(async country => {
+    const data = await fetchCountryData(country.id);
+    if (!data || !Array.isArray(data.latest_articles)) {
+      return [];
+    }
+    return data.latest_articles;
+  });
+
+  const results = await Promise.all(tasks);
+  const articles = results.flat().map(article => ({
+    ...article,
+    publishedAtMs: Date.parse(article.published_at) || 0
+  }));
+
+  const uniqueArticles = dedupeArticles(articles);
+  uniqueArticles.sort((a, b) => b.publishedAtMs - a.publishedAtMs);
+  const latestTwenty = uniqueArticles.slice(0, 20);
+
+  if (placeholderEl) {
+    placeholderEl.style.display = latestTwenty.length ? "none" : "";
+  }
+
+  renderArticles(listEl, latestTwenty, "No recent articles available.");
 }
 
 
@@ -153,6 +304,8 @@ function resetPopupData() {
   document.getElementById("sentNeg").innerText = "";
 
   document.getElementById("lastUpdated").innerText = "";
+  const popupNewsList = document.getElementById("popup-country-news");
+  if (popupNewsList) popupNewsList.innerHTML = "";
 
   ["sentPosBar", "sentNeuBar", "sentNegBar"].forEach(id => {
     const el = document.getElementById(id);
@@ -215,18 +368,24 @@ async function openPopup(countryEl) {
     const data = await res.json();
     await delay(1500);
 
-    const level = scoreToLevel(data.score);
-
     const scoreEl = document.getElementById("countryScore");
     const scoreP = scoreEl.parentElement;
+    const articleCount = data.articles ?? data.sources ?? data.latest_articles?.length ?? 0;
+    const level = scoreToLevel(data.score);
 
     scoreEl.innerText = data.score;
-    scoreEl.style.color = level.color; // only the value
-     scoreEl.style.fontWeight = "bold"; // value bold 
+    scoreEl.style.color = level?.color || "#777"; // only the value
+    scoreEl.style.fontWeight = "bold"; // value bold 
 
     const assessmentValueEl = document.getElementById("countryAssessmentValue");
-    assessmentValueEl.innerText = level.label;
-    assessmentValueEl.style.color = level.color;
+    if (articleCount === 0) {
+      assessmentValueEl.innerText = "Not enough information";
+      assessmentValueEl.style.color = "#777";
+      scoreEl.style.color = "#777";
+    } else {
+      assessmentValueEl.innerText = level.label;
+      assessmentValueEl.style.color = level.color;
+    }
 
     const trendEl = document.getElementById("countryTrend");
     const trendInfo = normalizeTrend(data.trend);
@@ -234,6 +393,8 @@ async function openPopup(countryEl) {
 
     if (trendInfo.delta === null) {
       trendEl.innerText = "—";
+    } else if (trendInfo.delta === 0) {
+      trendEl.innerText = "= 0";
     } else {
       const signedDelta =
         trendInfo.direction === "down" && trendInfo.delta > 0
@@ -253,8 +414,22 @@ async function openPopup(countryEl) {
       }
     }
 
-    const articleCount = data.articles ?? data.sources ?? data.latest_articles?.length ?? 0;
     document.getElementById("countryArticles").innerText = articleCount;
+
+    const popupNewsList = document.getElementById("popup-country-news");
+    const countryArticles = Array.isArray(data.latest_articles)
+      ? data.latest_articles.map(article => ({
+          ...article,
+          publishedAtMs: Date.parse(article.published_at) || 0
+        }))
+      : [];
+
+    countryArticles.sort((a, b) => b.publishedAtMs - a.publishedAtMs);
+    renderArticles(
+      popupNewsList,
+      countryArticles.slice(0, 12),
+      "No recent articles available for this country."
+    );
 
       const posBar = document.getElementById("sentPosBar");
       const neuBar = document.getElementById("sentNeuBar");
@@ -265,20 +440,24 @@ async function openPopup(countryEl) {
       const negNum = document.getElementById("sentNeg");
       
       if (posBar && neuBar && negBar) {
-        const pos = data.sentiment.positive || 0;
-        const neu = data.sentiment.neutral || 0;
-        const neg = data.sentiment.negative || 0;
-        const total = pos + neu + neg || 1;
+        const pos = data.sentiment?.positive || 0;
+        const neu = data.sentiment?.neutral || 0;
+        const neg = data.sentiment?.negative || 0;
+        const { posShare, neuShare, negShare } = calculateSentimentShares(
+          pos,
+          neu,
+          neg
+        );
       
         // set bar widths
-        posBar.style.width = `${(pos / total) * 100}%`;
-        neuBar.style.width = `${(neu / total) * 100}%`;
-        negBar.style.width = `${(neg / total) * 100}%`;
+        posBar.style.width = `${posShare}%`;
+        neuBar.style.width = `${neuShare}%`;
+        negBar.style.width = `${negShare}%`;
       
         // set numbers above proportionally (width = bar width)
-        posNum.style.flex = `0 0 ${(pos / total) * 100}%`;
-        neuNum.style.flex = `0 0 ${(neu / total) * 100}%`;
-        negNum.style.flex = `0 0 ${(neg / total) * 100}%`;
+        posNum.style.flex = `0 0 ${posShare}%`;
+        neuNum.style.flex = `0 0 ${neuShare}%`;
+        negNum.style.flex = `0 0 ${negShare}%`;
       
         posNum.innerText = pos;
         neuNum.innerText = neu;
@@ -325,6 +504,11 @@ async function openPopup(countryEl) {
     document.getElementById("countryScore").innerText = "—";
     document.getElementById("countryArticles").innerText = "—";
     document.getElementById("lastUpdated").innerText = "—";
+    renderArticles(
+      document.getElementById("popup-country-news"),
+      [],
+      "No recent articles available for this country."
+    );
   } finally {
     loadingEl.classList.add("hidden");
     dataEl.classList.remove("hidden");
@@ -378,6 +562,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   const countries = document.querySelectorAll("svg path");
   await loadCountryScores(countries);
+  await loadLatestNews(countries);
   console.log("Countries found:", countries.length);
 
   countries.forEach(country => {
@@ -543,4 +728,3 @@ mapContainer.parentElement.addEventListener('wheel', panzoom.zoomWithWheel);
 // Zoom buttons
 document.getElementById("zoom-in").addEventListener("click", () => panzoom.zoomIn());
 document.getElementById("zoom-out").addEventListener("click", () => panzoom.zoomOut());
-
