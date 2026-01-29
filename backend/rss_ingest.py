@@ -1,6 +1,7 @@
 import feedparser
 import hashlib
 import json
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 import yaml
@@ -8,6 +9,9 @@ import yaml
 BASE_DIR = Path(__file__).resolve().parent.parent
 ARTICLES_DIR = BASE_DIR / "data" / "articles"
 FEEDS_FILE = BASE_DIR / "data" / "feeds.yaml"
+
+PUBLIC_SNIPPET_LEN = 220
+FULL_SUMMARY_CAP = 2000
 
 
 def make_id(url: str) -> str:
@@ -21,8 +25,26 @@ def parse_date(entry):
 
 
 def load_feeds():
-    with open(FEEDS_FILE, "r") as f:
+    with open(FEEDS_FILE, "r", encoding="utf-8") as f:
         return yaml.safe_load(f)["feeds"]
+
+
+def strip_html(s: str) -> str:
+    # minimal HTML tag remover (stdlib only)
+    return re.sub(r"<[^>]+>", "", s or "").strip()
+
+
+def make_summaries(entry) -> tuple[str, str]:
+    raw = entry.get("summary") or entry.get("description") or ""
+    full = strip_html(raw)
+    full = full[:FULL_SUMMARY_CAP]
+
+    if len(full) > PUBLIC_SNIPPET_LEN:
+        public = full[:PUBLIC_SNIPPET_LEN].rstrip() + "…"
+    else:
+        public = full
+
+    return full, public
 
 
 def save_article(article: dict) -> bool:
@@ -48,7 +70,7 @@ def ingest():
         print(f"Reading feed: {feed['url']}")
         parsed = feedparser.parse(
             feed["url"],
-            request_headers={'User-Agent': 'Mozilla/5.0 (compatible; MyRSSBot/1.0)'}
+            request_headers={"User-Agent": "Mozilla/5.0 (compatible; MyRSSBot/1.0)"}
         )
 
         # HTTP error check
@@ -62,11 +84,13 @@ def ingest():
                 continue
 
             published = parse_date(entry)
+            summary_full, summary_public = make_summaries(entry)
 
             article = {
                 "id": make_id(entry.link),
-                "title": entry.get("title", "").strip(),
-                "summary": entry.get("summary", "").strip()[:500],
+                "title": (entry.get("title") or "").strip(),
+                "summary_full": summary_full,
+                "summary_public": summary_public,
                 "url": entry.link,
                 "published_at": published.isoformat(),
                 "source": feed["source"],
@@ -84,6 +108,7 @@ def ingest():
                 print(f"ℹ️ Article already exists: {article['title']}")
 
     print(f"Stored {stored} new articles")
+
 
 if __name__ == "__main__":
     ingest()
