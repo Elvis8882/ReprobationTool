@@ -3,6 +3,9 @@
 ========================= */
 
 const SELECTED_FILL = "#bbdefb"; // light blue
+const NEUTRAL_SCORE = 90;
+const NO_DATA_SCORE_TEXT = "Not enough data";
+const NO_DATA_ASSESSMENT_TEXT = "No information available";
 const countryScores = {};
 const countryArticleCounts = {};
 const countryDataCache = new Map();
@@ -84,13 +87,18 @@ function nextFrame() {
 async function loadCountryScores(countries) {
   const tasks = Array.from(countries).map(async country => {
     const code = country.id;
+    countryScores[code] = NEUTRAL_SCORE;
+    countryArticleCounts[code] = 0;
 
     try {
       const data = await fetchCountryData(code);
       if (!data) return;
-      countryScores[code] = data.score;
-      countryArticleCounts[code] =
+      const articleCount =
         data.articles ?? data.sources ?? data.latest_articles?.length ?? 0;
+      countryArticleCounts[code] = articleCount;
+      if (articleCount > 0 && typeof data.score === "number") {
+        countryScores[code] = data.score;
+      }
     } catch {
       // no JSON → ignore
     }
@@ -365,10 +373,10 @@ async function openPopup(countryEl) {
 
     const assessmentValueEl = document.getElementById("countryAssessmentValue");
     if (articleCount === 0) {
-      scoreEl.innerText = data.score;
-      scoreEl.style.color = level?.color || "#777"; // only the value
-      assessmentValueEl.innerText = level?.label || "No Commentary";
-      assessmentValueEl.style.color = level?.color || "#777";
+      scoreEl.innerText = NO_DATA_SCORE_TEXT;
+      scoreEl.style.color = "#777"; // only the value
+      assessmentValueEl.innerText = NO_DATA_ASSESSMENT_TEXT;
+      assessmentValueEl.style.color = "#777";
       const trendEl = document.getElementById("countryTrend");
       trendEl.classList.remove("up", "down");
       trendEl.innerText = "—";
