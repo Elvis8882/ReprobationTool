@@ -1,4 +1,4 @@
-name: Ingest + Process RSS articles
+name: Ingest + Process + Score RSS articles
 
 on:
   workflow_dispatch:
@@ -24,19 +24,19 @@ jobs:
       - name: Install dependencies
         run: pip install -r backend/requirements.txt
 
-      # 1️⃣ Ingest (unchanged)
       - name: Run RSS ingestion
         run: python backend/rss_ingest.py
 
-      # 2️⃣ Process articles (NEW)
       - name: Process articles (detect countries + sentiment)
         run: python backend/process_articles.py
 
-      # 3️⃣ Commit changes (articles only)
+      - name: Score countries (write /countries/*.json)
+        run: python backend/score_countries.py
+
       - name: Commit updates
         run: |
           git config user.name "rss-bot"
           git config user.email "rss-bot@users.noreply.github.com"
-          git add data/articles
-          git diff --cached --quiet || git commit -m "Ingest + process RSS articles"
+          git add data/articles countries
+          git diff --cached --quiet || git commit -m "Ingest + process + score RSS"
           git push
