@@ -150,11 +150,6 @@ def detect(text: str):
         if rx.search(t):
             detected.add(iso)
 
-    # Normalize UK -> GB (your requirement)
-    if "UK" in detected:
-        detected.remove("UK")
-        detected.add("GB")
-
     # Expand scoring:
     # - score all detected countries (your requirement #1)
     # - if EU-wide, also add EU members (even if not explicitly mentioned)
@@ -182,7 +177,13 @@ def process_articles():
             continue
 
         title = (article.get("title") or "").strip()
-        summary = (article.get("summary") or "").strip()
+        summary = (
+            article.get("summary_full")
+            or article.get("summary")
+            or article.get("summary_public")
+            or ""
+        ).strip()
+
         text = f"{title}\n{summary}".strip()
 
         if len(text) < MIN_TEXT_LEN:
