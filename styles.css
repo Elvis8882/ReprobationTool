@@ -215,6 +215,62 @@ svg path.active {
   font-style: italic;
 }
 
+.news-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding-left: 0;
+}
+
+.news-item {
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 10px;
+}
+
+.news-item:last-child {
+  border-bottom: none;
+}
+
+.news-title {
+  font-weight: bold;
+  font-size: 0.95rem;
+}
+
+.news-title a {
+  color: #1976d2;
+  text-decoration: none;
+}
+
+.news-title a:hover {
+  text-decoration: underline;
+}
+
+.news-summary {
+  margin-top: 4px;
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.news-link {
+  margin-top: 4px;
+}
+
+.news-link a {
+  font-size: 0.8rem;
+  color: #1976d2;
+  text-decoration: none;
+}
+
+.news-link a:hover {
+  text-decoration: underline;
+}
+
+.news-empty {
+  color: #777;
+  font-style: italic;
+}
+
 /* Right panel */
 #country-panel {
   padding: 16px;    /* padding */
@@ -395,15 +451,6 @@ dialog::backdrop {
   width: 100%;
 }
 
-#popup-country-news li {
-  padding: 4px 0;
-  border-bottom: 1px solid #eee;
-  font-size: 0.95rem;
-}
-
-#popup-country-news li:last-child {
-  border-bottom: none;
-}
 
 /* Last updated */
 #popup-last-updated {
