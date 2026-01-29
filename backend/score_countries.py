@@ -130,14 +130,15 @@ def main():
         # build a lightweight card for UI
         card = {
             "id": a.get("id"),
-            "title": a.get("title"),
-            "summary": a.get("summary"),
+            "title": a.get("title") or "",
+            "summary": (a.get("summary_public") or a.get("summary") or ""),
             "url": a.get("url"),
             "source": a.get("source"),
             "published_at": a.get("published_at"),
             "sentiment": label,
             "compound": compound,
         }
+
 
         for c in targets:
             if c not in stats:
@@ -173,11 +174,23 @@ def main():
         trend = "+0" if prev_score is None else f"{score - prev_score:+d}"
 
         # latest articles sorted by published desc and capped
-        latest = sorted(
+        latest_sorted = sorted(
             stats[c]["latest"],
             key=lambda x: (parse_dt(x.get("published_at")) or datetime.min.replace(tzinfo=timezone.utc)),
             reverse=True
-        )[:LATEST_PER_COUNTRY]
+        )
+        
+        seen = set()
+        latest = []
+        for it in latest_sorted:
+            aid = it.get("id")
+            if not aid or aid in seen:
+                continue
+            seen.add(aid)
+            latest.append(it)
+            if len(latest) >= LATEST_PER_COUNTRY:
+                break
+
 
         out = {
             "country": c,                 # keep ISO/SVG ID; UI can map to display name
