@@ -160,6 +160,33 @@ function resetPopupData() {
   });
 }
 
+function normalizeTrend(trend) {
+  if (trend && typeof trend === "object") {
+    const deltaValue = Number(trend.delta);
+    if (!Number.isNaN(deltaValue)) {
+      const explicitDirection =
+        trend.direction === "up" ? "up" : trend.direction === "down" ? "down" : null;
+      const derivedDirection =
+        deltaValue > 0 ? "up" : deltaValue < 0 ? "down" : null;
+
+      return {
+        delta: deltaValue,
+        direction: explicitDirection ?? derivedDirection
+      };
+    }
+  }
+
+  const parsedDelta = Number(trend);
+  if (!Number.isNaN(parsedDelta)) {
+    return {
+      delta: parsedDelta,
+      direction: parsedDelta > 0 ? "up" : parsedDelta < 0 ? "down" : null
+    };
+  }
+
+  return { delta: null, direction: null };
+}
+
 async function openPopup(countryEl) {
   const code = countryEl.id;
   const overlay = document.getElementById("overlay");
@@ -202,12 +229,32 @@ async function openPopup(countryEl) {
     assessmentValueEl.style.color = level.color;
 
     const trendEl = document.getElementById("countryTrend");
-    trendEl.innerText = `${data.trend.delta}`;
-    trendEl.classList.remove("up","down");
-    trendEl.classList.add(data.trend.direction === "up" ? "up" : "down");
-    trendEl.insertAdjacentText("afterbegin", data.trend.direction === "up" ? "▲ " : "▼ ");
+    const trendInfo = normalizeTrend(data.trend);
+    trendEl.classList.remove("up", "down");
 
-    document.getElementById("countryArticles").innerText = data.articles;
+    if (trendInfo.delta === null) {
+      trendEl.innerText = "—";
+    } else {
+      const signedDelta =
+        trendInfo.direction === "down" && trendInfo.delta > 0
+          ? -trendInfo.delta
+          : trendInfo.direction === "up" && trendInfo.delta < 0
+            ? Math.abs(trendInfo.delta)
+            : trendInfo.delta;
+
+      trendEl.innerText = `${signedDelta}`;
+
+      if (trendInfo.direction === "up") {
+        trendEl.classList.add("up");
+        trendEl.insertAdjacentText("afterbegin", "▲ ");
+      } else if (trendInfo.direction === "down") {
+        trendEl.classList.add("down");
+        trendEl.insertAdjacentText("afterbegin", "▼ ");
+      }
+    }
+
+    const articleCount = data.articles ?? data.sources ?? data.latest_articles?.length ?? 0;
+    document.getElementById("countryArticles").innerText = articleCount;
 
       const posBar = document.getElementById("sentPosBar");
       const neuBar = document.getElementById("sentNeuBar");
@@ -496,6 +543,4 @@ mapContainer.parentElement.addEventListener('wheel', panzoom.zoomWithWheel);
 // Zoom buttons
 document.getElementById("zoom-in").addEventListener("click", () => panzoom.zoomIn());
 document.getElementById("zoom-out").addEventListener("click", () => panzoom.zoomOut());
-
-
 
