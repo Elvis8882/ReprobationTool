@@ -1,14 +1,24 @@
 {
   "country": "DE",
-  "score": 83,
-  "trend": "+11",
-  "sources": 49,
+  "score": 84,
+  "trend": "+1",
+  "sources": 50,
   "sentiment": {
-    "positive": 23,
+    "positive": 24,
     "neutral": 6,
     "negative": 20
   },
   "latest_articles": [
+    {
+      "id": "1bb6369e9d78b03c6ba7b8e206f037b0de49cbfc",
+      "title": "EU investment arm to spend over €4 billion on defence this year",
+      "summary": "The new figure accounts for 4% of the European Investment Bank's total investments",
+      "url": "https://www.euractiv.com/news/eu-investment-arm-to-spend-over-e4-billion-on-defence-this-year/",
+      "source": "Euractiv",
+      "published_at": "2026-01-29T11:58:00+00:00",
+      "sentiment": "positive",
+      "compound": 0.1027
+    },
     {
       "id": "4bbafbb5ac0cc0906e8e40056d1d5aa9b0fe7c53",
       "title": "Airbus Defence CEO: Two seperate fighter jets for FCAS a ‘good’ option",
@@ -118,18 +128,8 @@
       "published_at": "2026-01-28T16:36:12+00:00",
       "sentiment": "positive",
       "compound": 0.296
-    },
-    {
-      "id": "23785e2c2af134ba27267f35be4b872c8dcd78a1",
-      "title": "Probe launched into drug use at German defence academy",
-      "summary": "This comes as the German armed forces step up a recruitment drive",
-      "url": "https://www.euractiv.com/news/probe-launched-into-drug-use-at-german-defence-academy/",
-      "source": "Euractiv",
-      "published_at": "2026-01-28T16:32:52+00:00",
-      "sentiment": "positive",
-      "compound": 0.2263
     }
   ],
   "window_days": 14,
-  "last_updated": "2026-01-29T11:53:28Z"
+  "last_updated": "2026-01-29T12:29:44Z"
 }
