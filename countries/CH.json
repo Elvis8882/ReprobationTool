@@ -1,14 +1,24 @@
 {
   "country": "CH",
-  "score": 95,
-  "trend": "+45",
-  "sources": 2,
+  "score": 60,
+  "trend": "-35",
+  "sources": 3,
   "sentiment": {
     "positive": 1,
     "neutral": 1,
-    "negative": 0
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "accd15b94c57803f4e10f6b72d1f75f6ade6e1b5",
+      "title": "Criminal investigation opened into two officials over deadly new year Swiss fire",
+      "summary": "Prosecutors questioning Crans-Montana head of public safety and a former fire safety officer, documents showProsecutors investigating the deadly new year bar fire that killed 40 people in the Swiss ski resort of Crans-Mo…",
+      "url": "https://www.theguardian.com/world/2026/jan/29/criminal-investigation-crans-montana-officials-swiss-fire",
+      "source": "World news - The Guardian",
+      "published_at": "2026-01-29T16:59:55+00:00",
+      "sentiment": "negative",
+      "compound": -0.8885
+    },
     {
       "id": "a57baf279ab2d5e98e8c4122bbcea2ba3366d4aa",
       "title": "The ‘strongest currency on earth’ just hit an 11-year high — and it’s stirring up trouble in Switzerland",
@@ -31,5 +41,5 @@
     }
   ],
   "window_days": 14,
-  "last_updated": "2026-01-29T15:02:15Z"
+  "last_updated": "2026-01-29T18:29:23Z"
 }

@@ -1,14 +1,24 @@
 {
   "country": "NO",
-  "score": 97,
-  "trend": "+41",
-  "sources": 3,
+  "score": 70,
+  "trend": "-27",
+  "sources": 4,
   "sentiment": {
     "positive": 2,
     "neutral": 1,
-    "negative": 0
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "df0744ed20fda66a17aa88a2f92fc4f5bc35b576",
+      "title": "Polar bears on Norwegian islands fatter and healthier despite ice loss, scientists say",
+      "summary": "Scientists think that Svalbard bears have adapted to recent ice loss by eating more land-based prey.",
+      "url": "https://www.bbc.com/news/articles/cx2l1xpz03no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-01-29T16:00:09+00:00",
+      "sentiment": "negative",
+      "compound": -0.0869
+    },
     {
       "id": "af60ddac895cdfe25d48c38b24a4decc5b035a94",
       "title": "World’s largest sovereign wealth fund made $247 billion in 2025, driven by tech and banking rally",
@@ -41,5 +51,5 @@
     }
   ],
   "window_days": 14,
-  "last_updated": "2026-01-29T15:02:15Z"
+  "last_updated": "2026-01-29T18:29:23Z"
 }
