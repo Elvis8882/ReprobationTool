@@ -51,7 +51,7 @@ def compute_score(pos: int, neu: int, neg: int) -> int:
     pos_ratio = pos / total
     neg_ratio = neg / total
 
-    score = 90 - (70 * neg_ratio) + (10 * pos_ratio)
+    score = 90 - (99 * neg_ratio) + (10 * pos_ratio)
     return int(round(clamp(score, 1, 100)))
 
 def sentiment_label(compound: float) -> str:
