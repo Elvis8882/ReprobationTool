@@ -175,6 +175,50 @@ function renderArticles(listEl, articles, emptyMessage) {
   });
 }
 
+function dedupeArticles(articles) {
+  const seen = new Set();
+  const unique = [];
+
+  articles.forEach(article => {
+    const key = article.id || article.url || article.title;
+    if (!key || seen.has(key)) return;
+    seen.add(key);
+    unique.push(article);
+  });
+
+  return unique;
+}
+
+function calculateSentimentShares(pos, neu, neg) {
+  const total = pos + neu + neg;
+  const emptyShare = 100 / 3;
+
+  if (total === 0) {
+    return { posShare: emptyShare, neuShare: emptyShare, negShare: emptyShare };
+  }
+
+  const minShare = 5;
+  const zeroCount = [pos, neu, neg].filter(value => value === 0).length;
+
+  if (zeroCount === 0) {
+    return {
+      posShare: (pos / total) * 100,
+      neuShare: (neu / total) * 100,
+      negShare: (neg / total) * 100
+    };
+  }
+
+  const reserved = minShare * zeroCount;
+  const remaining = Math.max(100 - reserved, 0);
+  const nonZeroTotal = pos + neu + neg;
+
+  const posShare = pos === 0 ? minShare : (pos / nonZeroTotal) * remaining;
+  const neuShare = neu === 0 ? minShare : (neu / nonZeroTotal) * remaining;
+  const negShare = neg === 0 ? minShare : (neg / nonZeroTotal) * remaining;
+
+  return { posShare, neuShare, negShare };
+}
+
 async function loadLatestNews(countries) {
   const listEl = document.getElementById("latest-news-list");
   const placeholderEl = document.getElementById("latest-news-placeholder");
@@ -193,8 +237,9 @@ async function loadLatestNews(countries) {
     publishedAtMs: Date.parse(article.published_at) || 0
   }));
 
-  articles.sort((a, b) => b.publishedAtMs - a.publishedAtMs);
-  const latestTwenty = articles.slice(0, 20);
+  const uniqueArticles = dedupeArticles(articles);
+  uniqueArticles.sort((a, b) => b.publishedAtMs - a.publishedAtMs);
+  const latestTwenty = uniqueArticles.slice(0, 20);
 
   if (placeholderEl) {
     placeholderEl.style.display = latestTwenty.length ? "none" : "";
@@ -348,6 +393,8 @@ async function openPopup(countryEl) {
 
     if (trendInfo.delta === null) {
       trendEl.innerText = "—";
+    } else if (trendInfo.delta === 0) {
+      trendEl.innerText = "= 0";
     } else {
       const signedDelta =
         trendInfo.direction === "down" && trendInfo.delta > 0
@@ -380,7 +427,7 @@ async function openPopup(countryEl) {
     countryArticles.sort((a, b) => b.publishedAtMs - a.publishedAtMs);
     renderArticles(
       popupNewsList,
-      countryArticles.slice(0, 20),
+      countryArticles.slice(0, 12),
       "No recent articles available for this country."
     );
 
@@ -396,11 +443,11 @@ async function openPopup(countryEl) {
         const pos = data.sentiment?.positive || 0;
         const neu = data.sentiment?.neutral || 0;
         const neg = data.sentiment?.negative || 0;
-        const total = pos + neu + neg;
-        const emptyShare = 100 / 3;
-        const posShare = total === 0 ? emptyShare : (pos / total) * 100;
-        const neuShare = total === 0 ? emptyShare : (neu / total) * 100;
-        const negShare = total === 0 ? emptyShare : (neg / total) * 100;
+        const { posShare, neuShare, negShare } = calculateSentimentShares(
+          pos,
+          neu,
+          neg
+        );
       
         // set bar widths
         posBar.style.width = `${posShare}%`;

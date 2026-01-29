@@ -362,8 +362,9 @@ dialog::backdrop {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 400px;
+  width: 440px;
   max-width: 90vw; /* limit width */
+  max-height: 90vh;
   background: white;
   padding: 20px;
   border-radius: 8px;
@@ -418,6 +419,7 @@ dialog::backdrop {
   align-items: center;
   gap: 0.6rem;
   min-height: 80px; /* reserve */
+  width: 100%;
 }
 
 .popup-loading {
@@ -445,10 +447,18 @@ dialog::backdrop {
 }
 
 #popup-country-news {
-  list-style: none;
-  padding-left: 0;
   margin: 4px 0 0 0;
   width: 100%;
+}
+
+#popup-newsletters {
+  width: 100%;
+}
+
+#popup-newsletters .news-list {
+  max-height: 240px;
+  overflow-y: auto;
+  padding-right: 6px;
 }
 
 
