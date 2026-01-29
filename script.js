@@ -4,6 +4,7 @@
 
 const SELECTED_FILL = "#bbdefb"; // light blue
 const countryScores = {};
+const countryArticleCounts = {};
 const countryDataCache = new Map();
 
 const PRANK_COUNTRY_ID = "NL"; // the country code in your SVG
@@ -88,6 +89,8 @@ async function loadCountryScores(countries) {
       const data = await fetchCountryData(code);
       if (!data) return;
       countryScores[code] = data.score;
+      countryArticleCounts[code] =
+        data.articles ?? data.sources ?? data.latest_articles?.length ?? 0;
     } catch {
       // no JSON → ignore
     }
@@ -137,23 +140,8 @@ function createNewsItem(article) {
   summary.className = "news-summary";
   summary.textContent = truncateText(article.summary || "Summary not available.");
 
-  const linkRow = document.createElement("div");
-  linkRow.className = "news-link";
-
-  if (article.url) {
-    const directLink = document.createElement("a");
-    directLink.href = article.url;
-    directLink.target = "_blank";
-    directLink.rel = "noopener noreferrer";
-    directLink.textContent = "Open link";
-    linkRow.appendChild(directLink);
-  }
-
   li.appendChild(title);
   li.appendChild(summary);
-  if (linkRow.childNodes.length > 0) {
-    li.appendChild(linkRow);
-  }
 
   return li;
 }
@@ -373,44 +361,50 @@ async function openPopup(countryEl) {
     const articleCount = data.articles ?? data.sources ?? data.latest_articles?.length ?? 0;
     const level = scoreToLevel(data.score);
 
-    scoreEl.innerText = data.score;
-    scoreEl.style.color = level?.color || "#777"; // only the value
     scoreEl.style.fontWeight = "bold"; // value bold 
 
     const assessmentValueEl = document.getElementById("countryAssessmentValue");
     if (articleCount === 0) {
+      scoreEl.innerText = "Not available";
+      scoreEl.style.color = "#777";
+      const trendEl = document.getElementById("countryTrend");
+      trendEl.classList.remove("up", "down");
+      trendEl.innerText = "";
       assessmentValueEl.innerText = "Not enough information";
       assessmentValueEl.style.color = "#777";
-      scoreEl.style.color = "#777";
     } else {
+      scoreEl.innerText = data.score;
+      scoreEl.style.color = level?.color || "#777"; // only the value
       assessmentValueEl.innerText = level.label;
       assessmentValueEl.style.color = level.color;
     }
 
-    const trendEl = document.getElementById("countryTrend");
-    const trendInfo = normalizeTrend(data.trend);
-    trendEl.classList.remove("up", "down");
+    if (articleCount !== 0) {
+      const trendEl = document.getElementById("countryTrend");
+      const trendInfo = normalizeTrend(data.trend);
+      trendEl.classList.remove("up", "down");
 
-    if (trendInfo.delta === null) {
-      trendEl.innerText = "—";
-    } else if (trendInfo.delta === 0) {
-      trendEl.innerText = "= 0";
-    } else {
-      const signedDelta =
-        trendInfo.direction === "down" && trendInfo.delta > 0
-          ? -trendInfo.delta
-          : trendInfo.direction === "up" && trendInfo.delta < 0
-            ? Math.abs(trendInfo.delta)
-            : trendInfo.delta;
+      if (trendInfo.delta === null) {
+        trendEl.innerText = "—";
+      } else if (trendInfo.delta === 0) {
+        trendEl.innerText = "= 0";
+      } else {
+        const signedDelta =
+          trendInfo.direction === "down" && trendInfo.delta > 0
+            ? -trendInfo.delta
+            : trendInfo.direction === "up" && trendInfo.delta < 0
+              ? Math.abs(trendInfo.delta)
+              : trendInfo.delta;
 
-      trendEl.innerText = `${signedDelta}`;
+        trendEl.innerText = `${signedDelta}`;
 
-      if (trendInfo.direction === "up") {
-        trendEl.classList.add("up");
-        trendEl.insertAdjacentText("afterbegin", "▲ ");
-      } else if (trendInfo.direction === "down") {
-        trendEl.classList.add("down");
-        trendEl.insertAdjacentText("afterbegin", "▼ ");
+        if (trendInfo.direction === "up") {
+          trendEl.classList.add("up");
+          trendEl.insertAdjacentText("afterbegin", "▲ ");
+        } else if (trendInfo.direction === "down") {
+          trendEl.classList.add("down");
+          trendEl.insertAdjacentText("afterbegin", "▼ ");
+        }
       }
     }
 
@@ -575,10 +569,11 @@ document.addEventListener("DOMContentLoaded", async () => {
     const score = countryScores[country.id];
 
     if (score !== undefined) {
-      const fill = scoreToColor(score);
+      const articleCount = countryArticleCounts[country.id] ?? 0;
+      const fill = articleCount === 0 ? "#bdbdbd" : scoreToColor(score);
       country.style.fill = fill;
       country.dataset.originalFill = fill;
-      country.setAttribute("data-note", "scored");
+      country.setAttribute("data-note", articleCount === 0 ? "no-articles" : "scored");
     } else {
       country.dataset.originalFill = country.style.fill || "";
     }
