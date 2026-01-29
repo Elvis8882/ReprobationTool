@@ -1,4 +1,4 @@
-/* 1. Reset margins and paddings to avoid page scroll */
+/* Reset */
 * {
   margin: 0;
   padding: 0;
@@ -10,10 +10,32 @@ html, body {
   width: 100%;
   font-family: Arial, sans-serif;
   display: flex;
-  flex-direction: column; /* vertical layout */
+  flex-direction: column; /* column */
 }
 
-/* 2. Header and subtitle */
+#layout {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  flex: 1 1 auto;  /* fill space */
+  gap: 10px;
+  padding: 0 10px;
+  min-height: 0;   /* allow scroll */
+  overflow: hidden;   /* contain grid */
+}
+
+/* Panels */
+main, aside {
+  background: #f5f5f5;
+  padding: 10px;
+  border-radius: 6px;
+  height: 100%;
+  min-height: 0;  /* allow scroll */
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+/* Header */
 header {
   margin: 1px 0;
   font-size: 1.2rem;
@@ -27,6 +49,35 @@ header {
   margin-bottom: 2px;
 }
 
+/* Map */
+#map-wrapper {
+  position: relative; 
+  width: 100%;
+  height: 100%;
+}
+
+#map-panel {
+  display: flex;           /* flex */
+  flex-direction: column;
+  justify-content: flex-start; /* top */
+  align-items: stretch;         /* stretch */
+  overflow: hidden;             /* clip */
+  height: 100%;
+  width: 100%;
+}
+
+#map-container {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  cursor: grab;
+}
+
+#map-container svg {
+  width: 100%;
+  height: 100%;
+}
+
 svg path {
   fill: #cfd8dc;
   stroke: #455a64;
@@ -36,109 +87,64 @@ svg path {
   transition: fill 0.2s ease, stroke-width 0.2s ease;
 }
 
-
-/* Hover without destroying score colors */
+/* Hover */
 svg path:hover {
   fill-opacity: 0.85;
 }
 
-#overlay {
-  position: fixed;
-  inset: 0;
-  background: rgba(0,0,0,0.4);
-  z-index: 999;
-  pointer-events: auto;
+/* Selected */
+svg path.active {
+  fill: #90caf9; /* light blue */
+  fill-opacity: 1;
 }
 
-#overlay.hidden {
-  display: none;
-  pointer-events: none;
+#map-container:active {
+  cursor: grabbing;
 }
 
-#popup {
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 400px;
-  max-width: 90vw; /* prevent overflow on small screens */
-  background: white;
-  padding: 20px;
-  border-radius: 8px;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
-  z-index: 1000;
-
-  /* reserve space for spinner + content to avoid jumps */
-  min-height: 150px;
+#map-controls {
+  position: absolute;
+  bottom: 10px;   /* offset */
+  left: 10px;     /* offset */
   display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: stretch;
-  gap: 12px;
+  flex-direction: column; /* stack */
+  gap: 4px;
+  z-index: 20;     /* above map */
 }
 
-/* body of popup keeps header fixed, content flexes */
-.popup-body {
-  display: flex;
-  flex-direction: column;
-  align-items: center;       /* horizontal centering */
-  justify-content: center;   /* vertical centering of spinner/data */
-  min-height: 150px;         /* ensures spinner is visually centered */
-}
-
-/* Country-specific newsletters */
-#popup-newsletters h3 {
-  margin: 0;
+#map-controls button {
+  padding: 4px 8px;
   font-size: 1rem;
-  font-weight: bold;
-  border-bottom: 1px solid #ccc;
-  padding-bottom: 4px;
-}
-
-#popup-country-news {
-  list-style: none;
-  padding-left: 0;
-  margin: 4px 0 0 0;
-  width: 100%;
-}
-
-#popup-country-news li {
-  padding: 4px 0;
-  border-bottom: 1px solid #eee;
-  font-size: 0.95rem;
-}
-
-#popup-country-news li:last-child {
-  border-bottom: none;
-}
-
-/* Last updated */
-#popup-last-updated {
-  align-self: flex-end; /* push to right bottom */
-  font-size: 0.85rem;
-  color: #555;
-  margin-top: auto; /* stays at bottom */
-}
-
-#popup button {
-  margin-top: 10px;
-  padding: 6px 12px;
-  border: none;
-  background: #1976d2;
-  color: white;
   cursor: pointer;
+  background: rgba(255,255,255,0.8);
+  border: 1px solid #888;
+  border-radius: 4px;
 }
 
 #legend {
   display: flex;
-  flex-direction: column;   /* stack content vertically if needed */
-  gap: 12px;                /* spacing inside legend */
+  flex-direction: column;   /* stack */
+  gap: 12px;                /* spacing */
   padding: 8px 12px;
   background: #f5f5f5;
   border-radius: 6px;
-  margin-top: 10px;         /* spacing below map */
-  width: 100%;              /* full width of center panel */
+  margin-top: 10px;         /* spacing */
+  width: 100%;              /* full width */
   box-sizing: border-box;
+}
+
+.legend-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* split */
+  width: 100%;
+  gap: 40px;
+}
+
+.legend-scale {
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
 .legend-gradient {
@@ -160,20 +166,6 @@ svg path:hover {
   white-space: nowrap;
 }
 
-.legend-scale {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
-
-.legend-container {
-  display: flex;
-  align-items: center;
-  justify-content: space-between; /* separate scale and selection horizontally */
-  width: 100%;
-  gap: 40px;
-}
-
 .legend-selection {
   display: flex;
   align-items: center;
@@ -190,59 +182,26 @@ svg path:hover {
   cursor: not-allowed;
 }
 
-/* Highlight selected country on map */
-svg path.active {
-  fill: #90caf9; /* light blue */
-  fill-opacity: 1;
-}
-
-/* Hover without overriding selected fill */
-svg path:hover {
-  fill-opacity: 0.85;
-}
-
-#layout {
-  display: grid;
-  grid-template-columns: 1fr 3fr 1fr;
-  flex: 1 1 auto;  /* grow to fill remaining space */
-  gap: 10px;
-  padding: 0 10px;
-  min-height: 0;   /* crucial: allows children to scroll */
-  overflow: hidden;   /* prevent grid from growing */
-}
-
-/* 4. Panels fill grid cells */
-main, aside {
-  background: #f5f5f5;
-  padding: 10px;
-  border-radius: 6px;
-  height: 100%;
-  min-height: 0;  /* crucial for scrollable children inside flex/grid */
-  display: flex;
-  flex-direction: column;
-  overflow: hidden;
-}
-
-/* Sticky headers for left and right panels */
+/* Sticky headers */
 #news-panel .panel-header,
 #country-panel .panel-header {
   position: sticky;
   top: 0;
-  background: #f5f5f5; /* same as panel background */
-  z-index: 10;          /* ensure above scrollable content */
-  padding-bottom: 8px;  /* optional spacing below header */
+  background: #f5f5f5; /* panel bg */
+  z-index: 10;          /* above content */
+  padding-bottom: 8px;  /* spacing */
 }
 
 #news-panel .panel-content,
 #country-panel .panel-content {
-  flex: 1 1 auto;      /* grow to fill remaining height */
-  overflow-y: auto;    /* scroll vertically */
-  padding-right: 6px;  /* optional padding so scrollbar doesn't overlap content */
+  flex: 1 1 auto;      /* fill height */
+  overflow-y: auto;    /* scroll */
+  padding-right: 6px;  /* scrollbar gap */
 }
 
-/* LEFT PANEL */
+/* Left panel */
 #news-panel {
-  padding: 16px;    /* add some breathing room inside panel */
+  padding: 16px;    /* padding */
 }
 
 #news-panel h3 {
@@ -256,62 +215,9 @@ main, aside {
   font-style: italic;
 }
 
-/* CENTER MAP */
-#map-wrapper {
-  position: relative; 
-  width: 100%;
-  height: 100%;
-}
-
-#map-panel {
-  display: flex;           /* keep flex */
-  flex-direction: column;  
-  justify-content: flex-start; /* align top */
-  align-items: stretch;         /* stretch horizontally */
-  overflow: hidden;             /* clip overflow */
-  height: 100%;
-  width: 100%;
-}
-
-#map-container {
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-  cursor: grab;
-}
-
-#map-container svg {
-  width: 100%;
-  height: 100%;
-}
-
-#map-container:active {
-  cursor: grabbing;
-}
-
-#map-controls {
-  position: absolute;
-  bottom: 10px;   /* distance from bottom of map */
-  left: 10px;     /* distance from left edge */
-  display: flex;
-  flex-direction: column; /* buttons stacked vertically */
-  gap: 4px;
-  z-index: 20;     /* above the map */
-}
-
-
-#map-controls button {
-  padding: 4px 8px;
-  font-size: 1rem;
-  cursor: pointer;
-  background: rgba(255,255,255,0.8);
-  border: 1px solid #888;
-  border-radius: 4px;
-}
-
-/* RIGHT PANEL */
+/* Right panel */
 #country-panel {
-  padding: 16px;    /* add some breathing room inside panel */
+  padding: 16px;    /* padding */
 }
 
 #country-panel h3 {
@@ -341,17 +247,17 @@ main, aside {
 
 #country-list li.country-section {
   font-weight: bold;
-  margin-top: 20px;    /* more space above section */
-  margin-bottom: 10px; /* more space below section */
+  margin-top: 20px;    /* spacing */
+  margin-bottom: 10px; /* spacing */
   cursor: default;
   color: #555;
   font-size: 1rem;
 }
 
 #country-list li:not(.country-section) {
-  padding: 6px 12px;      /* makes click area larger */
-  margin-bottom: 4px;      /* space between countries */
-  border-radius: 4px;      /* optional, nicer UX */
+  padding: 6px 12px;      /* hit area */
+  margin-bottom: 4px;      /* spacing */
+  border-radius: 4px;      /* radius */
   cursor: pointer;
   transition: background 0.2s;
 }
@@ -365,7 +271,7 @@ main, aside {
   padding: 0;
 }
 
-/* Highlight selected country in list */
+/* Selected item */
 #country-list li.active {
   background: #bbdefb;
   font-weight: bold;
@@ -382,7 +288,58 @@ dialog::backdrop {
   background: rgba(0, 0, 0, 0.4);
 }
 
-/* Divider under country name */
+#overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.4);
+  z-index: 999;
+  pointer-events: auto;
+}
+
+#overlay.hidden {
+  display: none;
+  pointer-events: none;
+}
+
+#popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  max-width: 90vw; /* limit width */
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+  z-index: 1000;
+
+  /* reserve space */
+  min-height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  gap: 12px;
+}
+
+/* Popup body */
+.popup-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;       /* center */
+  justify-content: center;   /* center */
+  min-height: 150px;         /* min height */
+}
+
+#popup h2#popup-country-name {
+  text-align: center;       /* center */
+  margin: 10px 0 20px 0;    /* spacing */
+  font-size: 1.5em;         /* size */
+  font-weight: bold;         /* weight */
+}
+
+/* Popup divider */
 .popup-divider {
   border: none;
   border-top: 1px solid #ccc;
@@ -394,17 +351,17 @@ dialog::backdrop {
   flex-direction: column;
   gap: 8px;
   margin-bottom: 12px;
-  width: 100%; /* full width inside popup */
-  align-items: flex-start; /* left-align content */
+  width: 100%; /* full width */
+  align-items: flex-start; /* left */
 }
 
 #popup-data {
-  /* take full width, center spinner/text */
+  /* center content */
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 0.6rem;
-  min-height: 80px; /* reserve space */
+  min-height: 80px; /* reserve */
 }
 
 .popup-loading {
@@ -416,10 +373,123 @@ dialog::backdrop {
   width: 100%;
 }
 
-/* hide properly without removing layout */
+/* Hidden state */
 #popup-loading.hidden,
 #popup-data.hidden {
   display: none;
+}
+
+/* Newsletters */
+#popup-newsletters h3 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: bold;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 4px;
+}
+
+#popup-country-news {
+  list-style: none;
+  padding-left: 0;
+  margin: 4px 0 0 0;
+  width: 100%;
+}
+
+#popup-country-news li {
+  padding: 4px 0;
+  border-bottom: 1px solid #eee;
+  font-size: 0.95rem;
+}
+
+#popup-country-news li:last-child {
+  border-bottom: none;
+}
+
+/* Last updated */
+#popup-last-updated {
+  align-self: flex-end; /* end */
+  font-size: 0.85rem;
+  color: #555;
+  margin-top: auto; /* bottom */
+}
+
+#popup button {
+  margin-top: 10px;
+  padding: 6px 12px;
+  border: none;
+  background: #1976d2;
+  color: white;
+  cursor: pointer;
+}
+
+.score-trend-row p {
+  display: flex;
+  align-items: center;   /* center */
+  gap: 8px;              /* spacing */
+  font-size: 1.1em;      /* size */
+  margin: 0;
+}
+
+/* Score styles */
+.score-trend-row strong,
+.assessment strong {
+  color: black;         /* header */
+}
+
+#countryScore {
+  font-weight: bold;
+}
+
+.score-label {
+  color: black;       /* label */
+  font-weight: normal;
+}
+
+.score-value {
+  font-weight: bold;   /* value */
+}
+
+.score-trend-row .trend {
+  font-weight: bold;
+}
+
+.score-trend-row .trend.up {
+  color: green;
+}
+
+.score-trend-row .trend.down {
+  color: red;
+}
+
+.assessment {
+  display: flex;
+  align-items: center;
+  gap: 6px;             /* spacing */
+  margin: 0;
+}
+
+.assessment strong {
+  color: black;          /* header */
+}
+
+#countryAssessmentValue {
+  font-weight: bold;     /* value */
+}
+
+.article-line {
+  display: flex;
+  justify-content: flex-start; /* left */
+  align-items: center;
+  gap: 6px; /* spacing */
+}
+
+.article-line .label {
+  font-weight: bold;
+  color: black;
+}
+
+.article-line .value {
+  color: #1976d2; /* accent */
 }
 
 .sentiment {
@@ -453,14 +523,13 @@ dialog::backdrop {
   transition: width 0.5s;
 }
 
-/* colors */
+/* Colors */
 .sentiment-number.positive { color: #66bb6a; }
 .sentiment-number.neutral  { color: #ffee58; }
 .sentiment-number.negative { color: #ef5350; }
 .sent-bar.positive { background: #66bb6a; }
 .sent-bar.neutral  { background: #ffee58; }
 .sent-bar.negative { background: #ef5350; }
-
 
 .spinner {
   width: 28px;
@@ -481,85 +550,9 @@ dialog::backdrop {
   display: none;
 }
 
-#popup h2#popup-country-name {
-  text-align: center;       /* horizontally center the country name */
-  margin: 10px 0 20px 0;    /* spacing above and below */
-  font-size: 1.5em;         /* slightly larger than default */
-  font-weight: bold;         /* make it stand out */
-}
-.score-trend-row p {
-  display: flex;
-  align-items: center;   /* vertically center score and trend */
-  gap: 8px;              /* small space between score and trend */
-  font-size: 1.1em;      /* slightly bigger for visibility */
-  margin: 0;
-}
-
-/* Score value colored, header in black */
-.score-trend-row strong,
-.assessment strong {
-  color: black;         /* header text always black */
-}
-
-#countryScore {
-  font-weight: bold;
-}
-
-.score-label {
-  color: black;       /* always black */
-  font-weight: normal;
-}
-
-.score-value {
-  font-weight: bold;   /* JS also sets this dynamically */
-}
-
-.score-trend-row .trend {
-  font-weight: bold;
-}
-
-.score-trend-row .trend.up {
-  color: green;
-}
-
-.score-trend-row .trend.down {
-  color: red;
-}
-.assessment {
-  display: flex;
-  align-items: center;
-  gap: 6px;             /* space between header and value */
-  margin: 0;
-}
-
-.assessment strong {
-  color: black;          /* header always black */
-}
-
-#countryAssessmentValue {
-  font-weight: bold;     /* value bold for emphasis */
-}
-
-.article-line {
-  display: flex;
-  justify-content: flex-start; /* left-aligned */
-  align-items: center;
-  gap: 6px; /* space between label and value */
-}
-
-.article-line .label {
-  font-weight: bold;
-  color: black;
-}
-
-.article-line .value {
-  color: #1976d2; /* optional: make it distinct */
-}
-
 #sent-tooltip {
   font-size: 0.9rem;
   pointer-events: none;
   opacity: 0;
   transition: opacity 0.2s;
 }
-
