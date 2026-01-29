@@ -1,14 +1,75 @@
 {
   "country": "IL",
-  "score": 50,
-  "trend": "+0",
-  "sources": 0,
+  "score": 44,
+  "trend": "-6",
+  "sources": 6,
   "sentiment": {
-    "positive": 0,
-    "neutral": 0,
-    "negative": 0
+    "positive": 2,
+    "neutral": 1,
+    "negative": 3
   },
-  "latest_articles": [],
+  "latest_articles": [
+    {
+      "id": "f46cbacb501b4fd99a6a6da7718049fa29635222",
+      "title": "Netanyahu Vows to Cut Israel’s Reliance on U.S. Military Aid",
+      "summary": "Prime Minister Benjamin Netanyahu blamed some soldiers’ deaths in the Gaza war on a lack of ammunition caused by a pause in American weapon deliveries during President Biden’s term.",
+      "url": "https://www.nytimes.com/2026/01/29/world/middleeast/israel-us-aid-weapons-gaza-biden-netanyahu.html",
+      "source": "NYT > World News",
+      "published_at": "2026-01-29T10:30:19+00:00",
+      "sentiment": "negative",
+      "compound": -0.9118
+    },
+    {
+      "id": "0308b88a07502aadf6b9953b2a8082f52ef50fee",
+      "title": "Why Israeli PM Benjamin Netanyahu Keeps His Phone Camera Taped",
+      "summary": "Israel has strict rules about using certain smartphones.",
+      "url": "https://www.ndtv.com/world-news/why-israeli-pm-benjamin-netanyahu-keeps-his-phone-camera-taped-10904344#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-01-29T08:50:39+00:00",
+      "sentiment": "positive",
+      "compound": 0.2732
+    },
+    {
+      "id": "ccc7b39c4ca01f0d0cbd4881f7e560db5f3ee05f",
+      "title": "Thursday briefing: Will Keir Starmer’s cautious China gamble pay off?",
+      "summary": "In today’s newsletter: With China now central to the world’s green tech​ and economic future, the UK faces a ​s​eries of strategic ​discussions it can no longer postponeGood morning. The Starmer has landed.Yesterday, Kei…",
+      "url": "https://www.theguardian.com/world/2026/jan/29/thursday-briefing-will-keir-starmers-cautious-china-gamble-pay-off",
+      "source": "World news - The Guardian",
+      "published_at": "2026-01-29T06:46:22+00:00",
+      "sentiment": "negative",
+      "compound": -0.5574
+    },
+    {
+      "id": "d2b84d668287b1e821b76c533d5c62a42d1d5261",
+      "title": "Board of Peace Set to Hand Trump Sweeping Powers Over Gaza",
+      "summary": "A draft resolution revealed some of the plans for the new international body, which met for the first time last week amid criticism from some U.S. allies.",
+      "url": "https://www.nytimes.com/2026/01/27/world/middleeast/board-of-peace-trump-gaza.html",
+      "source": "NYT > World News",
+      "published_at": "2026-01-27T18:03:38+00:00",
+      "sentiment": "positive",
+      "compound": 0.5859
+    },
+    {
+      "id": "422fae65c1031d5609595a3664632ffd9b8f7b43",
+      "title": "Israel Recovers Body of Ran Gvili From Gaza, Closing a Chapter",
+      "summary": "The recovery of Master Sgt. Ran Gvili’s body paves the way for the next stage of the Gaza cease-fire plan, though the path forward is unclear.",
+      "url": "https://www.nytimes.com/2026/01/26/world/middleeast/gaza-hostage-returned-israel.html",
+      "source": "NYT > World News",
+      "published_at": "2026-01-26T23:00:52+00:00",
+      "sentiment": "negative",
+      "compound": -0.25
+    },
+    {
+      "id": "e92a546473764c3ff87b37f1ba6ed82f14dd5596",
+      "title": "Israel Says It Will Reopen Gaza-Egypt Border Crossing in Days",
+      "summary": "The Rafah crossing will open at the end of Israel’s search for the remains of the last captive in Gaza.",
+      "url": "https://www.nytimes.com/2026/01/26/world/middleeast/israel-gaza-egypt-rafah-crossing.html",
+      "source": "NYT > World News",
+      "published_at": "2026-01-26T22:19:17+00:00",
+      "sentiment": "neutral",
+      "compound": 0.0
+    }
+  ],
   "window_days": 14,
-  "last_updated": "2026-01-29T12:29:44Z"
+  "last_updated": "2026-01-29T15:02:15Z"
 }

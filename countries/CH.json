@@ -1,14 +1,35 @@
 {
   "country": "CH",
-  "score": 50,
-  "trend": "+0",
-  "sources": 0,
+  "score": 95,
+  "trend": "+45",
+  "sources": 2,
   "sentiment": {
-    "positive": 0,
-    "neutral": 0,
+    "positive": 1,
+    "neutral": 1,
     "negative": 0
   },
-  "latest_articles": [],
+  "latest_articles": [
+    {
+      "id": "a57baf279ab2d5e98e8c4122bbcea2ba3366d4aa",
+      "title": "The ‘strongest currency on earth’ just hit an 11-year high — and it’s stirring up trouble in Switzerland",
+      "summary": "The Swiss franc is widely viewed as a safe haven asset, rising in value in times of geopolitical or macroeconomic uncertainty.",
+      "url": "https://www.cnbc.com/2026/01/28/swiss-franc-us-dollar-price-fx-exchange-rate-trump-switzerland-snb-currency.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-01-28T13:24:54+00:00",
+      "sentiment": "positive",
+      "compound": 0.4019
+    },
+    {
+      "id": "fe00a192c06bedab5b4055a2ff96d73ffb85def1",
+      "title": "President Rinkēvičs departs for Davos",
+      "summary": "Latvian President Edgars Rinkēvičs is out of the country for several days this week to&nbsp;participate in the annual&nbsp;large\\-scale geopolitical talking shop that is the&nbsp;World Economic Forum (WEF) in Davos, Swit…",
+      "url": "https://eng.lsm.lv/article/politics/president/19.01.2026-president-rinkevics-departs-for-davos.a630547/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "source": "LSM (English)",
+      "published_at": "2026-01-19T08:08:21+00:00",
+      "sentiment": "neutral",
+      "compound": 0.0
+    }
+  ],
   "window_days": 14,
-  "last_updated": "2026-01-29T12:29:44Z"
+  "last_updated": "2026-01-29T15:02:15Z"
 }

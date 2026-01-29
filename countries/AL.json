@@ -1,14 +1,25 @@
 {
   "country": "AL",
-  "score": 50,
-  "trend": "+0",
-  "sources": 0,
+  "score": 100,
+  "trend": "+50",
+  "sources": 1,
   "sentiment": {
-    "positive": 0,
+    "positive": 1,
     "neutral": 0,
     "negative": 0
   },
-  "latest_articles": [],
+  "latest_articles": [
+    {
+      "id": "67b156e53edb7dea2593c36e684e6ae7ccfa7a6a",
+      "title": "Albania Created an ‘A.I. Minister’ to Curb Corruption. Then Its Developers Were Accused of Graft.",
+      "summary": "The Albanian avatar known as Diella, a public anticorruption crusader, has been described as the world’s first government minister created by artificial intelligence.",
+      "url": "https://www.nytimes.com/2026/01/27/world/europe/albania-ai-corruption-graft.html",
+      "source": "NYT > World News",
+      "published_at": "2026-01-27T15:57:00+00:00",
+      "sentiment": "positive",
+      "compound": 0.5994
+    }
+  ],
   "window_days": 14,
-  "last_updated": "2026-01-29T12:29:44Z"
+  "last_updated": "2026-01-29T15:02:15Z"
 }

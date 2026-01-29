@@ -1,14 +1,25 @@
 {
   "country": "IQ",
-  "score": 50,
-  "trend": "+0",
-  "sources": 0,
+  "score": 90,
+  "trend": "+40",
+  "sources": 1,
   "sentiment": {
     "positive": 0,
-    "neutral": 0,
+    "neutral": 1,
     "negative": 0
   },
-  "latest_articles": [],
+  "latest_articles": [
+    {
+      "id": "35d667f203ee0abf3ad365fd0dafa0af64ba9733",
+      "title": "Iraq’s Nominee for Prime Minister Rejects Trump Threats",
+      "summary": "Nuri Kamal al-Maliki, a former prime minister, was nominated to lead Iraq once again, but President Trump said he would cut U.S. support if that went ahead.",
+      "url": "https://www.nytimes.com/2026/01/28/world/middleeast/trump-iraq-prime-minister-al-maliki.html",
+      "source": "NYT > World News",
+      "published_at": "2026-01-28T23:40:11+00:00",
+      "sentiment": "neutral",
+      "compound": -0.0
+    }
+  ],
   "window_days": 14,
-  "last_updated": "2026-01-29T12:29:44Z"
+  "last_updated": "2026-01-29T15:02:15Z"
 }

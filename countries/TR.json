@@ -1,14 +1,24 @@
 {
   "country": "TR",
-  "score": 26,
-  "trend": "+0",
-  "sources": 1,
+  "score": 1,
+  "trend": "-25",
+  "sources": 2,
   "sentiment": {
     "positive": 0,
     "neutral": 0,
-    "negative": 1
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "13c8976115b208761ec531ae4520d10449948b78",
+      "title": "Iran seeks to avert US military action with talks in Ankara",
+      "summary": "Turkey hosts urgent mediation as Trump’s threats mount and Tehran weighs painful compromises to avoid conflictIran’s foreign minister, Abbas Araghchi, will travel to Ankara for talks aimed at preventing a US attack, as T…",
+      "url": "https://www.theguardian.com/world/2026/jan/29/iran-seeks-to-avert-us-military-action-with-talks-in-ankara",
+      "source": "World news - The Guardian",
+      "published_at": "2026-01-29T14:20:16+00:00",
+      "sentiment": "negative",
+      "compound": -0.8689
+    },
     {
       "id": "9bbbd828684feedd60fec32ec22f82c2a8c2bca0",
       "title": "Athens fears Turkish trap on Trump’s peace board",
@@ -21,5 +31,5 @@
     }
   ],
   "window_days": 14,
-  "last_updated": "2026-01-29T12:29:44Z"
+  "last_updated": "2026-01-29T15:02:15Z"
 }

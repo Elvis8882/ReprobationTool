@@ -1,14 +1,24 @@
 {
   "country": "SY",
-  "score": 86,
-  "trend": "+0",
-  "sources": 1,
+  "score": 100,
+  "trend": "+14",
+  "sources": 2,
   "sentiment": {
-    "positive": 1,
+    "positive": 2,
     "neutral": 0,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "eef92bd18a6f023111725c624bba0444e1039d62",
+      "title": "Putin, Still Harboring Assad, Welcomes New Syrian Leader to Moscow Again",
+      "summary": "This is the second time that President Vladimir V. Putin has hosted President Ahmed al-Sharaa since the fall of the Russia-backed Syrian dictator Bashar al-Assad.",
+      "url": "https://www.nytimes.com/2026/01/28/world/europe/russia-putin-syria-al-sharaa-meeting.html",
+      "source": "NYT > World News",
+      "published_at": "2026-01-28T16:02:22+00:00",
+      "sentiment": "positive",
+      "compound": 0.4019
+    },
     {
       "id": "d35af9c0a058eca9b56f7b060cba9241cd245bae",
       "title": "Greenland goes mainstream",
@@ -21,5 +31,5 @@
     }
   ],
   "window_days": 14,
-  "last_updated": "2026-01-29T12:29:44Z"
+  "last_updated": "2026-01-29T15:02:15Z"
 }
