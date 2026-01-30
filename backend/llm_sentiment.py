@@ -13,17 +13,10 @@ CACHE_DIR = BASE_DIR / "data" / "cache" / "llm_sentiment"
 CACHE_DIR.mkdir(parents=True, exist_ok=True)
 CACHE_VERSION = "v1"  # bump if you change prompt/schema
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
-
-# Pick a lightweight model. You can change this later.
-# Common choices: "gemini-1.5-flash" or newer equivalents.
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-latest").strip()
-
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-latest").strip()
-
 GEMINI_ENDPOINT = (
-    f"https://generativelanguage.googleapis.com/v1/models/{GEMINI_MODEL}:generateContent"
+    f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
 )
-
 
 # Basic backoff settings for Actions environments
 MAX_RETRIES = 5
