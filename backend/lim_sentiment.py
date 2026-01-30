@@ -3,10 +3,15 @@ import json
 import os
 import time
 from typing import Dict, List, Any
+import hashlib
+from pathlib import Path
 
 import requests
 
-
+BASE_DIR = Path(__file__).resolve().parent.parent
+CACHE_DIR = BASE_DIR / "data" / "cache" / "llm_sentiment"
+CACHE_DIR.mkdir(parents=True, exist_ok=True)
+CACHE_VERSION = "v1"  # bump if you change prompt/schema
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 
 # Pick a lightweight model. You can change this later.
@@ -65,6 +70,26 @@ def score_entity_sentiment(text: str, iso_targets: List[str]) -> Dict[str, Any]:
     """
     # Keep prompt short + explicit. We pass the ISO target list to reduce hallucination.
     targets_csv = ", ".join(iso_targets)
+
+    # Cache key based on model + text + targets + prompt version
+    h = hashlib.sha256()
+    h.update(CACHE_VERSION.encode("utf-8"))
+    h.update(b"\n")
+    h.update(GEMINI_MODEL.encode("utf-8"))
+    h.update(b"\n")
+    h.update((",".join(iso_targets)).encode("utf-8"))
+    h.update(b"\n")
+    h.update(text.encode("utf-8", errors="ignore"))
+    cache_path = CACHE_DIR / f"{h.hexdigest()}.json"
+    
+    if cache_path.exists():
+        try:
+            with open(cache_path, "r", encoding="utf-8") as f:
+                cached = json.load(f)
+            if isinstance(cached, dict):
+                return cached
+        except Exception:
+            pass
 
     schema_hint = {
         "sentiment_by_country": {
@@ -143,5 +168,11 @@ def score_entity_sentiment(text: str, iso_targets: List[str]) -> Dict[str, Any]:
     # Ensure every target gets a value (default neutral)
     for iso in iso_targets:
         final.setdefault(iso, {"label": "neutral", "confidence": 0.0, "evidence": ""})
+
+    try:
+        with open(cache_path, "w", encoding="utf-8") as f:
+            json.dump(final, f, ensure_ascii=False)
+    except Exception:
+        pass
 
     return final
