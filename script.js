@@ -514,28 +514,26 @@ function closeLegalNotes() {
   document.getElementById("legal-overlay").classList.add("hidden");
 }
 
-document.addEventListener("DOMContentLoaded", () => {
-  const legalTrigger = document.getElementById("legal-notes-trigger");
-  const legalOverlay = document.getElementById("legal-overlay");
-  const legalClose = document.querySelector(".legal-close");
+const legalTrigger = document.getElementById("legal-notes-trigger");
+const legalOverlay = document.getElementById("legal-overlay");
+const legalClose = document.querySelector(".legal-close");
 
-  if (legalTrigger) {
-    legalTrigger.addEventListener("click", openLegalNotes);
+if (legalTrigger) {
+  legalTrigger.addEventListener("click", openLegalNotes);
+}
+
+if (legalOverlay) {
+  legalOverlay.addEventListener("click", closeLegalNotes);
+}
+
+if (legalClose) {
+  legalClose.addEventListener("click", closeLegalNotes);
+}
+
+document.addEventListener("keydown", (event) => {
+  if (event.key === "Escape") {
+    closeLegalNotes();
   }
-
-  if (legalOverlay) {
-    legalOverlay.addEventListener("click", closeLegalNotes);
-  }
-
-  if (legalClose) {
-    legalClose.addEventListener("click", closeLegalNotes);
-  }
-
-  document.addEventListener("keydown", (event) => {
-    if (event.key === "Escape") {
-      closeLegalNotes();
-    }
-  });
 });
 
 
