@@ -1,16 +1,26 @@
 {
   "country": "RU",
-  "score": 58,
+  "score": 65,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 26,
-  "sources": 41,
+  "trend": 7,
+  "sources": 44,
   "sentiment": {
-    "positive": 12.0,
-    "neutral": 4.0,
-    "negative": 25.0
+    "positive": 13,
+    "neutral": 5,
+    "negative": 26
   },
   "latest_articles": [
+    {
+      "id": "6e331438309612e1f5d45264726295596b659273",
+      "title": "Ukraine wakes to possible pause in Russian energy strikes after Trump call",
+      "summary": "Trump asked Putin to hold off hitting Ukraine’s power facilities. Zelensky said if Russia followed through, he would pause strikes on Russia’s energy industry.",
+      "url": "https://www.washingtonpost.com/world/2026/01/30/ukraine-russia-trump-energy-ceasefire/",
+      "source": "World (Washington post)",
+      "published_at": "2026-01-30T08:33:20+00:00",
+      "sentiment": "negative",
+      "compound": -0.2023
+    },
     {
       "id": "889b5c3701e4bed8b9d75ef9cdecbdd15d69f669",
       "title": "HAL Ties Up With Russia's UAC For SJ-100 Jet, Signs Dhruv NG Helicopter Deal",
@@ -120,18 +130,8 @@
       "published_at": "2026-01-29T18:18:58+00:00",
       "sentiment": "negative",
       "compound": -0.4939
-    },
-    {
-      "id": "7bdb633ea11fb78293d16df082ec57ed23e3c4bd",
-      "title": "Ukraine’s air defenses reportedly shot down two of Russia’s most prized frontline combat jets in a single day, dealing a significant and costly blow to Moscow’s air power.",
-      "summary": "&#32; submitted by &#32;  /u/Easy-Ad1996   [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/worldnews/comments/1qqfic8/ukraines_air_defenses_reportedly_shot_down_two_of/",
-      "source": "World News (Reddit)",
-      "published_at": "2026-01-29T17:46:35+00:00",
-      "sentiment": "positive",
-      "compound": 0.4818
     }
   ],
-  "window_days": 30,
-  "last_updated": "2026-01-30T08:07:13Z"
+  "window_days": 90,
+  "last_updated": "2026-01-30T08:45:14Z"
 }

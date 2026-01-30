@@ -1,16 +1,26 @@
 {
   "country": "UA",
-  "score": 60,
+  "score": 69,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 24,
-  "sources": 40,
+  "trend": 9,
+  "sources": 46,
   "sentiment": {
-    "positive": 13.0,
-    "neutral": 4.0,
-    "negative": 23.0
+    "positive": 16,
+    "neutral": 6,
+    "negative": 24
   },
   "latest_articles": [
+    {
+      "id": "6e331438309612e1f5d45264726295596b659273",
+      "title": "Ukraine wakes to possible pause in Russian energy strikes after Trump call",
+      "summary": "Trump asked Putin to hold off hitting Ukraine’s power facilities. Zelensky said if Russia followed through, he would pause strikes on Russia’s energy industry.",
+      "url": "https://www.washingtonpost.com/world/2026/01/30/ukraine-russia-trump-energy-ceasefire/",
+      "source": "World (Washington post)",
+      "published_at": "2026-01-30T08:33:20+00:00",
+      "sentiment": "negative",
+      "compound": -0.2023
+    },
     {
       "id": "09952b714d0bc3dfd739037100ad457cdc57943a",
       "title": "Late but listed",
@@ -120,18 +130,8 @@
       "published_at": "2026-01-29T17:32:40+00:00",
       "sentiment": "negative",
       "compound": -0.9771
-    },
-    {
-      "id": "1c8ffb04d66ecdc0bc80a1a652f898dd56a92323",
-      "title": "Russia Invites Ukraine President Zelensky To Moscow For Peace Talks",
-      "summary": "Zelensky rejected a similar invitation last year.",
-      "url": "https://www.ndtv.com/world-news/russia-invites-ukraine-president-volodymyr-zelensky-to-moscow-for-peace-talks-10909361#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-01-29T16:12:05+00:00",
-      "sentiment": "positive",
-      "compound": 0.0516
     }
   ],
-  "window_days": 30,
-  "last_updated": "2026-01-30T08:07:13Z"
+  "window_days": 90,
+  "last_updated": "2026-01-30T08:45:14Z"
 }
