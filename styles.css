@@ -93,6 +93,11 @@ main, aside {
   z-index: 2000;
 }
 
+#legal-overlay.hidden {
+  display: none;
+  pointer-events: none;
+}
+
 #legal-popup {
   background: #ffffff;
   color: #222;
