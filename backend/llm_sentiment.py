@@ -145,8 +145,20 @@ def _normalize_sentiment_map(out: Any, iso_targets: List[str]) -> Dict[str, Any]
     Enforce:
       {ISO2: {label, confidence, evidence}}
     Ensure every iso_target exists (default neutral).
+    Normalize common aliases (e.g. UK -> GB).
     """
-    allowed = set([c.upper() for c in iso_targets])
+
+    # --- Alias normalization ---
+    ALIASES = {
+        "UK": "GB",
+        "U.K": "GB",
+        "U.K.": "GB",
+        "UNITED KINGDOM": "GB",
+        "GREAT BRITAIN": "GB",
+        "BRITAIN": "GB",
+    }
+
+    allowed = set(c.upper() for c in iso_targets)
     final: Dict[str, Any] = {}
 
     if isinstance(out, dict):
@@ -157,7 +169,10 @@ def _normalize_sentiment_map(out: Any, iso_targets: List[str]) -> Dict[str, Any]
     for iso_key, v in items:
         if not isinstance(iso_key, str):
             continue
+
         iso = iso_key.strip().upper()
+        iso = ALIASES.get(iso, iso)  # 🔧 normalize aliases
+
         if iso not in allowed:
             continue
         if not isinstance(v, dict):
@@ -178,12 +193,21 @@ def _normalize_sentiment_map(out: Any, iso_targets: List[str]) -> Dict[str, Any]
         if len(ev) > 140:
             ev = ev[:140]
 
-        final[iso] = {"label": label, "confidence": conf, "evidence": ev}
+        final[iso] = {
+            "label": label,
+            "confidence": conf,
+            "evidence": ev,
+        }
 
+    # Ensure all targets exist (default neutral)
     for iso in allowed:
-        final.setdefault(iso, {"label": "neutral", "confidence": 0.0, "evidence": ""})
+        final.setdefault(
+            iso,
+            {"label": "neutral", "confidence": 0.0, "evidence": ""},
+        )
 
     return final
+
 
 
 def score_entity_sentiment(text: str, iso_targets: List[str]) -> Dict[str, Any]:
@@ -276,7 +300,7 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
             "You are scoring COUNTRY-TARGETED sentiment in geopolitical/news text.\n"
             "Return ONLY valid JSON. No markdown. No extra text.\n\n"
             "For each item, score ONLY the ISO2 codes in 'targets' (uppercase keys).\n"
-            "Do not add extra countries.\n\n"
+            "Do not add extra countries. Note: GB = United Kingdom (UK). If the text mentions UK/United Kingdom/Britain, that counts as GB.\n\n"
             "Labels: positive | negative | neutral | mixed\n"
             "- positive: helping/constructive/stabilizing/successful\n"
             "- negative: obstructing/harmful/destabilizing/criticized/failing\n"
