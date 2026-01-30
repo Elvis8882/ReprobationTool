@@ -2,8 +2,8 @@ import json
 import re
 from pathlib import Path
 from datetime import datetime, timezone
+from llm_sentiment import score_entity_sentiment
 
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 ARTICLES_DIR = BASE_DIR / "data" / "articles"
@@ -159,7 +159,7 @@ def detect(text: str):
     return eu_wide, sorted(detected), sorted(scored)
 
 def process_articles():
-    analyzer = SentimentIntensityAnalyzer()
+    
 
     processed = 0
     skipped = 0
@@ -199,17 +199,16 @@ def process_articles():
             no_country += 1
             continue
 
-        vs = analyzer.polarity_scores(text)
-
         article["countries_detected"] = detected
         article["countries_scored"] = scored
-        article["sentiment"] = {
-            "compound": vs["compound"],
-            "positive": vs["pos"],
-            "neutral": vs["neu"],
-            "negative": vs["neg"]
-        }
+        
+        # LLM per-country sentiment (targeted sentiment / stance)
+        # scored is your ISO2 list (includes EU expansion members when eu_wide is True)
+        sent_by_country = score_entity_sentiment(text=text, iso_targets=scored)
+        article["sentiment_by_country"] = sent_by_country
+        
         article["processed_at"] = utc_now_iso()
+        
 
         with open(path, "w", encoding="utf-8") as f:
             json.dump(article, f, indent=2, ensure_ascii=False)
