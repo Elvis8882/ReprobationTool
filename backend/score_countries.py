@@ -136,7 +136,7 @@ def main():
         
         sent_map = a.get("sentiment_by_country") or {}
         if not isinstance(sent_map, dict):
-        sent_map = {}
+            sent_map = {}
 
         # If an article was processed but has no LLM output, treat as neutral for all
         # (this can happen if you used degraded mode on API failure)
