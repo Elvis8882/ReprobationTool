@@ -5,7 +5,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 ARTICLES_DIR = BASE_DIR / "data" / "articles"
 COUNTRIES_DIR = BASE_DIR / "countries"
-EU_EXPANSION_WEIGHT = 0.25  # 0.2–0.35 are reasonable starting points
+EU_EXPANSION_WEIGHT = 0.15 
 
 ALL_COUNTRIES = [
     "GL","IS","MA","TN","DZ","BY","JO","KZ","NO","UA","IL","SA","IQ","AZ","IR","GE","SY","TR","AM","CY",
@@ -13,7 +13,7 @@ ALL_COUNTRIES = [
     "GB","AT","CZ","SK","HU","LT","LV","RO","BG","EE","SM","LU","FR","NL","SI","DK","RU","MT","ME","RS"
 ]
 
-WINDOW_DAYS = 30
+WINDOW_DAYS = 90
 LATEST_PER_COUNTRY = 12
 
 
@@ -48,7 +48,7 @@ def compute_score(pos: float, neu: float, neg: float) -> int:
     pos_ratio = pos / total
     neg_ratio = neg / total
 
-    NEG_K = 55.0
+    NEG_K = 45.0
     POS_K = 6.0
 
     score = 90.0 - (NEG_K * neg_ratio) + (POS_K * pos_ratio)
@@ -98,7 +98,14 @@ def main():
     now = utc_now()
     cutoff = now - timedelta(days=WINDOW_DAYS)
 
-    stats = {c: {"pos": 0.0, "neu": 0.0, "neg": 0.0, "latest": []} for c in ALL_COUNTRIES}
+    stats = {
+      c: {
+        "pos_w": 0.0, "neu_w": 0.0, "neg_w": 0.0,   # weighted for score
+        "pos_n": 0,   "neu_n": 0,   "neg_n": 0,     # raw integer for UI
+        "latest": []
+      } for c in ALL_COUNTRIES
+    }
+
 
     considered = 0
     skipped_unprocessed = 0
@@ -166,12 +173,16 @@ def main():
             if eu_wide and (c not in detected) and (c != "EU"):
                 weight = EU_EXPANSION_WEIGHT
         
+            # weight computed as you already do
             if label == "positive":
-                stats[c]["pos"] += weight
+                stats[c]["pos_w"] += weight
+                stats[c]["pos_n"] += 1
             elif label == "negative":
-                stats[c]["neg"] += weight
+                stats[c]["neg_w"] += weight
+                stats[c]["neg_n"] += 1
             else:
-                stats[c]["neu"] += weight
+                stats[c]["neu_w"] += weight
+                stats[c]["neu_n"] += 1
         
             stats[c]["latest"].append(card)
 
@@ -180,7 +191,12 @@ def main():
     last_updated = iso_z(now)
 
     for c in ALL_COUNTRIES:
-        pos, neu, neg = stats[c]["pos"], stats[c]["neu"], stats[c]["neg"]
+        pos_w, neu_w, neg_w = stats[c]["pos_w"], stats[c]["neu_w"], stats[c]["neg_w"]
+        score = compute_score(pos_w, neu_w, neg_w)
+        
+        pos_n, neu_n, neg_n = stats[c]["pos_n"], stats[c]["neu_n"], stats[c]["neg_n"]
+        sentiment_out = {"positive": pos_n, "neutral": neu_n, "negative": neg_n}
+
         total = pos + neu + neg
         score = compute_score(pos, neu, neg)
 
@@ -223,11 +239,7 @@ def main():
             "assessment": assessment,
             "trend": trend,  # int or null
             "sources": sources_count,
-            "sentiment": {
-              "positive": round(pos, 2),
-              "neutral": round(neu, 2),
-              "negative": round(neg, 2)
-            },
+            "sentiment": sentiment_out,
             "latest_articles": latest,
             "window_days": WINDOW_DAYS,
             "last_updated": last_updated,
