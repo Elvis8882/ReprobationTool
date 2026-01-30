@@ -2,7 +2,7 @@ import feedparser
 import hashlib
 import json
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 import yaml
 
@@ -12,6 +12,7 @@ FEEDS_FILE = BASE_DIR / "data" / "feeds.yaml"
 
 PUBLIC_SNIPPET_LEN = 220
 FULL_SUMMARY_CAP = 2000
+MAX_AGE_DAYS = 60  # ~2 months
 
 
 def make_id(url: str) -> str:
@@ -84,6 +85,8 @@ def ingest():
                 continue
 
             published = parse_date(entry)
+            if published < datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS):
+            continue
             summary_full, summary_public = make_summaries(entry)
 
             article = {
