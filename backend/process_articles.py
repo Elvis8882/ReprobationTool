@@ -169,7 +169,8 @@ def process_articles():
         with open(path, "r", encoding="utf-8") as f:
             article = json.load(f)
 
-        if article.get("processed_at") is not None:
+        # Skip only if already processed successfully
+        if article.get("processed_at") is not None and not article.get("sentiment_error"):
             skipped += 1
             continue
 
@@ -202,6 +203,7 @@ def process_articles():
 
         try:
             sent_by_country = score_entity_sentiment(text=text, iso_targets=scored)
+            article.pop("sentiment_error", None)  # clear only on success
         except Exception as e:
             sent_by_country = {c: {"label": "neutral", "confidence": 0.0, "evidence": ""} for c in scored}
             article["sentiment_error"] = str(e)[:300]
