@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 4,
+  "sources": 5,
   "sentiment": {
     "positive": 0,
-    "neutral": 4,
+    "neutral": 5,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "4705d7a4df69025bce038e506a68d60f9a130fa0",
+      "title": "Syrian Government and Kurdish-Led Militia Seal a Deal to Merge Forces",
+      "summary": "The long-anticipated agreement closes a period of intense uncertainty in northeastern Syria after rebel forces led by Ahmed al-Sharaa, who is now the president, seized power in December 2024.",
+      "url": "https://www.nytimes.com/2026/01/30/world/middleeast/syria-kurd-sdf-agreement.html",
+      "source": "NYT > World News",
+      "published_at": "2026-01-30T11:06:35+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
     {
       "id": "f0832bbaa511effe771203bf1da9fc7fbc72d8fe",
       "title": "Syria's defiant Kurds vow to 'fight until last breath' despite government push",
@@ -49,5 +60,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-01-30T10:57:28Z"
+  "last_updated": "2026-01-30T11:10:22Z"
 }
