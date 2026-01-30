@@ -1,14 +1,24 @@
 {
   "country": "GL",
-  "score": 32,
-  "trend": "-5",
-  "sources": 18,
+  "score": 30,
+  "trend": "-2",
+  "sources": 19,
   "sentiment": {
     "positive": 5,
     "neutral": 2,
-    "negative": 11
+    "negative": 12
   },
   "latest_articles": [
+    {
+      "id": "09952b714d0bc3dfd739037100ad457cdc57943a",
+      "title": "Late but listed",
+      "summary": "In Friday’s edition: Rob Jetten’s coalition, arming Ukraine, Russia sanctions, Metsola backs Meloni, Greenland talks",
+      "url": "https://www.euractiv.com/news/rapporteur-late-but-listed/",
+      "source": "Euractiv",
+      "published_at": "2026-01-30T06:14:00+00:00",
+      "sentiment": "negative",
+      "compound": -0.7351
+    },
     {
       "id": "32b4ff903e900db5a2b14e1b667d35d8d557d55a",
       "title": "Greenland threats no laughing matter, says mayor after comic’s flag stunt",
@@ -118,18 +128,8 @@
       "published_at": "2026-01-29T05:01:07+00:00",
       "sentiment": "positive",
       "compound": 0.5423
-    },
-    {
-      "id": "4d5a227a0d32bf17fb81b81e9732b27dface2c8a",
-      "title": "The Arctic is not a hotspot, EU transport commissioner says",
-      "summary": "Denmark could theoretically trigger an EU emergency mechanism for Greenland",
-      "url": "https://www.euractiv.com/news/the-arctic-is-not-a-hotspot-eu-transport-commissioner-says/",
-      "source": "Euractiv",
-      "published_at": "2026-01-28T14:49:34+00:00",
-      "sentiment": "negative",
-      "compound": -0.3818
     }
   ],
   "window_days": 14,
-  "last_updated": "2026-01-30T01:01:36Z"
+  "last_updated": "2026-01-30T06:34:32Z"
 }
