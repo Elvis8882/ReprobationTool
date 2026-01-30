@@ -5,6 +5,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 ARTICLES_DIR = BASE_DIR / "data" / "articles"
 COUNTRIES_DIR = BASE_DIR / "countries"
+EU_EXPANSION_WEIGHT = 0.25  # 0.2–0.35 are reasonable starting points
 
 ALL_COUNTRIES = [
     "GL","IS","MA","TN","DZ","BY","JO","KZ","NO","UA","IL","SA","IQ","AZ","IR","GE","SY","TR","AM","CY",
@@ -39,7 +40,7 @@ def clamp(x, lo, hi):
     return max(lo, min(hi, x))
 
 
-def compute_score(pos: int, neu: int, neg: int) -> int:
+def compute_score(pos: float, neu: float, neg: float) -> int:
     total = pos + neu + neg
     if total == 0:
         return 90
@@ -79,8 +80,8 @@ def save_json(path: Path, obj: dict):
         json.dump(obj, f, indent=2, ensure_ascii=False)
 
 
-def label_and_assessment(total: int, pos: int, neu: int, neg: int):
-    if total == 0:
+def label_and_assessment(total: float, pos: float, neu: float, neg: float):
+    if total <= 0:
         return "Not enough data", "No information available"
 
     neg_ratio = neg / total
@@ -97,7 +98,7 @@ def main():
     now = utc_now()
     cutoff = now - timedelta(days=WINDOW_DAYS)
 
-    stats = {c: {"pos": 0, "neu": 0, "neg": 0, "latest": []} for c in ALL_COUNTRIES}
+    stats = {c: {"pos": 0.0, "neu": 0.0, "neg": 0.0, "latest": []} for c in ALL_COUNTRIES}
 
     considered = 0
     skipped_unprocessed = 0
@@ -123,11 +124,21 @@ def main():
         if not targets:
             skipped_no_targets += 1
             continue
-
+        
+        hit_any = False
+        for c in targets:
+            if c in stats:
+                hit_any = True
+                break
+        
+        if not hit_any:
+            skipped_no_targets += 1
+            continue
+        
         s = a.get("sentiment") or {}
         compound = float(s.get("compound", 0.0))
         label = sentiment_label(compound)
-
+        
         considered += 1
 
         card = {
@@ -141,18 +152,29 @@ def main():
             "compound": compound,
         }
 
+        detected = set(a.get("countries_detected") or [])
+        eu_wide = "EU" in detected
+        
         for c in targets:
             if c not in stats:
                 continue
-
+        
+            # Weighting rule:
+            # - explicit mention => full weight
+            # - EU expansion only => reduced weight
+            weight = 1.0
+            if eu_wide and (c not in detected) and (c != "EU"):
+                weight = EU_EXPANSION_WEIGHT
+        
             if label == "positive":
-                stats[c]["pos"] += 1
+                stats[c]["pos"] += weight
             elif label == "negative":
-                stats[c]["neg"] += 1
+                stats[c]["neg"] += weight
             else:
-                stats[c]["neu"] += 1
-
+                stats[c]["neu"] += weight
+        
             stats[c]["latest"].append(card)
+
 
     index = {}
     last_updated = iso_z(now)
@@ -175,6 +197,7 @@ def main():
             trend = score - prev_score
 
         score_label, assessment = label_and_assessment(total, pos, neu, neg)
+        sources_count = len({x.get("id") for x in stats[c]["latest"] if x.get("id")})
 
         latest_sorted = sorted(
             stats[c]["latest"],
@@ -199,8 +222,12 @@ def main():
             "score_label": score_label,
             "assessment": assessment,
             "trend": trend,  # int or null
-            "sources": total,
-            "sentiment": {"positive": pos, "neutral": neu, "negative": neg},
+            "sources": sources_count,
+            "sentiment": {
+              "positive": round(pos, 2),
+              "neutral": round(neu, 2),
+              "negative": round(neg, 2)
+            },
             "latest_articles": latest,
             "window_days": WINDOW_DAYS,
             "last_updated": last_updated,
@@ -211,7 +238,7 @@ def main():
         index[c] = {
             "score": score,
             "trend": trend,
-            "sources": total,
+            "sources": sources_count,
             "last_updated": last_updated,
         }
 
