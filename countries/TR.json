@@ -1,14 +1,14 @@
 {
   "country": "TR",
-  "score": 60,
-  "score_label": "Negative",
-  "assessment": "High negative coverage",
-  "trend": 0,
+  "score": 90,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": 30,
   "sources": 3,
   "sentiment": {
     "positive": 0,
-    "neutral": 1,
-    "negative": 2
+    "neutral": 3,
+    "negative": 0
   },
   "latest_articles": [
     {
@@ -18,8 +18,7 @@
       "url": "https://www.theguardian.com/world/2026/jan/29/iran-seeks-to-avert-us-military-action-with-talks-in-ankara",
       "source": "World news - The Guardian",
       "published_at": "2026-01-29T14:20:16+00:00",
-      "sentiment": "negative",
-      "compound": -0.8689
+      "sentiment": "neutral"
     },
     {
       "id": "74b4b36c4ce6aeced5143fd8a25c225db1c7a698",
@@ -28,8 +27,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMEdKRFNqclpKbjZsQ0ZLSzEtWjJiUW04YUlWTTVRdHlfOU5KeWwwWF9UM25xNV9NeHpqWS00X1FhTGdfWFlnTEczTm44X292dDg1MVR4YVpIbFBmdm5LNjlXSGN4dk5KanZnOS1sNFl3VlZaeXZnQ3JLakhTb1RoSWVkbHhmNE1EY2RnOHp6ZHpKZnNQdnVzWmtDalQ?oc=5",
       "source": "Top stories - Google News",
       "published_at": "2026-01-29T13:00:00+00:00",
-      "sentiment": "neutral",
-      "compound": 0.0
+      "sentiment": "neutral"
     },
     {
       "id": "9bbbd828684feedd60fec32ec22f82c2a8c2bca0",
@@ -38,10 +36,9 @@
       "url": "https://www.euractiv.com/news/athens-fears-turkish-trap-on-trumps-peace-board/",
       "source": "Euractiv",
       "published_at": "2026-01-28T05:00:08+00:00",
-      "sentiment": "negative",
-      "compound": -0.1531
+      "sentiment": "neutral"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-01-30T09:50:02Z"
+  "last_updated": "2026-01-30T10:44:28Z"
 }

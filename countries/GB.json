@@ -1,16 +1,27 @@
 {
   "country": "GB",
-  "score": 69,
-  "score_label": "Negative",
-  "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 59,
+  "score": 90,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": 21,
+  "sources": 61,
   "sentiment": {
-    "positive": 27,
-    "neutral": 1,
-    "negative": 31
+    "positive": 0,
+    "neutral": 61,
+    "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "9dc899939d6304844637be0dde5be0ceb7dc1e37",
+      "title": "Trump Tells U.K. and Canada That Boosting Trade With China Is ‘Dangerous’",
+      "summary": "The leaders of both countries have recently visited Beijing seeking to strengthen economic ties, as tensions with the United States rise.",
+      "url": "https://www.nytimes.com/2026/01/30/world/asia/trump-starmer-china-canada-trade.html",
+      "source": "NYT > World News",
+      "published_at": "2026-01-30T10:29:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
     {
       "id": "2541ebdc2327b00eb8915df010f3d0a01da842c1",
       "title": "Weight-loss jabs linked to deadly pancreas illness - The Times",
@@ -18,8 +29,7 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczB2UzBXYTJvMzRnNHBfYlFHSnRyUk9TcENOUV80Yk5VRmJjeGVFUWxIWjJtbTlBZkRPRDZJeWs5UXVlLUl4eUtWcEhJUHczYTlUZnhFREQzeW9Ub1kwT3plZmxMeUs5WFF3V3BfWjdtdC03aVNOOEVoVUl1WndKU1p0NHVKRURPQzFWOWZGOA?oc=5",
       "source": "Top stories - Google News",
       "published_at": "2026-01-30T09:35:30+00:00",
-      "sentiment": "negative",
-      "compound": -0.7579
+      "sentiment": "neutral"
     },
     {
       "id": "97c2ba76315522e195f7f89f2e3f25e427b545d7",
@@ -28,8 +38,7 @@
       "url": "https://www.theguardian.com/politics/live/2026/jan/30/donald-trump-keir-starmer-china-uk-us-trade-deals-tariffs-latest-news",
       "source": "World news - The Guardian",
       "published_at": "2026-01-30T09:33:53+00:00",
-      "sentiment": "negative",
-      "compound": -0.4215
+      "sentiment": "neutral"
     },
     {
       "id": "b74081b2a07c3eeef9920e8ffd1106dbd285ed04",
@@ -38,8 +47,7 @@
       "url": "https://www.bbc.com/news/articles/cm2j04lk83zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News - World",
       "published_at": "2026-01-30T08:23:12+00:00",
-      "sentiment": "positive",
-      "compound": 0.2732
+      "sentiment": "neutral"
     },
     {
       "id": "a42ce9e5e5b662cdee8a06b11be9d2be42ecf367",
@@ -48,8 +56,7 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPV1k1X29SMmZSbHJxdE5rcG5iT1gyMUtPSm1veHhORFh2emFaY0wxeXJVQnRsSFhFRWlwU0FHSkV2V24yTmgzQWs2aW5meDZkb2ZHQi1EZFRMajRyY1IwbWlYa2pFZTFKUXI5UERwZGFhTDZPMmR6U2hQVUFIN000djlVNURvRWdMWUhTci1VMmJNcU44dGxHNVJrd1d4dHBpemd3YlQwUldNNUNBTjlyU2hzUzV4M0hLNUtlaHN4VWVPQ2JtbmVxM1VFTGk5MUplNjJuTExMTnpROTVEQnc?oc=5",
       "source": "Top stories - Google News",
       "published_at": "2026-01-30T08:10:57+00:00",
-      "sentiment": "negative",
-      "compound": -0.91
+      "sentiment": "neutral"
     },
     {
       "id": "84fcd4dd2ed5d0b08cb25ea5146a77162ad8cd92",
@@ -58,8 +65,7 @@
       "url": "https://www.ndtv.com/world-news/uk-pm-starmer-seeks-to-bolster-china-ties-despite-trump-warning-10912593#publisher=newsstand",
       "source": "NDTV News - World-news",
       "published_at": "2026-01-30T08:09:42+00:00",
-      "sentiment": "positive",
-      "compound": 0.4829
+      "sentiment": "neutral"
     },
     {
       "id": "dce82cbac9886a4c35e6dab8f4ba00fa9c25c279",
@@ -68,8 +74,7 @@
       "url": "https://www.theguardian.com/uk-news/2026/jan/30/british-army-officers-court-martial-jaysley-beck-sexual-assault-case",
       "source": "World news - The Guardian",
       "published_at": "2026-01-30T07:54:27+00:00",
-      "sentiment": "negative",
-      "compound": -0.9756
+      "sentiment": "neutral"
     },
     {
       "id": "12cfa27cc9a95b4779ebf9ee961a1bebebec21fa",
@@ -78,8 +83,7 @@
       "url": "https://www.theguardian.com/world/2026/jan/30/friday-briefing-how-britains-high-streets-became-a-barometer-of-national-decline",
       "source": "World news - The Guardian",
       "published_at": "2026-01-30T06:50:13+00:00",
-      "sentiment": "negative",
-      "compound": -0.9231
+      "sentiment": "neutral"
     },
     {
       "id": "09e6a0dcb1e62eb27ebadc3e20d80f8883922e4c",
@@ -88,8 +92,7 @@
       "url": "https://www.euractiv.com/news/britains-starmer-seeks-to-bolster-china-ties-despite-trump-warning/",
       "source": "Euractiv",
       "published_at": "2026-01-30T06:22:02+00:00",
-      "sentiment": "positive",
-      "compound": 0.7674
+      "sentiment": "neutral"
     },
     {
       "id": "064bb3c6db178564b52a3d8a32f9ae7cfc511b34",
@@ -98,8 +101,7 @@
       "url": "https://www.theguardian.com/politics/2026/jan/30/reform-uk-enlists-boris-johnson-ally-ben-goldmsmith-write-party-nature-policies",
       "source": "World news - The Guardian",
       "published_at": "2026-01-30T06:00:14+00:00",
-      "sentiment": "positive",
-      "compound": 0.9442
+      "sentiment": "neutral"
     },
     {
       "id": "f1a44b8ac0ebaa465a67a9a433b885a2915ee978",
@@ -108,8 +110,7 @@
       "url": "https://www.theguardian.com/news/2026/jan/30/calls-for-king-charles-to-formally-apologise-for-slavery-after-research-shows-crowns-role",
       "source": "World news - The Guardian",
       "published_at": "2026-01-30T06:00:12+00:00",
-      "sentiment": "negative",
-      "compound": -0.891
+      "sentiment": "neutral"
     },
     {
       "id": "7606845be8698d3d74ec61debd9fa150f38d8240",
@@ -118,20 +119,9 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR05icWV2d0djQ3k2VUFvNS1waFYyOFFhclFJb1lqVGhpUjFYOTFfbTE2WDNIZWlFZHVZb2VCWU9kbjBTaFA2aWY4dWxyOXd4cGEyUnpGSHZxMHZxYXdoUV9sTnhFZmVxdGpfU3prQXU3NzhBZjFOcTZiZEhBWGdJMU5KdG5XY3JZTzVjcEZmUkkycW40cTgyRUE1NHJYWmgtdlBSTk11djlibEIzRDJvZ284V0t6Zw?oc=5",
       "source": "Top stories - Google News",
       "published_at": "2026-01-30T06:00:00+00:00",
-      "sentiment": "negative",
-      "compound": -0.2263
-    },
-    {
-      "id": "f981036d5718c4c4812c48050b9778f573f0c832",
-      "title": "Trump reportedly says 'very dangerous' for UK to do business with China as Starmer seeks diplomatic reset",
-      "summary": "Starmer is on a 4-day visit to China this week, the first trip by a British leader in eight years, signaling an attempt at resetting the bilateral ties.",
-      "url": "https://www.cnbc.com/2026/01/30/trump-china-uk-starmer-visit-xi-canada-carney.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-01-30T05:54:14+00:00",
-      "sentiment": "negative",
-      "compound": -0.5256
+      "sentiment": "neutral"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-01-30T09:50:02Z"
+  "last_updated": "2026-01-30T10:44:28Z"
 }

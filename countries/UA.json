@@ -1,16 +1,27 @@
 {
   "country": "UA",
-  "score": 68,
-  "score_label": "Negative",
-  "assessment": "High negative coverage",
-  "trend": -1,
-  "sources": 41,
+  "score": 90,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": 22,
+  "sources": 42,
   "sentiment": {
-    "positive": 15,
-    "neutral": 4,
-    "negative": 22
+    "positive": 0,
+    "neutral": 42,
+    "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "4021ec22e6cc751dc4d0ef8bf225e5cbdcfba15d",
+      "title": "Russia Is Finding the Gaps in Ukraine’s Front Line",
+      "summary": "The swift advance of Moscow’s forces into the town of Huliaipole showcases a central challenge for Kyiv: how to defend 700 miles with too few troops.",
+      "url": "https://www.nytimes.com/2026/01/30/world/europe/ukraine-war-zaporizhzhia-huliaipole.html",
+      "source": "NYT > World News",
+      "published_at": "2026-01-30T10:00:19+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
     {
       "id": "0ed071c5991c69dc956f336591ee48b52f173be9",
       "title": "FIREPOWER: Council revises criteria for Ukraine to buy weapons with EU funds",
@@ -18,8 +29,7 @@
       "url": "https://www.euractiv.com/news/firepower-council-revises-criteria-for-ukraine-to-buy-weapons-with-eu-funds/",
       "source": "Euractiv",
       "published_at": "2026-01-30T09:46:31+00:00",
-      "sentiment": "negative",
-      "compound": -0.4404
+      "sentiment": "neutral"
     },
     {
       "id": "a6ac6847dc14f4e434cb97b746c746a58e9a15dc",
@@ -28,8 +38,7 @@
       "url": "https://www.theguardian.com/world/live/2026/jan/30/europe-ukraine-russia-eu-zelenskyy-latest-news-updates",
       "source": "World news - The Guardian",
       "published_at": "2026-01-30T09:37:07+00:00",
-      "sentiment": "positive",
-      "compound": 0.7096
+      "sentiment": "neutral"
     },
     {
       "id": "6e331438309612e1f5d45264726295596b659273",
@@ -38,8 +47,7 @@
       "url": "https://www.washingtonpost.com/world/2026/01/30/ukraine-russia-trump-energy-ceasefire/",
       "source": "World (Washington post)",
       "published_at": "2026-01-30T08:33:20+00:00",
-      "sentiment": "negative",
-      "compound": -0.2023
+      "sentiment": "neutral"
     },
     {
       "id": "09952b714d0bc3dfd739037100ad457cdc57943a",
@@ -48,8 +56,7 @@
       "url": "https://www.euractiv.com/news/rapporteur-late-but-listed/",
       "source": "Euractiv",
       "published_at": "2026-01-30T06:14:00+00:00",
-      "sentiment": "negative",
-      "compound": -0.7351
+      "sentiment": "neutral"
     },
     {
       "id": "6881d167f1673683734c5489cff9a2f7182da1ad",
@@ -58,8 +65,7 @@
       "url": "https://www.ndtv.com/world-news/problems-wont-solve-by-one-power-calling-shots-un-chief-antonio-guterress-dig-at-trump-10911030#publisher=newsstand",
       "source": "NDTV News - World-news",
       "published_at": "2026-01-30T02:34:44+00:00",
-      "sentiment": "negative",
-      "compound": -0.5093
+      "sentiment": "neutral"
     },
     {
       "id": "c6434b4ecd9341c3d3aa9c7d11859b32beeadb0a",
@@ -68,8 +74,7 @@
       "url": "https://www.theguardian.com/world/2026/jan/29/trump-claims-putin-agreed-to-halt-ukraine-energy-strikes-amid-extreme-cold",
       "source": "World news - The Guardian",
       "published_at": "2026-01-29T22:51:26+00:00",
-      "sentiment": "positive",
-      "compound": 0.4019
+      "sentiment": "neutral"
     },
     {
       "id": "1b5cc37a1be6c804dddaa9c44ecd6921f309e9ab",
@@ -78,8 +83,7 @@
       "url": "https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News - World",
       "published_at": "2026-01-29T21:21:35+00:00",
-      "sentiment": "positive",
-      "compound": 0.5139
+      "sentiment": "neutral"
     },
     {
       "id": "948c85375078993023e9ade801a1b3d1ce93754c",
@@ -88,8 +92,7 @@
       "url": "https://www.ndtv.com/world-news/ukraine-to-face-30-degrees-celsius-freeze-as-russia-attacks-energy-grid-10910120#publisher=newsstand",
       "source": "NDTV News - World-news",
       "published_at": "2026-01-29T18:18:58+00:00",
-      "sentiment": "negative",
-      "compound": -0.4939
+      "sentiment": "neutral"
     },
     {
       "id": "9d748a44454dfd94e0d8cc559468663f2e6ad714",
@@ -98,8 +101,7 @@
       "url": "https://www.ndtv.com/world-news/trump-says-putin-agreed-to-not-fire-on-kyiv-for-a-week-during-cold-weather-10910112#publisher=newsstand",
       "source": "NDTV News - World-news",
       "published_at": "2026-01-29T18:18:31+00:00",
-      "sentiment": "positive",
-      "compound": 0.4829
+      "sentiment": "neutral"
     },
     {
       "id": "daec9a1be711932976a6d83eefe62a4828d75253",
@@ -108,8 +110,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaTRnczJqVElpN0NrS0Y5LUc5dVBibmM2a2Z0N2p6Mk5XR0FpUnhQaU5MeEQ4dnB6MWluUjhpVjhfRmwxdjhNTVJld1N5NERGX2ZNbUxaM3dHWDRhMmdUbzExUGJ3VjV2Zi10QmtOU2czdFNWU3ZFMkthdzR6WWV0dl9ZdHRKMUJ1NEFNU1lFM19sQk81X2hiQnRqODgzR25RLW9RT0tEYW9odXU5WnQ0?oc=5",
       "source": "Top stories - Google News",
       "published_at": "2026-01-29T17:32:40+00:00",
-      "sentiment": "negative",
-      "compound": -0.9771
+      "sentiment": "neutral"
     },
     {
       "id": "1c8ffb04d66ecdc0bc80a1a652f898dd56a92323",
@@ -118,20 +119,9 @@
       "url": "https://www.ndtv.com/world-news/russia-invites-ukraine-president-volodymyr-zelensky-to-moscow-for-peace-talks-10909361#publisher=newsstand",
       "source": "NDTV News - World-news",
       "published_at": "2026-01-29T16:12:05+00:00",
-      "sentiment": "positive",
-      "compound": 0.0516
-    },
-    {
-      "id": "13caef72fee35c759c90a328823aec60127f0a6f",
-      "title": "Ukraine Reaches Out To Musk's SpaceX Over Russian Drones Using Starlink",
-      "summary": "Starlink is also widely used by the Ukrainian army for communications.",
-      "url": "https://www.ndtv.com/world-news/ukraine-reaches-out-to-musks-spacex-over-russian-drones-using-starlink-10909305#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-01-29T15:59:04+00:00",
-      "sentiment": "positive",
-      "compound": 0.0516
+      "sentiment": "neutral"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-01-30T09:50:02Z"
+  "last_updated": "2026-01-30T10:44:28Z"
 }

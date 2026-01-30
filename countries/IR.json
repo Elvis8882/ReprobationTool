@@ -1,16 +1,27 @@
 {
   "country": "IR",
-  "score": 57,
-  "score_label": "Negative",
-  "assessment": "High negative coverage",
-  "trend": 2,
-  "sources": 55,
+  "score": 90,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": 33,
+  "sources": 56,
   "sentiment": {
-    "positive": 9,
-    "neutral": 4,
-    "negative": 42
+    "positive": 0,
+    "neutral": 56,
+    "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "dce912f641dadfdb193bd32e18e1dcda35b08cf6",
+      "title": "A U.S. letter opposed Iraqis’ choice of prime minister. They went ahead anyway.",
+      "summary": "The Trump administration sent a private letter opposing the choice of Nouri al-Maliki, the leading candidate for prime minister, considered close to Iran.",
+      "url": "https://www.washingtonpost.com/world/2026/01/30/iraq-iran-nouri-maliki/",
+      "source": "World (Washington post)",
+      "published_at": "2026-01-30T10:00:47+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
     {
       "id": "b8ec1a831f23f4ceb563ec477a0aa7f5c178d1dd",
       "title": "Trump Turns To Venezuela Playbook On Iran, But Differences Sharp",
@@ -18,8 +29,7 @@
       "url": "https://www.ndtv.com/world-news/trump-turns-to-venezuela-playbook-on-iran-but-differences-sharp-10912521#publisher=newsstand",
       "source": "NDTV News - World-news",
       "published_at": "2026-01-30T07:53:21+00:00",
-      "sentiment": "neutral",
-      "compound": 0.0
+      "sentiment": "neutral"
     },
     {
       "id": "98b2d07c7f4b2838df5a1312657f2f37985da8d3",
@@ -28,8 +38,7 @@
       "url": "https://www.ndtv.com/world-news/iran-threatens-to-hit-us-bases-carriers-in-event-of-attack-10912483#publisher=newsstand",
       "source": "NDTV News - World-news",
       "published_at": "2026-01-30T07:44:23+00:00",
-      "sentiment": "negative",
-      "compound": -0.891
+      "sentiment": "neutral"
     },
     {
       "id": "12cfa27cc9a95b4779ebf9ee961a1bebebec21fa",
@@ -38,8 +47,7 @@
       "url": "https://www.theguardian.com/world/2026/jan/30/friday-briefing-how-britains-high-streets-became-a-barometer-of-national-decline",
       "source": "World news - The Guardian",
       "published_at": "2026-01-30T06:50:13+00:00",
-      "sentiment": "negative",
-      "compound": -0.9231
+      "sentiment": "neutral"
     },
     {
       "id": "8549ab89b632554976a13ad771ebb27b9606db12",
@@ -48,8 +56,7 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORzZRTV9qVURlTkd5QlE5aXhyVXJiaVpobWxLR2hENS0zdG84QkdvSmk1Z3VIMFk2TDhjUUVJeHlMbHp6X2Q5cFUyVW5ySXRIUlZwc3NIcEJQY1lRM0pOUlYtcWowWEZOeU9ENWtzeHdOX09GTjhZYUdYVllIUE0yaWVqV3RFQS1pVWotTFpaM3c5dXppZlpMOTMwNkhrUQ?oc=5",
       "source": "Top stories - Google News",
       "published_at": "2026-01-30T06:48:00+00:00",
-      "sentiment": "positive",
-      "compound": 0.5423
+      "sentiment": "neutral"
     },
     {
       "id": "99bd343b438d9d80da766c2ac0e4cea32e714868",
@@ -58,8 +65,7 @@
       "url": "https://www.ndtv.com/world-news/as-us-iran-tensions-escalate-american-bases-in-west-asia-on-tehrans-target-10912121#publisher=newsstand",
       "source": "NDTV News - World-news",
       "published_at": "2026-01-30T06:39:33+00:00",
-      "sentiment": "negative",
-      "compound": -0.4019
+      "sentiment": "neutral"
     },
     {
       "id": "ea9695c006676bb3230252da9d143f2294eb2206",
@@ -68,8 +74,7 @@
       "url": "https://www.ndtv.com/world-news/irans-islamic-revolutionary-guards-feared-pasdaran-behind-deadly-crackdown-10911970#publisher=newsstand",
       "source": "NDTV News - World-news",
       "published_at": "2026-01-30T06:15:36+00:00",
-      "sentiment": "negative",
-      "compound": -0.4939
+      "sentiment": "neutral"
     },
     {
       "id": "b5c10dae8f6e6e4d93c08f7ad20a6a85cf5bcfa9",
@@ -78,8 +83,7 @@
       "url": "https://www.bbc.com/news/articles/c394ymdpjwvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News - World",
       "published_at": "2026-01-30T06:12:01+00:00",
-      "sentiment": "positive",
-      "compound": 0.4404
+      "sentiment": "neutral"
     },
     {
       "id": "5e50cea6c914c9e0d7ed022cae3d30478d6ad2e3",
@@ -88,8 +92,7 @@
       "url": "https://www.ndtv.com/opinion/power-within-power-how-irans-institutional-maze-complicates-trumps-war-plans-10911823#publisher=newsstand",
       "source": "NDTV News - World-news",
       "published_at": "2026-01-30T05:56:32+00:00",
-      "sentiment": "positive",
-      "compound": 0.2263
+      "sentiment": "neutral"
     },
     {
       "id": "bd338aa88cc4fd05f03c97b1746544471a78fa10",
@@ -98,8 +101,7 @@
       "url": "https://timesofindia.indiatimes.com/world/us/after-uss-abraham-lincoln-destroyer-delbert-d-black-enters-red-sea-amid-tensions-with-iran/articleshow/127789163.cms",
       "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
       "published_at": "2026-01-30T04:47:47+00:00",
-      "sentiment": "negative",
-      "compound": -0.8993
+      "sentiment": "neutral"
     },
     {
       "id": "e5a32f6438f64a5ae5479fda67c333d1c0506763",
@@ -108,8 +110,7 @@
       "url": "https://www.ndtv.com/world-news/trumps-options-for-iran-strike-grow-even-with-unclear-goals-10911172#publisher=newsstand",
       "source": "NDTV News - World-news",
       "published_at": "2026-01-30T03:18:14+00:00",
-      "sentiment": "negative",
-      "compound": -0.6124
+      "sentiment": "neutral"
     },
     {
       "id": "c11b27d8bd58206b3f5e9da159b9429f130555f3",
@@ -118,20 +119,9 @@
       "url": "https://timesofindia.indiatimes.com/world/us/very-big-powerful-ships-sailing-to-iran-donald-trump-issues-warning-to-tehran-what-he-is-demanding/articleshow/127789201.cms",
       "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
       "published_at": "2026-01-30T03:04:19+00:00",
-      "sentiment": "negative",
-      "compound": -0.8658
-    },
-    {
-      "id": "b5b0bcffd18126e34ef967187db9187e589d90f6",
-      "title": "Amid Iran Tensions, US Sends Destroyer Delbert D. Black To Middle East",
-      "summary": "According to officials, the USS Delbert D. Black had entered the region in the past 48 hours.",
-      "url": "https://www.ndtv.com/world-news/amid-iran-tensions-us-sends-destroyer-delbert-d-black-to-middle-east-10910930#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-01-30T01:42:05+00:00",
-      "sentiment": "negative",
-      "compound": -0.6908
+      "sentiment": "neutral"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-01-30T09:50:02Z"
+  "last_updated": "2026-01-30T10:44:28Z"
 }
