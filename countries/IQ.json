@@ -1,14 +1,24 @@
 {
   "country": "IQ",
-  "score": 90,
-  "trend": "+0",
-  "sources": 1,
+  "score": 95,
+  "trend": "+5",
+  "sources": 2,
   "sentiment": {
-    "positive": 0,
+    "positive": 1,
     "neutral": 1,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "ff295d1a51ce097926f8efaa9142685750a93f14",
+      "title": "From Syria To Qatar: All US Military Bases In Middle East",
+      "summary": "The United States has troops in Iraq's autonomous Kurdish region.",
+      "url": "https://www.ndtv.com/world-news/from-syria-to-qatar-all-us-military-bases-in-middle-east-10910227#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-01-29T18:51:38+00:00",
+      "sentiment": "positive",
+      "compound": 0.4215
+    },
     {
       "id": "35d667f203ee0abf3ad365fd0dafa0af64ba9733",
       "title": "Iraq’s Nominee for Prime Minister Rejects Trump Threats",
@@ -21,5 +31,5 @@
     }
   ],
   "window_days": 14,
-  "last_updated": "2026-01-29T18:29:23Z"
+  "last_updated": "2026-01-30T01:01:36Z"
 }

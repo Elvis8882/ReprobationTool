@@ -1,14 +1,34 @@
 {
   "country": "SY",
-  "score": 100,
-  "trend": "+0",
-  "sources": 2,
+  "score": 73,
+  "trend": "-27",
+  "sources": 4,
   "sentiment": {
-    "positive": 2,
+    "positive": 3,
     "neutral": 0,
-    "negative": 0
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "f0832bbaa511effe771203bf1da9fc7fbc72d8fe",
+      "title": "Syria's defiant Kurds vow to 'fight until last breath' despite government push",
+      "summary": "The US fought IS with the Kurds for years. Now, Donald Trump is siding with Syria's new leader.",
+      "url": "https://www.bbc.com/news/articles/cvgrzd76p4lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-01-29T22:04:34+00:00",
+      "sentiment": "negative",
+      "compound": -0.7003
+    },
+    {
+      "id": "ff295d1a51ce097926f8efaa9142685750a93f14",
+      "title": "From Syria To Qatar: All US Military Bases In Middle East",
+      "summary": "The United States has troops in Iraq's autonomous Kurdish region.",
+      "url": "https://www.ndtv.com/world-news/from-syria-to-qatar-all-us-military-bases-in-middle-east-10910227#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-01-29T18:51:38+00:00",
+      "sentiment": "positive",
+      "compound": 0.4215
+    },
     {
       "id": "eef92bd18a6f023111725c624bba0444e1039d62",
       "title": "Putin, Still Harboring Assad, Welcomes New Syrian Leader to Moscow Again",
@@ -31,5 +51,5 @@
     }
   ],
   "window_days": 14,
-  "last_updated": "2026-01-29T18:29:23Z"
+  "last_updated": "2026-01-30T01:01:36Z"
 }

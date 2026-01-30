@@ -2,13 +2,33 @@
   "country": "IL",
   "score": 44,
   "trend": "+0",
-  "sources": 8,
+  "sources": 10,
   "sentiment": {
     "positive": 3,
-    "neutral": 1,
-    "negative": 4
+    "neutral": 2,
+    "negative": 5
   },
   "latest_articles": [
+    {
+      "id": "61bc5a9ce066f6bd3a64223ea2648bd4b5266c89",
+      "title": "Israeli media cite official accepting Hamas figure of 70,000 war dead",
+      "summary": "Israel has previously cast doubt on figures from the Hamas-run health ministry, which the UN considers reliable.",
+      "url": "https://www.bbc.com/news/articles/cvgpd1x00exo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-01-29T22:23:35+00:00",
+      "sentiment": "negative",
+      "compound": -0.8442
+    },
+    {
+      "id": "cda7d60485e87a54b38ee69364e96029b0f14b40",
+      "title": "Apple acquires Israeli startup Q.ai",
+      "summary": "Q.ai was led by Aviad Maizels, who previously sold a startup called PrimeSense to Apple in 2013.",
+      "url": "https://www.cnbc.com/2026/01/29/apple-acquires-israeli-startup-qai-.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-01-29T18:41:52+00:00",
+      "sentiment": "neutral",
+      "compound": 0.0
+    },
     {
       "id": "5a4e2f22aff55916a251863c1ceac443f382937e",
       "title": "'I can breathe again' says Israeli hostage held for nearly 500 days in Gaza",
@@ -91,5 +111,5 @@
     }
   ],
   "window_days": 14,
-  "last_updated": "2026-01-29T18:29:23Z"
+  "last_updated": "2026-01-30T01:01:36Z"
 }
