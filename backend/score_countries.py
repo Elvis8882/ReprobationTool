@@ -135,6 +135,9 @@ def main():
             continue
         
         sent_map = a.get("sentiment_by_country") or {}
+        c_sent = sent_map.get(c) or {}
+        label = (c_sent.get("label") or "neutral").lower().strip()
+
         if not isinstance(sent_map, dict):
             sent_map = {}
 
