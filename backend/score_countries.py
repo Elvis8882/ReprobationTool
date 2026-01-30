@@ -55,14 +55,6 @@ def compute_score(pos: float, neu: float, neg: float) -> int:
     return int(round(clamp(score, 1, 100)))
 
 
-def sentiment_label(compound: float) -> str:
-    if compound >= 0.05:
-        return "positive"
-    if compound <= -0.05:
-        return "negative"
-    return "neutral"
-
-
 def iter_articles():
     if not ARTICLES_DIR.exists():
         return
@@ -142,22 +134,23 @@ def main():
             skipped_no_targets += 1
             continue
         
-        s = a.get("sentiment") or {}
-        compound = float(s.get("compound", 0.0))
-        label = sentiment_label(compound)
-        
-        considered += 1
+        sent_map = a.get("sentiment_by_country") or {}
+        if not isinstance(sent_map, dict):
+        sent_map = {}
 
-        card = {
+        # If an article was processed but has no LLM output, treat as neutral for all
+        # (this can happen if you used degraded mode on API failure)
+        considered += 1
+        
+        base_card = {
             "id": a.get("id"),
             "title": a.get("title") or "",
             "summary": (a.get("summary_public") or a.get("summary") or ""),
             "url": a.get("url"),
             "source": a.get("source"),
             "published_at": a.get("published_at"),
-            "sentiment": label,
-            "compound": compound,
         }
+
 
         detected = set(a.get("countries_detected") or [])
         eu_wide = "EU" in detected
@@ -166,14 +159,20 @@ def main():
             if c not in stats:
                 continue
         
-            # Weighting rule:
-            # - explicit mention => full weight
-            # - EU expansion only => reduced weight
+            # Weighting rule unchanged
             weight = 1.0
             if eu_wide and (c not in detected) and (c != "EU"):
                 weight = EU_EXPANSION_WEIGHT
         
-            # weight computed as you already do
+            # Per-country label from LLM output
+            c_sent = sent_map.get(c) or {}
+            label = (c_sent.get("label") or "neutral").lower().strip()
+        
+            if label not in ("positive", "negative", "neutral", "mixed"):
+                label = "neutral"
+        
+            # Decide how to count "mixed"
+            # Conservative option: treat mixed as neutral (recommended initially)
             if label == "positive":
                 stats[c]["pos_w"] += weight
                 stats[c]["pos_n"] += 1
@@ -184,7 +183,17 @@ def main():
                 stats[c]["neu_w"] += weight
                 stats[c]["neu_n"] += 1
         
-            stats[c]["latest"].append(card)
+            # Country-specific card (so latest_articles sentiment is correct per country)
+            card_c = dict(base_card)
+            card_c["sentiment"] = label
+            # Optional: keep model evidence/confidence for UI/debugging
+            if "confidence" in c_sent:
+                card_c["confidence"] = c_sent.get("confidence")
+            if "evidence" in c_sent:
+                card_c["evidence"] = c_sent.get("evidence")
+        
+            stats[c]["latest"].append(card_c)
+
 
 
     index = {}
