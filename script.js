@@ -8,12 +8,13 @@ const NO_DATA_SCORE_TEXT = "Not enough data";
 const NO_DATA_ASSESSMENT_TEXT = "No information available";
 const countryScores = {};
 const countryArticleCounts = {};
-const countryDataCache = new Map();
 
 const PRANK_COUNTRY_ID = "NL"; // the country code in your SVG
 const PRANK_URL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
 
 let selectedCountryEl = null;  // global variable
+let DATA_VERSION = null;
+
 
 /* =========================
    Custom tooltip
@@ -107,17 +108,14 @@ async function loadCountryScores(countries) {
 }
 
 async function fetchCountryData(code) {
-  if (countryDataCache.has(code)) {
-    return countryDataCache.get(code);
-  }
+  const v = DATA_VERSION ? encodeURIComponent(DATA_VERSION) : Date.now();
+  const url = `countries/${code}.json?v=${v}`;
 
-  const promise = fetch(`countries/${code}.json`)
+  return fetch(url, { cache: "no-store" })
     .then(res => (res.ok ? res.json() : null))
     .catch(() => null);
-
-  countryDataCache.set(code, promise);
-  return promise;
 }
+
 
 function truncateText(text, maxLength = 160) {
   if (!text) return "";
@@ -557,8 +555,18 @@ function formatDateYMD(iso) {
 document.addEventListener("DOMContentLoaded", async () => {
 
   const countries = document.querySelectorAll("svg path");
-  await loadCountryScores(countries);
-  await loadLatestNews(countries);
+  
+async function loadDataVersion() {
+  const res = await fetch(`countries/index.json?cb=${Date.now()}`, { cache: "no-store" });
+  if (!res.ok) return null;
+  const idx = await res.json();
+  return idx?.last_updated || null;
+}
+
+   DATA_VERSION = await loadDataVersion();
+   await loadCountryScores(countries);
+   await loadLatestNews(countries);
+
   console.log("Countries found:", countries.length);
 
   countries.forEach(country => {
