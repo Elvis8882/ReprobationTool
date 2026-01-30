@@ -191,14 +191,18 @@ def main():
     last_updated = iso_z(now)
 
     for c in ALL_COUNTRIES:
-        pos_w, neu_w, neg_w = stats[c]["pos_w"], stats[c]["neu_w"], stats[c]["neg_w"]
-        score = compute_score(pos_w, neu_w, neg_w)
+        pos_w = stats[c]["pos_w"]
+        neu_w = stats[c]["neu_w"]
+        neg_w = stats[c]["neg_w"]
         
-        pos_n, neu_n, neg_n = stats[c]["pos_n"], stats[c]["neu_n"], stats[c]["neg_n"]
-        sentiment_out = {"positive": pos_n, "neutral": neu_n, "negative": neg_n}
-
-        total = pos + neu + neg
-        score = compute_score(pos, neu, neg)
+        pos_n = stats[c]["pos_n"]
+        neu_n = stats[c]["neu_n"]
+        neg_n = stats[c]["neg_n"]
+        
+        total_w = pos_w + neu_w + neg_w
+        total_n = pos_n + neu_n + neg_n
+        
+        score = compute_score(pos_w, neu_w, neg_w)
 
         cpath = COUNTRIES_DIR / f"{c}.json"
         prev_score = None
@@ -209,10 +213,12 @@ def main():
                 prev_score = None
 
         trend = None
-        if total > 0 and prev_score is not None:
+        if total_w > 0 and prev_score is not None:
             trend = score - prev_score
 
-        score_label, assessment = label_and_assessment(total, pos, neu, neg)
+        score_label, assessment = label_and_assessment(
+            total_n, pos_n, neu_n, neg_n
+        )
         sources_count = len({x.get("id") for x in stats[c]["latest"] if x.get("id")})
 
         latest_sorted = sorted(
@@ -239,7 +245,11 @@ def main():
             "assessment": assessment,
             "trend": trend,  # int or null
             "sources": sources_count,
-            "sentiment": sentiment_out,
+            "sentiment": {
+                "positive": pos_n,
+                "neutral": neu_n,
+                "negative": neg_n
+            },
             "latest_articles": latest,
             "window_days": WINDOW_DAYS,
             "last_updated": last_updated,
