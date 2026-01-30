@@ -20,7 +20,7 @@ BATCH_MAX_ITEMS = int(os.environ.get("GEMINI_BATCH_MAX_ITEMS", "12"))
 BATCH_MAX_CHARS = int(os.environ.get("GEMINI_BATCH_MAX_CHARS", "18000"))
 
 # Cache version (bump if you change prompt/schema)
-CACHE_VERSION = os.environ.get("LLM_SENTIMENT_CACHE_VERSION", "v2")
+CACHE_VERSION = os.environ.get("LLM_SENTIMENT_CACHE_VERSION", "v3")
 
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-latest").strip()
 if not GEMINI_MODEL.startswith("models/"):
@@ -297,17 +297,27 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
         }
 
         prompt = (
-            "You are scoring COUNTRY-TARGETED sentiment in geopolitical/news text.\n"
+            "You are scoring COUNTRY-TARGETED sentiment from the standpoint of the European Union (EU).\n"
+            "Interpret events based on impact on EU interests: security, stability, rule of law, support for Ukraine, sanctions compliance.\n"
             "Return ONLY valid JSON. No markdown. No extra text.\n\n"
-            "For each item, score ONLY the ISO2 codes in 'targets' (uppercase keys).\n"
-            "Do not add extra countries. Note: GB = United Kingdom (UK). If the text mentions UK/United Kingdom/Britain, that counts as GB.\n\n"
+        
+            "For each item, score ONLY the ISO2 codes in 'targets' using uppercase keys.\n"
+            "Do not add extra countries.\n"
+            "Note: GB = United Kingdom (UK). Mentions of UK/United Kingdom/Britain => GB.\n\n"
+        
             "Labels: positive | negative | neutral | mixed\n"
-            "- positive: helping/constructive/stabilizing/successful\n"
-            "- negative: obstructing/harmful/destabilizing/criticized/failing\n"
-            "- neutral: mentioned without clear judgment\n"
-            "- mixed: both positive and negative signals\n\n"
+            "- positive: portrayed as supporting EU interests/values (e.g., supporting Ukraine, cooperation, de-escalation, enforcing sanctions).\n"
+            "- negative: portrayed as harming EU interests/values (e.g., aggression toward Ukraine, destabilization, obstruction of EU policy, sanction evasion).\n"
+            "- neutral: mentioned without a clear EU-relevant implication.\n"
+            "- mixed: both supportive and harmful EU-relevant signals.\n\n"
+        
+            "Key rule: Do NOT treat military or political 'success' as positive if it harms EU interests.\n"
+            "Example: Russian military advances in Ukraine => negative for Russia (EU standpoint).\n"
+            "If unsure, choose neutral with low confidence.\n\n"
+        
             "Evidence: short phrase (<= 12 words) copied from the text.\n"
             "Confidence: number 0..1.\n\n"
+        
             f"INPUT:\n{json.dumps({'items': input_items}, ensure_ascii=False)}\n\n"
             f"Output JSON with this exact shape:\n{json.dumps(schema_hint)}"
         )
