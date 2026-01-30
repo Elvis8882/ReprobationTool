@@ -147,8 +147,13 @@ function createNewsItem(article) {
   summary.className = "news-summary";
   summary.textContent = truncateText(article.summary || "Summary not available.");
 
+  const date = document.createElement("div");
+  date.className = "news-date";
+  date.textContent = formatDateYMD(article.published_at);
+
   li.appendChild(title);
   li.appendChild(summary);
+  li.appendChild(date);
 
   return li;
 }
@@ -537,6 +542,13 @@ function highlightMatch(text, query) {
   return text.replace(regex, "<mark>$1</mark>");
 }
 
+function formatDateYMD(iso) {
+  if (!iso) return "";
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return "";
+  // "sv-SE" reliably outputs YYYY-MM-DD
+  return d.toLocaleDateString("sv-SE");
+}
 
 /* =========================
    DOM BOOTSTRAP (UNCHANGED)
