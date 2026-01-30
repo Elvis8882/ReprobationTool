@@ -3,7 +3,8 @@ name: Ingest + Process + Score RSS articles
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+    - cron: "0 2 * * *"
+
 
 permissions:
   contents: write
