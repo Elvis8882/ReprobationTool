@@ -5,7 +5,7 @@ import time
 from typing import Dict, List, Any
 import hashlib
 from pathlib import Path
-
+import pycountry
 import requests
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -25,6 +25,13 @@ GEMINI_ENDPOINT = (
 # Basic backoff settings for Actions environments
 MAX_RETRIES = 5
 INITIAL_BACKOFF_S = 1.5
+
+def _iso_name(iso2: str) -> str:
+    try:
+        c = pycountry.countries.get(alpha_2=iso2.upper())
+        return c.name if c else iso2
+    except Exception:
+        return iso2
 
 
 def _post_gemini(payload: dict) -> dict:
@@ -69,7 +76,9 @@ def score_entity_sentiment(text: str, iso_targets: List[str]) -> Dict[str, Any]:
     Labels: positive | negative | neutral | mixed
     """
     # Keep prompt short + explicit. We pass the ISO target list to reduce hallucination.
-    targets_csv = ", ".join(iso_targets)
+    iso_targets = [x.upper() for x in iso_targets]  # normalize inputs
+    targets_pretty = "; ".join([f"{c}={_iso_name(c)}" for c in iso_targets])
+
 
     # Cache key based on model + text + targets + prompt version
     h = hashlib.sha256()
@@ -98,23 +107,22 @@ def score_entity_sentiment(text: str, iso_targets: List[str]) -> Dict[str, Any]:
     }
 
     prompt = (
-        "You are scoring country-targeted sentiment in geopolitical/news text.\n"
-        "Task: For EACH ISO2 country code in TARGETS, determine how the text portrays that country.\n"
-        "Return ONLY JSON.\n\n"
-        "Definitions:\n"
-        "- positive: portrayed as helping, constructive, stabilizing, successful, etc.\n"
-        "- negative: portrayed as obstructing, harmful, destabilizing, criticized, failing, etc.\n"
-        "- neutral: merely mentioned with no clear valence.\n"
-        "- mixed: both positive and negative signals present.\n\n"
-        "Rules:\n"
-        "- Score ONLY the provided TARGETS.\n"
-        "- Do NOT infer facts not in the text.\n"
-        "- Evidence must be a short phrase (<= 12 words) copied from the text.\n"
-        "- Confidence must be 0..1.\n\n"
-        f"TARGETS: {targets_csv}\n\n"
+        "You are scoring COUNTRY-TARGETED sentiment in geopolitical/news text.\n"
+        "Return ONLY valid JSON. No markdown. No extra text.\n\n"
+        "You MUST use ISO2 country codes as keys EXACTLY as provided (uppercase).\n"
+        "Score ONLY the TARGETS list. Do not add/remove keys.\n\n"
+        "Labels: positive | negative | neutral | mixed\n"
+        "- positive: portrayed as helping/constructive/stabilizing/successful\n"
+        "- negative: portrayed as obstructing/harmful/destabilizing/criticized/failing\n"
+        "- neutral: mentioned without clear judgment\n"
+        "- mixed: both positive and negative signals\n\n"
+        "Evidence: short phrase (<= 12 words) copied from the text.\n"
+        "Confidence: number 0..1.\n\n"
+        f"TARGETS (ISO2=Name): {targets_pretty}\n\n"
         f"TEXT:\n{text}\n\n"
-        f"Output JSON with this shape:\n{json.dumps(schema_hint)}"
+        f"Output JSON with this exact shape:\n{json.dumps(schema_hint)}"
     )
+
 
     payload = {
         "contents": [{"role": "user", "parts": [{"text": prompt}]}],
@@ -146,7 +154,10 @@ def score_entity_sentiment(text: str, iso_targets: List[str]) -> Dict[str, Any]:
     # Enforce only targets + normalize
     final: Dict[str, Any] = {}
     allowed = set(iso_targets)
-    for iso, v in out.items():
+    for iso_key, v in out.items():
+        if not isinstance(iso_key, str):
+            continue
+        iso = iso_key.strip().upper()  # normalize FR/fr
         if iso not in allowed:
             continue
         if not isinstance(v, dict):
