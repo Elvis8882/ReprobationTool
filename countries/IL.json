@@ -1,16 +1,26 @@
 {
   "country": "IL",
-  "score": 69,
-  "score_label": "Negative",
-  "assessment": "High negative coverage",
-  "trend": 5,
-  "sources": 10,
+  "score": 72,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": 3,
+  "sources": 11,
   "sentiment": {
-    "positive": 3,
+    "positive": 4,
     "neutral": 2,
     "negative": 5
   },
   "latest_articles": [
+    {
+      "id": "6dd546ed1fb1647a8c13c117fa03bfc9291df009",
+      "title": "\"India Can Be Bridge To Peace With Israel\": Palestinian Minister To NDTV",
+      "summary": "Varsen Aghabekian described the situation on the ground in Gaza as dire",
+      "url": "https://www.ndtv.com/world-news/india-can-be-bridge-to-peace-with-israel-palestinian-minister-to-ndtv-10912402#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-01-30T07:30:45+00:00",
+      "sentiment": "positive",
+      "compound": 0.128
+    },
     {
       "id": "61bc5a9ce066f6bd3a64223ea2648bd4b5266c89",
       "title": "Israeli media cite official accepting Hamas figure of 70,000 war dead",
@@ -113,5 +123,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-01-30T08:45:14Z"
+  "last_updated": "2026-01-30T09:50:02Z"
 }

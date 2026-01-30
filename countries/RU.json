@@ -1,16 +1,26 @@
 {
   "country": "RU",
-  "score": 65,
+  "score": 64,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 7,
-  "sources": 44,
+  "trend": -1,
+  "sources": 36,
   "sentiment": {
-    "positive": 13,
-    "neutral": 5,
-    "negative": 26
+    "positive": 11,
+    "neutral": 3,
+    "negative": 22
   },
   "latest_articles": [
+    {
+      "id": "a6ac6847dc14f4e434cb97b746c746a58e9a15dc",
+      "title": "Ukraine will be ‘technically’ ready to join EU in 2027, Zelenskyy says – Europe live",
+      "summary": "Ukrainian president doubles down on target for accession despite pushback from some European leadersSeparately, the Ukrainian air force reported that Russia launched over 100 drones and just one missile at Ukraine overni…",
+      "url": "https://www.theguardian.com/world/live/2026/jan/30/europe-ukraine-russia-eu-zelenskyy-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-01-30T09:37:07+00:00",
+      "sentiment": "positive",
+      "compound": 0.7096
+    },
     {
       "id": "6e331438309612e1f5d45264726295596b659273",
       "title": "Ukraine wakes to possible pause in Russian energy strikes after Trump call",
@@ -40,26 +50,6 @@
       "published_at": "2026-01-30T06:14:00+00:00",
       "sentiment": "negative",
       "compound": -0.7351
-    },
-    {
-      "id": "4fa9158afc49ae3647c7861bba89d42b9cbb8590",
-      "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1436, Part 1 (Thread #1583)",
-      "summary": "&#32; submitted by &#32;  /u/WorldNewsMods   [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/worldnews/comments/1qquzu4/rworldnews_live_thread_russian_invasion_of/",
-      "source": "World News (Reddit)",
-      "published_at": "2026-01-30T04:02:46+00:00",
-      "sentiment": "neutral",
-      "compound": 0.0
-    },
-    {
-      "id": "6188bf3f7394990be9ce45faeacce3bc9fc8db5b",
-      "title": "Moscow Airport Sells for Half Off, a Sign of Russia’s Global Isolation",
-      "summary": "&#32; submitted by &#32;  /u/ArthurPeabody   [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/worldnews/comments/1qquner/moscow_airport_sells_for_half_off_a_sign_of/",
-      "source": "World News (Reddit)",
-      "published_at": "2026-01-30T03:46:44+00:00",
-      "sentiment": "negative",
-      "compound": -0.4019
     },
     {
       "id": "6881d167f1673683734c5489cff9a2f7182da1ad",
@@ -102,16 +92,6 @@
       "compound": 0.5139
     },
     {
-      "id": "31b7c7028a23276014be46ccf6968b92b95dc699",
-      "title": "The EU is weighing a proposal to bar Russian soldiers who fought in Ukraine from entering the bloc, amid fears that battle‑hardened veterans could pose long‑term security risks to Europe.",
-      "summary": "&#32; submitted by &#32;  /u/Easy-Ad1996   [link] &#32; [comments]",
-      "url": "https://www.reddit.com/r/worldnews/comments/1qqkt3y/the_eu_is_weighing_a_proposal_to_bar_russian/",
-      "source": "World News (Reddit)",
-      "published_at": "2026-01-29T20:56:57+00:00",
-      "sentiment": "negative",
-      "compound": -0.5859
-    },
-    {
       "id": "42e7509ab11c9795d560125e30dec54a35d2a77d",
       "title": "Moscow Airport Sells for Half Off, a Sign of Russia’s Global Isolation",
       "summary": "The government opened the sale to cut-rate bidding for Domodedovo Airport after it received no offers at its initial asking price of $1.7 billion.",
@@ -130,8 +110,28 @@
       "published_at": "2026-01-29T18:18:58+00:00",
       "sentiment": "negative",
       "compound": -0.4939
+    },
+    {
+      "id": "daec9a1be711932976a6d83eefe62a4828d75253",
+      "title": "EU considers entry ban on Russian soldiers who fought in Ukraine - Euronews.com",
+      "summary": "EU considers entry ban on Russian soldiers who fought in Ukraine&nbsp;&nbsp;Euronews.comEstonia warns Russian veterans could flood Europe after Ukraine war, urges EU entry ban&nbsp;&nbsp;kyivindependent.comEstonia propos…",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaTRnczJqVElpN0NrS0Y5LUc5dVBibmM2a2Z0N2p6Mk5XR0FpUnhQaU5MeEQ4dnB6MWluUjhpVjhfRmwxdjhNTVJld1N5NERGX2ZNbUxaM3dHWDRhMmdUbzExUGJ3VjV2Zi10QmtOU2czdFNWU3ZFMkthdzR6WWV0dl9ZdHRKMUJ1NEFNU1lFM19sQk81X2hiQnRqODgzR25RLW9RT0tEYW9odXU5WnQ0?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-01-29T17:32:40+00:00",
+      "sentiment": "negative",
+      "compound": -0.9771
+    },
+    {
+      "id": "1c8ffb04d66ecdc0bc80a1a652f898dd56a92323",
+      "title": "Russia Invites Ukraine President Zelensky To Moscow For Peace Talks",
+      "summary": "Zelensky rejected a similar invitation last year.",
+      "url": "https://www.ndtv.com/world-news/russia-invites-ukraine-president-volodymyr-zelensky-to-moscow-for-peace-talks-10909361#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-01-29T16:12:05+00:00",
+      "sentiment": "positive",
+      "compound": 0.0516
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-01-30T08:45:14Z"
+  "last_updated": "2026-01-30T09:50:02Z"
 }
