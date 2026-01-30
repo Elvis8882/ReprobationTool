@@ -1,14 +1,56 @@
 {
   "country": "IR",
-  "score": 9,
-  "trend": "+0",
-  "sources": 52,
+  "score": 46,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
+  "trend": 37,
+  "sources": 56,
   "sentiment": {
-    "positive": 6,
-    "neutral": 3,
-    "negative": 43
+    "positive": 7.0,
+    "neutral": 3.0,
+    "negative": 46.0
   },
   "latest_articles": [
+    {
+      "id": "12cfa27cc9a95b4779ebf9ee961a1bebebec21fa",
+      "title": "Friday briefing: How Britain’s high streets became a barometer of national decline",
+      "summary": "In today’s newsletter: As boarded‑up units spread from coastal towns to former industrial centres, a new ​Guardian investigation reveals how ​o​ur high streets have become a litmus test for public frustration and ​p​olit…",
+      "url": "https://www.theguardian.com/world/2026/jan/30/friday-briefing-how-britains-high-streets-became-a-barometer-of-national-decline",
+      "source": "World news - The Guardian",
+      "published_at": "2026-01-30T06:50:13+00:00",
+      "sentiment": "negative",
+      "compound": -0.9231
+    },
+    {
+      "id": "99bd343b438d9d80da766c2ac0e4cea32e714868",
+      "title": "As US-Iran Tensions Escalate, American Bases In West Asia On Tehran's Target",
+      "summary": "File photo of US Air Force C-17 Globemasters at Qatar's al-Udeid Air Base",
+      "url": "https://www.ndtv.com/world-news/as-us-iran-tensions-escalate-american-bases-in-west-asia-on-tehrans-target-10912121#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-01-30T06:39:33+00:00",
+      "sentiment": "negative",
+      "compound": -0.4019
+    },
+    {
+      "id": "ea9695c006676bb3230252da9d143f2294eb2206",
+      "title": "Iran's Islamic Revolutionary Guards: Feared 'Pasdaran' Behind Deadly Crackdown",
+      "summary": "The IRGC also serves as Tehran's link to its regional allies",
+      "url": "https://www.ndtv.com/world-news/irans-islamic-revolutionary-guards-feared-pasdaran-behind-deadly-crackdown-10911970#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-01-30T06:15:36+00:00",
+      "sentiment": "negative",
+      "compound": -0.4939
+    },
+    {
+      "id": "5e50cea6c914c9e0d7ed022cae3d30478d6ad2e3",
+      "title": "Opinion: Opinion | Power Within Power: How A Unique Web Of Bodies Complicates Trump's Iran Plans",
+      "summary": "Trump's dreams of effecting a regime change in Iran need to be considered along two factors related to the power structures within Iran, both of which US seems indifferent to.",
+      "url": "https://www.ndtv.com/opinion/power-within-power-how-irans-institutional-maze-complicates-trumps-war-plans-10911823#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-01-30T05:56:32+00:00",
+      "sentiment": "positive",
+      "compound": 0.2263
+    },
     {
       "id": "bd338aa88cc4fd05f03c97b1746544471a78fa10",
       "title": "After USS Abraham Lincoln, destroyer Delbert D. Black enters Red Sea amid tensions with Iran",
@@ -88,48 +130,8 @@
       "published_at": "2026-01-29T21:17:10+00:00",
       "sentiment": "negative",
       "compound": -0.7269
-    },
-    {
-      "id": "ddcc3bc510a728e4211d3891a27ad96d1e4a2de1",
-      "title": "Iran Warns Of \"Decisive Response\" To Any US Attack",
-      "summary": "Iran threatened Thursday to instantly strike US bases and aircraft carriers in response to any attack.",
-      "url": "https://www.ndtv.com/world-news/iran-warns-of-decisive-response-to-any-us-attack-10910338#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-01-29T20:17:47+00:00",
-      "sentiment": "negative",
-      "compound": -0.8481
-    },
-    {
-      "id": "6274502463cedbfafb2b34a762ae6a78cbf5dd1f",
-      "title": "European Union Labels Iran’s Revolutionary Guard a Terrorist Group",
-      "summary": "The move, which comes after the killing of protesters, brings the European Union in line with the United States and Canada.",
-      "url": "https://www.nytimes.com/2026/01/29/world/europe/european-union-iran-sanctions-irgc.html",
-      "source": "NYT > World News",
-      "published_at": "2026-01-29T18:19:02+00:00",
-      "sentiment": "negative",
-      "compound": -0.8481
-    },
-    {
-      "id": "6edbd7f7883e031d7b07467594b9794699ff549d",
-      "title": "UK unlikely to join a US attack on Iran – but may help Gulf states if Tehran retaliates",
-      "summary": "Deployment of RAF Typhoon squadron to Qatar signals willingness to protect country from a counterattackBritain is unlikely to assist the US in an attack on Iran but a deployment of RAF Typhoons to Qatar last week signals…",
-      "url": "https://www.theguardian.com/politics/2026/jan/29/britain-unlikely-assist-us-attack-iran-gulf-retaliated",
-      "source": "World news - The Guardian",
-      "published_at": "2026-01-29T18:18:16+00:00",
-      "sentiment": "positive",
-      "compound": 0.8765
-    },
-    {
-      "id": "6ba265fa515192867a09a6328552bdeb8a33f932",
-      "title": "\"Major Strategic Mistake\": Iran Blasts EU After Guards' Terror Designation",
-      "summary": "Iran reacted with fury on Thursday after the EU blacklisted the country's Revolutionary Guards as a terror group, as Tehran faced off with Washington after US President Donald Trump warned time was running out for a nucl…",
-      "url": "https://www.ndtv.com/world-news/major-strategic-mistake-iran-blasts-eu-after-guards-terror-designation-10910107#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-01-29T18:17:39+00:00",
-      "sentiment": "negative",
-      "compound": -0.9358
     }
   ],
-  "window_days": 14,
-  "last_updated": "2026-01-30T06:34:32Z"
+  "window_days": 30,
+  "last_updated": "2026-01-30T08:07:13Z"
 }

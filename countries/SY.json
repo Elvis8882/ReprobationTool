@@ -1,12 +1,14 @@
 {
   "country": "SY",
-  "score": 73,
-  "trend": "+0",
+  "score": 81,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": 8,
   "sources": 4,
   "sentiment": {
-    "positive": 3,
-    "neutral": 0,
-    "negative": 1
+    "positive": 3.0,
+    "neutral": 0.0,
+    "negative": 1.0
   },
   "latest_articles": [
     {
@@ -50,6 +52,6 @@
       "compound": 0.4019
     }
   ],
-  "window_days": 14,
-  "last_updated": "2026-01-30T06:34:32Z"
+  "window_days": 30,
+  "last_updated": "2026-01-30T08:07:13Z"
 }

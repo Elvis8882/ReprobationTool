@@ -1,12 +1,14 @@
 {
   "country": "NO",
-  "score": 70,
-  "trend": "+0",
+  "score": 79,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": 9,
   "sources": 4,
   "sentiment": {
-    "positive": 2,
-    "neutral": 1,
-    "negative": 1
+    "positive": 2.0,
+    "neutral": 1.0,
+    "negative": 1.0
   },
   "latest_articles": [
     {
@@ -50,6 +52,6 @@
       "compound": 0.0
     }
   ],
-  "window_days": 14,
-  "last_updated": "2026-01-30T06:34:32Z"
+  "window_days": 30,
+  "last_updated": "2026-01-30T08:07:13Z"
 }

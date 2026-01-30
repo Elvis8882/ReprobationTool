@@ -1,14 +1,36 @@
 {
   "country": "GB",
-  "score": 45,
-  "trend": "+4",
-  "sources": 52,
+  "score": 65,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
+  "trend": 20,
+  "sources": 55,
   "sentiment": {
-    "positive": 24,
-    "neutral": 2,
-    "negative": 26
+    "positive": 25.0,
+    "neutral": 2.0,
+    "negative": 28.0
   },
   "latest_articles": [
+    {
+      "id": "dce82cbac9886a4c35e6dab8f4ba00fa9c25c279",
+      "title": "British army officers face court martial over Jaysley Beck sexual assault case",
+      "summary": "Maj James Hook and Col Samantha Shepherd charged with offences relating to case of soldier who took her own lifeTwo serving British army officers face criminal charges over the handling of a case of sexual assault of the…",
+      "url": "https://www.theguardian.com/uk-news/2026/jan/30/british-army-officers-court-martial-jaysley-beck-sexual-assault-case",
+      "source": "World news - The Guardian",
+      "published_at": "2026-01-30T07:54:27+00:00",
+      "sentiment": "negative",
+      "compound": -0.9756
+    },
+    {
+      "id": "12cfa27cc9a95b4779ebf9ee961a1bebebec21fa",
+      "title": "Friday briefing: How Britain’s high streets became a barometer of national decline",
+      "summary": "In today’s newsletter: As boarded‑up units spread from coastal towns to former industrial centres, a new ​Guardian investigation reveals how ​o​ur high streets have become a litmus test for public frustration and ​p​olit…",
+      "url": "https://www.theguardian.com/world/2026/jan/30/friday-briefing-how-britains-high-streets-became-a-barometer-of-national-decline",
+      "source": "World news - The Guardian",
+      "published_at": "2026-01-30T06:50:13+00:00",
+      "sentiment": "negative",
+      "compound": -0.9231
+    },
     {
       "id": "09e6a0dcb1e62eb27ebadc3e20d80f8883922e4c",
       "title": "Britain’s Starmer seeks to bolster China ties despite Trump warning",
@@ -108,28 +130,8 @@
       "published_at": "2026-01-30T00:01:05+00:00",
       "sentiment": "negative",
       "compound": -0.8481
-    },
-    {
-      "id": "e1ccdc940610f7028d9e0b143590f2b938a88788",
-      "title": "AstraZeneca to invest £11bn in China after rowing back on UK expansion - The Guardian",
-      "summary": "AstraZeneca to invest £11bn in China after rowing back on UK expansion&nbsp;&nbsp;The GuardianAstraZeneca pledges $15bn China investment with Starmer in Beijing&nbsp;&nbsp;The TimesAstraZeneca to invest £11bn in China af…",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWlIT1lBbEtJX0dtOUEwRkQ5SUN6Qlp4MndCalJPYnFLN1dyQmlvNzFrRDg4NjJmMWtEd1A2bFBQX1R6aHdkLXNkeHk5d2ZtdmpxU3BrLUVOb05pY09lcnBUalhDX2ZLQ3ZsNWF0a3VuVjNpUFJRRzd3QUE2NDZ1S1ZRWTV0NVhBWDI2dFhwRzdjN3kzbDhzXzl3TEpheXlVbER0Xy1OYTVBRWh4WGtHUFd3?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-01-29T23:25:00+00:00",
-      "sentiment": "positive",
-      "compound": 0.25
-    },
-    {
-      "id": "576094076290b0728f5d76ba1e0f6c5003cf3194",
-      "title": "Reform UK council chair resigns after ‘illegally renting out unsafe properties’",
-      "summary": "Council said Edward Harris’s properties ‘failed to meet even most basic of living standards and legal requirements’A Reform UK council chair has resigned after it was found he was illegally running two unsafe rental prop…",
-      "url": "https://www.theguardian.com/uk-news/2026/jan/29/reform-council-chair-resigns-illegally-renting-two-unsafe-properties",
-      "source": "World news - The Guardian",
-      "published_at": "2026-01-29T22:03:14+00:00",
-      "sentiment": "negative",
-      "compound": -0.0772
     }
   ],
-  "window_days": 14,
-  "last_updated": "2026-01-30T06:34:32Z"
+  "window_days": 30,
+  "last_updated": "2026-01-30T08:07:13Z"
 }
