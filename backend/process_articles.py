@@ -4,10 +4,25 @@ from pathlib import Path
 from datetime import datetime, timezone
 from llm_sentiment import score_entity_sentiment_batch
 
+import os
+
+# Hard ceiling (Gemini requests/day)
+DAILY_REQUEST_LIMIT = int(os.environ.get("GEMINI_DAILY_REQUEST_LIMIT", "20"))
+
+# Keep headroom for retries / incidental calls
+REQUEST_HEADROOM = int(os.environ.get("GEMINI_REQUEST_HEADROOM", "2"))
+
+# Your batch size (same value used in llm_sentiment.py)
+BATCH_MAX_ITEMS = int(os.environ.get("GEMINI_BATCH_MAX_ITEMS", "12"))
+
+# Derived safe budget per run
+MAX_REQUESTS_PER_RUN = max(1, DAILY_REQUEST_LIMIT - REQUEST_HEADROOM)
+MAX_ITEMS_PER_RUN = MAX_REQUESTS_PER_RUN * BATCH_MAX_ITEMS
+
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 ARTICLES_DIR = BASE_DIR / "data" / "articles"
-
+LLM_VERSION = "v3-eu"  # bump this when you change prompt/logic
 MIN_TEXT_LEN = 80
 
 PROMO_PATTERNS = [
@@ -179,7 +194,14 @@ def process_articles():
             article = json.load(f)
 
         # Skip only if already processed successfully
-        if article.get("processed_at") is not None and not article.get("sentiment_error"):
+        already_ok = (
+            article.get("processed_at") is not None
+            and not article.get("sentiment_error")
+            and article.get("llm_version") == LLM_VERSION
+            and isinstance(article.get("sentiment_by_country"), dict)
+        )
+        
+        if already_ok:
             skipped += 1
             continue
 
@@ -221,19 +243,27 @@ def process_articles():
             json.dump(article, f, indent=2, ensure_ascii=False)
 
         # If there are explicit targets, queue for LLM scoring; otherwise mark processed neutral
-        if llm_targets:
-            aid = article.get("id") or str(path)  # stable id fallback
-            items.append({"id": aid, "text": text, "targets": llm_targets})
-            item_paths[aid] = path
-            per_item_meta[aid] = {"scored": scored, "detected": detected}
-        else:
-            # No explicit countries mentioned; don't spend tokens/requests
+        if not llm_targets:
+            # No explicit countries mentioned; don't call LLM, but mark as processed under current logic.
             article["sentiment_by_country"] = {}
+            article["llm_version"] = LLM_VERSION
+            article["llm_perspective"] = "EU"
+            article.pop("sentiment", None)
             article.pop("sentiment_error", None)
-            article["processed_at"] = utc_now_iso()
+            article["llm_attempted_at"] = utc_now_iso()
             with open(path, "w", encoding="utf-8") as f:
                 json.dump(article, f, indent=2, ensure_ascii=False)
             processed += 1
+        
+        elif len(items) < MAX_ITEMS_PER_RUN:
+            aid = article.get("id") or str(path)
+            items.append({"id": aid, "text": text, "targets": llm_targets})
+            item_paths[aid] = path
+            per_item_meta[aid] = {"scored": scored, "detected": detected}
+        
+        else:
+            # Cap hit: leave unprocessed so it will be picked up next run
+            pass
 
     # Batch call to LLM for all queued items
     if items:
@@ -275,6 +305,15 @@ def process_articles():
             if isinstance(sent_map, dict) and sent_map:
                 # Success: store what model returned for explicitly detected targets
                 article["sentiment_by_country"] = sent_map
+            
+                # ✅ stamp the logic version so we skip next time
+                article["llm_version"] = LLM_VERSION
+                article["llm_perspective"] = "EU"
+            
+                # ✅ remove old VADER field if present
+                article.pop("sentiment", None)
+            
+                # ✅ clear error marker
                 article.pop("sentiment_error", None)
             else:
                 # Missing/empty result: keep retryable error marker
