@@ -6,8 +6,8 @@
   "trend": 0,
   "sources": 39,
   "sentiment": {
-    "positive": 0,
-    "neutral": 39,
+    "positive": 1,
+    "neutral": 38,
     "negative": 0
   },
   "latest_articles": [
@@ -30,8 +30,8 @@
       "source": "NDTV News - World-news",
       "published_at": "2026-01-30T10:15:08+00:00",
       "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
+      "confidence": 0.8,
+      "evidence": "A Last-Minute Nuclear Deal Stands Between US, Russia"
     },
     {
       "id": "4021ec22e6cc751dc4d0ef8bf225e5cbdcfba15d",
@@ -40,9 +40,9 @@
       "url": "https://www.nytimes.com/2026/01/30/world/europe/ukraine-war-zaporizhzhia-huliaipole.html",
       "source": "NYT > World News",
       "published_at": "2026-01-30T10:00:19+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "swift advance of Moscow’s forces into the town of Huliaipole"
     },
     {
       "id": "a6ac6847dc14f4e434cb97b746c746a58e9a15dc",
@@ -127,5 +127,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-01-30T11:31:22Z"
+  "last_updated": "2026-01-30T11:42:08Z"
 }

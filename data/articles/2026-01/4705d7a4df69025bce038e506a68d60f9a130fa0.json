@@ -14,8 +14,8 @@
     "SY"
   ],
   "sentiment": {},
-  "processed_at": "2026-01-30T11:31:21+00:00",
-  "sentiment_error": "Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-flash-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
+  "processed_at": "2026-01-30T11:41:11+00:00",
+  "sentiment_error": "Gemini request failed after retries: Gemini HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current u",
   "sentiment_by_country": {
     "SY": {
       "label": "neutral",

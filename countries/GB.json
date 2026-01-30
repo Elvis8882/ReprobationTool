@@ -1,14 +1,14 @@
 {
   "country": "GB",
-  "score": 90,
+  "score": 88,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -2,
   "sources": 65,
   "sentiment": {
-    "positive": 0,
-    "neutral": 65,
-    "negative": 0
+    "positive": 2,
+    "neutral": 60,
+    "negative": 3
   },
   "latest_articles": [
     {
@@ -18,9 +18,9 @@
       "url": "https://www.theguardian.com/business/2026/jan/30/british-american-tobacco-lawsuit-north-korea-terrorism",
       "source": "World news - The Guardian",
       "published_at": "2026-01-30T11:00:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "accused of helping North Korea fund terrorism in lawsuit"
     },
     {
       "id": "56f48cc4e0a467ddd7aa1804007846b886099090",
@@ -29,9 +29,9 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVXJFMUxoMkJpeEdWR3I5b3dUak5Gd0tBdGFycGZKQjVMNy1jSDE2RUY1ZU9rYkVpRkhTTW53aXFDRWd0MnJzNEV4YmFSWmR1eEFHZnVQSDk3R2lNWk9acDluQWg4TndaUjB2Rms4b3UyR1h5WUs1QjRXRk1lTm14NS16eXNrVFl4V1E?oc=5",
       "source": "Top stories - Google News",
       "published_at": "2026-01-30T10:56:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "MHRA updates guidance for GLP-1 prescribers and patients"
     },
     {
       "id": "ee9c2721150ecd096099c0548cbc98b5e57b33c9",
@@ -41,8 +41,8 @@
       "source": "World news - The Guardian",
       "published_at": "2026-01-30T10:45:34+00:00",
       "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
+      "confidence": 1.0,
+      "evidence": "United Kingdom is not mentioned in the text."
     },
     {
       "id": "1df42c8fdc0840b09093a9da5b638efed83126ef",
@@ -51,9 +51,9 @@
       "url": "https://timesofindia.indiatimes.com/world/us/very-dangerous-donald-trump-calls-out-britain-over-dealings-with-china-after-pm-starmer-met-xi-jinping/articleshow/127797678.cms",
       "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
       "published_at": "2026-01-30T10:38:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "'Very dangerous': Trump calls out Britain over dealings with China"
     },
     {
       "id": "9dc899939d6304844637be0dde5be0ceb7dc1e37",
@@ -62,9 +62,9 @@
       "url": "https://www.nytimes.com/2026/01/30/world/asia/trump-starmer-china-canada-trade.html",
       "source": "NYT > World News",
       "published_at": "2026-01-30T10:29:20+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Boosting Trade With China Is ‘Dangerous’"
     },
     {
       "id": "2541ebdc2327b00eb8915df010f3d0a01da842c1",
@@ -131,5 +131,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-01-30T11:31:22Z"
+  "last_updated": "2026-01-30T11:42:08Z"
 }

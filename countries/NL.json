@@ -6,8 +6,8 @@
   "trend": 0,
   "sources": 99,
   "sentiment": {
-    "positive": 0,
-    "neutral": 99,
+    "positive": 1,
+    "neutral": 98,
     "negative": 0
   },
   "latest_articles": [
@@ -18,9 +18,9 @@
       "url": "https://www.euractiv.com/news/dutch-watchdog-probes-roblox-over-child-safeguarding-concerns/",
       "source": "Euractiv",
       "published_at": "2026-01-30T10:57:17+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Dutch watchdog probes Roblox over child safeguarding concerns"
     },
     {
       "id": "94ddbd78fe8c68a2c5128e265a01ac1ab8ef437d",
@@ -127,5 +127,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-01-30T11:31:22Z"
+  "last_updated": "2026-01-30T11:42:08Z"
 }

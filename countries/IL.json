@@ -1,14 +1,14 @@
 {
   "country": "IL",
-  "score": 90,
+  "score": 87,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -3,
   "sources": 14,
   "sentiment": {
     "positive": 0,
-    "neutral": 14,
-    "negative": 0
+    "neutral": 13,
+    "negative": 1
   },
   "latest_articles": [
     {
@@ -29,9 +29,9 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLWJZMklyWDNXWk5xbU9UQ0Yyc0FZVjNQMV9tUjNHdmdSQ1dUc050cGllWjJMenZTVnRxTlNBcWZvSGpKYmpkcm1GZ2l5V0J3eE1hcmhuQy1hZ29wWXdGaW9ySGg1cE5hZnlvSzk0QXJ0ckhVbkFtWURlSm85S0gtU0phSTd4R1cycjdtR1VaVmVxcjFoUElGcXh5SQ?oc=5",
       "source": "Top stories - Google News",
       "published_at": "2026-01-30T10:04:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "tribute to children killed in Gaza"
     },
     {
       "id": "ad9727381ab75fcaac5e892df874d0d383d0e4d8",
@@ -41,8 +41,8 @@
       "source": "NDTV News - World-news",
       "published_at": "2026-01-30T09:40:20+00:00",
       "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
+      "confidence": 0.9,
+      "evidence": "Israel Navy Deploys New Amphibious Ships For Secret Gaza Operations"
     },
     {
       "id": "6dd546ed1fb1647a8c13c117fa03bfc9291df009",
@@ -127,5 +127,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-01-30T11:31:22Z"
+  "last_updated": "2026-01-30T11:42:08Z"
 }

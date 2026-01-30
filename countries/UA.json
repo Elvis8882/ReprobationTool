@@ -1,14 +1,14 @@
 {
   "country": "UA",
-  "score": 90,
+  "score": 89,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 43,
   "sentiment": {
     "positive": 0,
-    "neutral": 43,
-    "negative": 0
+    "neutral": 42,
+    "negative": 1
   },
   "latest_articles": [
     {
@@ -29,9 +29,9 @@
       "url": "https://www.nytimes.com/2026/01/30/world/europe/ukraine-war-zaporizhzhia-huliaipole.html",
       "source": "NYT > World News",
       "published_at": "2026-01-30T10:00:19+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "central challenge for Kyiv: how to defend 700 miles with too few troops"
     },
     {
       "id": "0ed071c5991c69dc956f336591ee48b52f173be9",
@@ -125,5 +125,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-01-30T11:31:22Z"
+  "last_updated": "2026-01-30T11:42:08Z"
 }

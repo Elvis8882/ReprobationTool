@@ -14,13 +14,12 @@
     "GB"
   ],
   "sentiment": {},
-  "processed_at": "2026-01-30T11:31:21+00:00",
-  "sentiment_error": "Gemini HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-flash-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
+  "processed_at": "2026-01-30T11:40:20+00:00",
   "sentiment_by_country": {
     "GB": {
-      "label": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
+      "label": "negative",
+      "confidence": 1.0,
+      "evidence": "Boosting Trade With China Is ‘Dangerous’"
     }
   }
 }
