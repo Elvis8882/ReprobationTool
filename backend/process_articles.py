@@ -2,7 +2,7 @@ import json
 import re
 from pathlib import Path
 from datetime import datetime, timezone
-from llm_sentiment import score_entity_sentiment
+from llm_sentiment import score_entity_sentiment_batch
 
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -165,6 +165,15 @@ def process_articles():
     no_country = 0
     promo_filtered = 0
 
+    # We will:
+    # 1) scan articles, build a list of items needing LLM scoring
+    # 2) call Gemini in batches (score_entity_sentiment_batch)
+    # 3) write back updated JSON files
+
+    items = []          # batch items for LLM: {id, text, targets}
+    item_paths = {}     # id -> Path (for writing results)
+    per_item_meta = {}  # id -> dict with keys: scored (full list), detected (explicit), etc.
+
     for path in ARTICLES_DIR.rglob("*.json"):
         with open(path, "r", encoding="utf-8") as f:
             article = json.load(f)
@@ -198,28 +207,95 @@ def process_articles():
             no_country += 1
             continue
 
+        # Persist detection results regardless of whether LLM runs
         article["countries_detected"] = detected
         article["countries_scored"] = scored
 
-        try:
-            sent_by_country = score_entity_sentiment(text=text, iso_targets=scored)
-            article.pop("sentiment_error", None)  # clear only on success
-        except Exception as e:
-            sent_by_country = {c: {"label": "neutral", "confidence": 0.0, "evidence": ""} for c in scored}
-            article["sentiment_error"] = str(e)[:300]
+        # EU optimization:
+        # Call LLM ONLY for explicitly detected countries (excluding the "EU" tag).
+        # EU-expanded members will be treated as neutral unless explicitly mentioned.
+        llm_targets = [c for c in detected if c != "EU"]
 
-        article["sentiment_by_country"] = sent_by_country
-        article["processed_at"] = utc_now_iso()
-
+        # Write updated detection immediately (so you don't lose detection results on failures)
         with open(path, "w", encoding="utf-8") as f:
             json.dump(article, f, indent=2, ensure_ascii=False)
 
-        processed += 1
+        # If there are explicit targets, queue for LLM scoring; otherwise mark processed neutral
+        if llm_targets:
+            aid = article.get("id") or str(path)  # stable id fallback
+            items.append({"id": aid, "text": text, "targets": llm_targets})
+            item_paths[aid] = path
+            per_item_meta[aid] = {"scored": scored, "detected": detected}
+        else:
+            # No explicit countries mentioned; don't spend tokens/requests
+            article["sentiment_by_country"] = {}
+            article.pop("sentiment_error", None)
+            article["processed_at"] = utc_now_iso()
+            with open(path, "w", encoding="utf-8") as f:
+                json.dump(article, f, indent=2, ensure_ascii=False)
+            processed += 1
+
+    # Batch call to LLM for all queued items
+    if items:
+        try:
+            results = score_entity_sentiment_batch(items)  # returns {id -> sentiment_by_country}
+        except Exception as e:
+            # Batch failure: mark each queued article as error (so it retries next run)
+            for it in items:
+                aid = it["id"]
+                path = item_paths[aid]
+                with open(path, "r", encoding="utf-8") as f:
+                    article = json.load(f)
+
+                # Neutral fallback for explicit targets only
+                article["sentiment_by_country"] = {
+                    c: {"label": "neutral", "confidence": 0.0, "evidence": ""}
+                    for c in it["targets"]
+                }
+                article["sentiment_error"] = str(e)[:500]
+                article["processed_at"] = utc_now_iso()
+
+                with open(path, "w", encoding="utf-8") as f:
+                    json.dump(article, f, indent=2, ensure_ascii=False)
+
+                processed += 1
+
+            results = {}
+
+        # Apply per-item results
+        for it in items:
+            aid = it["id"]
+            path = item_paths[aid]
+
+            with open(path, "r", encoding="utf-8") as f:
+                article = json.load(f)
+
+            sent_map = results.get(aid)
+
+            if isinstance(sent_map, dict) and sent_map:
+                # Success: store what model returned for explicitly detected targets
+                article["sentiment_by_country"] = sent_map
+                article.pop("sentiment_error", None)
+            else:
+                # Missing/empty result: keep retryable error marker
+                article["sentiment_by_country"] = {
+                    c: {"label": "neutral", "confidence": 0.0, "evidence": ""}
+                    for c in it["targets"]
+                }
+                article["sentiment_error"] = "No batch result returned for this item"
+
+            article["processed_at"] = utc_now_iso()
+
+            with open(path, "w", encoding="utf-8") as f:
+                json.dump(article, f, indent=2, ensure_ascii=False)
+
+            processed += 1
 
     print(
         f"Processed: {processed} | Skipped: {skipped} | "
         f"Too short: {too_short} | Promo filtered: {promo_filtered} | No country: {no_country}"
     )
+
 
 if __name__ == "__main__":
     process_articles()
