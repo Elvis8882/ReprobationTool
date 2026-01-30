@@ -33,6 +33,10 @@ jobs:
       
       - name: Process articles (detect countries + sentiment)
         run: python backend/process_articles.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-1.5-flash
+
 
       - name: Score countries (write /countries/*.json)
         run: python backend/score_countries.py
