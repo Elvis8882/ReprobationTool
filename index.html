@@ -7,8 +7,11 @@
 </head>
 <body>
 
-<header>
+<header class="site-header">
   <h1>EU Map</h1>
+  <button class="legal-link" id="legal-notes-trigger" type="button">
+    Legal &amp; Ethical Notes
+  </button>
 </header>
 <p id="subtitle">Select a country to see its profile, score, and latest coverage.</p>
 
@@ -227,6 +230,26 @@
     </div>
 
     <button onclick="closePopup()">Close</button>
+  </div>
+</div>
+
+<div id="legal-overlay" class="hidden" role="dialog" aria-modal="true" aria-labelledby="legal-notes-title">
+  <div id="legal-popup" role="document" onclick="event.stopPropagation()">
+    <button class="legal-close" type="button" aria-label="Close legal and ethical notes">
+      ×
+    </button>
+    <h2 id="legal-notes-title">Legal &amp; Ethical Notes</h2>
+    <p>
+      This project aggregates publicly available articles strictly to derive
+      satirical scores. It is not intended to be a factual assessment of any
+      country, institution, or person.
+    </p>
+    <ul>
+      <li>Content is never reposted in full; links are preserved to original sources.</li>
+      <li>Scores are generated for entertainment and do not represent real-world conditions.</li>
+      <li>Scraping respects robots.txt directives, publisher terms, and rate limits.</li>
+      <li>Source material remains the property of its respective publishers.</li>
+    </ul>
   </div>
 </div>
 
