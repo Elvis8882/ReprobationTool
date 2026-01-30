@@ -26,7 +26,10 @@ jobs:
 
       - name: Run RSS ingestion
         run: python backend/rss_ingest.py
-
+      
+      - name: Cleanup old articles
+        run: python backend/cleanup_articles.py
+      
       - name: Process articles (detect countries + sentiment)
         run: python backend/process_articles.py
 
@@ -37,6 +40,7 @@ jobs:
         run: |
           git config user.name "rss-bot"
           git config user.email "rss-bot@users.noreply.github.com"
-          git add data/articles countries
+          git add -A data/articles countries
           git diff --cached --quiet || git commit -m "Ingest + process + score RSS"
           git push
+
