@@ -159,8 +159,6 @@ def detect(text: str):
     return eu_wide, sorted(detected), sorted(scored)
 
 def process_articles():
-    
-
     processed = 0
     skipped = 0
     too_short = 0
@@ -201,14 +199,15 @@ def process_articles():
 
         article["countries_detected"] = detected
         article["countries_scored"] = scored
-        
-        # LLM per-country sentiment (targeted sentiment / stance)
-        # scored is your ISO2 list (includes EU expansion members when eu_wide is True)
-        sent_by_country = score_entity_sentiment(text=text, iso_targets=scored)
+
+        try:
+            sent_by_country = score_entity_sentiment(text=text, iso_targets=scored)
+        except Exception as e:
+            sent_by_country = {c: {"label": "neutral", "confidence": 0.0, "evidence": ""} for c in scored}
+            article["sentiment_error"] = str(e)[:300]
+
         article["sentiment_by_country"] = sent_by_country
-        
         article["processed_at"] = utc_now_iso()
-        
 
         with open(path, "w", encoding="utf-8") as f:
             json.dump(article, f, indent=2, ensure_ascii=False)
