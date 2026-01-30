@@ -16,10 +16,15 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 
 # Pick a lightweight model. You can change this later.
 # Common choices: "gemini-1.5-flash" or newer equivalents.
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-1.5-flash").strip()
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-latest").strip()
+
+if GEMINI_MODEL.startswith("models/"):
+    model_path = GEMINI_MODEL
+else:
+    model_path = f"models/{GEMINI_MODEL}"
 
 GEMINI_ENDPOINT = (
-    f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+    f"https://generativelanguage.googleapis.com/v1/models/{GEMINI_MODEL}:generateContent"
 )
 
 # Basic backoff settings for Actions environments
