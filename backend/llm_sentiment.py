@@ -23,17 +23,18 @@ BATCH_MAX_CHARS = int(os.environ.get("GEMINI_BATCH_MAX_CHARS", "18000"))
 CACHE_VERSION = os.environ.get("LLM_SENTIMENT_CACHE_VERSION", "v2")
 
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-latest").strip()
-
-BASE_DIR = Path(__file__).resolve().parent.parent
-CACHE_DIR = BASE_DIR / "data" / "cache" / "llm_sentiment"
-CACHE_DIR.mkdir(parents=True, exist_ok=True)
-
+if not GEMINI_MODEL.startswith("models/"):
+    GEMINI_MODEL = f"models/{GEMINI_MODEL}"
 
 def _endpoint() -> str:
     if not GEMINI_MODEL:
         raise RuntimeError("Missing GEMINI_MODEL environment variable (expected like 'models/...').")
     # Use v1 endpoint and include full models/... path
-    return f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+    return f"https://generativelanguage.googleapis.com/v1beta/{GEMINI_MODEL}:generateContent"
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+CACHE_DIR = BASE_DIR / "data" / "cache" / "llm_sentiment"
+CACHE_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def _cache_key(text: str, iso_targets: List[str]) -> str:
