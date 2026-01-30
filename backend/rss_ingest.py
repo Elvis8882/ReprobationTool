@@ -12,7 +12,7 @@ FEEDS_FILE = BASE_DIR / "data" / "feeds.yaml"
 
 PUBLIC_SNIPPET_LEN = 220
 FULL_SUMMARY_CAP = 2000
-MAX_AGE_DAYS = 60  # ~2 months
+MAX_AGE_DAYS = 180  # ~6 months
 
 
 def make_id(url: str) -> str:
