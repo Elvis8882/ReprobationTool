@@ -86,7 +86,7 @@ def ingest():
 
             published = parse_date(entry)
             if published < datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS):
-            continue
+                continue
             summary_full, summary_public = make_summaries(entry)
 
             article = {
