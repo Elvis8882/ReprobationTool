@@ -22,7 +22,6 @@ EU_MEMBERS = [
 ]
 
 EU_PATTERNS = [
-    r"\beu\b",
     r"\beuropean union\b",
     r"\beuropean commission\b",
     r"\beu commission\b",
