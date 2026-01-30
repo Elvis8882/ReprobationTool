@@ -5,7 +5,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 ARTICLES_DIR = BASE_DIR / "data" / "articles"
 
-MAX_AGE_DAYS = 60
+MAX_AGE_DAYS = 180
 
 def parse_dt(s: str):
     if not s:
