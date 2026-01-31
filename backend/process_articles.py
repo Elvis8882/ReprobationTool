@@ -265,6 +265,14 @@ def process_articles():
             # Cap hit: leave unprocessed so it will be picked up next run
             pass
 
+
+    if items:
+        est_requests = (len(items) + BATCH_MAX_ITEMS - 1) // BATCH_MAX_ITEMS
+        print(f"LLM queue: {len(items)} items ~ {est_requests} requests (cap {MAX_REQUESTS_PER_RUN})")
+    else:
+        print("LLM queue: 0 items (no Gemini calls)")
+
+    
     # Batch call to LLM for all queued items
     if items:
         try:
