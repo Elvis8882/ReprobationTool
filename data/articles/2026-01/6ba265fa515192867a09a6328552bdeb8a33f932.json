@@ -8,38 +8,10 @@
   "source": "NDTV News - World-news",
   "language": "en",
   "countries_detected": [
-    "EU",
     "IR"
   ],
   "countries_scored": [
-    "AT",
-    "BE",
-    "BG",
-    "CY",
-    "CZ",
-    "DE",
-    "DK",
-    "EE",
-    "ES",
-    "FI",
-    "FR",
-    "GR",
-    "HR",
-    "HU",
-    "IE",
-    "IR",
-    "IT",
-    "LT",
-    "LU",
-    "LV",
-    "MT",
-    "NL",
-    "PL",
-    "PT",
-    "RO",
-    "SE",
-    "SI",
-    "SK"
+    "IR"
   ],
   "sentiment": {
     "compound": -0.9358,
@@ -47,5 +19,13 @@
     "neutral": 0.738,
     "negative": 0.262
   },
-  "processed_at": "2026-01-29T18:29:22+00:00"
+  "processed_at": "2026-01-31T09:08:59+00:00",
+  "sentiment_by_country": {
+    "IR": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    }
+  },
+  "sentiment_error": "No batch result returned for this item"
 }

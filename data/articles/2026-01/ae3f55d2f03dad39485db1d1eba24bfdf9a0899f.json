@@ -8,37 +8,10 @@
   "source": "Euractiv",
   "language": "en",
   "countries_detected": [
-    "EU",
     "PT"
   ],
   "countries_scored": [
-    "AT",
-    "BE",
-    "BG",
-    "CY",
-    "CZ",
-    "DE",
-    "DK",
-    "EE",
-    "ES",
-    "FI",
-    "FR",
-    "GR",
-    "HR",
-    "HU",
-    "IE",
-    "IT",
-    "LT",
-    "LU",
-    "LV",
-    "MT",
-    "NL",
-    "PL",
-    "PT",
-    "RO",
-    "SE",
-    "SI",
-    "SK"
+    "PT"
   ],
   "sentiment": {
     "compound": 0.7579,
@@ -46,5 +19,13 @@
     "neutral": 0.765,
     "negative": 0.037
   },
-  "processed_at": "2026-01-29T11:53:28+00:00"
+  "processed_at": "2026-01-31T09:08:59+00:00",
+  "sentiment_by_country": {
+    "PT": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    }
+  },
+  "sentiment_error": "No batch result returned for this item"
 }

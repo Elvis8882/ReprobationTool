@@ -4,13 +4,33 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 100,
+  "sources": 65,
   "sentiment": {
     "positive": 0,
-    "neutral": 100,
+    "neutral": 65,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "963f1f8ef16048540c405751ed5baeda6017822f",
+      "title": "Belarusian balloons full of cigarettes pose NATO’s latest security threat",
+      "summary": "A rising number of incursions into NATO airspace has led some officials to allege an escalation of Russian hybrid attacks against the alliance and the European Union.",
+      "url": "https://www.washingtonpost.com/world/2026/01/30/belarus-balloons-nato-russia-threat/",
+      "source": "World (Washington post)",
+      "published_at": "2026-01-30T16:47:23+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "id": "d72819541349c441fbabde4bb6b01a904465227c",
+      "title": "A 2,000-year-old mystery solved: Archaeologists find Vitruvius’ lost basilica in Italy",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/a-2000-year-old-mystery-solved-archaeologists-find-vitruvius-lost-basilica-in-italy/articleshow/127798320.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-01-30T11:30:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
     {
       "id": "94ddbd78fe8c68a2c5128e265a01ac1ab8ef437d",
       "title": "Contingent liabilities and non-performing loans in 2024 - European Commission",
@@ -18,9 +38,7 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rOEtOQXBGN3pTRE4yRUN2Z0U5OXJ2c1VtRTdQWFVOYmpHNERFUXhQdVRMa3V6ZTEzODFVUVlNUjdrVnViMks0RGp6NUw4QVdMa2NUZU05dTRtOFRha0YwdXQ4MTBrUmlxZ1B3LXNIZWFvTjJTeUVzdzBpb0ZYdw?oc=5",
       "source": "Top stories - Google News",
       "published_at": "2026-01-30T10:01:14+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
+      "sentiment": "neutral"
     },
     {
       "id": "80a81f18c09a727ce76fc944a90e455abd55ba49",
@@ -29,9 +47,7 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhcjIyLWtJdHQ5c1VxUS1aZHJuX2tieVVJWVRCc3BFTEl1TGV5cWhzZkltb08wYjgxa0pDZDI4MHJsX282eC1tR2N2V3AtcGdTQjllcXYwZ3dXYXN5REdkcHBfNGNfNFppV0w4ekFRTk9pOHpHQWJLRjJQYzdfdw?oc=5",
       "source": "Top stories - Google News",
       "published_at": "2026-01-30T10:01:14+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
+      "sentiment": "neutral"
     },
     {
       "id": "3ee8b1735f14ed3754fe7b026a11b2e30cb23e84",
@@ -40,15 +56,6 @@
       "url": "https://www.euractiv.com/news/why-some-medicines-look-like-sweets-and-why-eu-regulators-allow-it/",
       "source": "Euractiv",
       "published_at": "2026-01-30T05:05:50+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "id": "1de4a8cf81a2586ffc6bb1510d9a0935c50bd4e5",
-      "title": "Poland’s Pfizer vaccine refusal lands in Brussels court, testing EU contract limits [Advocacy Lab]",
-      "summary": "A Brussels court is weighing whether Poland must pay Pfizer €1.4 billion for undelivered COVID vaccines, in a case that could impact future EU crisis procurement deals",
-      "url": "https://www.euractiv.com/news/polands-pfizer-vaccine-refusal-lands-in-brussels-court-testing-eu-contract-limits/",
-      "source": "Euractiv",
-      "published_at": "2026-01-30T01:15:03+00:00",
       "sentiment": "neutral"
     },
     {
@@ -61,31 +68,15 @@
       "sentiment": "neutral"
     },
     {
-      "id": "d80d762aafec87e8a94a90be1a78dfea123c40ef",
-      "title": "EU Designates Iran's Islamic Revolutionary Guard Corps As Terrorist Group",
-      "summary": "Iran's Islamic Revolutionary Guard Corps oversees the country's ballistic missile and nuclear programmes.",
-      "url": "https://www.ndtv.com/world-news/eu-designates-irans-islamic-revolutionary-guard-corps-as-terrorist-group-10910805#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-01-30T00:48:40+00:00",
-      "sentiment": "neutral"
-    },
-    {
       "id": "95e4056464cb1faf40b755c2e125ffefecb8de08",
       "title": "Draisaitl hoping to be flag-bearer for Germany at Olympics - NHL.com",
       "summary": "Draisaitl hoping to be flag-bearer for Germany at Olympics&nbsp;&nbsp;NHL.comLeon Draisaitl to fulfill childhood dream at Milano Cortina: \"Incredibly happy… hopefully playing with some of my closest friends\"&nbsp;&nbsp;o…",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNejRGb0xkT05wSGFKbkRwZmowcm9HcFE5d1Vhc1BDaXNwT3A4bTlLZHpsdWtLMjk4MTFGWThVYXR3NmVsQTFVYm1xT3VleDJ1TnRNTjFqUmxjUjM1OHdQeENBVTJ2RjFjb2F5LVladkw4bkZjNmV1WDBKQUROeTJzMXgtcS0tMVZPUV90UXlqYXZOc0J6dUhSTkdndzZ0UFJhQjR6Wmxn?oc=5",
       "source": "Top stories - Google News",
       "published_at": "2026-01-29T20:35:13+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "id": "c5c54a67ce6c6f3fd3eadf2f3341d8bdb62b6055",
-      "title": "EU won’t pivot to China amid US tensions, says Kallas",
-      "summary": "The UK and Canada are both seeking to improve political and economic ties with Beijing",
-      "url": "https://www.euractiv.com/news/eu-wont-pivot-to-china-amid-us-tensions-says-kallas/",
-      "source": "Euractiv",
-      "published_at": "2026-01-29T18:19:57+00:00",
-      "sentiment": "neutral"
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
     },
     {
       "id": "6274502463cedbfafb2b34a762ae6a78cbf5dd1f",
@@ -94,15 +85,6 @@
       "url": "https://www.nytimes.com/2026/01/29/world/europe/european-union-iran-sanctions-irgc.html",
       "source": "NYT > World News",
       "published_at": "2026-01-29T18:19:02+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "id": "6ba265fa515192867a09a6328552bdeb8a33f932",
-      "title": "\"Major Strategic Mistake\": Iran Blasts EU After Guards' Terror Designation",
-      "summary": "Iran reacted with fury on Thursday after the EU blacklisted the country's Revolutionary Guards as a terror group, as Tehran faced off with Washington after US President Donald Trump warned time was running out for a nucl…",
-      "url": "https://www.ndtv.com/world-news/major-strategic-mistake-iran-blasts-eu-after-guards-terror-designation-10910107#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-01-29T18:17:39+00:00",
       "sentiment": "neutral"
     },
     {
@@ -115,15 +97,37 @@
       "sentiment": "neutral"
     },
     {
-      "id": "34208a1860b43aae0cd1740f712e84447a978a6b",
-      "title": "EU designates Iran’s Revolutionary Guards as a terrorist organisation",
-      "summary": "‘Any organisation that kills thousands of its own people is working toward its own demise,’ says Kaja Kallas The EU has listed Iran’s Islamic Revolutionary Guard Corps (IRGC) as a terrorist organisation, ending years of…",
-      "url": "https://www.theguardian.com/world/2026/jan/29/eu-formally-designates-iran-irgc-revolutionary-guards-terrorist-organisation",
-      "source": "World news - The Guardian",
-      "published_at": "2026-01-29T17:51:55+00:00",
+      "id": "61a8fb1f192e2c817671301d7910c8a1951d0af5",
+      "title": "‘We don’t need a new war’: EU’s Kallas urges US against bombing Iran",
+      "summary": "Iran warns that an attack on the oil-rich nation would be “deeply damaging” to the European Union",
+      "url": "https://www.euractiv.com/news/we-dont-need-a-new-war-eus-kallas-urges-us-against-bombing-iran/",
+      "source": "Euractiv",
+      "published_at": "2026-01-29T17:18:00+00:00",
       "sentiment": "neutral"
+    },
+    {
+      "id": "59bf7f139663578e7aa55fb9c5ab3de20674a3ab",
+      "title": "Genetic variants associated with rare inherited growth disorder identified in two prehistoric individuals - News-Medical",
+      "summary": "Genetic variants associated with rare inherited growth disorder identified in two prehistoric individuals&nbsp;&nbsp;News-MedicalTeenage girl who lived in Italy 12,000 years ago had a rare form of dwarfism, DNA study sho…",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOekl6akdWMDlQWnF1OFpES3BoQzFPSUZidUZCRThJUTZMeU1xLUpDZUYtSE1BazRhUTNuSTFxMld5dEp5Sk8yeUdmc3dBSWFrUHlrWkdKYUlWNHNsaHZkSmw5dGtXRk5ndFRibnNjRS1jc2taazVhTzhnUXpDaWVTUU9DTzdvRTREUElFRWRiOWMzb2VHdHYwZ3h3cVpXalJCVjE0ajQzNm9VOHdPSGlIQjN5c1hXdDd0dW5XUm5udFI3eGdWOVdxdldoSS1SbUg1eS1QYmxNaVpaSEQxaEVFdFRPWkdKZ3Ba?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-01-29T17:17:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    {
+      "id": "ffa0058a994dff93ca0d6891257dcf6b57f12ae5",
+      "title": "Random Musing: A brief history of the Church of England (as it gets its first woman Archbishop of Canterbury)",
+      "summary": "It begins, inevitably, with Henry VIII, who married Catherine but couldn’t produce a male heir. The Pope refused to annul the marriage because Catherine was the aunt of Charles V, the Holy Roman Emperor whose armies effe…",
+      "url": "https://timesofindia.indiatimes.com/world/uk/random-musing-a-brief-history-of-the-church-of-england-as-it-gets-its-first-woman-archbishop-of-canterbury/articleshow/127781690.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-01-29T17:02:35+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-01-30T11:42:08Z"
+  "last_updated": "2026-01-31T09:08:59Z"
 }

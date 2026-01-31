@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 5,
+  "sources": 6,
   "sentiment": {
     "positive": 0,
-    "neutral": 5,
+    "neutral": 6,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "8415f9ca0bb0dfb0c04c757fab6a0a3e70df1687",
+      "title": "Syrian government and Kurdish forces reach deal on permanent truce",
+      "summary": "Milestone appears to resolve escalating tensions over the question of Kurdish autonomy in north-east SyriaThe Syrian government and Kurdish-led forces have reached an agreement to extend a fragile ceasefire into a perman…",
+      "url": "https://www.theguardian.com/world/2026/jan/30/syria-government-kurdish-forces-truce-agreement",
+      "source": "World news - The Guardian",
+      "published_at": "2026-01-30T14:56:44+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
     {
       "id": "4705d7a4df69025bce038e506a68d60f9a130fa0",
       "title": "Syrian Government and Kurdish-Led Militia Seal a Deal to Merge Forces",
@@ -38,7 +49,9 @@
       "url": "https://www.ndtv.com/world-news/from-syria-to-qatar-all-us-military-bases-in-middle-east-10910227#publisher=newsstand",
       "source": "NDTV News - World-news",
       "published_at": "2026-01-29T18:51:38+00:00",
-      "sentiment": "neutral"
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
     },
     {
       "id": "eef92bd18a6f023111725c624bba0444e1039d62",
@@ -60,5 +73,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-01-30T11:42:08Z"
+  "last_updated": "2026-01-31T09:08:59Z"
 }

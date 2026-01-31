@@ -9,42 +9,17 @@
   "language": "en",
   "countries_detected": [
     "ES",
-    "EU",
     "GB",
     "IE",
     "NO",
     "PL"
   ],
   "countries_scored": [
-    "AT",
-    "BE",
-    "BG",
-    "CY",
-    "CZ",
-    "DE",
-    "DK",
-    "EE",
     "ES",
-    "FI",
-    "FR",
     "GB",
-    "GR",
-    "HR",
-    "HU",
     "IE",
-    "IT",
-    "LT",
-    "LU",
-    "LV",
-    "MT",
-    "NL",
     "NO",
-    "PL",
-    "PT",
-    "RO",
-    "SE",
-    "SI",
-    "SK"
+    "PL"
   ],
   "sentiment": {
     "compound": 0.0,
@@ -52,5 +27,33 @@
     "neutral": 1.0,
     "negative": 0.0
   },
-  "processed_at": "2026-01-29T11:53:28+00:00"
+  "processed_at": "2026-01-31T09:08:59+00:00",
+  "sentiment_by_country": {
+    "ES": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    "GB": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    "IE": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    "NO": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    "PL": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    }
+  },
+  "sentiment_error": "No batch result returned for this item"
 }
