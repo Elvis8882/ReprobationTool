@@ -14,20 +14,5 @@
   "countries_scored": [
     "RU",
     "UA"
-  ],
-  "sentiment": {},
-  "processed_at": "2026-01-30T11:42:07+00:00",
-  "sentiment_error": "Gemini request failed after retries: Gemini HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current u",
-  "sentiment_by_country": {
-    "RU": {
-      "label": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
-    },
-    "UA": {
-      "label": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
-    }
-  }
+  ]
 }
