@@ -309,6 +309,70 @@ def _normalize_sentiment_map(out: Any, iso_targets: List[str]) -> Dict[str, Any]
     return final
 
 
+def _coerce_sentiment_payload(result: Any) -> Dict[str, Any] | None:
+    if not isinstance(result, dict):
+        return None
+
+    if isinstance(result.get("sentiment_by_country"), dict):
+        return result["sentiment_by_country"]
+    if isinstance(result.get("sentiment"), dict):
+        return result["sentiment"]
+
+    iso_like = {}
+    for key, value in result.items():
+        if key == "id":
+            continue
+        if not isinstance(key, str) or not isinstance(value, dict):
+            continue
+        iso = key.strip().upper()
+        if len(iso) not in (2, 3) or not iso.isalpha():
+            continue
+        iso_like[iso] = value
+
+    return iso_like or None
+
+
+def _map_results_to_ids(results: Any, batch: List[dict]) -> Dict[str, Any]:
+    rmap: Dict[str, Any] = {}
+
+    if isinstance(results, dict):
+        for rid, payload in results.items():
+            if rid is None:
+                continue
+            rid = str(rid).strip()
+            if not rid:
+                continue
+            rmap[rid] = payload
+        return rmap
+
+    if not isinstance(results, list):
+        return rmap
+
+    all_have_ids = all(isinstance(r, dict) and r.get("id") for r in results)
+
+    if all_have_ids:
+        for r in results:
+            rid = str(r.get("id")).strip()
+            payload = _coerce_sentiment_payload(r)
+            if rid and payload is not None:
+                rmap[rid] = payload
+        return rmap
+
+    if len(results) == len(batch):
+        for idx, r in enumerate(results):
+            if not isinstance(r, dict):
+                continue
+            rid = r.get("id")
+            if rid is None:
+                rid = batch[idx]["id"]
+            rid = str(rid).strip()
+            payload = _coerce_sentiment_payload(r)
+            if rid and payload is not None:
+                rmap[rid] = payload
+
+    return rmap
+
+
 
 def score_entity_sentiment(text: str, iso_targets: List[str]) -> Dict[str, Any]:
     # Single-item convenience wrapper
@@ -382,20 +446,10 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
         print(f"[llm] Sending batch: {len(batch)} items, total_chars={sum(len(x['text']) for x in batch)}")
         obj = _call_gemini_batch(input_items)
     
-        results = obj.get("results", [])
-        if not isinstance(results, list):
-            raise RuntimeError("Invalid batch response: 'results' is not a list")
-    
-        rmap: Dict[str, Any] = {}
-        for r in results:
-            if not isinstance(r, dict):
-                continue
-            rid = r.get("id")
-            if rid is None:
-                continue
-            rid = str(rid).strip()
-            if rid:
-                rmap[rid] = r.get("sentiment_by_country")
+        results = obj.get("results", obj)
+        rmap = _map_results_to_ids(results, batch)
+        if not rmap:
+            raise RuntimeError("Invalid batch response: no mappable results")
     
         # Retry missing ids
         missing = [it for it in batch if it["id"] not in rmap]
@@ -415,16 +469,7 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
                         _log_raw_response(retry_item["id"], robj)
 
                     rresults = robj.get("results", [])
-                    if isinstance(rresults, list):
-                        for r in rresults:
-                            if not isinstance(r, dict):
-                                continue
-                            rid = r.get("id")
-                            if rid is None:
-                                continue
-                            rid = str(rid).strip()
-                            if rid:
-                                rmap[rid] = r.get("sentiment_by_country")
+                    rmap.update(_map_results_to_ids(rresults, subchunk))
     
         # Final fallback: single-item calls for any remaining missing
         still_missing = [it for it in batch if it["id"] not in rmap]
@@ -437,16 +482,7 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
                 )
                 _log_raw_response(aid, sobj)
                 sresults = sobj.get("results", [])
-                if isinstance(sresults, list):
-                    for r in sresults:
-                        if not isinstance(r, dict):
-                            continue
-                        rid = r.get("id")
-                        if rid is None:
-                            continue
-                        rid = str(rid).strip()
-                        if rid:
-                            rmap[rid] = r.get("sentiment_by_country")
+                rmap.update(_map_results_to_ids(sresults, [it]))
             except Exception:
                 out[aid] = _error_payload(it["targets"], "gemini_single_failure")
 
