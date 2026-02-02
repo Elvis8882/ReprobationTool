@@ -332,17 +332,63 @@ def _coerce_sentiment_payload(result: Any) -> Dict[str, Any] | None:
     return iso_like or None
 
 
+def _unwrap_results_container(results: Any) -> Any:
+    if isinstance(results, dict):
+        for key in ("results", "items", "data"):
+            if key in results:
+                return results[key]
+    return results
+
+
+def _find_nested_sentiment_payload(result: Any) -> Dict[str, Any] | None:
+    stack = [result]
+    while stack:
+        current = stack.pop()
+        payload = _coerce_sentiment_payload(current)
+        if payload is not None:
+            return payload
+        if isinstance(current, dict):
+            for value in current.values():
+                if isinstance(value, (dict, list)):
+                    stack.append(value)
+        elif isinstance(current, list):
+            for value in current:
+                if isinstance(value, (dict, list)):
+                    stack.append(value)
+    return None
+
+
 def _map_results_to_ids(results: Any, batch: List[dict]) -> Dict[str, Any]:
     rmap: Dict[str, Any] = {}
 
+    results = _unwrap_results_container(results)
+
     if isinstance(results, dict):
+        if _coerce_sentiment_payload(results) is not None or results.get("id"):
+            payload = _coerce_sentiment_payload(results) or _find_nested_sentiment_payload(results)
+            if payload is not None and len(batch) == 1:
+                rid = str(batch[0]["id"]).strip()
+                if rid:
+                    rmap[rid] = payload
+                    return rmap
+        elif len(batch) == 1:
+            payload = _find_nested_sentiment_payload(results)
+            if payload is not None:
+                rid = str(batch[0]["id"]).strip()
+                if rid:
+                    rmap[rid] = payload
+                    return rmap
+
         for rid, payload in results.items():
             if rid is None:
                 continue
             rid = str(rid).strip()
             if not rid:
                 continue
-            rmap[rid] = payload
+            coerced = _coerce_sentiment_payload(payload)
+            if coerced is None and isinstance(payload, (dict, list)):
+                coerced = _find_nested_sentiment_payload(payload)
+            rmap[rid] = coerced if coerced is not None else payload
         return rmap
 
     if not isinstance(results, list):
