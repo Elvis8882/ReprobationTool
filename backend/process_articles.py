@@ -288,25 +288,25 @@ def process_articles():
     # Batch call to LLM for all queued items
     if items:
         try:
-            results = score_entity_sentiment_batch(items)  # returns {id -> sentiment_by_country}
+            results = score_entity_sentiment_batch(items)
         except Exception as e:
-            # Batch failure: mark each queued article as retryable error (no fake neutral)
             for it in items:
                 aid = it["id"]
                 path = item_paths[aid]
-        
                 with open(path, "r", encoding="utf-8") as f:
                     article = json.load(f)
-        
-                article.pop("sentiment_by_country", None)  # don't poison with fake neutral
-                article["sentiment_error"] = str(e)[:500]
+
+                article.pop("sentiment_by_country", None)
+                article["sentiment_error"] = f"LLM batch failed: {str(e)[:480]}"
                 article["llm_attempted_at"] = utc_now_iso()
-                article.pop("processed_at", None)  # keep retryable
-        
+                article.pop("processed_at", None)
+
                 with open(path, "w", encoding="utf-8") as f:
                     json.dump(article, f, indent=2, ensure_ascii=False)
-        
-            results = {}
+
+            # ✅ critical: stop here so we don't overwrite the error
+            return
+
 
 
         # Apply per-item results
