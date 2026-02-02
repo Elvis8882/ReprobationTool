@@ -116,6 +116,9 @@ def _call_gemini_batch(input_items: List[dict]) -> Dict[str, Any]:
         "Evidence: short phrase (<= 12 words) copied from the text.\n"
         "Confidence: number 0..1.\n\n"
         "You MUST return every input id exactly once in results.\n"
+        "Example output:\n"
+        "{\"results\":[{\"id\":\"example-1\",\"sentiment_by_country\":"
+        "{\"DE\":{\"label\":\"neutral\",\"confidence\":0.2,\"evidence\":\"short quote\"}}}]}\n\n"
 
         f"INPUT:\n{json.dumps({'items': input_items}, ensure_ascii=False)}\n\n"
         f"Output JSON with this exact shape:\n{json.dumps(schema_hint)}"
@@ -129,6 +132,7 @@ def _call_gemini_batch(input_items: List[dict]) -> Dict[str, Any]:
     resp = _post_gemini(payload)
     model_text = _extract_text(resp)
     obj = _loads_json_strict(model_text)
+    _validate_batch_response(obj)
     return obj
 
 
@@ -268,6 +272,45 @@ def _loads_json_strict(s: str) -> dict:
         if cleaned.endswith("```"):
             cleaned = cleaned[:-3].strip()
     return json.loads(cleaned)
+
+
+def _summarize_response(obj: Any) -> Tuple[str, str]:
+    if isinstance(obj, dict):
+        keys = sorted([str(k) for k in obj.keys()])
+        key_summary = f"keys={keys}"
+    else:
+        key_summary = "keys=[]"
+    try:
+        snippet = json.dumps(obj, ensure_ascii=False)[:400]
+    except Exception:
+        snippet = str(obj)[:400]
+    return key_summary, snippet
+
+
+def _looks_like_id_map(results: Any) -> bool:
+    if not isinstance(results, dict) or not results:
+        return False
+    reserved = {"id", "sentiment_by_country", "sentiment", "results", "items", "data"}
+    valid_keys = 0
+    for key, value in results.items():
+        if not isinstance(key, str) or not isinstance(value, (dict, list)):
+            return False
+        if key not in reserved:
+            valid_keys += 1
+    return valid_keys > 0
+
+
+def _validate_batch_response(obj: Any) -> None:
+    results = _unwrap_results_container(obj)
+    if isinstance(results, list) and results:
+        return
+    if _looks_like_id_map(results):
+        return
+    key_summary, snippet = _summarize_response(obj)
+    raise RuntimeError(
+        "Invalid batch response structure: expected array of results or id->payload map; "
+        f"{key_summary}; snippet={snippet}"
+    )
 
 
 def _normalize_sentiment_map(out: Any, iso_targets: List[str]) -> Dict[str, Any]:
