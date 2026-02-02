@@ -113,7 +113,7 @@ def _call_gemini_batch(input_items: List[dict]) -> Dict[str, Any]:
 
     payload = {
         "contents": [{"role": "user", "parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.2, "maxOutputTokens": 2500},
+        "generationConfig": {"temperature": 0.2, "maxOutputTokens": 8000}, "responseMimeType": "application/json"
     }
 
     resp = _post_gemini(payload)
