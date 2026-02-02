@@ -43,6 +43,7 @@ jobs:
           GEMINI_BATCH_MAX_CHARS: "18000"
           GEMINI_THROTTLE_S: "0.8"
           LLM_SENTIMENT_CACHE_VERSION: "v3-eu-1"
+          LLM_SENTIMENT_LOG_RAW: "1"
 
       - name: Score countries (write /countries/*.json)
         run: python backend/score_countries.py
