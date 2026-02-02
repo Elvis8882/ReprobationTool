@@ -73,6 +73,54 @@ def _cache_set(text: str, iso_targets: List[str], value: Dict[str, Any]) -> None
     except Exception:
         pass
 
+def _call_gemini_batch(input_items: List[dict]) -> Dict[str, Any]:
+    schema_hint = {
+        "results": [
+            {
+                "id": "string",
+                "sentiment_by_country": {
+                    "ISO2": {"label": "positive|negative|neutral|mixed", "confidence": 0.0, "evidence": "string"}
+                }
+            }
+        ]
+    }
+
+    prompt = (
+        "You are scoring COUNTRY-TARGETED sentiment from the standpoint of the European Union (EU).\n"
+        "Interpret events based on impact on EU interests: security, stability, rule of law, support for Ukraine, sanctions compliance.\n"
+        "Return ONLY valid JSON. No markdown. No extra text.\n\n"
+
+        "For each item, score ONLY the ISO2 codes in 'targets' using uppercase keys.\n"
+        "Do not add extra countries.\n"
+        "Note: GB = United Kingdom (UK). Mentions of UK/United Kingdom/Britain => GB.\n\n"
+
+        "Labels: positive | negative | neutral | mixed\n"
+        "- positive: portrayed as supporting EU interests/values.\n"
+        "- negative: portrayed as harming EU interests/values.\n"
+        "- neutral: mentioned without a clear EU-relevant implication.\n"
+        "- mixed: both supportive and harmful EU-relevant signals.\n\n"
+
+        "Key rule: Do NOT treat military or political 'success' as positive if it harms EU interests.\n"
+        "Example: Russian military advances in Ukraine => negative for Russia (EU standpoint).\n"
+        "If unsure, choose neutral with low confidence.\n\n"
+
+        "Evidence: short phrase (<= 12 words) copied from the text.\n"
+        "Confidence: number 0..1.\n\n"
+
+        f"INPUT:\n{json.dumps({'items': input_items}, ensure_ascii=False)}\n\n"
+        f"Output JSON with this exact shape:\n{json.dumps(schema_hint)}"
+    )
+
+    payload = {
+        "contents": [{"role": "user", "parts": [{"text": prompt}]}],
+        "generationConfig": {"temperature": 0.2, "maxOutputTokens": 2500},
+    }
+
+    resp = _post_gemini(payload)
+    model_text = _extract_text(resp)
+    obj = _loads_json_strict(model_text)
+    return obj
+
 
 def _post_gemini(payload: dict) -> dict:
     api_key = os.environ.get("GEMINI_API_KEY", "").strip()
@@ -277,67 +325,15 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
 
     # Batch the pending calls
     for batch in _make_batches(pending):
-        # Build compact input
-        input_items = []
-        for it in batch:
-            input_items.append({
-                "id": it["id"],
-                "targets": it["targets"],
-                "text": it["text"],
-            })
-
-        schema_hint = {
-            "results": [
-                {
-                    "id": "string",
-                    "sentiment_by_country": {
-                        "ISO2": {"label": "positive|negative|neutral|mixed", "confidence": 0.0, "evidence": "string"}
-                    }
-                }
-            ]
-        }
-
-        prompt = (
-            "You are scoring COUNTRY-TARGETED sentiment from the standpoint of the European Union (EU).\n"
-            "Interpret events based on impact on EU interests: security, stability, rule of law, support for Ukraine, sanctions compliance.\n"
-            "Return ONLY valid JSON. No markdown. No extra text.\n\n"
-        
-            "For each item, score ONLY the ISO2 codes in 'targets' using uppercase keys.\n"
-            "Do not add extra countries.\n"
-            "Note: GB = United Kingdom (UK). Mentions of UK/United Kingdom/Britain => GB.\n\n"
-        
-            "Labels: positive | negative | neutral | mixed\n"
-            "- positive: portrayed as supporting EU interests/values (e.g., supporting Ukraine, cooperation, de-escalation, enforcing sanctions).\n"
-            "- negative: portrayed as harming EU interests/values (e.g., aggression toward Ukraine, destabilization, obstruction of EU policy, sanction evasion).\n"
-            "- neutral: mentioned without a clear EU-relevant implication.\n"
-            "- mixed: both supportive and harmful EU-relevant signals.\n\n"
-        
-            "Key rule: Do NOT treat military or political 'success' as positive if it harms EU interests.\n"
-            "Example: Russian military advances in Ukraine => negative for Russia (EU standpoint).\n"
-            "If unsure, choose neutral with low confidence.\n\n"
-        
-            "Evidence: short phrase (<= 12 words) copied from the text.\n"
-            "Confidence: number 0..1.\n\n"
-        
-            f"INPUT:\n{json.dumps({'items': input_items}, ensure_ascii=False)}\n\n"
-            f"Output JSON with this exact shape:\n{json.dumps(schema_hint)}"
-        )
-
-        payload = {
-            "contents": [{"role": "user", "parts": [{"text": prompt}]}],
-            "generationConfig": {"temperature": 0.2, "maxOutputTokens": 2500},
-        }
-
+        input_items = [{"id": it["id"], "targets": it["targets"], "text": it["text"]} for it in batch]
+    
         print(f"[llm] Sending batch: {len(batch)} items, total_chars={sum(len(x['text']) for x in batch)}")
-        resp = _post_gemini(payload)
-        model_text = _extract_text(resp)
-        obj = _loads_json_strict(model_text)
-
+        obj = _call_gemini_batch(input_items)
+    
         results = obj.get("results", [])
         if not isinstance(results, list):
             raise RuntimeError("Invalid batch response: 'results' is not a list")
-
-        # index results by id
+    
         rmap: Dict[str, Any] = {}
         for r in results:
             if not isinstance(r, dict):
@@ -348,20 +344,47 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
             rid = str(rid).strip()
             if rid:
                 rmap[rid] = r.get("sentiment_by_country")
-
-
-        # Write outputs + cache; default neutrals for missing ids
+    
+        # Retry missing ids
+        missing = [it for it in batch if it["id"] not in rmap]
+        if missing:
+            print(f"[llm] Missing {len(missing)}/{len(batch)} ids, retrying in smaller chunks...")
+            retry_chunk_size = int(os.environ.get("GEMINI_RETRY_CHUNK_SIZE", "3"))
+    
+            for i in range(0, len(missing), retry_chunk_size):
+                chunk = missing[i:i+retry_chunk_size]
+                retry_input = [{"id": x["id"], "targets": x["targets"], "text": x["text"]} for x in chunk]
+    
+                time.sleep(float(os.environ.get("GEMINI_THROTTLE_S", "0.6")))
+                robj = _call_gemini_batch(retry_input)
+    
+                rresults = robj.get("results", [])
+                if isinstance(rresults, list):
+                    for r in rresults:
+                        if not isinstance(r, dict):
+                            continue
+                        rid = r.get("id")
+                        if rid is None:
+                            continue
+                        rid = str(rid).strip()
+                        if rid:
+                            rmap[rid] = r.get("sentiment_by_country")
+    
+        # Write outputs + cache (only cache if returned)
         for it in batch:
             aid = it["id"]
             targets = it["targets"]
             text = it["text"]
-
-            sent_map_raw = rmap.get(aid, {})
-            normalized = _normalize_sentiment_map(sent_map_raw, targets)
-            out[aid] = normalized
-            _cache_set(text, targets, normalized)
-
-        # small throttle between batch requests (helps 429)
+    
+            if aid in rmap:
+                sent_map_raw = rmap.get(aid, {})
+                normalized = _normalize_sentiment_map(sent_map_raw, targets)
+                out[aid] = normalized
+                _cache_set(text, targets, normalized)
+            else:
+                out[aid] = {c: {"label": "neutral", "confidence": 0.0, "evidence": ""} for c in targets}
+    
         time.sleep(float(os.environ.get("GEMINI_THROTTLE_S", "0.6")))
+
 
     return out
