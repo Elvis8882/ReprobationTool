@@ -1,0 +1,78 @@
+name: Rescore all articles + countries
+
+on:
+  workflow_dispatch:
+    inputs:
+      gemini_daily_request_limit:
+        description: "Daily request cap for Gemini"
+        required: false
+        default: "20"
+      gemini_request_headroom:
+        description: "Request headroom for retries"
+        required: false
+        default: "2"
+      gemini_batch_max_items:
+        description: "Batch size"
+        required: false
+        default: "12"
+      gemini_batch_max_chars:
+        description: "Max characters per batch"
+        required: false
+        default: "18000"
+      gemini_throttle_s:
+        description: "Throttle seconds between requests"
+        required: false
+        default: "0.8"
+      llm_sentiment_cache_version:
+        description: "LLM sentiment cache version"
+        required: false
+        default: "v3-eu-1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rescore-all
+  cancel-in-progress: false
+
+jobs:
+  rescore:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r backend/requirements.txt
+
+      - name: Reset articles + LLM cache
+        run: python backend/rescore_all.py
+
+      - name: Process articles (detect countries + sentiment)
+        run: python backend/process_articles.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-2.5-flash
+          GEMINI_DAILY_REQUEST_LIMIT: ${{ inputs.gemini_daily_request_limit }}
+          GEMINI_REQUEST_HEADROOM: ${{ inputs.gemini_request_headroom }}
+          GEMINI_BATCH_MAX_ITEMS: ${{ inputs.gemini_batch_max_items }}
+          GEMINI_BATCH_MAX_CHARS: ${{ inputs.gemini_batch_max_chars }}
+          GEMINI_THROTTLE_S: ${{ inputs.gemini_throttle_s }}
+          LLM_SENTIMENT_CACHE_VERSION: ${{ inputs.llm_sentiment_cache_version }}
+
+      - name: Score countries (write /countries/*.json)
+        run: python backend/score_countries.py
+
+      - name: Commit updates
+        run: |
+          git config user.name "rescore-bot"
+          git config user.email "rescore-bot@users.noreply.github.com"
+          git add -A data/articles data/cache countries
+          git diff --cached --quiet || git commit -m "Rescore all articles + countries"
+          git push
