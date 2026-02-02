@@ -108,15 +108,6 @@ def main():
     for path in iter_articles():
         a = load_json(path)
 
-        
-        if not a.get("processed_at") or a.get("sentiment_error"):
-            skipped_unprocessed += 1
-            continue
-
-        if a.get("llm_version") != REQUIRE_LLM_VERSION:
-            skipped_unprocessed += 1
-            continue
-
         published = parse_dt(a.get("published_at"))
         if not published:
             continue
@@ -139,15 +130,23 @@ def main():
         if not hit_any:
             skipped_no_targets += 1
             continue
-    
+
+        if a.get("llm_version") != REQUIRE_LLM_VERSION:
+            skipped_unprocessed += 1
+            continue
+
+        fallback_article = False
+        if not a.get("processed_at") or a.get("sentiment_error"):
+            fallback_article = True
 
         sent_map = a.get("sentiment_by_country")
         if not isinstance(sent_map, dict):
             sent_map = {}
+            fallback_article = True
 
 
-        # If an article was processed but has no LLM output, treat as neutral for all
-        # (this can happen if you used degraded mode on API failure)
+        # If an article has missing LLM output but targets were scored,
+        # treat as neutral to keep aggregation moving.
         considered += 1
         
         base_card = {
@@ -175,9 +174,11 @@ def main():
             # Per-country label from LLM output
             c_sent = sent_map.get(c) or {}
             label = (c_sent.get("label") or "neutral").lower().strip()
-        
+            used_fallback = fallback_article or not c_sent
+
             if label not in ("positive", "negative", "neutral", "mixed"):
                 label = "neutral"
+                used_fallback = True
         
             # Decide how to count "mixed"
             # Conservative option: treat mixed as neutral (recommended initially)
@@ -194,6 +195,8 @@ def main():
             # Country-specific card (so latest_articles sentiment is correct per country)
             card_c = dict(base_card)
             card_c["sentiment"] = label
+            if label == "neutral" and used_fallback:
+                card_c["sentiment_fallback"] = True
             # Optional: keep model evidence/confidence for UI/debugging
             if "confidence" in c_sent:
                 card_c["confidence"] = c_sent.get("confidence")
