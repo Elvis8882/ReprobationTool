@@ -98,10 +98,19 @@ def ingest():
                 "published_at": published.isoformat(),
                 "source": feed["source"],
                 "language": feed["language"],
+            
                 "countries_detected": [],
                 "countries_scored": [],
-                "sentiment": {},
-                "processed_at": None
+            
+                # LLM pipeline fields
+                "sentiment_by_country": None,
+                "sentiment_error": None,
+                "llm_version": None,
+                "llm_perspective": None,
+                "llm_attempted_at": None,
+            
+                # processing stamp (set by process_articles.py)
+                "processed_at": None,
             }
 
             if save_article(article):
