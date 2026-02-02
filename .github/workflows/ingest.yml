@@ -6,6 +6,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: rss-ingest-process-score
+  cancel-in-progress: false
+
 jobs:
   ingest:
     runs-on: ubuntu-latest
@@ -24,10 +28,10 @@ jobs:
 
       - name: Run RSS ingestion
         run: python backend/rss_ingest.py
-      
+
       - name: Cleanup old articles
         run: python backend/cleanup_articles.py
-      
+
       - name: Process articles (detect countries + sentiment)
         run: python backend/process_articles.py
         env:
@@ -38,7 +42,7 @@ jobs:
           GEMINI_BATCH_MAX_ITEMS: "12"
           GEMINI_BATCH_MAX_CHARS: "18000"
           GEMINI_THROTTLE_S: "0.8"
-          LLM_SENTIMENT_CACHE_VERSION: "v3"
+          LLM_SENTIMENT_CACHE_VERSION: "v3-eu-1"
 
       - name: Score countries (write /countries/*.json)
         run: python backend/score_countries.py
@@ -50,4 +54,3 @@ jobs:
           git add -A data/articles data/cache countries
           git diff --cached --quiet || git commit -m "Ingest + process + score RSS"
           git push
-
