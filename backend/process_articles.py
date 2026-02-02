@@ -250,7 +250,8 @@ def process_articles():
             article["llm_perspective"] = "EU"
             article.pop("sentiment", None)
             article.pop("sentiment_error", None)
-            article["llm_attempted_at"] = utc_now_iso()
+            article["processed_at"] = utc_now_iso()
+            article["llm_attempted_at"] = article["processed_at"]
             with open(path, "w", encoding="utf-8") as f:
                 json.dump(article, f, indent=2, ensure_ascii=False)
             processed += 1
@@ -278,65 +279,56 @@ def process_articles():
         try:
             results = score_entity_sentiment_batch(items)  # returns {id -> sentiment_by_country}
         except Exception as e:
-            # Batch failure: mark each queued article as error (so it retries next run)
+            # Batch failure: mark each queued article as retryable error (no fake neutral)
             for it in items:
                 aid = it["id"]
                 path = item_paths[aid]
+        
                 with open(path, "r", encoding="utf-8") as f:
                     article = json.load(f)
-
-                # Neutral fallback for explicit targets only
-                article["sentiment_by_country"] = {
-                    c: {"label": "neutral", "confidence": 0.0, "evidence": ""}
-                    for c in it["targets"]
-                }
+        
+                article.pop("sentiment_by_country", None)  # don't poison with fake neutral
                 article["sentiment_error"] = str(e)[:500]
-                article["processed_at"] = utc_now_iso()
-
+                article["llm_attempted_at"] = utc_now_iso()
+                article.pop("processed_at", None)  # keep retryable
+        
                 with open(path, "w", encoding="utf-8") as f:
                     json.dump(article, f, indent=2, ensure_ascii=False)
-
-                processed += 1
-
+        
             results = {}
+
 
         # Apply per-item results
         for it in items:
             aid = it["id"]
             path = item_paths[aid]
-
+        
             with open(path, "r", encoding="utf-8") as f:
                 article = json.load(f)
-
+        
             sent_map = results.get(aid)
-
+        
             if isinstance(sent_map, dict) and sent_map:
-                # Success: store what model returned for explicitly detected targets
+                # ✅ Success
                 article["sentiment_by_country"] = sent_map
-            
-                # ✅ stamp the logic version so we skip next time
                 article["llm_version"] = LLM_VERSION
                 article["llm_perspective"] = "EU"
-            
-                # ✅ remove old VADER field if present
                 article.pop("sentiment", None)
-            
-                # ✅ clear error marker
                 article.pop("sentiment_error", None)
+        
+                article["processed_at"] = utc_now_iso()
+                article["llm_attempted_at"] = article["processed_at"]
+                processed += 1
             else:
-                # Missing/empty result: keep retryable error marker
-                article["sentiment_by_country"] = {
-                    c: {"label": "neutral", "confidence": 0.0, "evidence": ""}
-                    for c in it["targets"]
-                }
+                # ❌ Missing/empty result => retry later
+                article.pop("sentiment_by_country", None)  # or {}
                 article["sentiment_error"] = "No batch result returned for this item"
-
-            article["llm_attempted_at"] = utc_now_iso()
-
+                article["llm_attempted_at"] = utc_now_iso()
+                article.pop("processed_at", None)          # keep retryable
+                # processed += 0  (optional; it's not actually processed)
+        
             with open(path, "w", encoding="utf-8") as f:
                 json.dump(article, f, indent=2, ensure_ascii=False)
-
-            processed += 1
 
     print(
         f"Processed: {processed} | Skipped: {skipped} | "
