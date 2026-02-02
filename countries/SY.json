@@ -1,16 +1,28 @@
 {
   "country": "SY",
   "score": 90,
-  "score_label": "Not enough data",
-  "assessment": "No information available",
-  "trend": null,
-  "sources": 0,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": 0,
+  "sources": 1,
   "sentiment": {
     "positive": 0,
-    "neutral": 0,
+    "neutral": 1,
     "negative": 0
   },
-  "latest_articles": [],
+  "latest_articles": [
+    {
+      "id": "9db10c02806fe630239c1d662c75a8da83fb29ac",
+      "title": "Syria's only female minister pushes for change: 'I'm not here for window dressing'",
+      "summary": "The BBC's Lyse Doucet follows Hind Kabawat as she confronts the challenges of fragmented, post-Assad Syria.",
+      "url": "https://www.bbc.com/news/articles/cj0n3j16p8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-02T00:28:13+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    }
+  ],
   "window_days": 90,
-  "last_updated": "2026-02-02T14:17:43Z"
+  "last_updated": "2026-02-02T15:08:58Z"
 }

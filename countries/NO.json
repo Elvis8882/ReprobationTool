@@ -1,16 +1,94 @@
 {
   "country": "NO",
-  "score": 90,
-  "score_label": "Not enough data",
-  "assessment": "No information available",
-  "trend": null,
-  "sources": 0,
+  "score": 84,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": -6,
+  "sources": 7,
   "sentiment": {
     "positive": 0,
-    "neutral": 0,
-    "negative": 0
+    "neutral": 6,
+    "negative": 1
   },
-  "latest_articles": [],
+  "latest_articles": [
+    {
+      "id": "4b5be473d823b23e17c3baaf6905e7652d8da02c",
+      "title": "Son of Norway’s crown princess arrested on new charges before start of rape trial",
+      "summary": "Marius Borg Høiby arrested on suspicion of assault, making threats with knife and violating restraining order, police sayThe son of Norway’s crown princess, Marius Borg Høiby, has been arrested on new charges just days b…",
+      "url": "https://www.theguardian.com/world/2026/feb/02/marius-borg-hoiby-son-of-norway-crown-princess-arrested-new-charges-before-rape-trial",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-02T13:16:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Son of Norway’s crown princess arrested on new charges"
+    },
+    {
+      "id": "537ad654314a134f428db231947bf33c136ff443",
+      "title": "Norway Crown Princess Son Faces Trial On Multiple Charges, Including Rape",
+      "summary": "Marius Borg Hoiby, the son of Norway's Crown Princess Mette-Marit",
+      "url": "https://www.ndtv.com/world-news/norway-crown-princess-son-marius-borg-hoiby-faces-trial-on-multiple-charges-including-rape-10930646#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-02T09:35:03+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Norway Crown Princess Son Faces Trial On Multiple Charges"
+    },
+    {
+      "id": "a3c5395645a9d2f0afc0dc546f87604db5324656",
+      "title": "Apologies, demission, royal glare: fallout from latest Epstein file dump",
+      "summary": "Norway's Crown Princess Mette-Marit, whose name appears at least 1,000 times in the freshly released documents, has apologised for her \"embarrassing\" friendship with Epstein",
+      "url": "https://www.euractiv.com/news/apologies-demission-royal-glare-fallout-from-latest-epstein-file-dump/",
+      "source": "Euractiv",
+      "published_at": "2026-02-02T02:44:40+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Norway's Crown Princess Mette-Marit, whose name appears"
+    },
+    {
+      "id": "b0815c2bd2be5815edf9c853c4516b7acf73f4ff",
+      "title": "Norway's PM agrees crown princess had 'poor judgement' over Epstein links",
+      "summary": "Jonas Gahr Støre says he agreed with Princess Mette-Marit's own remarks over her contacts with the late sex offender.",
+      "url": "https://www.bbc.com/news/articles/c1508llzw4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-01T23:26:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Norway's PM agrees crown princess had 'poor judgement'"
+    },
+    {
+      "id": "4b3ef8976aa054a2787de8b60055c634ff9563d5",
+      "title": "Norway’s crown princess had years of contact with Epstein, files suggest",
+      "summary": "Mette-Marit apologises for ‘poor judgment’ as documents reportedly include scores of email exchanges with child sex offenderNorway’s crown princess has become embroiled in another scandal after newly unsealed files appea…",
+      "url": "https://www.theguardian.com/world/2026/feb/01/norway-crown-princess-contact-epstein-files-appear-to-show",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-01T18:26:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Norway’s crown princess had years of contact with Epstein"
+    },
+    {
+      "id": "e4dd73f3602f2f4d8790066c3afa24de6e103940",
+      "title": "Rape trial puts Norway's royal family in unwelcome glare of public",
+      "summary": "Marius Borg Høiby, the crown prince's blond stepson, is accused of 38 charges in a case that has attracted global interest.",
+      "url": "https://www.bbc.com/news/articles/cm2xj3ykpj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-01T00:02:01+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    {
+      "id": "af60ddac895cdfe25d48c38b24a4decc5b035a94",
+      "title": "World’s largest sovereign wealth fund made $247 billion in 2025, driven by tech and banking rally",
+      "summary": "Norway's $2 trillion sovereign wealth fund holds stakes in many of the world's biggest companies, including Apple, Nvidia and JPMorgan Chase.",
+      "url": "https://www.cnbc.com/2026/01/29/norway-sovereign-wealth-fund-2025-return-nbim-trillion-oil-stocks-tech-ai-banks-silver.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-01-29T13:18:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    }
+  ],
   "window_days": 90,
-  "last_updated": "2026-02-02T14:17:43Z"
+  "last_updated": "2026-02-02T15:08:58Z"
 }

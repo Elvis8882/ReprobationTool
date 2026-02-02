@@ -21,6 +21,35 @@
     "GB",
     "IE"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_attempted_at": "2026-02-02T14:17:42+00:00"
+  "llm_attempted_at": "2026-02-02T15:08:58+00:00",
+  "sentiment_by_country": {
+    "DE": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "laboratories in the UK, US, Germany, Spain and Finland"
+    },
+    "ES": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "laboratories in the UK, US, Germany, Spain and Finland"
+    },
+    "FI": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "laboratories in the UK, US, Germany, Spain and Finland"
+    },
+    "GB": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "laboratories in the UK, US, Germany, Spain and Finland"
+    },
+    "IE": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "senators want to bring that testing back to Ireland"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-02T15:08:58+00:00"
 }

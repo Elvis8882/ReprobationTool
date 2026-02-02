@@ -15,6 +15,20 @@
     "GB",
     "IE"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_attempted_at": "2026-02-02T14:17:42+00:00"
+  "llm_attempted_at": "2026-02-02T15:08:58+00:00",
+  "sentiment_by_country": {
+    "GB": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Mandelson quits Labour as Epstein documents reveal he promised to amend tax"
+    },
+    "IE": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-02T15:08:58+00:00"
 }

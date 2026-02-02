@@ -17,6 +17,25 @@
     "RU",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_attempted_at": "2026-02-02T14:17:42+00:00"
+  "llm_attempted_at": "2026-02-02T15:08:58+00:00",
+  "sentiment_by_country": {
+    "GB": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Alarm raised over Chinese CCTV cameras guarding ‘symbol of democracy’ Magna Carta"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "exploited by Russia during the invasion of Ukraine"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "exploited by Russia during the invasion of Ukraine"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-02T15:08:58+00:00"
 }

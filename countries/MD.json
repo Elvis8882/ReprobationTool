@@ -1,16 +1,28 @@
 {
   "country": "MD",
   "score": 90,
-  "score_label": "Not enough data",
-  "assessment": "No information available",
-  "trend": null,
-  "sources": 0,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": 0,
+  "sources": 1,
   "sentiment": {
     "positive": 0,
-    "neutral": 0,
+    "neutral": 1,
     "negative": 0
   },
-  "latest_articles": [],
+  "latest_articles": [
+    {
+      "id": "5af7c6fc614372ae0ee6ddcef1858a87176cdf70",
+      "title": "Kyiv metro halted as Ukraine hit by cascading blackouts",
+      "summary": "The latest wave of power cuts has been blamed on a technical fault in a power line to Moldova",
+      "url": "https://www.euractiv.com/news/kyiv-metro-halted-as-ukraine-hit-by-cascading-blackouts/",
+      "source": "Euractiv",
+      "published_at": "2026-01-31T11:58:02+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "power line to Moldova"
+    }
+  ],
   "window_days": 90,
-  "last_updated": "2026-02-02T14:17:43Z"
+  "last_updated": "2026-02-02T15:08:58Z"
 }

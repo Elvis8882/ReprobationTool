@@ -1,16 +1,48 @@
 {
   "country": "FR",
-  "score": 90,
+  "score": 86,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 8,
+  "trend": -4,
+  "sources": 22,
   "sentiment": {
-    "positive": 0,
-    "neutral": 8,
-    "negative": 0
+    "positive": 1,
+    "neutral": 20,
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "69ad33f6ca6d34e9cb95ea5312468b2e07d6c43e",
+      "title": "France opposes Commission’s plan to rewrite EU privacy rules",
+      "summary": "Paris isn't a fan of bid to change the definition of personal data in the General Data Protection Regulation, or other proposed privacy tweaks",
+      "url": "https://www.euractiv.com/news/france-opposes-commissions-plan-to-rewrite-eu-privacy-rules/",
+      "source": "Euractiv",
+      "published_at": "2026-02-02T13:16:24+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "France opposes Commission’s plan to rewrite EU privacy rules"
+    },
+    {
+      "id": "1c9615469e7314d7cf7b2fd7f44d904cf80fb23e",
+      "title": "French IT giant Capgemini to sell US subsidiary after row over ICE links",
+      "summary": "Capgemini has been in the spotlight for days over a deal its American subsidiary signed with ICE to identify foreigners and track their locations on US soil",
+      "url": "https://www.euractiv.com/news/french-it-giant-capgemini-to-sell-us-subsidiary-after-row-over-ice-links/",
+      "source": "Euractiv",
+      "published_at": "2026-02-02T11:41:03+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "French IT giant Capgemini to sell US subsidiary"
+    },
+    {
+      "id": "b51ee529a130084e534ce9ea417d28cb07af7958",
+      "title": "Remarks on the European Asylum and Migration Management Strategy and the EU Visa Strategy - European Commission",
+      "summary": "Remarks on the European Asylum and Migration Management Strategy and the EU Visa Strategy&nbsp;&nbsp;European CommissionBritain should co-operate as EU gets tough on enforcing asylum laws&nbsp;&nbsp;The TimesEU set to us…",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zQ3JWZjBBVnlfcFJTelYxeUk2Z1dDN1dzang3QW8yR3A0YUY5bFdJQU96OUlnSXQ1RkdUemJVM01iTlBKQ2NNQXB4NUZiNWdqT29vX1duOWZ3dkdmR0EyS1dJN3lhbEZmZFNuYlVyT3JMa2JUNVE?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-02T10:15:07+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "e6db6ad0340b23e4ff9d0cb207147d4ff3d60f5e",
       "title": "9.2% of EU population struggled to keep their home warm - European Commission",
@@ -18,6 +50,48 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmQlFtenRVbXA5Z0xoN24wRUQ3ZG1obFNmdkdOYVZqN2RWM3FNcFp0YWZnNENTakYtQmw5eW9SWjNrY1FHbm1ucmptVmdKNTJuNFFjQ1BRajVaNFl2b0c0WWx3blBfakg2TEFFRGFjMEpGOGhHVmN6V0lvOFNadw?oc=5",
       "source": "Top stories - Google News",
       "published_at": "2026-02-02T10:03:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "62cfa93b2f437a21d9efd62c5c7ef75f2e0f2289",
+      "title": "Hidden detail found in Anne Boleyn portrait was ‘witchcraft rebuttal’, say historians",
+      "summary": "Exclusive: Underdrawing suggests attempt to debunk myth that former wife of Henry VIII had sixth fingerAnne Boleyn’s Hever “Rose” portrait is one of history’s most iconic faces, with her “B” pendant, her French hood, her…",
+      "url": "https://www.theguardian.com/uk-news/2026/feb/02/hidden-detail-anne-boleyn-portrait-painting-witchcraft-rebuttal-hever-rose",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-02T06:00:49+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Anne Boleyn’s Hever “Rose” portrait"
+    },
+    {
+      "id": "bb675ad212349d9ebdb60fade1ff7658c6daeba4",
+      "title": "Starmer says UK should ‘do more’ with EU in joint defence",
+      "summary": "Britain should &#8220;do more together&#8221; with the EU on defence, including through a bloc-wide initiative to bolster arms stocks that London has not yet joined, Prime Minister Keir Starmer has said. The comments com…",
+      "url": "https://www.euractiv.com/news/starmer-says-uk-should-do-more-with-eu-in-joint-defence/",
+      "source": "Euractiv",
+      "published_at": "2026-02-01T19:43:24+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "b88103af36f0b08189c15264a61341adefdf767b",
+      "title": "Philippe Marlière - Normal Circumstances? - Literary Review",
+      "summary": "Philippe Marlière - Normal Circumstances?&nbsp;&nbsp;Literary ReviewLe Pen vs. Bardella: France’s far right fractures over whether Putin is the enemy&nbsp;&nbsp;politico.euFrance’s far-right earthquake&nbsp;&nbsp;The Obs…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vSnVhQmpBdVU3TlptN2o4a3BRbkNRWWdCQlpPVVh5bUoyRHhTUzQxUEh2cGRRbng0YUlDeWtWRDc3VWt5THVOb3U4ZzQ3SlZYSzRmQ1Q1SHdzZEw1V3c?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-01T11:03:45+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "France’s far-right earthquake"
+    },
+    {
+      "id": "963f1f8ef16048540c405751ed5baeda6017822f",
+      "title": "Belarusian balloons full of cigarettes pose NATO’s latest security threat",
+      "summary": "A rising number of incursions into NATO airspace has led some officials to allege an escalation of Russian hybrid attacks against the alliance and the European Union.",
+      "url": "https://www.washingtonpost.com/world/2026/01/30/belarus-balloons-nato-russia-threat/",
+      "source": "World (Washington post)",
+      "published_at": "2026-01-30T16:47:23+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -42,6 +116,17 @@
       "sentiment_fallback": true
     },
     {
+      "id": "0bdbc7374b7533ebf27f5f19b4392adc36f263a3",
+      "title": "France moves to abolish concept of marital duty to have sex",
+      "summary": "The proposed bill would enshrine in law the end of so-called \"conjugal rights\" – the notion that marriage means a duty to have sex.",
+      "url": "https://www.bbc.com/news/articles/cgjwxdz45ywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-01-29T16:00:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    {
       "id": "f4400e8369216e9a2342287556079aef41490776",
       "title": "Trade balance soared 94% in November and was higher than a year ago, despite tariff efforts",
       "summary": "The U.S. deficit with its global trading partners nearly doubled in November as the shortfall with the European Union swelled.",
@@ -50,48 +135,8 @@
       "published_at": "2026-01-29T14:41:01+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "8a28b95f400746da9aba9d3d0017ddd272071c17",
-      "title": "EU proposals for free extra cabin bags on planes ‘lunatic idea’, says easyJet",
-      "summary": "Giving passengers right to additional carry-on baggage would be ‘terrible for the consumer’, warns airline’s CEOEasyJet said proposals to enforce free additional cabin bags on planes across Europe are a “lunatic idea”, w…",
-      "url": "https://www.theguardian.com/business/2026/jan/29/eu-proposals-to-free-extra-cabin-bags-on-planes-lunatic-idea-says-easyjet",
-      "source": "World news - The Guardian",
-      "published_at": "2026-01-29T14:02:52+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "fd7fa7d2921f8e4c4de371f3ca6520ea0f67294c",
-      "title": "9 678 registered victims of human trafficking in 2024 - European Commission",
-      "summary": "9 678 registered victims of human trafficking in 2024&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OdjZ1TmIxQVVfR0FMLUJ3LWNnZXVKMzJiZlhQNnFKMnRnT2daQzhQRkxuX0dVaDdxNzU1VTBhVlQyQUU1UXFKMkh6YkIwZ1hUcEUwbFhEbFBZcFM4cVBKcU1OQV9QTkd6Y3pWTGxrSUJlb1pyOURfeEhjU1JyUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-01-29T10:03:04+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "6391fb49f337ccd9fe35fac76f40ec59d08697f4",
-      "title": "European Parliament to issue opinion on tobacco excise reform in June",
-      "summary": "Final decisions on tobacco taxes remain the Council’s exclusive competence",
-      "url": "https://www.euractiv.com/news/european-parliament-to-issue-opinion-on-tobacco-excise-reform-in-june/",
-      "source": "Euractiv",
-      "published_at": "2026-01-28T15:33:47+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "e43f49f53e0f580b34e913bf6b5df30ee8590619",
-      "title": "NATO Chief Says Europe Is ‘Dreaming’ if It Thinks It Can Defend Itself Without U.S.",
-      "summary": "Mark Rutte, the secretary general of the alliance, told members of the European Parliament that President Trump was “doing a lot of good stuff.”",
-      "url": "https://www.nytimes.com/2026/01/26/world/europe/nato-chief-europe-greenland-trump-us.html",
-      "source": "NYT > World News",
-      "published_at": "2026-01-26T23:30:41+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-02T14:17:43Z"
+  "last_updated": "2026-02-02T15:08:58Z"
 }

@@ -15,6 +15,20 @@
     "RU",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_attempted_at": "2026-02-02T14:17:42+00:00"
+  "llm_attempted_at": "2026-02-02T15:08:58+00:00",
+  "sentiment_by_country": {
+    "RU": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia strikes Ukrainian energy sector"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Russian attack on coal mining facilities in Ukraine"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-02T15:08:58+00:00"
 }

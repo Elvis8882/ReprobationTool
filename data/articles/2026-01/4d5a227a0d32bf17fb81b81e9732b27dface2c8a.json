@@ -15,6 +15,20 @@
     "DK",
     "GL"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_attempted_at": "2026-02-02T14:17:42+00:00"
+  "llm_attempted_at": "2026-02-02T15:08:58+00:00",
+  "sentiment_by_country": {
+    "DK": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Denmark could theoretically trigger an EU emergency mechanism"
+    },
+    "GL": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "The Arctic is not a hotspot, EU transport commissioner says"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-02T15:08:58+00:00"
 }

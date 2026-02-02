@@ -1,16 +1,149 @@
 {
   "country": "RU",
-  "score": 90,
-  "score_label": "Not enough data",
-  "assessment": "No information available",
-  "trend": null,
-  "sources": 0,
+  "score": 59,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
+  "trend": -31,
+  "sources": 22,
   "sentiment": {
     "positive": 0,
-    "neutral": 0,
-    "negative": 0
+    "neutral": 7,
+    "negative": 15
   },
-  "latest_articles": [],
+  "latest_articles": [
+    {
+      "id": "a3d19a319989a6d7cb362f32035cf6904e4cbd5c",
+      "title": "Family seeks answers as Kenyan fighting for Russia killed in Ukraine - BBC",
+      "summary": "Family seeks answers as Kenyan fighting for Russia killed in Ukraine&nbsp;&nbsp;BBCKenyan man dies fighting for Russia, Ukraine says&nbsp;&nbsp;the-star.co.keFrom Qatar to the Trenches: Another russian Foreign Mercenary…",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBVmJGODRhNUtuN2w0RHNsTUgtRG9FLUQyanIzM1ZJOWE4TXNlejlLSEZlN2dKcW1NU3VmWDBlQlRjZm1jM0htVHlKZ09TWm9Sa3EyTHVYdVVXZw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-02T11:50:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Kenyan fighting for Russia killed in Ukraine"
+    },
+    {
+      "id": "4b23c978df4aff3648364e3cfd6107343980ecd8",
+      "title": "Russia witnessed ‘four moons’ over St. Petersburg in an unusual sky display, leaving stargazers speechless | Watch",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/russia-witnessed-four-moons-over-st-petersburg-in-an-unusual-sky-display-leaving-stargazers-speechless-watch/articleshow/127859373.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-02-02T10:19:31+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    {
+      "id": "3d927a3567280e6442109edc692ff0e8f39b9ac7",
+      "title": "Kenyan job seekers were lured to Russia, then sent to die in Ukraine",
+      "summary": "The Post spoke to four Kenyans who fought in Ukraine and relatives of nine other recruits, as a secret pipeline funnels young Africans to Russia’s military.",
+      "url": "https://www.washingtonpost.com/world/2026/02/01/kenya-russia-military-ukraine-war/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-02T10:00:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Kenyan job seekers were lured to Russia, then sent to die in Ukraine"
+    },
+    {
+      "id": "7cf069bce220ad3f2d0337f544f56333b8aeca93",
+      "title": "US shift away from Europe ‘didn’t really start with President Trump,’ says EU’s top diplomat – Europe live",
+      "summary": "She said that the US shift away from Europe is a “long term” process and the bloc needs to urgently adaptEU’s top diplomat Kallas also offered her take on the state of play in Ukraine, less than a month away from the fou…",
+      "url": "https://www.theguardian.com/world/live/2026/feb/02/eu-us-foreign-policy-shift-security-defence-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-02T09:35:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia has attacked at least 19 countries"
+    },
+    {
+      "id": "e67d873f3c452b8f71cb57032379364c1dcf0419",
+      "title": "Twelve miners killed by Russian strike in Ukraine, officials say - BBC",
+      "summary": "Twelve miners killed by Russian strike in Ukraine, officials say&nbsp;&nbsp;BBCVideo captures drone strike that officials say killed 12 miners in Ukraine&nbsp;&nbsp;BBCRussian drone attack on bus carrying mine workers in…",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yXzF0cUJoM25QbFpBV3hPRFdGMjVCR2NKUUZJX05hMFN3QWdjak9obXQzN2ZGSHBDZUx2RVJHUU1XUGhXNkNBVVJrekFGRHgzNVlKQ1hXOFFBdw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-02T07:00:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Twelve miners killed by Russian strike in Ukraine"
+    },
+    {
+      "id": "90f7d6bc85035b7ca71e255b597fed8e3f2b82c5",
+      "title": "Twelve miners killed by Russian strike in Ukraine, officials say",
+      "summary": "Fifteen others were reported injured in the strike near a bus carrying the workers on Sunday.",
+      "url": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-02T07:00:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Twelve miners killed by Russian strike in Ukraine, officials say"
+    },
+    {
+      "id": "a5fc8447ad41ec30ac6e31c12df91b29e2c09186",
+      "title": "Monday briefing: The community solidarity driving the fightback against ICE in Minneapolis",
+      "summary": "In today’s newsletter: Public outrage has reached fever pitch following the killing of US citizens. But, amid the focus on violence, another story of mutual aid and neighbourhood organising is unfoldingGood morning. The…",
+      "url": "https://www.theguardian.com/world/2026/feb/02/monday-briefing-the-community-solidarity-driving-the-fightback-against-ice-in-minneapolis",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-02T06:34:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "A Russian drone attack on a bus carrying mine workers"
+    },
+    {
+      "id": "7fed642e8a52cc5c94368ffab0a3af649e4e450a",
+      "title": "'Enemy' insults and questioning Putin: Steve Rosenberg on tightrope of reporting from Russia",
+      "summary": "The BBC's Russia editor reflects on the difficulties of working as a British journalist in Moscow.",
+      "url": "https://www.bbc.com/news/articles/c20g25w8j0xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-02T06:00:30+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "tightrope of reporting from Russia"
+    },
+    {
+      "id": "363d0590617f8ae0230191a2f7846c97d3889464",
+      "title": "Three West African juntas have turned to Russia. Now the US wants to engage them",
+      "summary": "The US signals that restoring democracy is no longer a priority and it is ready to work with Burkina Faso, Mali and Niger.",
+      "url": "https://www.bbc.com/news/articles/ckglwnrx437o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-02T01:12:17+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    {
+      "id": "eee92f6dc683181e42898028827b92b0ac1b0497",
+      "title": "Russia strikes Ukrainian energy sector after Trump push for pause",
+      "summary": "A Russian attack on coal mining facilities in Ukraine Sunday killed at least 12 miners, according to DTEK, the country’s largest private energy company.",
+      "url": "https://www.washingtonpost.com/world/2026/02/01/russia-strikes-energy-miners-starlink-ceasefire/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-01T22:01:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia strikes Ukrainian energy sector"
+    },
+    {
+      "id": "91ffbf4b781e044174ccd509edba186a2823d937",
+      "title": "Russia Strikes Ukraine’s Energy Sector, Killing 12 Miners",
+      "summary": "The attack comes during a winter freeze and despite efforts by President Trump and others to get the two countries to negotiate a truce.",
+      "url": "https://www.nytimes.com/2026/02/01/world/europe/russia-strikes-ukraine-energy-sector-killing-12-miners.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-01T19:08:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia Strikes Ukraine’s Energy Sector, Killing 12 Miners"
+    },
+    {
+      "id": "0bea2483703b29b564e033db45323d9204d0f08a",
+      "title": "Russian drone attack on bus carrying mine workers in Ukraine kills at least 12",
+      "summary": "Employees of Ukraine’s largest private energy firm, DTEK, were travelling about 40 miles from frontline, says policeA Russian drone attack on a bus carrying mine workers in Ukraine’s central-eastern Dnipropetrovsk region…",
+      "url": "https://www.theguardian.com/world/2026/feb/01/russian-drone-attack-on-bus-carrying-mine-workers-ukraine-kills",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-01T17:07:43+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russian drone attack on bus carrying mine workers in Ukraine kills at least 12"
+    }
+  ],
   "window_days": 90,
-  "last_updated": "2026-02-02T14:17:43Z"
+  "last_updated": "2026-02-02T15:08:58Z"
 }

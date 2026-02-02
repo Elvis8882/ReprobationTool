@@ -15,6 +15,20 @@
     "IT",
     "MT"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_attempted_at": "2026-02-02T14:17:42+00:00"
+  "llm_attempted_at": "2026-02-02T15:08:58+00:00",
+  "sentiment_by_country": {
+    "IT": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Cyclone Harry battered southern Italy"
+    },
+    "MT": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "shipwreck with the loss of 50 lives was confirmed by Maltese authorities"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-02T15:08:58+00:00"
 }

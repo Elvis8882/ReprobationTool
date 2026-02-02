@@ -13,6 +13,15 @@
   "countries_scored": [
     "HR"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_attempted_at": "2026-02-02T14:17:42+00:00"
+  "llm_attempted_at": "2026-02-02T15:08:58+00:00",
+  "sentiment_by_country": {
+    "HR": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Strengthening fiscal buffers and addressing population ageing are key for Croatia"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-02T15:08:58+00:00"
 }

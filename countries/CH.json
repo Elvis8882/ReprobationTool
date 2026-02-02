@@ -1,16 +1,50 @@
 {
   "country": "CH",
   "score": 90,
-  "score_label": "Not enough data",
-  "assessment": "No information available",
-  "trend": null,
-  "sources": 0,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": 0,
+  "sources": 3,
   "sentiment": {
     "positive": 0,
-    "neutral": 0,
+    "neutral": 3,
     "negative": 0
   },
-  "latest_articles": [],
+  "latest_articles": [
+    {
+      "id": "a7b07ab13d6073e2087ba53b59283a6eee5adcee",
+      "title": "International law meant to limit effects of war at breaking point, study finds",
+      "summary": "Report covering 23 conflicts over last 18 months concludes more than 100,000 civilians have been killed as war crimes rage out of controlAn authoritative survey of 23 armed conflicts over the last 18 months has concluded…",
+      "url": "https://www.theguardian.com/law/2026/feb/02/more-than-100000-civilians-killed-war-crimes-out-of-control-study",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-02T05:00:48+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    {
+      "id": "accd15b94c57803f4e10f6b72d1f75f6ade6e1b5",
+      "title": "Criminal investigation opened into two officials over deadly new year Swiss fire",
+      "summary": "Prosecutors questioning Crans-Montana head of public safety and a former fire safety officer, documents showProsecutors investigating the deadly new year bar fire that killed 40 people in the Swiss ski resort of Crans-Mo…",
+      "url": "https://www.theguardian.com/world/2026/jan/29/criminal-investigation-crans-montana-officials-swiss-fire",
+      "source": "World news - The Guardian",
+      "published_at": "2026-01-29T16:59:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    {
+      "id": "fe00a192c06bedab5b4055a2ff96d73ffb85def1",
+      "title": "President Rinkēvičs departs for Davos",
+      "summary": "Latvian President Edgars Rinkēvičs is out of the country for several days this week to&nbsp;participate in the annual&nbsp;large\\-scale geopolitical talking shop that is the&nbsp;World Economic Forum (WEF) in Davos, Swit…",
+      "url": "https://eng.lsm.lv/article/politics/president/19.01.2026-president-rinkevics-departs-for-davos.a630547/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "source": "LSM (English)",
+      "published_at": "2026-01-19T08:08:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    }
+  ],
   "window_days": 90,
-  "last_updated": "2026-02-02T14:17:43Z"
+  "last_updated": "2026-02-02T15:08:58Z"
 }

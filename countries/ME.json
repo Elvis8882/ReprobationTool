@@ -1,16 +1,28 @@
 {
   "country": "ME",
   "score": 90,
-  "score_label": "Not enough data",
-  "assessment": "No information available",
-  "trend": null,
-  "sources": 0,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": 0,
+  "sources": 1,
   "sentiment": {
     "positive": 0,
-    "neutral": 0,
+    "neutral": 1,
     "negative": 0
   },
-  "latest_articles": [],
+  "latest_articles": [
+    {
+      "id": "af7aff15a5bf5f3416865f9380c4922fee3f360a",
+      "title": "Portugal pledges €2.5bn for deadly storm recovery as rains persist",
+      "summary": "\"Some areas will face more serious situations, which may even require evacuation,\" Montenegro said",
+      "url": "https://www.euractiv.com/news/portugal-pledges-e2-5bn-for-deadly-storm-recovery-as-rains-persist/",
+      "source": "Euractiv",
+      "published_at": "2026-02-02T07:40:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    }
+  ],
   "window_days": 90,
-  "last_updated": "2026-02-02T14:17:43Z"
+  "last_updated": "2026-02-02T15:08:58Z"
 }

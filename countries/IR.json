@@ -1,16 +1,149 @@
 {
   "country": "IR",
-  "score": 90,
-  "score_label": "Not enough data",
-  "assessment": "No information available",
-  "trend": null,
-  "sources": 0,
+  "score": 64,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
+  "trend": -26,
+  "sources": 26,
   "sentiment": {
     "positive": 0,
-    "neutral": 0,
-    "negative": 0
+    "neutral": 11,
+    "negative": 15
   },
-  "latest_articles": [],
+  "latest_articles": [
+    {
+      "id": "f63958b3cf5f62395f77e4a06e0193356ef63698",
+      "title": "Iran president orders talks with US as Trump hopeful of deal",
+      "summary": "Trump had warned that “time is running out” for Iran to reach a deal on its nuclear programme, which the West believes is aimed at making an atomic bomb",
+      "url": "https://www.euractiv.com/news/iran-president-orders-talks-with-us-as-trump-hopeful-of-deal/",
+      "source": "Euractiv",
+      "published_at": "2026-02-02T13:29:58+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Iran president orders talks with US as Trump hopeful of deal"
+    },
+    {
+      "id": "2b73aa3e9cae0163ab01823290b976036a9a1356",
+      "title": "Iran offers nuclear talks to US after Donald Trump's 'time is running out' ultimatum",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-offers-nuclear-talks-to-us-after-donald-trumps-time-is-running-out-ultimatum/articleshow/127863305.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-02-02T13:13:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Iran offers nuclear talks to US"
+    },
+    {
+      "id": "66e9c0975da7066c6295fb408ce134051107a4da",
+      "title": "Erfan Soltani, Iranian Protester Who Reportedly Faced a Death Sentence, Is Released on Bail",
+      "summary": "Mr. Soltani, 26, was arrested last month as Iran brutally repressed anti-government demonstrations.",
+      "url": "https://www.nytimes.com/2026/02/02/world/middleeast/iran-protester-erfan-soltani.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-02T12:04:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran brutally repressed anti-government demonstrations"
+    },
+    {
+      "id": "ab843226c0a42ac57c197298a8fa5c7ff67a56b6",
+      "title": "Oil slides over 5% as Trump signals Iran talks, easing supply shock fears",
+      "summary": "Oil prices slid as investors dial back fears of a supply shock after Donald Trump said Iran was \"seriously talking\" with Washington over the weekend.",
+      "url": "https://www.cnbc.com/2026/02/02/oil-slides-as-trump-signals-iran-talks-easing-supply-shock-fears.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-02T08:30:17+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "Trump said Iran was \"seriously talking\""
+    },
+    {
+      "id": "a5fc8447ad41ec30ac6e31c12df91b29e2c09186",
+      "title": "Monday briefing: The community solidarity driving the fightback against ICE in Minneapolis",
+      "summary": "In today’s newsletter: Public outrage has reached fever pitch following the killing of US citizens. But, amid the focus on violence, another story of mutual aid and neighbourhood organising is unfoldingGood morning. The…",
+      "url": "https://www.theguardian.com/world/2026/feb/02/monday-briefing-the-community-solidarity-driving-the-fightback-against-ice-in-minneapolis",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-02T06:34:13+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Iran | Donald Trump has said Iran is talking to the US"
+    },
+    {
+      "id": "63ea062afb396e3585a6be9153fd7dd868b92599",
+      "title": "Why Targeting Iran Is Riskier Than Ousting Maduro",
+      "summary": "Iran’s ability to strike Israel and destabilize the wider Middle East makes it a far more dangerous adversary.",
+      "url": "https://www.nytimes.com/2026/02/01/world/trump-iran-threats-venezuela-epstein-files.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-02T05:17:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "destabilize the wider Middle East makes it a far more dangerous adversary."
+    },
+    {
+      "id": "649f9e8b3399c6c44ac4f6462daeb231d02c1510",
+      "title": "Trump says Iran talking to US and hints at deal to avoid military strikes",
+      "summary": "US naval battle group gathers off Iran’s shores as supreme leader in Tehran warns attack would spark regional warDonald Trump has said Iran is talking to the US, hinting at a deal that would avoid the use of military str…",
+      "url": "https://www.theguardian.com/world/2026/jan/31/trump-hints-at-deal-with-iran-to-avoid-military-strikes",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-02T03:57:03+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Trump says Iran talking to US and hints at deal to avoid military strikes"
+    },
+    {
+      "id": "1176ec3b4ed90f5083ba8715588037298f2f0c74",
+      "title": "Oscar-Nominated Screenwriter Arrested in Iran for Criticizing Regime",
+      "summary": "Mehdi Mahmoudian, co-writer of “It Was Just an Accident,” was one of several people detained after signing a letter objecting to the crackdown on protests.",
+      "url": "https://www.nytimes.com/2026/02/01/world/middleeast/iran-mehdi-mahmoudian-arrest.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-02T03:04:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Arrested in Iran for Criticizing Regime"
+    },
+    {
+      "id": "932e23daa2495ad8d17895dda4743c533746603c",
+      "title": "'We'll find out whether Khamenei was right': Trump reacts to Iran's 'regional war' warning",
+      "summary": "President Trump expressed hope for a deal with Iran, warning that failure could lead to conflict, as Iranian Supreme Leader Khamenei threatened a regional war if provoked. Trump highlighted the US military presence, whil…",
+      "url": "https://timesofindia.indiatimes.com/world/us/well-find-out-whether-khamenei-was-right-trump-reacts-to-irans-regional-war-warning/articleshow/127851012.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-02-02T02:50:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Iranian Supreme Leader Khamenei threatened a regional war if provoked."
+    },
+    {
+      "id": "e41d3aa89d82c623731bb64b0d90519deda91342",
+      "title": "Iranian protester Erfan Soltani released on bail, reports say",
+      "summary": "Reports in January had said he was due to be executed after his arrest in connection with anti-government protests.",
+      "url": "https://www.bbc.com/news/articles/ceqz8r2j24do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-01T19:00:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Iranian protester Erfan Soltani released on bail, reports say"
+    },
+    {
+      "id": "09dda4df5e79b4ce600cbc9b15de4a842a83a099",
+      "title": "Iran’s missiles pose deadly threat, gulf allies warn, as Trump weighs strikes",
+      "summary": "Even after a 12-day war with Israel, Iran retains the arsenal to hit U.S. allies and bases. U.S. strikes would lead to “regional war,” Iran’s supreme leader said.",
+      "url": "https://www.washingtonpost.com/world/2026/02/01/iran-missiles-persian-gulf-trump-military-buildup/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-01T17:39:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran’s missiles pose deadly threat, gulf allies warn, as Trump weighs strikes"
+    },
+    {
+      "id": "2cdf7df4092caa5822f5f76637c1de4580426014",
+      "title": "Iran declares European armies ‘terrorist groups’ in tit-for-tat move",
+      "summary": "Tehran lawmakers chant 'shame on you Europe' over EU's new designation of Islamic Revolutionary Guard Corps",
+      "url": "https://www.euractiv.com/news/iran-declares-european-armies-terrorist-groups-in-tit-for-tat-move/",
+      "source": "Euractiv",
+      "published_at": "2026-02-01T09:15:42+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran declares European armies ‘terrorist groups’"
+    }
+  ],
   "window_days": 90,
-  "last_updated": "2026-02-02T14:17:43Z"
+  "last_updated": "2026-02-02T15:08:58Z"
 }
