@@ -18,6 +18,7 @@ MAX_BACKOFF_S = float(os.environ.get("GEMINI_MAX_BACKOFF_S", "60"))
 # Batch sizing: we cap total chars per request to avoid huge prompts
 BATCH_MAX_ITEMS = int(os.environ.get("GEMINI_BATCH_MAX_ITEMS", "12"))
 BATCH_MAX_CHARS = int(os.environ.get("GEMINI_BATCH_MAX_CHARS", "18000"))
+LOG_RAW_GEMINI = os.environ.get("LLM_SENTIMENT_LOG_RAW", "0").strip() == "1"
 
 # Cache version (bump if you change prompt/schema)
 CACHE_VERSION = os.environ.get("LLM_SENTIMENT_CACHE_VERSION", "v3")
@@ -106,6 +107,7 @@ def _call_gemini_batch(input_items: List[dict]) -> Dict[str, Any]:
 
         "Evidence: short phrase (<= 12 words) copied from the text.\n"
         "Confidence: number 0..1.\n\n"
+        "You MUST return every input id exactly once in results.\n"
 
         f"INPUT:\n{json.dumps({'items': input_items}, ensure_ascii=False)}\n\n"
         f"Output JSON with this exact shape:\n{json.dumps(schema_hint)}"
@@ -120,6 +122,48 @@ def _call_gemini_batch(input_items: List[dict]) -> Dict[str, Any]:
     model_text = _extract_text(resp)
     obj = _loads_json_strict(model_text)
     return obj
+
+
+def _log_raw_response(item_id: str, response_obj: Any) -> None:
+    if not LOG_RAW_GEMINI:
+        return
+    raw_dir = CACHE_DIR / "raw"
+    raw_dir.mkdir(parents=True, exist_ok=True)
+    path = raw_dir / f"{item_id}.json"
+    try:
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(response_obj, f, ensure_ascii=False)
+    except Exception:
+        pass
+
+
+def _error_payload(targets: List[str], code: str) -> Dict[str, Any]:
+    neutral_map = {c: {"label": "neutral", "confidence": 0.0, "evidence": ""} for c in targets}
+    neutral_map["sentiment_error"] = {"code": code}
+    return neutral_map
+
+
+def _make_retry_batches(pending: List[dict]) -> List[List[dict]]:
+    retry_max_items = max(1, BATCH_MAX_ITEMS // 2)
+    retry_max_chars = max(1000, BATCH_MAX_CHARS // 2)
+    batches: List[List[dict]] = []
+    cur: List[dict] = []
+    cur_chars = 0
+
+    for it in pending:
+        tlen = len(it.get("text") or "")
+        if cur and (len(cur) >= retry_max_items or (cur_chars + tlen) > retry_max_chars):
+            batches.append(cur)
+            cur = []
+            cur_chars = 0
+
+        cur.append(it)
+        cur_chars += tlen
+
+    if cur:
+        batches.append(cur)
+
+    return batches
 
 
 def _post_gemini(payload: dict) -> dict:
@@ -350,17 +394,43 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
         if missing:
             print(f"[llm] Missing {len(missing)}/{len(batch)} ids, retrying in smaller chunks...")
             retry_chunk_size = int(os.environ.get("GEMINI_RETRY_CHUNK_SIZE", "3"))
+            retry_batches = _make_retry_batches(missing)
+
+            for chunk in retry_batches:
+                for i in range(0, len(chunk), retry_chunk_size):
+                    subchunk = chunk[i:i + retry_chunk_size]
+                    retry_input = [{"id": x["id"], "targets": x["targets"], "text": x["text"]} for x in subchunk]
+
+                    time.sleep(float(os.environ.get("GEMINI_THROTTLE_S", "0.6")))
+                    robj = _call_gemini_batch(retry_input)
+                    for retry_item in subchunk:
+                        _log_raw_response(retry_item["id"], robj)
+
+                    rresults = robj.get("results", [])
+                    if isinstance(rresults, list):
+                        for r in rresults:
+                            if not isinstance(r, dict):
+                                continue
+                            rid = r.get("id")
+                            if rid is None:
+                                continue
+                            rid = str(rid).strip()
+                            if rid:
+                                rmap[rid] = r.get("sentiment_by_country")
     
-            for i in range(0, len(missing), retry_chunk_size):
-                chunk = missing[i:i+retry_chunk_size]
-                retry_input = [{"id": x["id"], "targets": x["targets"], "text": x["text"]} for x in chunk]
-    
+        # Final fallback: single-item calls for any remaining missing
+        still_missing = [it for it in batch if it["id"] not in rmap]
+        for it in still_missing:
+            aid = it["id"]
+            try:
                 time.sleep(float(os.environ.get("GEMINI_THROTTLE_S", "0.6")))
-                robj = _call_gemini_batch(retry_input)
-    
-                rresults = robj.get("results", [])
-                if isinstance(rresults, list):
-                    for r in rresults:
+                sobj = _call_gemini_batch(
+                    [{"id": it["id"], "targets": it["targets"], "text": it["text"]}]
+                )
+                _log_raw_response(aid, sobj)
+                sresults = sobj.get("results", [])
+                if isinstance(sresults, list):
+                    for r in sresults:
                         if not isinstance(r, dict):
                             continue
                         rid = r.get("id")
@@ -369,20 +439,22 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
                         rid = str(rid).strip()
                         if rid:
                             rmap[rid] = r.get("sentiment_by_country")
-    
+            except Exception:
+                out[aid] = _error_payload(it["targets"], "gemini_single_failure")
+
         # Write outputs + cache (only cache if returned)
         for it in batch:
             aid = it["id"]
             targets = it["targets"]
             text = it["text"]
-    
+
             if aid in rmap:
                 sent_map_raw = rmap.get(aid, {})
                 normalized = _normalize_sentiment_map(sent_map_raw, targets)
                 out[aid] = normalized
                 _cache_set(text, targets, normalized)
             else:
-                out[aid] = {c: {"label": "neutral", "confidence": 0.0, "evidence": ""} for c in targets}
+                out.setdefault(aid, _error_payload(targets, "gemini_missing_id"))
     
         time.sleep(float(os.environ.get("GEMINI_THROTTLE_S", "0.6")))
 
