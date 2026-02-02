@@ -331,7 +331,7 @@ def process_articles():
                 }
                 article["sentiment_error"] = "No batch result returned for this item"
 
-            article["processed_at"] = utc_now_iso()
+            article["llm_attempted_at"] = utc_now_iso()
 
             with open(path, "w", encoding="utf-8") as f:
                 json.dump(article, f, indent=2, ensure_ascii=False)
