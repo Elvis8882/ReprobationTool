@@ -132,15 +132,45 @@ def _call_gemini_batch(input_items: List[dict]) -> Dict[str, Any]:
     return obj
 
 
-def _log_raw_response(item_id: str, response_obj: Any) -> None:
+def _batch_hash(input_items: List[dict] | None) -> str:
+    if not input_items:
+        return "noinput"
+    try:
+        payload = json.dumps(input_items, ensure_ascii=False, sort_keys=True)
+    except TypeError:
+        payload = json.dumps(str(input_items), ensure_ascii=False, sort_keys=True)
+    h = hashlib.sha256()
+    h.update(payload.encode("utf-8", errors="ignore"))
+    return h.hexdigest()[:12]
+
+
+def _log_raw_response(context: str, response_obj: Any, input_items: List[dict] | None = None) -> None:
     if not LOG_RAW_GEMINI:
         return
     raw_dir = CACHE_DIR / "raw"
     raw_dir.mkdir(parents=True, exist_ok=True)
-    path = raw_dir / f"{item_id}.json"
+    timestamp = time.strftime("%Y%m%d_%H%M%S")
+    batch_hash = _batch_hash(input_items)
+    path = raw_dir / f"{timestamp}_{batch_hash}_{context}.json"
+    extracted_text = None
+    try:
+        extracted_text = _extract_text(response_obj)
+    except Exception:
+        extracted_text = None
     try:
         with open(path, "w", encoding="utf-8") as f:
-            json.dump(response_obj, f, ensure_ascii=False)
+            json.dump(
+                {
+                    "context": context,
+                    "timestamp": timestamp,
+                    "batch_hash": batch_hash,
+                    "input_ids": [item.get("id") for item in input_items or []],
+                    "extracted_text": extracted_text,
+                    "response": response_obj,
+                },
+                f,
+                ensure_ascii=False,
+            )
     except Exception:
         pass
 
@@ -495,11 +525,17 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
         results = obj.get("results", obj)
         rmap = _map_results_to_ids(results, batch)
         if not rmap:
+            if LOG_RAW_GEMINI:
+                print("[llm] No mappable IDs in initial batch response; logging raw payload.")
+                _log_raw_response("initial_no_mappable", obj, input_items)
             raise RuntimeError("Invalid batch response: no mappable results")
     
         # Retry missing ids
         missing = [it for it in batch if it["id"] not in rmap]
         if missing:
+            if LOG_RAW_GEMINI:
+                print(f"[llm] Missing {len(missing)}/{len(batch)} ids in initial response; logging raw payload.")
+                _log_raw_response("initial_missing_ids", obj, input_items)
             print(f"[llm] Missing {len(missing)}/{len(batch)} ids, retrying in smaller chunks...")
             retry_chunk_size = int(os.environ.get("GEMINI_RETRY_CHUNK_SIZE", "3"))
             retry_batches = _make_retry_batches(missing)
@@ -511,8 +547,7 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
 
                     time.sleep(float(os.environ.get("GEMINI_THROTTLE_S", "0.6")))
                     robj = _call_gemini_batch(retry_input)
-                    for retry_item in subchunk:
-                        _log_raw_response(retry_item["id"], robj)
+                    _log_raw_response("retry_batch", robj, retry_input)
 
                     rresults = robj.get("results", [])
                     rmap.update(_map_results_to_ids(rresults, subchunk))
@@ -526,7 +561,7 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
                 sobj = _call_gemini_batch(
                     [{"id": it["id"], "targets": it["targets"], "text": it["text"]}]
                 )
-                _log_raw_response(aid, sobj)
+                _log_raw_response(f"single_{aid}", sobj, [{"id": it["id"], "targets": it["targets"], "text": it["text"]}])
                 sresults = sobj.get("results", [])
                 rmap.update(_map_results_to_ids(sresults, [it]))
             except Exception:
