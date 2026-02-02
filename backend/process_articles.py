@@ -2,7 +2,7 @@ import json
 import re
 from pathlib import Path
 from datetime import datetime, timezone
-from llm_sentiment import score_entity_sentiment_batch
+from llm_sentiment import get_cached_sentiment, score_entity_sentiment_batch
 
 import os
 
@@ -256,16 +256,27 @@ def process_articles():
                 json.dump(article, f, indent=2, ensure_ascii=False)
             processed += 1
         
-        elif len(items) < MAX_ITEMS_PER_RUN:
-            aid = article.get("id") or str(path)
-            items.append({"id": aid, "text": text, "targets": llm_targets})
-            item_paths[aid] = path
-            per_item_meta[aid] = {"scored": scored, "detected": detected}
-        
         else:
-            # Cap hit: leave unprocessed so it will be picked up next run
-            pass
-
+            cached = get_cached_sentiment(text, llm_targets)
+            if cached is not None:
+                article["sentiment_by_country"] = cached
+                article["llm_version"] = LLM_VERSION
+                article["llm_perspective"] = "EU"
+                article.pop("sentiment", None)
+                article.pop("sentiment_error", None)
+                article["processed_at"] = utc_now_iso()
+                article["llm_attempted_at"] = article["processed_at"]
+                with open(path, "w", encoding="utf-8") as f:
+                    json.dump(article, f, indent=2, ensure_ascii=False)
+                processed += 1
+            elif len(items) < MAX_ITEMS_PER_RUN:
+                aid = article.get("id") or str(path)
+                items.append({"id": aid, "text": text, "targets": llm_targets})
+                item_paths[aid] = path
+                per_item_meta[aid] = {"scored": scored, "detected": detected}
+            else:
+                # Cap hit: leave unprocessed so it will be picked up next run
+                pass
 
     if items:
         est_requests = (len(items) + BATCH_MAX_ITEMS - 1) // BATCH_MAX_ITEMS

@@ -74,6 +74,14 @@ def _cache_set(text: str, iso_targets: List[str], value: Dict[str, Any]) -> None
     except Exception:
         pass
 
+
+def get_cached_sentiment(text: str, iso_targets: List[str]) -> Dict[str, Any] | None:
+    cached = _cache_get(text, iso_targets)
+    if cached is None:
+        return None
+    return _normalize_sentiment_map(cached, iso_targets)
+
+
 def _call_gemini_batch(input_items: List[dict]) -> Dict[str, Any]:
     schema_hint = {
         "results": [
