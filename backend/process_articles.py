@@ -7,7 +7,7 @@ from llm_sentiment import get_cached_sentiment, score_entity_sentiment_batch
 import os
 
 # Hard ceiling (Gemini requests/day)
-DAILY_REQUEST_LIMIT = int(os.environ.get("GEMINI_DAILY_REQUEST_LIMIT", "20"))
+DAILY_REQUEST_LIMIT = int(os.environ.get("GEMINI_DAILY_REQUEST_LIMIT", "18"))
 
 # Keep headroom for retries / incidental calls
 REQUEST_HEADROOM = int(os.environ.get("GEMINI_REQUEST_HEADROOM", "2"))
