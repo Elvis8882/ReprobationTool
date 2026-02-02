@@ -114,39 +114,48 @@ def _call_gemini_batch(input_items: List[dict]) -> Dict[str, Any]:
     }
 
     prompt = (
-        "You are scoring COUNTRY-TARGETED sentiment from the standpoint of the European Union (EU).\n"
-        "Interpret events based on impact on EU interests: security, stability, rule of law, support for Ukraine, sanctions compliance.\n"
-        "Return ONLY valid JSON. No markdown. No extra text.\n\n"
-
-        "For each item, score ONLY the ISO2 codes in 'targets' using uppercase keys.\n"
-        "CRITICAL OUTPUT RULES:\n"
-        "- For each item you MUST output every target ISO2 exactly once.\n"
-        "- If a target country is NOT mentioned in the text: label='neutral', confidence=0.0, evidence=''.\n"
-        "- If mentioned but unclear EU relevance: label='neutral' with low confidence (<=0.3) and short evidence.\n"
-        "- Evidence must be '' only when the country is not mentioned.\n\n"
-        "Do not add extra countries.\n"
-        "Note: GB = United Kingdom (UK). Mentions of UK/United Kingdom/Britain => GB.\n\n"
-
-        "Labels: positive | negative | neutral | mixed\n"
-        "- positive: portrayed as supporting EU interests/values.\n"
-        "- negative: portrayed as harming EU interests/values.\n"
-        "- neutral: mentioned without a clear EU-relevant implication.\n"
-        "- mixed: both supportive and harmful EU-relevant signals.\n\n"
-
-        "Key rule: Do NOT treat military or political 'success' as positive if it harms EU interests.\n"
-        "Example: Russian military advances in Ukraine => negative for Russia (EU standpoint).\n"
-        "If unsure, choose neutral with low confidence.\n\n"
-
-        "Evidence: short phrase (<= 12 words) copied from the text; use '' if not mentioned.\n"
-        "Confidence: number 0..1.\n\n"
-        "You MUST return every input id exactly once in results.\n"
-        "Example output:\n"
-        "{\"results\":[{\"id\":\"example-1\",\"sentiment_by_country\":"
-        "{\"DE\":{\"label\":\"neutral\",\"confidence\":0.2,\"evidence\":\"short quote\"}}}]}\n\n"
-
-        f"INPUT:\n{json.dumps({'items': input_items}, ensure_ascii=False)}\n\n"
-        f"Output JSON with this exact shape:\n{json.dumps(schema_hint)}"
+        "Task: Score COUNTRY-TARGETED sentiment from the European Union (EU) perspective.\n"
+        "Assess impact on EU interests: security, stability, rule of law, support for Ukraine, sanctions compliance.\n\n"
+    
+        "OUTPUT RULES (STRICT):\n"
+        "- Return ONLY valid JSON. No markdown. No explanations.\n"
+        "- You MUST return one result per input item, identified by its id.\n"
+        "- For each item, you MUST output EVERY ISO2 code listed in targets exactly once.\n"
+        "- Use ONLY the provided targets. Do NOT add countries.\n"
+        "- Country keys MUST be uppercase ISO2.\n"
+        "- GB = United Kingdom (UK, Britain).\n\n"
+    
+        "SENTIMENT LOGIC:\n"
+        "- positive: supports EU interests/values.\n"
+        "- negative: harms EU interests/values.\n"
+        "- neutral: mentioned without clear EU-relevant impact.\n"
+        "- mixed: both supportive and harmful signals.\n"
+        "- Military or political success that harms EU interests is NEGATIVE.\n\n"
+    
+        "DEFAULTS:\n"
+        "- If a target country is NOT mentioned: label='neutral', confidence=0.0, evidence=''.\n"
+        "- If mentioned but EU impact is unclear: label='neutral', confidence<=0.3.\n\n"
+    
+        "FIELDS:\n"
+        "- label: positive | negative | neutral | mixed\n"
+        "- confidence: number from 0.0 to 1.0\n"
+        "- evidence: short quote (<=12 words) from text; use '' only if not mentioned.\n\n"
+    
+        "RESPONSE FORMAT:\n"
+        "{"
+        "\"results\": ["
+        "{"
+        "\"id\": \"<input id>\","
+        "\"sentiment_by_country\": {"
+        "\"ISO2\": {\"label\": \"...\", \"confidence\": 0.0, \"evidence\": \"...\"}"
+        "}"
+        "}"
+        "]"
+        "}\n\n"
+    
+        f"INPUT:\n{json.dumps({'items': input_items}, ensure_ascii=False)}"
     )
+
 
     payload = {
         "contents": [{"role": "user", "parts": [{"text": prompt}]}],
@@ -620,9 +629,43 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
     # Batch the pending calls
     for batch in _make_batches(pending):
         input_items = [{"id": it["id"], "targets": it["targets"], "text": it["text"]} for it in batch]
-    
         print(f"[llm] Sending batch: {len(batch)} items, total_chars={sum(len(x['text']) for x in batch)}")
-        obj = _call_gemini_batch(input_items)
+    
+            try:
+            obj = _call_gemini_batch(input_items)
+        except Exception as e:
+            if LOG_RAW_GEMINI:
+                print(f"[llm] Batch exception: {type(e).__name__}: {str(e)[:400]}")
+                _log_raw_response("batch_exception", {"error": str(e)}, input_items)
+
+            sub_batches = _make_retry_batches(batch)
+            for sb in sub_batches:
+                sb_input = [{"id": x["id"], "targets": x["targets"], "text": x["text"]} for x in sb]
+                try:
+                    time.sleep(float(os.environ.get("GEMINI_THROTTLE_S", "0.6")))
+                    sobj = _call_gemini_batch(sb_input)
+
+                    results = sobj.get("results", sobj)
+                    rmap = _map_results_to_ids(results, sb)
+
+                    for it2 in sb:
+                        aid2 = it2["id"]
+                        if aid2 in rmap:
+                            norm = _normalize_sentiment_map(rmap[aid2], it2["targets"])
+                            out[aid2] = norm
+                            _cache_set(it2["text"], it2["targets"], norm)
+                        else:
+                            out[aid2] = _error_payload(it2["targets"], "gemini_missing_id")
+                except Exception as e2:
+                    if LOG_RAW_GEMINI:
+                        print(f"[llm] Sub-batch exception: {type(e2).__name__}: {str(e2)[:400]}")
+                        _log_raw_response("sub_batch_exception", {"error": str(e2)}, sb_input)
+                    for it2 in sb:
+                        out[it2["id"]] = _error_payload(it2["targets"], f"gemini_batch_exception:{type(e2).__name__}")
+
+            continue
+
+
     
         results = obj.get("results", obj)
         rmap = _map_results_to_ids(results, batch)
