@@ -23,7 +23,7 @@ LOG_RAW_GEMINI = os.environ.get("LLM_SENTIMENT_LOG_RAW", "0").strip() == "1"
 # Cache version (bump if you change prompt/schema)
 CACHE_VERSION = os.environ.get("LLM_SENTIMENT_CACHE_VERSION", "v3-eu-1")
 
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite").strip()
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash").strip()
 if not GEMINI_MODEL.startswith("models/"):
     GEMINI_MODEL = f"models/{GEMINI_MODEL}"
 
