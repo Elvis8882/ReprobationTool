@@ -49,6 +49,25 @@ def _cache_key(text: str, iso_targets: List[str]) -> str:
     h.update(text.encode("utf-8", errors="ignore"))
     return h.hexdigest()
 
+def _ensure_all_ids_present(obj: Any, input_items: List[dict]) -> None:
+    results = _unwrap_results_container(obj)
+    want = [str(it.get("id")).strip() for it in input_items]
+    want_set = set(want)
+
+    got_set = set()
+    if isinstance(results, list):
+        for r in results:
+            if isinstance(r, dict) and r.get("id") is not None:
+                got_set.add(str(r["id"]).strip())
+    elif isinstance(results, dict):
+        # could be id->payload map
+        for k in results.keys():
+            got_set.add(str(k).strip())
+
+    missing = sorted(list(want_set - got_set))
+    if missing:
+        raise RuntimeError(f"Gemini batch response missing ids: {missing[:20]}{'...' if len(missing)>20 else ''}")
+
 
 def _cache_get(text: str, iso_targets: List[str]) -> Dict[str, Any] | None:
     key = _cache_key(text, iso_targets)
@@ -100,6 +119,11 @@ def _call_gemini_batch(input_items: List[dict]) -> Dict[str, Any]:
         "Return ONLY valid JSON. No markdown. No extra text.\n\n"
 
         "For each item, score ONLY the ISO2 codes in 'targets' using uppercase keys.\n"
+        "CRITICAL OUTPUT RULES:\n"
+        "- For each item you MUST output every target ISO2 exactly once.\n"
+        "- If a target country is NOT mentioned in the text: label='neutral', confidence=0.0, evidence=''.\n"
+        "- If mentioned but unclear EU relevance: label='neutral' with low confidence (<=0.3) and short evidence.\n"
+        "- Evidence must be '' only when the country is not mentioned.\n\n"
         "Do not add extra countries.\n"
         "Note: GB = United Kingdom (UK). Mentions of UK/United Kingdom/Britain => GB.\n\n"
 
@@ -113,7 +137,7 @@ def _call_gemini_batch(input_items: List[dict]) -> Dict[str, Any]:
         "Example: Russian military advances in Ukraine => negative for Russia (EU standpoint).\n"
         "If unsure, choose neutral with low confidence.\n\n"
 
-        "Evidence: short phrase (<= 12 words) copied from the text.\n"
+        "Evidence: short phrase (<= 12 words) copied from the text; use '' if not mentioned.\n"
         "Confidence: number 0..1.\n\n"
         "You MUST return every input id exactly once in results.\n"
         "Example output:\n"
@@ -126,14 +150,38 @@ def _call_gemini_batch(input_items: List[dict]) -> Dict[str, Any]:
 
     payload = {
         "contents": [{"role": "user", "parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.2, "maxOutputTokens": 8000}, "responseMimeType": "application/json"
+        "generationConfig": {
+            "temperature": 0.2,
+            "maxOutputTokens": 4096,
+            "responseMimeType": "application/json",
+            # Optional but useful:
+            # "stopSequences": ["\n\nINPUT:"]
+        },
     }
+
 
     resp = _post_gemini(payload)
     model_text = _extract_text(resp)
-    obj = _loads_json_strict(model_text)
+    
+    try:
+        obj = _loads_json_strict(model_text)
+    except Exception:
+        if LOG_RAW_GEMINI:
+            # log the raw model text even if it's not valid JSON
+            _log_raw_response("json_parse_failure", resp, input_items)
+            raw_dir = CACHE_DIR / "raw"
+            raw_dir.mkdir(parents=True, exist_ok=True)
+            timestamp = time.strftime("%Y%m%d_%H%M%S")
+            batch_hash = _batch_hash(input_items)
+            with open(raw_dir / f"{timestamp}_{batch_hash}_model_text.txt", "w", encoding="utf-8") as f:
+                f.write(model_text)
+        raise
+    
     _validate_batch_response(obj)
+    _ensure_all_ids_present(obj, input_items)
     return obj
+
+
 
 
 def _batch_hash(input_items: List[dict] | None) -> str:
@@ -259,9 +307,17 @@ def _post_gemini(payload: dict) -> dict:
 
 def _extract_text(resp: dict) -> str:
     try:
-        return resp["candidates"][0]["content"]["parts"][0]["text"]
+        parts = resp["candidates"][0]["content"]["parts"]
+        texts = []
+        for p in parts:
+            if "text" in p and isinstance(p["text"], str):
+                texts.append(p["text"])
+        if texts:
+            return "\n".join(texts)
     except Exception:
-        raise RuntimeError(f"Unexpected Gemini response structure: {str(resp)[:800]}")
+        pass
+    raise RuntimeError(f"Unexpected Gemini response structure: {json.dumps(resp, ensure_ascii=False)[:1200]}")
+
 
 
 def _loads_json_strict(s: str) -> dict:
@@ -473,9 +529,12 @@ def _map_results_to_ids(results: Any, batch: List[dict]) -> Dict[str, Any]:
         for r in results:
             rid = str(r.get("id")).strip()
             payload = _coerce_sentiment_payload(r)
+            if payload is None:
+                payload = _find_nested_sentiment_payload(r)
             if rid and payload is not None:
                 rmap[rid] = payload
         return rmap
+
 
     if len(results) == len(batch):
         for idx, r in enumerate(results):
