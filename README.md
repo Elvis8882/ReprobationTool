@@ -15,6 +15,15 @@ ReprobationTool is a lightweight web dashboard that visualizes EU and nearby cou
 ## Running the pipeline
 The data pipeline is intended to run in sequence: ingest feeds, analyze articles for sentiment, and aggregate country summaries for the UI. Each stage is handled by the backend scripts in the order listed above.
 
+### Rescoring everything with AI
+If you need to re-run AI scoring for **all** stored articles, reset the processed fields and cache first, then re-run the normal pipeline. The per-run LLM cap in `process_articles.py` (driven by `GEMINI_DAILY_REQUEST_LIMIT`) still applies, so large backfills may require multiple runs across days.
+
+```bash
+python backend/rescore_all.py
+python backend/process_articles.py
+python backend/score_countries.py
+```
+
 ## Repository layout
 - `index.html`, `styles.css`, `script.js`: frontend map UI and popups.
 - `countries/`: per-country JSON outputs consumed by the UI.
