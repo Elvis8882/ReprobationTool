@@ -36,7 +36,7 @@ jobs:
         run: python backend/process_articles.py
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-flash-latest
+          GEMINI_MODEL: gemini-2.5-flash-lite
           GEMINI_DAILY_REQUEST_LIMIT: "20"
           GEMINI_REQUEST_HEADROOM: "2"
           GEMINI_BATCH_MAX_ITEMS: "12"
