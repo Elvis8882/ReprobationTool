@@ -631,7 +631,7 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
         input_items = [{"id": it["id"], "targets": it["targets"], "text": it["text"]} for it in batch]
         print(f"[llm] Sending batch: {len(batch)} items, total_chars={sum(len(x['text']) for x in batch)}")
     
-            try:
+        try:
             obj = _call_gemini_batch(input_items)
         except Exception as e:
             if LOG_RAW_GEMINI:
