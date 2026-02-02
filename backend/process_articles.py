@@ -318,8 +318,13 @@ def process_articles():
                 article = json.load(f)
         
             sent_map = results.get(aid)
-        
-            if isinstance(sent_map, dict) and sent_map:
+            is_ok = (
+            isinstance(sent_map, dict)
+            and bool(sent_map)
+            and "sentiment_error" not in sent_map  # ✅ don't treat error payload as success
+            )
+                
+            if is_ok:
                 # ✅ Success
                 article["sentiment_by_country"] = sent_map
                 article["llm_version"] = LLM_VERSION
