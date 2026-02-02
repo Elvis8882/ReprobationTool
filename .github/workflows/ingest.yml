@@ -39,8 +39,8 @@ jobs:
           GEMINI_MODEL: gemini-2.5-flash-lite
           GEMINI_DAILY_REQUEST_LIMIT: "20"
           GEMINI_REQUEST_HEADROOM: "2"
-          GEMINI_BATCH_MAX_ITEMS: "12"
-          GEMINI_BATCH_MAX_CHARS: "18000"
+          GEMINI_BATCH_MAX_ITEMS: "6"
+          GEMINI_BATCH_MAX_CHARS: "12000"
           GEMINI_THROTTLE_S: "0.8"
           LLM_SENTIMENT_CACHE_VERSION: "v3-eu-1"
 
