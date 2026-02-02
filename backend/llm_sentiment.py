@@ -224,26 +224,27 @@ def score_entity_sentiment(text: str, iso_targets: List[str]) -> Dict[str, Any]:
     return out
 
 
-def _make_batches(items: List[dict]) -> List[List[dict]]:
+def _make_batches(pending: List[dict]) -> List[List[dict]]:
     batches: List[List[dict]] = []
     cur: List[dict] = []
     cur_chars = 0
 
-    for it in items:
-        t = it.get("text") or ""
-        # rough char cost: text + targets + overhead
-        it_cost = len(t) + 100 + 4 * len(it.get("targets") or [])
-        if cur and (len(cur) >= BATCH_MAX_ITEMS or (cur_chars + it_cost) > BATCH_MAX_CHARS):
+    for it in pending:
+        tlen = len(it.get("text") or "")
+        # if single item is too large, still send it alone
+        if cur and (len(cur) >= BATCH_MAX_ITEMS or (cur_chars + tlen) > BATCH_MAX_CHARS):
             batches.append(cur)
             cur = []
             cur_chars = 0
+
         cur.append(it)
-        cur_chars += it_cost
+        cur_chars += tlen
 
     if cur:
         batches.append(cur)
 
     return batches
+
 
 
 def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]:
@@ -327,6 +328,7 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
             "generationConfig": {"temperature": 0.2, "maxOutputTokens": 2500},
         }
 
+        print(f"[llm] Sending batch: {len(batch)} items, total_chars={sum(len(x['text']) for x in batch)}")
         resp = _post_gemini(payload)
         model_text = _extract_text(resp)
         obj = _loads_json_strict(model_text)
@@ -341,8 +343,12 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
             if not isinstance(r, dict):
                 continue
             rid = r.get("id")
-            if isinstance(rid, str):
+            if rid is None:
+                continue
+            rid = str(rid).strip()
+            if rid:
                 rmap[rid] = r.get("sentiment_by_country")
+
 
         # Write outputs + cache; default neutrals for missing ids
         for it in batch:
