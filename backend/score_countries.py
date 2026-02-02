@@ -2,6 +2,7 @@ import json
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+REQUIRE_LLM_VERSION = "v3-eu"
 BASE_DIR = Path(__file__).resolve().parent.parent
 ARTICLES_DIR = BASE_DIR / "data" / "articles"
 COUNTRIES_DIR = BASE_DIR / "countries"
@@ -107,7 +108,12 @@ def main():
     for path in iter_articles():
         a = load_json(path)
 
-        if not a.get("processed_at"):
+        
+        if not a.get("processed_at") or a.get("sentiment_error"):
+            skipped_unprocessed += 1
+            continue
+
+        if a.get("llm_version") != REQUIRE_LLM_VERSION:
             skipped_unprocessed += 1
             continue
 
@@ -133,13 +139,12 @@ def main():
         if not hit_any:
             skipped_no_targets += 1
             continue
-        
-        sent_map = a.get("sentiment_by_country") or {}
-        c_sent = sent_map.get(c) or {}
-        label = (c_sent.get("label") or "neutral").lower().strip()
+    
 
+        sent_map = a.get("sentiment_by_country")
         if not isinstance(sent_map, dict):
             sent_map = {}
+
 
         # If an article was processed but has no LLM output, treat as neutral for all
         # (this can happen if you used degraded mode on API failure)
