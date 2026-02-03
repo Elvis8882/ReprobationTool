@@ -36,14 +36,21 @@ jobs:
         run: python backend/process_articles.py
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-2.5-flash
-          GEMINI_DAILY_REQUEST_LIMIT: "18"
+          GEMINI_MODEL_PRIMARY: gemini-2.5-flash
+          GEMINI_MODEL_FALLBACK: gemini-2.5-flash-lite
+        
+          # Respect RPM: flash ~5 RPM => ~13s; lite ~10 RPM => ~7s
+          GEMINI_THROTTLE_PRIMARY_S: "13.0"
+          GEMINI_THROTTLE_FALLBACK_S: "7.0"
+        
+          # Keep your daily cap values (per-run queue sizing is in process_articles.py)
+          GEMINI_DAILY_REQUEST_LIMIT: "20"
           GEMINI_REQUEST_HEADROOM: "2"
+          
           GEMINI_BATCH_MAX_ITEMS: "12"
           GEMINI_BATCH_MAX_CHARS: "18000"
-          GEMINI_THROTTLE_S: "13"
+        
           LLM_SENTIMENT_CACHE_VERSION: "v3-eu-1"
-          LLM_SENTIMENT_LOG_RAW: "1"
 
       - name: Score countries (write /countries/*.json)
         run: python backend/score_countries.py
