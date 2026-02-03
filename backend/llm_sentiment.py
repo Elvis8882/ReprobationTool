@@ -183,6 +183,10 @@ def _call_gemini_batch(input_items: List[dict]) -> Dict[str, Any]:
 
 
     resp, used_model = _post_with_failover(payload)
+
+    if LOG_RAW_GEMINI:
+        print(f"[llm] Gemini model used: {used_model}")
+
     model_text = _extract_text(resp)
     
     try:
@@ -685,7 +689,6 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
             for sb in sub_batches:
                 sb_input = [{"id": x["id"], "targets": x["targets"], "text": x["text"]} for x in sb]
                 try:
-                    time.sleep(float(os.environ.get("GEMINI_THROTTLE_S", "0.6")))
                     sobj = _call_gemini_batch(sb_input)
 
                     results = sobj.get("results", sobj)
@@ -733,7 +736,6 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
                     subchunk = chunk[i:i + retry_chunk_size]
                     retry_input = [{"id": x["id"], "targets": x["targets"], "text": x["text"]} for x in subchunk]
 
-                    time.sleep(float(os.environ.get("GEMINI_THROTTLE_S", "0.6")))
                     robj = _call_gemini_batch(retry_input)
                     _log_raw_response("retry_batch", robj, retry_input)
 
@@ -745,7 +747,6 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
         for it in still_missing:
             aid = it["id"]
             try:
-                time.sleep(float(os.environ.get("GEMINI_THROTTLE_S", "0.6")))
                 sobj = _call_gemini_batch(
                     [{"id": it["id"], "targets": it["targets"], "text": it["text"]}]
                 )
