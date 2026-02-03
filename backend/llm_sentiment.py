@@ -30,6 +30,7 @@ THROTTLE_PRIMARY = float(os.environ.get("GEMINI_THROTTLE_PRIMARY_S", "13.0"))
 THROTTLE_FALLBACK = float(os.environ.get("GEMINI_THROTTLE_FALLBACK_S", "7.0"))
 
 PRIMARY_EXHAUSTED = False  # flip to True after quota 429 so we stop trying primary for rest of run
+FALLBACK_EXHAUSTED = False  # flip to True after quota 429 on fallback
 
 
 def _is_quota_exhausted_429(resp: requests.Response) -> bool:
@@ -37,6 +38,17 @@ def _is_quota_exhausted_429(resp: requests.Response) -> bool:
         return False
     body = (resp.text or "").lower()
     return ("exceeded your current quota" in body) or ("quota exceeded" in body)
+
+def _is_quota_exhausted_error(exc: Exception) -> bool:
+    return str(exc).startswith("quota_exhausted::")
+
+def _quota_exhausted_model(exc: Exception) -> str | None:
+    # format: quota_exhausted::<model>::<snippet>
+    s = str(exc)
+    if not s.startswith("quota_exhausted::"):
+        return None
+    parts = s.split("::", 3)
+    return parts[1] if len(parts) > 1 else None
 
 
 def _endpoint(model: str) -> str:
@@ -340,25 +352,46 @@ def _sleep_for_model(model: str) -> None:
 
 
 def _post_with_failover(payload: dict) -> tuple[dict, str]:
-    global PRIMARY_EXHAUSTED
+    global PRIMARY_EXHAUSTED, FALLBACK_EXHAUSTED
 
-    # If we already learned primary is exhausted, go straight to fallback
+    # If both exhausted, stop immediately (prevents endless retry loops)
+    if PRIMARY_EXHAUSTED and FALLBACK_EXHAUSTED:
+        raise RuntimeError("gemini_budget_exhausted_all_models")
+
+    # If primary exhausted, go straight to fallback (unless fallback exhausted too)
     if PRIMARY_EXHAUSTED:
+        if FALLBACK_EXHAUSTED:
+            raise RuntimeError("gemini_budget_exhausted_all_models")
         _sleep_for_model(FALLBACK_MODEL)
-        return _post_gemini(payload, FALLBACK_MODEL), FALLBACK_MODEL
+        try:
+            return _post_gemini(payload, FALLBACK_MODEL), FALLBACK_MODEL
+        except RuntimeError as e:
+            if _is_quota_exhausted_error(e) and _quota_exhausted_model(e) == FALLBACK_MODEL:
+                FALLBACK_EXHAUSTED = True
+                raise RuntimeError("gemini_budget_exhausted_all_models")
+            raise
 
-    # Try primary
+    # Otherwise try primary first
     _sleep_for_model(PRIMARY_MODEL)
     try:
         return _post_gemini(payload, PRIMARY_MODEL), PRIMARY_MODEL
     except RuntimeError as e:
-        msg = str(e)
-        if msg.startswith("quota_exhausted::"):
+        # Only failover on quota exhaustion from primary
+        if _is_quota_exhausted_error(e) and _quota_exhausted_model(e) == PRIMARY_MODEL:
             PRIMARY_EXHAUSTED = True
-            _sleep_for_model(FALLBACK_MODEL)
-            return _post_gemini(payload, FALLBACK_MODEL), FALLBACK_MODEL
-        raise
 
+            if FALLBACK_EXHAUSTED:
+                raise RuntimeError("gemini_budget_exhausted_all_models")
+
+            _sleep_for_model(FALLBACK_MODEL)
+            try:
+                return _post_gemini(payload, FALLBACK_MODEL), FALLBACK_MODEL
+            except RuntimeError as e2:
+                if _is_quota_exhausted_error(e2) and _quota_exhausted_model(e2) == FALLBACK_MODEL:
+                    FALLBACK_EXHAUSTED = True
+                    raise RuntimeError("gemini_budget_exhausted_all_models")
+                raise
+        raise
 
 
 def _extract_text(resp: dict) -> str:
@@ -681,38 +714,50 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
         try:
             obj = _call_gemini_batch(input_items)
         except Exception as e:
-            if LOG_RAW_GEMINI:
-                print(f"[llm] Batch exception: {type(e).__name__}: {str(e)[:400]}")
-                _log_raw_response("batch_exception", {"error": str(e)}, input_items)
-
-            sub_batches = _make_retry_batches(batch)
-            for sb in sub_batches:
-                sb_input = [{"id": x["id"], "targets": x["targets"], "text": x["text"]} for x in sb]
-                try:
-                    sobj = _call_gemini_batch(sb_input)
-
-                    results = sobj.get("results", sobj)
-                    rmap = _map_results_to_ids(results, sb)
-
-                    for it2 in sb:
-                        aid2 = it2["id"]
-                        if aid2 in rmap:
-                            norm = _normalize_sentiment_map(rmap[aid2], it2["targets"])
-                            out[aid2] = norm
-                            _cache_set(it2["text"], it2["targets"], norm)
-                        else:
-                            out[aid2] = _error_payload(it2["targets"], "gemini_missing_id")
-                except Exception as e2:
-                    if LOG_RAW_GEMINI:
-                        print(f"[llm] Sub-batch exception: {type(e2).__name__}: {str(e2)[:400]}")
-                        _log_raw_response("sub_batch_exception", {"error": str(e2)}, sb_input)
-                    for it2 in sb:
-                        out[it2["id"]] = _error_payload(it2["targets"], f"gemini_batch_exception:{type(e2).__name__}")
-
-            continue
-
-
-    
+            if str(e) == "gemini_budget_exhausted_all_models":
+                # mark batch as budget exhausted and stop further batches
+                for it2 in batch:
+                    out[it2["id"]] = _error_payload(it2["targets"], "gemini_budget_exhausted")
+                break  # stop processing more batches
+            else:
+                if LOG_RAW_GEMINI:
+                    print(f"[llm] Batch exception: {type(e).__name__}: {str(e)[:400]}")
+                    _log_raw_response("batch_exception", {"error": str(e)}, input_items)
+        
+                sub_batches = _make_retry_batches(batch)
+                for sb in sub_batches:
+                    sb_input = [{"id": x["id"], "targets": x["targets"], "text": x["text"]} for x in sb]
+                    try:
+                        sobj = _call_gemini_batch(sb_input)
+        
+                        results = sobj.get("results", sobj)
+                        rmap = _map_results_to_ids(results, sb)
+        
+                        for it2 in sb:
+                            aid2 = it2["id"]
+                            if aid2 in rmap:
+                                norm = _normalize_sentiment_map(rmap[aid2], it2["targets"])
+                                out[aid2] = norm
+                                _cache_set(it2["text"], it2["targets"], norm)
+                            else:
+                                out[aid2] = _error_payload(it2["targets"], "gemini_missing_id")
+        
+                    except Exception as e2:
+                        # IMPORTANT: also stop if budgets are exhausted here
+                        if str(e2) == "gemini_budget_exhausted_all_models":
+                            for it2 in sb:
+                                out[it2["id"]] = _error_payload(it2["targets"], "gemini_budget_exhausted")
+                            break
+        
+                        if LOG_RAW_GEMINI:
+                            print(f"[llm] Sub-batch exception: {type(e2).__name__}: {str(e2)[:400]}")
+                            _log_raw_response("sub_batch_exception", {"error": str(e2)}, sb_input)
+        
+                        for it2 in sb:
+                            out[it2["id"]] = _error_payload(it2["targets"], f"gemini_batch_exception:{type(e2).__name__}")
+        
+                continue  # move to next batch
+        
         results = obj.get("results", obj)
         rmap = _map_results_to_ids(results, batch)
         if not rmap:
@@ -769,8 +814,6 @@ def score_entity_sentiment_batch(items: List[dict]) -> Dict[str, Dict[str, Any]]
                 _cache_set(text, targets, normalized)
             else:
                 out.setdefault(aid, _error_payload(targets, "gemini_missing_id"))
-    
-        time.sleep(float(os.environ.get("GEMINI_THROTTLE_S", "0.6")))
 
 
     return out
