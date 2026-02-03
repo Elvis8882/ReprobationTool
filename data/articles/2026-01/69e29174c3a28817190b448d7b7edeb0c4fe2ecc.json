@@ -14,5 +14,21 @@
   "countries_scored": [
     "DK",
     "GL"
-  ]
+  ],
+  "sentiment_by_country": {
+    "DK": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "US, Denmark Start Talks Over Greenland Deal"
+    },
+    "GL": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Greenland Deal To Assuage Trump"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-03T08:23:52+00:00",
+  "llm_attempted_at": "2026-02-03T08:23:52+00:00"
 }

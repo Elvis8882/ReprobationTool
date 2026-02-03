@@ -19,6 +19,30 @@
     "LT",
     "LV"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_attempted_at": "2026-02-02T15:08:58+00:00"
+  "llm_attempted_at": "2026-02-03T08:23:52+00:00",
+  "sentiment_by_country": {
+    "DK": {
+      "label": "positive",
+      "confidence": 0.7,
+      "evidence": "Latvia’s president hopes Denmark and the U.S. will reach an agreement"
+    },
+    "GL": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Greenland's status will be left aside during negotiations"
+    },
+    "LT": {
+      "label": "positive",
+      "confidence": 0.7,
+      "evidence": "Lithuanian president hopes Greenland's status will be left aside"
+    },
+    "LV": {
+      "label": "positive",
+      "confidence": 0.7,
+      "evidence": "Latvia’s president hopes Denmark and the U.S. will reach an agreement"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-03T08:23:52+00:00"
 }

@@ -1,16 +1,39 @@
 {
   "country": "IQ",
   "score": 90,
-  "score_label": "Not enough data",
-  "assessment": "No information available",
-  "trend": null,
-  "sources": 0,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": 0,
+  "sources": 2,
   "sentiment": {
     "positive": 0,
-    "neutral": 0,
+    "neutral": 2,
     "negative": 0
   },
-  "latest_articles": [],
+  "latest_articles": [
+    {
+      "id": "ff295d1a51ce097926f8efaa9142685750a93f14",
+      "title": "From Syria To Qatar: All US Military Bases In Middle East",
+      "summary": "The United States has troops in Iraq's autonomous Kurdish region.",
+      "url": "https://www.ndtv.com/world-news/from-syria-to-qatar-all-us-military-bases-in-middle-east-10910227#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-01-29T18:51:38+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "The United States has troops in Iraq's autonomous Kurdish region."
+    },
+    {
+      "id": "35d667f203ee0abf3ad365fd0dafa0af64ba9733",
+      "title": "Iraq’s Nominee for Prime Minister Rejects Trump Threats",
+      "summary": "Nuri Kamal al-Maliki, a former prime minister, was nominated to lead Iraq once again, but President Trump said he would cut U.S. support if that went ahead.",
+      "url": "https://www.nytimes.com/2026/01/28/world/middleeast/trump-iraq-prime-minister-al-maliki.html",
+      "source": "NYT > World News",
+      "published_at": "2026-01-28T23:40:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    }
+  ],
   "window_days": 90,
-  "last_updated": "2026-02-02T15:08:58Z"
+  "last_updated": "2026-02-03T08:23:52Z"
 }

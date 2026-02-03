@@ -20,5 +20,36 @@
     "IE",
     "NO",
     "PL"
-  ]
+  ],
+  "sentiment_by_country": {
+    "ES": {
+      "label": "negative",
+      "confidence": 0.5,
+      "evidence": "Spain push for import bans over overfishing"
+    },
+    "GB": {
+      "label": "negative",
+      "confidence": 0.5,
+      "evidence": "UK and Norway remain deadlocked over Atlantic fishing rights"
+    },
+    "IE": {
+      "label": "negative",
+      "confidence": 0.5,
+      "evidence": "Ireland push for import bans over overfishing"
+    },
+    "NO": {
+      "label": "negative",
+      "confidence": 0.5,
+      "evidence": "Norway remain deadlocked over Atlantic fishing rights"
+    },
+    "PL": {
+      "label": "negative",
+      "confidence": 0.5,
+      "evidence": "Poland push for import bans over overfishing"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-03T08:23:52+00:00",
+  "llm_attempted_at": "2026-02-03T08:23:52+00:00"
 }

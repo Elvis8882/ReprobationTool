@@ -16,5 +16,26 @@
     "DK",
     "EE",
     "GL"
-  ]
+  ],
+  "sentiment_by_country": {
+    "DK": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Queen Mary of Denmark makes her debut"
+    },
+    "EE": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Queen Mary Rewears Her Wedding Tiara in Estonia"
+    },
+    "GL": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "protests against US over Greenland"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-03T08:23:52+00:00",
+  "llm_attempted_at": "2026-02-03T08:23:52+00:00"
 }

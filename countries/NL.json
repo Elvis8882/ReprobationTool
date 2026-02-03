@@ -1,14 +1,14 @@
 {
   "country": "NL",
-  "score": 90,
+  "score": 88,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 18,
+  "trend": -2,
+  "sources": 27,
   "sentiment": {
-    "positive": 0,
-    "neutral": 18,
-    "negative": 0
+    "positive": 2,
+    "neutral": 24,
+    "negative": 1
   },
   "latest_articles": [
     {
@@ -86,6 +86,17 @@
       "sentiment_fallback": true
     },
     {
+      "id": "f4276e1eb49f766a02c2c46d3f58e2b42eeb3319",
+      "title": "Healthcare hit as incoming Dutch coalition promises defence spending spree",
+      "summary": "\"We are not cutting back, we are simply preventing an enormous explosion in the healthcare budget,\" presumptive prime minister Rob Jetten said.",
+      "url": "https://www.euractiv.com/news/healthcare-hit-as-incoming-dutch-coalition-promises-defence-spending-spree/",
+      "source": "Euractiv",
+      "published_at": "2026-01-31T16:13:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Healthcare hit as incoming Dutch coalition promises defence spending spree"
+    },
+    {
       "id": "963f1f8ef16048540c405751ed5baeda6017822f",
       "title": "Belarusian balloons full of cigarettes pose NATO’s latest security threat",
       "summary": "A rising number of incursions into NATO airspace has led some officials to allege an escalation of Russian hybrid attacks against the alliance and the European Union.",
@@ -96,6 +107,28 @@
       "sentiment_fallback": true
     },
     {
+      "id": "1574da05a8627a1ae02e735cff07ba55e7583f20",
+      "title": "The Netherlands Is Getting a New Government. Will It Last?",
+      "summary": "Rob Jetten, a 38-year-old centrist, is poised to be the youngest prime minister in Dutch history. But his government will be in a daunting position.",
+      "url": "https://www.nytimes.com/2026/01/30/world/europe/netherlands-government-rob-jetten.html",
+      "source": "NYT > World News",
+      "published_at": "2026-01-30T14:43:05+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "The Netherlands Is Getting a New Government"
+    },
+    {
+      "id": "e5023a1aae49446bda82f434c022053dece42f0f",
+      "title": "Dutch watchdog probes Roblox over child safeguarding concerns",
+      "summary": "Consumer authority opens Digital Services Act probe of the popular social gaming platform",
+      "url": "https://www.euractiv.com/news/dutch-watchdog-probes-roblox-over-child-safeguarding-concerns/",
+      "source": "Euractiv",
+      "published_at": "2026-01-30T10:57:17+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "Dutch watchdog probes Roblox over child safeguarding concerns"
+    },
+    {
       "id": "94ddbd78fe8c68a2c5128e265a01ac1ab8ef437d",
       "title": "Contingent liabilities and non-performing loans in 2024 - European Commission",
       "summary": "Contingent liabilities and non-performing loans in 2024&nbsp;&nbsp;European Commission",
@@ -104,38 +137,8 @@
       "published_at": "2026-01-30T10:01:14+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "80a81f18c09a727ce76fc944a90e455abd55ba49",
-      "title": "Now available: first 2026 data on minimum wages - European Commission",
-      "summary": "Now available: first 2026 data on minimum wages&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhcjIyLWtJdHQ5c1VxUS1aZHJuX2tieVVJWVRCc3BFTEl1TGV5cWhzZkltb08wYjgxa0pDZDI4MHJsX282eC1tR2N2V3AtcGdTQjllcXYwZ3dXYXN5REdkcHBfNGNfNFppV0w4ekFRTk9pOHpHQWJLRjJQYzdfdw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-01-30T10:01:14+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f4400e8369216e9a2342287556079aef41490776",
-      "title": "Trade balance soared 94% in November and was higher than a year ago, despite tariff efforts",
-      "summary": "The U.S. deficit with its global trading partners nearly doubled in November as the shortfall with the European Union swelled.",
-      "url": "https://www.cnbc.com/2026/01/29/trade-balance-soared-94percent-in-november-and-was-higher-than-a-year-ago-despite-tariff-efforts.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-01-29T14:41:01+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "8a28b95f400746da9aba9d3d0017ddd272071c17",
-      "title": "EU proposals for free extra cabin bags on planes ‘lunatic idea’, says easyJet",
-      "summary": "Giving passengers right to additional carry-on baggage would be ‘terrible for the consumer’, warns airline’s CEOEasyJet said proposals to enforce free additional cabin bags on planes across Europe are a “lunatic idea”, w…",
-      "url": "https://www.theguardian.com/business/2026/jan/29/eu-proposals-to-free-extra-cabin-bags-on-planes-lunatic-idea-says-easyjet",
-      "source": "World news - The Guardian",
-      "published_at": "2026-01-29T14:02:52+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-02T15:08:58Z"
+  "last_updated": "2026-02-03T08:23:52Z"
 }

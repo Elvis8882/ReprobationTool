@@ -14,5 +14,21 @@
   "countries_scored": [
     "DE",
     "TR"
-  ]
+  ],
+  "sentiment_by_country": {
+    "DE": {
+      "label": "neutral",
+      "confidence": 0.1,
+      "evidence": "Series Sells Widely, Including to HBO Max in Germany"
+    },
+    "TR": {
+      "label": "neutral",
+      "confidence": 0.1,
+      "evidence": "Series Sells Widely, Including to HBO Max in Turkey"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-03T08:23:52+00:00",
+  "llm_attempted_at": "2026-02-03T08:23:52+00:00"
 }

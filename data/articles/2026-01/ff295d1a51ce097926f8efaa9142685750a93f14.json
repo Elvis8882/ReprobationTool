@@ -14,5 +14,21 @@
   "countries_scored": [
     "IQ",
     "SY"
-  ]
+  ],
+  "sentiment_by_country": {
+    "IQ": {
+      "label": "neutral",
+      "confidence": 0.1,
+      "evidence": "The United States has troops in Iraq's autonomous Kurdish region."
+    },
+    "SY": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-03T08:23:52+00:00",
+  "llm_attempted_at": "2026-02-03T08:23:52+00:00"
 }

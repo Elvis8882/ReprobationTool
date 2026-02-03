@@ -14,5 +14,21 @@
   "countries_scored": [
     "DE",
     "RU"
-  ]
+  ],
+  "sentiment_by_country": {
+    "DE": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Germany to harden critical infrastructure as Russia fears spike"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "we are the target of hybrid warfare"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-03T08:23:52+00:00",
+  "llm_attempted_at": "2026-02-03T08:23:52+00:00"
 }

@@ -1,14 +1,14 @@
 {
   "country": "BE",
-  "score": 91,
+  "score": 87,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 18,
+  "trend": -4,
+  "sources": 25,
   "sentiment": {
     "positive": 1,
-    "neutral": 17,
-    "negative": 0
+    "neutral": 23,
+    "negative": 1
   },
   "latest_articles": [
     {
@@ -96,6 +96,28 @@
       "sentiment_fallback": true
     },
     {
+      "id": "55113c98a85881e0043ebc1e4dabe504bbecb51d",
+      "title": "Brussels opens infringement over Slovakia’s whistleblower overhaul",
+      "summary": "If the issues are not addressed, Brussels can move to a reasoned opinion and ultimately refer the case to the EU Court of Justice, which could lead to financial penalties",
+      "url": "https://www.euractiv.com/news/brussels-opens-infringement-over-slovakias-whistleblower-overhaul/",
+      "source": "Euractiv",
+      "published_at": "2026-01-30T14:16:17+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Brussels opens infringement over Slovakia’s"
+    },
+    {
+      "id": "8e83586518f63f5cf7fc13a67cacccfecffae9a7",
+      "title": "EU takes Romania to court for breach of landfill rules",
+      "summary": "Brussels action reflects scale of illegal landfill operations",
+      "url": "https://www.euractiv.com/news/eu-takes-romania-to-court-for-breach-of-landfill-rules/",
+      "source": "Euractiv",
+      "published_at": "2026-01-30T14:07:30+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    {
       "id": "94ddbd78fe8c68a2c5128e265a01ac1ab8ef437d",
       "title": "Contingent liabilities and non-performing loans in 2024 - European Commission",
       "summary": "Contingent liabilities and non-performing loans in 2024&nbsp;&nbsp;European Commission",
@@ -114,28 +136,8 @@
       "published_at": "2026-01-30T10:01:14+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "f4400e8369216e9a2342287556079aef41490776",
-      "title": "Trade balance soared 94% in November and was higher than a year ago, despite tariff efforts",
-      "summary": "The U.S. deficit with its global trading partners nearly doubled in November as the shortfall with the European Union swelled.",
-      "url": "https://www.cnbc.com/2026/01/29/trade-balance-soared-94percent-in-november-and-was-higher-than-a-year-ago-despite-tariff-efforts.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-01-29T14:41:01+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "8a28b95f400746da9aba9d3d0017ddd272071c17",
-      "title": "EU proposals for free extra cabin bags on planes ‘lunatic idea’, says easyJet",
-      "summary": "Giving passengers right to additional carry-on baggage would be ‘terrible for the consumer’, warns airline’s CEOEasyJet said proposals to enforce free additional cabin bags on planes across Europe are a “lunatic idea”, w…",
-      "url": "https://www.theguardian.com/business/2026/jan/29/eu-proposals-to-free-extra-cabin-bags-on-planes-lunatic-idea-says-easyjet",
-      "source": "World news - The Guardian",
-      "published_at": "2026-01-29T14:02:52+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-02T15:08:58Z"
+  "last_updated": "2026-02-03T08:23:52Z"
 }

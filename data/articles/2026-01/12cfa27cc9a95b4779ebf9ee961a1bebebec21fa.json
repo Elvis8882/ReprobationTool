@@ -14,5 +14,21 @@
   "countries_scored": [
     "GB",
     "IR"
-  ]
+  ],
+  "sentiment_by_country": {
+    "GB": {
+      "label": "negative",
+      "confidence": 0.5,
+      "evidence": "Britain’s high streets became a barometer of national decline"
+    },
+    "IR": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "app accused of handing user data to the Iranian regime"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-03T08:23:52+00:00",
+  "llm_attempted_at": "2026-02-03T08:23:52+00:00"
 }

@@ -14,5 +14,21 @@
   "countries_scored": [
     "BE",
     "PL"
-  ]
+  ],
+  "sentiment_by_country": {
+    "BE": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Brussels court is weighing whether Poland must pay Pfizer"
+    },
+    "PL": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Poland’s Pfizer vaccine refusal lands in Brussels court, testing EU contract limits"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-03T08:23:52+00:00",
+  "llm_attempted_at": "2026-02-03T08:23:52+00:00"
 }

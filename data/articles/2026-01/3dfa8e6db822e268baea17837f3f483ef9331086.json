@@ -14,5 +14,21 @@
   "countries_scored": [
     "FR",
     "GL"
-  ]
+  ],
+  "sentiment_by_country": {
+    "FR": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    "GL": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "no evidence foreign adversaries are targeting Greenland"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-03T08:23:52+00:00",
+  "llm_attempted_at": "2026-02-03T08:23:52+00:00"
 }

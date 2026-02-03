@@ -16,5 +16,26 @@
     "DK",
     "FR",
     "GL"
-  ]
+  ],
+  "sentiment_by_country": {
+    "DK": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "defense of Greenland and Denmark"
+    },
+    "FR": {
+      "label": "neutral",
+      "confidence": 0.4,
+      "evidence": "Emmanuel Macron, France’s Embattled President"
+    },
+    "GL": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "defense of Greenland"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-03T08:23:52+00:00",
+  "llm_attempted_at": "2026-02-03T08:23:52+00:00"
 }

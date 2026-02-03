@@ -1,16 +1,60 @@
 {
   "country": "UA",
-  "score": 58,
+  "score": 68,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -32,
-  "sources": 21,
+  "trend": 10,
+  "sources": 36,
   "sentiment": {
-    "positive": 2,
-    "neutral": 4,
-    "negative": 15
+    "positive": 8,
+    "neutral": 9,
+    "negative": 19
   },
   "latest_articles": [
+    {
+      "id": "3aa4dec9131cbd30a481958a545b830e9e5c4f77",
+      "title": "Russia Resumes Attacks on Ukraine’s Energy System Ahead of Peace Talks",
+      "summary": "Missiles overnight targeted power plants in Kyiv and other parts of the country, according to local authorities, despite President Trump’s request for a pause.",
+      "url": "https://www.nytimes.com/2026/02/03/world/europe/ukraine-missiles-attack.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-03T08:05:15+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Attacks on Ukraine’s Energy System"
+    },
+    {
+      "id": "16392b6edd977f5299d6ecce5772e763e24e0a1d",
+      "title": "Buy European, but how European?",
+      "summary": "In Tuesday’s edition: France’s budget, Mercosur, Epstein files, EU army, Ukraine’s electricity grid",
+      "url": "https://www.euractiv.com/news/rapporteur-buy-european-but-how-european/",
+      "source": "Euractiv",
+      "published_at": "2026-02-03T06:59:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ukraine’s electricity grid"
+    },
+    {
+      "id": "fa17817d423ca60ec7840f17de4e13165c2cd2b7",
+      "title": "Ukraine grid on brink of collapse despite surge in EU support",
+      "summary": "Energy infrastructure is a second front line in Russia's brutal war of attrition",
+      "url": "https://www.euractiv.com/news/ukraine-grid-on-brink-of-collapse-despite-surge-in-eu-support/",
+      "source": "Euractiv",
+      "published_at": "2026-02-03T05:00:42+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Ukraine grid on brink of collapse despite surge in EU support"
+    },
+    {
+      "id": "a492d3d792c97e7c599bc69465828165f912d365",
+      "title": "Ukraine hails 'real results' after Musk restricts Russian Starlink use",
+      "summary": "Starlink-enabled drones have been linked to a number of recent deadly attacks by Russia on Ukraine.",
+      "url": "https://www.bbc.com/news/articles/cly94qe3yr0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-02T15:37:08+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukraine hails 'real results' after Musk restricts Russian Starlink use"
+    },
     {
       "id": "da9f0d58a6dcfc919e2b03aa6247e58b87cf6d12",
       "title": "Fancy Bear Exploits Microsoft Office Flaw in Ukraine, EU Cyber-Attacks - Infosecurity Magazine",
@@ -98,52 +142,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Ukraine talks"
-    },
-    {
-      "id": "a7b07ab13d6073e2087ba53b59283a6eee5adcee",
-      "title": "International law meant to limit effects of war at breaking point, study finds",
-      "summary": "Report covering 23 conflicts over last 18 months concludes more than 100,000 civilians have been killed as war crimes rage out of controlAn authoritative survey of 23 armed conflicts over the last 18 months has concluded…",
-      "url": "https://www.theguardian.com/law/2026/feb/02/more-than-100000-civilians-killed-war-crimes-out-of-control-study",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-02T05:00:48+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "growing civilian casualties in Ukraine"
-    },
-    {
-      "id": "78ed3b1d4ad3adf637f6caa5745480108875437c",
-      "title": "The EU’s ruinous waiting game",
-      "summary": "Ukraine is really an existential issue for Europe, and the EU. But it seems no one has the guts to really do something about it",
-      "url": "https://www.euractiv.com/opinion/the-eus-ruinous-waiting-game/",
-      "source": "Euractiv",
-      "published_at": "2026-02-02T05:00:26+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "The EU’s ruinous waiting game Ukraine is really an existential issue"
-    },
-    {
-      "id": "eee92f6dc683181e42898028827b92b0ac1b0497",
-      "title": "Russia strikes Ukrainian energy sector after Trump push for pause",
-      "summary": "A Russian attack on coal mining facilities in Ukraine Sunday killed at least 12 miners, according to DTEK, the country’s largest private energy company.",
-      "url": "https://www.washingtonpost.com/world/2026/02/01/russia-strikes-energy-miners-starlink-ceasefire/",
-      "source": "World (Washington post)",
-      "published_at": "2026-02-01T22:01:33+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russian attack on coal mining facilities in Ukraine"
-    },
-    {
-      "id": "91ffbf4b781e044174ccd509edba186a2823d937",
-      "title": "Russia Strikes Ukraine’s Energy Sector, Killing 12 Miners",
-      "summary": "The attack comes during a winter freeze and despite efforts by President Trump and others to get the two countries to negotiate a truce.",
-      "url": "https://www.nytimes.com/2026/02/01/world/europe/russia-strikes-ukraine-energy-sector-killing-12-miners.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-01T19:08:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russia Strikes Ukraine’s Energy Sector, Killing 12 Miners"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-02T15:08:58Z"
+  "last_updated": "2026-02-03T08:23:52Z"
 }

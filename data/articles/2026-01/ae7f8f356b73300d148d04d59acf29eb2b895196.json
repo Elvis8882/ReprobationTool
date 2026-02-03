@@ -14,5 +14,21 @@
   "countries_scored": [
     "BE",
     "FI"
-  ]
+  ],
+  "sentiment_by_country": {
+    "BE": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    "FI": {
+      "label": "positive",
+      "confidence": 0.7,
+      "evidence": "EU is looking to Finland for help with its next health crisis"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-03T08:23:52+00:00",
+  "llm_attempted_at": "2026-02-03T08:23:52+00:00"
 }
