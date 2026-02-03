@@ -23,15 +23,30 @@ LOG_RAW_GEMINI = os.environ.get("LLM_SENTIMENT_LOG_RAW", "0").strip() == "1"
 # Cache version (bump if you change prompt/schema)
 CACHE_VERSION = os.environ.get("LLM_SENTIMENT_CACHE_VERSION", "v3-eu-1")
 
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash").strip()
-if not GEMINI_MODEL.startswith("models/"):
-    GEMINI_MODEL = f"models/{GEMINI_MODEL}"
+PRIMARY_MODEL = os.environ.get("GEMINI_MODEL_PRIMARY", os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")).strip()
+FALLBACK_MODEL = os.environ.get("GEMINI_MODEL_FALLBACK", "gemini-2.5-flash-lite").strip()
 
-def _endpoint() -> str:
-    if not GEMINI_MODEL:
-        raise RuntimeError("Missing GEMINI_MODEL environment variable (expected like 'models/...').")
-    # Use v1 endpoint and include full models/... path
-    return f"https://generativelanguage.googleapis.com/v1beta/{GEMINI_MODEL}:generateContent"
+THROTTLE_PRIMARY = float(os.environ.get("GEMINI_THROTTLE_PRIMARY_S", "13.0"))
+THROTTLE_FALLBACK = float(os.environ.get("GEMINI_THROTTLE_FALLBACK_S", "7.0"))
+
+PRIMARY_EXHAUSTED = False  # flip to True after quota 429 so we stop trying primary for rest of run
+
+
+def _is_quota_exhausted_429(resp: requests.Response) -> bool:
+    if resp.status_code != 429:
+        return False
+    body = (resp.text or "").lower()
+    return ("exceeded your current quota" in body) or ("quota exceeded" in body)
+
+
+def _endpoint(model: str) -> str:
+    model = (model or "").strip()
+    if not model:
+        raise RuntimeError("Missing Gemini model name")
+    if not model.startswith("models/"):
+        model = f"models/{model}"
+    return f"https://generativelanguage.googleapis.com/v1beta/{model}:generateContent"
+
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 CACHE_DIR = BASE_DIR / "data" / "cache" / "llm_sentiment"
@@ -41,8 +56,6 @@ CACHE_DIR.mkdir(parents=True, exist_ok=True)
 def _cache_key(text: str, iso_targets: List[str]) -> str:
     h = hashlib.sha256()
     h.update(CACHE_VERSION.encode("utf-8"))
-    h.update(b"\n")
-    h.update(GEMINI_MODEL.encode("utf-8"))
     h.update(b"\n")
     h.update((",".join([c.upper() for c in iso_targets])).encode("utf-8"))
     h.update(b"\n")
@@ -169,7 +182,7 @@ def _call_gemini_batch(input_items: List[dict]) -> Dict[str, Any]:
     }
 
 
-    resp = _post_gemini(payload)
+    resp, used_model = _post_with_failover(payload)
     model_text = _extract_text(resp)
     
     try:
@@ -265,12 +278,12 @@ def _make_retry_batches(pending: List[dict]) -> List[List[dict]]:
     return batches
 
 
-def _post_gemini(payload: dict) -> dict:
+def _post_gemini(payload: dict, model: str) -> dict:
     api_key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not api_key:
         raise RuntimeError("Missing GEMINI_API_KEY environment variable")
 
-    url = _endpoint()
+    url = _endpoint(model)
     params = {"key": api_key}
     headers = {"Content-Type": "application/json"}
 
@@ -284,15 +297,11 @@ def _post_gemini(payload: dict) -> dict:
             if r.status_code == 200:
                 return r.json()
 
-            if r.status_code in (429, 500, 502, 503, 504):
+            # ✅ fail fast on quota exhaustion (caller may failover)
+            if _is_quota_exhausted_429(r):
+                raise RuntimeError(f"quota_exhausted::{model}::{r.text[:500]}")
 
-                # ✅ FAIL FAST on quota exhaustion (prevents multi-minute retry loops)
-                if r.status_code == 429:
-                    body = (r.text or "")[:2000].lower()
-                    # common quota signals; adjust if you see different wording in logs
-                    if ("resource_exhausted" in body) or ("quota" in body) or ("exceeded" in body):
-                        raise RuntimeError(f"Gemini quota exhausted (HTTP 429): {r.text[:500]}")
-            
+            if r.status_code in (429, 500, 502, 503, 504):
                 retry_after = r.headers.get("Retry-After")
                 if retry_after:
                     try:
@@ -301,16 +310,14 @@ def _post_gemini(payload: dict) -> dict:
                         sleep_s = backoff
                 else:
                     sleep_s = backoff
-            
-                # jitter
+
                 sleep_s *= (0.7 + random.random() * 0.6)
                 sleep_s = min(sleep_s, MAX_BACKOFF_S)
-            
+
                 last_err = RuntimeError(f"Gemini HTTP {r.status_code}: {r.text[:500]}")
                 time.sleep(sleep_s)
                 backoff = min(backoff * 2, MAX_BACKOFF_S)
                 continue
-
 
             raise RuntimeError(f"Gemini HTTP {r.status_code}: {r.text[:2000]}")
 
@@ -321,6 +328,33 @@ def _post_gemini(payload: dict) -> dict:
             backoff = min(backoff * 2, MAX_BACKOFF_S)
 
     raise RuntimeError(f"Gemini request failed after retries: {last_err}")
+
+
+def _sleep_for_model(model: str) -> None:
+    s = THROTTLE_FALLBACK if model == FALLBACK_MODEL else THROTTLE_PRIMARY
+    time.sleep(s)
+
+
+def _post_with_failover(payload: dict) -> tuple[dict, str]:
+    global PRIMARY_EXHAUSTED
+
+    # If we already learned primary is exhausted, go straight to fallback
+    if PRIMARY_EXHAUSTED:
+        _sleep_for_model(FALLBACK_MODEL)
+        return _post_gemini(payload, FALLBACK_MODEL), FALLBACK_MODEL
+
+    # Try primary
+    _sleep_for_model(PRIMARY_MODEL)
+    try:
+        return _post_gemini(payload, PRIMARY_MODEL), PRIMARY_MODEL
+    except RuntimeError as e:
+        msg = str(e)
+        if msg.startswith("quota_exhausted::"):
+            PRIMARY_EXHAUSTED = True
+            _sleep_for_model(FALLBACK_MODEL)
+            return _post_gemini(payload, FALLBACK_MODEL), FALLBACK_MODEL
+        raise
+
 
 
 def _extract_text(resp: dict) -> str:
