@@ -285,6 +285,14 @@ def _post_gemini(payload: dict) -> dict:
                 return r.json()
 
             if r.status_code in (429, 500, 502, 503, 504):
+
+                # ✅ FAIL FAST on quota exhaustion (prevents multi-minute retry loops)
+                if r.status_code == 429:
+                    body = (r.text or "")[:2000].lower()
+                    # common quota signals; adjust if you see different wording in logs
+                    if ("resource_exhausted" in body) or ("quota" in body) or ("exceeded" in body):
+                        raise RuntimeError(f"Gemini quota exhausted (HTTP 429): {r.text[:500]}")
+            
                 retry_after = r.headers.get("Retry-After")
                 if retry_after:
                     try:
@@ -293,15 +301,16 @@ def _post_gemini(payload: dict) -> dict:
                         sleep_s = backoff
                 else:
                     sleep_s = backoff
-
+            
                 # jitter
                 sleep_s *= (0.7 + random.random() * 0.6)
                 sleep_s = min(sleep_s, MAX_BACKOFF_S)
-
+            
                 last_err = RuntimeError(f"Gemini HTTP {r.status_code}: {r.text[:500]}")
                 time.sleep(sleep_s)
                 backoff = min(backoff * 2, MAX_BACKOFF_S)
                 continue
+
 
             raise RuntimeError(f"Gemini HTTP {r.status_code}: {r.text[:2000]}")
 
