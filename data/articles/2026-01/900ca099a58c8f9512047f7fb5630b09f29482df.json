@@ -14,5 +14,21 @@
   "countries_scored": [
     "BE",
     "UA"
-  ]
+  ],
+  "sentiment_by_country": {
+    "BE": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "India’s fast-growing military manufacturing base is attracting attention"
+    },
+    "UA": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "war in Ukraine"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-04T10:06:25+00:00",
+  "llm_attempted_at": "2026-02-04T10:06:25+00:00"
 }

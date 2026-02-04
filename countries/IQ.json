@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 90,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 2,
+  "score": 75,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": -15,
+  "sources": 3,
   "sentiment": {
     "positive": 0,
     "neutral": 2,
-    "negative": 0
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "becc6f96cfa5a5bc92775eb12aa47451496c44bf",
+      "title": "Comeback of Tehran-friendly Iraqi PM al-Maliki alarms US",
+      "summary": "The return would deepen Iran’s sway in Iraq and erode the post-2003 state institutions built by the US and its allies",
+      "url": "https://www.euractiv.com/news/comeback-of-tehran-friendly-iraqi-pm-al-maliki-alarms-us/",
+      "source": "Euractiv",
+      "published_at": "2026-02-03T15:02:42+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "deepen Iran’s sway in Iraq and erode the post-2003 state institutions"
+    },
     {
       "id": "ff295d1a51ce097926f8efaa9142685750a93f14",
       "title": "From Syria To Qatar: All US Military Bases In Middle East",
@@ -35,5 +46,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-03T08:23:52Z"
+  "last_updated": "2026-02-04T10:06:25Z"
 }

@@ -1,16 +1,93 @@
 {
   "country": "UA",
-  "score": 68,
-  "score_label": "Negative",
-  "assessment": "High negative coverage",
-  "trend": 10,
-  "sources": 36,
+  "score": 70,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": 2,
+  "sources": 52,
   "sentiment": {
-    "positive": 8,
-    "neutral": 9,
-    "negative": 19
+    "positive": 12,
+    "neutral": 15,
+    "negative": 25
   },
   "latest_articles": [
+    {
+      "id": "f9b3d389a992e77ff88e8ad4d0b236b66ddb775e",
+      "title": "Ukraine-Russia talks: negotiators gather in Abu Dhabi in wake of ‘massive’ strikes on Kyiv – Europe live",
+      "summary": "Both sides downplay chances of immediate breakthrough in US-brokered talks as western allies reportedly weigh new defence pactRescuers are searching for possible missing people in the Aegean Sea after an overnight collis…",
+      "url": "https://www.theguardian.com/world/live/2026/feb/04/ukraine-russia-europe-live-eu-us-abu-dhabi-talks-latest-news-europe-live",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-04T08:57:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "massive’ strikes on Kyiv"
+    },
+    {
+      "id": "3751275b51cc2095523d24203b5f664951263caa",
+      "title": "FIREPOWER: A drone manufacturer in Ukraine discusses Western hubris and defence",
+      "summary": "Plus, Australia, PURL, Eurobarometer",
+      "url": "https://www.euractiv.com/news/firepower-a-drone-manufacturer-in-ukraine-discusses-western-hubris-and-defence/",
+      "source": "Euractiv",
+      "published_at": "2026-02-04T08:52:28+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "drone manufacturer in Ukraine discusses Western hubris and defence"
+    },
+    {
+      "id": "f4c577dae8dd97893afdd3796e848c9130aedf9b",
+      "title": "Ukraine Talks Set to Resume, Following a Huge Attack by Moscow",
+      "summary": "U.S., Russian and Ukrainian negotiators are meeting in the United Arab Emirates, but Russia continues to pummel Ukraine and has not softened demands that Kyiv calls unacceptable.",
+      "url": "https://www.nytimes.com/2026/02/04/world/europe/ukraine-russia-us-peace-talks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-04T08:31:23+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukrainian negotiators are meeting... Kyiv calls unacceptable"
+    },
+    {
+      "id": "677f0bac93b86ab1b6e6ca2b06f4c723ecb97eba",
+      "title": "Russian attacks on Ukraine energy sites 'particularly depraved', UK PM Starmer says",
+      "summary": "The UK leader's comments came after Russia renewed its attacks on power plants and critical infrastructure in Ukraine.",
+      "url": "https://www.bbc.com/news/articles/crley6x0dgzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-04T08:08:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "attacks on power plants and critical infrastructure in Ukraine"
+    },
+    {
+      "id": "fd041a3c9d0443e8b97db687b6d8ba64bbcddb71",
+      "title": "INTERVIEW: Ukrainian drone manufacturer on Western hubris and the defence industry",
+      "summary": "Some of their arming devices were two coat hangers pointing out the front of the drone",
+      "url": "https://www.euractiv.com/interview/interview-ukrainian-drone-manufacturer-on-western-hubris-and-the-defence-industry/",
+      "source": "Euractiv",
+      "published_at": "2026-02-04T05:00:05+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukrainian drone manufacturer on Western hubris and the defence industry"
+    },
+    {
+      "id": "f7986475cacb3aef6db6364253a3f6752270f585",
+      "title": "Russia delivers worst attack this year to Ukraine’s power sector",
+      "summary": "The president said he persuaded Russia’s Vladimir Putin to stop striking Ukraine’s energy grid during a frigid period, but missiles fell on Kyiv hours later.",
+      "url": "https://www.washingtonpost.com/world/2026/02/03/trump-war-russia-ukraine-attacks-power-sector/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-03T15:12:31+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia delivers worst attack this year to Ukraine’s power sector"
+    },
+    {
+      "id": "298ef03c70434ecfc279b14e2e6e8089a38f6289",
+      "title": "VOLTAGE: Ukraine grid on brink of collapse despite surge in EU support",
+      "summary": "In today's edition: Power grids, PFAS, carbon pricing, critical raw materials",
+      "url": "https://www.euractiv.com/news/voltage-ukraine-grid-on-brink-of-collapse-despite-surge-in-eu-support/",
+      "source": "Euractiv",
+      "published_at": "2026-02-03T12:10:37+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.8,
+      "evidence": "Ukraine grid on brink of collapse despite surge in EU support"
+    },
     {
       "id": "3aa4dec9131cbd30a481958a545b830e9e5c4f77",
       "title": "Russia Resumes Attacks on Ukraine’s Energy System Ahead of Peace Talks",
@@ -65,85 +142,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Fancy Bear Exploits Microsoft Office Flaw in Ukraine, EU Cyber-Attacks"
-    },
-    {
-      "id": "a3d19a319989a6d7cb362f32035cf6904e4cbd5c",
-      "title": "Family seeks answers as Kenyan fighting for Russia killed in Ukraine - BBC",
-      "summary": "Family seeks answers as Kenyan fighting for Russia killed in Ukraine&nbsp;&nbsp;BBCKenyan man dies fighting for Russia, Ukraine says&nbsp;&nbsp;the-star.co.keFrom Qatar to the Trenches: Another russian Foreign Mercenary…",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBVmJGODRhNUtuN2w0RHNsTUgtRG9FLUQyanIzM1ZJOWE4TXNlejlLSEZlN2dKcW1NU3VmWDBlQlRjZm1jM0htVHlKZ09TWm9Sa3EyTHVYdVVXZw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-02T11:50:48+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Kenyan fighting for Russia killed in Ukraine"
-    },
-    {
-      "id": "3d927a3567280e6442109edc692ff0e8f39b9ac7",
-      "title": "Kenyan job seekers were lured to Russia, then sent to die in Ukraine",
-      "summary": "The Post spoke to four Kenyans who fought in Ukraine and relatives of nine other recruits, as a secret pipeline funnels young Africans to Russia’s military.",
-      "url": "https://www.washingtonpost.com/world/2026/02/01/kenya-russia-military-ukraine-war/",
-      "source": "World (Washington post)",
-      "published_at": "2026-02-02T10:00:34+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "sent to die in Ukraine"
-    },
-    {
-      "id": "7cf069bce220ad3f2d0337f544f56333b8aeca93",
-      "title": "US shift away from Europe ‘didn’t really start with President Trump,’ says EU’s top diplomat – Europe live",
-      "summary": "She said that the US shift away from Europe is a “long term” process and the bloc needs to urgently adaptEU’s top diplomat Kallas also offered her take on the state of play in Ukraine, less than a month away from the fou…",
-      "url": "https://www.theguardian.com/world/live/2026/feb/02/eu-us-foreign-policy-shift-security-defence-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-02T09:35:07+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "pressure on Ukrainians to make very difficult concessions"
-    },
-    {
-      "id": "e67d873f3c452b8f71cb57032379364c1dcf0419",
-      "title": "Twelve miners killed by Russian strike in Ukraine, officials say - BBC",
-      "summary": "Twelve miners killed by Russian strike in Ukraine, officials say&nbsp;&nbsp;BBCVideo captures drone strike that officials say killed 12 miners in Ukraine&nbsp;&nbsp;BBCRussian drone attack on bus carrying mine workers in…",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yXzF0cUJoM25QbFpBV3hPRFdGMjVCR2NKUUZJX05hMFN3QWdjak9obXQzN2ZGSHBDZUx2RVJHUU1XUGhXNkNBVVJrekFGRHgzNVlKQ1hXOFFBdw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-02T07:00:55+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Twelve miners killed by Russian strike in Ukraine"
-    },
-    {
-      "id": "90f7d6bc85035b7ca71e255b597fed8e3f2b82c5",
-      "title": "Twelve miners killed by Russian strike in Ukraine, officials say",
-      "summary": "Fifteen others were reported injured in the strike near a bus carrying the workers on Sunday.",
-      "url": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-02T07:00:55+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Twelve miners killed by Russian strike in Ukraine, officials say"
-    },
-    {
-      "id": "a5fc8447ad41ec30ac6e31c12df91b29e2c09186",
-      "title": "Monday briefing: The community solidarity driving the fightback against ICE in Minneapolis",
-      "summary": "In today’s newsletter: Public outrage has reached fever pitch following the killing of US citizens. But, amid the focus on violence, another story of mutual aid and neighbourhood organising is unfoldingGood morning. The…",
-      "url": "https://www.theguardian.com/world/2026/feb/02/monday-briefing-the-community-solidarity-driving-the-fightback-against-ice-in-minneapolis",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-02T06:34:13+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "A Russian drone attack on a bus carrying mine workers"
-    },
-    {
-      "id": "7920270b5b32c32d5f2ffc9516623778e152cd88",
-      "title": "Weber’s ambitions hit Merz’s wall",
-      "summary": "In Monday’s edition: EU maritime strategy, Fico aide quits, Epstein files, hybrid threat hub, China cheese spat, Ukraine talks",
-      "url": "https://www.euractiv.com/news/rapporteur-webers-ambitions-hit-merzs-wall/",
-      "source": "Euractiv",
-      "published_at": "2026-02-02T06:21:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Ukraine talks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-03T08:23:52Z"
+  "last_updated": "2026-02-04T10:06:25Z"
 }

@@ -15,6 +15,20 @@
     "DK",
     "GL"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_attempted_at": "2026-02-03T08:23:52+00:00"
+  "llm_attempted_at": "2026-02-04T10:06:25+00:00",
+  "sentiment_by_country": {
+    "DK": {
+      "label": "positive",
+      "confidence": 0.6,
+      "evidence": "Denmark lauds constructive talks with U.S. over Greenland"
+    },
+    "GL": {
+      "label": "positive",
+      "confidence": 0.6,
+      "evidence": "Denmark lauds constructive talks with U.S. over Greenland"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-04T10:06:25+00:00"
 }

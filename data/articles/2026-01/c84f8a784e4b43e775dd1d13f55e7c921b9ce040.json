@@ -15,6 +15,20 @@
     "IL",
     "SA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_attempted_at": "2026-02-03T08:23:52+00:00"
+  "llm_attempted_at": "2026-02-04T10:06:25+00:00",
+  "sentiment_by_country": {
+    "IL": {
+      "label": "neutral",
+      "confidence": 0.1,
+      "evidence": "arms sales to Israel"
+    },
+    "SA": {
+      "label": "neutral",
+      "confidence": 0.1,
+      "evidence": "arms sales to Saudi Arabia"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-04T10:06:25+00:00"
 }

@@ -3,14 +3,25 @@
   "score": 82,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -8,
-  "sources": 11,
+  "trend": 0,
+  "sources": 16,
   "sentiment": {
-    "positive": 0,
-    "neutral": 9,
-    "negative": 2
+    "positive": 1,
+    "neutral": 12,
+    "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "6bf620cb312056bb99003c6e4400bf397930becd",
+      "title": "Greenland Crisis Has Danes Chuckling, in Their Own Way",
+      "summary": "A little teasing has helped Danes manage their anger and anxiety over American threats to take a part of their territory. A Trump pincushion, anyone?",
+      "url": "https://www.nytimes.com/2026/02/03/world/europe/denmark-trump-boycott.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-03T10:01:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "American threats to take a part of their territory"
+    },
     {
       "id": "c3f82171462f531f7f376c95d1294b39bb769361",
       "title": "‘There’s no such thing as a better coloniser’:  Indigenous views on Trump’s Greenland push",
@@ -45,6 +56,28 @@
       "evidence": "Greenland's status will be left aside during negotiations"
     },
     {
+      "id": "4fdfc1b37d4036bb882e8ef322ae127e15c6a2d7",
+      "title": "Denmark lauds constructive talks with U.S. over Greenland: ‘Now we are back on track’",
+      "summary": "It comes shortly after Trump announced a framework deal regarding the Arctic island and backed away from imposing tariffs on several European countries.",
+      "url": "https://www.cnbc.com/2026/01/29/greenland-denmark-us-trump-talks-arctic-security-nato.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-01-29T12:58:33+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Denmark lauds constructive talks with U.S. over Greenland"
+    },
+    {
+      "id": "e7a3ce25aace1daf605b3d53aef0418e55d86107",
+      "title": "'We own our land': Greenland's indigenous people slam Trump, say Arctic Island not for sale",
+      "summary": "Greenland's Inuit, who collectively own their land, express bewilderment at geopolitical interest in buying the island.  Their traditional view sees them as guardians, not owners, of the land that predates and will outla…",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/we-own-our-land-greenlands-indigenous-people-slam-trump-say-arctic-island-not-for-sale/articleshow/127772791.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-01-29T10:50:31+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    {
       "id": "8ac2be879096c3cf2c4a6bebb0d75ae4521256dd",
       "title": "Denmark Says It Held \"Very Constructive\" Meeting With US Over Greenland",
       "summary": "Trump's threats over Greenland plunged the transtatlantic alliance into its deepest crisis in years.",
@@ -65,6 +98,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Greenland Deal To Assuage Trump"
+    },
+    {
+      "id": "574cde576d9b0b599766766de1c780e86c6bd7ad",
+      "title": "EU digital sovereignty gets a boost after Trump’s Greenland threats",
+      "summary": "Several capitals that had previously expressed reservations about embracing EU tech sovereignty have had a change of heart",
+      "url": "https://www.euractiv.com/news/eu-digital-sovereignty-gets-a-boost-after-trumps-greenland-threats/",
+      "source": "Euractiv",
+      "published_at": "2026-01-29T09:36:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
     },
     {
       "id": "3dfa8e6db822e268baea17837f3f483ef9331086",
@@ -98,41 +142,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "The Arctic is not a hotspot, EU transport commissioner says"
-    },
-    {
-      "id": "bf6f2f9dc5df4c3b5c85d771777be834e8d6348d",
-      "title": "INTERVIEW: Síkela on EU’s new €50m-plus investment push in Greenland",
-      "summary": "'The US might have different views on how to solve problems,' the EU commissioner for international partnerships told Euractiv",
-      "url": "https://www.euractiv.com/news/interview-sikela-on-eus-new-e50m-plus-investment-push-in-greenland/",
-      "source": "Euractiv",
-      "published_at": "2026-01-28T14:14:15+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "EU’s new €50m-plus investment push in Greenland"
-    },
-    {
-      "id": "bf43e9ea46fe7899d667f2e0595cfb4413d1567e",
-      "title": "Prince steps in as King and Queen leave for foreign visit - The News International",
-      "summary": "Prince steps in as King and Queen leave for foreign visit&nbsp;&nbsp;The News InternationalQueen Mary Rewears Her Wedding Tiara in Estonia&nbsp;&nbsp;Town & Country MagazineQueen Mary of Denmark makes her debut in a broo…",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYXdyZ244UFhoQzJsd0U5azluTnc0SG5HTnpnYU9sR2hzQ2VTYTYzRFI1V21mNXF4YWV5SDRUbF9OMFJnQTZIUUJKOGRQUTRNZDM2eEdybWpnSVdScGJZM1VRekxreTlvUHY1OFBZUE11ZFFNb3hkalFoeWFFTVIzR05waHl3RnlKRDBIUDY3ZE5PaTMwakpKTjA1MVFqVGVO0gGcAUFVX3lxTE5JWWV6NW9mbnQzZVZPZUUyak9oUHVmUzhYbElIeTg3TkdZM3hidnFIb1BzUUJ3MkJNYzdUZWgyYlhfbnI5NUJQdHdrenBlOXhwVWxIYm03UnVhWk9PVndlMzV1VzNoTGhMZmx3TTNNWEttdlV4aEVoQy1kLV9uUEQ1YndyZ0JBRHpMM0VFSmExSDF1MV9XcTVoeHZNYw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-01-27T18:48:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "protests against US over Greenland"
-    },
-    {
-      "id": "01b5a446dde50c9c4f3fd1b8c25dec48a20f014d",
-      "title": "How Trump’s Threats to Greenland Made Him a Liability for Europe’s Far Right",
-      "summary": "Europe’s nationalist leaders once saw President Trump as an ideological ally. Now, as he threatens European sovereignty, they are seeking distance — at least for the moment.",
-      "url": "https://www.nytimes.com/2026/01/27/world/europe/trump-liability-europe-far-right-populists.html",
-      "source": "NYT > World News",
-      "published_at": "2026-01-27T10:39:34+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Trump’s Threats to Greenland Made Him a Liability for Europe’s Far Right"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-03T08:23:52Z"
+  "last_updated": "2026-02-04T10:06:25Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 94,
+  "score": 93,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 4,
-  "sources": 5,
+  "trend": -1,
+  "sources": 7,
   "sentiment": {
     "positive": 3,
-    "neutral": 2,
+    "neutral": 4,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "4aae597605e872bf88b7a812839be264fd157804",
+      "title": "US-Iran tensions: Pakistan to be a part of Turkey-led peace talks",
+      "summary": "Pakistan has been invited to crucial talks in Turkey between Iran and the US, aimed at de-escalating regional tensions. Several other regional powers, including Saudi Arabia and Qatar, are also expected to attend. The di…",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/us-iran-tensions-pakistan-to-be-a-part-of-turkey-led-peace-talks/articleshow/127898563.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-02-04T03:05:19+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Turkey-led peace talks"
+    },
     {
       "id": "daf164203e783df286b3e0fd0481762d6b4de456",
       "title": "Iran’s president says Tehran ready to pursue ‘fair’ talks with US",
@@ -45,6 +56,17 @@
       "evidence": "U.S. and Iran plan talks in Istanbul"
     },
     {
+      "id": "094056ea4bee9c5e12366ce7d31f1fc7a6a4e9fd",
+      "title": "U.S. and Iranian Officials to Meet as Trump’s Threats Loom",
+      "summary": "President Trump’s Middle East envoy and his son-in-law were expected to meet Iran’s foreign minister in Istanbul on Friday amid tensions between the countries.",
+      "url": "https://www.nytimes.com/2026/02/02/world/middleeast/us-iran-meeting-trump-threats.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-02T22:57:48+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "U.S. and Iranian Officials to Meet as Trump’s Threats Loom"
+    },
+    {
       "id": "13c8976115b208761ec531ae4520d10449948b78",
       "title": "Iran seeks to avert US military action with talks in Ankara",
       "summary": "Turkey hosts urgent mediation as Trump’s threats mount and Tehran weighs painful compromises to avoid conflictIran’s foreign minister, Abbas Araghchi, will travel to Ankara for talks aimed at preventing a US attack, as T…",
@@ -68,5 +90,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-03T08:23:52Z"
+  "last_updated": "2026-02-04T10:06:25Z"
 }

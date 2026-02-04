@@ -14,5 +14,21 @@
   "countries_scored": [
     "RU",
     "UA"
-  ]
+  ],
+  "sentiment_by_country": {
+    "RU": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia's full-scale invasion of Ukraine"
+    },
+    "UA": {
+      "label": "neutral",
+      "confidence": 0.1,
+      "evidence": "Russia's full-scale invasion of Ukraine"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-04T10:06:25+00:00",
+  "llm_attempted_at": "2026-02-04T10:06:25+00:00"
 }

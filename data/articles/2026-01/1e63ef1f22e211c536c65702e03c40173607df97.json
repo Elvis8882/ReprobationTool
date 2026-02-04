@@ -18,5 +18,31 @@
     "LU",
     "RU",
     "UA"
-  ]
+  ],
+  "sentiment_by_country": {
+    "HU": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "working with the Hungary"
+    },
+    "LU": {
+      "label": "negative",
+      "confidence": 0.5,
+      "evidence": "Luxembourg’s foreign minister plays down Ukraine’s 2027 EU membership prospect"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia for its continuing attacks on Ukraine"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia for its continuing attacks on Ukraine"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-04T10:06:25+00:00",
+  "llm_attempted_at": "2026-02-04T10:06:25+00:00"
 }
