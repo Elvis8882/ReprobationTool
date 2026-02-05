@@ -17,6 +17,25 @@
     "EE",
     "RU"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_attempted_at": "2026-02-04T10:06:25+00:00"
+  "llm_attempted_at": "2026-02-05T10:05:12+00:00",
+  "sentiment_by_country": {
+    "BY": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Estonia to ban Russians and Belarusians’ from buying property"
+    },
+    "EE": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Estonia to ban Russians and Belarusians’ from buying property"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Estonia to ban Russians and Belarusians’ from buying property"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-05T10:05:12+00:00"
 }

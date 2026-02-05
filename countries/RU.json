@@ -1,16 +1,49 @@
 {
   "country": "RU",
-  "score": 59,
+  "score": 60,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -1,
-  "sources": 61,
+  "trend": 1,
+  "sources": 83,
   "sentiment": {
     "positive": 4,
-    "neutral": 15,
-    "negative": 42
+    "neutral": 23,
+    "negative": 56
   },
   "latest_articles": [
+    {
+      "id": "017e9dbc3152131242654eb123d1e363670f4ae0",
+      "title": "US And Russia Enter Uncertain Era As Key Nuclear Pact Expires",
+      "summary": "Trump will decide the path forward on nuclear arms control, White House said.",
+      "url": "https://www.ndtv.com/world-news/us-and-russia-enter-uncertain-era-as-key-nuclear-pact-expires-10950673#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-05T08:15:24+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia Enter Uncertain Era As Key Nuclear Pact Expires"
+    },
+    {
+      "id": "0c42743262a8445c59ee7d00dc0559d8b5169e22",
+      "title": "Europe closes ranks as US-Russia nuclear limits unravel",
+      "summary": "New START, the US-Russia treaty capping strategic nuclear arsenals, expires on Thursday",
+      "url": "https://www.euractiv.com/news/europe-closes-ranks-as-us-russia-nuclear-limits-unravel/",
+      "source": "Euractiv",
+      "published_at": "2026-02-05T05:00:58+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "US-Russia nuclear limits unravel"
+    },
+    {
+      "id": "689f974ea5dc201970d56676f1ec5e91469288b2",
+      "title": "Trump says India won't buy Russian oil anymore. Moscow insists India hasn't said that",
+      "summary": "Analysts are skeptical that India will stop buying Russian oil completely.",
+      "url": "https://www.cnbc.com/2026/02/04/trump-india-deal-russia-oil-purchases-kremlin-reaction.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-04T15:51:58+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Moscow insists India hasn't said that"
+    },
     {
       "id": "2590a52c8e72dd29d35543f873cd7c5b3710a740",
       "title": "Starmer agrees to release some files on Mandelson’s appointment as US ambassador in wake of Epstein scandal – UK politics live",
@@ -109,41 +142,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Russia delivers worst attack this year to Ukraine’s power sector"
-    },
-    {
-      "id": "3aa4dec9131cbd30a481958a545b830e9e5c4f77",
-      "title": "Russia Resumes Attacks on Ukraine’s Energy System Ahead of Peace Talks",
-      "summary": "Missiles overnight targeted power plants in Kyiv and other parts of the country, according to local authorities, despite President Trump’s request for a pause.",
-      "url": "https://www.nytimes.com/2026/02/03/world/europe/ukraine-missiles-attack.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-03T08:05:15+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Russia Resumes Attacks on Ukraine’s Energy System"
-    },
-    {
-      "id": "8916e9d9586bc132d42420f0be907edb2e0968f0",
-      "title": "CNBC Daily Open: Asia markets and precious metals rebound amid Trump's trade deal with India",
-      "summary": "As part of the deal, New Delhi will \"BUY AMERICAN\" at \"a much higher level,\" and stop buying oil from Russia, according to Trump.",
-      "url": "https://www.cnbc.com/2026/02/03/cnbc-daily-open-asia-markets-and-precious-metals-rebound-amid-trumps-trade-deal-with-india.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-02-03T07:30:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "stop buying oil from Russia"
-    },
-    {
-      "id": "7c6a6ccc513c7c3158bd1ade0e927b50e5f07cb6",
-      "title": "\"India Earned Tariff Relief By Recalibrating Russian oil Trade\": US Senator",
-      "summary": "Trump claimed that PM Modi had agreed to \"stop buying Russian oil\"",
-      "url": "https://www.ndtv.com/world-news/india-earned-tariff-relief-by-recalibrating-russian-oil-trade-us-senator-lindsey-graham-10936104#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-03T05:46:50+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.6,
-      "evidence": "recalibrating Russian oil Trade... stop buying Russian oil"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-04T10:06:25Z"
+  "last_updated": "2026-02-05T10:05:12Z"
 }

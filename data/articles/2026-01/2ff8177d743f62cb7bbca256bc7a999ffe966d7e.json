@@ -17,6 +17,25 @@
     "IR",
     "IT"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_attempted_at": "2026-02-04T10:06:25+00:00"
+  "llm_attempted_at": "2026-02-05T10:05:12+00:00",
+  "sentiment_by_country": {
+    "BE": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    "IR": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran warns of ‘destructive consequences’ if EU lists Guards as terror group"
+    },
+    "IT": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Italy's foreign minister said he would propose the idea"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-05T10:05:12+00:00"
 }

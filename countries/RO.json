@@ -1,16 +1,37 @@
 {
   "country": "RO",
-  "score": 85,
+  "score": 81,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 2,
-  "sources": 26,
+  "trend": -4,
+  "sources": 29,
   "sentiment": {
     "positive": 0,
-    "neutral": 25,
-    "negative": 1
+    "neutral": 27,
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "9a3067ccf81200a8e460c3dbb12c4bd299c929b4",
+      "title": "VOLTAGE: Divided EU told to sink its green shipping plan",
+      "summary": "In today's edition: CBAM, chemicals, Romanian power grab",
+      "url": "https://www.euractiv.com/news/voltage-divided-eu-told-to-sink-its-green-shipping-plan/",
+      "source": "Euractiv",
+      "published_at": "2026-02-05T08:29:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Romanian power grab"
+    },
+    {
+      "id": "2f9d435f07bd8bae98e2f3e374fd2a80a46a80e7",
+      "title": "EU hospitals released 5 million cancer patients in 2023 - European Commission",
+      "summary": "EU hospitals released 5 million cancer patients in 2023&nbsp;&nbsp;European Commission",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVQ2NySkxSYlp6RGZFV0NCWURjX0R6NmNaS1cxN0ROMk5PNUVmR2UxVlR4VzJrUmppZi1FQk9GNGNxY0k5UEFoUjkxUW5iZ1l5UU5zQmVnZ00zVkJYRFdIS0kybmFlT0ZqMVNCYnhmMkJiV3pHbVVMM3lmMzB0dw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-04T10:03:44+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "64b0ac3745008eeeb1252be5f48341edc6d3d2e1",
       "title": "Three-quarters of cancer patients in England will survive by 2035, government pledges",
@@ -114,29 +135,8 @@
       "published_at": "2026-02-01T19:43:24+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "963f1f8ef16048540c405751ed5baeda6017822f",
-      "title": "Belarusian balloons full of cigarettes pose NATO’s latest security threat",
-      "summary": "A rising number of incursions into NATO airspace has led some officials to allege an escalation of Russian hybrid attacks against the alliance and the European Union.",
-      "url": "https://www.washingtonpost.com/world/2026/01/30/belarus-balloons-nato-russia-threat/",
-      "source": "World (Washington post)",
-      "published_at": "2026-01-30T16:47:23+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "8ad9b8922b380bedf0c4d993b5b9152d107cc02b",
-      "title": "January infringements package: key decisions on energy - energy.ec.europa.eu",
-      "summary": "January infringements package: key decisions on energy&nbsp;&nbsp;energy.ec.europa.euEnvironment, transport, pensions: the EU ‘hits’ Meloni with six new infringement procedures&nbsp;&nbsp;EunewsEU tells more than 20 coun…",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcjExWVQxZFkzSS16ZmVvZkhHMjlVZDF4X1FVX3NKSExodl9NLXlzbVo0NHdHNS0yVmJES193RnRQVng0Tk9ubkRUcnItVGs0NWVUOVZnSUgtaDlMelBBYkpXY0lYblQydUtlc2tkUVozLW1sRVdWZV8tOTBmVGIzSXdCc2tkQ29fSUQ5MFFLZ21QQjktMnYyT2JKeDd5QQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-01-30T14:20:40+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "EU Launches Infringement Procedure Against Romania"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-04T10:06:25Z"
+  "last_updated": "2026-02-05T10:05:12Z"
 }

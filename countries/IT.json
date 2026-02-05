@@ -1,16 +1,37 @@
 {
   "country": "IT",
-  "score": 89,
+  "score": 88,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 48,
+  "trend": -1,
+  "sources": 55,
   "sentiment": {
     "positive": 3,
-    "neutral": 44,
-    "negative": 1
+    "neutral": 50,
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "23fe1a9efeeed79398bca1ebdbe025e1ceffbfa5",
+      "title": "Residents of Cortina, a Winter Olympics Hub, Are Angry About All the Construction",
+      "summary": "In Cortina d’Ampezzo, a hub for the Games in northern Italy, some residents, including a former Olympian, are annoyed about all the construction. Others are annoyed that they’re annoyed.",
+      "url": "https://www.nytimes.com/2026/02/05/world/europe/cortina-olympics-construction-italy.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-05T05:01:09+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "northern Italy, some residents, including a former Olympian, are annoyed"
+    },
+    {
+      "id": "2f9d435f07bd8bae98e2f3e374fd2a80a46a80e7",
+      "title": "EU hospitals released 5 million cancer patients in 2023 - European Commission",
+      "summary": "EU hospitals released 5 million cancer patients in 2023&nbsp;&nbsp;European Commission",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVQ2NySkxSYlp6RGZFV0NCWURjX0R6NmNaS1cxN0ROMk5PNUVmR2UxVlR4VzJrUmppZi1FQk9GNGNxY0k5UEFoUjkxUW5iZ1l5UU5zQmVnZ00zVkJYRFdIS0kybmFlT0ZqMVNCYnhmMkJiV3pHbVVMM3lmMzB0dw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-04T10:03:44+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "5c34ce45e2715507a64b0f95b9873c94e85fb5a8",
       "title": "How to watch Mikaela Shiffrin live at Milano Cortina 2026 Winter Olympics - Milano Cortina 2026",
@@ -117,30 +138,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Rome’s €2 Trevi fountain fee divides opinion"
-    },
-    {
-      "id": "6138e99e3e968b8c32129fd14380bc61b862439b",
-      "title": "the Olympic Flag bearers for the Opening Ceremony revealed - Milano Cortina 2026",
-      "summary": "the Olympic Flag bearers for the Opening Ceremony revealed&nbsp;&nbsp;Milano Cortina 2026PG's Gavin Rowell makes Canada's Olympic ski cross team&nbsp;&nbsp;Prince George CitizenOlympic champions Kingsbury & Thompson name…",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZTJ6b1JSSm9VY05aakdRUm9MRGpEQTYybml0bmRWb1Rtc01oU0taOHhRSzFPRy04WEVueUhmb1BLd1Bpd0NDczFCS3ZRNEFFeVVGZmRhUHhHRGlyODVWbHloQXFmWWN5cnpUeEtVODdVYUhfeUFSSWFJQk85Sm9oUUZJTGhHT2xkeURLcEZ1S0k4R2ZTZG9rRzFJanltZ1NtTHI4ZVRrYm1obHdLU29TekN3Tkg4ZUxCVExVV21IeVpETlNTTjJDZVlraw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-02T14:09:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
-    },
-    {
-      "id": "5b74c5ad2449432cc9507315d7dc82e3f3132bbc",
-      "title": "'Pay and smile' - Rome visitors face Trevi Fountain charge",
-      "summary": "Italy's capital city has introduced a €2 fee to access the viewing area of its iconic fountain, which had previously been free to visit.",
-      "url": "https://www.bbc.com/news/videos/cgqed5qeqx4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-02T13:43:07+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Rome visitors face Trevi Fountain charge"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-04T10:06:25Z"
+  "last_updated": "2026-02-05T10:05:12Z"
 }

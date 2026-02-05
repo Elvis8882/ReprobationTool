@@ -14,5 +14,21 @@
   "countries_scored": [
     "DE",
     "GL"
-  ]
+  ],
+  "sentiment_by_country": {
+    "DE": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "German tried to raise Stars and Stripes in Nuuk"
+    },
+    "GL": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Greenland threats no laughing matter, says mayor"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-05T10:05:12+00:00",
+  "llm_attempted_at": "2026-02-05T10:05:12+00:00"
 }

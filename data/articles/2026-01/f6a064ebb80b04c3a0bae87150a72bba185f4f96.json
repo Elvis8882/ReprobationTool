@@ -16,5 +16,26 @@
     "BA",
     "ME",
     "MK"
-  ]
+  ],
+  "sentiment_by_country": {
+    "BA": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Truckers’ Balkan border blockade over EU rules continues"
+    },
+    "ME": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Truckers’ Balkan border blockade over EU rules continues"
+    },
+    "MK": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Truckers’ Balkan border blockade over EU rules continues"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-05T10:05:12+00:00",
+  "llm_attempted_at": "2026-02-05T10:05:12+00:00"
 }

@@ -1,16 +1,49 @@
 {
   "country": "GB",
-  "score": 78,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 100,
+  "score": 80,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": 2,
+  "sources": 127,
   "sentiment": {
-    "positive": 5,
-    "neutral": 67,
-    "negative": 28
+    "positive": 7,
+    "neutral": 90,
+    "negative": 30
   },
   "latest_articles": [
+    {
+      "id": "b9107e248e30bedc394f6fbeeb9f54306c6791da",
+      "title": "Thursday briefing: W​ill the Epstein ​files ​threaten ​Peter Mandelson’s ​legacy​?",
+      "summary": "In today’s newsletter: A police investigation, newly released documents and long‑standing questions about​ accountability have converged to place one of Labour’s most enduring figures under unprecedented scrutinyGood mor…",
+      "url": "https://www.theguardian.com/world/2026/feb/05/thursday-briefing-will-the-epstein-files-threaten-peter-mandelsons-legacy",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-05T06:45:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Israeli forces have bulldozed part of a Gaza cemetery containing war graves of allied soldiers"
+    },
+    {
+      "id": "3f474178b9aea64f520b052ea7ad418c3b0ceeba",
+      "title": "Shares of Arm plunge 8% after licensing revenue misses estimates, Qualcomm outlook adds pressure",
+      "summary": "Shares of UK-based semiconductor designer Arm Holdings fell in aftermarket trading, despite the company posting record revenues amid AI demand.",
+      "url": "https://www.cnbc.com/2026/02/05/arm-shares-fall-licensing-revenue-miss-ai-demand.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-05T05:03:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Shares of UK-based semiconductor designer Arm Holdings fell"
+    },
+    {
+      "id": "78ed6cf1ea21dc80bf056e2433521b213fa92a41",
+      "title": "Robbie Williams: British people are good at devaluing ourselves",
+      "summary": "With his new album Britpop breaking a record set by the Beatles, the singer takes a moment to celebrate.",
+      "url": "https://www.bbc.com/news/articles/c0jv0j3wpgwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-05T00:24:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Robbie Williams: British people are good at devaluing ourselves"
+    },
     {
       "id": "2590a52c8e72dd29d35543f873cd7c5b3710a740",
       "title": "Starmer agrees to release some files on Mandelson’s appointment as US ambassador in wake of Epstein scandal – UK politics live",
@@ -89,61 +122,28 @@
       "evidence": "Probe Into British Politician Begins"
     },
     {
-      "id": "94b2812f182fce924cba49c0ccbacbf952467801",
-      "title": "X offices raided in France as UK opens fresh investigation into Grok",
-      "summary": "Elon Musk's X and Grok platforms are facing increased scrutiny from authorities on both sides of the channel.",
-      "url": "https://www.bbc.com/news/articles/ce3ex92557jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-04T01:05:26+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "UK opens fresh investigation"
-    },
-    {
-      "id": "713d86eb09fb06fb4670ba4ca8c1cc2450574aaa",
-      "title": "U.K. Investigates Peter Mandelson Over Jeffrey Epstein Ties",
-      "summary": "Peter Mandelson, a prominent British political figure, faces allegations of “misconduct in public office offenses” over his dealings with Jeffrey Epstein.",
-      "url": "https://www.nytimes.com/2026/02/03/world/europe/peter-mandelson-uk-epstein.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-03T22:24:45+00:00",
+      "id": "6a6dc428f19209e0366173871ba86f708614c9dd",
+      "title": "Britain's Ex-Prince Andrew Leaves Windsor Home: Report",
+      "summary": "Latest files showed Andrew crounching over a woman.",
+      "url": "https://www.ndtv.com/world-news/britains-ex-prince-andrew-leaves-windsor-home-bbc-10942288#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-04T05:01:16+00:00",
       "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "U.K. Investigates Peter Mandelson"
+      "confidence": 0.2,
+      "evidence": "Britain's Ex-Prince Andrew Leaves Windsor Home"
     },
     {
-      "id": "fbd20637d354a53a60ab5992169c27a9cd1e1ea5",
-      "title": "Mandelson could face police inquiry over alleged leak to Epstein",
-      "summary": "Met police assessing reports of alleged misconduct in public office after government information apparently sharedPeter Mandelson is facing a possible police investigation into his alleged leak of market-sensitive inform…",
-      "url": "https://www.theguardian.com/us-news/2026/feb/02/mandelson-could-face-police-inquiry-over-alleged-leak-to-epstein",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-03T08:00:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Mandelson could face police inquiry over alleged leak to Epstein"
-    },
-    {
-      "id": "ad457dc6c9349a28b5800c6e57602436e4e7dcaf",
-      "title": "Environmentalists decry ‘crushingly disappointing’ Pfas action plan for UK",
-      "summary": "Ministers’ proposals to tackle ‘forever chemicals’ fail to match tougher stance taken in Europe, say expertsEnvironmental campaigners have criticised a “crushingly disappointing” UK government plan to tackle “forever che…",
-      "url": "https://www.theguardian.com/environment/2026/feb/03/environmentalists-decry-crushingly-disappointing-pfas-action-plan-for-uk",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-03T07:56:37+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "fail to match tougher stance taken in Europe"
-    },
-    {
-      "id": "93e3311a029daf995ed3fb463580dc439df3d6c8",
-      "title": "Palestine Action Group plans march against Isaac Herzog’s visit despite protest restrictions",
-      "summary": "Calls for NSW police to ‘exercise their discretion’ and facilitate a peaceful rally in Sydney on 9 February while Israeli president visits AustraliaFollow our Australia news live blog for latest updatesGet our breaking n…",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/03/palestine-action-group-march-isaac-herzog-ntwnfb",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-03T07:34:35+00:00",
+      "id": "8f0c19c6759737c1aacb3f4295abf7a4e1ccc791",
+      "title": "Indian-origin restaurant owner caught spiking woman’s drink at UK club; staff swap glass before calling police",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/uk/indian-origin-restaurant-owner-vikas-nath-caught-spiking-womans-drink-at-uk-club-staff-swap-glass-before-calling-police/articleshow/127897598.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-02-04T01:28:17+00:00",
       "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
+      "confidence": 0.2,
+      "evidence": "spiking woman’s drink at UK club"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-04T10:06:25Z"
+  "last_updated": "2026-02-05T10:05:12Z"
 }

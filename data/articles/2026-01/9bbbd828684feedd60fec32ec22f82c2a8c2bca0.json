@@ -15,6 +15,20 @@
     "GR",
     "TR"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_attempted_at": "2026-02-04T10:06:25+00:00"
+  "llm_attempted_at": "2026-02-05T10:05:12+00:00",
+  "sentiment_by_country": {
+    "GR": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Athens fears Turkish trap on Trump’s peace board"
+    },
+    "TR": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Trump’s business-driven approach could open the door to a political settlement"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-05T10:05:12+00:00"
 }

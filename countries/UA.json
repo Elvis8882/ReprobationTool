@@ -1,16 +1,27 @@
 {
   "country": "UA",
-  "score": 70,
+  "score": 71,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 2,
-  "sources": 52,
+  "trend": 1,
+  "sources": 72,
   "sentiment": {
-    "positive": 12,
-    "neutral": 15,
-    "negative": 25
+    "positive": 16,
+    "neutral": 23,
+    "negative": 33
   },
   "latest_articles": [
+    {
+      "id": "0b531e7af64850c2deebf8238a78408ddce2ac2b",
+      "title": "'Fired In Middle Of War Zone': Washington Post's Ukraine Correspondent Laid Off",
+      "summary": "Lizzie Johnson joined The Washington Post in 2021",
+      "url": "https://www.ndtv.com/world-news/fired-in-middle-of-war-zone-washington-posts-ukraine-correspondent-lizzie-johnson-laid-off-10950013#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-05T06:50:39+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Ukraine Correspondent Laid Off"
+    },
     {
       "id": "f9b3d389a992e77ff88e8ad4d0b236b66ddb775e",
       "title": "Ukraine-Russia talks: negotiators gather in Abu Dhabi in wake of ‘massive’ strikes on Kyiv – Europe live",
@@ -131,19 +142,8 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "Ukraine hails 'real results' after Musk restricts Russian Starlink use"
-    },
-    {
-      "id": "da9f0d58a6dcfc919e2b03aa6247e58b87cf6d12",
-      "title": "Fancy Bear Exploits Microsoft Office Flaw in Ukraine, EU Cyber-Attacks - Infosecurity Magazine",
-      "summary": "Fancy Bear Exploits Microsoft Office Flaw in Ukraine, EU Cyber-Attacks&nbsp;&nbsp;Infosecurity MagazineMicrosoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation&nbsp;&nbsp;The Hacker New…",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSC0xcEdhVEJJT2VsV3pZcE9rcHFFSktFLVNsWVNSVjVPbHhNeGV3SEFwTzNoemFOWnF3M0VSbldlQ2hkdDZSR2NlRnBMOGRMUFlzcmY3LVFOY1FnUmhoTjZITkZXbm03Z0NKaHlCd3FrUExoWFRya0FEanZRSDlnQw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-02T12:45:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Fancy Bear Exploits Microsoft Office Flaw in Ukraine, EU Cyber-Attacks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-04T10:06:25Z"
+  "last_updated": "2026-02-05T10:05:12Z"
 }

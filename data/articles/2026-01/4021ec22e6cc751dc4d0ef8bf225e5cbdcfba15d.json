@@ -14,5 +14,21 @@
   "countries_scored": [
     "RU",
     "UA"
-  ]
+  ],
+  "sentiment_by_country": {
+    "RU": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia Is Finding the Gaps in Ukraine’s Front Line"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "how to defend 700 miles with too few troops"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-05T10:05:12+00:00",
+  "llm_attempted_at": "2026-02-05T10:05:12+00:00"
 }

@@ -14,5 +14,21 @@
   "countries_scored": [
     "RU",
     "UA"
-  ]
+  ],
+  "sentiment_by_country": {
+    "RU": {
+      "label": "neutral",
+      "confidence": 0.4,
+      "evidence": "Trump claims Putin agreed to halt strikes on Ukraine energy sites"
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.5,
+      "evidence": "Trump made an “important statement … about the possibility of providing security for Kyiv"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-05T10:05:12+00:00",
+  "llm_attempted_at": "2026-02-05T10:05:12+00:00"
 }

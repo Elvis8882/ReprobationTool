@@ -14,5 +14,21 @@
   "countries_scored": [
     "RU",
     "UA"
-  ]
+  ],
+  "sentiment_by_country": {
+    "RU": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia bombs Ukraine despite Trump intervention"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia bombs Ukraine despite Trump intervention"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-05T10:05:12+00:00",
+  "llm_attempted_at": "2026-02-05T10:05:12+00:00"
 }

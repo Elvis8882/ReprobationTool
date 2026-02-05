@@ -14,5 +14,21 @@
   "countries_scored": [
     "RU",
     "SY"
-  ]
+  ],
+  "sentiment_by_country": {
+    "RU": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia-backed Syrian dictator Bashar al-Assad"
+    },
+    "SY": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "welcomes New Syrian Leader to Moscow Again"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-05T10:05:12+00:00",
+  "llm_attempted_at": "2026-02-05T10:05:12+00:00"
 }

@@ -13,6 +13,15 @@
   "countries_scored": [
     "DE"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_attempted_at": "2026-02-04T10:06:25+00:00"
+  "llm_attempted_at": "2026-02-05T10:05:12+00:00",
+  "sentiment_by_country": {
+    "DE": {
+      "label": "positive",
+      "confidence": 0.7,
+      "evidence": "German space commander supports push for virtual European Space Command"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-05T10:05:12+00:00"
 }

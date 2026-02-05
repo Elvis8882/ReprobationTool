@@ -14,5 +14,21 @@
   "countries_scored": [
     "RU",
     "UA"
-  ]
+  ],
+  "sentiment_by_country": {
+    "RU": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "power cuts caused by Russian attacks"
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.6,
+      "evidence": "Residents in the Ukrainian capital are finding joy in unusual places"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-05T10:05:12+00:00",
+  "llm_attempted_at": "2026-02-05T10:05:12+00:00"
 }

@@ -16,5 +16,26 @@
     "GB",
     "IL",
     "IR"
-  ]
+  ],
+  "sentiment_by_country": {
+    "GB": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Keir Starmer’s cautious China gamble pay off"
+    },
+    "IL": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "advocates for Israel has found “no evidence of partisan political views”"
+    },
+    "IR": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Donald Trump has warned time is running out for Tehran"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-05T10:05:12+00:00",
+  "llm_attempted_at": "2026-02-05T10:05:12+00:00"
 }

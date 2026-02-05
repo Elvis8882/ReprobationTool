@@ -16,5 +16,26 @@
     "GL",
     "RU",
     "UA"
-  ]
+  ],
+  "sentiment_by_country": {
+    "GL": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    "RU": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "evidence": "Russia sanctions"
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.5,
+      "evidence": "arming Ukraine"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-05T10:05:12+00:00",
+  "llm_attempted_at": "2026-02-05T10:05:12+00:00"
 }

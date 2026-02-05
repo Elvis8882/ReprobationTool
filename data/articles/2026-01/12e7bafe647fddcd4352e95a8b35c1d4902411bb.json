@@ -14,5 +14,21 @@
   "countries_scored": [
     "HU",
     "UA"
-  ]
+  ],
+  "sentiment_by_country": {
+    "HU": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Hungary launches pre-election petition against EU aid for Ukraine"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Hungary launches pre-election petition against EU aid for Ukraine"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-05T10:05:12+00:00",
+  "llm_attempted_at": "2026-02-05T10:05:12+00:00"
 }
