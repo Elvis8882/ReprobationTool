@@ -1,16 +1,103 @@
 {
   "country": "DE",
-  "score": 80,
+  "score": 79,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
-  "sources": 38,
+  "trend": -1,
+  "sources": 50,
   "sentiment": {
-    "positive": 5,
-    "neutral": 28,
-    "negative": 5
+    "positive": 8,
+    "neutral": 34,
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "fe0aaffb543a8903d66f29b5f3d6ee529d376d12",
+      "title": "Germany wants 8% of streaming revenue to go to local production",
+      "summary": "Finance Minister Lars Klingbeil said that the extra funding will \"secure jobs\" in the German film industry",
+      "url": "https://www.euractiv.com/news/germany-wants-8-of-streaming-revenue-to-go-to-local-production/",
+      "source": "Euractiv",
+      "published_at": "2026-02-06T06:21:51+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "secure jobs\" in the German film industry"
+    },
+    {
+      "id": "00df9aa95ac9e2ddeb4c4eea348b2619d8ebebd7",
+      "title": "Opposition to US has hardened in western Europe after Greenland threat, poll finds",
+      "summary": "Large majorities in six nations express antipathy to Trump’s US and support European self-assertionWestern Europeans prize Europe’s autonomy and values over transatlantic ties and will not give them up to placate Donald…",
+      "url": "https://www.theguardian.com/world/2026/feb/06/western-europeans-turning-against-us-after-greenland-threat-poll-finds",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-06T06:00:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Opposition to US has hardened in western Europe after Greenland threat"
+    },
+    {
+      "id": "b5156dfe0e34b09ba4b1aaf1bebc654fe8231bcc",
+      "title": "German competition order limits Amazon’s price control mechanisms",
+      "summary": "The FCO order also requires Amazon to pay back millions it gained through anti-competitive restrictions on sellers",
+      "url": "https://www.euractiv.com/news/german-competition-order-limits-amazons-price-control-mechanisms/",
+      "source": "Euractiv",
+      "published_at": "2026-02-05T11:59:39+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "German competition order limits Amazon’s price control mechanisms"
+    },
+    {
+      "id": "1f5b0e18c47f53af3410e80d744a1c9c8d5df1ae",
+      "title": "Merz heads to Gulf as Germany looks to diversify trade ties",
+      "summary": "Joined by a business delegation, the conservative leader will meet with Saudi Crown Prince Mohammed bin Salman, then travel to Qatar and the UAE",
+      "url": "https://www.euractiv.com/news/merz-heads-to-gulf-as-germany-looks-to-diversify-trade-ties/",
+      "source": "Euractiv",
+      "published_at": "2026-02-05T03:38:24+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Germany looks to diversify trade ties"
+    },
+    {
+      "id": "c4252aed0a69d2bfe315568b465773fba11859d2",
+      "title": "Hungarian court sentenced German Antifa to jail over attacks on far-right demonstrators",
+      "summary": "The defendant told the court before the verdict that the proceedings were intended to deter dissent",
+      "url": "https://www.euractiv.com/short_news/hungarian-court-sentenced-german-antifa-to-jail-over-attacks-on-far-right-demonstrators/",
+      "source": "Euractiv",
+      "published_at": "2026-02-04T17:19:42+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Hungarian court sentenced German Antifa to jail"
+    },
+    {
+      "id": "ba2c1ed894d35ff7ddee8cc4fb00839e0875516b",
+      "title": "EU Parliament to hold special plenary on Ukraine war anniversary",
+      "summary": "A debate on Russia's war in Ukraine and a vote on a new €90 billion defence-focused loan to Ukraine have also been moved to 24 February",
+      "url": "https://www.euractiv.com/news/eu-parliament-to-hold-special-plenary-on-ukraine-war-anniversary/",
+      "source": "Euractiv",
+      "published_at": "2026-02-04T16:31:51+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "fd6e58f351cb7f0409f3790fcabc79a4e28ecc1a",
+      "title": "German politician ‘disillusioned’ by sovereignty push with France",
+      "summary": "For Paris, buying European means buying French, per a leading member of Germany’s government",
+      "url": "https://www.euractiv.com/news/german-politician-disillusioned-by-sovereignty-push-with-france/",
+      "source": "Euractiv",
+      "published_at": "2026-02-04T13:50:10+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "German politician ‘disillusioned’ by sovereignty push"
+    },
+    {
+      "id": "752afc63bd579a1f6af88c2eb7654664964f4fd7",
+      "title": "Germany backs European level nuclear discussions",
+      "summary": "The idea has resurfaced due to Europe's fraying relationship with Washington, but talks are still in their infancy",
+      "url": "https://www.euractiv.com/news/germany-backs-european-level-nuclear-discussions/",
+      "source": "Euractiv",
+      "published_at": "2026-02-04T13:24:47+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "Germany backs European level nuclear discussions"
+    },
     {
       "id": "2f9d435f07bd8bae98e2f3e374fd2a80a46a80e7",
       "title": "EU hospitals released 5 million cancer patients in 2023 - European Commission",
@@ -42,99 +129,17 @@
       "sentiment_fallback": true
     },
     {
-      "id": "5cd2c1893114080632974d9345556e42e4996c4c",
-      "title": "Europe’s path to a cleaner automotive sector – What are the opportunities and challenges? [Advocacy Lab]",
-      "summary": "The European Commission has published its proposals to revise its Car CO2 Regulation and to introduce national targets for Clean Corporate Vehicles as part of its Automotive Package. These initiatives aim to reduce green…",
-      "url": "https://www.euractiv.com/video/europes-path-to-a-cleaner-automotive-sector-what-are-the-opportunities-and-challenges/",
-      "source": "Euractiv",
-      "published_at": "2026-02-03T15:00:33+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "2f86739e5dcbc0b2040b98f0927dd34c9459b7b4",
-      "title": "Germany arrests five, saying they violated sanctions against Russia",
-      "summary": "Prosecutors said the suspects ran an export network that sent more than 16,000 shipments worth more than $30 million to Russian customers, including arms manufacturers.",
-      "url": "https://www.washingtonpost.com/world/2026/02/02/germany-sanctions-evasion-five-arrested/",
-      "source": "World (Washington post)",
-      "published_at": "2026-02-02T17:42:00+00:00",
-      "sentiment": "positive",
+      "id": "afc85ece24253e7996098f1de98d2dfc0d1fd70e",
+      "title": "Two arrested over attempted sabotage of German naval vessels",
+      "summary": "Two port workers are accused of trying to damage military ships, including by dumping gravel into an engine.",
+      "url": "https://www.bbc.com/news/articles/crkryz35246o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-03T16:30:11+00:00",
+      "sentiment": "negative",
       "confidence": 0.9,
-      "evidence": "Germany arrests five, saying they violated sanctions against Russia"
-    },
-    {
-      "id": "b51ee529a130084e534ce9ea417d28cb07af7958",
-      "title": "Remarks on the European Asylum and Migration Management Strategy and the EU Visa Strategy - European Commission",
-      "summary": "Remarks on the European Asylum and Migration Management Strategy and the EU Visa Strategy&nbsp;&nbsp;European CommissionBritain should co-operate as EU gets tough on enforcing asylum laws&nbsp;&nbsp;The TimesEU set to us…",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zQ3JWZjBBVnlfcFJTelYxeUk2Z1dDN1dzang3QW8yR3A0YUY5bFdJQU96OUlnSXQ1RkdUemJVM01iTlBKQ2NNQXB4NUZiNWdqT29vX1duOWZ3dkdmR0EyS1dJN3lhbEZmZFNuYlVyT3JMa2JUNVE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-02T10:15:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Remarks on the European Asylum and Migration Management Strategy"
-    },
-    {
-      "id": "e6db6ad0340b23e4ff9d0cb207147d4ff3d60f5e",
-      "title": "9.2% of EU population struggled to keep their home warm - European Commission",
-      "summary": "9.2% of EU population struggled to keep their home warm&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmQlFtenRVbXA5Z0xoN24wRUQ3ZG1obFNmdkdOYVZqN2RWM3FNcFp0YWZnNENTakYtQmw5eW9SWjNrY1FHbm1ucmptVmdKNTJuNFFjQ1BRajVaNFl2b0c0WWx3blBfakg2TEFFRGFjMEpGOGhHVmN6V0lvOFNadw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-02T10:03:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "66e3dff97383a221f9950567a759d4d1e6ea62d5",
-      "title": "‘Stop outsourcing genomics testing’ Irish senators tell government ‘upscale now’ [Advocacy Lab]",
-      "summary": "Every year, 20,000 genetic tests are sent to laboratories in the UK, US, Germany, Spain and Finland - senators want to bring that testing back to Ireland",
-      "url": "https://www.euractiv.com/news/stop-outsourcing-genomics-testing-irish-senators-tell-government-upscale-now/",
-      "source": "Euractiv",
-      "published_at": "2026-02-02T08:29:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "laboratories in the UK, US, Germany, Spain and Finland"
-    },
-    {
-      "id": "bb675ad212349d9ebdb60fade1ff7658c6daeba4",
-      "title": "Starmer says UK should ‘do more’ with EU in joint defence",
-      "summary": "Britain should &#8220;do more together&#8221; with the EU on defence, including through a bloc-wide initiative to bolster arms stocks that London has not yet joined, Prime Minister Keir Starmer has said. The comments com…",
-      "url": "https://www.euractiv.com/news/starmer-says-uk-should-do-more-with-eu-in-joint-defence/",
-      "source": "Euractiv",
-      "published_at": "2026-02-01T19:43:24+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "963f1f8ef16048540c405751ed5baeda6017822f",
-      "title": "Belarusian balloons full of cigarettes pose NATO’s latest security threat",
-      "summary": "A rising number of incursions into NATO airspace has led some officials to allege an escalation of Russian hybrid attacks against the alliance and the European Union.",
-      "url": "https://www.washingtonpost.com/world/2026/01/30/belarus-balloons-nato-russia-threat/",
-      "source": "World (Washington post)",
-      "published_at": "2026-01-30T16:47:23+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "94ddbd78fe8c68a2c5128e265a01ac1ab8ef437d",
-      "title": "Contingent liabilities and non-performing loans in 2024 - European Commission",
-      "summary": "Contingent liabilities and non-performing loans in 2024&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rOEtOQXBGN3pTRE4yRUN2Z0U5OXJ2c1VtRTdQWFVOYmpHNERFUXhQdVRMa3V6ZTEzODFVUVlNUjdrVnViMks0RGp6NUw4QVdMa2NUZU05dTRtOFRha0YwdXQ4MTBrUmlxZ1B3LXNIZWFvTjJTeUVzdzBpb0ZYdw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-01-30T10:01:14+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "80a81f18c09a727ce76fc944a90e455abd55ba49",
-      "title": "Now available: first 2026 data on minimum wages - European Commission",
-      "summary": "Now available: first 2026 data on minimum wages&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhcjIyLWtJdHQ5c1VxUS1aZHJuX2tieVVJWVRCc3BFTEl1TGV5cWhzZkltb08wYjgxa0pDZDI4MHJsX282eC1tR2N2V3AtcGdTQjllcXYwZ3dXYXN5REdkcHBfNGNfNFppV0w4ekFRTk9pOHpHQWJLRjJQYzdfdw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-01-30T10:01:14+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
+      "evidence": "attempted sabotage of German naval vessels"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-05T10:05:12Z"
+  "last_updated": "2026-02-06T10:03:36Z"
 }

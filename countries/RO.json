@@ -1,13 +1,13 @@
 {
   "country": "RO",
-  "score": 81,
+  "score": 82,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -4,
-  "sources": 29,
+  "trend": 1,
+  "sources": 32,
   "sentiment": {
     "positive": 0,
-    "neutral": 27,
+    "neutral": 30,
     "negative": 2
   },
   "latest_articles": [
@@ -21,6 +21,16 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Romanian power grab"
+    },
+    {
+      "id": "ba2c1ed894d35ff7ddee8cc4fb00839e0875516b",
+      "title": "EU Parliament to hold special plenary on Ukraine war anniversary",
+      "summary": "A debate on Russia's war in Ukraine and a vote on a new €90 billion defence-focused loan to Ukraine have also been moved to 24 February",
+      "url": "https://www.euractiv.com/news/eu-parliament-to-hold-special-plenary-on-ukraine-war-anniversary/",
+      "source": "Euractiv",
+      "published_at": "2026-02-04T16:31:51+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "2f9d435f07bd8bae98e2f3e374fd2a80a46a80e7",
@@ -125,18 +135,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Romania among EU countries with lowest minimum wages"
-    },
-    {
-      "id": "bb675ad212349d9ebdb60fade1ff7658c6daeba4",
-      "title": "Starmer says UK should ‘do more’ with EU in joint defence",
-      "summary": "Britain should &#8220;do more together&#8221; with the EU on defence, including through a bloc-wide initiative to bolster arms stocks that London has not yet joined, Prime Minister Keir Starmer has said. The comments com…",
-      "url": "https://www.euractiv.com/news/starmer-says-uk-should-do-more-with-eu-in-joint-defence/",
-      "source": "Euractiv",
-      "published_at": "2026-02-01T19:43:24+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-05T10:05:12Z"
+  "last_updated": "2026-02-06T10:03:36Z"
 }

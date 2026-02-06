@@ -1,16 +1,38 @@
 {
   "country": "MD",
-  "score": 90,
+  "score": 92,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 1,
+  "trend": 2,
+  "sources": 3,
   "sentiment": {
-    "positive": 0,
-    "neutral": 1,
+    "positive": 1,
+    "neutral": 2,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "7edb32d2507da624803f007702c6e4a81bb761e1",
+      "title": "INTERVIEW: Moldova open to two-tier EU membership",
+      "summary": "But \"the ultimate goal is, of course, to be a fully fledged member\", Foreign Minister Popșoi said",
+      "url": "https://www.euractiv.com/news/interview-moldova-open-to-two-tier-eu-membership/",
+      "source": "Euractiv",
+      "published_at": "2026-02-05T12:02:42+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Moldova open to two-tier EU membership"
+    },
+    {
+      "id": "146a0f6129df41e795094e8e5795472e2454cbde",
+      "title": "Moldova’s shortcut to Brussels",
+      "summary": "In Thursday’s edition: Slovenian elections, EP extraordinary plenary, EU-UAE trade talks, Ukraine loan approved, EU-US trade deal",
+      "url": "https://www.euractiv.com/news/rapportaur-moldovas-shortcut-to-brussels/",
+      "source": "Euractiv",
+      "published_at": "2026-02-05T06:13:16+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Moldova’s shortcut to Brussels"
+    },
     {
       "id": "5af7c6fc614372ae0ee6ddcef1858a87176cdf70",
       "title": "Kyiv metro halted as Ukraine hit by cascading blackouts",
@@ -24,5 +46,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-05T10:05:12Z"
+  "last_updated": "2026-02-06T10:03:36Z"
 }

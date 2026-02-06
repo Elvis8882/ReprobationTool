@@ -1,16 +1,37 @@
 {
   "country": "BG",
-  "score": 91,
+  "score": 92,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 25,
+  "trend": 1,
+  "sources": 29,
   "sentiment": {
-    "positive": 1,
-    "neutral": 24,
+    "positive": 2,
+    "neutral": 27,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "6591172bea4cfe0b4559cdf180aa487473f2c267",
+      "title": "Bulgaria clears path for public defibrillator use in cardiac emergencies [Advocacy Lab]",
+      "summary": "Defibrillator use in cardiac arrest cases increases patient survival rates by between 49% and 75%, the government wants to improve access for non-medical responders",
+      "url": "https://www.euractiv.com/news/bulgaria-clears-path-for-public-defibrillator-use-in-cardiac-emergencies/",
+      "source": "Euractiv",
+      "published_at": "2026-02-06T02:54:25+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Bulgaria clears path for public defibrillator use in cardiac emergencies"
+    },
+    {
+      "id": "ba2c1ed894d35ff7ddee8cc4fb00839e0875516b",
+      "title": "EU Parliament to hold special plenary on Ukraine war anniversary",
+      "summary": "A debate on Russia's war in Ukraine and a vote on a new €90 billion defence-focused loan to Ukraine have also been moved to 24 February",
+      "url": "https://www.euractiv.com/news/eu-parliament-to-hold-special-plenary-on-ukraine-war-anniversary/",
+      "source": "Euractiv",
+      "published_at": "2026-02-04T16:31:51+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "2f9d435f07bd8bae98e2f3e374fd2a80a46a80e7",
       "title": "EU hospitals released 5 million cancer patients in 2023 - European Commission",
@@ -112,28 +133,8 @@
       "published_at": "2026-01-30T16:47:23+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "94ddbd78fe8c68a2c5128e265a01ac1ab8ef437d",
-      "title": "Contingent liabilities and non-performing loans in 2024 - European Commission",
-      "summary": "Contingent liabilities and non-performing loans in 2024&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rOEtOQXBGN3pTRE4yRUN2Z0U5OXJ2c1VtRTdQWFVOYmpHNERFUXhQdVRMa3V6ZTEzODFVUVlNUjdrVnViMks0RGp6NUw4QVdMa2NUZU05dTRtOFRha0YwdXQ4MTBrUmlxZ1B3LXNIZWFvTjJTeUVzdzBpb0ZYdw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-01-30T10:01:14+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "80a81f18c09a727ce76fc944a90e455abd55ba49",
-      "title": "Now available: first 2026 data on minimum wages - European Commission",
-      "summary": "Now available: first 2026 data on minimum wages&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhcjIyLWtJdHQ5c1VxUS1aZHJuX2tieVVJWVRCc3BFTEl1TGV5cWhzZkltb08wYjgxa0pDZDI4MHJsX282eC1tR2N2V3AtcGdTQjllcXYwZ3dXYXN5REdkcHBfNGNfNFppV0w4ekFRTk9pOHpHQWJLRjJQYzdfdw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-01-30T10:01:14+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-05T10:05:12Z"
+  "last_updated": "2026-02-06T10:03:36Z"
 }

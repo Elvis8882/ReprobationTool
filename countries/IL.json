@@ -1,16 +1,93 @@
 {
   "country": "IL",
-  "score": 82,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 48,
+  "score": 79,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": -3,
+  "sources": 62,
   "sentiment": {
     "positive": 3,
-    "neutral": 36,
-    "negative": 9
+    "neutral": 43,
+    "negative": 16
   },
   "latest_articles": [
+    {
+      "id": "859247a993e647fcc2160fb1d4ffcc1064dd5997",
+      "title": "US and Iran talks begin in Oman amid Trump’s military threats – live",
+      "summary": "Senior officials meet for direct talks, amid a crisis that has raised fears of a military action between Iran and the USAnalysis: Iran is betting Trump does not have a plan for regime changeUS and Iran talks brought back…",
+      "url": "https://www.theguardian.com/world/live/2026/feb/06/us-iran-nuclear-talks-oman-live-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-06T09:21:38+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Israel launched attacks on Iran that sparked a war"
+    },
+    {
+      "id": "8d9feb42473cf41feb707bc8d1583ca67ed07d5f",
+      "title": "US and Iran to begin high-stakes talks over nuclear programme",
+      "summary": "Negotiations take place as US builds naval presence in region and in aftermath of bloody crackdown on protestersIran and US nuclear talks – live updatesThe US and Iran are due to start high-stakes talks in Oman over Tehr…",
+      "url": "https://www.theguardian.com/world/2026/feb/06/us-iran-talks-oman-nuclear-programme",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-06T08:54:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "US struck Iranian nuclear targets in June, joining in the final stages"
+    },
+    {
+      "id": "3eb4760559462527e38728364cf531263126ade5",
+      "title": "A star is born: Israeli team detects stellar-creation particles 400 light-years away - The Times of Israel",
+      "summary": "A star is born: Israeli team detects stellar-creation particles 400 light-years away&nbsp;&nbsp;The Times of IsraelDirect detection of cosmic-ray-excited H&nbsp;&nbsp;NatureCosmic radiation brought to light: Researchers…",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMDRaVEcxa3lQUlAxenBINGMxX3EtWXNNRUFsSVk2cUhoWDRXNzFQQ2hIQnpkSk5sQ1I4RGxjck5Pd09seDRydmdpd05XeU10T3h1SnVCaks1WFZGVktyRG4weW5IZE45bEMyRWVQeHpOV1ItLWJReUh3aG9HOC1TTWZVcFdReVNINDVDdWF3bWxhbjMxUHk5RWNaSDV5R3Q0TXlLRFB4YjJuUF9Kd2JkTWYxSWnSAboBQVVfeXFMUHY0SGdjMUNmV3gwTF9oRmZpT29sWjlFWG5wNVBEMmtPYTc5MUJDdWZtRGRKRGhxbUtqY3RNM2tuYVRvVmZRdTNjaTZldzNuYW9fQWJ4UUMzZ2QtS0pWVmFxRVRLRUVsSml0Y1pqdkk2QXlWOFNxc01qSTZiT1NHQnM1aHdoQlRlVVBMenBSZlpQZkw1b2Z1R1NtdmpHdzF2NTlrZGhaMndZZDZ6OFo1Wm41U3U5emJBTHpB?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-06T06:00:48+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Israeli team detects stellar-creation particles"
+    },
+    {
+      "id": "524aaa2ee0b5eeaf3ac8adcaaa65c004ed617779",
+      "title": "Iran is betting that Trump does not have a plan for regime change",
+      "summary": "Although weakened by airstrikes, sanctions and domestic unrest, Tehran is surprisingly bullish before talks with USWhen it comes to Iran and Donald Trump, there is so much bluff, backed by military hardware, that the tru…",
+      "url": "https://www.theguardian.com/world/2026/feb/05/iran-is-betting-that-trump-does-not-have-a-plan-for-regime-change",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-05T19:01:58+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "surprise Israeli attack on Iran last June"
+    },
+    {
+      "id": "d44504aa6839944bc521f75eb72469d6179bbd9b",
+      "title": "Shin Bet chief’s brother charged with ‘assisting enemy’ over cigarette smuggling in Gaza",
+      "summary": "Bezalel Zini accused of role in taking goods into the occupied Palestinian territory during an Israeli blockadeThe brother of Israel’s internal security chief has been charged with “assisting the enemy in wartime” for hi…",
+      "url": "https://www.theguardian.com/world/2026/feb/05/shin-bet-chief-brother-charged-assisting-enemy-cigarette-smuggling-gaza",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-05T18:01:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Shin Bet chief’s brother charged with ‘assisting enemy’"
+    },
+    {
+      "id": "7dfd0033d423b78d0329724c2a5d724dcd6507a4",
+      "title": "Israeli intelligence chief's brother charged with smuggling cigarettes into Gaza",
+      "summary": "Bezalel Zini, an Israeli military reservist on active duty, is accused of smuggling 14 cartons of cigarettes in exchange for $117,000.",
+      "url": "https://www.bbc.com/news/articles/c86v8y4ppd9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-05T17:58:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Israeli intelligence chief's brother charged with smuggling cigarettes into Gaza"
+    },
+    {
+      "id": "0339698c86e9fb5316cac21222f88358d5894f95",
+      "title": "Lebanon says Israel sprayed southern villages with concentrated herbicide",
+      "summary": "Israel declines to comment on the allegation its planes sprayed glyphosate over an area with extensive farmland.",
+      "url": "https://www.bbc.com/news/articles/cgez359nd72o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-05T16:42:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Israel sprayed southern villages with concentrated herbicide"
+    },
     {
       "id": "e2f4c260ae48c2c4e49379b1370980ee8f8264ff",
       "title": "Greens senator claims One Nation the party of ‘billionaires, not battlers’ – as it happened",
@@ -45,105 +122,28 @@
       "evidence": "Shelved Report Criticizing Israel"
     },
     {
-      "id": "7d3b5e95ec375c27c71b708a835b43b766af2099",
-      "title": "Police investigate illegal riding on Sydney Harbour Bridge – as it happened",
-      "summary": "This blog is now closed‘I don’t think this was a good decision’: Labor’s Ed Husic holds ‘deep concerns’ over Israeli president Isaac Herzog’s visitGet our breaking news email, free app or daily news podcastTwo-thirds of…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/feb/04/australian-politics-live-labor-liberal-anthony-albanese-sussan-ley-leadership-challenge-coalition-littleproud-chalmers-interest-rates-rise-rba-ntwfb",
+      "id": "d984aa8e233838acecb3f3263e32e6793aec14e5",
+      "title": "Florida bill seeks to ban use of ‘West Bank’ in schools and state agencies",
+      "summary": "The bill would mandate use of the biblical term ‘Judea and Samaria’ after a similar effort passed in ArkansasFlorida legislators are pushing to pass legislation that would ban the use of the term “West Bank” in K-12 publ…",
+      "url": "https://www.theguardian.com/us-news/2026/feb/04/florida-ban-west-bank-schools-state-agencies-bill",
       "source": "World news - The Guardian",
-      "published_at": "2026-02-04T06:59:35+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Police investigate illegal riding on Sydney Harbour Bridge"
-    },
-    {
-      "id": "c6a5989c00bb3349bcc08b7d7e0c4d604571018e",
-      "title": "A Hamas Hostage’s Secret Ordeal",
-      "summary": "Guy Gilboa-Dalal says he was sexually abused by one of his captors in the tunnels of Gaza and threatened with death if he said anything.",
-      "url": "https://www.nytimes.com/2026/02/03/world/middleeast/hamas-hostage-abuse.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-03T20:40:39+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
-    },
-    {
-      "id": "ce4f6608e2d91319c5c693629b3571bb3403c710",
-      "title": "Palestinians Return to Gaza for First Time in Nearly Two Years",
-      "summary": "Only 12 returnees were allowed to cross the newly reopened border with Egypt on the first day, far fewer than the expected number.",
-      "url": "https://www.nytimes.com/2026/02/03/world/middleeast/palestinians-gaza-return.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-03T19:22:22+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
-    },
-    {
-      "id": "9b446626677d5713cacbc41724e7b57f58edac45",
-      "title": "Gazans returning through Rafah crossing describe checks by Palestinian militia",
-      "summary": "One Palestinian woman said members of the Israel-linked militia searched them and their belongings at an Israeli checkpoint inside Gaza.",
-      "url": "https://www.bbc.com/news/articles/cy4g3rne4n7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-03T18:31:44+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "members of the Israel-linked militia searched them"
-    },
-    {
-      "id": "947ad72ab88b6ce85e07f440eada7740f923e042",
-      "title": "Human Rights Watch researchers resign after report on Palestinian right of return blocked",
-      "summary": "The organization claims the report, which finds Israel’s denial of the right of return is a crime against humanity, is ‘paused pending further analysis and research’Two Human Rights Watch (HRW) employees who make up the…",
-      "url": "https://www.theguardian.com/world/2026/feb/03/human-rights-watch-researchers-resign-palestine",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-03T16:00:03+00:00",
+      "published_at": "2026-02-04T19:34:50+00:00",
       "sentiment": "negative",
       "confidence": 0.8,
-      "evidence": "Israel’s denial of Palestinian refugees the right of return a “crime against humanity”"
+      "evidence": "Israeli-occupied Palestinian territory... seized from Jordan by Israel"
     },
     {
-      "id": "93e3311a029daf995ed3fb463580dc439df3d6c8",
-      "title": "Palestine Action Group plans march against Isaac Herzog’s visit despite protest restrictions",
-      "summary": "Calls for NSW police to ‘exercise their discretion’ and facilitate a peaceful rally in Sydney on 9 February while Israeli president visits AustraliaFollow our Australia news live blog for latest updatesGet our breaking n…",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/03/palestine-action-group-march-isaac-herzog-ntwnfb",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-03T07:34:35+00:00",
+      "id": "501dae4b984c3f967c43cfaa957191d5bf32333b",
+      "title": "Yair Golan’s Battle for a Two-State Solution and the Future of Israel",
+      "summary": "To many Israelis, he’s a war hero. To others, he’s a traitor guilty of “blood libel.” Can Yair Golan change politics in Israel?",
+      "url": "https://www.nytimes.com/2026/02/04/magazine/yair-golan-israel-palestine-gaza-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-04T18:06:55+00:00",
       "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Israeli president, Isaac Herzog’s, visit"
-    },
-    {
-      "id": "8a156286cc6d5d22b01449c2175d8faebfaa27a9",
-      "title": "Tuesday briefing: The ‘life-shattering’ stories of Epstein survivors",
-      "summary": "In today’s newsletter: What the newly disclosed Epstein pages really tells us – and why some survivors are frustrated with the way the narrative is being toldGood morning. The mills of God may grind slowly, but the wheel…",
-      "url": "https://www.theguardian.com/world/2026/feb/03/tuesday-briefing-first-edition-jeffrey-epstein-files-survivors",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-03T06:40:30+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Rafah border crossing... reopened by Israel"
-    },
-    {
-      "id": "27315172a36ff0857cac6391957f9e54460beb93",
-      "title": "Explainer: What's Next For Trump's Gaza Plan After Rafah Reopening?",
-      "summary": "Gaza health authorities say at least 488 Palestinians have been killed by Israeli fire since October 10.",
-      "url": "https://www.ndtv.com/world-news/explainer-whats-next-for-trumps-gaza-plan-after-rafah-reopening-10935101#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-03T01:08:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Gaza health authorities say at least 488 Palestinians have been killed by Israeli fire"
-    },
-    {
-      "id": "86f31cc0e9f14a85e7494d458aa68ad2b05ee560",
-      "title": "Deflated: Israeli scientists find Jupiter is smaller than previously thought - The Times of Israel",
-      "summary": "Deflated: Israeli scientists find Jupiter is smaller than previously thought&nbsp;&nbsp;The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWC04WlUyajQ4Rjh6SC1yZXoyUDRUWkt3VF9WOFpqNURtTTVvODhVTkpTWXNBMDdiSWo4MjBMc2tqNGZnaGlNUXo1TFdWMi13a2o2MW9VX2pDRGhLaDh6d21HN0JEN0lXNXJOWjNpS242ZXdHZ1BULVJHa0JqY3pObzVpWXp2NkgxS2hHYTRoWlJIckJfaTNBNXZFN0p3Ml93OWJtZkdTLU1jQdIBrwFBVV95cUxPaWk0cUFzR0sxa0VSOF83MnZqRkVEeklLcnFlanRBZmF5dkFEUnZyNEtQdDNYU2plVG5VcE9lOFlsLU82OGxGZE9uZks5RTRTNWducVpKZktZMExya19ySEIwLVUzUUwxblBRdTItNWtXTU9GTGZZdU5qM2JDcnNoeVZ4M1pUYUVIUXFFUjB5c3N0QVlabVFMUmtEdEpmNVFNLUlMTDdVMFlLWDJHVjN3?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-02T13:58:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
+      "confidence": 0.3,
+      "evidence": "Yair Golan’s Battle for a Two-State Solution and the Future of Israel"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-05T10:05:12Z"
+  "last_updated": "2026-02-06T10:03:36Z"
 }

@@ -14,5 +14,21 @@
   "countries_scored": [
     "GB",
     "IR"
-  ]
+  ],
+  "sentiment_by_country": {
+    "GB": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "UK unlikely to join a US attack on Iran"
+    },
+    "IR": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "help Gulf states if Tehran retaliates"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-06T10:03:36+00:00",
+  "llm_attempted_at": "2026-02-06T10:03:36+00:00"
 }

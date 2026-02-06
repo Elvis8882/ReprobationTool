@@ -1,16 +1,27 @@
 {
   "country": "SY",
-  "score": 90,
+  "score": 80,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 7,
+  "trend": -10,
+  "sources": 9,
   "sentiment": {
     "positive": 0,
     "neutral": 7,
-    "negative": 0
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "05a0d6c7e2fb87699fb90853f431985f58709b00",
+      "title": "Chevron Agrees to Explore Oil and Gas Work in Syria",
+      "summary": "Chevron has signed an initial agreement to start working in Syria, weeks after the Syrian government seized control of key oil and gas fields in the north of the country.",
+      "url": "https://www.nytimes.com/2026/02/04/world/middleeast/chevron-syria-gas-oil.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-04T18:38:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Chevron Agrees to Explore Oil and Gas Work in Syria"
+    },
     {
       "id": "9db10c02806fe630239c1d662c75a8da83fb29ac",
       "title": "Syria's only female minister pushes for change: 'I'm not here for window dressing'",
@@ -56,6 +67,17 @@
       "evidence": "Syrian Government and Kurdish-Led Militia Seal a Deal to Merge Forces"
     },
     {
+      "id": "f0832bbaa511effe771203bf1da9fc7fbc72d8fe",
+      "title": "Syria's defiant Kurds vow to 'fight until last breath' despite government push",
+      "summary": "The US fought IS with the Kurds for years. Now, Donald Trump is siding with Syria's new leader.",
+      "url": "https://www.bbc.com/news/articles/cvgrzd76p4lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-01-29T22:04:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Syria's defiant Kurds vow to 'fight until last breath'"
+    },
+    {
       "id": "ff295d1a51ce097926f8efaa9142685750a93f14",
       "title": "From Syria To Qatar: All US Military Bases In Middle East",
       "summary": "The United States has troops in Iraq's autonomous Kurdish region.",
@@ -90,5 +112,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-05T10:05:12Z"
+  "last_updated": "2026-02-06T10:03:36Z"
 }

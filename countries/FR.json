@@ -1,16 +1,92 @@
 {
   "country": "FR",
-  "score": 85,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -3,
-  "sources": 64,
+  "trend": -1,
+  "sources": 75,
   "sentiment": {
-    "positive": 13,
-    "neutral": 44,
-    "negative": 7
+    "positive": 14,
+    "neutral": 52,
+    "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "00df9aa95ac9e2ddeb4c4eea348b2619d8ebebd7",
+      "title": "Opposition to US has hardened in western Europe after Greenland threat, poll finds",
+      "summary": "Large majorities in six nations express antipathy to Trump’s US and support European self-assertionWestern Europeans prize Europe’s autonomy and values over transatlantic ties and will not give them up to placate Donald…",
+      "url": "https://www.theguardian.com/world/2026/feb/06/western-europeans-turning-against-us-after-greenland-threat-poll-finds",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-06T06:00:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Opposition to US has hardened in western Europe after Greenland threat"
+    },
+    {
+      "id": "96f54cae2f7b5129ff5fd3a7273a018edcfb618c",
+      "title": "Brussels wants to define cider – not everyone likes the recipe",
+      "summary": "French purists have repeatedly stated that it is either \"100% apple juice or nothing\"",
+      "url": "https://www.euractiv.com/news/brussels-wants-to-define-cider-not-everyone-likes-the-recipe/",
+      "source": "Euractiv",
+      "published_at": "2026-02-06T05:00:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "French purists have repeatedly stated"
+    },
+    {
+      "id": "c7ca12c319c07cb9e34f1f174d19be8caaf456f1",
+      "title": "Louvre Museum crown left crushed but 'intact' after raid",
+      "summary": "The Paris museum issues the first pictures of the crown since the theft, saying it was left \"badly deformed\".",
+      "url": "https://www.bbc.com/news/articles/cn40ev200yjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-05T18:19:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Louvre Museum crown left crushed but 'intact' after raid"
+    },
+    {
+      "id": "08f8e3eca994fa9e5cf2b6ad16b6c33b75753bf1",
+      "title": "Deaths in Boat Disaster in English Channel Were Avoidable, Inquiry Finds",
+      "summary": "The report blamed people smugglers and “systemic failure” on the part of the authorities after about 30 people drowned as they tried to reach Britain from France in 2021.",
+      "url": "https://www.nytimes.com/2026/02/05/world/europe/uk-migrants-boat-drowning-inquiry.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-05T15:43:47+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Deaths in Boat Disaster in English Channel Were Avoidable"
+    },
+    {
+      "id": "f3e36cd0c8b6e88e2f66ac87f03e0d6c1ed3a941",
+      "title": "France entices ‘recalcitrant’ EU countries to back IMO green shipping deal",
+      "summary": "Paris suggests easing of EU carbon pricing could win Greek and Cypriot backing for a global net-zero shipping target",
+      "url": "https://www.euractiv.com/news/france-entices-recalcitrant-eu-countries-to-back-imo-green-shipping-deal/",
+      "source": "Euractiv",
+      "published_at": "2026-02-05T11:00:54+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "France entices ‘recalcitrant’ EU countries to back IMO green shipping deal"
+    },
+    {
+      "id": "ba2c1ed894d35ff7ddee8cc4fb00839e0875516b",
+      "title": "EU Parliament to hold special plenary on Ukraine war anniversary",
+      "summary": "A debate on Russia's war in Ukraine and a vote on a new €90 billion defence-focused loan to Ukraine have also been moved to 24 February",
+      "url": "https://www.euractiv.com/news/eu-parliament-to-hold-special-plenary-on-ukraine-war-anniversary/",
+      "source": "Euractiv",
+      "published_at": "2026-02-04T16:31:51+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "fd6e58f351cb7f0409f3790fcabc79a4e28ecc1a",
+      "title": "German politician ‘disillusioned’ by sovereignty push with France",
+      "summary": "For Paris, buying European means buying French, per a leading member of Germany’s government",
+      "url": "https://www.euractiv.com/news/german-politician-disillusioned-by-sovereignty-push-with-france/",
+      "source": "Euractiv",
+      "published_at": "2026-02-04T13:50:10+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "buying European means buying French"
+    },
     {
       "id": "2f9d435f07bd8bae98e2f3e374fd2a80a46a80e7",
       "title": "EU hospitals released 5 million cancer patients in 2023 - European Commission",
@@ -20,6 +96,17 @@
       "published_at": "2026-02-04T10:03:44+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "0db0db5b71c7b1f9f997f55678bb621ff0688179",
+      "title": "Winter Olympics 2026: How Lindsey Vonn earned a pizza in her name in Cortina - Milano Cortina 2026",
+      "summary": "Winter Olympics 2026: How Lindsey Vonn earned a pizza in her name in Cortina&nbsp;&nbsp;Milano Cortina 2026Team KSL learns what makes an authentic Italian meal ahead of 2026 Winter Olympics&nbsp;&nbsp;KSL.comWinter Olymp…",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ2NicW9YWnpUcUNVNTJ0V29mMWhxNE41aGNhWm5qd2RRWnJCV010WFZEcVFkQW52ejh4UzRmZ3lCbXZrRWF6cEh5VWE0cjhUdEpTNktzUjdBcERicFJGUVNGNDlablJxYmRPMlNjMXBDc090a0lCOTA4WU9weDBUc0Z6Y2tsX2huQ1RLdDFCSTlDaHUwNXlYY1JTQ2s?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-04T09:40:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "learn from Paris Games food issues"
     },
     {
       "id": "a43063460ca7104e6c4b2c52b3e3af1e10031dda",
@@ -53,94 +140,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "X offices raided in France"
-    },
-    {
-      "id": "2ca638d4cd8f5fd4f5864d03e8aa07e6c3fa1acf",
-      "title": "Police Search X’s Premises in France as Prosecutors Summon Elon Musk",
-      "summary": "The move followed a yearlong investigation into X and escalated a wider standoff between European officials and American tech companies over the regulation of social media.",
-      "url": "https://www.nytimes.com/2026/02/03/world/europe/musk-x-france-police-search.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-03T21:02:16+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Police Search X’s Premises in France as Prosecutors Summon Elon Musk"
-    },
-    {
-      "id": "f53abe1fa64119c20440250f0adaec42779d7c43",
-      "title": "French prosecutors ask appeal court to keep ban on Marine Le Pen running for office",
-      "summary": "Far-right leader was barred for five years after being found guilty of extensive fake jobs scam at European parliamentFrench state prosecutors have asked appeal court judges to maintain a five-year election ban on the fa…",
-      "url": "https://www.theguardian.com/world/2026/feb/03/french-prosecutors-ask-appeal-court-to-keep-ban-on-marine-le-pen-running-for-office",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-03T19:22:59+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "embezzlement of European parliament funds in a fake jobs scandal"
-    },
-    {
-      "id": "f3706a2fbc0c472831ca98474390e19018a14f78",
-      "title": "French headquarters of Elon Musk’s X raided by Paris cybercrime unit",
-      "summary": "Prosecutors’ announcement comes amid a hardening of European attitudes to social media firmsProsecutors have raided the French headquarters of Elon Musk’s social media platform X and summoned the tech billionaire and the…",
-      "url": "https://www.theguardian.com/technology/2026/feb/03/french-headquarters-elon-musk-x-raided-paris-cybercrime-unit",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-03T19:01:37+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "French headquarters of Elon Musk’s X raided by Paris cybercrime unit"
-    },
-    {
-      "id": "33c6bee062f42590cea9761c2f1750e90e61da75",
-      "title": "France teacher fighting for life after knife attack by pupil",
-      "summary": "A 14-year-old has been arrested on suspicion of attempted murder after a stabbing in a classroom on Tuesday.",
-      "url": "https://www.bbc.com/news/articles/c7v0p818g91o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-03T18:00:19+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "France teacher fighting for life after knife attack by pupil"
-    },
-    {
-      "id": "b88dbd25bbd43ec0f03cb0aba111e29546935253",
-      "title": "MEPs lobby EU foreign policy chief to put a stop to Faroe Islands whale cull",
-      "summary": "\"The European Union’s external action should reflect the values it upholds internally\", lawmakers said",
-      "url": "https://www.euractiv.com/news/five-meps-lobby-kallas-to-put-a-stop-to-faroe-islands-whale-hunts/",
-      "source": "Euractiv",
-      "published_at": "2026-02-03T17:49:14+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "7e5ff3db110969bb690c52c28821ff14287ec16a",
-      "title": "The Brief – Bug off: The satire of ‘alternative proteins’",
-      "summary": "The appetite for bugs has proven non-existent, not for lack of culinary wizardry or public funds. If the French can't sell insect gastronomy, Brussels doesn't stand a chance",
-      "url": "https://www.euractiv.com/opinion/the-brief-bug-off-the-satire-of-alternative-proteins/",
-      "source": "Euractiv",
-      "published_at": "2026-02-03T17:17:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "If the French can't sell insect gastronomy"
-    },
-    {
-      "id": "5cd2c1893114080632974d9345556e42e4996c4c",
-      "title": "Europe’s path to a cleaner automotive sector – What are the opportunities and challenges? [Advocacy Lab]",
-      "summary": "The European Commission has published its proposals to revise its Car CO2 Regulation and to introduce national targets for Clean Corporate Vehicles as part of its Automotive Package. These initiatives aim to reduce green…",
-      "url": "https://www.euractiv.com/video/europes-path-to-a-cleaner-automotive-sector-what-are-the-opportunities-and-challenges/",
-      "source": "Euractiv",
-      "published_at": "2026-02-03T15:00:33+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "258fedd78ba1b6c3d13c8e7499fa09ca682d9572",
-      "title": "French cybercrime authorities search X offices in Paris",
-      "summary": "French prosecutors also said they had summoned X owner Elon Musk for a voluntary interview in April as part of the investigation",
-      "url": "https://www.euractiv.com/news/french-cybercrime-authorities-search-x-offices-in-paris/",
-      "source": "Euractiv",
-      "published_at": "2026-02-03T10:53:15+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "French cybercrime authorities search X offices in Paris"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-05T10:05:12Z"
+  "last_updated": "2026-02-06T10:03:36Z"
 }

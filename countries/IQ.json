@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 75,
+  "score": 79,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 3,
+  "trend": 4,
+  "sources": 4,
   "sentiment": {
     "positive": 0,
-    "neutral": 2,
+    "neutral": 3,
     "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "a484dce16ff911239eb88e9bfab9e52b5ef72b67",
+      "title": "Paris Court Deals Family Blow in Battle for Rent From the French Embassy in Iraq",
+      "summary": "The court said it was not the right authority to handle the lawsuit for unpaid rent, and the case should be heard in Iraq, where the family’s ancestors had fled persecution.",
+      "url": "https://www.nytimes.com/2026/02/03/world/europe/france-embassy-iraq.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-03T20:42:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "case should be heard in Iraq"
+    },
     {
       "id": "becc6f96cfa5a5bc92775eb12aa47451496c44bf",
       "title": "Comeback of Tehran-friendly Iraqi PM al-Maliki alarms US",
@@ -46,5 +57,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-05T10:05:12Z"
+  "last_updated": "2026-02-06T10:03:36Z"
 }

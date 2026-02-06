@@ -1,16 +1,26 @@
 {
   "country": "NL",
-  "score": 85,
+  "score": 86,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -3,
-  "sources": 36,
+  "trend": 1,
+  "sources": 40,
   "sentiment": {
     "positive": 2,
-    "neutral": 32,
+    "neutral": 36,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "ba2c1ed894d35ff7ddee8cc4fb00839e0875516b",
+      "title": "EU Parliament to hold special plenary on Ukraine war anniversary",
+      "summary": "A debate on Russia's war in Ukraine and a vote on a new €90 billion defence-focused loan to Ukraine have also been moved to 24 February",
+      "url": "https://www.euractiv.com/news/eu-parliament-to-hold-special-plenary-on-ukraine-war-anniversary/",
+      "source": "Euractiv",
+      "published_at": "2026-02-04T16:31:51+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "2f9d435f07bd8bae98e2f3e374fd2a80a46a80e7",
       "title": "EU hospitals released 5 million cancer patients in 2023 - European Commission",
@@ -124,19 +134,8 @@
       "published_at": "2026-02-01T19:43:24+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "f4276e1eb49f766a02c2c46d3f58e2b42eeb3319",
-      "title": "Healthcare hit as incoming Dutch coalition promises defence spending spree",
-      "summary": "\"We are not cutting back, we are simply preventing an enormous explosion in the healthcare budget,\" presumptive prime minister Rob Jetten said.",
-      "url": "https://www.euractiv.com/news/healthcare-hit-as-incoming-dutch-coalition-promises-defence-spending-spree/",
-      "source": "Euractiv",
-      "published_at": "2026-01-31T16:13:38+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Healthcare hit as incoming Dutch coalition promises defence spending spree"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-05T10:05:12Z"
+  "last_updated": "2026-02-06T10:03:36Z"
 }

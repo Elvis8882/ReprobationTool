@@ -16,5 +16,26 @@
     "LV",
     "NL",
     "UA"
-  ]
+  ],
+  "sentiment_by_country": {
+    "LV": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "Latvia signs up to International Claims Commission for Ukraine"
+    },
+    "NL": {
+      "label": "neutral",
+      "confidence": 0.1,
+      "evidence": "The Hague"
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "International Claims Commission for Ukraine"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-06T10:03:36+00:00",
+  "llm_attempted_at": "2026-02-06T10:03:36+00:00"
 }

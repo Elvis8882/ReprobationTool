@@ -1,16 +1,37 @@
 {
   "country": "HU",
-  "score": 71,
+  "score": 73,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
-  "sources": 28,
+  "trend": 2,
+  "sources": 32,
   "sentiment": {
     "positive": 0,
-    "neutral": 24,
+    "neutral": 28,
     "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "c4252aed0a69d2bfe315568b465773fba11859d2",
+      "title": "Hungarian court sentenced German Antifa to jail over attacks on far-right demonstrators",
+      "summary": "The defendant told the court before the verdict that the proceedings were intended to deter dissent",
+      "url": "https://www.euractiv.com/short_news/hungarian-court-sentenced-german-antifa-to-jail-over-attacks-on-far-right-demonstrators/",
+      "source": "Euractiv",
+      "published_at": "2026-02-04T17:19:42+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Hungarian court sentenced German Antifa to jail"
+    },
+    {
+      "id": "ba2c1ed894d35ff7ddee8cc4fb00839e0875516b",
+      "title": "EU Parliament to hold special plenary on Ukraine war anniversary",
+      "summary": "A debate on Russia's war in Ukraine and a vote on a new €90 billion defence-focused loan to Ukraine have also been moved to 24 February",
+      "url": "https://www.euractiv.com/news/eu-parliament-to-hold-special-plenary-on-ukraine-war-anniversary/",
+      "source": "Euractiv",
+      "published_at": "2026-02-04T16:31:51+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "2f9d435f07bd8bae98e2f3e374fd2a80a46a80e7",
       "title": "EU hospitals released 5 million cancer patients in 2023 - European Commission",
@@ -111,28 +132,8 @@
       "published_at": "2026-01-30T10:01:14+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "80a81f18c09a727ce76fc944a90e455abd55ba49",
-      "title": "Now available: first 2026 data on minimum wages - European Commission",
-      "summary": "Now available: first 2026 data on minimum wages&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhcjIyLWtJdHQ5c1VxUS1aZHJuX2tieVVJWVRCc3BFTEl1TGV5cWhzZkltb08wYjgxa0pDZDI4MHJsX282eC1tR2N2V3AtcGdTQjllcXYwZ3dXYXN5REdkcHBfNGNfNFppV0w4ekFRTk9pOHpHQWJLRjJQYzdfdw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-01-30T10:01:14+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "6274502463cedbfafb2b34a762ae6a78cbf5dd1f",
-      "title": "European Union Labels Iran’s Revolutionary Guard a Terrorist Group",
-      "summary": "The move, which comes after the killing of protesters, brings the European Union in line with the United States and Canada.",
-      "url": "https://www.nytimes.com/2026/01/29/world/europe/european-union-iran-sanctions-irgc.html",
-      "source": "NYT > World News",
-      "published_at": "2026-01-29T18:19:02+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-05T10:05:12Z"
+  "last_updated": "2026-02-06T10:03:36Z"
 }

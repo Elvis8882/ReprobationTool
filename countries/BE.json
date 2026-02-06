@@ -1,16 +1,81 @@
 {
   "country": "BE",
-  "score": 85,
+  "score": 86,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 1,
-  "sources": 48,
+  "sources": 57,
   "sentiment": {
     "positive": 4,
-    "neutral": 40,
+    "neutral": 49,
     "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "16af79f2a44c2ae2b99c0d44eee6b34aa27510f5",
+      "title": "FIRST AID: Brussels outlines Global Fund pledge",
+      "summary": "In today's edition: Biotech, (in)fertility, euthanasia face donation",
+      "url": "https://www.euractiv.com/news/first-aid-brussels-outlines-global-fund-pledge/",
+      "source": "Euractiv",
+      "published_at": "2026-02-06T09:24:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Brussels outlines Global Fund pledge"
+    },
+    {
+      "id": "96f54cae2f7b5129ff5fd3a7273a018edcfb618c",
+      "title": "Brussels wants to define cider – not everyone likes the recipe",
+      "summary": "French purists have repeatedly stated that it is either \"100% apple juice or nothing\"",
+      "url": "https://www.euractiv.com/news/brussels-wants-to-define-cider-not-everyone-likes-the-recipe/",
+      "source": "Euractiv",
+      "published_at": "2026-02-06T05:00:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Brussels wants to define cider"
+    },
+    {
+      "id": "502b76481ef65ede5d3f1418e2cb3d65feb5c2d5",
+      "title": "EU eyes €700m global health pledge amid budget talks",
+      "summary": "Brussels' announcement falls slightly short of what some groups hoped for",
+      "url": "https://www.euractiv.com/news/eu-eyes-e700m-global-health-pledge-amid-budget-talks/",
+      "source": "Euractiv",
+      "published_at": "2026-02-05T14:41:01+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    {
+      "id": "1d44dc33bd17deae0108a1d3ea67d88a6beb2256",
+      "title": "Where’s the beef? Brussels’ Australia trade push runs into farm politics",
+      "summary": "Australia is a major meat exporter with surging exports, though the EU remains a marginal destination",
+      "url": "https://www.euractiv.com/news/wheres-the-beef-brussels-australia-trade-push-runs-into-farm-politics/",
+      "source": "Euractiv",
+      "published_at": "2026-02-05T10:43:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Brussels’ Australia trade push runs into farm politics"
+    },
+    {
+      "id": "146a0f6129df41e795094e8e5795472e2454cbde",
+      "title": "Moldova’s shortcut to Brussels",
+      "summary": "In Thursday’s edition: Slovenian elections, EP extraordinary plenary, EU-UAE trade talks, Ukraine loan approved, EU-US trade deal",
+      "url": "https://www.euractiv.com/news/rapportaur-moldovas-shortcut-to-brussels/",
+      "source": "Euractiv",
+      "published_at": "2026-02-05T06:13:16+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    {
+      "id": "ba2c1ed894d35ff7ddee8cc4fb00839e0875516b",
+      "title": "EU Parliament to hold special plenary on Ukraine war anniversary",
+      "summary": "A debate on Russia's war in Ukraine and a vote on a new €90 billion defence-focused loan to Ukraine have also been moved to 24 February",
+      "url": "https://www.euractiv.com/news/eu-parliament-to-hold-special-plenary-on-ukraine-war-anniversary/",
+      "source": "Euractiv",
+      "published_at": "2026-02-04T16:31:51+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "2f9d435f07bd8bae98e2f3e374fd2a80a46a80e7",
       "title": "EU hospitals released 5 million cancer patients in 2023 - European Commission",
@@ -73,71 +138,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Brussels doesn't stand a chance"
-    },
-    {
-      "id": "5cd2c1893114080632974d9345556e42e4996c4c",
-      "title": "Europe’s path to a cleaner automotive sector – What are the opportunities and challenges? [Advocacy Lab]",
-      "summary": "The European Commission has published its proposals to revise its Car CO2 Regulation and to introduce national targets for Clean Corporate Vehicles as part of its Automotive Package. These initiatives aim to reduce green…",
-      "url": "https://www.euractiv.com/video/europes-path-to-a-cleaner-automotive-sector-what-are-the-opportunities-and-challenges/",
-      "source": "Euractiv",
-      "published_at": "2026-02-03T15:00:33+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "139cf8973e29f7dcca250cb0b532333b1ff4e073",
-      "title": "The Brief – Europe’s Muppets take centre stage",
-      "summary": "It's not exactly novel for self-obsessed politicians to make asses of themselves, but the cacophony in Brussels is reaching fever pitch at a time of genuine geopolitical peril",
-      "url": "https://www.euractiv.com/opinion/the-brief-europes-muppets-take-centre-stage/",
-      "source": "Euractiv",
-      "published_at": "2026-02-02T18:03:56+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "cacophony in Brussels is reaching fever pitch"
-    },
-    {
-      "id": "b7dd7bed597e94e6e60e777a28a582e1fa136abc",
-      "title": "Brussels ‘power shift’ driven by speed, influence brokers need new game plan [Advocacy Lab]",
-      "summary": "Centralisation of decision-making, fragmentation in the Parliament, and less external tolerance for delay are all causing a shift in power dynamics, where speed is key to influence",
-      "url": "https://www.euractiv.com/news/brussels-power-shift-driven-by-speed-influence-brokers-need-new-game-plan/",
-      "source": "Euractiv",
-      "published_at": "2026-02-02T16:23:53+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Brussels ‘power shift’ driven by speed"
-    },
-    {
-      "id": "b51ee529a130084e534ce9ea417d28cb07af7958",
-      "title": "Remarks on the European Asylum and Migration Management Strategy and the EU Visa Strategy - European Commission",
-      "summary": "Remarks on the European Asylum and Migration Management Strategy and the EU Visa Strategy&nbsp;&nbsp;European CommissionBritain should co-operate as EU gets tough on enforcing asylum laws&nbsp;&nbsp;The TimesEU set to us…",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zQ3JWZjBBVnlfcFJTelYxeUk2Z1dDN1dzang3QW8yR3A0YUY5bFdJQU96OUlnSXQ1RkdUemJVM01iTlBKQ2NNQXB4NUZiNWdqT29vX1duOWZ3dkdmR0EyS1dJN3lhbEZmZFNuYlVyT3JMa2JUNVE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-02T10:15:07+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "e6db6ad0340b23e4ff9d0cb207147d4ff3d60f5e",
-      "title": "9.2% of EU population struggled to keep their home warm - European Commission",
-      "summary": "9.2% of EU population struggled to keep their home warm&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmQlFtenRVbXA5Z0xoN24wRUQ3ZG1obFNmdkdOYVZqN2RWM3FNcFp0YWZnNENTakYtQmw5eW9SWjNrY1FHbm1ucmptVmdKNTJuNFFjQ1BRajVaNFl2b0c0WWx3blBfakg2TEFFRGFjMEpGOGhHVmN6V0lvOFNadw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-02T10:03:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f941f1cae2c1faeaba340ccca60127855aad39e2",
-      "title": "Romania among EU countries with lowest minimum wages - Romania Insider",
-      "summary": "Romania among EU countries with lowest minimum wages&nbsp;&nbsp;Romania InsiderNow available: first 2026 data on minimum wages&nbsp;&nbsp;European CommissionEU: 21 European countries raised their minimum wage at the star…",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Hdk00TXZDSGlUcmttbXJOX09vS204RmRSSFpjUmUweGlIMzNjVEJrcUxlV21RUHE5WDktTmhKMVg4c0o3a3psUFV4QzVYRGFlVldfLWN3dTZVbWRoaFZVa1lkLXE4VHpTcjc2M09NcVA5QXRUa3hYWXV30gF_QVVfeXFMTXlieFdCdTZXa25hYUhkR3lVYXBCUFVEdGNqVFFRUzRuMTZCMXJCMDZYQ1pyckt3eEhEOWUtQUJCQVFHaGNNU3g0ZUhmMTY2TmQ5bVVoRWlaMnNWTE9oWXY3cWdlc0VkYmZBVXNkRGJWUDZBaUpJRl9GN1FsV3pvMA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-02T06:37:38+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "EU: 21 European countries raised their minimum wage"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-05T10:05:12Z"
+  "last_updated": "2026-02-06T10:03:36Z"
 }

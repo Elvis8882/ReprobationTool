@@ -16,5 +16,26 @@
     "LV",
     "RU",
     "UA"
-  ]
+  ],
+  "sentiment_by_country": {
+    "LV": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "Latvian parliament holding Christmas charity auction for Ukraine"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia's war"
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "help children in Ukraine"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "processed_at": "2026-02-06T10:03:36+00:00",
+  "llm_attempted_at": "2026-02-06T10:03:36+00:00"
 }

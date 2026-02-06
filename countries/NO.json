@@ -1,16 +1,27 @@
 {
   "country": "NO",
-  "score": 84,
+  "score": 85,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 16,
+  "trend": 1,
+  "sources": 18,
   "sentiment": {
     "positive": 0,
-    "neutral": 14,
+    "neutral": 16,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "fdb4c0c772fb5e3f76627d78fcfa535e53868ec1",
+      "title": "Norway police investigate ex-PM Jagland over Epstein links",
+      "summary": "Thorbjorn Jagland was Norway's premier from 1996 to 1997 and secretary general of the Council of Europe from 2009 to 2019",
+      "url": "https://www.euractiv.com/news/norway-police-investigate-ex-pm-jagland-over-epstein-links/",
+      "source": "Euractiv",
+      "published_at": "2026-02-06T02:02:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Norway police investigate ex-PM Jagland over Epstein links"
+    },
     {
       "id": "eae28b41b136bf3e77d4fb1918762029edf22489",
       "title": "Son of Norway’s crown princess ‘does not remember’ taking videos of alleged sexual assault",
@@ -43,6 +54,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Son of Norway’s Crown Princess Goes on Trial"
+    },
+    {
+      "id": "7d37b36dba96a1d9b9afbc7399cb6f5a393de397",
+      "title": "Stepson of Norwegian crown prince stands trial on rape, other charges",
+      "summary": "The stepson of Crown Prince Haakon is accused of 38 offenses, including four counts of rape, domestic violence, assault and drug possession between 2018 and late 2024.",
+      "url": "https://www.washingtonpost.com/world/2026/02/03/norway-rape-trial-stepson-prince/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-03T12:42:31+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Stepson of Norwegian crown prince stands trial on rape"
     },
     {
       "id": "45e5578bb3969ab0be4e58f3b7c55d935911b59c",
@@ -120,30 +142,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Norway's Crown Princess Mette-Marit, whose name appears"
-    },
-    {
-      "id": "b0815c2bd2be5815edf9c853c4516b7acf73f4ff",
-      "title": "Norway's PM agrees crown princess had 'poor judgement' over Epstein links",
-      "summary": "Jonas Gahr Støre says he agreed with Princess Mette-Marit's own remarks over her contacts with the late sex offender.",
-      "url": "https://www.bbc.com/news/articles/c1508llzw4qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-01T23:26:04+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Norway's PM agrees crown princess had 'poor judgement'"
-    },
-    {
-      "id": "4b3ef8976aa054a2787de8b60055c634ff9563d5",
-      "title": "Norway’s crown princess had years of contact with Epstein, files suggest",
-      "summary": "Mette-Marit apologises for ‘poor judgment’ as documents reportedly include scores of email exchanges with child sex offenderNorway’s crown princess has become embroiled in another scandal after newly unsealed files appea…",
-      "url": "https://www.theguardian.com/world/2026/feb/01/norway-crown-princess-contact-epstein-files-appear-to-show",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-01T18:26:15+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Norway’s crown princess had years of contact with Epstein"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-05T10:05:12Z"
+  "last_updated": "2026-02-06T10:03:36Z"
 }

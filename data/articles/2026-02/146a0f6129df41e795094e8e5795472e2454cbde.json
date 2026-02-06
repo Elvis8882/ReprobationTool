@@ -19,8 +19,30 @@
     "SI",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-02-05T10:05:12+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-02-06T10:03:36+00:00",
+  "sentiment_by_country": {
+    "BE": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    "MD": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Moldova’s shortcut to Brussels"
+    },
+    "SI": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Slovenian elections"
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.6,
+      "evidence": "Ukraine loan approved"
+    }
+  },
+  "processed_at": "2026-02-06T10:03:36+00:00"
 }

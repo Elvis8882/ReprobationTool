@@ -1,16 +1,37 @@
 {
   "country": "DK",
-  "score": 87,
+  "score": 85,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": -2,
-  "sources": 39,
+  "sources": 44,
   "sentiment": {
     "positive": 4,
-    "neutral": 33,
-    "negative": 2
+    "neutral": 37,
+    "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "00df9aa95ac9e2ddeb4c4eea348b2619d8ebebd7",
+      "title": "Opposition to US has hardened in western Europe after Greenland threat, poll finds",
+      "summary": "Large majorities in six nations express antipathy to Trump’s US and support European self-assertionWestern Europeans prize Europe’s autonomy and values over transatlantic ties and will not give them up to placate Donald…",
+      "url": "https://www.theguardian.com/world/2026/feb/06/western-europeans-turning-against-us-after-greenland-threat-poll-finds",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-06T06:00:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Opposition to US has hardened in western Europe after Greenland threat"
+    },
+    {
+      "id": "ba2c1ed894d35ff7ddee8cc4fb00839e0875516b",
+      "title": "EU Parliament to hold special plenary on Ukraine war anniversary",
+      "summary": "A debate on Russia's war in Ukraine and a vote on a new €90 billion defence-focused loan to Ukraine have also been moved to 24 February",
+      "url": "https://www.euractiv.com/news/eu-parliament-to-hold-special-plenary-on-ukraine-war-anniversary/",
+      "source": "Euractiv",
+      "published_at": "2026-02-04T16:31:51+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "2f9d435f07bd8bae98e2f3e374fd2a80a46a80e7",
       "title": "EU hospitals released 5 million cancer patients in 2023 - European Commission",
@@ -20,6 +41,17 @@
       "published_at": "2026-02-04T10:03:44+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "a349edc409702a9453cac6ff84300ff1fc117a32",
+      "title": "Here’s How the U.S. Accepted Danish Control of Greenland 100 Years Ago.",
+      "summary": "In 1917, the United States bought Caribbean islands from Denmark and agreed to respect Denmark’s hold over Greenland. The deal resurfaced with President Trump’s recent threats to seize Greenland.",
+      "url": "https://www.nytimes.com/2026/02/04/world/americas/what-to-know-us-west-indies-greenland-history-denmark.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-04T10:01:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "U.S. Accepted Danish Control of Greenland 100 Years Ago"
     },
     {
       "id": "ea37493997403934ad392839d22a14c947d01a77",
@@ -102,39 +134,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "In the latest anti-American gathering in Denmark, veterans who went to war"
-    },
-    {
-      "id": "490708c46dc82507eb1b037aeec974b5a9c92d27",
-      "title": "Denmark’s Maersk to operate major Panama Canal ports",
-      "summary": "Panama court ruling follows Trump threats to wrest key trade route from alleged Chinese control",
-      "url": "https://www.euractiv.com/news/denmarks-maersk-to-operate-major-panama-canal-ports/",
-      "source": "Euractiv",
-      "published_at": "2026-01-31T09:32:10+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Denmark’s Maersk to operate major Panama Canal ports"
-    },
-    {
-      "id": "963f1f8ef16048540c405751ed5baeda6017822f",
-      "title": "Belarusian balloons full of cigarettes pose NATO’s latest security threat",
-      "summary": "A rising number of incursions into NATO airspace has led some officials to allege an escalation of Russian hybrid attacks against the alliance and the European Union.",
-      "url": "https://www.washingtonpost.com/world/2026/01/30/belarus-balloons-nato-russia-threat/",
-      "source": "World (Washington post)",
-      "published_at": "2026-01-30T16:47:23+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "94ddbd78fe8c68a2c5128e265a01ac1ab8ef437d",
-      "title": "Contingent liabilities and non-performing loans in 2024 - European Commission",
-      "summary": "Contingent liabilities and non-performing loans in 2024&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rOEtOQXBGN3pTRE4yRUN2Z0U5OXJ2c1VtRTdQWFVOYmpHNERFUXhQdVRMa3V6ZTEzODFVUVlNUjdrVnViMks0RGp6NUw4QVdMa2NUZU05dTRtOFRha0YwdXQ4MTBrUmlxZ1B3LXNIZWFvTjJTeUVzdzBpb0ZYdw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-01-30T10:01:14+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-05T10:05:12Z"
+  "last_updated": "2026-02-06T10:03:36Z"
 }
