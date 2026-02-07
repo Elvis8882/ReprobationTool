@@ -1,16 +1,27 @@
 {
   "country": "RS",
-  "score": 90,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 1,
+  "score": 68,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
+  "trend": -22,
+  "sources": 2,
   "sentiment": {
     "positive": 0,
     "neutral": 1,
-    "negative": 0
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "310a5a1c66e7e5d8d9f57c3dcf66806871a1d2c4",
+      "title": "Serbian minister, officials on trial over Trump-linked hotel plan",
+      "summary": "Officials allegedly falsified documents to build a Trump-branded hotel on the bombed former Yugoslav army headquarters site",
+      "url": "https://www.euractiv.com/news/serbian-minister-officials-on-trial-over-trump-linked-hotel-plan/",
+      "source": "Euractiv",
+      "published_at": "2026-02-04T13:35:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Officials allegedly falsified documents"
+    },
     {
       "id": "6803d0881a096696a0d5e4919da41ebb932992cd",
       "title": "Serbian judges and prosecutors go on strike over laws curbing courts",
@@ -24,5 +35,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-06T10:03:36Z"
+  "last_updated": "2026-02-07T09:45:57Z"
 }

@@ -1,16 +1,28 @@
 {
   "country": "MA",
   "score": 90,
-  "score_label": "Not enough data",
-  "assessment": "No information available",
-  "trend": null,
-  "sources": 0,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": 0,
+  "sources": 1,
   "sentiment": {
     "positive": 0,
-    "neutral": 0,
+    "neutral": 1,
     "negative": 0
   },
-  "latest_articles": [],
+  "latest_articles": [
+    {
+      "id": "c4cb59d36e88ba741e9c0d79586366ae5ce8e692",
+      "title": "Weather tracker: Storm Leonardo continues to batter Europe and northern Africa",
+      "summary": "Spain and Portugal hit with torrential rain while flash floods in Morocco force more than 100,000 people to evacuateThe Iberian peninsula has been placed under severe weather alerts as Storm Leonardo continues to batter…",
+      "url": "https://www.theguardian.com/environment/2026/feb/06/weather-tracker-storm-leonardo-europe-portugal-spain-northern-africa",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-06T13:33:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "flash floods in Morocco force more than 100,000 people to evacuate"
+    }
+  ],
   "window_days": 90,
-  "last_updated": "2026-02-06T10:03:36Z"
+  "last_updated": "2026-02-07T09:45:57Z"
 }

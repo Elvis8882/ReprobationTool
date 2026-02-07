@@ -3,14 +3,80 @@
   "score": 74,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 3,
-  "sources": 92,
+  "trend": 0,
+  "sources": 100,
   "sentiment": {
-    "positive": 26,
-    "neutral": 29,
-    "negative": 37
+    "positive": 30,
+    "neutral": 31,
+    "negative": 39
   },
   "latest_articles": [
+    {
+      "id": "2dec796d87d10262ed694d2ac6bcb291feb73202",
+      "title": "Russia hits Ukraine power grid with massive attack",
+      "summary": "Ukrainian officials have accused Moscow of deliberately targeting energy infrastructure",
+      "url": "https://www.euractiv.com/news/russia-hits-ukraine-power-grid-with-massive-attack/",
+      "source": "Euractiv",
+      "published_at": "2026-02-07T08:23:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia hits Ukraine power grid with massive attack"
+    },
+    {
+      "id": "b975762c0346c3bedda5427ae14cff3e330d6829",
+      "title": "Olympics Officials Signal Sanctions on Russia in Sports May End",
+      "summary": "In Milan this week, Olympics officials signaled a willingness to ease years of restrictions imposed on the country over its state-backed doping program and invasion of Ukraine.",
+      "url": "https://www.nytimes.com/2026/02/07/world/europe/russia-olympics-sports-sanctions-ukraine.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-07T05:01:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "invasion of Ukraine"
+    },
+    {
+      "id": "738872c9fde30115dafc289dcecb7cb904a84c67",
+      "title": "Ukrainian mother's joy after phone call with son she thought had been killed",
+      "summary": "Nazar Daletskyi's family were sure he had been killed and had buried what they thought was his body in 2023.",
+      "url": "https://www.bbc.com/news/articles/cedwdljyx46o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-06T18:17:39+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Ukrainian mother's joy after phone call with son"
+    },
+    {
+      "id": "a220218b2ae592779217b8dbb208d63e21f9e743",
+      "title": "Watch: Ukrainian soldier thought to be dead calls his family",
+      "summary": "Nazar Daletskyi's relatives were told he had been killed in 2022, the first year of Russia’s full-scale invasion.",
+      "url": "https://www.bbc.com/news/videos/c4gvg772vv6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-06T14:36:19+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "thought to be dead calls his family"
+    },
+    {
+      "id": "87e1b7ab136d02aa3e36377d6e61386efc298085",
+      "title": "Top Russian general shot in Moscow as talks stall on Ukraine ceasefire",
+      "summary": "Lt. Gen. Vladimir Alekseyev, the deputy head of the GRU, Russia’s main foreign military intelligence agency, was targeted at his home in Moscow, officials said.",
+      "url": "https://www.washingtonpost.com/world/2026/02/06/russia-general-assassination-attempt-moscow/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-06T13:31:30+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "talks stall on Ukraine ceasefire"
+    },
+    {
+      "id": "59475994f18ee4bdb8071bf866cf78f029f88d20",
+      "title": "Ukrainian flag bearer at Olympics proud to display nation's resiliency - The Japan Times",
+      "summary": "Ukrainian flag bearer at Olympics proud to display nation's resiliency&nbsp;&nbsp;The Japan Times‘We can’t win this alone’: Ukraine’s flag bearer urges world not to forget war, hints at protest over IOC’s neutral policy&…",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNFpDSFlmYXlxVTlsOHRhMHVaZGU2TFpvRHlhVU9ybHl2UTNyZjZFMHV3bFQwbGNOanlBSGZjVW1JczVXam5VaXpUR2xYcUNJODlPam85TWxoRjh3c01wNlJqenhXYkFIWW9XQS1acF9nZG50ZnNZbm4wOE5LTWhlZ1N2SkFkeVk?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-06T06:42:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Ukrainian flag bearer proud to display nation's resiliency"
+    },
     {
       "id": "00768c8e8fa2cbea00fc0dc67dd31c4c5f54f981",
       "title": "The Russian economy is finally stagnating. What does it mean for the war – and for Putin?",
@@ -21,6 +87,17 @@
       "sentiment": "neutral",
       "confidence": 0.0,
       "evidence": ""
+    },
+    {
+      "id": "7ed30b1e7192bb2249739aa8f55bf179b434386f",
+      "title": "At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops",
+      "summary": "It’s unclear what effect the change will have on Russia’s ability to wage war, but Russian military bloggers said troops were experiencing internet outages that hampered frontline communications.",
+      "url": "https://www.nytimes.com/2026/02/05/world/europe/starlink-blocks-russian-troops-access.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-06T00:00:51+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "At Ukraine’s Request, Starlink Denies Internet Access"
     },
     {
       "id": "b920596c2f78c182119f3977c5bf40ad0a872ec6",
@@ -65,85 +142,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Ukraine peace talks in Abu Dhabi"
-    },
-    {
-      "id": "2b1476e38ecb28ffd8f588b50af4ba06252991d1",
-      "title": "Russia-Ukraine Peace Talks Stretch Into a Second Day",
-      "summary": "Little has been made public so far, but negotiators were expected to talk about the fate of Ukrainian territory in the east and security guarantees for Ukraine.",
-      "url": "https://www.nytimes.com/2026/02/05/world/europe/russia-ukraine-peace-talks.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-05T09:14:18+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "security guarantees for Ukraine"
-    },
-    {
-      "id": "0b531e7af64850c2deebf8238a78408ddce2ac2b",
-      "title": "'Fired In Middle Of War Zone': Washington Post's Ukraine Correspondent Laid Off",
-      "summary": "Lizzie Johnson joined The Washington Post in 2021",
-      "url": "https://www.ndtv.com/world-news/fired-in-middle-of-war-zone-washington-posts-ukraine-correspondent-lizzie-johnson-laid-off-10950013#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-05T06:50:39+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Ukraine Correspondent Laid Off"
-    },
-    {
-      "id": "146a0f6129df41e795094e8e5795472e2454cbde",
-      "title": "Moldova’s shortcut to Brussels",
-      "summary": "In Thursday’s edition: Slovenian elections, EP extraordinary plenary, EU-UAE trade talks, Ukraine loan approved, EU-US trade deal",
-      "url": "https://www.euractiv.com/news/rapportaur-moldovas-shortcut-to-brussels/",
-      "source": "Euractiv",
-      "published_at": "2026-02-05T06:13:16+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Ukraine loan approved"
-    },
-    {
-      "id": "82c6377221194e85073af3a2c9e3b6fc9819b859",
-      "title": "Sanctions having ‘significant impact’ on Russian economy, says EU special envoy",
-      "summary": "Exclusive: David O’Sullivan says war-based economy may be nearing point of becoming ‘unsustainable’Western sanctions are having a “significant impact” on the Russian economy, the EU’s sanctions envoy has said, ahead of t…",
-      "url": "https://www.theguardian.com/world/2026/feb/05/sanctions-significant-impact-russian-economy-interview-eu-special-envoy-david-osullivan",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-05T05:00:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
-    },
-    {
-      "id": "d2c99664f26cf36d1889c59ddc887d384d72cf58",
-      "title": "Fearing Russia will seize her town, war widow moves husband's grave to Kyiv",
-      "summary": "Russia's gains on the battlefield have forced Natalia to rebury her husband.",
-      "url": "https://www.bbc.com/news/articles/cvgr25e2lj5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-04T21:59:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "moves husband's grave to Kyiv"
-    },
-    {
-      "id": "cb5744cad71702dea8a541ad193f02f3e6a65663",
-      "title": "The Brief – Europe’s ‘plan’ for Ukraine is a terrible joke",
-      "summary": "EU sanctions are not only failing to force Russia to stop the war. They might be making the goal even harder to achieve",
-      "url": "https://www.euractiv.com/opinion/the-brief-europes-plan-for-ukraine-is-a-terrible-joke/",
-      "source": "Euractiv",
-      "published_at": "2026-02-04T17:40:57+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "EU sanctions are not only failing to force Russia to stop the war"
-    },
-    {
-      "id": "c19ee625175de6a5e96bbb37aa5e05b0dc119488",
-      "title": "EU breaks stalemate on Ukraine loans, eyes pay-to-play rules for UK defence firms",
-      "summary": "Diplomatic sources said the contribution would be based on the prices of contracts that third countries secure",
-      "url": "https://www.euractiv.com/news/eu-breaks-stalemate-on-ukraine-loans-eyes-pay-to-play-rules-for-uk-defence-firms/",
-      "source": "Euractiv",
-      "published_at": "2026-02-04T17:15:01+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "EU breaks stalemate on Ukraine loans"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-06T10:03:36Z"
+  "last_updated": "2026-02-07T09:45:57Z"
 }

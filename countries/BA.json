@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 1,
+  "sources": 2,
   "sentiment": {
     "positive": 0,
     "neutral": 0,
-    "negative": 1
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "aacbf86212609d3a2b14a29c099f894fe8be47f7",
+      "title": "Philippe Morillon, General Who Made Fateful Protection Promise, Dies at 90",
+      "summary": "“I will never abandon you,” he told residents of Srebrenica amid sectarian armed conflict in Bosnia. The town later suffered the worst massacre in Europe since World War II.",
+      "url": "https://www.nytimes.com/2026/02/06/world/europe/philippe-morillon-dead.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-07T03:26:27+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "town later suffered the worst massacre in Europe since World War II"
+    },
     {
       "id": "f6a064ebb80b04c3a0bae87150a72bba185f4f96",
       "title": "Truckers’ Balkan border blockade over EU rules continues",
@@ -24,5 +35,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-06T10:03:36Z"
+  "last_updated": "2026-02-07T09:45:57Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "DK",
-  "score": 85,
+  "score": 86,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
-  "sources": 44,
+  "trend": 1,
+  "sources": 46,
   "sentiment": {
-    "positive": 4,
-    "neutral": 37,
+    "positive": 5,
+    "neutral": 38,
     "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "2efe806d415f3f9697e8721de0392135df074a67",
+      "title": "Canada and France open Greenland consulates in show of Denmark support",
+      "summary": "Founding of diplomatic outposts in Nuuk comes after US made efforts to secure control of Arctic islandOpposition to US has hardened in western Europe after Greenland threat, poll findsCanada and France are to open diplom…",
+      "url": "https://www.theguardian.com/world/2026/feb/06/canada-and-france-open-greenland-consulates-in-show-of-denmark-support",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-06T12:05:45+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "show of Denmark support"
+    },
     {
       "id": "00df9aa95ac9e2ddeb4c4eea348b2619d8ebebd7",
       "title": "Opposition to US has hardened in western Europe after Greenland threat, poll finds",
@@ -21,6 +32,16 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Opposition to US has hardened in western Europe after Greenland threat"
+    },
+    {
+      "id": "c68705a841df0f009f6d36295e737cd409428525",
+      "title": "68% of people living in EU households own their home - European Commission",
+      "summary": "68% of people living in EU households own their home&nbsp;&nbsp;European CommissionHome ownership in Cyprus at 69.4% in 2024, according to Eurostat&nbsp;&nbsp;ΚΥΠΕCroatia ranks among Europe’s leaders in home ownership in…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBONWVqZnloZ002MjROMFpMVGJKTGVGU3pfMDRhT0tsMnVlSktCRWdyWFlWTW1uMHc5SGpvaEFMUUZIcTh4ZDFmVHJpNXRjVFNtOWNpQ0Y1eHBOZGhBX2FEVS05VGV6al9QcjhpckUtYjR2Q3BhbGJ3VVhIM3U0Zw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-05T10:03:25+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "ba2c1ed894d35ff7ddee8cc4fb00839e0875516b",
@@ -113,29 +134,8 @@
       "published_at": "2026-02-02T10:03:00+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "bb675ad212349d9ebdb60fade1ff7658c6daeba4",
-      "title": "Starmer says UK should ‘do more’ with EU in joint defence",
-      "summary": "Britain should &#8220;do more together&#8221; with the EU on defence, including through a bloc-wide initiative to bolster arms stocks that London has not yet joined, Prime Minister Keir Starmer has said. The comments com…",
-      "url": "https://www.euractiv.com/news/starmer-says-uk-should-do-more-with-eu-in-joint-defence/",
-      "source": "Euractiv",
-      "published_at": "2026-02-01T19:43:24+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "96573f61ca766c698cf65bfe82c8484ba90aa033",
-      "title": "Danes Who Fought Alongside US Troops March Against Trump’s Comments",
-      "summary": "In the latest anti-American gathering in Denmark, veterans who went to war alongside U.S. troops took to the streets of Copenhagen.",
-      "url": "https://www.nytimes.com/2026/01/31/world/europe/denmark-military-march-us-troops.html",
-      "source": "NYT > World News",
-      "published_at": "2026-01-31T19:46:47+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "In the latest anti-American gathering in Denmark, veterans who went to war"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-06T10:03:36Z"
+  "last_updated": "2026-02-07T09:45:57Z"
 }
