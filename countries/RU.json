@@ -1,16 +1,93 @@
 {
   "country": "RU",
-  "score": 58,
+  "score": 59,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 121,
+  "trend": 1,
+  "sources": 131,
   "sentiment": {
-    "positive": 5,
-    "neutral": 28,
-    "negative": 88
+    "positive": 6,
+    "neutral": 34,
+    "negative": 91
   },
   "latest_articles": [
+    {
+      "id": "544957513099f7097e5b1e535feec4748715d7b9",
+      "title": "Nazi Slogans, 'Blood' Swastika: How Russia University Attack Unfolded",
+      "summary": "Russia's Interior ministry said the accused stabbed several students in the dormitory.",
+      "url": "https://www.ndtv.com/world-news/neo-nazi-blood-swastika-fan-man-behind-attack-on-indian-students-in-russia-10967616#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-08T03:00:10+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Nazi Slogans, 'Blood' Swastika: How Russia University Attack Unfolded"
+    },
+    {
+      "id": "30ac8518a860dba1299f0eb4173ef71bdbe13df4",
+      "title": "4 Indian Students Injured After Knife Attack In Russian College: Embassy",
+      "summary": "The local media said two police officers were also injured.",
+      "url": "https://www.ndtv.com/world-news/4-indian-students-injured-says-embassy-after-knife-attack-in-russia-college-10966919#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-07T18:31:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Knife Attack In Russian College: Embassy"
+    },
+    {
+      "id": "d7f675f5ebafd8a30b123c86fbe6ae5fc7bb0eb3",
+      "title": "Zelensky says Russia is proposing huge economic deals with U.S.",
+      "summary": "The Ukrainian president said the Trump administration was pushing for a June deadline to end Russia’s war.",
+      "url": "https://www.washingtonpost.com/world/2026/02/07/ukraine-russia-us-economic-agreements-war/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-07T18:04:45+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Zelensky says Russia is proposing huge economic deals with U.S."
+    },
+    {
+      "id": "58cb73e02769fa95cd2bd1e4d3b6b956373f6538",
+      "title": "Indian Among 8 Injured In Russia University Stabbing",
+      "summary": "The Investigative Committee has launched a probe into the incident.",
+      "url": "https://www.ndtv.com/world-news/indian-among-7-injured-in-russia-university-stabbing-10966442#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-07T16:39:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Indian Among 8 Injured In Russia University Stabbing"
+    },
+    {
+      "id": "795cc5c0ae41f7286c80bd57d79beea1e82f90fe",
+      "title": "General shot in Moscow conscious after surgery, Russian media say",
+      "summary": "Lt Gen Vladimir Alexeyev was shot several times inside his apartment block on Friday morning.",
+      "url": "https://www.bbc.com/news/articles/cpwnweypgvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-07T16:10:31+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "General shot in Moscow conscious after surgery, Russian media say"
+    },
+    {
+      "id": "774f0615f698c8aaeef360d982af5702ab05cb19",
+      "title": "US urges Ukraine-Russia war settlement by June, Zelenskyy says",
+      "summary": "Ukraine has proposed freezing the conflict along the current front lines",
+      "url": "https://www.euractiv.com/news/us-urges-ukraine-russia-war-settlement-by-june-zelenskyy-says/",
+      "source": "Euractiv",
+      "published_at": "2026-02-07T14:41:24+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "US urges Ukraine-Russia war settlement by June"
+    },
+    {
+      "id": "c16684a7e1f4689985101880159a8756acc9516e",
+      "title": "US wants Russia and Ukraine to end war by June, says Zelensky",
+      "summary": "The Ukrainian leader says difficult issues remain, as Russia carries out further strikes on energy facilities.",
+      "url": "https://www.bbc.com/news/articles/cd0y0y9z231o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-07T14:05:01+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Russia carries out further strikes on energy facilities"
+    },
     {
       "id": "2dec796d87d10262ed694d2ac6bcb291feb73202",
       "title": "Russia hits Ukraine power grid with massive attack",
@@ -65,85 +142,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Russian general shot several times in Moscow"
-    },
-    {
-      "id": "5530df903db2d6c3518ccc8c5cd00307966b47aa",
-      "title": "Lithuanian FM, Moldovan president talks relations, European integration, Russia - The Baltic Times",
-      "summary": "Lithuanian FM, Moldovan president talks relations, European integration, Russia&nbsp;&nbsp;The Baltic TimesVIDEO | Republic of Moldova and Lithuania strengthen their partnership: direct flights Chisinau-Vilnius and expan…",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGpZVE8wcWZHVWY1Z1JNYUtQQlM3MUlScXc1ZmFMajUzaFJkOFdacE50bElJdTZvR2x2Q0xNenlaVTVuWGZ4ZV9xRi1faXFhRUVGY3pBMEN1aWJfLUpZME1mNDR2NjdEdERjUWlOODNWcEFmUW1EUFl5bG8wdjFJcmZBWkdNRno1emNma2t5c3ZPdUE1TmFwWVFjdkZGS1lBNTRpcFJCUTBDR1ZK?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-06T15:44:35+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Russian threats"
-    },
-    {
-      "id": "a220218b2ae592779217b8dbb208d63e21f9e743",
-      "title": "Watch: Ukrainian soldier thought to be dead calls his family",
-      "summary": "Nazar Daletskyi's relatives were told he had been killed in 2022, the first year of Russia’s full-scale invasion.",
-      "url": "https://www.bbc.com/news/videos/c4gvg772vv6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-06T14:36:19+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russia’s full-scale invasion"
-    },
-    {
-      "id": "87e1b7ab136d02aa3e36377d6e61386efc298085",
-      "title": "Top Russian general shot in Moscow as talks stall on Ukraine ceasefire",
-      "summary": "Lt. Gen. Vladimir Alekseyev, the deputy head of the GRU, Russia’s main foreign military intelligence agency, was targeted at his home in Moscow, officials said.",
-      "url": "https://www.washingtonpost.com/world/2026/02/06/russia-general-assassination-attempt-moscow/",
-      "source": "World (Washington post)",
-      "published_at": "2026-02-06T13:31:30+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Top Russian general shot in Moscow as talks stall on Ukraine ceasefire"
-    },
-    {
-      "id": "908bf5671038c2fb90f451f877cd20bb3bec81d4",
-      "title": "Epstein built ties to Russians and sought to meet Putin, files show",
-      "summary": "Justice Department files show Jeffrey Epstein sought help from a Russian official after claiming a woman from Moscow was blackmailing “powerful businessmen” in New York.",
-      "url": "https://www.washingtonpost.com/world/2026/02/06/epstein-files-russia-putin/",
-      "source": "World (Washington post)",
-      "published_at": "2026-02-06T10:00:47+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Epstein built ties to Russians and sought to meet Putin"
-    },
-    {
-      "id": "6405291a9740ac2cdb7ba4c4f5d72932c9c460ca",
-      "title": "Top Russian Military Intelligence Officer Riddled With Bullets In Moscow",
-      "summary": "Alekseyev is the latest senior military figure to have been targeted in Moscow",
-      "url": "https://www.ndtv.com/world-news/top-russian-general-vladimir-alekseyev-shot-multiple-times-at-residential-building-in-moscow-10957859#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-06T09:16:21+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Top Russian Military Intelligence Officer Riddled With Bullets In Moscow"
-    },
-    {
-      "id": "6d528d2b1d5d37fef60702da5a418ab335c9f001",
-      "title": "Russian General Is Shot in Moscow",
-      "summary": "The attack bore the hallmark of several assassination attempts on top military officers in the Russian capital.",
-      "url": "https://www.nytimes.com/2026/02/06/world/europe/russian-general-shot-moscow-alekseyev.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-06T09:14:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Russian General Is Shot in Moscow"
-    },
-    {
-      "id": "7fa82596dda57f824dc72257cc68ce573c739de2",
-      "title": "Russian general Vladimir Alekseyev in critical condition after Moscow shooting",
-      "summary": "Deputy director of Russia’s military intelligence agency shot several times outside his apartmentA senior Russian military official has been rushed to hospital after being shot in Moscow on Friday, state media reported.L…",
-      "url": "https://www.theguardian.com/world/2026/feb/06/russia-military-general-vladimir-alekseyev",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-06T08:41:39+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russian general Vladimir Alekseyev in critical condition after Moscow shooting"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-07T09:45:57Z"
+  "last_updated": "2026-02-08T09:45:34Z"
 }

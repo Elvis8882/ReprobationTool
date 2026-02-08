@@ -1,16 +1,37 @@
 {
   "country": "IE",
-  "score": 82,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 33,
+  "trend": 2,
+  "sources": 35,
   "sentiment": {
-    "positive": 1,
-    "neutral": 30,
+    "positive": 2,
+    "neutral": 31,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "f2607e526605e35683725d7b854c8ae578806e74",
+      "title": "Use of Irish airport for US deportation flights to Israel called ‘reprehensible’",
+      "summary": "Irish politicians condemn use of Shannon airport by private jet en route to Israel, owned by Trump donor Gil DezerRevealed: Private jet owned by Trump friend used by ICE to deport Palestinians to West BankPoliticians in…",
+      "url": "https://www.theguardian.com/world/2026/feb/07/use-of-irish-shannon-airport-for-us-deportation-flights-to-israel-called-reprehensible",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-07T15:38:55+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Irish politicians condemn use of Shannon airport"
+    },
+    {
+      "id": "f6ae3f02564815e6c049b5fa3610817c509e3a5d",
+      "title": "‘Buy European’ push could ‘wipe out’ EU deregulation drive, Nordics warn",
+      "summary": "The European Commission and France strongly support ‘Made in Europe’ policies",
+      "url": "https://www.euractiv.com/news/buy-european-push-could-wipe-out-eu-deregulation-drive/",
+      "source": "Euractiv",
+      "published_at": "2026-02-05T13:53:59+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "c68705a841df0f009f6d36295e737cd409428525",
       "title": "68% of people living in EU households own their home - European Commission",
@@ -112,30 +133,8 @@
       "published_at": "2026-02-02T10:03:00+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "7ed14971bee29277a78729fc8d68f2c37738d933",
-      "title": "‘There is an attempt to get rid of me’: leader of UK’s black police association alleges campaign to silence him",
-      "summary": "Exclusive: Andy George, who has been subject to several investigations, believes there is an effort to marginalise the views of those he represents“I tell you now, there is an attempt by some of the longer serving chief…",
-      "url": "https://www.theguardian.com/uk-news/2026/feb/02/leader-uk-national-black-police-association-alleges-campaign-to-silence-him",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-02T10:02:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "mother from Armagh in Northern Ireland"
-    },
-    {
-      "id": "8ea39813d63034e94a8cb6c3c988e010aa2f94bc",
-      "title": "Mandelson quits Labour as Epstein documents reveal he promised to amend tax on bank bonuses – UK politics live",
-      "summary": "The peer said he resigned his membership of the party to avoid causing it ‘further embarrassment’Good morning. Peter Mandelson’s career in politics appears to be over. To be fair, journalists have written this at least f…",
-      "url": "https://www.theguardian.com/politics/live/2026/feb/02/uk-politics-peter-mandelson-jeffrey-epstein-labour-party-fallout-latest-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-02T09:38:09+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-07T09:45:57Z"
+  "last_updated": "2026-02-08T09:45:34Z"
 }

@@ -1,16 +1,26 @@
 {
   "country": "SK",
-  "score": 83,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 29,
+  "trend": 1,
+  "sources": 30,
   "sentiment": {
     "positive": 0,
-    "neutral": 28,
+    "neutral": 29,
     "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "f6ae3f02564815e6c049b5fa3610817c509e3a5d",
+      "title": "‘Buy European’ push could ‘wipe out’ EU deregulation drive, Nordics warn",
+      "summary": "The European Commission and France strongly support ‘Made in Europe’ policies",
+      "url": "https://www.euractiv.com/news/buy-european-push-could-wipe-out-eu-deregulation-drive/",
+      "source": "Euractiv",
+      "published_at": "2026-02-05T13:53:59+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "c68705a841df0f009f6d36295e737cd409428525",
       "title": "68% of people living in EU households own their home - European Commission",
@@ -121,19 +131,8 @@
       "published_at": "2026-01-30T16:47:23+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "55113c98a85881e0043ebc1e4dabe504bbecb51d",
-      "title": "Brussels opens infringement over Slovakia’s whistleblower overhaul",
-      "summary": "If the issues are not addressed, Brussels can move to a reasoned opinion and ultimately refer the case to the EU Court of Justice, which could lead to financial penalties",
-      "url": "https://www.euractiv.com/news/brussels-opens-infringement-over-slovakias-whistleblower-overhaul/",
-      "source": "Euractiv",
-      "published_at": "2026-01-30T14:16:17+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Slovakia’s whistleblower overhaul"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-07T09:45:57Z"
+  "last_updated": "2026-02-08T09:45:34Z"
 }
