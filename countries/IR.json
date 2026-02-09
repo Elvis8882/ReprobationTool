@@ -1,16 +1,71 @@
 {
   "country": "IR",
-  "score": 64,
+  "score": 63,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 127,
+  "trend": -1,
+  "sources": 135,
   "sentiment": {
-    "positive": 10,
+    "positive": 12,
     "neutral": 42,
-    "negative": 76
+    "negative": 82
   },
   "latest_articles": [
+    {
+      "id": "f95b1665e4a484dbf300908e045799af592442a8",
+      "title": "Khamenei Breaks 37-Year-Old Ritual For 1st Time Amid Trump's Attack Threat",
+      "summary": "Tehran has repeatedly warned that any US attack would spark a broader conflict",
+      "url": "https://www.ndtv.com/world-news/khamenei-breaks-37-year-old-ritual-for-1st-time-amid-trumps-attack-threat-10973097#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-09T07:52:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "any US attack would spark a broader conflict"
+    },
+    {
+      "id": "2a156dec084c3bd452e2e8359cde70426e56cbbd",
+      "title": "Iran says 'it won’t be scared' by US military presence amid nuclear programme negotiations",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-says-it-wont-be-scared-by-us-military-presence-amid-nuclear-programme-negotiations/articleshow/128094247.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-02-09T06:21:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran says 'it won’t be scared' by US military presence amid nuclear programme negotiations"
+    },
+    {
+      "id": "b558fb8f27cc4831255f5230b8da69de75bb74ca",
+      "title": "Iran arrests leading reformists close to the country’s president",
+      "summary": "Detentions of senior Reformists Front figures follow criticism of the authorities’ handling of recent protestsThe head of Iran’s Reformists Front, the organisation that was instrumental in securing the election of the co…",
+      "url": "https://www.theguardian.com/world/2026/feb/09/iran-arrests-leading-reformists-close-to-the-countrys-president",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-09T06:00:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Iran arrests leading reformists... deepen the tensions over the handling of the recent street protests."
+    },
+    {
+      "id": "fa270d20c4a13f8b75fc29a401dc706b8ac8896c",
+      "title": "Is US Going To Attack Iran? What We Know So Far",
+      "summary": "The US sent its aircraft carrier, the USS Abraham Lincoln, to the Arabian Sea at the end of January",
+      "url": "https://www.ndtv.com/world-news/is-us-going-to-attack-iran-amid-nuke-talks-what-we-know-so-far-10971881#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-09T02:34:43+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Is US Going To Attack Iran? What We Know So Far"
+    },
+    {
+      "id": "4864cd69e41591f40d16f03e600b07556b26828d",
+      "title": "Iranian Nobel laureate handed further prison sentence, lawyer says",
+      "summary": "Narges Mohammadi was arrested in December for making \"provocative remarks\" at a memorial, where she was also reportedly beaten.",
+      "url": "https://www.bbc.com/news/articles/clygw161wzvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-08T19:58:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Iranian Nobel laureate handed further prison sentence"
+    },
     {
       "id": "0c8c065bf5fffbb7446d42e9f839555536f25861",
       "title": "Iran will not give up enrichment despite US war threat, FM warns",
@@ -87,63 +142,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Iran monitoring them and targeting their families"
-    },
-    {
-      "id": "b894a40496e89236d0bb1c784b1b5151a2b32b23",
-      "title": "Trump Signs Order Threatening Tariffs On Countries Doing Business With Iran",
-      "summary": "The move is aimed at protecting US national security, foreign policy and economic interests.",
-      "url": "https://www.ndtv.com/world-news/trump-signs-order-threatening-tariffs-on-countries-doing-business-with-iran-10962578#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-07T03:46:15+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Threatening Tariffs On Countries Doing Business With Iran"
-    },
-    {
-      "id": "67616889f4c26cb49c0dd172448c90048152cd61",
-      "title": "In Talks, Trump Won’t Allow Iran to Have Any Enriched Uranium",
-      "summary": "Can the two sides get past Iran’s claim that it has a “right” to enrich uranium?",
-      "url": "https://www.nytimes.com/2026/02/06/us/politics/trump-iran-nuclear.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-07T02:06:59+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Trump Won’t Allow Iran to Have Any Enriched Uranium"
-    },
-    {
-      "id": "637c2706f061a90802fd6596e64b6d7cacc5214d",
-      "title": "Can the US help Iran? What Iranians say - inside and outside the country",
-      "summary": "Some desperate Iranians want US intervention, but others worry that it would not achieve the peace protesters ultimately want.",
-      "url": "https://www.bbc.com/news/articles/cd0y0ld39y0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-07T02:03:39+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Some desperate Iranians want US intervention"
-    },
-    {
-      "id": "d1c34544489284bccb94aadf3d8d2884703ecc98",
-      "title": "U.S. and Iran hold nuclear talks amid threats of regional war",
-      "summary": "The negotiations over Tehran’s nuclear capabilities come against a backdrop of deadly protests inside Iran and a buildup of U.S. military assets in the region.",
-      "url": "https://www.washingtonpost.com/national-security/2026/02/06/us-iran-nuclear-talks-oman/",
-      "source": "World (Washington post)",
-      "published_at": "2026-02-06T20:55:59+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "threats of regional war"
-    },
-    {
-      "id": "ced8ef24f02130fa9cfc453c08b7079aa71ab538",
-      "title": "Iran Is at Work on Missile and Nuclear Sites, Satellite Images Show",
-      "summary": "Repairs at key missile sites began soon after they were hit by Israeli and U.S. strikes last year, but work at Iran’s nuclear facilities has been slower.",
-      "url": "https://www.nytimes.com/2026/02/06/world/middleeast/iran-missile-nuclear-repairs.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-06T20:15:03+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Iran Is at Work on Missile and Nuclear Sites, Satellite Images Show"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-08T09:45:34Z"
+  "last_updated": "2026-02-09T10:18:09Z"
 }
