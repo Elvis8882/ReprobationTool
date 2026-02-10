@@ -1,16 +1,27 @@
 {
   "country": "GE",
-  "score": 90,
+  "score": 100,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 2,
+  "trend": 10,
+  "sources": 3,
   "sentiment": {
     "positive": 0,
-    "neutral": 2,
+    "neutral": 3,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "4f14e7d3fabe5b9e232318b3ed8bae19dad8ad5d",
+      "title": "Federal judge orders Fulton County Georgia election case documents unsealed by Tuesday",
+      "summary": "The FBI last month raided an election facility central to President Donald Trump's debunked claims of fraud in the 2020 election.",
+      "url": "https://www.cnbc.com/2026/02/08/georgia-trump-election-case-judge-federal-unsealed.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-09T13:57:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
     {
       "id": "6de99b464cfb058304554a1134e6fe802a1917cf",
       "title": "Nepal-born police officer Pradeep Tamang killed responding to fraud call in Georgia",
@@ -35,5 +46,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-09T10:18:09Z"
+  "last_updated": "2026-02-10T10:14:34Z"
 }

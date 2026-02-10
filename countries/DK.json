@@ -1,16 +1,27 @@
 {
   "country": "DK",
-  "score": 85,
+  "score": 94,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 53,
+  "trend": 9,
+  "sources": 54,
   "sentiment": {
     "positive": 6,
-    "neutral": 43,
+    "neutral": 44,
     "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "3e275932c00a7fd0d0b46feadbbf1d58cad9db59",
+      "title": "Denmark sets new organ donation record after policy shift [Advocacy Lab]",
+      "summary": "Wider eligibility criteria for organ donations have led to a significant rise in transplants, with potential for additional improvements following a new 'opt-in' register",
+      "url": "https://www.euractiv.com/news/denmark-sets-new-organ-donation-record-after-policy-shift/",
+      "source": "Euractiv",
+      "published_at": "2026-02-10T00:04:44+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Denmark sets new organ donation record"
+    },
     {
       "id": "168b61be3ca904a6490f7ab4bd6b8c7140b1a14c",
       "title": "Meta warned EU plans to impose measures on tech giant to reverse WhatsApp AI policy",
@@ -125,18 +136,8 @@
       "published_at": "2026-02-04T16:31:51+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "2f9d435f07bd8bae98e2f3e374fd2a80a46a80e7",
-      "title": "EU hospitals released 5 million cancer patients in 2023 - European Commission",
-      "summary": "EU hospitals released 5 million cancer patients in 2023&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVQ2NySkxSYlp6RGZFV0NCWURjX0R6NmNaS1cxN0ROMk5PNUVmR2UxVlR4VzJrUmppZi1FQk9GNGNxY0k5UEFoUjkxUW5iZ1l5UU5zQmVnZ00zVkJYRFdIS0kybmFlT0ZqMVNCYnhmMkJiV3pHbVVMM3lmMzB0dw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-04T10:03:44+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-09T10:18:09Z"
+  "last_updated": "2026-02-10T10:14:34Z"
 }

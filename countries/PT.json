@@ -1,12 +1,12 @@
 {
   "country": "PT",
-  "score": 82,
+  "score": 92,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
-  "sources": 46,
+  "trend": 10,
+  "sources": 47,
   "sentiment": {
-    "positive": 4,
+    "positive": 5,
     "neutral": 38,
     "negative": 4
   },
@@ -20,6 +20,17 @@
       "published_at": "2026-02-09T10:06:24+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "f9a3150de84ada7002edb449610f8728df6260bb",
+      "title": "EU calls for ‘immediate’ release of Jimmy Lai after ‘politically motivated prosecution’ – Europe live",
+      "summary": "Strongly worded statement says bloc ‘deplores’ 20-year sentence for the pro-democracy figure in Hong KongJimmy Lai sentenced to 20 years in prison for national security offencesMeanwhile in Portugal, the moderate sociali…",
+      "url": "https://www.theguardian.com/world/live/2026/feb/09/europe-eu-jimmy-lai-ukraine-russia-us-portugal-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-09T09:39:29+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "moderate socialist António José Seguro won a resounding victory"
     },
     {
       "id": "a33c7aea720c37243fb424be272e24b46ae7f9b9",
@@ -128,19 +139,8 @@
       "sentiment": "mixed",
       "confidence": 0.8,
       "evidence": "rivals unite to keep out far right but gains by Chega"
-    },
-    {
-      "id": "88e791e6cc6f79db5d8b92d89da49d2c1a520830",
-      "title": "Calls to postpone presidential election as Storm Leonardo lashes Portugal and Spain",
-      "summary": "Portugal’s far-right Chega party has said vote should be delayed as state of calamity declared in 69 areasHeavy rains and strong winds have continued to batter parts of Spain and Portugal, causing at least two deaths, fo…",
-      "url": "https://www.theguardian.com/world/2026/feb/06/calls-postpone-presidential-election-storm-leonardo-portugal-spain",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-06T17:28:13+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Storm Leonardo lashes Portugal, causing deaths and evacuations"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-09T10:18:09Z"
+  "last_updated": "2026-02-10T10:14:34Z"
 }

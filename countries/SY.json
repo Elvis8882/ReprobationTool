@@ -1,16 +1,27 @@
 {
   "country": "SY",
-  "score": 80,
+  "score": 91,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 9,
+  "trend": 11,
+  "sources": 10,
   "sentiment": {
     "positive": 0,
-    "neutral": 7,
+    "neutral": 8,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "4f6654956fe3abba2c0874311b5aa443a7a395e1",
+      "title": "Saudis Announce New Investments in Syria, a Sign of Deepening Ties",
+      "summary": "Saudi and Syrian officials announced deals ranging from aviation to telecommunications, offering a much-needed boost to Syria’s battered economy.",
+      "url": "https://www.nytimes.com/2026/02/07/world/middleeast/saudi-arabia-investment-syria-al-sharaa.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-07T15:59:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "New Investments in Syria, a Sign of Deepening Ties"
+    },
     {
       "id": "05a0d6c7e2fb87699fb90853f431985f58709b00",
       "title": "Chevron Agrees to Explore Oil and Gas Work in Syria",
@@ -112,5 +123,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-09T10:18:09Z"
+  "last_updated": "2026-02-10T10:14:34Z"
 }

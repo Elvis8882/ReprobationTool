@@ -13,8 +13,15 @@
   "countries_scored": [
     "PT"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-02-09T10:18:09+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-02-10T10:14:34+00:00",
+  "sentiment_by_country": {
+    "PT": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "moderate socialist António José Seguro won a resounding victory"
+    }
+  },
+  "processed_at": "2026-02-10T10:14:34+00:00"
 }

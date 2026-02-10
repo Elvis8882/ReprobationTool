@@ -1,12 +1,12 @@
 {
   "country": "IE",
-  "score": 84,
+  "score": 93,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 38,
+  "trend": 9,
+  "sources": 39,
   "sentiment": {
-    "positive": 2,
+    "positive": 3,
     "neutral": 34,
     "negative": 2
   },
@@ -30,6 +30,17 @@
       "published_at": "2026-02-09T09:01:26+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "916aaa435b84a2b5c566d6b801edb562e3e5c0f9",
+      "title": "Dutch bid to raise nicotine age to 21 taps into Europe-wide shift",
+      "summary": "Latvia raised the nicotine age last year, with Ireland and Finland following",
+      "url": "https://www.euractiv.com/news/dutch-bid-to-raise-nicotine-age-to-21-taps-into-europe-wide-shift/",
+      "source": "Euractiv",
+      "published_at": "2026-02-09T05:00:30+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Ireland and Finland following"
     },
     {
       "id": "b5598ca2e9944e1dda521b4938e3ebbcf3a0262f",
@@ -122,18 +133,8 @@
       "published_at": "2026-02-03T17:49:14+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "5cd2c1893114080632974d9345556e42e4996c4c",
-      "title": "Europe’s path to a cleaner automotive sector – What are the opportunities and challenges? [Advocacy Lab]",
-      "summary": "The European Commission has published its proposals to revise its Car CO2 Regulation and to introduce national targets for Clean Corporate Vehicles as part of its Automotive Package. These initiatives aim to reduce green…",
-      "url": "https://www.euractiv.com/video/europes-path-to-a-cleaner-automotive-sector-what-are-the-opportunities-and-challenges/",
-      "source": "Euractiv",
-      "published_at": "2026-02-03T15:00:33+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-09T10:18:09Z"
+  "last_updated": "2026-02-10T10:14:34Z"
 }

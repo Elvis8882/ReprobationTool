@@ -1,16 +1,27 @@
 {
   "country": "GR",
-  "score": 79,
+  "score": 90,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 42,
+  "trend": 11,
+  "sources": 43,
   "sentiment": {
-    "positive": 1,
+    "positive": 2,
     "neutral": 37,
     "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "7db1516538d2d27cc689c092d29761e46a3e003b",
+      "title": "Washington may drift from Europe, but not from Greece",
+      "summary": "Greece is a serious EU actor but doesn't outsource its relationship with Washington to Brussels. Athens has unusual leverage as a key logistics hub, a voice in Eastern Mediterranean diplomacy, and a bridge for US engagem…",
+      "url": "https://www.euractiv.com/opinion/washington-may-drift-from-europe-but-not-from-greece/",
+      "source": "Euractiv",
+      "published_at": "2026-02-10T05:00:45+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Greece is a serious EU actor"
+    },
     {
       "id": "168b61be3ca904a6490f7ab4bd6b8c7140b1a14c",
       "title": "Meta warned EU plans to impose measures on tech giant to reverse WhatsApp AI policy",
@@ -125,18 +136,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Deadly Collision Between Migrant Boat and Greek Patrol Vessel"
-    },
-    {
-      "id": "2f9d435f07bd8bae98e2f3e374fd2a80a46a80e7",
-      "title": "EU hospitals released 5 million cancer patients in 2023 - European Commission",
-      "summary": "EU hospitals released 5 million cancer patients in 2023&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVQ2NySkxSYlp6RGZFV0NCWURjX0R6NmNaS1cxN0ROMk5PNUVmR2UxVlR4VzJrUmppZi1FQk9GNGNxY0k5UEFoUjkxUW5iZ1l5UU5zQmVnZ00zVkJYRFdIS0kybmFlT0ZqMVNCYnhmMkJiV3pHbVVMM3lmMzB0dw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-04T10:03:44+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-09T10:18:09Z"
+  "last_updated": "2026-02-10T10:14:34Z"
 }

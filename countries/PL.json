@@ -1,14 +1,14 @@
 {
   "country": "PL",
-  "score": 81,
+  "score": 88,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 44,
+  "trend": 7,
+  "sources": 45,
   "sentiment": {
     "positive": 3,
     "neutral": 37,
-    "negative": 4
+    "negative": 5
   },
   "latest_articles": [
     {
@@ -40,6 +40,17 @@
       "published_at": "2026-02-09T05:00:20+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "0f221772639166f4a73cf959bc3f16806aaa47b3",
+      "title": "Poland divided over pharmacy ad rules, Commission urges compliance [Advocacy Lab]",
+      "summary": "Proposed new restrictions aim to preserve pharmacies' role within the healthcare system rather than treating them as retail outlets, but businesses demand clearer competition rules",
+      "url": "https://www.euractiv.com/news/poland-divided-over-pharmacy-ad-rules-commission-urges-compliance/",
+      "source": "Euractiv",
+      "published_at": "2026-02-09T02:54:49+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Commission urges compliance"
     },
     {
       "id": "ec82dfa59d4cb2308a4c0b9b72d0118e9190902c",
@@ -124,19 +135,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "survival rates lag behind several European countries"
-    },
-    {
-      "id": "41b5cde919a432a16c27d1bc6aa490f2831d7b58",
-      "title": "INTERVIEW: Poland’s top defence contractor calls for EU production overhaul",
-      "summary": "Some in the EU argue that Europe may have to consolidate its defence market to avoid duplication",
-      "url": "https://www.euractiv.com/interview/interview-polands-top-defence-contractor-calls-for-eu-production-overhaul/",
-      "source": "Euractiv",
-      "published_at": "2026-02-04T05:00:05+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Poland’s top defence contractor calls for EU production overhaul"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-09T10:18:09Z"
+  "last_updated": "2026-02-10T10:14:34Z"
 }

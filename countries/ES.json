@@ -1,16 +1,27 @@
 {
   "country": "ES",
-  "score": 81,
+  "score": 89,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 60,
+  "trend": 8,
+  "sources": 63,
   "sentiment": {
     "positive": 8,
-    "neutral": 44,
-    "negative": 8
+    "neutral": 46,
+    "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "bd8649f0ce568335d3908c248b0f28b75fe64ee8",
+      "title": "German union urges homegrown fighter jet in blow to European plan",
+      "summary": "Launched in 2017, the project has stalled amid disagreements between Dassault and Airbus, which represent German and Spanish interests in the project",
+      "url": "https://www.euractiv.com/news/german-union-urges-homegrown-fighter-jet-in-blow-to-european-plan/",
+      "source": "Euractiv",
+      "published_at": "2026-02-09T13:51:47+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "represent German and Spanish interests in the project"
+    },
     {
       "id": "168b61be3ca904a6490f7ab4bd6b8c7140b1a14c",
       "title": "Meta warned EU plans to impose measures on tech giant to reverse WhatsApp AI policy",
@@ -51,6 +62,28 @@
       "published_at": "2026-02-09T05:00:20+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "623af21638e0ba46a20dabc5f25af8ed59680314",
+      "title": "Spanish train drivers to begin nationwide strike after fatal crashes",
+      "summary": "Striking drivers are demanding increased investment and maintenance, and the hiring of more staff.",
+      "url": "https://www.bbc.com/news/articles/czx7l7r9gyro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-09T03:00:05+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Spanish train drivers to begin nationwide strike after fatal crashes"
+    },
+    {
+      "id": "098793bcf172f0fbef8fbe553edb8b58a7b472c4",
+      "title": "Centre-right wins in Spain’s northern Aragón",
+      "summary": "The bellwether vote highlights pressure on Pedro Sánchez’s Socialists ahead of future national contests",
+      "url": "https://www.euractiv.com/news/centre-right-wins-in-spains-northern-aragon/",
+      "source": "Euractiv",
+      "published_at": "2026-02-08T23:00:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Centre-right wins in Spain’s northern Aragón"
     },
     {
       "id": "8b504dfce725bfb98f82607b109061a6d4222bdb",
@@ -106,41 +139,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "muted criticism of rule-of-law violations"
-    },
-    {
-      "id": "c4cb59d36e88ba741e9c0d79586366ae5ce8e692",
-      "title": "Weather tracker: Storm Leonardo continues to batter Europe and northern Africa",
-      "summary": "Spain and Portugal hit with torrential rain while flash floods in Morocco force more than 100,000 people to evacuateThe Iberian peninsula has been placed under severe weather alerts as Storm Leonardo continues to batter…",
-      "url": "https://www.theguardian.com/environment/2026/feb/06/weather-tracker-storm-leonardo-europe-portugal-spain-northern-africa",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-06T13:33:15+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Storm Leonardo continues to batter parts of Spain"
-    },
-    {
-      "id": "487a16609519ebe9724a129e11e9165cdf235fa9",
-      "title": "Watch: Bad Bunny lookalikes compete ahead of Super Bowl",
-      "summary": "The Puerto Rican rapper, who won a Grammy for album of the year, will be the first artist to perform the half time show entirely in Spanish.",
-      "url": "https://www.bbc.com/news/videos/cn8287ndz0go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-06T09:06:53+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
-    },
-    {
-      "id": "00df9aa95ac9e2ddeb4c4eea348b2619d8ebebd7",
-      "title": "Opposition to US has hardened in western Europe after Greenland threat, poll finds",
-      "summary": "Large majorities in six nations express antipathy to Trump’s US and support European self-assertionWestern Europeans prize Europe’s autonomy and values over transatlantic ties and will not give them up to placate Donald…",
-      "url": "https://www.theguardian.com/world/2026/feb/06/western-europeans-turning-against-us-after-greenland-threat-poll-finds",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-06T06:00:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Opposition to US has hardened in western Europe after Greenland threat"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-09T10:18:09Z"
+  "last_updated": "2026-02-10T10:14:34Z"
 }
