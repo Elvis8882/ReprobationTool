@@ -3,7 +3,7 @@
 ========================= */
 
 const SELECTED_FILL = "#bbdefb"; // light blue
-const NEUTRAL_SCORE = 90;
+const NEUTRAL_SCORE = 100;
 const NO_DATA_SCORE_TEXT = "Not enough data";
 const NO_DATA_ASSESSMENT_TEXT = "No information available";
 const countryScores = {};
@@ -384,9 +384,9 @@ async function openPopup(countryEl) {
       if (articleCount === 0) {
         trendEl.innerText = "";
       } else {
-        const delta = Number(data.trend);
-      
-        if (!Number.isFinite(delta)) {
+        const delta = parseTrend(data.trend);
+
+        if (delta === null) {
           trendEl.innerText = "";
         } else if (delta === 0) {
           trendEl.innerText = "= 0";
