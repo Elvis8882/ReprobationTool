@@ -44,15 +44,13 @@ def clamp(x, lo, hi):
 def compute_score(pos: float, neu: float, neg: float) -> int:
     total = pos + neu + neg
     if total == 0:
-        return 90
+        return 100
 
-    pos_ratio = pos / total
     neg_ratio = neg / total
 
     NEG_K = 45.0
-    POS_K = 6.0
 
-    score = 90.0 - (NEG_K * neg_ratio) + (POS_K * pos_ratio)
+    score = 100.0 - (NEG_K * neg_ratio)
     return int(round(clamp(score, 1, 100)))
 
 
