@@ -22,6 +22,8 @@ WINDOW_DAYS = 90
 LATEST_PER_COUNTRY = 20
 PROPORTIONAL_SAMPLE_THRESHOLD = 20
 SMALL_SAMPLE_NEGATIVE_SCALE = 45.0
+MIN_CONFIDENCE_WEIGHT = 0.10
+MAX_CONFIDENCE_WEIGHT = 1.0
 
 
 def parse_dt(s: str):
@@ -55,14 +57,23 @@ def parse_confidence(value):
     except (TypeError, ValueError):
         return None
 
+
+def confidence_weight(confidence):
+    """Map confidence (0..1) to a minimum non-zero weighting factor."""
+    if confidence is None:
+        return MAX_CONFIDENCE_WEIGHT
+
+    confidence = clamp(confidence, 0.0, 1.0)
+    return MIN_CONFIDENCE_WEIGHT + ((MAX_CONFIDENCE_WEIGHT - MIN_CONFIDENCE_WEIGHT) * confidence)
+
 def compute_score(pos_impact: float, neg_impact: float, pos_count: int, neg_count: int) -> int:
     signal_count = pos_count + neg_count
     if signal_count <= 0:
         return 100
 
     if signal_count < PROPORTIONAL_SAMPLE_THRESHOLD:
-        pos_signal = pos_count * POSITIVE_POINT_IMPACT
-        neg_signal = neg_count * NEGATIVE_POINT_IMPACT
+        pos_signal = pos_impact
+        neg_signal = neg_impact
         total_signal = pos_signal + neg_signal
         if total_signal <= 0:
             return 100
@@ -113,6 +124,7 @@ def main():
     stats = {
       c: {
         "pos_w": 0.0, "neg_w": 0.0,               # weighted for score
+        "pos_signal_n": 0, "neg_signal_n": 0,         # signal counts for score logic
         "pos_n": 0,   "neu_n": 0,   "neg_n": 0,     # raw integer for UI
         "latest": []
       } for c in ALL_COUNTRIES
@@ -200,39 +212,43 @@ def main():
                 used_fallback = True
 
             confidence = parse_confidence(c_sent.get("confidence"))
-            if confidence == 0.0:
-                # Explicit zero-confidence LLM outputs are ignored for
-                # both scoring and UI presentation.
-                continue
+            sentiment_weight = weight * confidence_weight(confidence)
+            include_in_ui = confidence != 0.0
         
             # Baseline model: start from 100, then subtract/add points
             # based on sentiment impacts. Mixed has smaller impacts
             # on both sides than pure positive/negative labels.
             if label == "positive":
-                stats[c]["pos_w"] += weight * POSITIVE_POINT_IMPACT
-                stats[c]["pos_n"] += 1
+                stats[c]["pos_w"] += sentiment_weight * POSITIVE_POINT_IMPACT
+                stats[c]["pos_signal_n"] += 1
+                if include_in_ui:
+                    stats[c]["pos_n"] += 1
             elif label == "negative":
-                stats[c]["neg_w"] += weight * NEGATIVE_POINT_IMPACT
-                stats[c]["neg_n"] += 1
+                stats[c]["neg_w"] += sentiment_weight * NEGATIVE_POINT_IMPACT
+                stats[c]["neg_signal_n"] += 1
+                if include_in_ui:
+                    stats[c]["neg_n"] += 1
             elif label == "mixed":
-                stats[c]["pos_w"] += weight * MIXED_POSITIVE_POINT_IMPACT
-                stats[c]["neg_w"] += weight * MIXED_NEGATIVE_POINT_IMPACT
-                stats[c]["neu_n"] += 1
+                stats[c]["pos_w"] += sentiment_weight * MIXED_POSITIVE_POINT_IMPACT
+                stats[c]["neg_w"] += sentiment_weight * MIXED_NEGATIVE_POINT_IMPACT
+                if include_in_ui:
+                    stats[c]["neu_n"] += 1
             else:
-                stats[c]["neu_n"] += 1
+                if include_in_ui:
+                    stats[c]["neu_n"] += 1
         
-            # Country-specific card (so latest_articles sentiment is correct per country)
-            card_c = dict(base_card)
-            card_c["sentiment"] = label
-            if label == "neutral" and used_fallback:
-                card_c["sentiment_fallback"] = True
-            # Optional: keep model evidence/confidence for UI/debugging
-            if "confidence" in c_sent:
-                card_c["confidence"] = c_sent.get("confidence")
-            if "evidence" in c_sent:
-                card_c["evidence"] = c_sent.get("evidence")
-        
-            stats[c]["latest"].append(card_c)
+            if include_in_ui:
+                # Country-specific card (so latest_articles sentiment is correct per country)
+                card_c = dict(base_card)
+                card_c["sentiment"] = label
+                if label == "neutral" and used_fallback:
+                    card_c["sentiment_fallback"] = True
+                # Optional: keep model evidence/confidence for UI/debugging
+                if "confidence" in c_sent:
+                    card_c["confidence"] = c_sent.get("confidence")
+                if "evidence" in c_sent:
+                    card_c["evidence"] = c_sent.get("evidence")
+                stats[c]["latest"].append(card_c)
 
 
 
@@ -243,6 +259,9 @@ def main():
         pos_w = stats[c]["pos_w"]
         neg_w = stats[c]["neg_w"]
         
+        pos_signal_n = stats[c]["pos_signal_n"]
+        neg_signal_n = stats[c]["neg_signal_n"]
+
         pos_n = stats[c]["pos_n"]
         neu_n = stats[c]["neu_n"]
         neg_n = stats[c]["neg_n"]
@@ -250,7 +269,7 @@ def main():
         total_w = pos_w + neg_w
         total_n = pos_n + neu_n + neg_n
         
-        score = compute_score(pos_w, neg_w, pos_n, neg_n)
+        score = compute_score(pos_w, neg_w, pos_signal_n, neg_signal_n)
 
         cpath = COUNTRIES_DIR / f"{c}.json"
         prev_score = None
