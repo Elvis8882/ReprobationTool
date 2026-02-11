@@ -1,16 +1,91 @@
 {
   "country": "FR",
-  "score": 96,
+  "score": 97,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 48,
-  "sources": 93,
+  "trend": 1,
+  "sources": 100,
   "sentiment": {
-    "positive": 17,
-    "neutral": 64,
-    "negative": 12
+    "positive": 20,
+    "neutral": 67,
+    "negative": 13
   },
   "latest_articles": [
+    {
+      "id": "29e03c5154359e599a37a0b6b2372852b32047d9",
+      "title": "French software maker Dassault Systèmes plunges 18%, on track for worst day ever",
+      "summary": "Shares of the software giant plummeted after the company posted its fourth-quarter earnings.",
+      "url": "https://www.cnbc.com/2026/02/11/dassault-systmes-share-price-earnings-software-sell-off.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-11T09:38:44+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "French software maker Dassault Systèmes plunges"
+    },
+    {
+      "id": "5a909adf4102e2116c89f39ced354dfb91cfd6ae",
+      "title": "Von der Leyen calls for crackdown on ‘unnecessary’ national laws",
+      "summary": "“It is time for a deep regulatory housecleaning – at all levels,” the European Commission chief said as she called for an end to \"gold-plating\" of EU laws",
+      "url": "https://www.euractiv.com/news/von-der-leyen-calls-for-crackdown-on-unnecessary-national-laws/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T09:09:46+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "140a7d4d5ab58fe1095343a18b505eb3a7453a28",
+      "title": "French former teacher charged with abusing 89 teens dating back to 1960s",
+      "summary": "Jacques Leveugle allegedly kept a diary of the abuse which also spanned several countries, prompting police to appeal for more victims to come forward.",
+      "url": "https://www.bbc.com/news/articles/czx4dnky0dzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-10T17:16:52+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "French former teacher charged with abusing 89 teens dating back to 1960s"
+    },
+    {
+      "id": "24cd014bf5eb8ce642c25a00f51d99d5d63014c9",
+      "title": "EU parliament adopts twin texts hardening migration policy",
+      "summary": "The EU's political centre of gravity has shifted firmly right in recent years, and a decline in irregular entries has not eased the political pressure to act on the hot-button issue",
+      "url": "https://www.euractiv.com/news/eu-parliament-adopts-twin-texts-hardening-migration-policy/",
+      "source": "Euractiv",
+      "published_at": "2026-02-10T16:17:40+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "93fc52415e1b485c0a58df7c5b0b4ada9a0e095a",
+      "title": "Macron urges Europe to start acting like world power",
+      "summary": "The French president warns of growing threats from China, Russia and now the US, saying Europe faces a \"wake-up call\".",
+      "url": "https://www.bbc.com/news/articles/ce8n1zdnpd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-10T11:12:08+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Macron urges Europe to start acting like world power"
+    },
+    {
+      "id": "8f557f81888b1e61342ef413f0dd3d369d904a64",
+      "title": "Macron pushes for EU joint debt ahead of competitiveness summit",
+      "summary": "Failing to defend themselves, Europeans “will be swept aside”, the French president warned",
+      "url": "https://www.euractiv.com/news/macron-pushes-for-eu-joint-debt-as-bloc-ahead-of-competitiveness-summit/",
+      "source": "Euractiv",
+      "published_at": "2026-02-10T10:33:28+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Macron pushes for EU joint debt"
+    },
+    {
+      "id": "5644d2d30f5989a204c1a370058f9f679b6011e6",
+      "title": "Weather tracker: Spain and Portugal hit by third deadly storm in two weeks",
+      "summary": "Storm Marta sweeps Iberian peninsula just days after Storms Kristin and Leonardo brought deadly flooding and major damageSpain and Portugal have endured another storm over the weekend, just days after the deadly flooding…",
+      "url": "https://www.theguardian.com/environment/2026/feb/09/weather-tracker-spain-and-portugal-hit-by-third-fatal-storm",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-09T11:00:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "more rain across Spain, Portugal and France"
+    },
     {
       "id": "168b61be3ca904a6490f7ab4bd6b8c7140b1a14c",
       "title": "Meta warned EU plans to impose measures on tech giant to reverse WhatsApp AI policy",
@@ -97,6 +172,17 @@
       "evidence": "French police arrest six over crypto-linked magistrate kidnapping"
     },
     {
+      "id": "50de225f2d2cb448dc696db899359146d952e32a",
+      "title": "Canada is no stranger to separatism but push for Alberta to join US is a new peril",
+      "summary": "While Quebec parties have long sought independence, the secret meetings by unelected Albertans with US officials have been branded treasonous by someA separatist push for a referendum on independence from Canada. Meeting…",
+      "url": "https://www.theguardian.com/world/2026/feb/08/canada-alberta-separatism-join-us",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-08T12:00:30+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "province’s premier to France. In a move that outraged anglophone Canada"
+    },
+    {
       "id": "caba34cdf35f2e938a7d5385f1d6f4ebce11fcf3",
       "title": "Veteran French politician quits as head of prestigious institute after Epstein links revealed",
       "summary": "Former culture minister Jack Lang resigns from Arab World Institute in Paris and is also subject of tax investigationJack Lang, a former French culture minister, has resigned as head of Paris’s prestigious Arab World Ins…",
@@ -130,17 +216,17 @@
       "evidence": "French Ex-Minister Offers Resignation From Paris Cultural Hub Over Epstein Links"
     },
     {
-      "id": "66b86c4b5ebe28efa015dd8c45f150e6c94751a1",
-      "title": "No Fashion Focus in Milan After France Made It Part of Summer Olympics",
-      "summary": "In Paris, the fashion powerhouse LVMH was a headline sponsor and helped design the medals and the athletes’ apparel.",
-      "url": "https://www.nytimes.com/2026/02/06/world/europe/no-fashion-focus-in-milan-after-france-made-it-part-of-summer-olympics.html",
+      "id": "e7c1c4005797e32e7f7281c7e2be4b23c9017178",
+      "title": "France and Canada Open Consulates in Greenland, Following Trump Threats",
+      "summary": "Greenland’s mini diplomatic scene is about to get more lively as Canada and France set up consulates, following threats by President Trump to take over the island.",
+      "url": "https://www.nytimes.com/2026/02/06/world/europe/besides-stars-and-stripes-a-few-new-flags-are-flying-in-greenland.html",
       "source": "NYT > World News",
-      "published_at": "2026-02-06T18:49:26+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "In Paris, the fashion powerhouse LVMH was a headline sponsor"
+      "published_at": "2026-02-06T22:14:23+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "France set up consulates, following Trump Threats"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T08:47:34Z"
+  "last_updated": "2026-02-11T10:09:57Z"
 }

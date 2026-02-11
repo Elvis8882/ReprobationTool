@@ -1,16 +1,47 @@
 {
   "country": "PT",
-  "score": 98,
+  "score": 72,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 54,
-  "sources": 47,
+  "trend": -26,
+  "sources": 49,
   "sentiment": {
     "positive": 5,
-    "neutral": 38,
+    "neutral": 40,
     "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "5a909adf4102e2116c89f39ced354dfb91cfd6ae",
+      "title": "Von der Leyen calls for crackdown on ‘unnecessary’ national laws",
+      "summary": "“It is time for a deep regulatory housecleaning – at all levels,” the European Commission chief said as she called for an end to \"gold-plating\" of EU laws",
+      "url": "https://www.euractiv.com/news/von-der-leyen-calls-for-crackdown-on-unnecessary-national-laws/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T09:09:46+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "24cd014bf5eb8ce642c25a00f51d99d5d63014c9",
+      "title": "EU parliament adopts twin texts hardening migration policy",
+      "summary": "The EU's political centre of gravity has shifted firmly right in recent years, and a decline in irregular entries has not eased the political pressure to act on the hot-button issue",
+      "url": "https://www.euractiv.com/news/eu-parliament-adopts-twin-texts-hardening-migration-policy/",
+      "source": "Euractiv",
+      "published_at": "2026-02-10T16:17:40+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "5644d2d30f5989a204c1a370058f9f679b6011e6",
+      "title": "Weather tracker: Spain and Portugal hit by third deadly storm in two weeks",
+      "summary": "Storm Marta sweeps Iberian peninsula just days after Storms Kristin and Leonardo brought deadly flooding and major damageSpain and Portugal have endured another storm over the weekend, just days after the deadly flooding…",
+      "url": "https://www.theguardian.com/environment/2026/feb/09/weather-tracker-spain-and-portugal-hit-by-third-fatal-storm",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-09T11:00:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Spain and Portugal hit by third deadly storm"
+    },
     {
       "id": "168b61be3ca904a6490f7ab4bd6b8c7140b1a14c",
       "title": "Meta warned EU plans to impose measures on tech giant to reverse WhatsApp AI policy",
@@ -139,8 +170,61 @@
       "sentiment": "mixed",
       "confidence": 0.8,
       "evidence": "rivals unite to keep out far right but gains by Chega"
+    },
+    {
+      "id": "88e791e6cc6f79db5d8b92d89da49d2c1a520830",
+      "title": "Calls to postpone presidential election as Storm Leonardo lashes Portugal and Spain",
+      "summary": "Portugal’s far-right Chega party has said vote should be delayed as state of calamity declared in 69 areasHeavy rains and strong winds have continued to batter parts of Spain and Portugal, causing at least two deaths, fo…",
+      "url": "https://www.theguardian.com/world/2026/feb/06/calls-postpone-presidential-election-storm-leonardo-portugal-spain",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-06T17:28:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Storm Leonardo lashes Portugal, causing deaths and evacuations"
+    },
+    {
+      "id": "adbaefcf7382eeb79e6b081b494f93ae358cc899",
+      "title": "Portugal heads for presidential vote, fretting over storms and far-right",
+      "summary": "Voting has been delayed by a week in some municipalities because of the storms, which have killed at least five people, triggered flooding and caused widespread damage",
+      "url": "https://www.euractiv.com/news/portugal-heads-for-presidential-vote-fretting-over-storms-and-far-right/",
+      "source": "Euractiv",
+      "published_at": "2026-02-06T15:11:33+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "fretting over storms and far-right"
+    },
+    {
+      "id": "c4cb59d36e88ba741e9c0d79586366ae5ce8e692",
+      "title": "Weather tracker: Storm Leonardo continues to batter Europe and northern Africa",
+      "summary": "Spain and Portugal hit with torrential rain while flash floods in Morocco force more than 100,000 people to evacuateThe Iberian peninsula has been placed under severe weather alerts as Storm Leonardo continues to batter…",
+      "url": "https://www.theguardian.com/environment/2026/feb/06/weather-tracker-storm-leonardo-europe-portugal-spain-northern-africa",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-06T13:33:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Storm Leonardo continues to batter parts of Spain and Portugal"
+    },
+    {
+      "id": "f6ae3f02564815e6c049b5fa3610817c509e3a5d",
+      "title": "‘Buy European’ push could ‘wipe out’ EU deregulation drive, Nordics warn",
+      "summary": "The European Commission and France strongly support ‘Made in Europe’ policies",
+      "url": "https://www.euractiv.com/news/buy-european-push-could-wipe-out-eu-deregulation-drive/",
+      "source": "Euractiv",
+      "published_at": "2026-02-05T13:53:59+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "c68705a841df0f009f6d36295e737cd409428525",
+      "title": "68% of people living in EU households own their home - European Commission",
+      "summary": "68% of people living in EU households own their home&nbsp;&nbsp;European CommissionHome ownership in Cyprus at 69.4% in 2024, according to Eurostat&nbsp;&nbsp;ΚΥΠΕCroatia ranks among Europe’s leaders in home ownership in…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBONWVqZnloZ002MjROMFpMVGJKTGVGU3pfMDRhT0tsMnVlSktCRWdyWFlWTW1uMHc5SGpvaEFMUUZIcTh4ZDFmVHJpNXRjVFNtOWNpQ0Y1eHBOZGhBX2FEVS05VGV6al9QcjhpckUtYjR2Q3BhbGJ3VVhIM3U0Zw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-05T10:03:25+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T08:47:34Z"
+  "last_updated": "2026-02-11T10:09:57Z"
 }

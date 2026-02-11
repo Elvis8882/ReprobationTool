@@ -1,16 +1,27 @@
 {
   "country": "SY",
-  "score": 98,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": 97,
-  "sources": 10,
+  "score": 55,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": -43,
+  "sources": 7,
   "sentiment": {
     "positive": 0,
-    "neutral": 8,
+    "neutral": 5,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "93ebec200ec6c4f307c9a79525c7120382f59541",
+      "title": "Eating Kosher in the Heart of Syria: Lamb-Stuffed Zucchini but Hold the Yogurt",
+      "summary": "In the post-Assad era, more Jews are visiting a country that some fled decades ago. One hotel restaurant offers a corner where religious dietary requirements are melded with the local cuisine.",
+      "url": "https://www.nytimes.com/2026/02/10/world/middleeast/syria-kosher-damascus.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-10T17:36:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Eating Kosher in the Heart of Syria: Lamb-Stuffed Zucchini"
+    },
     {
       "id": "4f6654956fe3abba2c0874311b5aa443a7a395e1",
       "title": "Saudis Announce New Investments in Syria, a Sign of Deepening Ties",
@@ -34,17 +45,6 @@
       "evidence": "Chevron Agrees to Explore Oil and Gas Work in Syria"
     },
     {
-      "id": "9db10c02806fe630239c1d662c75a8da83fb29ac",
-      "title": "Syria's only female minister pushes for change: 'I'm not here for window dressing'",
-      "summary": "The BBC's Lyse Doucet follows Hind Kabawat as she confronts the challenges of fragmented, post-Assad Syria.",
-      "url": "https://www.bbc.com/news/articles/cj0n3j16p8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-02T00:28:13+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
-    },
-    {
       "id": "8415f9ca0bb0dfb0c04c757fab6a0a3e70df1687",
       "title": "Syrian government and Kurdish forces reach deal on permanent truce",
       "summary": "Milestone appears to resolve escalating tensions over the question of Kurdish autonomy in north-east SyriaThe Syrian government and Kurdish-led forces have reached an agreement to extend a fragile ceasefire into a perman…",
@@ -54,17 +54,6 @@
       "sentiment": "neutral",
       "confidence": 0.5,
       "evidence": "Syrian government and Kurdish forces reach deal on permanent truce"
-    },
-    {
-      "id": "c2eb35aff492e986eeadfb4e837b8dadd7f06d44",
-      "title": "Inside Syrian camp holding wives and children of suspected IS fighters",
-      "summary": "Kurdish-run prisons hold about 8,000 suspected IS fighters and around 34,000 of their family members in camps.",
-      "url": "https://www.bbc.com/news/videos/c3ve0xd451go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-01-30T11:38:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
     },
     {
       "id": "4705d7a4df69025bce038e506a68d60f9a130fa0",
@@ -89,17 +78,6 @@
       "evidence": "Syria's defiant Kurds vow to 'fight until last breath'"
     },
     {
-      "id": "ff295d1a51ce097926f8efaa9142685750a93f14",
-      "title": "From Syria To Qatar: All US Military Bases In Middle East",
-      "summary": "The United States has troops in Iraq's autonomous Kurdish region.",
-      "url": "https://www.ndtv.com/world-news/from-syria-to-qatar-all-us-military-bases-in-middle-east-10910227#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-01-29T18:51:38+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
-    },
-    {
       "id": "eef92bd18a6f023111725c624bba0444e1039d62",
       "title": "Putin, Still Harboring Assad, Welcomes New Syrian Leader to Moscow Again",
       "summary": "This is the second time that President Vladimir V. Putin has hosted President Ahmed al-Sharaa since the fall of the Russia-backed Syrian dictator Bashar al-Assad.",
@@ -109,19 +87,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "welcomes New Syrian Leader to Moscow Again"
-    },
-    {
-      "id": "d35af9c0a058eca9b56f7b060cba9241cd245bae",
-      "title": "Greenland goes mainstream",
-      "summary": "In Wednesday’s edition: Frederiksen’s tour, Ukraine loan, Syria, EU competitiveness, France’s far-right National Party",
-      "url": "https://www.euractiv.com/news/rapporteur-greenland-goes-mainstream/",
-      "source": "Euractiv",
-      "published_at": "2026-01-28T06:22:43+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T08:47:34Z"
+  "last_updated": "2026-02-11T10:09:57Z"
 }

@@ -1,16 +1,47 @@
 {
   "country": "DK",
-  "score": 99,
+  "score": 76,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 49,
+  "trend": -23,
   "sources": 54,
   "sentiment": {
-    "positive": 6,
-    "neutral": 44,
+    "positive": 7,
+    "neutral": 43,
     "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "5a909adf4102e2116c89f39ced354dfb91cfd6ae",
+      "title": "Von der Leyen calls for crackdown on ‘unnecessary’ national laws",
+      "summary": "“It is time for a deep regulatory housecleaning – at all levels,” the European Commission chief said as she called for an end to \"gold-plating\" of EU laws",
+      "url": "https://www.euractiv.com/news/von-der-leyen-calls-for-crackdown-on-unnecessary-national-laws/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T09:09:46+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "24cd014bf5eb8ce642c25a00f51d99d5d63014c9",
+      "title": "EU parliament adopts twin texts hardening migration policy",
+      "summary": "The EU's political centre of gravity has shifted firmly right in recent years, and a decline in irregular entries has not eased the political pressure to act on the hot-button issue",
+      "url": "https://www.euractiv.com/news/eu-parliament-adopts-twin-texts-hardening-migration-policy/",
+      "source": "Euractiv",
+      "published_at": "2026-02-10T16:17:40+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "dba79b05ac2dc4ff09bd928948ebc7872f99c2cf",
+      "title": "UK and US sink to new lows in global index of corruption",
+      "summary": "Countries’ drop in scores in annual table comes amid ‘worrying trend’ of backsliding in established democraciesThe UK and US have sunk to new lows in a global index of corruption, amid a “worrying trend” of democratic in…",
+      "url": "https://www.theguardian.com/world/2026/feb/10/uk-and-us-sink-to-new-lows-in-global-index-of-corruption",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-10T06:00:15+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Denmark at the top with the lowest levels of corruption"
+    },
     {
       "id": "3e275932c00a7fd0d0b46feadbbf1d58cad9db59",
       "title": "Denmark sets new organ donation record after policy shift [Advocacy Lab]",
@@ -136,8 +167,60 @@
       "published_at": "2026-02-04T16:31:51+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "2f9d435f07bd8bae98e2f3e374fd2a80a46a80e7",
+      "title": "EU hospitals released 5 million cancer patients in 2023 - European Commission",
+      "summary": "EU hospitals released 5 million cancer patients in 2023&nbsp;&nbsp;European Commission",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVQ2NySkxSYlp6RGZFV0NCWURjX0R6NmNaS1cxN0ROMk5PNUVmR2UxVlR4VzJrUmppZi1FQk9GNGNxY0k5UEFoUjkxUW5iZ1l5UU5zQmVnZ00zVkJYRFdIS0kybmFlT0ZqMVNCYnhmMkJiV3pHbVVMM3lmMzB0dw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-04T10:03:44+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "a349edc409702a9453cac6ff84300ff1fc117a32",
+      "title": "Here’s How the U.S. Accepted Danish Control of Greenland 100 Years Ago.",
+      "summary": "In 1917, the United States bought Caribbean islands from Denmark and agreed to respect Denmark’s hold over Greenland. The deal resurfaced with President Trump’s recent threats to seize Greenland.",
+      "url": "https://www.nytimes.com/2026/02/04/world/americas/what-to-know-us-west-indies-greenland-history-denmark.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-04T10:01:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "U.S. Accepted Danish Control of Greenland 100 Years Ago"
+    },
+    {
+      "id": "ea37493997403934ad392839d22a14c947d01a77",
+      "title": "Denmark plans new national women’s health centre, recognising years of neglect [Advocacy Lab]",
+      "summary": "The new centre will focus on areas including endometriosis, reproductive and sexual health, menopause, women's mental and neurological health",
+      "url": "https://www.euractiv.com/news/denmark-plans-new-national-womens-health-centre-recognising-years-of-neglect/",
+      "source": "Euractiv",
+      "published_at": "2026-02-03T23:10:30+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Denmark plans new national women’s health centre"
+    },
+    {
+      "id": "f53abe1fa64119c20440250f0adaec42779d7c43",
+      "title": "French prosecutors ask appeal court to keep ban on Marine Le Pen running for office",
+      "summary": "Far-right leader was barred for five years after being found guilty of extensive fake jobs scam at European parliamentFrench state prosecutors have asked appeal court judges to maintain a five-year election ban on the fa…",
+      "url": "https://www.theguardian.com/world/2026/feb/03/french-prosecutors-ask-appeal-court-to-keep-ban-on-marine-le-pen-running-for-office",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-03T19:22:59+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "b88dbd25bbd43ec0f03cb0aba111e29546935253",
+      "title": "MEPs lobby EU foreign policy chief to put a stop to Faroe Islands whale cull",
+      "summary": "\"The European Union’s external action should reflect the values it upholds internally\", lawmakers said",
+      "url": "https://www.euractiv.com/news/five-meps-lobby-kallas-to-put-a-stop-to-faroe-islands-whale-hunts/",
+      "source": "Euractiv",
+      "published_at": "2026-02-03T17:49:14+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T08:47:34Z"
+  "last_updated": "2026-02-11T10:09:57Z"
 }

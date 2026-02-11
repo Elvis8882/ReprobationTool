@@ -1,16 +1,71 @@
 {
   "country": "IR",
-  "score": 20,
+  "score": 13,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 11,
-  "sources": 141,
+  "trend": -7,
+  "sources": 146,
   "sentiment": {
     "positive": 13,
-    "neutral": 43,
-    "negative": 86
+    "neutral": 41,
+    "negative": 93
   },
   "latest_articles": [
+    {
+      "id": "01754be9d4f0bec888eb1c1047949beef2b6b6aa",
+      "title": "Netanyahu to meet Trump as Iran nuclear talks reach critical stage",
+      "summary": "The Israeli prime minister is expected to press Trump to pursue a deal that would halt Iran's uranium enrichment.",
+      "url": "https://www.bbc.com/news/articles/c0k1j2j4607o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-11T05:55:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Iran nuclear talks reach critical stage... halt Iran's uranium enrichment"
+    },
+    {
+      "id": "3a4bb3d585876d7a027a12e1364edfe955b1cd71",
+      "title": "Trump mulls second aircraft carrier off Iran, as Netanyahu flies to D.C. for talks",
+      "summary": "The threat of an imminent new attack on Tehran follows an inconclusive meeting last week between U.S. envoys and senior Iranian officials.",
+      "url": "https://www.washingtonpost.com/national-security/2026/02/10/trump-iran-aircraft-carrier-netanyahu-gaza/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-11T00:29:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "threat of an imminent new attack on Tehran"
+    },
+    {
+      "id": "0222e663df571720e30d41ffe871156411b69d94",
+      "title": "Iran tells US not to let Netanyahu thwart nuclear talks before Trump meeting",
+      "summary": "Tehran’s intervention comes as the Israeli prime minister heads to a hastily arranged White House encounterTehran has told the US not to allow Israel to destroy the chance of reaching an agreement over Iran’s nuclear pro…",
+      "url": "https://www.theguardian.com/world/2026/feb/10/iran-tells-us-not-to-let-netanyahu-thwart-nuclear-talks-before-trump-meeting",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-10T19:34:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "not let Netanyahu thwart nuclear talks"
+    },
+    {
+      "id": "ee544c9b3b8045f0d5ff43af0befacbffdf4af82",
+      "title": "Watch: BBC in Tehran for first time since protest crackdown",
+      "summary": "Lyse Doucet reports from Iran, where she says the pain is still raw after unprecedented force was used to put down the protests there.",
+      "url": "https://www.bbc.com/news/videos/c5yr82796j4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-10T17:57:31+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "unprecedented force was used to put down the protests"
+    },
+    {
+      "id": "90c6af31d658c6bb0ae676ac7638a5a8e64a37ab",
+      "title": "Iran’s shadow fleet of old tankers a ticking bomb for sea life, say experts",
+      "summary": "Exclusive: Analysts say there will be oil spill catastrophe that could be far bigger than Exxon Valdez disasterDecrepit oil tankers in Iran’s sanctions-busting shadow fleet are a “ticking time bomb”, and it is only a mat…",
+      "url": "https://www.theguardian.com/environment/2026/feb/10/ticking-time-bomb-iran-shadow-fleet-old-tankers-risking-catastrophic-oil-spill",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-10T11:50:01+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Iran’s sanctions-busting shadow fleet"
+    },
     {
       "id": "7e5dfcdc930f2e122a7f90ab2b17920208c29c3c",
       "title": "'Attack, Don't Negotiate': Iran Man's Video Appeal To Trump Before Suicide",
@@ -21,6 +76,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Iran Man's Video Appeal To Trump Before Suicide"
+    },
+    {
+      "id": "cb9eecb07f49c1f05d3a61498fb510dbe3d4ccab",
+      "title": "Iran Detains Opposition Leaders Following Talks with Trump Administration",
+      "summary": "The detentions of politicians from Iran’s reformist opposition follow mass arrests and a string of repression tactics aimed at preventing further anti-government unrest.",
+      "url": "https://www.nytimes.com/2026/02/09/world/europe/iran-detains-prominent-opposition-figures-expanding-crackdown-on-dissent.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-10T03:58:31+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Iran Detains Opposition Leaders Following Talks with Trump Administration"
     },
     {
       "id": "848cc0506e8daca1d41de308e353985caf58ba4c",
@@ -43,6 +109,17 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Now is the time to isolate Tehran even further, cutting all diplomatic ties"
+    },
+    {
+      "id": "84f9a14b2ec89d716db05baa2a48a45f76f817e0",
+      "title": "Revealing names and faces of the victims of Iran's protest crackdown",
+      "summary": "BBC News Persian uncovers the identities of the thousands of people killed during the recent crackdown on protests in Iran.",
+      "url": "https://www.bbc.com/news/articles/c62v248xkl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-09T10:47:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "victims of Iran's protest crackdown"
     },
     {
       "id": "f95b1665e4a484dbf300908e045799af592442a8",
@@ -142,8 +219,19 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Iran is skilled at prolonging negotiations over its nuclear program"
+    },
+    {
+      "id": "10c3a3b017c19fa8655ee6b4ddf146805d836b8f",
+      "title": "Netanyahu To Meet Trump In US On Monday To Discuss Negotiations With Iran",
+      "summary": "Iranian officials have ruled out putting Iran's missiles up for discussion",
+      "url": "https://www.ndtv.com/world-news/netanyahu-to-meet-trump-in-us-on-monday-to-discuss-negotiations-with-iran-10966895#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-07T18:07:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Iranian officials have ruled out putting Iran's missiles up for discussion"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T08:47:34Z"
+  "last_updated": "2026-02-11T10:09:57Z"
 }

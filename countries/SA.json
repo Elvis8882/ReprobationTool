@@ -1,16 +1,49 @@
 {
   "country": "SA",
-  "score": 100,
+  "score": 55,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": null,
+  "trend": -45,
   "sources": 25,
   "sentiment": {
     "positive": 0,
-    "neutral": 25,
-    "negative": 0
+    "neutral": 24,
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "c4e54476dbfb84dbb6d52483cefe991a8c2a29b9",
+      "title": "Family of worker killed on Saudi World Cup site still waiting for compensation a year on",
+      "summary": "Lengthy delays in compensation are ‘emblematic’ of what many relatives of migrant workers go through in the Gulf kingdom, say rights groupsWhen Mohammad Arshad fell to his death while constructing the first new stadium f…",
+      "url": "https://www.theguardian.com/global-development/2026/feb/11/family-worker-killed-saudi-world-cup-site-still-waiting-compensation-year-mohammad-arshad",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-11T07:00:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "worker killed on Saudi World Cup site still waiting for compensation"
+    },
+    {
+      "id": "7a8aea8df7f7cf94712cb5c7209992f168fbd828",
+      "title": "Mecca unveils Blue Quran: Viral pictures of 1,100-year-old masterpiece with Surah Al-Baqarah verses break the Internet",
+      "summary": "The Holy Quran Museum in Mecca has unveiled a rare folio from the legendary ‘Blue Quran’, a 9th-century manuscript renowned for its deep blue parchment and gold ink. This significant exhibit highlights the rich history o…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/mecca-museum-unveils-legendary-blue-quran-viral-pictures-of-1100-year-old-masterpiece-with-surah-al-baqarah-verses-break-the-internet/articleshow/128187778.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-02-11T04:47:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "reinforcing Saudi Arabia's role in safeguarding global religious heritage"
+    },
+    {
+      "id": "15a6ab8d1bd7ceac37b03aa41deeabf4210d97d9",
+      "title": "Saudi schools just did the unthinkable: Video games are now part of education curriculum in KSA",
+      "summary": "Saudi Arabia's Ministry of Education has officially integrated electronic gaming into school curricula, encompassing both competitive and educational aspects. This landmark initiative aims to equip students with 21st-cen…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-schools-just-did-the-unthinkable-video-games-are-now-part-of-education-curriculum-in-ksa/articleshow/128187154.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-02-11T04:09:09+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Saudi Arabia's Ministry of Education has officially integrated electronic gaming into school curricula"
+    },
     {
       "id": "2940f9c46cb2a8e63cf756a7775940b958a779b5",
       "title": "Saudi Arabia permits alcohol sale for wealthy expats? Eligibility, residency requirements for liquor access in KSA",
@@ -43,6 +76,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Saudi Arabia cracks down: Over 20,000 arrested for residency, labour and border law violations"
+    },
+    {
+      "id": "1cc6e5ef73210a573491ce2be871706796f3af51",
+      "title": "How to apply for GCC Unified Visa: Step-by-step guide, documents checklist for Schengen-style visa to 6 Gulf countries",
+      "summary": "The GCC is launching a unified tourist visa, allowing entry to all six member states with a single online application. Travellers can expect a streamlined digital process, requiring essential documents like a valid passp…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/how-to-apply-for-gcc-unified-visa-step-by-step-guide-documents-checklist-for-schengen-style-visa-to-6-gulf-countries/articleshow/128057684.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-02-08T04:02:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Saudi Arabia, UAE, Qatar, Kuwait, Bahrain and Oman"
     },
     {
       "id": "4f6654956fe3abba2c0874311b5aa443a7a395e1",
@@ -142,8 +186,52 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "boosts confidence in Saudi Arabia's economy"
+    },
+    {
+      "id": "691f369279b7644a7ab2d996dcd75935f4d12995",
+      "title": "Gloves Come Off in Gulf as Trump’s Closest Arab Allies Clash",
+      "summary": "A feud between Saudi Arabia and the United Arab Emirates is reshaping conflicts and alliances across the Middle East and Africa.",
+      "url": "https://www.nytimes.com/2026/02/04/world/middleeast/emirates-saudi-arabia-rift.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-04T09:25:45+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "A feud between Saudi Arabia and the United Arab Emirates"
+    },
+    {
+      "id": "c0ee9c62e002f164fd80a8203aece5e00db4c414",
+      "title": "Saudi Arabia suspends 1,800 Umrah travel agencies for poor service",
+      "summary": "Saudi Arabia's Ministry of Hajj and Umrah suspended 1,800 foreign travel agencies due to service quality and compliance issues. Pilgrims with existing visas are unaffected but agencies have 10 days to rectify problems or…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabias-ministry-of-hajj-and-umrah-suspends-1800-foreign-travel-agencies-for-poor-service/articleshow/127855102.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-02-02T07:13:33+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Saudi Arabia suspends 1,800 Umrah travel agencies for poor service"
+    },
+    {
+      "id": "0eb6b6258e44f4d68ba45c7687d83350fb73abe5",
+      "title": "Ramadan 2026: Will the month of fasting begin from Wed, Feb 18 or Thurs, Feb 19?",
+      "summary": "Muslims worldwide are anticipating 2026 Ramadan's start with great pomp and show. Do astronomical calculations point to Wednesday, February 18 or Thursday, February 19, 2026, as the most likely first day in Saudi Arabia,…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/ramadan-2026-will-the-islamic-month-of-fasting-begin-from-wednesday-february-18-or-thursday-february-19/articleshow/127851810.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-02-02T04:15:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Saudi Arabia, the UAE and many other nations?"
+    },
+    {
+      "id": "c84f8a784e4b43e775dd1d13f55e7c921b9ce040",
+      "title": "U.S. approves almost $16 billion in arms sales to Israel and Saudi Arabia",
+      "summary": "The sales to Israel worth close to $6.7 billion include 30 Apache attack helicopters, while Saudi Arabia is set to buy Patriot missiles worth $9 billion.",
+      "url": "https://www.washingtonpost.com/world/2026/01/30/us-israel-arms-sales-saudi-arabia/",
+      "source": "World (Washington post)",
+      "published_at": "2026-01-31T06:14:17+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "arms sales to Saudi Arabia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T08:47:34Z"
+  "last_updated": "2026-02-11T10:09:57Z"
 }

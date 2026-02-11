@@ -23,8 +23,40 @@
     "PT",
     "TR"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-02-10T10:14:34+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-02-11T10:09:57+00:00",
+  "sentiment_by_country": {
+    "ES": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Spain and Portugal hit by third deadly storm"
+    },
+    "FR": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "more rain across Spain, Portugal and France"
+    },
+    "GR": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "western parts of Greece and Turkey"
+    },
+    "IT": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "southern Italy and western parts of Greece"
+    },
+    "PT": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Spain and Portugal hit by third deadly storm"
+    },
+    "TR": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "western parts of Greece and Turkey"
+    }
+  },
+  "processed_at": "2026-02-11T10:09:57+00:00"
 }

@@ -1,16 +1,60 @@
 {
   "country": "TR",
-  "score": 100,
+  "score": 85,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 12,
+  "trend": -15,
+  "sources": 17,
   "sentiment": {
-    "positive": 3,
-    "neutral": 9,
-    "negative": 0
+    "positive": 4,
+    "neutral": 12,
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "249d81f2c880b9e8b923121c5df29abf838afa80",
+      "title": "All hail our industrial overlords",
+      "summary": "In Wednesday's edition, also: Ankara, EU-US trade, digital euro",
+      "url": "https://www.euractiv.com/news/rapporteur-all-hail-our-industrial-overlords/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T07:01:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Ankara, EU-US trade, digital euro"
+    },
+    {
+      "id": "46884a78a532d30de3a81c9412b834fe0e5fcb00",
+      "title": "A war threat and a chance: Turkey and Greece face hard decisions",
+      "summary": "Any compromise would carry significant political costs at home, prompting caution on both sides",
+      "url": "https://www.euractiv.com/news/a-war-threat-and-a-chance-turkey-and-greece-face-hard-decisions/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T05:00:17+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "A war threat and a chance: Turkey and Greece face hard decisions"
+    },
+    {
+      "id": "27195cfd66314a0366fbe0ee262d17b9368ffef2",
+      "title": "Judge rejects Trump administration effort to deport pro-Palestinian Tufts student",
+      "summary": "Rümeysa Öztürk was arrested as part of the government’s targeting of students protesting against Israel’s war on GazaAn immigration judge has rejected the Trump administration’s efforts to deport Rümeysa Öztürk, a Tufts…",
+      "url": "https://www.theguardian.com/us-news/2026/feb/09/rumeysa-ozturk-tufts-student-deport",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-10T01:03:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Lawyers for the Turkish student"
+    },
+    {
+      "id": "5644d2d30f5989a204c1a370058f9f679b6011e6",
+      "title": "Weather tracker: Spain and Portugal hit by third deadly storm in two weeks",
+      "summary": "Storm Marta sweeps Iberian peninsula just days after Storms Kristin and Leonardo brought deadly flooding and major damageSpain and Portugal have endured another storm over the weekend, just days after the deadly flooding…",
+      "url": "https://www.theguardian.com/environment/2026/feb/09/weather-tracker-spain-and-portugal-hit-by-third-fatal-storm",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-09T11:00:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "western parts of Greece and Turkey"
+    },
     {
       "id": "7890d8c280881593f37314d2298f3f738066dad4",
       "title": "Raffaele Fitto, the invisible commissioner",
@@ -65,6 +109,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Turkey-led peace talks"
+    },
+    {
+      "id": "4cec13d761d06bd6933b0bdd8e928fb816521525",
+      "title": "US envoy Witkoff to hold talks with Iran; tensions rise as USS Abraham Lincoln downs Shahed drone—what we know so far",
+      "summary": "A US F-35C fighter jet shot down an Iranian drone approaching an American aircraft carrier, escalating tensions. This incident occurred just as Iran's president signaled a willingness for negotiations with the US. Despit…",
+      "url": "https://timesofindia.indiatimes.com/world/us/will-us-iran-talks-continue-after-uss-abraham-lincoln-downs-shahed-drone-what-we-know-so-far/articleshow/127897889.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-02-04T02:44:54+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "diplomatic talks in Turkey are reportedly still scheduled"
     },
     {
       "id": "daf164203e783df286b3e0fd0481762d6b4de456",
@@ -145,5 +200,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T08:47:34Z"
+  "last_updated": "2026-02-11T10:09:57Z"
 }

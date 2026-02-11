@@ -1,16 +1,104 @@
 {
   "country": "UA",
-  "score": 76,
+  "score": 72,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 41,
-  "sources": 109,
+  "trend": -4,
+  "sources": 114,
   "sentiment": {
-    "positive": 34,
-    "neutral": 34,
-    "negative": 41
+    "positive": 38,
+    "neutral": 29,
+    "negative": 47
   },
   "latest_articles": [
+    {
+      "id": "98dca191515c9acb6c86255c86f01c5a652ef557",
+      "title": "Russian strikes on Ukraine kill four amid reports Zelenskyy considering elections and peace deal referendum – Europe live",
+      "summary": "Russian attacks show no sign of slowing as fourth anniversary of full-scale invasion approachesin BergenMeanwhile, Norway’s army chief has said Oslo cannot exclude the possibility of a future Russian invasion of the coun…",
+      "url": "https://www.theguardian.com/world/live/2026/feb/11/europe-live-latest-news-updates-eu-ukraine-russia",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-11T09:44:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Russian strikes on Ukraine kill four"
+    },
+    {
+      "id": "c36940fbfa80a1c46848044436814684803b1965",
+      "title": "Olympic Officials Ban Ukrainian’s Helmet Honoring War Dead",
+      "summary": "Vladyslav Heraskevych said he would risk disqualification to wear a helmet that the International Olympic Committee said defied a ban on political speech.",
+      "url": "https://www.nytimes.com/2026/02/10/world/europe/ukraine-winter-olympics-skeleton-helmet-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-10T19:17:38+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Olympic Officials Ban Ukrainian’s Helmet Honoring War Dead"
+    },
+    {
+      "id": "ccb2af1ab224e091a36a4e8287741a06c79d0efa",
+      "title": "How Ukrainians Are Coping Without Heat",
+      "summary": "Our Kyiv bureau chief, Andrew E. Kramer, describes how Kyiv residents are coping with Russia’s unrelenting assaults on their country’s heating and electrical systems and finding ways to stay warm in a cruel winter.",
+      "url": "https://www.nytimes.com/video/world/europe/100000010689521/how-ukrainians-are-coping-without-heat.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-10T18:11:29+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukrainians Are Coping Without Heat"
+    },
+    {
+      "id": "801352efceb888d4e2c43de3984c8ce44e8018d5",
+      "title": "Russia Nears Capture of Key Ukrainian Towns After Year of Grinding Assaults",
+      "summary": "Russian troops have advanced at a glacial pace in recent months, but gains in southern and eastern Ukraine could give Moscow an edge in U.S.-mediated peace talks.",
+      "url": "https://www.nytimes.com/2026/02/10/world/europe/russia-ukraine-battlefield-huliaipole-pokrovsk.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-10T16:28:24+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia Nears Capture of Key Ukrainian Towns"
+    },
+    {
+      "id": "edcf8a9d01b1e2db6efd4a0fadab792c9d2f2c5b",
+      "title": "Russia Knocked Out the Heat. So She Slept in a Tent on Her Bed.",
+      "summary": "With defiant ingenuity, Kyiv residents are trying to find ways to stay warm in a cruel winter.",
+      "url": "https://www.nytimes.com/2026/02/10/world/europe/ukraine-war-russia-power-cold.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-10T10:02:45+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Kyiv residents are trying to find ways to stay warm"
+    },
+    {
+      "id": "a7297c01f17b826faad2b2ceac996bde70e05988",
+      "title": "Russian foreign minister says ‘still a long way to go’ in Ukraine war peace talks – Europe live",
+      "summary": "Despite ‘constructive’ trilateral talks, Russia is still pursuing its maximalist demands, including claims over Ukrainian territoryIn the meantime, Russia’s defence ministry claimed its forces had captured the settlement…",
+      "url": "https://www.theguardian.com/world/live/2026/feb/10/russia-ukraine-war-us-talks-europe-live-updates-latest-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-10T09:54:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "claimed its forces had captured the settlement of Zaliznychne in Ukraine’s Zaporizhzhia region"
+    },
+    {
+      "id": "92207b91a21c92f8aa342ddc3181159158c85b1b",
+      "title": "FIREPOWER: Ukraine to open arms export centres in Europe",
+      "summary": "Plus, MSC, drones, SAFE",
+      "url": "https://www.euractiv.com/news/firepower-ukraine-to-open-arms-export-centres-in-europe/",
+      "source": "Euractiv",
+      "published_at": "2026-02-10T08:38:45+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukraine to open arms export centres in Europe"
+    },
+    {
+      "id": "ebdee4f61dcbe080c2e8de969523fd7ee9f78144",
+      "title": "Latvian journalists evade Russian drone attack in Ukraine / Article - LSM",
+      "summary": "Latvian journalists evade Russian drone attack in Ukraine / Article&nbsp;&nbsp;LSMLatvian journalists come under Russian drone attack in Ukraine&nbsp;&nbsp;UkrinformOver 175 Journalists Abused Since Russia's Invasion of…",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaEJYbzJIcUE1LXRvYW9sLVozc0NfQ1NKelp4ZllSbU1UVzlka1djR0VzMjZfOV9lRW51RVE0UE1YVy13ZUxWeWlMZFE0QXIzQWZSUkNLUGUwYzd2eWZyLVZhZEZGRVVScm1FN1dMRFNfQS1qUHhhNGREM1lrYmFLOHpoa3ptc3FwRUhobk1IcDBWRXNVbkx5TnJtUnhTb2p2Tk9EbWRtdlA3bTZNV2IwMFQzQnVaTWhPR2dj?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-10T01:12:32+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Russian drone attack in Ukraine"
+    },
     {
       "id": "6c9862b3540329bd4e0a4e7be7ceeacb42d9df51",
       "title": "Ukraine to open arms export centres across Europe",
@@ -23,6 +111,17 @@
       "evidence": "Ukraine to open arms export centres across Europe"
     },
     {
+      "id": "b4c2b7f673e5eb3ea3e2f76a79d97cb1b7789a00",
+      "title": "Rīga to donate EUR 100,000 to Ukraine's energy infrastructure / Article - LSM",
+      "summary": "Rīga to donate EUR 100,000 to Ukraine's energy infrastructure / Article&nbsp;&nbsp;LSMLSM launches charity campaign for Ukraine / Article&nbsp;&nbsp;LSMRīga to donate EUR 100,000 to Ukraine's energy infrastructure&nbsp;&…",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjItODVPdEM2bjZMWkFwak9hOG9MZHdETHFZUWw0dmpNYTUyNkdMaUZtcUhxcHU0MEVoY2NrYldkSXNrVFctZ2I3czRkUVRhbXBReHJad0ZpRWlYZUh5Xy1yYkM0QVRRRUc3TENiaWliLVpFTFJ0dWY3ZDJpUTBIMjVzTl9GbkVVNDBMVGxWdUZNc1lTY0MyNEx5WktURm5FU2FTS1FHWmNETW5sN01yZkZSbS1UQl9seU9pUDRJTQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-09T11:38:41+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Rīga to donate EUR 100,000 to Ukraine's energy infrastructure"
+    },
+    {
       "id": "76434f5f36dfb6b8e2a39c6c6242706bfe146ee5",
       "title": "LSM launches charity campaign for Ukraine / Article - LSM",
       "summary": "LSM launches charity campaign for Ukraine / Article&nbsp;&nbsp;LSMCanadian Cities Commemorate Fourth Anniversary of Ukraine Invasion&nbsp;&nbsp;БуквиWashington Rally Supports Ukraine on Fourth Anniversary of Russian Inva…",
@@ -32,6 +131,17 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "charity campaign for Ukraine"
+    },
+    {
+      "id": "401adb205f8cb0079ac9d6c84cddfd2af0ac64ca",
+      "title": "As goes the Washington Post: US democracy takes another hit under Trump",
+      "summary": "Jeff Bezos’s axing of more than 300 jobs at the storied newspaper has renewed fears about the resilience of America’s democracy to withstand Trump’s attacksThe email landed in Lizzie Johnson’s in-tray in Ukraine just bef…",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/feb/08/washington-post-layoffs-democracy-trump",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-08T06:00:24+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Russia had been repeatedly striking the country’s power grid"
     },
     {
       "id": "09a756f579eca0ccf8140e97bd9cfd2967e6cc7d",
@@ -65,6 +175,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Ukraine has proposed freezing the conflict along the current front lines"
+    },
+    {
+      "id": "acf64edf628560698ff3834d80d91b5c4605ce78",
+      "title": "Zelenskyy says US has set June deadline for Ukraine-Russia peace deal",
+      "summary": "Ukrainian president says Trump administration has proposed to host next round of trilateral talks in USVolodymyr Zelenskyy has said the US has given Ukraine and Russia yet another deadline to reach a peace settlement, an…",
+      "url": "https://www.theguardian.com/world/2026/feb/07/volodymyr-zelenskyy-us-june-deadline-ukraine-russia-peace-deal",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-07T14:38:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Ukraine-Russia peace deal"
     },
     {
       "id": "c16684a7e1f4689985101880159a8756acc9516e",
@@ -109,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Russia occupies about 20% of Ukraine's national territory."
-    },
-    {
-      "id": "738872c9fde30115dafc289dcecb7cb904a84c67",
-      "title": "Ukrainian mother's joy after phone call with son she thought had been killed",
-      "summary": "Nazar Daletskyi's family were sure he had been killed and had buried what they thought was his body in 2023.",
-      "url": "https://www.bbc.com/news/articles/cedwdljyx46o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-06T18:17:39+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Ukrainian mother's joy after phone call with son"
-    },
-    {
-      "id": "a220218b2ae592779217b8dbb208d63e21f9e743",
-      "title": "Watch: Ukrainian soldier thought to be dead calls his family",
-      "summary": "Nazar Daletskyi's relatives were told he had been killed in 2022, the first year of Russia’s full-scale invasion.",
-      "url": "https://www.bbc.com/news/videos/c4gvg772vv6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-06T14:36:19+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "thought to be dead calls his family"
-    },
-    {
-      "id": "87e1b7ab136d02aa3e36377d6e61386efc298085",
-      "title": "Top Russian general shot in Moscow as talks stall on Ukraine ceasefire",
-      "summary": "Lt. Gen. Vladimir Alekseyev, the deputy head of the GRU, Russia’s main foreign military intelligence agency, was targeted at his home in Moscow, officials said.",
-      "url": "https://www.washingtonpost.com/world/2026/02/06/russia-general-assassination-attempt-moscow/",
-      "source": "World (Washington post)",
-      "published_at": "2026-02-06T13:31:30+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "talks stall on Ukraine ceasefire"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T08:47:34Z"
+  "last_updated": "2026-02-11T10:09:57Z"
 }

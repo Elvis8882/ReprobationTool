@@ -1,26 +1,48 @@
 {
   "country": "NO",
-  "score": 98,
+  "score": 62,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 80,
-  "sources": 26,
+  "trend": -36,
+  "sources": 25,
   "sentiment": {
-    "positive": 1,
-    "neutral": 22,
-    "negative": 3
+    "positive": 2,
+    "neutral": 18,
+    "negative": 5
   },
   "latest_articles": [
     {
-      "id": "066acfb26a160f13a5d590d94677545e528e833e",
-      "title": "Israel Gives Itself More Control Over Occupied West Bank",
-      "summary": "The security cabinet took actions that make it easier for Jews to buy land in the territory. Critics say the changes violate the Oslo Accords and international law and accelerate attempts to annex the land.",
-      "url": "https://www.nytimes.com/2026/02/09/world/middleeast/israel-settlements-west-bank.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-09T22:21:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
+      "id": "98dca191515c9acb6c86255c86f01c5a652ef557",
+      "title": "Russian strikes on Ukraine kill four amid reports Zelenskyy considering elections and peace deal referendum – Europe live",
+      "summary": "Russian attacks show no sign of slowing as fourth anniversary of full-scale invasion approachesin BergenMeanwhile, Norway’s army chief has said Oslo cannot exclude the possibility of a future Russian invasion of the coun…",
+      "url": "https://www.theguardian.com/world/live/2026/feb/11/europe-live-latest-news-updates-eu-ukraine-russia",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-11T09:44:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "possibility of a future Russian invasion of the country"
+    },
+    {
+      "id": "2c88d4574553963878da45a82623bce963bdd9a7",
+      "title": "UK doubles troops in Norway to counter Russian 'threat to Arctic'",
+      "summary": "Defence Secretary John Healey says British personnel in Norway will rise from 1,000 to 2,000 over three years.",
+      "url": "https://www.bbc.com/news/articles/ce94jm1pp5xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-11T03:39:02+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "UK doubles troops in Norway to counter Russian 'threat to Arctic'"
+    },
+    {
+      "id": "05abdd4e6b67c5dd49479ccd630812b2d4b77b5e",
+      "title": "Norway defence chief says Russia could invade to protect nuclear assets",
+      "summary": "Exclusive: Eirik Kristoffersen, who served in Afghanistan, rejects Trump’s claim that Nato troops stayed off frontlinesNorway’s army chief has said Oslo cannot exclude the possibility of a future Russian invasion of the…",
+      "url": "https://www.theguardian.com/world/2026/feb/10/norway-defence-chief-russia-nuclear-assets",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-10T19:07:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia could invade to protect nuclear assets"
     },
     {
       "id": "3316de984d9839518ca7c99d66bc25630dc6b8b6",
@@ -142,8 +164,74 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Son of Norway’s Crown Princess Goes on Trial"
+    },
+    {
+      "id": "7d37b36dba96a1d9b9afbc7399cb6f5a393de397",
+      "title": "Stepson of Norwegian crown prince stands trial on rape, other charges",
+      "summary": "The stepson of Crown Prince Haakon is accused of 38 offenses, including four counts of rape, domestic violence, assault and drug possession between 2018 and late 2024.",
+      "url": "https://www.washingtonpost.com/world/2026/02/03/norway-rape-trial-stepson-prince/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-03T12:42:31+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Stepson of Norwegian crown prince stands trial on rape"
+    },
+    {
+      "id": "45e5578bb3969ab0be4e58f3b7c55d935911b59c",
+      "title": "Rape trial begins for son of Norway's crown princess in tense moment for royal family",
+      "summary": "Marius Borg Høiby is accused of 38 charges including four counts of rape in one of the biggest cases in Norway for years.",
+      "url": "https://www.bbc.com/news/articles/ckgn8dnxjgwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-03T06:01:18+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "biggest cases in Norway for years"
+    },
+    {
+      "id": "78cbb32dcc060606e493429c2088bf2a70c6ed54",
+      "title": "Norway's Princess Mette-Marit's Journey From Fairytale To Nightmare",
+      "summary": "Crown Princess Mette-Marit of Norway and Crown Prince Haakon of Norway",
+      "url": "https://www.ndtv.com/world-news/norways-princess-mette-marits-journey-from-fairytale-to-nightmare-jeffrey-epstein-links-marius-borg-hoiby-rape-charges-10936045#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-03T05:56:16+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Norway's Princess Mette-Marit's Journey From Fairytale To Nightmare"
+    },
+    {
+      "id": "c3a7aa721c790a3a97ff41cd56f9368dc12a30bb",
+      "title": "BBC reports from Oslo court ahead of rape trial of Crown Princess's son",
+      "summary": "Norway's royal family has been embroiled in recent scandals, including Crown Princess Mette-Marit links with Epstein.",
+      "url": "https://www.bbc.com/news/videos/c1m7vmzynzvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-02T20:22:29+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Norway's royal family has been embroiled in recent scandals"
+    },
+    {
+      "id": "c8ef2eec3a786f49ffe9021cf5a516e88ca4517c",
+      "title": "Royal Families of Norway and Britain Face Pressure Over Epstein Files",
+      "summary": "Newly released emails offer new details about ties between Jeffrey Epstein and Crown Princess Mette-Marit of Norway, as well as Sarah Ferguson, once the Duchess of York in Britain.",
+      "url": "https://www.nytimes.com/2026/02/02/world/europe/epstein-norway-britain-princess-fergie-emails.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-02T18:20:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Crown Princess Mette-Marit of Norway"
+    },
+    {
+      "id": "4b5be473d823b23e17c3baaf6905e7652d8da02c",
+      "title": "Son of Norway’s crown princess arrested on new charges before start of rape trial",
+      "summary": "Marius Borg Høiby arrested on suspicion of assault, making threats with knife and violating restraining order, police sayThe son of Norway’s crown princess, Marius Borg Høiby, has been arrested on new charges just days b…",
+      "url": "https://www.theguardian.com/world/2026/feb/02/marius-borg-hoiby-son-of-norway-crown-princess-arrested-new-charges-before-rape-trial",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-02T13:16:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Son of Norway’s crown princess arrested on new charges"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T08:47:34Z"
+  "last_updated": "2026-02-11T10:09:57Z"
 }

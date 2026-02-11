@@ -1,16 +1,104 @@
 {
   "country": "IL",
-  "score": 81,
+  "score": 77,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 71,
-  "sources": 79,
+  "trend": -4,
+  "sources": 81,
   "sentiment": {
-    "positive": 3,
-    "neutral": 56,
-    "negative": 20
+    "positive": 4,
+    "neutral": 52,
+    "negative": 25
   },
   "latest_articles": [
+    {
+      "id": "120324a39a5cb885c6eb5e4c10eb656f5bf0e2b6",
+      "title": "NSW police commissioner urged to apologise to ‘entire Muslim community’ after officers disrupted prayer at Sydney protest",
+      "summary": "Mal Lanyon says police were ‘required’ to disperse crowd, while Mehreen Faruqi accused them of ‘assaulting Muslims’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news…",
+      "url": "https://www.theguardian.com/australia-news/2026/feb/11/nsw-police-commissioner-urged-apologise-muslim-community-sydney-protests-ntwnfb",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-11T07:39:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "protest against the visit by Israel’s president"
+    },
+    {
+      "id": "01754be9d4f0bec888eb1c1047949beef2b6b6aa",
+      "title": "Netanyahu to meet Trump as Iran nuclear talks reach critical stage",
+      "summary": "The Israeli prime minister is expected to press Trump to pursue a deal that would halt Iran's uranium enrichment.",
+      "url": "https://www.bbc.com/news/articles/c0k1j2j4607o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-11T05:55:02+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Israeli prime minister... press Trump to pursue a deal that would halt Iran's uranium enrichment"
+    },
+    {
+      "id": "77db5f7f5314c5191546b3fbc3cf3f4cc3c812d1",
+      "title": "‘A step in the wrong direction’: Israel’s West Bank plans prompt global backlash",
+      "summary": "US, Britain, EU and Arab nations condemn plans that Israeli ministers say will ‘kill the idea of a Palestinian state’Israeli measures to tighten its control of the West Bank have prompted a global backlash, including a s…",
+      "url": "https://www.theguardian.com/world/2026/feb/10/israel-west-bank-plans-global-backlash",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-11T01:59:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Israel’s West Bank plans prompt global backlash... EU... condemn plans"
+    },
+    {
+      "id": "17d63e1b761bea1c44d06b2af93ba82dae3d12d5",
+      "title": "Kelly Refuses To Condemn Owens: Faces backlash over Israel row; cites free speech stance",
+      "summary": "Megyn Kelly defended her decision not to condemn Candace Owens despite public pressure over controversial online claims involving Charlie Kirk. Kelly said the demands were political and rooted in Israel-related debates.…",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/i-would-rather-die-megyn-kelly-defends-free-speech-after-refusing-to-condemn-candace-owens-in-charlie-kirk-discussion/articleshow/128179447.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-02-10T22:38:34+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Israel-related debates"
+    },
+    {
+      "id": "e6d7b7149d7a8fd3e77f95e15aa0e282bf47e03d",
+      "title": "Israelis Protest Surge in Gun Crime Within Arab Community",
+      "summary": "Palestinian and Jewish citizens of Israel joined forces to demand government action in the face of a spiraling death toll from criminal violence among Arabs.",
+      "url": "https://www.nytimes.com/2026/02/10/world/middleeast/israelis-protest-surge-in-gun-crime-within-arab-community.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-10T21:07:43+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Israelis Protest Surge in Gun Crime Within Arab Community"
+    },
+    {
+      "id": "0222e663df571720e30d41ffe871156411b69d94",
+      "title": "Iran tells US not to let Netanyahu thwart nuclear talks before Trump meeting",
+      "summary": "Tehran’s intervention comes as the Israeli prime minister heads to a hastily arranged White House encounterTehran has told the US not to allow Israel to destroy the chance of reaching an agreement over Iran’s nuclear pro…",
+      "url": "https://www.theguardian.com/world/2026/feb/10/iran-tells-us-not-to-let-netanyahu-thwart-nuclear-talks-before-trump-meeting",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-10T19:34:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "not let Netanyahu thwart nuclear talks"
+    },
+    {
+      "id": "f4b03abdbab2cee45631b71e13758ac3ac21d111",
+      "title": "How the Israeli President’s Visit to Australia Created a ‘Tinder Box’",
+      "summary": "Isaac Herzog’s trip led to widespread rallies and tested the restrictions on protests that Australia installed after a deadly attack on a Jewish celebration.",
+      "url": "https://www.nytimes.com/2026/02/10/world/australia/australia-herzog-protest-violence.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-10T19:29:32+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli President’s Visit...Created a ‘Tinder Box’"
+    },
+    {
+      "id": "fcda88161cd71291cd504751597e20b36034ca6e",
+      "title": "Hamas Would Keep Some Weapons Initially in Draft Gaza Plan",
+      "summary": "Israel is unlikely to withdraw its troops from the enclave before Hamas and other militant groups lay down their arms.",
+      "url": "https://www.nytimes.com/2026/02/10/world/middleeast/hamas-weapons-draft-plan.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-10T18:59:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Israel is unlikely to withdraw its troops from the enclave"
+    },
     {
       "id": "b960870d9674ce12300d9e7479cb359872f23e5f",
       "title": "Australia police defend actions after violence at protest over Israeli president visit",
@@ -32,6 +120,28 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "protest against a visit by the Israeli president"
+    },
+    {
+      "id": "6fd0323dd494d4a4e87089935eb348f2ce3a119f",
+      "title": "Trump White House voices opposition after Israel unveils plan to increase control over West Bank",
+      "summary": "Israel’s security cabinet has approved plans that pave the way for more settlements in the occupied Palestinian territoryA White House official has reiterated Donald Trump’s opposition towards Israel annexing the West Ba…",
+      "url": "https://www.theguardian.com/world/2026/feb/10/trump-west-bank-occupation-white-house-opposition",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-10T05:19:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Israel unveils plan to increase control over West Bank"
+    },
+    {
+      "id": "27195cfd66314a0366fbe0ee262d17b9368ffef2",
+      "title": "Judge rejects Trump administration effort to deport pro-Palestinian Tufts student",
+      "summary": "Rümeysa Öztürk was arrested as part of the government’s targeting of students protesting against Israel’s war on GazaAn immigration judge has rejected the Trump administration’s efforts to deport Rümeysa Öztürk, a Tufts…",
+      "url": "https://www.theguardian.com/us-news/2026/feb/09/rumeysa-ozturk-tufts-student-deport",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-10T01:03:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "protesting against Israel’s war on Gaza"
     },
     {
       "id": "066acfb26a160f13a5d590d94677545e528e833e",
@@ -100,17 +210,6 @@
       "evidence": "Israeli president Isaac Herzog’s visit"
     },
     {
-      "id": "f3b5932262178884692b357b2817bb7835b931f8",
-      "title": "Trump Plans First Meeting Of Gaza Board Of Peace On February 19",
-      "summary": "US President Donald Trump",
-      "url": "https://www.ndtv.com/world-news/us-president-donald-trump-plans-first-meeting-of-gaza-board-of-peace-on-february-19-gaza-reconstruction-10968096#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-08T05:18:25+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
-    },
-    {
       "id": "13d86c19576b785fb9f25422a532955d48c11c7a",
       "title": "Court challenge over march against Israeli president’s visit to be decided at Monday morning hearing",
       "summary": "Palestine Action Group march planned from Sydney Town Hall to NSW parliament in breach of public assembly declarationFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily ne…",
@@ -131,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "deportation flights to Israel called ‘reprehensible’"
-    },
-    {
-      "id": "11c4012015b1a820159e707be9a4ff00727ca38a",
-      "title": "Minns invokes special powers for NSW police to restrict protests during Israeli president’s visit",
-      "summary": "Thirteen state and federal NSW MPs appeal to police to allow planned march protesting against the visitGet our breaking news email, free app or daily news podcastThe NSW government has invoked special powers ahead of the…",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/07/chris-minns-restrict-protest-nsw-police-isaac-herzog-israel-president-visit",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-07T02:26:48+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Israeli president’s visit"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T08:47:34Z"
+  "last_updated": "2026-02-11T10:09:57Z"
 }

@@ -1,16 +1,58 @@
 {
   "country": "ES",
-  "score": 95,
+  "score": 70,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 58,
-  "sources": 63,
+  "trend": -25,
+  "sources": 65,
   "sentiment": {
-    "positive": 8,
-    "neutral": 46,
+    "positive": 9,
+    "neutral": 47,
     "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "c83096da8eee87de6aafb93325874f742c20eae4",
+      "title": "Primavera Sound Barcelona agota todas las entradas para su próxima edición a cuatro meses para el festival - Primavera Sound",
+      "summary": "Primavera Sound Barcelona agota todas las entradas para su próxima edición a cuatro meses para el festival&nbsp;&nbsp;Primavera Sound",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZHpEb3NsZWstS1dJNWNVWEw0NWZsLTZtRGVwbXpnZnNVclh2cDZPampQY01iSkdoLXRMSUttQi1kOUZHNVBkX0RCNnc5Q3FGRHJXMkxBMnQ3QmlNRWtJcHE4WndHSWdJX0NmS29ubm0wd1JWT0xvNU1tUWxQNGNGOWNjQlFwWjZLQlB1NDV3N1VMQTJTSjE2QkwxRUstM2RHOXJCZGVPbGxadXYtYTk0dzNYNnJ3NXVxVktZc2JpMXN1YWVDb1JTcFlnT2FDVW00UHc4M3puSHozOXV6elpnNmJtZEptLXRTVU1CRmxwQ0M?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-11T09:24:52+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Primavera Sound Barcelona agota todas las entradas"
+    },
+    {
+      "id": "5a909adf4102e2116c89f39ced354dfb91cfd6ae",
+      "title": "Von der Leyen calls for crackdown on ‘unnecessary’ national laws",
+      "summary": "“It is time for a deep regulatory housecleaning – at all levels,” the European Commission chief said as she called for an end to \"gold-plating\" of EU laws",
+      "url": "https://www.euractiv.com/news/von-der-leyen-calls-for-crackdown-on-unnecessary-national-laws/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T09:09:46+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "24cd014bf5eb8ce642c25a00f51d99d5d63014c9",
+      "title": "EU parliament adopts twin texts hardening migration policy",
+      "summary": "The EU's political centre of gravity has shifted firmly right in recent years, and a decline in irregular entries has not eased the political pressure to act on the hot-button issue",
+      "url": "https://www.euractiv.com/news/eu-parliament-adopts-twin-texts-hardening-migration-policy/",
+      "source": "Euractiv",
+      "published_at": "2026-02-10T16:17:40+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "facaa60f8b9e1f867ee8efaee8063355d61d802f",
+      "title": "Spain’s foreign ministry under fire over press freedom and centralisation",
+      "summary": "The opacity of Spain’s foreign ministry under José Manuel Albares has recently been brought into the spotlight",
+      "url": "https://www.euractiv.com/news/spains-foreign-ministry-under-fire-over-press-freedom-and-centralisation/",
+      "source": "Euractiv",
+      "published_at": "2026-02-10T14:06:12+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "foreign ministry under fire over press freedom and centralisation"
+    },
     {
       "id": "bd8649f0ce568335d3908c248b0f28b75fe64ee8",
       "title": "German union urges homegrown fighter jet in blow to European plan",
@@ -23,6 +65,17 @@
       "evidence": "represent German and Spanish interests in the project"
     },
     {
+      "id": "5644d2d30f5989a204c1a370058f9f679b6011e6",
+      "title": "Weather tracker: Spain and Portugal hit by third deadly storm in two weeks",
+      "summary": "Storm Marta sweeps Iberian peninsula just days after Storms Kristin and Leonardo brought deadly flooding and major damageSpain and Portugal have endured another storm over the weekend, just days after the deadly flooding…",
+      "url": "https://www.theguardian.com/environment/2026/feb/09/weather-tracker-spain-and-portugal-hit-by-third-fatal-storm",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-09T11:00:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Spain and Portugal hit by third deadly storm"
+    },
+    {
       "id": "168b61be3ca904a6490f7ab4bd6b8c7140b1a14c",
       "title": "Meta warned EU plans to impose measures on tech giant to reverse WhatsApp AI policy",
       "summary": "The move follows the European Commission announcing an investigation in December into whether the social media giant had breached antitrust rules.",
@@ -31,17 +84,6 @@
       "published_at": "2026-02-09T10:06:24+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "3d6514114c10c360dab22a9c6d29c9cb9e85e63a",
-      "title": "Bad Bunny makes history as Trump criticises 'terrible' Super Bowl show",
-      "summary": "Puerto Rican artist Bad Bunny makes history with his entirely Spanish set on the sporting world's biggest stage.",
-      "url": "https://www.bbc.com/news/articles/c394g7nnzmzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-09T09:36:38+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
     },
     {
       "id": "a33c7aea720c37243fb424be272e24b46ae7f9b9",
@@ -139,8 +181,51 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "muted criticism of rule-of-law violations"
+    },
+    {
+      "id": "c4cb59d36e88ba741e9c0d79586366ae5ce8e692",
+      "title": "Weather tracker: Storm Leonardo continues to batter Europe and northern Africa",
+      "summary": "Spain and Portugal hit with torrential rain while flash floods in Morocco force more than 100,000 people to evacuateThe Iberian peninsula has been placed under severe weather alerts as Storm Leonardo continues to batter…",
+      "url": "https://www.theguardian.com/environment/2026/feb/06/weather-tracker-storm-leonardo-europe-portugal-spain-northern-africa",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-06T13:33:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Storm Leonardo continues to batter parts of Spain"
+    },
+    {
+      "id": "00df9aa95ac9e2ddeb4c4eea348b2619d8ebebd7",
+      "title": "Opposition to US has hardened in western Europe after Greenland threat, poll finds",
+      "summary": "Large majorities in six nations express antipathy to Trump’s US and support European self-assertionWestern Europeans prize Europe’s autonomy and values over transatlantic ties and will not give them up to placate Donald…",
+      "url": "https://www.theguardian.com/world/2026/feb/06/western-europeans-turning-against-us-after-greenland-threat-poll-finds",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-06T06:00:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Opposition to US has hardened in western Europe after Greenland threat"
+    },
+    {
+      "id": "cb61f9960e8a5370a717eaff7e7bdf3a52af1026",
+      "title": "Bad Bunny goes to the Super Bowl – podcast",
+      "summary": "The journalist Jen Ortiz charts the rise of Bad Bunny – the Puerto Rican superstar musician and ICE critic – before his performance at the Super Bowl on SundayThe halftime show at the Super Bowl is an American cultural i…",
+      "url": "https://www.theguardian.com/news/audio/2026/feb/06/bad-bunny-goes-to-the-super-bowl-podcast",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-06T03:00:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Bad Bunny goes to the Super Bowl"
+    },
+    {
+      "id": "f6ae3f02564815e6c049b5fa3610817c509e3a5d",
+      "title": "‘Buy European’ push could ‘wipe out’ EU deregulation drive, Nordics warn",
+      "summary": "The European Commission and France strongly support ‘Made in Europe’ policies",
+      "url": "https://www.euractiv.com/news/buy-european-push-could-wipe-out-eu-deregulation-drive/",
+      "source": "Euractiv",
+      "published_at": "2026-02-05T13:53:59+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T08:47:34Z"
+  "last_updated": "2026-02-11T10:09:57Z"
 }

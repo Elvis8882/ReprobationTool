@@ -1,16 +1,47 @@
 {
   "country": "PL",
-  "score": 96,
+  "score": 64,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 67,
-  "sources": 45,
+  "trend": -32,
+  "sources": 48,
   "sentiment": {
     "positive": 3,
-    "neutral": 37,
-    "negative": 5
+    "neutral": 39,
+    "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "5a909adf4102e2116c89f39ced354dfb91cfd6ae",
+      "title": "Von der Leyen calls for crackdown on ‘unnecessary’ national laws",
+      "summary": "“It is time for a deep regulatory housecleaning – at all levels,” the European Commission chief said as she called for an end to \"gold-plating\" of EU laws",
+      "url": "https://www.euractiv.com/news/von-der-leyen-calls-for-crackdown-on-unnecessary-national-laws/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T09:09:46+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "a5040acd9ca13a548a446a0e09bfe384aafb67d1",
+      "title": "In Poland, Tusk mirrors the far right’s agenda",
+      "summary": "The far right’s ascent has coincided with a noticeable rightward shift in Tusk’s rhetoric and policy priorities",
+      "url": "https://www.euractiv.com/news/in-poland-tusk-mirrors-the-far-rights-agenda/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T05:37:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Tusk mirrors the far right’s agenda"
+    },
+    {
+      "id": "24cd014bf5eb8ce642c25a00f51d99d5d63014c9",
+      "title": "EU parliament adopts twin texts hardening migration policy",
+      "summary": "The EU's political centre of gravity has shifted firmly right in recent years, and a decline in irregular entries has not eased the political pressure to act on the hot-button issue",
+      "url": "https://www.euractiv.com/news/eu-parliament-adopts-twin-texts-hardening-migration-policy/",
+      "source": "Euractiv",
+      "published_at": "2026-02-10T16:17:40+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "168b61be3ca904a6490f7ab4bd6b8c7140b1a14c",
       "title": "Meta warned EU plans to impose measures on tech giant to reverse WhatsApp AI policy",
@@ -135,8 +166,60 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "survival rates lag behind several European countries"
+    },
+    {
+      "id": "41b5cde919a432a16c27d1bc6aa490f2831d7b58",
+      "title": "INTERVIEW: Poland’s top defence contractor calls for EU production overhaul",
+      "summary": "Some in the EU argue that Europe may have to consolidate its defence market to avoid duplication",
+      "url": "https://www.euractiv.com/interview/interview-polands-top-defence-contractor-calls-for-eu-production-overhaul/",
+      "source": "Euractiv",
+      "published_at": "2026-02-04T05:00:05+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Poland’s top defence contractor calls for EU production overhaul"
+    },
+    {
+      "id": "f53abe1fa64119c20440250f0adaec42779d7c43",
+      "title": "French prosecutors ask appeal court to keep ban on Marine Le Pen running for office",
+      "summary": "Far-right leader was barred for five years after being found guilty of extensive fake jobs scam at European parliamentFrench state prosecutors have asked appeal court judges to maintain a five-year election ban on the fa…",
+      "url": "https://www.theguardian.com/world/2026/feb/03/french-prosecutors-ask-appeal-court-to-keep-ban-on-marine-le-pen-running-for-office",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-03T19:22:59+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "b88dbd25bbd43ec0f03cb0aba111e29546935253",
+      "title": "MEPs lobby EU foreign policy chief to put a stop to Faroe Islands whale cull",
+      "summary": "\"The European Union’s external action should reflect the values it upholds internally\", lawmakers said",
+      "url": "https://www.euractiv.com/news/five-meps-lobby-kallas-to-put-a-stop-to-faroe-islands-whale-hunts/",
+      "source": "Euractiv",
+      "published_at": "2026-02-03T17:49:14+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "5cd2c1893114080632974d9345556e42e4996c4c",
+      "title": "Europe’s path to a cleaner automotive sector – What are the opportunities and challenges? [Advocacy Lab]",
+      "summary": "The European Commission has published its proposals to revise its Car CO2 Regulation and to introduce national targets for Clean Corporate Vehicles as part of its Automotive Package. These initiatives aim to reduce green…",
+      "url": "https://www.euractiv.com/video/europes-path-to-a-cleaner-automotive-sector-what-are-the-opportunities-and-challenges/",
+      "source": "Euractiv",
+      "published_at": "2026-02-03T15:00:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "ba201d120a74878ab40dc15c114018cef5e0d67d",
+      "title": "Reformatting, not relocation: Viachorka on new stage for Tsikhanouskaya’s office in Warsaw - Белсат",
+      "summary": "Reformatting, not relocation: Viachorka on new stage for Tsikhanouskaya’s office in Warsaw&nbsp;&nbsp;БелсатPart of Tsikhanouskaya's office team to move to Warsaw in the coming weeks&nbsp;&nbsp;Наша НіваTsikhanouskaya co…",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaVdNOFlodWdUTGMyM1NuWW92Q0FDTnVBOXRIX2NPSWJCLVdRaTYyUG1GbDJQNUJJRVRMU3RNZUM3eUlnS3VVYl8xRXhsQnRVQ1lDT0d3Nks0d3BuQVAtaExXVTNDRDlSeloyMHJhLWswMWY0ZkxtQUU3ME5JQWFaQmRkeGozMEdYQy1Kemt6MGRqenJLOHAxM2U3d2d5alpoc3dBTWR3TTllbDJnS3Mzc1ZCS2dvdUtr?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-02T13:13:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Tsikhanouskaya’s office in Warsaw"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T08:47:34Z"
+  "last_updated": "2026-02-11T10:09:57Z"
 }

@@ -1,16 +1,47 @@
 {
   "country": "IE",
-  "score": 100,
+  "score": 80,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 50,
-  "sources": 39,
+  "trend": -20,
+  "sources": 41,
   "sentiment": {
-    "positive": 3,
+    "positive": 5,
     "neutral": 34,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "5a909adf4102e2116c89f39ced354dfb91cfd6ae",
+      "title": "Von der Leyen calls for crackdown on ‘unnecessary’ national laws",
+      "summary": "“It is time for a deep regulatory housecleaning – at all levels,” the European Commission chief said as she called for an end to \"gold-plating\" of EU laws",
+      "url": "https://www.euractiv.com/news/von-der-leyen-calls-for-crackdown-on-unnecessary-national-laws/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T09:09:46+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "366c64e496d8faf1b99eb98dfca78a0b0117e71d",
+      "title": "Ireland’s basic income for the arts scheme becomes permanent",
+      "summary": "When piloted, initiative that provided €325 a week to eligible artists recouped more than its net cost, study shows Ireland is creating a scheme that will give artists a weekly income in the hope of reducing their need f…",
+      "url": "https://www.theguardian.com/world/2026/feb/10/ireland-basic-income-for-the-arts-scheme-becomes-permanent",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-10T19:21:57+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ireland’s basic income for the arts scheme becomes permanent"
+    },
+    {
+      "id": "24cd014bf5eb8ce642c25a00f51d99d5d63014c9",
+      "title": "EU parliament adopts twin texts hardening migration policy",
+      "summary": "The EU's political centre of gravity has shifted firmly right in recent years, and a decline in irregular entries has not eased the political pressure to act on the hot-button issue",
+      "url": "https://www.euractiv.com/news/eu-parliament-adopts-twin-texts-hardening-migration-policy/",
+      "source": "Euractiv",
+      "published_at": "2026-02-10T16:17:40+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "168b61be3ca904a6490f7ab4bd6b8c7140b1a14c",
       "title": "Meta warned EU plans to impose measures on tech giant to reverse WhatsApp AI policy",
@@ -30,6 +61,17 @@
       "published_at": "2026-02-09T09:01:26+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "089b0e786c76af18870bb0f6ed543411fd70fc9c",
+      "title": "Latvians invited to apply for EU civil service jobs / Article - LSM",
+      "summary": "Latvians invited to apply for EU civil service jobs / Article&nbsp;&nbsp;LSMEU Commission’s hiring contest begins … 7 years after the last one&nbsp;&nbsp;politico.euEU opens flagship AD5 careers competition; Ireland laun…",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2hWekg3MlFIN09reFBLUWFQMUw5OTFTUGRHNHB4VHJ1Yk5hbEs3LVJqYXN0X0FodjZoSkJ2MmhpdFY0RWlZV2JIZG9rZEgwNEJQRE91Yk1SU3FBLXVZaWJ3MldiUUYxVi1ZNDNYd0RqQzZuaDhDTWV1VzhwV2VaQmFpSG1MYkNPMHdLZ3VYeHcwMkRMOUMxc3ZmMmhfSGNQOVlVdWc1eW5CVTAtQW9vLWxhWmhmUWJG?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-09T06:47:59+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ireland launches support drive to boost representation"
     },
     {
       "id": "916aaa435b84a2b5c566d6b801edb562e3e5c0f9",
@@ -84,17 +126,6 @@
       "sentiment_fallback": true
     },
     {
-      "id": "82c6377221194e85073af3a2c9e3b6fc9819b859",
-      "title": "Sanctions having ‘significant impact’ on Russian economy, says EU special envoy",
-      "summary": "Exclusive: David O’Sullivan says war-based economy may be nearing point of becoming ‘unsustainable’Western sanctions are having a “significant impact” on the Russian economy, the EU’s sanctions envoy has said, ahead of t…",
-      "url": "https://www.theguardian.com/world/2026/feb/05/sanctions-significant-impact-russian-economy-interview-eu-special-envoy-david-osullivan",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-05T05:00:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.0,
-      "evidence": ""
-    },
-    {
       "id": "ba2c1ed894d35ff7ddee8cc4fb00839e0875516b",
       "title": "EU Parliament to hold special plenary on Ukraine war anniversary",
       "summary": "A debate on Russia's war in Ukraine and a vote on a new €90 billion defence-focused loan to Ukraine have also been moved to 24 February",
@@ -133,8 +164,60 @@
       "published_at": "2026-02-03T17:49:14+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "5cd2c1893114080632974d9345556e42e4996c4c",
+      "title": "Europe’s path to a cleaner automotive sector – What are the opportunities and challenges? [Advocacy Lab]",
+      "summary": "The European Commission has published its proposals to revise its Car CO2 Regulation and to introduce national targets for Clean Corporate Vehicles as part of its Automotive Package. These initiatives aim to reduce green…",
+      "url": "https://www.euractiv.com/video/europes-path-to-a-cleaner-automotive-sector-what-are-the-opportunities-and-challenges/",
+      "source": "Euractiv",
+      "published_at": "2026-02-03T15:00:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "145d96e2d4320e10167e7f23e0d30e3781039eeb",
+      "title": "Ireland advances sweeping overhaul of mental health legislation [Advocacy Lab]",
+      "summary": "The bill represents “a huge step forward” in protecting the rights of people accessing mental health services, particularly those who are involuntarily admitted, says minister",
+      "url": "https://www.euractiv.com/news/ireland-advances-sweeping-overhaul-of-mental-health-legislation/",
+      "source": "Euractiv",
+      "published_at": "2026-02-03T09:11:09+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": ""
+    },
+    {
+      "id": "b51ee529a130084e534ce9ea417d28cb07af7958",
+      "title": "Remarks on the European Asylum and Migration Management Strategy and the EU Visa Strategy - European Commission",
+      "summary": "Remarks on the European Asylum and Migration Management Strategy and the EU Visa Strategy&nbsp;&nbsp;European CommissionBritain should co-operate as EU gets tough on enforcing asylum laws&nbsp;&nbsp;The TimesEU set to us…",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zQ3JWZjBBVnlfcFJTelYxeUk2Z1dDN1dzang3QW8yR3A0YUY5bFdJQU96OUlnSXQ1RkdUemJVM01iTlBKQ2NNQXB4NUZiNWdqT29vX1duOWZ3dkdmR0EyS1dJN3lhbEZmZFNuYlVyT3JMa2JUNVE?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-02T10:15:07+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "e6db6ad0340b23e4ff9d0cb207147d4ff3d60f5e",
+      "title": "9.2% of EU population struggled to keep their home warm - European Commission",
+      "summary": "9.2% of EU population struggled to keep their home warm&nbsp;&nbsp;European Commission",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmQlFtenRVbXA5Z0xoN24wRUQ3ZG1obFNmdkdOYVZqN2RWM3FNcFp0YWZnNENTakYtQmw5eW9SWjNrY1FHbm1ucmptVmdKNTJuNFFjQ1BRajVaNFl2b0c0WWx3blBfakg2TEFFRGFjMEpGOGhHVmN6V0lvOFNadw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-02T10:03:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "7ed14971bee29277a78729fc8d68f2c37738d933",
+      "title": "‘There is an attempt to get rid of me’: leader of UK’s black police association alleges campaign to silence him",
+      "summary": "Exclusive: Andy George, who has been subject to several investigations, believes there is an effort to marginalise the views of those he represents“I tell you now, there is an attempt by some of the longer serving chief…",
+      "url": "https://www.theguardian.com/uk-news/2026/feb/02/leader-uk-national-black-police-association-alleges-campaign-to-silence-him",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-02T10:02:05+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "mother from Armagh in Northern Ireland"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T08:47:34Z"
+  "last_updated": "2026-02-11T10:09:57Z"
 }
