@@ -317,8 +317,18 @@ svg path.active {
 }
 
 .news-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
   font-weight: bold;
   font-size: 0.95rem;
+}
+
+.news-sentiment-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex: 0 0 10px;
 }
 
 .news-title a {

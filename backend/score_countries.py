@@ -7,6 +7,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 ARTICLES_DIR = BASE_DIR / "data" / "articles"
 COUNTRIES_DIR = BASE_DIR / "countries"
 EU_EXPANSION_WEIGHT = 0.15 
+NEGATIVE_POINT_IMPACT = 1.0
+POSITIVE_POINT_IMPACT = 0.5
+MIXED_NEGATIVE_POINT_IMPACT = 0.12
+MIXED_POSITIVE_POINT_IMPACT = 0.06
 
 ALL_COUNTRIES = [
     "GL","IS","MA","TN","DZ","BY","JO","KZ","NO","UA","IL","SA","IQ","AZ","IR","GE","SY","TR","AM","CY",
@@ -15,7 +19,9 @@ ALL_COUNTRIES = [
 ]
 
 WINDOW_DAYS = 90
-LATEST_PER_COUNTRY = 12
+LATEST_PER_COUNTRY = 20
+PROPORTIONAL_SAMPLE_THRESHOLD = 20
+SMALL_SAMPLE_NEGATIVE_SCALE = 45.0
 
 
 def parse_dt(s: str):
@@ -41,16 +47,31 @@ def clamp(x, lo, hi):
     return max(lo, min(hi, x))
 
 
-def compute_score(pos: float, neu: float, neg: float) -> int:
-    total = pos + neu + neg
-    if total == 0:
+def parse_confidence(value):
+    if value is None:
+        return None
+    try:
+        return float(value)
+    except (TypeError, ValueError):
+        return None
+
+def compute_score(pos_impact: float, neg_impact: float, pos_count: int, neg_count: int) -> int:
+    signal_count = pos_count + neg_count
+    if signal_count <= 0:
         return 100
 
-    neg_ratio = neg / total
+    if signal_count < PROPORTIONAL_SAMPLE_THRESHOLD:
+        pos_signal = pos_count * POSITIVE_POINT_IMPACT
+        neg_signal = neg_count * NEGATIVE_POINT_IMPACT
+        total_signal = pos_signal + neg_signal
+        if total_signal <= 0:
+            return 100
 
-    NEG_K = 45.0
+        neg_ratio = neg_signal / total_signal
+        score = 100.0 - (SMALL_SAMPLE_NEGATIVE_SCALE * neg_ratio)
+        return int(round(clamp(score, 1, 100)))
 
-    score = 100.0 - (NEG_K * neg_ratio)
+    score = 100.0 - neg_impact + pos_impact
     return int(round(clamp(score, 1, 100)))
 
 
@@ -91,7 +112,7 @@ def main():
 
     stats = {
       c: {
-        "pos_w": 0.0, "neu_w": 0.0, "neg_w": 0.0,   # weighted for score
+        "pos_w": 0.0, "neg_w": 0.0,               # weighted for score
         "pos_n": 0,   "neu_n": 0,   "neg_n": 0,     # raw integer for UI
         "latest": []
       } for c in ALL_COUNTRIES
@@ -177,17 +198,27 @@ def main():
             if label not in ("positive", "negative", "neutral", "mixed"):
                 label = "neutral"
                 used_fallback = True
+
+            confidence = parse_confidence(c_sent.get("confidence"))
+            if confidence == 0.0:
+                # Explicit zero-confidence LLM outputs are ignored for
+                # both scoring and UI presentation.
+                continue
         
-            # Decide how to count "mixed"
-            # Conservative option: treat mixed as neutral (recommended initially)
+            # Baseline model: start from 100, then subtract/add points
+            # based on sentiment impacts. Mixed has smaller impacts
+            # on both sides than pure positive/negative labels.
             if label == "positive":
-                stats[c]["pos_w"] += weight
+                stats[c]["pos_w"] += weight * POSITIVE_POINT_IMPACT
                 stats[c]["pos_n"] += 1
             elif label == "negative":
-                stats[c]["neg_w"] += weight
+                stats[c]["neg_w"] += weight * NEGATIVE_POINT_IMPACT
                 stats[c]["neg_n"] += 1
+            elif label == "mixed":
+                stats[c]["pos_w"] += weight * MIXED_POSITIVE_POINT_IMPACT
+                stats[c]["neg_w"] += weight * MIXED_NEGATIVE_POINT_IMPACT
+                stats[c]["neu_n"] += 1
             else:
-                stats[c]["neu_w"] += weight
                 stats[c]["neu_n"] += 1
         
             # Country-specific card (so latest_articles sentiment is correct per country)
@@ -210,17 +241,16 @@ def main():
 
     for c in ALL_COUNTRIES:
         pos_w = stats[c]["pos_w"]
-        neu_w = stats[c]["neu_w"]
         neg_w = stats[c]["neg_w"]
         
         pos_n = stats[c]["pos_n"]
         neu_n = stats[c]["neu_n"]
         neg_n = stats[c]["neg_n"]
         
-        total_w = pos_w + neu_w + neg_w
+        total_w = pos_w + neg_w
         total_n = pos_n + neu_n + neg_n
         
-        score = compute_score(pos_w, neu_w, neg_w)
+        score = compute_score(pos_w, neg_w, pos_n, neg_n)
 
         cpath = COUNTRIES_DIR / f"{c}.json"
         prev_score = None
