@@ -123,12 +123,30 @@ function truncateText(text, maxLength = 160) {
   return `${text.slice(0, maxLength).trim()}…`;
 }
 
+function sentimentIndicatorColor(sentiment) {
+  const normalized = (sentiment || "").toLowerCase();
+  if (normalized === "positive") return "#66bb6a";
+  if (normalized === "negative") return "#ef5350";
+  if (normalized === "neutral") return "#ffee58";
+  if (normalized === "mixed") return "#ffb74d";
+  return "#bdbdbd";
+}
+
 function createNewsItem(article) {
   const li = document.createElement("li");
   li.className = "news-item";
 
   const title = document.createElement("div");
   title.className = "news-title";
+
+  const indicator = document.createElement("span");
+  indicator.className = "news-sentiment-dot";
+  indicator.style.backgroundColor = sentimentIndicatorColor(article.sentiment);
+  indicator.title = article.sentiment
+    ? `AI sentiment: ${article.sentiment}`
+    : "AI sentiment: unavailable";
+  indicator.setAttribute("aria-label", indicator.title);
+  title.appendChild(indicator);
 
   if (article.url) {
     const link = document.createElement("a");
@@ -138,7 +156,9 @@ function createNewsItem(article) {
     link.textContent = article.title || "Untitled article";
     title.appendChild(link);
   } else {
-    title.textContent = article.title || "Untitled article";
+    const text = document.createElement("span");
+    text.textContent = article.title || "Untitled article";
+    title.appendChild(text);
   }
 
   const summary = document.createElement("p");
@@ -414,7 +434,7 @@ async function openPopup(countryEl) {
     countryArticles.sort((a, b) => b.publishedAtMs - a.publishedAtMs);
     renderArticles(
       popupNewsList,
-      countryArticles.slice(0, 12),
+      countryArticles.slice(0, 20),
       "No recent articles available for this country."
     );
 
