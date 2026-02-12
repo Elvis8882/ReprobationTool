@@ -1,16 +1,48 @@
 {
   "country": "NL",
-  "score": 78,
+  "score": 79,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -22,
-  "sources": 50,
+  "trend": 1,
+  "sources": 53,
   "sentiment": {
     "positive": 4,
-    "neutral": 44,
+    "neutral": 47,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "9c5c5541bebcee797d4e9be9318d9a18caf7c141",
+      "title": "The Dutch love four-day working weeks, but are they sustainable?",
+      "summary": "The Netherlands has the lowest working hours in Europe, but some say it is harming its economy.",
+      "url": "https://www.bbc.com/news/articles/cx2y85xdyw3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-12T00:00:05+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "harming its economy"
+    },
+    {
+      "id": "f9bd44d331e1c84c85d839bfa54967a2db583f56",
+      "title": "Jordan Stolz Sets Olympic Record in Speedskating",
+      "summary": "Stolz put an end to Dutch dominance in the men’s sport, cruising to his first Olympic gold medal.",
+      "url": "https://www.nytimes.com/2026/02/11/world/jordan-stolz-hits-another-gear-to-set-an-olympic-record.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-11T22:21:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Dutch dominance in the men’s sport"
+    },
+    {
+      "id": "74ef5dcc9191ff34674319f2a4faec64cabdba51",
+      "title": "Von der Leyen defends EU carbon pricing at chemical industry summit",
+      "summary": "European Commission pledges to ensure revenue is channelled to help heavy industry decarbonise",
+      "url": "https://www.euractiv.com/news/von-der-leyen-defends-eu-carbon-pricing-at-chemical-industry-summit/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T12:59:58+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "5a909adf4102e2116c89f39ced354dfb91cfd6ae",
       "title": "Von der Leyen calls for crackdown on ‘unnecessary’ national laws",
@@ -185,39 +217,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Forced livestock downsizing returns to Dutch politics"
-    },
-    {
-      "id": "6fc92ff900e0ba8012d04f486f247f26022e5a24",
-      "title": "India Holds Firm Against International Court Order On Indus Waters Treaty",
-      "summary": "The Hague-based court is proceeding as if the treaty framework remains fully operational.",
-      "url": "https://www.ndtv.com/world-news/india-holds-firm-against-international-court-order-on-indus-waters-treaty-10931222#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-02T10:41:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "India Holds Firm Against International Court Order On Indus Waters Treaty"
-    },
-    {
-      "id": "b51ee529a130084e534ce9ea417d28cb07af7958",
-      "title": "Remarks on the European Asylum and Migration Management Strategy and the EU Visa Strategy - European Commission",
-      "summary": "Remarks on the European Asylum and Migration Management Strategy and the EU Visa Strategy&nbsp;&nbsp;European CommissionBritain should co-operate as EU gets tough on enforcing asylum laws&nbsp;&nbsp;The TimesEU set to us…",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zQ3JWZjBBVnlfcFJTelYxeUk2Z1dDN1dzang3QW8yR3A0YUY5bFdJQU96OUlnSXQ1RkdUemJVM01iTlBKQ2NNQXB4NUZiNWdqT29vX1duOWZ3dkdmR0EyS1dJN3lhbEZmZFNuYlVyT3JMa2JUNVE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-02T10:15:07+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "e6db6ad0340b23e4ff9d0cb207147d4ff3d60f5e",
-      "title": "9.2% of EU population struggled to keep their home warm - European Commission",
-      "summary": "9.2% of EU population struggled to keep their home warm&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmQlFtenRVbXA5Z0xoN24wRUQ3ZG1obFNmdkdOYVZqN2RWM3FNcFp0YWZnNENTakYtQmw5eW9SWjNrY1FHbm1ucmptVmdKNTJuNFFjQ1BRajVaNFl2b0c0WWx3blBfakg2TEFFRGFjMEpGOGhHVmN6V0lvOFNadw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-02T10:03:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T10:09:57Z"
+  "last_updated": "2026-02-12T10:06:42Z"
 }

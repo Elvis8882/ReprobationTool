@@ -1,16 +1,28 @@
 {
   "country": "IS",
   "score": 100,
-  "score_label": "Not enough data",
-  "assessment": "No information available",
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
   "trend": null,
-  "sources": 0,
+  "sources": 1,
   "sentiment": {
     "positive": 0,
-    "neutral": 0,
+    "neutral": 1,
     "negative": 0
   },
-  "latest_articles": [],
+  "latest_articles": [
+    {
+      "id": "d113020423402351e1542e5e9d14836d85309a07",
+      "title": "Why this country declared an ocean current collapse a national security risk",
+      "summary": "The disruption of a current that carries heat north from the tropics would make much of the world hotter, while turning Iceland into “one giant glacier.”",
+      "url": "https://www.washingtonpost.com/climate-environment/2026/02/10/amoc-collapse-current-iceland-security/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-10T10:00:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "turning Iceland into “one giant glacier.”"
+    }
+  ],
   "window_days": 90,
-  "last_updated": "2026-02-11T10:09:57Z"
+  "last_updated": "2026-02-12T10:06:42Z"
 }

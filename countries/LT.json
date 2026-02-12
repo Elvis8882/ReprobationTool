@@ -1,16 +1,26 @@
 {
   "country": "LT",
-  "score": 79,
+  "score": 75,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -21,
-  "sources": 47,
+  "trend": -4,
+  "sources": 49,
   "sentiment": {
     "positive": 7,
-    "neutral": 37,
-    "negative": 3
+    "neutral": 38,
+    "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "74ef5dcc9191ff34674319f2a4faec64cabdba51",
+      "title": "Von der Leyen defends EU carbon pricing at chemical industry summit",
+      "summary": "European Commission pledges to ensure revenue is channelled to help heavy industry decarbonise",
+      "url": "https://www.euractiv.com/news/von-der-leyen-defends-eu-carbon-pricing-at-chemical-industry-summit/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T12:59:58+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "5a909adf4102e2116c89f39ced354dfb91cfd6ae",
       "title": "Von der Leyen calls for crackdown on ‘unnecessary’ national laws",
@@ -106,6 +116,17 @@
       "evidence": "Russian incursion into Lithuania"
     },
     {
+      "id": "6e5f08bcdfa4c8a478f6cbb8e017f7edb719d1e1",
+      "title": "NATO wargame shows Russia conquers the Baltics in days as US holds back and Europe hesitates",
+      "summary": "A German-led wargame suggests Russia could secure key objectives in the Baltics within days by exploiting alliance hesitation and political ambiguity. A simulated incursion into southern Lithuania showed Nato members del…",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/nato-wargame-shows-russia-conquers-the-baltics-in-days-as-us-holds-back-and-europe-hesitates/articleshow/127951744.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-02-05T19:46:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "simulated incursion into southern Lithuania showed Nato members delaying military responses"
+    },
+    {
       "id": "f6ae3f02564815e6c049b5fa3610817c509e3a5d",
       "title": "‘Buy European’ push could ‘wipe out’ EU deregulation drive, Nordics warn",
       "summary": "The European Commission and France strongly support ‘Made in Europe’ policies",
@@ -198,29 +219,8 @@
       "published_at": "2026-02-03T19:22:59+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "6688e180716c1dc3000b523136395724f3433328",
-      "title": "Estonian Literary Museum to Feature Exhibition by Australian Graphic Artist of Lithuanian Descent - The Baltic Times",
-      "summary": "Estonian Literary Museum to Feature Exhibition by Australian Graphic Artist of Lithuanian Descent&nbsp;&nbsp;The Baltic Times",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTnBsMXVpUXp1MlFiMUxvamRCRlRvRFdlQ1VyUWN2MUo3ODNGblJibGhQRXpWQzlPZ1NSM2Rab1ppSWVXcFk2a3dtWWs4Unpnd05zU09JSHZrd1o3OXFZZExHVWNaR2NIVXVqY0NzS0ZxVTZxMHcyQU8zMGZDcVQ3RkJCUW5lOE1nNHRNdGpWREIybi1KeldoaGp3U1FiSXJITUNrNGI2M3h3d1FSRUttelRoaTRBQVNnOHpVWDBnOGgtYzlY?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-03T18:11:20+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Lithuanian Descent"
-    },
-    {
-      "id": "b88dbd25bbd43ec0f03cb0aba111e29546935253",
-      "title": "MEPs lobby EU foreign policy chief to put a stop to Faroe Islands whale cull",
-      "summary": "\"The European Union’s external action should reflect the values it upholds internally\", lawmakers said",
-      "url": "https://www.euractiv.com/news/five-meps-lobby-kallas-to-put-a-stop-to-faroe-islands-whale-hunts/",
-      "source": "Euractiv",
-      "published_at": "2026-02-03T17:49:14+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T10:09:57Z"
+  "last_updated": "2026-02-12T10:06:42Z"
 }

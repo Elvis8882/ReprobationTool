@@ -1,16 +1,37 @@
 {
   "country": "IE",
-  "score": 80,
+  "score": 82,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -20,
-  "sources": 41,
+  "trend": 2,
+  "sources": 43,
   "sentiment": {
     "positive": 5,
-    "neutral": 34,
+    "neutral": 36,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "22b6fc068bce9744d2aa3246cd8e8cd3454ab1a1",
+      "title": "Dublin greenlights procurement phase for landmark electronic health records [Advocacy Lab]",
+      "summary": "Ireland advances plans for unified digital patient record as EHR procurement begins",
+      "url": "https://www.euractiv.com/news/dublin-greenlights-procurement-phase-for-landmark-electronic-health-records/",
+      "source": "Euractiv",
+      "published_at": "2026-02-12T08:49:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Ireland advances plans for unified digital patient record"
+    },
+    {
+      "id": "74ef5dcc9191ff34674319f2a4faec64cabdba51",
+      "title": "Von der Leyen defends EU carbon pricing at chemical industry summit",
+      "summary": "European Commission pledges to ensure revenue is channelled to help heavy industry decarbonise",
+      "url": "https://www.euractiv.com/news/von-der-leyen-defends-eu-carbon-pricing-at-chemical-industry-summit/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T12:59:58+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "5a909adf4102e2116c89f39ced354dfb91cfd6ae",
       "title": "Von der Leyen calls for crackdown on ‘unnecessary’ national laws",
@@ -195,29 +216,8 @@
       "published_at": "2026-02-02T10:15:07+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "e6db6ad0340b23e4ff9d0cb207147d4ff3d60f5e",
-      "title": "9.2% of EU population struggled to keep their home warm - European Commission",
-      "summary": "9.2% of EU population struggled to keep their home warm&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmQlFtenRVbXA5Z0xoN24wRUQ3ZG1obFNmdkdOYVZqN2RWM3FNcFp0YWZnNENTakYtQmw5eW9SWjNrY1FHbm1ucmptVmdKNTJuNFFjQ1BRajVaNFl2b0c0WWx3blBfakg2TEFFRGFjMEpGOGhHVmN6V0lvOFNadw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-02T10:03:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "7ed14971bee29277a78729fc8d68f2c37738d933",
-      "title": "‘There is an attempt to get rid of me’: leader of UK’s black police association alleges campaign to silence him",
-      "summary": "Exclusive: Andy George, who has been subject to several investigations, believes there is an effort to marginalise the views of those he represents“I tell you now, there is an attempt by some of the longer serving chief…",
-      "url": "https://www.theguardian.com/uk-news/2026/feb/02/leader-uk-national-black-police-association-alleges-campaign-to-silence-him",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-02T10:02:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "mother from Armagh in Northern Ireland"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T10:09:57Z"
+  "last_updated": "2026-02-12T10:06:42Z"
 }

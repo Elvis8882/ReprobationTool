@@ -1,16 +1,26 @@
 {
   "country": "ES",
-  "score": 70,
+  "score": 71,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -25,
-  "sources": 65,
+  "trend": 1,
+  "sources": 68,
   "sentiment": {
     "positive": 9,
-    "neutral": 47,
+    "neutral": 50,
     "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "74ef5dcc9191ff34674319f2a4faec64cabdba51",
+      "title": "Von der Leyen defends EU carbon pricing at chemical industry summit",
+      "summary": "European Commission pledges to ensure revenue is channelled to help heavy industry decarbonise",
+      "url": "https://www.euractiv.com/news/von-der-leyen-defends-eu-carbon-pricing-at-chemical-industry-summit/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T12:59:58+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "c83096da8eee87de6aafb93325874f742c20eae4",
       "title": "Primavera Sound Barcelona agota todas las entradas para su próxima edición a cuatro meses para el festival - Primavera Sound",
@@ -43,6 +53,17 @@
       "sentiment_fallback": true
     },
     {
+      "id": "57b12a49b01ec92876f1eeb1e5b5a99d726d01a1",
+      "title": "Parts of Spain just saw a year’s worth of rain in 20 days",
+      "summary": "In the mountainous southwestern part of the country, Grazalema — in the Andalusia region — has recorded over 90 inches of rain so far this year, including 78 inches in just the last 20 days alone.",
+      "url": "https://www.washingtonpost.com/weather/2026/02/10/grazalema-spain-record-rain/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-10T15:41:06+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Parts of Spain just saw a year’s worth of rain"
+    },
+    {
       "id": "facaa60f8b9e1f867ee8efaee8063355d61d802f",
       "title": "Spain’s foreign ministry under fire over press freedom and centralisation",
       "summary": "The opacity of Spain’s foreign ministry under José Manuel Albares has recently been brought into the spotlight",
@@ -52,6 +73,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "foreign ministry under fire over press freedom and centralisation"
+    },
+    {
+      "id": "67ce4a6932936837f7c5519671d42c16e6d24304",
+      "title": "Air Canada cancels all flights to Cuba as US oil blockade cuts off fuel access",
+      "summary": "Airlines from as far away as Russia, China and Spain have also been affected as island nation warns of fuel shortageAir Canada has cancelled all flights to Cuba after the island’s authorities said they were running out o…",
+      "url": "https://www.theguardian.com/world/2026/feb/09/air-canada-cancels-cuba-flights-fuel",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-09T21:00:03+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Airlines from as far away as Russia, China and Spain have also been affected"
     },
     {
       "id": "bd8649f0ce568335d3908c248b0f28b75fe64ee8",
@@ -192,40 +224,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Storm Leonardo continues to batter parts of Spain"
-    },
-    {
-      "id": "00df9aa95ac9e2ddeb4c4eea348b2619d8ebebd7",
-      "title": "Opposition to US has hardened in western Europe after Greenland threat, poll finds",
-      "summary": "Large majorities in six nations express antipathy to Trump’s US and support European self-assertionWestern Europeans prize Europe’s autonomy and values over transatlantic ties and will not give them up to placate Donald…",
-      "url": "https://www.theguardian.com/world/2026/feb/06/western-europeans-turning-against-us-after-greenland-threat-poll-finds",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-06T06:00:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Opposition to US has hardened in western Europe after Greenland threat"
-    },
-    {
-      "id": "cb61f9960e8a5370a717eaff7e7bdf3a52af1026",
-      "title": "Bad Bunny goes to the Super Bowl – podcast",
-      "summary": "The journalist Jen Ortiz charts the rise of Bad Bunny – the Puerto Rican superstar musician and ICE critic – before his performance at the Super Bowl on SundayThe halftime show at the Super Bowl is an American cultural i…",
-      "url": "https://www.theguardian.com/news/audio/2026/feb/06/bad-bunny-goes-to-the-super-bowl-podcast",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-06T03:00:55+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Bad Bunny goes to the Super Bowl"
-    },
-    {
-      "id": "f6ae3f02564815e6c049b5fa3610817c509e3a5d",
-      "title": "‘Buy European’ push could ‘wipe out’ EU deregulation drive, Nordics warn",
-      "summary": "The European Commission and France strongly support ‘Made in Europe’ policies",
-      "url": "https://www.euractiv.com/news/buy-european-push-could-wipe-out-eu-deregulation-drive/",
-      "source": "Euractiv",
-      "published_at": "2026-02-05T13:53:59+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T10:09:57Z"
+  "last_updated": "2026-02-12T10:06:42Z"
 }

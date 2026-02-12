@@ -1,16 +1,28 @@
 {
   "country": "MC",
   "score": 100,
-  "score_label": "Not enough data",
-  "assessment": "No information available",
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
   "trend": null,
-  "sources": 0,
+  "sources": 1,
   "sentiment": {
     "positive": 0,
-    "neutral": 0,
+    "neutral": 1,
     "negative": 0
   },
-  "latest_articles": [],
+  "latest_articles": [
+    {
+      "id": "7aff9f1f3a41481cb5b2dff63b4bbab7ebc51097",
+      "title": "Jim Ratcliffe accused of hypocrisy after saying UK ‘colonised’ by immigrants",
+      "summary": "Manchester United co-owner, who lives in Monaco, faces growing backlash for using ‘far-right narratives’UK politics live – latest updatesThe Monaco-based billionaire Jim Ratcliffe has been accused of hypocrisy and using…",
+      "url": "https://www.theguardian.com/business/2026/feb/12/jim-ratcliffe-accused-hypocrisy-uk-colonised-immigrants",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-12T09:13:35+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "lives in Monaco"
+    }
+  ],
   "window_days": 90,
-  "last_updated": "2026-02-11T10:09:57Z"
+  "last_updated": "2026-02-12T10:06:42Z"
 }

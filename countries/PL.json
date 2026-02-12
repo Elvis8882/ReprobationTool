@@ -1,16 +1,37 @@
 {
   "country": "PL",
-  "score": 64,
+  "score": 67,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -32,
-  "sources": 48,
+  "trend": 3,
+  "sources": 50,
   "sentiment": {
-    "positive": 3,
-    "neutral": 39,
+    "positive": 4,
+    "neutral": 40,
     "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "409a6cbd1b63791124c1487d0bef5adcf662f427",
+      "title": "Poland weighs EU court action against Hungary over ex-minister’s arrest warrant",
+      "summary": "Ziobro was granted political asylum by Viktor Orbán’s government in January",
+      "url": "https://www.euractiv.com/news/poland-weighs-eu-court-action-against-hungary-over-ex-ministers-arrest-warrant/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T15:25:55+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Poland weighs EU court action against Hungary"
+    },
+    {
+      "id": "74ef5dcc9191ff34674319f2a4faec64cabdba51",
+      "title": "Von der Leyen defends EU carbon pricing at chemical industry summit",
+      "summary": "European Commission pledges to ensure revenue is channelled to help heavy industry decarbonise",
+      "url": "https://www.euractiv.com/news/von-der-leyen-defends-eu-carbon-pricing-at-chemical-industry-summit/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T12:59:58+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "5a909adf4102e2116c89f39ced354dfb91cfd6ae",
       "title": "Von der Leyen calls for crackdown on ‘unnecessary’ national laws",
@@ -197,29 +218,8 @@
       "published_at": "2026-02-03T17:49:14+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "5cd2c1893114080632974d9345556e42e4996c4c",
-      "title": "Europe’s path to a cleaner automotive sector – What are the opportunities and challenges? [Advocacy Lab]",
-      "summary": "The European Commission has published its proposals to revise its Car CO2 Regulation and to introduce national targets for Clean Corporate Vehicles as part of its Automotive Package. These initiatives aim to reduce green…",
-      "url": "https://www.euractiv.com/video/europes-path-to-a-cleaner-automotive-sector-what-are-the-opportunities-and-challenges/",
-      "source": "Euractiv",
-      "published_at": "2026-02-03T15:00:33+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "ba201d120a74878ab40dc15c114018cef5e0d67d",
-      "title": "Reformatting, not relocation: Viachorka on new stage for Tsikhanouskaya’s office in Warsaw - Белсат",
-      "summary": "Reformatting, not relocation: Viachorka on new stage for Tsikhanouskaya’s office in Warsaw&nbsp;&nbsp;БелсатPart of Tsikhanouskaya's office team to move to Warsaw in the coming weeks&nbsp;&nbsp;Наша НіваTsikhanouskaya co…",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaVdNOFlodWdUTGMyM1NuWW92Q0FDTnVBOXRIX2NPSWJCLVdRaTYyUG1GbDJQNUJJRVRMU3RNZUM3eUlnS3VVYl8xRXhsQnRVQ1lDT0d3Nks0d3BuQVAtaExXVTNDRDlSeloyMHJhLWswMWY0ZkxtQUU3ME5JQWFaQmRkeGozMEdYQy1Kemt6MGRqenJLOHAxM2U3d2d5alpoc3dBTWR3TTllbDJnS3Mzc1ZCS2dvdUtr?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-02T13:13:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Tsikhanouskaya’s office in Warsaw"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T10:09:57Z"
+  "last_updated": "2026-02-12T10:06:42Z"
 }

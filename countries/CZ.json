@@ -1,16 +1,26 @@
 {
   "country": "CZ",
-  "score": 55,
+  "score": 56,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -42,
-  "sources": 36,
+  "trend": 1,
+  "sources": 37,
   "sentiment": {
     "positive": 0,
-    "neutral": 33,
+    "neutral": 34,
     "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "74ef5dcc9191ff34674319f2a4faec64cabdba51",
+      "title": "Von der Leyen defends EU carbon pricing at chemical industry summit",
+      "summary": "European Commission pledges to ensure revenue is channelled to help heavy industry decarbonise",
+      "url": "https://www.euractiv.com/news/von-der-leyen-defends-eu-carbon-pricing-at-chemical-industry-summit/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T12:59:58+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "5a909adf4102e2116c89f39ced354dfb91cfd6ae",
       "title": "Von der Leyen calls for crackdown on ‘unnecessary’ national laws",
@@ -204,18 +214,8 @@
       "published_at": "2026-02-01T19:43:24+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "963f1f8ef16048540c405751ed5baeda6017822f",
-      "title": "Belarusian balloons full of cigarettes pose NATO’s latest security threat",
-      "summary": "A rising number of incursions into NATO airspace has led some officials to allege an escalation of Russian hybrid attacks against the alliance and the European Union.",
-      "url": "https://www.washingtonpost.com/world/2026/01/30/belarus-balloons-nato-russia-threat/",
-      "source": "World (Washington post)",
-      "published_at": "2026-01-30T16:47:23+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T10:09:57Z"
+  "last_updated": "2026-02-12T10:06:42Z"
 }

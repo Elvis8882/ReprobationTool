@@ -1,16 +1,48 @@
 {
   "country": "FR",
-  "score": 97,
+  "score": 98,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 1,
-  "sources": 100,
+  "sources": 104,
   "sentiment": {
     "positive": 20,
-    "neutral": 67,
-    "negative": 13
+    "neutral": 70,
+    "negative": 14
   },
   "latest_articles": [
+    {
+      "id": "b6ac9dd42458ca49e94575fa481bca21df09bdc8",
+      "title": "Scramble to rescue European industry pits Germany against France, again",
+      "summary": "Leaders are still deeply split over how much regulation to slash, and where to spend subsidies",
+      "url": "https://www.euractiv.com/news/scramble-to-rescue-european-industry-pits-germany-against-france-again/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T20:27:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "pits Germany against France, again Leaders are still deeply split"
+    },
+    {
+      "id": "74ef5dcc9191ff34674319f2a4faec64cabdba51",
+      "title": "Von der Leyen defends EU carbon pricing at chemical industry summit",
+      "summary": "European Commission pledges to ensure revenue is channelled to help heavy industry decarbonise",
+      "url": "https://www.euractiv.com/news/von-der-leyen-defends-eu-carbon-pricing-at-chemical-industry-summit/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T12:59:58+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "3dbb840170c93a4f587bd50cd64f27e2469e8e0b",
+      "title": "Cut consumption of imported meat, French diet guidelines say",
+      "summary": "Livestock lobbying looms large in tense political climate",
+      "url": "https://www.euractiv.com/news/cut-consumption-of-imported-meat-french-diet-guidelines-say/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T12:28:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "French diet guidelines say"
+    },
     {
       "id": "29e03c5154359e599a37a0b6b2372852b32047d9",
       "title": "French software maker Dassault Systèmes plunges 18%, on track for worst day ever",
@@ -31,6 +63,17 @@
       "published_at": "2026-02-11T09:09:46+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "376ae9dd336e069a0f3007f6da27f34b701edd15",
+      "title": "France’s 2027 presidential election race is already in full swing - politico.eu",
+      "summary": "France’s 2027 presidential election race is already in full swing&nbsp;&nbsp;politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT1hpUzBxLUdZWDFSb3NZS3NGOFlEZ25ta2NVcG15bTdQYVZMcjJRcW9PbnE3ZFBoUEgtdzMxaGItTzh1dHBDaHIwSE1pcXRIN3E4a25xdnBGUm95LTN3aTA5ZTFOUUpKbXpEeFVOOUx5azgxLVB2d01NcUlQWHU3NTF2YW45SGFGalNZQ0NvUElONUk?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-11T03:01:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "France’s 2027 presidential election race"
     },
     {
       "id": "140a7d4d5ab58fe1095343a18b505eb3a7453a28",
@@ -181,52 +224,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "province’s premier to France. In a move that outraged anglophone Canada"
-    },
-    {
-      "id": "caba34cdf35f2e938a7d5385f1d6f4ebce11fcf3",
-      "title": "Veteran French politician quits as head of prestigious institute after Epstein links revealed",
-      "summary": "Former culture minister Jack Lang resigns from Arab World Institute in Paris and is also subject of tax investigationJack Lang, a former French culture minister, has resigned as head of Paris’s prestigious Arab World Ins…",
-      "url": "https://www.theguardian.com/world/2026/feb/07/veteran-french-politician-quits-as-head-of-prestigious-institute-after-epstein-links-revealed",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-07T21:33:37+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "French politician quits... Epstein links revealed... tax investigation"
-    },
-    {
-      "id": "f7e157a30d0b9f64afd40c0c1f2f133cec3951fd",
-      "title": "France investigates ex-minister Jack Lang over Epstein links",
-      "summary": "The socialist grandee quits his role at a prestigious institute as he is investigated for the \"laundering of tax-fraud proceeds\".",
-      "url": "https://www.bbc.com/news/articles/crkrk567d7zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-07T18:10:55+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.7,
-      "evidence": "France investigates ex-minister Jack Lang over Epstein links"
-    },
-    {
-      "id": "a922cf5af8cfc489d50e895fdbf52bdb5c67f709",
-      "title": "French Ex-Minister Offers Resignation From Paris Cultural Hub Over Epstein Links",
-      "summary": "A mere mention in the files does not imply wrongdoing.",
-      "url": "https://www.ndtv.com/world-news/french-ex-minister-offers-resignation-from-paris-cultural-hub-over-epstein-links-10966868#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-07T18:00:50+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "French Ex-Minister Offers Resignation From Paris Cultural Hub Over Epstein Links"
-    },
-    {
-      "id": "e7c1c4005797e32e7f7281c7e2be4b23c9017178",
-      "title": "France and Canada Open Consulates in Greenland, Following Trump Threats",
-      "summary": "Greenland’s mini diplomatic scene is about to get more lively as Canada and France set up consulates, following threats by President Trump to take over the island.",
-      "url": "https://www.nytimes.com/2026/02/06/world/europe/besides-stars-and-stripes-a-few-new-flags-are-flying-in-greenland.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-06T22:14:23+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "France set up consulates, following Trump Threats"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T10:09:57Z"
+  "last_updated": "2026-02-12T10:06:42Z"
 }

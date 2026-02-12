@@ -1,16 +1,38 @@
 {
   "country": "IR",
-  "score": 13,
+  "score": 33,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -7,
-  "sources": 146,
+  "trend": 20,
+  "sources": 148,
   "sentiment": {
     "positive": 13,
-    "neutral": 41,
-    "negative": 93
+    "neutral": 42,
+    "negative": 94
   },
   "latest_articles": [
+    {
+      "id": "a6a7ed2fa01fbfb90eaa3bbc8a781fcff73eb6ae",
+      "title": "After weeks of tension, Trump is still talking tough on Iran. Here's what could happen next",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/02/12/trump-talking-tough-iran-analysts-nuclear-will-us-strike.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-12T04:58:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Trump is still talking tough on Iran"
+    },
+    {
+      "id": "4ff06c0d10ad62c1ada31d140f900196f8e1c5ed",
+      "title": "Why Iran’s Nuclear Program Isn’t the Only Threat",
+      "summary": "While talks with Iran have focused on its nuclear program, Israel’s greater immediate concern is Iran’s rebuilding of its ability to launch missiles at Israel, as it did during last year’s war. Our national security repo…",
+      "url": "https://www.nytimes.com/video/world/middleeast/100000010701285/why-irans-nuclear-program-isnt-the-only-threat.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-11T20:10:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Iran’s rebuilding of its ability to launch missiles at Israel"
+    },
     {
       "id": "01754be9d4f0bec888eb1c1047949beef2b6b6aa",
       "title": "Netanyahu to meet Trump as Iran nuclear talks reach critical stage",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Iran will not give up enrichment despite US war threat"
-    },
-    {
-      "id": "118e18affa2fad6d0cc52b3b80812c4ffc578f93",
-      "title": "Trump Reverts to Diplomacy With Iran, but the Road Is Narrow",
-      "summary": "Iran is skilled at prolonging negotiations over its nuclear program, and seems to be hoping President Trump is out for a quick win, rather than a prolonged regional war.",
-      "url": "https://www.nytimes.com/2026/02/07/world/europe/iran-us-trump-diplomacy.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-07T23:36:31+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Iran is skilled at prolonging negotiations over its nuclear program"
-    },
-    {
-      "id": "10c3a3b017c19fa8655ee6b4ddf146805d836b8f",
-      "title": "Netanyahu To Meet Trump In US On Monday To Discuss Negotiations With Iran",
-      "summary": "Iranian officials have ruled out putting Iran's missiles up for discussion",
-      "url": "https://www.ndtv.com/world-news/netanyahu-to-meet-trump-in-us-on-monday-to-discuss-negotiations-with-iran-10966895#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-07T18:07:05+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Iranian officials have ruled out putting Iran's missiles up for discussion"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T10:09:57Z"
+  "last_updated": "2026-02-12T10:06:42Z"
 }

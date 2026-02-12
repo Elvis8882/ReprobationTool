@@ -3,14 +3,35 @@
   "score": 61,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -36,
-  "sources": 48,
+  "trend": 0,
+  "sources": 50,
   "sentiment": {
     "positive": 2,
-    "neutral": 40,
-    "negative": 6
+    "neutral": 41,
+    "negative": 7
   },
   "latest_articles": [
+    {
+      "id": "74ef5dcc9191ff34674319f2a4faec64cabdba51",
+      "title": "Von der Leyen defends EU carbon pricing at chemical industry summit",
+      "summary": "European Commission pledges to ensure revenue is channelled to help heavy industry decarbonise",
+      "url": "https://www.euractiv.com/news/von-der-leyen-defends-eu-carbon-pricing-at-chemical-industry-summit/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T12:59:58+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "acfbab11ece306329b144a795c2445209055e37a",
+      "title": "Left group punishes MEP over alleged assault on journalist",
+      "summary": "“I raised my hand, but I did not punch him,” Greek MEP Nikos Pappas said, denying allegations of assault",
+      "url": "https://www.euractiv.com/news/left-group-punishes-mep-over-alleged-assault-on-journalist/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T11:28:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Greek MEP Nikos Pappas said, denying allegations of assault"
+    },
     {
       "id": "5a909adf4102e2116c89f39ced354dfb91cfd6ae",
       "title": "Von der Leyen calls for crackdown on ‘unnecessary’ national laws",
@@ -199,30 +220,8 @@
       "published_at": "2026-02-04T10:03:44+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "f9b3d389a992e77ff88e8ad4d0b236b66ddb775e",
-      "title": "Ukraine-Russia talks: negotiators gather in Abu Dhabi in wake of ‘massive’ strikes on Kyiv – Europe live",
-      "summary": "Both sides downplay chances of immediate breakthrough in US-brokered talks as western allies reportedly weigh new defence pactRescuers are searching for possible missing people in the Aegean Sea after an overnight collis…",
-      "url": "https://www.theguardian.com/world/live/2026/feb/04/ukraine-russia-europe-live-eu-us-abu-dhabi-talks-latest-news-europe-live",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-04T08:57:38+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Greek coastguard vessel left at least 15 people dead"
-    },
-    {
-      "id": "e4527dfca6cdc0d5bbfdae556e3940b0e2b7f426",
-      "title": "Fifteen migrants dead after collision with Greek Coast Guard boat",
-      "summary": "The coastguard said a pursuit was under way at the time of the collision, near the island of Chios.",
-      "url": "https://www.bbc.com/news/articles/cdre825p110o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-04T08:06:21+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Fifteen migrants dead after collision with Greek Coast Guard boat"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T10:09:57Z"
+  "last_updated": "2026-02-12T10:06:42Z"
 }

@@ -1,13 +1,13 @@
 {
   "country": "NO",
-  "score": 62,
+  "score": 64,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -36,
-  "sources": 25,
+  "trend": 2,
+  "sources": 26,
   "sentiment": {
     "positive": 2,
-    "neutral": 18,
+    "neutral": 19,
     "negative": 5
   },
   "latest_articles": [
@@ -65,6 +65,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "suspicion of gross corruption"
+    },
+    {
+      "id": "47507491a73c8683c195d218006bddf6165ed3d6",
+      "title": "Senior diplomat resigns as Norway probes Epstein links",
+      "summary": "Epstein left $10 million in his will to the diplomat's two children",
+      "url": "https://www.euractiv.com/news/senior-diplomat-resigns-as-norway-probes-epstein-links/",
+      "source": "Euractiv",
+      "published_at": "2026-02-09T10:19:29+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Norway probes Epstein links"
     },
     {
       "id": "55e93e75b379affec702b55348508867c9f8190e",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Crown Princess Mette-Marit of Norway"
-    },
-    {
-      "id": "4b5be473d823b23e17c3baaf6905e7652d8da02c",
-      "title": "Son of Norway’s crown princess arrested on new charges before start of rape trial",
-      "summary": "Marius Borg Høiby arrested on suspicion of assault, making threats with knife and violating restraining order, police sayThe son of Norway’s crown princess, Marius Borg Høiby, has been arrested on new charges just days b…",
-      "url": "https://www.theguardian.com/world/2026/feb/02/marius-borg-hoiby-son-of-norway-crown-princess-arrested-new-charges-before-rape-trial",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-02T13:16:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Son of Norway’s crown princess arrested on new charges"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T10:09:57Z"
+  "last_updated": "2026-02-12T10:06:42Z"
 }

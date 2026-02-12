@@ -4,13 +4,34 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 43,
+  "sources": 45,
   "sentiment": {
     "positive": 1,
-    "neutral": 42,
+    "neutral": 44,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "56e3613a432ac01be57051cd73c56a99f6092510",
+      "title": "Sweden’s last stone topples U.S. in curling.",
+      "summary": "Sweden’s sibling team took advantage of the hammer to edge the Americans in the final end.",
+      "url": "https://www.nytimes.com/2026/02/10/world/swedens-last-stone-topples-us.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-11T19:32:13+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Sweden’s last stone topples U.S. in curling."
+    },
+    {
+      "id": "74ef5dcc9191ff34674319f2a4faec64cabdba51",
+      "title": "Von der Leyen defends EU carbon pricing at chemical industry summit",
+      "summary": "European Commission pledges to ensure revenue is channelled to help heavy industry decarbonise",
+      "url": "https://www.euractiv.com/news/von-der-leyen-defends-eu-carbon-pricing-at-chemical-industry-summit/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T12:59:58+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "5a909adf4102e2116c89f39ced354dfb91cfd6ae",
       "title": "Von der Leyen calls for crackdown on ‘unnecessary’ national laws",
@@ -197,29 +218,8 @@
       "published_at": "2026-02-03T17:49:14+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "5cd2c1893114080632974d9345556e42e4996c4c",
-      "title": "Europe’s path to a cleaner automotive sector – What are the opportunities and challenges? [Advocacy Lab]",
-      "summary": "The European Commission has published its proposals to revise its Car CO2 Regulation and to introduce national targets for Clean Corporate Vehicles as part of its Automotive Package. These initiatives aim to reduce green…",
-      "url": "https://www.euractiv.com/video/europes-path-to-a-cleaner-automotive-sector-what-are-the-opportunities-and-challenges/",
-      "source": "Euractiv",
-      "published_at": "2026-02-03T15:00:33+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "d31a39e73b2b5e232b0dca0dd779bd80b7de4a45",
-      "title": "Sweden’s shocking rise in cancer cases prompts launch of new cancer strategy [Advocacy Lab]",
-      "summary": "The updated cancer plan aims to to tackle the Sweden's cancer challenges as diagnostics improve and the population ages",
-      "url": "https://www.euractiv.com/news/swedens-shocking-rise-in-cancer-cases-prompts-launch-of-new-cancer-strategy/",
-      "source": "Euractiv",
-      "published_at": "2026-02-02T14:18:32+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Sweden’s shocking rise in cancer cases prompts launch of new cancer strategy"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T10:09:57Z"
+  "last_updated": "2026-02-12T10:06:42Z"
 }

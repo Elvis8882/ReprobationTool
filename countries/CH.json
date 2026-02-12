@@ -1,16 +1,38 @@
 {
   "country": "CH",
-  "score": 100,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": null,
-  "sources": 2,
+  "score": 55,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": -45,
+  "sources": 4,
   "sentiment": {
     "positive": 0,
-    "neutral": 2,
-    "negative": 0
+    "neutral": 3,
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "37b526ba733b799412f3c97b5275b666ad363e4e",
+      "title": "Switzerland to vote on far-right proposal to cap population at 10 million",
+      "summary": "Referendum on immigration limit could threaten EU agreements and cripple economy, say Swiss businesses Switzerland will vote this summer on a proposal from the far-right Swiss People’s party (SVP) to limit the country’s…",
+      "url": "https://www.theguardian.com/world/2026/feb/12/switzerland-to-vote-on-far-right-proposal-to-cap-population-at-10-million",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-12T06:00:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "threaten key agreements with the EU"
+    },
+    {
+      "id": "006c7e6cbc36342ca352f65c780e77d85fef84f2",
+      "title": "Switzerland to Vote on Capping Population at 10 Million",
+      "summary": "After a campaign by a right-wing opposition party, the government will hold a referendum in June that would require measures to limit immigration.",
+      "url": "https://www.nytimes.com/2026/02/11/world/europe/switzerland-to-vote-on-capping-population-at-10-million.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-11T20:38:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Switzerland to Vote on Capping Population"
+    },
     {
       "id": "54ea9e847b489ff56197b812925d003ef2739095",
       "title": "Winter Olympics 2026: Team Sweden men's ice hockey schedule – key match dates and how to watch live in Sweden - Milano Cortina 2026",
@@ -35,5 +57,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T10:09:57Z"
+  "last_updated": "2026-02-12T10:06:42Z"
 }

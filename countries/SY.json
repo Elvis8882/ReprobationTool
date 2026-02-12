@@ -3,11 +3,11 @@
   "score": 55,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -43,
-  "sources": 7,
+  "trend": 0,
+  "sources": 8,
   "sentiment": {
     "positive": 0,
-    "neutral": 5,
+    "neutral": 6,
     "negative": 2
   },
   "latest_articles": [
@@ -18,6 +18,17 @@
       "url": "https://www.nytimes.com/2026/02/10/world/middleeast/syria-kosher-damascus.html",
       "source": "NYT > World News",
       "published_at": "2026-02-10T17:36:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Eating Kosher in the Heart of Syria: Lamb-Stuffed Zucchini"
+    },
+    {
+      "id": "7416cc8c4022a1a2e672d2ea7bd80d9d10634170",
+      "title": "Eating Kosher in the Heart of Syria: Lamb-Stuffed Zucchini but Hold the Yogurt",
+      "summary": "In the post-Assad era, more Jews are visiting a country that some fled decades ago. One hotel restaurant offers a corner where religious dietary requirements are melded with the local cuisine.",
+      "url": "https://www.nytimes.com/2026/02/10/world/middleeast/eating-kosher-in-the-heart-of-syria-lamb-stuffed-zucchini-but-hold-the-yogurt.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-10T10:00:45+00:00",
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Eating Kosher in the Heart of Syria: Lamb-Stuffed Zucchini"
@@ -90,5 +101,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-11T10:09:57Z"
+  "last_updated": "2026-02-12T10:06:42Z"
 }
