@@ -1,16 +1,27 @@
 {
   "country": "MC",
-  "score": 100,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": null,
-  "sources": 1,
+  "score": 55,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
+  "trend": -45,
+  "sources": 2,
   "sentiment": {
     "positive": 0,
     "neutral": 1,
-    "negative": 0
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "074e861023e07578f75a58b6b9e0b9b6a7634ccb",
+      "title": "Minister and Burnham escalate row with ‘hypocritical’ Ratcliffe over claim UK colonised by immigrants – politics live",
+      "summary": "Labour mayor of Greater Manchester joins those criticising Ratcliffe over his comments The GMB union has alos criticised Jim Ratcliffe over his comments about immigration. The union represents workers employed by Ineos,…",
+      "url": "https://www.theguardian.com/politics/live/2026/feb/12/uk-politics-latest-news-updates-labour-jim-ratcliffe-keir-starmer",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-12T09:39:47+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "sloped off to Monaco to avoid paying his taxes"
+    },
     {
       "id": "7aff9f1f3a41481cb5b2dff63b4bbab7ebc51097",
       "title": "Jim Ratcliffe accused of hypocrisy after saying UK ‘colonised’ by immigrants",
@@ -24,5 +35,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-12T10:06:42Z"
+  "last_updated": "2026-02-13T10:02:20Z"
 }

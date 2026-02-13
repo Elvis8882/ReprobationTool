@@ -1,16 +1,27 @@
 {
   "country": "SY",
   "score": 55,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 8,
+  "sources": 9,
   "sentiment": {
     "positive": 0,
-    "neutral": 6,
+    "neutral": 7,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "c1f9b05281c0cbe688c896bd72c71e2f419ed61d",
+      "title": "Transfer of ISIS suspects nears end as Trump pursues Syria exit",
+      "summary": "The movement of between 6,000 and 7,000 detainees to Iraqi government control, underway for weeks, could be complete as soon as Friday.",
+      "url": "https://www.washingtonpost.com/national-security/2026/02/13/trump-syria-isis-iraq/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-13T08:00:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Trump pursues Syria exit"
+    },
     {
       "id": "93ebec200ec6c4f307c9a79525c7120382f59541",
       "title": "Eating Kosher in the Heart of Syria: Lamb-Stuffed Zucchini but Hold the Yogurt",
@@ -101,5 +112,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-12T10:06:42Z"
+  "last_updated": "2026-02-13T10:02:20Z"
 }

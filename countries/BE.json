@@ -1,16 +1,114 @@
 {
   "country": "BE",
-  "score": 71,
+  "score": 68,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 68,
+  "trend": -3,
+  "sources": 78,
   "sentiment": {
     "positive": 6,
-    "neutral": 56,
-    "negative": 6
+    "neutral": 64,
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "170e2446dd5531c6bb56be26d2637339564807c0",
+      "title": "VOLTAGE: Brussels scales back plans for clean-tech industrialisation",
+      "summary": "In today's edition: Industrial Accelerator Act, ETS revolt gains momentum, biodiversity targets in doubt",
+      "url": "https://www.euractiv.com/news/voltage-brussels-scales-back-plans-for-clean-tech-industrialisation/",
+      "source": "Euractiv",
+      "published_at": "2026-02-13T08:40:43+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Brussels scales back plans for clean-tech industrialisation"
+    },
+    {
+      "id": "93d0caa9ad8f90c8e8f138401448732a1694450e",
+      "title": "Heated Rivalry and Marital Bliss: Two Wives Go Head to Head in a Scary Olympic Sport",
+      "summary": "One represents Belgium and the other Brazil in skeleton, in which the racer slides near-blind down an ice track at well over 80 miles per hour.",
+      "url": "https://www.nytimes.com/2026/02/13/world/europe/kim-meylemans-nicole-silveira-wives-olympics.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-13T05:01:10+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "One represents Belgium and the other Brazil in skeleton"
+    },
+    {
+      "id": "3f14f6d1c3cc6047c9a81f3c0016897cdbeacea4",
+      "title": "Food firms urge Europe not to ban calling non-meat products ‘sausages’",
+      "summary": "Exclusive: Manufacturers tell European Commission proposed ban would cause unnecessary confusionMore than a dozen food companies have urged the European Commission not to ban the use of words such as “sausage” and “burge…",
+      "url": "https://www.theguardian.com/world/2026/feb/13/food-firms-urge-europe-not-to-ban-calling-non-meat-products-sausages",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-13T00:01:29+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "8b92774b24d8f19249c7389bac733f43d2b73380",
+      "title": "After almost two years, Brussels has a government",
+      "summary": "A coalition agreement was finally extracted during intense 'conclave' negotiations. The government will seek to address capital region's ruinous finances",
+      "url": "https://www.euractiv.com/news/after-almost-two-years-brussels-has-a-government/",
+      "source": "Euractiv",
+      "published_at": "2026-02-12T21:54:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Brussels has a government"
+    },
+    {
+      "id": "8bf15b09deaf1615d3e34cea06294c53bbe5bf6e",
+      "title": "Brussels eyes Russian ammonia cap as experts warn of price impact",
+      "summary": "Russian fertiliser exports have so far evaded direct EU sanctions",
+      "url": "https://www.euractiv.com/news/brussels-eyes-russian-ammonia-cap-as-experts-warn-of-price-impact/",
+      "source": "Euractiv",
+      "published_at": "2026-02-12T13:58:28+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Brussels eyes Russian ammonia cap"
+    },
+    {
+      "id": "fc445821c1c72eeff2de0709e85fbb3a2242bc30",
+      "title": "Belgian police raid EU Commission in real estate sale probe",
+      "summary": "The EU executive said it was \"aware of an ongoing investigation\" into the sale of 23 commission buildings worth some €900 million",
+      "url": "https://www.euractiv.com/news/belgian-police-raid-eu-commission-in-real-estate-sale-probe/",
+      "source": "Euractiv",
+      "published_at": "2026-02-12T13:16:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Belgian police raid EU Commission in real estate sale probe"
+    },
+    {
+      "id": "98502626f4c9c5e8e4154221dd262e005f4afb5b",
+      "title": "France, Italy compete for Germany’s favour at economic survival summit",
+      "summary": "Macron and Merz strain to project unity at Belgian castle, despite major rifts",
+      "url": "https://www.euractiv.com/news/france-italy-compete-for-germanys-favour-at-economic-survival-summit/",
+      "source": "Euractiv",
+      "published_at": "2026-02-12T12:43:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "at Belgian castle"
+    },
+    {
+      "id": "6609d15b1b93fcf797ee3f46c20c8ac753e06c0c",
+      "title": "EU leaders to clash over ‘Buy European’ push at Belgium summit",
+      "summary": "Leaders to discuss once-taboo policy of favouring European companies, in attempt to regain economic competitivenessEU leaders are expected to diverge on whether “Buy European” is an answer to Europe’s waning economic for…",
+      "url": "https://www.theguardian.com/world/2026/feb/12/eu-leaders-clash-buy-european-belgium-summit",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-12T09:38:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "at Belgium summit"
+    },
+    {
+      "id": "0b6bd2945db3528748c6be890f6ee05b4a9885f3",
+      "title": "‘Burden sharing’ discussion reinvigorated as defence ministers meet in Brussels",
+      "summary": "Countries in Northern Europe would like their Southern counterparts to spend more on Ukraine",
+      "url": "https://www.euractiv.com/news/burden-sharing-discussion-reinvigorated-as-defence-ministers-meet-in-brussels/",
+      "source": "Euractiv",
+      "published_at": "2026-02-12T08:51:18+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "meet in Brussels"
+    },
     {
       "id": "84ab5c2571a77aa4f230b56237b487413a2323ed",
       "title": "Central Europe alliance signs cardio pact linked to EU Safe Hearts Plan [Advocacy Lab]",
@@ -21,6 +119,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "urge Brussels to consider Central Europe’s specific needs in the EU cardiovascular strategy"
+    },
+    {
+      "id": "35c31809daf0f159440bd836b3c2d2b19d12c5d8",
+      "title": "Brussels lobbyists split as US downplays security risk of Chinese solar tech",
+      "summary": "Unexpected hardware fuelled fears that Beijing could remotely trigger blackouts, but Washington seems unconcerned",
+      "url": "https://www.euractiv.com/news/brussels-lobbyists-split-as-us-downplays-security-risk-of-chinese-solar-tech/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T17:28:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "Brussels lobbyists split as US downplays security risk"
     },
     {
       "id": "91790328c31820c8be079a40a9a5803e136742e8",
@@ -117,114 +226,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Indian men's hockey team eyes strong start in FIH Pro League against Belgium"
-    },
-    {
-      "id": "2135d9fd65e132e971199bfaa84eecb352ea1f8b",
-      "title": "Ocean campaigners urge EU to stick to deep-sea mining moratorium",
-      "summary": "Warning comes after the head of the International Seabed Authority lobbied officials in Brussels",
-      "url": "https://www.euractiv.com/news/ocean-campaigners-urge-eu-to-stick-to-deep-sea-mining-moratorium/",
-      "source": "Euractiv",
-      "published_at": "2026-02-09T17:01:52+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "officials in Brussels"
-    },
-    {
-      "id": "b97d8a8ed1a1404624ae0d40ad574e06e8f27ee4",
-      "title": "Belgian prime minister slams political deadlock ‘mess’ in Brussels",
-      "summary": "\"Try explaining the political situation in Brussels to a foreigner and they'll look at you like you're crazy,\" Bart De Wever said",
-      "url": "https://www.euractiv.com/news/belgian-prime-minister-slams-political-deadlock-mess-in-brussels/",
-      "source": "Euractiv",
-      "published_at": "2026-02-09T14:17:47+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Belgian prime minister slams political deadlock ‘mess’ in Brussels"
-    },
-    {
-      "id": "168b61be3ca904a6490f7ab4bd6b8c7140b1a14c",
-      "title": "Meta warned EU plans to impose measures on tech giant to reverse WhatsApp AI policy",
-      "summary": "The move follows the European Commission announcing an investigation in December into whether the social media giant had breached antitrust rules.",
-      "url": "https://www.cnbc.com/2026/02/09/eu-interim-measures-meta-whatsapp-ai-policy-antritrust.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-02-09T10:06:24+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "a33c7aea720c37243fb424be272e24b46ae7f9b9",
-      "title": "Commission notifies Meta of possible interim measures to reverse exclusion of third-party AI assistants from WhatsApp - European Commission",
-      "summary": "Commission notifies Meta of possible interim measures to reverse exclusion of third-party AI assistants from WhatsApp&nbsp;&nbsp;European CommissionEU announces it plans to impose measures on Meta to reverse WhatsApp AI…",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyZ3NBZ3BhOW8wYmNjanhCczh3ZThmY3Y0WU4wREktemhCLXNZWWhzTFhZNElEYWcwUzFOM0tfRnpGT1hQVHVRNmY1VjBaR2swdVBUT1RDREpRMlBoVWhITHE5UU5Na1Qzd0hpR2NkUGs?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-09T09:01:26+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "b5598ca2e9944e1dda521b4938e3ebbcf3a0262f",
-      "title": "Plans to merge EU gas and electricity risk management prove divisive",
-      "summary": "The European Commission is expected to present a new approach to energy security in May",
-      "url": "https://www.euractiv.com/news/plans-to-merge-eu-gas-and-electricity-risk-management-prove-divisive/",
-      "source": "Euractiv",
-      "published_at": "2026-02-09T05:00:20+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "509f194629553d1002831ec3519425731d750d20",
-      "title": "Why EU leaders won’t rescue Europe’s economy this week",
-      "summary": "Big reforms remain either technically complex or politically untouchable, as governments resist ceding powers to Brussels",
-      "url": "https://www.euractiv.com/news/why-eu-leaders-wont-rescue-europes-economy-this-week/",
-      "source": "Euractiv",
-      "published_at": "2026-02-09T05:00:14+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "governments resist ceding powers to Brussels"
-    },
-    {
-      "id": "963fb63cf9cf721c233cb05205fef1804567a850",
-      "title": "Rage against the 28th regime",
-      "summary": "Brussels’ proposal to integrate the EU’s single market risks collapsing under political pressure",
-      "url": "https://www.euractiv.com/news/rage-against-the-28th-regime/",
-      "source": "Euractiv",
-      "published_at": "2026-02-07T05:00:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Brussels’ proposal to integrate the EU’s single market risks collapsing"
-    },
-    {
-      "id": "16af79f2a44c2ae2b99c0d44eee6b34aa27510f5",
-      "title": "FIRST AID: Brussels outlines Global Fund pledge",
-      "summary": "In today's edition: Biotech, (in)fertility, euthanasia face donation",
-      "url": "https://www.euractiv.com/news/first-aid-brussels-outlines-global-fund-pledge/",
-      "source": "Euractiv",
-      "published_at": "2026-02-06T09:24:36+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Brussels outlines Global Fund pledge"
-    },
-    {
-      "id": "96f54cae2f7b5129ff5fd3a7273a018edcfb618c",
-      "title": "Brussels wants to define cider – not everyone likes the recipe",
-      "summary": "French purists have repeatedly stated that it is either \"100% apple juice or nothing\"",
-      "url": "https://www.euractiv.com/news/brussels-wants-to-define-cider-not-everyone-likes-the-recipe/",
-      "source": "Euractiv",
-      "published_at": "2026-02-06T05:00:36+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Brussels wants to define cider"
-    },
-    {
-      "id": "f6ae3f02564815e6c049b5fa3610817c509e3a5d",
-      "title": "‘Buy European’ push could ‘wipe out’ EU deregulation drive, Nordics warn",
-      "summary": "The European Commission and France strongly support ‘Made in Europe’ policies",
-      "url": "https://www.euractiv.com/news/buy-european-push-could-wipe-out-eu-deregulation-drive/",
-      "source": "Euractiv",
-      "published_at": "2026-02-05T13:53:59+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-12T10:06:42Z"
+  "last_updated": "2026-02-13T10:02:20Z"
 }

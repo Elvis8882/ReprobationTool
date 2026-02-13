@@ -1,16 +1,38 @@
 {
   "country": "IL",
-  "score": 81,
+  "score": 80,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 4,
-  "sources": 84,
+  "trend": -1,
+  "sources": 86,
   "sentiment": {
     "positive": 4,
-    "neutral": 52,
-    "negative": 28
+    "neutral": 53,
+    "negative": 29
   },
   "latest_articles": [
+    {
+      "id": "c05f79628e1889e396aa3f98c021ecc33c8c5237",
+      "title": "Israeli Army Reservists Are Suspected of Using Inside Knowledge to Bet",
+      "summary": "The authorities said several reservists and a civilian were arrested, and two were charged, after an investigation into the use of classified information to bet on military operations.",
+      "url": "https://www.nytimes.com/2026/02/12/world/middleeast/israel-army-reservists-classified-information-bets.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-12T20:38:43+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Suspected of Using Inside Knowledge to Bet"
+    },
+    {
+      "id": "61924bc4273fd2730176298bbc1e37c0da3bbaa6",
+      "title": "What is Israel Doing in Africa?",
+      "summary": "The region has become a critical theater for global rivalries amid Israel’s recognition of breakaway Somaliland and Washington’s counterterrorism efforts.",
+      "url": "https://www.nytimes.com/2026/02/12/world/africa/israel-somaliland-mideast-trump.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-12T19:00:40+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Israel Doing in Africa"
+    },
     {
       "id": "e0f5ca8ae3c2f5558bcbc35b469c41acdffe08d7",
       "title": "Anthony Albanese raises bulldozed Australian war graves with Israeli president",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "opposing Israeli president Isaac Herzog’s visit"
-    },
-    {
-      "id": "c63d636e2a04292c14c07234b3938ce3ee495d47",
-      "title": "Isaac Herzog meets survivors of Bondi terror attack as thousands in Sydney and Melbourne protest visit",
-      "summary": "Israeli president will meet prime minister Anthony Albanese and travel to Canberra and Melbourne as pro-Palestine supporters stage protestsFollow our Australia news live blog for latest updatesGet our breaking news email…",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/09/isaac-herzog-israeli-president-arrives-sydney-australia-ntwnfb",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-09T08:25:15+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Israeli president will meet prime minister"
-    },
-    {
-      "id": "d4c7d80ed663a56671ade6bc71d1c0276dc5ea5a",
-      "title": "Israeli-linked astronaut Meir set for SpaceX ISS flight - JNS.org",
-      "summary": "Israeli-linked astronaut Meir set for SpaceX ISS flight&nbsp;&nbsp;JNS.orgReplacement space station crew, launching ahead of schedule, eager to go&nbsp;&nbsp;cbsnews.comNASA confirms first flight to ISS since medical eva…",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYkRBSGNFSHVONlBhWGEtYTFPVTR0SFFTSEtXSXltdnh5TUFnQzVtRnpUcGxLandhRGhQd3FxNHUxVDdDSGhOLUhfMnctandrTFp3MmdYcmVaQkJ4bDNRWXVtVlpncVZhNjR3bUR3XzR1eXBIZzBUeWRXbzlGbG5CclZB?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-09T08:06:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Israeli-linked astronaut Meir"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-12T10:06:42Z"
+  "last_updated": "2026-02-13T10:02:20Z"
 }

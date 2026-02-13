@@ -1,16 +1,60 @@
 {
   "country": "RU",
-  "score": 8,
+  "score": 3,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 7,
-  "sources": 159,
+  "trend": -5,
+  "sources": 166,
   "sentiment": {
     "positive": 8,
-    "neutral": 32,
-    "negative": 119
+    "neutral": 33,
+    "negative": 125
   },
   "latest_articles": [
+    {
+      "id": "bbf2b673f12252812d4bdd5b5eb1396234be135d",
+      "title": "Live: Rubio says he will have chance to meet Ukraine’s Zelensky at Munich security forum - France 24",
+      "summary": "Live: Rubio says he will have chance to meet Ukraine’s Zelensky at Munich security forum&nbsp;&nbsp;France 24As leaders descend on Munich, Ukraine’s fate hangs in the balance&nbsp;&nbsp;PoliticoUkraine war briefing: Rubi…",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRGdmc0laUGw2azRzbUFxVXhPTlFCZ0N0U0RQOFpBX3d4bVZuUDdCOENNSkx4b1U0UDA0ODZhckxhQkRDRGl1dUJNS0dUX3FRb2pRVXNUeklyaWZ6X2pnUllnQUVBNm54MFBEM0o1WXdQUXBEVGM0dXNqOG9yQ2VrejFfTlNzVFVXZ1lJdDRnNnhWTnViVGJyOGtSZEtPcTdrTkE0WTlfSFZQN2RmTkFLZWg5eWgzZnZ6TTNmWVpYcmdfck01blFueVBRSQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-13T06:14:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russian strikes leave thousands without power"
+    },
+    {
+      "id": "d53a039bb457e8a90179252d026509ec3397268e",
+      "title": "Munich must confront the Iranian threat before it reaches Europe",
+      "summary": "Europe is preparing for the war it can see. It risks overlooking the one that may be forming – driven by Tehran's military buildup and its accelerating alignment with Russia",
+      "url": "https://www.euractiv.com/opinion/munich-must-confront-the-iranian-threat-before-it-reaches-europe/",
+      "source": "Euractiv",
+      "published_at": "2026-02-12T17:59:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "accelerating alignment with Russia"
+    },
+    {
+      "id": "8bf15b09deaf1615d3e34cea06294c53bbe5bf6e",
+      "title": "Brussels eyes Russian ammonia cap as experts warn of price impact",
+      "summary": "Russian fertiliser exports have so far evaded direct EU sanctions",
+      "url": "https://www.euractiv.com/news/brussels-eyes-russian-ammonia-cap-as-experts-warn-of-price-impact/",
+      "source": "Euractiv",
+      "published_at": "2026-02-12T13:58:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Russian ammonia cap as experts warn of price impact"
+    },
+    {
+      "id": "c0336556bf6581b84eab3e557f2034483d00ca04",
+      "title": "Russia shrugs off Trump’s tariff threats on those who provide oil to Cuba",
+      "summary": "The comments came in response to a question about whether Russia was concerned about the Trump administration's tariff threats.",
+      "url": "https://www.cnbc.com/2026/02/12/cuba-fuel-shortage-oil-russia-trump-tariffs.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-12T11:16:34+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Russia shrugs off Trump’s tariff threats"
+    },
     {
       "id": "325a4602c692402922965684eb55ecf6ef8ac99f",
       "title": "Nearly 300,000 people in Ukrainian city of Odesa without power or water after Russian drone strikes - Europe live",
@@ -21,6 +65,17 @@
       "sentiment": "negative",
       "confidence": 1.0,
       "evidence": "Russian drone strikes...targeting energy infrastructure"
+    },
+    {
+      "id": "505559b6bb45b309376d064fccbfe53b6f9af99f",
+      "title": "Russia moves to block WhatsApp in messaging app crackdown",
+      "summary": "WhatsApp says the move aims to push its 90 million users in Russia to a \"state-owned surveillance app\".",
+      "url": "https://www.bbc.com/news/articles/clygd10pg5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-12T09:16:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia moves to block WhatsApp in messaging app crackdown"
     },
     {
       "id": "9ef61033c60baa87503b8dd5dacc95f92fd6deff",
@@ -65,6 +120,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "EU sanctions on Russia won’t trigger quick end to Ukraine war"
+    },
+    {
+      "id": "0c65cbe665a9f1516c72251ad444e9354e4cc846",
+      "title": "Estonia approves agreement to establish administrative committee for special tribunal - The Baltic Times",
+      "summary": "Estonia approves agreement to establish administrative committee for special tribunal&nbsp;&nbsp;The Baltic TimesUkraine's Foreign Ministry welcomes Estonia's accession to the committee of the Special Tribunal on Russia'…",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcWZ1UmF5bWRSYUR0YUNnYVdKb19KU2QzM2hGcXhzRDhTQUVwMUZkSU1uY2JYX1lBdHJfczJVRVMxZXFmYV9uZ19fZnQ1cUZqQmF6QkJiUE9rX0NfVy04Ukpyc1d6QXUyZG5yTnJmYWJnNExfY01WYm55UmJ5Wk9zejVvdGdiTUl6Qk9hTlN6ZnN4d3o1cmdIQjZnMEhPZHdIR011NGYwZ3BBcnZQOGROTDJYZDI?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-11T14:32:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Special Tribunal on Russia's aggression"
     },
     {
       "id": "98dca191515c9acb6c86255c86f01c5a652ef557",
@@ -164,74 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "growing threats from China, Russia and now the US"
-    },
-    {
-      "id": "edcf8a9d01b1e2db6efd4a0fadab792c9d2f2c5b",
-      "title": "Russia Knocked Out the Heat. So She Slept in a Tent on Her Bed.",
-      "summary": "With defiant ingenuity, Kyiv residents are trying to find ways to stay warm in a cruel winter.",
-      "url": "https://www.nytimes.com/2026/02/10/world/europe/ukraine-war-russia-power-cold.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-10T10:02:45+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Russia Knocked Out the Heat."
-    },
-    {
-      "id": "a7297c01f17b826faad2b2ceac996bde70e05988",
-      "title": "Russian foreign minister says ‘still a long way to go’ in Ukraine war peace talks – Europe live",
-      "summary": "Despite ‘constructive’ trilateral talks, Russia is still pursuing its maximalist demands, including claims over Ukrainian territoryIn the meantime, Russia’s defence ministry claimed its forces had captured the settlement…",
-      "url": "https://www.theguardian.com/world/live/2026/feb/10/russia-ukraine-war-us-talks-europe-live-updates-latest-news",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-10T09:54:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russia is still pursuing its maximalist demands, including claims over Ukrainian territory"
-    },
-    {
-      "id": "e1b425dd6e6d095cd917b3022f15877daa78851b",
-      "title": "'US Forcing India To Buy Costly Oil': Russia Slams Trump's 'Energy Ban'",
-      "summary": "Lavrov claimed that Washington's objective is 'achieving economic domination'",
-      "url": "https://www.ndtv.com/world-news/us-forcing-india-to-buy-costly-oil-russia-slams-trumps-energy-ban-10980656#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-10T09:08:08+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Russia Slams Trump's 'Energy Ban'"
-    },
-    {
-      "id": "0563fa2d27f61be8e68941f6ed721c654a36d9fa",
-      "title": "Opinion: Opinion | Trump's Claims vs Numbers: Can India Really Replace 87 Million Tonnes Of Russian Oil?",
-      "summary": "US and Venezuelan exports, even when taken together, fail to match the huge volume of crude India has been getting from Russia.",
-      "url": "https://www.ndtv.com/opinion/trumps-claims-vs-numbers-can-india-really-replace-russian-oil-completely-10979898#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-10T07:43:33+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "huge volume of crude India has been getting from Russia"
-    },
-    {
-      "id": "ebdee4f61dcbe080c2e8de969523fd7ee9f78144",
-      "title": "Latvian journalists evade Russian drone attack in Ukraine / Article - LSM",
-      "summary": "Latvian journalists evade Russian drone attack in Ukraine / Article&nbsp;&nbsp;LSMLatvian journalists come under Russian drone attack in Ukraine&nbsp;&nbsp;UkrinformOver 175 Journalists Abused Since Russia's Invasion of…",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaEJYbzJIcUE1LXRvYW9sLVozc0NfQ1NKelp4ZllSbU1UVzlka1djR0VzMjZfOV9lRW51RVE0UE1YVy13ZUxWeWlMZFE0QXIzQWZSUkNLUGUwYzd2eWZyLVZhZEZGRVVScm1FN1dMRFNfQS1qUHhhNGREM1lrYmFLOHpoa3ptc3FwRUhobk1IcDBWRXNVbkx5TnJtUnhTb2p2Tk9EbWRtdlA3bTZNV2IwMFQzQnVaTWhPR2dj?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-10T01:12:32+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russian drone attack in Ukraine"
-    },
-    {
-      "id": "67ce4a6932936837f7c5519671d42c16e6d24304",
-      "title": "Air Canada cancels all flights to Cuba as US oil blockade cuts off fuel access",
-      "summary": "Airlines from as far away as Russia, China and Spain have also been affected as island nation warns of fuel shortageAir Canada has cancelled all flights to Cuba after the island’s authorities said they were running out o…",
-      "url": "https://www.theguardian.com/world/2026/feb/09/air-canada-cancels-cuba-flights-fuel",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-09T21:00:03+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Airlines from as far away as Russia, China and Spain have also been affected"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-12T10:06:42Z"
+  "last_updated": "2026-02-13T10:02:20Z"
 }

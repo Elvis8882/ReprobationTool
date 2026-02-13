@@ -1,16 +1,38 @@
 {
   "country": "NO",
-  "score": 64,
+  "score": 62,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 2,
-  "sources": 26,
+  "trend": -2,
+  "sources": 28,
   "sentiment": {
     "positive": 2,
-    "neutral": 19,
-    "negative": 5
+    "neutral": 20,
+    "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "02aaedba99685d15a34e2eaa06d7e85f2ca33efd",
+      "title": "Ex-Leader of Norway Charged With Corruption Linked to Epstein",
+      "summary": "Thorbjorn Jagland, who briefly led Norway in the 1990s, had been protected by diplomatic immunity that came with his work with the Council of Europe, but that privilege was waived.",
+      "url": "https://www.nytimes.com/2026/02/12/world/europe/thorbjorn-jagland-epstein-corruption-norway.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-13T02:49:49+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ex-Leader of Norway Charged With Corruption Linked to Epstein"
+    },
+    {
+      "id": "a33820a3c57d7158be33230adbe59889f868388f",
+      "title": "Norway's former PM charged with gross corruption over Epstein links",
+      "summary": "The charge was brought after the Council of Europe lifted his immunity, which he had as its former secretary general.",
+      "url": "https://www.bbc.com/news/articles/c5yqr8eggvwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-12T16:37:32+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Norway's former PM charged with gross corruption"
+    },
     {
       "id": "98dca191515c9acb6c86255c86f01c5a652ef557",
       "title": "Russian strikes on Ukraine kill four amid reports Zelenskyy considering elections and peace deal referendum – Europe live",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Norway's Princess Mette-Marit's Journey From Fairytale To Nightmare"
-    },
-    {
-      "id": "c3a7aa721c790a3a97ff41cd56f9368dc12a30bb",
-      "title": "BBC reports from Oslo court ahead of rape trial of Crown Princess's son",
-      "summary": "Norway's royal family has been embroiled in recent scandals, including Crown Princess Mette-Marit links with Epstein.",
-      "url": "https://www.bbc.com/news/videos/c1m7vmzynzvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-02T20:22:29+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Norway's royal family has been embroiled in recent scandals"
-    },
-    {
-      "id": "c8ef2eec3a786f49ffe9021cf5a516e88ca4517c",
-      "title": "Royal Families of Norway and Britain Face Pressure Over Epstein Files",
-      "summary": "Newly released emails offer new details about ties between Jeffrey Epstein and Crown Princess Mette-Marit of Norway, as well as Sarah Ferguson, once the Duchess of York in Britain.",
-      "url": "https://www.nytimes.com/2026/02/02/world/europe/epstein-norway-britain-princess-fergie-emails.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-02T18:20:41+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Crown Princess Mette-Marit of Norway"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-12T10:06:42Z"
+  "last_updated": "2026-02-13T10:02:20Z"
 }

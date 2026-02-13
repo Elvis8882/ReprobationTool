@@ -3,14 +3,36 @@
   "score": 55,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -45,
-  "sources": 4,
+  "trend": 0,
+  "sources": 6,
   "sentiment": {
     "positive": 0,
-    "neutral": 3,
-    "negative": 1
+    "neutral": 4,
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "f5b402fae25eb1515621ac08b2bd55854dafb859",
+      "title": "Safe-haven currencies might not be so safe after a volatile year. Here's how the market is rethinking the Swiss franc, dollar and yen",
+      "summary": "One strategist said the currencies have \"undoubtedly lost some of their sheen,\" while others warned of more volatility ahead.",
+      "url": "https://www.cnbc.com/2026/02/13/safe-haven-currency-swiss-franc-yen-dollar-switzerland-usd-dxy-trump.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-12T23:08:18+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "rethinking the Swiss franc, dollar and yen"
+    },
+    {
+      "id": "e2085710b9c55c6f6ac24564a7aec5e262d94f41",
+      "title": "'My son is dead': Swiss bar owners confronted by fire victim families",
+      "summary": "Jessica and Jacques Moretti are under criminal investigation for involuntary manslaughter, as well as bodily harm and arson through negligence.",
+      "url": "https://www.bbc.com/news/videos/c99jr58m4z4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-12T18:40:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Swiss bar owners confronted by fire victim families"
+    },
     {
       "id": "37b526ba733b799412f3c97b5275b666ad363e4e",
       "title": "Switzerland to vote on far-right proposal to cap population at 10 million",
@@ -57,5 +79,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-12T10:06:42Z"
+  "last_updated": "2026-02-13T10:02:20Z"
 }

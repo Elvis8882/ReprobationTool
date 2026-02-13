@@ -1,16 +1,69 @@
 {
   "country": "NL",
-  "score": 79,
+  "score": 76,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 53,
+  "trend": -3,
+  "sources": 60,
   "sentiment": {
-    "positive": 4,
-    "neutral": 47,
-    "negative": 2
+    "positive": 5,
+    "neutral": 52,
+    "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "4ca20694440fe32aebbd7cb9c7e9782e3d869672",
+      "title": "THE HACK: Lawmakers still stuck on AI ‘pornification’ ban",
+      "summary": "In today's edition: EU Five Eyes, Dutch AI agnt warning, far-right vs EU space security, UK fines Kick",
+      "url": "https://www.euractiv.com/news/the-hack-lawmakers-still-stuck-on-ai-pornification-ban/",
+      "source": "Euractiv",
+      "published_at": "2026-02-13T08:24:18+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Dutch AI agnt warning"
+    },
+    {
+      "id": "3f14f6d1c3cc6047c9a81f3c0016897cdbeacea4",
+      "title": "Food firms urge Europe not to ban calling non-meat products ‘sausages’",
+      "summary": "Exclusive: Manufacturers tell European Commission proposed ban would cause unnecessary confusionMore than a dozen food companies have urged the European Commission not to ban the use of words such as “sausage” and “burge…",
+      "url": "https://www.theguardian.com/world/2026/feb/13/food-firms-urge-europe-not-to-ban-calling-non-meat-products-sausages",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-13T00:01:29+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "f2ab21c4377b699be8cbca7e77a7e6df0365dd4a",
+      "title": "Dutch Prosecutors Fine Louis Vuitton Netherlands in Money Laundering Case",
+      "summary": "The Dutch subsidiary of the luxury brand agreed to pay a nearly $600,000 settlement in a money laundering and terrorism financing case.",
+      "url": "https://www.nytimes.com/2026/02/12/world/europe/louis-vuitton-money-laundering-fine.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-12T16:37:25+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Dutch Prosecutors Fine Louis Vuitton Netherlands in Money Laundering Case"
+    },
+    {
+      "id": "7665f11f86c8974546ed9c2326e1988c1cf446b0",
+      "title": "Weed and gender: Slovak PM lashes out over Dutch threat on EU funding",
+      "summary": "\"You can continue to smoke marijuana and recognise 70 genders. That is your business\", Fico said",
+      "url": "https://www.euractiv.com/news/weed-and-gender-slovak-pm-lashes-out-over-dutch-threat-on-eu-funding/",
+      "source": "Euractiv",
+      "published_at": "2026-02-12T16:03:27+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Dutch threat on EU funding"
+    },
+    {
+      "id": "fc445821c1c72eeff2de0709e85fbb3a2242bc30",
+      "title": "Belgian police raid EU Commission in real estate sale probe",
+      "summary": "The EU executive said it was \"aware of an ongoing investigation\" into the sale of 23 commission buildings worth some €900 million",
+      "url": "https://www.euractiv.com/news/belgian-police-raid-eu-commission-in-real-estate-sale-probe/",
+      "source": "Euractiv",
+      "published_at": "2026-02-12T13:16:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "9c5c5541bebcee797d4e9be9318d9a18caf7c141",
       "title": "The Dutch love four-day working weeks, but are they sustainable?",
@@ -21,6 +74,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "harming its economy"
+    },
+    {
+      "id": "58a80fff4f7dcfdefb14f1c742383b32c82eac64",
+      "title": "Cees Nooteboom, Dutch novelist and travel writer, dies aged 92",
+      "summary": "Writer made international breakthrough with 1980 novel Rituals and won acclaim for his travel writingThe Dutch writer Cees Nooteboom, whose novels, travel writing and translations made him a prominent literary figure in…",
+      "url": "https://www.theguardian.com/books/2026/feb/11/cees-nooteboom-dutch-author-dies-aged-92",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-11T23:40:16+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Cees Nooteboom, Dutch novelist and travel writer, dies"
     },
     {
       "id": "f9bd44d331e1c84c85d839bfa54967a2db583f56",
@@ -156,69 +220,8 @@
       "published_at": "2026-02-05T10:03:25+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "ba2c1ed894d35ff7ddee8cc4fb00839e0875516b",
-      "title": "EU Parliament to hold special plenary on Ukraine war anniversary",
-      "summary": "A debate on Russia's war in Ukraine and a vote on a new €90 billion defence-focused loan to Ukraine have also been moved to 24 February",
-      "url": "https://www.euractiv.com/news/eu-parliament-to-hold-special-plenary-on-ukraine-war-anniversary/",
-      "source": "Euractiv",
-      "published_at": "2026-02-04T16:31:51+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "2f9d435f07bd8bae98e2f3e374fd2a80a46a80e7",
-      "title": "EU hospitals released 5 million cancer patients in 2023 - European Commission",
-      "summary": "EU hospitals released 5 million cancer patients in 2023&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVQ2NySkxSYlp6RGZFV0NCWURjX0R6NmNaS1cxN0ROMk5PNUVmR2UxVlR4VzJrUmppZi1FQk9GNGNxY0k5UEFoUjkxUW5iZ1l5UU5zQmVnZ00zVkJYRFdIS0kybmFlT0ZqMVNCYnhmMkJiV3pHbVVMM3lmMzB0dw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-04T10:03:44+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f53abe1fa64119c20440250f0adaec42779d7c43",
-      "title": "French prosecutors ask appeal court to keep ban on Marine Le Pen running for office",
-      "summary": "Far-right leader was barred for five years after being found guilty of extensive fake jobs scam at European parliamentFrench state prosecutors have asked appeal court judges to maintain a five-year election ban on the fa…",
-      "url": "https://www.theguardian.com/world/2026/feb/03/french-prosecutors-ask-appeal-court-to-keep-ban-on-marine-le-pen-running-for-office",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-03T19:22:59+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "b88dbd25bbd43ec0f03cb0aba111e29546935253",
-      "title": "MEPs lobby EU foreign policy chief to put a stop to Faroe Islands whale cull",
-      "summary": "\"The European Union’s external action should reflect the values it upholds internally\", lawmakers said",
-      "url": "https://www.euractiv.com/news/five-meps-lobby-kallas-to-put-a-stop-to-faroe-islands-whale-hunts/",
-      "source": "Euractiv",
-      "published_at": "2026-02-03T17:49:14+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "5cd2c1893114080632974d9345556e42e4996c4c",
-      "title": "Europe’s path to a cleaner automotive sector – What are the opportunities and challenges? [Advocacy Lab]",
-      "summary": "The European Commission has published its proposals to revise its Car CO2 Regulation and to introduce national targets for Clean Corporate Vehicles as part of its Automotive Package. These initiatives aim to reduce green…",
-      "url": "https://www.euractiv.com/video/europes-path-to-a-cleaner-automotive-sector-what-are-the-opportunities-and-challenges/",
-      "source": "Euractiv",
-      "published_at": "2026-02-03T15:00:33+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "3d5879ffb5062f185673d7ec4d49de66d95888e1",
-      "title": "Forced livestock downsizing returns to Dutch politics",
-      "summary": "New coalition pivots from predecessor, keeping forced farm buy-outs as last resort",
-      "url": "https://www.euractiv.com/news/forced-livestock-downsizing-returns-to-dutch-politics/",
-      "source": "Euractiv",
-      "published_at": "2026-02-02T13:04:20+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Forced livestock downsizing returns to Dutch politics"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-12T10:06:42Z"
+  "last_updated": "2026-02-13T10:02:20Z"
 }

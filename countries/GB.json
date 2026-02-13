@@ -1,16 +1,126 @@
 {
   "country": "GB",
   "score": 71,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
-  "trend": 14,
-  "sources": 195,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": 0,
+  "sources": 209,
   "sentiment": {
-    "positive": 14,
-    "neutral": 131,
-    "negative": 50
+    "positive": 16,
+    "neutral": 141,
+    "negative": 52
   },
   "latest_articles": [
+    {
+      "id": "3eb575961a0e51c021ca0f861fb64bea24adb01a",
+      "title": "Ex-cabinet secretary condemns Starmer’s sacking of Chris Wormald as ‘shabby’ – UK politics live",
+      "summary": "Gus O’Donnell urges Starmer to ‘get a grip’ of ‘disastrous’ advisers as PM heads to Munich Security ConferenceReform UK’s showcase council in Kent faces “extreme risk” and “instability”, opposition politicians have warne…",
+      "url": "https://www.theguardian.com/politics/live/2026/feb/13/keir-starmer-cabinet-secretary-chris-wormald-labour-badenoch-conservatives-uk-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-13T09:35:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "PM heads to Munich Security Conference"
+    },
+    {
+      "id": "21b8eae625cc3407d9b1ace22a42117a3cddacf4",
+      "title": "Roman mosaic in Britain reveals a 2,000 year old Trojan War secret - ScienceDaily",
+      "summary": "Roman mosaic in Britain reveals a 2,000 year old Trojan War secret&nbsp;&nbsp;ScienceDaily",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1VWZFZkJBbjBON1c4bFJZOHkyRC13Ulc0UURqSTJEeXN6ZndUNlhqNVE4VlBvTG93WXdlWXk5bDh0M2JaUGZiQjRVNzh3RFhFTmJRLTZ6ekxpUWQ2dTQxdS1tOF8yN0k4ZFB4bzllOA?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-13T08:42:02+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Roman mosaic in Britain reveals a 2,000 year old Trojan War secret"
+    },
+    {
+      "id": "4ca20694440fe32aebbd7cb9c7e9782e3d869672",
+      "title": "THE HACK: Lawmakers still stuck on AI ‘pornification’ ban",
+      "summary": "In today's edition: EU Five Eyes, Dutch AI agnt warning, far-right vs EU space security, UK fines Kick",
+      "url": "https://www.euractiv.com/news/the-hack-lawmakers-still-stuck-on-ai-pornification-ban/",
+      "source": "Euractiv",
+      "published_at": "2026-02-13T08:24:18+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "UK fines Kick"
+    },
+    {
+      "id": "6f16d04a4c771989fc7a9d1c5d46ba2f208d1835",
+      "title": "Reform UK’s Kent council faces ‘extreme risk’ after passing first budget",
+      "summary": "Councillors vote for 3.99% council tax increase while mounting ‘attack on the vulnerable’, opposition saysReform UK’s showcase council in Kent faces “extreme risk” and “instability”, opposition politicians have warned, a…",
+      "url": "https://www.theguardian.com/politics/2026/feb/13/reform-uk-kent-council-extreme-risk-pass-first-budget",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-13T08:19:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Kent council faces ‘extreme risk’ and ‘instability’"
+    },
+    {
+      "id": "37a452e928636187486d58cc74622d32fd37fcaf",
+      "title": "UAE updates foundation stage admission criteria for British Schools: Key changes explained",
+      "summary": "New rules for private schools with British curricula will assess children born September-December for Foundation Stage 1 readiness from 2026-27. A one-time transition allows 2022 births to be placed in FS1 or FS2 based o…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-updates-foundation-stage-admission-criteria-for-british-schools-key-changes-explained/articleshow/128290637.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-02-13T06:25:38+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "British Schools: Key changes explained"
+    },
+    {
+      "id": "582c42164fe3ecc1ecbab207c79f2dd0ef6cf773",
+      "title": "UK says Western allies have already pledged $35bn for Ukraine this year",
+      "summary": "Ukraine&#8217;s Western allies have already pledged around $35 billion in military aid to Kyiv this year, British defence minister John Healey said Thursday. The figure includes new commitments by individual countries, b…",
+      "url": "https://www.euractiv.com/news/ukraines-western-allies-already-pledged-35bn-for-ukraine-britain/",
+      "source": "Euractiv",
+      "published_at": "2026-02-13T02:34:46+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "UK says Western allies have already pledged $35bn for Ukraine"
+    },
+    {
+      "id": "938c573073910993202c152a56dd133879beacd0",
+      "title": "Craig Bellamy aims high after Wales' Nations League draw - BBC",
+      "summary": "Craig Bellamy aims high after Wales' Nations League draw&nbsp;&nbsp;BBCNations League draw: England to face Spain and Croatia, Wales meet holders Portugal&nbsp;&nbsp;BBC2026/27 UEFA Nations League: All the league phase f…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKWXhZdVc3NnpEWUlEMGtXRWFoN29RT251cGxjbGpOZGFhT0NUVTdpZGhCb0hIZkkzVkJOVklfVGdlLVVRZ0JHc2RHYlNidzdWNlFOeFFfemQwOGc5dnEtOFI4d0s0Wlk?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-12T20:01:39+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Wales' Nations League draw"
+    },
+    {
+      "id": "3abe8b52afb76f6bb252c508bcc1341c4087fd42",
+      "title": "Bangladeshi migrant avoids deportation from UK over jail term imposed under Sheikh Hasina",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/uk/bangladeshi-migrant-avoids-deportation-from-uk-over-20-year-jail-sentence-imposed-under-sheikh-hasinas-regime-in-dhaka/articleshow/128273210.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-02-12T19:35:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Bangladeshi migrant avoids deportation from UK"
+    },
+    {
+      "id": "97595e383e0e3015ead96d7d0251f8cc62a60583",
+      "title": "CMA issues new guidance in greenwashing crackdown - Pinsent Masons",
+      "summary": "CMA issues new guidance in greenwashing crackdown&nbsp;&nbsp;Pinsent MasonsIndian brands build trust beyond greenwashing: Report&nbsp;&nbsp;ET BrandEquityA study by The HOOOP Collective highlights validation claims by In…",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSlBqWEZnaXZweExObmdpTVR0LWdVaE9DdTNTM3RmTzk2ZThzQXZSZV9oekpyWFdmMEE1bmpQMml4THVsaHY1SEZfaXZTMXlNc2JQVHdtU0NVTlYwUm9rMjJjZnNwNHdrNFNhM1NKMXFjNWJ2eVIxX2VvVFRVM1pQcGpVT1VZWUtmMzlpMEhzb0otZmM?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-12T11:22:47+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "CMA issues new guidance in greenwashing crackdown"
+    },
+    {
+      "id": "074e861023e07578f75a58b6b9e0b9b6a7634ccb",
+      "title": "Minister and Burnham escalate row with ‘hypocritical’ Ratcliffe over claim UK colonised by immigrants – politics live",
+      "summary": "Labour mayor of Greater Manchester joins those criticising Ratcliffe over his comments The GMB union has alos criticised Jim Ratcliffe over his comments about immigration. The union represents workers employed by Ineos,…",
+      "url": "https://www.theguardian.com/politics/live/2026/feb/12/uk-politics-latest-news-updates-labour-jim-ratcliffe-keir-starmer",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-12T09:39:47+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "his right to comment on UK affairs should have ended the moment he sloped off to Monaco"
+    },
     {
       "id": "5f1832c10cac8a8b2351a6e2846352a595aff4db",
       "title": "Schroders agrees £9.9bn takeover by US investor, ending 200 years of family ownership",
@@ -34,6 +144,17 @@
       "evidence": "UK's Schroders pops 28% on Nuveen takeover"
     },
     {
+      "id": "777585e359b48d59b338a18c7e90ac774a163c93",
+      "title": "UK economy limps along at 0.1% growth – but there are reasons for optimism in 2026",
+      "summary": "Consumers and businesses are not yet taking the hint despite six interest rate cutsUK economy grows by only 0.1% amid falling business investmentBusiness live – latest updatesRachel Reeves has suggested 2026 is the year…",
+      "url": "https://www.theguardian.com/business/2026/feb/12/uk-economy-gdp-reasons-for-optimism-analysis",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-12T09:14:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "UK economy limps along at 0.1% growth"
+    },
+    {
       "id": "7aff9f1f3a41481cb5b2dff63b4bbab7ebc51097",
       "title": "Jim Ratcliffe accused of hypocrisy after saying UK ‘colonised’ by immigrants",
       "summary": "Manchester United co-owner, who lives in Monaco, faces growing backlash for using ‘far-right narratives’UK politics live – latest updatesThe Monaco-based billionaire Jim Ratcliffe has been accused of hypocrisy and using…",
@@ -43,6 +164,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "accused of hypocrisy after saying UK ‘colonised’ by immigrants"
+    },
+    {
+      "id": "93714a64fd69be2c6ea5993082fcbf0404dba2e5",
+      "title": "Police identify 18-year-old as suspect in Tumbler Ridge shooting",
+      "summary": "A candlelit vigil was held on Wednesday night in the remote British Columbia town where six people were killed and dozens injured.",
+      "url": "https://www.bbc.com/news/articles/ce8w95knp55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-12T09:11:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Tumbler Ridge shooting"
     },
     {
       "id": "140df0206deebd45b6b699b4b4ad0e8233b8f763",
@@ -78,6 +210,17 @@
       "evidence": "UK economy ekes out 0.1% growth"
     },
     {
+      "id": "7179065cbcd96bbd271981d877ae9d737d6f3ff9",
+      "title": "Nations League: Why Scotland fans should care about Thursday's draw - BBC",
+      "summary": "Nations League: Why Scotland fans should care about Thursday's draw&nbsp;&nbsp;BBCUEFA Nations League 2026/27 draw: All you need to know&nbsp;&nbsp;FAWInside guide: The Nations League draw for Northern Ireland that would…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lcmVyZGplRV9jeGFYaGIzWVk4cE45VDFGQzBEZThLUlhwZmk5dEQ1UV9HRm02RVowUlY0RkNtY211eG1DYmdjV2w3T3QxcEdlZEJEVl9KRWtLNVpWNEZJWldhSmltTDg?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-12T07:11:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Scotland fans should care...Northern Ireland could face Scotland"
+    },
+    {
       "id": "d23f8966e539f11a489d6b236fa12690365d2bd3",
       "title": "Outsider Pictures, Unannounced Grab Peruvian Culinary Hit ’Mistura’ for North America, U.K. (EXCLUSIVE) - Variety",
       "summary": "Outsider Pictures, Unannounced Grab Peruvian Culinary Hit ’Mistura’ for North America, U.K. (EXCLUSIVE)&nbsp;&nbsp;Variety",
@@ -87,151 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "U.K. (EXCLUSIVE)"
-    },
-    {
-      "id": "cf01fddfcaa588daf6cafb218d9d6316df04fb4e",
-      "title": "U.K. Police Weigh Whether to Formally Investigate Former Prince Andrew Over Epstein Accusations",
-      "summary": "The police are weighing whether to formally investigate Andrew Mountbatten-Windsor over accusations he shared confidential information with Jeffrey Epstein.",
-      "url": "https://www.nytimes.com/2026/02/11/world/europe/epstein-prince-andrew-uk-investigation.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-11T20:31:27+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "U.K. Police Weigh Whether to Formally Investigate"
-    },
-    {
-      "id": "6285ba73245e0940821bb816a92b1bf07f1844fb",
-      "title": "Marwan Barghouti’s son calls on UK to put father’s release at heart of Palestinian renewal",
-      "summary": "Cross-party UK MPs campaigning for senior Fatah leader’s release from Israeli jail, saying he is unifying figureThe son of Marwan Barghouti, the Palestinian prisoner often described as the Nelson Mandela of the Palestini…",
-      "url": "https://www.theguardian.com/world/2026/feb/11/marwan-barghouti-son-uk-father-release-palestine-renewal",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-11T20:06:32+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "UK government that its recent recognition of a Palestinian state"
-    },
-    {
-      "id": "d87f64e86cbfaebcfca3079d74d349c496800caf",
-      "title": "U.K. Inquest Finds British Woman Was Killed ‘Unlawfully’ in Texas Shooting",
-      "summary": "A British coroner ruled that a Texas man acted with gross negligence when he accidentally shot his 23-year-old daughter, who was visiting from Britain last year.",
-      "url": "https://www.nytimes.com/2026/02/11/world/europe/lucy-harrison-shooting-uk-texas-coroner.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-11T18:47:31+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "British Woman Was Killed ‘Unlawfully’"
-    },
-    {
-      "id": "e42a86d21f9f80be232c20aa4915682f04082c58",
-      "title": "Starmer faces PMQs amid pressure over why ex-No 10 aide friendly with sex offender was given peerage – UK politics live",
-      "summary": "Labour has removed the whip from Matthew Doyle, Starmer’s former director of communications, who only recently became a peerQ: You are here being hosted by UK Finance. But the financial services sector does not like your…",
-      "url": "https://www.theguardian.com/politics/live/2026/feb/11/pmqs-keir-starmer-kemi-badenoch-labour-matthew-doyle-peter-mandelson-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-11T09:53:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "UK politics live...windfall tax on banks"
-    },
-    {
-      "id": "303b7e4e5d11c66f63849d0ee11c45786ccc5827",
-      "title": "‘Finding Harmony’ Documentary on King Charles Shows His Longtime Concern for Environment",
-      "summary": "Environmentalism may have gone out of fashion on Wall Street and in the White House, but the British monarch says he remains deeply committed to the cause in a new documentary, ‘Finding Harmony’.",
-      "url": "https://www.nytimes.com/2026/02/11/world/europe/king-charles-harmony-documentary-climate.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-11T08:47:01+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "British monarch says he remains deeply committed to the cause"
-    },
-    {
-      "id": "650a9e13ffd9db9a464370aaa9aba251fa231faf",
-      "title": "Elliott Management builds stake in London Stock Exchange Group - Financial Times",
-      "summary": "Elliott Management builds stake in London Stock Exchange Group&nbsp;&nbsp;Financial TimesActivist investor Elliott builds stake in London Stock Exchange&nbsp;&nbsp;The TimesWall Street predator targets London Stock Excha…",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43S0xmZTRQMDZCQW16ZVNQbkM0cS1uVnZhWS11TWhUazkxZHFRbUdIbmpPellUZFpKT0FBb0ZqTU16a1NYSk81ekM1eGhHR1FGRlZaajhCa1AteGVJRkcwcDlzcHNBSXVUUXAxcld2SFE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-11T08:26:26+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Elliott Management builds stake in London Stock Exchange Group"
-    },
-    {
-      "id": "07137b0ec0cf045ba12bc2ae52a4695cc5d8b322",
-      "title": "CNBC's UK Exchange newsletter: Compass shifts its trading to dollars — and it might not be the last",
-      "summary": "Compass — a British company that is a genuine world leader in its field — caused some alarm when it announced it was switching its trading currency.",
-      "url": "https://www.cnbc.com/2026/02/11/cnbcs-uk-exchange-newsletter-compass-shifts-its-trading-to-dollars.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-02-11T06:47:58+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "British company that is a genuine world leader"
-    },
-    {
-      "id": "590019193405d84b659844e8ff402bf84de54a4c",
-      "title": "‘I’m thinking of building an ark’: the Cornish village soaked by 41 consecutive days of rain",
-      "summary": "In Cardinham, which has had 366mm of rain this year, there’s little need to check the weather forecast: more rainTell us: how have you been affected by the rainy weather in the UK?“I’m thinking of building an ark,” said…",
-      "url": "https://www.theguardian.com/uk-news/2026/feb/11/cardinham-cornwall-village-consecutive-days-rain",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-11T06:00:10+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Cornish village soaked by 41 consecutive days of rain"
-    },
-    {
-      "id": "896451c4345ae7322ed634ebf47d9f2efbe3d330",
-      "title": "Nurses’ families fear being torn apart in UK immigration crackdown, survey says",
-      "summary": "Exclusive: Most people in charity’s study say they worry about being separated from relatives under Mahmood plansFamilies of nurses and carers have said they fear being torn apart under an immigration crackdown condemned…",
-      "url": "https://www.theguardian.com/uk-news/2026/feb/11/nurses-families-fear-being-torn-apart-in-uk-immigration-crackdown-survey-says",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-11T06:00:09+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "UK immigration crackdown"
-    },
-    {
-      "id": "970c4ed0d5ca424f054fc1959b18bf302b0f3c93",
-      "title": "9 Killed and 25 Injured in Shootings at School and Home in British Columbia",
-      "summary": "Police say the suspected shooter died of a self-inflicted injury after the shooting in Tumbler Ridge, a remote community.",
-      "url": "https://www.nytimes.com/2026/02/10/world/canada/tumbler-ridge-school-shooting-canada.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-11T04:57:24+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "9 Killed and 25 Injured in Shootings at School and Home"
-    },
-    {
-      "id": "2c88d4574553963878da45a82623bce963bdd9a7",
-      "title": "UK doubles troops in Norway to counter Russian 'threat to Arctic'",
-      "summary": "Defence Secretary John Healey says British personnel in Norway will rise from 1,000 to 2,000 over three years.",
-      "url": "https://www.bbc.com/news/articles/ce94jm1pp5xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-11T03:39:02+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "UK doubles troops in Norway to counter Russian 'threat to Arctic'"
-    },
-    {
-      "id": "77db5f7f5314c5191546b3fbc3cf3f4cc3c812d1",
-      "title": "‘A step in the wrong direction’: Israel’s West Bank plans prompt global backlash",
-      "summary": "US, Britain, EU and Arab nations condemn plans that Israeli ministers say will ‘kill the idea of a Palestinian state’Israeli measures to tighten its control of the West Bank have prompted a global backlash, including a s…",
-      "url": "https://www.theguardian.com/world/2026/feb/10/israel-west-bank-plans-global-backlash",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-11T01:59:13+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Britain, EU and Arab nations condemn plans"
-    },
-    {
-      "id": "aacbba9e958dda814664311783e05d9702037252",
-      "title": "‘Unsustainable’ gaps in policing of franchise businesses must end, MPs say",
-      "summary": "House of Commons business and trade committee calls for changes after series of scandals in sectorThe UK government needs to eradicate “unsustainable” gaps in the policing of franchise businesses after a series of scanda…",
-      "url": "https://www.theguardian.com/business/2026/feb/11/unsustainable-gaps-policing-franchise-businesses-mps",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-11T00:01:03+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "UK government needs to eradicate “unsustainable” gaps in policing"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-12T10:06:42Z"
+  "last_updated": "2026-02-13T10:02:20Z"
 }
