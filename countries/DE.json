@@ -1,16 +1,60 @@
 {
   "country": "DE",
-  "score": 97,
+  "score": 98,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 84,
+  "trend": 1,
+  "sources": 90,
   "sentiment": {
-    "positive": 16,
-    "neutral": 56,
-    "negative": 12
+    "positive": 19,
+    "neutral": 58,
+    "negative": 13
   },
   "latest_articles": [
+    {
+      "id": "d795b82903ab0cd06b326e08e27d2b8567ab3724",
+      "title": "Why writer Arundhati Roy's cult classic film is still relevant in India",
+      "summary": "Nearly 40 years on, the Booker prize-winning writer's debut campus satire is set to be screened in Berlin.",
+      "url": "https://www.bbc.com/news/articles/cn9exzl254xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-14T01:45:02+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "screened in Berlin"
+    },
+    {
+      "id": "ea1652c132705063245a4854b2c829a49c772f9a",
+      "title": "US ‘not powerful enough to go it alone’, Merz tells Munich conference",
+      "summary": "German chancellor rebuts idea of American unilateralism and says ‘democracies have partners and allies’The US acting alone has reached the limits of its power and may already have lost its role as global leader, Friedric…",
+      "url": "https://www.theguardian.com/world/2026/feb/13/us-not-powerful-enough-to-go-it-alone-merz-tells-munich-conference",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-13T19:47:04+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "German chancellor ... call for Europe to develop a stronger self-standing security strategy"
+    },
+    {
+      "id": "fc8cf2c85e282cd94a3d433a40090ea78aaf5fce",
+      "title": "Germany’s Merz says culture wars opened ‘rift’ between US and Europe",
+      "summary": "The German leader urged Washington to \"repair and revive transatlantic trust together.\"",
+      "url": "https://www.euractiv.com/news/germanys-merz-says-culture-wars-opened-rift-between-us-and-europe/",
+      "source": "Euractiv",
+      "published_at": "2026-02-13T14:15:58+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "urged Washington to \"repair and revive transatlantic trust together.\""
+    },
+    {
+      "id": "ba7fad816083fe084c3f0148bd2640e00572b21d",
+      "title": "German Officials Needle Trump at Munich Security Conference",
+      "summary": "Friedrich Merz, the chancellor of Germany, said that under President Trump, the United States’ claim to global leadership “has been challenged, and possibly squandered.”",
+      "url": "https://www.nytimes.com/2026/02/13/world/europe/germany-merz-trump-munich.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-13T14:08:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "United States’ claim to global leadership “has been challenged, and possibly squandered.”"
+    },
     {
       "id": "bbf2b673f12252812d4bdd5b5eb1396234be135d",
       "title": "Live: Rubio says he will have chance to meet Ukraine’s Zelensky at Munich security forum - France 24",
@@ -53,6 +97,28 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Berlin’s less protectionist plan to revitalise EU industries"
+    },
+    {
+      "id": "4ae0480c7926e5ddcc25fb4dbcf986e48b37499a",
+      "title": "The Brief – The Washington affair is over, Meloni finds comfort with Merz",
+      "summary": "As with other ‘special relationships’, Meloni will have to compromise to get behind Merz. But at least Berlin is a safer bet than Washington",
+      "url": "https://www.euractiv.com/opinion/the-brief-the-washington-affair-is-over-merloni-finds-comfort-with-merz/",
+      "source": "Euractiv",
+      "published_at": "2026-02-12T17:56:32+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Berlin is a safer bet than Washington"
+    },
+    {
+      "id": "8c1933e81dc64631b15a066d7aecaece8246e5a8",
+      "title": "Spain among eight countries absent from new German-Italian ‘competitiveness’ club",
+      "summary": "Socialist-led Spain is the EU's fourth largest economy but was not invited to a pre-summit coordination meeting",
+      "url": "https://www.euractiv.com/news/spain-among-eight-countries-absent-from-new-german-italian-competitiveness-club/",
+      "source": "Euractiv",
+      "published_at": "2026-02-12T16:44:13+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "new German-Italian ‘competitiveness’ club"
     },
     {
       "id": "84a2d140891cad08595c8a0acca7ffda4760f7cb",
@@ -160,73 +226,8 @@
       "published_at": "2026-02-11T09:09:46+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "b7d3c915cc7c6a301cd203289fb917870b24ac96",
-      "title": "Germany's Julia Taubitz ends Olympic heartache with 1st luge gold medal at 29 - CBC",
-      "summary": "Germany's Julia Taubitz ends Olympic heartache with 1st luge gold medal at 29&nbsp;&nbsp;CBCGermany's Taubitz wins luge gold, USA's Farquharson wins bronze&nbsp;&nbsp;ESPNAmerican Ashley Farquharson captures rare Olympic…",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2Y2c2V5eFBpMUtZLTNWUGsyMXNxcV9ZWG1HUGREV3BxVW9UcldPRHpqT083NmJYNTBYcHNWUmhuMWNRd2lGdVNUcDQtWjhhTEhfOU1vWWl5b2RoT2doeEJ0d21YemtHQ1Bra21lRXZwalMydENyU1dqbWxVdWxxN0phekFuRjNNbVBSellaWHBfSFNNcTJsaldpRWNkaFBuRFE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-10T20:38:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Germany's Julia Taubitz ends Olympic heartache with 1st luge gold medal"
-    },
-    {
-      "id": "24cd014bf5eb8ce642c25a00f51d99d5d63014c9",
-      "title": "EU parliament adopts twin texts hardening migration policy",
-      "summary": "The EU's political centre of gravity has shifted firmly right in recent years, and a decline in irregular entries has not eased the political pressure to act on the hot-button issue",
-      "url": "https://www.euractiv.com/news/eu-parliament-adopts-twin-texts-hardening-migration-policy/",
-      "source": "Euractiv",
-      "published_at": "2026-02-10T16:17:40+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "787e634aadc7e1e03a118dd7d8b9a85636e7bf23",
-      "title": "Berlin calls Macron’s pitch for more EU debt a ‘distraction’",
-      "summary": "Disagreement comes just two days before EU leaders meet for an informal summit in Belgium",
-      "url": "https://www.euractiv.com/news/berlin-calls-macrons-pitch-for-more-eu-debt-a-distraction/",
-      "source": "Euractiv",
-      "published_at": "2026-02-10T12:35:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "Berlin calls Macron’s pitch for more EU debt a ‘distraction’"
-    },
-    {
-      "id": "8b23b415a33411e94f1e486191a7608b07320b0b",
-      "title": "FIRST AID: Germany flirts with sin taxes",
-      "summary": "In today's edition: Disinformation, measles, digital health",
-      "url": "https://www.euractiv.com/news/first-aid-germanys-flirts-with-sin-taxes/",
-      "source": "Euractiv",
-      "published_at": "2026-02-10T09:49:02+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Germany flirts with sin taxes"
-    },
-    {
-      "id": "0f22c9156b15998f059862fa0450e13c7704370a",
-      "title": "State-Backed Hackers Target Defence Workers, Google Warns",
-      "summary": "Targets range from German aerospace companies to British car manufacturers.",
-      "url": "https://www.ndtv.com/world-news/state-backed-hackers-target-defence-workers-google-warns-10980432#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-10T08:37:38+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "State-Backed Hackers Target Defence Workers... German aerospace companies"
-    },
-    {
-      "id": "a6537fcf2a11f3da34bf23fe05941995e77d2a08",
-      "title": "Beer nation Germany flirts with sin taxes on booze, cigarettes and sugar",
-      "summary": "Drug commissioner backs tobacco taxes as health minister cautions against targeting alcohol",
-      "url": "https://www.euractiv.com/news/beer-nation-germany-flirts-with-sin-taxes-on-booze-cigarettes-and-sugar/",
-      "source": "Euractiv",
-      "published_at": "2026-02-10T05:00:48+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Beer nation Germany flirts with sin taxes on booze"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-13T10:02:20Z"
+  "last_updated": "2026-02-14T09:45:43Z"
 }

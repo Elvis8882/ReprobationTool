@@ -1,16 +1,27 @@
 {
   "country": "RU",
-  "score": 3,
+  "score": 2,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -5,
-  "sources": 166,
+  "trend": -1,
+  "sources": 169,
   "sentiment": {
-    "positive": 8,
+    "positive": 9,
     "neutral": 33,
-    "negative": 125
+    "negative": 127
   },
   "latest_articles": [
+    {
+      "id": "7d1f7885f2e973af7c6925532d2e29c1fba6719c",
+      "title": "INTERVIEW: Estonian intelligence says Russia could have recruitment problem",
+      "summary": "Last year, many Russians joined the military because they thought the war might end",
+      "url": "https://www.euractiv.com/news/interview-estonian-intelligence-says-russia-could-have-recruitment-problem/",
+      "source": "Euractiv",
+      "published_at": "2026-02-13T13:39:55+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Russia could have recruitment problem"
+    },
     {
       "id": "bbf2b673f12252812d4bdd5b5eb1396234be135d",
       "title": "Live: Rubio says he will have chance to meet Ukraine’s Zelensky at Munich security forum - France 24",
@@ -21,6 +32,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Russian strikes leave thousands without power"
+    },
+    {
+      "id": "eb8003544e95b4e66e0178cd7da720de0b137ccc",
+      "title": "Ukrainian athlete’s ban from Olympic skeleton event over helmet images is upheld",
+      "summary": "Vladyslav Heraskevych was removed from the men’s skeleton event for refusing to remove a helmet with portraits of Ukrainian athletes who’ve died in the war with Russia.",
+      "url": "https://www.washingtonpost.com/sports/olympics/2026/02/12/vladyslav-heraskevych-ukrainian-helmet-olympics-skeleton/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-12T19:02:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Ukrainian athletes who’ve died in the war with Russia"
     },
     {
       "id": "d53a039bb457e8a90179252d026509ec3397268e",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Kenya to confront Russia over 'unacceptable' use of its nationals"
-    },
-    {
-      "id": "801352efceb888d4e2c43de3984c8ce44e8018d5",
-      "title": "Russia Nears Capture of Key Ukrainian Towns After Year of Grinding Assaults",
-      "summary": "Russian troops have advanced at a glacial pace in recent months, but gains in southern and eastern Ukraine could give Moscow an edge in U.S.-mediated peace talks.",
-      "url": "https://www.nytimes.com/2026/02/10/world/europe/russia-ukraine-battlefield-huliaipole-pokrovsk.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-10T16:28:24+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russia Nears Capture of Key Ukrainian Towns"
-    },
-    {
-      "id": "93fc52415e1b485c0a58df7c5b0b4ada9a0e095a",
-      "title": "Macron urges Europe to start acting like world power",
-      "summary": "The French president warns of growing threats from China, Russia and now the US, saying Europe faces a \"wake-up call\".",
-      "url": "https://www.bbc.com/news/articles/ce8n1zdnpd3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-10T11:12:08+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "growing threats from China, Russia and now the US"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-13T10:02:20Z"
+  "last_updated": "2026-02-14T09:45:43Z"
 }

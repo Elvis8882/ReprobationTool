@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 47,
+  "sources": 48,
   "sentiment": {
     "positive": 0,
     "neutral": 40,
-    "negative": 7
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "2a6e820caed5e5e4fc87dcfeb3bd44c0f89025a1",
+      "title": "Orban rival accuses opponents of blackmail plot ahead of Hungary election",
+      "summary": "Peter Magyar suspects there are plans to release a sex tape of him from August 2024.",
+      "url": "https://www.bbc.com/news/articles/c8758xv4eqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-13T16:27:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Orban rival accuses opponents of blackmail plot ahead of Hungary election"
+    },
     {
       "id": "bbf2b673f12252812d4bdd5b5eb1396234be135d",
       "title": "Live: Rubio says he will have chance to meet Ukraine’s Zelensky at Munich security forum - France 24",
@@ -206,18 +217,8 @@
       "published_at": "2026-02-03T19:22:59+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "b88dbd25bbd43ec0f03cb0aba111e29546935253",
-      "title": "MEPs lobby EU foreign policy chief to put a stop to Faroe Islands whale cull",
-      "summary": "\"The European Union’s external action should reflect the values it upholds internally\", lawmakers said",
-      "url": "https://www.euractiv.com/news/five-meps-lobby-kallas-to-put-a-stop-to-faroe-islands-whale-hunts/",
-      "source": "Euractiv",
-      "published_at": "2026-02-03T17:49:14+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-13T10:02:20Z"
+  "last_updated": "2026-02-14T09:45:43Z"
 }

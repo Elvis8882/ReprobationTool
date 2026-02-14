@@ -1,16 +1,27 @@
 {
   "country": "UA",
-  "score": 78,
+  "score": 79,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 2,
-  "sources": 124,
+  "trend": 1,
+  "sources": 126,
   "sentiment": {
-    "positive": 45,
+    "positive": 47,
     "neutral": 29,
     "negative": 50
   },
   "latest_articles": [
+    {
+      "id": "e67ba432854839ea1b9a368097c834fe20bafe9d",
+      "title": "Macron urges Europe to step up on the global stage and stresses unity on major issues, particularly Ukraine.",
+      "summary": "",
+      "url": "https://www.nytimes.com/live/2026/02/13/world/munich-security-conference/macron-urges-europe-to-step-up-on-the-global-stage-and-stresses-unity-on-major-issues-particularly-ukraine",
+      "source": "NYT > World News",
+      "published_at": "2026-02-13T21:07:33+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "stresses unity on major issues, particularly Ukraine"
+    },
     {
       "id": "da4b9026b218e3fa0205f7521376ed08b47b87bd",
       "title": "Musicians to unite in support of Ukraine at Latvian National Opera / Article - LSM",
@@ -43,6 +54,17 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "pledged $35bn for Ukraine this year"
+    },
+    {
+      "id": "eb8003544e95b4e66e0178cd7da720de0b137ccc",
+      "title": "Ukrainian athlete’s ban from Olympic skeleton event over helmet images is upheld",
+      "summary": "Vladyslav Heraskevych was removed from the men’s skeleton event for refusing to remove a helmet with portraits of Ukrainian athletes who’ve died in the war with Russia.",
+      "url": "https://www.washingtonpost.com/sports/olympics/2026/02/12/vladyslav-heraskevych-ukrainian-helmet-olympics-skeleton/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-12T19:02:46+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukrainian athletes who’ve died in the war with Russia"
     },
     {
       "id": "25c506b1b7360c375f79c5a5246c739905d8c131",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Russian drone attack in Ukraine"
-    },
-    {
-      "id": "6c9862b3540329bd4e0a4e7be7ceeacb42d9df51",
-      "title": "Ukraine to open arms export centres across Europe",
-      "summary": "By exporting Ukrainian arms, the country will attract funds to purchase the weapons it needs on the front lines",
-      "url": "https://www.euractiv.com/news/ukraine-to-open-arms-export-centres-across-europe/",
-      "source": "Euractiv",
-      "published_at": "2026-02-09T15:24:37+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine to open arms export centres across Europe"
-    },
-    {
-      "id": "b4c2b7f673e5eb3ea3e2f76a79d97cb1b7789a00",
-      "title": "Rīga to donate EUR 100,000 to Ukraine's energy infrastructure / Article - LSM",
-      "summary": "Rīga to donate EUR 100,000 to Ukraine's energy infrastructure / Article&nbsp;&nbsp;LSMLSM launches charity campaign for Ukraine / Article&nbsp;&nbsp;LSMRīga to donate EUR 100,000 to Ukraine's energy infrastructure&nbsp;&…",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjItODVPdEM2bjZMWkFwak9hOG9MZHdETHFZUWw0dmpNYTUyNkdMaUZtcUhxcHU0MEVoY2NrYldkSXNrVFctZ2I3czRkUVRhbXBReHJad0ZpRWlYZUh5Xy1yYkM0QVRRRUc3TENiaWliLVpFTFJ0dWY3ZDJpUTBIMjVzTl9GbkVVNDBMVGxWdUZNc1lTY0MyNEx5WktURm5FU2FTS1FHWmNETW5sN01yZkZSbS1UQl9seU9pUDRJTQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-09T11:38:41+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Rīga to donate EUR 100,000 to Ukraine's energy infrastructure"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-13T10:02:20Z"
+  "last_updated": "2026-02-14T09:45:43Z"
 }

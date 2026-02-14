@@ -1,16 +1,27 @@
 {
   "country": "ES",
-  "score": 71,
+  "score": 97,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 72,
+  "trend": 26,
+  "sources": 74,
   "sentiment": {
-    "positive": 9,
+    "positive": 10,
     "neutral": 54,
-    "negative": 9
+    "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "dbbd954b1d5aa020b78fe6f9974d5c7319472459",
+      "title": "Bitter dispute between Trump and EU over Gaza’s future breaks out into the open",
+      "summary": "EU’s head of foreign policy claims ‘Board of Peace’ is vehicle for Trump with no accountability to Palestinians or UNA bitter dispute between Europe and the US over the future of Gaza has broken out into the open, with t…",
+      "url": "https://www.theguardian.com/us-news/2026/feb/13/dispute-future-of-gaza-trump-board-of-peace-eu-un",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-13T17:51:56+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Spain’s foreign minister accused Trump of trying to bypass UN"
+    },
     {
       "id": "3f14f6d1c3cc6047c9a81f3c0016897cdbeacea4",
       "title": "Food firms urge Europe not to ban calling non-meat products ‘sausages’",
@@ -31,6 +42,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "England to face Spain and Croatia"
+    },
+    {
+      "id": "8c1933e81dc64631b15a066d7aecaece8246e5a8",
+      "title": "Spain among eight countries absent from new German-Italian ‘competitiveness’ club",
+      "summary": "Socialist-led Spain is the EU's fourth largest economy but was not invited to a pre-summit coordination meeting",
+      "url": "https://www.euractiv.com/news/spain-among-eight-countries-absent-from-new-german-italian-competitiveness-club/",
+      "source": "Euractiv",
+      "published_at": "2026-02-12T16:44:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Spain ... was not invited to a pre-summit coordination meeting"
     },
     {
       "id": "fc445821c1c72eeff2de0709e85fbb3a2242bc30",
@@ -200,30 +222,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Centre-right wins in Spain’s northern Aragón"
-    },
-    {
-      "id": "8b504dfce725bfb98f82607b109061a6d4222bdb",
-      "title": "Aerial footage shows flooded cities as storms hit Spain",
-      "summary": "Storms Marta and Leonardo have caused widespread flooding in Spain as thousands have been displaced.",
-      "url": "https://www.bbc.com/news/videos/c93wpxy1qk6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-08T20:35:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "storms hit Spain"
-    },
-    {
-      "id": "85926ad0a4bb73fc2ae7e047e3d5c01aa5715186",
-      "title": "UAE warns citizens in Spain as storm Leonardo triggers floods and evacuations",
-      "summary": "The UAE Embassy in Madrid has issued a critical safety advisory for Emirati citizens in Spain due to Storm Leonardo, which has caused severe flooding and evacuations. Citizens are urged to remain vigilant, avoid affected…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-warns-citizens-in-spain-as-storm-leonardo-triggers-floods-and-evacuations/articleshow/128027075.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-02-07T09:11:04+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "citizens in Spain as storm Leonardo triggers floods"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-13T10:02:20Z"
+  "last_updated": "2026-02-14T09:45:43Z"
 }
