@@ -1,16 +1,82 @@
 {
   "country": "FR",
-  "score": 98,
+  "score": 99,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 118,
+  "trend": 1,
+  "sources": 128,
   "sentiment": {
-    "positive": 25,
-    "neutral": 77,
+    "positive": 26,
+    "neutral": 86,
     "negative": 16
   },
   "latest_articles": [
+    {
+      "id": "e4e288a71c0192d2317cf1e74ad80684520cc173",
+      "title": "The NFL just wrapped a record-breaking season. Here’s why next year’s going to be even bigger",
+      "summary": "In the days leading up to the Super Bowl, the NFL announced that Paris, Melbourne and Rio de Janeiro will host regular-season games for the first time.",
+      "url": "https://www.cnbc.com/2026/02/15/nfl-just-had-record-breaking-season-next-year-will-be-bigger.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-15T08:24:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Paris...will host regular-season games for the first time"
+    },
+    {
+      "id": "91105da404642194b5fed565ab74309fc92e5716",
+      "title": "France's Emmanuel Macron To Meet PM Modi On February 17 During India Visit",
+      "summary": "This will mark Macron's fourth visit to India at the invitation of PM Modi.",
+      "url": "https://www.ndtv.com/world-news/frances-emmanuel-macron-to-meet-pm-modi-on-february-17-during-india-visit-11005096#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-15T04:05:56+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "France's Emmanuel Macron To Meet PM Modi"
+    },
+    {
+      "id": "a795e14d6aa18673ea7bb80aae2c6e41d032f051",
+      "title": "French Prosecutors to Investigate Diplomat as Part of Epstein Probe",
+      "summary": "The Paris prosecutor’s office said it was looking into three new complaints with links to the files and revisiting an earlier investigation into an Epstein associate who died in 2022.",
+      "url": "https://www.nytimes.com/2026/02/14/world/europe/france-epstein-files.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-15T00:29:37+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "French Prosecutors to Investigate Diplomat as Part of Epstein Probe"
+    },
+    {
+      "id": "beff706bb756244b2b563dbcb32cca613951458e",
+      "title": "French prosecutors to set up special team to review Epstein files",
+      "summary": "Magistrates will analyse evidence that could implicate French nationals and re-examine case of Jean-Luc BrunelThe Paris prosecutor’s office on Saturday announced it was setting up a special team of magistrates to analyse…",
+      "url": "https://www.theguardian.com/world/2026/feb/14/french-prosecutors-to-set-up-special-team-to-review-epstein-files",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-14T21:27:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "French prosecutors to set up special team to review Epstein files"
+    },
+    {
+      "id": "6fde37164dc5a853bdf844880a12cc6349fb1568",
+      "title": "Four new astronauts arrive via SpaceX rocket at International Space Station",
+      "summary": "ISS now fully crewed after a medical issue forced the evacuation of four astronauts in JanuaryThe International Space Station (ISS) returned to full strength with Saturday’s arrival of four new astronauts to replace coll…",
+      "url": "https://www.theguardian.com/science/2026/feb/14/international-space-station-full-crew",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-14T20:43:13+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "French and Russian astronauts"
+    },
+    {
+      "id": "3d2587152741ff20b558d14d647aca2f63655e65",
+      "title": "Nobody in Europe arguing to replace US nuclear umbrella, NATO chief says",
+      "summary": "Germany and France are currently discussing European nuclear deterrence",
+      "url": "https://www.euractiv.com/news/nobody-in-europe-arguing-to-replace-us-nuclear-umbrella-nato-chief-says/",
+      "source": "Euractiv",
+      "published_at": "2026-02-14T14:10:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Germany and France are currently discussing European nuclear deterrence"
+    },
     {
       "id": "b7fd3e465b168b8e5edf676a5cabf1f50e259e7f",
       "title": "Gisèle Pelicot tells BBC: I felt crushed by horror - but I don't feel anger",
@@ -34,6 +100,28 @@
       "evidence": "France probes baby formula producers over contamination recalls"
     },
     {
+      "id": "3f4c39e25ad553a991388645b0c6ab4d460eeb74",
+      "title": "Germany’s leader says his country is in discussions with France on a European nuclear deterrent.",
+      "summary": "",
+      "url": "https://www.nytimes.com/live/2026/02/13/world/munich-security-conference/germanys-leader-says-his-country-is-in-discussions-with-france-on-a-european-nuclear-deterrent",
+      "source": "NYT > World News",
+      "published_at": "2026-02-13T21:08:39+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "discussions with France on a European nuclear deterrent"
+    },
+    {
+      "id": "6828da33f2ae41f1b695b658f1c6f0baaaa3ff5d",
+      "title": "Two Britons among three dead after avalanche in French Alps",
+      "summary": "A skier from France is also killed with manslaughter investigation to be carried out by mountain rescue policeTwo Britons are among three skiers to have been killed in an avalanche in the French Alps.The pair were part o…",
+      "url": "https://www.theguardian.com/world/2026/feb/13/two-britons-among-three-dead-after-avalanche-in-french-alps",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-13T19:55:54+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "avalanche in the French Alps"
+    },
+    {
       "id": "ea1652c132705063245a4854b2c829a49c772f9a",
       "title": "US ‘not powerful enough to go it alone’, Merz tells Munich conference",
       "summary": "German chancellor rebuts idea of American unilateralism and says ‘democracies have partners and allies’The US acting alone has reached the limits of its power and may already have lost its role as global leader, Friedric…",
@@ -54,6 +142,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "France’s largest-ever mass-rape trial"
+    },
+    {
+      "id": "2fa80baaa8c2e0217f1bdf6157517bb4b6397475",
+      "title": "Rising star Mboko sets up Qatar Open final against Muchova - France 24",
+      "summary": "Rising star Mboko sets up Qatar Open final against Muchova&nbsp;&nbsp;France 24Iga Swiatek and Elena Rybakina beaten in Qatar Open quarter-finals&nbsp;&nbsp;BBCInto second WTA 1000 final, Victoria Mboko cites injury-free…",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY3BQWGF3T01PWTJJVjNEbGt0R1ROdW01cndyNEVsTnlUYmx5aU1OcWt6NzF0dUNDdTNfYTJEaHM5QkhiVnpZY3V0T293bVJjM25hVE5ScGoxM0F5SFVXQ2MxczdqNnhHekNoU0Q5SWxPbzZyUUllX25ORHpLYkFfYUUzNFBMQUJkMjRDT1FFa25sczROcHFHWmJXS3M4NlBqV3lkZlVRakE?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-13T19:21:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "France 24"
     },
     {
       "id": "3f14f6d1c3cc6047c9a81f3c0016897cdbeacea4",
@@ -121,113 +220,17 @@
       "evidence": "Estonia to Renew Strategic Defence Cooperation with France"
     },
     {
-      "id": "fc445821c1c72eeff2de0709e85fbb3a2242bc30",
-      "title": "Belgian police raid EU Commission in real estate sale probe",
-      "summary": "The EU executive said it was \"aware of an ongoing investigation\" into the sale of 23 commission buildings worth some €900 million",
-      "url": "https://www.euractiv.com/news/belgian-police-raid-eu-commission-in-real-estate-sale-probe/",
-      "source": "Euractiv",
-      "published_at": "2026-02-12T13:16:33+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "cabd3021dd84d204a72f6d7a9ff5973205cf4bef",
-      "title": "World will not end if FCAS fighter jet project does, German defence minister says",
-      "summary": "A long-standing dispute between France and Germany is fuelling doubts about the project's future",
-      "url": "https://www.euractiv.com/news/world-will-not-end-if-fcas-fighter-jet-project-does-german-defence-minister-says/",
-      "source": "Euractiv",
-      "published_at": "2026-02-12T12:53:15+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "dispute between France and Germany is fuelling doubts"
-    },
-    {
-      "id": "98502626f4c9c5e8e4154221dd262e005f4afb5b",
-      "title": "France, Italy compete for Germany’s favour at economic survival summit",
-      "summary": "Macron and Merz strain to project unity at Belgian castle, despite major rifts",
-      "url": "https://www.euractiv.com/news/france-italy-compete-for-germanys-favour-at-economic-survival-summit/",
-      "source": "Euractiv",
-      "published_at": "2026-02-12T12:43:11+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "France, Italy compete for Germany’s favour"
-    },
-    {
-      "id": "b6ac9dd42458ca49e94575fa481bca21df09bdc8",
-      "title": "Scramble to rescue European industry pits Germany against France, again",
-      "summary": "Leaders are still deeply split over how much regulation to slash, and where to spend subsidies",
-      "url": "https://www.euractiv.com/news/scramble-to-rescue-european-industry-pits-germany-against-france-again/",
-      "source": "Euractiv",
-      "published_at": "2026-02-11T20:27:48+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "pits Germany against France, again Leaders are still deeply split"
-    },
-    {
-      "id": "74ef5dcc9191ff34674319f2a4faec64cabdba51",
-      "title": "Von der Leyen defends EU carbon pricing at chemical industry summit",
-      "summary": "European Commission pledges to ensure revenue is channelled to help heavy industry decarbonise",
-      "url": "https://www.euractiv.com/news/von-der-leyen-defends-eu-carbon-pricing-at-chemical-industry-summit/",
-      "source": "Euractiv",
-      "published_at": "2026-02-11T12:59:58+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "3dbb840170c93a4f587bd50cd64f27e2469e8e0b",
-      "title": "Cut consumption of imported meat, French diet guidelines say",
-      "summary": "Livestock lobbying looms large in tense political climate",
-      "url": "https://www.euractiv.com/news/cut-consumption-of-imported-meat-french-diet-guidelines-say/",
-      "source": "Euractiv",
-      "published_at": "2026-02-11T12:28:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "French diet guidelines say"
-    },
-    {
-      "id": "329ec14a29d0a32d5de5578e51f4b06443ea58bc",
-      "title": "Europe's answer to OpenAI announces billion-dollar AI infrastructure push in Sweden",
-      "summary": "French AI startup Mistral said it will invest 1.2 billion euros ($1.43 billion) into digital infrastructure projects in Sweden.",
-      "url": "https://www.cnbc.com/2026/02/11/mistral-ai-infrastructure-sweden.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-02-11T11:29:14+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "French AI startup Mistral said it will invest 1.2 billion euros"
-    },
-    {
-      "id": "29e03c5154359e599a37a0b6b2372852b32047d9",
-      "title": "French software maker Dassault Systèmes plunges 18%, on track for worst day ever",
-      "summary": "Shares of the software giant plummeted after the company posted its fourth-quarter earnings.",
-      "url": "https://www.cnbc.com/2026/02/11/dassault-systmes-share-price-earnings-software-sell-off.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-02-11T09:38:44+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "French software maker Dassault Systèmes plunges"
-    },
-    {
-      "id": "5a909adf4102e2116c89f39ced354dfb91cfd6ae",
-      "title": "Von der Leyen calls for crackdown on ‘unnecessary’ national laws",
-      "summary": "“It is time for a deep regulatory housecleaning – at all levels,” the European Commission chief said as she called for an end to \"gold-plating\" of EU laws",
-      "url": "https://www.euractiv.com/news/von-der-leyen-calls-for-crackdown-on-unnecessary-national-laws/",
-      "source": "Euractiv",
-      "published_at": "2026-02-11T09:09:46+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "376ae9dd336e069a0f3007f6da27f34b701edd15",
-      "title": "France’s 2027 presidential election race is already in full swing - politico.eu",
-      "summary": "France’s 2027 presidential election race is already in full swing&nbsp;&nbsp;politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT1hpUzBxLUdZWDFSb3NZS3NGOFlEZ25ta2NVcG15bTdQYVZMcjJRcW9PbnE3ZFBoUEgtdzMxaGItTzh1dHBDaHIwSE1pcXRIN3E4a25xdnBGUm95LTN3aTA5ZTFOUUpKbXpEeFVOOUx5azgxLVB2d01NcUlQWHU3NTF2YW45SGFGalNZQ0NvUElONUk?oc=5",
+      "id": "e35019a4e3736b03891f5029e56166552ee52f3e",
+      "title": "Switzerland Sends Message With Dominant Win Over France - Sports Illustrated",
+      "summary": "Switzerland Sends Message With Dominant Win Over France&nbsp;&nbsp;Sports IllustratedMeier scores twice, Switzerland defeats France in Group A Olympic opener&nbsp;&nbsp;NHL.com2026 Olympic Men’s Hockey: Everything you ne…",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2RMRmdHWUFZc0hqejIyakJ3MjhnU2k4NlZ6U0ZGWm5qSVlMZHZLdzdtaXJ6Q21Qazk5RTJ2eDZjZFBLc2dhSS0xbDlWTEMtM3g2dEdOMm1pX19SZmI2dDB5bVRqd3VfZ3hmYXU1Z21XR1ZiZFBUNFlYRk9aUU0wZ0lGN2RyLWoxV19tRg?oc=5",
       "source": "Top stories - Google News",
-      "published_at": "2026-02-11T03:01:00+00:00",
+      "published_at": "2026-02-12T13:47:26+00:00",
       "sentiment": "neutral",
       "confidence": 0.3,
-      "evidence": "France’s 2027 presidential election race"
+      "evidence": "Dominant Win Over France"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-14T09:45:43Z"
+  "last_updated": "2026-02-15T09:47:35Z"
 }

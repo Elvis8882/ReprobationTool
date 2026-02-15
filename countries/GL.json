@@ -1,16 +1,27 @@
 {
   "country": "GL",
-  "score": 68,
+  "score": 66,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 26,
+  "trend": -2,
+  "sources": 27,
   "sentiment": {
     "positive": 4,
     "neutral": 17,
-    "negative": 5
+    "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "93b12e62b128d6a389ed89ca978f24507913e767",
+      "title": "Rubio says U.S., Europe ‘belong together,’ despite rifts over Trump policies",
+      "summary": "While some saw the remarks as reassuring, key European leaders renewed calls for more independence from the U.S. amid tensions over issues like Greenland and Ukraine.",
+      "url": "https://www.washingtonpost.com/politics/2026/02/14/munich-security-conference-rubio-europe/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-14T17:47:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "tensions over issues like Greenland"
+    },
     {
       "id": "dbd732da031f430c8d0d42a072add9ce713e40c6",
       "title": "Trump’s Greenland Threats Rattle the Faroe Islands",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "no evidence foreign adversaries are targeting Greenland"
-    },
-    {
-      "id": "441a9bee5d42347fa5e39d65ea99b47d873cf094",
-      "title": "How His Duel With Trump Boosted Emmanuel Macron, France’s Embattled President",
-      "summary": "Dismissed as a lame duck, Emmanuel Macron has clawed back some influence after his defense of Greenland and Denmark. Will quieter domestic politics allow him to secure his legacy?",
-      "url": "https://www.nytimes.com/2026/01/29/world/europe/macron-france-trump-sunglasses-boost.html",
-      "source": "NYT > World News",
-      "published_at": "2026-01-29T05:01:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "defense of Greenland"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-14T09:45:43Z"
+  "last_updated": "2026-02-15T09:47:35Z"
 }

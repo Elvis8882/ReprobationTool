@@ -1,16 +1,27 @@
 {
   "country": "LB",
-  "score": 100,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": null,
-  "sources": 1,
+  "score": 55,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
+  "trend": -45,
+  "sources": 2,
   "sentiment": {
     "positive": 0,
     "neutral": 1,
-    "negative": 0
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "59c5f3f1e65ba191205ac7e8d7b3aa5a5e7cb39c",
+      "title": "Life in Beirut Beneath the Drones",
+      "summary": "More than a year into a cease-fire, the mechanical whir of Israeli drones above the Lebanese capital is a reminder that, in many ways, the war never really ended.",
+      "url": "https://www.nytimes.com/2026/02/14/world/middleeast/beirut-drones-sound-israel-airstrikes.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-14T10:00:45+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "drones above the Lebanese capital"
+    },
     {
       "id": "8d3854e4292d03c14c7d9b6a61d5f284b3bd67da",
       "title": "5 Dead After Building Collapses In Lebanon's Tripoli: Report",
@@ -24,5 +35,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-14T09:45:43Z"
+  "last_updated": "2026-02-15T09:47:35Z"
 }

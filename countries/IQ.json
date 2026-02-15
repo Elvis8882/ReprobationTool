@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 5,
+  "sources": 6,
   "sentiment": {
     "positive": 1,
-    "neutral": 3,
+    "neutral": 4,
     "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "b0602f2c7df755d0b48a01051f5a1d3959e30ad6",
+      "title": "US launches airstrikes on dozens of Islamic State targets in Syria",
+      "summary": "Militant group’s infrastructure and weapons storage facilities were hit, as Washington praised Damascus for fresh coalition roleThe US military conducted 10 strikes on more than 30 Islamic State targets in Syria between…",
+      "url": "https://www.theguardian.com/world/2026/feb/14/us-airstrikes-syria-islamic-state-targets",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-14T15:50:42+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "campaign against the extremist group in Iraq"
+    },
     {
       "id": "c1f9b05281c0cbe688c896bd72c71e2f419ed61d",
       "title": "Transfer of ISIS suspects nears end as Trump pursues Syria exit",
@@ -68,5 +79,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-14T09:45:43Z"
+  "last_updated": "2026-02-15T09:47:35Z"
 }

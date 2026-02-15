@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 129,
+  "sources": 131,
   "sentiment": {
     "positive": 7,
-    "neutral": 114,
+    "neutral": 116,
     "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "d8cd8f2648c9f092f25bc2cc31e05ff14c46528e",
+      "title": "In Milan, Olympics fever arrives fashionably late",
+      "summary": "The geographic spread of Italy’s Olympics yielded a tale of two winter games – exuberance in the Alps and and a mellow vibe in Milan.",
+      "url": "https://www.washingtonpost.com/sports/olympics/2026/02/13/italy-milan-two-winter-olympics/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-13T10:07:34+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Italy’s Olympics yielded a tale of two winter games"
+    },
     {
       "id": "958b106375ff9abea708951e7555f3e3c715284e",
       "title": "Milan Has an Affordable Housing Crisis. Can the Olympic Village Help?",
@@ -21,6 +32,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Milan Has an Affordable Housing Crisis"
+    },
+    {
+      "id": "30114c670e788817bd15fa24caada951b0d2a313",
+      "title": "‘A great wee place’: the small Scottish factory crafting Olympic curling stones",
+      "summary": "All stones in Cortina are made from granite found on tiny island in Firth of Clyde and crafted in East Ayrshire“It takes 60m years and about six hours to make a curling stone,” shouts Ricky English above the whine of the…",
+      "url": "https://www.theguardian.com/sport/2026/feb/13/a-great-wee-place-the-small-scottish-factory-crafting-olympic-curling-stones",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-13T09:00:38+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "shipped to northern Italy"
     },
     {
       "id": "a1041b0327c836cafc10dfea1dc306e812920123",
@@ -204,29 +226,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Journalists are incensed."
-    },
-    {
-      "id": "a9cb13d2dc88c473b547c9f0b127f562fd699034",
-      "title": "An Olympian Quest in Milan: Glimpsing a K-Pop Superstar",
-      "summary": "Celebrities abound at the Winter Games. For fans, seeing one up close can be its own grueling competition.",
-      "url": "https://www.nytimes.com/2026/02/10/world/europe/sunghoon-milan-winter-olympics.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-10T19:18:39+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "An Olympian Quest in Milan"
-    },
-    {
-      "id": "24cd014bf5eb8ce642c25a00f51d99d5d63014c9",
-      "title": "EU parliament adopts twin texts hardening migration policy",
-      "summary": "The EU's political centre of gravity has shifted firmly right in recent years, and a decline in irregular entries has not eased the political pressure to act on the hot-button issue",
-      "url": "https://www.euractiv.com/news/eu-parliament-adopts-twin-texts-hardening-migration-policy/",
-      "source": "Euractiv",
-      "published_at": "2026-02-10T16:17:40+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-14T09:45:43Z"
+  "last_updated": "2026-02-15T09:47:35Z"
 }

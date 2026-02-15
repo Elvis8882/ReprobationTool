@@ -1,16 +1,104 @@
 {
   "country": "RU",
-  "score": 2,
+  "score": 1,
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": -1,
-  "sources": 169,
+  "sources": 178,
   "sentiment": {
     "positive": 9,
-    "neutral": 33,
-    "negative": 127
+    "neutral": 34,
+    "negative": 135
   },
   "latest_articles": [
+    {
+      "id": "9f94077f38f327249f82772da2efa9b427758aeb",
+      "title": "Cooper says UK and allies ‘exposed barbaric Kremlin plot’ over Navalny’s death – UK politics live",
+      "summary": "Foreign secretary interviewed on the morning shows after UK and other countries accused Kremlin over Putin critic’s deathPatrick Wintour is diplomatic editor for the GuardianThe intelligence agencies claimed laboratory t…",
+      "url": "https://www.theguardian.com/politics/live/2026/feb/15/yvette-cooper-navalny-palestine-action-starmer-labour-uk-politics-live-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-15T09:17:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "barbaric Kremlin plot’ over Navalny’s death"
+    },
+    {
+      "id": "c0ddfdbd972097d8eed7149e84c13025370ad4b9",
+      "title": "Zelensky Calls Putin \"Slave to War,\" Says All Ukrainian Power Plants Damaged",
+      "summary": "Russia, Ukraine will hold US-brokered talks next week",
+      "url": "https://www.ndtv.com/world-news/ukraines-president-volodymyr-zelensky-calls-russias-vladimir-putin-slave-to-war-says-all-ukrainian-power-plants-damaged-in-attacks-11006252#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-15T08:17:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Putin \"Slave to War,\" Says All Ukrainian Power Plants Damaged"
+    },
+    {
+      "id": "308fa767a55d26187bb2a84ecb9271dc353f6ec3",
+      "title": "How A Soviet-Era Heating System Is Helping Russia Freeze Ukraine",
+      "summary": "Kyiv has been braving the coldest winter of the war so far due to Russia's relentless strikes.",
+      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-how-a-soviet-era-heating-system-is-helping-freeze-11006099#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-15T07:51:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Helping Russia Freeze Ukraine...due to Russia's relentless strikes"
+    },
+    {
+      "id": "11242d1a0168237b7b5f5dfe4c89ae55a3bc1387",
+      "title": "Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says",
+      "summary": "There is no innocent explanation for the toxin being found in samples taken from Navalny's body, Foreign Office says.",
+      "url": "https://www.bbc.com/news/articles/cwyk4lz4e3eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-15T02:04:02+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Russia killed opposition leader Alexei Navalny using dart frog toxin"
+    },
+    {
+      "id": "f82a9ae9bac40fc3c4d704e2f91b121c59128a78",
+      "title": "Navalny Was Poisoned With Frog Toxin, European Governments Say",
+      "summary": "The toxin was found in the body of the Russian dissident Aleksei A. Navalny, who died in prison two years ago, five governments said, challenging Russia’s official account.",
+      "url": "https://www.nytimes.com/2026/02/14/world/europe/russia-navalny-poison.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-14T22:14:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Navalny Was Poisoned With Frog Toxin, European Governments Say"
+    },
+    {
+      "id": "6fde37164dc5a853bdf844880a12cc6349fb1568",
+      "title": "Four new astronauts arrive via SpaceX rocket at International Space Station",
+      "summary": "ISS now fully crewed after a medical issue forced the evacuation of four astronauts in JanuaryThe International Space Station (ISS) returned to full strength with Saturday’s arrival of four new astronauts to replace coll…",
+      "url": "https://www.theguardian.com/science/2026/feb/14/international-space-station-full-crew",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-14T20:43:13+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "French and Russian astronauts"
+    },
+    {
+      "id": "cd50e5ead21e09aeade6df0be4ec9e6004fe6320",
+      "title": "Ukraine wants 20-year US security guarantee to sign peace deal",
+      "summary": "Speaking in Munich, Volodymyr Zelenskyy also called for a clear date for his country to be allowed to join the EUUkraine wants security guarantees for a minimum of 20 years from the US before it can sign a peace deal wit…",
+      "url": "https://www.theguardian.com/world/2026/feb/14/ukraine-wants-20-year-us-security-guarantee-to-sign-peace-deal",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-14T18:44:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "talks with Russia"
+    },
+    {
+      "id": "ccc60d185a5201dda28a73c7ba9a90a214ac079b",
+      "title": "‘Highly likely’ that rare poison killed Putin nemesis Navalny, Europeans say",
+      "summary": "Toxin found in poison dart frogs probably killed Alexei Navalny in a Russian prison, five countries announced on the two-year anniversary of his death.",
+      "url": "https://www.washingtonpost.com/world/2026/02/14/alexei-navalny-russia-death-poison-frog/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-14T17:54:08+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "killed Putin nemesis Navalny... in a Russian prison"
+    },
     {
       "id": "7d1f7885f2e973af7c6925532d2e29c1fba6719c",
       "title": "INTERVIEW: Estonian intelligence says Russia could have recruitment problem",
@@ -32,6 +120,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Russian strikes leave thousands without power"
+    },
+    {
+      "id": "e817e585d71ba77c3746835307d694ccf32c3bb9",
+      "title": "‘Everything is frozen’: bitter winter drags on for Kyiv residents as Russia wipes out power",
+      "summary": "Kremlin’s repeated targeting of infrastructure has left thousands without heating, reliant on shelters and desperate home hacksNatalya Pavlovna watched her two-year-old son, Danylo, play with Lego. “We are taking a break…",
+      "url": "https://www.theguardian.com/world/2026/feb/13/everything-is-frozen-bitter-winter-drags-on-for-kyiv-residents-as-russia-wipes-out-power",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-13T05:00:36+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Russia is trying to break us. It’s deliberate genocide"
     },
     {
       "id": "eb8003544e95b4e66e0178cd7da720de0b137ccc",
@@ -131,107 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "As Russia displays its military might in the Arctic region"
-    },
-    {
-      "id": "5ba2a24b1c9f85b3576d0ae27c6464c2bd79ed26",
-      "title": "EU sanctions on Russia won’t trigger quick end to Ukraine war, says Latvian defence minister",
-      "summary": "“It is taking longer than I expected,” Latvia's Andris Sprūds told Euractiv",
-      "url": "https://www.euractiv.com/news/eu-sanctions-on-russia-wont-trigger-quick-end-to-ukraine-war-says-latvian-defence-minister/",
-      "source": "Euractiv",
-      "published_at": "2026-02-11T17:23:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "EU sanctions on Russia won’t trigger quick end to Ukraine war"
-    },
-    {
-      "id": "0c65cbe665a9f1516c72251ad444e9354e4cc846",
-      "title": "Estonia approves agreement to establish administrative committee for special tribunal - The Baltic Times",
-      "summary": "Estonia approves agreement to establish administrative committee for special tribunal&nbsp;&nbsp;The Baltic TimesUkraine's Foreign Ministry welcomes Estonia's accession to the committee of the Special Tribunal on Russia'…",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcWZ1UmF5bWRSYUR0YUNnYVdKb19KU2QzM2hGcXhzRDhTQUVwMUZkSU1uY2JYX1lBdHJfczJVRVMxZXFmYV9uZ19fZnQ1cUZqQmF6QkJiUE9rX0NfVy04Ukpyc1d6QXUyZG5yTnJmYWJnNExfY01WYm55UmJ5Wk9zejVvdGdiTUl6Qk9hTlN6ZnN4d3o1cmdIQjZnMEhPZHdIR011NGYwZ3BBcnZQOGROTDJYZDI?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-11T14:32:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Special Tribunal on Russia's aggression"
-    },
-    {
-      "id": "98dca191515c9acb6c86255c86f01c5a652ef557",
-      "title": "Russian strikes on Ukraine kill four amid reports Zelenskyy considering elections and peace deal referendum – Europe live",
-      "summary": "Russian attacks show no sign of slowing as fourth anniversary of full-scale invasion approachesin BergenMeanwhile, Norway’s army chief has said Oslo cannot exclude the possibility of a future Russian invasion of the coun…",
-      "url": "https://www.theguardian.com/world/live/2026/feb/11/europe-live-latest-news-updates-eu-ukraine-russia",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-11T09:44:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Russian strikes on Ukraine kill four"
-    },
-    {
-      "id": "87cbe17f3805e98d88d9987dcc7290b9d2d6b30d",
-      "title": "Russian strikes near Kharkiv kill four, including children, Ukraine says",
-      "summary": "The bodies of three toddlers and a 34-year-old man were pulled from the wreckage of a house in north-eastern Ukraine.",
-      "url": "https://www.bbc.com/news/articles/crm820dp0yro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-11T07:25:47+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Russian strikes near Kharkiv kill four, including children"
-    },
-    {
-      "id": "2c88d4574553963878da45a82623bce963bdd9a7",
-      "title": "UK doubles troops in Norway to counter Russian 'threat to Arctic'",
-      "summary": "Defence Secretary John Healey says British personnel in Norway will rise from 1,000 to 2,000 over three years.",
-      "url": "https://www.bbc.com/news/articles/ce94jm1pp5xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-11T03:39:02+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russian 'threat to Arctic'"
-    },
-    {
-      "id": "553695a3bed30ddc1cede212563fd129e6e9ca18",
-      "title": "Russia Further Restricts Telegram, Escalating Internet Clampdown",
-      "summary": "The throttling of the communication app, used by more than 100 million Russians, endangers what remains of the country’s free internet.",
-      "url": "https://www.nytimes.com/2026/02/10/world/europe/telegram-throttled-internet-russia.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-10T23:04:39+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russia Further Restricts Telegram, Escalating Internet Clampdown"
-    },
-    {
-      "id": "05abdd4e6b67c5dd49479ccd630812b2d4b77b5e",
-      "title": "Norway defence chief says Russia could invade to protect nuclear assets",
-      "summary": "Exclusive: Eirik Kristoffersen, who served in Afghanistan, rejects Trump’s claim that Nato troops stayed off frontlinesNorway’s army chief has said Oslo cannot exclude the possibility of a future Russian invasion of the…",
-      "url": "https://www.theguardian.com/world/2026/feb/10/norway-defence-chief-russia-nuclear-assets",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-10T19:07:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russia could invade to protect nuclear assets"
-    },
-    {
-      "id": "ccb2af1ab224e091a36a4e8287741a06c79d0efa",
-      "title": "How Ukrainians Are Coping Without Heat",
-      "summary": "Our Kyiv bureau chief, Andrew E. Kramer, describes how Kyiv residents are coping with Russia’s unrelenting assaults on their country’s heating and electrical systems and finding ways to stay warm in a cruel winter.",
-      "url": "https://www.nytimes.com/video/world/europe/100000010689521/how-ukrainians-are-coping-without-heat.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-10T18:11:29+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Russia’s unrelenting assaults on their country’s heating"
-    },
-    {
-      "id": "daaad22d9125ec82218d78670d7853a4b33e6de6",
-      "title": "Kenya to confront Russia over 'unacceptable' use of its nationals in combat",
-      "summary": "Nairobi says it has shut down illegal recruiters and will urge Moscow to sign a deal banning conscription.",
-      "url": "https://www.bbc.com/news/articles/c0k1jzvrykro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-10T17:39:33+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Kenya to confront Russia over 'unacceptable' use of its nationals"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-14T09:45:43Z"
+  "last_updated": "2026-02-15T09:47:35Z"
 }

@@ -1,16 +1,71 @@
 {
   "country": "UA",
-  "score": 79,
+  "score": 78,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 126,
+  "trend": -1,
+  "sources": 134,
   "sentiment": {
-    "positive": 47,
-    "neutral": 29,
-    "negative": 50
+    "positive": 51,
+    "neutral": 30,
+    "negative": 53
   },
   "latest_articles": [
+    {
+      "id": "c0ddfdbd972097d8eed7149e84c13025370ad4b9",
+      "title": "Zelensky Calls Putin \"Slave to War,\" Says All Ukrainian Power Plants Damaged",
+      "summary": "Russia, Ukraine will hold US-brokered talks next week",
+      "url": "https://www.ndtv.com/world-news/ukraines-president-volodymyr-zelensky-calls-russias-vladimir-putin-slave-to-war-says-all-ukrainian-power-plants-damaged-in-attacks-11006252#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-15T08:17:37+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.7,
+      "evidence": "Power Plants Damaged... will hold US-brokered talks"
+    },
+    {
+      "id": "308fa767a55d26187bb2a84ecb9271dc353f6ec3",
+      "title": "How A Soviet-Era Heating System Is Helping Russia Freeze Ukraine",
+      "summary": "Kyiv has been braving the coldest winter of the war so far due to Russia's relentless strikes.",
+      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-how-a-soviet-era-heating-system-is-helping-freeze-11006099#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-15T07:51:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Helping Russia Freeze Ukraine...coldest winter of the war"
+    },
+    {
+      "id": "cd50e5ead21e09aeade6df0be4ec9e6004fe6320",
+      "title": "Ukraine wants 20-year US security guarantee to sign peace deal",
+      "summary": "Speaking in Munich, Volodymyr Zelenskyy also called for a clear date for his country to be allowed to join the EUUkraine wants security guarantees for a minimum of 20 years from the US before it can sign a peace deal wit…",
+      "url": "https://www.theguardian.com/world/2026/feb/14/ukraine-wants-20-year-us-security-guarantee-to-sign-peace-deal",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-14T18:44:40+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukraine ... called for a clear date for his country to be allowed to join the EU"
+    },
+    {
+      "id": "93b12e62b128d6a389ed89ca978f24507913e767",
+      "title": "Rubio says U.S., Europe ‘belong together,’ despite rifts over Trump policies",
+      "summary": "While some saw the remarks as reassuring, key European leaders renewed calls for more independence from the U.S. amid tensions over issues like Greenland and Ukraine.",
+      "url": "https://www.washingtonpost.com/politics/2026/02/14/munich-security-conference-rubio-europe/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-14T17:47:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "tensions over issues like ... Ukraine"
+    },
+    {
+      "id": "b491b986419d1f5e801d507f8504f220d6fbe632",
+      "title": "Cookies To Newspapers: Ukrainian Drones Turn Delivery Agents For Soldiers",
+      "summary": "Most deliveries are carried out by heavy Ukrainian-made Vampire drones.",
+      "url": "https://www.ndtv.com/world-news/cookies-to-newspapers-ukrainian-drones-turn-delivery-agents-for-soldiers-11002172#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-14T06:08:19+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukrainian Drones Turn Delivery Agents For Soldiers"
+    },
     {
       "id": "e67ba432854839ea1b9a368097c834fe20bafe9d",
       "title": "Macron urges Europe to step up on the global stage and stresses unity on major issues, particularly Ukraine.",
@@ -21,6 +76,17 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "stresses unity on major issues, particularly Ukraine"
+    },
+    {
+      "id": "5ce0a11b8d8d188bc4d98658e5d40c98a441a95d",
+      "title": "Ukraine Says U.S. Is Increasing Pressure for a Deal as the Midterms Loom",
+      "summary": "It is unclear what the Trump administration is prepared to do if it does not get the concessions it wants from Kyiv on issues like territory and elections.",
+      "url": "https://www.nytimes.com/2026/02/13/world/europe/russia-ukraine-peace-talks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-13T13:46:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "concessions it wants from Kyiv on issues like territory and elections"
     },
     {
       "id": "da4b9026b218e3fa0205f7521376ed08b47b87bd",
@@ -43,6 +109,17 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Ukraine’s Zelensky at Munich security forum"
+    },
+    {
+      "id": "e817e585d71ba77c3746835307d694ccf32c3bb9",
+      "title": "‘Everything is frozen’: bitter winter drags on for Kyiv residents as Russia wipes out power",
+      "summary": "Kremlin’s repeated targeting of infrastructure has left thousands without heating, reliant on shelters and desperate home hacksNatalya Pavlovna watched her two-year-old son, Danylo, play with Lego. “We are taking a break…",
+      "url": "https://www.theguardian.com/world/2026/feb/13/everything-is-frozen-bitter-winter-drags-on-for-kyiv-residents-as-russia-wipes-out-power",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-13T05:00:36+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "bitter winter drags on for Kyiv residents as Russia wipes out power"
     },
     {
       "id": "582c42164fe3ecc1ecbab207c79f2dd0ef6cf773",
@@ -111,6 +188,17 @@
       "evidence": "spend more on Ukraine"
     },
     {
+      "id": "cde7dc98232635ade8be6e4215e2331f2648a11f",
+      "title": "Ukraine will hold elections only when security situation allows",
+      "summary": "Citing unnamed sources, the Financial Times had earlier reported Ukraine was mulling the possibility of holding a presidential election within the next three months under US pressure",
+      "url": "https://www.euractiv.com/news/ukraine-will-hold-elections-only-when-security-situation-allows/",
+      "source": "Euractiv",
+      "published_at": "2026-02-11T17:41:19+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine will hold elections only when security situation allows"
+    },
+    {
       "id": "5ba2a24b1c9f85b3576d0ae27c6464c2bd79ed26",
       "title": "EU sanctions on Russia won’t trigger quick end to Ukraine war, says Latvian defence minister",
       "summary": "“It is taking longer than I expected,” Latvia's Andris Sprūds told Euractiv",
@@ -142,96 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Russian strikes near Kharkiv kill four, including children, Ukraine says"
-    },
-    {
-      "id": "9e0fd5bd1db37ceb1f56ffb533c7027d032c3f2b",
-      "title": "A “Point of Resilience” Set Up in Central Riga to Raise Funds for Ukraine - empr.media",
-      "summary": "A “Point of Resilience” Set Up in Central Riga to Raise Funds for Ukraine&nbsp;&nbsp;empr.mediaLSM launches charity campaign for Ukraine / Article&nbsp;&nbsp;LSMResilience Point Opens in Riga to Support Ukraine with Warm…",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXZzNVZKc1V2dWlrNWJ5eVNPenlxR3pycjFIRDBJX21kbjU4UnRkQ1JIWUdmNzBycFhTRTBnUlVhWUUxUU1aRlJ5WVJyZ0ZGbmdXa2NreFR2MVdUYVRBenFpbDR0VTZNenhyejRNNDlITUFNamtPZ3dfeUJ1blV6UDNhYmlqb2c5b3A1cU03RmV2QXBwdnR0aHdEVDlQWTB3ZHY5bA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-10T20:45:22+00:00",
-      "sentiment": "positive",
-      "confidence": 1.0,
-      "evidence": "Raise Funds for Ukraine"
-    },
-    {
-      "id": "c36940fbfa80a1c46848044436814684803b1965",
-      "title": "Olympic Officials Ban Ukrainian’s Helmet Honoring War Dead",
-      "summary": "Vladyslav Heraskevych said he would risk disqualification to wear a helmet that the International Olympic Committee said defied a ban on political speech.",
-      "url": "https://www.nytimes.com/2026/02/10/world/europe/ukraine-winter-olympics-skeleton-helmet-war.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-10T19:17:38+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Olympic Officials Ban Ukrainian’s Helmet Honoring War Dead"
-    },
-    {
-      "id": "ccb2af1ab224e091a36a4e8287741a06c79d0efa",
-      "title": "How Ukrainians Are Coping Without Heat",
-      "summary": "Our Kyiv bureau chief, Andrew E. Kramer, describes how Kyiv residents are coping with Russia’s unrelenting assaults on their country’s heating and electrical systems and finding ways to stay warm in a cruel winter.",
-      "url": "https://www.nytimes.com/video/world/europe/100000010689521/how-ukrainians-are-coping-without-heat.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-10T18:11:29+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukrainians Are Coping Without Heat"
-    },
-    {
-      "id": "801352efceb888d4e2c43de3984c8ce44e8018d5",
-      "title": "Russia Nears Capture of Key Ukrainian Towns After Year of Grinding Assaults",
-      "summary": "Russian troops have advanced at a glacial pace in recent months, but gains in southern and eastern Ukraine could give Moscow an edge in U.S.-mediated peace talks.",
-      "url": "https://www.nytimes.com/2026/02/10/world/europe/russia-ukraine-battlefield-huliaipole-pokrovsk.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-10T16:28:24+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russia Nears Capture of Key Ukrainian Towns"
-    },
-    {
-      "id": "edcf8a9d01b1e2db6efd4a0fadab792c9d2f2c5b",
-      "title": "Russia Knocked Out the Heat. So She Slept in a Tent on Her Bed.",
-      "summary": "With defiant ingenuity, Kyiv residents are trying to find ways to stay warm in a cruel winter.",
-      "url": "https://www.nytimes.com/2026/02/10/world/europe/ukraine-war-russia-power-cold.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-10T10:02:45+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Kyiv residents are trying to find ways to stay warm"
-    },
-    {
-      "id": "a7297c01f17b826faad2b2ceac996bde70e05988",
-      "title": "Russian foreign minister says ‘still a long way to go’ in Ukraine war peace talks – Europe live",
-      "summary": "Despite ‘constructive’ trilateral talks, Russia is still pursuing its maximalist demands, including claims over Ukrainian territoryIn the meantime, Russia’s defence ministry claimed its forces had captured the settlement…",
-      "url": "https://www.theguardian.com/world/live/2026/feb/10/russia-ukraine-war-us-talks-europe-live-updates-latest-news",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-10T09:54:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "claimed its forces had captured the settlement of Zaliznychne in Ukraine’s Zaporizhzhia region"
-    },
-    {
-      "id": "92207b91a21c92f8aa342ddc3181159158c85b1b",
-      "title": "FIREPOWER: Ukraine to open arms export centres in Europe",
-      "summary": "Plus, MSC, drones, SAFE",
-      "url": "https://www.euractiv.com/news/firepower-ukraine-to-open-arms-export-centres-in-europe/",
-      "source": "Euractiv",
-      "published_at": "2026-02-10T08:38:45+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine to open arms export centres in Europe"
-    },
-    {
-      "id": "ebdee4f61dcbe080c2e8de969523fd7ee9f78144",
-      "title": "Latvian journalists evade Russian drone attack in Ukraine / Article - LSM",
-      "summary": "Latvian journalists evade Russian drone attack in Ukraine / Article&nbsp;&nbsp;LSMLatvian journalists come under Russian drone attack in Ukraine&nbsp;&nbsp;UkrinformOver 175 Journalists Abused Since Russia's Invasion of…",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaEJYbzJIcUE1LXRvYW9sLVozc0NfQ1NKelp4ZllSbU1UVzlka1djR0VzMjZfOV9lRW51RVE0UE1YVy13ZUxWeWlMZFE0QXIzQWZSUkNLUGUwYzd2eWZyLVZhZEZGRVVScm1FN1dMRFNfQS1qUHhhNGREM1lrYmFLOHpoa3ptc3FwRUhobk1IcDBWRXNVbkx5TnJtUnhTb2p2Tk9EbWRtdlA3bTZNV2IwMFQzQnVaTWhPR2dj?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-10T01:12:32+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russian drone attack in Ukraine"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-14T09:45:43Z"
+  "last_updated": "2026-02-15T09:47:35Z"
 }
