@@ -1,16 +1,38 @@
 {
   "country": "IL",
-  "score": 77,
+  "score": 75,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": -2,
-  "sources": 93,
+  "sources": 96,
   "sentiment": {
     "positive": 4,
-    "neutral": 56,
-    "negative": 33
+    "neutral": 57,
+    "negative": 35
   },
   "latest_articles": [
+    {
+      "id": "410899889cc1d6d1c419af886f1d6fb3a12a9536",
+      "title": "Ley’s shadow immigration minister ‘never agreed’ to unreleased Liberal plan to ban migrants from Gaza and Somalia",
+      "summary": "Angus Taylor says the hardline policy document designed under Sussan Ley has ‘no validity’ but hints he will toughen policyGet our breaking news email, free app or daily news podcastSussan Ley’s shadow immigration minist…",
+      "url": "https://www.theguardian.com/australia-news/2026/feb/16/migrants-from-gaza-and-somalia-among-those-to-be-banned-from-australia-under-unreleased-liberal-plan",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-16T09:24:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "ban migrants from Gaza"
+    },
+    {
+      "id": "9f279a72ef5544d322464e45440631ba137f421e",
+      "title": "At least 12 Palestinians killed and several hurt in Israeli airstrikes on Gaza",
+      "summary": "Israel says strikes were in response to Hamas violations of ceasefire as Hamas calls attacks ‘massacre’ of displaced peopleAt least 12 Palestinians were killed and several more injured across the Gaza Strip on Sunday as…",
+      "url": "https://www.theguardian.com/world/2026/feb/15/palestinians-killed-injured-gaza-israeli-airstrikes-hamas",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-15T17:52:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli airstrikes on Gaza"
+    },
     {
       "id": "e977b9595abb66187a5cb02d5d5bd1ab64fbc6e2",
       "title": "Israel To Attend India AI Impact Summit 2026, Strengthen Tech Ties",
@@ -76,6 +98,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "rising antisemitism in the wake of the Gaza war to radicalize"
+    },
+    {
+      "id": "a91a3de2a7084e2c8a111d4e5150dfdc650f513c",
+      "title": "Israeli journalists fear for press freedom if UK billionaire sells TV channel stake",
+      "summary": "Union urges Leonard Blavatnik to scrap Channel 13 deal, saying it is part of Netanyahu plan ‘to capture the media’Israeli journalists have appealed to a British billionaire not to proceed with the sale of a stake in an I…",
+      "url": "https://www.theguardian.com/world/2026/feb/13/israeli-journalists-fear-press-freedom-uk-billionaire-sells-tv-channel-stake",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-13T07:00:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Israeli journalists fear for press freedom if... Netanyahu plan ‘to capture the media’"
     },
     {
       "id": "c05f79628e1889e396aa3f98c021ecc33c8c5237",
@@ -197,41 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Israelis Protest Surge in Gun Crime Within Arab Community"
-    },
-    {
-      "id": "0222e663df571720e30d41ffe871156411b69d94",
-      "title": "Iran tells US not to let Netanyahu thwart nuclear talks before Trump meeting",
-      "summary": "Tehran’s intervention comes as the Israeli prime minister heads to a hastily arranged White House encounterTehran has told the US not to allow Israel to destroy the chance of reaching an agreement over Iran’s nuclear pro…",
-      "url": "https://www.theguardian.com/world/2026/feb/10/iran-tells-us-not-to-let-netanyahu-thwart-nuclear-talks-before-trump-meeting",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-10T19:34:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "not let Netanyahu thwart nuclear talks"
-    },
-    {
-      "id": "f4b03abdbab2cee45631b71e13758ac3ac21d111",
-      "title": "How the Israeli President’s Visit to Australia Created a ‘Tinder Box’",
-      "summary": "Isaac Herzog’s trip led to widespread rallies and tested the restrictions on protests that Australia installed after a deadly attack on a Jewish celebration.",
-      "url": "https://www.nytimes.com/2026/02/10/world/australia/australia-herzog-protest-violence.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-10T19:29:32+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israeli President’s Visit...Created a ‘Tinder Box’"
-    },
-    {
-      "id": "fcda88161cd71291cd504751597e20b36034ca6e",
-      "title": "Hamas Would Keep Some Weapons Initially in Draft Gaza Plan",
-      "summary": "Israel is unlikely to withdraw its troops from the enclave before Hamas and other militant groups lay down their arms.",
-      "url": "https://www.nytimes.com/2026/02/10/world/middleeast/hamas-weapons-draft-plan.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-10T18:59:51+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Israel is unlikely to withdraw its troops from the enclave"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-15T09:47:35Z"
+  "last_updated": "2026-02-16T10:09:31Z"
 }

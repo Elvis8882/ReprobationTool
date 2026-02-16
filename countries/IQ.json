@@ -1,12 +1,12 @@
 {
   "country": "IQ",
-  "score": 70,
+  "score": 76,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 6,
+  "trend": 6,
+  "sources": 7,
   "sentiment": {
-    "positive": 1,
+    "positive": 2,
     "neutral": 4,
     "negative": 1
   },
@@ -21,6 +21,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "campaign against the extremist group in Iraq"
+    },
+    {
+      "id": "f25b44330bca5674af61f8881a74c9aabeb49c09",
+      "title": "U.S. Transfers Thousands of ISIS Prisoners to Iraq From Syria",
+      "summary": "The moves appear to highlight lingering doubts in Washington about the new Syrian government’s ability to ensure security.",
+      "url": "https://www.nytimes.com/2026/02/13/us/politics/us-isis-prisoners.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-13T15:27:45+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Transfers Thousands of ISIS Prisoners to Iraq"
     },
     {
       "id": "c1f9b05281c0cbe688c896bd72c71e2f419ed61d",
@@ -79,5 +90,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-15T09:47:35Z"
+  "last_updated": "2026-02-16T10:09:31Z"
 }

@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 1,
+  "sources": 2,
   "sentiment": {
     "positive": 0,
     "neutral": 0,
-    "negative": 1
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "c404e81b7abfd346afc56c1aa5d51460023d1e46",
+      "title": "How air pollution tests North Macedonia’s EU accession credibility",
+      "summary": "Despite receiving more than €32 million annually in EU support, progress has been slow",
+      "url": "https://www.euractiv.com/news/how-air-pollution-tests-north-macedonias-eu-accession-credibility/",
+      "source": "Euractiv",
+      "published_at": "2026-02-16T05:00:24+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "air pollution tests North Macedonia’s EU accession credibility"
+    },
     {
       "id": "f6a064ebb80b04c3a0bae87150a72bba185f4f96",
       "title": "Truckers’ Balkan border blockade over EU rules continues",
@@ -24,5 +35,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-15T09:47:35Z"
+  "last_updated": "2026-02-16T10:09:31Z"
 }

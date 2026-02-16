@@ -1,16 +1,38 @@
 {
   "country": "UA",
-  "score": 78,
+  "score": 77,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": -1,
-  "sources": 134,
+  "sources": 137,
   "sentiment": {
-    "positive": 51,
+    "positive": 52,
     "neutral": 30,
-    "negative": 53
+    "negative": 55
   },
   "latest_articles": [
+    {
+      "id": "0232e0e40f5101fad010021eebe7df1219c66a1f",
+      "title": "Kim Jong-un unveils housing for families of North Koreans killed in Ukraine war",
+      "summary": "Leader vows to repay the ‘young martyrs’ who died as North Korea intensifies propaganda glorifying troops deployed to fight for RussiaNorth Korea has said it completed a new housing district in Pyongyang for families of…",
+      "url": "https://www.theguardian.com/world/2026/feb/16/north-korea-housing-ukraine-war-families",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-16T03:49:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "North Koreans killed in Ukraine war"
+    },
+    {
+      "id": "2ec7b4337c36055607911aea915a5f8a4ba81d67",
+      "title": "Quick EU membership for Ukraine unlikely, Latvian president says",
+      "summary": "In Munich, Ukraine’s President Volodymyr Zelenskyy said his country wants a clear date for EU membership",
+      "url": "https://www.euractiv.com/news/quick-eu-membership-for-ukraine-unlikely-latvian-president-says/",
+      "source": "Euractiv",
+      "published_at": "2026-02-15T11:34:47+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "his country wants a clear date for EU membership"
+    },
     {
       "id": "c0ddfdbd972097d8eed7149e84c13025370ad4b9",
       "title": "Zelensky Calls Putin \"Slave to War,\" Says All Ukrainian Power Plants Damaged",
@@ -76,6 +98,17 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "stresses unity on major issues, particularly Ukraine"
+    },
+    {
+      "id": "da0edb2cf833e4dd290e805506c27c8c27278075",
+      "title": "The war dead pictured on banned Ukrainian athlete's helmet",
+      "summary": "Vladyslav Heraskevych's helmet depicts fellow athletes who have been killed since Russia's full-scale invasion of his country.",
+      "url": "https://www.bbc.com/news/articles/cnv63q1vpv1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-13T18:14:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "war dead pictured on banned Ukrainian athlete's helmet"
     },
     {
       "id": "5ce0a11b8d8d188bc4d98658e5d40c98a441a95d",
@@ -197,41 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Ukraine will hold elections only when security situation allows"
-    },
-    {
-      "id": "5ba2a24b1c9f85b3576d0ae27c6464c2bd79ed26",
-      "title": "EU sanctions on Russia won’t trigger quick end to Ukraine war, says Latvian defence minister",
-      "summary": "“It is taking longer than I expected,” Latvia's Andris Sprūds told Euractiv",
-      "url": "https://www.euractiv.com/news/eu-sanctions-on-russia-wont-trigger-quick-end-to-ukraine-war-says-latvian-defence-minister/",
-      "source": "Euractiv",
-      "published_at": "2026-02-11T17:23:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "quick end to Ukraine war"
-    },
-    {
-      "id": "98dca191515c9acb6c86255c86f01c5a652ef557",
-      "title": "Russian strikes on Ukraine kill four amid reports Zelenskyy considering elections and peace deal referendum – Europe live",
-      "summary": "Russian attacks show no sign of slowing as fourth anniversary of full-scale invasion approachesin BergenMeanwhile, Norway’s army chief has said Oslo cannot exclude the possibility of a future Russian invasion of the coun…",
-      "url": "https://www.theguardian.com/world/live/2026/feb/11/europe-live-latest-news-updates-eu-ukraine-russia",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-11T09:44:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Russian strikes on Ukraine kill four"
-    },
-    {
-      "id": "87cbe17f3805e98d88d9987dcc7290b9d2d6b30d",
-      "title": "Russian strikes near Kharkiv kill four, including children, Ukraine says",
-      "summary": "The bodies of three toddlers and a 34-year-old man were pulled from the wreckage of a house in north-eastern Ukraine.",
-      "url": "https://www.bbc.com/news/articles/crm820dp0yro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-11T07:25:47+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Russian strikes near Kharkiv kill four, including children, Ukraine says"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-15T09:47:35Z"
+  "last_updated": "2026-02-16T10:09:31Z"
 }

@@ -3,14 +3,36 @@
   "score": 1,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -1,
-  "sources": 178,
+  "trend": 0,
+  "sources": 182,
   "sentiment": {
-    "positive": 9,
+    "positive": 10,
     "neutral": 34,
-    "negative": 135
+    "negative": 138
   },
   "latest_articles": [
+    {
+      "id": "0232e0e40f5101fad010021eebe7df1219c66a1f",
+      "title": "Kim Jong-un unveils housing for families of North Koreans killed in Ukraine war",
+      "summary": "Leader vows to repay the ‘young martyrs’ who died as North Korea intensifies propaganda glorifying troops deployed to fight for RussiaNorth Korea has said it completed a new housing district in Pyongyang for families of…",
+      "url": "https://www.theguardian.com/world/2026/feb/16/north-korea-housing-ukraine-war-families",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-16T03:49:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "troops deployed to fight for Russia"
+    },
+    {
+      "id": "06bbe28c59fee885a6269b69b5af822359e7b3e3",
+      "title": "British and German military chiefs press ‘moral’ case for rearmament",
+      "summary": "Defence leaders write joint appeal urging public on need to be prepared for war with Russia and resulting costsAs defence chiefs, we must warn you about Russia and say this: rearmament is not warmongering | Richard Knigh…",
+      "url": "https://www.theguardian.com/politics/2026/feb/15/top-british-and-german-military-chiefs-press-moral-case-for-rearmament",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-15T18:02:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "prepared for war with Russia and resulting costs"
+    },
     {
       "id": "9f94077f38f327249f82772da2efa9b427758aeb",
       "title": "Cooper says UK and allies ‘exposed barbaric Kremlin plot’ over Navalny’s death – UK politics live",
@@ -98,6 +120,17 @@
       "sentiment": "negative",
       "confidence": 1.0,
       "evidence": "killed Putin nemesis Navalny... in a Russian prison"
+    },
+    {
+      "id": "da0edb2cf833e4dd290e805506c27c8c27278075",
+      "title": "The war dead pictured on banned Ukrainian athlete's helmet",
+      "summary": "Vladyslav Heraskevych's helmet depicts fellow athletes who have been killed since Russia's full-scale invasion of his country.",
+      "url": "https://www.bbc.com/news/articles/cnv63q1vpv1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-13T18:14:06+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Russia's full-scale invasion of his country"
     },
     {
       "id": "7d1f7885f2e973af7c6925532d2e29c1fba6719c",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Russia moves to block WhatsApp in messaging app crackdown"
-    },
-    {
-      "id": "9ef61033c60baa87503b8dd5dacc95f92fd6deff",
-      "title": "There's an India-U.S.-Russia love-hate triangle — and it's complicated",
-      "summary": "An audacity of opacity has seen observers suggest that India is being \"strategically ambiguous\" when it comes to the U.S. trade deal.",
-      "url": "https://www.cnbc.com/2026/02/12/inside-india-newsletter-india-us-russia-oil-purchases-trade-deal.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-02-12T09:10:50+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "India-U.S.-Russia love-hate triangle"
-    },
-    {
-      "id": "03e3b828cad6832d86081a8a9d57749ec5779d2d",
-      "title": "Ukrainian Olympian Is Disqualified Over Helmet With Images of War Dead",
-      "summary": "Olympic officials had told Vladyslav Heraskevych that the helmet, featuring images of people killed in the war with Russia, violated the Games’ ban on political speech.",
-      "url": "https://www.nytimes.com/2026/02/12/world/olympics/ukraine-skeleton-olympics-banned-helmet-heraskevych.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-12T08:58:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "killed in the war with Russia"
-    },
-    {
-      "id": "f0de7cfecd3139754eb050f1be1685517c366d51",
-      "title": "NATO Is Expected to Step Up Arctic Security. Here’s Why.",
-      "summary": "As Russia displays its military might in the Arctic region, the Western alliance is beginning a mission to increase its presence there.",
-      "url": "https://www.nytimes.com/2026/02/11/world/europe/nato-arctic-russia-military.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-11T18:07:35+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "As Russia displays its military might in the Arctic region"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-15T09:47:35Z"
+  "last_updated": "2026-02-16T10:09:31Z"
 }

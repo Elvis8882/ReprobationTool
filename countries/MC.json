@@ -1,13 +1,13 @@
 {
   "country": "MC",
   "score": 55,
-  "score_label": "Negative",
-  "assessment": "High negative coverage",
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 2,
+  "sources": 3,
   "sentiment": {
     "positive": 0,
-    "neutral": 1,
+    "neutral": 2,
     "negative": 1
   },
   "latest_articles": [
@@ -32,8 +32,19 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "lives in Monaco"
+    },
+    {
+      "id": "82d4274319ac6f19fb9c80a3440215ef6048ebb7",
+      "title": "Manchester United co-owner says UK 'colonised' by immigrants: Jim Ratcliffe sparks outrage; Brit PM Keir Starmer demands apology",
+      "summary": "Sir Jim Ratcliffe’s remarks that Britain has been “colonised by immigrants” detonated far beyond a single interview because they landed at the fault line of modern British politics. Linking immigration, welfare and natio…",
+      "url": "https://timesofindia.indiatimes.com/world/uk/manchester-united-co-owner-says-uk-colonised-by-immigrants-jim-ratcliffe-sparks-outrage-brit-pm-keir-starmer-demands-apology/articleshow/128237416.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-02-12T04:44:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Monaco-based Manchester United co-owner used loaded language"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-15T09:47:35Z"
+  "last_updated": "2026-02-16T10:09:31Z"
 }

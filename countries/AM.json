@@ -1,16 +1,28 @@
 {
   "country": "AM",
   "score": 100,
-  "score_label": "Not enough data",
-  "assessment": "No information available",
-  "trend": null,
-  "sources": 0,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": 0,
+  "sources": 1,
   "sentiment": {
-    "positive": 0,
+    "positive": 1,
     "neutral": 0,
     "negative": 0
   },
-  "latest_articles": [],
+  "latest_articles": [
+    {
+      "id": "56eb6197bfbd9b799a2fc38ba4dc2655491d295e",
+      "title": "Vance visits Armenia, Azerbaijan as Trump eyes deals in Russia’s sphere",
+      "summary": "The vice president’s historic trip illustrates Trump’s transactional diplomacy and willingness to use economic muscle to elbow out rivals such as Russia and Iran.",
+      "url": "https://www.washingtonpost.com/world/2026/02/11/vance-armenia-azerbaijan-trump-diplomacy/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-11T12:50:10+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Vance visits Armenia... Trump eyes deals in Russia’s sphere"
+    }
+  ],
   "window_days": 90,
-  "last_updated": "2026-02-15T09:47:35Z"
+  "last_updated": "2026-02-16T10:09:31Z"
 }
