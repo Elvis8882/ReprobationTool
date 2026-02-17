@@ -3,14 +3,25 @@
   "score": 100,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": null,
-  "sources": 2,
+  "trend": 0,
+  "sources": 3,
   "sentiment": {
-    "positive": 0,
+    "positive": 1,
     "neutral": 2,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "7d131dcdf86902071781933a503fc65379f9a543",
+      "title": "INTERVIEW: Southeastern Europe is the ‘nervous system’ of Europe’s security",
+      "summary": "Albania's defence minister argues his country is key for EU security",
+      "url": "https://www.euractiv.com/interview/interview-southeastern-europe-is-the-nervous-system-of-europes-security/",
+      "source": "Euractiv",
+      "published_at": "2026-02-16T12:07:30+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Albania's defence minister argues his country is key for EU security"
+    },
     {
       "id": "3886e8c1b5956b36f63be9946bff49e3c7521a88",
       "title": "Albania lifts TikTok ban",
@@ -35,5 +46,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-16T10:09:31Z"
+  "last_updated": "2026-02-17T10:06:04Z"
 }

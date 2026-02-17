@@ -1,16 +1,93 @@
 {
   "country": "UA",
-  "score": 77,
+  "score": 74,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 137,
+  "trend": -3,
+  "sources": 147,
   "sentiment": {
-    "positive": 52,
-    "neutral": 30,
-    "negative": 55
+    "positive": 55,
+    "neutral": 31,
+    "negative": 61
   },
   "latest_articles": [
+    {
+      "id": "ef222b5e053780b7f59df17a28760449a506688e",
+      "title": "Russia launches 400 drones and 29 missiles at Ukraine hours before peace talks in Geneva – Europe live",
+      "summary": "Zelenskyy calls for allies to ‘respond to all these strikes against life’ as US-brokered talks between senior Russian and Ukrainian officials beginUkrainian foreign minister Andrii Sybiha said the overnight Russian attac…",
+      "url": "https://www.theguardian.com/world/live/2026/feb/17/ukraine-talks-geneva-russia-zelenskyy-putin-orban-rubio-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-17T09:40:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia launches 400 drones and 29 missiles at Ukraine"
+    },
+    {
+      "id": "4675173b43aeff6fe1cb429d4b02d362732bd0f1",
+      "title": "Trump Said He’d End the War in Ukraine in a Day. It’s Harder Than He Thought.",
+      "summary": "Russian attacks and Ukrainian civilian deaths rose as President Trump’s peace talks dragged on during his first year back in the White House.",
+      "url": "https://www.nytimes.com/2026/02/17/world/europe/trump-ukraine-war-putin.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-17T09:25:31+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Ukrainian civilian deaths rose as President Trump’s peace talks dragged on"
+    },
+    {
+      "id": "7e25bec34148bb95f220f8e70ea13376e2354ae1",
+      "title": "Ukraine and Russia Hold New Round of Peace Talks, but Expectations Are Low",
+      "summary": "Both sides described previous U.S.-mediated negotiations as productive, although they did not appear to address sticking points like territory and security guarantees.",
+      "url": "https://www.nytimes.com/2026/02/17/world/europe/ukraine-russia-peace-talks-switzerland.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-17T09:12:39+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Ukraine and Russia Hold New Round of Peace Talks"
+    },
+    {
+      "id": "175ab5e78cf8e788be03a1694818688a139a0cad",
+      "title": "Ukraine and Russia to meet for third round of talks as fourth anniversary of war looms",
+      "summary": "Hopes of success remain low after Trump points finger at Zelenskyy and as Russia keeps up hardline demandsSenior Ukrainian and Russian officials are to meet this week in Switzerland for a third round of talks brokered by…",
+      "url": "https://www.theguardian.com/world/2026/feb/16/ukraine-russia-second-round-talks-fourth-anniversary-war",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-17T08:49:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Moscow’s full-scale invasion of Ukraine"
+    },
+    {
+      "id": "a098a113dd3ceef0f697cf9f89811439ef35abc8",
+      "title": "Ukraine detains ex-energy minister as high-level corruption case widens",
+      "summary": "German Galushchenko’s arrest is connected to a $100 million corruption probe that has ensnared senior officials and shaken President Volodymyr Zelensky’s office.",
+      "url": "https://www.washingtonpost.com/world/2026/02/16/ukraine-corruption-investigation-energy-minister/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-16T15:56:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "high-level corruption case widens"
+    },
+    {
+      "id": "9863a9be67025dd5cb2cc92cd098c51d6270d3a5",
+      "title": "More than 130 musicians to unite in support of Ukraine at the Latvian National Opera on February 24 - The Baltic Times",
+      "summary": "More than 130 musicians to unite in support of Ukraine at the Latvian National Opera on February 24&nbsp;&nbsp;The Baltic Times",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX3JabFdtbUdSMXhCQ1ZCaHZZUXpzbU9BMXh3X2g0Mms4VzJ1SGxhUURma0lCcHdMN1NONnZ1ODVSQ2t3N3JEdmVudHY2aGVmTTZPaTMwVE9wLXFwS3lHakdDM0ZTX3VfX3p1NWFJZklfeUtRa0JIc0FzSktOOHJXMjEzUThyTXVIN1VheEJZZXd1UllQN3dZUldrZTRWM2pHeHVMUkVWMVUzMmVGdjRWQnNLR0NibU52RTh6ZjFzRzJvZnc2X3lJ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-16T13:14:19+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "unite in support of Ukraine at the Latvian National Opera"
+    },
+    {
+      "id": "4e60618cb0a4a82d64bee8f7dcba744c82d69f10",
+      "title": "Ukraine ex-energy minister named suspect in laundering probe",
+      "summary": "The EU is urging sweeping reforms to stamp out corruption as part of its demands for Ukrainian membership to the bloc",
+      "url": "https://www.euractiv.com/news/ukraine-ex-energy-minister-named-suspect-in-laundering-probe/",
+      "source": "Euractiv",
+      "published_at": "2026-02-16T10:24:32+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "EU is urging sweeping reforms to stamp out corruption"
+    },
     {
       "id": "0232e0e40f5101fad010021eebe7df1219c66a1f",
       "title": "Kim Jong-un unveils housing for families of North Koreans killed in Ukraine war",
@@ -21,6 +98,28 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "North Koreans killed in Ukraine war"
+    },
+    {
+      "id": "dcc1c219f6d1b1673ddbf718a4e9d168223d221a",
+      "title": "Ukraine's ex-energy minister detained while attempting to leave country",
+      "summary": "His detention comes as he faces legal proceedings after being dismissed in a corruption scandal.",
+      "url": "https://www.bbc.com/news/articles/c4g5380xwqjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-15T17:11:49+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Ukraine's ex-energy minister detained while attempting to leave country"
+    },
+    {
+      "id": "ac5520ddd0a1ad4f09b3f3ca4c525c00cfd3a1b5",
+      "title": "During Rubio visit, Fico touts Slovakia as ideal location for Ukraine talks",
+      "summary": "Fico also used the opportunity to praise US President Donald Trump",
+      "url": "https://www.euractiv.com/news/during-rubio-visit-fico-touts-slovakia-as-ideal-location-for-ukraine-talks/",
+      "source": "Euractiv",
+      "published_at": "2026-02-15T16:28:02+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "ideal location for Ukraine talks"
     },
     {
       "id": "2ec7b4337c36055607911aea915a5f8a4ba81d67",
@@ -65,6 +164,17 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "Ukraine ... called for a clear date for his country to be allowed to join the EU"
+    },
+    {
+      "id": "51a0eb12be953d050a23e31e5edc5868a5e76b12",
+      "title": "Washington and Ukraine remain centre of attention on second day of Munich",
+      "summary": "Mediating ties between allies and addressing the ongoing war in Europe dominated discussions on Saturday",
+      "url": "https://www.euractiv.com/news/washington-and-ukraine-remain-centre-of-attention-on-second-day-of-munich/",
+      "source": "Euractiv",
+      "published_at": "2026-02-14T18:26:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ukraine remain centre of attention on second day of Munich"
     },
     {
       "id": "93b12e62b128d6a389ed89ca978f24507913e767",
@@ -120,118 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "concessions it wants from Kyiv on issues like territory and elections"
-    },
-    {
-      "id": "da4b9026b218e3fa0205f7521376ed08b47b87bd",
-      "title": "Musicians to unite in support of Ukraine at Latvian National Opera / Article - LSM",
-      "summary": "Musicians to unite in support of Ukraine at Latvian National Opera / Article&nbsp;&nbsp;LSM",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOWs0eUgtTklFRm4tNTRiM0FoLXdLb0VtWW9oTTFoSm94REY1eTFGd2NqdHJHRW1wMHhxX2pzNFRCczNPc2s5d1Z1WExGWG12SWhJZlV4SHBJajhIcktud0huTXVFdFJQV0lXMm1pUThDVGdEOE9fME5FZEFOdlNWVS1xV05aMVVobmxvaTBTbTU3QjBFTG9Pb1FBRGFRVzd2LUNPdFN5YldkZTdVbUUwNGY4cVhacDMwYXhRZmN2LWs5QnNPSXc?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-13T07:58:34+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Musicians to unite in support of Ukraine"
-    },
-    {
-      "id": "bbf2b673f12252812d4bdd5b5eb1396234be135d",
-      "title": "Live: Rubio says he will have chance to meet Ukraine’s Zelensky at Munich security forum - France 24",
-      "summary": "Live: Rubio says he will have chance to meet Ukraine’s Zelensky at Munich security forum&nbsp;&nbsp;France 24As leaders descend on Munich, Ukraine’s fate hangs in the balance&nbsp;&nbsp;PoliticoUkraine war briefing: Rubi…",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRGdmc0laUGw2azRzbUFxVXhPTlFCZ0N0U0RQOFpBX3d4bVZuUDdCOENNSkx4b1U0UDA0ODZhckxhQkRDRGl1dUJNS0dUX3FRb2pRVXNUeklyaWZ6X2pnUllnQUVBNm54MFBEM0o1WXdQUXBEVGM0dXNqOG9yQ2VrejFfTlNzVFVXZ1lJdDRnNnhWTnViVGJyOGtSZEtPcTdrTkE0WTlfSFZQN2RmTkFLZWg5eWgzZnZ6TTNmWVpYcmdfck01blFueVBRSQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-13T06:14:40+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine’s Zelensky at Munich security forum"
-    },
-    {
-      "id": "e817e585d71ba77c3746835307d694ccf32c3bb9",
-      "title": "‘Everything is frozen’: bitter winter drags on for Kyiv residents as Russia wipes out power",
-      "summary": "Kremlin’s repeated targeting of infrastructure has left thousands without heating, reliant on shelters and desperate home hacksNatalya Pavlovna watched her two-year-old son, Danylo, play with Lego. “We are taking a break…",
-      "url": "https://www.theguardian.com/world/2026/feb/13/everything-is-frozen-bitter-winter-drags-on-for-kyiv-residents-as-russia-wipes-out-power",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-13T05:00:36+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "bitter winter drags on for Kyiv residents as Russia wipes out power"
-    },
-    {
-      "id": "582c42164fe3ecc1ecbab207c79f2dd0ef6cf773",
-      "title": "UK says Western allies have already pledged $35bn for Ukraine this year",
-      "summary": "Ukraine&#8217;s Western allies have already pledged around $35 billion in military aid to Kyiv this year, British defence minister John Healey said Thursday. The figure includes new commitments by individual countries, b…",
-      "url": "https://www.euractiv.com/news/ukraines-western-allies-already-pledged-35bn-for-ukraine-britain/",
-      "source": "Euractiv",
-      "published_at": "2026-02-13T02:34:46+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "pledged $35bn for Ukraine this year"
-    },
-    {
-      "id": "eb8003544e95b4e66e0178cd7da720de0b137ccc",
-      "title": "Ukrainian athlete’s ban from Olympic skeleton event over helmet images is upheld",
-      "summary": "Vladyslav Heraskevych was removed from the men’s skeleton event for refusing to remove a helmet with portraits of Ukrainian athletes who’ve died in the war with Russia.",
-      "url": "https://www.washingtonpost.com/sports/olympics/2026/02/12/vladyslav-heraskevych-ukrainian-helmet-olympics-skeleton/",
-      "source": "World (Washington post)",
-      "published_at": "2026-02-12T19:02:46+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukrainian athletes who’ve died in the war with Russia"
-    },
-    {
-      "id": "25c506b1b7360c375f79c5a5246c739905d8c131",
-      "title": "These Ukrainian Drones Don’t Just Kill. They Deliver Oatmeal Cookies.",
-      "summary": "In a war where drones are synonymous with destruction, some are also used to drop care packages to Ukraine’s frontline soldiers.",
-      "url": "https://www.nytimes.com/2026/02/12/world/europe/ukraine-drones-vampire-russia.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-12T10:00:37+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "drones are also used to drop care packages to Ukraine’s frontline soldiers"
-    },
-    {
-      "id": "325a4602c692402922965684eb55ecf6ef8ac99f",
-      "title": "Nearly 300,000 people in Ukrainian city of Odesa without power or water after Russian drone strikes - Europe live",
-      "summary": "Local officials say strikes were part of widespread attacks across the country targeting energy infrastructureWe have some images from the newswires showing the fires that engulfed parts of Odesa in Ukraine’s south last…",
-      "url": "https://www.theguardian.com/world/live/2026/feb/12/ukraine-russia-strikes-odesa-power-drone-strikes-zelenskyy-putin-portugal-floods-europe-live-news",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-12T09:32:12+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Ukrainian city of Odesa without power or water after Russian drone strikes"
-    },
-    {
-      "id": "03e3b828cad6832d86081a8a9d57749ec5779d2d",
-      "title": "Ukrainian Olympian Is Disqualified Over Helmet With Images of War Dead",
-      "summary": "Olympic officials had told Vladyslav Heraskevych that the helmet, featuring images of people killed in the war with Russia, violated the Games’ ban on political speech.",
-      "url": "https://www.nytimes.com/2026/02/12/world/olympics/ukraine-skeleton-olympics-banned-helmet-heraskevych.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-12T08:58:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukrainian Olympian Is Disqualified Over Helmet With Images of War Dead"
-    },
-    {
-      "id": "0b6bd2945db3528748c6be890f6ee05b4a9885f3",
-      "title": "‘Burden sharing’ discussion reinvigorated as defence ministers meet in Brussels",
-      "summary": "Countries in Northern Europe would like their Southern counterparts to spend more on Ukraine",
-      "url": "https://www.euractiv.com/news/burden-sharing-discussion-reinvigorated-as-defence-ministers-meet-in-brussels/",
-      "source": "Euractiv",
-      "published_at": "2026-02-12T08:51:18+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "spend more on Ukraine"
-    },
-    {
-      "id": "cde7dc98232635ade8be6e4215e2331f2648a11f",
-      "title": "Ukraine will hold elections only when security situation allows",
-      "summary": "Citing unnamed sources, the Financial Times had earlier reported Ukraine was mulling the possibility of holding a presidential election within the next three months under US pressure",
-      "url": "https://www.euractiv.com/news/ukraine-will-hold-elections-only-when-security-situation-allows/",
-      "source": "Euractiv",
-      "published_at": "2026-02-11T17:41:19+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine will hold elections only when security situation allows"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-16T10:09:31Z"
+  "last_updated": "2026-02-17T10:06:04Z"
 }

@@ -17,8 +17,25 @@
     "LV",
     "RU"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-02-16T10:09:31+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-02-17T10:06:04+00:00",
+  "sentiment_by_country": {
+    "BY": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "road signs pointing to Russia and Belarus"
+    },
+    "LV": {
+      "label": "positive",
+      "confidence": 0.9,
+      "evidence": "Latvia to spend 120,000 euros on changing road signs"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "road signs pointing to Russia and Belarus"
+    }
+  },
+  "processed_at": "2026-02-17T10:06:04+00:00"
 }

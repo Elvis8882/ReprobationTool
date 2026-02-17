@@ -1,16 +1,49 @@
 {
   "country": "CH",
-  "score": 55,
+  "score": 69,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 12,
+  "trend": 14,
+  "sources": 15,
   "sentiment": {
-    "positive": 0,
-    "neutral": 10,
+    "positive": 2,
+    "neutral": 11,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "ef222b5e053780b7f59df17a28760449a506688e",
+      "title": "Russia launches 400 drones and 29 missiles at Ukraine hours before peace talks in Geneva – Europe live",
+      "summary": "Zelenskyy calls for allies to ‘respond to all these strikes against life’ as US-brokered talks between senior Russian and Ukrainian officials beginUkrainian foreign minister Andrii Sybiha said the overnight Russian attac…",
+      "url": "https://www.theguardian.com/world/live/2026/feb/17/ukraine-talks-geneva-russia-zelenskyy-putin-orban-rubio-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-17T09:40:12+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "peace talks in Geneva"
+    },
+    {
+      "id": "175ab5e78cf8e788be03a1694818688a139a0cad",
+      "title": "Ukraine and Russia to meet for third round of talks as fourth anniversary of war looms",
+      "summary": "Hopes of success remain low after Trump points finger at Zelenskyy and as Russia keeps up hardline demandsSenior Ukrainian and Russian officials are to meet this week in Switzerland for a third round of talks brokered by…",
+      "url": "https://www.theguardian.com/world/2026/feb/16/ukraine-russia-second-round-talks-fourth-anniversary-war",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-17T08:49:20+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "meet this week in Switzerland for a third round of talks"
+    },
+    {
+      "id": "f232033b1d26995421fe46047360739b816d1515",
+      "title": "Japan and Switzerland both avoid falling into recession – business live",
+      "summary": "Rolling coverage of the latest economic and financial news, as Japan misses growth forecasts for the final three months of 2025An alarming stock market statement from skin health company SkinBioTherapeutics has knocked i…",
+      "url": "https://www.theguardian.com/business/live/2026/feb/16/japan-growth-gdp-escapes-recession-takaichi-uk-stock-market-house-prices-interest-rates-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-16T09:19:19+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Switzerland both avoid falling into recession"
+    },
     {
       "id": "c290e988924eb30810da1f6f6d5afb6603d3309d",
       "title": "Iran-US indirect talks: Tehran’s top diplomat travels to Geneva for second round",
@@ -145,5 +178,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-16T10:09:31Z"
+  "last_updated": "2026-02-17T10:06:04Z"
 }
