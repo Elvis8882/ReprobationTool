@@ -1,16 +1,60 @@
 {
   "country": "SY",
-  "score": 60,
+  "score": 58,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 13,
+  "trend": -2,
+  "sources": 17,
   "sentiment": {
     "positive": 1,
-    "neutral": 8,
-    "negative": 4
+    "neutral": 9,
+    "negative": 7
   },
   "latest_articles": [
+    {
+      "id": "ae02d24b417b317cef078aa64280f8f8c7b5af3e",
+      "title": "Woman in Syrian detention camp banned from returning to Australia for up to two years",
+      "summary": "Person among group of 34 women and children who were released from al-Roj camp on Monday but were forced to returnGet our breaking news email, free app or daily news podcastOne adult among the group of 34 Australian wome…",
+      "url": "https://www.theguardian.com/australia-news/2026/feb/18/woman-in-syrian-detention-camp-banned-from-returning-to-australia-for-up-to-two-years",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-18T06:28:28+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Woman in Syrian detention camp banned from returning to Australia"
+    },
+    {
+      "id": "2eb436252c5bf57a67af7f7e94fbaf1ca6aed5f1",
+      "title": "I would scream in my sleep: Women from Syria's Alawite minority tell of kidnap and rape",
+      "summary": "The BBC hears harrowing accounts of assaults appearing to target the sect of former President Assad.",
+      "url": "https://www.bbc.com/news/articles/cn5g751pl7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-18T00:20:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Women from Syria's Alawite minority tell of kidnap and rape"
+    },
+    {
+      "id": "982c65cc74ade3e017f0e7ab568ba9f492e09ca3",
+      "title": "Syrian Army Crosses New Threshold With Advances in Kurdish Regions",
+      "summary": "The advance of the Syrian Army into Kurdish regions could put nearly all the country under one authority. But it ends a dream of autonomy for ethnic Kurds.",
+      "url": "https://www.nytimes.com/2026/02/16/world/middleeast/syria-army-kurds-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-16T20:41:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Syrian Army Crosses New Threshold With Advances"
+    },
+    {
+      "id": "c348278601f09f1f0b84d8fa2365b4196cacacf7",
+      "title": "What is happening to Syria’s IS camps and their former residents?",
+      "summary": "Experts say the detention centres were a breeding ground for extremism and a new generation of IS membersHumanitarians warned for years that the camps in north-east Syria holding tens of thousands of family members of su…",
+      "url": "https://www.theguardian.com/world/2026/feb/16/what-is-happening-to-syrias-is-camps-and-their-former-residents",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-16T18:49:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "breeding ground for extremism and a new generation of IS members"
+    },
     {
       "id": "b0602f2c7df755d0b48a01051f5a1d3959e30ad6",
       "title": "US launches airstrikes on dozens of Islamic State targets in Syria",
@@ -156,5 +200,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-17T10:06:04Z"
+  "last_updated": "2026-02-18T10:07:01Z"
 }

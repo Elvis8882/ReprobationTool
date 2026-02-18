@@ -1,16 +1,27 @@
 {
   "country": "RS",
   "score": 55,
-  "score_label": "Negative",
-  "assessment": "High negative coverage",
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 2,
+  "sources": 3,
   "sentiment": {
     "positive": 0,
-    "neutral": 1,
+    "neutral": 2,
     "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "ca5a41c1ba17320c88bf98f087b01d70a0223a5b",
+      "title": "FIREPOWER: This is what military conscription looks like in Europe",
+      "summary": "Belgrade, PURL,",
+      "url": "https://www.euractiv.com/news/firepower-this-is-what-military-conscription-looks-like-in-europe/",
+      "source": "Euractiv",
+      "published_at": "2026-02-18T09:48:03+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "military conscription looks like in Europe Belgrade"
+    },
     {
       "id": "310a5a1c66e7e5d8d9f57c3dcf66806871a1d2c4",
       "title": "Serbian minister, officials on trial over Trump-linked hotel plan",
@@ -35,5 +46,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-17T10:06:04Z"
+  "last_updated": "2026-02-18T10:07:01Z"
 }

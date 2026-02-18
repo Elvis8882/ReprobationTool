@@ -1,16 +1,59 @@
 {
   "country": "HU",
-  "score": 55,
+  "score": 57,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 56,
+  "trend": 2,
+  "sources": 64,
   "sentiment": {
-    "positive": 0,
-    "neutral": 46,
-    "negative": 10
+    "positive": 1,
+    "neutral": 51,
+    "negative": 12
   },
   "latest_articles": [
+    {
+      "id": "d42e3423584f573e207e882db82d8db28bcd471c",
+      "title": "Marco Rubio’s warm words to Viktor Orbán reinforce EU fears that US seeks disunity in Europe",
+      "summary": "Secretary of state spoke of ‘golden age’ of US-Hungary relations at time of tense transatlantic relations with traditional alliesEven before he in effect endorsed Hungary’s Viktor Orbán before a crucial parliamentary ele…",
+      "url": "https://www.theguardian.com/us-news/2026/feb/17/marco-rubio-viktor-orban-eu-disunity-analysis",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-17T19:49:10+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Marco Rubio’s warm words to Viktor Orbán reinforce EU fears that US seeks disunity"
+    },
+    {
+      "id": "297aeadf3435328e70179e64e980f188cd725417",
+      "title": "Green groups fear backroom talks signal further EU deregulation",
+      "summary": "So-called strategic dialogues are being used by industry to question EU law, campaigners warn as they accuse the European Commission of shutting them out",
+      "url": "https://www.euractiv.com/news/green-groups-fear-backroom-talks-signal-further-eu-deregulation/",
+      "source": "Euractiv",
+      "published_at": "2026-02-17T17:46:08+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "36923428d1e7719db20364b99df1cea5d1ff4ca1",
+      "title": "Berlin court tells X to let Hungarian election researchers access data",
+      "summary": "Court of Appeal tells X to hand over public data to two German-based civil society groups which are researching election risks under the EU's Digital Services Act",
+      "url": "https://www.euractiv.com/news/berlin-court-tells-x-to-let-hungarian-election-researchers-access-data/",
+      "source": "Euractiv",
+      "published_at": "2026-02-17T17:31:53+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Hungarian election researchers access data"
+    },
+    {
+      "id": "75e1feb5a5cb00053acce85b134fdd9befc64119",
+      "title": "France vs Germany over ‘Made in Europe’",
+      "summary": "'Buy European' rift, questions about Hungary's budget payout and a parliamentary delay",
+      "url": "https://www.euractiv.com/news/france-vs-germany-over-made-in-europe/",
+      "source": "Euractiv",
+      "published_at": "2026-02-17T11:26:30+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "questions about Hungary's budget payout"
+    },
     {
       "id": "923ef7dac9d78996e2c4bb38c4a96f024e10ee40",
       "title": "Call for Expression of Interest - Integrating the New European Bauhaus into Cohesion Policy Programmes - European Commission",
@@ -32,6 +75,28 @@
       "sentiment_fallback": true
     },
     {
+      "id": "660dac4cf640c7a95031d153af0262b65653d12b",
+      "title": "In Hungary, Marco Rubio Stresses Trump’s Support for Viktor Orban",
+      "summary": "The U.S. secretary of state said in Budapest that the president was “deeply committed” to the success of Viktor Orban, who has boasted of creating an “illiberal state.”",
+      "url": "https://www.nytimes.com/2026/02/16/world/europe/rubio-hungary-elections-orban-trump.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-16T23:12:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Viktor Orban, who has boasted of creating an “illiberal state.”"
+    },
+    {
+      "id": "193afdc43c52fa0227cc38eeb761fa39aa98e871",
+      "title": "Croatia to help Hungary, Slovakia with Russian oil shortage",
+      "summary": "Their arguments delaying Moscow’s energy phase out don’t stand anymore, Zagreb indicated",
+      "url": "https://www.euractiv.com/news/croatia-to-help-hungary-slovakia-with-russian-oil-shortage/",
+      "source": "Euractiv",
+      "published_at": "2026-02-16T17:11:50+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Croatia to help Hungary, Slovakia with Russian oil shortage"
+    },
+    {
       "id": "849014d72fdf7cfb2ef832ccf383d42b2b0f1fa9",
       "title": "Rubio lends hand to Hungary’s Orban as he faces tough election",
       "summary": "“We want this country to do well,” Marco Rubio said during a visit to Budapest, “especially as long as you’re the prime minister.”",
@@ -41,6 +106,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Rubio lends hand to Hungary’s Orban as he faces tough election"
+    },
+    {
+      "id": "730035b1dce4e4c548286569282b0b1ad2703851",
+      "title": "‘Your success is our success,’ Rubio tells Orbán ahead of Hungary polls",
+      "summary": "Hungarians will vote in legislative elections on 12 April. Polls suggest Orbán's Fidesz party is trailing opposition leader Peter Magyar's TISZA",
+      "url": "https://www.euractiv.com/news/your-success-is-our-success-rubio-tells-orban-ahead-of-hungary-polls/",
+      "source": "Euractiv",
+      "published_at": "2026-02-16T15:28:12+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.7,
+      "evidence": "Orbán's Fidesz party is trailing opposition leader Peter Magyar's TISZA"
     },
     {
       "id": "30ee6d697af0e2edb484b28aa881418b36e8499a",
@@ -96,6 +172,16 @@
       "evidence": "Orban rival accuses opponents of blackmail plot ahead of Hungary election"
     },
     {
+      "id": "140eaf07c4b560d5c56d046722a3a10b09317491",
+      "title": "Median age in the EU increased by 2.1 years since 2015 - European Commission",
+      "summary": "Median age in the EU increased by 2.1 years since 2015&nbsp;&nbsp;European CommissionMedian age in the EU increased by 2.1 years since 2015 - Actualités - Eurostat&nbsp;&nbsp;European CommissionEurope ages faster than US…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WLVBsQlZ0T25vNGdZZ2ZjS0RLVFhkaWM3MXF2ZFBjbWhMTjRZbWdoRmVINGNXblNwLUZneGw4VnJIV3NaR2RCYVpxZUtiM1k5ZzBKcjRCaUsyVnRURFJIWjlYVEJEU0ZJeldaeGpuVUF5VVozOUhGaVNHYnF2UQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-13T10:02:52+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "61b04d5aa21b0b89503523ceceb7ee4abbf8776c",
       "title": "EU economy greenhouse gas emissions: +1.1% in Q3 2025 - European Commission",
       "summary": "EU economy greenhouse gas emissions: +1.1% in Q3 2025&nbsp;&nbsp;European CommissionCyprus ranks third in reducing greenhouse gas emissions in the EU&nbsp;&nbsp;ΚΥΠΕIn the third quarter of 2025, the EU produced more gree…",
@@ -135,91 +221,8 @@
       "published_at": "2026-02-12T13:16:33+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "891bbcb16477a3c9ec2bee8151b480a5ecf28034",
-      "title": "Commission should ‘annul’ €10.2bn payment to Hungary, European top court opinion says",
-      "summary": "Advocate General opinions are influential in guiding the ECJ's final judgment",
-      "url": "https://www.euractiv.com/news/commission-should-annul-e10-2bn-payment-to-hungary-european-top-court-opinion-says/",
-      "source": "Euractiv",
-      "published_at": "2026-02-12T12:15:51+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Commission should ‘annul’ €10.2bn payment to Hungary"
-    },
-    {
-      "id": "409a6cbd1b63791124c1487d0bef5adcf662f427",
-      "title": "Poland weighs EU court action against Hungary over ex-minister’s arrest warrant",
-      "summary": "Ziobro was granted political asylum by Viktor Orbán’s government in January",
-      "url": "https://www.euractiv.com/news/poland-weighs-eu-court-action-against-hungary-over-ex-ministers-arrest-warrant/",
-      "source": "Euractiv",
-      "published_at": "2026-02-11T15:25:55+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Hungary over ex-minister’s arrest warrant Ziobro was granted political asylum"
-    },
-    {
-      "id": "74ef5dcc9191ff34674319f2a4faec64cabdba51",
-      "title": "Von der Leyen defends EU carbon pricing at chemical industry summit",
-      "summary": "European Commission pledges to ensure revenue is channelled to help heavy industry decarbonise",
-      "url": "https://www.euractiv.com/news/von-der-leyen-defends-eu-carbon-pricing-at-chemical-industry-summit/",
-      "source": "Euractiv",
-      "published_at": "2026-02-11T12:59:58+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "5a909adf4102e2116c89f39ced354dfb91cfd6ae",
-      "title": "Von der Leyen calls for crackdown on ‘unnecessary’ national laws",
-      "summary": "“It is time for a deep regulatory housecleaning – at all levels,” the European Commission chief said as she called for an end to \"gold-plating\" of EU laws",
-      "url": "https://www.euractiv.com/news/von-der-leyen-calls-for-crackdown-on-unnecessary-national-laws/",
-      "source": "Euractiv",
-      "published_at": "2026-02-11T09:09:46+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "24cd014bf5eb8ce642c25a00f51d99d5d63014c9",
-      "title": "EU parliament adopts twin texts hardening migration policy",
-      "summary": "The EU's political centre of gravity has shifted firmly right in recent years, and a decline in irregular entries has not eased the political pressure to act on the hot-button issue",
-      "url": "https://www.euractiv.com/news/eu-parliament-adopts-twin-texts-hardening-migration-policy/",
-      "source": "Euractiv",
-      "published_at": "2026-02-10T16:17:40+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "a0a95d4490b0cab7d3c31f749a9ee5e2c36886e7",
-      "title": "THE HACK: Digital Omnibus will boost EU startups, says top EU bureaucrat",
-      "summary": "In today's edition: Cyberbullying action plan, VdL talks tough on competitiveness, Hungary plans DSA election workshop",
-      "url": "https://www.euractiv.com/news/the-hack-digital-omnibus-will-boost-eu-startups-says-top-eu-bureaucrat/",
-      "source": "Euractiv",
-      "published_at": "2026-02-10T08:47:43+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Hungary plans DSA election workshop"
-    },
-    {
-      "id": "168b61be3ca904a6490f7ab4bd6b8c7140b1a14c",
-      "title": "Meta warned EU plans to impose measures on tech giant to reverse WhatsApp AI policy",
-      "summary": "The move follows the European Commission announcing an investigation in December into whether the social media giant had breached antitrust rules.",
-      "url": "https://www.cnbc.com/2026/02/09/eu-interim-measures-meta-whatsapp-ai-policy-antritrust.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-02-09T10:06:24+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "a33c7aea720c37243fb424be272e24b46ae7f9b9",
-      "title": "Commission notifies Meta of possible interim measures to reverse exclusion of third-party AI assistants from WhatsApp - European Commission",
-      "summary": "Commission notifies Meta of possible interim measures to reverse exclusion of third-party AI assistants from WhatsApp&nbsp;&nbsp;European CommissionEU announces it plans to impose measures on Meta to reverse WhatsApp AI…",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyZ3NBZ3BhOW8wYmNjanhCczh3ZThmY3Y0WU4wREktemhCLXNZWWhzTFhZNElEYWcwUzFOM0tfRnpGT1hQVHVRNmY1VjBaR2swdVBUT1RDREpRMlBoVWhITHE5UU5Na1Qzd0hpR2NkUGs?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-09T09:01:26+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-17T10:06:04Z"
+  "last_updated": "2026-02-18T10:07:01Z"
 }

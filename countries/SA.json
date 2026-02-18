@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 39,
+  "sources": 42,
   "sentiment": {
     "positive": 0,
-    "neutral": 38,
-    "negative": 1
+    "neutral": 40,
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "b4111f67f37ff426afc2b8590feebaf3075bef6e",
+      "title": "Ramadan Begins In UAE: First fast observed as work hours shift; Iftar at 6:18 PM in Dubai",
+      "summary": "Ramadan 1447 AH commenced on Wednesday, February 18, 2026, following verified crescent moon sightings across the Middle East, including the UAE, Saudi Arabia, and Qatar. Dubai residents began their fast at dawn, with Ims…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-prayer-timings-today-dhuhr-iftar-and-isha-timings-for-1st-day-of-ramadan-2026/articleshow/128493838.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-02-18T06:20:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "including the UAE, Saudi Arabia, and Qatar"
+    },
     {
       "id": "db695a1b012fc362c115ec56d7862d97b0a209b2",
       "title": "Saudi’s 'Work Interruption' Service: What happens when domestic workers stop showing up",
@@ -21,6 +32,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Saudi’s 'Work Interruption' Service: What happens when domestic workers stop showing up"
+    },
+    {
+      "id": "77d38c354325894071fa184f351b245e7ef32c3a",
+      "title": "No licence, SR2,600 fine: Saudi transport authority targets private passenger cars",
+      "summary": "Saudi Arabia is set to enforce stricter rules against illegal passenger transport. Individuals using private cars for fares without a licence will face a SR2,600 fine. This move aims to boost penalties under the Land Tra…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/no-licence-sr2600-fine-saudi-transport-authority-targets-private-passenger-cars/articleshow/128448889.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-02-17T05:19:37+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Saudi Arabia is set to enforce stricter rules"
     },
     {
       "id": "8cc461cf05d1a8c56b9367294a43d6578cfbc96a",
@@ -144,6 +166,17 @@
       "evidence": "Riyadh To Doha In 2 Hours"
     },
     {
+      "id": "0baa41ad982011058c413e1efd1c01a2ac3cf1ab",
+      "title": "Tony Blair’s oil lobbying is a misleading rehash of fossil fuel industry spin",
+      "summary": "Ex-PM’s thinktank urges more drilling and fewer renewables, ignoring evidence that clean energy is cheaper and better for billsA thinktank with close ties to Saudi Arabia and substantial funding from a Donald Trump ally…",
+      "url": "https://www.theguardian.com/business/2026/feb/13/tony-blair-oil-lobbying-fossil-fuel-industry-renewables-energy-bills",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-13T00:01:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "close ties to Saudi Arabia ... urges more drilling"
+    },
+    {
       "id": "4a113d424ae2baba8369966d94e1d8baa71bdfff",
       "title": "Saudi oil giant gives $280 billion boost to GDP, creates 200,000 jobs",
       "summary": "Saudi Aramco has reached a significant milestone, achieving 70% local content in its supply chain. This achievement strengthens Saudi Arabia's industrial base and diversifies its economy beyond oil. The program has creat…",
@@ -197,41 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Saudi Arabia permits alcohol sale for wealthy expats"
-    },
-    {
-      "id": "9a1850ca744d0993cecb63281054030aa9c4dca3",
-      "title": "Prince William Visits Saudi Arabia for Delicate Diplomacy",
-      "summary": "The heir to the British throne will meet with Crown Prince Mohammed bin Salman, as Britain and Saudi Arabia look to strengthen ties.",
-      "url": "https://www.nytimes.com/2026/02/09/world/europe/prince-william-saudi-arabia-diplomacy.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-09T19:50:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Britain and Saudi Arabia look to strengthen ties"
-    },
-    {
-      "id": "5b5064d0e85275c338fe62f85de44943aa3e4645",
-      "title": "Saudi Arabia large-scale terminal reshuffle: Flight changes, cut-off times, other key details for passengers heading to Riyadh airport",
-      "summary": "King Khalid International Airport will undergo a significant terminal reshuffle from February 16 to February 25, 2026. This extensive operation will gradually reassign flights across multiple terminals for Saudia, flynas…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-large-scale-terminal-reshuffle-flight-changes-cut-off-times-other-key-details-for-passengers-heading-to-riyadh-airport/articleshow/128100888.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-02-09T06:56:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Saudi Arabia large-scale terminal reshuffle"
-    },
-    {
-      "id": "3663260359ad9854dda34b601ab34cbf3a9c5541",
-      "title": "Saudi Arabia cracks down: Over 20,000 arrested for residency, labour and border law violations",
-      "summary": "Saudi security agencies arrested over 20,000 individuals for violating residency, labor, and border laws during intensified enforcement operations. The crackdown, which also saw 11,656 deportations, targeted illegal resi…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-cracks-down-over-20000-arrested-for-residency-labour-and-border-law-violations/articleshow/128059665.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-02-08T05:37:22+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Saudi Arabia cracks down: Over 20,000 arrested for residency, labour and border law violations"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-17T10:06:04Z"
+  "last_updated": "2026-02-18T10:07:01Z"
 }

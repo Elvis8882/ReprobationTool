@@ -1,16 +1,81 @@
 {
   "country": "IT",
-  "score": 72,
+  "score": 99,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 149,
+  "trend": 27,
+  "sources": 159,
   "sentiment": {
-    "positive": 9,
-    "neutral": 132,
+    "positive": 12,
+    "neutral": 139,
     "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "6f6065e005f07c6139d1fc1a81aa97c117d4c881",
+      "title": "Alberto Tomba Was an ’80s and ’90s Icon. The Olympics Have Brought Him Back.",
+      "summary": "Nicknamed “Tomba la Bomba,” the Italian skier was a global superstar before he drifted from the limelight. Decades later, the Winter Games have given him a new platform.",
+      "url": "https://www.nytimes.com/2026/02/18/world/europe/alberto-tomba-was-an-80s-icon-the-olympics-have-brought-him-back.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-18T07:27:31+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Alberto Tomba Was an ’80s and ’90s Icon."
+    },
+    {
+      "id": "e5513ec35bb0d032ca93d1225d0783d96626175e",
+      "title": "Video: Shocking Surveillance Clip Shows Man Attempting To Kidnap Toddler In Supermarket",
+      "summary": "Surveillance footage shows a man trying to kidnap a toddler at an Italian supermarket.",
+      "url": "https://www.ndtv.com/world-news/video-shocking-surveillance-clip-shows-man-attempting-to-kidnap-toddler-in-supermarket-11052424#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-18T07:02:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Man Attempting To Kidnap Toddler In Supermarket"
+    },
+    {
+      "id": "bc4e07aeb21bcb0211183baab495effe8cdbf268",
+      "title": "Winter Olympics 2026: How to watch day 13 live – full schedule and medal events on Thursday 19 February - Milano Cortina 2026",
+      "summary": "Winter Olympics 2026: How to watch day 13 live – full schedule and medal events on Thursday 19 February&nbsp;&nbsp;Milano Cortina 2026Everything that happened on Day 11 at the Milan Cortina Winter Olympics 2026 - The Ath…",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeHJWenl4YUhVNXpKRjJuUU0wZ3BaNWprMEtRZXZaU25aUHBPV0tNR1VwblNGd0YyXzNKR2VTTEVRal9kUjVwQlFYSzg1Tm1Kel94dW9RQUd0X0ZzaUZnSDNSSGxuanFMWklwbGtVQ1QxYllyVEpoNGxTU1Nwc1Z6OG9kMzFVZ0RUa1hEbms2MW5fc2ladXhVSVhOLUFzVlc3TFBfbUdwZWtJMlRCRW9sb1E0cnBGWWVlVy1FTGwtNFFkR2V3WXV4cVR3OG5ScGF6SWZnNWh2SGI5Z2ZfcG9YUXlIelBQTUJz?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-18T06:33:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Milano Cortina Winter Olympics 2026"
+    },
+    {
+      "id": "297aeadf3435328e70179e64e980f188cd725417",
+      "title": "Green groups fear backroom talks signal further EU deregulation",
+      "summary": "So-called strategic dialogues are being used by industry to question EU law, campaigners warn as they accuse the European Commission of shutting them out",
+      "url": "https://www.euractiv.com/news/green-groups-fear-backroom-talks-signal-further-eu-deregulation/",
+      "source": "Euractiv",
+      "published_at": "2026-02-17T17:46:08+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "2872b05be5837855becfbbbf4643443074e123cf",
+      "title": "Rome mulls ETS rebate to bring down electricity prices",
+      "summary": "Planned state intervention would transfer carbon costs from gas-fired power plant operators to consumers",
+      "url": "https://www.euractiv.com/news/rome-mulls-ets-rebate-to-bring-down-electricity-prices/",
+      "source": "Euractiv",
+      "published_at": "2026-02-17T17:32:02+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Rome mulls ETS rebate to bring down electricity prices"
+    },
+    {
+      "id": "0bae447558417f9edf18bccbbf9239beb7be89c3",
+      "title": "The Drone Games: Flying Cameras Are Everywhere at the Winter Olympics",
+      "summary": "The robotic cameras chase behind lugers, skiers and speedskaters across the venues in Northern Italy. Some spectators find they’re as much fun to watch as the athletes.",
+      "url": "https://www.nytimes.com/2026/02/17/world/europe/drones-winter-olympics-milan-cortina.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-17T10:03:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "venues in Northern Italy"
+    },
     {
       "id": "923ef7dac9d78996e2c4bb38c4a96f024e10ee40",
       "title": "Call for Expression of Interest - Integrating the New European Bauhaus into Cohesion Policy Programmes - European Commission",
@@ -41,6 +106,17 @@
       "published_at": "2026-02-17T05:00:53+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "b189aba47746d4c12024e5fcdee828578ecd26e9",
+      "title": "Franco-German-led ‘E6’ format will be ‘temporary’, says Eurogroup president",
+      "summary": "Pierrakakis says he is \"positive\" about the decision by France, Germany, Italy, the Netherlands, Poland, and Spain to accelerate market integration",
+      "url": "https://www.euractiv.com/news/franco-german-led-e6-format-will-be-temporary-says-eurogroup-president/",
+      "source": "Euractiv",
+      "published_at": "2026-02-16T20:17:06+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "decision by France, Germany, Italy... to accelerate market integration"
     },
     {
       "id": "07cff61452222ba80a941df97bab205124613a10",
@@ -118,6 +194,17 @@
       "sentiment_fallback": true
     },
     {
+      "id": "6d45fa9447cccb7634f8e33b4947e68af021dce0",
+      "title": "Men’s Olympic qualifications set - IIHF",
+      "summary": "Men’s Olympic qualifications set&nbsp;&nbsp;IIHF2026 Milano Cortina Olympics qualification playoff games preview&nbsp;&nbsp;NHL.comOlympic men's hockey bracket set for knockout stage&nbsp;&nbsp;SportsnetPower Rankings&nb…",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONUhNemZVQVpkWDdlS0ptcE1sal9NaWRJQVY0SHVNWDBQMElzbWpRWE9VNHZPSFZ6Mmo3bkJYSGVOSU1FbUVvczQxNl9LRDFSZGJUcnhNYWNIM2R3eGUzMzFyMEo1eC1Nb1JJanJiT3ZvMWlmM3F5VzM3TzFyZmEyTEdUdkRSMkN5MldKdHlFRzJtVG5VSk1wSVI0N2JYZENUQnpiWGZWdV9VUnM?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-15T23:29:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Milano Cortina Olympics"
+    },
+    {
       "id": "ddd2bf503213c1100266a66742b61906f925fe49",
       "title": "Italy, Romania to join Trump’s ‘Board of Peace’ as observers",
       "summary": "Mediterranean Commissioner Dubravka Šuica is expected to represent the EU at the inaugural meeting in Washington on Thursday",
@@ -138,95 +225,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Milan Cortina Olympics"
-    },
-    {
-      "id": "988fcaac3452b56d47acd50fbec1f2c666b6224e",
-      "title": "How Italy’s Federica Brignone Won Gold in Giant Slalom.",
-      "summary": "At 35, Federica Brignone of Italy became the oldest Olympic Alpine gold medalist. Mikaela Shiffrin of the U.S. finished a disappointing 11th.",
-      "url": "https://www.nytimes.com/2026/02/15/world/federica-brignone-mikaela-shiffrin-giant-slalom.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-15T18:11:03+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Italy’s Federica Brignone Won Gold in Giant Slalom"
-    },
-    {
-      "id": "ea2d528512be900652ac2517f33e3c5db834a6ac",
-      "title": "Love is in the air at the Milano Cortina 2026 Winter Games - Milano Cortina 2026",
-      "summary": "Love is in the air at the Milano Cortina 2026 Winter Games&nbsp;&nbsp;Milano Cortina 2026Meet the power couples of the 2026 Winter Games, from rivals to teammates&nbsp;&nbsp;NPRHeated Rivalry and Marital Bliss: Two Wives…",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQk1wbk1uSTRzbzU1U3QzcXZNQTZoM1F3ZEdVcHpBVVZfS1JkSXE0alRXN1NoUU5uemxfTndFNFhxa04xZWpWQW5mLUxMVEpvcGgzNExpc25JNm1taVFqLUJhbGJ4bGNEY2d5OUxtdGF0akwtUFhwdXZxMUtGN25GR211U1NvTnhpMTBVYXU2RW56UWJfUzlsZG5CRnlrb3RNdmtNZzV6MUFZSUQ5YktnUw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-14T16:11:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Milano Cortina 2026 Winter Games"
-    },
-    {
-      "id": "a2358071a349b0dfd76dd522876414d90cbe79a2",
-      "title": "Winter Olympics 2026 men's ice hockey tournament: Which teams have qualified for the quarter-finals? - complete list - Milano Cortina 2026",
-      "summary": "Winter Olympics 2026 men's ice hockey tournament: Which teams have qualified for the quarter-finals? - complete list&nbsp;&nbsp;Milano Cortina 2026Olympics 2026 men's hockey: Standings, stats, schedule, more&nbsp;&nbsp;E…",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQY2JTdkJiMWFzeVhHVnk3RU5leEN6M09QY1hJOEZJUmFsQW45eC1oZmNuWkxTSm1DNENWUzBueDRiY1lYd2dTbF9qeFJKYi1rUXY1UjB0TEstekJqSWhvMHU4cUVDdFB2d3piSHNNbXNuTVlXdm5WNFBhNkFJNmtNQzVrMmNVMjRLZFFHSzVrUTBaaktKdm9IY2UtdUVUN2ZSY21TWWFEOW9hUXBKcDhCdWZ5V2RpcHJoVHNVU0NQSHpmV0VRSGo4V2hEZ2MyRmpuRy1hLWdJOFdUVjhMV01GWUxzRVJJeTZsaklDVk5nTWpCNXIzTFpleQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-14T13:45:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Milano Cortina 2026"
-    },
-    {
-      "id": "127e4472109547880d0d24eac0f40196ddb6fd68",
-      "title": "Haiti’s Winter Olympics kit redesigned at last minute to fit IOC guidelines",
-      "summary": "Designer Stella Jean forced to paint over image of revolutionary on ski suits after being told it breached rulesWinter Olympics live – latest updatesThe designer behind the Haitian team’s uniform for the 2026 Winter Olym…",
-      "url": "https://www.theguardian.com/world/2026/feb/13/haiti-winter-olympics-ski-uniform-redesigned-ioc-guidelines",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-13T16:00:28+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Haitian-Italian designer Stella Jean"
-    },
-    {
-      "id": "e2b1d355bcca9dcbd1c593e0613da0f485d627c8",
-      "title": "Seven gold medals make German lugers the most successful - Xinhua",
-      "summary": "Seven gold medals make German lugers the most successful&nbsp;&nbsp;XinhuaWinter Olympics 2026: Two Tobis, one mission – Germany’s luge double sensations race for Olympic history&nbsp;&nbsp;Milano Cortina 2026Germany 4-f…",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81eGQtNklFZzEzYjE0ZE9QWGdMZ0g3c010cEVTTDd1MlVsQ281NmxSV2xSd1pjaGM1bDBZZDJVUXRVSy02U0FhNzYtek9PYnZyblhDUWtMNVFrdElqZjV0dnloWWNKbllnOU53dW5pNTZTTHZWb2xzVzM1M1Y?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-13T12:38:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Milano Cortina 2026"
-    },
-    {
-      "id": "d8cd8f2648c9f092f25bc2cc31e05ff14c46528e",
-      "title": "In Milan, Olympics fever arrives fashionably late",
-      "summary": "The geographic spread of Italy’s Olympics yielded a tale of two winter games – exuberance in the Alps and and a mellow vibe in Milan.",
-      "url": "https://www.washingtonpost.com/sports/olympics/2026/02/13/italy-milan-two-winter-olympics/",
-      "source": "World (Washington post)",
-      "published_at": "2026-02-13T10:07:34+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Italy’s Olympics yielded a tale of two winter games"
-    },
-    {
-      "id": "61b04d5aa21b0b89503523ceceb7ee4abbf8776c",
-      "title": "EU economy greenhouse gas emissions: +1.1% in Q3 2025 - European Commission",
-      "summary": "EU economy greenhouse gas emissions: +1.1% in Q3 2025&nbsp;&nbsp;European CommissionCyprus ranks third in reducing greenhouse gas emissions in the EU&nbsp;&nbsp;ΚΥΠΕIn the third quarter of 2025, the EU produced more gree…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96VWJTQ2djV0g2NUx2bTlnSlZmY19udU9XUGxYRllub2xRVW1vaTJxVWtFQkN3UmR5WEx6QnFETzhuZ2dha3FTY1dOU3JQaElVVFpHNExWNkg5TXVmNEF6eExsTmFKaHpOYXVJOFk3OWhLSVB5a0VuYzJ4TUFDZw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-13T10:02:52+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "958b106375ff9abea708951e7555f3e3c715284e",
-      "title": "Milan Has an Affordable Housing Crisis. Can the Olympic Village Help?",
-      "summary": "The accommodation for athletes includes a video game lounge, massage room and a range of food options. Starting from September, it will house students — or at least those who can afford the rent.",
-      "url": "https://www.nytimes.com/2026/02/13/world/europe/milan-housing-crisis-olympic-village.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-13T09:54:19+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Milan Has an Affordable Housing Crisis"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-17T10:06:04Z"
+  "last_updated": "2026-02-18T10:07:01Z"
 }

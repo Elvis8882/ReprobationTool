@@ -1,16 +1,27 @@
 {
   "country": "CH",
-  "score": 69,
+  "score": 76,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 14,
-  "sources": 15,
+  "trend": 7,
+  "sources": 17,
   "sentiment": {
-    "positive": 2,
+    "positive": 4,
     "neutral": 11,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "6df49a4c4d6f52a627fffcba4bfc44b5a807874c",
+      "title": "First day of Russia-Ukraine peace talks ends in Geneva",
+      "summary": "Negotiations will continue on Wednesday, but expectations for a breakthrough on ending the war are low.",
+      "url": "https://www.bbc.com/news/articles/cge812y2549o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-17T20:05:13+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "peace talks ends in Geneva"
+    },
     {
       "id": "ef222b5e053780b7f59df17a28760449a506688e",
       "title": "Russia launches 400 drones and 29 missiles at Ukraine hours before peace talks in Geneva – Europe live",
@@ -43,6 +54,17 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Switzerland both avoid falling into recession"
+    },
+    {
+      "id": "687a891499f7d9df8ce0918ee5b38da19aa6d6d0",
+      "title": "Iran must abandon enriched uranium and not produce more, Netanyahu says",
+      "summary": "The Israeli PM's comments come ahead of Iran-US talks in Geneva on Tuesday to discuss a nuclear deal.",
+      "url": "https://www.bbc.com/news/articles/cly191kz1lpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-16T04:26:53+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Iran-US talks in Geneva"
     },
     {
       "id": "c290e988924eb30810da1f6f6d5afb6603d3309d",
@@ -178,5 +200,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-17T10:06:04Z"
+  "last_updated": "2026-02-18T10:07:01Z"
 }

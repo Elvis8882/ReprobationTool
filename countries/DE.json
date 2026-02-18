@@ -1,16 +1,92 @@
 {
   "country": "DE",
-  "score": 100,
+  "score": 99,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 109,
+  "trend": -1,
+  "sources": 119,
   "sentiment": {
-    "positive": 23,
-    "neutral": 73,
-    "negative": 13
+    "positive": 26,
+    "neutral": 77,
+    "negative": 16
   },
   "latest_articles": [
+    {
+      "id": "b16f7efa0d810ef1de2aa39a0c79563a0ec81e8a",
+      "title": "Germany’s Merz calls EU carbon pricing ‘tremendous success’",
+      "summary": "German chancellor gives ringing endorsement of Emissions Trading Scheme, just a week after suggesting a review",
+      "url": "https://www.euractiv.com/news/germanys-merz-calls-eu-carbon-pricing-tremendous-success/",
+      "source": "Euractiv",
+      "published_at": "2026-02-18T09:35:49+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Germany’s Merz calls EU carbon pricing ‘tremendous success’"
+    },
+    {
+      "id": "995c005e504560877133d0e6b0d09438541a9dca",
+      "title": "Germany’s long-awaited fiscal stimulus is finally here — but there’s a defense spending catch, says Goldman Sachs",
+      "summary": "Germany's defense spending is set to surge this year, but the country may not execute on its \"ambitious\" budget target, Goldman's analyst said.",
+      "url": "https://www.cnbc.com/2026/02/18/goldman-sachs-germany-defense-spending-military-fiscal-stimulus-equities.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-18T06:00:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "defense spending catch"
+    },
+    {
+      "id": "b516a1e9318fa64f80ab7673b00bdcb129c8b028",
+      "title": "Javier Bardem and Tilda Swinton among those to condemn Berlinale’s ‘silence’ on Gaza",
+      "summary": "At least 80 film-makers and stars sign open letter after German festival jury president Wim Wenders says they should keep out of politicsMore than 80 current and former participants of the Berlinale, including Javier Bar…",
+      "url": "https://www.theguardian.com/culture/2026/feb/17/javier-bardem-and-tilda-swinton-among-those-to-condemn-berlinales-silence-on-gaza",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-17T19:30:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "German festival jury president Wim Wenders says they should keep out of politics"
+    },
+    {
+      "id": "297aeadf3435328e70179e64e980f188cd725417",
+      "title": "Green groups fear backroom talks signal further EU deregulation",
+      "summary": "So-called strategic dialogues are being used by industry to question EU law, campaigners warn as they accuse the European Commission of shutting them out",
+      "url": "https://www.euractiv.com/news/green-groups-fear-backroom-talks-signal-further-eu-deregulation/",
+      "source": "Euractiv",
+      "published_at": "2026-02-17T17:46:08+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "36923428d1e7719db20364b99df1cea5d1ff4ca1",
+      "title": "Berlin court tells X to let Hungarian election researchers access data",
+      "summary": "Court of Appeal tells X to hand over public data to two German-based civil society groups which are researching election risks under the EU's Digital Services Act",
+      "url": "https://www.euractiv.com/news/berlin-court-tells-x-to-let-hungarian-election-researchers-access-data/",
+      "source": "Euractiv",
+      "published_at": "2026-02-17T17:31:53+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Berlin court tells X to let Hungarian election researchers access data"
+    },
+    {
+      "id": "5608c3c946a49abda7534e8960c77653acfa5fd7",
+      "title": "Lithuanian president, Latvian and Estonian PMs meet German chancellor - The Baltic Times",
+      "summary": "Lithuanian president, Latvian and Estonian PMs meet German chancellor&nbsp;&nbsp;The Baltic TimesGerman Brigade in Lithuania Recruits Only 10% of Personnel&nbsp;&nbsp;МілітарнийGermany fails to fill crucial brigade on Ru…",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWNkUUZJanRKeHBxWWVpMVgtWGRmLVloM1hMYUh1OEp4VEtDUzJWRmtqblppUW9zWGxVZ2RSd1BmQTdVSXVwakZJOHpnUUM1MWVnQ0JMRE83RzRUcjZncndXTUVDOExSSTQtNklkcFZ1Z2R0cWg4Q1laUkhnSEcxNldQTGM4ZDhiWUxlREp2Q2dGZWdmcHgwSmYxbjRBVlU?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-17T13:56:32+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Germany fails to fill crucial brigade on Russia border"
+    },
+    {
+      "id": "75e1feb5a5cb00053acce85b134fdd9befc64119",
+      "title": "France vs Germany over ‘Made in Europe’",
+      "summary": "'Buy European' rift, questions about Hungary's budget payout and a parliamentary delay",
+      "url": "https://www.euractiv.com/news/france-vs-germany-over-made-in-europe/",
+      "source": "Euractiv",
+      "published_at": "2026-02-17T11:26:30+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "France vs Germany over ‘Made in Europe’"
+    },
     {
       "id": "923ef7dac9d78996e2c4bb38c4a96f024e10ee40",
       "title": "Call for Expression of Interest - Integrating the New European Bauhaus into Cohesion Policy Programmes - European Commission",
@@ -41,6 +117,28 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "AOC Expresses Frustrations"
+    },
+    {
+      "id": "b189aba47746d4c12024e5fcdee828578ecd26e9",
+      "title": "Franco-German-led ‘E6’ format will be ‘temporary’, says Eurogroup president",
+      "summary": "Pierrakakis says he is \"positive\" about the decision by France, Germany, Italy, the Netherlands, Poland, and Spain to accelerate market integration",
+      "url": "https://www.euractiv.com/news/franco-german-led-e6-format-will-be-temporary-says-eurogroup-president/",
+      "source": "Euractiv",
+      "published_at": "2026-02-16T20:17:06+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "decision by France, Germany... to accelerate market integration"
+    },
+    {
+      "id": "50e3bea9d82415c060c47c41dfaf6f24277f88b5",
+      "title": "German Woman Hid Mother's Dead Body For Years To Claim Pension: Cops",
+      "summary": "Police discovered the mother's mummified corpse in early February. (Representational)",
+      "url": "https://www.ndtv.com/world-news/mummified-body-of-woman-aged-over-100-found-in-daughters-home-in-germany-11012079#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-16T17:52:03+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": ""
     },
     {
       "id": "a098a113dd3ceef0f697cf9f89811439ef35abc8",
@@ -127,107 +225,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "German Animation Showcase at EFM Pitch Sessions"
-    },
-    {
-      "id": "d2c6c17eab1886201913532ef45331f75418b86f",
-      "title": "China wants ‘new level’ in Germany ties, Beijing’s FM tells Merz",
-      "summary": "Deep economic ties between the two countries have frayed in recent years",
-      "url": "https://www.euractiv.com/news/china-wants-new-level-in-germany-ties-beijings-fm-tells-merz/",
-      "source": "Euractiv",
-      "published_at": "2026-02-15T09:11:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Deep economic ties between the two countries have frayed"
-    },
-    {
-      "id": "9da20c755165d62bbbdcc1879cd9c60efa0f5bd4",
-      "title": "Berlin Flashback: Jamie Bell’s First Fest Foray Was ‘Hallam Foe’ - The Hollywood Reporter",
-      "summary": "Berlin Flashback: Jamie Bell’s First Fest Foray Was ‘Hallam Foe’&nbsp;&nbsp;The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTBjanFaNG1sQ2lJMmk0eEd0QWtoSjFjc1FUVld2S1p1Tm1aaVhCWjdqdEdNRWU4ZjU0elVDXzBtcERDTHFrM28tODUwZ0p1akpCWGxuby1jSDQ2dUxQb0dBN1BHTEhRSVdkcDVKdnZsQUJfM0RhNnhLc2N0OXc1VjJXaVA1cm9HRGZtOGxpRzVydm1rc3N4Qy1EdFlxRHJXdVdMUi1pOGduWHBsaWhBaG9oZEFveXgzRUE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-15T07:00:20+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Berlin Flashback: Jamie Bell’s First Fest Foray"
-    },
-    {
-      "id": "3d2587152741ff20b558d14d647aca2f63655e65",
-      "title": "Nobody in Europe arguing to replace US nuclear umbrella, NATO chief says",
-      "summary": "Germany and France are currently discussing European nuclear deterrence",
-      "url": "https://www.euractiv.com/news/nobody-in-europe-arguing-to-replace-us-nuclear-umbrella-nato-chief-says/",
-      "source": "Euractiv",
-      "published_at": "2026-02-14T14:10:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Germany and France are currently discussing European nuclear deterrence"
-    },
-    {
-      "id": "d795b82903ab0cd06b326e08e27d2b8567ab3724",
-      "title": "Why writer Arundhati Roy's cult classic film is still relevant in India",
-      "summary": "Nearly 40 years on, the Booker prize-winning writer's debut campus satire is set to be screened in Berlin.",
-      "url": "https://www.bbc.com/news/articles/cn9exzl254xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-14T01:45:02+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "screened in Berlin"
-    },
-    {
-      "id": "3f4c39e25ad553a991388645b0c6ab4d460eeb74",
-      "title": "Germany’s leader says his country is in discussions with France on a European nuclear deterrent.",
-      "summary": "",
-      "url": "https://www.nytimes.com/live/2026/02/13/world/munich-security-conference/germanys-leader-says-his-country-is-in-discussions-with-france-on-a-european-nuclear-deterrent",
-      "source": "NYT > World News",
-      "published_at": "2026-02-13T21:08:39+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Germany’s leader says his country is in discussions with France on a European nuclear deterrent."
-    },
-    {
-      "id": "ea1652c132705063245a4854b2c829a49c772f9a",
-      "title": "US ‘not powerful enough to go it alone’, Merz tells Munich conference",
-      "summary": "German chancellor rebuts idea of American unilateralism and says ‘democracies have partners and allies’The US acting alone has reached the limits of its power and may already have lost its role as global leader, Friedric…",
-      "url": "https://www.theguardian.com/world/2026/feb/13/us-not-powerful-enough-to-go-it-alone-merz-tells-munich-conference",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-13T19:47:04+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "German chancellor ... call for Europe to develop a stronger self-standing security strategy"
-    },
-    {
-      "id": "fc8cf2c85e282cd94a3d433a40090ea78aaf5fce",
-      "title": "Germany’s Merz says culture wars opened ‘rift’ between US and Europe",
-      "summary": "The German leader urged Washington to \"repair and revive transatlantic trust together.\"",
-      "url": "https://www.euractiv.com/news/germanys-merz-says-culture-wars-opened-rift-between-us-and-europe/",
-      "source": "Euractiv",
-      "published_at": "2026-02-13T14:15:58+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "urged Washington to \"repair and revive transatlantic trust together.\""
-    },
-    {
-      "id": "ba7fad816083fe084c3f0148bd2640e00572b21d",
-      "title": "German Officials Needle Trump at Munich Security Conference",
-      "summary": "Friedrich Merz, the chancellor of Germany, said that under President Trump, the United States’ claim to global leadership “has been challenged, and possibly squandered.”",
-      "url": "https://www.nytimes.com/2026/02/13/world/europe/germany-merz-trump-munich.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-13T14:08:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "United States’ claim to global leadership “has been challenged, and possibly squandered.”"
-    },
-    {
-      "id": "e2b1d355bcca9dcbd1c593e0613da0f485d627c8",
-      "title": "Seven gold medals make German lugers the most successful - Xinhua",
-      "summary": "Seven gold medals make German lugers the most successful&nbsp;&nbsp;XinhuaWinter Olympics 2026: Two Tobis, one mission – Germany’s luge double sensations race for Olympic history&nbsp;&nbsp;Milano Cortina 2026Germany 4-f…",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81eGQtNklFZzEzYjE0ZE9QWGdMZ0g3c010cEVTTDd1MlVsQ281NmxSV2xSd1pjaGM1bDBZZDJVUXRVSy02U0FhNzYtek9PYnZyblhDUWtMNVFrdElqZjV0dnloWWNKbllnOU53dW5pNTZTTHZWb2xzVzM1M1Y?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-13T12:38:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "German lugers the most successful"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-17T10:06:04Z"
+  "last_updated": "2026-02-18T10:07:01Z"
 }

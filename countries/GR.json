@@ -1,16 +1,48 @@
 {
   "country": "GR",
-  "score": 63,
+  "score": 62,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 59,
+  "trend": -1,
+  "sources": 63,
   "sentiment": {
     "positive": 3,
-    "neutral": 49,
-    "negative": 7
+    "neutral": 51,
+    "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "236d304bf3dd812e9728a2cd422245073ffad806",
+      "title": "Excruciating tropical disease can now be transmitted in most of Europe, study finds",
+      "summary": "‘Shocking’ data shows the climate crisis and invasive mosquitos mean chikungunya could spread in 29 countriesAn excruciatingly painful tropical disease called chikungunya can now be transmitted by mosquitoes across most…",
+      "url": "https://www.theguardian.com/science/2026/feb/18/tropical-disease-chikungunya-transmitted-europe-study",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-18T05:00:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "infections are now possible for more than six months of the year in Spain, Greece"
+    },
+    {
+      "id": "297aeadf3435328e70179e64e980f188cd725417",
+      "title": "Green groups fear backroom talks signal further EU deregulation",
+      "summary": "So-called strategic dialogues are being used by industry to question EU law, campaigners warn as they accuse the European Commission of shutting them out",
+      "url": "https://www.euractiv.com/news/green-groups-fear-backroom-talks-signal-further-eu-deregulation/",
+      "source": "Euractiv",
+      "published_at": "2026-02-17T17:46:08+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "2e441759013110d9d062787d3bc2820f0b1c9ca0",
+      "title": "EU could move ahead with Russian oil services ban without G7, says economy chief",
+      "summary": "Malta and Greece won't back the measure unless the US also gets on board",
+      "url": "https://www.euractiv.com/news/eu-could-move-ahead-with-russian-oil-services-ban-without-g7-says-economy-chief/",
+      "source": "Euractiv",
+      "published_at": "2026-02-17T13:59:47+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Malta and Greece won't back the measure unless the US also gets on board"
+    },
     {
       "id": "923ef7dac9d78996e2c4bb38c4a96f024e10ee40",
       "title": "Call for Expression of Interest - Integrating the New European Bauhaus into Cohesion Policy Programmes - European Commission",
@@ -61,6 +93,17 @@
       "published_at": "2026-02-16T05:00:43+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "140eaf07c4b560d5c56d046722a3a10b09317491",
+      "title": "Median age in the EU increased by 2.1 years since 2015 - European Commission",
+      "summary": "Median age in the EU increased by 2.1 years since 2015&nbsp;&nbsp;European CommissionMedian age in the EU increased by 2.1 years since 2015 - Actualités - Eurostat&nbsp;&nbsp;European CommissionEurope ages faster than US…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WLVBsQlZ0T25vNGdZZ2ZjS0RLVFhkaWM3MXF2ZFBjbWhMTjRZbWdoRmVINGNXblNwLUZneGw4VnJIV3NaR2RCYVpxZUtiM1k5ZzBKcjRCaUsyVnRURFJIWjlYVEJEU0ZJeldaeGpuVUF5VVozOUhGaVNHYnF2UQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-13T10:02:52+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "Greece’s Population Continues to Age"
     },
     {
       "id": "61b04d5aa21b0b89503523ceceb7ee4abbf8776c",
@@ -176,49 +219,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Greece is a serious EU actor"
-    },
-    {
-      "id": "5644d2d30f5989a204c1a370058f9f679b6011e6",
-      "title": "Weather tracker: Spain and Portugal hit by third deadly storm in two weeks",
-      "summary": "Storm Marta sweeps Iberian peninsula just days after Storms Kristin and Leonardo brought deadly flooding and major damageSpain and Portugal have endured another storm over the weekend, just days after the deadly flooding…",
-      "url": "https://www.theguardian.com/environment/2026/feb/09/weather-tracker-spain-and-portugal-hit-by-third-fatal-storm",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-09T11:00:20+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "western parts of Greece and Turkey"
-    },
-    {
-      "id": "168b61be3ca904a6490f7ab4bd6b8c7140b1a14c",
-      "title": "Meta warned EU plans to impose measures on tech giant to reverse WhatsApp AI policy",
-      "summary": "The move follows the European Commission announcing an investigation in December into whether the social media giant had breached antitrust rules.",
-      "url": "https://www.cnbc.com/2026/02/09/eu-interim-measures-meta-whatsapp-ai-policy-antritrust.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-02-09T10:06:24+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "a33c7aea720c37243fb424be272e24b46ae7f9b9",
-      "title": "Commission notifies Meta of possible interim measures to reverse exclusion of third-party AI assistants from WhatsApp - European Commission",
-      "summary": "Commission notifies Meta of possible interim measures to reverse exclusion of third-party AI assistants from WhatsApp&nbsp;&nbsp;European CommissionEU announces it plans to impose measures on Meta to reverse WhatsApp AI…",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyZ3NBZ3BhOW8wYmNjanhCczh3ZThmY3Y0WU4wREktemhCLXNZWWhzTFhZNElEYWcwUzFOM0tfRnpGT1hQVHVRNmY1VjBaR2swdVBUT1RDREpRMlBoVWhITHE5UU5Na1Qzd0hpR2NkUGs?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-09T09:01:26+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "b5598ca2e9944e1dda521b4938e3ebbcf3a0262f",
-      "title": "Plans to merge EU gas and electricity risk management prove divisive",
-      "summary": "The European Commission is expected to present a new approach to energy security in May",
-      "url": "https://www.euractiv.com/news/plans-to-merge-eu-gas-and-electricity-risk-management-prove-divisive/",
-      "source": "Euractiv",
-      "published_at": "2026-02-09T05:00:20+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-17T10:06:04Z"
+  "last_updated": "2026-02-18T10:07:01Z"
 }

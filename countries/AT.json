@@ -1,16 +1,59 @@
 {
   "country": "AT",
-  "score": 100,
+  "score": 65,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": null,
-  "sources": 43,
+  "trend": -35,
+  "sources": 50,
   "sentiment": {
-    "positive": 0,
-    "neutral": 43,
-    "negative": 0
+    "positive": 1,
+    "neutral": 47,
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "ebf6aa8d7d307a6868b600fbf5b0528fe2015c73",
+      "title": "Climber on trial for leaving girlfriend to die on Austria's highest mountain",
+      "summary": "Kerstin G's boyfriend is accused of leaving her unprotected and exhausted close to the summit during a blizzard.",
+      "url": "https://www.bbc.com/news/articles/c5yv9plyjgpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-18T07:58:02+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "Climber on trial for leaving girlfriend to die on Austria's highest mountain"
+    },
+    {
+      "id": "297aeadf3435328e70179e64e980f188cd725417",
+      "title": "Green groups fear backroom talks signal further EU deregulation",
+      "summary": "So-called strategic dialogues are being used by industry to question EU law, campaigners warn as they accuse the European Commission of shutting them out",
+      "url": "https://www.euractiv.com/news/green-groups-fear-backroom-talks-signal-further-eu-deregulation/",
+      "source": "Euractiv",
+      "published_at": "2026-02-17T17:46:08+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "9bfbc4abcb7edddc3740c6763d91a5f4ea6dcc09",
+      "title": "Economic governance: Council approves flexibility for Austria to increase defence spending - consilium.europa.eu",
+      "summary": "Economic governance: Council approves flexibility for Austria to increase defence spending&nbsp;&nbsp;consilium.europa.euEU approves Austria’s increase in public spending in name of defence&nbsp;&nbsp;Eunews\"National Esc…",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbnNmeWZMRFpDYzcxcEdOSkJYZUpaaHJPNVE1U3lBX0RpZ0NKX1J3YkFGZ2Fvb3EzbHczMDlhdmdSUU9Zc09Fc2VOdkRZVW1EZEFqSk5ENUl5Y1FRdG9RcTA5OXVXa2NGWWFRdUR5VGpwTkJPU3NmNjY0SVNOeHhHbTgtd215OU5IN1FzZl8wLWhQN2VyTzROeVR4R0hnRjB1bk50eVhpUWQ4Z040SXNCRi11YTloZUk3RGhjN3ItT1ZYYWgwREpGQVI3MXl3cVczRXhBbUlUT19ZS2lxbnlfd1UwU0gxTng3N3VhRWF3?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-17T11:26:59+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "approves flexibility for Austria to increase defence spending"
+    },
+    {
+      "id": "f2d9620c51a088a489bfde40d91e7d9749aa099d",
+      "title": "Austria Charges Man in Thwarted Attack on Taylor Swift Concert",
+      "summary": "The foiled plot led to the cancellation of three shows in 2024 that Ms. Swift had planned for Austria during her Eras tour.",
+      "url": "https://www.nytimes.com/2026/02/17/world/europe/taylor-swift-concert-charges-austria.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-17T10:51:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Austria Charges Man in Thwarted Attack on Taylor Swift Concert"
+    },
     {
       "id": "923ef7dac9d78996e2c4bb38c4a96f024e10ee40",
       "title": "Call for Expression of Interest - Integrating the New European Bauhaus into Cohesion Policy Programmes - European Commission",
@@ -31,6 +74,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Eurovision song contest in Vienna"
+    },
+    {
+      "id": "62116b2fd9b4f84ef9164d7ae473d095752dc4eb",
+      "title": "Vienna calling: Austria far right gathers strength after near miss",
+      "summary": "To thwart the FPÖ’s steady rise, the Austrian government tries to play the long game",
+      "url": "https://www.euractiv.com/news/boring-is-the-new-black-austrias-risky-attempt-to-play-the-long-game/",
+      "source": "Euractiv",
+      "published_at": "2026-02-17T05:02:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Austria far right gathers strength after near miss"
     },
     {
       "id": "b737071b57d61f2e30968376d46382616c731059",
@@ -59,6 +113,27 @@
       "url": "https://www.theguardian.com/world/2026/feb/16/eu-deportations-plan-ice-style-enforcement-rights-groups-warn",
       "source": "World news - The Guardian",
       "published_at": "2026-02-16T05:00:43+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "5957a3199a831ab49ade535961179d5289c948d6",
+      "title": "WATCH AGAIN: Eurovision 'Supernova' grand final! / Article - LSM",
+      "summary": "WATCH AGAIN: Eurovision 'Supernova' grand final! / Article&nbsp;&nbsp;LSM🇱🇻 Latvia: LSM Releases Supernova Final Rankings&nbsp;&nbsp;EurovoixLatvia: Atvara wins Supernova 2026 with \"Ēnā\"&nbsp;&nbsp;Eurovisionworld'Supern…",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHM0QUJqRF85TTNaNnZQVTJoWl9VcVQwamZZcTN5anBrMG52MG1JQ0RqMjRBRDVCaXJQTjNuQXk1N09WWVBPUXZVampxbVRsX0dGemlDVnpIdm9DX0RCYWI5TW9lSzBMN3p1M0tJR0FfQjMwLU1uVWYyNVVjeFF0U3JDRWpsZ2IwN084d04wbWVJZlU5UlZ3LWxyeHVybUhfU0NWY0pJSVQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-15T10:24:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "heading to Vienna for Latvia"
+    },
+    {
+      "id": "140eaf07c4b560d5c56d046722a3a10b09317491",
+      "title": "Median age in the EU increased by 2.1 years since 2015 - European Commission",
+      "summary": "Median age in the EU increased by 2.1 years since 2015&nbsp;&nbsp;European CommissionMedian age in the EU increased by 2.1 years since 2015 - Actualités - Eurostat&nbsp;&nbsp;European CommissionEurope ages faster than US…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WLVBsQlZ0T25vNGdZZ2ZjS0RLVFhkaWM3MXF2ZFBjbWhMTjRZbWdoRmVINGNXblNwLUZneGw4VnJIV3NaR2RCYVpxZUtiM1k5ZzBKcjRCaUsyVnRURFJIWjlYVEJEU0ZJeldaeGpuVUF5VVozOUhGaVNHYnF2UQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-13T10:02:52+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -142,78 +217,8 @@
       "published_at": "2026-02-09T10:06:24+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "a33c7aea720c37243fb424be272e24b46ae7f9b9",
-      "title": "Commission notifies Meta of possible interim measures to reverse exclusion of third-party AI assistants from WhatsApp - European Commission",
-      "summary": "Commission notifies Meta of possible interim measures to reverse exclusion of third-party AI assistants from WhatsApp&nbsp;&nbsp;European CommissionEU announces it plans to impose measures on Meta to reverse WhatsApp AI…",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyZ3NBZ3BhOW8wYmNjanhCczh3ZThmY3Y0WU4wREktemhCLXNZWWhzTFhZNElEYWcwUzFOM0tfRnpGT1hQVHVRNmY1VjBaR2swdVBUT1RDREpRMlBoVWhITHE5UU5Na1Qzd0hpR2NkUGs?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-09T09:01:26+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "b5598ca2e9944e1dda521b4938e3ebbcf3a0262f",
-      "title": "Plans to merge EU gas and electricity risk management prove divisive",
-      "summary": "The European Commission is expected to present a new approach to energy security in May",
-      "url": "https://www.euractiv.com/news/plans-to-merge-eu-gas-and-electricity-risk-management-prove-divisive/",
-      "source": "Euractiv",
-      "published_at": "2026-02-09T05:00:20+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f6ae3f02564815e6c049b5fa3610817c509e3a5d",
-      "title": "‘Buy European’ push could ‘wipe out’ EU deregulation drive, Nordics warn",
-      "summary": "The European Commission and France strongly support ‘Made in Europe’ policies",
-      "url": "https://www.euractiv.com/news/buy-european-push-could-wipe-out-eu-deregulation-drive/",
-      "source": "Euractiv",
-      "published_at": "2026-02-05T13:53:59+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "c68705a841df0f009f6d36295e737cd409428525",
-      "title": "68% of people living in EU households own their home - European Commission",
-      "summary": "68% of people living in EU households own their home&nbsp;&nbsp;European CommissionHome ownership in Cyprus at 69.4% in 2024, according to Eurostat&nbsp;&nbsp;ΚΥΠΕCroatia ranks among Europe’s leaders in home ownership in…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBONWVqZnloZ002MjROMFpMVGJKTGVGU3pfMDRhT0tsMnVlSktCRWdyWFlWTW1uMHc5SGpvaEFMUUZIcTh4ZDFmVHJpNXRjVFNtOWNpQ0Y1eHBOZGhBX2FEVS05VGV6al9QcjhpckUtYjR2Q3BhbGJ3VVhIM3U0Zw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-05T10:03:25+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "ba2c1ed894d35ff7ddee8cc4fb00839e0875516b",
-      "title": "EU Parliament to hold special plenary on Ukraine war anniversary",
-      "summary": "A debate on Russia's war in Ukraine and a vote on a new €90 billion defence-focused loan to Ukraine have also been moved to 24 February",
-      "url": "https://www.euractiv.com/news/eu-parliament-to-hold-special-plenary-on-ukraine-war-anniversary/",
-      "source": "Euractiv",
-      "published_at": "2026-02-04T16:31:51+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "2f9d435f07bd8bae98e2f3e374fd2a80a46a80e7",
-      "title": "EU hospitals released 5 million cancer patients in 2023 - European Commission",
-      "summary": "EU hospitals released 5 million cancer patients in 2023&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVQ2NySkxSYlp6RGZFV0NCWURjX0R6NmNaS1cxN0ROMk5PNUVmR2UxVlR4VzJrUmppZi1FQk9GNGNxY0k5UEFoUjkxUW5iZ1l5UU5zQmVnZ00zVkJYRFdIS0kybmFlT0ZqMVNCYnhmMkJiV3pHbVVMM3lmMzB0dw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-04T10:03:44+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f53abe1fa64119c20440250f0adaec42779d7c43",
-      "title": "French prosecutors ask appeal court to keep ban on Marine Le Pen running for office",
-      "summary": "Far-right leader was barred for five years after being found guilty of extensive fake jobs scam at European parliamentFrench state prosecutors have asked appeal court judges to maintain a five-year election ban on the fa…",
-      "url": "https://www.theguardian.com/world/2026/feb/03/french-prosecutors-ask-appeal-court-to-keep-ban-on-marine-le-pen-running-for-office",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-03T19:22:59+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-17T10:06:04Z"
+  "last_updated": "2026-02-18T10:07:01Z"
 }

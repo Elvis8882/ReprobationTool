@@ -1,16 +1,104 @@
 {
   "country": "IR",
-  "score": 17,
+  "score": 13,
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": -4,
-  "sources": 182,
+  "sources": 194,
   "sentiment": {
-    "positive": 17,
-    "neutral": 49,
-    "negative": 117
+    "positive": 19,
+    "neutral": 54,
+    "negative": 122
   },
   "latest_articles": [
+    {
+      "id": "56f4eb4056a761e3f38a392d15f7233d87d6ec50",
+      "title": "CNBC Daily Open: Iran-U.S. talks and Ukraine-Russia negotiations in focus — progress in sight?",
+      "summary": "Geopolitics will be the main theme of the day, with markets watching the high-stakes talks between the U.S. and Iran, as well as Ukraine and Russia.",
+      "url": "https://www.cnbc.com/2026/02/18/iran-us-talks-and-ukraine-russia-negotiations-in-focus-progress-in-sight.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-18T08:23:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Iran-U.S. talks and Ukraine-Russia negotiations in focus"
+    },
+    {
+      "id": "408b3fbce0bcfa87b180617a71489093cbb97a71",
+      "title": "US, Iran Praise Progress In Nuclear Talks After Trump Threats",
+      "summary": "The two sides will each draft and exchange texts for a deal.",
+      "url": "https://www.ndtv.com/world-news/us-iran-praise-progress-in-nuclear-talks-after-trump-threats-11052744#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-18T08:17:35+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "US, Iran Praise Progress In Nuclear Talks"
+    },
+    {
+      "id": "d68ee6958c30c98fe59162110dcf230d785249e8",
+      "title": "Carriers Deployed, Missiles Ready: How Close Is The US-Iran Conflict?",
+      "summary": "Two American carrier strike groups are now positioned within operational reach of Iran. One, the USS Abraham Lincoln, has been tracked roughly 700 kilometres from the Iranian coastline.",
+      "url": "https://www.ndtv.com/world-news/donald-trump-ayatollah-khamenei-us-iran-war-carriers-deployed-missiles-ready-how-close-is-the-us-iran-conflict-11051916#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-18T05:03:17+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Carriers Deployed, Missiles Ready: How Close Is The US-Iran Conflict?"
+    },
+    {
+      "id": "f2463d16d75f387fec51866f8ee4395ca88b64e3",
+      "title": "Is Trump Planning Iran Attack? US Sends 50 F-35, F-16 Jets To Middle East",
+      "summary": "Over 50 US fighter jets, including F-35s have been sent to West Asia (Representative Image)",
+      "url": "https://www.ndtv.com/world-news/50-f-35-f-22-f-16-jets-us-military-buildup-near-iran-amid-trumps-threat-11051848#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-18T04:52:10+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Is Trump Planning Iran Attack? US Sends 50 F-35, F-16 Jets"
+    },
+    {
+      "id": "101229e45976bbeff2556eb93c4f7d93abb4e0f8",
+      "title": "Trump Bets on Diplomacy Without Diplomats",
+      "summary": "President Trump’s most trusted envoys, Steve Witkoff and Jared Kushner, are at the center of the Iran and Ukraine negotiations.",
+      "url": "https://www.nytimes.com/2026/02/17/us/politics/trump-witkoff-kushner-diplomacy.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-18T03:12:44+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Iran and Ukraine negotiations"
+    },
+    {
+      "id": "a06569b11af82f93bf178a853d3b60b9b4f93ad6",
+      "title": "Oil prices fall as Iran sees progress in nuclear talks with U.S.",
+      "summary": "Iran and the U.S. reached a \"general agreement\" on Tuesday on guiding principles during talks in Geneva, Foreign Minister Abbas Araghchi said",
+      "url": "https://www.cnbc.com/2026/02/17/oil-prices-stable-as-iran-conducts-war-games-in-strait-of-hormuz.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-17T20:13:56+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Iran sees progress in nuclear talks with U.S."
+    },
+    {
+      "id": "ea54415262ed4f51bb89fe9e16fa95911199ecfe",
+      "title": "Amid threat of U.S. attack, Iran nuclear talks proceed without breakthrough",
+      "summary": "The meeting Tuesday occurred against the backdrop of an expanded U.S. military presence in the Middle East, as President Donald Trump threatens to attack Iran if a deal cannot be reached.",
+      "url": "https://www.washingtonpost.com/world/2026/02/17/iran-talks-geneva-nuclear-trump/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-17T18:11:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Iran nuclear talks proceed without breakthrough"
+    },
+    {
+      "id": "11bed802a8c9152f6f655d03d0d842cac6f87cb3",
+      "title": "Iran partially closes Strait of Hormuz, a vital oil choke point, as Tehran holds talks with U.S.",
+      "summary": "Iranian state media reported the partial closure of the Strait of Hormuz on Tuesday for military drills in the waterway.",
+      "url": "https://www.cnbc.com/2026/02/17/iran-us-strait-of-hormuz-oil-nuclear-talks-geneva.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-17T15:52:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "partially closes Strait of Hormuz, a vital oil choke point"
+    },
     {
       "id": "975e49daeb712cfea8bcdebfa133e47854fa6380",
       "title": "U.S. and Iran Gear Up for Nuclear Talks Amid Rising Tensions",
@@ -78,6 +166,28 @@
       "evidence": "antigovernment unrest, Iran is gripped by a mood of collective grief"
     },
     {
+      "id": "b316155f0b359921bdee8066e46d83ef6cced74c",
+      "title": "US build-up of warships and fighter jets tracked near Iran",
+      "summary": "BBC Verify has seen US aircraft carrier USS Abraham Lincoln near Iran ahead of talks between the two countries",
+      "url": "https://www.bbc.com/news/articles/c1d64p3q2d0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-16T18:17:18+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "US aircraft carrier USS Abraham Lincoln near Iran"
+    },
+    {
+      "id": "7bf020a82a72ab8a7784049ee436ff4073f95b96",
+      "title": "Popular anger burns in Iran after crackdown, as Trump turns up pressure",
+      "summary": "As the Trump administration heads into nuclear talks with Tehran after a government crackdown killed thousands, widespread outrage has not abated, Iranians say.",
+      "url": "https://www.washingtonpost.com/world/2026/02/16/iran-trump-nuclear-talks-protests-anger/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-16T18:07:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "government crackdown killed thousands, widespread outrage"
+    },
+    {
       "id": "2107992351fab735b9af4505f04cf95faad68890",
       "title": "Iran Holds Exercises in Strait of Hormuz After Trump Threatens Military Action",
       "summary": "The day before nuclear talks were set to resume, Iran conducted live drills in the Strait of Hormuz, a strategic waterway for oil and gas shipments.",
@@ -87,6 +197,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Iran Holds Exercises in Strait of Hormuz After Trump Threatens Military Action"
+    },
+    {
+      "id": "687a891499f7d9df8ce0918ee5b38da19aa6d6d0",
+      "title": "Iran must abandon enriched uranium and not produce more, Netanyahu says",
+      "summary": "The Israeli PM's comments come ahead of Iran-US talks in Geneva on Tuesday to discuss a nuclear deal.",
+      "url": "https://www.bbc.com/news/articles/cly191kz1lpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-16T04:26:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Iran must abandon enriched uranium and not produce more"
     },
     {
       "id": "12e9831c6742d4c22b49d9d1de1979018287a967",
@@ -109,129 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Iran Protester Dies in Custody, Raising Fears of Execution"
-    },
-    {
-      "id": "4e0e573449f9959af85c44e35701c38b32524372",
-      "title": "Rallies held across the world in support of Iran’s anti-government protesters",
-      "summary": "Reza Pahlavi, son of the last shah, tells 200,000 in Munich he is ready to lead Iran to a ‘secular democratic future’Hundreds of thousands of people have taken part in rallies around the world to show their solidarity wi…",
-      "url": "https://www.theguardian.com/world/2026/feb/15/rallies-held-across-the-world-in-support-of-irans-anti-government-protesters",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-15T16:47:51+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "lead Iran to a ‘secular democratic future’"
-    },
-    {
-      "id": "c290e988924eb30810da1f6f6d5afb6603d3309d",
-      "title": "Iran-US indirect talks: Tehran’s top diplomat travels to Geneva for second round",
-      "summary": "Iran's foreign minister heads to Geneva for crucial indirect nuclear talks with the US, mediated by Oman. This follows earlier discussions that stalled due to regional conflict. Tehran seeks economic benefits, including…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-us-indirect-talks-tehrans-top-diplomat-travels-to-geneva-for-second-round/articleshow/128389062.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-02-15T16:42:29+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Washington demands a halt to uranium enrichment"
-    },
-    {
-      "id": "4115126c06840bacd91b3e9b92ecd2932637644c",
-      "title": "US, Iran To Resume Nuclear Programme Talks In Geneva Amid Rising Tensions",
-      "summary": "Trump has repeatedly threatened to use force to compel Iran to agree to constrain its nuclear programme",
-      "url": "https://www.ndtv.com/world-news/us-iran-to-resume-nuclear-programme-talks-in-geneva-amid-rising-tensions-11006214#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-15T08:09:02+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Trump has repeatedly threatened to use force to compel Iran"
-    },
-    {
-      "id": "78a53eed523fa38577cb319a15a97e0a74728b44",
-      "title": "Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran",
-      "summary": "Majid Takht-Ravanchi, Iran's deputy foreign minister, tells the BBC's Lyse Doucet that the ball was \"in America's court to prove that they want to do a deal\".",
-      "url": "https://www.bbc.com/news/articles/clyz4y3zwz5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-15T06:00:36+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Iran ready to discuss compromises to reach nuclear deal"
-    },
-    {
-      "id": "55e6a64bf9ecf6c90d25dbd63259fa10e98b7550",
-      "title": "Thousands Rally for Iran Regime Change in Cities Around the World",
-      "summary": "People protesting the Iranian government gathered near the security conference in Munich, as well as in other cities. More U.S.-Iran talks are expected Tuesday.",
-      "url": "https://www.nytimes.com/2026/02/14/world/europe/iran-regime-rallies-munich.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-14T23:33:03+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "People protesting the Iranian government gathered near the security conference"
-    },
-    {
-      "id": "87ff01bd84d2fc0479a2dda67a21f18dbe92a2fd",
-      "title": "Nobel laureate transferred to prison in northern Iran without warning",
-      "summary": "Concern grows over Narges Mohammadi’s health, family says, after reports of ‘life-threatening mistreatment’Iranian authorities have without prior warning transferred Nobel peace prize laureate Narges Mohammadi to a priso…",
-      "url": "https://www.theguardian.com/world/2026/feb/14/nobel-laureate-transferred-to-prison-in-northern-iran-without-warning",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-14T20:02:24+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Iranian authorities have without prior warning transferred Nobel peace prize laureate"
-    },
-    {
-      "id": "d33a887361720c786afb69dcde409c7ff64aff31",
-      "title": "About 200,000 join Iran demonstration in Munich",
-      "summary": "Protesters denounced the leadership of Iran's Islamic Republic following the deadly repression of nationwide protests",
-      "url": "https://www.euractiv.com/news/about-200000-join-iran-demonstration-in-munich/",
-      "source": "Euractiv",
-      "published_at": "2026-02-14T16:04:17+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "deadly repression of nationwide protests"
-    },
-    {
-      "id": "9f9215f05f2e42ec5dcdf2345955ea5351854410",
-      "title": "US Prepares For Potential Weeks-Long Operations Against Iran: Report",
-      "summary": "US maintains bases in Middle East, including in Jordan, Kuwait, Saudi Arabia, Qatar, Bahrain, UAE, Turkey",
-      "url": "https://www.ndtv.com/world-news/us-military-prepares-for-potential-weeks-long-operations-against-iran-report-11002543#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-14T07:00:05+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "US Prepares For Potential Weeks-Long Operations Against Iran"
-    },
-    {
-      "id": "d2945aaba74b423d09b7a48ef28b6efb4e3127b9",
-      "title": "Trump says regime change in Iran ‘would be the best thing’ as US military reportedly plans for operation – as it happened",
-      "summary": "This live blog is now closed.The annual rate of US inflation eased in January, according to the latest data consumer price index report from the Bureau of Labor Statistics (BLS). Over the last 12 months, the cost of good…",
-      "url": "https://www.theguardian.com/us-news/live/2026/feb/13/trump-climate-epa-repeal-pollution-john-kerry-us-politics-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-14T03:01:25+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "regime change in Iran ‘would be the best thing’"
-    },
-    {
-      "id": "037fede7d7998d1a7f2c656786db0e144ee9326e",
-      "title": "US Sending Second Aircraft Carrier To Middle East Amid Iran Tensions",
-      "summary": "The USS Gerald R. Ford is the world's largest aircraft carrier.",
-      "url": "https://www.ndtv.com/world-news/us-sending-second-aircraft-carrier-to-mideast-as-amid-iran-tensions-11001655#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-14T01:02:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Amid Iran Tensions"
-    },
-    {
-      "id": "5cc24160a9abc3ed20d6a6e0c7696612fdbf31bd",
-      "title": "As Diplomats Talk, Pentagon Prepares for Possible War With Iran",
-      "summary": "President Trump threatened to strike Iran, but the military has needed time to build up its forces in the region.",
-      "url": "https://www.nytimes.com/2026/02/13/us/politics/trump-iran-pentagon.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-13T23:37:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Pentagon Prepares for Possible War With Iran"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-17T10:06:04Z"
+  "last_updated": "2026-02-18T10:07:01Z"
 }

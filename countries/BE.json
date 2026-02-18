@@ -1,16 +1,92 @@
 {
   "country": "BE",
-  "score": 68,
+  "score": 95,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 85,
+  "trend": 27,
+  "sources": 95,
   "sentiment": {
-    "positive": 7,
-    "neutral": 69,
-    "negative": 9
+    "positive": 8,
+    "neutral": 75,
+    "negative": 12
   },
   "latest_articles": [
+    {
+      "id": "dff391af1d020675b7b7ad2b082af0495fa1272b",
+      "title": "FIRST AID: Belgian minister slams US ‘ideological attack’ on EU healthcare",
+      "summary": "In today's edition: Generics, tobacco, and AI-generated medical advice",
+      "url": "https://www.euractiv.com/news/first-aid-belgian-minister-slams-us-ideological-attack-on-eu-healthcare/",
+      "source": "Euractiv",
+      "published_at": "2026-02-18T09:05:52+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Belgian minister slams US ‘ideological attack’ on EU healthcare"
+    },
+    {
+      "id": "428fbc2f7afec080af1f5c24d0afb27216100390",
+      "title": "Brussels slams European basketball expansion to Emirates",
+      "summary": "EU Sport Commissioner Glenn Micallef urges protection of the European sporting model as the NBA explores a new pan-European league",
+      "url": "https://www.euractiv.com/news/brussels-slams-european-basketball-expansion-to-emirates/",
+      "source": "Euractiv",
+      "published_at": "2026-02-18T05:00:30+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Brussels slams European basketball expansion to Emirates"
+    },
+    {
+      "id": "c6d996d847bc1885d775b6354b770e99da98313a",
+      "title": "Belgium summons U.S. ambassador over post accusing officials of antisemitism",
+      "summary": "The clash over an investigation into suspected unlicensed ritual circumcisions underscores heightened tensions between the U.S. and Europe under President Trump.",
+      "url": "https://www.washingtonpost.com/world/2026/02/17/belgium-trump-ambassador-circumcision-antisemitism/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-18T03:02:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Belgium summons U.S. ambassador over post accusing officials of antisemitism"
+    },
+    {
+      "id": "235d930417fb5fa2dbd2070413be5759a8e514f1",
+      "title": "Trump’s Ambassador to Belgium Is Summoned After Accusing Officials of Antisemitism",
+      "summary": "The diplomat, Bill White, met with a foreign ministry official at a time of rising tensions between the U.S. and countries in Europe.",
+      "url": "https://www.nytimes.com/2026/02/17/world/europe/belgium-trump-ambassador-anti-semitism.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-17T18:19:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Trump’s Ambassador to Belgium Is Summoned After Accusing Officials of Antisemitism"
+    },
+    {
+      "id": "297aeadf3435328e70179e64e980f188cd725417",
+      "title": "Green groups fear backroom talks signal further EU deregulation",
+      "summary": "So-called strategic dialogues are being used by industry to question EU law, campaigners warn as they accuse the European Commission of shutting them out",
+      "url": "https://www.euractiv.com/news/green-groups-fear-backroom-talks-signal-further-eu-deregulation/",
+      "source": "Euractiv",
+      "published_at": "2026-02-17T17:46:08+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "c6fb7f684dedf8aa96e827d3362bb209a945af7a",
+      "title": "EU launches €120m disease research hub",
+      "summary": "Brussels bets on science to strengthen future pandemic preparedness",
+      "url": "https://www.euractiv.com/news/eu-launches-e120m-disease-research-hub/",
+      "source": "Euractiv",
+      "published_at": "2026-02-17T16:04:09+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "EU launches €120m disease research hub"
+    },
+    {
+      "id": "c5f916ecbb0dbed60e1e5bd9a4f2fdd5f7dd2563",
+      "title": "US ambassador to Belgium summoned in antisemitism row",
+      "summary": "The Israeli foreign minister appeared to agree to visit Antwerp with White, the US ambassador to Belgium",
+      "url": "https://www.euractiv.com/news/us-ambassador-to-belgium-summoned-in-antisemitism-row/",
+      "source": "Euractiv",
+      "published_at": "2026-02-17T10:44:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "US ambassador to Belgium summoned in antisemitism row"
+    },
     {
       "id": "923ef7dac9d78996e2c4bb38c4a96f024e10ee40",
       "title": "Call for Expression of Interest - Integrating the New European Bauhaus into Cohesion Policy Programmes - European Commission",
@@ -22,6 +98,17 @@
       "sentiment_fallback": true
     },
     {
+      "id": "87f84b6220b737de0fb65385f8a4c57734e08ef5",
+      "title": "US, Belgium cross swords over circumcision",
+      "summary": "In Tuesday’s edition, also: Board of Peace, Sannino, E6, ‘Justice for Quentin’",
+      "url": "https://www.euractiv.com/news/rapporteur-us-belgium-cross-swords-over-circumcision/",
+      "source": "Euractiv",
+      "published_at": "2026-02-17T06:23:45+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Belgium cross swords over circumcision"
+    },
+    {
       "id": "b737071b57d61f2e30968376d46382616c731059",
       "title": "Country-by-country: Where EU countries stand on Trump’s Board of Peace",
       "summary": "The board meets on Thursday for the first time, with the European Commission set to attend",
@@ -30,6 +117,17 @@
       "published_at": "2026-02-17T05:00:53+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "b6761520431888d4fbe09fa65e27aa5b8bb4656a",
+      "title": "Paris fines Brussels retail alliance €33 million over food chain rules",
+      "summary": "Retailers accuse France of undermining EU single-market rules by enforcing national law abroad",
+      "url": "https://www.euractiv.com/news/paris-fines-brussels-retail-alliance-e33-million-over-food-chain-rules/",
+      "source": "Euractiv",
+      "published_at": "2026-02-16T16:34:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Paris fines Brussels retail alliance €33 million over food chain rules"
     },
     {
       "id": "f0e19c9608f8c9c8fba0e78d62776fa84822bc7c",
@@ -85,6 +183,16 @@
       "evidence": "flight diverted to Brussels"
     },
     {
+      "id": "140eaf07c4b560d5c56d046722a3a10b09317491",
+      "title": "Median age in the EU increased by 2.1 years since 2015 - European Commission",
+      "summary": "Median age in the EU increased by 2.1 years since 2015&nbsp;&nbsp;European CommissionMedian age in the EU increased by 2.1 years since 2015 - Actualités - Eurostat&nbsp;&nbsp;European CommissionEurope ages faster than US…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WLVBsQlZ0T25vNGdZZ2ZjS0RLVFhkaWM3MXF2ZFBjbWhMTjRZbWdoRmVINGNXblNwLUZneGw4VnJIV3NaR2RCYVpxZUtiM1k5ZzBKcjRCaUsyVnRURFJIWjlYVEJEU0ZJeldaeGpuVUF5VVozOUhGaVNHYnF2UQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-13T10:02:52+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "170e2446dd5531c6bb56be26d2637339564807c0",
       "title": "VOLTAGE: Brussels scales back plans for clean-tech industrialisation",
       "summary": "In today's edition: Industrial Accelerator Act, ETS revolt gains momentum, biodiversity targets in doubt",
@@ -115,118 +223,8 @@
       "published_at": "2026-02-13T00:01:29+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "8b92774b24d8f19249c7389bac733f43d2b73380",
-      "title": "After almost two years, Brussels has a government",
-      "summary": "A coalition agreement was finally extracted during intense 'conclave' negotiations. The government will seek to address capital region's ruinous finances",
-      "url": "https://www.euractiv.com/news/after-almost-two-years-brussels-has-a-government/",
-      "source": "Euractiv",
-      "published_at": "2026-02-12T21:54:23+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Brussels has a government"
-    },
-    {
-      "id": "8bf15b09deaf1615d3e34cea06294c53bbe5bf6e",
-      "title": "Brussels eyes Russian ammonia cap as experts warn of price impact",
-      "summary": "Russian fertiliser exports have so far evaded direct EU sanctions",
-      "url": "https://www.euractiv.com/news/brussels-eyes-russian-ammonia-cap-as-experts-warn-of-price-impact/",
-      "source": "Euractiv",
-      "published_at": "2026-02-12T13:58:28+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Brussels eyes Russian ammonia cap"
-    },
-    {
-      "id": "fc445821c1c72eeff2de0709e85fbb3a2242bc30",
-      "title": "Belgian police raid EU Commission in real estate sale probe",
-      "summary": "The EU executive said it was \"aware of an ongoing investigation\" into the sale of 23 commission buildings worth some €900 million",
-      "url": "https://www.euractiv.com/news/belgian-police-raid-eu-commission-in-real-estate-sale-probe/",
-      "source": "Euractiv",
-      "published_at": "2026-02-12T13:16:33+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Belgian police raid EU Commission in real estate sale probe"
-    },
-    {
-      "id": "98502626f4c9c5e8e4154221dd262e005f4afb5b",
-      "title": "France, Italy compete for Germany’s favour at economic survival summit",
-      "summary": "Macron and Merz strain to project unity at Belgian castle, despite major rifts",
-      "url": "https://www.euractiv.com/news/france-italy-compete-for-germanys-favour-at-economic-survival-summit/",
-      "source": "Euractiv",
-      "published_at": "2026-02-12T12:43:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "at Belgian castle"
-    },
-    {
-      "id": "6609d15b1b93fcf797ee3f46c20c8ac753e06c0c",
-      "title": "EU leaders to clash over ‘Buy European’ push at Belgium summit",
-      "summary": "Leaders to discuss once-taboo policy of favouring European companies, in attempt to regain economic competitivenessEU leaders are expected to diverge on whether “Buy European” is an answer to Europe’s waning economic for…",
-      "url": "https://www.theguardian.com/world/2026/feb/12/eu-leaders-clash-buy-european-belgium-summit",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-12T09:38:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "at Belgium summit"
-    },
-    {
-      "id": "0b6bd2945db3528748c6be890f6ee05b4a9885f3",
-      "title": "‘Burden sharing’ discussion reinvigorated as defence ministers meet in Brussels",
-      "summary": "Countries in Northern Europe would like their Southern counterparts to spend more on Ukraine",
-      "url": "https://www.euractiv.com/news/burden-sharing-discussion-reinvigorated-as-defence-ministers-meet-in-brussels/",
-      "source": "Euractiv",
-      "published_at": "2026-02-12T08:51:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "meet in Brussels"
-    },
-    {
-      "id": "84ab5c2571a77aa4f230b56237b487413a2323ed",
-      "title": "Central Europe alliance signs cardio pact linked to EU Safe Hearts Plan [Advocacy Lab]",
-      "summary": "Experts from the region urge Brussels to consider Central Europe’s specific needs in the EU cardiovascular strategy to avoid increasing existing health inequalities",
-      "url": "https://www.euractiv.com/news/central-europe-alliance-signs-cardio-pact-linked-to-eu-safe-hearts-plan/",
-      "source": "Euractiv",
-      "published_at": "2026-02-12T03:24:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "urge Brussels to consider Central Europe’s specific needs in the EU cardiovascular strategy"
-    },
-    {
-      "id": "35c31809daf0f159440bd836b3c2d2b19d12c5d8",
-      "title": "Brussels lobbyists split as US downplays security risk of Chinese solar tech",
-      "summary": "Unexpected hardware fuelled fears that Beijing could remotely trigger blackouts, but Washington seems unconcerned",
-      "url": "https://www.euractiv.com/news/brussels-lobbyists-split-as-us-downplays-security-risk-of-chinese-solar-tech/",
-      "source": "Euractiv",
-      "published_at": "2026-02-11T17:28:51+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "Brussels lobbyists split as US downplays security risk"
-    },
-    {
-      "id": "91790328c31820c8be079a40a9a5803e136742e8",
-      "title": "Commission confirms tobacco law evaluation due in first half of 2026",
-      "summary": "Brussels clarifies timeline amid rumours of imminent release",
-      "url": "https://www.euractiv.com/news/commission-confirms-tobacco-law-evaluation-due-in-first-half-of-2026/",
-      "source": "Euractiv",
-      "published_at": "2026-02-11T15:38:27+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Brussels clarifies timeline"
-    },
-    {
-      "id": "b8f69022f2a4ef6c470a1948eb005f50ca5ab4c1",
-      "title": "Brussels sets end of 2026 deadline to avoid two-speed EU",
-      "summary": "Ursula von der Leyen will propose that EU countries \"speed up\" integrating their capital markets if no bloc-wide consensus is possible",
-      "url": "https://www.euractiv.com/news/brussels-sets-end-of-2026-deadline-to-avoid-two-speed-eu/",
-      "source": "Euractiv",
-      "published_at": "2026-02-11T14:56:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Brussels sets end of 2026 deadline"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-17T10:06:04Z"
+  "last_updated": "2026-02-18T10:07:01Z"
 }

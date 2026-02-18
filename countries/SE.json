@@ -4,13 +4,45 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 60,
+  "sources": 64,
   "sentiment": {
-    "positive": 3,
-    "neutral": 57,
+    "positive": 4,
+    "neutral": 60,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "7ddb0fdd11a86bf8d82b5d8574d169cb3e3a4a4a",
+      "title": "\"PM Modi Serving Greater Good\": Sweden's Deputy PM On India's AI Push",
+      "summary": "Ebba Busch said Sweden saw immense scope in aligning with India's scale and speed of innovation.",
+      "url": "https://www.ndtv.com/world-news/pm-modi-serving-greater-good-swedens-deputy-pm-on-indias-ai-push-11052870#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-18T08:48:35+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Sweden saw immense scope in aligning with India's scale and speed"
+    },
+    {
+      "id": "c818b9126765d365583b86dfbcd695c60dd2840d",
+      "title": "Beats and throat singing: Sámi DJs tap into growing pride in Indigenous identity",
+      "summary": "Acts such as Article 3 are drawing inspiration from their culture and meeting a big appetite for Indigenous-focused club nights“We both live in maybe the most impractical place if you want to be a successful DJ,” laughs…",
+      "url": "https://www.theguardian.com/world/2026/feb/18/sami-djs-indigenous-pride-music-norway-finland",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-18T05:00:02+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "northern parts of Sweden, Norway, Finland and Russia"
+    },
+    {
+      "id": "297aeadf3435328e70179e64e980f188cd725417",
+      "title": "Green groups fear backroom talks signal further EU deregulation",
+      "summary": "So-called strategic dialogues are being used by industry to question EU law, campaigners warn as they accuse the European Commission of shutting them out",
+      "url": "https://www.euractiv.com/news/green-groups-fear-backroom-talks-signal-further-eu-deregulation/",
+      "source": "Euractiv",
+      "published_at": "2026-02-17T17:46:08+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "923ef7dac9d78996e2c4bb38c4a96f024e10ee40",
       "title": "Call for Expression of Interest - Integrating the New European Bauhaus into Cohesion Policy Programmes - European Commission",
@@ -83,6 +115,16 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "loss to Sweden"
+    },
+    {
+      "id": "140eaf07c4b560d5c56d046722a3a10b09317491",
+      "title": "Median age in the EU increased by 2.1 years since 2015 - European Commission",
+      "summary": "Median age in the EU increased by 2.1 years since 2015&nbsp;&nbsp;European CommissionMedian age in the EU increased by 2.1 years since 2015 - Actualités - Eurostat&nbsp;&nbsp;European CommissionEurope ages faster than US…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WLVBsQlZ0T25vNGdZZ2ZjS0RLVFhkaWM3MXF2ZFBjbWhMTjRZbWdoRmVINGNXblNwLUZneGw4VnJIV3NaR2RCYVpxZUtiM1k5ZzBKcjRCaUsyVnRURFJIWjlYVEJEU0ZJeldaeGpuVUF5VVozOUhGaVNHYnF2UQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-13T10:02:52+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "61b04d5aa21b0b89503523ceceb7ee4abbf8776c",
@@ -178,51 +220,8 @@
       "published_at": "2026-02-11T12:59:58+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "329ec14a29d0a32d5de5578e51f4b06443ea58bc",
-      "title": "Europe's answer to OpenAI announces billion-dollar AI infrastructure push in Sweden",
-      "summary": "French AI startup Mistral said it will invest 1.2 billion euros ($1.43 billion) into digital infrastructure projects in Sweden.",
-      "url": "https://www.cnbc.com/2026/02/11/mistral-ai-infrastructure-sweden.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-02-11T11:29:14+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "AI infrastructure push in Sweden"
-    },
-    {
-      "id": "5a909adf4102e2116c89f39ced354dfb91cfd6ae",
-      "title": "Von der Leyen calls for crackdown on ‘unnecessary’ national laws",
-      "summary": "“It is time for a deep regulatory housecleaning – at all levels,” the European Commission chief said as she called for an end to \"gold-plating\" of EU laws",
-      "url": "https://www.euractiv.com/news/von-der-leyen-calls-for-crackdown-on-unnecessary-national-laws/",
-      "source": "Euractiv",
-      "published_at": "2026-02-11T09:09:46+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "90d7d5942d98677eabf9bd621f90f930d1dc7a22",
-      "title": "Can the Swedish prime minister’s new podcast improve his fortunes in this year’s election?",
-      "summary": "Ulf Kristersson answers calls from voters in informal weekly show, on topics from women’s safety to beer“Hi Ulf!” says a male voice from the Swedish prime minister’s answering machine. “Just wondering how many beers you…",
-      "url": "https://www.theguardian.com/world/2026/feb/11/swedish-prime-ministers-new-podcast-improve-his-fortunes-election",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-11T05:00:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Swedish prime minister’s new podcast improve his fortunes"
-    },
-    {
-      "id": "d9f433f6a2edc4fce05b71797401498b398ef03b",
-      "title": "Sweden’s last stone topples U.S. in curling.",
-      "summary": "Sweden’s sibling team took advantage of the hammer to edge the Americans in the final end.",
-      "url": "https://www.nytimes.com/live/2026/02/07/world/olympics-italy-photos/swedens-last-stone-topples-us",
-      "source": "NYT > World News",
-      "published_at": "2026-02-10T20:07:42+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Sweden’s last stone topples U.S. in curling."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-17T10:06:04Z"
+  "last_updated": "2026-02-18T10:07:01Z"
 }

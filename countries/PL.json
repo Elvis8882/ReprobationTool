@@ -1,16 +1,26 @@
 {
   "country": "PL",
-  "score": 68,
+  "score": 70,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
-  "sources": 60,
+  "trend": 2,
+  "sources": 63,
   "sentiment": {
-    "positive": 5,
-    "neutral": 48,
+    "positive": 6,
+    "neutral": 50,
     "negative": 7
   },
   "latest_articles": [
+    {
+      "id": "297aeadf3435328e70179e64e980f188cd725417",
+      "title": "Green groups fear backroom talks signal further EU deregulation",
+      "summary": "So-called strategic dialogues are being used by industry to question EU law, campaigners warn as they accuse the European Commission of shutting them out",
+      "url": "https://www.euractiv.com/news/green-groups-fear-backroom-talks-signal-further-eu-deregulation/",
+      "source": "Euractiv",
+      "published_at": "2026-02-17T17:46:08+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "923ef7dac9d78996e2c4bb38c4a96f024e10ee40",
       "title": "Call for Expression of Interest - Integrating the New European Bauhaus into Cohesion Policy Programmes - European Commission",
@@ -30,6 +40,17 @@
       "published_at": "2026-02-17T05:00:53+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "b189aba47746d4c12024e5fcdee828578ecd26e9",
+      "title": "Franco-German-led ‘E6’ format will be ‘temporary’, says Eurogroup president",
+      "summary": "Pierrakakis says he is \"positive\" about the decision by France, Germany, Italy, the Netherlands, Poland, and Spain to accelerate market integration",
+      "url": "https://www.euractiv.com/news/franco-german-led-e6-format-will-be-temporary-says-eurogroup-president/",
+      "source": "Euractiv",
+      "published_at": "2026-02-16T20:17:06+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "decision by France, Germany, Italy, the Netherlands, Poland... to accelerate market integration"
     },
     {
       "id": "f0e19c9608f8c9c8fba0e78d62776fa84822bc7c",
@@ -61,6 +82,16 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "New political era is ‘dangerous’ for Baltics, Poland"
+    },
+    {
+      "id": "140eaf07c4b560d5c56d046722a3a10b09317491",
+      "title": "Median age in the EU increased by 2.1 years since 2015 - European Commission",
+      "summary": "Median age in the EU increased by 2.1 years since 2015&nbsp;&nbsp;European CommissionMedian age in the EU increased by 2.1 years since 2015 - Actualités - Eurostat&nbsp;&nbsp;European CommissionEurope ages faster than US…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WLVBsQlZ0T25vNGdZZ2ZjS0RLVFhkaWM3MXF2ZFBjbWhMTjRZbWdoRmVINGNXblNwLUZneGw4VnJIV3NaR2RCYVpxZUtiM1k5ZzBKcjRCaUsyVnRURFJIWjlYVEJEU0ZJeldaeGpuVUF5VVozOUhGaVNHYnF2UQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-13T10:02:52+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "61b04d5aa21b0b89503523ceceb7ee4abbf8776c",
@@ -185,40 +216,8 @@
       "published_at": "2026-02-09T09:01:26+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "b5598ca2e9944e1dda521b4938e3ebbcf3a0262f",
-      "title": "Plans to merge EU gas and electricity risk management prove divisive",
-      "summary": "The European Commission is expected to present a new approach to energy security in May",
-      "url": "https://www.euractiv.com/news/plans-to-merge-eu-gas-and-electricity-risk-management-prove-divisive/",
-      "source": "Euractiv",
-      "published_at": "2026-02-09T05:00:20+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "0f221772639166f4a73cf959bc3f16806aaa47b3",
-      "title": "Poland divided over pharmacy ad rules, Commission urges compliance [Advocacy Lab]",
-      "summary": "Proposed new restrictions aim to preserve pharmacies' role within the healthcare system rather than treating them as retail outlets, but businesses demand clearer competition rules",
-      "url": "https://www.euractiv.com/news/poland-divided-over-pharmacy-ad-rules-commission-urges-compliance/",
-      "source": "Euractiv",
-      "published_at": "2026-02-09T02:54:49+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Commission urges compliance"
-    },
-    {
-      "id": "ec82dfa59d4cb2308a4c0b9b72d0118e9190902c",
-      "title": "Poland urged to treat medicines as national security priority [Advocacy Lab]",
-      "summary": "Two new Polish reports call for strategic reserves and domestic production, as pharmacy closures and Asian API dependence expose vulnerabilities",
-      "url": "https://www.euractiv.com/news/poland-urged-to-treat-medicines-as-national-security-priority/",
-      "source": "Euractiv",
-      "published_at": "2026-02-06T02:45:04+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Poland urged to treat medicines as national security priority"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-17T10:06:04Z"
+  "last_updated": "2026-02-18T10:07:01Z"
 }
