@@ -1,16 +1,27 @@
 {
   "country": "NO",
-  "score": 62,
+  "score": 65,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 33,
+  "trend": 3,
+  "sources": 35,
   "sentiment": {
-    "positive": 2,
-    "neutral": 25,
+    "positive": 3,
+    "neutral": 26,
     "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "2e458a1fd947cfec5d63a32bd0989dba2d18cf7f",
+      "title": "The scandal that shattered Norway’s image",
+      "summary": "Norway’s Epstein scandal is testing whether the country’s global influence rested solely on moral authority – or on an elite long shielded from scrutiny",
+      "url": "https://www.euractiv.com/news/the-scandal-that-shattered-norways-image/",
+      "source": "Euractiv",
+      "published_at": "2026-02-19T05:00:24+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "scandal that shattered Norway’s image"
+    },
     {
       "id": "c818b9126765d365583b86dfbcd695c60dd2840d",
       "title": "Beats and throat singing: Sámi DJs tap into growing pride in Indigenous identity",
@@ -21,6 +32,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "rural village in the far north-east of Norway"
+    },
+    {
+      "id": "2e50bd7a47fb63b0fcbb682bb7542f954d387b30",
+      "title": "Europe loses hold on American tourists, woos Chinese, Indian travellers - Reuters",
+      "summary": "Europe loses hold on American tourists, woos Chinese, Indian travellers&nbsp;&nbsp;ReutersEurope Cools On America, But Time And Money Keep U.S. Travelers Home&nbsp;&nbsp;ForbesLatvia Joins Poland, Lithuania, Finland, Nor…",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkxYLXdtMlFVcGpOUV9aOTRQUVFGdUtCZEhnZ3M1a2JMbWUwaHMxWlRnRlBkVV9NMHdkSUI3VjJTa0J3c250cGlad1lXSU12X3lBN0pKYjFVeE1odXB4ZzllQ1V1bTlJak5mc3J2N2lhWENBbWgtcW9QekJObVl4WEg1QWpQTS15alM0elUta3NRa1JNVHRiTS1WUTd2dms1THlNRy1zOFdlR0VudVBwZGNnc2U4RUEtVDRleWdFOXp4LTYxcmc?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-17T23:03:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Norway... Tourism Demand, Spending... Soar To New Heights"
     },
     {
       "id": "9a2c13a12a16f7a2b44f4dd288c1cdcd7dbc901d",
@@ -208,30 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Norway investigates former PM Jagland over alleged Epstein links"
-    },
-    {
-      "id": "67343af8c05f55cab020bafdf7e5145504e4d787",
-      "title": "Son of Norway's Crown Princess gives evidence as rape trial continues",
-      "summary": "The BBC's Paul Kirby reports from outside the court in Oslo, where Marius Borg Høiby denies rape and many other serious charges.",
-      "url": "https://www.bbc.com/news/videos/cql4qd7yr5do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-04T22:32:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Son of Norway's Crown Princess gives evidence as rape trial continues"
-    },
-    {
-      "id": "eae28b41b136bf3e77d4fb1918762029edf22489",
-      "title": "Son of Norway’s crown princess ‘does not remember’ taking videos of alleged sexual assault",
-      "summary": "Marius Borg Høiby, 29, on trial accused of 38 crimes, broke down in tears as he claimed press had harassed him for yearsMarius Borg Høiby, the son of Norway’s crown princess, has told a court he does not remember taking…",
-      "url": "https://www.theguardian.com/world/2026/feb/04/son-of-norways-crown-princess-does-not-remember-taking-videos-of-alleged-sexual-assault",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-04T18:37:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Son of Norway’s crown princess ‘does not remember’ taking videos"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-18T10:07:01Z"
+  "last_updated": "2026-02-19T10:04:57Z"
 }

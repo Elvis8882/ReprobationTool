@@ -1,16 +1,49 @@
 {
   "country": "SY",
-  "score": 58,
+  "score": 57,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -2,
-  "sources": 17,
+  "trend": -1,
+  "sources": 21,
   "sentiment": {
     "positive": 1,
-    "neutral": 9,
-    "negative": 7
+    "neutral": 10,
+    "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "2f6c445e507216750fff2a2c17e1625e08745065",
+      "title": "US to withdraw troops from Syria as tensions mount with Iran",
+      "summary": "The decision came as US President Donald Trump ramps up military presence in the Middle East as tensions mount with Iran.",
+      "url": "https://www.bbc.com/news/articles/c875pey8vy2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-19T01:14:47+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "US to withdraw troops from Syria"
+    },
+    {
+      "id": "018780c88ff6f6c3315ec1fdce6dd8056513b3f2",
+      "title": "Power Shift in Syria Upends an Archipelago for ISIS Prisoners",
+      "summary": "America’s Kurdish allies oversaw two dozen sites holding thousands of members of the terrorist group and their families. Their withdrawal has left the system in chaos.",
+      "url": "https://www.nytimes.com/2026/02/18/world/middleeast/syria-prisons-isis.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-18T22:19:31+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Power Shift in Syria Upends an Archipelago for ISIS Prisoners"
+    },
+    {
+      "id": "245f73c1d2e93ca2db13f0802390645137b0c5e6",
+      "title": "Australia bans citizen trying to return from IS camp in Syria",
+      "summary": "The person temporarily banned is among a group of 34 who this week attempted to leave the camp for Australia.",
+      "url": "https://www.bbc.com/news/articles/c4g2dgjrx75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-18T07:08:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "citizen trying to return from IS camp in Syria"
+    },
     {
       "id": "ae02d24b417b317cef078aa64280f8f8c7b5af3e",
       "title": "Woman in Syrian detention camp banned from returning to Australia for up to two years",
@@ -43,6 +76,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Syrian Army Crosses New Threshold With Advances"
+    },
+    {
+      "id": "5187006205ea6c01652cd07fa1d9951d439ea9b2",
+      "title": "Australian IS families in Syria camp turned back after leaving for home",
+      "summary": "The group of 34 women and children with family links to Islamic State group have been held in the Roj camp for nearly seven years.",
+      "url": "https://www.bbc.com/news/articles/cvg5ed05pplo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-16T19:18:04+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Australian IS families in Syria camp"
     },
     {
       "id": "c348278601f09f1f0b84d8fa2365b4196cacacf7",
@@ -186,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "Syria's defiant Kurds vow to 'fight until last breath'"
-    },
-    {
-      "id": "eef92bd18a6f023111725c624bba0444e1039d62",
-      "title": "Putin, Still Harboring Assad, Welcomes New Syrian Leader to Moscow Again",
-      "summary": "This is the second time that President Vladimir V. Putin has hosted President Ahmed al-Sharaa since the fall of the Russia-backed Syrian dictator Bashar al-Assad.",
-      "url": "https://www.nytimes.com/2026/01/28/world/europe/russia-putin-syria-al-sharaa-meeting.html",
-      "source": "NYT > World News",
-      "published_at": "2026-01-28T16:02:22+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "welcomes New Syrian Leader to Moscow Again"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-18T10:07:01Z"
+  "last_updated": "2026-02-19T10:04:57Z"
 }

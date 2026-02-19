@@ -1,16 +1,27 @@
 {
   "country": "MA",
-  "score": 100,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": null,
-  "sources": 1,
+  "score": 55,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
+  "trend": -45,
+  "sources": 2,
   "sentiment": {
     "positive": 0,
     "neutral": 1,
-    "negative": 0
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "0c12a1c045c577af471f6930dd27764489b34ad1",
+      "title": "Moroccan tomato data glitch sparks alarm among EU farmers",
+      "summary": "The issue comes at a politically sensitive moment for EU–Morocco agricultural trade",
+      "url": "https://www.euractiv.com/news/moroccan-tomato-data-glitch-sparks-alarm-among-eu-farmers/",
+      "source": "Euractiv",
+      "published_at": "2026-02-18T05:00:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Moroccan tomato data glitch sparks alarm among EU farmers"
+    },
     {
       "id": "c4cb59d36e88ba741e9c0d79586366ae5ce8e692",
       "title": "Weather tracker: Storm Leonardo continues to batter Europe and northern Africa",
@@ -24,5 +35,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-18T10:07:01Z"
+  "last_updated": "2026-02-19T10:04:57Z"
 }

@@ -3,14 +3,25 @@
   "score": 76,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 7,
-  "sources": 17,
+  "trend": 0,
+  "sources": 19,
   "sentiment": {
     "positive": 4,
-    "neutral": 11,
+    "neutral": 13,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "bf442c73fd41434c9c9803b5fc2a9f4afc29d6e0",
+      "title": "U.S. says Tehran would be ‘very wise’ to make a deal as Russia, Iran hold naval drills",
+      "summary": "It comes shortly after Vice President JD Vance accused Iran of failing to address core U.S. demands during nuclear talks in Geneva, Switzerland.",
+      "url": "https://www.cnbc.com/2026/02/19/trump-us-iran-nuclear-talks-oil-prices-russia.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-19T09:09:12+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "nuclear talks in Geneva, Switzerland."
+    },
     {
       "id": "6df49a4c4d6f52a627fffcba4bfc44b5a807874c",
       "title": "First day of Russia-Ukraine peace talks ends in Geneva",
@@ -43,6 +54,17 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "meet this week in Switzerland for a third round of talks"
+    },
+    {
+      "id": "f0640f24e90234043a5b49b01ffbfa5c7615ae18",
+      "title": "The patience and the poker face: Iran’s wily diplomat set to face the US in nuclear talks",
+      "summary": "Abbas Araghchi is steeped in more than a decade of nuclear dealmaking with a book on the art of negotiationsIf the US and Iran are to avoid a regional war, both sides need to start to make concessions at talks in Geneva…",
+      "url": "https://www.theguardian.com/world/2026/feb/16/the-patience-and-the-poker-face-irans-wily-diplomat-set-to-face-the-us-in-nuclear-talks",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-16T20:10:48+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "talks in Geneva"
     },
     {
       "id": "f232033b1d26995421fe46047360739b816d1515",
@@ -200,5 +222,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-18T10:07:01Z"
+  "last_updated": "2026-02-19T10:04:57Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "GL",
-  "score": 66,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 27,
+  "score": 65,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": -1,
+  "sources": 28,
   "sentiment": {
     "positive": 4,
     "neutral": 17,
-    "negative": 6
+    "negative": 7
   },
   "latest_articles": [
+    {
+      "id": "abceafa66491154e0ed3a4ab1497b4a2d85d2dce",
+      "title": "Greenland row reopens after US senator calls Danish PM ‘little lady’",
+      "summary": "If Trump wanted Greenland, Washington could simply take it, Lindsey Graham warned",
+      "url": "https://www.euractiv.com/news/greenland-row-reopens-after-us-senator-calls-danish-pm-little-lady/",
+      "source": "Euractiv",
+      "published_at": "2026-02-18T16:16:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "If Trump wanted Greenland, Washington could simply take it"
+    },
     {
       "id": "93b12e62b128d6a389ed89ca978f24507913e767",
       "title": "Rubio says U.S., Europe ‘belong together,’ despite rifts over Trump policies",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Greenland Deal To Assuage Trump"
-    },
-    {
-      "id": "3dfa8e6db822e268baea17837f3f483ef9331086",
-      "title": "FIREPOWER: Commissioner says there’s no evidence foreign adversaries are targeting Greenland",
-      "summary": "Plus, France, India, Mobility",
-      "url": "https://www.euractiv.com/news/firepower-commissioner-says-theres-no-evidence-foreign-adversaries-are-targeting-greenland/",
-      "source": "Euractiv",
-      "published_at": "2026-01-29T08:38:53+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "no evidence foreign adversaries are targeting Greenland"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-18T10:07:01Z"
+  "last_updated": "2026-02-19T10:04:57Z"
 }
