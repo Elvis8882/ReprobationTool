@@ -1,16 +1,47 @@
 {
   "country": "CZ",
-  "score": 59,
+  "score": 62,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 50,
+  "trend": 3,
+  "sources": 54,
   "sentiment": {
-    "positive": 1,
-    "neutral": 45,
+    "positive": 2,
+    "neutral": 48,
     "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "89beae880332edc7fab2595312d4d2f4293cd810",
+      "title": "Czech MPs support vaccination resolution, rejecting anti-vax claims [Advocacy Lab]",
+      "summary": "Czech Parliament’s health committee expressed support for the current system of mandatory vaccination in reaction to a controversial anti-vax seminar organised in the Parliament",
+      "url": "https://www.euractiv.com/news/czech-mps-support-vaccination-resolution-rejecting-anti-vax-claims/",
+      "source": "Euractiv",
+      "published_at": "2026-02-20T02:48:26+00:00",
+      "sentiment": "positive",
+      "confidence": 0.5,
+      "evidence": "Czech MPs support vaccination resolution, rejecting anti-vax claims"
+    },
+    {
+      "id": "8ab470ed835f0b9e18f21d0708a50867537effda",
+      "title": "Europe Worries About Another Trump Blowup, This One on Tech",
+      "summary": "Even as trade tensions between the United States and the European Union seem to calm, officials are concerned that a showdown is brewing over the bloc’s digital rules.",
+      "url": "https://www.nytimes.com/2026/02/19/world/europe/europe-united-states-trump-digital-services-act.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-19T11:27:07+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "254010376c11ecf00aca8ad195cd54b613abf906",
+      "title": "What is the EU’s greenhouse gas footprint per capita? - European Commission",
+      "summary": "What is the EU’s greenhouse gas footprint per capita?&nbsp;&nbsp;European CommissionCyprus recorded 14.8 tonnes of CO2 per capita in 2023, according to Eurostat&nbsp;&nbsp;ΚΥΠΕBTA :: Bulgaria Among EU Countries with Lowe…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11dDFXUHdUNnNoeVBYd3g2OWJWemFkVm1hOWl0MXNkMDB3bGdXR1REOHhBLUtGb3diYlpxQWFVV2F6SGhrYXVWSWEyZGFHWTV5Wjc0RjhRMHM3d0xRaGxLNnpGLU1PYi1CZ3Z2UDlEc1A4eVVZMFpxNzlmYkcxZw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-19T10:03:42+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "4d81abf151dff772f8dc7023c9f844903597c6b7",
       "title": "Brussels caught off-guard as von der Leyen targets electricity market",
@@ -40,6 +71,17 @@
       "published_at": "2026-02-17T17:46:08+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "791065477db70ba63147e94fcb6eb1cf40277de2",
+      "title": "Denmark vs. Czechia prediction: Men’s Olympic Hockey odds, picks, and best bet - New York Post",
+      "summary": "Denmark vs. Czechia prediction: Men’s Olympic Hockey odds, picks, and best bet&nbsp;&nbsp;New York PostCzechia ready for rematch vs. Canada in quarterfinals&nbsp;&nbsp;SportsnetTeam Czechia holds off Denmark, advances to…",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSGVFQzhHM09uQXhVb25TamtBUGpqOERLZm5UaHJTcjFrcnR2cl95bDVIMzdXLWdRSzhLeVVLQnRub094S0tWWExWYk9HQUxKMm5Vc3BxTEdLRjYzYThqT2NYa1JWM3hiVlY1andOOEROdFJlZlBmWGhPOU9zWmxnZnpPYXBELUZCcjVPbnlRZnp6ODlaQ1dTZFVHT3R6SXRSMlpiZDdfZWYxa2NuWVBhWWlR?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-17T11:15:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Czechia eliminates Denmark"
     },
     {
       "id": "923ef7dac9d78996e2c4bb38c4a96f024e10ee40",
@@ -172,49 +214,8 @@
       "published_at": "2026-02-10T16:17:40+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "168b61be3ca904a6490f7ab4bd6b8c7140b1a14c",
-      "title": "Meta warned EU plans to impose measures on tech giant to reverse WhatsApp AI policy",
-      "summary": "The move follows the European Commission announcing an investigation in December into whether the social media giant had breached antitrust rules.",
-      "url": "https://www.cnbc.com/2026/02/09/eu-interim-measures-meta-whatsapp-ai-policy-antritrust.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-02-09T10:06:24+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "a33c7aea720c37243fb424be272e24b46ae7f9b9",
-      "title": "Commission notifies Meta of possible interim measures to reverse exclusion of third-party AI assistants from WhatsApp - European Commission",
-      "summary": "Commission notifies Meta of possible interim measures to reverse exclusion of third-party AI assistants from WhatsApp&nbsp;&nbsp;European CommissionEU announces it plans to impose measures on Meta to reverse WhatsApp AI…",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyZ3NBZ3BhOW8wYmNjanhCczh3ZThmY3Y0WU4wREktemhCLXNZWWhzTFhZNElEYWcwUzFOM0tfRnpGT1hQVHVRNmY1VjBaR2swdVBUT1RDREpRMlBoVWhITHE5UU5Na1Qzd0hpR2NkUGs?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-09T09:01:26+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "b5598ca2e9944e1dda521b4938e3ebbcf3a0262f",
-      "title": "Plans to merge EU gas and electricity risk management prove divisive",
-      "summary": "The European Commission is expected to present a new approach to energy security in May",
-      "url": "https://www.euractiv.com/news/plans-to-merge-eu-gas-and-electricity-risk-management-prove-divisive/",
-      "source": "Euractiv",
-      "published_at": "2026-02-09T05:00:20+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "15e9aa54b400511ffb7658a680afb7a011146c8d",
-      "title": "Czech Prime Minister’s conflict of interest resolution draws criticism - Baltic News Network",
-      "summary": "Czech Prime Minister’s conflict of interest resolution draws criticism&nbsp;&nbsp;Baltic News NetworkCzechia’s Babiš faces accusations he didn’t fully cut ties to his agricultural empire&nbsp;&nbsp;politico.euCzech PM’s…",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV0pHNXNyOHk0SFZWWUQ3c3pnY3FONjVDSjZsY1NBb1dVVm40ZVlCNjI5Rk4wN1pPNWx4OWU2a1Zkb0xzUGFvNjNZVGJYVlBpSTVQald3dU5mSmJPa3BNTWZBS1RuUW1HNi1OS05QMlBRYmhVRE44cDNQeHFhZjY5a2VyZ3VaYnhzM2RQMjd5dEVGMVk0LU9uU3hkQUNYZw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-06T09:43:56+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "conflict of interest resolution draws criticism"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-19T10:04:57Z"
+  "last_updated": "2026-02-20T09:59:29Z"
 }

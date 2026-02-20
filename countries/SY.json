@@ -1,16 +1,27 @@
 {
   "country": "SY",
   "score": 57,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 21,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
+  "trend": 0,
+  "sources": 22,
   "sentiment": {
     "positive": 1,
     "neutral": 10,
-    "negative": 10
+    "negative": 11
   },
   "latest_articles": [
+    {
+      "id": "0586caddcdf5a391fb2f78b00f39b85257272a75",
+      "title": "Joyce says he’s not aware of crime reports after Hanson comments – as it happened",
+      "summary": "This blog is now closedFederal police ‘received reports of a crime’ in relation to Pauline Hanson’s comments about MuslimsGet our breaking news email, free app or daily news podcastGovernment says Syria situation ‘distre…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/feb/20/accc-coles-nsw-public-hearing-illegal-tobacco-angus-taylor-liberal-coalition-net-zero-anthony-albanese-labor-ntwnfb",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-20T06:59:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Syria situation ‘distressing’ for children, but lays blame on parents"
+    },
     {
       "id": "2f6c445e507216750fff2a2c17e1625e08745065",
       "title": "US to withdraw troops from Syria as tensions mount with Iran",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Syrian Government and Kurdish-Led Militia Seal a Deal to Merge Forces"
-    },
-    {
-      "id": "f0832bbaa511effe771203bf1da9fc7fbc72d8fe",
-      "title": "Syria's defiant Kurds vow to 'fight until last breath' despite government push",
-      "summary": "The US fought IS with the Kurds for years. Now, Donald Trump is siding with Syria's new leader.",
-      "url": "https://www.bbc.com/news/articles/cvgrzd76p4lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-01-29T22:04:34+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Syria's defiant Kurds vow to 'fight until last breath'"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-19T10:04:57Z"
+  "last_updated": "2026-02-20T09:59:29Z"
 }

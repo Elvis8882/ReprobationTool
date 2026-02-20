@@ -1,16 +1,93 @@
 {
   "country": "IL",
-  "score": 70,
+  "score": 67,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -6,
-  "sources": 111,
+  "trend": -3,
+  "sources": 119,
   "sentiment": {
     "positive": 6,
-    "neutral": 63,
-    "negative": 42
+    "neutral": 67,
+    "negative": 46
   },
   "latest_articles": [
+    {
+      "id": "03a8c190a1df61b718d5c61c920a3ef958386cfd",
+      "title": "‘Al-Aqsa is a detonator’: six-decade agreement on prayer at Jerusalem holy site collapses",
+      "summary": "Israeli police raid compound, arrest staff and curb Muslims’ access as Ramadan begins A six-decade agreement governing Muslim and Jewish prayer at Jerusalem’s most sensitive holy site has “collapsed” under pressure from…",
+      "url": "https://www.theguardian.com/world/2026/feb/20/status-quo-collapsed-prayer-jerusalem-al-aqsa-mosque-ramadan",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-20T09:32:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "backed by the Israeli government"
+    },
+    {
+      "id": "8b4cdb9a0221aec2c09ea6c45c22dbd67f04526f",
+      "title": "Hamas holds vote to choose new interim leader, source tells BBC",
+      "summary": "The armed group is electing a new head after its top leaders were killed by Israel.",
+      "url": "https://www.bbc.com/news/articles/c23z0kdypm3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-20T00:37:14+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "leaders were killed by Israel."
+    },
+    {
+      "id": "9a75644bd71ebf767af19df6f41527929b111d31",
+      "title": "Trump vows $10 billion contribution to his own Board of Peace",
+      "summary": "President Donald Trump’s sparsely attended Board of Peace meeting set a mission to stabilize Gaza, but plans beyond that remain murky.",
+      "url": "https://www.washingtonpost.com/politics/2026/02/19/trump-board-of-peace-gaza/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-19T22:40:06+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "mission to stabilize Gaza, but plans beyond that remain murky."
+    },
+    {
+      "id": "21b4121ced0244f584ec788c4b87f31533bb54a0",
+      "title": "Trump appears ready to attack Iran as U.S. strike force takes shape",
+      "summary": "Although the United States and ally Israel have a military advantage over Iranian forces, there are ways for Tehran to make any attack painful, officials said.",
+      "url": "https://www.washingtonpost.com/national-security/2026/02/19/trump-iran-attack-military/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-19T21:34:04+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "ally Israel have a military advantage over Iranian forces"
+    },
+    {
+      "id": "d42040945b435ffed48d38390116c0c2a6c80bad",
+      "title": "Trump's Board of Peace members pledge $7bn in Gaza relief",
+      "summary": "Trump said it \"looks like\" Hamas will disarm, even though there are signs the group is regrouping.",
+      "url": "https://www.bbc.com/news/articles/cp8rke05kv4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-19T21:33:35+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Trump's Board of Peace members pledge $7bn in Gaza relief"
+    },
+    {
+      "id": "dfec6717186ad6e566eabe0b4f0e25698d83caad",
+      "title": "Trump Considers Building a Military Base in Gaza as Peace Plans Clash With Reality",
+      "summary": "Israeli strikes on Gaza have killed about 600 people since a cease-fire began, according to health officials in the territory. Many displaced Palestinians are still living in tents. And there are some 60 million tons of…",
+      "url": "https://www.nytimes.com/2026/02/19/world/middleeast/gaza-rebuilding.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-19T19:14:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Israeli strikes on Gaza have killed about 600 people"
+    },
+    {
+      "id": "618cc02150fdd0db363d56d59d0e866874f5e17c",
+      "title": "Where Things Stand on Witkoff and Kushner’s Negotiations Over Iran, Ukraine and Gaza",
+      "summary": "Iran, Ukraine and Gaza are in play as the Trump envoys conduct talks on all of them. But progress in each conflict is scant.",
+      "url": "https://www.nytimes.com/2026/02/19/world/europe/witkoff-kushner-iran-ukraine-israel.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-19T12:54:28+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Gaza"
+    },
     {
       "id": "e451defa38573d4514f7d4920e05b10075c5e326",
       "title": "Saudi Cabinet rejects Israeli land laws amid Founding Day 2026 prep",
@@ -32,6 +109,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Israel takes steps to claim land in West Bank"
+    },
+    {
+      "id": "45578c3498f7e61eeadaccb76833092c388843c1",
+      "title": "Israel’s Actions Questioned at Security Council Meeting",
+      "summary": "Amid criticism over the board’s structure and broad mandate, the U.S. ambassador to the U.N. defended the board, saying “a new way” was needed to address the situation in Gaza.",
+      "url": "https://www.nytimes.com/2026/02/18/world/middleeast/security-council-israel-gaza-board-peace.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-19T01:54:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Israel’s Actions Questioned at Security Council Meeting"
     },
     {
       "id": "a74a7b12e070b7f049e82e4c790e5a4b9856d68b",
@@ -142,96 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "The Israeli foreign minister appeared to agree to visit Antwerp"
-    },
-    {
-      "id": "410899889cc1d6d1c419af886f1d6fb3a12a9536",
-      "title": "Ley’s shadow immigration minister ‘never agreed’ to unreleased Liberal plan to ban migrants from Gaza and Somalia",
-      "summary": "Angus Taylor says the hardline policy document designed under Sussan Ley has ‘no validity’ but hints he will toughen policyGet our breaking news email, free app or daily news podcastSussan Ley’s shadow immigration minist…",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/16/migrants-from-gaza-and-somalia-among-those-to-be-banned-from-australia-under-unreleased-liberal-plan",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-16T09:24:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "ban migrants from Gaza"
-    },
-    {
-      "id": "100296d348c4b52434952b3a3c2a022a989b0710",
-      "title": "Female Israeli soldiers rescued after being chased by ultra-Orthodox men",
-      "summary": "The two women were helped by police after being forced to run from a mob in the city of Bnei Brak.",
-      "url": "https://www.bbc.com/news/articles/clyzen2lgw9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-16T07:47:54+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Female Israeli soldiers rescued"
-    },
-    {
-      "id": "687a891499f7d9df8ce0918ee5b38da19aa6d6d0",
-      "title": "Iran must abandon enriched uranium and not produce more, Netanyahu says",
-      "summary": "The Israeli PM's comments come ahead of Iran-US talks in Geneva on Tuesday to discuss a nuclear deal.",
-      "url": "https://www.bbc.com/news/articles/cly191kz1lpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-16T04:26:53+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Iran must abandon enriched uranium and not produce more, Netanyahu says"
-    },
-    {
-      "id": "9f279a72ef5544d322464e45440631ba137f421e",
-      "title": "At least 12 Palestinians killed and several hurt in Israeli airstrikes on Gaza",
-      "summary": "Israel says strikes were in response to Hamas violations of ceasefire as Hamas calls attacks ‘massacre’ of displaced peopleAt least 12 Palestinians were killed and several more injured across the Gaza Strip on Sunday as…",
-      "url": "https://www.theguardian.com/world/2026/feb/15/palestinians-killed-injured-gaza-israeli-airstrikes-hamas",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-15T17:52:38+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israeli airstrikes on Gaza"
-    },
-    {
-      "id": "baaa701bd74f5c76f266af8ed2f05083b8f47388",
-      "title": "Trump’s Stinging Attack on Israel’s President Touches a Nerve",
-      "summary": "President Trump called President Isaac Herzog of Israel “disgraceful” because he has not yet pardoned Prime Minister Benjamin Netanyahu in his corruption trial.",
-      "url": "https://www.nytimes.com/2026/02/15/world/middleeast/trump-israel-herzog-attacks.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-15T16:04:39+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Isaac Herzog of Israel “disgraceful” because he has not yet pardoned"
-    },
-    {
-      "id": "e977b9595abb66187a5cb02d5d5bd1ab64fbc6e2",
-      "title": "Israel To Attend India AI Impact Summit 2026, Strengthen Tech Ties",
-      "summary": "The summit is expected to serve as a key platform for advancing bilateral engagement.",
-      "url": "https://www.ndtv.com/world-news/israel-to-attend-india-ai-impact-summit-2026-strengthen-tech-ties-11005590#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-15T02:31:26+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Israel To Attend India AI Impact Summit 2026"
-    },
-    {
-      "id": "59c5f3f1e65ba191205ac7e8d7b3aa5a5e7cb39c",
-      "title": "Life in Beirut Beneath the Drones",
-      "summary": "More than a year into a cease-fire, the mechanical whir of Israeli drones above the Lebanese capital is a reminder that, in many ways, the war never really ended.",
-      "url": "https://www.nytimes.com/2026/02/14/world/middleeast/beirut-drones-sound-israel-airstrikes.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-14T10:00:45+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Israeli drones above the Lebanese capital"
-    },
-    {
-      "id": "b4d0623184c36ded4e70ea8e4a6553e05465250b",
-      "title": "Ocasio-Cortez says US military aid to Israel ‘enabled a genocide in Gaza’",
-      "summary": "New York congresswoman criticizes ‘unconditional’ US aid and calls for enforcement of Leahy lawsAlexandria Ocasio-Cortez said during a Munich security conference panel on Friday on the future of foreign policy that the D…",
-      "url": "https://www.theguardian.com/us-news/2026/feb/13/alexandria-ocasio-cortez-israel-military-aid",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-14T00:00:21+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "US military aid to Israel ‘enabled a genocide in Gaza’"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-19T10:04:57Z"
+  "last_updated": "2026-02-20T09:59:29Z"
 }

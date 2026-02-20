@@ -1,16 +1,38 @@
 {
   "country": "TR",
-  "score": 81,
+  "score": 70,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 19,
+  "trend": -11,
+  "sources": 21,
   "sentiment": {
     "positive": 4,
     "neutral": 14,
-    "negative": 1
+    "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "b4d98a46bc774f3126622e466e2399d5d35e02bc",
+      "title": "Athens mulls clause to bar Turkey from future arms deals",
+      "summary": "Athens is especially pointing the finger at Germany amid negotiations to buy new submarines",
+      "url": "https://www.euractiv.com/news/athens-mulls-clause-to-bar-turkey-from-future-arms-deals/",
+      "source": "Euractiv",
+      "published_at": "2026-02-19T14:50:49+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Athens mulls clause to bar Turkey from future arms deals"
+    },
+    {
+      "id": "53250008fd553d60660af6bdd8da0baae924fdb4",
+      "title": "Turkey revealed as hub for indirect EU weapon exports to Russia",
+      "summary": "EU exports to Russia have been the target of the EU's 19 sanctions packages",
+      "url": "https://www.euractiv.com/news/turkey-revealed-as-hub-for-indirect-eu-weapon-exports-to-russia/",
+      "source": "Euractiv",
+      "published_at": "2026-02-19T12:45:17+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Turkey revealed as hub for indirect EU weapon exports"
+    },
     {
       "id": "9f9215f05f2e42ec5dcdf2345955ea5351854410",
       "title": "US Prepares For Potential Weeks-Long Operations Against Iran: Report",
@@ -208,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Series Sells Widely, Including to HBO Max in Turkey"
-    },
-    {
-      "id": "9bbbd828684feedd60fec32ec22f82c2a8c2bca0",
-      "title": "Athens fears Turkish trap on Trump’s peace board",
-      "summary": "Trump’s business-driven approach could open the door to a political settlement in the region",
-      "url": "https://www.euractiv.com/news/athens-fears-turkish-trap-on-trumps-peace-board/",
-      "source": "Euractiv",
-      "published_at": "2026-01-28T05:00:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Trump’s business-driven approach could open the door to a political settlement"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-19T10:04:57Z"
+  "last_updated": "2026-02-20T09:59:29Z"
 }

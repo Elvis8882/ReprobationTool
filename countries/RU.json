@@ -4,13 +4,79 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 226,
+  "sources": 236,
   "sentiment": {
     "positive": 12,
-    "neutral": 44,
-    "negative": 170
+    "neutral": 45,
+    "negative": 179
   },
   "latest_articles": [
+    {
+      "id": "f6c4c099cfa343f2b2bb9a4d4ab7ede29d6a645a",
+      "title": "Labour minister falsely linked journalists to ‘pro-Kremlin’ network in emails to GCHQ",
+      "summary": "Exclusive: Josh Simons pressed intelligence officials to investigate reporters, in emails described as ‘McCarthyite smear’A Labour minister who claimed to be “surprised” and “furious” at a PR agency’s work to investigate…",
+      "url": "https://www.theguardian.com/politics/2026/feb/20/labour-minister-falsely-linked-journalists-to-pro-kremlin-network-in-emails-to-gchq",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-20T09:00:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "falsely linking them to pro-Russian propaganda"
+    },
+    {
+      "id": "c00b15adcc61ac09b4eda08dbeee8ba0ecf91a95",
+      "title": "Ukrainian Women Tell Their Stories of Sexual Violence by Russian Soldiers",
+      "summary": "Hundreds of Ukrainian women and girls have reported sexual violence by Russian troops during the four-year war in Ukraine.",
+      "url": "https://www.nytimes.com/2026/02/20/world/europe/russian-soldiers-sexual-violence-ukraine.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-20T05:01:12+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "sexual violence by Russian troops"
+    },
+    {
+      "id": "cd811471b4e516684f55ea54968e5d7c58182dd0",
+      "title": "More than 1,000 Kenyans lured to fight for Russia in Ukraine war, report says",
+      "summary": "Intelligence findings read to parliament say ‘rogue’ agencies and individuals  recruiting Kenyan nationals to frontlineMore than 1,000 Kenyans have been lured to fight for Russia in its war with Ukraine, according to an…",
+      "url": "https://www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-19T14:39:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "lured to fight for Russia in Ukraine war"
+    },
+    {
+      "id": "1cd505badb5dbefa85a22e65e395d07e9a540481",
+      "title": "Over 1,000 Kenyans enlisted to fight in Russia-Ukraine war, report says",
+      "summary": "Investigators call the recruitment a well-organised trafficking ring involving immigration staff and security agencies.",
+      "url": "https://www.bbc.com/news/articles/ce8w266769go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-19T13:55:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "fight in Russia-Ukraine war"
+    },
+    {
+      "id": "53250008fd553d60660af6bdd8da0baae924fdb4",
+      "title": "Turkey revealed as hub for indirect EU weapon exports to Russia",
+      "summary": "EU exports to Russia have been the target of the EU's 19 sanctions packages",
+      "url": "https://www.euractiv.com/news/turkey-revealed-as-hub-for-indirect-eu-weapon-exports-to-russia/",
+      "source": "Euractiv",
+      "published_at": "2026-02-19T12:45:17+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "indirect EU weapon exports to Russia"
+    },
+    {
+      "id": "213bbb8d153221d22616f7ffd0bb309d2baaf856",
+      "title": "Zelenskyy accuses Putin of ‘delay tactics’ to stall Ukraine-Russia peace talks - Europe live",
+      "summary": "Ukrainian president expresses growing frustration with Russia and the US over lack of progress on a deal Meanwhile, Ukraine said it successfully hit a Russian oil depot in the western region of Pskov, causing explosions…",
+      "url": "https://www.theguardian.com/world/live/2026/feb/19/ukraine-russia-zelenskyy-putin-peace-talks-deal-donald-trump-europe-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-19T09:22:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Putin of ‘delay tactics’ to stall Ukraine-Russia peace talks"
+    },
     {
       "id": "7cd10d81adc350ce065f1d80295c0bdfb98a865c",
       "title": "'The Wizard of the Kremlin' raises questions about Latvian cinema's leading role / Article - LSM",
@@ -67,6 +133,17 @@
       "evidence": "Russia Celebrated Him. Now He’s Accused of Having Troops Shoot Themselves."
     },
     {
+      "id": "2b9bcf8bc61a9c8e2d84a11f4179689f357ce91f",
+      "title": "Musk cuts Starlink access for Russian forces - giving Ukraine an edge at the front",
+      "summary": "Ukrainian troops say Russian forces are suffering setbacks without access to Elon Musk's system.",
+      "url": "https://www.bbc.com/news/articles/c0q3ndj7052o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-19T01:39:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Musk cuts Starlink access for Russian forces"
+    },
+    {
       "id": "91f01768ae339fc3a793e04120088bbc1ce22e19",
       "title": "'Difficult' Russia-Ukraine peace talks end without breakthrough",
       "summary": "The second day of negotiations between Ukraine and Russia ended after just two hours.",
@@ -100,6 +177,28 @@
       "evidence": "Six Russian athletes ... will be allowed to represent their nations"
     },
     {
+      "id": "861a56f1af8c90753e4dca15d30c1f6c4d191a91",
+      "title": "Slovakia declares oil emergency after Druzhba pipeline halt",
+      "summary": "Bratislava joins Hungary in pressing Brussels over disrupted Russian oil supplies",
+      "url": "https://www.euractiv.com/news/slovakia-declares-oil-emergency-after-druzhba-pipeline-halt/",
+      "source": "Euractiv",
+      "published_at": "2026-02-18T15:21:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.4,
+      "evidence": "disrupted Russian oil supplies"
+    },
+    {
+      "id": "588f8a30ccfec392ae739aa22f85e99737ac532a",
+      "title": "Talks break in Geneva with no end to Russia’s war or hard-line demands",
+      "summary": "After two hours of talks in Geneva on Wednesday, the head of the Russian delegation, Vladimir Medinsky, said negotiations had been “difficult but businesslike.”",
+      "url": "https://www.washingtonpost.com/world/2026/02/18/russia-ukraine-geneva-negotiations-impasse/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-18T15:01:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "no end to Russia’s war or hard-line demands"
+    },
+    {
       "id": "5f7426e1648abdf8f011233ad483617dd976e51d",
       "title": "Commission floats action plan to counter Russia’s hybrid warfare",
       "summary": "The document aims to be a “starting point,” before a proposed annual dialogue",
@@ -131,107 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Russia wants to control as the price of peace"
-    },
-    {
-      "id": "56f4eb4056a761e3f38a392d15f7233d87d6ec50",
-      "title": "CNBC Daily Open: Iran-U.S. talks and Ukraine-Russia negotiations in focus — progress in sight?",
-      "summary": "Geopolitics will be the main theme of the day, with markets watching the high-stakes talks between the U.S. and Iran, as well as Ukraine and Russia.",
-      "url": "https://www.cnbc.com/2026/02/18/iran-us-talks-and-ukraine-russia-negotiations-in-focus-progress-in-sight.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-02-18T08:23:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Ukraine-Russia negotiations in focus — progress in sight?"
-    },
-    {
-      "id": "a7aa33cdfe0ff2d9819c979d6cbd4f1dccd3cfb5",
-      "title": "Ukraine war talks to resume in Geneva as Zelenskyy resists territorial trade-offs",
-      "summary": "Zelenskyy has repeatedly said his country is being asked to make disproportionate compromises compared to Russia",
-      "url": "https://www.euractiv.com/news/ukraine-war-talks-to-resume-in-geneva-as-zelenskyy-resists-territorial-trade-offs/",
-      "source": "Euractiv",
-      "published_at": "2026-02-18T07:16:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "resists territorial trade-offs compared to Russia"
-    },
-    {
-      "id": "f69bc853a59817dd2a2f63f61bb10a334e91386c",
-      "title": "Drones, Sirens, Army Posters: How 4 Years Of War Changed This Russian City",
-      "summary": "Even the look of Voronezh has changed dramatically since February 2022.",
-      "url": "https://www.ndtv.com/world-news/drones-sirens-army-posters-how-4-years-of-war-changed-this-russian-city-11052143#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-18T05:57:41+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "How 4 Years Of War Changed This Russian City"
-    },
-    {
-      "id": "319fb10aac6b99225fca6f2ba0ddc5f7c48e468b",
-      "title": "Russia’s self-destructive ‘new nobility’",
-      "summary": "General Vladimir Alexeyev's flouting of state protocol prompts an existential question to Putin's authoritarian rule: Why should anyone care about the rules if the country’s top secret people do not?",
-      "url": "https://www.euractiv.com/opinion/russias-self-destructive-new-nobility/",
-      "source": "Euractiv",
-      "published_at": "2026-02-18T05:00:19+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Russia’s self-destructive ‘new nobility’"
-    },
-    {
-      "id": "c818b9126765d365583b86dfbcd695c60dd2840d",
-      "title": "Beats and throat singing: Sámi DJs tap into growing pride in Indigenous identity",
-      "summary": "Acts such as Article 3 are drawing inspiration from their culture and meeting a big appetite for Indigenous-focused club nights“We both live in maybe the most impractical place if you want to be a successful DJ,” laughs…",
-      "url": "https://www.theguardian.com/world/2026/feb/18/sami-djs-indigenous-pride-music-norway-finland",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-18T05:00:02+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "northern parts of Sweden, Norway, Finland and Russia"
-    },
-    {
-      "id": "6115451716512a1b11be9d85657619776f902848",
-      "title": "\"The New Gold\": Prices Of Cucumbers Soar In Russia Amid Wartime Inflation, Trigger Anger",
-      "summary": "The humble cucumber has emerged as a potent symbol of Russia's struggling wartime economy.",
-      "url": "https://www.ndtv.com/world-news/cucumbers-are-the-new-gold-prices-of-cucumbers-soar-in-russia-amid-wartime-inflation-trigger-anger-11050542#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-18T03:22:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Prices Of Cucumbers Soar In Russia Amid Wartime Inflation, Trigger Anger"
-    },
-    {
-      "id": "b5c96ae75443936b05d35049571a2d706fe1e112",
-      "title": "‘Strictly for beautiful Russian girls’? What new files allege about Epstein’s links to Hamptons nightclub promoters",
-      "summary": "Newly revealed Justice Department documents expose Jeffrey Epstein's Hamptons operations, detailing how he used the exclusive locale for 'grooming.'  Young women were flown in for 'girls' weekends,' facilitated by wealth…",
-      "url": "https://timesofindia.indiatimes.com/world/us/strictly-for-beautiful-russian-girls-what-new-files-allege-about-epsteins-links-to-hamptons-nightclub-promoters/articleshow/128489436.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-02-18T03:02:10+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Strictly for beautiful Russian girls"
-    },
-    {
-      "id": "52e1a55e18ff8da44a5b2d66b01e1512751f69a1",
-      "title": "Food prices are surging in Russia. Is the war hitting Russians in the pocket?",
-      "summary": "Russia's economy is hanging between stagnation and decline, and ordinary Russians are beginning to feel the pinch.",
-      "url": "https://www.bbc.com/news/articles/c1mjrgkk1m8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-18T00:19:54+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Food prices are surging in Russia. Is the war hitting Russians in the pocket?"
-    },
-    {
-      "id": "6df49a4c4d6f52a627fffcba4bfc44b5a807874c",
-      "title": "First day of Russia-Ukraine peace talks ends in Geneva",
-      "summary": "Negotiations will continue on Wednesday, but expectations for a breakthrough on ending the war are low.",
-      "url": "https://www.bbc.com/news/articles/cge812y2549o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-17T20:05:13+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russia-Ukraine peace talks ends"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-19T10:04:57Z"
+  "last_updated": "2026-02-20T09:59:29Z"
 }

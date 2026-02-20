@@ -1,16 +1,82 @@
 {
   "country": "UA",
-  "score": 75,
+  "score": 74,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 167,
+  "trend": -1,
+  "sources": 175,
   "sentiment": {
-    "positive": 65,
-    "neutral": 38,
-    "negative": 64
+    "positive": 68,
+    "neutral": 41,
+    "negative": 66
   },
   "latest_articles": [
+    {
+      "id": "1deb637ab5938aef1e8fa9a01965756c08eb0556",
+      "title": "AI To Starlink: How Drone Technology Transformed Battlefield In Ukraine",
+      "summary": "In another alternative to radio control, Ukrainians have begun attaching Starlink terminals to drones",
+      "url": "https://www.ndtv.com/world-news/ai-starlink-fibre-optics-how-drone-technology-transformed-battlefield-in-ukraine-russia-ukraine-war-11106546#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-20T05:27:26+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukrainians have begun attaching Starlink terminals to drones"
+    },
+    {
+      "id": "c00b15adcc61ac09b4eda08dbeee8ba0ecf91a95",
+      "title": "Ukrainian Women Tell Their Stories of Sexual Violence by Russian Soldiers",
+      "summary": "Hundreds of Ukrainian women and girls have reported sexual violence by Russian troops during the four-year war in Ukraine.",
+      "url": "https://www.nytimes.com/2026/02/20/world/europe/russian-soldiers-sexual-violence-ukraine.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-20T05:01:12+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Ukrainian women and girls have reported sexual violence"
+    },
+    {
+      "id": "cd811471b4e516684f55ea54968e5d7c58182dd0",
+      "title": "More than 1,000 Kenyans lured to fight for Russia in Ukraine war, report says",
+      "summary": "Intelligence findings read to parliament say ‘rogue’ agencies and individuals  recruiting Kenyan nationals to frontlineMore than 1,000 Kenyans have been lured to fight for Russia in its war with Ukraine, according to an…",
+      "url": "https://www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-19T14:39:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "fight for Russia in Ukraine war"
+    },
+    {
+      "id": "1cd505badb5dbefa85a22e65e395d07e9a540481",
+      "title": "Over 1,000 Kenyans enlisted to fight in Russia-Ukraine war, report says",
+      "summary": "Investigators call the recruitment a well-organised trafficking ring involving immigration staff and security agencies.",
+      "url": "https://www.bbc.com/news/articles/ce8w266769go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-19T13:55:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "fight in Russia-Ukraine war"
+    },
+    {
+      "id": "618cc02150fdd0db363d56d59d0e866874f5e17c",
+      "title": "Where Things Stand on Witkoff and Kushner’s Negotiations Over Iran, Ukraine and Gaza",
+      "summary": "Iran, Ukraine and Gaza are in play as the Trump envoys conduct talks on all of them. But progress in each conflict is scant.",
+      "url": "https://www.nytimes.com/2026/02/19/world/europe/witkoff-kushner-iran-ukraine-israel.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-19T12:54:28+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Ukraine"
+    },
+    {
+      "id": "213bbb8d153221d22616f7ffd0bb309d2baaf856",
+      "title": "Zelenskyy accuses Putin of ‘delay tactics’ to stall Ukraine-Russia peace talks - Europe live",
+      "summary": "Ukrainian president expresses growing frustration with Russia and the US over lack of progress on a deal Meanwhile, Ukraine said it successfully hit a Russian oil depot in the western region of Pskov, causing explosions…",
+      "url": "https://www.theguardian.com/world/live/2026/feb/19/ukraine-russia-zelenskyy-putin-peace-talks-deal-donald-trump-europe-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-19T09:22:51+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukraine said it successfully hit a Russian oil depot"
+    },
     {
       "id": "7b18be1e27ede3b8cf307ef72c876ca2de83f326",
       "title": "Saeima marks four years of Russia's war against Ukraine / Article - LSM",
@@ -32,6 +98,17 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Russia's brutal and illegal full-scale invasion of Ukraine"
+    },
+    {
+      "id": "2b9bcf8bc61a9c8e2d84a11f4179689f357ce91f",
+      "title": "Musk cuts Starlink access for Russian forces - giving Ukraine an edge at the front",
+      "summary": "Ukrainian troops say Russian forces are suffering setbacks without access to Elon Musk's system.",
+      "url": "https://www.bbc.com/news/articles/c0q3ndj7052o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-19T01:39:55+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "giving Ukraine an edge at the front"
     },
     {
       "id": "91f01768ae339fc3a793e04120088bbc1ce22e19",
@@ -153,85 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Russia-Ukraine peace talks ends"
-    },
-    {
-      "id": "d42e3423584f573e207e882db82d8db28bcd471c",
-      "title": "Marco Rubio’s warm words to Viktor Orbán reinforce EU fears that US seeks disunity in Europe",
-      "summary": "Secretary of state spoke of ‘golden age’ of US-Hungary relations at time of tense transatlantic relations with traditional alliesEven before he in effect endorsed Hungary’s Viktor Orbán before a crucial parliamentary ele…",
-      "url": "https://www.theguardian.com/us-news/2026/feb/17/marco-rubio-viktor-orban-eu-disunity-analysis",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-17T19:49:10+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "sceptical of the bloc’s support for Ukraine"
-    },
-    {
-      "id": "846d013f3cf538d92c2f58ad3667fdc6aeb1f1da",
-      "title": "Russia presses demands, and faces pressure, as Ukraine talks move to Geneva",
-      "summary": "High casualties and economic trouble signal time is no longer on Russia’s side, but Moscow isn’t backing off political and territorial demands to weaken Ukraine.",
-      "url": "https://www.washingtonpost.com/world/2026/02/17/russia-ukraine-talks-geneva-impasse/",
-      "source": "World (Washington post)",
-      "published_at": "2026-02-17T19:01:19+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "demands to weaken Ukraine"
-    },
-    {
-      "id": "38ac86628f5e5c41480c88941ae0827938a0227b",
-      "title": "Ukraine makes symbolic battlefield advances as new peace talks begin",
-      "summary": "The gains are unlikely to force Russia to give up its maximalist demands",
-      "url": "https://www.euractiv.com/news/ukraine-makes-symbolic-battlefield-advances-as-new-peace-talks-begin/",
-      "source": "Euractiv",
-      "published_at": "2026-02-17T16:15:48+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine makes symbolic battlefield advances"
-    },
-    {
-      "id": "72cdd5246b0882bcee02f6d5a47b175e2397cd76",
-      "title": "Tsahkna reiterates the importance of achieving a just peace in Ukraine - The Baltic Times",
-      "summary": "Tsahkna reiterates the importance of achieving a just peace in Ukraine&nbsp;&nbsp;The Baltic Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbzlwanVyZ3JOa3gtUUNZdzgyNEhuZTl3Y05hU1IzaUNLb1gwUUZZX3lmVWZDbUxkR2VmT2tScGdJRGlrS1liMG14S01yZU5QX0VsTHFLUHZYT21ENWgtb09YTjhkOGJOd1dfN01RdWE0VngzZjBubTVhV2c2MkpsWm0xV0Vsd3VJYm43QUV1ZDVQYUx2N1NHd0EzZDhWZ3NP?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-17T13:46:32+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "reiterates the importance of achieving a just peace in Ukraine"
-    },
-    {
-      "id": "d975c01e33bd3fc9e7b8c0bfb11f0a0ee20e89d9",
-      "title": "European Bishops unite in Lenten prayer for war victims and peace - Vatican News",
-      "summary": "European Bishops unite in Lenten prayer for war victims and peace&nbsp;&nbsp;Vatican NewsAsh Wednesday collection to aid Church in Georgia&nbsp;&nbsp;Catholic Star HeraldU.S. Catholics help resurrect Ukrainian church sup…",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHpCOTdkSlZycHlSUGtNMHJJYjhyeklvUE11azJMNXlUOWk4ZXBkNU52b0VBRlNpVnlnUXVwVDk3S08yWjBkQU1hXzZseWpmb3pwUmVzZmw2ME8xQ1RBYlcxeEk5cXBpd2lUbGVtb1VFdVgyTkE2VUw1Y1JHVTNFRENTeVI3N0RMWGdBQVhhX1NBUXBhU1B3RVFCZmwzX014N2k4UEVicWZSOU9WUHNUaURKSkg?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-17T11:49:25+00:00",
-      "sentiment": "positive",
-      "confidence": 0.5,
-      "evidence": "U.S. Catholics help resurrect Ukrainian church suppressed by Soviet rule"
-    },
-    {
-      "id": "ef222b5e053780b7f59df17a28760449a506688e",
-      "title": "Russia launches 400 drones and 29 missiles at Ukraine hours before peace talks in Geneva – Europe live",
-      "summary": "Zelenskyy calls for allies to ‘respond to all these strikes against life’ as US-brokered talks between senior Russian and Ukrainian officials beginUkrainian foreign minister Andrii Sybiha said the overnight Russian attac…",
-      "url": "https://www.theguardian.com/world/live/2026/feb/17/ukraine-talks-geneva-russia-zelenskyy-putin-orban-rubio-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-17T09:40:12+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russia launches 400 drones and 29 missiles at Ukraine"
-    },
-    {
-      "id": "4675173b43aeff6fe1cb429d4b02d362732bd0f1",
-      "title": "Trump Said He’d End the War in Ukraine in a Day. It’s Harder Than He Thought.",
-      "summary": "Russian attacks and Ukrainian civilian deaths rose as President Trump’s peace talks dragged on during his first year back in the White House.",
-      "url": "https://www.nytimes.com/2026/02/17/world/europe/trump-ukraine-war-putin.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-17T09:25:31+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Ukrainian civilian deaths rose as President Trump’s peace talks dragged on"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-19T10:04:57Z"
+  "last_updated": "2026-02-20T09:59:29Z"
 }

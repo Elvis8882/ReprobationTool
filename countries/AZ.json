@@ -1,16 +1,27 @@
 {
   "country": "AZ",
-  "score": 100,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 2,
+  "score": 69,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": -31,
+  "sources": 3,
   "sentiment": {
     "positive": 1,
     "neutral": 1,
-    "negative": 0
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "a70ba66f2a43e6b25add8a25925b15962e707dc4",
+      "title": "D.C. protesters say they were attacked by guards of Azerbaijani president",
+      "summary": "Azerbaijan’s Ilham Aliyev is in town for a meeting of Trump’s Board of Peace. Police said an incident that “involved Azerbaijan security guards” had been referred to the State Department.",
+      "url": "https://www.washingtonpost.com/world/2026/02/19/dc-protesters-azerbaijan-ilham-aliyev-attack-trump/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-20T03:05:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "attacked by guards of Azerbaijani president"
+    },
     {
       "id": "9a2c4f5d298e27825c8a82ee05d98b0e4ba43a09",
       "title": "Azerbaijan grants visa-free travel to Omani citizens for one year",
@@ -35,5 +46,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-19T10:04:57Z"
+  "last_updated": "2026-02-20T09:59:29Z"
 }

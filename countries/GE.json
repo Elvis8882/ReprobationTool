@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": null,
-  "sources": 1,
+  "sources": 2,
   "sentiment": {
     "positive": 0,
-    "neutral": 1,
+    "neutral": 2,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "bda242d92f891ef5c4ab41e8f17ae305e58d2842",
+      "title": "Trump defends tariffs in pre-midterms appearance in battleground Georgia",
+      "summary": "Visit was ostensibly to promote economy, but US president focused on repeated, unverified claims of voter fraudDonald Trump forcefully defended his tariffs on Thursday, claiming “tariffs are my favorite word in the dicti…",
+      "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-tariffs-georgia",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-20T01:54:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Trump defends tariffs in pre-midterms appearance in battleground Georgia"
+    },
     {
       "id": "7d037ab2920ac09dc6b22e2aab2039cc2dc927e1",
       "title": "Georgia lawmakers express alarm to see Tulsi Gabbard at FBI elections office raid",
@@ -24,5 +35,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-19T10:04:57Z"
+  "last_updated": "2026-02-20T09:59:29Z"
 }

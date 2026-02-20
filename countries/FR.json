@@ -1,16 +1,91 @@
 {
   "country": "FR",
-  "score": 100,
+  "score": 99,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 162,
+  "trend": -1,
+  "sources": 173,
   "sentiment": {
-    "positive": 33,
-    "neutral": 111,
-    "negative": 18
+    "positive": 36,
+    "neutral": 117,
+    "negative": 20
   },
   "latest_articles": [
+    {
+      "id": "ce4d3bd4bc2b6bde57ee94d5b4f9c5f7aca6ea93",
+      "title": "French President Macron's 'Thank You' Note To India With 'Dhurandhar' Track",
+      "summary": "Macron's three-day visit to India was marked by high-level engagements and strategic discussions.",
+      "url": "https://www.ndtv.com/world-news/french-president-emmanuel-macrons-thank-you-note-to-india-with-dhurandhar-track-11111422#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-20T06:55:35+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Macron's visit to India... high-level engagements and strategic discussions"
+    },
+    {
+      "id": "3a27cd57ae4b88d5429031e2c219a8d468d7fe9f",
+      "title": "Meet Laurent Duplomb, the senator fighting France’s pesticide war",
+      "summary": "The lawmaker has tabled a new proposal to reauthorise the insecticide acetamiprid",
+      "url": "https://www.euractiv.com/news/meet-laurent-duplomb-the-senator-fighting-frances-pesticide-war/",
+      "source": "Euractiv",
+      "published_at": "2026-02-20T05:00:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "fighting France’s pesticide war"
+    },
+    {
+      "id": "81be4b9fe5e7d7e90568aa673f99d72213b2b09c",
+      "title": "French prosecutor seeks murder charges over killing of far-right activist",
+      "summary": "Political tensions rise after fatal attack at protest in Lyon as Emmanuel Macron hits out over remarks by Italian PMA French prosecutor is seeking murder charges against seven suspects in the fatal beating of a far-right…",
+      "url": "https://www.theguardian.com/world/2026/feb/19/french-prosecutor-suspects-quentin-deranque-activist-lyon-far-right-protest",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-19T18:37:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Macron to tell Italy’s Giorgia Meloni to keep out of French affairs"
+    },
+    {
+      "id": "15fd116c4d56cfdadde56ec7a3ae2fbee30d3aa3",
+      "title": "France renews push to boost farm ministers’ role in next CAP",
+      "summary": "The French, Spanish and Portuguese ministers will seek greater oversight of the next farm budget in a Council meeting next week",
+      "url": "https://www.euractiv.com/news/france-renews-push-to-boost-farm-ministers-role-in-next-cap/",
+      "source": "Euractiv",
+      "published_at": "2026-02-19T12:25:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "France renews push to boost farm ministers’ role"
+    },
+    {
+      "id": "1bbf0525c16c72a9c5ce110d07bfb067a9d37437",
+      "title": "Illegal promotion of tobacco and nicotine products rampant in France",
+      "summary": "In addition, more than a fifth of tobacconists promote banned nicotine pouches",
+      "url": "https://www.euractiv.com/news/illegal-promotion-of-tobacco-and-nicotine-products-rampant-in-france/",
+      "source": "Euractiv",
+      "published_at": "2026-02-19T11:56:10+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Illegal promotion of tobacco and nicotine products rampant in France"
+    },
+    {
+      "id": "8ab470ed835f0b9e18f21d0708a50867537effda",
+      "title": "Europe Worries About Another Trump Blowup, This One on Tech",
+      "summary": "Even as trade tensions between the United States and the European Union seem to calm, officials are concerned that a showdown is brewing over the bloc’s digital rules.",
+      "url": "https://www.nytimes.com/2026/02/19/world/europe/europe-united-states-trump-digital-services-act.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-19T11:27:07+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "254010376c11ecf00aca8ad195cd54b613abf906",
+      "title": "What is the EU’s greenhouse gas footprint per capita? - European Commission",
+      "summary": "What is the EU’s greenhouse gas footprint per capita?&nbsp;&nbsp;European CommissionCyprus recorded 14.8 tonnes of CO2 per capita in 2023, according to Eurostat&nbsp;&nbsp;ΚΥΠΕBTA :: Bulgaria Among EU Countries with Lowe…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11dDFXUHdUNnNoeVBYd3g2OWJWemFkVm1hOWl0MXNkMDB3bGdXR1REOHhBLUtGb3diYlpxQWFVV2F6SGhrYXVWSWEyZGFHWTV5Wjc0RjhRMHM3d0xRaGxLNnpGLU1PYi1CZ3Z2UDlEc1A4eVVZMFpxNzlmYkcxZw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-19T10:03:42+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "b6ff6cd7265317b9dff8b6513c4708f6c7513a28",
       "title": "Macron defends EU AI rules and vows crackdown on child ‘digital abuse’",
@@ -53,6 +128,17 @@
       "published_at": "2026-02-19T05:00:28+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "a3a761a98e2ad2f239c66643df6699570483354e",
+      "title": "PM Modi, Macron, Sundar Pichai, Top Tech Bosses At India AI Impact Summit",
+      "summary": "French President Emmanuel Macron joined PM Modi at the India AI Impact Summit (File)",
+      "url": "https://www.ndtv.com/india-news/india-ai-impact-summit-2026-pm-narendra-modi-macron-sundar-pichai-bill-gates-sam-altman-top-tech-bosses-to-address-bharat-mandapam-event-11056545#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-19T04:36:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "French President Emmanuel Macron joined PM Modi at the India AI Impact Summit"
     },
     {
       "id": "47124ce31257d323149e8d9148e9719df260d15c",
@@ -99,6 +185,28 @@
       "evidence": "French president and International Energy Agency chief defend clean energy"
     },
     {
+      "id": "783ddc5d5d668f3b697101e50e131bc3bcbd6d28",
+      "title": "Merz: German planes could carry French and British nukes",
+      "summary": "European countries such as Germany are beginning to look beyond the US for nuclear protection",
+      "url": "https://www.euractiv.com/news/merz-german-planes-could-carry-french-and-british-nukes/",
+      "source": "Euractiv",
+      "published_at": "2026-02-18T11:28:19+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "German planes could carry French and British nukes"
+    },
+    {
+      "id": "17be035ba2d2dc22f494f3f02015838d232d80e4",
+      "title": "International Energy Agency ‘infected’ by climate cult, US energy chief says",
+      "summary": "Chris Wright hammers home anti-renewables message as he arrives at IEA's ministerial summit in Paris",
+      "url": "https://www.euractiv.com/news/international-energy-agency-infected-by-climate-cult-us-energy-chief-says/",
+      "source": "Euractiv",
+      "published_at": "2026-02-18T11:27:17+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "IEA's ministerial summit in Paris"
+    },
+    {
       "id": "da0ba29d1b393de735b1a261b69dd13637f366ec",
       "title": "56% of youth in jobs matching their field of education - European Commission",
       "summary": "56% of youth in jobs matching their field of education&nbsp;&nbsp;European CommissionView Full coverage on Google News",
@@ -118,115 +226,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Lagarde to leave ECB early to allow Macron to pick successor"
-    },
-    {
-      "id": "d78158607ffa71c0a8af689712fdd8a1c08bb0f5",
-      "title": "Mary Cassatt: An American in Paris - francetoday.com",
-      "summary": "Mary Cassatt: An American in Paris&nbsp;&nbsp;francetoday.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa2RWQTQyWjVPdURvSURzLUlkX09UR1FHMlBPZFB1M3hBVDNqdkJvbU96QmhFLUdzcFFmdkdHanpMaGh1VGVsMEluOHBhRGVHNm9KUFczekhZdkJhZlhMWTFuWWF6T1h4MmpHa1FpXzZNOTFHNUktNlpFbC12bTFmWVQ1M2xaRmFR?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-18T08:30:41+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "An American in Paris"
-    },
-    {
-      "id": "23aa5ad33313845da5aee5ab47d65678facd703a",
-      "title": "France arrests nine over far-right activist’s killing",
-      "summary": "Quentin Deranque, 23, died after sustaining a severe brain injury when he was attacked last week on the sidelines of a far-right protest",
-      "url": "https://www.euractiv.com/news/france-arrests-nine-over-far-right-activists-killing/",
-      "source": "Euractiv",
-      "published_at": "2026-02-18T07:11:54+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "France arrests nine over far-right activist’s killing"
-    },
-    {
-      "id": "398820169c0bc7b08bbad6bc463a15dfba82ea54",
-      "title": "Defence, AI, Nuclear Push: Decoding India-France's \"Special Global\" Partnership",
-      "summary": "France's President Macron and Prime Minister Modi held bilateral meeting in Mumbai on February 17",
-      "url": "https://www.ndtv.com/world-news/special-partnership-india-france-elevate-ties-with-big-push-on-defence-ai-and-nukes-11051680#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-18T03:21:29+00:00",
-      "sentiment": "positive",
-      "confidence": 0.5,
-      "evidence": "Decoding India-France's \"Special Global\" Partnership"
-    },
-    {
-      "id": "061cb769a4d232e10a02f2f46c39d081c019fbb2",
-      "title": "Nine arrested in France over death of far-right student",
-      "summary": "Quentin Deranque died on Saturday, two days after being beaten in Lyon by masked men believed to be far-left militants.",
-      "url": "https://www.bbc.com/news/articles/cvgj1qrqd47o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-17T21:08:32+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Nine arrested in France over death of far-right student"
-    },
-    {
-      "id": "297aeadf3435328e70179e64e980f188cd725417",
-      "title": "Green groups fear backroom talks signal further EU deregulation",
-      "summary": "So-called strategic dialogues are being used by industry to question EU law, campaigners warn as they accuse the European Commission of shutting them out",
-      "url": "https://www.euractiv.com/news/green-groups-fear-backroom-talks-signal-further-eu-deregulation/",
-      "source": "Euractiv",
-      "published_at": "2026-02-17T17:46:08+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "2c4119684b12b9d387679e8130f4042c4cd0c0dd",
-      "title": "French far-left party under fire after fatal attack on nationalist activist",
-      "summary": "With just weeks to go before March’s municipal elections, the tragedy comes at a particularly damaging moment for Mélenchon’s far-left party",
-      "url": "https://www.euractiv.com/news/french-far-left-party-under-fire-after-fatal-attack-on-nationalist-activist/",
-      "source": "Euractiv",
-      "published_at": "2026-02-17T17:07:22+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "French far-left party under fire after fatal attack"
-    },
-    {
-      "id": "e4d274f54cf363fbffc52842b0afc0a8ab25e00f",
-      "title": "France releases suspected Russian 'shadow fleet' tanker after fine paid",
-      "summary": "French Foreign Minister Jean-Noël Barrot said the vessel was departing Marseille after a payment of \"several million euros\".",
-      "url": "https://www.bbc.com/news/articles/c8xy4dl2xwgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-17T14:20:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "France releases suspected Russian 'shadow fleet' tanker after fine paid"
-    },
-    {
-      "id": "75e1feb5a5cb00053acce85b134fdd9befc64119",
-      "title": "France vs Germany over ‘Made in Europe’",
-      "summary": "'Buy European' rift, questions about Hungary's budget payout and a parliamentary delay",
-      "url": "https://www.euractiv.com/news/france-vs-germany-over-made-in-europe/",
-      "source": "Euractiv",
-      "published_at": "2026-02-17T11:26:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "France vs Germany over ‘Made in Europe’"
-    },
-    {
-      "id": "923ef7dac9d78996e2c4bb38c4a96f024e10ee40",
-      "title": "Call for Expression of Interest - Integrating the New European Bauhaus into Cohesion Policy Programmes - European Commission",
-      "summary": "Call for Expression of Interest - Integrating the New European Bauhaus into Cohesion Policy Programmes&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPemNfN3NFQWVSdnFuTkxEanZxc0hZblZKa2FzTjBqbUx0RWpFcnlNOHo1dVFldEMxSEpWT3lFZ2JRdHoyX1lKQWlQOEJhNlZLMzd3Z2hXUGQ3S2gxX0tRNG9fS3Utel8teHYtdUdsbmpHMXpIR3h3MVdma21jbUxaVUdOMVNrZ3lDNjd6aWRIdDZubDVES0hZZl9KcXpPWVA1X2t5aDJEWjBlSmE4WmNrR0JKTUY2cXRpWWRJQklDMXNnU1RiODIycTVuYnByLTlVWTBCT3k2dEdyekc5UmxJcl9ZNmREVHVkMDNTXy16QTNuQUVNeHZIc01SOWpickU?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-17T09:26:32+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "b737071b57d61f2e30968376d46382616c731059",
-      "title": "Country-by-country: Where EU countries stand on Trump’s Board of Peace",
-      "summary": "The board meets on Thursday for the first time, with the European Commission set to attend",
-      "url": "https://www.euractiv.com/news/country-by-country-where-eu-countries-stand-on-trumps-board-of-peace/",
-      "source": "Euractiv",
-      "published_at": "2026-02-17T05:00:53+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-19T10:04:57Z"
+  "last_updated": "2026-02-20T09:59:29Z"
 }

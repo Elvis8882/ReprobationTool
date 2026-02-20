@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 6,
+  "sources": 7,
   "sentiment": {
     "positive": 1,
-    "neutral": 0,
+    "neutral": 1,
     "negative": 5
   },
   "latest_articles": [
+    {
+      "id": "efd236108f364704c48f8e97ceb2af9c24959927",
+      "title": "Veteran dissident who refused exile released",
+      "summary": "Mikola Statkevich, who spent more than five years in prison in his native Belarus, is now recovering from a stroke at home, his wife says.",
+      "url": "https://www.bbc.com/news/articles/cn0ewjdgrkzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-19T20:15:42+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "native Belarus, is now recovering from a stroke"
+    },
     {
       "id": "91871c4f5dd36f09a9cde3ec016097ad8a90771c",
       "title": "Latvia to spend 120,000 euros on changing road signs pointing to Russia and Belarus - Baltic News Network",
@@ -79,5 +90,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-19T10:04:57Z"
+  "last_updated": "2026-02-20T09:59:29Z"
 }

@@ -1,16 +1,47 @@
 {
   "country": "PL",
-  "score": 71,
+  "score": 73,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 66,
+  "trend": 2,
+  "sources": 70,
   "sentiment": {
-    "positive": 7,
-    "neutral": 52,
+    "positive": 8,
+    "neutral": 55,
     "negative": 7
   },
   "latest_articles": [
+    {
+      "id": "40f7134893ce0b900eb4034eb0beaabde0a54b16",
+      "title": "How ‘smog capital of Poland’ saved 6,000 lives by cutting soot levels",
+      "summary": "Kraków’s ban on burning solid fuels plus subsidies for cleaner heating has led to clearer air and better healthAs a child, Marcel Mazur had to hold his breath in parts of Kraków thick with “so much smoke you could see an…",
+      "url": "https://www.theguardian.com/environment/2026/feb/20/krakow-smog-poland-saved-lives-black-carbon-green-iniatives",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-20T06:00:24+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Kraków’s ban on burning solid fuels plus subsidies for cleaner heating has led to clearer air and better health"
+    },
+    {
+      "id": "8ab470ed835f0b9e18f21d0708a50867537effda",
+      "title": "Europe Worries About Another Trump Blowup, This One on Tech",
+      "summary": "Even as trade tensions between the United States and the European Union seem to calm, officials are concerned that a showdown is brewing over the bloc’s digital rules.",
+      "url": "https://www.nytimes.com/2026/02/19/world/europe/europe-united-states-trump-digital-services-act.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-19T11:27:07+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "254010376c11ecf00aca8ad195cd54b613abf906",
+      "title": "What is the EU’s greenhouse gas footprint per capita? - European Commission",
+      "summary": "What is the EU’s greenhouse gas footprint per capita?&nbsp;&nbsp;European CommissionCyprus recorded 14.8 tonnes of CO2 per capita in 2023, according to Eurostat&nbsp;&nbsp;ΚΥΠΕBTA :: Bulgaria Among EU Countries with Lowe…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11dDFXUHdUNnNoeVBYd3g2OWJWemFkVm1hOWl0MXNkMDB3bGdXR1REOHhBLUtGb3diYlpxQWFVV2F6SGhrYXVWSWEyZGFHWTV5Wjc0RjhRMHM3d0xRaGxLNnpGLU1PYi1CZ3Z2UDlEc1A4eVVZMFpxNzlmYkcxZw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-19T10:03:42+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "4d81abf151dff772f8dc7023c9f844903597c6b7",
       "title": "Brussels caught off-guard as von der Leyen targets electricity market",
@@ -71,6 +102,17 @@
       "published_at": "2026-02-17T05:00:53+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "77937718607dcc13b542d487087c193ddf3666b1",
+      "title": "How France is losing its leadership on EU agriculture",
+      "summary": "Italy, Spain and Poland are reshaping the bloc’s food export balance",
+      "url": "https://www.euractiv.com/news/how-france-is-losing-its-leadership-on-eu-agriculture/",
+      "source": "Euractiv",
+      "published_at": "2026-02-17T05:00:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "Italy, Spain and Poland are reshaping the bloc’s food export balance"
     },
     {
       "id": "b189aba47746d4c12024e5fcdee828578ecd26e9",
@@ -175,50 +217,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Poland weighs EU court action against Hungary"
-    },
-    {
-      "id": "b5d445c1875803ab0f21e78368a8058563ec1f23",
-      "title": "Polish liberal Michał Kobosko gets telecom overhaul rapporteurship",
-      "summary": "Kobosko said negotiating the law would be a major challenge",
-      "url": "https://www.euractiv.com/news/polish-liberal-michal-kobosko-gets-telecom-overhaul-rapporteurship/",
-      "source": "Euractiv",
-      "published_at": "2026-02-11T14:12:27+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Polish liberal Michał Kobosko gets telecom overhaul rapporteurship"
-    },
-    {
-      "id": "74ef5dcc9191ff34674319f2a4faec64cabdba51",
-      "title": "Von der Leyen defends EU carbon pricing at chemical industry summit",
-      "summary": "European Commission pledges to ensure revenue is channelled to help heavy industry decarbonise",
-      "url": "https://www.euractiv.com/news/von-der-leyen-defends-eu-carbon-pricing-at-chemical-industry-summit/",
-      "source": "Euractiv",
-      "published_at": "2026-02-11T12:59:58+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "5a909adf4102e2116c89f39ced354dfb91cfd6ae",
-      "title": "Von der Leyen calls for crackdown on ‘unnecessary’ national laws",
-      "summary": "“It is time for a deep regulatory housecleaning – at all levels,” the European Commission chief said as she called for an end to \"gold-plating\" of EU laws",
-      "url": "https://www.euractiv.com/news/von-der-leyen-calls-for-crackdown-on-unnecessary-national-laws/",
-      "source": "Euractiv",
-      "published_at": "2026-02-11T09:09:46+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "a5040acd9ca13a548a446a0e09bfe384aafb67d1",
-      "title": "In Poland, Tusk mirrors the far right’s agenda",
-      "summary": "The far right’s ascent has coincided with a noticeable rightward shift in Tusk’s rhetoric and policy priorities",
-      "url": "https://www.euractiv.com/news/in-poland-tusk-mirrors-the-far-rights-agenda/",
-      "source": "Euractiv",
-      "published_at": "2026-02-11T05:37:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Tusk mirrors the far right’s agenda"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-19T10:04:57Z"
+  "last_updated": "2026-02-20T09:59:29Z"
 }

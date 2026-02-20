@@ -1,16 +1,27 @@
 {
   "country": "TN",
-  "score": 100,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": null,
-  "sources": 1,
+  "score": 55,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
+  "trend": -45,
+  "sources": 2,
   "sentiment": {
     "positive": 0,
     "neutral": 1,
-    "negative": 0
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "6215e890453b4dd76012ae57a45fd2ba7372d431",
+      "title": "Tunisian MP jailed for eight months over posts mocking president",
+      "summary": "The MP was arrested this month after mocking the president's handling of the recent floods in the country.",
+      "url": "https://www.bbc.com/news/articles/c3v75lvgy36o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-20T08:01:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Tunisian MP jailed for eight months over posts mocking president"
+    },
     {
       "id": "bb757fb8ad695b8793e52f550702adf2c04abaee",
       "title": "How an undercover cop foiled an IS plot to massacre Britain’s Jews – podcast",
@@ -24,5 +35,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-19T10:04:57Z"
+  "last_updated": "2026-02-20T09:59:29Z"
 }
