@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 35,
+  "sources": 36,
   "sentiment": {
     "positive": 3,
-    "neutral": 26,
+    "neutral": 27,
     "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "cd5e02741c9ef51112be9c8a1082418c175feffb",
+      "title": "Johannes Dale-Skjevdal of Norway Wins Biathlon Mass Start",
+      "summary": "Johannes Dale-Skjevdal of Norway hit all 20 of his shots to win the gold medal in the mass start event.",
+      "url": "https://www.nytimes.com/2026/02/20/world/biathlon-johannes-dale-skjevdal-norway.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-20T20:52:16+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Wins Biathlon Mass Start"
+    },
     {
       "id": "2e458a1fd947cfec5d63a32bd0989dba2d18cf7f",
       "title": "The scandal that shattered Norway’s image",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Norway police investigate ex-PM Jagland over Epstein links"
-    },
-    {
-      "id": "6ac24de2a4a91fd5851f0b79635ae181d4dc92ce",
-      "title": "Norway investigates former PM Jagland over alleged Epstein links",
-      "summary": "Police say Thorbjørn Jagland is suspected of \"aggravated corruption\", requesting for his immunity to be revoked.",
-      "url": "https://www.bbc.com/news/articles/cy8y6w2nl0qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-05T23:39:48+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Norway investigates former PM Jagland over alleged Epstein links"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-20T09:59:29Z"
+  "last_updated": "2026-02-21T09:44:27Z"
 }

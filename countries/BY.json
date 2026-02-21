@@ -1,16 +1,27 @@
 {
   "country": "BY",
-  "score": 60,
+  "score": 59,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 7,
+  "trend": -1,
+  "sources": 8,
   "sentiment": {
     "positive": 1,
     "neutral": 1,
-    "negative": 5
+    "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "8c21d69f0194acaadba3d415c28dbcc19159f7db",
+      "title": "Ukraine protests renewed Paralympics participation by Russia, Belarus",
+      "summary": "The decision allowing Russia and Belarus to rejoin competition drew outrage in Ukraine and Europe following the disqualification last week of a Ukrainian skeleton athlete.",
+      "url": "https://www.washingtonpost.com/world/2026/02/20/russia-belarus-paralympics-ukraine-protest/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-20T18:09:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Ukraine protests renewed Paralympics participation by Russia, Belarus"
+    },
     {
       "id": "efd236108f364704c48f8e97ceb2af9c24959927",
       "title": "Veteran dissident who refused exile released",
@@ -90,5 +101,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-20T09:59:29Z"
+  "last_updated": "2026-02-21T09:44:27Z"
 }

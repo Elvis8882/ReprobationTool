@@ -1,16 +1,27 @@
 {
   "country": "AZ",
-  "score": 69,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
-  "trend": -31,
-  "sources": 3,
+  "score": 63,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
+  "trend": -6,
+  "sources": 4,
   "sentiment": {
     "positive": 1,
     "neutral": 1,
-    "negative": 1
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "6c3d9ee2a337c38f109d9a03715090feb345a691",
+      "title": "Bodyguards for Azerbaijani president, in town for Trump’s Board of Peace, attack protesters in DC",
+      "summary": "Demonstrators were outside hotel in Washington demanding the release of political prisoners in AzerbaijanBodyguards traveling with the Azerbaijani president, who was visiting Washington for the inaugural meeting of Donal…",
+      "url": "https://www.theguardian.com/us-news/2026/feb/20/azerbaijan-trump-board-peace-protestors",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-20T15:52:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "attack protesters in DC"
+    },
     {
       "id": "a70ba66f2a43e6b25add8a25925b15962e707dc4",
       "title": "D.C. protesters say they were attacked by guards of Azerbaijani president",
@@ -46,5 +57,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-20T09:59:29Z"
+  "last_updated": "2026-02-21T09:44:27Z"
 }

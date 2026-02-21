@@ -1,16 +1,69 @@
 {
   "country": "ES",
-  "score": 95,
+  "score": 94,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 101,
+  "trend": -1,
+  "sources": 108,
   "sentiment": {
     "positive": 13,
-    "neutral": 73,
-    "negative": 15
+    "neutral": 79,
+    "negative": 16
   },
   "latest_articles": [
+    {
+      "id": "9dec0818cf3bb50414df7cc2dca61d5a78494b7d",
+      "title": "Hungary Poses Unexpected Hurdle to Europe’s 90-Billion Euro Loan to Ukraine",
+      "summary": "While the delay may prove to be procedural, Hungary signaled that it could cause problems as the European Union works to send money to Ukraine.",
+      "url": "https://www.nytimes.com/2026/02/20/world/europe/euro-loan-ukraine-hungary-obstacle.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-21T07:43:03+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "9a21a3c70b8ee567b53e2ed40ba90fde2a54bbcd",
+      "title": "‘A joyful day’: final piece of Sagrada Familia’s central tower put in place",
+      "summary": "Completion of glass cross brings Antoni Gaudí’s church to maximum final height of 172.5m, 144 years after work beganThe final piece of the central tower of Barcelona’s Sagrada Familia has been laid in place, bringing the…",
+      "url": "https://www.theguardian.com/world/2026/feb/20/barcelona-sagrada-familias-church-central-tower-put-in-place",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-20T16:09:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "final piece of Sagrada Familia’s central tower put in place"
+    },
+    {
+      "id": "24c746367be8cecfb4862cd1abd835ae8c839180",
+      "title": "Brussels promises not to overlook climate impact of war on red tape",
+      "summary": "European Commission concedes on several points after EU Ombudsman finding of maladministration",
+      "url": "https://www.euractiv.com/news/brussels-promises-not-to-overlook-climate-impact-of-war-on-red-tape/",
+      "source": "Euractiv",
+      "published_at": "2026-02-20T12:35:12+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "88ca1da4d7485e4e270eb7910b4ec78b325f2f8d",
+      "title": "FIREPOWER: Kubilius defence tour continues with laggard Spain",
+      "summary": "FCAS, Mobility, F-35s",
+      "url": "https://www.euractiv.com/news/firepower-kubilius-defence-tour-continues-with-laggard-spain/",
+      "source": "Euractiv",
+      "published_at": "2026-02-20T08:25:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Kubilius defence tour continues with laggard Spain"
+    },
+    {
+      "id": "7a49e172b7d440bcb2d5114ec0b7c4bfcf510771",
+      "title": "Trump’s envoys rampage through Europe",
+      "summary": "In Friday’s edition, also: Qatargate, Spain migration, and College vs Tbilisi",
+      "url": "https://www.euractiv.com/news/rapporteur-trumps-envoys-rampage-through-europe/",
+      "source": "Euractiv",
+      "published_at": "2026-02-20T05:56:30+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Spain migration"
+    },
     {
       "id": "8b409fefaf15c21562cf5d980d8c57b0e97ce33d",
       "title": "Terrible storms turn Spain into electricity price utopia",
@@ -21,6 +74,17 @@
       "sentiment": "mixed",
       "confidence": 0.8,
       "evidence": "Spain into electricity price utopia ... pays price for lack of EU cables"
+    },
+    {
+      "id": "27245e8c24e42bbb31128c5f2afe00ab68ddf92e",
+      "title": "INTERVIEW: Spain’s migrant regularisation ‘completely politicised’, minister says",
+      "summary": "The reform stems from a popular initiative in 2021, which received 700,000 signatures",
+      "url": "https://www.euractiv.com/news/interview-spains-migrant-regularisation-completely-politicised-minister-says/",
+      "source": "Euractiv",
+      "published_at": "2026-02-20T05:00:48+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Spain’s migrant regularisation ‘completely politicised’"
     },
     {
       "id": "b73c9b4825783e4edb1a1ddeb4d6c9a7e9833e2a",
@@ -97,6 +161,17 @@
       "sentiment_fallback": true
     },
     {
+      "id": "f10948910e43dcb3219b0d3ce9e99416daf7cb92",
+      "title": "Spain luxury hotel scammer booked rooms for one cent, police say",
+      "summary": "Police arrest a 20-year-old suspected of defrauding a luxury Madrid hotel of more than €20,000 by manipulating an online payment system.",
+      "url": "https://www.bbc.com/news/articles/c0q3nwdk315o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-18T16:34:44+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Spain luxury hotel scammer booked rooms"
+    },
+    {
       "id": "9f21890b809eedb71899913d35927947cded7dc0",
       "title": "Benfica midfielder denies racially abusing Vinicius after Real Madrid match halted",
       "summary": "Benfica claim there is a \"defamation campaign\" against Gianluca Prestianni as Uefa launch an investigation into claims he racially abused Real Madrid's Vinicius Jr.",
@@ -149,82 +224,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Escalating Trans-Atlantic Tech Dispute"
-    },
-    {
-      "id": "297aeadf3435328e70179e64e980f188cd725417",
-      "title": "Green groups fear backroom talks signal further EU deregulation",
-      "summary": "So-called strategic dialogues are being used by industry to question EU law, campaigners warn as they accuse the European Commission of shutting them out",
-      "url": "https://www.euractiv.com/news/green-groups-fear-backroom-talks-signal-further-eu-deregulation/",
-      "source": "Euractiv",
-      "published_at": "2026-02-17T17:46:08+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "0ab083205dfe8aaf05753ab4964a4875a23a6ab8",
-      "title": "Spain eyes criminal probe of X, Meta and TikTok over AI ‘pornification’",
-      "summary": "Elon Musk's Grok AI tool has channeled most of the controversy and regulatory scrutiny over sexualised deepfakes but Spain's PM eyes a wider net",
-      "url": "https://www.euractiv.com/news/spain-eyes-criminal-probe-of-x-meta-and-tiktok-over-ai-pornification/",
-      "source": "Euractiv",
-      "published_at": "2026-02-17T10:11:57+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Spain eyes criminal probe of X, Meta and TikTok over AI ‘pornification’"
-    },
-    {
-      "id": "923ef7dac9d78996e2c4bb38c4a96f024e10ee40",
-      "title": "Call for Expression of Interest - Integrating the New European Bauhaus into Cohesion Policy Programmes - European Commission",
-      "summary": "Call for Expression of Interest - Integrating the New European Bauhaus into Cohesion Policy Programmes&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPemNfN3NFQWVSdnFuTkxEanZxc0hZblZKa2FzTjBqbUx0RWpFcnlNOHo1dVFldEMxSEpWT3lFZ2JRdHoyX1lKQWlQOEJhNlZLMzd3Z2hXUGQ3S2gxX0tRNG9fS3Utel8teHYtdUdsbmpHMXpIR3h3MVdma21jbUxaVUdOMVNrZ3lDNjd6aWRIdDZubDVES0hZZl9KcXpPWVA1X2t5aDJEWjBlSmE4WmNrR0JKTUY2cXRpWWRJQklDMXNnU1RiODIycTVuYnByLTlVWTBCT3k2dEdyekc5UmxJcl9ZNmREVHVkMDNTXy16QTNuQUVNeHZIc01SOWpickU?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-17T09:26:32+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "3f7dc563555b0f4bb71f77ca9cad19990b0632b3",
-      "title": "Five young people die in Spain apartment block fire",
-      "summary": "Firefighters say they do not know why the victims could not escape the blaze in the building's upper floor.",
-      "url": "https://www.bbc.com/news/articles/c99jngpymyjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-17T08:48:14+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Five young people die in Spain apartment block fire"
-    },
-    {
-      "id": "0ee244d69f016c41a348786c3804dcf3fa3f6a67",
-      "title": "Madrid museum shuffles its pack charting decades of rapid change in Spain - The Guardian",
-      "summary": "Madrid museum shuffles its pack charting decades of rapid change in Spain&nbsp;&nbsp;The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMEtpUXJ4cGJmVUhmQlFVZExjUEtJM2hQVjh2d2pheDJveWIzMXk1WTR2RG5JT2x0R0hkczNCWTNCSVNzU2pWNVFMVG8zYzY4cDFVcFRMNE91Y1d3TDNDT0w1djU1bnFWQktmbVZyOWZZOFRVMmdGcWR4aVVSQ09JalZpcVBEZ0JmblVnLQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-17T08:01:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "rapid change in Spain"
-    },
-    {
-      "id": "f965670a9461fd87cdecb80995984df6553dd49c",
-      "title": "Madrid museum shuffles its pack charting decades of rapid change in Spain",
-      "summary": "Reina Sofía’s three-year rehang of works by artists from Spain and beyond is billed as a ‘critical reinterpretation’The Reina Sofía’s new rehang opens, quite pointedly, with a painting of a detained man sitting, head bow…",
-      "url": "https://www.theguardian.com/world/2026/feb/17/reina-sofia-madrid-museum-rehang-spain",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-17T06:00:02+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Spain began its transition to democracy after four decades of dictatorship."
-    },
-    {
-      "id": "b737071b57d61f2e30968376d46382616c731059",
-      "title": "Country-by-country: Where EU countries stand on Trump’s Board of Peace",
-      "summary": "The board meets on Thursday for the first time, with the European Commission set to attend",
-      "url": "https://www.euractiv.com/news/country-by-country-where-eu-countries-stand-on-trumps-board-of-peace/",
-      "source": "Euractiv",
-      "published_at": "2026-02-17T05:00:53+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-20T09:59:29Z"
+  "last_updated": "2026-02-21T09:44:27Z"
 }

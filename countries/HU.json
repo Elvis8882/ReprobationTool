@@ -4,13 +4,45 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 70,
+  "sources": 73,
   "sentiment": {
     "positive": 1,
-    "neutral": 56,
-    "negative": 13
+    "neutral": 57,
+    "negative": 15
   },
   "latest_articles": [
+    {
+      "id": "9dec0818cf3bb50414df7cc2dca61d5a78494b7d",
+      "title": "Hungary Poses Unexpected Hurdle to Europe’s 90-Billion Euro Loan to Ukraine",
+      "summary": "While the delay may prove to be procedural, Hungary signaled that it could cause problems as the European Union works to send money to Ukraine.",
+      "url": "https://www.nytimes.com/2026/02/20/world/europe/euro-loan-ukraine-hungary-obstacle.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-21T07:43:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Hungary Poses Unexpected Hurdle to Europe’s 90-Billion Euro Loan to Ukraine"
+    },
+    {
+      "id": "86660d6ecf1b577db69d6ced11ea23a78b8c55ee",
+      "title": "Hungary blocks €90 billion EU loan to Ukraine",
+      "summary": "Foreign Minister Péter Szijjártó accused Kyiv of \"blackmailing Hungary by halting oil transit in coordination with Brussels and the Hungarian opposition\"",
+      "url": "https://www.euractiv.com/news/hungary-blocks-e90-billion-eu-loan-to-ukraine/",
+      "source": "Euractiv",
+      "published_at": "2026-02-20T19:02:28+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Hungary blocks €90 billion EU loan to Ukraine"
+    },
+    {
+      "id": "24c746367be8cecfb4862cd1abd835ae8c839180",
+      "title": "Brussels promises not to overlook climate impact of war on red tape",
+      "summary": "European Commission concedes on several points after EU Ombudsman finding of maladministration",
+      "url": "https://www.euractiv.com/news/brussels-promises-not-to-overlook-climate-impact-of-war-on-red-tape/",
+      "source": "Euractiv",
+      "published_at": "2026-02-20T12:35:12+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "8ab470ed835f0b9e18f21d0708a50867537effda",
       "title": "Europe Worries About Another Trump Blowup, This One on Tech",
@@ -190,39 +222,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Trump ally Orbán to help shore up his position ahead of elections"
-    },
-    {
-      "id": "f0e19c9608f8c9c8fba0e78d62776fa84822bc7c",
-      "title": "What do you need to know to pass EPSO? Ask the Euronews AI chatbot - Euronews.com",
-      "summary": "What do you need to know to pass EPSO? Ask the Euronews AI chatbot&nbsp;&nbsp;Euronews.comDoes the EU need an urgent staff renewal? The EPSO exam is back&nbsp;&nbsp;Euronews.comCareer opportunity for graduates to work wi…",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNTJNR0pRX256VXN0ZjI1Z0hxODJhUTB1LUU2T3VvTFhQU1JHTDlWMDFFVXRNeV9LSWFJRzZISHJ1REtDSU5ZU2F6U2VKRjJ3NVhoSmpXYl9uNU1IMlEzZWY1UzRTWEdDVXdpYVF3UnY4ZVMtZEktRVo5bTJGaHk3VmZiSHU5TWVyWnZHSjJfS2xuYjY0QW1ESmtGTF9uQ1JlMzFWakFKMWVEV3FQNHdZcQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-16T06:30:20+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "7c86dd2a55fc508534e500be53b80f8f6bcd9e0a",
-      "title": "EU’s deportations plan risks ICE-style enforcement, rights groups warn",
-      "summary": "Crackdown on undocumented people could lead to home raids, surveillance and racial profiling, 75 organisations say More than 70 rights organisations have called on the EU to reject a proposal aimed at increasing the depo…",
-      "url": "https://www.theguardian.com/world/2026/feb/16/eu-deportations-plan-ice-style-enforcement-rights-groups-warn",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-16T05:00:43+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "2589fea62e7eee2d94b745e1f46b621deb6d6d17",
-      "title": "After Munich speech, Rubio visits Trump allies in Slovakia and Hungary",
-      "summary": "The visits come a day after Rubio called on Europeans to defend \"Western civilisation\"",
-      "url": "https://www.euractiv.com/news/after-munich-speech-rubio-visits-trump-allies-in-slovakia-and-hungary/",
-      "source": "Euractiv",
-      "published_at": "2026-02-15T10:08:48+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Rubio visits Trump allies in Slovakia and Hungary"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-20T09:59:29Z"
+  "last_updated": "2026-02-21T09:44:27Z"
 }

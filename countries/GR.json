@@ -1,16 +1,36 @@
 {
   "country": "GR",
-  "score": 62,
+  "score": 63,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 72,
+  "trend": 1,
+  "sources": 75,
   "sentiment": {
-    "positive": 4,
-    "neutral": 56,
+    "positive": 5,
+    "neutral": 58,
     "negative": 12
   },
   "latest_articles": [
+    {
+      "id": "9dec0818cf3bb50414df7cc2dca61d5a78494b7d",
+      "title": "Hungary Poses Unexpected Hurdle to Europe’s 90-Billion Euro Loan to Ukraine",
+      "summary": "While the delay may prove to be procedural, Hungary signaled that it could cause problems as the European Union works to send money to Ukraine.",
+      "url": "https://www.nytimes.com/2026/02/20/world/europe/euro-loan-ukraine-hungary-obstacle.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-21T07:43:03+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "24c746367be8cecfb4862cd1abd835ae8c839180",
+      "title": "Brussels promises not to overlook climate impact of war on red tape",
+      "summary": "European Commission concedes on several points after EU Ombudsman finding of maladministration",
+      "url": "https://www.euractiv.com/news/brussels-promises-not-to-overlook-climate-impact-of-war-on-red-tape/",
+      "source": "Euractiv",
+      "published_at": "2026-02-20T12:35:12+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "b4d98a46bc774f3126622e466e2399d5d35e02bc",
       "title": "Athens mulls clause to bar Turkey from future arms deals",
@@ -31,6 +51,17 @@
       "published_at": "2026-02-19T11:27:07+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "cec95b268571655eb1dc1abcfdad678b5faa77fc",
+      "title": "Greece throws support behind social media bans for kids",
+      "summary": "Athens joins several EU countries eyeing bans – Greek PM Kyriakos Mitsotakis said on Thursday that if talks with tech companies fail then regulation is needed",
+      "url": "https://www.euractiv.com/news/greece-throws-support-behind-social-media-bans-for-kids/",
+      "source": "Euractiv",
+      "published_at": "2026-02-19T11:22:47+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Greece throws support behind social media bans for kids"
     },
     {
       "id": "254010376c11ecf00aca8ad195cd54b613abf906",
@@ -188,39 +219,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Greece’s Population Continues to Age"
-    },
-    {
-      "id": "140eaf07c4b560d5c56d046722a3a10b09317491",
-      "title": "Median age in the EU increased by 2.1 years since 2015 - European Commission",
-      "summary": "Median age in the EU increased by 2.1 years since 2015&nbsp;&nbsp;European CommissionMedian age in the EU increased by 2.1 years since 2015 - Actualités - Eurostat&nbsp;&nbsp;European CommissionEurope ages faster than US…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WLVBsQlZ0T25vNGdZZ2ZjS0RLVFhkaWM3MXF2ZFBjbWhMTjRZbWdoRmVINGNXblNwLUZneGw4VnJIV3NaR2RCYVpxZUtiM1k5ZzBKcjRCaUsyVnRURFJIWjlYVEJEU0ZJeldaeGpuVUF5VVozOUhGaVNHYnF2UQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-13T10:02:52+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "Greece’s Population Continues to Age"
-    },
-    {
-      "id": "61b04d5aa21b0b89503523ceceb7ee4abbf8776c",
-      "title": "EU economy greenhouse gas emissions: +1.1% in Q3 2025 - European Commission",
-      "summary": "EU economy greenhouse gas emissions: +1.1% in Q3 2025&nbsp;&nbsp;European CommissionCyprus ranks third in reducing greenhouse gas emissions in the EU&nbsp;&nbsp;ΚΥΠΕIn the third quarter of 2025, the EU produced more gree…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96VWJTQ2djV0g2NUx2bTlnSlZmY19udU9XUGxYRllub2xRVW1vaTJxVWtFQkN3UmR5WEx6QnFETzhuZ2dha3FTY1dOU3JQaElVVFpHNExWNkg5TXVmNEF6eExsTmFKaHpOYXVJOFk3OWhLSVB5a0VuYzJ4TUFDZw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-13T10:02:52+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "3f14f6d1c3cc6047c9a81f3c0016897cdbeacea4",
-      "title": "Food firms urge Europe not to ban calling non-meat products ‘sausages’",
-      "summary": "Exclusive: Manufacturers tell European Commission proposed ban would cause unnecessary confusionMore than a dozen food companies have urged the European Commission not to ban the use of words such as “sausage” and “burge…",
-      "url": "https://www.theguardian.com/world/2026/feb/13/food-firms-urge-europe-not-to-ban-calling-non-meat-products-sausages",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-13T00:01:29+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-20T09:59:29Z"
+  "last_updated": "2026-02-21T09:44:27Z"
 }
