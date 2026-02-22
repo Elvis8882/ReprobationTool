@@ -4,11 +4,11 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 3,
+  "sources": 4,
   "sentiment": {
     "positive": 0,
     "neutral": 1,
-    "negative": 2
+    "negative": 3
   },
   "latest_articles": [
     {
@@ -21,6 +21,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Israeli strikes on Lebanon, state media says"
+    },
+    {
+      "id": "bc6fc914e5baff2d112d0dd4cfed1a5f3f0a4a66",
+      "title": "At least 10 killed in Israeli strikes in Lebanon’s Bekaa valley, health ministry says",
+      "summary": "Hezbollah leader among dead as Israel says it hit militant command centresAt least 10 people have been killed and 24 wounded – including three children – in Israeli strikes in Lebanon’s eastern Bekaa valley, the Lebanese…",
+      "url": "https://www.theguardian.com/world/2026/feb/20/israeli-strikes-kill-and-wound-in-lebanon-health-ministry-says",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-20T23:41:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Lebanon’s Bekaa valley, the Lebanese health ministry"
     },
     {
       "id": "59c5f3f1e65ba191205ac7e8d7b3aa5a5e7cb39c",
@@ -46,5 +57,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-21T09:44:27Z"
+  "last_updated": "2026-02-22T09:44:39Z"
 }

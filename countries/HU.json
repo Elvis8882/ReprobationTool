@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 73,
+  "sources": 74,
   "sentiment": {
     "positive": 1,
     "neutral": 57,
-    "negative": 15
+    "negative": 16
   },
   "latest_articles": [
+    {
+      "id": "fb3e0a7637f603768285b4703a77245876e5b188",
+      "title": "Kyiv urges Brussels to intervene in Hungary oil pipeline feud",
+      "summary": "Hungary is blocking both a €90 billion loan to Ukraine and diesel deliveries",
+      "url": "https://www.euractiv.com/news/kyiv-urges-brussels-to-intervene-in-hungary-oil-pipeline-feud/",
+      "source": "Euractiv",
+      "published_at": "2026-02-21T10:12:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Hungary is blocking both a €90 billion loan to Ukraine"
+    },
     {
       "id": "9dec0818cf3bb50414df7cc2dca61d5a78494b7d",
       "title": "Hungary Poses Unexpected Hurdle to Europe’s 90-Billion Euro Loan to Ukraine",
@@ -211,19 +222,8 @@
       "sentiment": "mixed",
       "confidence": 0.7,
       "evidence": "Orbán's Fidesz party is trailing opposition leader Peter Magyar's TISZA"
-    },
-    {
-      "id": "30ee6d697af0e2edb484b28aa881418b36e8499a",
-      "title": "Marco Rubio arrives in Budapest to meet Viktor Orbán ahead of Hungary elections – Europe live",
-      "summary": "Rubio visits Trump ally Orbán to help shore up his position ahead of elections in April, with the two countries expected to sign a civilian nuclear deal later todayWe have some images come through from the newswires of M…",
-      "url": "https://www.theguardian.com/world/live/2026/feb/16/marco-rubio-viktor-orban-hungary-ukraine-europe-france-germany-europe-live-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-16T09:44:13+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Trump ally Orbán to help shore up his position ahead of elections"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-21T09:44:27Z"
+  "last_updated": "2026-02-22T09:44:39Z"
 }

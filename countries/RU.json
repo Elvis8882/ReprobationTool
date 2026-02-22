@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 245,
+  "sources": 248,
   "sentiment": {
     "positive": 12,
     "neutral": 46,
-    "negative": 187
+    "negative": 190
   },
   "latest_articles": [
+    {
+      "id": "2429c20f0cd4b9221d097cfb8e75ab8fe00040a2",
+      "title": "Missiles pound Kyiv ahead of Russia invasion anniversary",
+      "summary": "Ukrainian President Volodymyr Zelenskyy told AFP that Ukraine was \"definitely not losing\" the war and that victory remained the goal",
+      "url": "https://www.euractiv.com/news/missiles-pound-kyiv-ahead-of-russia-invasion-anniversary/",
+      "source": "Euractiv",
+      "published_at": "2026-02-22T07:17:46+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Missiles pound Kyiv ahead of Russia invasion anniversary"
+    },
     {
       "id": "5e8d8ce6655b5e67cd9de5bf637543dddaf4b786",
       "title": "Trump Official Backs Russia’s Return to Global Sports",
@@ -67,6 +78,17 @@
       "evidence": "Ukraine protests renewed Paralympics participation by Russia, Belarus"
     },
     {
+      "id": "9465a5941d2ae3103420379e59aea22c83a62482",
+      "title": "Head of Russia’s Antidoping Agency Was Involved in 2014 Doping Scheme, Whistle-Blower Claims",
+      "summary": "The accusation surfaced as Russia tries to re-establish its Olympics eligibility.",
+      "url": "https://www.nytimes.com/2026/02/20/world/europe/olympics-doping-russia.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-20T16:47:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia’s Antidoping Agency Was Involved in 2014 Doping Scheme"
+    },
+    {
       "id": "03cc0302d6ba56367441efda8887dca477cd62e3",
       "title": "In Ukraine, Senators See War’s Impact and Press for Stronger U.S. Support",
       "summary": "Senate Democrats traveled to Kyiv and Odessa to show solidarity with the war-torn nation and make the case that the United States should do more, including imposing harsh sanctions on Russia.",
@@ -98,6 +120,17 @@
       "sentiment": "negative",
       "confidence": 1.0,
       "evidence": "sexual violence by Russian troops"
+    },
+    {
+      "id": "ddce814af8e0afb9f6f4cb1945683370ef6307d7",
+      "title": "The Russian village that lost its men to war",
+      "summary": "In the remote village of Sedanka in Russia's Far East, almost all of its fighting-age men have left to join the Ukraine war.",
+      "url": "https://www.bbc.com/news/articles/ce8n4l8elpgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-20T00:29:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russian village that lost its men to war"
     },
     {
       "id": "4756889b49b7420106dc18e37141eddb588b6406",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Russia's war against Ukraine"
-    },
-    {
-      "id": "32a10967a00bc12aefddc53e82c51f6017a85ed5",
-      "title": "Saeima marks four years of Russia's war against Ukraine",
-      "summary": "Latvia's parliament, the&nbsp;Saeima, on February 19th adopted a statement marking four years since the launch of Russia's brutal and illegal full-scale invasion of Ukraine.",
-      "url": "https://eng.lsm.lv/article/politics/saeima/19.02.2026-saeima-marks-four-years-of-russias-war-against-ukraine.a635385/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-02-19T06:07:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russia's brutal and illegal full-scale invasion of Ukraine"
-    },
-    {
-      "id": "13843942251a2518e845837a44ad89933cd165a2",
-      "title": "Latvian public media charity campaign for Ukraine active / Article - LSM",
-      "summary": "Latvian public media charity campaign for Ukraine active / Article&nbsp;&nbsp;LSMSaeima marks four years of Russia's war against Ukraine / Article&nbsp;&nbsp;LSMLatvia Hosts Solidarity Events for Ukraine's Fourth Invasio…",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU1hBZ0gyMEE5d1k5SUk3WjJVTFRIOTloaHFWM2VuQWJQS3JsODBkZGZiRXZxel9HNG9SRDNvZWhPYVhJS2MyZ1JLWFA3UkNfd2xEb3Z5bXZVV1VBVjVVTG9iUUtTOFNzYWVpVHdGQlBNdVRJMWhVVjgxRHVsSXdEVEVYX0FVNVQ4R3F5eGhfOHhFZjRJR2NEQldqOFV6dk1qSVEzSEg4OU1HS0ZJR3VlOWFVd3hMc09MSGdV?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-19T05:39:04+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Russia's war against Ukraine"
-    },
-    {
-      "id": "a32ca07498dfd7c73029bdb7ab2d775b66a06fdb",
-      "title": "Russia Celebrated Him. Now He’s Accused of Having Troops Shoot Themselves.",
-      "summary": "A lieutenant colonel is on trial after being accused of skimming payments for battlefield injuries. He denies the specifics of Russia’s accusation but acknowledges engaging in a payouts scheme.",
-      "url": "https://www.nytimes.com/2026/02/19/world/europe/russia-military-corruption.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-19T05:01:07+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Russia Celebrated Him. Now He’s Accused of Having Troops Shoot Themselves."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-21T09:44:27Z"
+  "last_updated": "2026-02-22T09:44:39Z"
 }
