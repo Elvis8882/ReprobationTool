@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 4,
+  "sources": 5,
   "sentiment": {
     "positive": 0,
     "neutral": 1,
-    "negative": 3
+    "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "5a0163cfa04da7762112907a8d4a2c4352102452",
+      "title": "At Least 10 Killed in Lebanon, Officials Say, After Israel Strikes Hezbollah",
+      "summary": "The Lebanese militant group said eight of its members were among those killed late Friday. The attacks threaten to further destabilize an already tenuous cease-fire.",
+      "url": "https://www.nytimes.com/2026/02/21/world/middleeast/israel-strikes-lebanon-hezbollah.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-21T18:57:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "At Least 10 Killed in Lebanon"
+    },
     {
       "id": "dacce09b1a4f9aae9bbb32f7220e91f2c6fa287a",
       "title": "At least 10 killed in Israeli strikes on Lebanon, state media says",
@@ -57,5 +68,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-22T09:44:39Z"
+  "last_updated": "2026-02-23T10:11:37Z"
 }

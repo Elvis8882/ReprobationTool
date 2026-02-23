@@ -1,16 +1,58 @@
 {
   "country": "HU",
-  "score": 57,
+  "score": 56,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 74,
+  "trend": -1,
+  "sources": 78,
   "sentiment": {
     "positive": 1,
-    "neutral": 57,
-    "negative": 16
+    "neutral": 59,
+    "negative": 18
   },
   "latest_articles": [
+    {
+      "id": "cd8bae6bf594d1c806ec7c3782eb10dac6159b6a",
+      "title": "Some U.S. allies see higher duties under new tariffs, rivals see relief, trade body says",
+      "summary": "U.S. allies and partners like the U.K. and the European Union facing higher tariffs but countries like Brazil, China and India get a reprieve.",
+      "url": "https://www.cnbc.com/2026/02/23/trump-higher-tariffs-us-allies-rivals-trade-relief.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-23T08:19:57+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "a453ae57d3592d33e7f7911da764d616ce19cd70",
+      "title": "Russia fires scores of missiles at Ukraine as Hungary threatens to block EU sanctions",
+      "summary": "‘Moscow continues to invest in strikes more than diplomacy,’ says Zelenskyy, as logistics and energy facilities targetedRussia has fired scores of missiles and drones at targets across Ukraine, flattening a residential h…",
+      "url": "https://www.theguardian.com/world/2026/feb/22/russia-missiles-ukraine-hungary-block-eu-sanctions",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-22T16:12:50+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Hungary threatens to block EU sanctions"
+    },
+    {
+      "id": "f56069a2bee938e010ba18bb67e768d0dcad48be",
+      "title": "European Parliament to suspend US trade deal amid tariff ‘chaos’",
+      "summary": "Lange cites legal uncertainty after US court strikes tariffs",
+      "url": "https://www.euractiv.com/news/european-parliament-to-suspend-us-trade-deal-amid-tariff-chaos/",
+      "source": "Euractiv",
+      "published_at": "2026-02-22T12:29:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "eae979d87d5c8a141f97f82ee07f2e79c0b844e5",
+      "title": "Hungary to veto EU’s 20th sanctions package on Russia",
+      "summary": "The move comes days after Budapest said it would block a €90 billion EU loan to Kyiv",
+      "url": "https://www.euractiv.com/news/hungary-to-veto-eus-20th-sanctions-package-on-russia/",
+      "source": "Euractiv",
+      "published_at": "2026-02-22T11:15:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Hungary to veto EU’s 20th sanctions package on Russia"
+    },
     {
       "id": "fb3e0a7637f603768285b4703a77245876e5b188",
       "title": "Kyiv urges Brussels to intervene in Hungary oil pipeline feud",
@@ -178,52 +220,8 @@
       "published_at": "2026-02-17T05:00:53+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "660dac4cf640c7a95031d153af0262b65653d12b",
-      "title": "In Hungary, Marco Rubio Stresses Trump’s Support for Viktor Orban",
-      "summary": "The U.S. secretary of state said in Budapest that the president was “deeply committed” to the success of Viktor Orban, who has boasted of creating an “illiberal state.”",
-      "url": "https://www.nytimes.com/2026/02/16/world/europe/rubio-hungary-elections-orban-trump.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-16T23:12:15+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Viktor Orban, who has boasted of creating an “illiberal state.”"
-    },
-    {
-      "id": "193afdc43c52fa0227cc38eeb761fa39aa98e871",
-      "title": "Croatia to help Hungary, Slovakia with Russian oil shortage",
-      "summary": "Their arguments delaying Moscow’s energy phase out don’t stand anymore, Zagreb indicated",
-      "url": "https://www.euractiv.com/news/croatia-to-help-hungary-slovakia-with-russian-oil-shortage/",
-      "source": "Euractiv",
-      "published_at": "2026-02-16T17:11:50+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Croatia to help Hungary, Slovakia with Russian oil shortage"
-    },
-    {
-      "id": "849014d72fdf7cfb2ef832ccf383d42b2b0f1fa9",
-      "title": "Rubio lends hand to Hungary’s Orban as he faces tough election",
-      "summary": "“We want this country to do well,” Marco Rubio said during a visit to Budapest, “especially as long as you’re the prime minister.”",
-      "url": "https://www.washingtonpost.com/national-security/2026/02/16/rubio-hungary-orban-trump/",
-      "source": "World (Washington post)",
-      "published_at": "2026-02-16T16:12:11+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Rubio lends hand to Hungary’s Orban as he faces tough election"
-    },
-    {
-      "id": "730035b1dce4e4c548286569282b0b1ad2703851",
-      "title": "‘Your success is our success,’ Rubio tells Orbán ahead of Hungary polls",
-      "summary": "Hungarians will vote in legislative elections on 12 April. Polls suggest Orbán's Fidesz party is trailing opposition leader Peter Magyar's TISZA",
-      "url": "https://www.euractiv.com/news/your-success-is-our-success-rubio-tells-orban-ahead-of-hungary-polls/",
-      "source": "Euractiv",
-      "published_at": "2026-02-16T15:28:12+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.7,
-      "evidence": "Orbán's Fidesz party is trailing opposition leader Peter Magyar's TISZA"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-22T09:44:39Z"
+  "last_updated": "2026-02-23T10:11:37Z"
 }

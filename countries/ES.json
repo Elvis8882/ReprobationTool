@@ -1,16 +1,47 @@
 {
   "country": "ES",
-  "score": 94,
+  "score": 93,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 108,
+  "trend": -1,
+  "sources": 112,
   "sentiment": {
     "positive": 13,
-    "neutral": 79,
-    "negative": 16
+    "neutral": 82,
+    "negative": 17
   },
   "latest_articles": [
+    {
+      "id": "cd8bae6bf594d1c806ec7c3782eb10dac6159b6a",
+      "title": "Some U.S. allies see higher duties under new tariffs, rivals see relief, trade body says",
+      "summary": "U.S. allies and partners like the U.K. and the European Union facing higher tariffs but countries like Brazil, China and India get a reprieve.",
+      "url": "https://www.cnbc.com/2026/02/23/trump-higher-tariffs-us-allies-rivals-trade-relief.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-23T08:19:57+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "a2ffad0451ac679dc42018e48ffeb7707ebfee2e",
+      "title": "Fishermen protest as Spain’s wind power boom heads offshore",
+      "summary": "Floating turbines offer a solution where seas are too deep for conventional towers – but locals in Galicia fear the impact on their centuries-old maritime tradition",
+      "url": "https://www.euractiv.com/news/local-fishermen-protest-as-spains-wind-power-boom-heads-offshore/",
+      "source": "Euractiv",
+      "published_at": "2026-02-23T05:00:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Spain’s wind power boom heads offshore"
+    },
+    {
+      "id": "f56069a2bee938e010ba18bb67e768d0dcad48be",
+      "title": "European Parliament to suspend US trade deal amid tariff ‘chaos’",
+      "summary": "Lange cites legal uncertainty after US court strikes tariffs",
+      "url": "https://www.euractiv.com/news/european-parliament-to-suspend-us-trade-deal-amid-tariff-chaos/",
+      "source": "Euractiv",
+      "published_at": "2026-02-22T12:29:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "9dec0818cf3bb50414df7cc2dca61d5a78494b7d",
       "title": "Hungary Poses Unexpected Hurdle to Europe’s 90-Billion Euro Loan to Ukraine",
@@ -20,6 +51,17 @@
       "published_at": "2026-02-21T07:43:03+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "bdf704176006f3f8fbbc2260db66618053f2de10",
+      "title": "Under water, in denial: is Europe drowning out the climate crisis?",
+      "summary": "Even as weather extremes worsen, the voices calling for the rolling back of environmental rules have grown louder and more influentialIn the timeless week between Christmas and the new year, two Spanish men in their earl…",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/feb/21/under-water-in-denial-is-europe-drowning-out-the-climate-crisis",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-21T06:00:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "heavy rains turned the Fahala River into an “uncontrollable torrent”"
     },
     {
       "id": "9a21a3c70b8ee567b53e2ed40ba90fde2a54bbcd",
@@ -181,51 +223,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "racially abusing Vinicius after Real Madrid match halted"
-    },
-    {
-      "id": "da0ba29d1b393de735b1a261b69dd13637f366ec",
-      "title": "56% of youth in jobs matching their field of education - European Commission",
-      "summary": "56% of youth in jobs matching their field of education&nbsp;&nbsp;European CommissionView Full coverage on Google News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Fd08tbzhkUlgzdklMR3pkNmZYUWloV1JRaDBYdXU2bWFrMzlkWE5OZldBVC1kTk9sZ1FjRTFvV2xVRmdnNHpKQ2RhR2V1bDl2VEF6T0ZvdkRFMkFjSnlXMHR4cXJaNGtaZjZ2YmlZeUV0eUFaUE5zRnc2ZExqUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-18T10:05:08+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "236d304bf3dd812e9728a2cd422245073ffad806",
-      "title": "Excruciating tropical disease can now be transmitted in most of Europe, study finds",
-      "summary": "‘Shocking’ data shows the climate crisis and invasive mosquitos mean chikungunya could spread in 29 countriesAn excruciatingly painful tropical disease called chikungunya can now be transmitted by mosquitoes across most…",
-      "url": "https://www.theguardian.com/science/2026/feb/18/tropical-disease-chikungunya-transmitted-europe-study",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-18T05:00:03+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "infections are now possible for more than six months of the year in Spain"
-    },
-    {
-      "id": "5fc16582b33bdd3e68ffb2b15906c165bcf819a0",
-      "title": "Real Madrid tie halted over Vinicius racism allegation",
-      "summary": "Real Madrid's Champions League knockout phase play-off tie at Benfica is halted for 10 minutes after Vinicius Junior reports alleged racist abuse.",
-      "url": "https://www.bbc.com/sport/football/articles/cpv843x1zgzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-17T21:31:49+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Real Madrid tie halted over Vinicius racism allegation"
-    },
-    {
-      "id": "d619f33a9813294cdae474dc31e8564278dcf28c",
-      "title": "Spain to Investigate Social Media Giants, Escalating Trans-Atlantic Tech Dispute",
-      "summary": "The government wants prosecutors to investigate X, Meta and TikTok, adding to a growing clash between the U.S. and Europe over regulating social media.",
-      "url": "https://www.nytimes.com/2026/02/17/world/europe/spain-investigate-social-media.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-17T18:20:21+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Escalating Trans-Atlantic Tech Dispute"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-22T09:44:39Z"
+  "last_updated": "2026-02-23T10:11:37Z"
 }

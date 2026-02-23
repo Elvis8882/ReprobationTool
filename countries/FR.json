@@ -1,16 +1,80 @@
 {
   "country": "FR",
-  "score": 99,
+  "score": 98,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 179,
+  "trend": -1,
+  "sources": 186,
   "sentiment": {
-    "positive": 37,
-    "neutral": 121,
-    "negative": 21
+    "positive": 38,
+    "neutral": 125,
+    "negative": 23
   },
   "latest_articles": [
+    {
+      "id": "d3331e860d9e6d5660b70e77a7ee2f1332643265",
+      "title": "Smile mission set for launch as Europe and China prepare to tackle space weather - Innovation News Network",
+      "summary": "Smile mission set for launch as Europe and China prepare to tackle space weather&nbsp;&nbsp;Innovation News NetworkSmile sets sail for Europe’s Spaceport in French Guiana&nbsp;&nbsp;European Space AgencyUK-backed space w…",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeWdzYkJWQkVicHBfM21JeS1nY05abHRHd0d6NkNlQVBpcDdUYjJGRUtuZUg3ZW1oZ2VYcFN0NVJkLWpoODB3ZXZIbDQ0R3dYb1JscEl0LUtaS294bWRsNzRiQldCSHU3WjI2NGxrQ19DNDVrX2RXVFdUbFMzV0tCdm1pY01RY2M0M0hoc1Vrb09kQjNaajFLRGJUUXRIZw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-23T09:09:26+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Europe’s Spaceport in French Guiana"
+    },
+    {
+      "id": "cd8bae6bf594d1c806ec7c3782eb10dac6159b6a",
+      "title": "Some U.S. allies see higher duties under new tariffs, rivals see relief, trade body says",
+      "summary": "U.S. allies and partners like the U.K. and the European Union facing higher tariffs but countries like Brazil, China and India get a reprieve.",
+      "url": "https://www.cnbc.com/2026/02/23/trump-higher-tariffs-us-allies-rivals-trade-relief.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-23T08:19:57+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "ff1765a16b8c3ed569896e5ab3be5460db2dc6f9",
+      "title": "Tour Montparnasse is One of Paris’s Uglier Landmarks. It’s Getting a Makeover.",
+      "summary": "The Tour Montparnasse is one of Paris’s least-loved landmarks. After half a century, it’s finally being remodeled.",
+      "url": "https://www.nytimes.com/2026/02/23/world/europe/tour-montparnasse-paris-makeover-piano.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-23T05:01:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Tour Montparnasse is One of Paris’s Uglier Landmarks."
+    },
+    {
+      "id": "370dcc8ca7fd5e4e5b8602f973c4a21f7e7e5542",
+      "title": "Paris summons US ambassador over ‘instrumentalisation’ of far-right activist’s death",
+      "summary": "France's transatlantic ties hit fresh turbulence after US envoy row",
+      "url": "https://www.euractiv.com/news/paris-summons-us-ambassador-over-instrumentalisation-of-far-right-activists-death/",
+      "source": "Euractiv",
+      "published_at": "2026-02-22T14:33:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Paris summons US ambassador"
+    },
+    {
+      "id": "f56069a2bee938e010ba18bb67e768d0dcad48be",
+      "title": "European Parliament to suspend US trade deal amid tariff ‘chaos’",
+      "summary": "Lange cites legal uncertainty after US court strikes tariffs",
+      "url": "https://www.euractiv.com/news/european-parliament-to-suspend-us-trade-deal-amid-tariff-chaos/",
+      "source": "Euractiv",
+      "published_at": "2026-02-22T12:29:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "43ed007032b173c64905db10ae1722a1af248912",
+      "title": "France to summon US ambassador over comments on far-right activist’s death",
+      "summary": "Official US social media accounts posted about rise of ‘violent radical leftism’ after killing of Quentin DeranqueThe French foreign minister, Jean-Noël Barrot, has said he will summon Charles Kushner, the US ambassador…",
+      "url": "https://www.theguardian.com/world/2026/feb/22/france-summons-us-ambassador-charles-kushner-comments-quentin-deranque",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-22T12:02:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "France to summon US ambassador over comments"
+    },
     {
       "id": "b6b39e09580ad8f5d0179ddf6c00624dc2c2e30c",
       "title": "Macron urges caution over impact of US tariff ruling",
@@ -53,6 +117,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Killing of nationalist student leaves French far left in deep trouble"
+    },
+    {
+      "id": "751b8454faa9dd3c3a32b3bf6fd2f7e2161e3ee2",
+      "title": "French soldier dies after being shot in head during 'game' with other soldiers",
+      "summary": "According to prosecutors, the game - known within the military - involves attempting to disarm a colleague and disable their weapon.",
+      "url": "https://www.bbc.com/news/articles/cj4z25gl24eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-20T14:19:27+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "French soldier dies after being shot in head"
     },
     {
       "id": "24c746367be8cecfb4862cd1abd835ae8c839180",
@@ -149,84 +224,8 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "Macron defends EU AI rules and vows crackdown on child ‘digital abuse’"
-    },
-    {
-      "id": "38269f0f97a1dbaca9b92e1810310c4dd85f3888",
-      "title": "Air France-KLM says US travel ‘improving’ - Financial Times",
-      "summary": "Air France-KLM says US travel ‘improving’&nbsp;&nbsp;Financial TimesAir France-KLM Posts Swing to Profit Amid Drop in Costs&nbsp;&nbsp;The Wall Street JournalAir France-KLM posts record 2 billion euro operating profit as…",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNeWk3TjRnb2h2R255TmZEUXpadWVocnZSZ0tPbHBrdkhjMldBcUhSaW4ydFQtTXBpejJUY3dWUWg3ZEVydWV1cngyYTlQOXBrTFRQU1dfSDlld1MxQmhlbzNDQWxyOFFpcHlsYU9lUmg?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-19T08:18:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Air France-KLM says US travel ‘improving’"
-    },
-    {
-      "id": "c4b24393b11890633601348f4d1ffcdcce93dece",
-      "title": "Wave of arrests over killing of French nationalist piles pressure on far left",
-      "summary": "Eleven people are in detention in connection with the killing of far-right student activist Quentin Deranque.",
-      "url": "https://www.bbc.com/news/articles/c62dzgy0q37o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-19T08:13:37+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "killing of French nationalist"
-    },
-    {
-      "id": "4d81abf151dff772f8dc7023c9f844903597c6b7",
-      "title": "Brussels caught off-guard as von der Leyen targets electricity market",
-      "summary": "The European Commission president has again promised a rethink of Europe's complicated single-market",
-      "url": "https://www.euractiv.com/news/brussels-caught-off-guard-as-von-der-leyen-targets-electricity-market/",
-      "source": "Euractiv",
-      "published_at": "2026-02-19T05:00:28+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "a3a761a98e2ad2f239c66643df6699570483354e",
-      "title": "PM Modi, Macron, Sundar Pichai, Top Tech Bosses At India AI Impact Summit",
-      "summary": "French President Emmanuel Macron joined PM Modi at the India AI Impact Summit (File)",
-      "url": "https://www.ndtv.com/india-news/india-ai-impact-summit-2026-pm-narendra-modi-macron-sundar-pichai-bill-gates-sam-altman-top-tech-bosses-to-address-bharat-mandapam-event-11056545#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-19T04:36:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "French President Emmanuel Macron joined PM Modi at the India AI Impact Summit"
-    },
-    {
-      "id": "47124ce31257d323149e8d9148e9719df260d15c",
-      "title": "French nationalist beaten to death: Meet antifa activist-turned-MP Raphael Arnault at the heart of France's latest political scandal",
-      "summary": "Arnault himself is not accused of involvement in the violence. He has stated that he initiated procedures to dismiss a staff member following the arrest and said he would cooperate fully with investigators.",
-      "url": "https://timesofindia.indiatimes.com/world/europe/french-nationalist-beaten-to-death-meet-antifa-activist-turned-mp-raphael-arnault-at-the-heart-of-frances-political-scandal/articleshow/128538926.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-02-19T04:34:06+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "French nationalist beaten to death"
-    },
-    {
-      "id": "b00e46652c85d4fbaf2dce3cd870ec67ae3acaf3",
-      "title": "‘When friends connect, innovation follows’: French President Macron shares AI image with PM Modi",
-      "summary": "French President Emmanuel Macron visited India and met Prime Minister Narendra Modi. He shared an AI-generated image of the two leaders. Macron attended the AI Impact Summit in New Delhi. The summit focused on responsibl…",
-      "url": "https://timesofindia.indiatimes.com/india/when-friends-connect-innovation-follows-french-president-macron-shares-ai-image-with-pm-modi/articleshow/128534346.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-02-19T02:18:13+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "French President Macron shares AI image with PM Modi"
-    },
-    {
-      "id": "083838019419a8ff131b60362de1b909437ef270",
-      "title": "After Activist’s Killing, Tensions Erupt Between France’s Far-Right and Far-Left",
-      "summary": "The beating death of Quentin Deranque has quickly become a flashpoint between the far right and far left as France prepares for local elections next month and presidential elections next year.",
-      "url": "https://www.nytimes.com/2026/02/18/world/europe/france-beating-activist-far-left-right.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-18T23:03:56+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Tensions Erupt Between France’s Far-Right and Far-Left"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-22T09:44:39Z"
+  "last_updated": "2026-02-23T10:11:37Z"
 }

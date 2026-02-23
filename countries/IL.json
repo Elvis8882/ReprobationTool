@@ -1,16 +1,60 @@
 {
   "country": "IL",
-  "score": 59,
+  "score": 58,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -5,
-  "sources": 131,
+  "trend": -1,
+  "sources": 136,
   "sentiment": {
-    "positive": 6,
-    "neutral": 69,
-    "negative": 56
+    "positive": 7,
+    "neutral": 71,
+    "negative": 58
   },
   "latest_articles": [
+    {
+      "id": "cdae3d2fc60dcb9020c0e6d40ff5222b058864e3",
+      "title": "Arab Leaders Condemn Remarks by U.S. Ambassador to Israel",
+      "summary": "The ambassador, Mike Huckabee, seemed to endorse Israeli control of lands stretching from Egypt to Iraq. He said his comments were taken out of context.",
+      "url": "https://www.nytimes.com/2026/02/22/world/middleeast/huckabee-israel-tucker-carlson.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-22T18:30:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Arab Leaders Condemn Remarks by U.S. Ambassador to Israel"
+    },
+    {
+      "id": "eaea906d320c5c3fc939b069f675392d17fcea3d",
+      "title": "Huckabee’s Israel land remarks condemned as ‘dangerous and inflammatory’",
+      "summary": "Arab and Islamic governments issue statement denouncing comments made on Tucker Carlson podcastGovernments from across the Islamic world have condemned remarks by the US ambassador to Israel, Mike Huckabee, suggesting it…",
+      "url": "https://www.theguardian.com/us-news/2026/feb/22/mike-huckabee-israel-comments-condemned-arab-muslim-countries",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-22T15:39:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Israel to claim a broad swath of the Middle East"
+    },
+    {
+      "id": "8cb705102759c1d0468b08b5dfdb905ff7d97240",
+      "title": "US ambassador's Israel comments condemned by Arab and Muslim nations",
+      "summary": "Mike Huckabee suggested Israel would be justified in taking much of the Middle East on Biblical grounds.",
+      "url": "https://www.bbc.com/news/articles/cn5gkkgdzkyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-22T11:23:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "US ambassador's Israel comments condemned by Arab and Muslim nations"
+    },
+    {
+      "id": "5a0163cfa04da7762112907a8d4a2c4352102452",
+      "title": "At Least 10 Killed in Lebanon, Officials Say, After Israel Strikes Hezbollah",
+      "summary": "The Lebanese militant group said eight of its members were among those killed late Friday. The attacks threaten to further destabilize an already tenuous cease-fire.",
+      "url": "https://www.nytimes.com/2026/02/21/world/middleeast/israel-strikes-lebanon-hezbollah.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-21T18:57:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel Strikes Hezbollah"
+    },
     {
       "id": "438f505345e8d78c9f0abb87760963a4b6982c10",
       "title": "\"Fine If They Took It All\": US Envoy On Israel Taking Over Middle East",
@@ -111,6 +155,17 @@
       "evidence": "accuses Israel of war crimesIsraeli settlers in the occupied West Bank shot"
     },
     {
+      "id": "5fd2ca27d86f3709c29f82e0c9cef93e336be759",
+      "title": "Israeli defence firm Elbit Systems goes all in on European market",
+      "summary": "The company is planning to expand its production capabilities and create new jobs across the continent",
+      "url": "https://www.euractiv.com/news/israeli-defence-firm-elbit-systems-goes-all-in-on-european-market/",
+      "source": "Euractiv",
+      "published_at": "2026-02-20T13:42:36+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "expand its production capabilities and create new jobs across the continent"
+    },
+    {
       "id": "03a8c190a1df61b718d5c61c920a3ef958386cfd",
       "title": "‘Al-Aqsa is a detonator’: six-decade agreement on prayer at Jerusalem holy site collapses",
       "summary": "Israeli police raid compound, arrest staff and curb Muslims’ access as Ramadan begins A six-decade agreement governing Muslim and Jewish prayer at Jerusalem’s most sensitive holy site has “collapsed” under pressure from…",
@@ -175,63 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Israeli strikes on Gaza have killed about 600 people"
-    },
-    {
-      "id": "bd2f43310c4b250a88d677174830da34ae80cf63",
-      "title": "Troops for Gaza and money top agenda as Trump’s Board of Peace meets",
-      "summary": "US president vows multinational force and billions of dollars as autocrats and rightwing allies gather in DC The US has proposed commanding a multinational force in postwar Gaza with troops from Albania, Indonesia, Kazak…",
-      "url": "https://www.theguardian.com/us-news/2026/feb/19/troops-for-gaza-and-money-top-agenda-as-trumps-board-of-peace-meets",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-19T18:29:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "support from Israel, which has tempered expectations"
-    },
-    {
-      "id": "4756889b49b7420106dc18e37141eddb588b6406",
-      "title": "Court finds Anatoly Privalov guilty of activities against the Republic of Estonia - The Baltic Times",
-      "summary": "Court finds Anatoly Privalov guilty of activities against the Republic of Estonia&nbsp;&nbsp;The Baltic TimesEstonia jails Israeli citizen for spying for Russia's FSB&nbsp;&nbsp;ERREstonian court sentences Israeli citize…",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQnF2UDV3MF9hclJ5LUc0Qll5eC1rOW9xOWRVZUwxSzI1SmtUYlU5Y1pkaHNiQXBGYXhHRkVHRTlpcXNoSlpaM1llX19zcF9jVENvbTNCZ01YSlZuVEdKU3FMRi1POWZRUldNLVhuUlpEOGdKMEpkaS1lTVNqSlFGSHhCTy1QQnFBREpHUHBtWFQxb2V3bVZobEc0V25rLVU5c2JXOFhtdlZkS2NYSXVN?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-19T14:42:19+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Estonia jails Israeli citizen for spying for Russia's FSB"
-    },
-    {
-      "id": "618cc02150fdd0db363d56d59d0e866874f5e17c",
-      "title": "Where Things Stand on Witkoff and Kushner’s Negotiations Over Iran, Ukraine and Gaza",
-      "summary": "Iran, Ukraine and Gaza are in play as the Trump envoys conduct talks on all of them. But progress in each conflict is scant.",
-      "url": "https://www.nytimes.com/2026/02/19/world/europe/witkoff-kushner-iran-ukraine-israel.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-19T12:54:28+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Gaza"
-    },
-    {
-      "id": "e451defa38573d4514f7d4920e05b10075c5e326",
-      "title": "Saudi Cabinet rejects Israeli land laws amid Founding Day 2026 prep",
-      "summary": "Saudi Arabia's Cabinet met to prepare for the upcoming Founding Day celebrations. The nation expressed deep pride in its history and values. Ministers also strongly condemned Israeli land policies in the occupied West Ba…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-founding-day-2026-ksa-cabinet-reviews-celebration-rejects-israeli-land-laws/articleshow/128544565.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-02-19T07:50:30+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "strongly condemned Israeli land policies in the occupied West Bank"
-    },
-    {
-      "id": "a7a57ae8b868b7e528ce97d33480dbde5e4b5d29",
-      "title": "As Israel takes steps to claim land in West Bank, U.S. stands by",
-      "summary": "Despite Trump’s opposition to annexation, Israel has moved to expand control over the West Bank — to the condemnation of Britain and others at a U.N. Security Council meeting.",
-      "url": "https://www.washingtonpost.com/world/2026/02/18/israel-west-bank-annexation-trump-land-registration/",
-      "source": "World (Washington post)",
-      "published_at": "2026-02-19T03:43:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Israel takes steps to claim land in West Bank"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-22T09:44:39Z"
+  "last_updated": "2026-02-23T10:11:37Z"
 }

@@ -1,16 +1,47 @@
 {
   "country": "BE",
-  "score": 95,
+  "score": 94,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 109,
+  "trend": -1,
+  "sources": 112,
   "sentiment": {
     "positive": 11,
-    "neutral": 85,
-    "negative": 13
+    "neutral": 87,
+    "negative": 14
   },
   "latest_articles": [
+    {
+      "id": "669ce102a607a7f5e44043c944ce18a7daed0c8c",
+      "title": "EU ministers unlikely to seal 20th sanctions package on Russia",
+      "summary": "Brussels is racing to greenlight the package by Tuesday, the fourth anniversary of Russia’s full-scale invasion",
+      "url": "https://www.euractiv.com/news/eu-ministers-unlikely-to-seal-20th-sanctions-package-on-russia/",
+      "source": "Euractiv",
+      "published_at": "2026-02-23T09:32:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "EU ministers unlikely to seal 20th sanctions package"
+    },
+    {
+      "id": "cd8bae6bf594d1c806ec7c3782eb10dac6159b6a",
+      "title": "Some U.S. allies see higher duties under new tariffs, rivals see relief, trade body says",
+      "summary": "U.S. allies and partners like the U.K. and the European Union facing higher tariffs but countries like Brazil, China and India get a reprieve.",
+      "url": "https://www.cnbc.com/2026/02/23/trump-higher-tariffs-us-allies-rivals-trade-relief.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-23T08:19:57+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "f56069a2bee938e010ba18bb67e768d0dcad48be",
+      "title": "European Parliament to suspend US trade deal amid tariff ‘chaos’",
+      "summary": "Lange cites legal uncertainty after US court strikes tariffs",
+      "url": "https://www.euractiv.com/news/european-parliament-to-suspend-us-trade-deal-amid-tariff-chaos/",
+      "source": "Euractiv",
+      "published_at": "2026-02-22T12:29:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "fb3e0a7637f603768285b4703a77245876e5b188",
       "title": "Kyiv urges Brussels to intervene in Hungary oil pipeline feud",
@@ -194,40 +225,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Belgium summons U.S. ambassador over post accusing officials of antisemitism"
-    },
-    {
-      "id": "235d930417fb5fa2dbd2070413be5759a8e514f1",
-      "title": "Trump’s Ambassador to Belgium Is Summoned After Accusing Officials of Antisemitism",
-      "summary": "The diplomat, Bill White, met with a foreign ministry official at a time of rising tensions between the U.S. and countries in Europe.",
-      "url": "https://www.nytimes.com/2026/02/17/world/europe/belgium-trump-ambassador-anti-semitism.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-17T18:19:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Trump’s Ambassador to Belgium Is Summoned After Accusing Officials of Antisemitism"
-    },
-    {
-      "id": "297aeadf3435328e70179e64e980f188cd725417",
-      "title": "Green groups fear backroom talks signal further EU deregulation",
-      "summary": "So-called strategic dialogues are being used by industry to question EU law, campaigners warn as they accuse the European Commission of shutting them out",
-      "url": "https://www.euractiv.com/news/green-groups-fear-backroom-talks-signal-further-eu-deregulation/",
-      "source": "Euractiv",
-      "published_at": "2026-02-17T17:46:08+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "c6fb7f684dedf8aa96e827d3362bb209a945af7a",
-      "title": "EU launches €120m disease research hub",
-      "summary": "Brussels bets on science to strengthen future pandemic preparedness",
-      "url": "https://www.euractiv.com/news/eu-launches-e120m-disease-research-hub/",
-      "source": "Euractiv",
-      "published_at": "2026-02-17T16:04:09+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "EU launches €120m disease research hub"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-22T09:44:39Z"
+  "last_updated": "2026-02-23T10:11:37Z"
 }
