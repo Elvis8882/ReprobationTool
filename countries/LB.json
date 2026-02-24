@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 5,
+  "sources": 6,
   "sentiment": {
     "positive": 0,
     "neutral": 1,
-    "negative": 4
+    "negative": 5
   },
   "latest_articles": [
+    {
+      "id": "e419c31f1124a74d9071b46f4dec71879e05d1ea",
+      "title": "US partially evacuates Beirut embassy amid rising Iran tensions",
+      "summary": "The State Department has ordered non-essential staff to leave the embassy in Beirut after a security review.",
+      "url": "https://www.bbc.com/news/articles/cj32l00k47lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-23T19:08:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "US partially evacuates Beirut embassy amid rising Iran tensions"
+    },
     {
       "id": "5a0163cfa04da7762112907a8d4a2c4352102452",
       "title": "At Least 10 Killed in Lebanon, Officials Say, After Israel Strikes Hezbollah",
@@ -68,5 +79,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-23T10:11:37Z"
+  "last_updated": "2026-02-24T10:07:16Z"
 }

@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 40,
+  "sources": 41,
   "sentiment": {
     "positive": 3,
-    "neutral": 31,
+    "neutral": 32,
     "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "b459bb4686fded775482c6e297a39bcf95fa8900",
+      "title": "Norway’s Century-Long Watch on the Northern Lights",
+      "summary": "The nation’s northern region has led the scientific quest to understand the aurora borealis. This summer, a 10,000-antenna radar is expected to begin the next phase of exploration.",
+      "url": "https://www.nytimes.com/2026/02/24/science/norway-auroras-northern-lights-observatory.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-24T08:00:24+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Norway’s Century-Long Watch on the Northern Lights"
+    },
     {
       "id": "2da7f2748339d2e102e399e6525113fe6700f262",
       "title": "Norway (population: 5.7m) beats US (342m) to top Winter Olympics medal table",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "suspicion of gross corruption"
-    },
-    {
-      "id": "47507491a73c8683c195d218006bddf6165ed3d6",
-      "title": "Senior diplomat resigns as Norway probes Epstein links",
-      "summary": "Epstein left $10 million in his will to the diplomat's two children",
-      "url": "https://www.euractiv.com/news/senior-diplomat-resigns-as-norway-probes-epstein-links/",
-      "source": "Euractiv",
-      "published_at": "2026-02-09T10:19:29+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Norway probes Epstein links"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-23T10:11:37Z"
+  "last_updated": "2026-02-24T10:07:16Z"
 }

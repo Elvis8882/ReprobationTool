@@ -1,16 +1,38 @@
 {
   "country": "IL",
-  "score": 58,
+  "score": 56,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 136,
+  "trend": -2,
+  "sources": 139,
   "sentiment": {
     "positive": 7,
     "neutral": 71,
-    "negative": 58
+    "negative": 61
   },
   "latest_articles": [
+    {
+      "id": "e5611118b4fc9fde68c1949171f495dc822bb932",
+      "title": "Settlers in the Israeli-Occupied West Bank Drive a Palestinian Family Off Its Land",
+      "summary": "For two years, settlers attacked Rezeq Abu Naim’s land in the Israeli-occupied West Bank at all hours and in all manners. After another violent incursion over the weekend, his family abandoned their home.",
+      "url": "https://www.nytimes.com/2026/02/23/world/palestinian-west-bank-settlers-displacement.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-23T19:30:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Settlers in the Israeli-Occupied West Bank Drive a Palestinian Family Off Its Land"
+    },
+    {
+      "id": "0d0625aa015a3ae8ebb01e041d0d39dcb4aff571",
+      "title": "Israelis brace for another war as Trump mulls strikes on Iran",
+      "summary": "Israeli officials say they won’t initiate a strike on Iran but the public is bracing for the possibility of another war.",
+      "url": "https://www.washingtonpost.com/world/2026/02/23/israel-iran-war-preparations-trump/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-23T10:00:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israelis brace for another war"
+    },
     {
       "id": "cdae3d2fc60dcb9020c0e6d40ff5222b058864e3",
       "title": "Arab Leaders Condemn Remarks by U.S. Ambassador to Israel",
@@ -76,6 +98,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Critics see a broader effort to silence dissent."
+    },
+    {
+      "id": "a141c847fa4fb8481b3a173d37430e47757c6791",
+      "title": "Palestinian Authority in dire straits as Israel's hold on West Bank deepens",
+      "summary": "More than 30 years after its creation, there are increasing warnings that the PA is close to collapse.",
+      "url": "https://www.bbc.com/news/articles/c9wn8lw0kgjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-21T06:33:52+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel's hold on West Bank deepens"
     },
     {
       "id": "5d87ca09527d8263141f8197b1f8f79b6cf07bc2",
@@ -197,41 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "mission to stabilize Gaza, but plans beyond that remain murky."
-    },
-    {
-      "id": "21b4121ced0244f584ec788c4b87f31533bb54a0",
-      "title": "Trump appears ready to attack Iran as U.S. strike force takes shape",
-      "summary": "Although the United States and ally Israel have a military advantage over Iranian forces, there are ways for Tehran to make any attack painful, officials said.",
-      "url": "https://www.washingtonpost.com/national-security/2026/02/19/trump-iran-attack-military/",
-      "source": "World (Washington post)",
-      "published_at": "2026-02-19T21:34:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "ally Israel have a military advantage over Iranian forces"
-    },
-    {
-      "id": "d42040945b435ffed48d38390116c0c2a6c80bad",
-      "title": "Trump's Board of Peace members pledge $7bn in Gaza relief",
-      "summary": "Trump said it \"looks like\" Hamas will disarm, even though there are signs the group is regrouping.",
-      "url": "https://www.bbc.com/news/articles/cp8rke05kv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-19T21:33:35+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Trump's Board of Peace members pledge $7bn in Gaza relief"
-    },
-    {
-      "id": "dfec6717186ad6e566eabe0b4f0e25698d83caad",
-      "title": "Trump Considers Building a Military Base in Gaza as Peace Plans Clash With Reality",
-      "summary": "Israeli strikes on Gaza have killed about 600 people since a cease-fire began, according to health officials in the territory. Many displaced Palestinians are still living in tents. And there are some 60 million tons of…",
-      "url": "https://www.nytimes.com/2026/02/19/world/middleeast/gaza-rebuilding.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-19T19:14:23+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Israeli strikes on Gaza have killed about 600 people"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-23T10:11:37Z"
+  "last_updated": "2026-02-24T10:07:16Z"
 }
