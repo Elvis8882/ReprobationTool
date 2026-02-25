@@ -4,13 +4,68 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 262,
+  "sources": 270,
   "sentiment": {
-    "positive": 24,
-    "neutral": 68,
-    "negative": 171
+    "positive": 26,
+    "neutral": 70,
+    "negative": 175
   },
   "latest_articles": [
+    {
+      "id": "d2258b34f51fee6658dabf4cf2bbc2cdb59f10fa",
+      "title": "Rubio heads to Caribbean as Trump’s Iran gambit nears tipping point",
+      "summary": "Marco Rubio is attending a regional summit to emphasize the Trump administration’s focus on the Western Hemisphere even as conflict in the Middle East looms.",
+      "url": "https://www.washingtonpost.com/national-security/2026/02/25/rubio-iran-caribbean/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-25T08:24:17+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Trump’s Iran gambit nears tipping point"
+    },
+    {
+      "id": "d21eac273a9be9802ee8a514793a3bf66605554b",
+      "title": "Trump tries to reset presidency in State of the Union speech",
+      "summary": "The US president claimed Iran was seeking missiles able to hit American territory but said his \"preference\" was for a diplomatic solution",
+      "url": "https://www.euractiv.com/news/trump-tries-to-reset-presidency-in-state-of-the-union-speech/",
+      "source": "Euractiv",
+      "published_at": "2026-02-25T05:41:37+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Iran was seeking missiles"
+    },
+    {
+      "id": "4bcf632b7fb8c33c7cdbf085e4d64504b784bae7",
+      "title": "Marco Rubio briefs US lawmakers on Iran as Trump uses State of the Union to threaten nuclear programme",
+      "summary": "Secretary of state makes rare briefing to so-called ‘gang of eight’ as US deploys largest force of aircraft and warships to Middle East since 2003Sign up for the Breaking News US email to get newsletter alerts in your in…",
+      "url": "https://www.theguardian.com/us-news/2026/feb/24/marco-rubio-iran-briefing",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-25T04:31:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Tehran was seeking to develop ballistic missiles that could reach the US"
+    },
+    {
+      "id": "c681d38bb6b84d83aaf6a1e3b5e8f2cedf0e6ca8",
+      "title": "Armed police flood Iran’s universities to crush student protests",
+      "summary": "Campus clashes provide uneasy backdrop to third round of talks on nuclear programme in GenevaPlainclothes police and security forces, many of them armed, have tried to flood Iran’s remaining open universities in an attem…",
+      "url": "https://www.theguardian.com/world/2026/feb/24/iran-armed-police-flood-universities-to-crush-student-protests",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-24T16:06:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Armed police flood Iran’s universities to crush student protests"
+    },
+    {
+      "id": "4e8457cd1cdf7b0a7d86510a078fa4a59d24efc6",
+      "title": "Trump hits out at reports that top US general warned against attacking Iran",
+      "summary": "General Dan Caine has warned that strikes against Iran could be risky, potentially drawing the US into a prolonged conflict, US media report.",
+      "url": "https://www.bbc.com/news/articles/cn0zrwzr519o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-24T16:01:54+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Trump hits out at reports that top US general warned against attacking Iran"
+    },
     {
       "id": "10f326eb7ee380cb3b7569fbc8f6ddbb21a47a78",
       "title": "Oil prices hit seven-month highs as tensions rise before US-Iran talks",
@@ -54,6 +109,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Donald Trump’s decision to order airstrikes against Iran"
+    },
+    {
+      "id": "e2269181966ef83a32278dcb162beee9ead8803b",
+      "title": "Hakeem Jeffries invites family of Jesse Jackson and Epstein survivor to Trump’s State of the Union address – as it happened",
+      "summary": "This live blog is now closed.Trump news at a glance: president’s decision on Iran attack hinges on last-ditch talks this weekSign up for the Breaking News US email to get newsletter alerts in your inboxMajor institutions…",
+      "url": "https://www.theguardian.com/us-news/live/2026/feb/23/donald-trump-mar-a-lago-tariffs-epstein-immigration-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-24T03:00:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "decision on Iran attack hinges on last-ditch talks"
     },
     {
       "id": "15bb05f82e3ee4765875e646f3eb92248c531582",
@@ -144,6 +210,17 @@
       "evidence": "India's Advisory To Citizens In Iran"
     },
     {
+      "id": "56133370595cad2c73252712788cfb1937cc33e6",
+      "title": "\"Iran Regime Has Never Been This Weak\": Exiled Princess Noor Pahlavi",
+      "summary": "Noor Pahlavi's family left Iran about 47 years ago",
+      "url": "https://www.ndtv.com/world-news/iran-regime-has-never-been-this-weak-exiled-princess-noor-pahlavi-iran-government-crackdown-11123646#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-23T08:11:45+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Iran Regime Has Never Been This Weak"
+    },
+    {
       "id": "9ae8db1813f2d37fbfba4fea9d309a5f39b659b3",
       "title": "US Gathers Troops, Jets At UK Bases Despite Refusal On Iran Strikes",
       "summary": "The British government has denied permission for the US to launch attacks from sovereign bases",
@@ -153,85 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Refusal On Iran Strikes"
-    },
-    {
-      "id": "4277f686a6164588ce8e32c3e36ef8448f28a4fc",
-      "title": "What Does Trump Want In Iran?",
-      "summary": "US President Donald Trump's threats to attack Iran provide little detail on what the long-term US goal would be in the event of a sustained or even brief conflict.",
-      "url": "https://www.ndtv.com/world-news/what-does-trump-want-in-iran-11122932#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-23T05:45:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Trump's threats to attack Iran provide little detail"
-    },
-    {
-      "id": "0e5d6a6930dad761241c36f09b747a7a422c790d",
-      "title": "US, Iran to resume nuclear talks in Geneva on Thursday as military pressure mounts",
-      "summary": "Iran and the US are set for a third round of nuclear talks in Geneva amid rising regional tensions. Washington is increasing its military presence and pressing Tehran for a swift deal, with President Trump issuing a 10-1…",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-iran-to-resume-nuclear-talks-in-geneva-on-thursday-as-military-pressure-mounts/articleshow/128698559.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-02-23T04:16:13+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Iran has warned of retaliation against US forces"
-    },
-    {
-      "id": "f8728c0614cfb2bde845e42f68133f6b08bf39cf",
-      "title": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack",
-      "summary": "The top negotiators plan to meet in Geneva on Thursday for last-ditch talks, debating a new proposal that could create an off-ramp as two carrier groups massed within striking distance of Iran.",
-      "url": "https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-22T21:50:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack"
-    },
-    {
-      "id": "5f83422c33560bcc81958ed5ce837e7e25d58e25",
-      "title": "Washington and Tehran to hold more nuclear talks as protests reignite in Iran",
-      "summary": "Fresh Geneva negotiations suggest Trump’s team believes the Iranian government is making serious proposalsIran and the US are expected to meet for a further round of talks in Geneva this week in a sign that Donald Trump’…",
-      "url": "https://www.theguardian.com/world/2026/feb/22/washington-and-tehran-to-hold-more-nuclear-talks-as-protests-reignite-in-iran",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-22T19:33:15+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Tehran is making serious proposals to dilute its stockpile of highly enriched uranium"
-    },
-    {
-      "id": "8071117d417087f7402dcfe62a142d34df680818",
-      "title": "Iran Could Direct Proxies to Attack U.S. Targets Abroad, Officials Warn",
-      "summary": "Security officials are monitoring increasingly worrisome signs as President Trump considers another military campaign against Iran.",
-      "url": "https://www.nytimes.com/2026/02/22/us/politics/iran-terrorist-attacks-proxies-trump.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-22T19:20:19+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Iran Could Direct Proxies to Attack U.S. Targets"
-    },
-    {
-      "id": "21fc2e2708143476d5e1b29012fa7303a061cb3d",
-      "title": "Trump curious why Iran has not 'capitulated', US envoy Witkoff says",
-      "summary": "Steve Witkoff says the president is puzzled why Iran has not yet compromised in the face of a major US military build-up nearby.",
-      "url": "https://www.bbc.com/news/articles/cn5gk15rr70o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-22T18:18:41+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Iran has not 'capitulated'"
-    },
-    {
-      "id": "fba007e4b46ac92a705209eb9f92aedf32c1d94c",
-      "title": "Iran willing to dilute uranium stockpile as fresh protests erupt",
-      "summary": "Proposal will be at heart of offer to US as Trump considers whether to attack IranIran is refusing to export its 300kg stockpile of highly enriched uranium, but is willing to dilute the purity of the stockpile it holds u…",
-      "url": "https://www.theguardian.com/world/2026/feb/21/iran-refusing-to-export-highly-enriched-uranium-but-willing-to-dilute-purity",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-22T09:11:48+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.7,
-      "evidence": "Iran willing to dilute uranium stockpile... refusing to export its 300kg stockpile"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-24T10:07:16Z"
+  "last_updated": "2026-02-25T10:11:34Z"
 }

@@ -1,16 +1,101 @@
 {
   "country": "FR",
-  "score": 99,
+  "score": 98,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 191,
+  "trend": -1,
+  "sources": 201,
   "sentiment": {
-    "positive": 40,
-    "neutral": 128,
-    "negative": 23
+    "positive": 41,
+    "neutral": 135,
+    "negative": 25
   },
   "latest_articles": [
+    {
+      "id": "fcfa3ed522f6cf4c3696cd5b05ea6842d492b8b3",
+      "title": "Head Of France's Palace Of Versailles To Take Over Louvre: Report",
+      "summary": "Christophe Leribault is the president of France's Palace of Versailles.",
+      "url": "https://www.ndtv.com/world-news/christophe-leribault-head-of-frances-palace-of-versailles-to-take-over-louvre-report-11133927#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-02-25T08:42:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Head Of France's Palace Of Versailles To Take Over Louvre"
+    },
+    {
+      "id": "224ed3c22b9b29d9802aaed0527a4388f131b661",
+      "title": "Diplomatic discord: how Trump’s envoys are rattling Europe",
+      "summary": "The US ambassadors in France, Belgium, Poland and Denmark have courted controversy",
+      "url": "https://www.euractiv.com/news/diplomatic-discord-how-trumps-envoys-are-rattling-europe/",
+      "source": "Euractiv",
+      "published_at": "2026-02-25T05:00:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "US ambassadors in France, Belgium, Poland and Denmark have courted controversy"
+    },
+    {
+      "id": "67c6a63c87efba15c309542865318989f1f319ce",
+      "title": "US envoy pledges not to intervene in French public debate",
+      "summary": "France rejects any interference of its public debate by a foreign government, the interior minister said",
+      "url": "https://www.euractiv.com/news/us-envoy-pledges-not-to-intervene-in-french-public-debate/",
+      "source": "Euractiv",
+      "published_at": "2026-02-24T15:34:22+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "France rejects any interference of its public debate"
+    },
+    {
+      "id": "f1798d30fce18815fd66a78eedcc8ae0c2eb1152",
+      "title": "EPP and ECR push for extended timelines on toxic cosmetic bans",
+      "summary": "Negotiations to revise the text are underway among political groups in the European Parliament as part of the 2025 omnibus package on chemicals",
+      "url": "https://www.euractiv.com/news/epp-and-ecr-push-for-extended-timelines-on-toxic-cosmetic-bans/",
+      "source": "Euractiv",
+      "published_at": "2026-02-24T15:25:45+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "1217e7e9b8640006a14221fd9148fcc49c66260b",
+      "title": "France seeks allies to press Commission over health group cuts",
+      "summary": "The EU watchdog recently challenged Brussels over 2025 funding cuts",
+      "url": "https://www.euractiv.com/news/france-seeks-allies-to-press-commission-over-health-group-cuts/",
+      "source": "Euractiv",
+      "published_at": "2026-02-24T12:45:06+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "France seeks allies to press Commission over health group cuts"
+    },
+    {
+      "id": "88baae8e6651408cf9ddb1192772a3d58153cf35",
+      "title": "BUDGET BRIEF: How to get a bigger EU budget",
+      "summary": "Postponing NextGenEU repayments, potential Horizon Europe cuts, and France’s new budget minister",
+      "url": "https://www.euractiv.com/news/budget-brief-how-to-get-a-bigger-eu-budget/",
+      "source": "Euractiv",
+      "published_at": "2026-02-24T11:45:27+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "France’s new budget minister"
+    },
+    {
+      "id": "def9216c157d312a3e14bf8d542049993febaf4f",
+      "title": "U.S. has breached trade deal and Europe is ready to retaliate, top trade lawmaker tells CNBC",
+      "summary": "The U.S. has breached the terms of its trade deal with the European Union \"several times,\" top EU trade lawmaker Bernd Lange told CNBC.",
+      "url": "https://www.cnbc.com/2026/02/24/us-eu-trade-deal-eu-parliament-suspends-trade-deal-trump-tariffs-eu-retaliation-aci.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-24T10:24:26+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "7c7e6cbcfec3002303b0a940e1900478f4cab6d2",
+      "title": "Ušakovs leaves board of Harmony party",
+      "summary": "Member of the European Parliament (EP) Nils Ušakovs has left the board of the Harmony party, LETA reports on 24th February.",
+      "url": "https://eng.lsm.lv/article/politics/politics/24.02.2026-usakovs-leaves-board-of-harmony-party.a636140/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "source": "LSM (English)",
+      "published_at": "2026-02-24T09:46:03+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "c475e5d34b70f14cf234f4affbcfd16b0d2c4ff6",
       "title": "Lead competition legislator pitches ‘independent’ authority",
@@ -21,6 +106,17 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "independent authority to circumvent 'political interference'"
+    },
+    {
+      "id": "46d313c2e5489537648cb367772bcf4146253b19",
+      "title": "France to revoke US envoy’s govt access after summons no-show",
+      "summary": "The ambassador cited \"personal commitments\" and sent a senior embassy official",
+      "url": "https://www.euractiv.com/news/france-to-revoke-us-envoys-govt-access-after-summons-no-show/",
+      "source": "Euractiv",
+      "published_at": "2026-02-24T07:46:27+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "France to revoke US envoy’s govt access"
     },
     {
       "id": "e6bc8c28ce289333a7916881f148a2f1e3a7efbf",
@@ -53,6 +149,17 @@
       "published_at": "2026-02-23T19:11:32+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "b24799907631690b1cd5c2da58612b8c0cffa368",
+      "title": "France fumes at Romania over German SAFE contracts, report claims",
+      "summary": "The programme aimed to finance joint defence procurement projects between EU members",
+      "url": "https://www.euractiv.com/news/france-fumes-at-romania-over-german-safe-contracts-report-claims/",
+      "source": "Euractiv",
+      "published_at": "2026-02-23T14:38:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "France fumes at Romania"
     },
     {
       "id": "cd1ec93f1d4b77cc817c6ad8f2622149dcfe6b0c",
@@ -116,116 +223,8 @@
       "published_at": "2026-02-22T12:29:33+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "43ed007032b173c64905db10ae1722a1af248912",
-      "title": "France to summon US ambassador over comments on far-right activist’s death",
-      "summary": "Official US social media accounts posted about rise of ‘violent radical leftism’ after killing of Quentin DeranqueThe French foreign minister, Jean-Noël Barrot, has said he will summon Charles Kushner, the US ambassador…",
-      "url": "https://www.theguardian.com/world/2026/feb/22/france-summons-us-ambassador-charles-kushner-comments-quentin-deranque",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-22T12:02:03+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "France to summon US ambassador over comments"
-    },
-    {
-      "id": "b6b39e09580ad8f5d0179ddf6c00624dc2c2e30c",
-      "title": "Macron urges caution over impact of US tariff ruling",
-      "summary": "Supreme Court setback is good news for now, Paris says",
-      "url": "https://www.euractiv.com/news/macron-urges-caution-over-impact-of-us-tariff-ruling/",
-      "source": "Euractiv",
-      "published_at": "2026-02-21T12:06:19+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.6,
-      "evidence": "Macron urges caution over impact of US tariff ruling"
-    },
-    {
-      "id": "ff67485f5a19b488a79d2a0fab06730e5006f2d3",
-      "title": "‘Little Amélie or the Character of Rain,’ Oscar and BAFTA-Nominated French Toon, Lands With India’s Fragrant Nature Film Creations (EXCLUSIVE) - Variety",
-      "summary": "‘Little Amélie or the Character of Rain,’ Oscar and BAFTA-Nominated French Toon, Lands With India’s Fragrant Nature Film Creations (EXCLUSIVE)&nbsp;&nbsp;VarietyView Full coverage on Google News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdkF4Y0luNlFTX3UzaUFNT01kUHB3S0F2cnRSMUk4Ti1Oa1A0UngtWllJczRoNFg3S1FkanBhc255VWIxQ3Aya055eGM5dVhBczAwUUFLNS1LQk4yZ2piaktGbmJ6YV9XalFzNFNYMC04XzloS0pGQUd1U25fUFBPeg?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-21T08:21:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Oscar and BAFTA-Nominated French Toon"
-    },
-    {
-      "id": "9dec0818cf3bb50414df7cc2dca61d5a78494b7d",
-      "title": "Hungary Poses Unexpected Hurdle to Europe’s 90-Billion Euro Loan to Ukraine",
-      "summary": "While the delay may prove to be procedural, Hungary signaled that it could cause problems as the European Union works to send money to Ukraine.",
-      "url": "https://www.nytimes.com/2026/02/20/world/europe/euro-loan-ukraine-hungary-obstacle.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-21T07:43:03+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "e545624f43c761b205760717ee490009f76aa10d",
-      "title": "Killing of nationalist student leaves French far left in deep trouble as elections loom",
-      "summary": "Far-left militants are suspected of being behind Quentin Deranque's death and the party of Jean-Luc Mélenchon is being widely condemned.",
-      "url": "https://www.bbc.com/news/articles/cnv61zv534eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-21T00:32:16+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Killing of nationalist student leaves French far left in deep trouble"
-    },
-    {
-      "id": "751b8454faa9dd3c3a32b3bf6fd2f7e2161e3ee2",
-      "title": "French soldier dies after being shot in head during 'game' with other soldiers",
-      "summary": "According to prosecutors, the game - known within the military - involves attempting to disarm a colleague and disable their weapon.",
-      "url": "https://www.bbc.com/news/articles/cj4z25gl24eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-20T14:19:27+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "French soldier dies after being shot in head"
-    },
-    {
-      "id": "24c746367be8cecfb4862cd1abd835ae8c839180",
-      "title": "Brussels promises not to overlook climate impact of war on red tape",
-      "summary": "European Commission concedes on several points after EU Ombudsman finding of maladministration",
-      "url": "https://www.euractiv.com/news/brussels-promises-not-to-overlook-climate-impact-of-war-on-red-tape/",
-      "source": "Euractiv",
-      "published_at": "2026-02-20T12:35:12+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "ce4d3bd4bc2b6bde57ee94d5b4f9c5f7aca6ea93",
-      "title": "French President Macron's 'Thank You' Note To India With 'Dhurandhar' Track",
-      "summary": "Macron's three-day visit to India was marked by high-level engagements and strategic discussions.",
-      "url": "https://www.ndtv.com/world-news/french-president-emmanuel-macrons-thank-you-note-to-india-with-dhurandhar-track-11111422#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-20T06:55:35+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Macron's visit to India... high-level engagements and strategic discussions"
-    },
-    {
-      "id": "3a27cd57ae4b88d5429031e2c219a8d468d7fe9f",
-      "title": "Meet Laurent Duplomb, the senator fighting France’s pesticide war",
-      "summary": "The lawmaker has tabled a new proposal to reauthorise the insecticide acetamiprid",
-      "url": "https://www.euractiv.com/news/meet-laurent-duplomb-the-senator-fighting-frances-pesticide-war/",
-      "source": "Euractiv",
-      "published_at": "2026-02-20T05:00:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "fighting France’s pesticide war"
-    },
-    {
-      "id": "81be4b9fe5e7d7e90568aa673f99d72213b2b09c",
-      "title": "French prosecutor seeks murder charges over killing of far-right activist",
-      "summary": "Political tensions rise after fatal attack at protest in Lyon as Emmanuel Macron hits out over remarks by Italian PMA French prosecutor is seeking murder charges against seven suspects in the fatal beating of a far-right…",
-      "url": "https://www.theguardian.com/world/2026/feb/19/french-prosecutor-suspects-quentin-deranque-activist-lyon-far-right-protest",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-19T18:37:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Macron to tell Italy’s Giorgia Meloni to keep out of French affairs"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-24T10:07:16Z"
+  "last_updated": "2026-02-25T10:11:34Z"
 }

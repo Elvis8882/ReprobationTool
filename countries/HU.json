@@ -1,16 +1,68 @@
 {
   "country": "HU",
-  "score": 82,
+  "score": 78,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 26,
-  "sources": 86,
+  "trend": -4,
+  "sources": 93,
   "sentiment": {
     "positive": 1,
-    "neutral": 62,
-    "negative": 23
+    "neutral": 65,
+    "negative": 27
   },
   "latest_articles": [
+    {
+      "id": "f1798d30fce18815fd66a78eedcc8ae0c2eb1152",
+      "title": "EPP and ECR push for extended timelines on toxic cosmetic bans",
+      "summary": "Negotiations to revise the text are underway among political groups in the European Parliament as part of the 2025 omnibus package on chemicals",
+      "url": "https://www.euractiv.com/news/epp-and-ecr-push-for-extended-timelines-on-toxic-cosmetic-bans/",
+      "source": "Euractiv",
+      "published_at": "2026-02-24T15:25:45+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "595ac4e9ddc245edf98e849f97e7beebcff3db0f",
+      "title": "Hungary blocks Europe’s aid for Ukraine on war’s fourth anniversary",
+      "summary": "Hungary’s veto over European funding could constrain Ukraine’s ability to fund its army and weaken its hand in U.S. talks with Russia over the war.",
+      "url": "https://www.washingtonpost.com/world/2026/02/24/european-funding-ukraine-delayed-orban/",
+      "source": "World (Washington post)",
+      "published_at": "2026-02-24T14:17:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Hungary blocks Europe’s aid for Ukraine"
+    },
+    {
+      "id": "89ce9c96d9cfc817ea5f778e8daf406f15ded179",
+      "title": "Ukraine’s Zelenskyy demands clear date to join EU",
+      "summary": "He also said the €90 billion loan blocked by Hungary 'must be implemented'",
+      "url": "https://www.euractiv.com/news/ukraines-zelenskyy-demands-clear-date-to-join-eu/",
+      "source": "Euractiv",
+      "published_at": "2026-02-24T10:39:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "loan blocked by Hungary 'must be implemented'"
+    },
+    {
+      "id": "def9216c157d312a3e14bf8d542049993febaf4f",
+      "title": "U.S. has breached trade deal and Europe is ready to retaliate, top trade lawmaker tells CNBC",
+      "summary": "The U.S. has breached the terms of its trade deal with the European Union \"several times,\" top EU trade lawmaker Bernd Lange told CNBC.",
+      "url": "https://www.cnbc.com/2026/02/24/us-eu-trade-deal-eu-parliament-suspends-trade-deal-trump-tariffs-eu-retaliation-aci.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-24T10:24:26+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "7c7e6cbcfec3002303b0a940e1900478f4cab6d2",
+      "title": "Ušakovs leaves board of Harmony party",
+      "summary": "Member of the European Parliament (EP) Nils Ušakovs has left the board of the Harmony party, LETA reports on 24th February.",
+      "url": "https://eng.lsm.lv/article/politics/politics/24.02.2026-usakovs-leaves-board-of-harmony-party.a636140/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "source": "LSM (English)",
+      "published_at": "2026-02-24T09:46:03+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "1fb0e7a3b97921e9c7cf637f80bfcc0e38d4806a",
       "title": "Foreign Affairs Council: Press conference by High Representative Kaja Kallas - EEAS",
@@ -66,6 +118,17 @@
       "evidence": "Orbán to lift veto on €90bn Ukraine loan"
     },
     {
+      "id": "483321bd072545e9d226b3d4a1c165d7adb9b6e7",
+      "title": "Kallas reopens Russian frozen assets option amid Hungary’s Ukraine loan veto",
+      "summary": "The proposal was shelved in December after resistance from several capitals",
+      "url": "https://www.euractiv.com/news/kallas-reopens-russian-frozen-assets-option-amid-hungarys-ukraine-loan-veto/",
+      "source": "Euractiv",
+      "published_at": "2026-02-23T16:47:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Hungary’s Ukraine loan veto"
+    },
+    {
       "id": "44025ecc09c896376c7efea3c78fb7fa3d9f3bb0",
       "title": "Irate Hungary, Slovakia ‘cannot’ ban electricity flows to Ukraine",
       "summary": "Blocking electricity exports to war-hit Ukraine would breach EU law, official says",
@@ -106,6 +169,17 @@
       "published_at": "2026-02-23T08:19:57+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "88afc792392c52e48c0fc3f948abb6c0f1c8124a",
+      "title": "Hungary’s election battle mixes AI smears with Facebook ‘fight club’",
+      "summary": "Orbán-linked AI deepfakes flood social media despite EU attempts to boost transparency of Facebook ad ban",
+      "url": "https://www.euractiv.com/news/hungarys-election-battle-mixes-ai-smears-with-facebook-fight-club/",
+      "source": "Euractiv",
+      "published_at": "2026-02-23T05:00:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "AI deepfakes flood social media despite EU attempts to boost transparency"
     },
     {
       "id": "a453ae57d3592d33e7f7911da764d616ce19cd70",
@@ -149,81 +223,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Hungary is blocking both a €90 billion loan to Ukraine"
-    },
-    {
-      "id": "9dec0818cf3bb50414df7cc2dca61d5a78494b7d",
-      "title": "Hungary Poses Unexpected Hurdle to Europe’s 90-Billion Euro Loan to Ukraine",
-      "summary": "While the delay may prove to be procedural, Hungary signaled that it could cause problems as the European Union works to send money to Ukraine.",
-      "url": "https://www.nytimes.com/2026/02/20/world/europe/euro-loan-ukraine-hungary-obstacle.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-21T07:43:03+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Hungary Poses Unexpected Hurdle to Europe’s 90-Billion Euro Loan to Ukraine"
-    },
-    {
-      "id": "86660d6ecf1b577db69d6ced11ea23a78b8c55ee",
-      "title": "Hungary blocks €90 billion EU loan to Ukraine",
-      "summary": "Foreign Minister Péter Szijjártó accused Kyiv of \"blackmailing Hungary by halting oil transit in coordination with Brussels and the Hungarian opposition\"",
-      "url": "https://www.euractiv.com/news/hungary-blocks-e90-billion-eu-loan-to-ukraine/",
-      "source": "Euractiv",
-      "published_at": "2026-02-20T19:02:28+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Hungary blocks €90 billion EU loan to Ukraine"
-    },
-    {
-      "id": "24c746367be8cecfb4862cd1abd835ae8c839180",
-      "title": "Brussels promises not to overlook climate impact of war on red tape",
-      "summary": "European Commission concedes on several points after EU Ombudsman finding of maladministration",
-      "url": "https://www.euractiv.com/news/brussels-promises-not-to-overlook-climate-impact-of-war-on-red-tape/",
-      "source": "Euractiv",
-      "published_at": "2026-02-20T12:35:12+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "8ab470ed835f0b9e18f21d0708a50867537effda",
-      "title": "Europe Worries About Another Trump Blowup, This One on Tech",
-      "summary": "Even as trade tensions between the United States and the European Union seem to calm, officials are concerned that a showdown is brewing over the bloc’s digital rules.",
-      "url": "https://www.nytimes.com/2026/02/19/world/europe/europe-united-states-trump-digital-services-act.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-19T11:27:07+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "254010376c11ecf00aca8ad195cd54b613abf906",
-      "title": "What is the EU’s greenhouse gas footprint per capita? - European Commission",
-      "summary": "What is the EU’s greenhouse gas footprint per capita?&nbsp;&nbsp;European CommissionCyprus recorded 14.8 tonnes of CO2 per capita in 2023, according to Eurostat&nbsp;&nbsp;ΚΥΠΕBTA :: Bulgaria Among EU Countries with Lowe…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11dDFXUHdUNnNoeVBYd3g2OWJWemFkVm1hOWl0MXNkMDB3bGdXR1REOHhBLUtGb3diYlpxQWFVV2F6SGhrYXVWSWEyZGFHWTV5Wjc0RjhRMHM3d0xRaGxLNnpGLU1PYi1CZ3Z2UDlEc1A4eVVZMFpxNzlmYkcxZw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-19T10:03:42+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "4d81abf151dff772f8dc7023c9f844903597c6b7",
-      "title": "Brussels caught off-guard as von der Leyen targets electricity market",
-      "summary": "The European Commission president has again promised a rethink of Europe's complicated single-market",
-      "url": "https://www.euractiv.com/news/brussels-caught-off-guard-as-von-der-leyen-targets-electricity-market/",
-      "source": "Euractiv",
-      "published_at": "2026-02-19T05:00:28+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "1658110939cab5436b1ed73e0034653fef3ca6eb",
-      "title": "Hungary blockades diesel to Ukraine in spat over Russian oil",
-      "summary": "Budapest seeks to turn row over Russian energy imports into domestic election issue",
-      "url": "https://www.euractiv.com/news/hungary-blockades-diesel-to-ukraine-in-spat-over-russian-oil/",
-      "source": "Euractiv",
-      "published_at": "2026-02-18T17:40:30+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Hungary blockades diesel to Ukraine in spat over Russian oil"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-24T10:07:16Z"
+  "last_updated": "2026-02-25T10:11:34Z"
 }
