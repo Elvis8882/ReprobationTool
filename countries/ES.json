@@ -4,13 +4,89 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 119,
+  "sources": 127,
   "sentiment": {
-    "positive": 13,
-    "neutral": 88,
-    "negative": 18
+    "positive": 15,
+    "neutral": 93,
+    "negative": 19
   },
   "latest_articles": [
+    {
+      "id": "064abd164dd54624d2eca8da61de124584b2bf58",
+      "title": "‘A devastating force’: how recent Mediterranean storms turned to tragedies",
+      "summary": "Atmospheric machine-gun has fired storm after deadly storm at the region this year, leaving a trail of widespread destructionFor Andrés Sánchez Barea, in Spain, it was the fear that arose when water started to spurt from…",
+      "url": "https://www.theguardian.com/world/2026/feb/26/recent-mediterranean-storms-tragedies-spain-portugal-morocco",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-26T05:00:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "in Spain, it was the fear that arose when water started to spurt"
+    },
+    {
+      "id": "762906a3a2d616678ed4925934b9c10ef70f4090",
+      "title": "Antonio Tejero Molina, 93, Dies; Spanish Colonel Led Failed Coup",
+      "summary": "He held Spain’s Parliament hostage for 18 hours on Feb. 23, 1981, before surrendering after it became clear that he had little support from the country’s armed forces.",
+      "url": "https://www.nytimes.com/2026/02/25/world/europe/antonio-tejero-molina-dead.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-25T22:43:50+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Spanish Colonel Led Failed Coup"
+    },
+    {
+      "id": "b093484d8cf39a67d51cbbfd1befbe065185e066",
+      "title": "Spanish officer who led 1981 coup dies on day documents declassified",
+      "summary": "Antonio Tejero, who has died aged 93, was part of rightwing network whose efforts were thwarted by King Juan CarlosThe Spanish officer who led his armed followers into the Spanish congress in a failed military coup in 19…",
+      "url": "https://www.theguardian.com/world/2026/feb/25/spanish-officer-led-1981-coup-dies-day-documents-declassified-antonio-tejero",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-25T20:18:29+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "efforts to seize power were thwarted after King Juan Carlos refused to support the coup"
+    },
+    {
+      "id": "4f5919ba10e8fbe77eb14e35d0805928ea3283ee",
+      "title": "Spain declassifies files on 1981 attempted coup in effort to dispel conspiracy theories",
+      "summary": "The release comes on the same day as the death of the coup leader, Antonio Tejero Molina.",
+      "url": "https://www.bbc.com/news/articles/ce8w42e152xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-25T19:30:25+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Spain declassifies files on 1981 attempted coup"
+    },
+    {
+      "id": "53ac0e0e816de2d5765efd8fcda7a1f9a0ce25aa",
+      "title": "Spain to ban energy drinks for under-16s",
+      "summary": "Spain is promoting the ban at a national level amid growing health risk concerns for minors",
+      "url": "https://www.euractiv.com/news/spain-to-ban-energy-drinks-for-under-16s/",
+      "source": "Euractiv",
+      "published_at": "2026-02-25T11:50:32+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Spain to ban energy drinks for under-16s"
+    },
+    {
+      "id": "15a2b6ac9eefeab0dc470ee8ed5adc2350c8061e",
+      "title": "Women’s pension 25% lower than men’s in 2024 - European Commission",
+      "summary": "Women’s pension 25% lower than men’s in 2024&nbsp;&nbsp;European CommissionView Full coverage on Google News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDRXFjbDhXblpfa2Qxc1FfWlFDRm1Rb203UnoxS2NnUjJGUUV6NW85Z3IxVkJ4UlFEUzYtT2RVTnMwYlNkS05sNHhBZGlHNUFrTUJGaExqWTdGS3AyQWVqTkV0bTVZV2toS1MzeXZFXzdNWm1TLVh0VzlIdElJZw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-25T10:05:02+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "36acc115ff4f883ce4f2f466455bd500a1938198",
+      "title": "Spanish engineer reports flaw in ‘smart’ vacuums after gaining control of 7,000 devices",
+      "summary": "Sammy Azdoufal alerted New York-based outlet the Verge after he took control of DJI Romo devices around the worldA Spanish software engineer reportedly contacted a New York-based tech outlet recently to reveal he had rem…",
+      "url": "https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-24T20:40:19+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Spanish engineer reports flaw in ‘smart’ vacuums"
+    },
     {
       "id": "f1798d30fce18815fd66a78eedcc8ae0c2eb1152",
       "title": "EPP and ECR push for extended timelines on toxic cosmetic bans",
@@ -28,6 +104,16 @@
       "url": "https://www.cnbc.com/2026/02/24/us-eu-trade-deal-eu-parliament-suspends-trade-deal-trump-tariffs-eu-retaliation-aci.html",
       "source": "International: Top News And Analysis",
       "published_at": "2026-02-24T10:24:26+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "e1bc9710d5d88c0be2de7987e2625090b96f5589",
+      "title": "12% of transport jobs tied to foreign-controlled groups - News articles - European Commission",
+      "summary": "12% of transport jobs tied to foreign-controlled groups - News articles&nbsp;&nbsp;European CommissionEmployment in foreign-controlled multinational enterprise transport groups&nbsp;&nbsp;European Commission13% of Latvia…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RaEpaYWdsUGFuWXVKNFl3R19YWUU2S2pxTWhpOEU0cW9reWJNM1pQandvZTNpZ09TT0tRTVVHd3pUaUQ5R0JPQTRQVlJtd2FjN2dmeXctRnRGS3BTUi1FUDBRWjY1NG04dngtVC1MR2podWtDMlJ6MHZRbHhuUQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-24T10:04:07+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -134,95 +220,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "heavy rains turned the Fahala River into an “uncontrollable torrent”"
-    },
-    {
-      "id": "9a21a3c70b8ee567b53e2ed40ba90fde2a54bbcd",
-      "title": "‘A joyful day’: final piece of Sagrada Familia’s central tower put in place",
-      "summary": "Completion of glass cross brings Antoni Gaudí’s church to maximum final height of 172.5m, 144 years after work beganThe final piece of the central tower of Barcelona’s Sagrada Familia has been laid in place, bringing the…",
-      "url": "https://www.theguardian.com/world/2026/feb/20/barcelona-sagrada-familias-church-central-tower-put-in-place",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-20T16:09:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "final piece of Sagrada Familia’s central tower put in place"
-    },
-    {
-      "id": "24c746367be8cecfb4862cd1abd835ae8c839180",
-      "title": "Brussels promises not to overlook climate impact of war on red tape",
-      "summary": "European Commission concedes on several points after EU Ombudsman finding of maladministration",
-      "url": "https://www.euractiv.com/news/brussels-promises-not-to-overlook-climate-impact-of-war-on-red-tape/",
-      "source": "Euractiv",
-      "published_at": "2026-02-20T12:35:12+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "88ca1da4d7485e4e270eb7910b4ec78b325f2f8d",
-      "title": "FIREPOWER: Kubilius defence tour continues with laggard Spain",
-      "summary": "FCAS, Mobility, F-35s",
-      "url": "https://www.euractiv.com/news/firepower-kubilius-defence-tour-continues-with-laggard-spain/",
-      "source": "Euractiv",
-      "published_at": "2026-02-20T08:25:57+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Kubilius defence tour continues with laggard Spain"
-    },
-    {
-      "id": "7a49e172b7d440bcb2d5114ec0b7c4bfcf510771",
-      "title": "Trump’s envoys rampage through Europe",
-      "summary": "In Friday’s edition, also: Qatargate, Spain migration, and College vs Tbilisi",
-      "url": "https://www.euractiv.com/news/rapporteur-trumps-envoys-rampage-through-europe/",
-      "source": "Euractiv",
-      "published_at": "2026-02-20T05:56:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Spain migration"
-    },
-    {
-      "id": "8b409fefaf15c21562cf5d980d8c57b0e97ce33d",
-      "title": "Terrible storms turn Spain into electricity price utopia",
-      "summary": "Renewables-centric Iberian Peninsula reaps record-low prices – but pays price for lack of EU cables",
-      "url": "https://www.euractiv.com/news/terrible-storms-turn-spain-into-electricity-price-utopia/",
-      "source": "Euractiv",
-      "published_at": "2026-02-20T05:00:53+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.8,
-      "evidence": "Spain into electricity price utopia ... pays price for lack of EU cables"
-    },
-    {
-      "id": "27245e8c24e42bbb31128c5f2afe00ab68ddf92e",
-      "title": "INTERVIEW: Spain’s migrant regularisation ‘completely politicised’, minister says",
-      "summary": "The reform stems from a popular initiative in 2021, which received 700,000 signatures",
-      "url": "https://www.euractiv.com/news/interview-spains-migrant-regularisation-completely-politicised-minister-says/",
-      "source": "Euractiv",
-      "published_at": "2026-02-20T05:00:48+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Spain’s migrant regularisation ‘completely politicised’"
-    },
-    {
-      "id": "b73c9b4825783e4edb1a1ddeb4d6c9a7e9833e2a",
-      "title": "Kubilius defence tour continues with laggard Spain",
-      "summary": "Madrid insists it can meet NATO goals with less defence spending",
-      "url": "https://www.euractiv.com/news/kubilius-defence-tour-continues-with-laggard-spain/",
-      "source": "Euractiv",
-      "published_at": "2026-02-20T05:00:45+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "laggard Spain"
-    },
-    {
-      "id": "15fd116c4d56cfdadde56ec7a3ae2fbee30d3aa3",
-      "title": "France renews push to boost farm ministers’ role in next CAP",
-      "summary": "The French, Spanish and Portuguese ministers will seek greater oversight of the next farm budget in a Council meeting next week",
-      "url": "https://www.euractiv.com/news/france-renews-push-to-boost-farm-ministers-role-in-next-cap/",
-      "source": "Euractiv",
-      "published_at": "2026-02-19T12:25:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Spanish and Portuguese ministers will seek greater oversight"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-25T10:11:34Z"
+  "last_updated": "2026-02-26T10:06:57Z"
 }

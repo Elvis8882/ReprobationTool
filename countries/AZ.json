@@ -1,16 +1,27 @@
 {
   "country": "AZ",
-  "score": 63,
+  "score": 61,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 4,
+  "trend": -2,
+  "sources": 5,
   "sentiment": {
     "positive": 1,
     "neutral": 1,
-    "negative": 2
+    "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "354bfeab822c8c07d6ba12a44ef00b131295b00e",
+      "title": "Euronews under scrutiny over silence on Azerbaijani journalists’ trial",
+      "summary": "EU-funded broadcaster criticised for failing to cover case rights groups call politically motivated amid widening media crackdown in Baku",
+      "url": "https://www.euractiv.com/news/euronews-under-scrutiny-over-silence-on-azerbaijani-journalists-trial/",
+      "source": "Euractiv",
+      "published_at": "2026-02-26T05:00:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "widening media crackdown in Baku"
+    },
     {
       "id": "6c3d9ee2a337c38f109d9a03715090feb345a691",
       "title": "Bodyguards for Azerbaijani president, in town for Trump’s Board of Peace, attack protesters in DC",
@@ -57,5 +68,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-25T10:11:34Z"
+  "last_updated": "2026-02-26T10:06:57Z"
 }

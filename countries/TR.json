@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 73,
+  "score": 70,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 23,
+  "trend": -3,
+  "sources": 24,
   "sentiment": {
     "positive": 5,
     "neutral": 15,
-    "negative": 3
+    "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "0f0849e0f8b36cee74a312e1674745b3cfc9e7a8",
+      "title": "Ankara eyes F-35 deal with US in July, Turkish media reports",
+      "summary": "Turkey was expelled from the F-35 programme in 2019 after it purchased Russia's S-400 missile system",
+      "url": "https://www.euractiv.com/news/ankara-eyes-f-35-deal-with-us-in-july-turkish-media-reports/",
+      "source": "Euractiv",
+      "published_at": "2026-02-24T16:27:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Turkey was expelled from the F-35 programme"
+    },
     {
       "id": "7c48c7ffedf772a2327b23c1fec6ec340ab7c33f",
       "title": "Midnight crackdown in Ramadan 2026: 346 arrested, drugs and weapons seized across 5 provinces in Türkiye",
@@ -219,19 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "U.S. and Iran plan talks in Istanbul"
-    },
-    {
-      "id": "094056ea4bee9c5e12366ce7d31f1fc7a6a4e9fd",
-      "title": "U.S. and Iranian Officials to Meet as Trump’s Threats Loom",
-      "summary": "President Trump’s Middle East envoy and his son-in-law were expected to meet Iran’s foreign minister in Istanbul on Friday amid tensions between the countries.",
-      "url": "https://www.nytimes.com/2026/02/02/world/middleeast/us-iran-meeting-trump-threats.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-02T22:57:48+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "U.S. and Iranian Officials to Meet as Trump’s Threats Loom"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-25T10:11:34Z"
+  "last_updated": "2026-02-26T10:06:57Z"
 }

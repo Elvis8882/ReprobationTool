@@ -1,16 +1,28 @@
 {
   "country": "DZ",
   "score": 100,
-  "score_label": "Not enough data",
-  "assessment": "No information available",
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
   "trend": null,
-  "sources": 0,
+  "sources": 1,
   "sentiment": {
     "positive": 0,
-    "neutral": 0,
+    "neutral": 1,
     "negative": 0
   },
-  "latest_articles": [],
+  "latest_articles": [
+    {
+      "id": "b28c271e743bc51fc66cd13390e7b3427b3e95ef",
+      "title": "Pope Leo to visit four African countries in April",
+      "summary": "This is the first time that a pope will visit Algeria, whose population is mostly Muslim.",
+      "url": "https://www.bbc.com/news/articles/cvg1vdgl3ymo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-25T18:47:05+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "a pope will visit Algeria"
+    }
+  ],
   "window_days": 90,
-  "last_updated": "2026-02-25T10:11:34Z"
+  "last_updated": "2026-02-26T10:06:57Z"
 }
