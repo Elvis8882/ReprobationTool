@@ -1,16 +1,46 @@
 {
   "country": "EE",
-  "score": 99,
+  "score": 100,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 96,
+  "trend": 1,
+  "sources": 101,
   "sentiment": {
-    "positive": 13,
-    "neutral": 75,
+    "positive": 14,
+    "neutral": 79,
     "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "421fe424c0e7ba8c48081f1b7c79b2f3a678a5c8",
+      "title": "Mandelson faces EU inquiry into Brussels trade role over Epstein links",
+      "summary": "European Anti-Fraud Office to look into the former US ambassador’s time as trade commissioner in BrusselsPeter Mandelson is facing an inquiry by the EU’s anti-fraud agency after the European Commission requested the body…",
+      "url": "https://www.theguardian.com/politics/2026/feb/26/mandelson-faces-eu-inquiry-into-brussels-trade-role-over-epstein-links",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-26T21:47:15+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "1b708e4ba948946c6d746ff46e11e4f9d3aedfc8",
+      "title": "EU opens up funding to guarantee abortion rights across bloc",
+      "summary": "Women from countries with near-total bans on terminations will be given help to access services elsewhereEU states will be able to tap into a social fund to help citizens access safe abortions, in an announcement hailed…",
+      "url": "https://www.theguardian.com/world/2026/feb/26/eu-funding-guarantee-abortion-rights-across-bloc",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-26T19:52:40+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "b626a315be16caf1b37f798f9c999c1ad1c87110",
+      "title": "EU states told to use existing fund for safe abortions after citizens' petition",
+      "summary": "The European Commission stops short of creating a new funding facility to enable women to travel for safe abortions.",
+      "url": "https://www.bbc.com/news/articles/cvgv92p6qzqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-26T19:07:30+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "15a2b6ac9eefeab0dc470ee8ed5adc2350c8061e",
       "title": "Women’s pension 25% lower than men’s in 2024 - European Commission",
@@ -18,6 +48,27 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDRXFjbDhXblpfa2Qxc1FfWlFDRm1Rb203UnoxS2NnUjJGUUV6NW85Z3IxVkJ4UlFEUzYtT2RVTnMwYlNkS05sNHhBZGlHNUFrTUJGaExqWTdGS3AyQWVqTkV0bTVZV2toS1MzeXZFXzdNWm1TLVh0VzlIdElJZw?oc=5",
       "source": "Top stories - Google News",
       "published_at": "2026-02-25T10:05:02+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "9bd3074ad925897703883b4849889834b85eb496",
+      "title": "Estonian Minister: We have an agreement with Latvia that Rail Baltica will be built by 2030 / Article - LSM.lv",
+      "summary": "Estonian Minister: We have an agreement with Latvia that Rail Baltica will be built by 2030 / Article&nbsp;&nbsp;LSM.lvRail Baltica rail costs in Estonia far lower per kilometer than in Latvia&nbsp;&nbsp;news | ERR",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYm8zVTdaS1FkZlU1T2tLMGhkMF85bHN1UmlodzR2dktuWUpLeXhQamM2T2tJYWVfN1FQZ0hZUkZybGRUblZrX041Z2xTWlptRlhXRlBMcVRVQUtpQW1WTFk0S2Jscjk1QmVJdTVDcE92eUxEMkUtZFhQRE9SNG5fbXRlYU9tTzFMdC00TTFFSE4wV1hqZWxTUmtDNEZMSkdwZXVJRGNzcmJKemF0eUJmNWFtMlgxMUt0WHN5Y0s0dGR3X0xUWG9HX0I1QlNXMzlnbEtzaHlDUmtFbnQ5U0VQTzJvVW1zcFhzdlFr?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-25T00:39:08+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Estonian Minister: We have an agreement with Latvia that Rail Baltica will be built"
+    },
+    {
+      "id": "7b5e0a9e2e6b8054eeaa756ce11c608420c0b61e",
+      "title": "Inforegio - Livestream: conference on the EU’s eastern regions bordering Russia, Belarus and Ukraine - European Commission",
+      "summary": "Inforegio - Livestream: conference on the EU’s eastern regions bordering Russia, Belarus and Ukraine&nbsp;&nbsp;European CommissionCommission supports the EU's eastern regions bordering Russia, Belarus and Ukraine&nbsp;&…",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVmNYZHlsWnhZTEJfTFNsTXFoU0hPbFJuRHRaNElzRDB4YTZIM2tIek5BNDFSMU80bENiNURQWUpQSlhKTEJ3aVZzSmVmYWhLZDVYd3M4TzhYbmFnV05Sd3VCSkRyYVRBamRlRU1VQllDNmZkVXhpOXlNbjlQdnFsdnozTjlReGo2WkpaT1JzLTBxSWI4cWxVUmo5SDRfWmlhcmFGN2tCa05xUzlLekRuZnhnNjZNc19mbzdSclJ4YTBEVEl5NGZWS3MtaTBUNTZqV1NPVEoyNmp4aE5ReFJ3ZVBVRmh3QUd3UDdpVQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-24T15:57:36+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -164,60 +215,8 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "Estonia jails Israeli citizen for spying for Russia's FSB"
-    },
-    {
-      "id": "79cbda1caa587e4dbbd79292ae2bc68086d923b9",
-      "title": "Tallinn and Lviv to cooperate on strengthening community resilience - The Baltic Times",
-      "summary": "Tallinn and Lviv to cooperate on strengthening community resilience&nbsp;&nbsp;The Baltic Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2RLbmRSaHVUblB4QU5ScHloNkVOZWdiT1FoYmd3Y2ZBMWlFTXJ5MGVqM3pZdG5zenZxaDZqUzYzc3dHYThkTXJrZl8wZVI3Q3V5djI0eTYwczNjaWRJVmZKeVg0Ri1ZdklUZEkyTTRscjN4dnJ3NXFhY2dONkhqVVY2THFESGc3d3pISFg4ZDFBWkFQeWx5NzJ3Z2Q?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-19T14:37:19+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Tallinn and Lviv to cooperate on strengthening community resilience"
-    },
-    {
-      "id": "8ab470ed835f0b9e18f21d0708a50867537effda",
-      "title": "Europe Worries About Another Trump Blowup, This One on Tech",
-      "summary": "Even as trade tensions between the United States and the European Union seem to calm, officials are concerned that a showdown is brewing over the bloc’s digital rules.",
-      "url": "https://www.nytimes.com/2026/02/19/world/europe/europe-united-states-trump-digital-services-act.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-19T11:27:07+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "254010376c11ecf00aca8ad195cd54b613abf906",
-      "title": "What is the EU’s greenhouse gas footprint per capita? - European Commission",
-      "summary": "What is the EU’s greenhouse gas footprint per capita?&nbsp;&nbsp;European CommissionCyprus recorded 14.8 tonnes of CO2 per capita in 2023, according to Eurostat&nbsp;&nbsp;ΚΥΠΕBTA :: Bulgaria Among EU Countries with Lowe…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11dDFXUHdUNnNoeVBYd3g2OWJWemFkVm1hOWl0MXNkMDB3bGdXR1REOHhBLUtGb3diYlpxQWFVV2F6SGhrYXVWSWEyZGFHWTV5Wjc0RjhRMHM3d0xRaGxLNnpGLU1PYi1CZ3Z2UDlEc1A4eVVZMFpxNzlmYkcxZw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-19T10:03:42+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "92f3fb193e234d61c4d68d3602a57cd47299b576",
-      "title": "Financial woes of Estonian dairy have serious consequences in Latvia / Article - LSM",
-      "summary": "Financial woes of Estonian dairy have serious consequences in Latvia / Article&nbsp;&nbsp;LSM",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUpLM19fblJjQzlEMUJOX2t2cktnS2UwNEcyelNHb1huTHdrV2FtTzV4M3lKVEYwb0RxWGpwUHRyZU1jbk1KYjhhZTMwYWRwMlFtalpiRHRacUtqQ2hOZzhCN3pPcHAyb1l3QlNTRU9mY1EySVNRVFgyTERHanVhc2pCSmR2TmxPRUNONi13ZlUzQjdlQUZZWDJCSlRzeFZaTkwyVGRfOGE1NTJFX25PeFZDaDU2TXd0VjFRS2tYRkJkeXJIRXczeExzcGkxQTA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-19T07:44:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Financial woes of Estonian dairy"
-    },
-    {
-      "id": "4d81abf151dff772f8dc7023c9f844903597c6b7",
-      "title": "Brussels caught off-guard as von der Leyen targets electricity market",
-      "summary": "The European Commission president has again promised a rethink of Europe's complicated single-market",
-      "url": "https://www.euractiv.com/news/brussels-caught-off-guard-as-von-der-leyen-targets-electricity-market/",
-      "source": "Euractiv",
-      "published_at": "2026-02-19T05:00:28+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-26T10:06:57Z"
+  "last_updated": "2026-02-27T09:59:20Z"
 }

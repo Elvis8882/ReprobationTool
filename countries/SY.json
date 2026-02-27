@@ -1,16 +1,38 @@
 {
   "country": "SY",
-  "score": 57,
+  "score": 58,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 33,
+  "trend": 1,
+  "sources": 35,
   "sentiment": {
-    "positive": 1,
-    "neutral": 18,
+    "positive": 2,
+    "neutral": 19,
     "negative": 14
   },
   "latest_articles": [
+    {
+      "id": "eb693074d4e1f5009ec6603fbb6d7db7d885babc",
+      "title": "Beacon of (shrinking) aid",
+      "summary": "In Friday’s edition: Mercosur, Syria, Epstein files, EU's mutual defence",
+      "url": "https://www.euractiv.com/news/rapporteur-beacon-of-shrinking-aid/",
+      "source": "Euractiv",
+      "published_at": "2026-02-27T05:58:45+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Syria"
+    },
+    {
+      "id": "abfd1e6a01254499260edf8e428df98ac779e4a4",
+      "title": "Greens urge Labor to stop treating children detained in Syria camp like ‘disposable political pawns’ – as it happened",
+      "summary": "This blog is now closedGrace Tame says ‘spare me the condescension, old man’ after Albanese defends ‘difficult’ commentGet our breaking news email, free app or daily news podcastAdvocate for gambling reform reiterates ca…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/feb/26/dfat-middle-east-evacuation-syria-isis-families-wives-children-anthony-albanese-angus-taylor-budget-cost-of-living-capital-gains-tax-reform-ntwnfb",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-26T06:56:49+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "children detained in Syria camp like ‘disposable political pawns’"
+    },
     {
       "id": "640fbb5ba672f57e0eb1d7607bed356f7f6ca07d",
       "title": "Albanese says One Nation doesn’t ‘represent working people’ and claims Pocock ‘seeks to promote grievance’",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Syrian Army Crosses New Threshold With Advances"
-    },
-    {
-      "id": "5187006205ea6c01652cd07fa1d9951d439ea9b2",
-      "title": "Australian IS families in Syria camp turned back after leaving for home",
-      "summary": "The group of 34 women and children with family links to Islamic State group have been held in the Roj camp for nearly seven years.",
-      "url": "https://www.bbc.com/news/articles/cvg5ed05pplo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-16T19:18:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Australian IS families in Syria camp"
-    },
-    {
-      "id": "c348278601f09f1f0b84d8fa2365b4196cacacf7",
-      "title": "What is happening to Syria’s IS camps and their former residents?",
-      "summary": "Experts say the detention centres were a breeding ground for extremism and a new generation of IS membersHumanitarians warned for years that the camps in north-east Syria holding tens of thousands of family members of su…",
-      "url": "https://www.theguardian.com/world/2026/feb/16/what-is-happening-to-syrias-is-camps-and-their-former-residents",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-16T18:49:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "breeding ground for extremism and a new generation of IS members"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-26T10:06:57Z"
+  "last_updated": "2026-02-27T09:59:20Z"
 }

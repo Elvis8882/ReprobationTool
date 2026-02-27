@@ -1,16 +1,38 @@
 {
   "country": "CH",
-  "score": 81,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 2,
-  "sources": 33,
+  "trend": 3,
+  "sources": 36,
   "sentiment": {
-    "positive": 6,
-    "neutral": 25,
+    "positive": 8,
+    "neutral": 26,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "fe8bd09bd94a982d48501202c45e88df210317d8",
+      "title": "Russia Launches Big Strikes Before U.S.-Ukraine Talks in Geneva",
+      "summary": "Ukrainian officials said they hoped that trilateral peace negotiations could take place next week.",
+      "url": "https://www.nytimes.com/2026/02/26/world/europe/russia-attack-ukraine-talks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-26T23:29:03+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "U.S.-Ukraine Talks in Geneva"
+    },
+    {
+      "id": "8d8274c095e155c9bdb33e260843284be205ca9e",
+      "title": "Russia and Ukraine exchange more than 1,000 soldiers' bodies",
+      "summary": "Russia's announcement comes as Ukraine's top negotiator met US peace envoys in Geneva.",
+      "url": "https://www.bbc.com/news/articles/cg7ed4rp7x5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-26T14:28:35+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "met US peace envoys in Geneva"
+    },
     {
       "id": "ffb4f0b4d8db5102c6fd99caf36bb5038082cec1",
       "title": "US and Iranian negotiators meet for crunch nuclear talks – Middle East live",
@@ -54,6 +76,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "in Geneva"
+    },
+    {
+      "id": "e875985aabb798cf7e691c72fdfdc05c3630eda5",
+      "title": "Trump keeps world waiting on his plans for Iran after State of the Union",
+      "summary": "The next round of talks between the US and Iran in Geneva on Thursday could be decisive in the president's decision-making.",
+      "url": "https://www.bbc.com/news/articles/cge821xwyz8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-25T15:16:33+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "talks between the US and Iran in Geneva"
     },
     {
       "id": "6ae5bffea6ba7383cf4a4b06ba41fabea7b16b7e",
@@ -197,41 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "peace talks in Geneva"
-    },
-    {
-      "id": "175ab5e78cf8e788be03a1694818688a139a0cad",
-      "title": "Ukraine and Russia to meet for third round of talks as fourth anniversary of war looms",
-      "summary": "Hopes of success remain low after Trump points finger at Zelenskyy and as Russia keeps up hardline demandsSenior Ukrainian and Russian officials are to meet this week in Switzerland for a third round of talks brokered by…",
-      "url": "https://www.theguardian.com/world/2026/feb/16/ukraine-russia-second-round-talks-fourth-anniversary-war",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-17T08:49:20+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "meet this week in Switzerland for a third round of talks"
-    },
-    {
-      "id": "f0640f24e90234043a5b49b01ffbfa5c7615ae18",
-      "title": "The patience and the poker face: Iran’s wily diplomat set to face the US in nuclear talks",
-      "summary": "Abbas Araghchi is steeped in more than a decade of nuclear dealmaking with a book on the art of negotiationsIf the US and Iran are to avoid a regional war, both sides need to start to make concessions at talks in Geneva…",
-      "url": "https://www.theguardian.com/world/2026/feb/16/the-patience-and-the-poker-face-irans-wily-diplomat-set-to-face-the-us-in-nuclear-talks",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-16T20:10:48+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "talks in Geneva"
-    },
-    {
-      "id": "f232033b1d26995421fe46047360739b816d1515",
-      "title": "Japan and Switzerland both avoid falling into recession – business live",
-      "summary": "Rolling coverage of the latest economic and financial news, as Japan misses growth forecasts for the final three months of 2025An alarming stock market statement from skin health company SkinBioTherapeutics has knocked i…",
-      "url": "https://www.theguardian.com/business/live/2026/feb/16/japan-growth-gdp-escapes-recession-takaichi-uk-stock-market-house-prices-interest-rates-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-16T09:19:19+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Switzerland both avoid falling into recession"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-26T10:06:57Z"
+  "last_updated": "2026-02-27T09:59:20Z"
 }

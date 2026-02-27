@@ -1,0 +1,41 @@
+{
+  "id": "fe8bd09bd94a982d48501202c45e88df210317d8",
+  "title": "Russia Launches Big Strikes Before U.S.-Ukraine Talks in Geneva",
+  "summary_full": "Ukrainian officials said they hoped that trilateral peace negotiations could take place next week.",
+  "summary_public": "Ukrainian officials said they hoped that trilateral peace negotiations could take place next week.",
+  "url": "https://www.nytimes.com/2026/02/26/world/europe/russia-attack-ukraine-talks.html",
+  "published_at": "2026-02-26T23:29:03+00:00",
+  "source": "NYT > World News",
+  "language": "en",
+  "countries_detected": [
+    "CH",
+    "RU",
+    "UA"
+  ],
+  "countries_scored": [
+    "CH",
+    "RU",
+    "UA"
+  ],
+  "sentiment_by_country": {
+    "CH": {
+      "label": "positive",
+      "confidence": 0.6,
+      "evidence": "U.S.-Ukraine Talks in Geneva"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia Launches Big Strikes"
+    },
+    "UA": {
+      "label": "mixed",
+      "confidence": 0.8,
+      "evidence": "Russia Launches Big Strikes Before U.S.-Ukraine Talks"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-02-27T09:59:20+00:00",
+  "processed_at": "2026-02-27T09:59:20+00:00"
+}

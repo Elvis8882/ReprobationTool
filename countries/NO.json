@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 42,
+  "sources": 43,
   "sentiment": {
     "positive": 4,
-    "neutral": 32,
+    "neutral": 33,
     "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "c28239a72de4d970692f7e7fcdbcdd5d1223c25c",
+      "title": "The world's biggest sovereign wealth fund is using Anthropic's Claude AI model to screen investments for ethical issues",
+      "summary": "Norway’s $2 trillion wealth fund is reviewing its ethical framework after decisions on U.S. and Israeli companies drew ire from the Trump administration.",
+      "url": "https://www.cnbc.com/2026/02/26/norway-sovereign-wealth-fund-nbim-investment-ai-esg-claude.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-26T14:50:34+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Norway’s $2 trillion wealth fund is reviewing its ethical framework"
+    },
     {
       "id": "b459bb4686fded775482c6e297a39bcf95fa8900",
       "title": "Norway’s Century-Long Watch on the Northern Lights",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Russia could invade to protect nuclear assets"
-    },
-    {
-      "id": "3316de984d9839518ca7c99d66bc25630dc6b8b6",
-      "title": "Norway police investigate diplomat over Epstein links",
-      "summary": "Mona Juul and her husband Terje Rød-Larsen - who played a vital role in the Oslo Accords - are being investigated for \"aggravated corruption\".",
-      "url": "https://www.bbc.com/news/articles/c5yg8yrypejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-09T21:12:09+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Norway police investigate diplomat over Epstein links"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-26T10:06:57Z"
+  "last_updated": "2026-02-27T09:59:20Z"
 }

@@ -1,16 +1,60 @@
 {
   "country": "UA",
-  "score": 60,
+  "score": 62,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 258,
+  "trend": 2,
+  "sources": 264,
   "sentiment": {
-    "positive": 101,
-    "neutral": 56,
+    "positive": 106,
+    "neutral": 57,
     "negative": 101
   },
   "latest_articles": [
+    {
+      "id": "cc202c459a0fae415f1f3cee2faafa88a7189521",
+      "title": "‘A living, moving exhibition’: Ukraine Museum opens in Berlin air-raid bunker",
+      "summary": "Exhibits pay homage to Ukrainians’ resilience and bring home the reality that war is going on in EuropeDescending into the windowless basement of a second world war air-raid bunker built for civilians in central Berlin i…",
+      "url": "https://www.theguardian.com/world/2026/feb/27/ukraine-museum-opens-berlin-air-raid-bunker",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-27T05:00:34+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukraine Museum opens in Berlin air-raid bunker Exhibits pay homage to Ukrainians’ resilience"
+    },
+    {
+      "id": "d5a35a4cb8aa2fa4e0aa5ea51b5d35a77d0a5c49",
+      "title": "The Secret of How Ukraine’s Lifesaving Air-Raid Alarms Work",
+      "summary": "Many in Ukraine assume that the alerts are automated. A rare look inside an emergency-response center reveals the specialists who do the pressure-packed job.",
+      "url": "https://www.nytimes.com/2026/02/26/world/europe/ukraine-russia-kharkiv-air-raid-alarms.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-27T01:59:21+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukraine’s Lifesaving Air-Raid Alarms Work"
+    },
+    {
+      "id": "fe8bd09bd94a982d48501202c45e88df210317d8",
+      "title": "Russia Launches Big Strikes Before U.S.-Ukraine Talks in Geneva",
+      "summary": "Ukrainian officials said they hoped that trilateral peace negotiations could take place next week.",
+      "url": "https://www.nytimes.com/2026/02/26/world/europe/russia-attack-ukraine-talks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-26T23:29:03+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.8,
+      "evidence": "Russia Launches Big Strikes Before U.S.-Ukraine Talks"
+    },
+    {
+      "id": "8d8274c095e155c9bdb33e260843284be205ca9e",
+      "title": "Russia and Ukraine exchange more than 1,000 soldiers' bodies",
+      "summary": "Russia's announcement comes as Ukraine's top negotiator met US peace envoys in Geneva.",
+      "url": "https://www.bbc.com/news/articles/cg7ed4rp7x5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-26T14:28:35+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine's top negotiator met US peace envoys in Geneva"
+    },
     {
       "id": "a1a2233844d9f98ac9c524147545684c57f5f1a2",
       "title": "FIREPOWER: France is following Ukraine’s lead on drone warfare",
@@ -100,6 +144,17 @@
       "evidence": "Torture, Execution For Refusing Orders In Ukraine War"
     },
     {
+      "id": "fe5cec8d002fccfb032eb52c3a67c29e5c86ba84",
+      "title": "Ukrainian negotiators to meet with US representatives on Thursday, Zelenskyy says – Europe live",
+      "summary": "Ukrainian president tells reporters that negotiators are expected to meet with the US later this weekIf you expected some big lines on Ukraine or Europe from Trump’s State of the Union address overnight, well, there was…",
+      "url": "https://www.theguardian.com/world/live/2026/feb/25/ukraine-russia-zelenskyy-putin-orban-eu-hungary-sanctions-germany-china-merz-jinping-continues-europe-latest-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-25T09:25:07+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukrainian negotiators to meet with US"
+    },
+    {
       "id": "872fb7fe6c057556606cf974c1bdc76c1462dd93",
       "title": "FIREPOWER: Ukraine unveils new plan to intercept Russian attacks and win war",
       "summary": "F-35, FCAS, India",
@@ -175,63 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "EU looking at ‘non-standard’ tactics to get Ukraine in"
-    },
-    {
-      "id": "6b129b1d85f7603f1ccc9931c336ac58d514d5d4",
-      "title": "Ukraine Battlefield Dead Could Reach 500,000 in Fifth Year, Estimates Suggest",
-      "summary": "Russia has lost as many as 325,000 troops, according to some estimates, with more than 200,000 deaths verified by researchers.",
-      "url": "https://www.nytimes.com/2026/02/24/world/europe/ukraine-war-deaths.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-24T20:42:26+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Ukraine Battlefield Dead Could Reach 500,000"
-    },
-    {
-      "id": "14a2a84c3d9db61037123ed76c61e8d0fd413653",
-      "title": "Ukraine remembers its dead as war enters a fifth year",
-      "summary": "Events were held across Ukraine to mark four years since Russia launched its full-scale invasion.",
-      "url": "https://www.bbc.com/news/articles/clyg7r3nd3ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-24T18:13:58+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukraine remembers its dead as war enters a fifth year"
-    },
-    {
-      "id": "9cde7d8a6d28879d94a9abb0e3448e1bb37e475e",
-      "title": "Nordics and Baltics issue joint statement in support of Ukraine",
-      "summary": "The leaders of the Baltic states and the Nordic countries, collectively known as the Nordic-Baltic 8 (NB8) gathered in Kyiv, Ukraine on February 24th in a show of support for&nbsp;President of Ukraine Volodymyr Zelenskyy…",
-      "url": "https://eng.lsm.lv/article/politics/diplomacy/24.02.2026-nordics-and-baltics-issue-joint-statement-in-support-of-ukraine.a636234/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-02-24T18:13:00+00:00",
-      "sentiment": "positive",
-      "confidence": 1.0,
-      "evidence": "in support of Ukraine"
-    },
-    {
-      "id": "a6e3f190d2b1b8044a98a5e33a0da48069ece702",
-      "title": "Von der Leyen won’t commit to 2027 EU entry date for Ukraine",
-      "summary": "The EU granted Ukraine candidate status in the aftermath of Russia’s 2022 invasion",
-      "url": "https://www.euractiv.com/news/von-der-leyen-wont-commit-to-2027-eu-entry-date-for-ukraine/",
-      "source": "Euractiv",
-      "published_at": "2026-02-24T17:22:50+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "EU granted Ukraine candidate status"
-    },
-    {
-      "id": "cceca299e87169d0b3574a8f31c7bffb6683b5de",
-      "title": "Braže to UN: 'No-one is safe from Russia’s imperial ambitions'",
-      "summary": "Latvian Foreign Minister Baiba Braže addressed the&nbsp;United Nations General Assembly in New York on 24th February 2026, exactly four years since Russia launched its failed full-scale invasion of Ukraine.",
-      "url": "https://eng.lsm.lv/article/politics/diplomacy/24.02.2026-braze-to-un-no-one-is-safe-from-russias-imperial-ambitions.a636223/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-02-24T16:16:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "failed full-scale invasion of Ukraine"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-26T10:06:57Z"
+  "last_updated": "2026-02-27T09:59:20Z"
 }
