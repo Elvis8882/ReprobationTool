@@ -1,16 +1,27 @@
 {
   "country": "GL",
   "score": 64,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 32,
+  "sources": 34,
   "sentiment": {
     "positive": 4,
-    "neutral": 20,
+    "neutral": 22,
     "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "6917c1e05c02711635e9f9f7faabe4228a1abb92",
+      "title": "Frederiksen’s snap election catches Denmark’s right off guard",
+      "summary": "The prime minister called an early vote after bolstering support at home and capitalising on Greenland tensions",
+      "url": "https://www.euractiv.com/news/frederiksens-snap-election-catches-denmarks-right-off-guard/",
+      "source": "Euractiv",
+      "published_at": "2026-02-27T05:00:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "capitalising on Greenland tensions"
+    },
     {
       "id": "37bc308c69f6551857085b699bd85602288efe0d",
       "title": "Danish PM calls snap election with Greenland issue centre-stage",
@@ -21,6 +32,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "The issue of Greenland, which Donald Trump wants to annex"
+    },
+    {
+      "id": "09be58dd982fe4da9e860aaa101d11682b42791d",
+      "title": "Danish PM calls snap election after Greenland standoff",
+      "summary": "The Danish PM saw a modest polling bump after US President Donald Trump’s renewed threats over Greenland",
+      "url": "https://www.euractiv.com/news/danish-pm-calls-snap-election-after-greenland-standoff/",
+      "source": "Euractiv",
+      "published_at": "2026-02-26T12:02:01+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Greenland standoff"
     },
     {
       "id": "3ac9d13d4f4e61c79081dbce7b1d47205bbc77e7",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.4,
       "evidence": "Since President Trump made threats about Greenland"
-    },
-    {
-      "id": "d75b218859fa3444e8cec3bf5982ce57c3ef5bd8",
-      "title": "Algae Growth on Greenland’s Ice Contributes to Melting, Studies Show",
-      "summary": "New studies show how algae grows on ice and snow, creating “dark zones” that exacerbate melting in the consequential region.",
-      "url": "https://www.nytimes.com/2026/01/30/climate/greenland-algae-melting-icesheet.html",
-      "source": "NYT > World News",
-      "published_at": "2026-01-30T17:11:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Algae Growth on Greenland’s Ice Contributes to Melting, Studies Show"
-    },
-    {
-      "id": "5d7fb34af8c99e0c232ebc009a502b7f711cbb0b",
-      "title": "Greenland threats no laughing matter, says mayor after comic’s flag stunt",
-      "summary": "Avaaraq Olsen tells content creators to think before making jokes after German tried to raise Stars and Stripes in NuukThe mayor of Greenland’s capital has called on media professionals and content creators to act respon…",
-      "url": "https://www.theguardian.com/world/2026/jan/29/greenland-nuuk-comedian-flag-stunt-mayor",
-      "source": "World news - The Guardian",
-      "published_at": "2026-01-29T19:41:34+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Greenland threats no laughing matter, says mayor"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-27T09:59:20Z"
+  "last_updated": "2026-02-28T09:41:01Z"
 }

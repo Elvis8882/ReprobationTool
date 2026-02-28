@@ -1,0 +1,34 @@
+{
+  "id": "0eed5364ca8b823bb5f64d62875c4b6e17d66028",
+  "title": "Trump says U.S. military has begun major combat operations in Iran, Bahrain says U.S. 5th fleet subject to missile attack",
+  "summary_full": "Israeli Defense Minister Israel Katz described the attack as being done “to remove threats.”",
+  "summary_public": "Israeli Defense Minister Israel Katz described the attack as being done “to remove threats.”",
+  "url": "https://www.cnbc.com/2026/02/28/trump-us-military-iran-strikes-middle-east-oil.html",
+  "published_at": "2026-02-28T09:29:51+00:00",
+  "source": "International: Top News And Analysis",
+  "language": "en",
+  "countries_detected": [
+    "IL",
+    "IR"
+  ],
+  "countries_scored": [
+    "IL",
+    "IR"
+  ],
+  "sentiment_by_country": {
+    "IL": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel Katz described the attack"
+    },
+    "IR": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "combat operations in Iran"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-02-28T09:41:01+00:00",
+  "processed_at": "2026-02-28T09:41:01+00:00"
+}

@@ -1,16 +1,48 @@
 {
   "country": "HU",
-  "score": 77,
+  "score": 75,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 100,
+  "trend": -2,
+  "sources": 106,
   "sentiment": {
     "positive": 1,
-    "neutral": 71,
-    "negative": 28
+    "neutral": 74,
+    "negative": 31
   },
   "latest_articles": [
+    {
+      "id": "93702602a80ec621bb512d55fb703775f8f865a4",
+      "title": "Hungary Plays Spoiler in Europe as Orban Strains for Votes at Home",
+      "summary": "Facing a serious election challenge, Prime Minister Viktor Orban is holding up a big E.U. loan for Ukraine. Analysts say the timing is no coincidence.",
+      "url": "https://www.nytimes.com/2026/02/27/world/europe/hungary-orban-europe.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-27T15:31:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Orban is holding up a big E.U. loan for Ukraine."
+    },
+    {
+      "id": "a4c4603f91898d1fc49d7434e68610ab2d9e2308",
+      "title": "EU received 4.2 million immigrants in 2024 - European Commission",
+      "summary": "EU received 4.2 million immigrants in 2024&nbsp;&nbsp;European CommissionEurostat: Cyprus ranks second in the European Union in the ratio of immigrants in 2024&nbsp;&nbsp;ΚΥΠΕNon-EU arrivals still highest as internal mig…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tMGgzdGJ3UmZoam1YNXBWWTR5cWR2dHIwQ2hFbzJiTjRVazJVZ3hzcjlUQjVtNU5IbkVKX1pXNUo5MmJjRkNCR3l4Rm4wV1FhV0tzaUc1aGo2RmNFN1d2a25ibkUxdEZvWERFSW12bDdNREhKbUV4VHdnRDA4Zw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-27T10:15:49+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "13b13123edea4b3f1fcac6150ade8367adc773d4",
+      "title": "Russia and Ukraine agree local ceasefire to allow repairs at Europe’s largest nuclear plant – Europe live",
+      "summary": "The plant relies on external power to keep its nuclear material cool and avoid a catastrophic accidentIt’s six weeks until Hungary will go to the polls and Viktor Orbán increasingly battles for his political future as he…",
+      "url": "https://www.theguardian.com/world/live/2026/feb/27/russia-europe-nuclear-plant-iaea-southern-ukraine-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-27T09:21:03+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Hungary will go to the polls and Viktor Orbán increasingly battles for his political future"
+    },
     {
       "id": "421fe424c0e7ba8c48081f1b7c79b2f3a678a5c8",
       "title": "Mandelson faces EU inquiry into Brussels trade role over Epstein links",
@@ -40,6 +72,39 @@
       "published_at": "2026-02-26T19:07:30+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "8941b4a7e667cc9b6262efaedd14bbc373f9f429",
+      "title": "Hungarian conceptual artist Dóra Maurer dies at 88. - Artsy",
+      "summary": "Hungarian conceptual artist Dóra Maurer dies at 88.&nbsp;&nbsp;ArtsyDóra Maurer obituary&nbsp;&nbsp;The GuardianRemembering Dóra Maurer, Isaiah Zagar, and Peter Stämpfli&nbsp;&nbsp;HyperallergicDóra Maurer, ‘towering fig…",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaGloOEhVbFA0Z09NMFhzaWEyZXlfT3B3M1R6MjZLektSWVJ1WU5HOEZremp6VHU2aUtQTk40OUdpaWNjc2hqLWpKYlZUVVV5VnZZVklYd1VieFJGY2lENFFrZFFnX0RGX1o1WHZDbDBjZW9SMjc4ZnRfSEUyWWtwaUwwUTh1VncyNjZXOEFhOHFQSzc3X0toRg?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-26T12:39:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Hungarian conceptual artist Dóra Maurer dies at 88."
+    },
+    {
+      "id": "b0ccae92a79be4ca8d9ff61a1efd76c886e140ca",
+      "title": "Hungary accuses Ukraine of 'oil blockade,' deploys soldiers to key energy facilities",
+      "summary": "Hungary has accused Ukraine of disrupting oil supplies it gets from Russia and has stationed troops at critical energy facilities across the country.",
+      "url": "https://www.cnbc.com/2026/02/26/hungary-ukraine-oil-blockade-soldiers-energy-facilities-orban-elections-russia-.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-26T08:57:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Hungary accuses Ukraine of 'oil blockade,' deploys soldiers"
+    },
+    {
+      "id": "19ab8d44a9a0ff08b4ee870102248f6531f1a17d",
+      "title": "Orban steps up oil accusations against Ukraine after vetoing EU loan to Kyiv",
+      "summary": "Hungary's prime minister accuses Kyiv of imposing an \"oil blockade\" after Kyiv says a critical pipeline was closed after Russian strikes.",
+      "url": "https://www.bbc.com/news/articles/c5ykq0vqn5go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-26T04:08:25+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "vetoing EU loan to Kyiv"
     },
     {
       "id": "b91a0331d4374436bee25b0f906012b0e948dafb",
@@ -155,72 +220,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Hungary’s campaign into a surreal showdown"
-    },
-    {
-      "id": "90b02b1b010f744b1fc06c4caef2adba495615e8",
-      "title": "The European Union Hits Pause on Its U.S. Trade Deal",
-      "summary": "The E.U. isn’t throwing out the deal it agreed with the United States before President Trump’s tariffs were overruled, but European officials want more clarity first.",
-      "url": "https://www.nytimes.com/2026/02/23/world/europe/eu-us-trade-deal-pause-tariffs.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-23T19:11:32+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "75583f98b339ed7f4c565b13f611f518cab446a6",
-      "title": "EU Support for Ukraine Stumbles as Hungary Looks to Delay Aid",
-      "summary": "Hungary said that it would block both the latest sanctions package on Russia and a financial aid package to Kyiv worth about $106 billion.",
-      "url": "https://www.nytimes.com/2026/02/23/world/europe/ukraine-war-russia-eu-hungary.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-23T19:08:28+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Hungary Looks to Delay Aid"
-    },
-    {
-      "id": "5888478894fc9a5790c14701be29bd8097b6ac0d",
-      "title": "Costa presses Orbán to lift veto on €90bn Ukraine loan",
-      "summary": "Energy spat with Kyiv drives Hungary’s loan blockade",
-      "url": "https://www.euractiv.com/news/costa-presses-orban-to-lift-veto-on-e90bn-ukraine-loan/",
-      "source": "Euractiv",
-      "published_at": "2026-02-23T18:07:20+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Orbán to lift veto on €90bn Ukraine loan"
-    },
-    {
-      "id": "483321bd072545e9d226b3d4a1c165d7adb9b6e7",
-      "title": "Kallas reopens Russian frozen assets option amid Hungary’s Ukraine loan veto",
-      "summary": "The proposal was shelved in December after resistance from several capitals",
-      "url": "https://www.euractiv.com/news/kallas-reopens-russian-frozen-assets-option-amid-hungarys-ukraine-loan-veto/",
-      "source": "Euractiv",
-      "published_at": "2026-02-23T16:47:40+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Hungary’s Ukraine loan veto"
-    },
-    {
-      "id": "44025ecc09c896376c7efea3c78fb7fa3d9f3bb0",
-      "title": "Irate Hungary, Slovakia ‘cannot’ ban electricity flows to Ukraine",
-      "summary": "Blocking electricity exports to war-hit Ukraine would breach EU law, official says",
-      "url": "https://www.euractiv.com/news/irate-hungary-slovakia-cannot-ban-electricity-flows-to-ukraine/",
-      "source": "Euractiv",
-      "published_at": "2026-02-23T14:17:50+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Hungary, Slovakia ‘cannot’ ban electricity flows to Ukraine"
-    },
-    {
-      "id": "cd1ec93f1d4b77cc817c6ad8f2622149dcfe6b0c",
-      "title": "Key figures on food chain – agriculture’s value added - European Commission",
-      "summary": "Key figures on food chain – agriculture’s value added&nbsp;&nbsp;European CommissionAgriculture: Italy fourth in value added relative to GDP, according to Eurostat&nbsp;&nbsp;EunewsPortugal’s agriculture sector above EU…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wRGV5c3ZGdzZBNnFXdlUzQW9UTktCcEQxSmlHZUc3U1FQaWZ2TkVCV2QtUllXNDZPMFo3RGh1b09WQ21MTnVyOFBBcGtMZkFSSjM5clJ2c3d1QV90N1F4bkVZUGJaZWpCU2NlV1VZQ3Y3S2FQWDR6RVA1MTFsZw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-23T10:03:56+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-27T09:59:20Z"
+  "last_updated": "2026-02-28T09:41:01Z"
 }

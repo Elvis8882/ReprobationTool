@@ -1,16 +1,71 @@
 {
   "country": "GB",
-  "score": 61,
+  "score": 60,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 366,
+  "trend": -1,
+  "sources": 373,
   "sentiment": {
     "positive": 41,
-    "neutral": 245,
-    "negative": 80
+    "neutral": 251,
+    "negative": 81
   },
   "latest_articles": [
+    {
+      "id": "a4eb608c93f1ba8a76de7506d5cf4bfd36874bfc",
+      "title": "Deaths of 22 children in Channel due to ‘catastrophic failure’ by UK and France, NGO says",
+      "summary": "Project Play finds UK taxpayers are funding ‘record child fatalities’ and ‘repeated violence’ against children in northern FranceThe deaths of 22 children while trying to cross the Channel in the last two years, along wi…",
+      "url": "https://www.theguardian.com/uk-news/2026/feb/28/children-deaths-channel-catastrophic-failure-uk-france-project-play",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-28T08:00:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "catastrophic failures” of the UK and French governments"
+    },
+    {
+      "id": "622b16b6f853f3ac6da9fa4a681e0da1c2664a8e",
+      "title": "Poisoned chalice? The BBC’s struggles to find a successor to Tim Davie",
+      "summary": "As the director general prepares to stand down, potential candidates have fallen away amid a series of crisesThere is an impressive shortlist circulating in Britain’s media circles, comprising some of the most talented e…",
+      "url": "https://www.theguardian.com/media/2026/feb/28/bbc-struggles-to-find-a-successor-to-tim-davie-director-general",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-28T08:00:05+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "The BBC’s struggles to find a successor to Tim Davie"
+    },
+    {
+      "id": "819c6191e24da82b4a4ab737a8de690e97de5798",
+      "title": "Labour anxiety and accusations after big shift in Muslim vote to Greens",
+      "summary": "PM criticises ‘sectarian politics’ in byelection but party may fear Greens’ nascent leftwing political machineThe Green party’s success at winning Muslim votes in Gorton and Denton has sent tremors through Westminster, p…",
+      "url": "https://www.theguardian.com/politics/2026/feb/28/labour-green-party-muslim-voters-gorton-denton",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-28T07:00:06+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "major realignment in British politics"
+    },
+    {
+      "id": "b7af65fe47a659da5b78dd7c6a2b47b50b950422",
+      "title": "‘The kinetic energy is palpable’: Manchester embraces its first Brit awards",
+      "summary": "Event’s first venture outside London aims to recognise geographical diversity of UK’s music talentVisitors to Manchester this week have been visibly amused to be arriving into Olivia Deansgate station, with many posing f…",
+      "url": "https://www.theguardian.com/music/2026/feb/28/manchester-first-brit-awards-olivia-dean",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-28T06:00:03+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Manchester embraces its first Brit awards"
+    },
+    {
+      "id": "e2de34c881721814c01605efbf87bfaced2101ce",
+      "title": "UK PM Keir Starmer suffers major blow after his party comes third in key vote",
+      "summary": "The result in a seat that Labour has dominated for nearly a century represents an embarrassing setback for the prime minister.",
+      "url": "https://www.cnbc.com/2026/02/27/uk-election-gorton-denton-greens-labour-reform-starmer.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-02-27T09:34:24+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "UK PM Keir Starmer suffers major blow after his party comes third"
+    },
     {
       "id": "6eb98abe0699024f4ddb2e268cbd04686aeb7d4e",
       "title": "Gorton and Denton byelection: Polanski says Greens best party to defeat Reform after Hannah Spencer wins – UK politics live",
@@ -21,6 +76,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "UK politics live"
+    },
+    {
+      "id": "b07b02cac9d42ef6fbd6b075183420ff75367d28",
+      "title": "Green Party Defeats Labour in U.K. Special Election, in Blow to Starmer",
+      "summary": "The result marks the first time the Greens have won a British parliamentary by-election and signals the frustration of left-leaning voters with Prime Minister Keir Starmer.",
+      "url": "https://www.nytimes.com/2026/02/26/world/europe/gorton-denton-result-green-party-labour.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-27T08:36:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Green Party Defeats Labour in U.K. Special Election"
     },
     {
       "id": "2bd6fc24c43fb7d9138550085d7c30bcd63bdc5a",
@@ -164,74 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Drax Takes Hit on Biomass Projects in UK as Profit Falls"
-    },
-    {
-      "id": "c17e4ed95c760641374c42061e45f3486a0a4890",
-      "title": "‘Magic beneath the surface’: pioneering geothermal plant launched in Cornwall - The Guardian",
-      "summary": "‘Magic beneath the surface’: pioneering geothermal plant launched in Cornwall&nbsp;&nbsp;The GuardianEarth's heat to power 10,000 homes in renewable energy first for UK&nbsp;&nbsp;BBCUK’s first commercial lithium plant o…",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWJFSFphU3E4TEx5WUc4SEQtdE1WVVB1NjBvWkpJc2h1U042aDdmQjNfRDFOUThxaWF0dEZqQmpPdEFwR0U0dklGOTBJNXFCVDRsdDl1TzllMGNIY3R2MG9RQzZDS1dvZzlhbVk4bUFyeUw3bVZGNmp2a2tUOEVaX29MR0lHSXhTQWFqSktfNWwxMDJIUmE0?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-26T07:19:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "pioneering geothermal plant launched in Cornwall"
-    },
-    {
-      "id": "c3aa54fb9da8fc2dafe4b0a69422fd2bd75701b4",
-      "title": "The Gorton and Denton By-Election Comes at a Bad Time for Keir Starmer",
-      "summary": "A parliamentary by-election in Gorton and Denton, outside Manchester, will test support for Britain’s prime minister at a moment of intense political pressure.",
-      "url": "https://www.nytimes.com/2026/02/26/world/europe/gorton-denton-byelection-uk-starmer.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-26T05:01:09+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "parliamentary by-election in Gorton and Denton"
-    },
-    {
-      "id": "7fee6a0fcd675ff1e8f60b21035fc2731ceab5b8",
-      "title": "British passport holders in UAE and the Gulf warned: New UK travel rules could disrupt next trip for expats or dual nationals",
-      "summary": "New UK border rules from February 25, 2026, are causing travel chaos for dual British citizens, especially those in the UAE.  They can no longer use foreign passports to enter the UK, requiring a British passport or a co…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/british-passport-holders-in-uae-and-the-gulf-warned-new-uk-travel-rules-could-disrupt-next-trip-for-expats-or-dual-nationals/articleshow/128795397.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-02-25T22:05:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "New UK travel rules could disrupt next trip for expats"
-    },
-    {
-      "id": "6c6af07e5b35a8886a6f3bda265fca2056d98222",
-      "title": "British public want deeper economic ties with EU, business secretary says",
-      "summary": "Peter Kyle signs cooperation deal on competition and says it is not a case of being nostalgic for pre-Brexit pastThe British public are “not nostalgic” for the pre-Brexit past but are pragmatic and want to move forward a…",
-      "url": "https://www.theguardian.com/politics/2026/feb/25/british-public-want-deeper-economic-ties-eu-business-secretary-says",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-25T18:11:16+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "deeper economic ties with EU"
-    },
-    {
-      "id": "7482ca69bb5024e905e8417f9922a25149c5678e",
-      "title": "How the UK Could Remove Former Prince Andrew From the Royal Line of Succession",
-      "summary": "Despite his connections with the sex offender Jeffrey Epstein, the former prince is eighth in line to the British throne. That could change.",
-      "url": "https://www.nytimes.com/2026/02/25/world/europe/uk-royal-line-succession-prince-andrew-epstein.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-25T16:55:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "How the UK Could Remove Former Prince Andrew"
-    },
-    {
-      "id": "04c4d4127a8f94cf53a3fe9598538757ca3aab68",
-      "title": "Gorton and Denton byelection campaign hits final day with new poll saying it is too close to call who will win – UK politics live",
-      "summary": "Opinium poll says it is ‘incredibly tight’ between Reform UK, Greens and Labour and all have a credible chance of winning Byelection coverage in the UK would probably be much improved if MPs were only allowed to resign,…",
-      "url": "https://www.theguardian.com/politics/live/2026/feb/25/gorton-and-denton-byelection-campaign-greens-labour-reform-uk-politics-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-25T09:38:23+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": ""
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-27T09:59:20Z"
+  "last_updated": "2026-02-28T09:41:01Z"
 }

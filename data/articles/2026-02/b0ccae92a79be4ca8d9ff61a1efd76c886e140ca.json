@@ -17,8 +17,25 @@
     "RU",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-02-27T09:59:20+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-02-28T09:41:01+00:00",
+  "sentiment_by_country": {
+    "HU": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Hungary accuses Ukraine of 'oil blockade,' deploys soldiers"
+    },
+    "RU": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "oil supplies it gets from Russia"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "accused Ukraine of disrupting oil supplies"
+    }
+  },
+  "processed_at": "2026-02-28T09:41:01+00:00"
 }
