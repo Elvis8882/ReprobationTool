@@ -1,12 +1,12 @@
 {
   "country": "NL",
-  "score": 79,
+  "score": 80,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 103,
+  "trend": 1,
+  "sources": 104,
   "sentiment": {
-    "positive": 8,
+    "positive": 9,
     "neutral": 91,
     "negative": 4
   },
@@ -144,6 +144,17 @@
       "sentiment_fallback": true
     },
     {
+      "id": "9d07013303d34a5fd1b03621d283346f33f553b5",
+      "title": "Rob Jetten becomes Netherlands' youngest ever PM",
+      "summary": "The 38-year-old is sworn in as premier after clinching a narrow victory in October's election.",
+      "url": "https://www.bbc.com/news/articles/clygj3421pqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-02-23T16:33:33+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Netherlands' youngest ever PM"
+    },
+    {
       "id": "c159cdfb2ec5adc04cf6ca818ccac8b17dca912d",
       "title": "New Dutch PM takes office facing battle over €5bn ‘Freedom Contribution’",
       "summary": "For the first time since the Second World War, a Dutch cabinet takes office without a parliamentary majority",
@@ -206,19 +217,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "New Dutch government to be sworn in"
-    },
-    {
-      "id": "d4e9556d57f58376cfa253f809d56547a48bc89c",
-      "title": "Duterte refuses to attend ICC pre-trial hearing, as former Philippine leader’s ‘drug war’ case begins",
-      "summary": "Duterte, 80, is accused of crimes against humanity over an anti-drugs crackdown in which thousands of people were killed in south-east Asian countryThe pre-trial hearing for former Philippine leader Rodrigo Duterte for h…",
-      "url": "https://www.theguardian.com/world/2026/feb/23/rodrigo-duterte-drug-war-case-icc-pre-trial-hearing-international-criminal-court-ntwnfb",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-23T01:32:59+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "flown to The Hague last year"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-28T09:41:01Z"
+  "last_updated": "2026-03-01T09:45:48Z"
 }

@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 1,
+  "sources": 2,
   "sentiment": {
     "positive": 1,
-    "neutral": 0,
+    "neutral": 1,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "66e8f4c5df8a9efb32e17aafcb075ab08f122dee",
+      "title": "Decision to allow UK exports to Armenian firm under review over Russian links",
+      "summary": "Cygnet Texkimp was approved to export machines to Rydena, but ministers examining deal after Guardian highlighted founders’ links to Kremlin military supply chainMinisters are reviewing a decision to allow a British comp…",
+      "url": "https://www.theguardian.com/politics/2026/feb/28/decision-allow-uk-exports-cygnet-texkimp-armenian-firm-review-russian-links",
+      "source": "World news - The Guardian",
+      "published_at": "2026-02-28T13:00:12+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "export machines to Rydena"
+    },
     {
       "id": "56eb6197bfbd9b799a2fc38ba4dc2655491d295e",
       "title": "Vance visits Armenia, Azerbaijan as Trump eyes deals in Russia’s sphere",
@@ -24,5 +35,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-28T09:41:01Z"
+  "last_updated": "2026-03-01T09:45:48Z"
 }

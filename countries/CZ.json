@@ -1,14 +1,14 @@
 {
   "country": "CZ",
-  "score": 62,
+  "score": 61,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 70,
+  "trend": -1,
+  "sources": 71,
   "sentiment": {
     "positive": 2,
     "neutral": 64,
-    "negative": 4
+    "negative": 5
   },
   "latest_articles": [
     {
@@ -20,6 +20,17 @@
       "published_at": "2026-02-27T10:15:49+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "c4f77f515254f28e254d66d05a4be09e833c8f4e",
+      "title": "Keep EU drug price agreements confidential or risk market disruption [Advocacy Lab]",
+      "summary": "US benchmarking of drug prices against foreign markets could have unintended consequences, says Czech health economist Tomáš Doležal, he urges EU to protect pricing confidentiality",
+      "url": "https://www.euractiv.com/news/keep-eu-drug-price-agreements-confidential-or-risk-market-disruption/",
+      "source": "Euractiv",
+      "published_at": "2026-02-26T23:05:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "risk market disruption [Advocacy Lab]"
     },
     {
       "id": "421fe424c0e7ba8c48081f1b7c79b2f3a678a5c8",
@@ -201,18 +212,8 @@
       "published_at": "2026-02-19T10:03:42+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "4d81abf151dff772f8dc7023c9f844903597c6b7",
-      "title": "Brussels caught off-guard as von der Leyen targets electricity market",
-      "summary": "The European Commission president has again promised a rethink of Europe's complicated single-market",
-      "url": "https://www.euractiv.com/news/brussels-caught-off-guard-as-von-der-leyen-targets-electricity-market/",
-      "source": "Euractiv",
-      "published_at": "2026-02-19T05:00:28+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-28T09:41:01Z"
+  "last_updated": "2026-03-01T09:45:48Z"
 }

@@ -15,8 +15,20 @@
     "HU",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-02-28T09:41:01+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-01T09:45:48+00:00",
+  "sentiment_by_country": {
+    "HU": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "EU leaders panned Orbán for Hungary's obstruction to Ukraine support"
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.5,
+      "evidence": "Unwavering support? Ukraine support measures"
+    }
+  },
+  "processed_at": "2026-03-01T09:45:48+00:00"
 }

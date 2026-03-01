@@ -13,8 +13,15 @@
   "countries_scored": [
     "IS"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-02-28T09:41:01+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-01T09:45:48+00:00",
+  "sentiment_by_country": {
+    "IS": {
+      "label": "neutral",
+      "confidence": 0.5,
+      "evidence": "Iceland to set date for EU talks vote"
+    }
+  },
+  "processed_at": "2026-03-01T09:45:48+00:00"
 }

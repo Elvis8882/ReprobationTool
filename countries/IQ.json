@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 69,
+  "score": 66,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 12,
+  "trend": -3,
+  "sources": 13,
   "sentiment": {
     "positive": 2,
     "neutral": 8,
-    "negative": 2
+    "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "746b361e76227c6bde717052a82f7dbccd97bfcd",
+      "title": "From Pak To Iraq, Protesters Storm US Consulates Over Khamenei's Death",
+      "summary": "Protests in Pakistan's Karachi led to the deaths of eight people.",
+      "url": "https://www.ndtv.com/world-news/mob-barges-into-us-consulate-in-pak-sets-portions-of-building-afire-over-iran-11153134#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-01T08:21:19+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "To Iraq, Protesters Storm US Consulates"
+    },
     {
       "id": "77c4a0970d933d249fbb2fd37c01a0b8e6e59c96",
       "title": "Iran Shutters Airspace After Israel Strikes, Trackers Show Planes Rerouting",
@@ -145,5 +156,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-28T09:41:01Z"
+  "last_updated": "2026-03-01T09:45:48Z"
 }

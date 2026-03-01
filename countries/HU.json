@@ -1,16 +1,27 @@
 {
   "country": "HU",
-  "score": 75,
+  "score": 73,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": -2,
-  "sources": 106,
+  "sources": 109,
   "sentiment": {
     "positive": 1,
     "neutral": 74,
-    "negative": 31
+    "negative": 34
   },
   "latest_articles": [
+    {
+      "id": "7b81bcfbebd26e873543494db2bf847958dcd5ed",
+      "title": "Editors’ Choice: Unwavering support?",
+      "summary": "While EU leaders panned Orbán for Hungary's obstruction to Ukraine support measures, the gap between rhetoric and action is growing across the Union",
+      "url": "https://www.euractiv.com/opinion/editors-choice-unwavering-support/",
+      "source": "Euractiv",
+      "published_at": "2026-02-27T16:45:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "EU leaders panned Orbán for Hungary's obstruction to Ukraine support"
+    },
     {
       "id": "93702602a80ec621bb512d55fb703775f8f865a4",
       "title": "Hungary Plays Spoiler in Europe as Orban Strains for Votes at Home",
@@ -21,6 +32,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Orban is holding up a big E.U. loan for Ukraine."
+    },
+    {
+      "id": "f121f90b6acd02699ff9fbec58448d34a47a5208",
+      "title": "Slovakia, Hungary push ‘fact-finding mission’ in Soviet-era pipeline spat",
+      "summary": "The Druzhba pipeline was damaged after Russian strikes last month, halting deliveries to Slovakia and Hungary",
+      "url": "https://www.euractiv.com/news/slovakia-hungary-push-fact-finding-mission-in-soviet-era-pipeline-spat/",
+      "source": "Euractiv",
+      "published_at": "2026-02-27T13:11:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "halted deliveries to Slovakia and Hungary"
     },
     {
       "id": "a4c4603f91898d1fc49d7434e68610ab2d9e2308",
@@ -83,6 +105,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Hungarian conceptual artist Dóra Maurer dies at 88."
+    },
+    {
+      "id": "a05a4b15c3cd600c80f57e66fbd8c21a71e58e0d",
+      "title": "Hungary breached free speech in broadcasting case, CJEU rules",
+      "summary": "Hungarian regulator broke EU law when it refused licence renewal of an independent radio station critical of the government, top court rules",
+      "url": "https://www.euractiv.com/news/hungary-breached-free-speech-in-broadcasting-case-cjeu-rules/",
+      "source": "Euractiv",
+      "published_at": "2026-02-26T09:49:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Hungary breached free speech in broadcasting case, CJEU rules"
     },
     {
       "id": "b0ccae92a79be4ca8d9ff61a1efd76c886e140ca",
@@ -188,40 +221,8 @@
       "published_at": "2026-02-24T10:04:07+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "7c7e6cbcfec3002303b0a940e1900478f4cab6d2",
-      "title": "Ušakovs leaves board of Harmony party",
-      "summary": "Member of the European Parliament (EP) Nils Ušakovs has left the board of the Harmony party, LETA reports on 24th February.",
-      "url": "https://eng.lsm.lv/article/politics/politics/24.02.2026-usakovs-leaves-board-of-harmony-party.a636140/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-02-24T09:46:03+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "1fb0e7a3b97921e9c7cf637f80bfcc0e38d4806a",
-      "title": "Foreign Affairs Council: Press conference by High Representative Kaja Kallas - EEAS",
-      "summary": "Foreign Affairs Council: Press conference by High Representative Kaja Kallas&nbsp;&nbsp;EEASEU fails to agree on new sanctions on Russia ahead of fourth anniversary of war – Europe live&nbsp;&nbsp;The GuardianEU Support…",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc3Z5NWg2YzhZbjAtZ3RlVF81dFpqZmdvRDF1MVkyNC1OOTM4dlZMYlVTOTV5dHRCZzd5SFd4Z19qa2VXYlZ4dHdaaDdUcllYOVE3SnNkWjQ3THMyOEFDRFJ6Y3YwLVQ2S0RLUTNsSGh0WTNtbjBzMC1LejZ6S2tqY21oSWRFODA3d2VpSUNYelJpSmt5OUpUVDB4VlBHRE1yVU8xR3JxWWxUWURtSnc?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-24T07:30:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Hungary Looks to Delay Aid"
-    },
-    {
-      "id": "469d11824cc670e9466934c6bfec5e2dea382e1c",
-      "title": "Hungarian hardcore: sex, lies and no videotape",
-      "summary": "As Viktor Orbán faces his stiffest electoral test in more than a decade, a phantom sex tape, AI-fuelled propaganda and escalating smear tactics have thrust Hungary’s campaign into a surreal showdown where insinuation may…",
-      "url": "https://www.euractiv.com/news/hungarian-hardcore-sex-lies-and-no-videotape/",
-      "source": "Euractiv",
-      "published_at": "2026-02-24T05:00:54+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Hungary’s campaign into a surreal showdown"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-28T09:41:01Z"
+  "last_updated": "2026-03-01T09:45:48Z"
 }

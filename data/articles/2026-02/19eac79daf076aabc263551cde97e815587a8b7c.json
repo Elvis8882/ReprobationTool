@@ -13,8 +13,15 @@
   "countries_scored": [
     "IR"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-02-28T09:41:01+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-01T09:45:48+00:00",
+  "sentiment_by_country": {
+    "IR": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "President Trump said Iran directly endangers the United States and urged the Iranian people to rise up"
+    }
+  },
+  "processed_at": "2026-03-01T09:45:48+00:00"
 }

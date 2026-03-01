@@ -1,16 +1,27 @@
 {
   "country": "MA",
   "score": 55,
-  "score_label": "Negative",
-  "assessment": "High negative coverage",
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 4,
+  "sources": 5,
   "sentiment": {
     "positive": 0,
-    "neutral": 2,
+    "neutral": 3,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "01bf222efff24a32692fd9d06424188e46149b44",
+      "title": "Epstein tried to buy a palace in Morocco days before his arrest in 2019 - BBC",
+      "summary": "Epstein tried to buy a palace in Morocco days before his arrest in 2019&nbsp;&nbsp;BBCView Full coverage on Google News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13NEluZlJJSWRJUTVSa2FjS2VmQlFOajBOZE0tY1hiNmR3UTd6UXA2Y0toY0FIRloweVFJQlQ4T25hNDBubzU5anNDeUJFc2lab0ViME1pSi1Ydw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-02-27T06:02:12+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Epstein tried to buy a palace in Morocco days before his arrest"
+    },
     {
       "id": "064abd164dd54624d2eca8da61de124584b2bf58",
       "title": "‘A devastating force’: how recent Mediterranean storms turned to tragedies",
@@ -57,5 +68,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-02-28T09:41:01Z"
+  "last_updated": "2026-03-01T09:45:48Z"
 }
