@@ -4,13 +4,57 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 8,
+  "sources": 12,
   "sentiment": {
     "positive": 0,
     "neutral": 2,
-    "negative": 6
+    "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "8daf558e6446cec4cdf48f56a9bbd1ad17e9b9a0",
+      "title": "Live Updates: War With Iran Escalates as Israel Strikes Hezbollah in Lebanon",
+      "summary": "The Iran-backed militant group launched rockets into Israel as Iran fired on Israel and Arab states. President Trump told The New York Times that the U.S. planned to keep up the assault on Iran for “four or five weeks.”",
+      "url": "https://www.nytimes.com/live/2026/03/02/world/iran-us-israel-attack-trump",
+      "source": "NYT > World News",
+      "published_at": "2026-03-02T09:51:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Israel Strikes Hezbollah in Lebanon"
+    },
+    {
+      "id": "865a7eb045dc8f32cbf972b22e308600318afb4c",
+      "title": "US-Israel war on Iran live: conflict spreads to Lebanon and wider region, as Kuwait reports ‘several’ US warplanes crashing",
+      "summary": "Israeli military says fighting Iran-backed Hezbollah could take ‘many’ more days; US crew bailed out safely after crash-landing, says KuwaitPodcast: The assassination of Iran’s ayatollahHave you been affected by events i…",
+      "url": "https://www.theguardian.com/world/live/2026/mar/02/us-israel-war-iran-live-updates-attacks-strikes-tehran-lebanon-beirut-hezbollah-dubai-latest-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-02T09:47:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "conflict spreads to Lebanon and wider region"
+    },
+    {
+      "id": "3c5505da72676a246233abc73e6af686ab4afd33",
+      "title": "Live updates: Israel strikes Hezbollah in Lebanon as Iran conflict spreads across region",
+      "summary": "Three U.S. service members have been killed, and President Donald Trump said “there will likely be more” with U.S.-Israeli operations set to continue for weeks.",
+      "url": "https://www.washingtonpost.com/world/2026/03/02/us-israel-iran-hezbollah-military-strikes-live-updates/",
+      "source": "World (Washington post)",
+      "published_at": "2026-03-02T09:35:14+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel strikes Hezbollah in Lebanon"
+    },
+    {
+      "id": "cc9472cf6645048ede1b60aed3b3fff6a2dfe3ac",
+      "title": "Israel Strikes Beirut After Hezbollah Attacks",
+      "summary": "Residents fled in panic as Israeli jets struck Hezbollah strongholds in response to a midnight barrage, an expansion of the war between Israel, the U.S. and Iran.",
+      "url": "https://www.nytimes.com/2026/03/01/world/middleeast/israel-strikes-beirut-hezbollah.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-02T05:33:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Israel Strikes Beirut After Hezbollah Attacks"
+    },
     {
       "id": "cb1036c9c927513dfe862e5ac75900e6e6b14a1e",
       "title": "Israeli strikes hit southern Lebanon’s al-Tuffah region, Markaba: Reports - Al Jazeera",
@@ -101,5 +145,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-01T09:45:48Z"
+  "last_updated": "2026-03-02T10:09:10Z"
 }

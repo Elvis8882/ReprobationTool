@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 95,
+  "sources": 96,
   "sentiment": {
     "positive": 11,
-    "neutral": 73,
+    "neutral": 74,
     "negative": 11
   },
   "latest_articles": [
+    {
+      "id": "9c487904034b487bfecae87f756bb7a303d46fad",
+      "title": "THE HACK: A trojan horse within the Digital Networks Act?",
+      "summary": "In today's edition: New Google adtech case, AI Act's transparency lack, Poland social media ban",
+      "url": "https://www.euractiv.com/news/the-hack-a-trojan-horse-within-the-digital-networks-act/",
+      "source": "Euractiv",
+      "published_at": "2026-03-02T08:50:30+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Poland social media ban"
+    },
     {
       "id": "b71988b424caab37a81ae2fc2c2c5ba1e311e712",
       "title": "Polish parliament supports EU defence loan against political opposition",
@@ -208,19 +219,8 @@
       "published_at": "2026-02-23T10:03:56+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "117bbc596b8b80231dfdb6c827ba57d8f33128e3",
-      "title": "FIREPOWER: Poland’s SAFE plan under threat amidst political fallout",
-      "summary": "Elbit, E5, PURL",
-      "url": "https://www.euractiv.com/news/firepower-polands-safe-plan-under-threat-amidst-political-fallout/",
-      "source": "Euractiv",
-      "published_at": "2026-02-23T09:55:08+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Poland’s SAFE plan under threat amidst political fallout"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-01T09:45:48Z"
+  "last_updated": "2026-03-02T10:09:10Z"
 }

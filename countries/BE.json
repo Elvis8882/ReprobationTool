@@ -1,16 +1,38 @@
 {
   "country": "BE",
-  "score": 93,
+  "score": 94,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 135,
+  "trend": 1,
+  "sources": 137,
   "sentiment": {
-    "positive": 15,
-    "neutral": 103,
+    "positive": 16,
+    "neutral": 104,
     "negative": 17
   },
   "latest_articles": [
+    {
+      "id": "269f7825a9555cace7d86cab071ec0382de992a0",
+      "title": "Belgium seizes Russian ‘shadow fleet’ tanker",
+      "summary": "\"Sanctions only matter if they are enforced. Today, we enforced them,\" Belgium's deputy prime minister said",
+      "url": "https://www.euractiv.com/news/belgium-seizes-russian-shadow-fleet-tanker/",
+      "source": "Euractiv",
+      "published_at": "2026-03-01T09:45:29+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Belgium seizes Russian ‘shadow fleet’ tanker"
+    },
+    {
+      "id": "3c4edc2f29fc10d9c9a927d1962be2f995fd7eb5",
+      "title": "AI literacy is not a luxury, but Brussels is failing to see the danger",
+      "summary": "As uncertainty grows about AI’s expanding capabilities, the EU's best shot at gaining a competitive advantage is to foster an AI ecosystem rooted in trust",
+      "url": "https://www.euractiv.com/opinion/ai-literacy-is-not-a-luxury-but-brussels-is-failing-to-see-the-danger/",
+      "source": "Euractiv",
+      "published_at": "2026-03-01T05:00:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "Brussels is failing to see the danger"
+    },
     {
       "id": "a88a1709459bb94735bd42e88f2ce46116e3aed6",
       "title": "The EU’s smaller-is-better moment",
@@ -200,29 +222,8 @@
       "published_at": "2026-02-24T09:46:03+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "e985984c1d791b79725afc687ab7720d43930dc7",
-      "title": "IARC at the European Cancer Screening and Early Detection Policy Summit in Brussels - International Agency for Research on Cancer",
-      "summary": "IARC at the European Cancer Screening and Early Detection Policy Summit in Brussels&nbsp;&nbsp;International Agency for Research on CancerFrom Data Harmonisation to Artificial Intelligence: EUCanScreen Modernises Cancer…",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWktnckI1dWhOQjc2SjNxZ0VWUDNnc1ZNU2poMEtYS2FpZXMxV0I3c1JpaXhVM1V6OHo3VHBRUWtSaXBSM2ZfWVJVaHVOMDNaa181SUxOQWI4T18yWV9iQlQ3NV9LYkhqSnZsR2ZpY0FZUElmbGtxRU1Dd002djNiTkRnWHBITVBXOHlGZGpjMWI2bmlrQU9SY3l3QnR6UGE0NU43aU0yS2pWN0ZYTTVPSkp1VGt1bW5iakg0NXVn?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-23T19:59:52+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "European Cancer Screening and Early Detection Policy Summit in Brussels"
-    },
-    {
-      "id": "90b02b1b010f744b1fc06c4caef2adba495615e8",
-      "title": "The European Union Hits Pause on Its U.S. Trade Deal",
-      "summary": "The E.U. isn’t throwing out the deal it agreed with the United States before President Trump’s tariffs were overruled, but European officials want more clarity first.",
-      "url": "https://www.nytimes.com/2026/02/23/world/europe/eu-us-trade-deal-pause-tariffs.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-23T19:11:32+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-01T09:45:48Z"
+  "last_updated": "2026-03-02T10:09:10Z"
 }

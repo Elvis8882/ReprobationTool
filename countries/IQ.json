@@ -1,16 +1,38 @@
 {
   "country": "IQ",
-  "score": 66,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": -3,
-  "sources": 13,
+  "score": 64,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": -2,
+  "sources": 16,
   "sentiment": {
     "positive": 2,
-    "neutral": 8,
-    "negative": 3
+    "neutral": 10,
+    "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "2de08c2a0d529fe758e4fcc05cf987013f981fa4",
+      "title": "‘Simply not true’ UK is being dragged into Iraq-style conflict, says foreign secretary",
+      "summary": "Yvette Cooper says plans under consideration to evacuate about 300,000 Britons from Middle East amid Iran warUS-Israel war on Iran – live updatesIt is “simply not true” that the UK is being dragged into another Iraq-styl…",
+      "url": "https://www.theguardian.com/world/2026/mar/02/uk-foreign-secretary-us-israel-war-on-iran",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-02T08:29:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "UK is being dragged into another Iraq-style conflict"
+    },
+    {
+      "id": "3bb3f60c763a6839bc10ae406eb9df63cf0458dc",
+      "title": "US-Israel war on Iran live: Israel launches new wave of attacks ‘in the heart of Tehran’ after death of Ayatollah Ali Khamenei",
+      "summary": "Sirens in Jerusalem and Tel Aviv as Iran retaliates in strikes that also hit across Middle East regionFull report: Ayatollah Ali Khamenei killedA visual guide to the US-Israeli strikes on Iran – and Tehran’s responseWar…",
+      "url": "https://www.theguardian.com/us-news/live/2026/mar/01/us-israel-war-on-iran-ayatollah-ali-khamenei-i-dead-latest-reports",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-01T09:16:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Loud explosions were heard early on Sunday near Erbil airport"
+    },
     {
       "id": "746b361e76227c6bde717052a82f7dbccd97bfcd",
       "title": "From Pak To Iraq, Protesters Storm US Consulates Over Khamenei's Death",
@@ -21,6 +43,17 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "To Iraq, Protesters Storm US Consulates"
+    },
+    {
+      "id": "d7e6b2003bec7c9effbe523a2e08de917778b9b4",
+      "title": "Opinion: Opinion | Who Gets The 'Peace Prize' Now, Mr Trump - The Drones Or The Bombers?",
+      "summary": "A president who returned to the White House on the promise of ending 'Forever Wars' - and wanted a Nobel Peace Prize, no less - now presides over the largest American military build-up in the region since the infamous Ir…",
+      "url": "https://www.ndtv.com/opinion/us-israel-iran-war-who-gets-the-peace-prize-now-mr-trump-11153300#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-01T07:55:16+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "largest American military build-up in the region since the infamous Iraq war."
     },
     {
       "id": "77c4a0970d933d249fbb2fd37c01a0b8e6e59c96",
@@ -156,5 +189,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-01T09:45:48Z"
+  "last_updated": "2026-03-02T10:09:10Z"
 }

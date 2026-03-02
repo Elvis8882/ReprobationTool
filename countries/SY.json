@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 35,
+  "sources": 36,
   "sentiment": {
     "positive": 2,
     "neutral": 19,
-    "negative": 14
+    "negative": 15
   },
   "latest_articles": [
+    {
+      "id": "e52c6a6d495b8f1400c0fcfeb255d19396bfeb3c",
+      "title": "Angus Taylor snaps at journalist as Liberals ramp up rhetoric against Australian children in Syrian camp",
+      "summary": "Opposition leader suggests 23 children and 11 women attempting to leave al-Roj are Islamic State ‘sympathisers’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news pod…",
+      "url": "https://www.theguardian.com/australia-news/2026/mar/02/angus-taylor-islamic-state-syria-comments-ntwnfb",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-02T05:11:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "children in Syrian camp are “Isis sympathisers”"
+    },
     {
       "id": "eb693074d4e1f5009ec6603fbb6d7db7d885babc",
       "title": "Beacon of (shrinking) aid",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Women from Syria's Alawite minority tell of kidnap and rape"
-    },
-    {
-      "id": "982c65cc74ade3e017f0e7ab568ba9f492e09ca3",
-      "title": "Syrian Army Crosses New Threshold With Advances in Kurdish Regions",
-      "summary": "The advance of the Syrian Army into Kurdish regions could put nearly all the country under one authority. But it ends a dream of autonomy for ethnic Kurds.",
-      "url": "https://www.nytimes.com/2026/02/16/world/middleeast/syria-army-kurds-war.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-16T20:41:07+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Syrian Army Crosses New Threshold With Advances"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-01T09:45:48Z"
+  "last_updated": "2026-03-02T10:09:10Z"
 }
