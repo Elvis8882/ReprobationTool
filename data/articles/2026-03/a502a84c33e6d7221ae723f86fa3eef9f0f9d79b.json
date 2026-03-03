@@ -1,0 +1,41 @@
+{
+  "id": "a502a84c33e6d7221ae723f86fa3eef9f0f9d79b",
+  "title": "Trump Signals U.S. Is Prepared for a Long War Against Iran",
+  "summary_full": "President Trump also declined to rule out sending ground troops into Iran as the conflict spread into the Gulf countries and Lebanon and Israel exchanged strikes.",
+  "summary_public": "President Trump also declined to rule out sending ground troops into Iran as the conflict spread into the Gulf countries and Lebanon and Israel exchanged strikes.",
+  "url": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-war-us-israel-trump.html",
+  "published_at": "2026-03-02T23:00:12+00:00",
+  "source": "NYT > World News",
+  "language": "en",
+  "countries_detected": [
+    "IL",
+    "IR",
+    "LB"
+  ],
+  "countries_scored": [
+    "IL",
+    "IR",
+    "LB"
+  ],
+  "sentiment_by_country": {
+    "IL": {
+      "label": "negative",
+      "confidence": 0.5,
+      "evidence": "Israel exchanged strikes"
+    },
+    "IR": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Prepared for a Long War Against Iran"
+    },
+    "LB": {
+      "label": "negative",
+      "confidence": 0.5,
+      "evidence": "Lebanon and Israel exchanged strikes"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-03T10:03:36+00:00",
+  "processed_at": "2026-03-03T10:03:36+00:00"
+}

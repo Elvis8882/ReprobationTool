@@ -1,0 +1,41 @@
+{
+  "id": "3d518d2842bd351abdb836ba8aa477542b73da97",
+  "title": "Hezbollah Plunges Lebanon Back Into War Despite Its Weakness",
+  "summary_full": "The militant group’s attacks, apparently at the behest of Iran, led to retaliation from Israel and were “practically a suicide mission” for Hezbollah, an analyst said.",
+  "summary_public": "The militant group’s attacks, apparently at the behest of Iran, led to retaliation from Israel and were “practically a suicide mission” for Hezbollah, an analyst said.",
+  "url": "https://www.nytimes.com/2026/03/02/world/middleeast/lebanon-hezbollah-israel-strikes.html",
+  "published_at": "2026-03-02T21:15:35+00:00",
+  "source": "NYT > World News",
+  "language": "en",
+  "countries_detected": [
+    "IL",
+    "IR",
+    "LB"
+  ],
+  "countries_scored": [
+    "IL",
+    "IR",
+    "LB"
+  ],
+  "sentiment_by_country": {
+    "IL": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "retaliation from Israel"
+    },
+    "IR": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "apparently at the behest of Iran"
+    },
+    "LB": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Hezbollah Plunges Lebanon Back Into War"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-03T10:03:36+00:00",
+  "processed_at": "2026-03-03T10:03:36+00:00"
+}

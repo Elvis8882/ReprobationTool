@@ -1,16 +1,37 @@
 {
   "country": "BG",
-  "score": 85,
+  "score": 79,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 71,
+  "trend": -6,
+  "sources": 73,
   "sentiment": {
     "positive": 4,
-    "neutral": 66,
-    "negative": 1
+    "neutral": 67,
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "6d1d3ecca1fe05baf06391e476fd4a9b0d0284cd",
+      "title": "Bulgaria’s paediatric healthcare crisis deepens [Advocacy Lab]",
+      "summary": "Staff shortages and alleged administrative pressure threaten Bulgaria’s planned €500 million national children’s hospital",
+      "url": "https://www.euractiv.com/news/bulgarias-paediatric-healthcare-crisis-deepens/",
+      "source": "Euractiv",
+      "published_at": "2026-03-03T01:44:58+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Bulgaria’s paediatric healthcare crisis deepens"
+    },
+    {
+      "id": "2aec38eda121be244f7b4735f1010f523886fb05",
+      "title": "Women held 35% of managerial positions in 2024 - European Commission",
+      "summary": "Women held 35% of managerial positions in 2024&nbsp;&nbsp;European CommissionCyprus records the lowest percentage of women in managerial positions in the EU, according to Eurostat&nbsp;&nbsp;ΚΥΠΕGreece Records a 15% Rise…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nOGNWb3N2RjhJcHJwelRGRUkwaC1HaWkzLUtOMGxnd1ExRl9Hb0loX1NnS0lIY0tBSXIzV19qaFVOZjhtQTRpclRna1Y5YnE3TmRySXBwUHlfeWIxWGM0VUdIT09SUFQ4U0JXVnVzUjBOMUpJMFhJVFZKb0U1QQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-02T10:04:12+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "a4c4603f91898d1fc49d7434e68610ab2d9e2308",
       "title": "EU received 4.2 million immigrants in 2024 - European Commission",
@@ -192,29 +213,8 @@
       "published_at": "2026-02-19T11:27:07+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "254010376c11ecf00aca8ad195cd54b613abf906",
-      "title": "What is the EU’s greenhouse gas footprint per capita? - European Commission",
-      "summary": "What is the EU’s greenhouse gas footprint per capita?&nbsp;&nbsp;European CommissionCyprus recorded 14.8 tonnes of CO2 per capita in 2023, according to Eurostat&nbsp;&nbsp;ΚΥΠΕBTA :: Bulgaria Among EU Countries with Lowe…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11dDFXUHdUNnNoeVBYd3g2OWJWemFkVm1hOWl0MXNkMDB3bGdXR1REOHhBLUtGb3diYlpxQWFVV2F6SGhrYXVWSWEyZGFHWTV5Wjc0RjhRMHM3d0xRaGxLNnpGLU1PYi1CZ3Z2UDlEc1A4eVVZMFpxNzlmYkcxZw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-19T10:03:42+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Bulgaria Among EU Countries with Lowest Carbon Footprint"
-    },
-    {
-      "id": "4d81abf151dff772f8dc7023c9f844903597c6b7",
-      "title": "Brussels caught off-guard as von der Leyen targets electricity market",
-      "summary": "The European Commission president has again promised a rethink of Europe's complicated single-market",
-      "url": "https://www.euractiv.com/news/brussels-caught-off-guard-as-von-der-leyen-targets-electricity-market/",
-      "source": "Euractiv",
-      "published_at": "2026-02-19T05:00:28+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-02T10:09:10Z"
+  "last_updated": "2026-03-03T10:03:36Z"
 }

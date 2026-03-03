@@ -1,16 +1,38 @@
 {
   "country": "IQ",
   "score": 64,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
-  "trend": -2,
-  "sources": 16,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": 0,
+  "sources": 18,
   "sentiment": {
     "positive": 2,
-    "neutral": 10,
+    "neutral": 12,
     "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "2f3642901e7f3b308278af6aca45533b956b21b3",
+      "title": "Spring forecast: Reeves to insist she has ‘right economic plan’; Markets plunge as Middle East crisis drives up oil and gas prices – live updates",
+      "summary": "Rolling coverage of the latest economic and financial news, including the UK’s spring forecastRachel Reeves’s plans could be hit by Middle East conflict, say economistsUK grocery price inflation has risen, showing that p…",
+      "url": "https://www.theguardian.com/business/live/2026/mar/03/spring-forecast-rachel-reeves-statement-economic-plan-obr-oil-gas-stock-markets-live-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-03T09:24:06+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "BP’s significant production in Iraq and Abu Dhabi risks being bottlenecked"
+    },
+    {
+      "id": "0a7c838b057bd0f0e73df43019bbb54fe998e2c0",
+      "title": "Hegseth on Iran attacks: 'This is not Iraq, this is not endless'",
+      "summary": "US Secretary of Defense Pete Hegseth offered few details about the operation, leaving questions unanswered about the scope or duration.",
+      "url": "https://www.bbc.com/news/videos/cn71jg14dnyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-02T15:07:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "This is not Iraq"
+    },
     {
       "id": "2de08c2a0d529fe758e4fcc05cf987013f981fa4",
       "title": "‘Simply not true’ UK is being dragged into Iraq-style conflict, says foreign secretary",
@@ -189,5 +211,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-02T10:09:10Z"
+  "last_updated": "2026-03-03T10:03:36Z"
 }

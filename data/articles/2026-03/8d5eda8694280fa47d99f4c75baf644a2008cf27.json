@@ -1,0 +1,41 @@
+{
+  "id": "8d5eda8694280fa47d99f4c75baf644a2008cf27",
+  "title": "How the Bombing of Iran Is Affecting Lebanon, Kuwait and Other Countries",
+  "summary_full": "The Middle East is facing deaths and destruction as Iran retaliates against a huge American-Israeli military campaign.",
+  "summary_public": "The Middle East is facing deaths and destruction as Iran retaliates against a huge American-Israeli military campaign.",
+  "url": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-attacks-damage-what-to-know.html",
+  "published_at": "2026-03-03T00:48:00+00:00",
+  "source": "NYT > World News",
+  "language": "en",
+  "countries_detected": [
+    "IL",
+    "IR",
+    "LB"
+  ],
+  "countries_scored": [
+    "IL",
+    "IR",
+    "LB"
+  ],
+  "sentiment_by_country": {
+    "IL": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "huge American-Israeli military campaign"
+    },
+    "IR": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran retaliates against a huge American-Israeli military campaign"
+    },
+    "LB": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "How the Bombing of Iran Is Affecting Lebanon"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-03T10:03:36+00:00",
+  "processed_at": "2026-03-03T10:03:36+00:00"
+}

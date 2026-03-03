@@ -4,13 +4,35 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 38,
+  "sources": 40,
   "sentiment": {
     "positive": 8,
-    "neutral": 28,
+    "neutral": 30,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "052293f7caf988de9587300bec02e93785b2c310",
+      "title": "HARVEST: Within the CAP, beyond the CAP",
+      "summary": "In today's edition: Potatoes, fertilisers, EU-Switzerland",
+      "url": "https://www.euractiv.com/news/harvest-within-the-cap-beyond-the-cap/",
+      "source": "Euractiv",
+      "published_at": "2026-03-03T07:42:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "EU-Switzerland"
+    },
+    {
+      "id": "a5744539b2c815034b38aa1e9c99fbb42532142b",
+      "title": "Judge adjourns Paris trial of Islam scholar accused of raping three women",
+      "summary": "Former Oxford professor Tariq Ramadan did not appear in court as he was in a Geneva hospital, according to lawyersThe prominent Swiss academic and Islam scholar Tariq Ramadan has not appeared in court for the first day o…",
+      "url": "https://www.theguardian.com/world/2026/mar/02/islam-scholar-tariq-ramadan-goes-on-trial-in-paris-accused-of-raping-three-women",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-02T18:08:30+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "he was in hospital in Geneva because of his multiple sclerosis."
+    },
     {
       "id": "649af0a7b92f649db99b5f577231da40ee42e336",
       "title": "Swiss Re pops 4% after posting record $4.8 billion profit, plans $1.5 billion buyback",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "nuclear talks in Geneva, Switzerland."
-    },
-    {
-      "id": "588f8a30ccfec392ae739aa22f85e99737ac532a",
-      "title": "Talks break in Geneva with no end to Russia’s war or hard-line demands",
-      "summary": "After two hours of talks in Geneva on Wednesday, the head of the Russian delegation, Vladimir Medinsky, said negotiations had been “difficult but businesslike.”",
-      "url": "https://www.washingtonpost.com/world/2026/02/18/russia-ukraine-geneva-negotiations-impasse/",
-      "source": "World (Washington post)",
-      "published_at": "2026-02-18T15:01:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Talks break in Geneva with no end to Russia’s war"
-    },
-    {
-      "id": "6df49a4c4d6f52a627fffcba4bfc44b5a807874c",
-      "title": "First day of Russia-Ukraine peace talks ends in Geneva",
-      "summary": "Negotiations will continue on Wednesday, but expectations for a breakthrough on ending the war are low.",
-      "url": "https://www.bbc.com/news/articles/cge812y2549o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-17T20:05:13+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "peace talks ends in Geneva"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-02T10:09:10Z"
+  "last_updated": "2026-03-03T10:03:36Z"
 }
