@@ -1,16 +1,38 @@
 {
   "country": "UA",
-  "score": 58,
+  "score": 57,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 290,
+  "trend": -1,
+  "sources": 292,
   "sentiment": {
-    "positive": 113,
+    "positive": 114,
     "neutral": 68,
-    "negative": 109
+    "negative": 110
   },
   "latest_articles": [
+    {
+      "id": "d69de381700f1aed27bc8a91165a873cdab9428b",
+      "title": "Ukraine war briefing: Merz tells Trump Ukraine must not give up more territory",
+      "summary": "German chancellor says that he underscored need for continued support for Kyiv during US visit; Trump says Ukraine is ‘very high’ on his priority list. What we know on day 1,470The German chancellor, Friedrich Merz, in W…",
+      "url": "https://www.theguardian.com/world/2026/mar/04/ukraine-war-briefing-merz-tells-trump-ukraine-must-not-give-up-more-territory",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-04T01:05:07+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine must not give up more territory"
+    },
+    {
+      "id": "e8fc0739a27d2dc21b522ba2aea283a4aa107fdb",
+      "title": "Zelensky fears Trump's Iran war could hurt Ukraine",
+      "summary": "Ukraine fears what soaring oil prices and a shortage in air defences could mean for them.",
+      "url": "https://www.bbc.com/news/articles/clyv10dre79o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-03T13:41:43+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Ukraine fears what soaring oil prices and a shortage in air defences"
+    },
     {
       "id": "d764a5244e4e5bbccccf78017fc79e171f5360f8",
       "title": "Trump hosts Germany’s Merz for talks eclipsed by Mideast war",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Russia and Ukraine agree local ceasefire to allow repairs at Europe’s largest nuclear plant"
-    },
-    {
-      "id": "cc202c459a0fae415f1f3cee2faafa88a7189521",
-      "title": "‘A living, moving exhibition’: Ukraine Museum opens in Berlin air-raid bunker",
-      "summary": "Exhibits pay homage to Ukrainians’ resilience and bring home the reality that war is going on in EuropeDescending into the windowless basement of a second world war air-raid bunker built for civilians in central Berlin i…",
-      "url": "https://www.theguardian.com/world/2026/feb/27/ukraine-museum-opens-berlin-air-raid-bunker",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-27T05:00:34+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine Museum opens in Berlin air-raid bunker Exhibits pay homage to Ukrainians’ resilience"
-    },
-    {
-      "id": "d5a35a4cb8aa2fa4e0aa5ea51b5d35a77d0a5c49",
-      "title": "The Secret of How Ukraine’s Lifesaving Air-Raid Alarms Work",
-      "summary": "Many in Ukraine assume that the alerts are automated. A rare look inside an emergency-response center reveals the specialists who do the pressure-packed job.",
-      "url": "https://www.nytimes.com/2026/02/26/world/europe/ukraine-russia-kharkiv-air-raid-alarms.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-27T01:59:21+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine’s Lifesaving Air-Raid Alarms Work"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-03T10:03:36Z"
+  "last_updated": "2026-03-04T10:01:06Z"
 }

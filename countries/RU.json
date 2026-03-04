@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 344,
+  "sources": 345,
   "sentiment": {
     "positive": 18,
     "neutral": 68,
-    "negative": 258
+    "negative": 259
   },
   "latest_articles": [
+    {
+      "id": "d69de381700f1aed27bc8a91165a873cdab9428b",
+      "title": "Ukraine war briefing: Merz tells Trump Ukraine must not give up more territory",
+      "summary": "German chancellor says that he underscored need for continued support for Kyiv during US visit; Trump says Ukraine is ‘very high’ on his priority list. What we know on day 1,470The German chancellor, Friedrich Merz, in W…",
+      "url": "https://www.theguardian.com/world/2026/mar/04/ukraine-war-briefing-merz-tells-trump-ukraine-must-not-give-up-more-territory",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-04T01:05:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.4,
+      "evidence": "Russia is playing for time here, and in doing so is also acting against"
+    },
     {
       "id": "0894785021139212f77bef1c27045afc5e54274e",
       "title": "Woman faces trial for donating to Russian military / Article - LSM.lv",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Russia and Ukraine agree local truce to allow repairs at Europe’s largest nuclear power plant"
-    },
-    {
-      "id": "f121f90b6acd02699ff9fbec58448d34a47a5208",
-      "title": "Slovakia, Hungary push ‘fact-finding mission’ in Soviet-era pipeline spat",
-      "summary": "The Druzhba pipeline was damaged after Russian strikes last month, halting deliveries to Slovakia and Hungary",
-      "url": "https://www.euractiv.com/news/slovakia-hungary-push-fact-finding-mission-in-soviet-era-pipeline-spat/",
-      "source": "Euractiv",
-      "published_at": "2026-02-27T13:11:21+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Russian strikes last month, halting deliveries"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-03T10:03:36Z"
+  "last_updated": "2026-03-04T10:01:06Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 70,
+  "score": 68,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 25,
+  "trend": -2,
+  "sources": 26,
   "sentiment": {
     "positive": 5,
     "neutral": 16,
-    "negative": 4
+    "negative": 5
   },
   "latest_articles": [
+    {
+      "id": "61ddf6d6e3708dbaf64c47fdcd7a258bb0182d27",
+      "title": "Cyprus fears ‘chaotic’ terrorism from Turkey-occupied territory as EU help ramps up",
+      "summary": "More than 10,000 pro‑regime Iranians reside in the Turkey-occupied part of Cyprus, Euractiv has learned",
+      "url": "https://www.euractiv.com/news/cyprus-fears-chaotic-terrorism-from-turkey-occupied-territory-as-eu-help-ramps-up/",
+      "source": "Euractiv",
+      "published_at": "2026-03-03T17:01:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Turkey-occupied territory as EU help ramps up"
+    },
     {
       "id": "62802eb0795e86cbefa5fbc0f16913d4bdcc3d89",
       "title": "Israel basketball national team beats Cyprus, qualifies for next round of World Cup qualifiers - The Jerusalem Post",
@@ -219,19 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "send top envoys to Istanbul for high-stakes talks"
-    },
-    {
-      "id": "26fe601e212a8b8e08689dc84ac0de7f301c3fb1",
-      "title": "US-Iran Meeting To Take Place In Turkey On February 6: Report",
-      "summary": "A meeting between the United States and Iran is likely to take place in Turkey on February 6, an Arab official told AFP on Tuesday, after Tehran called for the restart of nuclear talks and Washington warned of consequenc…",
-      "url": "https://www.ndtv.com/world-news/us-iran-meeting-to-take-place-in-turkey-on-february-6-report-10935008#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-02T23:58:40+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Meeting To Take Place In Turkey"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-03T10:03:36Z"
+  "last_updated": "2026-03-04T10:01:06Z"
 }

@@ -1,16 +1,49 @@
 {
   "country": "GB",
-  "score": 57,
+  "score": 55,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 408,
+  "trend": -2,
+  "sources": 413,
   "sentiment": {
     "positive": 45,
-    "neutral": 274,
-    "negative": 89
+    "neutral": 277,
+    "negative": 91
   },
   "latest_articles": [
+    {
+      "id": "c8b284faac51a145c1f07b4edfd9db77616a1537",
+      "title": "CNBC's UK Exchange newsletter: FTSE 100's defensive slant comes into its own",
+      "summary": "While the leading U.K. index is often seen as overwhelmingly defensive, those perceived weaknesses have proved to be a strength in times of crisis.",
+      "url": "https://www.cnbc.com/2026/03/04/uk-exchange-newsletter-ftse-100-uk-stocks-ftse-250.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-03-04T08:54:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "FTSE 100's defensive slant comes into its own"
+    },
+    {
+      "id": "d207d9aa24952a0bd5f3289dc39f150a57a398d0",
+      "title": "Protect caterpillars as UK’s moth population plummets, urge charities",
+      "summary": "Instead of removing plant-munching caterpillars, gardeners asked to take relaxed attitude to support the moths many of them grow intoAs spring unfolds and plants come to life, gardeners often fight a losing battle agains…",
+      "url": "https://www.theguardian.com/environment/2026/mar/04/caterpillars-spring-moth-population",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-04T06:00:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "UK’s moth population plummets, urge charities"
+    },
+    {
+      "id": "a19ec7451ea39a02b08e6b9f852c3f9e5acb5d7f",
+      "title": "‘I’m not happy with the UK’: Donald Trump criticizes Keir Starmer over military access",
+      "summary": "President Trump has sharply criticized UK Prime Minister Starmer for initially withholding UK bases for US strikes on Iran, stating the \"special relationship\" has weakened. Starmer later agreed to limited defensive use o…",
+      "url": "https://timesofindia.indiatimes.com/world/us/im-not-happy-with-the-uk-donald-trump-criticizes-keir-starmer-over-military-access/articleshow/128990391.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-03-03T20:53:35+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "President Trump has sharply criticized UK Prime Minister Starmer"
+    },
     {
       "id": "41e1cf19462380baf99e84f3195079249912f437",
       "title": "Trump says ‘special relationship is obviously not what it was’ after Starmer’s refusal to back Iran strikes – UK politics live",
@@ -32,6 +65,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "UK’s spring forecast"
+    },
+    {
+      "id": "8f8afbaaca2328588f189f3129ddecefe577830f",
+      "title": "‘Peak Greggs’? Bakery chain’s profits slump and sales slow",
+      "summary": "Retailer known for its sausage rolls and steak bakes says it has been resilient in a challenging marketBusiness live – latest updatesGreggs has reported a slump in profits as it bemoaned “challenging” market conditions h…",
+      "url": "https://www.theguardian.com/business/2026/mar/03/greggs-bakery-chain-profits-sales-high-street-sausage-rolls",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-03T09:20:30+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": ""
     },
     {
       "id": "cec8fda4a8b1e920102bd9b2e2def2902cd91c92",
@@ -186,52 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "UK competition watchdog investigates hotel groups"
-    },
-    {
-      "id": "730d2ddb718f1967098029249e7e1e910eef0851",
-      "title": "UK RAF airbase in Cyprus hit by drone strike",
-      "summary": "Officials believe drone was launched before PM agreed to let US use British military bases to attack Iran missile sitesUS-Israel war on Iran – live updatesA one-way attack drone has struck the UK’s RAF Akrotiri base in C…",
-      "url": "https://www.theguardian.com/world/2026/mar/02/uk-airbase-raf-akrotiri-cyprus-suspected-drone-strike",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-02T09:20:20+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "US use British military bases to attack Iran missile sites"
-    },
-    {
-      "id": "4d8fb27440aff4664a8907e8e3e37733e32dec58",
-      "title": "\"It Stinks Of Oil In Here\": UK Man's Close Call In Dubai As Drone Hits His Apartment",
-      "summary": "Dubai is the biggest tourism and trade hub in the Middle East.",
-      "url": "https://www.ndtv.com/world-news/it-stinks-of-oil-in-here-uk-mans-close-call-in-dubai-as-drone-hits-his-apartment-11157874#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-03-02T08:45:31+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "\"It Stinks Of Oil In Here\": UK Man's Close Call In Dubai"
-    },
-    {
-      "id": "2de08c2a0d529fe758e4fcc05cf987013f981fa4",
-      "title": "‘Simply not true’ UK is being dragged into Iraq-style conflict, says foreign secretary",
-      "summary": "Yvette Cooper says plans under consideration to evacuate about 300,000 Britons from Middle East amid Iran warUS-Israel war on Iran – live updatesIt is “simply not true” that the UK is being dragged into another Iraq-styl…",
-      "url": "https://www.theguardian.com/world/2026/mar/02/uk-foreign-secretary-us-israel-war-on-iran",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-02T08:29:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "plans under consideration to evacuate about 300,000 Britons"
-    },
-    {
-      "id": "dd72c7cfe0885c42fbdbdc1ad892feca579284ba",
-      "title": "Cyprus confirms Iran-made drone struck British base",
-      "summary": "Cyprus is not involved in the military offensive in the Middle East, president says",
-      "url": "https://www.euractiv.com/news/cyprus-confirms-iran-made-drone-struck-british-base/",
-      "source": "Euractiv",
-      "published_at": "2026-03-02T08:11:29+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "struck British base"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-03T10:03:36Z"
+  "last_updated": "2026-03-04T10:01:06Z"
 }
