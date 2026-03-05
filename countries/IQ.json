@@ -1,16 +1,49 @@
 {
   "country": "IQ",
   "score": 63,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 20,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": 0,
+  "sources": 23,
   "sentiment": {
     "positive": 2,
-    "neutral": 13,
+    "neutral": 16,
     "negative": 5
   },
   "latest_articles": [
+    {
+      "id": "71be9769428e9ae62ae58f6bf4b309a33e2c4918",
+      "title": "Cabinet ministers ‘blocked’ Starmer from letting US use British bases for military operation against Iran on Friday – UK politics live",
+      "summary": "A number of ministers voiced their strong opposition to Donald Trump using British airbases to attack Iran’s missile capability, according to a reportHello and welcome to the UK politics live blog.Cabinet ministers, led…",
+      "url": "https://www.theguardian.com/politics/live/2026/mar/05/cabinet-ministers-blocked-starmer-from-letting-us-use-british-bases-for-military-operation-against-iran-on-friday-uk-politics-live",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-05T09:38:17+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "western Iraq"
+    },
+    {
+      "id": "5725622d1150b9b6903c04e6781f2775a2b8855e",
+      "title": "Middle East crisis live: Israel launches fresh strikes on Tehran; Iran claims to have targeted Kurdish groups in Iraq",
+      "summary": "Tehran says it hit groups ‘opposed to the revolution’, amid reports the US is looking to arm Kurdish militiasIran says it has targeted Kurdish groups in Iraq and warned “separatist groups” against action in the widening…",
+      "url": "https://www.theguardian.com/world/live/2026/mar/05/iran-war-latest-updates-canada-carney-trump-israel-tehran-strikes",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-05T09:36:58+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Iran claims to have targeted Kurdish groups in Iraq"
+    },
+    {
+      "id": "d01bc9daf53f8051074d143dab0a0bbee57a7a9c",
+      "title": "Pro-American Kurdish Forces Are Preparing Possible Iran Incursion",
+      "summary": "The C.I.A. has given small weapons to Iranian Kurdish forces in Iraq in a covert program that began before the current war.",
+      "url": "https://www.nytimes.com/2026/03/04/us/politics/kurds-trump-iran-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-05T04:09:39+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Iranian Kurdish forces in Iraq"
+    },
     {
       "id": "05ae2ce7fe54a646e2a703a197724fbc7a682f4c",
       "title": "As Iran Retaliates, U.S. Closes Embassies in Saudi Arabia and Kuwait",
@@ -197,41 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "ambassador to Jordan and Iraq"
-    },
-    {
-      "id": "a484dce16ff911239eb88e9bfab9e52b5ef72b67",
-      "title": "Paris Court Deals Family Blow in Battle for Rent From the French Embassy in Iraq",
-      "summary": "The court said it was not the right authority to handle the lawsuit for unpaid rent, and the case should be heard in Iraq, where the family’s ancestors had fled persecution.",
-      "url": "https://www.nytimes.com/2026/02/03/world/europe/france-embassy-iraq.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-03T20:42:36+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "case should be heard in Iraq"
-    },
-    {
-      "id": "becc6f96cfa5a5bc92775eb12aa47451496c44bf",
-      "title": "Comeback of Tehran-friendly Iraqi PM al-Maliki alarms US",
-      "summary": "The return would deepen Iran’s sway in Iraq and erode the post-2003 state institutions built by the US and its allies",
-      "url": "https://www.euractiv.com/news/comeback-of-tehran-friendly-iraqi-pm-al-maliki-alarms-us/",
-      "source": "Euractiv",
-      "published_at": "2026-02-03T15:02:42+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "deepen Iran’s sway in Iraq and erode the post-2003 state institutions"
-    },
-    {
-      "id": "ff295d1a51ce097926f8efaa9142685750a93f14",
-      "title": "From Syria To Qatar: All US Military Bases In Middle East",
-      "summary": "The United States has troops in Iraq's autonomous Kurdish region.",
-      "url": "https://www.ndtv.com/world-news/from-syria-to-qatar-all-us-military-bases-in-middle-east-10910227#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-01-29T18:51:38+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "The United States has troops in Iraq's autonomous Kurdish region."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-04T10:01:06Z"
+  "last_updated": "2026-03-05T10:06:52Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "SY",
-  "score": 58,
+  "score": 57,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 36,
+  "trend": -1,
+  "sources": 37,
   "sentiment": {
     "positive": 2,
     "neutral": 19,
-    "negative": 15
+    "negative": 16
   },
   "latest_articles": [
+    {
+      "id": "f3f494737091a17926e8ef06479de21890382e26",
+      "title": "As Israel Pounds Lebanon, Thousands of Syrians There Flee Back Home",
+      "summary": "“I felt great fear and I ran,” says one of thousands of Syrians who are leaving what had been a relatively safe refuge during the war in Syria.",
+      "url": "https://www.nytimes.com/2026/03/04/world/middleeast/as-israel-pounds-lebanon-thousands-of-syrians-there-flee-back-home.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-04T18:13:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Thousands of Syrians There Flee Back Home"
+    },
     {
       "id": "e52c6a6d495b8f1400c0fcfeb255d19396bfeb3c",
       "title": "Angus Taylor snaps at journalist as Liberals ramp up rhetoric against Australian children in Syrian camp",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Woman in Syrian detention camp banned from returning to Australia"
-    },
-    {
-      "id": "2eb436252c5bf57a67af7f7e94fbaf1ca6aed5f1",
-      "title": "I would scream in my sleep: Women from Syria's Alawite minority tell of kidnap and rape",
-      "summary": "The BBC hears harrowing accounts of assaults appearing to target the sect of former President Assad.",
-      "url": "https://www.bbc.com/news/articles/cn5g751pl7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-18T00:20:03+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Women from Syria's Alawite minority tell of kidnap and rape"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-04T10:01:06Z"
+  "last_updated": "2026-03-05T10:06:52Z"
 }

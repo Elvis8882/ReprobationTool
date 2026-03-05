@@ -1,16 +1,88 @@
 {
   "country": "CY",
-  "score": 67,
+  "score": 66,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 89,
+  "trend": -1,
+  "sources": 96,
   "sentiment": {
     "positive": 7,
-    "neutral": 71,
-    "negative": 11
+    "neutral": 77,
+    "negative": 12
   },
   "latest_articles": [
+    {
+      "id": "71be9769428e9ae62ae58f6bf4b309a33e2c4918",
+      "title": "Cabinet ministers ‘blocked’ Starmer from letting US use British bases for military operation against Iran on Friday – UK politics live",
+      "summary": "A number of ministers voiced their strong opposition to Donald Trump using British airbases to attack Iran’s missile capability, according to a reportHello and welcome to the UK politics live blog.Cabinet ministers, led…",
+      "url": "https://www.theguardian.com/politics/live/2026/mar/05/cabinet-ministers-blocked-starmer-from-letting-us-use-british-bases-for-military-operation-against-iran-on-friday-uk-politics-live",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-05T09:38:17+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Cyprus"
+    },
+    {
+      "id": "5f442eaef078fc5659f32aa242359b59decbdff8",
+      "title": "European Commission proposes ‘Buy EU’ plan to compete against China",
+      "summary": "Plan, which aims to preserve jobs in clean tech and low-carbon sectors, could include UK if there is reciprocal market accessThe European Commission has proposed a “Buy EU” plan to boost domestic low-carbon industries an…",
+      "url": "https://www.theguardian.com/world/2026/mar/04/european-commission-proposes-buy-eu-plan-to-compete-against-china",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-04T17:18:43+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "14610ec28d370fe1fe41cfd76b7a2e1560260e7f",
+      "title": "A Hezbollah drone attack could pose severe threat for Cyprus",
+      "summary": "Cyprus hosts two British military bases that have already been targeted by Iranian and Hezbollah-linked operations",
+      "url": "https://www.euractiv.com/news/a-hezbollah-drone-attack-could-pose-severe-threat-for-cyprus/",
+      "source": "Euractiv",
+      "published_at": "2026-03-04T17:11:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Hezbollah drone attack could pose severe threat for Cyprus"
+    },
+    {
+      "id": "c315d64aa4a06f96584892303e6089facafde997",
+      "title": "European Parliament postpones EU-US trade deal again amid renewed tariff threats",
+      "summary": "The move was fiercely criticised by the powerful centre-right European People's Party",
+      "url": "https://www.euractiv.com/news/european-parliament-postpones-eu-us-trade-deal-again-amid-renewed-tariff-threats/",
+      "source": "Euractiv",
+      "published_at": "2026-03-04T17:08:14+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "f4614bce2079d7a846c8d0802c421158635a3f57",
+      "title": "European Commission mulls bringing gaming platform under its digital rules",
+      "summary": "Roblox could be the first gaming platform to be designated under the bloc's Digital Services Act",
+      "url": "https://www.euractiv.com/news/european-commission-mulls-bringing-gaming-platform-under-its-digital-rules/",
+      "source": "Euractiv",
+      "published_at": "2026-03-04T13:00:09+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "f7d417a9a614bfb004bc92be6d66bb8ac59f7614",
+      "title": "Another record year for EU tourism in 2025 - European Commission",
+      "summary": "Another record year for EU tourism in 2025&nbsp;&nbsp;European CommissionIreland Joins Poland, Spain, Finland, Malta, Portugal, Lithuania, And Other European Nations In A Historic Tourism Surge, Welcoming Over Six Millio…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sT2w5by1EYVVyYzBOQXVaUGxUSGtMWW1RdWhHV1hWUV9BTTVzbFJrRUlUQ1FISDBmTmxLV1ZUb3JiaS16Zk15cFpOUW5lc1U5dXVIRmFQaXVQaVM0U1o1MlZZQmJzbE0tRTQtUW05Q2tPY1JrMXVnU0VVMnZRUQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-04T10:05:01+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "501693c137be4875be7007469b58c4a7848ddc8d",
+      "title": "Spain’s Sánchez says ‘no to war’ after Trump’s threats over Nato spending and use of bases – Europe live",
+      "summary": "Spain’s PM says he opposes ‘repeating the mistakes of the past’ as EU tells US president it stands ‘in solidarity with all member states’in MadridSánchez’s defiant speech may have been made in response to Trump’s threat…",
+      "url": "https://www.theguardian.com/world/live/2026/mar/04/europe-latest-news-updates-pedro-sanchez-spain-nato-eu",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-04T09:40:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "597b7c185fa5016db3c64f02b3d9d5c9ef303fae",
       "title": "Baiba Braže in Warsaw on Wednesday for Baltic meeting",
@@ -151,82 +223,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "suspected drone strike at Cyprus base"
-    },
-    {
-      "id": "3a44c56c635e5aef2fb61a6fe6f4945429f7ec82",
-      "title": "Iran launched missiles toward Cyprus, says UK defence minister",
-      "summary": "John Healey warned that UK bases in the Middle East were at risk of “increasingly indiscriminate” attacks by Iran",
-      "url": "https://www.euractiv.com/news/iran-launched-missiles-toward-cyprus-says-uk-defence-minister/",
-      "source": "Euractiv",
-      "published_at": "2026-03-01T13:22:42+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Iran launched missiles toward Cyprus"
-    },
-    {
-      "id": "a4c4603f91898d1fc49d7434e68610ab2d9e2308",
-      "title": "EU received 4.2 million immigrants in 2024 - European Commission",
-      "summary": "EU received 4.2 million immigrants in 2024&nbsp;&nbsp;European CommissionEurostat: Cyprus ranks second in the European Union in the ratio of immigrants in 2024&nbsp;&nbsp;ΚΥΠΕNon-EU arrivals still highest as internal mig…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tMGgzdGJ3UmZoam1YNXBWWTR5cWR2dHIwQ2hFbzJiTjRVazJVZ3hzcjlUQjVtNU5IbkVKX1pXNUo5MmJjRkNCR3l4Rm4wV1FhV0tzaUc1aGo2RmNFN1d2a25ibkUxdEZvWERFSW12bDdNREhKbUV4VHdnRDA4Zw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-27T10:15:49+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "evidence": "Cyprus ranks second in the European Union in the ratio of immigrants"
-    },
-    {
-      "id": "421fe424c0e7ba8c48081f1b7c79b2f3a678a5c8",
-      "title": "Mandelson faces EU inquiry into Brussels trade role over Epstein links",
-      "summary": "European Anti-Fraud Office to look into the former US ambassador’s time as trade commissioner in BrusselsPeter Mandelson is facing an inquiry by the EU’s anti-fraud agency after the European Commission requested the body…",
-      "url": "https://www.theguardian.com/politics/2026/feb/26/mandelson-faces-eu-inquiry-into-brussels-trade-role-over-epstein-links",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-26T21:47:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "1b708e4ba948946c6d746ff46e11e4f9d3aedfc8",
-      "title": "EU opens up funding to guarantee abortion rights across bloc",
-      "summary": "Women from countries with near-total bans on terminations will be given help to access services elsewhereEU states will be able to tap into a social fund to help citizens access safe abortions, in an announcement hailed…",
-      "url": "https://www.theguardian.com/world/2026/feb/26/eu-funding-guarantee-abortion-rights-across-bloc",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-26T19:52:40+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "b626a315be16caf1b37f798f9c999c1ad1c87110",
-      "title": "EU states told to use existing fund for safe abortions after citizens' petition",
-      "summary": "The European Commission stops short of creating a new funding facility to enable women to travel for safe abortions.",
-      "url": "https://www.bbc.com/news/articles/cvgv92p6qzqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-26T19:07:30+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "079a89741542cdb867c9b51710bc1c5daeb1fbf1",
-      "title": "Cyprus seeks more EU-level cooperation for clinical evaluation and pharmacotherapy [Advocacy Lab]",
-      "summary": "Cyprus presidency seeks to establish a European centre addressing persistent structural gaps in the EU's HTA health system processes",
-      "url": "https://www.euractiv.com/news/cyprus-seeks-more-eu-level-cooperation-for-clinical-evaluation-and-pharmacotherapy/",
-      "source": "Euractiv",
-      "published_at": "2026-02-26T16:41:13+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Cyprus seeks more EU-level cooperation for clinical evaluation"
-    },
-    {
-      "id": "be98fc014bfd9739d1d61157886d4029f15dbd46",
-      "title": "German pharma calls on Cyprus to review EU wastewater rules",
-      "summary": "Industry groups are pushing the EU to freeze the rules",
-      "url": "https://www.euractiv.com/news/german-pharma-calls-on-cyprus-to-review-eu-wastewater-rules/",
-      "source": "Euractiv",
-      "published_at": "2026-02-26T15:29:29+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "calls on Cyprus to review EU wastewater rules"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-04T10:01:06Z"
+  "last_updated": "2026-03-05T10:06:52Z"
 }

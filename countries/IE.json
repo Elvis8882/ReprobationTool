@@ -1,16 +1,99 @@
 {
   "country": "IE",
-  "score": 87,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 91,
+  "trend": -3,
+  "sources": 99,
   "sentiment": {
     "positive": 13,
-    "neutral": 75,
-    "negative": 3
+    "neutral": 82,
+    "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "eb6172f6185af4c38aecc020e8c76e1d4c8587cf",
+      "title": "Ireland’s pharma sector records highest employment, exports and tax receipts [Advocacy Lab]",
+      "summary": "Pharmaceuticals are a core driver of the Irish economy, with pharma exports representing 41 per cent of GNI, and shipments to the US accounting for 25 per cent, according to a new report",
+      "url": "https://www.euractiv.com/news/irelands-pharma-sector-records-highest-employment-exports-and-tax-receipts/",
+      "source": "Euractiv",
+      "published_at": "2026-03-05T09:29:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Ireland’s pharma sector records highest employment, exports"
+    },
+    {
+      "id": "70ff332b72ff89d73bb47874429d7fd2683c3068",
+      "title": "Economic abuse by a partner contributes to one death every 19 days, report finds",
+      "summary": "Financial abuse is a factor in more than half of deaths related to domestic abuse but is often misunderstoodEconomic abuse from a partner contributes to one death from homicide or suicide every 19 days, a charity has fou…",
+      "url": "https://www.theguardian.com/uk-news/2026/mar/05/economic-abuse-partner-deaths-report",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-05T00:01:45+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "In the UK and Ireland, Samaritans can be contacted"
+    },
+    {
+      "id": "5f442eaef078fc5659f32aa242359b59decbdff8",
+      "title": "European Commission proposes ‘Buy EU’ plan to compete against China",
+      "summary": "Plan, which aims to preserve jobs in clean tech and low-carbon sectors, could include UK if there is reciprocal market accessThe European Commission has proposed a “Buy EU” plan to boost domestic low-carbon industries an…",
+      "url": "https://www.theguardian.com/world/2026/mar/04/european-commission-proposes-buy-eu-plan-to-compete-against-china",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-04T17:18:43+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "c315d64aa4a06f96584892303e6089facafde997",
+      "title": "European Parliament postpones EU-US trade deal again amid renewed tariff threats",
+      "summary": "The move was fiercely criticised by the powerful centre-right European People's Party",
+      "url": "https://www.euractiv.com/news/european-parliament-postpones-eu-us-trade-deal-again-amid-renewed-tariff-threats/",
+      "source": "Euractiv",
+      "published_at": "2026-03-04T17:08:14+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "2526259d5a8fb179fb345492f3f16cb9b543b21f",
+      "title": "EU faces split as candidates emerge for FAO top job",
+      "summary": "Italy and Ireland back rival contenders to lead the UN food agency",
+      "url": "https://www.euractiv.com/news/eu-faces-split-as-candidates-emerge-for-fao-top-job/",
+      "source": "Euractiv",
+      "published_at": "2026-03-04T13:46:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Ireland back rival contenders"
+    },
+    {
+      "id": "f4614bce2079d7a846c8d0802c421158635a3f57",
+      "title": "European Commission mulls bringing gaming platform under its digital rules",
+      "summary": "Roblox could be the first gaming platform to be designated under the bloc's Digital Services Act",
+      "url": "https://www.euractiv.com/news/european-commission-mulls-bringing-gaming-platform-under-its-digital-rules/",
+      "source": "Euractiv",
+      "published_at": "2026-03-04T13:00:09+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "f7d417a9a614bfb004bc92be6d66bb8ac59f7614",
+      "title": "Another record year for EU tourism in 2025 - European Commission",
+      "summary": "Another record year for EU tourism in 2025&nbsp;&nbsp;European CommissionIreland Joins Poland, Spain, Finland, Malta, Portugal, Lithuania, And Other European Nations In A Historic Tourism Surge, Welcoming Over Six Millio…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sT2w5by1EYVVyYzBOQXVaUGxUSGtMWW1RdWhHV1hWUV9BTTVzbFJrRUlUQ1FISDBmTmxLV1ZUb3JiaS16Zk15cFpOUW5lc1U5dXVIRmFQaXVQaVM0U1o1MlZZQmJzbE0tRTQtUW05Q2tPY1JrMXVnU0VVMnZRUQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-04T10:05:01+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "501693c137be4875be7007469b58c4a7848ddc8d",
+      "title": "Spain’s Sánchez says ‘no to war’ after Trump’s threats over Nato spending and use of bases – Europe live",
+      "summary": "Spain’s PM says he opposes ‘repeating the mistakes of the past’ as EU tells US president it stands ‘in solidarity with all member states’in MadridSánchez’s defiant speech may have been made in response to Trump’s threat…",
+      "url": "https://www.theguardian.com/world/live/2026/mar/04/europe-latest-news-updates-pedro-sanchez-spain-nato-eu",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-04T09:40:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "597b7c185fa5016db3c64f02b3d9d5c9ef303fae",
       "title": "Baiba Braže in Warsaw on Wednesday for Baltic meeting",
@@ -138,89 +221,8 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "Irish and American researchers have identified a potential new way to counter"
-    },
-    {
-      "id": "421fe424c0e7ba8c48081f1b7c79b2f3a678a5c8",
-      "title": "Mandelson faces EU inquiry into Brussels trade role over Epstein links",
-      "summary": "European Anti-Fraud Office to look into the former US ambassador’s time as trade commissioner in BrusselsPeter Mandelson is facing an inquiry by the EU’s anti-fraud agency after the European Commission requested the body…",
-      "url": "https://www.theguardian.com/politics/2026/feb/26/mandelson-faces-eu-inquiry-into-brussels-trade-role-over-epstein-links",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-26T21:47:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "1b708e4ba948946c6d746ff46e11e4f9d3aedfc8",
-      "title": "EU opens up funding to guarantee abortion rights across bloc",
-      "summary": "Women from countries with near-total bans on terminations will be given help to access services elsewhereEU states will be able to tap into a social fund to help citizens access safe abortions, in an announcement hailed…",
-      "url": "https://www.theguardian.com/world/2026/feb/26/eu-funding-guarantee-abortion-rights-across-bloc",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-26T19:52:40+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "b626a315be16caf1b37f798f9c999c1ad1c87110",
-      "title": "EU states told to use existing fund for safe abortions after citizens' petition",
-      "summary": "The European Commission stops short of creating a new funding facility to enable women to travel for safe abortions.",
-      "url": "https://www.bbc.com/news/articles/cvgv92p6qzqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-26T19:07:30+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "0792d82258d5b2df5c3eabaf32a28ea6f814d2d1",
-      "title": "Ireland investing €1.59bn in health, but Labour warns of ‘snail’s pace’ bed expansion [Advocacy Lab]",
-      "summary": "The Irish government is investing heavily in digital healthcare upgrades and physical infrastructure for health, but opposition deputies insist it’s not enough",
-      "url": "https://www.euractiv.com/news/ireland-investing-e1-59bn-in-health-but-labour-warns-of-snails-pace-bed-expansion/",
-      "source": "Euractiv",
-      "published_at": "2026-02-25T12:03:55+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Ireland investing €1.59bn in health"
-    },
-    {
-      "id": "15a2b6ac9eefeab0dc470ee8ed5adc2350c8061e",
-      "title": "Women’s pension 25% lower than men’s in 2024 - European Commission",
-      "summary": "Women’s pension 25% lower than men’s in 2024&nbsp;&nbsp;European CommissionView Full coverage on Google News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDRXFjbDhXblpfa2Qxc1FfWlFDRm1Rb203UnoxS2NnUjJGUUV6NW85Z3IxVkJ4UlFEUzYtT2RVTnMwYlNkS05sNHhBZGlHNUFrTUJGaExqWTdGS3AyQWVqTkV0bTVZV2toS1MzeXZFXzdNWm1TLVh0VzlIdElJZw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-25T10:05:02+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "7b5e0a9e2e6b8054eeaa756ce11c608420c0b61e",
-      "title": "Inforegio - Livestream: conference on the EU’s eastern regions bordering Russia, Belarus and Ukraine - European Commission",
-      "summary": "Inforegio - Livestream: conference on the EU’s eastern regions bordering Russia, Belarus and Ukraine&nbsp;&nbsp;European CommissionCommission supports the EU's eastern regions bordering Russia, Belarus and Ukraine&nbsp;&…",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVmNYZHlsWnhZTEJfTFNsTXFoU0hPbFJuRHRaNElzRDB4YTZIM2tIek5BNDFSMU80bENiNURQWUpQSlhKTEJ3aVZzSmVmYWhLZDVYd3M4TzhYbmFnV05Sd3VCSkRyYVRBamRlRU1VQllDNmZkVXhpOXlNbjlQdnFsdnozTjlReGo2WkpaT1JzLTBxSWI4cWxVUmo5SDRfWmlhcmFGN2tCa05xUzlLekRuZnhnNjZNc19mbzdSclJ4YTBEVEl5NGZWS3MtaTBUNTZqV1NPVEoyNmp4aE5ReFJ3ZVBVRmh3QUd3UDdpVQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-24T15:57:36+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f1798d30fce18815fd66a78eedcc8ae0c2eb1152",
-      "title": "EPP and ECR push for extended timelines on toxic cosmetic bans",
-      "summary": "Negotiations to revise the text are underway among political groups in the European Parliament as part of the 2025 omnibus package on chemicals",
-      "url": "https://www.euractiv.com/news/epp-and-ecr-push-for-extended-timelines-on-toxic-cosmetic-bans/",
-      "source": "Euractiv",
-      "published_at": "2026-02-24T15:25:45+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "def9216c157d312a3e14bf8d542049993febaf4f",
-      "title": "U.S. has breached trade deal and Europe is ready to retaliate, top trade lawmaker tells CNBC",
-      "summary": "The U.S. has breached the terms of its trade deal with the European Union \"several times,\" top EU trade lawmaker Bernd Lange told CNBC.",
-      "url": "https://www.cnbc.com/2026/02/24/us-eu-trade-deal-eu-parliament-suspends-trade-deal-trump-tariffs-eu-retaliation-aci.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-02-24T10:24:26+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-04T10:01:06Z"
+  "last_updated": "2026-03-05T10:06:52Z"
 }

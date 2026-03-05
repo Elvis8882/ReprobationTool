@@ -1,16 +1,27 @@
 {
   "country": "AZ",
-  "score": 61,
+  "score": 59,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 5,
+  "trend": -2,
+  "sources": 6,
   "sentiment": {
     "positive": 1,
     "neutral": 1,
-    "negative": 3
+    "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "b3e13fc40358c4ee91190564b91035eb9646d926",
+      "title": "Video: Iranian Drone Hits Azerbaijan Airport, 2 Injured",
+      "summary": "Two drones crossed from Iran Thursday before one of them crashed into Nakhichevan's airport",
+      "url": "https://www.ndtv.com/world-news/iran-israel-war-nakhchivan-international-airport-video-iranian-drone-hits-azerbaijan-airport-2-injured-11171531#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-05T09:26:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Iranian Drone Hits Azerbaijan Airport"
+    },
     {
       "id": "354bfeab822c8c07d6ba12a44ef00b131295b00e",
       "title": "Euronews under scrutiny over silence on Azerbaijani journalists’ trial",
@@ -68,5 +79,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-04T10:01:06Z"
+  "last_updated": "2026-03-05T10:06:52Z"
 }
