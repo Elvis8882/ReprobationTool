@@ -1,16 +1,90 @@
 {
   "country": "FR",
-  "score": 99,
+  "score": 98,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 243,
+  "trend": -1,
+  "sources": 251,
   "sentiment": {
-    "positive": 47,
-    "neutral": 169,
-    "negative": 27
+    "positive": 49,
+    "neutral": 174,
+    "negative": 28
   },
   "latest_articles": [
+    {
+      "id": "d210bd8ff856ecd840defb3f998a869046b56083",
+      "title": "EU agrees to chop meaty names from vegetarian and vegan food products",
+      "summary": "Lawmakers will outlaw use of 31 meat-related names as part of efforts to help livestock farmers in food supply marketsEU lawmakers have agreed to ban meaty names such as steak and bacon for vegetarian and vegan foods, bu…",
+      "url": "https://www.theguardian.com/world/2026/mar/05/eu-ban-meaty-names-vegetarian-vegan-food",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-05T19:44:04+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "5f0307b3aa7b72cf53781de09f99f473a22c34fc",
+      "title": "Stock market falls resume as US-Israel war with Iran drives up oil and gas prices",
+      "summary": "FTSE 100 and France’s CAC down 1.5%; Germany’s DAX and Italy’s FTSE MIB down 1.6%; the Dow Jones was down 2%Middle East crisis – live updatesA market sell-off resumed on both sides of the Atlantic on Thursday as fears mo…",
+      "url": "https://www.theguardian.com/world/2026/mar/05/stock-market-falls-resume-as-us-israel-war-with-iran-drives-up-oil-and-gas-prices",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-05T19:35:45+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "France’s CAC down 1.5%"
+    },
+    {
+      "id": "85ee76682298ef5f4dce5dc17a0c1d2f9a9f0959",
+      "title": "Paris inks deal for Greenland’s mineral wealth",
+      "summary": "“This project will provide new and deeper knowledge about our geology and is only possible thanks to the French contribution,” the Greenlandic government said",
+      "url": "https://www.euractiv.com/news/paris-inks-deal-for-greenlands-mineral-wealth/",
+      "source": "Euractiv",
+      "published_at": "2026-03-05T16:46:31+00:00",
+      "sentiment": "positive",
+      "confidence": 0.5,
+      "evidence": "French contribution"
+    },
+    {
+      "id": "ae63848397fe7fdafce07c7d1739b7251cafa82c",
+      "title": "Geothermal energy plan is on its way, von der Leyen confirms",
+      "summary": "Backers in the European parliament promptly pointed to the growing importance of home-grown energy",
+      "url": "https://www.euractiv.com/news/geothermal-energy-plan-is-on-its-way-von-der-leyen-confirms/",
+      "source": "Euractiv",
+      "published_at": "2026-03-05T15:05:26+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "94242acb613f49958f66f4f7b4cfaf07075ccee1",
+      "title": "INTERVIEW: French general calls for new EU military chief of staff",
+      "summary": "“The bloc does not have a mature defence response,” Christophe Gomart told Euractiv",
+      "url": "https://www.euractiv.com/news/interview-french-general-calls-for-new-eu-military-chief-of-staff/",
+      "source": "Euractiv",
+      "published_at": "2026-03-05T14:08:36+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "French general calls for new EU military chief of staff"
+    },
+    {
+      "id": "55a30a230aa711a844862cd1938e56f06ba71117",
+      "title": "RED THREAD: China’s war strategy – wait",
+      "summary": "Including: Barcelona tech, India trade, Paris diplomacy, ‘Made in Europe’",
+      "url": "https://www.euractiv.com/news/red-thread-chinas-war-strategy-wait/",
+      "source": "Euractiv",
+      "published_at": "2026-03-05T12:08:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Paris diplomacy"
+    },
+    {
+      "id": "b1bbf8aa4ebd155b72c18aae3559845cbddef374",
+      "title": "One-third of parliamentarians across the EU are women - European Commission",
+      "summary": "One-third of parliamentarians across the EU are women&nbsp;&nbsp;European CommissionWomen still under-represented in European politics, despite improving trend / Article&nbsp;&nbsp;LSM.lvWomen’s representation in the EU:…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4aFR0WnNHYjV2azZrRUtYNy1zSElDWk92UkV4YWVacVNjdW1lSkxfUU90dmgtVXI2S1BjWF9lUEw4SklvT01GVHNkc1RfamxNZmhsa25EODFaNXB1TldQczFVcjJ3N2l0ZVN2ODFERV9uc1FDZHNIRkh1Y0tOUQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-05T10:00:54+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "5dd32d6c80b9d0f88793e88a14c3c491f5d95927",
       "title": "CNBC Daily Open: Tremors spread globally as Middle East conflict rages on",
@@ -138,93 +212,17 @@
       "evidence": "fighter jet project by Germany, France and Spain is currently on the brink of collapse"
     },
     {
-      "id": "bb3ee5639fd5f12f5110cc21da4d9310d10c327f",
-      "title": "Women at work: a snapshot of EU’s gender employment gap - European Commission",
-      "summary": "Women at work: a snapshot of EU’s gender employment gap&nbsp;&nbsp;European CommissionGender employment gap rises in Cyprus, Eurostat says&nbsp;&nbsp;ΚΥΠΕGender employment gap is smallest in Finland and Baltic states / A…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KcTM5S0ZfTzdGclc4NjJYTnZkSllCWEhveDBtR1JlcUxJc1BhWkJhQUNSdU1oeWZQYWxCQUtOeGxRekl3OWo4Skc5a3NVSUh2ZGNmT0ZEQUVjaWhKYTU1a0lhbGF0eVBkRHhkV1JwdDNXUFo3RXJ2MjhjMUg5Zw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-03T10:06:36+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "228abf572ebcfbaedc6d9902a5b62d284569ddda",
-      "title": "Macron Expands French Nuclear Arsenal and Vows Protection for Neighbors",
-      "summary": "The announcement was a significant step in forging a European deterrent as Russia grows more aggressive and the U.S. steps back.",
-      "url": "https://www.nytimes.com/2026/03/02/world/europe/france-nuclear-arsenal-macron.html",
+      "id": "1fbeab646efd271782c9c71d4fd21e31f9c6dbf3",
+      "title": "Germany Has Ratcheted Up Defense Spending. In Europe, That Worries Some People.",
+      "summary": "Soon the country’s armed forces budget could exceed those of Britain and France combined. In Paris, there are concerns that European “strategic autonomy” will have a German accent.",
+      "url": "https://www.nytimes.com/2026/03/03/world/europe/germany-military-defense-spending-europe-nato.html",
       "source": "NYT > World News",
-      "published_at": "2026-03-03T01:47:47+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Macron Expands French Nuclear Arsenal and Vows Protection for Neighbors"
-    },
-    {
-      "id": "7603c0f7c818ba6363f7ca3e3664f0195488a68e",
-      "title": "France to expand nuclear arsenal as Europe’s trust in U.S. falters",
-      "summary": "Macron says his nation will bring European neighbors into nuclear military drills and may let them host nuclear-capable fighters planes for the first time.",
-      "url": "https://www.washingtonpost.com/world/2026/03/02/macron-france-nuclear-umbrella-europe/",
-      "source": "World (Washington post)",
-      "published_at": "2026-03-02T22:17:02+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "France to expand nuclear arsenal as Europe’s trust in U.S. falters"
-    },
-    {
-      "id": "ec7dd5c807a9855f8661663734203a64c96fc774",
-      "title": "France to increase nuclear arsenal and European weapons cooperation, Macron says",
-      "summary": "French president says Paris could deploy nuclear-capable fighter jets to countries such as Germany and PolandFrance will increase the size of its nuclear arsenal for the first time in decades and significantly intensify…",
-      "url": "https://www.theguardian.com/world/2026/mar/02/france-increase-nuclear-arsenal-european-weapons-cooperation-macron-says",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-02T19:41:47+00:00",
-      "sentiment": "positive",
-      "confidence": 0.95,
-      "evidence": "France to increase nuclear arsenal and European weapons cooperation"
-    },
-    {
-      "id": "2bc243bc051d937c8a246b27f5cd5c098bdbb728",
-      "title": "Macron unveils revised nuclear doctrine to involve Europeans",
-      "summary": "Under the new strategy, France will open up deterrence exercises to European allies",
-      "url": "https://www.euractiv.com/news/macron-unveils-revised-nuclear-doctrine-to-involve-europeans/",
-      "source": "Euractiv",
-      "published_at": "2026-03-02T18:30:41+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Macron unveils revised nuclear doctrine to involve Europeans"
-    },
-    {
-      "id": "412b9baa14ce35c36e5c753fc2e79fdb8279dc95",
-      "title": "France to boost nuclear arsenal and extend deterrence to European allies",
-      "summary": "Emmanuel Macron said eight countries could enjoy protection from France's nuclear umbrella - but that Paris would retain sole decision-making power.",
-      "url": "https://www.bbc.com/news/articles/cj4zlnezrl7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-02T18:16:14+00:00",
-      "sentiment": "positive",
+      "published_at": "2026-03-03T10:46:20+00:00",
+      "sentiment": "negative",
       "confidence": 0.8,
-      "evidence": "France to boost nuclear arsenal and extend deterrence to European allies"
-    },
-    {
-      "id": "a5744539b2c815034b38aa1e9c99fbb42532142b",
-      "title": "Judge adjourns Paris trial of Islam scholar accused of raping three women",
-      "summary": "Former Oxford professor Tariq Ramadan did not appear in court as he was in a Geneva hospital, according to lawyersThe prominent Swiss academic and Islam scholar Tariq Ramadan has not appeared in court for the first day o…",
-      "url": "https://www.theguardian.com/world/2026/mar/02/islam-scholar-tariq-ramadan-goes-on-trial-in-paris-accused-of-raping-three-women",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-02T18:08:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Judge adjourns Paris trial of Islam scholar accused of raping three women"
-    },
-    {
-      "id": "25ab56a0c0c9fbec7f5f81b0431ac394ac56abf4",
-      "title": "France, Germany say establishing ‘nuclear steering group’",
-      "summary": "Paris and Berlin are having a troubled time when it comes to defence cooperation",
-      "url": "https://www.euractiv.com/news/france-germany-say-establishing-nuclear-steering-group/",
-      "source": "Euractiv",
-      "published_at": "2026-03-02T17:04:20+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "troubled time when it comes to defence cooperation"
+      "evidence": "In Paris, there are concerns that European “strategic autonomy” will have a German accent."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-05T10:06:52Z"
+  "last_updated": "2026-03-06T09:58:02Z"
 }

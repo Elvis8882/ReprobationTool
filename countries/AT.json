@@ -4,13 +4,65 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 89,
+  "sources": 94,
   "sentiment": {
     "positive": 2,
-    "neutral": 84,
+    "neutral": 89,
     "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "f2b1f131d6616922189a0948537446b14bc27f28",
+      "title": "Ukraine accuses Hungary of taking seven bank workers hostage in Budapest",
+      "summary": "Their bank said they were in two vans carrying $80m (£60m) worth of cash between Austria and Ukraine.",
+      "url": "https://www.bbc.com/news/articles/cd03rj7n0nro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-06T02:13:31+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "between Austria and Ukraine"
+    },
+    {
+      "id": "d210bd8ff856ecd840defb3f998a869046b56083",
+      "title": "EU agrees to chop meaty names from vegetarian and vegan food products",
+      "summary": "Lawmakers will outlaw use of 31 meat-related names as part of efforts to help livestock farmers in food supply marketsEU lawmakers have agreed to ban meaty names such as steak and bacon for vegetarian and vegan foods, bu…",
+      "url": "https://www.theguardian.com/world/2026/mar/05/eu-ban-meaty-names-vegetarian-vegan-food",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-05T19:44:04+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "ae63848397fe7fdafce07c7d1739b7251cafa82c",
+      "title": "Geothermal energy plan is on its way, von der Leyen confirms",
+      "summary": "Backers in the European parliament promptly pointed to the growing importance of home-grown energy",
+      "url": "https://www.euractiv.com/news/geothermal-energy-plan-is-on-its-way-von-der-leyen-confirms/",
+      "source": "Euractiv",
+      "published_at": "2026-03-05T15:05:26+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "3c10194efe7be1d570d4fbe927b8e76feed541ca",
+      "title": "EU countries back farm safeguards tied to Mercosur trade deal",
+      "summary": "Hungary voted against while Austria and Belgium abstained",
+      "url": "https://www.euractiv.com/news/eu-countries-back-farm-safeguards-tied-to-eu-mercosur-deal/",
+      "source": "Euractiv",
+      "published_at": "2026-03-05T12:48:24+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Austria and Belgium abstained"
+    },
+    {
+      "id": "b1bbf8aa4ebd155b72c18aae3559845cbddef374",
+      "title": "One-third of parliamentarians across the EU are women - European Commission",
+      "summary": "One-third of parliamentarians across the EU are women&nbsp;&nbsp;European CommissionWomen still under-represented in European politics, despite improving trend / Article&nbsp;&nbsp;LSM.lvWomen’s representation in the EU:…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4aFR0WnNHYjV2azZrRUtYNy1zSElDWk92UkV4YWVacVNjdW1lSkxfUU90dmgtVXI2S1BjWF9lUEw4SklvT01GVHNkc1RfamxNZmhsa25EODFaNXB1TldQczFVcjJ3N2l0ZVN2ODFERV9uc1FDZHNIRkh1Y0tOUQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-05T10:00:54+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "e2f24f276549ccff1e6d1bdb6b4e0f2358c2e081",
       "title": "Winter Paralympics 50th anniversary: Chinese dominance expected amid boycotts over Russian flag - The Washington Post",
@@ -161,58 +213,8 @@
       "published_at": "2026-02-24T15:57:36+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "f1798d30fce18815fd66a78eedcc8ae0c2eb1152",
-      "title": "EPP and ECR push for extended timelines on toxic cosmetic bans",
-      "summary": "Negotiations to revise the text are underway among political groups in the European Parliament as part of the 2025 omnibus package on chemicals",
-      "url": "https://www.euractiv.com/news/epp-and-ecr-push-for-extended-timelines-on-toxic-cosmetic-bans/",
-      "source": "Euractiv",
-      "published_at": "2026-02-24T15:25:45+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "def9216c157d312a3e14bf8d542049993febaf4f",
-      "title": "U.S. has breached trade deal and Europe is ready to retaliate, top trade lawmaker tells CNBC",
-      "summary": "The U.S. has breached the terms of its trade deal with the European Union \"several times,\" top EU trade lawmaker Bernd Lange told CNBC.",
-      "url": "https://www.cnbc.com/2026/02/24/us-eu-trade-deal-eu-parliament-suspends-trade-deal-trump-tariffs-eu-retaliation-aci.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-02-24T10:24:26+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "e1bc9710d5d88c0be2de7987e2625090b96f5589",
-      "title": "12% of transport jobs tied to foreign-controlled groups - News articles - European Commission",
-      "summary": "12% of transport jobs tied to foreign-controlled groups - News articles&nbsp;&nbsp;European CommissionEmployment in foreign-controlled multinational enterprise transport groups&nbsp;&nbsp;European Commission13% of Latvia…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RaEpaYWdsUGFuWXVKNFl3R19YWUU2S2pxTWhpOEU0cW9reWJNM1pQandvZTNpZ09TT0tRTVVHd3pUaUQ5R0JPQTRQVlJtd2FjN2dmeXctRnRGS3BTUi1FUDBRWjY1NG04dngtVC1MR2podWtDMlJ6MHZRbHhuUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-24T10:04:07+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "7c7e6cbcfec3002303b0a940e1900478f4cab6d2",
-      "title": "Ušakovs leaves board of Harmony party",
-      "summary": "Member of the European Parliament (EP) Nils Ušakovs has left the board of the Harmony party, LETA reports on 24th February.",
-      "url": "https://eng.lsm.lv/article/politics/politics/24.02.2026-usakovs-leaves-board-of-harmony-party.a636140/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-02-24T09:46:03+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "90b02b1b010f744b1fc06c4caef2adba495615e8",
-      "title": "The European Union Hits Pause on Its U.S. Trade Deal",
-      "summary": "The E.U. isn’t throwing out the deal it agreed with the United States before President Trump’s tariffs were overruled, but European officials want more clarity first.",
-      "url": "https://www.nytimes.com/2026/02/23/world/europe/eu-us-trade-deal-pause-tariffs.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-23T19:11:32+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-05T10:06:52Z"
+  "last_updated": "2026-03-06T09:58:02Z"
 }

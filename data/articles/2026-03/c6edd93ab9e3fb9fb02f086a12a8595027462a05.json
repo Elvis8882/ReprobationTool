@@ -1,0 +1,41 @@
+{
+  "id": "c6edd93ab9e3fb9fb02f086a12a8595027462a05",
+  "title": "Fallout From Mideast Swirls Over the War in Ukraine",
+  "summary_full": "Three-way peace talks are on hold, and Kyiv fears that U.S. air defense systems it needs to counter Russia could be diverted to the Iran conflict.",
+  "summary_public": "Three-way peace talks are on hold, and Kyiv fears that U.S. air defense systems it needs to counter Russia could be diverted to the Iran conflict.",
+  "url": "https://www.nytimes.com/2026/03/05/world/europe/ukraine-zelensky-iran-middle-east.html",
+  "published_at": "2026-03-05T18:16:04+00:00",
+  "source": "NYT > World News",
+  "language": "en",
+  "countries_detected": [
+    "IR",
+    "RU",
+    "UA"
+  ],
+  "countries_scored": [
+    "IR",
+    "RU",
+    "UA"
+  ],
+  "sentiment_by_country": {
+    "IR": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "U.S. air defense systems... diverted to the Iran conflict"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "air defense systems it needs to counter Russia"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Kyiv fears that U.S. air defense systems it needs"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-06T09:58:02+00:00",
+  "processed_at": "2026-03-06T09:58:02+00:00"
+}

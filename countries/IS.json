@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 3,
+  "sources": 4,
   "sentiment": {
     "positive": 1,
-    "neutral": 2,
+    "neutral": 3,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "d45b02317668d80370b6f69b5990c22c84f187d1",
+      "title": "Iceland Defeats Iceland: A U.K. Supermarket Ends a Trademark Dispute",
+      "summary": "Can a company trademark the name of a country? In the case of Iceland, the British grocery store, the answer is no.",
+      "url": "https://www.nytimes.com/2026/03/05/world/europe/iceland-supermarket-trademark.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-05T19:03:01+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Iceland Defeats Iceland"
+    },
     {
       "id": "a6ba96e9ddde12a7dddeba6f183f258b561eec6f",
       "title": "Iceland to set date for EU talks vote in coming weeks",
@@ -46,5 +57,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-05T10:06:52Z"
+  "last_updated": "2026-03-06T09:58:02Z"
 }

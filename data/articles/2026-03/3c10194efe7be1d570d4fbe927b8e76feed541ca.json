@@ -1,0 +1,41 @@
+{
+  "id": "3c10194efe7be1d570d4fbe927b8e76feed541ca",
+  "title": "EU countries back farm safeguards tied to Mercosur trade deal",
+  "summary_full": "Hungary voted against while Austria and Belgium abstained",
+  "summary_public": "Hungary voted against while Austria and Belgium abstained",
+  "url": "https://www.euractiv.com/news/eu-countries-back-farm-safeguards-tied-to-eu-mercosur-deal/",
+  "published_at": "2026-03-05T12:48:24+00:00",
+  "source": "Euractiv",
+  "language": "en",
+  "countries_detected": [
+    "AT",
+    "BE",
+    "HU"
+  ],
+  "countries_scored": [
+    "AT",
+    "BE",
+    "HU"
+  ],
+  "sentiment_by_country": {
+    "AT": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Austria and Belgium abstained"
+    },
+    "BE": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Austria and Belgium abstained"
+    },
+    "HU": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Hungary voted against"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-06T09:58:02+00:00",
+  "processed_at": "2026-03-06T09:58:02+00:00"
+}
