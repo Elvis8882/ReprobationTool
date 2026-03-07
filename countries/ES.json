@@ -3,14 +3,35 @@
   "score": 90,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 162,
+  "trend": 0,
+  "sources": 165,
   "sentiment": {
-    "positive": 23,
-    "neutral": 112,
+    "positive": 24,
+    "neutral": 114,
     "negative": 27
   },
   "latest_articles": [
+    {
+      "id": "6285b39315cc79e3bc9fd02a60008b6aab848a34",
+      "title": "PFAS pollution victims angered as von der Leyen refuses meeting",
+      "summary": "European Commission president \"can't reply positively to all meeting requests\"",
+      "url": "https://www.euractiv.com/news/pfas-pollution-victims-angered-as-von-der-leyen-refuses-meeting/",
+      "source": "Euractiv",
+      "published_at": "2026-03-06T12:19:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "7a8815fc513d9a5985c6bd5f50aaf8b1c343c4af",
+      "title": "A lone battle: Why is Pedro Sánchez the only European leader to take on Trump?",
+      "summary": "As the Spanish PM decries the war in Iran, other politicians are unable – or unwilling – to speak against the US presidentOn Wednesday morning, Pedro Sánchez delivered a 10-minute televised address with the rather bland…",
+      "url": "https://www.theguardian.com/world/2026/mar/06/pedro-sanchez-spain-european-leader-take-on-trump",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-06T05:00:12+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Spanish PM decries the war in Iran"
+    },
     {
       "id": "d210bd8ff856ecd840defb3f998a869046b56083",
       "title": "EU agrees to chop meaty names from vegetarian and vegan food products",
@@ -201,30 +222,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Trump Threatens to End Trade With Spain"
-    },
-    {
-      "id": "977b3f0626174d115a5ae0f95d005ce55c61431a",
-      "title": "As Trump Bashes Spain on Military Spending, German Chancellor Merz Looks On",
-      "summary": "Friedrich Merz has called for greater European unity, but he did not publicly object to the president rebuking Spain and Britain during an Oval Office meeting.",
-      "url": "https://www.nytimes.com/2026/03/03/us/politics/trump-spain-germany-trade-military.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-03T22:17:51+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Trump Bashes Spain on Military Spending"
-    },
-    {
-      "id": "81e933552cf5547927b4e2aceea3e154b0785e1d",
-      "title": "Pedro Sánchez defies Washington to win Spain",
-      "summary": "The Spanish PM is betting his confrontation with Donald Trump will rally the country's left behind him",
-      "url": "https://www.euractiv.com/news/pedro-sanchez-defies-washington-to-win-spain/",
-      "source": "Euractiv",
-      "published_at": "2026-03-03T18:45:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Pedro Sánchez defies Washington to win Spain"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-06T09:58:02Z"
+  "last_updated": "2026-03-07T09:46:17Z"
 }

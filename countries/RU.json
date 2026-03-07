@@ -4,13 +4,79 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 357,
+  "sources": 365,
   "sentiment": {
     "positive": 18,
-    "neutral": 73,
-    "negative": 266
+    "neutral": 74,
+    "negative": 273
   },
   "latest_articles": [
+    {
+      "id": "c962de8b4f8ff2717ff3d850873289b72223b24e",
+      "title": "Russian strike on Kharkiv apartment block kills seven",
+      "summary": "Ukraine President Volodymyr Zelensky says ten other people - including children - are injured as rescuers continue to search through rubble.",
+      "url": "https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-07T07:54:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russian strike on Kharkiv apartment block kills seven"
+    },
+    {
+      "id": "5ddca9f20e59aae7082d2189824cb6a20e9b104c",
+      "title": "US considers lifting more sanctions on Russian oil as Iran conflict sees global prices surge",
+      "summary": "Washington says new measures not aimed at easing restrictions on Moscow and only affect supplies already in transitThe US treasury secretary, Scott Bessent, said on Friday that his government was considering lifting sanc…",
+      "url": "https://www.theguardian.com/business/2026/mar/07/us-considers-lifting-more-sanctions-on-russian-oil-as-iran-conflict-sees-global-prices-surge",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-07T03:13:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "US considers lifting more sanctions on Russian oil"
+    },
+    {
+      "id": "201efb9f2909fc8b3bd813499a054778265b5e86",
+      "title": "Trump scolds Fox News reporter for question about Russia helping Iran target US troops – as it happened",
+      "summary": "This live blog is now closed.Trump news at a glance: president marks first week of Iran attacks with call for nation’s ‘unconditional surrender’US lost 92,000 jobs in February just before Trump joined Iran conflictSign u…",
+      "url": "https://www.theguardian.com/us-news/live/2026/mar/06/kristi-noem-democrats-ice-donald-trump-pete-hegseth-iran-middle-east-us-politics-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-07T03:07:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia helping Iran target US troops"
+    },
+    {
+      "id": "169ce403ade9b0a530f82647ad2850901d5e5bc3",
+      "title": "Russia Gets Silent Treatment in Paralympics Return",
+      "summary": "Russia’s flag was paraded at the opening ceremony of the Paralympics for the first time since 2014 prompting a boycott by several nations led by Ukraine.",
+      "url": "https://www.nytimes.com/2026/03/06/world/europe/2026-paralympics-russia-doping-ukraine-boycott.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-07T02:50:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Russia Gets Silent Treatment in Paralympics Return"
+    },
+    {
+      "id": "128e1c094d8961ecb7c360a6620a81996df08791",
+      "title": "Russia is providing Iran intelligence to target U.S. forces, officials say",
+      "summary": "The targeting information has included the locations of American warships and aircraft in the Middle East, the officials said.",
+      "url": "https://www.washingtonpost.com/national-security/2026/03/06/russia-iran-intelligence-us-targets/",
+      "source": "World (Washington post)",
+      "published_at": "2026-03-06T20:27:19+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Russia is providing Iran intelligence to target U.S. forces"
+    },
+    {
+      "id": "a339ede528be49eb4e02737dcb04676bf12cfb71",
+      "title": "Kubilius calls on Europe to increase missile production for Ukraine",
+      "summary": "A limited global supply could impact Ukraine's ability to ward off Russia's attacks",
+      "url": "https://www.euractiv.com/news/kubilius-calls-on-europe-to-increase-missile-production-for-ukraine/",
+      "source": "Euractiv",
+      "published_at": "2026-03-06T13:43:43+00:00",
+      "sentiment": "negative",
+      "confidence": 0.4,
+      "evidence": "Ukraine's ability to ward off Russia's attacks"
+    },
     {
       "id": "fed1e0e0099f2bfb9ff6a48bd86abf719549cd4c",
       "title": "Orbán prepared to stop shipments for Ukraine passing through Hungary as Russian oil pipeline row escalates – Europe live",
@@ -32,6 +98,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "As Trump Out-Putins Putin, Russia’s Global Influence Erodes"
+    },
+    {
+      "id": "dea57882f54909a1165355d0a5a64d807ecf7a43",
+      "title": "U.S. offers India a 30-day waiver for buying Russian oil as Iran war deepens energy supply worries",
+      "summary": "U.S. has given India a waiver to buy Russian oil for 30 days as conflict in Middle East impacts global energy supply.",
+      "url": "https://www.cnbc.com/2026/03/06/us-india-waiver-russian-oil-iran-war-energy-supply-worries-.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-03-06T05:41:08+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "buying Russian oil"
     },
     {
       "id": "dd54b2012e15992c54312caa953560bf510aca93",
@@ -76,6 +153,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Iran’s Friends Include China and Russia."
+    },
+    {
+      "id": "9532e2215ecce962ce62f456b9ac05e571fea81a",
+      "title": "Russia sees chance it may benefit from Middle East war",
+      "summary": "Some in the Kremlin believe a prolonged U.S. war could work in Russia’s favor by boosting oil prices and diverting key weapons from Ukraine.",
+      "url": "https://www.washingtonpost.com/world/2026/03/05/attack-iran-highlights-russias-fall-middle-east-beyond/",
+      "source": "World (Washington post)",
+      "published_at": "2026-03-05T10:00:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "work in Russia’s favor by boosting oil prices and diverting key weapons"
     },
     {
       "id": "27100cd91c83e3db7469b0f8e3594481af374f7d",
@@ -142,96 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "gift more than half a billion dollars a year to Russia’s war machine"
-    },
-    {
-      "id": "d69de381700f1aed27bc8a91165a873cdab9428b",
-      "title": "Ukraine war briefing: Merz tells Trump Ukraine must not give up more territory",
-      "summary": "German chancellor says that he underscored need for continued support for Kyiv during US visit; Trump says Ukraine is ‘very high’ on his priority list. What we know on day 1,470The German chancellor, Friedrich Merz, in W…",
-      "url": "https://www.theguardian.com/world/2026/mar/04/ukraine-war-briefing-merz-tells-trump-ukraine-must-not-give-up-more-territory",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-04T01:05:07+00:00",
-      "sentiment": "negative",
-      "confidence": 0.4,
-      "evidence": "Russia is playing for time here, and in doing so is also acting against"
-    },
-    {
-      "id": "0894785021139212f77bef1c27045afc5e54274e",
-      "title": "Woman faces trial for donating to Russian military / Article - LSM.lv",
-      "summary": "Woman faces trial for donating to Russian military / Article&nbsp;&nbsp;LSM.lv",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVzJ4YVhiLXEwX2U1bDh5bzBKeHNzMV9EbXpYSHVmdWtEWE44Z1pteW1hc05mNUJxMGc5TWpZWWhoMnNpenhVZVcwdkxDbTdaZnFCMm8td1pUMGNDWHUtcmxFb1plR2c2UUd3UzRnSS03NnNkNFFaNGtfZ3hFaHdNSkpsbkwtNzFELV90d3JuaUpTM20wV3VMT0JxTlQxTkd1WEN6enpGLVFWOEM0dDM3ZQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-03T09:38:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Woman faces trial for donating to Russian military"
-    },
-    {
-      "id": "f94e7fab4bfbcb2eb7b36292208f690e1ea96de8",
-      "title": "Why Iran should not count on allies Russia and China to come to its aid",
-      "summary": "Iran's closest allies, Russia and China, have not offered material support to it, exposing the hard limits of its \"strategic\" partnerships.",
-      "url": "https://www.cnbc.com/2026/03/02/iran-china-russia-strikes-assistance-alliance-weapons-missiles-geopolitics-oil-prices-ukraine.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-03-03T06:11:17+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Iran should not count on allies Russia and China"
-    },
-    {
-      "id": "228abf572ebcfbaedc6d9902a5b62d284569ddda",
-      "title": "Macron Expands French Nuclear Arsenal and Vows Protection for Neighbors",
-      "summary": "The announcement was a significant step in forging a European deterrent as Russia grows more aggressive and the U.S. steps back.",
-      "url": "https://www.nytimes.com/2026/03/02/world/europe/france-nuclear-arsenal-macron.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-03T01:47:47+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russia grows more aggressive"
-    },
-    {
-      "id": "b7e53dc36b42bcbc79f7e771098088eb685ec4ce",
-      "title": "The Brief – As Europe deliberates, Putin doubles down on Iran",
-      "summary": "A regime short on legitimacy finds its most reliable backer in Moscow – deepening an axis Europe can no longer afford to ignore",
-      "url": "https://www.euractiv.com/opinion/the-brief-as-europe-deliberates-putin-doubles-down-on-iran/",
-      "source": "Euractiv",
-      "published_at": "2026-03-02T16:50:05+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "deepening an axis Europe can no longer afford to ignore"
-    },
-    {
-      "id": "9967916f90d4441d80f2347e62edc291654462f3",
-      "title": "Ukraine vs England: Nicole Kozlova on how the Ukraine-Russia war has impacted football ahead of World Cup qualifier in Turkey - Sky Sports",
-      "summary": "Ukraine vs England: Nicole Kozlova on how the Ukraine-Russia war has impacted football ahead of World Cup qualifier in Turkey&nbsp;&nbsp;Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWnBsdmdNM3VEbUxoMnRvc0hySmdEMTdiZzI5aHA4V0lVWEZ0Y0xlbW1xdjExWTVyWG83NUI3dUxhTXRCang5eVZIaGlNdFM0LXdHMVNPdTdObExHVFhfTEpMVVVFRU5FekwtYi1CSkx5Y3pTcHFCZGV4N1BYaUdrQUpZRU9XME52d2hHUHJwemtrZ19ld1RTVXFOX2pqeHpOMElRQjd2bWZSVHNUeTUySzd5UktxMzFHSHJqMDlPdnlDNi1EWFRldlJoV0lWa213dEdpaENneW9iTDg2cDZyZDhNMWRxYnJjbnp6R01hS21UTHYwbUtESFJJWWhGSExabWR1QmY5cW5Uckk?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-02T07:50:09+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Ukraine-Russia war has impacted football"
-    },
-    {
-      "id": "588699b8ee61f113177fe2d8500446ad43bde0a6",
-      "title": "Hanson calls censure motion a ‘stunt’ before leaving chamber – as it happened",
-      "summary": "This blog is now closedPauline Hanson censured over Muslim comments but only two Coalition senators back motionGet our breaking news email, free app or daily news podcastJoyce says petrol prices will increase due to conf…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/mar/02/politics-updates-federal-parliament-anthony-albanese-labor-angus-taylor-coalition-nsw-budget-estimates-iran-war-reactions-ntwnfb",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-02T07:01:23+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Russia’s invasion of Ukraine that affected the whole world"
-    },
-    {
-      "id": "ee076b3a5b781502eddccf0b7dd6856a0c736624",
-      "title": "‘Some parents said they’d break my knees’: the teacher who exposed Putin’s primary school propaganda",
-      "summary": "Grenade-throwing contests replaced PE and ‘denazification’ speeches became homework. Pavel Talankin’s undercover film about his school’s indoctrination drive won a Bafta and is tipped for an Oscar, but has left him in ex…",
-      "url": "https://www.theguardian.com/film/2026/mar/02/teacher-putin-primary-school-propoganda-mr-nobody-against-putin-pavel-talankin",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-02T06:00:01+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "teacher who exposed Putin’s primary school propaganda"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-06T09:58:02Z"
+  "last_updated": "2026-03-07T09:46:17Z"
 }

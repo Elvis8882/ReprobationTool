@@ -4,13 +4,34 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 199,
+  "sources": 201,
   "sentiment": {
     "positive": 39,
-    "neutral": 129,
+    "neutral": 131,
     "negative": 31
   },
   "latest_articles": [
+    {
+      "id": "3f37a43aa6fc49a4b7577e08923f24726429d5ce",
+      "title": "Surfers in Munich (Yes, Munich) Just Want Their Wave Back",
+      "summary": "For decades, enthusiasts rode the cresting Eisbach creek in the southern German city, some 200 miles from the nearest coast. But the wave has vanished, prompting arguments about how to restore it.",
+      "url": "https://www.nytimes.com/2026/03/07/world/europe/munich-surfing-wave.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-07T05:01:09+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Surfers in Munich (Yes, Munich) Just Want Their Wave Back"
+    },
+    {
+      "id": "6285b39315cc79e3bc9fd02a60008b6aab848a34",
+      "title": "PFAS pollution victims angered as von der Leyen refuses meeting",
+      "summary": "European Commission president \"can't reply positively to all meeting requests\"",
+      "url": "https://www.euractiv.com/news/pfas-pollution-victims-angered-as-von-der-leyen-refuses-meeting/",
+      "source": "Euractiv",
+      "published_at": "2026-03-06T12:19:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "9bd1890db7cdffd851880c842b86bd2d778ff658",
       "title": "World Cup luge circuit set to return to Königssee, Germany next season. Tracks for next 4 years set - The Washington Post",
@@ -201,29 +222,8 @@
       "sentiment": "mixed",
       "confidence": 0.8,
       "evidence": "Germany Has Ratcheted Up Defense Spending... That Worries Some People."
-    },
-    {
-      "id": "bb3ee5639fd5f12f5110cc21da4d9310d10c327f",
-      "title": "Women at work: a snapshot of EU’s gender employment gap - European Commission",
-      "summary": "Women at work: a snapshot of EU’s gender employment gap&nbsp;&nbsp;European CommissionGender employment gap rises in Cyprus, Eurostat says&nbsp;&nbsp;ΚΥΠΕGender employment gap is smallest in Finland and Baltic states / A…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KcTM5S0ZfTzdGclc4NjJYTnZkSllCWEhveDBtR1JlcUxJc1BhWkJhQUNSdU1oeWZQYWxCQUtOeGxRekl3OWo4Skc5a3NVSUh2ZGNmT0ZEQUVjaWhKYTU1a0lhbGF0eVBkRHhkV1JwdDNXUFo3RXJ2MjhjMUg5Zw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-03T10:06:36+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "d764a5244e4e5bbccccf78017fc79e171f5360f8",
-      "title": "Trump hosts Germany’s Merz for talks eclipsed by Mideast war",
-      "summary": "The long-scheduled White House meeting was supposed to focus on the war in Ukraine and rocky EU-US trade relations",
-      "url": "https://www.euractiv.com/news/trump-hosts-germanys-merz-for-talks-eclipsed-by-mideast-war/",
-      "source": "Euractiv",
-      "published_at": "2026-03-03T06:47:17+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "Trump hosts Germany’s Merz for talks eclipsed by Mideast war"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-06T09:58:02Z"
+  "last_updated": "2026-03-07T09:46:17Z"
 }

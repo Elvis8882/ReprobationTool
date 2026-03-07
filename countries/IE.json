@@ -1,16 +1,37 @@
 {
   "country": "IE",
-  "score": 84,
+  "score": 85,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 103,
+  "trend": 1,
+  "sources": 106,
   "sentiment": {
-    "positive": 13,
-    "neutral": 86,
+    "positive": 14,
+    "neutral": 88,
     "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "946ab6260dd329e5439dc79b294637d319cdcb99",
+      "title": "Ireland strikes new five‑year drug pricing deals, speeding access to medicines [Advocacy Lab]",
+      "summary": "Faster access to breakthrough medicines, and stronger drug supply chain dynamics expected from new deals",
+      "url": "https://www.euractiv.com/news/ireland-strikes-new-five%e2%80%91year-drug-pricing-deals-speeding-access-to-medicines/",
+      "source": "Euractiv",
+      "published_at": "2026-03-06T15:31:29+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ireland strikes new five‑year drug pricing deals, speeding access to medicines"
+    },
+    {
+      "id": "6285b39315cc79e3bc9fd02a60008b6aab848a34",
+      "title": "PFAS pollution victims angered as von der Leyen refuses meeting",
+      "summary": "European Commission president \"can't reply positively to all meeting requests\"",
+      "url": "https://www.euractiv.com/news/pfas-pollution-victims-angered-as-von-der-leyen-refuses-meeting/",
+      "source": "Euractiv",
+      "published_at": "2026-03-06T12:19:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "e98d19dadaf6a3d8eaa5eaf4144331ec4f54ad3f",
       "title": "FIRST AID: EU-WHO women’s health study",
@@ -41,6 +62,17 @@
       "published_at": "2026-03-05T15:05:26+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "e316b86a9debbb5564b359c82e3d4d81a6c6bbdb",
+      "title": "Ireland pushes tougher nicotine rules, sending signal to Brussels",
+      "summary": "Dublin moves ahead nationally as EU nicotine reforms remain stalled",
+      "url": "https://www.euractiv.com/news/ireland-pushes-tougher-nicotine-rules-sending-signal-to-brussels/",
+      "source": "Euractiv",
+      "published_at": "2026-03-05T13:08:16+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ireland pushes tougher nicotine rules, sending signal to Brussels"
     },
     {
       "id": "b1bbf8aa4ebd155b72c18aae3559845cbddef374",
@@ -187,40 +219,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Novo in Ireland"
-    },
-    {
-      "id": "e50b48286b7f5dd351908c4e156e57887e1c8896",
-      "title": "Why Novo Nordisk's Ireland expansion is key to fighting off Eli Lilly",
-      "summary": "Novo Nordisk is investing in a facility in Ireland as it expands its production capacities of the newly launched Wegovy pill, the Danish drugmaker said Monday.",
-      "url": "https://www.cnbc.com/2026/03/02/novo-nordisk-stock-eli-lilly-wegovy-ireland-supply-news.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-03-02T15:57:15+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Novo Nordisk is investing in a facility in Ireland"
-    },
-    {
-      "id": "2aec38eda121be244f7b4735f1010f523886fb05",
-      "title": "Women held 35% of managerial positions in 2024 - European Commission",
-      "summary": "Women held 35% of managerial positions in 2024&nbsp;&nbsp;European CommissionCyprus records the lowest percentage of women in managerial positions in the EU, according to Eurostat&nbsp;&nbsp;ΚΥΠΕGreece Records a 15% Rise…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nOGNWb3N2RjhJcHJwelRGRUkwaC1HaWkzLUtOMGxnd1ExRl9Hb0loX1NnS0lIY0tBSXIzV19qaFVOZjhtQTRpclRna1Y5YnE3TmRySXBwUHlfeWIxWGM0VUdIT09SUFQ4U0JXVnVzUjBOMUpJMFhJVFZKb0U1QQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-02T10:04:12+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "068ccbc3eb3611b3dcc20d25b96ba0e3831ab9e4",
-      "title": "EU considers response to Middle East conflict as countries prepare to evacuate citizens – Europe live",
-      "summary": "EU’s top diplomat, Kaja Kallas, warns against further escalation following US and Israel strikes on IranMeanwhile, the Irish European affairs and defence minister Thomas Byrne said that the advice for Irish people in the…",
-      "url": "https://www.theguardian.com/world/live/2026/mar/02/eu-response-middle-east-conflict-evacuate-citizens-europe-live-latest-news",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-02T09:15:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "advice for Irish people in the Gulf region remains to stay sheltered"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-06T09:58:02Z"
+  "last_updated": "2026-03-07T09:46:17Z"
 }

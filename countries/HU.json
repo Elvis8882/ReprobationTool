@@ -1,16 +1,48 @@
 {
   "country": "HU",
-  "score": 70,
+  "score": 68,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 125,
+  "trend": -2,
+  "sources": 128,
   "sentiment": {
     "positive": 1,
-    "neutral": 86,
-    "negative": 38
+    "neutral": 87,
+    "negative": 40
   },
   "latest_articles": [
+    {
+      "id": "b63ebc8b52229fef8f6315892a7653065ade9cdf",
+      "title": "Hungary seizes millions of euros in cash and gold from Ukrainian convoy",
+      "summary": "Seven Ukrainians arrested and money-laundering investigation launched in latest spat between Kyiv and BudapestAn increasingly acrimonious spat between Hungary and Ukraine has escalated further, as Budapest impounded two…",
+      "url": "https://www.theguardian.com/world/2026/mar/06/hungary-seizes-millions-euros-cash-gold-ukrainian-convoy",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-06T16:00:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Hungary seizes millions of euros in cash and gold from Ukrainian convoy"
+    },
+    {
+      "id": "6285b39315cc79e3bc9fd02a60008b6aab848a34",
+      "title": "PFAS pollution victims angered as von der Leyen refuses meeting",
+      "summary": "European Commission president \"can't reply positively to all meeting requests\"",
+      "url": "https://www.euractiv.com/news/pfas-pollution-victims-angered-as-von-der-leyen-refuses-meeting/",
+      "source": "Euractiv",
+      "published_at": "2026-03-06T12:19:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "9c420b3c0be3144c25c9b9a0200a84597715ce20",
+      "title": "EPP troublemaker backs Orbán over party colleague in Hungarian election",
+      "summary": "Slovenian lawmaker Branko Grims has publicly supported Orbán over Péter Magyar, whose Tisza party sits with Grim's parliamentary group",
+      "url": "https://www.euractiv.com/news/epp-troublemaker-backs-orban-over-party-colleague-in-hungarian-election/",
+      "source": "Euractiv",
+      "published_at": "2026-03-06T11:53:09+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "backs Orbán over party colleague in Hungarian election"
+    },
     {
       "id": "fed1e0e0099f2bfb9ff6a48bd86abf719549cd4c",
       "title": "Orbán prepared to stop shipments for Ukraine passing through Hungary as Russian oil pipeline row escalates – Europe live",
@@ -186,41 +218,8 @@
       "published_at": "2026-03-02T10:04:12+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "7b81bcfbebd26e873543494db2bf847958dcd5ed",
-      "title": "Editors’ Choice: Unwavering support?",
-      "summary": "While EU leaders panned Orbán for Hungary's obstruction to Ukraine support measures, the gap between rhetoric and action is growing across the Union",
-      "url": "https://www.euractiv.com/opinion/editors-choice-unwavering-support/",
-      "source": "Euractiv",
-      "published_at": "2026-02-27T16:45:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "EU leaders panned Orbán for Hungary's obstruction to Ukraine support"
-    },
-    {
-      "id": "93702602a80ec621bb512d55fb703775f8f865a4",
-      "title": "Hungary Plays Spoiler in Europe as Orban Strains for Votes at Home",
-      "summary": "Facing a serious election challenge, Prime Minister Viktor Orban is holding up a big E.U. loan for Ukraine. Analysts say the timing is no coincidence.",
-      "url": "https://www.nytimes.com/2026/02/27/world/europe/hungary-orban-europe.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-27T15:31:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Orban is holding up a big E.U. loan for Ukraine."
-    },
-    {
-      "id": "f121f90b6acd02699ff9fbec58448d34a47a5208",
-      "title": "Slovakia, Hungary push ‘fact-finding mission’ in Soviet-era pipeline spat",
-      "summary": "The Druzhba pipeline was damaged after Russian strikes last month, halting deliveries to Slovakia and Hungary",
-      "url": "https://www.euractiv.com/news/slovakia-hungary-push-fact-finding-mission-in-soviet-era-pipeline-spat/",
-      "source": "Euractiv",
-      "published_at": "2026-02-27T13:11:21+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "halted deliveries to Slovakia and Hungary"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-06T09:58:02Z"
+  "last_updated": "2026-03-07T09:46:17Z"
 }

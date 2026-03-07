@@ -15,8 +15,20 @@
     "RU",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-03-06T09:58:02+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-07T09:46:17+00:00",
+  "sentiment_by_country": {
+    "RU": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "work in Russia’s favor by boosting oil prices and diverting key weapons"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "diverting key weapons from Ukraine."
+    }
+  },
+  "processed_at": "2026-03-07T09:46:17+00:00"
 }

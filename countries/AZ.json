@@ -1,16 +1,27 @@
 {
   "country": "AZ",
-  "score": 59,
+  "score": 58,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 8,
+  "trend": -1,
+  "sources": 9,
   "sentiment": {
     "positive": 1,
     "neutral": 2,
-    "negative": 5
+    "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "43e4318a1d2f12a8553e18957904c4f49994b4d9",
+      "title": "Flight paths squeezed as Iran conflict closes more airspace",
+      "summary": "A drone attack on Azerbaijan has narrowed choices for airlines scrambling to respond to disruption in the Gulf.",
+      "url": "https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-06T18:09:19+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "A drone attack on Azerbaijan has narrowed choices for airlines"
+    },
     {
       "id": "cc788cd58b5aa425491ec549057b4cf46bb2d347",
       "title": "Iranian Drones Fall in Azerbaijan as Conflict Spreads Beyond Mideast",
@@ -101,5 +112,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-06T09:58:02Z"
+  "last_updated": "2026-03-07T09:46:17Z"
 }
