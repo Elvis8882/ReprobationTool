@@ -1,16 +1,27 @@
 {
   "country": "JO",
-  "score": 55,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 6,
+  "score": 64,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": 9,
+  "sources": 8,
   "sentiment": {
-    "positive": 0,
+    "positive": 1,
     "neutral": 5,
-    "negative": 1
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "a54c4e4859a3c71a1157e6c116b3eed7909c8b39",
+      "title": "Iran ‘struck’ high-value US radar systems in Gulf, show satellite images",
+      "summary": "Iran has reportedly targeted key US radar and early warning systems across the Gulf, including advanced THAAD missile defense components in Jordan and Qatar, and a satellite communications hub in the UAE. These strikes,…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/middle-east-conflict-iran-struck-high-value-us-radar-systems-in-gulf-show-satellite-images/articleshow/129245710.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-03-08T01:49:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "THAAD missile defense components in Jordan"
+    },
     {
       "id": "b09c22242a44173b61630d44655d310cf98e1373",
       "title": "Ukraine to help US and its allies counter Iranian drones in Middle East, says Zelenskyy",
@@ -21,6 +32,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "spoken in recent days to the leaders of the United Arab Emirates, Qatar, Bahrain, Jordan and Kuwait"
+    },
+    {
+      "id": "e8539a8397217b4a79950c546cfc2f39d5fff666",
+      "title": "One beer, bed, then back on duty – the British pilot who made RAF history shooting down drones",
+      "summary": "F-35 pilot based in Cyprus becomes first to destroy a target in combat – and celebrates with a single beerIn the clear skies above Jordan on Monday night, a British F-35 pilot made a small piece of history. Flying for fo…",
+      "url": "https://www.theguardian.com/uk-news/2026/mar/05/british-pilot-iranian-shahed-drones-raf-akrotiri-cyprus",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-05T20:00:01+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "In the clear skies above Jordan on Monday night, a British F-35 pilot made a small piece of history."
     },
     {
       "id": "05ae2ce7fe54a646e2a703a197724fbc7a682f4c",
@@ -79,5 +101,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-07T09:46:17Z"
+  "last_updated": "2026-03-08T09:46:42Z"
 }

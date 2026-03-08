@@ -1,16 +1,38 @@
 {
   "country": "CY",
-  "score": 95,
+  "score": 94,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 104,
+  "trend": -1,
+  "sources": 108,
   "sentiment": {
-    "positive": 9,
-    "neutral": 82,
-    "negative": 13
+    "positive": 10,
+    "neutral": 83,
+    "negative": 15
   },
   "latest_articles": [
+    {
+      "id": "d9b647690cf5e44d2c43d0127f2402756a6f3395",
+      "title": "War fuels debate in Cyprus over UK military bases",
+      "summary": "“British Bases Out” is the slogan of Cypriot protesters after a drone strike targeted the RAF Akrotiri airbase.",
+      "url": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-08T08:03:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "drone strike targeted the RAF Akrotiri airbase"
+    },
+    {
+      "id": "013d9b2e38f39ce3a04d1933053b35a6c4e3edf9",
+      "title": "UK faces growing calls from locals to remove Cyprus military bases",
+      "summary": "Foreign minister, Constantinos Kombos, tells Guardian Iranian-made drone that hit airbase was launched from Lebanon  Britain is facing growing calls to withdraw its military bases from Cyprus as locals step up protests a…",
+      "url": "https://www.theguardian.com/world/2026/mar/07/uk-faces-growing-calls-from-locals-to-remove-cyprus-military-bases",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-08T00:04:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "growing calls to remove Cyprus military bases"
+    },
     {
       "id": "bbe9dbb70230a6a1d1388266ba81d3981815cb99",
       "title": "Cyprus raises doubts about future of British bases on island after drone strike",
@@ -44,6 +66,17 @@
       "evidence": "Cyprus presidency wants an in-depth discussion on child safeguarding measures"
     },
     {
+      "id": "9e99d52f148fa774574e2f696a4343c0541b3898",
+      "title": "EU total market production up in December 2025 - European Commission",
+      "summary": "EU total market production up in December 2025&nbsp;&nbsp;European CommissionEU Industrial Output Contracts in Q3 and Q4 2025 | Eurostat Data - News and Statistics&nbsp;&nbsp;IndexBox - Market Intelligence PlatformEurope…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jNjlDZWJxUms3Y2JoUU1sdGsxZXdPRkdsYnBpamJMWFBCX3dkZkpLM2NxeU96SlpVUnltSmZzZ2lkUkR6ZjRKWG9fLUc2N1o3NFJWc2hqN0ZjdU5pVVBzdDI1SzJaNjRkZU5sRFhwYkVwQnFPQnhpc1R3SGVTUQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-06T10:18:25+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "EU total market production up in December 2025"
+    },
+    {
       "id": "6a8c427bc83d0262e9823a9b10efcab174db4b14",
       "title": "FIREPOWER: EU countries shield Cyprus amid renewed Greece-Turkey tensions",
       "summary": "Cyprus, FCAS, Romania",
@@ -53,6 +86,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Cyprus, FCAS, Romania"
+    },
+    {
+      "id": "e8539a8397217b4a79950c546cfc2f39d5fff666",
+      "title": "One beer, bed, then back on duty – the British pilot who made RAF history shooting down drones",
+      "summary": "F-35 pilot based in Cyprus becomes first to destroy a target in combat – and celebrates with a single beerIn the clear skies above Jordan on Monday night, a British F-35 pilot made a small piece of history. Flying for fo…",
+      "url": "https://www.theguardian.com/uk-news/2026/mar/05/british-pilot-iranian-shahed-drones-raf-akrotiri-cyprus",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-05T20:00:01+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "F-35 pilot based in Cyprus becomes first to destroy a target in combat"
     },
     {
       "id": "d210bd8ff856ecd840defb3f998a869046b56083",
@@ -176,52 +220,8 @@
       "published_at": "2026-03-04T05:11:43+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "a19ec7451ea39a02b08e6b9f852c3f9e5acb5d7f",
-      "title": "‘I’m not happy with the UK’: Donald Trump criticizes Keir Starmer over military access",
-      "summary": "President Trump has sharply criticized UK Prime Minister Starmer for initially withholding UK bases for US strikes on Iran, stating the \"special relationship\" has weakened. Starmer later agreed to limited defensive use o…",
-      "url": "https://timesofindia.indiatimes.com/world/us/im-not-happy-with-the-uk-donald-trump-criticizes-keir-starmer-over-military-access/articleshow/128990391.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-03T20:53:35+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "UK base in Cyprus was attacked."
-    },
-    {
-      "id": "61ddf6d6e3708dbaf64c47fdcd7a258bb0182d27",
-      "title": "Cyprus fears ‘chaotic’ terrorism from Turkey-occupied territory as EU help ramps up",
-      "summary": "More than 10,000 pro‑regime Iranians reside in the Turkey-occupied part of Cyprus, Euractiv has learned",
-      "url": "https://www.euractiv.com/news/cyprus-fears-chaotic-terrorism-from-turkey-occupied-territory-as-eu-help-ramps-up/",
-      "source": "Euractiv",
-      "published_at": "2026-03-03T17:01:12+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Cyprus fears ‘chaotic’ terrorism from Turkey-occupied territory"
-    },
-    {
-      "id": "bb3ee5639fd5f12f5110cc21da4d9310d10c327f",
-      "title": "Women at work: a snapshot of EU’s gender employment gap - European Commission",
-      "summary": "Women at work: a snapshot of EU’s gender employment gap&nbsp;&nbsp;European CommissionGender employment gap rises in Cyprus, Eurostat says&nbsp;&nbsp;ΚΥΠΕGender employment gap is smallest in Finland and Baltic states / A…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KcTM5S0ZfTzdGclc4NjJYTnZkSllCWEhveDBtR1JlcUxJc1BhWkJhQUNSdU1oeWZQYWxCQUtOeGxRekl3OWo4Skc5a3NVSUh2ZGNmT0ZEQUVjaWhKYTU1a0lhbGF0eVBkRHhkV1JwdDNXUFo3RXJ2MjhjMUg5Zw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-03T10:06:36+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Gender employment gap rises in Cyprus"
-    },
-    {
-      "id": "62802eb0795e86cbefa5fbc0f16913d4bdcc3d89",
-      "title": "Israel basketball national team beats Cyprus, qualifies for next round of World Cup qualifiers - The Jerusalem Post",
-      "summary": "Israel basketball national team beats Cyprus, qualifies for next round of World Cup qualifiers&nbsp;&nbsp;The Jerusalem PostTürkiye, Bosnia and Herzegovina advance to Second Round&nbsp;&nbsp;FIBA10 national teams advance…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EdUlvZ0RuOURaZVhRTGxXeEdMZmxUQzhmNnpNUnhjVTNPQUpmcUhtaTF3aWd1YlJrUlJqOThEQUFjc3l1ZmtoM1hINU5iVUgtY1ctY1puTXpGWG9wbjY2RzdFeElXUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-03T01:11:42+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Israel basketball national team beats Cyprus"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-07T09:46:17Z"
+  "last_updated": "2026-03-08T09:46:42Z"
 }

@@ -1,16 +1,71 @@
 {
   "country": "LB",
-  "score": 70,
+  "score": 64,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -5,
-  "sources": 51,
+  "trend": -6,
+  "sources": 59,
   "sentiment": {
     "positive": 0,
     "neutral": 10,
-    "negative": 41
+    "negative": 49
   },
   "latest_articles": [
+    {
+      "id": "8f00e12ebb113af09d4bb838ff8cb6600769557a",
+      "title": "Failed Israeli mission to recover pilot’s remains leaves 41 dead in Lebanon",
+      "summary": "An Israeli special forces operation in Lebanon's Bekaa Valley, targeting Nabi Sheet, aimed to locate the remains of missing airman Ron Arad. The overnight raid, involving air strikes and ground clashes, resulted in 41 de…",
+      "url": "https://timesofindia.indiatimes.com/defence/international/failed-israeli-mission-to-recover-pilots-remains-leaves-41-dead-in-lebanon/articleshow/129255789.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-03-08T06:47:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "41 dead in Lebanon"
+    },
+    {
+      "id": "37aa56550f18e8251a358a9d1f47fddf5a048813",
+      "title": "Israel's Failed Lebanon Op To Find Body Of Pilot Missing Since 1986 Kills 41",
+      "summary": "Gutted buildings, torn-off roofs, munitions were seen in Nabi Sheet",
+      "url": "https://www.ndtv.com/world-news/nabi-sheet-israels-failed-op-to-find-body-of-pilot-ron-arad-missing-since-1986-kills-41-in-lebanon-11184524#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-08T05:08:32+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Kills 41"
+    },
+    {
+      "id": "013d9b2e38f39ce3a04d1933053b35a6c4e3edf9",
+      "title": "UK faces growing calls from locals to remove Cyprus military bases",
+      "summary": "Foreign minister, Constantinos Kombos, tells Guardian Iranian-made drone that hit airbase was launched from Lebanon  Britain is facing growing calls to withdraw its military bases from Cyprus as locals step up protests a…",
+      "url": "https://www.theguardian.com/world/2026/mar/07/uk-faces-growing-calls-from-locals-to-remove-cyprus-military-bases",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-08T00:04:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "drone that hit airbase was launched from Lebanon"
+    },
+    {
+      "id": "a94385b217e248ed829fdf06b88d1813b803f805",
+      "title": "Deadly Clashes in Lebanon as Israel Renews Search for Missing Airman",
+      "summary": "Dozens were killed in the Bekaa Valley overnight, the Lebanese health authorities said, amid airstrikes and intense violence in the town of Nabi Sheet.",
+      "url": "https://www.nytimes.com/2026/03/07/world/middleeast/lebanon-nabi-sheet-ron-arad.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-07T23:28:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Deadly Clashes in Lebanon as Israel Renews Search for Missing Airman"
+    },
+    {
+      "id": "54226ecf34bb882ad656e75f79c59233e169634f",
+      "title": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains",
+      "summary": "Overnight, one Israeli operation saw at least 41 people killed and 40 injured, according to the Lebanese health ministry.",
+      "url": "https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-07T19:16:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Dozens killed as Israeli special forces raid Lebanese village"
+    },
     {
       "id": "2ac4e51dbaaedeb85e2a5fb1d73bed9a1fae1c5c",
       "title": "Trump Demands Iran’s ‘Unconditional Surrender’ as Israel Pounds Tehran and Lebanon",
@@ -67,6 +122,17 @@
       "evidence": "Families Forced to Sleep on the Streets of Beirut as Israel Pounds Hezbollah"
     },
     {
+      "id": "98fbd450470380d161be45ba45e003e198b55b21",
+      "title": "Beirut evacuees 'sleeping in tents and cars'",
+      "summary": "Some residents in the Beirut suburb of Dahieh have left their homes amid ongoing air strikes by Israel.",
+      "url": "https://www.bbc.com/news/videos/cg4g0gl23z4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-06T18:37:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Some residents in the Beirut suburb of Dahieh have left their homes"
+    },
+    {
       "id": "0171e9eb688bbd6996d22159c7ea3f00fa207586",
       "title": "Israeli troops push into Lebanon for yet another war with Iran's proxy Hezbollah",
       "summary": "The BBC sees troops and tanks massing near the border, as speculation mounts that Israel is planning a full-scale ground invasion to fight Hezbollah.",
@@ -76,6 +142,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Israeli troops push into Lebanon for yet another war"
+    },
+    {
+      "id": "d11b52932f10548670790405f620fe4c9de073a7",
+      "title": "Live Updates: Tehran, Beirut and Tel Aviv Are Targeted in Attacks and Counterattacks",
+      "summary": "The Israeli military said it was striking Iran’s capital while pounding Hezbollah targets in Lebanon, as fighting there intensified. Iran said it was targeting Tel Aviv, the country’s state news agency reported.",
+      "url": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon",
+      "source": "NYT > World News",
+      "published_at": "2026-03-06T09:40:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Beirut ... Targeted in Attacks and Counterattacks"
     },
     {
       "id": "5648608b6f3f69df34b146a03c81987c8c74000c",
@@ -153,85 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Beirut erupted in chaos"
-    },
-    {
-      "id": "c8ab566dbbae820c6b34215501495dabe7a90308",
-      "title": "Israel launches huge strikes against south Beirut after mass evacuation order",
-      "summary": "Residents fled Lebanese capital in panic before assaults on claimed Hezbollah targets while Tehran continues to launch retaliatory attacksMiddle East crisis – live updatesIsrael has launched massive strikes against the s…",
-      "url": "https://www.theguardian.com/world/2026/mar/05/israel-orders-people-evacuate-beirut-suburbs-lebanon-iran",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-05T23:45:02+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Residents fled Lebanese capital in panic before assaults"
-    },
-    {
-      "id": "3af9addd238586e98c6f13a7de61622e352a88e5",
-      "title": "Israel Begins Assault in Southern Beirut, Raising Fears of Wider Incursion",
-      "summary": "As the war with Iran threatens to engulf more countries in the region, President Trump said he wanted to be involved in picking a new leader in Tehran.",
-      "url": "https://www.nytimes.com/2026/03/05/world/middleeast/israel-evacuation-lebanon-iran-trump.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-05T23:35:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "war with Iran threatens to engulf more countries"
-    },
-    {
-      "id": "6cdb86c0437fcc9c1bc2b399607106a5b0e23270",
-      "title": "Israel Pushes Farther Into Lebanon, and Readies for More",
-      "summary": "Days into its offensive against Hezbollah, Israel is massing armored vehicles near the Lebanese border for a potentially much larger ground incursion.",
-      "url": "https://www.nytimes.com/2026/03/05/world/middleeast/israel-lebanon-hezbollah.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-05T23:29:52+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "offensive against Hezbollah, Israel is massing armored vehicles"
-    },
-    {
-      "id": "8d1057cd8f4fd1700ca5f89f99398db03fdf124a",
-      "title": "Israel expanded its evacuation warnings for Lebanese residents to Beirut’s southern suburbs.",
-      "summary": "",
-      "url": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/israel-expanded-its-evacuation-warnings-for-lebanese-residents-to-beiruts-southern-suburbs",
-      "source": "NYT > World News",
-      "published_at": "2026-03-05T17:16:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "evacuation warnings for Lebanese residents to Beirut’s southern suburbs."
-    },
-    {
-      "id": "71be9769428e9ae62ae58f6bf4b309a33e2c4918",
-      "title": "Cabinet ministers ‘blocked’ Starmer from letting US use British bases for military operation against Iran on Friday – UK politics live",
-      "summary": "A number of ministers voiced their strong opposition to Donald Trump using British airbases to attack Iran’s missile capability, according to a reportHello and welcome to the UK politics live blog.Cabinet ministers, led…",
-      "url": "https://www.theguardian.com/politics/live/2026/mar/05/cabinet-ministers-blocked-starmer-from-letting-us-use-british-bases-for-military-operation-against-iran-on-friday-uk-politics-live",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-05T09:38:17+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Lebanon"
-    },
-    {
-      "id": "4db1d3168dccb764874716d0faf35567b38a1870",
-      "title": "Live updates: Israel continues assault on Tehran, Beirut; Iran denies launching missile at Turkey",
-      "summary": "Neighboring countries including Azerbaijan and Saudi Arabia reported fresh attacks and Qatar said it was evacuating residents near the U.S. Embassy in Doha.",
-      "url": "https://www.washingtonpost.com/world/2026/03/05/us-iran-israel-strikes-trump-live-updates/",
-      "source": "World (Washington post)",
-      "published_at": "2026-03-05T09:37:59+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "assault on Beirut"
-    },
-    {
-      "id": "510c87419792e4d484c0384d24f096305f8860e2",
-      "title": "Israel and Iran launch new strikes as first UK flight bringing citizens home is delayed - BBC",
-      "summary": "Israel and Iran launch new strikes as first UK flight bringing citizens home is delayed&nbsp;&nbsp;BBCLive updates: Israel launches new strikes in Tehran and Beirut as conflict widens&nbsp;&nbsp;CNNNo injuries reported i…",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04RXpna3ZGWTFHMGdKbUd2bDNUX3pCQTdJMUhZTzA5WE9xUzVKcWFzOG1jT2QyZ0hOd0ZzOUpfUEozWGJYRHV5NUVMOTZTemROY0tlRA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-05T07:49:48+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Israeli military begins new strikes in Lebanon"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-07T09:46:17Z"
+  "last_updated": "2026-03-08T09:46:42Z"
 }

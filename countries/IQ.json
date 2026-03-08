@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 63,
+  "score": 62,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 24,
+  "trend": -1,
+  "sources": 25,
   "sentiment": {
     "positive": 2,
     "neutral": 17,
-    "negative": 5
+    "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "61d6ebb81f51a7e88ad32b7b36867fa163d72a1b",
+      "title": "Iran-backed militias intensify attacks against US, Israel and allies",
+      "summary": "Iraq emerges as key front in new and often clandestine confrontation after launching dozens of attacksIran-backed militias around the Middle East are intensifying attacks against Israel, the US and their allies, in retal…",
+      "url": "https://www.theguardian.com/world/2026/mar/06/iran-backed-militias-iraq-attacks-us-israel",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-06T05:00:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Iraq emerges as key front in new and often clandestine confrontation"
+    },
     {
       "id": "8d3e95ed69635b64a825a9138f461c9b1555a1e0",
       "title": "'We have been preparing': Why the boots on the ground in Iran could be Kurdish",
@@ -219,19 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "Transfers Thousands of ISIS Prisoners to Iraq"
-    },
-    {
-      "id": "c1f9b05281c0cbe688c896bd72c71e2f419ed61d",
-      "title": "Transfer of ISIS suspects nears end as Trump pursues Syria exit",
-      "summary": "The movement of between 6,000 and 7,000 detainees to Iraqi government control, underway for weeks, could be complete as soon as Friday.",
-      "url": "https://www.washingtonpost.com/national-security/2026/02/13/trump-syria-isis-iraq/",
-      "source": "World (Washington post)",
-      "published_at": "2026-02-13T08:00:07+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "detainees to Iraqi government control"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-07T09:46:17Z"
+  "last_updated": "2026-03-08T09:46:42Z"
 }

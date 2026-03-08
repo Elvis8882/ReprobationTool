@@ -1,14 +1,14 @@
 {
   "country": "FI",
-  "score": 100,
+  "score": 91,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 86,
+  "trend": -9,
+  "sources": 88,
   "sentiment": {
     "positive": 8,
-    "neutral": 78,
-    "negative": 0
+    "neutral": 79,
+    "negative": 1
   },
   "latest_articles": [
     {
@@ -18,6 +18,16 @@
       "url": "https://www.euractiv.com/news/pfas-pollution-victims-angered-as-von-der-leyen-refuses-meeting/",
       "source": "Euractiv",
       "published_at": "2026-03-06T12:19:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "9e99d52f148fa774574e2f696a4343c0541b3898",
+      "title": "EU total market production up in December 2025 - European Commission",
+      "summary": "EU total market production up in December 2025&nbsp;&nbsp;European CommissionEU Industrial Output Contracts in Q3 and Q4 2025 | Eurostat Data - News and Statistics&nbsp;&nbsp;IndexBox - Market Intelligence PlatformEurope…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jNjlDZWJxUms3Y2JoUU1sdGsxZXdPRkdsYnBpamJMWFBCX3dkZkpLM2NxeU96SlpVUnltSmZzZ2lkUkR6ZjRKWG9fLUc2N1o3NFJWc2hqN0ZjdU5pVVBzdDI1SzJaNjRkZU5sRFhwYkVwQnFPQnhpc1R3SGVTUQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-06T10:18:25+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -114,6 +124,17 @@
       "evidence": "Gender employment gap is smallest in Finland"
     },
     {
+      "id": "b1b581014dedee4507e7d34b325e061255ef7b7c",
+      "title": "Ferries emit ‘more sulphur pollution than cars’ in several EU capitals",
+      "summary": "Dublin, Helsinki, Stockholm and Tallinn among port cities more choked by sulphur oxides from ferries, analysis showsFume-belching ferries spew more sulphur pollution than cars in several EU capitals, analysis has found.D…",
+      "url": "https://www.theguardian.com/environment/2026/mar/02/ferries-emissions-sulphur-pollution-cars-eu-capitals",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-02T23:01:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Helsinki among port cities more choked by sulphur oxides"
+    },
+    {
       "id": "2aec38eda121be244f7b4735f1010f523886fb05",
       "title": "Women held 35% of managerial positions in 2024 - European Commission",
       "summary": "Women held 35% of managerial positions in 2024&nbsp;&nbsp;European CommissionCyprus records the lowest percentage of women in managerial positions in the EU, according to Eurostat&nbsp;&nbsp;ΚΥΠΕGreece Records a 15% Rise…",
@@ -193,28 +214,8 @@
       "published_at": "2026-02-24T15:57:36+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "f1798d30fce18815fd66a78eedcc8ae0c2eb1152",
-      "title": "EPP and ECR push for extended timelines on toxic cosmetic bans",
-      "summary": "Negotiations to revise the text are underway among political groups in the European Parliament as part of the 2025 omnibus package on chemicals",
-      "url": "https://www.euractiv.com/news/epp-and-ecr-push-for-extended-timelines-on-toxic-cosmetic-bans/",
-      "source": "Euractiv",
-      "published_at": "2026-02-24T15:25:45+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "def9216c157d312a3e14bf8d542049993febaf4f",
-      "title": "U.S. has breached trade deal and Europe is ready to retaliate, top trade lawmaker tells CNBC",
-      "summary": "The U.S. has breached the terms of its trade deal with the European Union \"several times,\" top EU trade lawmaker Bernd Lange told CNBC.",
-      "url": "https://www.cnbc.com/2026/02/24/us-eu-trade-deal-eu-parliament-suspends-trade-deal-trump-tariffs-eu-retaliation-aci.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-02-24T10:24:26+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-07T09:46:17Z"
+  "last_updated": "2026-03-08T09:46:42Z"
 }
