@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 257,
+  "sources": 259,
   "sentiment": {
     "positive": 50,
-    "neutral": 178,
+    "neutral": 180,
     "negative": 29
   },
   "latest_articles": [
+    {
+      "id": "a0d72d1301fcd372518cc5781a4ea2a9f9ea8aee",
+      "title": "France to host G7 finance meeting on Mideast",
+      "summary": "The French finance ministry said in a statement the meeting would \"review the situation in the Gulf from an economic point of view\"",
+      "url": "https://www.euractiv.com/news/france-to-host-g7-finance-meeting-on-mideast/",
+      "source": "Euractiv",
+      "published_at": "2026-03-09T08:12:40+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "France to host G7 finance meeting on Mideast"
+    },
     {
       "id": "c275d566bc133da25b0beabaecd22b1f705070ec",
       "title": "Austria Joins France, Spain, Ireland, and More as Rural Charm Shatters Visitor Records, Fueling Unprecedented Growth in Village Tourism Across Europe: Here’s What You Should Know - Travel And Tour World",
@@ -43,6 +54,16 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Slovakia Joins Italy, Germany, Spain, UK, France, and Other European Airports"
+    },
+    {
+      "id": "854d83a71a410bafb964dc58edc94fa9c76d640e",
+      "title": "‘Not acceptable’: Brussels slams Zelenskyy as Kyiv-Budapest tensions spiral",
+      "summary": "“There must not be threats against EU member states,\" a European Commission spokesperson said",
+      "url": "https://www.euractiv.com/news/not-acceptable-brussels-slams-zelenskyy-as-kyiv-budapest-tensions-spiral/",
+      "source": "Euractiv",
+      "published_at": "2026-03-06T12:49:59+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "6285b39315cc79e3bc9fd02a60008b6aab848a34",
@@ -201,29 +222,8 @@
       "published_at": "2026-03-04T17:08:14+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "f4614bce2079d7a846c8d0802c421158635a3f57",
-      "title": "European Commission mulls bringing gaming platform under its digital rules",
-      "summary": "Roblox could be the first gaming platform to be designated under the bloc's Digital Services Act",
-      "url": "https://www.euractiv.com/news/european-commission-mulls-bringing-gaming-platform-under-its-digital-rules/",
-      "source": "Euractiv",
-      "published_at": "2026-03-04T13:00:09+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "7c8070a2719707232c9fd9b1107a1b8226a17c07",
-      "title": "Dassault: France opposes two-jet solution for FCAS fighter jet project",
-      "summary": "The €100 billion project, based on a next-generation fighter jet, is on the brink of failure",
-      "url": "https://www.euractiv.com/news/dassault-france-opposes-two-jet-solution-for-fcas-fighter-jet-project/",
-      "source": "Euractiv",
-      "published_at": "2026-03-04T12:07:49+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "€100 billion project, based on a next-generation fighter jet"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-08T09:46:42Z"
+  "last_updated": "2026-03-09T10:10:47Z"
 }

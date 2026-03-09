@@ -1,16 +1,49 @@
 {
   "country": "SA",
-  "score": 55,
+  "score": 56,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 74,
+  "trend": 1,
+  "sources": 78,
   "sentiment": {
-    "positive": 0,
-    "neutral": 62,
-    "negative": 12
+    "positive": 1,
+    "neutral": 63,
+    "negative": 14
   },
   "latest_articles": [
+    {
+      "id": "d66c8f2c7ed2b1fb95e7e621a9e373e7c385514f",
+      "title": "U.S. orders staff to leave Saudi Arabia as Iran war spreads",
+      "summary": "The U.S. ordered non-emergency government staff to leave Saudi Arabia as the widening Iran war rattled global markets.",
+      "url": "https://www.cnbc.com/2026/03/09/iran-war-updates-oil-brent-wti-crude-110-gulf-gcc-uae-iraq-saudi-arabia-kurds.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-03-09T09:24:58+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "U.S. orders staff to leave Saudi Arabia as Iran war spreads"
+    },
+    {
+      "id": "4e852b167be02686736ce36231880ca2b746bdb4",
+      "title": "Asia markets moderate losses after reported Saudi oil release slightly ease prices",
+      "summary": "Markets cut losses later in the session as a reported release of Saudi Arabian crude on the market eased oil prices.",
+      "url": "https://www.cnbc.com/2026/03/09/nikkei-225-hang-seng-index-kospi-crude-wti-brent-oil-futures-iran-war-gulf-hormuz.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-03-09T07:41:45+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "reported Saudi oil release slightly ease prices"
+    },
+    {
+      "id": "1480ac12f1357bc20fd878d582459c75fa9be951",
+      "title": "State Dept. Said to Order Diplomats in Saudi Arabia to Leave",
+      "summary": "The ordered departure of U.S. employees in the kingdom indicates that senior diplomats are bracing for a possible surge in violence in the war with Iran, officials say.",
+      "url": "https://www.nytimes.com/2026/03/08/world/middleeast/state-department-diplomats-saudi-arabia-departure.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-09T01:55:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "bracing for a possible surge in violence in the war with Iran"
+    },
     {
       "id": "294279cdd19ba25c5d58211ccbfb9c5ea8cf268a",
       "title": "Middle East crisis live: Fire engulfs Kuwait city tower as Iranian strikes hit the Gulf; Trump says Iran being ‘decimated’",
@@ -32,6 +65,17 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "urged Iran on Saturday to “avoid miscalculation”"
+    },
+    {
+      "id": "1900feaeaddf8ff54c8e7faaf228e297c41cd281",
+      "title": "Saudi Minister Meets Pak's Asim Munir, Warns Iran Against \"Miscalculation\"",
+      "summary": "Prince Khalid posted on X after meeting with Pakistan's military chief",
+      "url": "https://www.ndtv.com/world-news/saudi-arabia-defence-minister-prince-khalid-bin-salman-meets-pakistan-military-chief-asim-munir-warns-iran-against-miscalculation-11180918#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-07T06:28:30+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Saudi Minister ... Warns Iran Against \"Miscalculation\""
     },
     {
       "id": "117a63c26812dd09bda159aa8735f33704cda765",
@@ -186,52 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Saudi Aramco's Ras Tanura refinery facility was struck by a drone"
-    },
-    {
-      "id": "6a6d26d2aa3e300605e6c83c558a9ee2ab8de7bf",
-      "title": "US-Israel attack Iran: Saudi capital Riyadh becomes evacuation hub for wealthy individuals",
-      "summary": "Riyadh has become a crucial evacuation hub for wealthy individuals and executives as missile and drone attacks disrupt previously secure Gulf cities. With limited alternatives, the Saudi capital's open airspace and opera…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-attack-iran-saudi-capital-riyadh-becomes-evacuation-hub-for-wealthy-individuals/articleshow/128939403.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-02T08:19:53+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Saudi capital Riyadh becomes evacuation hub"
-    },
-    {
-      "id": "6b81133e0d5e21246059e744d59b122dadaf8242",
-      "title": "Middle East tensions surge: Saudi Arabia summons Iran envoy in escalating Gulf crisis amid US-Israel attacks",
-      "summary": "Saudi Arabia has summoned Iran's ambassador. This action follows Iranian attacks on Saudi territory and neighbouring Gulf states. The move escalates tensions linked to the ongoing US-Israel conflict with Iran. Other Gulf…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/middle-east-tensions-surge-saudi-arabia-summons-iran-envoy-in-escalating-gulf-crisis-amid-us-israel-attacks/articleshow/128932382.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-02T01:12:35+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "Saudi Arabia summons Iran envoy"
-    },
-    {
-      "id": "3ba9746e08607ccdba962f086ac0906f0d4d339f",
-      "title": "Saudi Prince Called Trump To Strike Iran Despite Public Push For Peace: Report",
-      "summary": "Saudi Prince made private phone calls to Trump last month pushing for a strike on Iran",
-      "url": "https://www.ndtv.com/world-news/us-israel-attack-iran-iran-israel-tensions-news-explosion-in-tehran-saudi-prince-called-donald-trump-to-strike-iran-despite-public-push-for-peace-repo-11153456#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-03-01T08:43:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Saudi Prince Called Trump To Strike Iran"
-    },
-    {
-      "id": "4af2dd86798467fc85cdcc6a8289d2708a8d08f9",
-      "title": "Ayatollah Ali Khamenei, Hard-Line Cleric Who Made Iran a Regional Power, Is Dead at 86",
-      "summary": "As Iran’s second supreme leader, he brutally crushed dissent at home and expanded Iran’s footprint abroad, challenging Saudi Arabia for regional dominance.",
-      "url": "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-01T08:08:24+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "challenging Saudi Arabia for regional dominance."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-08T09:46:42Z"
+  "last_updated": "2026-03-09T10:10:47Z"
 }

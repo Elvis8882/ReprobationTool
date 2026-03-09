@@ -3,12 +3,12 @@
   "score": 67,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 130,
+  "trend": 0,
+  "sources": 131,
   "sentiment": {
     "positive": 1,
     "neutral": 88,
-    "negative": 41
+    "negative": 42
   },
   "latest_articles": [
     {
@@ -21,6 +21,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Hungary seizes millions of euros in cash and gold from Ukrainian convoy"
+    },
+    {
+      "id": "854d83a71a410bafb964dc58edc94fa9c76d640e",
+      "title": "‘Not acceptable’: Brussels slams Zelenskyy as Kyiv-Budapest tensions spiral",
+      "summary": "“There must not be threats against EU member states,\" a European Commission spokesperson said",
+      "url": "https://www.euractiv.com/news/not-acceptable-brussels-slams-zelenskyy-as-kyiv-budapest-tensions-spiral/",
+      "source": "Euractiv",
+      "published_at": "2026-03-06T12:49:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Kyiv-Budapest tensions spiral"
     },
     {
       "id": "6285b39315cc79e3bc9fd02a60008b6aab848a34",
@@ -208,19 +219,8 @@
       "published_at": "2026-03-04T05:11:43+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "3028a25e264ebedd195e6f51e6cb23e395583fc8",
-      "title": "Dutch PM ‘open’ to Orbán’s Ukraine pipeline demand",
-      "summary": "The Hungarian prime minister is blocking a €90 billion loan to Ukraine",
-      "url": "https://www.euractiv.com/news/dutch-pm-open-to-orbans-ukraine-pipeline-demand/",
-      "source": "Euractiv",
-      "published_at": "2026-03-03T19:15:51+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "The Hungarian prime minister is blocking a €90 billion loan to Ukraine"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-08T09:46:42Z"
+  "last_updated": "2026-03-09T10:10:47Z"
 }

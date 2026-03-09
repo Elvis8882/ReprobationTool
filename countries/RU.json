@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 371,
+  "sources": 374,
   "sentiment": {
     "positive": 18,
     "neutral": 76,
-    "negative": 277
+    "negative": 280
   },
   "latest_articles": [
+    {
+      "id": "a8c55cb29e8e49f525c11bf00171b9c579cf8ed8",
+      "title": "On the Road With Zelensky, Weathered, Weary and Fighting On",
+      "summary": "Ukraine’s leader, Volodymyr Zelensky, traveled east to visit frontline troops trying to stave off Russian attacks, and invited reporters for The New York Times to go with him.",
+      "url": "https://www.nytimes.com/2026/03/09/world/europe/ukraine-zelensky-frontline-tour.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-09T04:01:26+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "stave off Russian attacks"
+    },
     {
       "id": "f12ff206dd68599c14fb63e2df3f1667c4cb6a99",
       "title": "A Loose Band of Emerging Powers Is Divided Over Iran",
@@ -43,6 +54,28 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Russia sharing intel with Iran"
+    },
+    {
+      "id": "467a91bc9eecfd5b5fec40217074e0551df614e7",
+      "title": "Russia Attacks Kharkiv and Kyiv in Ukraine",
+      "summary": "At least 10 people were killed when a Russian missile hit a five-story apartment building in the city of Kharkiv, and Kyiv and several other regions also came under attack.",
+      "url": "https://www.nytimes.com/2026/03/07/world/europe/russia-ukraine-kharkiv-zelensky-airstrike.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-07T20:44:45+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Russia Attacks Kharkiv and Kyiv in Ukraine"
+    },
+    {
+      "id": "2cae0349ee2b7f19f04c3df80642b2949ead1bcd",
+      "title": "Paralympics open as Russian athletes booed - Taipei Times",
+      "summary": "Paralympics open as Russian athletes booed&nbsp;&nbsp;Taipei TimesWinter Paralympics 2026: Injured Russian soldiers would be allowed at future Games, says IPC president&nbsp;&nbsp;BBCBoos and boycotts as Russian flag ret…",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hcUZnTnF5aHUwY3ZQS0M3WVN5cDBxMG42T21XNVRzdWpGTjhsUzhoWTVBLVVacnNYTjhFazByc1VMNXI3WmZqMm1uc3kyYmF1aVRYbEI3akJVN245OFVvY0hacnVMaHhNcHFJZFZYNDhmczVFWW1yNQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-07T16:00:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Russian athletes booed"
     },
     {
       "id": "90460becc964b2b0630558ff769efd5fdc65e043",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "air defense systems it needs to counter Russia"
-    },
-    {
-      "id": "4dc4736a1cb552600d9316f339af5aed46e6a9f0",
-      "title": "Iran’s Friends Include China and Russia. But Where are They Now?",
-      "summary": "Iran maintains ties with a range of countries, including Turkey, India, Russia and China. Yet in this war, their support is mostly rhetoric.",
-      "url": "https://www.nytimes.com/2026/03/05/world/middleeast/iran-turkey-india-russia.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-05T10:04:24+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Iran’s Friends Include China and Russia."
-    },
-    {
-      "id": "9532e2215ecce962ce62f456b9ac05e571fea81a",
-      "title": "Russia sees chance it may benefit from Middle East war",
-      "summary": "Some in the Kremlin believe a prolonged U.S. war could work in Russia’s favor by boosting oil prices and diverting key weapons from Ukraine.",
-      "url": "https://www.washingtonpost.com/world/2026/03/05/attack-iran-highlights-russias-fall-middle-east-beyond/",
-      "source": "World (Washington post)",
-      "published_at": "2026-03-05T10:00:40+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "work in Russia’s favor by boosting oil prices and diverting key weapons"
-    },
-    {
-      "id": "27100cd91c83e3db7469b0f8e3594481af374f7d",
-      "title": "Ukraine war briefing: Russia claims LNG tanker in Mediterranean hit by drones",
-      "summary": "The Arctic Metagaz had been carrying 61,000 tonnes of liquefied natural gas when it exploded; Ukrainian drones reported to have hit southern Russia. What we know on day 1,471Vladimir Putin, the Russian president, has acc…",
-      "url": "https://www.theguardian.com/world/2026/mar/05/ukraine-war-briefing-putin-blames-ukraine-for-sinking-of-tanker-off-coast-of-libya",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-05T02:46:31+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russia claims LNG tanker in Mediterranean hit by drones"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-08T09:46:42Z"
+  "last_updated": "2026-03-09T10:10:47Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "RS",
   "score": 55,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 5,
+  "sources": 6,
   "sentiment": {
     "positive": 0,
     "neutral": 4,
-    "negative": 1
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "07eaadfbd15ad96e1127a6c89a8f5e0877579ccb",
+      "title": "EU rearmament tests stability and trust in the Western Balkans",
+      "summary": "Serbia and Kosovo are rearming amidst Europe’s broader defence shift",
+      "url": "https://www.euractiv.com/news/eu-rearmament-tests-stability-and-trust-in-the-western-balkans/",
+      "source": "Euractiv",
+      "published_at": "2026-03-09T05:00:17+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Serbia and Kosovo are rearming amidst Europe’s broader defence shift"
+    },
     {
       "id": "62802eb0795e86cbefa5fbc0f16913d4bdcc3d89",
       "title": "Israel basketball national team beats Cyprus, qualifies for next round of World Cup qualifiers - The Jerusalem Post",
@@ -68,5 +79,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-08T09:46:42Z"
+  "last_updated": "2026-03-09T10:10:47Z"
 }

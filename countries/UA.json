@@ -1,16 +1,49 @@
 {
   "country": "UA",
-  "score": 53,
+  "score": 52,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 321,
+  "trend": -1,
+  "sources": 326,
   "sentiment": {
-    "positive": 124,
-    "neutral": 76,
-    "negative": 121
+    "positive": 126,
+    "neutral": 77,
+    "negative": 123
   },
   "latest_articles": [
+    {
+      "id": "a8c55cb29e8e49f525c11bf00171b9c579cf8ed8",
+      "title": "On the Road With Zelensky, Weathered, Weary and Fighting On",
+      "summary": "Ukraine’s leader, Volodymyr Zelensky, traveled east to visit frontline troops trying to stave off Russian attacks, and invited reporters for The New York Times to go with him.",
+      "url": "https://www.nytimes.com/2026/03/09/world/europe/ukraine-zelensky-frontline-tour.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-09T04:01:26+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukraine’s leader, Volodymyr Zelensky, traveled east to visit frontline troops"
+    },
+    {
+      "id": "b3ec70eb2d53ede4a7419d59f2cc80f8c4f9182e",
+      "title": "Ukraine Sent Drone Experts to Protect U.S. Bases in Jordan, Zelensky Says",
+      "summary": "As the war in Iran spreads, Kyiv is eagerly offering its hard-won expertise and advanced technology to counter Iranian drones.",
+      "url": "https://www.nytimes.com/2026/03/09/world/middleeast/ukraine-shahed-drone-middle-east.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-09T04:01:19+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Ukraine Sent Drone Experts to Protect U.S. Bases in Jordan"
+    },
+    {
+      "id": "467a91bc9eecfd5b5fec40217074e0551df614e7",
+      "title": "Russia Attacks Kharkiv and Kyiv in Ukraine",
+      "summary": "At least 10 people were killed when a Russian missile hit a five-story apartment building in the city of Kharkiv, and Kyiv and several other regions also came under attack.",
+      "url": "https://www.nytimes.com/2026/03/07/world/europe/russia-ukraine-kharkiv-zelensky-airstrike.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-07T20:44:45+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia Attacks Kharkiv and Kyiv in Ukraine"
+    },
     {
       "id": "bf21c7b87cd27aaba4f103fee018d63e2f3b5134",
       "title": "Ukrainian forces halt advance in Zaporizhzhia, Kyiv officials say",
@@ -89,6 +122,17 @@
       "evidence": "Kubilius calls on Europe to increase missile production for Ukraine"
     },
     {
+      "id": "854d83a71a410bafb964dc58edc94fa9c76d640e",
+      "title": "‘Not acceptable’: Brussels slams Zelenskyy as Kyiv-Budapest tensions spiral",
+      "summary": "“There must not be threats against EU member states,\" a European Commission spokesperson said",
+      "url": "https://www.euractiv.com/news/not-acceptable-brussels-slams-zelenskyy-as-kyiv-budapest-tensions-spiral/",
+      "source": "Euractiv",
+      "published_at": "2026-03-06T12:49:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Brussels slams Zelenskyy as Kyiv-Budapest tensions spiral"
+    },
+    {
       "id": "fed1e0e0099f2bfb9ff6a48bd86abf719549cd4c",
       "title": "Orbán prepared to stop shipments for Ukraine passing through Hungary as Russian oil pipeline row escalates – Europe live",
       "summary": "Hungary will use ‘every means’ to end row with Ukraine over stalled Russian oil supplies, says prime ministerHungary will use “every means” to force a favourable solution in an escalating row with neighbouring Ukraine ov…",
@@ -120,6 +164,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "stop things passing through Hungary, things that are important to Ukraine"
+    },
+    {
+      "id": "251f6ca92282b6954de660779d26bf97f573d6a7",
+      "title": "Antares Group posts profit amid wildfire and Ukraine hits - Insurance Business",
+      "summary": "Antares Group posts profit amid wildfire and Ukraine hits&nbsp;&nbsp;Insurance Business",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa2tPeFk3UVh6Z0xJUVYtZnJ4NHRQN0d6Ti1OTm0yUjl2TlFZWHViVHgtZk9CX2dldmhEVjZ1OHJWOGQ3RW5IQWdQN0ZLMTljTno3SzNqYXZsZ25BcjctQmlxOFgzNGdXblRCQmt4azVvYXczSkdfamQ0cVJUZE1iQkViNVlfdDFhZ3R1RHdSZGJHM3VaWjJYMHR6SHJfWk9rd3lrOXBibkpROHIwVHpJaTFKQUxOS1NReVpLY1l1Y1FXZm9adlV3?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-06T07:05:56+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Ukraine hits"
     },
     {
       "id": "f2b1f131d6616922189a0948537446b14bc27f28",
@@ -175,63 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Kyiv fears that U.S. air defense systems it needs"
-    },
-    {
-      "id": "a02ce24d230c906c7a3164d7c9e58cb13725479d",
-      "title": "US sought Ukraine’s help on Middle East drone defence, Zelenskyy says",
-      "summary": "Zelenskyy says US sought Ukraine’s help against Iranian drones.",
-      "url": "https://www.euractiv.com/news/us-asked-ukraine-for-support-in-drone-protection-in-middle-east-zelenskyy/",
-      "source": "Euractiv",
-      "published_at": "2026-03-05T18:04:58+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Zelenskyy says US sought Ukraine’s help"
-    },
-    {
-      "id": "3c7b555ef671c5e4b1d58b55bf96b7b0355eed4b",
-      "title": "Ukraine can survive financially until after Hungary election, Brussels reckons",
-      "summary": "The news could explain Kyiv’s reluctance to allow inspections of the Druzhba oil pipeline",
-      "url": "https://www.euractiv.com/news/ukraine-can-survive-financially-until-after-hungary-election-brussels-reckons/",
-      "source": "Euractiv",
-      "published_at": "2026-03-05T16:05:35+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Ukraine can survive financially until after Hungary election"
-    },
-    {
-      "id": "9532e2215ecce962ce62f456b9ac05e571fea81a",
-      "title": "Russia sees chance it may benefit from Middle East war",
-      "summary": "Some in the Kremlin believe a prolonged U.S. war could work in Russia’s favor by boosting oil prices and diverting key weapons from Ukraine.",
-      "url": "https://www.washingtonpost.com/world/2026/03/05/attack-iran-highlights-russias-fall-middle-east-beyond/",
-      "source": "World (Washington post)",
-      "published_at": "2026-03-05T10:00:40+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "diverting key weapons from Ukraine."
-    },
-    {
-      "id": "aac71fb2d412194fb8ad60d50561ca7f7a2828fd",
-      "title": "Months Before Iran War, Ukraine's F-16 Fighter Jets Starved Of US-Made Missiles: Report",
-      "summary": "Ukraine only had a handful of US-made AIM-9 \"Sidewinder\" missiles for F-16s",
-      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-iran-war-as-us-steps-up-iran-attack-ukraine-f-16-fighter-jets-starve-of-american-made-missiles-11171326#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-03-05T07:54:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Ukraine's F-16 Fighter Jets Starved Of US-Made Missiles"
-    },
-    {
-      "id": "535378af1cc8d35e33520c24d378bc82229957f8",
-      "title": "Latvia becomes first country to recognise Ukrainian e-signatures / Article - LSM.lv",
-      "summary": "Latvia becomes first country to recognise Ukrainian e-signatures / Article&nbsp;&nbsp;LSM.lvDigital Aid in Ukraine: Diia Platform as Wartime Lifeline&nbsp;&nbsp;The Borgen ProjectLatvia becomes the first country in the w…",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSnpRUFU0SHZWeGgyTmlZUk9xMzZRUWhabk8zTGt4eTByQXk3ckpUTTBzdFJFd1VRZGxKM0xLaXBTanlrbXJHbjJyeTBXWDFrUThZNndjc2xURGx1SUlfZmluclZQMnlOWUxJSk1uUGk2c1hhVjJkTEFoRGloN01NeW1oZ3JrRGt3NllnaDEyektKYzFNYUc4TlItQWdoTVl0YWhEaFdyMUxZMUg4UkktNUY4RW5PdWlfLUZ3UHhNRTZUTnNFTXc?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-05T06:58:55+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "recognise Ukrainian e-signatures"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-08T09:46:42Z"
+  "last_updated": "2026-03-09T10:10:47Z"
 }

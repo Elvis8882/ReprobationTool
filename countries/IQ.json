@@ -1,16 +1,38 @@
 {
   "country": "IQ",
-  "score": 62,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 25,
+  "score": 60,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": -2,
+  "sources": 28,
   "sentiment": {
     "positive": 2,
-    "neutral": 17,
-    "negative": 6
+    "neutral": 18,
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "070a978d6de340d3eb01b55911654cad32d13524",
+      "title": "SalamAir issues urgent travel advisory after suspending flights to multiple destinations amid Iran vs US-Israel war",
+      "summary": "Low-cost carrier SalamAir has temporarily suspended flights to several Middle Eastern destinations, including Iraq, Lebanon and Iran, until March 28, 2026 and Kuwait City, Sharjah, Doha and Dammam until March 20, 2026. T…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/salamair-issues-urgent-travel-advisory-after-suspending-flights-to-multiple-destinations-amid-iran-vs-us-israel-war/articleshow/129302454.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-03-09T02:03:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "suspending flights to multiple destinations amid Iran vs US-Israel war"
+    },
+    {
+      "id": "3578885ef89e594e685ff55e66fdfccb5bc24c0a",
+      "title": "U.S. Embassy in Baghdad Targeted as Iraq Gets Drawn Deeper Into Regional War",
+      "summary": "Iraq is caught between two allies as the Trump administration pressures Iraqi leaders to distance themselves from Iran.",
+      "url": "https://www.nytimes.com/2026/03/08/world/middleeast/us-embassy-baghdad-iraq-iran-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-08T18:38:52+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "U.S. Embassy in Baghdad Targeted as Iraq Gets Drawn Deeper Into Regional War"
+    },
     {
       "id": "61d6ebb81f51a7e88ad32b7b36867fa163d72a1b",
       "title": "Iran-backed militias intensify attacks against US, Israel and allies",
@@ -111,6 +133,17 @@
       "evidence": "This is not Iraq"
     },
     {
+      "id": "669bf9cd26c54e93b0e13eff7ea01eb621a0c698",
+      "title": "RAF airbase in Cyprus hit as Cooper defends decision to allow US to use UK bases for Iran strikes – UK politics live",
+      "summary": "Foreign secretary confirms strike on Akrotiri base but says it ‘simply not true’ the UK is being dragged into an Iraq-style conflict‘Simply not true’ UK is being dragged into Iraq-style conflict, says foreign secretaryWh…",
+      "url": "https://www.theguardian.com/politics/live/2026/mar/02/raf-cyprus-yvette-cooper-keir-starmer-us-iran-israel-uk-politics-latest-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-02T09:42:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Iraq-style conflict"
+    },
+    {
       "id": "2de08c2a0d529fe758e4fcc05cf987013f981fa4",
       "title": "‘Simply not true’ UK is being dragged into Iraq-style conflict, says foreign secretary",
       "summary": "Yvette Cooper says plans under consideration to evacuate about 300,000 Britons from Middle East amid Iran warUS-Israel war on Iran – live updatesIt is “simply not true” that the UK is being dragged into another Iraq-styl…",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "transferred from Syria to Iraq, where they potentially face charges which could carry the death penalty"
-    },
-    {
-      "id": "7e1c0b9ada401475c2cd2bffa591cd5339045c2f",
-      "title": "‘Lost ancient city’ from Alexander the Great’s Empire discovered in Iraq with hidden streets and temples beneath the sands",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/lost-ancient-city-from-alexander-the-greats-empire-discovered-in-iraq-with-hidden-streets-and-temples-beneath-the-sands/articleshow/128448122.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-02-17T04:56:27+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "ancient city’ from Alexander the Great’s Empire discovered in Iraq"
-    },
-    {
-      "id": "b0602f2c7df755d0b48a01051f5a1d3959e30ad6",
-      "title": "US launches airstrikes on dozens of Islamic State targets in Syria",
-      "summary": "Militant group’s infrastructure and weapons storage facilities were hit, as Washington praised Damascus for fresh coalition roleThe US military conducted 10 strikes on more than 30 Islamic State targets in Syria between…",
-      "url": "https://www.theguardian.com/world/2026/feb/14/us-airstrikes-syria-islamic-state-targets",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-14T15:50:42+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "campaign against the extremist group in Iraq"
-    },
-    {
-      "id": "f25b44330bca5674af61f8881a74c9aabeb49c09",
-      "title": "U.S. Transfers Thousands of ISIS Prisoners to Iraq From Syria",
-      "summary": "The moves appear to highlight lingering doubts in Washington about the new Syrian government’s ability to ensure security.",
-      "url": "https://www.nytimes.com/2026/02/13/us/politics/us-isis-prisoners.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-13T15:27:45+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Transfers Thousands of ISIS Prisoners to Iraq"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-08T09:46:42Z"
+  "last_updated": "2026-03-09T10:10:47Z"
 }
