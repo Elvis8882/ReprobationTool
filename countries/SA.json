@@ -3,14 +3,25 @@
   "score": 56,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 78,
+  "trend": 0,
+  "sources": 82,
   "sentiment": {
     "positive": 1,
-    "neutral": 63,
-    "negative": 14
+    "neutral": 65,
+    "negative": 16
   },
   "latest_articles": [
+    {
+      "id": "9d1981a408761c65df2dab039ac8777423d55d2f",
+      "title": "U.S. orders more diplomats to leave Middle East",
+      "summary": "The State Department’s most recent directives apply to personnel in Turkey and Saudi Arabia, underscoring the ongoing threat posed by Iranian counterattacks.",
+      "url": "https://www.washingtonpost.com/national-security/2026/03/09/us-diplomats-middle-east-iran/",
+      "source": "World (Washington post)",
+      "published_at": "2026-03-09T22:54:25+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "personnel in Saudi Arabia"
+    },
     {
       "id": "d66c8f2c7ed2b1fb95e7e621a9e373e7c385514f",
       "title": "U.S. orders staff to leave Saudi Arabia as Iran war spreads",
@@ -45,6 +56,17 @@
       "evidence": "bracing for a possible surge in violence in the war with Iran"
     },
     {
+      "id": "eeb211f676c92302086d1db5d92aca6a1533cf27",
+      "title": "Pentagon Announces Seventh U.S. Death in War With Iran",
+      "summary": "The service member killed was not publicly identified, but U.S. Central Command said the death was caused by injuries after an attack on a Saudi military base.",
+      "url": "https://www.nytimes.com/2026/03/08/world/middleeast/american-soldier-killed-iran-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-08T22:36:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.4,
+      "evidence": "attack on a Saudi military base."
+    },
+    {
       "id": "294279cdd19ba25c5d58211ccbfb9c5ea8cf268a",
       "title": "Middle East crisis live: Fire engulfs Kuwait city tower as Iranian strikes hit the Gulf; Trump says Iran being ‘decimated’",
       "summary": "Reports of explosions in Kuwait, the United Arab Emirates, Saudi Arabia and Qatar as smoke billows above TehranFull report: Iran rejects Trump’s demand for unconditional surrender as a ‘dream’From ‘peace president’ to Op…",
@@ -54,6 +76,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Reports of explosions in Saudi Arabia"
+    },
+    {
+      "id": "0649bd32b0b7985a72e58716b71107a52e41ef7c",
+      "title": "Kuwait Airport Targeted, Saudi Intercepts Drones As Iran Continues Attacks",
+      "summary": "Among the areas in Saudi Arabia where the attacks were attemped was the diplomatic quarter in Riyadh.",
+      "url": "https://www.ndtv.com/world-news/us-iran-israel-war-middle-east-conflict-dubai-news-kuwait-airport-targeted-saudi-intercepts-drones-as-iran-continues-attacks-11184235#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-08T06:17:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Saudi Intercepts Drones"
     },
     {
       "id": "ee1daf3056e31650cade625453e4d655b827cd47",
@@ -87,6 +120,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Pakistan's army chief Asim Munir met Saudi Defence Minister"
+    },
+    {
+      "id": "0f71dcfb0657d3cd1fa9a5f87c9f2f79fb67aa28",
+      "title": "\"Tehran Not Involved In Attack On Saudi Aramco\": Iranian Sources",
+      "summary": "The Iranian sources have vowed to \"put an end\" to the US existence in the Middle East.",
+      "url": "https://www.ndtv.com/world-news/iran-israel-war-tehran-not-involved-in-attack-on-saudi-aramco-iranian-sources-ayatollah-ali-khamenei-death-donald-trump-us-strikes-11171595#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-05T08:54:40+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Attack On Saudi Aramco"
     },
     {
       "id": "39010cdf2797f3e6e05198ca728c986d26d166eb",
@@ -186,52 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "US embassy in Riyadh targeted by drones"
-    },
-    {
-      "id": "d2b45ebcef00e4c74e5c747e73c786e9a6d70fd2",
-      "title": "Iranian Strikes Hit Qatar and Saudi Energy Sites, Threatening Oil and Gas Supplies",
-      "summary": "Strikes on sites in Qatar and Saudi Arabia forced the closure of key production facilities and added to growing worries about global oil and gas supplies.",
-      "url": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-attack-saudi-arabia-qatar-oil-gas-energy.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-02T22:57:08+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Iranian Strikes Hit Qatar and Saudi Energy Sites, Threatening Oil and Gas Supplies"
-    },
-    {
-      "id": "b2923e0aa089142c2da567edefe89adbc50bacca",
-      "title": "Saudis Pulled Deeper Into Middle East War After Oil Refinery Strike",
-      "summary": "Saudi Arabia's largest oil refinery was hit by a drone strike.",
-      "url": "https://www.ndtv.com/world-news/us-iran-war-saudis-pulled-deeper-into-middle-east-war-after-oil-refinery-strike-11157955#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-03-02T09:01:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Saudis Pulled Deeper Into Middle East War After Oil Refinery Strike"
-    },
-    {
-      "id": "816fa238cfd863435df59ba97423ba816c0d7c12",
-      "title": "Video: Iran's Drones Hit Aramco Oil Refinery In Saudi Arabia",
-      "summary": "Saudi Aramco has temporarily shut its Ras Tanura refinery after the facility was struck by a drone.",
-      "url": "https://www.ndtv.com/world-news/iran-israel-war-ras-tanura-irans-drones-hit-aramco-oil-refinery-in-saudi-arabia-11157608#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-03-02T08:33:16+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Iran's Drones Hit Aramco Oil Refinery In Saudi Arabia"
-    },
-    {
-      "id": "f51049a192369b260e70427ab0b5693554f0fba8",
-      "title": "Watch: Saudi Aramco oil refinery, one of the Middle East’s largest hubs, hit by Iranian drone",
-      "summary": "Saudi Aramco's Ras Tanura refinery facility was struck by a drone, leading to its shutdown and exacerbating global supply concerns. This incident follows attacks on vessels in the Strait of Hormuz, nearly halting oil shi…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/watch-saudi-aramco-oil-refinery-one-of-the-middle-easts-largest-hubs-hit-by-iranian-drone/articleshow/128941724.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-02T08:21:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Saudi Aramco's Ras Tanura refinery facility was struck by a drone"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-09T10:10:47Z"
+  "last_updated": "2026-03-10T10:06:45Z"
 }

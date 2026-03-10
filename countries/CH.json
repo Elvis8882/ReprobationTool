@@ -1,16 +1,27 @@
 {
   "country": "CH",
-  "score": 84,
+  "score": 79,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 41,
+  "trend": -5,
+  "sources": 42,
   "sentiment": {
     "positive": 8,
     "neutral": 31,
-    "negative": 2
+    "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "93b09d628b228375198e0b2a504d1cb037c70358",
+      "title": "Swiss MedTech industry hit hard by Trump’s new tariff chaos",
+      "summary": "Industry and trade body expect further tariffs, justified by ‘national security’ interests",
+      "url": "https://www.euractiv.com/news/swiss-medtech-industry-hit-hard-by-trumps-new-tariff-chaos/",
+      "source": "Euractiv",
+      "published_at": "2026-03-10T05:00:31+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Swiss MedTech industry hit hard by Trump’s new tariff chaos"
+    },
     {
       "id": "44e7475e77595d07b111c678e68bb373f4af0c23",
       "title": "Swiss sneaker maker plunges 14% on weak guidance, slower than expected 2026 growth",
@@ -219,19 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Fresh Geneva negotiations suggest Trump’s team believes the Iranian government"
-    },
-    {
-      "id": "71f5085c180d6ea87e8a0261a06f1329a7545b3e",
-      "title": "US will not back out of its tariff deals with UK and others, says Trump trade representative",
-      "summary": "Promise comes as minister admits to ‘uncertainty’ about new 15% levy on imports from around the world Graeme Wearden: Trump’s trade war risks undermining his hopes of hefty US interest rate cutsThe US will not back out o…",
-      "url": "https://www.theguardian.com/us-news/2026/feb/22/uk-in-talks-with-us-over-best-possible-deal-for-british-firms-amid-higher-tariffs-threat-trump",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-22T17:18:02+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "tariff deals it has already sealed with countries around the world, including... Switzerland"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-09T10:10:47Z"
+  "last_updated": "2026-03-10T10:06:45Z"
 }

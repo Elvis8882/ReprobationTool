@@ -1,16 +1,60 @@
 {
   "country": "TR",
-  "score": 65,
+  "score": 64,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 35,
+  "trend": -1,
+  "sources": 39,
   "sentiment": {
     "positive": 5,
-    "neutral": 23,
-    "negative": 7
+    "neutral": 26,
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "c12383e4514fd79acbb1534cef4eea4674f64656",
+      "title": "U.S. Reaches Tentative Deal Ending Prosecution of Turkish Bank",
+      "summary": "Court papers submitted as part of the agreement with Halkbank, which was accused of doing business with Iranian entities, said Turkey’s assistance “was instrumental” in the Israel-Hamas cease-fire.",
+      "url": "https://www.nytimes.com/2026/03/09/us/politics/us-turkey-halkbank-deal.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-10T02:01:54+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Turkey’s assistance “was instrumental”"
+    },
+    {
+      "id": "9d1981a408761c65df2dab039ac8777423d55d2f",
+      "title": "U.S. orders more diplomats to leave Middle East",
+      "summary": "The State Department’s most recent directives apply to personnel in Turkey and Saudi Arabia, underscoring the ongoing threat posed by Iranian counterattacks.",
+      "url": "https://www.washingtonpost.com/national-security/2026/03/09/us-diplomats-middle-east-iran/",
+      "source": "World (Washington post)",
+      "published_at": "2026-03-09T22:54:25+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "personnel in Turkey"
+    },
+    {
+      "id": "42f2f9cc6a873f033e4859cc39a7569cb5c514b6",
+      "title": "NATO Intercepts Second Iranian Missile Entering Turkey’s Airspace, Defense Ministry Says",
+      "summary": "It was the second time in six days that Turkey announced the interception of a missile from Iran.",
+      "url": "https://www.nytimes.com/2026/03/09/world/middleeast/turkey-iranian-missile-nato.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-09T14:08:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Iranian Missile Entering Turkey’s Airspace"
+    },
+    {
+      "id": "216025798759ebf75db208971f959a204d9ebe0d",
+      "title": "Trial of Ekrem Imamoglu, Erdogan’s Rival, Begins in Turkey",
+      "summary": "Ekrem Imamoglu, the former mayor of Istanbul who stands accused of corruption, clashed with the judge and criticized the trial as baseless.",
+      "url": "https://www.nytimes.com/2026/03/09/world/middleeast/turkey-trial-imamoglu-erdogan.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-09T13:09:45+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Trial of Ekrem Imamoglu, Erdogan’s Rival, Begins in Turkey"
+    },
     {
       "id": "794d2073a96c6fc8890ab871f4d488158728ee34",
       "title": "Istanbul's ex-mayor to stand trial on corruption charges",
@@ -186,52 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Turkey's president rejects Israel's recognition"
-    },
-    {
-      "id": "9f9215f05f2e42ec5dcdf2345955ea5351854410",
-      "title": "US Prepares For Potential Weeks-Long Operations Against Iran: Report",
-      "summary": "US maintains bases in Middle East, including in Jordan, Kuwait, Saudi Arabia, Qatar, Bahrain, UAE, Turkey",
-      "url": "https://www.ndtv.com/world-news/us-military-prepares-for-potential-weeks-long-operations-against-iran-report-11002543#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-02-14T07:00:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "US maintains bases in Middle East, including in Turkey"
-    },
-    {
-      "id": "43033d33550e12e3f3db769d7283663407b3e348",
-      "title": "Turkish Nobel Novelist Orhan Pamuk Gets the Netflix Series He Wanted",
-      "summary": "After publishing more than 20 books and winning a Nobel Prize, the Turkish author fought to bring a celebrated novel to the screen — on his own terms.",
-      "url": "https://www.nytimes.com/2026/02/12/world/europe/orhan-pamuk-istanbul-turkey-museum-of-innocence.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-12T09:05:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Turkish Nobel Novelist Orhan Pamuk"
-    },
-    {
-      "id": "249d81f2c880b9e8b923121c5df29abf838afa80",
-      "title": "All hail our industrial overlords",
-      "summary": "In Wednesday's edition, also: Ankara, EU-US trade, digital euro",
-      "url": "https://www.euractiv.com/news/rapporteur-all-hail-our-industrial-overlords/",
-      "source": "Euractiv",
-      "published_at": "2026-02-11T07:01:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Ankara, EU-US trade, digital euro"
-    },
-    {
-      "id": "46884a78a532d30de3a81c9412b834fe0e5fcb00",
-      "title": "A war threat and a chance: Turkey and Greece face hard decisions",
-      "summary": "Any compromise would carry significant political costs at home, prompting caution on both sides",
-      "url": "https://www.euractiv.com/news/a-war-threat-and-a-chance-turkey-and-greece-face-hard-decisions/",
-      "source": "Euractiv",
-      "published_at": "2026-02-11T05:00:17+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "A war threat and a chance: Turkey and Greece face hard decisions"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-09T10:10:47Z"
+  "last_updated": "2026-03-10T10:06:45Z"
 }

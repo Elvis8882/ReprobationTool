@@ -4,13 +4,44 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 123,
+  "sources": 127,
   "sentiment": {
     "positive": 15,
-    "neutral": 95,
+    "neutral": 99,
     "negative": 13
   },
   "latest_articles": [
+    {
+      "id": "6a5af1b1310285cedb7664fcc6e2bcbabc84304f",
+      "title": "EPP blames Socialists after siding with far right on return hubs",
+      "summary": "The European Parliament’s civil liberties committee (LIBE) approved compromise amendments to the returns regulation tabled by EPP shadow rapporteur François-Xavier Bellamy",
+      "url": "https://www.euractiv.com/news/epp-blames-socialists-after-siding-with-far-right-on-returns-hubs/",
+      "source": "Euractiv",
+      "published_at": "2026-03-09T20:06:57+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "669d39352eb5dc233c6f118c1ed5ba5ac788066b",
+      "title": "Von der Leyen calls for EU foreign policy to be ‘more realistic and interest-driven’",
+      "summary": "European Commission head says rules-based system can no longer be relied upon to protect the continent’s interestsEurope can “no longer be a custodian for the old-world order” and needs “a more realistic and interest-dri…",
+      "url": "https://www.theguardian.com/world/2026/mar/09/ursula-von-der-leyen-eu-foreign-policy-more-realistic-interest-driven",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-09T16:59:19+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "120211eee628b37fd97fbd95900cfa15cf5dcf51",
+      "title": "Greek PM plays the ‘stability’ card at home amid turmoil in the Middle East",
+      "summary": "Mitsotakis invokes regional tensions to bolster his political message",
+      "url": "https://www.euractiv.com/news/greek-pm-plays-the-stability-card-at-home-amid-turmoil-in-the-middle-east/",
+      "source": "Euractiv",
+      "published_at": "2026-03-09T12:59:31+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Greek PM plays the ‘stability’ card at home amid turmoil"
+    },
     {
       "id": "eca6e37ffbfc966b98dea174eb7e825f96d040ce",
       "title": "Brussels urges ‘rapid’ progress on delayed Greece-Cyprus subsea cable",
@@ -43,6 +74,16 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "UGS welcomes the European Industrial Maritime Strategy"
+    },
+    {
+      "id": "7e5033a79be1765223af01227021e631fb6061eb",
+      "title": "Cyprus records lowest share of women in parliament across the EU - Cyprus Mail",
+      "summary": "Cyprus records lowest share of women in parliament across the EU&nbsp;&nbsp;Cyprus MailOne-third of parliamentarians across the EU are women&nbsp;&nbsp;European CommissionWomen still under-represented in European politic…",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2NuWVpDRVRyaENQbXNRREFmR2Qzdk83VGVqV2ZyV2g0eVM3aVpSY2FMU0pwaEViVTVkWFhJT3BHUHljRFNrLW0wRk9DRWdFb1p1Y1ByRTJWMnpTNC1HTENFeGtqV29ybHdMRnFmS2RrQVNoV2p5YndLckFSMVdCYWo0VE9KazJUNWRDalhmQlQySXJHb2ZQcDdzdVNPYklW?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-06T13:42:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "854d83a71a410bafb964dc58edc94fa9c76d640e",
@@ -178,49 +219,8 @@
       "published_at": "2026-03-04T17:08:14+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "c68a2a655c7bb16dd7a20954baa5903ec5f2f2a2",
-      "title": "Greek court upholds criminal organisation verdict on neo-Nazi Golden Dawn",
-      "summary": "The party's founder Nikos Mihaloliakos and other officials are again found guilty, almost six years after an original trial.",
-      "url": "https://www.bbc.com/news/articles/c89kkykg39yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-04T13:13:08+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Greek court upholds criminal organisation verdict on neo-Nazi Golden Dawn"
-    },
-    {
-      "id": "f4614bce2079d7a846c8d0802c421158635a3f57",
-      "title": "European Commission mulls bringing gaming platform under its digital rules",
-      "summary": "Roblox could be the first gaming platform to be designated under the bloc's Digital Services Act",
-      "url": "https://www.euractiv.com/news/european-commission-mulls-bringing-gaming-platform-under-its-digital-rules/",
-      "source": "Euractiv",
-      "published_at": "2026-03-04T13:00:09+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f7d417a9a614bfb004bc92be6d66bb8ac59f7614",
-      "title": "Another record year for EU tourism in 2025 - European Commission",
-      "summary": "Another record year for EU tourism in 2025&nbsp;&nbsp;European CommissionIreland Joins Poland, Spain, Finland, Malta, Portugal, Lithuania, And Other European Nations In A Historic Tourism Surge, Welcoming Over Six Millio…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sT2w5by1EYVVyYzBOQXVaUGxUSGtMWW1RdWhHV1hWUV9BTTVzbFJrRUlUQ1FISDBmTmxLV1ZUb3JiaS16Zk15cFpOUW5lc1U5dXVIRmFQaXVQaVM0U1o1MlZZQmJzbE0tRTQtUW05Q2tPY1JrMXVnU0VVMnZRUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-04T10:05:01+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "501693c137be4875be7007469b58c4a7848ddc8d",
-      "title": "Spain’s Sánchez says ‘no to war’ after Trump’s threats over Nato spending and use of bases – Europe live",
-      "summary": "Spain’s PM says he opposes ‘repeating the mistakes of the past’ as EU tells US president it stands ‘in solidarity with all member states’in MadridSánchez’s defiant speech may have been made in response to Trump’s threat…",
-      "url": "https://www.theguardian.com/world/live/2026/mar/04/europe-latest-news-updates-pedro-sanchez-spain-nato-eu",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-04T09:40:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-09T10:10:47Z"
+  "last_updated": "2026-03-10T10:06:45Z"
 }

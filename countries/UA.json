@@ -1,16 +1,93 @@
 {
   "country": "UA",
-  "score": 52,
+  "score": 50,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 326,
+  "trend": -2,
+  "sources": 336,
   "sentiment": {
-    "positive": 126,
-    "neutral": 77,
-    "negative": 123
+    "positive": 130,
+    "neutral": 79,
+    "negative": 127
   },
   "latest_articles": [
+    {
+      "id": "e18dc7c9d5360f9d90975862dfaf3aa45c6fd1b7",
+      "title": "Reeves to face MPs’ grilling over cost-of-living pressures – UK politics live",
+      "summary": "Chancellor to take Treasury questions amid market turbulence linked to Middle East conflictAs we mentioned in the opening post, Rachel Reeves is under pressure to cancel the planned increase in fuel duty due in September…",
+      "url": "https://www.theguardian.com/politics/live/2026/mar/10/cost-of-living-middle-east-inflation-reeves-starmer-labour-lammy-courts-reform-uk-politics-live-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-10T09:34:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Russia’s full-scale invasion of Ukraine"
+    },
+    {
+      "id": "3c1810a6888899d8389d2e1babb8da3e627072cf",
+      "title": "Ukraine Lends a Hand",
+      "summary": "Countries targeted by Iranian drones are eager to tap into Ukrainian expertise to shoot them down.",
+      "url": "https://www.nytimes.com/2026/03/09/world/ukraine-iran-drones-war-oil-khamenei.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-10T06:03:28+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Ukrainian expertise to shoot them down"
+    },
+    {
+      "id": "13e6498ff5639e1f3018fc6275dbfd85b7994e23",
+      "title": "‘Sounds familiar’: how the US-Israeli war in Iran parallels Russia’s invasion of Ukraine",
+      "summary": "Both campaigns have been framed differently at different times, with dubious claims of defensive action and a curious reluctance to label it warShifting goals, unclear timelines and a flimsy pretext: at times, the US-Isr…",
+      "url": "https://www.theguardian.com/world/2026/mar/10/how-the-us-israeli-war-in-iran-parallels-russia-invasion-of-ukraine",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-10T06:00:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Putin’s invasion of Ukraine.The comparison is far from exact."
+    },
+    {
+      "id": "862fd8222e790ecc3ff64f17838c759776c1e2a4",
+      "title": "Ukraine sent drone experts to protect US bases in Jordan, says Zelenskyy",
+      "summary": "Interceptor drones and operators deployed to Middle East after ‘requests for help from 11 countries neighbouring Iran’Middle East crisis – live updatesUkraine’s president has said he dispatched interceptor drones and ope…",
+      "url": "https://www.theguardian.com/world/2026/mar/09/ukraine-sent-drone-experts-protect-us-bases-jordan-zelenskyy",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-09T17:14:17+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ukraine sent drone experts"
+    },
+    {
+      "id": "63f125302e6380743c65c14109ec93ecf2909c09",
+      "title": "Roman Abramovich ready to fight UK government over proceeds from £2.5bn Chelsea sale",
+      "summary": "Russian oligarch says money is his to allocate despite international sanctions imposed on his assetsThe Russian oligarch Roman Abramovich has stepped up his row with the British government over the £2.5bn proceeds of his…",
+      "url": "https://www.theguardian.com/world/2026/mar/09/roman-abramovich-ready-to-fight-uk-government-over-proceeds-from-chelsea-sale",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-09T15:23:14+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "in response to Moscow’s full-scale invasion of Ukraine"
+    },
+    {
+      "id": "490b5f1b206f73d68aa3a302a8c82b4aeb3152ca",
+      "title": "Watch: Ukrainian anti-drone 'bullet' that could help defend Gulf",
+      "summary": "The BBC's Diplomatic Correspondent, James Landale, is in Ukraine to see the latest anti-drone technology the country has to offer.",
+      "url": "https://www.bbc.com/news/videos/cpv83ndmezno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-09T10:15:06+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Ukrainian anti-drone 'bullet' that could help defend Gulf"
+    },
+    {
+      "id": "61485e545d647fea3791ef7fcba792ee906b7b82",
+      "title": "Putin has no plans to stop. Ukraine needs Russia’s frozen assets more than ever",
+      "summary": "The US, UK, France, Germany, Canada, and other like-minded allies must form a coalition to cooperatively and immediately employ Moscow’s sovereign assets on Ukraine’s behalf",
+      "url": "https://www.euractiv.com/opinion/putin-has-no-plans-to-stop-ukraine-needs-russias-frozen-assets-more-than-ever/",
+      "source": "Euractiv",
+      "published_at": "2026-03-09T05:00:38+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine needs Russia’s frozen assets more than ever"
+    },
     {
       "id": "a8c55cb29e8e49f525c11bf00171b9c579cf8ed8",
       "title": "On the Road With Zelensky, Weathered, Weary and Fighting On",
@@ -32,6 +109,17 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "Ukraine Sent Drone Experts to Protect U.S. Bases in Jordan"
+    },
+    {
+      "id": "c9e0a2232f442f7ca003874aafe76414f958da6c",
+      "title": "Ukraine war briefing: drone experts will be in Middle East in coming days, says Zelenskyy",
+      "summary": "Ukrainian president hopes for reciprocal support for Kyiv in repelling Russian forces. What we know on day 1,474Ukrainian president Volodymyr Zelenskyy said on Sunday that Kyiv’s drone experts will be on site in the Midd…",
+      "url": "https://www.theguardian.com/world/2026/mar/09/ukraine-war-briefing-drone-experts-will-be-in-middle-east-in-coming-days-says-zelenskyy",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-09T00:45:28+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "producing weapons together with the Netherlands"
     },
     {
       "id": "467a91bc9eecfd5b5fec40217074e0551df614e7",
@@ -65,6 +153,17 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Latvia first country to officially recognize Ukraine’s digital signatures"
+    },
+    {
+      "id": "9b95a8bd18e6742d90e555d81be983af583ea6ad",
+      "title": "Sweden seizes false-flagged ship with suspected stolen Ukrainian grain",
+      "summary": "Collective action against the Russian shadow fleet is gaining momentum, Ukrainian Foreign Minister Sybiga said.",
+      "url": "https://www.euractiv.com/news/sweden-seizes-false-flagged-ship-with-suspected-stolen-ukrainian-grain/",
+      "source": "Euractiv",
+      "published_at": "2026-03-07T17:10:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "suspected stolen Ukrainian grain"
     },
     {
       "id": "c962de8b4f8ff2717ff3d850873289b72223b24e",
@@ -131,107 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Brussels slams Zelenskyy as Kyiv-Budapest tensions spiral"
-    },
-    {
-      "id": "fed1e0e0099f2bfb9ff6a48bd86abf719549cd4c",
-      "title": "Orbán prepared to stop shipments for Ukraine passing through Hungary as Russian oil pipeline row escalates – Europe live",
-      "summary": "Hungary will use ‘every means’ to end row with Ukraine over stalled Russian oil supplies, says prime ministerHungary will use “every means” to force a favourable solution in an escalating row with neighbouring Ukraine ov…",
-      "url": "https://www.theguardian.com/world/live/2026/mar/06/ukraine-russia-hungary-orban-zelenskyy-putin-middle-east-iran-cyprus-europe-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-06T09:17:31+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "row with Ukraine over stalled Russian oil supplies"
-    },
-    {
-      "id": "e9971527ba61ea9d5a642c7007c77f06fcd41c86",
-      "title": "As Trump Out-Putins Putin, Russia’s Global Influence Erodes",
-      "summary": "The conflict in Iran may give Moscow a short-term boost economically and in Ukraine. But it has also shown the limits of Russia’s partnerships.",
-      "url": "https://www.nytimes.com/2026/03/06/world/europe/russia-iran-putin.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-06T08:20:54+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "and in Ukraine."
-    },
-    {
-      "id": "a999b158d1e94725d4bb348ef46c2e0712524196",
-      "title": "Hungary will use ‘every means’ in Ukraine oil dispute, Orban warns",
-      "summary": "\"We will also stop things passing through Hungary, things that are important to Ukraine,\" Orbán said",
-      "url": "https://www.euractiv.com/news/hungary-will-use-every-means-in-ukraine-oil-dispute/",
-      "source": "Euractiv",
-      "published_at": "2026-03-06T08:16:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "stop things passing through Hungary, things that are important to Ukraine"
-    },
-    {
-      "id": "251f6ca92282b6954de660779d26bf97f573d6a7",
-      "title": "Antares Group posts profit amid wildfire and Ukraine hits - Insurance Business",
-      "summary": "Antares Group posts profit amid wildfire and Ukraine hits&nbsp;&nbsp;Insurance Business",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa2tPeFk3UVh6Z0xJUVYtZnJ4NHRQN0d6Ti1OTm0yUjl2TlFZWHViVHgtZk9CX2dldmhEVjZ1OHJWOGQ3RW5IQWdQN0ZLMTljTno3SzNqYXZsZ25BcjctQmlxOFgzNGdXblRCQmt4azVvYXczSkdfamQ0cVJUZE1iQkViNVlfdDFhZ3R1RHdSZGJHM3VaWjJYMHR6SHJfWk9rd3lrOXBibkpROHIwVHpJaTFKQUxOS1NReVpLY1l1Y1FXZm9adlV3?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-06T07:05:56+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Ukraine hits"
-    },
-    {
-      "id": "f2b1f131d6616922189a0948537446b14bc27f28",
-      "title": "Ukraine accuses Hungary of taking seven bank workers hostage in Budapest",
-      "summary": "Their bank said they were in two vans carrying $80m (£60m) worth of cash between Austria and Ukraine.",
-      "url": "https://www.bbc.com/news/articles/cd03rj7n0nro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-06T02:13:31+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Ukraine accuses Hungary"
-    },
-    {
-      "id": "b09c22242a44173b61630d44655d310cf98e1373",
-      "title": "Ukraine to help US and its allies counter Iranian drones in Middle East, says Zelenskyy",
-      "summary": "Ukrainian president orders equipment and expertise to be provided to US in return to diplomatic support against Russia, saying ‘we help to defend from war those who help us’The United States and its allies in the Middle…",
-      "url": "https://www.theguardian.com/world/2026/mar/06/ukraine-zelenskyy-iran-war-help-us-israel-fight-drones",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-06T01:36:33+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine to help US and its allies counter Iranian drones"
-    },
-    {
-      "id": "750a01edf43ae5e750e4c487a6caa2feb242f874",
-      "title": "Finland plans to lift decades-old ban on hosting nuclear weapons",
-      "summary": "The government says the nation's defence environment has \"significantly changed\" since Russia's invasion of Ukraine.",
-      "url": "https://www.bbc.com/news/articles/c14m5llnrlpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-05T23:12:16+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Russia's invasion of Ukraine"
-    },
-    {
-      "id": "9ab34dd7dea26461b9ab70fd1bd3665352f2517b",
-      "title": "US asked Ukraine for help fighting Iranian drones, Zelensky says",
-      "summary": "Ukraine's president says Kyiv will only help if doing so does not deplete its own air defences.",
-      "url": "https://www.bbc.com/news/articles/cr5llg0e9g9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-05T18:19:34+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "US asked Ukraine for help fighting Iranian drones"
-    },
-    {
-      "id": "c6edd93ab9e3fb9fb02f086a12a8595027462a05",
-      "title": "Fallout From Mideast Swirls Over the War in Ukraine",
-      "summary": "Three-way peace talks are on hold, and Kyiv fears that U.S. air defense systems it needs to counter Russia could be diverted to the Iran conflict.",
-      "url": "https://www.nytimes.com/2026/03/05/world/europe/ukraine-zelensky-iran-middle-east.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-05T18:16:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Kyiv fears that U.S. air defense systems it needs"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-09T10:10:47Z"
+  "last_updated": "2026-03-10T10:06:45Z"
 }

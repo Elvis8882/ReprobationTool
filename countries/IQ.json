@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 60,
+  "score": 59,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -2,
-  "sources": 28,
+  "trend": -1,
+  "sources": 31,
   "sentiment": {
     "positive": 2,
-    "neutral": 18,
-    "negative": 8
+    "neutral": 19,
+    "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "ae951fa0a3d3053924517e2ed52d54d4f7f5c7cb",
+      "title": "US-Israel-Iran War News Live Updates: UAE embassy in Iraq attacked, Hezbollah drones target Israel",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/us-israel-iran-war-news-live-udates-middle-east-crisis-conflict-drone-ballistic-missile-attacks-explosions-gulf-countries-flights-status-donald-trump-netanyahu-khamenei/liveblog/129370636.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-03-10T03:20:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "UAE embassy in Iraq attacked"
+    },
     {
       "id": "070a978d6de340d3eb01b55911654cad32d13524",
       "title": "SalamAir issues urgent travel advisory after suspending flights to multiple destinations amid Iran vs US-Israel war",
@@ -76,6 +87,28 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Iran claims to have targeted Kurdish groups in Iraq"
+    },
+    {
+      "id": "b0a20090413ee692cdf45781faac173d5b37ca54",
+      "title": "Iran targets headquarters of Iranian Kurdish forces in Iraq",
+      "summary": "Tehran's strikes come amid speculation that the US wants Iranian Kurdish groups to join the fight against Iran.",
+      "url": "https://www.bbc.com/news/articles/c2k88y1147jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-05T08:18:19+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "headquarters of Iranian Kurdish forces in Iraq"
+    },
+    {
+      "id": "ae169dad126d641f397a4aec05e1e040b042c396",
+      "title": "UK defence secretary flies to Cyprus amid fallout over RAF base drone strike",
+      "summary": "John Healey meets Cypriot counterpart after Shahed-style drone evaded defences and hit Akrotiri airbase on islandUS-Israel war on Iran – live updatesJohn Healey has flown to Cyprus to calm the diplomatic fallout over a d…",
+      "url": "https://www.theguardian.com/world/2026/mar/05/uk-defence-minister-flies-to-cyprus-drone-strike-raf-base-iran-war-middle-east-crisis",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-05T07:51:16+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "launched by pro-Iranian militia in Lebanon or western Iraq"
     },
     {
       "id": "d01bc9daf53f8051074d143dab0a0bbee57a7a9c",
@@ -197,41 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": ""
-    },
-    {
-      "id": "38f275342279690535dc1035d74e6e93104c9a77",
-      "title": "U.S., Iran complete round of talks as Trump weighs diplomacy against strikes",
-      "summary": "The latest round of talks unfolded against the backdrop of the largest U.S. military buildup in the Middle East since the 2003 Iraq invasion.",
-      "url": "https://www.washingtonpost.com/world/2026/02/26/iran-nuclear-talks-trump-strikes-geneva-oman/",
-      "source": "World (Washington post)",
-      "published_at": "2026-02-26T22:21:29+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Middle East since the 2003 Iraq invasion"
-    },
-    {
-      "id": "4bcf632b7fb8c33c7cdbf085e4d64504b784bae7",
-      "title": "Marco Rubio briefs US lawmakers on Iran as Trump uses State of the Union to threaten nuclear programme",
-      "summary": "Secretary of state makes rare briefing to so-called ‘gang of eight’ as US deploys largest force of aircraft and warships to Middle East since 2003Sign up for the Breaking News US email to get newsletter alerts in your in…",
-      "url": "https://www.theguardian.com/us-news/2026/feb/24/marco-rubio-iran-briefing",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-25T04:31:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "buildup to the Iraq war"
-    },
-    {
-      "id": "926f73ffab3de978f79f9cb91a8d556905c978be",
-      "title": "Concerns suspected Australian IS fighters could face death penalty after mass prisoner transfer to Iraq",
-      "summary": "Dfat aware of Australians among 5,704 detainees transferred out of Syrian prisons and into Iraqi custodyGet our breaking news email, free app or daily news podcastA group of Australian men suspected of being former Islam…",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/19/concerns-suspected-australian-is-fighters-could-face-death-penalty-after-mass-prisoner-transfer-to-iraq",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-19T08:51:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "transferred from Syria to Iraq, where they potentially face charges which could carry the death penalty"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-09T10:10:47Z"
+  "last_updated": "2026-03-10T10:06:45Z"
 }

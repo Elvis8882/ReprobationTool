@@ -1,16 +1,38 @@
 {
   "country": "LB",
-  "score": 63,
+  "score": 61,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -1,
-  "sources": 62,
+  "trend": -2,
+  "sources": 65,
   "sentiment": {
     "positive": 0,
     "neutral": 11,
-    "negative": 51
+    "negative": 54
   },
   "latest_articles": [
+    {
+      "id": "8dde3745d6facf75769fa508d30389cd886592af",
+      "title": "Shells Fired From Lebanon Land West of Syrian Capital, Country’s Military Says",
+      "summary": "The Syrian military accused Hezbollah of targeting Syrian army positions outside of Damascus.",
+      "url": "https://www.nytimes.com/2026/03/09/world/middleeast/syria-hezbollah-iran-lebanon.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-10T00:24:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Shells Fired From Lebanon Land West of Syrian Capital"
+    },
+    {
+      "id": "ecf149245e224c64a3eb426c0934b0bd67c9a7f8",
+      "title": "Live Updates: Iran Names Khamenei’s Son Supreme Leader",
+      "summary": "Top clerics said Mojtaba Khamenei will succeed his slain father, Ayatollah Ali Khamenei. The Israeli military said it was attacking Tehran and Beirut early Monday, and Iran said it had launched missiles toward Israel.",
+      "url": "https://www.nytimes.com/live/2026/03/09/world/iran-war-trump-israel-lebanon",
+      "source": "NYT > World News",
+      "published_at": "2026-03-09T09:39:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli military said it was attacking Tehran and Beirut"
+    },
     {
       "id": "88fc0e931adc79474781ab314df1c86116625577",
       "title": "Israel accused of using white phosphorus in Lebanon: Why the weapon is controversial",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.4,
       "evidence": "disarm the Iranian-backed armed group"
-    },
-    {
-      "id": "878810442b530a2f297c8ed6e1f205e5f1699682",
-      "title": "US, Israel-Iran War News Live Updates: Dubai Residents Get 'Potential Missile Threats' Alert As War Enters Day 7",
-      "summary": "US, Israel-Iran War News Live Updates: Israel struck Beirut amid raging war",
-      "url": "https://www.ndtv.com/world-news/us-israel-iran-war-news-live-updates-donald-trump-netanyahu-iris-dena-middle-east-war-enters-day-7-11175202#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-03-06T08:12:51+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel struck Beirut amid raging war"
-    },
-    {
-      "id": "aebe7165359f58c746a9302055d759750aef6169",
-      "title": "Israeli Airstrikes Pound Beirut Suburb, Hezbollah Warns Israelis",
-      "summary": "Lebanon was pulled into the war in the Middle East on Monday.",
-      "url": "https://www.ndtv.com/world-news/israeli-airstrikes-pound-beirut-suburb-hezbollah-warns-israelis-11176281#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-03-06T07:37:07+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Lebanon was pulled into the war in the Middle East"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-09T10:10:47Z"
+  "last_updated": "2026-03-10T10:06:45Z"
 }

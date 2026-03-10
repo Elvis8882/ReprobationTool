@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 37,
+  "sources": 38,
   "sentiment": {
     "positive": 2,
     "neutral": 19,
-    "negative": 16
+    "negative": 17
   },
   "latest_articles": [
+    {
+      "id": "8dde3745d6facf75769fa508d30389cd886592af",
+      "title": "Shells Fired From Lebanon Land West of Syrian Capital, Country’s Military Says",
+      "summary": "The Syrian military accused Hezbollah of targeting Syrian army positions outside of Damascus.",
+      "url": "https://www.nytimes.com/2026/03/09/world/middleeast/syria-hezbollah-iran-lebanon.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-10T00:24:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Syrian military accused Hezbollah of targeting Syrian army positions"
+    },
     {
       "id": "f3f494737091a17926e8ef06479de21890382e26",
       "title": "As Israel Pounds Lebanon, Thousands of Syrians There Flee Back Home",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "citizen trying to return from IS camp in Syria"
-    },
-    {
-      "id": "ae02d24b417b317cef078aa64280f8f8c7b5af3e",
-      "title": "Woman in Syrian detention camp banned from returning to Australia for up to two years",
-      "summary": "Person among group of 34 women and children who were released from al-Roj camp on Monday but were forced to returnGet our breaking news email, free app or daily news podcastOne adult among the group of 34 Australian wome…",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/18/woman-in-syrian-detention-camp-banned-from-returning-to-australia-for-up-to-two-years",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-18T06:28:28+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Woman in Syrian detention camp banned from returning to Australia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-09T10:10:47Z"
+  "last_updated": "2026-03-10T10:06:45Z"
 }

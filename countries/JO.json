@@ -1,16 +1,27 @@
 {
   "country": "JO",
   "score": 64,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 8,
+  "sources": 9,
   "sentiment": {
     "positive": 1,
-    "neutral": 5,
+    "neutral": 6,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "862fd8222e790ecc3ff64f17838c759776c1e2a4",
+      "title": "Ukraine sent drone experts to protect US bases in Jordan, says Zelenskyy",
+      "summary": "Interceptor drones and operators deployed to Middle East after ‘requests for help from 11 countries neighbouring Iran’Middle East crisis – live updatesUkraine’s president has said he dispatched interceptor drones and ope…",
+      "url": "https://www.theguardian.com/world/2026/mar/09/ukraine-sent-drone-experts-protect-us-bases-jordan-zelenskyy",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-09T17:14:17+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "protect US bases in Jordan"
+    },
     {
       "id": "a54c4e4859a3c71a1157e6c116b3eed7909c8b39",
       "title": "Iran ‘struck’ high-value US radar systems in Gulf, show satellite images",
@@ -101,5 +112,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-09T10:10:47Z"
+  "last_updated": "2026-03-10T10:06:45Z"
 }

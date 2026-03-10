@@ -1,0 +1,41 @@
+{
+  "id": "9d1981a408761c65df2dab039ac8777423d55d2f",
+  "title": "U.S. orders more diplomats to leave Middle East",
+  "summary_full": "The State Department’s most recent directives apply to personnel in Turkey and Saudi Arabia, underscoring the ongoing threat posed by Iranian counterattacks.",
+  "summary_public": "The State Department’s most recent directives apply to personnel in Turkey and Saudi Arabia, underscoring the ongoing threat posed by Iranian counterattacks.",
+  "url": "https://www.washingtonpost.com/national-security/2026/03/09/us-diplomats-middle-east-iran/",
+  "published_at": "2026-03-09T22:54:25+00:00",
+  "source": "World (Washington post)",
+  "language": "en",
+  "countries_detected": [
+    "IR",
+    "SA",
+    "TR"
+  ],
+  "countries_scored": [
+    "IR",
+    "SA",
+    "TR"
+  ],
+  "sentiment_by_country": {
+    "IR": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "threat posed by Iranian counterattacks"
+    },
+    "SA": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "personnel in Saudi Arabia"
+    },
+    "TR": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "personnel in Turkey"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-10T10:06:45+00:00",
+  "processed_at": "2026-03-10T10:06:45+00:00"
+}
