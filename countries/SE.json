@@ -1,16 +1,47 @@
 {
   "country": "SE",
-  "score": 74,
+  "score": 72,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 2,
-  "sources": 117,
+  "trend": -2,
+  "sources": 120,
   "sentiment": {
     "positive": 6,
-    "neutral": 107,
-    "negative": 4
+    "neutral": 109,
+    "negative": 5
   },
   "latest_articles": [
+    {
+      "id": "ad6711d3c2188ef3e0af2bb4496be6efefaf3c32",
+      "title": "Right-wing extremism gaining traction among Swedish youth",
+      "summary": "\"The share of youths who reject democracy has increased in recent years,\" according to a report by Sweden's anti-racism watchdog Expo",
+      "url": "https://www.euractiv.com/news/right-wing-extremism-gaining-traction-among-swedish-youth/",
+      "source": "Euractiv",
+      "published_at": "2026-03-10T13:27:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Right-wing extremism gaining traction among Swedish youth"
+    },
+    {
+      "id": "da752a81328a0e945c6a3acdda0a159facd571cd",
+      "title": "European Parliament eyes date for decision on US trade pact, breaking standstill",
+      "summary": "A final vote would take place during the Brussels plenary on 25–26 March",
+      "url": "https://www.euractiv.com/news/european-parliament-eyes-date-for-decision-on-us-trade-pact-breaking-standstill/",
+      "source": "Euractiv",
+      "published_at": "2026-03-10T12:21:34+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "fd6e054582ef0137ec4c36711086290ec014748a",
+      "title": "EHPM 50 Years: Highlights from the European Parliament Celebration",
+      "summary": "The EHPM 50th Anniversary Event Highlights Video shares the key moments, perspectives and atmosphere of the landmark celebration held on 12 November at the European Parliament. The high-level event convened EU policymake…",
+      "url": "https://www.euractiv.com/video/ehpm-50-years-highlights-from-the-european-parliament-celebration-2/",
+      "source": "Euractiv",
+      "published_at": "2026-03-10T11:00:44+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "6a5af1b1310285cedb7664fcc6e2bcbabc84304f",
       "title": "EPP blames Socialists after siding with far right on return hubs",
@@ -183,40 +214,8 @@
       "published_at": "2026-03-04T09:40:00+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "0e173e58944c8bd4e483b17ac63c6710f4127d25",
-      "title": "Sweden blocks reimbursement of obesity drug over pricing, prescription concerns [Advocacy Lab]",
-      "summary": "The risk of the weight loss drug being prescribed outside its pharmaceutical indication was considered too high, while for children, the price was deemed inflated",
-      "url": "https://www.euractiv.com/news/sweden-blocks-reimbursement-of-obesity-drug-over-pricing-prescription-concerns/",
-      "source": "Euractiv",
-      "published_at": "2026-03-04T01:33:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Sweden blocks reimbursement of obesity drug"
-    },
-    {
-      "id": "bb3ee5639fd5f12f5110cc21da4d9310d10c327f",
-      "title": "Women at work: a snapshot of EU’s gender employment gap - European Commission",
-      "summary": "Women at work: a snapshot of EU’s gender employment gap&nbsp;&nbsp;European CommissionGender employment gap rises in Cyprus, Eurostat says&nbsp;&nbsp;ΚΥΠΕGender employment gap is smallest in Finland and Baltic states / A…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KcTM5S0ZfTzdGclc4NjJYTnZkSllCWEhveDBtR1JlcUxJc1BhWkJhQUNSdU1oeWZQYWxCQUtOeGxRekl3OWo4Skc5a3NVSUh2ZGNmT0ZEQUVjaWhKYTU1a0lhbGF0eVBkRHhkV1JwdDNXUFo3RXJ2MjhjMUg5Zw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-03T10:06:36+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "b1b581014dedee4507e7d34b325e061255ef7b7c",
-      "title": "Ferries emit ‘more sulphur pollution than cars’ in several EU capitals",
-      "summary": "Dublin, Helsinki, Stockholm and Tallinn among port cities more choked by sulphur oxides from ferries, analysis showsFume-belching ferries spew more sulphur pollution than cars in several EU capitals, analysis has found.D…",
-      "url": "https://www.theguardian.com/environment/2026/mar/02/ferries-emissions-sulphur-pollution-cars-eu-capitals",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-02T23:01:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Stockholm among port cities more choked by sulphur oxides"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-10T10:06:45Z"
+  "last_updated": "2026-03-11T10:02:14Z"
 }

@@ -3,14 +3,58 @@
   "score": 50,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -2,
-  "sources": 336,
+  "trend": 0,
+  "sources": 341,
   "sentiment": {
-    "positive": 130,
-    "neutral": 79,
-    "negative": 127
+    "positive": 132,
+    "neutral": 81,
+    "negative": 128
   },
   "latest_articles": [
+    {
+      "id": "5b29dc869eb3da600f12c014656591b415546108",
+      "title": "Ukraine Can Now Manufacture ‘China-Free’ Drones",
+      "summary": "The country has prioritized self-sufficiency in producing a crucial battlefield weapon, though weaning itself fully off cheaper Chinese components is difficult.",
+      "url": "https://www.nytimes.com/2026/03/11/world/europe/ukraine-drones-china.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-11T04:01:06+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Ukraine Can Now Manufacture ‘China-Free’ Drones"
+    },
+    {
+      "id": "e4fa731ee6324185ee9f3c457e5a8ab61d0746d3",
+      "title": "Ukraine hit ‘key’ Russian military factory in Bryansk strike: Zelenskyy",
+      "summary": "Ukrainian president calls strike \"justified response to the aggressor\"",
+      "url": "https://www.euractiv.com/news/ukraine-hit-key-russian-military-factory-in-bryansk-strike-zelenskyy/",
+      "source": "Euractiv",
+      "published_at": "2026-03-10T18:30:03+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "justified response to the aggressor"
+    },
+    {
+      "id": "5522f1835f5a8366f21394ffe33f08e9ae665291",
+      "title": "Russia's deportation of Ukrainian children amounts to crime against humanity, UN says",
+      "summary": "Vladimir Putin's direct involvement in the forcible deportation of Ukrainian children has been visible from the outset, the UN says.",
+      "url": "https://www.bbc.com/news/articles/cz7g5xnvl2eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-10T17:50:52+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "deportation of Ukrainian children amounts to crime against humanity"
+    },
+    {
+      "id": "eec5aa9acf31d38d13435b5926f0e8af2f1db247",
+      "title": "Finland warns end of Ukraine war could bring more Russian spying",
+      "summary": "'Russian intelligence capacity in Europe has suffered due to the war, and Russia is preparing to restore this capacity,' the Finnish Security and Intelligence Service said on Tuesday",
+      "url": "https://www.euractiv.com/news/finland-warns-end-of-ukraine-war-could-bring-more-russian-spying/",
+      "source": "Euractiv",
+      "published_at": "2026-03-10T13:43:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Ukraine war"
+    },
     {
       "id": "e18dc7c9d5360f9d90975862dfaf3aa45c6fd1b7",
       "title": "Reeves to face MPs’ grilling over cost-of-living pressures – UK politics live",
@@ -43,6 +87,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Putin’s invasion of Ukraine.The comparison is far from exact."
+    },
+    {
+      "id": "38309442bcdff412cd0519e620370c282f1a71af",
+      "title": "Fico set to meet von der Leyen as Ukraine pipeline pressure grows",
+      "summary": "Slovak row with Ukraine over Russian oil could overshadow French nuclear summit",
+      "url": "https://www.euractiv.com/news/fico-set-to-meet-von-der-leyen-as-ukraine-pipeline-pressure-grows/",
+      "source": "Euractiv",
+      "published_at": "2026-03-10T05:00:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Slovak row with Ukraine over Russian oil"
     },
     {
       "id": "862fd8222e790ecc3ff64f17838c759776c1e2a4",
@@ -175,63 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Russian strike on Kharkiv apartment block kills seven"
-    },
-    {
-      "id": "169ce403ade9b0a530f82647ad2850901d5e5bc3",
-      "title": "Russia Gets Silent Treatment in Paralympics Return",
-      "summary": "Russia’s flag was paraded at the opening ceremony of the Paralympics for the first time since 2014 prompting a boycott by several nations led by Ukraine.",
-      "url": "https://www.nytimes.com/2026/03/06/world/europe/2026-paralympics-russia-doping-ukraine-boycott.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-07T02:50:01+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "boycott by several nations led by Ukraine."
-    },
-    {
-      "id": "49854542c0e0d77efa5e22fd82c0d42e266f743d",
-      "title": "Revealed: the Ukrainian facility where UK engineers help fix vital weapons",
-      "summary": "Exclusive: MoD-contracted workers assisting Ukrainians in a way ‘no other nation has been willing to do’, says ministerIn an unmarked and undisclosed location in western Ukraine, British and Ukrainian engineers work side…",
-      "url": "https://www.theguardian.com/world/2026/mar/06/revealed-the-ukrainian-facility-where-uk-engineers-help-fix-vital-weapons",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-06T22:00:32+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "UK engineers help fix vital weapons"
-    },
-    {
-      "id": "b63ebc8b52229fef8f6315892a7653065ade9cdf",
-      "title": "Hungary seizes millions of euros in cash and gold from Ukrainian convoy",
-      "summary": "Seven Ukrainians arrested and money-laundering investigation launched in latest spat between Kyiv and BudapestAn increasingly acrimonious spat between Hungary and Ukraine has escalated further, as Budapest impounded two…",
-      "url": "https://www.theguardian.com/world/2026/mar/06/hungary-seizes-millions-euros-cash-gold-ukrainian-convoy",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-06T16:00:40+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Hungary seizes millions of euros in cash and gold from Ukrainian convoy"
-    },
-    {
-      "id": "a339ede528be49eb4e02737dcb04676bf12cfb71",
-      "title": "Kubilius calls on Europe to increase missile production for Ukraine",
-      "summary": "A limited global supply could impact Ukraine's ability to ward off Russia's attacks",
-      "url": "https://www.euractiv.com/news/kubilius-calls-on-europe-to-increase-missile-production-for-ukraine/",
-      "source": "Euractiv",
-      "published_at": "2026-03-06T13:43:43+00:00",
-      "sentiment": "positive",
-      "confidence": 0.5,
-      "evidence": "Kubilius calls on Europe to increase missile production for Ukraine"
-    },
-    {
-      "id": "854d83a71a410bafb964dc58edc94fa9c76d640e",
-      "title": "‘Not acceptable’: Brussels slams Zelenskyy as Kyiv-Budapest tensions spiral",
-      "summary": "“There must not be threats against EU member states,\" a European Commission spokesperson said",
-      "url": "https://www.euractiv.com/news/not-acceptable-brussels-slams-zelenskyy-as-kyiv-budapest-tensions-spiral/",
-      "source": "Euractiv",
-      "published_at": "2026-03-06T12:49:59+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Brussels slams Zelenskyy as Kyiv-Budapest tensions spiral"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-10T10:06:45Z"
+  "last_updated": "2026-03-11T10:02:14Z"
 }

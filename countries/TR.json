@@ -3,14 +3,25 @@
   "score": 64,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 39,
+  "trend": 0,
+  "sources": 40,
   "sentiment": {
     "positive": 5,
-    "neutral": 26,
+    "neutral": 27,
     "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "d85075d3345ac7322e48eca0de3fcbabff0c9814",
+      "title": "U.S. Orders Diplomats to Leave Consulate in Southern Turkey",
+      "summary": "The order came after the interception of two missiles heading toward Turkey, which has a base that hosts U.S. and NATO forces.",
+      "url": "https://www.nytimes.com/2026/03/10/world/middleeast/us-diplomats-consulate-turkey.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-10T10:00:45+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "U.S. Orders Diplomats to Leave Consulate in Southern Turkey"
+    },
     {
       "id": "c12383e4514fd79acbb1534cef4eea4674f64656",
       "title": "U.S. Reaches Tentative Deal Ending Prosecution of Turkish Bank",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Turkey revealed as hub for indirect EU weapon exports"
-    },
-    {
-      "id": "1dce9264ba83d27a91985226a9f309012ef5a8d3",
-      "title": "Turkey's president rejects Israel's recognition of Somaliland",
-      "summary": "He made the comment on an official visit to Ethiopia, saying it could prove dangerous for a volatile region.",
-      "url": "https://www.bbc.com/news/articles/c0lj0plkg09o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-18T13:10:03+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Turkey's president rejects Israel's recognition"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-10T10:06:45Z"
+  "last_updated": "2026-03-11T10:02:14Z"
 }
