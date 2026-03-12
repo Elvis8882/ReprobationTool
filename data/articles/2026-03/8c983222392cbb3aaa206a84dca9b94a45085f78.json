@@ -1,0 +1,41 @@
+{
+  "id": "8c983222392cbb3aaa206a84dca9b94a45085f78",
+  "title": "Ukraine says it has hit Russian 'missile component' plant",
+  "summary_full": "Russia says the attack hit civilians and could not have been carried out without British help.",
+  "summary_public": "Russia says the attack hit civilians and could not have been carried out without British help.",
+  "url": "https://www.bbc.com/news/articles/ckg1eqw30l9o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-03-11T11:16:02+00:00",
+  "source": "BBC News - World",
+  "language": "en",
+  "countries_detected": [
+    "GB",
+    "RU",
+    "UA"
+  ],
+  "countries_scored": [
+    "GB",
+    "RU",
+    "UA"
+  ],
+  "sentiment_by_country": {
+    "GB": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "could not have been carried out without British help"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia says the attack hit civilians"
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine says it has hit Russian 'missile component' plant"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-12T10:03:34+00:00",
+  "processed_at": "2026-03-12T10:03:34+00:00"
+}

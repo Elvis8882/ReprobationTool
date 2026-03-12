@@ -1,0 +1,41 @@
+{
+  "id": "d43b4ad0d0a9b15eee06861fceeecce5fe7d99cf",
+  "title": "War against Iran expands into Lebanon as Israel battles Hezbollah",
+  "summary_full": "Fighting near Beirut and in southern Lebanon has killed more than 630 people and forced at least 800,000 from their homes.",
+  "summary_public": "Fighting near Beirut and in southern Lebanon has killed more than 630 people and forced at least 800,000 from their homes.",
+  "url": "https://www.washingtonpost.com/world/2026/03/12/israel-hezbollah-lebanon-war/",
+  "published_at": "2026-03-12T09:00:52+00:00",
+  "source": "World (Washington post)",
+  "language": "en",
+  "countries_detected": [
+    "IL",
+    "IR",
+    "LB"
+  ],
+  "countries_scored": [
+    "IL",
+    "IR",
+    "LB"
+  ],
+  "sentiment_by_country": {
+    "IL": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel battles Hezbollah"
+    },
+    "IR": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "War against Iran expands into Lebanon"
+    },
+    "LB": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "Fighting near Beirut and in southern Lebanon"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-12T10:03:34+00:00",
+  "processed_at": "2026-03-12T10:03:34+00:00"
+}

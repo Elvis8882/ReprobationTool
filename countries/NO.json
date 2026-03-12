@@ -1,16 +1,38 @@
 {
   "country": "NO",
-  "score": 66,
+  "score": 65,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 49,
+  "trend": -1,
+  "sources": 51,
   "sentiment": {
     "positive": 4,
-    "neutral": 38,
-    "negative": 7
+    "neutral": 39,
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "2675d80460ec586d5ab6b1c6928b42b81c17cf5b",
+      "title": "Three brothers arrested after explosion at US embassy in Oslo",
+      "summary": "Norway's police attorney says the authorities are investigating whether a foreign state actor was involved.",
+      "url": "https://www.bbc.com/news/articles/cx2grl7lrrmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-11T18:28:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "explosion at US embassy in Oslo, investigating whether a foreign state actor was involved"
+    },
+    {
+      "id": "8cda69ccaa5161ae741606580f25f41432dae10a",
+      "title": "Three Norwegian brothers arrested over US embassy blast in Oslo",
+      "summary": "Trio held on suspicion of ‘terrorist bombing’ that caused minor damage but no injuriesThree Norwegian brothers have been arrested on suspicion of a “terrorist bombing” at the US embassy in Oslo that caused minor damage a…",
+      "url": "https://www.theguardian.com/world/2026/mar/11/three-norwegian-brothers-arrested-us-embassy-blast-oslo",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-11T18:26:56+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "Three Norwegian brothers arrested over US embassy blast in Oslo"
+    },
     {
       "id": "8ca712100d2799fad0267e2d1b56159a2287878f",
       "title": "Police release images of Oslo US embassy explosion suspect",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Norwegian scientist suffers brain damage after testing device"
-    },
-    {
-      "id": "08f7a5cbc646b5aac2ad4683263bc0da6afbda77",
-      "title": "Brazil’s Pinheiro Braathen wins gold – and South America’s first Winter Olympics medal",
-      "summary": "Norwegian-born skier storms to historic slalom gold‘Your difference is your superpower,’ says 25-year-old As the snow fell in Bormio, and the fog settled in, Lucas Pinheiro Braathen made history by becoming the first Sou…",
-      "url": "https://www.theguardian.com/sport/2026/feb/14/winter-olympics-brazils-pinheiro-braathen-sambas-down-slope-for-south-americas-first-medal",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-14T15:25:09+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Norwegian-born skier storms to historic slalom gold"
-    },
-    {
-      "id": "c10311caa9117772cbd227ec5eb9a47a766f6c85",
-      "title": "The Mutually Beneficial Ties Between Jeffrey Epstein and Thorbjorn Jagland",
-      "summary": "Thorbjorn Jagland, a former prime minister of Norway who led the Nobel Committee, promised influence, and the disgraced financier had gifts to give, new emails show.",
-      "url": "https://www.nytimes.com/2026/02/13/world/europe/norway-jagland-epstein.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-13T23:02:41+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "former prime minister of Norway who led the Nobel Committee"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-11T10:02:14Z"
+  "last_updated": "2026-03-12T10:03:34Z"
 }

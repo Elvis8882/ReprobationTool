@@ -1,16 +1,93 @@
 {
   "country": "IQ",
-  "score": 59,
+  "score": 58,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 33,
+  "trend": -1,
+  "sources": 40,
   "sentiment": {
     "positive": 2,
-    "neutral": 20,
-    "negative": 11
+    "neutral": 23,
+    "negative": 15
   },
   "latest_articles": [
+    {
+      "id": "fa90ecb59b17557373c79e8a24e27ddab7f7b9fa",
+      "title": "Iran War Live Updates: Iraq Closes Oil Terminals as Energy Prices Surge",
+      "summary": "Two oil tankers were burning off the Iraqi coast on Thursday as the conflict in the Middle East deepened disruptions to the global energy supply. Israeli airstrikes also shook Beirut, the Lebanese capital.",
+      "url": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel",
+      "source": "NYT > World News",
+      "published_at": "2026-03-12T09:41:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Iraq Closes Oil Terminals as Energy Prices Surge"
+    },
+    {
+      "id": "ddcf2e97df841bd5bebbb884abf15cd7eb46fd40",
+      "title": "Middle East crisis live: Iran steps up campaign to disrupt energy markets as oil price spikes above $100 a barrel",
+      "summary": "Iran has set ablaze two tankers in Iraqi waters as it increased attacks on oil and transport facilities across the Middle EastIran escalates attacks on infrastructure and transport across the GulfHow have you been affect…",
+      "url": "https://www.theguardian.com/world/live/2026/mar/12/iran-war-live-updates-oil-trump-middle-east-crisis-israel-lebanon-iraq-latest-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-12T09:19:45+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran has set ablaze two tankers in Iraqi waters"
+    },
+    {
+      "id": "ad885722659883929061a458f83839c690e832ff",
+      "title": "How Hegseth Came to See Moral Purpose in War as Weakness",
+      "summary": "Defense Secretary Pete Hegseth’s bellicose and vengeful rhetoric describing the military’s war in Iran grew out of his experience in Iraq.",
+      "url": "https://www.nytimes.com/2026/03/12/us/politics/hegseth-iran-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-12T09:03:16+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "military’s war in Iran grew out of his experience in Iraq."
+    },
+    {
+      "id": "6ea51f37470afb21342ea37c6bcd4e7c61546dbd",
+      "title": "Deadly Attack on Oil Tankers Prompts Iraq to Close Oil Terminals",
+      "summary": "An attack off the Iraqi coast engulfed two oil tankers in flames, killing at least one person. Senior Iraqi officials believe the attack was Iranian.",
+      "url": "https://www.nytimes.com/2026/03/12/world/middleeast/iraq-oil-tankers-attack-iran-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-12T08:53:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Attack on Oil Tankers Prompts Iraq to Close Oil Terminals"
+    },
+    {
+      "id": "450a58d97c1c935d8846c1c89412efcd5dbf0cb8",
+      "title": "Watch: Video shows huge blaze after blasts hit oil tankers off Iraq’s Basra coast",
+      "summary": "A deadly explosion rocked two oil tankers in the Persian Gulf off Iraq's Basra coast, with officials suspecting an attack by Iranian boats. The blasts ignited massive fires, forcing the evacuation of 38 foreign crew memb…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/watch-video-shows-huge-blaze-after-blasts-hit-oil-tankers-off-iraqs-basra-coast/articleshow/129489843.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-03-12T03:42:32+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "blasts hit oil tankers off Iraq’s Basra coast"
+    },
+    {
+      "id": "6c41319e2ddbcdd8b14ade3e58de0fe9df482a5a",
+      "title": "Justified or not? US military families on fears of Iran war",
+      "summary": "BBC's North America editor Sarah Smith spoke to Gold Star mum Lynn, whose son died in the Iraq War, and veteran Jeremy.",
+      "url": "https://www.bbc.com/news/videos/cqxd7lyngxjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-12T00:20:34+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Iraq War"
+    },
+    {
+      "id": "8cda69ccaa5161ae741606580f25f41432dae10a",
+      "title": "Three Norwegian brothers arrested over US embassy blast in Oslo",
+      "summary": "Trio held on suspicion of ‘terrorist bombing’ that caused minor damage but no injuriesThree Norwegian brothers have been arrested on suspicion of a “terrorist bombing” at the US embassy in Oslo that caused minor damage a…",
+      "url": "https://www.theguardian.com/world/2026/mar/11/three-norwegian-brothers-arrested-us-embassy-blast-oslo",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-11T18:26:56+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Norwegian citizens of Iraqi origin, had been arrested in Oslo"
+    },
     {
       "id": "a684f4f6a95a0ddaaff0ef53c6d8e2ecefac2fc8",
       "title": "Iranian exile factions vie for US leaders’ blessing to lead Iran",
@@ -153,85 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "nonessential staff in the United Arab Emirates, Qatar, Bahrain, Jordan and Iraq"
-    },
-    {
-      "id": "2f3642901e7f3b308278af6aca45533b956b21b3",
-      "title": "Spring forecast: Reeves to insist she has ‘right economic plan’; Markets plunge as Middle East crisis drives up oil and gas prices – live updates",
-      "summary": "Rolling coverage of the latest economic and financial news, including the UK’s spring forecastRachel Reeves’s plans could be hit by Middle East conflict, say economistsUK grocery price inflation has risen, showing that p…",
-      "url": "https://www.theguardian.com/business/live/2026/mar/03/spring-forecast-rachel-reeves-statement-economic-plan-obr-oil-gas-stock-markets-live-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-03T09:24:06+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "BP’s significant production in Iraq and Abu Dhabi risks being bottlenecked"
-    },
-    {
-      "id": "8ac23db0a6f9e4bef842c0b946f21452f17f82e9",
-      "title": "Threat from Iran conflict spreads across Middle East in 72 hours",
-      "summary": "In less than three days, the conflict ricocheted beyond the original targets in Iran, Israel and Iraq to threaten some 300 million civilians across more than a dozen nations.",
-      "url": "https://www.washingtonpost.com/world/2026/03/02/mideast-iran-israel-war-civilians/",
-      "source": "World (Washington post)",
-      "published_at": "2026-03-03T05:59:11+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "conflict ricocheted beyond the original targets in Iran, Israel and Iraq"
-    },
-    {
-      "id": "0a7c838b057bd0f0e73df43019bbb54fe998e2c0",
-      "title": "Hegseth on Iran attacks: 'This is not Iraq, this is not endless'",
-      "summary": "US Secretary of Defense Pete Hegseth offered few details about the operation, leaving questions unanswered about the scope or duration.",
-      "url": "https://www.bbc.com/news/videos/cn71jg14dnyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-02T15:07:36+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "This is not Iraq"
-    },
-    {
-      "id": "669bf9cd26c54e93b0e13eff7ea01eb621a0c698",
-      "title": "RAF airbase in Cyprus hit as Cooper defends decision to allow US to use UK bases for Iran strikes – UK politics live",
-      "summary": "Foreign secretary confirms strike on Akrotiri base but says it ‘simply not true’ the UK is being dragged into an Iraq-style conflict‘Simply not true’ UK is being dragged into Iraq-style conflict, says foreign secretaryWh…",
-      "url": "https://www.theguardian.com/politics/live/2026/mar/02/raf-cyprus-yvette-cooper-keir-starmer-us-iran-israel-uk-politics-latest-news",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-02T09:42:04+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Iraq-style conflict"
-    },
-    {
-      "id": "2de08c2a0d529fe758e4fcc05cf987013f981fa4",
-      "title": "‘Simply not true’ UK is being dragged into Iraq-style conflict, says foreign secretary",
-      "summary": "Yvette Cooper says plans under consideration to evacuate about 300,000 Britons from Middle East amid Iran warUS-Israel war on Iran – live updatesIt is “simply not true” that the UK is being dragged into another Iraq-styl…",
-      "url": "https://www.theguardian.com/world/2026/mar/02/uk-foreign-secretary-us-israel-war-on-iran",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-02T08:29:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "UK is being dragged into another Iraq-style conflict"
-    },
-    {
-      "id": "3bb3f60c763a6839bc10ae406eb9df63cf0458dc",
-      "title": "US-Israel war on Iran live: Israel launches new wave of attacks ‘in the heart of Tehran’ after death of Ayatollah Ali Khamenei",
-      "summary": "Sirens in Jerusalem and Tel Aviv as Iran retaliates in strikes that also hit across Middle East regionFull report: Ayatollah Ali Khamenei killedA visual guide to the US-Israeli strikes on Iran – and Tehran’s responseWar…",
-      "url": "https://www.theguardian.com/us-news/live/2026/mar/01/us-israel-war-on-iran-ayatollah-ali-khamenei-i-dead-latest-reports",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-01T09:16:34+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Loud explosions were heard early on Sunday near Erbil airport"
-    },
-    {
-      "id": "746b361e76227c6bde717052a82f7dbccd97bfcd",
-      "title": "From Pak To Iraq, Protesters Storm US Consulates Over Khamenei's Death",
-      "summary": "Protests in Pakistan's Karachi led to the deaths of eight people.",
-      "url": "https://www.ndtv.com/world-news/mob-barges-into-us-consulate-in-pak-sets-portions-of-building-afire-over-iran-11153134#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-03-01T08:21:19+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "To Iraq, Protesters Storm US Consulates"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-11T10:02:14Z"
+  "last_updated": "2026-03-12T10:03:34Z"
 }

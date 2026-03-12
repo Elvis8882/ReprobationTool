@@ -4,13 +4,112 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 400,
+  "sources": 412,
   "sentiment": {
     "positive": 19,
-    "neutral": 85,
-    "negative": 296
+    "neutral": 87,
+    "negative": 306
   },
   "latest_articles": [
+    {
+      "id": "e6cca69afe0c429c0edf8bf0a787e0675cfa49b9",
+      "title": "How Russia’s Scorched-Earth Attacks Put Ukraine’s Power Grid Near Collapse",
+      "summary": "Strikes on Ukrainian energy systems have tripled this winter. Continuous repairs and Western aid staved off a total breakdown.",
+      "url": "https://www.nytimes.com/2026/03/12/world/europe/ukraine-russia-energy-system.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-12T09:02:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia’s Scorched-Earth Attacks Put Ukraine’s Power Grid Near Collapse"
+    },
+    {
+      "id": "3738367d7fd9192f6dd4e43fae1b7ce82d156161",
+      "title": "European drivers face €220 a year jump in fuel costs due to Iran conflict, say experts",
+      "summary": "Exclusive: Oil at $100 a barrel means higher prices in the EU and UK, making savings for those with electric vehicles even greater, analysts sayEuropean drivers face paying an extra €220 (£190) a year at the pumps becaus…",
+      "url": "https://www.theguardian.com/money/2026/mar/12/european-drivers-fuel-costs-jump-iran-conflict",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-12T05:00:09+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Russia’s invasion of Ukraine pushed the oil price"
+    },
+    {
+      "id": "b813c0a05579558c2555eda722b42d1e1eb35926",
+      "title": "U.N. Security Council Condemns Iran’s Retaliatory Strikes in the Middle East",
+      "summary": "In an overwhelming vote, the council backed a resolution condemning Iran. A Russian proposal calling for an end to the war that didn’t assign blame or even name the parties, was rejected.",
+      "url": "https://www.nytimes.com/2026/03/11/world/middleeast/un-security-council-condemns-iran-strikes.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-12T01:32:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "A Russian proposal calling for an end to the war"
+    },
+    {
+      "id": "161884eadc55681201cd22bec02231cbb2199dc5",
+      "title": "Russia Says Ukraine’s Strike on Factory City Was Deadly",
+      "summary": "Ukraine said the attack struck a key electronics plant, highlighting how it remains capable of hitting high-value targets inside Russia.",
+      "url": "https://www.nytimes.com/2026/03/11/world/europe/ukraine-russia-electronics-plant-missiles.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-11T15:21:49+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Ukraine’s Strike on Factory City Was Deadly"
+    },
+    {
+      "id": "10c0af004a4560c683a20d727fa8f2c619af5b24",
+      "title": "Tsahkna: Former Russian fighters could also pose a threat to Australia - The Baltic Times",
+      "summary": "Tsahkna: Former Russian fighters could also pose a threat to Australia&nbsp;&nbsp;The Baltic TimesLithuania to ban Russians who fought in Ukraine from entering country&nbsp;&nbsp;LRTAustralia expands sanctions against Ru…",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWHlQbWFkT0RfNGcxU3F5bDNzSWwzMHFmRkV3d0RSMG9LcUlnY1dhX0Y1ZGcwN2ljMnFIQUFXR1gxeGNVbm56QVBJNXdYRno1cXQxOGUxM2R2bmhKc0E2ZjBLejgwWHZKVEJHWFMzVE1QZUNOREZYOEd2Y0ZBUklvc0huVmR5QWtqeVFVU0dYRUNGTElNcGlpQTEwd1VCY21r?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-11T14:04:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Former Russian fighters could also pose a threat"
+    },
+    {
+      "id": "da5af9b3f3a467d2abe0fda59cfa2bee7e633d16",
+      "title": "Return to Russian energy would be 'strategic blunder,' EU says — but Moscow smells blood",
+      "summary": "Russian President Vladimir Putin said Moscow is considering stopping all fuel exports to Europe as the bloc seeks to mitigate energy supply crisis.",
+      "url": "https://www.cnbc.com/2026/03/11/eu-russian-gas-oil-iran-war-ukraine.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-03-11T12:13:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Return to Russian energy would be 'strategic blunder,' EU says"
+    },
+    {
+      "id": "2f605440f9a5e1e96a6efe673698ec618f415a38",
+      "title": "EU threatens to pull Venice Biennale funding over Russia's return - The Express Tribune",
+      "summary": "EU threatens to pull Venice Biennale funding over Russia's return&nbsp;&nbsp;The Express TribuneView Full coverage on Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSDJQa0dqOFUxb1d4MXc4aFZSNkhRUzVhUEdNclVZeThjejRmZm9DZHJWZHEwLXlRMHotZjk4by1lWmpNUlVpTkQwY1lpUk1Kb09MLURFYlM3SVRSbE94S3Z4V2pqQk1qZ3FLUE9fNkxBSEt0NHlVVU1uSXJ2WnlDT2NRM0lwV3V4aVZmWk51dWd0NTFFXzVRU2dVZ3BmYzNITk4w0gGrAUFVX3lxTE05d3NETk9KTFdhUkZXWVB6eUxjSzZJQmRUYTVFNDZUSE1idGszd2tYaVBVWjZNM0VzTjdjZUc1TjlGR1dJdlBlejA3NzlxLVpBY3pxN18yUzJObHRPa1U1UWRrQWFDRDdOQUsxdVNnTF9pR0pVSU52YWNKWk9rTjVTUnRWUEh4bGh3RS1uN3BVYU51dlEtZ1BDanJWSFpLT2dLYVlFWmR0Z204cw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-11T11:53:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "EU threatens to pull Venice Biennale funding over Russia's return"
+    },
+    {
+      "id": "8c983222392cbb3aaa206a84dca9b94a45085f78",
+      "title": "Ukraine says it has hit Russian 'missile component' plant",
+      "summary": "Russia says the attack hit civilians and could not have been carried out without British help.",
+      "url": "https://www.bbc.com/news/articles/ckg1eqw30l9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-11T11:16:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia says the attack hit civilians"
+    },
+    {
+      "id": "4c0e7bf10610f72a085518db13bcdbcc80518b18",
+      "title": "After Iran assault, Russians say U.S. can’t be trusted in Ukraine talks",
+      "summary": "As Washington focuses on its push to topple Iran’s government, delaying talks on Russia’s war in Ukraine, some in Moscow say the Kremlin must achieve its goals militarily.",
+      "url": "https://www.washingtonpost.com/world/2026/03/11/russia-ukraine-iran-trump-negotiations-trust/",
+      "source": "World (Washington post)",
+      "published_at": "2026-03-11T10:00:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "delaying talks on Russia’s war in Ukraine"
+    },
     {
       "id": "7b5f5dfda6ab4bd3b3bfda5b8cc7f2ae275064de",
       "title": "Investigation may be looking at whether Roman Abramovich’s Chelsea sale cash is ‘proceeds of crime’",
@@ -21,6 +120,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Roman Abramovich’s Chelsea sale cash is ‘proceeds of crime’"
+    },
+    {
+      "id": "5c855490fb3f604c9560e5deff71765ea06799d6",
+      "title": "Latvian, Czech Republic pledge to strengthen cooperation in military, transport - China Daily - Global Edition",
+      "summary": "Latvian, Czech Republic pledge to strengthen cooperation in military, transport&nbsp;&nbsp;China Daily - Global EditionPavel Advocates Safe End to Ukraine War Without Rewarding Aggression&nbsp;&nbsp;mezha.netThe Longer t…",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWXNHT09DX0hza3dfclhGX05hdTFxcTk2bHN5bENvNGVjaFdqRFRBM2ZjZUo1d3ZxRzlHQkNZcXd3cDc0ZXdWX2UzTlRpSTBRZWFmZnlQS3h5SnVCVEM3dTFBSUhzR2t2b2Q1NEJTR2J5MHpCUVlmeGtwaHpPcUtMVHh3?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-11T03:55:09+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Sustained Pressure On Russia To End Ukraine War"
     },
     {
       "id": "ab17bb9e4a93229500b866f84ce0e19f07418067",
@@ -120,118 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Russia is emerging as the real winner"
-    },
-    {
-      "id": "6e38c42538ffab55b42798bb459e6addfba25de0",
-      "title": "Fico brings Russian energy to Paris",
-      "summary": "Also, in Tuesday’s edition: return hubs, Order of Merit, US vs trees",
-      "url": "https://www.euractiv.com/news/rapporteur-fico-brings-russian-energy-to-paris/",
-      "source": "Euractiv",
-      "published_at": "2026-03-10T06:11:55+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Fico brings Russian energy to Paris"
-    },
-    {
-      "id": "13e6498ff5639e1f3018fc6275dbfd85b7994e23",
-      "title": "‘Sounds familiar’: how the US-Israeli war in Iran parallels Russia’s invasion of Ukraine",
-      "summary": "Both campaigns have been framed differently at different times, with dubious claims of defensive action and a curious reluctance to label it warShifting goals, unclear timelines and a flimsy pretext: at times, the US-Isr…",
-      "url": "https://www.theguardian.com/world/2026/mar/10/how-the-us-israeli-war-in-iran-parallels-russia-invasion-of-ukraine",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-10T06:00:11+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Putin’s invasion of Ukraine.The comparison is far from exact."
-    },
-    {
-      "id": "38309442bcdff412cd0519e620370c282f1a71af",
-      "title": "Fico set to meet von der Leyen as Ukraine pipeline pressure grows",
-      "summary": "Slovak row with Ukraine over Russian oil could overshadow French nuclear summit",
-      "url": "https://www.euractiv.com/news/fico-set-to-meet-von-der-leyen-as-ukraine-pipeline-pressure-grows/",
-      "source": "Euractiv",
-      "published_at": "2026-03-10T05:00:55+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Slovak row with Ukraine over Russian oil"
-    },
-    {
-      "id": "4f9f4c1cf8aaa883c9667858790a97c1b6fbded0",
-      "title": "Russian anthem rings out at Paralympics for first time in 12 years after Voronchikhina takes gold - The Washington Post",
-      "summary": "Russian anthem rings out at Paralympics for first time in 12 years after Voronchikhina takes gold&nbsp;&nbsp;The Washington PostWinter Paralympics 2026: Varvara Voronchikhina wins Russia's first gold since 2014&nbsp;&nbs…",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORjFFb0t3djZVOGt1dm1hdFZVeEJ4SVdCRVJHRUxPLWNZemlPSUhMaEhUX3cyN1NBQWE5QmxZMkpGRGxsSUZrS3dmNnhKZHgzT1lVWUFhUDM5T3dEbk0tTndnaFJSdjhmOFlvN3V4dkE5cGdsV2RwUDZ1aGhFLWhjTGJjQkhkNFRVbzVldXJyaGRhVG96eExOY0N2bXQtaDUwRW9kWDRjcnFLMDdOLThOS0FGYVByZnBOZER0LWpjbVRmTlRnbTUzYWxBdnRISGRGQTdlQ2hBV1ZmeVJ6a3c?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-09T21:06:58+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Russian anthem rings out at Paralympics"
-    },
-    {
-      "id": "53e8fab9901bb08fd1ff05b0faf7083b82abd445",
-      "title": "US ‘broadly aligned’ with EU on Russia sanctions, says Brussels",
-      "summary": "Washington’s decision to allow India to temporarily purchase Russian oil is not expected to have a “substantial impact” on Moscow’s import revenues",
-      "url": "https://www.euractiv.com/news/us-broadly-aligned-with-eu-on-russia-sanctions-says-brussels/",
-      "source": "Euractiv",
-      "published_at": "2026-03-09T20:41:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "allow India to temporarily purchase Russian oil"
-    },
-    {
-      "id": "b42c105a5da7f1cfb09cc46fe386756af79a5908",
-      "title": "X suspends 800m accounts in one year amid ‘massive’ scale of manipulation attempts",
-      "summary": "Social media company tells MPs of continual fight against state-backed efforts, with Russia being most prolificElon Musk’s X said it had suspended 800m accounts over a 12-month period as it fights the “massive” scale of…",
-      "url": "https://www.theguardian.com/technology/2026/mar/09/x-suspends-accounts-massive-scale-manipulation-attempts-russia",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-09T18:34:56+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russia being the most prolific state actor"
-    },
-    {
-      "id": "63f125302e6380743c65c14109ec93ecf2909c09",
-      "title": "Roman Abramovich ready to fight UK government over proceeds from £2.5bn Chelsea sale",
-      "summary": "Russian oligarch says money is his to allocate despite international sanctions imposed on his assetsThe Russian oligarch Roman Abramovich has stepped up his row with the British government over the £2.5bn proceeds of his…",
-      "url": "https://www.theguardian.com/world/2026/mar/09/roman-abramovich-ready-to-fight-uk-government-over-proceeds-from-chelsea-sale",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-09T15:23:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "UK and EU imposed sanctions on Abramovich in 2022"
-    },
-    {
-      "id": "26ecb1d3c1ceaeb958e77c6f623e2f8b18f38e74",
-      "title": "Congressional Democrats demand reversal of Russian oil sales into India as energy prices soar",
-      "summary": "Russia is reportedly helping Iran target U.S. forces in the Middle East and could now benefit from a windfall of new oil and gas sales.",
-      "url": "https://www.cnbc.com/2026/03/09/bessent-russian-oil-sales-india.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-03-09T15:14:17+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russian oil sales into India"
-    },
-    {
-      "id": "c49e917c40d3560d0aea47f3df29306557db0d2e",
-      "title": "Hungary elections delayed EU Russia sanctions package, Nauseda says - The Baltic Times",
-      "summary": "Hungary elections delayed EU Russia sanctions package, Nauseda says&nbsp;&nbsp;The Baltic Times“I don’t believe Putin understands blockchain payments, but the Russians are way ahead of us here.” Presidential Commissioner…",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWVVNWnRIU2FINWZLUmJrXzhLOFFPRC1LcTRvSFhKYlZhZ0FhdzMyTDJZQnV1aDhQVnBTaUhVZktuSGlOTVZ4SEN2WVVRNkE4YWQzNzloMzgxa3ZUMjR6aFcyNEdiLXlwZHZSMTAySDFFSFlOOW9mVnVWX1VkTzBFWElNR2JJVTZLbDdwbkxaUklJRnpZRUMwSG1vTXY?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-09T14:31:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russia sanctions package"
-    },
-    {
-      "id": "877414c3c9e09175bdc9a2e1cc44219a2a27eee2",
-      "title": "Russian anthem played at Paralympics for first time in over a decade after skier Voronchikhina wins gold - The New Indian Express",
-      "summary": "Russian anthem played at Paralympics for first time in over a decade after skier Voronchikhina wins gold&nbsp;&nbsp;The New Indian ExpressRussia flag raised and national anthem played after first gold at Winter Paralympi…",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcFhORng1YU94THRnZzloaVQyZ0Naa2ZPZHdkZ1liUEhGemlmdjEzOG9FLUVPa0VUQ3JHUlB6VE81VzhORnE3dU9LbFZ5MXhicFdnOUU1a3F2b1htamE1cWVRT2k4eXRjV2JMVnR6UDVNZUx1blY0RkZBLWFmN21QODluOXZ4YVljMmdPcnQ0dUkxMWhqNVZPcDNaa3ZsWkFRTUhlRWQxdzVrNHN1WVRucEVLekpDbXBQODFVRnhTd1RhQVZEclhTcXFPbmk2cEgzb3p1RXpyQkNfV3dVbXpwbDRSTTFtZVlfbnFld1lyeDZaWnfSAYACQVVfeXFMT1RzWXZVQlR5cHphZUE4UHUwQWxScWFiLUZxa2JkYVo1RDJ6WU1TeWhFcFdicUhuTDhwb3BvWGJaV3llX21sZnV4dVJQdEtqNmc5X1hhc0UyQlJqYTlQUk5VYUdMSlNObFJheWtIWmEyQlBTQUxwVHFLRld1NWFvVVBFX1Z1eXBDZlpMR0MxTWFtSTFnSEdMMWc5eGE0VS1CcXNTdGxUSmpnY1dIcERCN1E2VlpqV2lOYzl1VTVsb0FTd2t5MUNFZW9lalJYU3ZPQVNKa0RFTmFjT20zUDhEMGhNX3B0MjNFRkhrRjI5VXZjdlVtQ0FkZFA4RmV0MG53Mw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-09T14:22:17+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Russian anthem played at Paralympics for first time in over a decade"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-11T10:02:14Z"
+  "last_updated": "2026-03-12T10:03:34Z"
 }

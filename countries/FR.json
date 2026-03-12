@@ -1,16 +1,59 @@
 {
   "country": "FR",
-  "score": 97,
+  "score": 96,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 276,
+  "trend": -1,
+  "sources": 283,
   "sentiment": {
     "positive": 51,
-    "neutral": 194,
-    "negative": 31
+    "neutral": 200,
+    "negative": 32
   },
   "latest_articles": [
+    {
+      "id": "f3e9c4064de79efcf18f7dc9df7f7db455925ca5",
+      "title": "When Oil Was Used As Weapon Against US, Israel, UK For 1st Time In 1973",
+      "summary": "Gas pumps of a supermarket in Lomme, France closed during the 1973 oil crisis",
+      "url": "https://www.ndtv.com/world-news/amid-iran-war-strait-of-hormuz-disruption-raises-fears-of-1973-oil-crisis-middle-east-conflict-11204223#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-12T09:09:17+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "France closed during the 1973 oil crisis"
+    },
+    {
+      "id": "815caf0145f19b3f9462fbafc9d5c0e54123028f",
+      "title": "51% of people didn’t use public transport in 2024 - European Commission",
+      "summary": "51% of people didn’t use public transport in 2024&nbsp;&nbsp;European Commission58% of people in Malta did not use public transport in 2024 – Eurostat&nbsp;&nbsp;The Malta IndependentCyprus records highest share of peopl…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tWWNhR0pQMHkxMGgzR1ZaU2lMbmZMSFdORnVGckZRSy02ckJkY3RJcW5CY0FwYkh6NG5UNy1sbjZVWGVxcVp3Zkl0Zy1FZFdoRzdiMFR6bEgxeEhXZm5XV1FZTnpGeXVfcHVGX3c0YjE4R2NkNzZZb0RQcTZXZw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-12T06:38:28+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "a9e87e54af956415a3f4e50cfe255d3481546fe2",
+      "title": "French aid worker among three killed in drone strikes in rebel-held DR Congo city",
+      "summary": "Witnesses say drone strikes hit a residential building frequently occupied by expatriates and aid workers in Goma.",
+      "url": "https://www.bbc.com/news/articles/cvgj8veg0gno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-11T15:24:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "French aid worker among three killed in drone strikes"
+    },
+    {
+      "id": "eaf955ccb2ce74d42d4eb471246668a6fa514768",
+      "title": "French aid worker among three killed in dronestrike in east DRC, M23 rebels say",
+      "summary": "Rebel group blames government for attack on residential area of M23-controlled city of GomaThree people including a French UN aid worker have been killed in a drone attack in Goma, a spokesperson for the M23 rebel group…",
+      "url": "https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-11T15:06:01+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "French aid worker among three killed in dronestrike"
+    },
     {
       "id": "ae6626a4e3d26399ffe8cf3034bf8370212f1f7d",
       "title": "France’s anti-von der Leyen election",
@@ -32,6 +75,27 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "France Bolsters Efforts to Repatriate Citizens"
+    },
+    {
+      "id": "df5420c26691cc4f5c26a9e395fb48bbab6f4da8",
+      "title": "Zendaya's ring and Stella McCartney's horses - the sights and trends at Paris Fashion Week",
+      "summary": "Zendaya flashes a gold band on her wedding finger as she joins the A-list set at Paris Fashion Week.",
+      "url": "https://www.bbc.com/news/articles/ckg277pemzno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-10T16:59:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Paris Fashion Week"
+    },
+    {
+      "id": "1577d1706e28b7e65b2e208de664e9617df38d93",
+      "title": "Dutch farmers’ party duo defects from EPP to ECR",
+      "summary": "Sander Smit and Jessika van Leeuwen are set to join the European Conservatives and Reformists grouping in the European Parliament",
+      "url": "https://www.euractiv.com/news/dutch-farmers-party-duo-defects-from-epp-to-ecr/",
+      "source": "Euractiv",
+      "published_at": "2026-03-10T16:11:59+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "a179894a2812be30f5c7bb6bd186d0aa7e8404e4",
@@ -98,6 +162,17 @@
       "evidence": "Vogue Editors Share Highlights From Paris Fashion Week"
     },
     {
+      "id": "f7cdec606ae4467893311ff5e28fe62b5b01ad40",
+      "title": "VOLTAGE: All eyes on Paris for oil and nuclear talks",
+      "summary": "In today's edition: Grid centralisation, SMRs, climate breakdown",
+      "url": "https://www.euractiv.com/news/voltage-all-eyes-on-paris-for-oil-and-nuclear-talks/",
+      "source": "Euractiv",
+      "published_at": "2026-03-10T08:31:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "All eyes on Paris for oil and nuclear talks"
+    },
+    {
       "id": "6e38c42538ffab55b42798bb459e6addfba25de0",
       "title": "Fico brings Russian energy to Paris",
       "summary": "Also, in Tuesday’s edition: return hubs, Order of Merit, US vs trees",
@@ -149,85 +224,8 @@
       "published_at": "2026-03-09T16:59:19+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "4c142bd4a5d6b35e36d79cdd63dba4549a96793e",
-      "title": "France’s top diplomat accuses Ursula von der Leyen of foreign policy overreach",
-      "summary": "The EU’s external action service, led by Kaja Kallas, must be stronger, Jean-Noël Barrot said",
-      "url": "https://www.euractiv.com/news/frances-top-diplomat-accuses-ursula-von-der-leyen-of-foreign-policy-overreach/",
-      "source": "Euractiv",
-      "published_at": "2026-03-09T15:38:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "accuses Ursula von der Leyen of foreign policy overreach"
-    },
-    {
-      "id": "94f28fe95683c4cd2b7efbc03f112778f7c5f103",
-      "title": "France teases new defensive mission to secure Hormuz strait",
-      "summary": "The escalating conflict with Iran has targeted one of the world's most important routes for global oil and gas shipments",
-      "url": "https://www.euractiv.com/news/france-teases-new-defensive-mission-to-secure-hormuz-strait/",
-      "source": "Euractiv",
-      "published_at": "2026-03-09T15:26:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "France teases new defensive mission to secure Hormuz strait"
-    },
-    {
-      "id": "a0d72d1301fcd372518cc5781a4ea2a9f9ea8aee",
-      "title": "France to host G7 finance meeting on Mideast",
-      "summary": "The French finance ministry said in a statement the meeting would \"review the situation in the Gulf from an economic point of view\"",
-      "url": "https://www.euractiv.com/news/france-to-host-g7-finance-meeting-on-mideast/",
-      "source": "Euractiv",
-      "published_at": "2026-03-09T08:12:40+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "France to host G7 finance meeting on Mideast"
-    },
-    {
-      "id": "61485e545d647fea3791ef7fcba792ee906b7b82",
-      "title": "Putin has no plans to stop. Ukraine needs Russia’s frozen assets more than ever",
-      "summary": "The US, UK, France, Germany, Canada, and other like-minded allies must form a coalition to cooperatively and immediately employ Moscow’s sovereign assets on Ukraine’s behalf",
-      "url": "https://www.euractiv.com/opinion/putin-has-no-plans-to-stop-ukraine-needs-russias-frozen-assets-more-than-ever/",
-      "source": "Euractiv",
-      "published_at": "2026-03-09T05:00:38+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "employ Moscow’s sovereign assets on Ukraine’s behalf"
-    },
-    {
-      "id": "c275d566bc133da25b0beabaecd22b1f705070ec",
-      "title": "Austria Joins France, Spain, Ireland, and More as Rural Charm Shatters Visitor Records, Fueling Unprecedented Growth in Village Tourism Across Europe: Here’s What You Should Know - Travel And Tour World",
-      "summary": "Austria Joins France, Spain, Ireland, and More as Rural Charm Shatters Visitor Records, Fueling Unprecedented Growth in Village Tourism Across Europe: Here’s What You Should Know&nbsp;&nbsp;Travel And Tour WorldAnother r…",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOWVIzZTMtZHlxV3FuNVM0Wmh4Ym1qQUgxYlc2T1RfZ0RJN3VhLTVRZVZxdE4yZUtCWWg1MzAzYldJZVZVemRXOWJPNm5KVW9QM0R4YlpQTG83bGI2eEM5MHVhem9LWHVidk5QaFhYbXFiLTF4NDZHOXdBWUpfdDQ4dEVQUzhxYUtUSU5saVZPZTlZRnNHLXd0Rk1CeF9tODlKNVhRZ3paV2tyUkZPTkdCLWlraGhpd0wzNHB1UVdTRWJiMmJneWU5ZUhjcmlRaFNBTXozZTBramxfT0JyMnZlLW4tUWdiOGNKMVJ4WE9VcEhVejNGRmpPWlhiVVFzNmI0VmY3cmdzOVlBZGhkUDMwMDQ0eHh1UzRrNHg2azNXbGR5YU5IdXpoam5IU1kzelBYOVg5YjMxem9VNVNKbktyMW1MTQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-08T07:02:16+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "France, Spain, Ireland, and More"
-    },
-    {
-      "id": "5edc9e8be4b0f13e03eacd92d8aedb374a794da0",
-      "title": "Macron speaks with Lebanon’s leader, as France seeks to broker a truce between Israel and Hezbollah.",
-      "summary": "",
-      "url": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon/macron-aoun-lebanon-france-israel-ceasefire-hezbollah",
-      "source": "NYT > World News",
-      "published_at": "2026-03-06T22:28:34+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "France seeks to broker a truce"
-    },
-    {
-      "id": "cf15b3bf06368bd62cb37b82c2f92069bc13663b",
-      "title": "Slovakia Joins Italy, Germany, Spain, UK, France, and Other European Airports in Surprising +4.6% Passenger Growth Surge, Driven by International Traffic in January 2026 - Travel And Tour World",
-      "summary": "Slovakia Joins Italy, Germany, Spain, UK, France, and Other European Airports in Surprising +4.6% Passenger Growth Surge, Driven by International Traffic in January 2026&nbsp;&nbsp;Travel And Tour WorldPassenger traffic…",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNTFh5MDRWRC1POGI5M2kwVTdLeUt4bDBGT0pTejI5aDlkZDRiZmhUbWRaVUJvZERlZE1WYjgzX0tId0wtQXpodTZnMGs0eXBtVFlzVjZ1NmMyTkxaVS1GS3JzWjFYS05zZWlqQkZwLUhuWlVnQWdwODdWV25lWXFKOEhLRTNiel94empDby1hNTBRaHFBRDZDVjhHZEVoaXJPbWl2OXFuQU5HQUUyVVBvREcycmRtalNma3B1RUE0dFM4dDhhdDJnY1Z6SVM3dkdQbEJmckpuaHlYbWVKOUZVSDBhZjI2eWttZ0dldVU1MXc2WGhxb01Fc0hPV2Z1LWQyTXBva3VhdEg0d3FoTzZaUE9JRzc3NHdBRmRWbWFQWV82ejdPaUdKTWtTSTlZVjhWUmdCOQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-06T16:57:22+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Slovakia Joins Italy, Germany, Spain, UK, France, and Other European Airports"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-11T10:02:14Z"
+  "last_updated": "2026-03-12T10:03:34Z"
 }

@@ -1,16 +1,81 @@
 {
   "country": "ES",
-  "score": 91,
+  "score": 90,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 180,
+  "trend": -1,
+  "sources": 187,
   "sentiment": {
-    "positive": 28,
-    "neutral": 123,
-    "negative": 29
+    "positive": 29,
+    "neutral": 128,
+    "negative": 30
   },
   "latest_articles": [
+    {
+      "id": "9887d1619e10be79711600eb4081195cb1c5189c",
+      "title": "Two People Die After Paid Plasma Donation at Clinics in Canada",
+      "summary": "Grifols, a Spanish health care company, operates clinics in Canada that collect blood plasma from donors in exchange for an honorarium.",
+      "url": "https://www.nytimes.com/2026/03/11/world/canada/winnipeg-plasma-blood-donation-deaths.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-12T09:12:24+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Grifols, a Spanish health care company, operates clinics in Canada"
+    },
+    {
+      "id": "815caf0145f19b3f9462fbafc9d5c0e54123028f",
+      "title": "51% of people didn’t use public transport in 2024 - European Commission",
+      "summary": "51% of people didn’t use public transport in 2024&nbsp;&nbsp;European Commission58% of people in Malta did not use public transport in 2024 – Eurostat&nbsp;&nbsp;The Malta IndependentCyprus records highest share of peopl…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tWWNhR0pQMHkxMGgzR1ZaU2lMbmZMSFdORnVGckZRSy02ckJkY3RJcW5CY0FwYkh6NG5UNy1sbjZVWGVxcVp3Zkl0Zy1FZFdoRzdiMFR6bEgxeEhXZm5XV1FZTnpGeXVfcHVGX3c0YjE4R2NkNzZZb0RQcTZXZw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-12T06:38:28+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "79cee2b1e0da3cd73a1ac3af2f8fc3b7ec563475",
+      "title": "Haitian President’s Widow Recalls Killers Spoke Spanish and Used Nicknames",
+      "summary": "The prosecution used testimony by Martine Moïse about the language she heard on the night her husband was killed to support its claim that the assassination was carried out by a hired Colombian hit squad.",
+      "url": "https://www.nytimes.com/2026/03/11/world/americas/martine-moise-haiti-president-assassination-trial-miami.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-12T03:28:26+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Killers Spoke Spanish and Used Nicknames"
+    },
+    {
+      "id": "e81d30743c36c2e566cd09e539bcf65c5a9fe72d",
+      "title": "Billionaire Zara founder Amancio Ortega to receive €3.23bn dividend",
+      "summary": "Payment for Inditex founder, the world’s 15 richest person, tops last year’s dividend of €3.1bnThe billionaire founder of Zara is to receive a company record €3.23bn (£2.8bn) dividend this year from the world’s biggest f…",
+      "url": "https://www.theguardian.com/business/2026/mar/11/billionaire-zara-founder-amancio-ortega-to-receive-323bn-dividend",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-11T18:38:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Spain’s Inditex"
+    },
+    {
+      "id": "e7a20ca801a8b335f34b347c0ba5364fed3f0fb4",
+      "title": "Spain launches tool to monitor online hate speech",
+      "summary": "The Spanish prime minister has made tackling hate speech on social media a priority",
+      "url": "https://www.euractiv.com/news/spain-launches-tool-to-monitor-online-hate-speech/",
+      "source": "Euractiv",
+      "published_at": "2026-03-11T15:21:28+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Spain launches tool to monitor online hate speech"
+    },
+    {
+      "id": "0b5e4729dc04cde11b89d552d5b124ec1d3162e6",
+      "title": "Commission takes Spain to court over refusal to implement tax rules",
+      "summary": "Spain has refused to implement laws to harmonise its taxation system in line with EU rules",
+      "url": "https://www.euractiv.com/news/commission-takes-spain-to-court-over-refusal-to-implement-tax-rules/",
+      "source": "Euractiv",
+      "published_at": "2026-03-11T14:22:36+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Spain has refused to implement laws to harmonise its taxation system"
+    },
     {
       "id": "e0b7dcb31035c9a8ef74f6b3fd91c56425e2d2d8",
       "title": "FIRST AID: The threat of Trump’s pricing policy",
@@ -32,6 +97,16 @@
       "sentiment": "negative",
       "confidence": 0.4,
       "evidence": "Sánchez evokes Iraq with ‘No to war’ slogan"
+    },
+    {
+      "id": "1577d1706e28b7e65b2e208de664e9617df38d93",
+      "title": "Dutch farmers’ party duo defects from EPP to ECR",
+      "summary": "Sander Smit and Jessika van Leeuwen are set to join the European Conservatives and Reformists grouping in the European Parliament",
+      "url": "https://www.euractiv.com/news/dutch-farmers-party-duo-defects-from-epp-to-ecr/",
+      "source": "Euractiv",
+      "published_at": "2026-03-10T16:11:59+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "b330f816881ba6dbbb2040cef742544d97eb52e4",
@@ -146,82 +221,8 @@
       "published_at": "2026-03-06T12:19:33+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "9e99d52f148fa774574e2f696a4343c0541b3898",
-      "title": "EU total market production up in December 2025 - European Commission",
-      "summary": "EU total market production up in December 2025&nbsp;&nbsp;European CommissionEU Industrial Output Contracts in Q3 and Q4 2025 | Eurostat Data - News and Statistics&nbsp;&nbsp;IndexBox - Market Intelligence PlatformEurope…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jNjlDZWJxUms3Y2JoUU1sdGsxZXdPRkdsYnBpamJMWFBCX3dkZkpLM2NxeU96SlpVUnltSmZzZ2lkUkR6ZjRKWG9fLUc2N1o3NFJWc2hqN0ZjdU5pVVBzdDI1SzJaNjRkZU5sRFhwYkVwQnFPQnhpc1R3SGVTUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-06T10:18:25+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "7a8815fc513d9a5985c6bd5f50aaf8b1c343c4af",
-      "title": "A lone battle: Why is Pedro Sánchez the only European leader to take on Trump?",
-      "summary": "As the Spanish PM decries the war in Iran, other politicians are unable – or unwilling – to speak against the US presidentOn Wednesday morning, Pedro Sánchez delivered a 10-minute televised address with the rather bland…",
-      "url": "https://www.theguardian.com/world/2026/mar/06/pedro-sanchez-spain-european-leader-take-on-trump",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-06T05:00:12+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Spanish PM decries the war in Iran"
-    },
-    {
-      "id": "1e0e1e0f442c2b4adf92d0588c7c4045ec2c0abc",
-      "title": "Sánchez talks a good game, but Spain can’t stand alone",
-      "summary": "Standing up to Trump individually only opens the door to bilateral bullying; Europe’s weakness is its contradiction",
-      "url": "https://www.euractiv.com/opinion/sanchez-talks-a-good-game-but-spain-cant-stand-alone/",
-      "source": "Euractiv",
-      "published_at": "2026-03-06T05:00:08+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Spain can’t stand alone... Europe’s weakness is its contradiction"
-    },
-    {
-      "id": "d210bd8ff856ecd840defb3f998a869046b56083",
-      "title": "EU agrees to chop meaty names from vegetarian and vegan food products",
-      "summary": "Lawmakers will outlaw use of 31 meat-related names as part of efforts to help livestock farmers in food supply marketsEU lawmakers have agreed to ban meaty names such as steak and bacon for vegetarian and vegan foods, bu…",
-      "url": "https://www.theguardian.com/world/2026/mar/05/eu-ban-meaty-names-vegetarian-vegan-food",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-05T19:44:04+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "ae63848397fe7fdafce07c7d1739b7251cafa82c",
-      "title": "Geothermal energy plan is on its way, von der Leyen confirms",
-      "summary": "Backers in the European parliament promptly pointed to the growing importance of home-grown energy",
-      "url": "https://www.euractiv.com/news/geothermal-energy-plan-is-on-its-way-von-der-leyen-confirms/",
-      "source": "Euractiv",
-      "published_at": "2026-03-05T15:05:26+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "985dfc68673db1e9f36098e109bcee1bb71602b7",
-      "title": "Spain rejects White House claim it agreed to cooperate with U.S. forces amid Iran war",
-      "summary": "The White House says Spain will now cooperate with the U.S. militarily over the Iran conflict. Madrid swiftly rejected this claim.",
-      "url": "https://www.cnbc.com/2026/03/05/iran-war-us-spain-trump-sanchez-defense-trade-eu.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-03-05T12:11:43+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Spain rejects White House claim it agreed to cooperate"
-    },
-    {
-      "id": "55a30a230aa711a844862cd1938e56f06ba71117",
-      "title": "RED THREAD: China’s war strategy – wait",
-      "summary": "Including: Barcelona tech, India trade, Paris diplomacy, ‘Made in Europe’",
-      "url": "https://www.euractiv.com/news/red-thread-chinas-war-strategy-wait/",
-      "source": "Euractiv",
-      "published_at": "2026-03-05T12:08:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Barcelona tech"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-11T10:02:14Z"
+  "last_updated": "2026-03-12T10:03:34Z"
 }
