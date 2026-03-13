@@ -1,16 +1,93 @@
 {
   "country": "LB",
-  "score": 54,
+  "score": 49,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -3,
-  "sources": 77,
+  "trend": -5,
+  "sources": 85,
   "sentiment": {
     "positive": 0,
-    "neutral": 13,
-    "negative": 64
+    "neutral": 14,
+    "negative": 71
   },
   "latest_articles": [
+    {
+      "id": "b5d4349a2c189b9296c30b74a72f901e329320c5",
+      "title": "Iran War Live Updates: Israel Targets Hezbollah in Beirut as Strikes Hit City Center",
+      "summary": "The attacks heightened fears that the war was expanding beyond Hezbollah’s traditional strongholds into parts of Beirut once considered comparatively safe. New strikes were also reported in Iran, Iraq and Israel.",
+      "url": "https://www.nytimes.com/live/2026/03/13/world/iran-war-trump-oil-israel",
+      "source": "NYT > World News",
+      "published_at": "2026-03-13T09:37:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Hezbollah in Beirut as Strikes Hit City Center"
+    },
+    {
+      "id": "7728042c846e55c09df4469f07a3d22a1873fdb4",
+      "title": "Where Israeli Strikes Are Hitting Beirut",
+      "summary": "Our Beirut bureau chief, Christina Goldbaum, shows how Israeli airstrikes have affected Lebanon and its capital. Hundreds of thousands of people have fled areas around Beirut and in a huge swath of southern Lebanon after…",
+      "url": "https://www.nytimes.com/video/world/middleeast/100000010764777/where-israeli-strikes-are-hitting-beirut.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-13T09:02:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "affected Lebanon and its capital"
+    },
+    {
+      "id": "e621d29383cd79f49dfafdfff4a125b1f076408d",
+      "title": "'Dismantling Hezbollah': IDF bodycam footage captures night operations in Lebanon - watch video",
+      "summary": "Israeli forces conducted targeted night operations in South Lebanon. They dismantled Hezbollah terrorist infrastructure and command centers. The IDF stated these strikes aimed to protect northern Israel's residents. Meas…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/dismantling-hezbollah-idf-bodycam-footage-captures-night-operations-in-lebanon-watch-video/articleshow/129537812.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-03-13T05:07:10+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "dismantled Hezbollah terrorist infrastructure and command centers"
+    },
+    {
+      "id": "0318f0397208cced5be7aee334a8d95d7a7e2e23",
+      "title": "Who was behind the US synagogue attack? DHS names Lebanon-born Ayman Mohamad Ghazali",
+      "summary": "A man, identified as a naturalized US citizen born in Lebanon, was killed by security after ramming his vehicle into a synagogue near Detroit. While staff and children were present, none were harmed. The FBI is investiga…",
+      "url": "https://timesofindia.indiatimes.com/world/us/who-was-behind-the-us-synagogue-attack-dhs-names-lebanon-born-ayman-mohamad-ghazali/articleshow/129533827.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-03-13T02:58:13+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Lebanon-born Ayman Mohamad Ghazali"
+    },
+    {
+      "id": "8296469355e69444a5af73e38281ffc31a031058",
+      "title": "Here’s What Happened in the War in the Middle East on Thursday",
+      "summary": "Iran’s new supreme leader delivered a forceful message in his first public statement since succeeding his slain father, as the Israeli military bombarded Tehran and the Lebanese capital with strikes.",
+      "url": "https://www.nytimes.com/2026/03/12/world/middleeast/iran-war-middle-east-beirut-recap.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-13T00:16:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Lebanese capital with strikes"
+    },
+    {
+      "id": "3665332d1c09eabfb12ee84ce70c0f2248667b32",
+      "title": "Displaced Lebanese Haunted by Strikes from the Sky",
+      "summary": "With airstrikes expanding beyond the limits of Beirut’s southern suburbs, people in the city say that even the once-safest corners may no longer be off-limits.",
+      "url": "https://www.nytimes.com/2026/03/12/world/middleeast/lebanon-displaced-strikes-israel-iran.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-12T20:03:49+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Displaced Lebanese Haunted by Strikes from the Sky"
+    },
+    {
+      "id": "e1ecfe601453ee8104d96b948e4d15e29209d131",
+      "title": "Ground Down by War, Hezbollah’s Loyal Base Shows Cracks",
+      "summary": "“We just want to be back in our homes,” said a Lebanese man who, like many others in the latest round of fighting, has to flee.",
+      "url": "https://www.nytimes.com/2026/03/12/world/middleeast/lebanon-hezbollah-israel.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-12T11:02:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Ground Down by War, Hezbollah’s Loyal Base Shows Cracks"
+    },
     {
       "id": "fa90ecb59b17557373c79e8a24e27ddab7f7b9fa",
       "title": "Iran War Live Updates: Iraq Closes Oil Terminals as Energy Prices Surge",
@@ -43,6 +120,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Israel Bombards Lebanese Capital in Latest Round of Strikes"
+    },
+    {
+      "id": "2fef6d5cee0f13c96129d2524a1fd29fdd702b82",
+      "title": "Countries Scramble to Shore Up Global Oil Supplies as Ships Are Attacked",
+      "summary": "The United States and Israel launched more strikes against Iran, where crowds mourned military commanders killed in the war. Israel also bombed targets in Lebanon, where the death toll climbed.",
+      "url": "https://www.nytimes.com/2026/03/11/world/middleeast/oil-ships-lebanon-iran-israel.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-12T02:52:17+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Israel also bombed targets in Lebanon"
     },
     {
       "id": "a0bfc47bb6d2a601bf689ed4150087fd6ac77200",
@@ -142,96 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Nearly 700,000 Displaced by War in Lebanon, U.N. Says"
-    },
-    {
-      "id": "8dde3745d6facf75769fa508d30389cd886592af",
-      "title": "Shells Fired From Lebanon Land West of Syrian Capital, Country’s Military Says",
-      "summary": "The Syrian military accused Hezbollah of targeting Syrian army positions outside of Damascus.",
-      "url": "https://www.nytimes.com/2026/03/09/world/middleeast/syria-hezbollah-iran-lebanon.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-10T00:24:07+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Shells Fired From Lebanon Land West of Syrian Capital"
-    },
-    {
-      "id": "ecf149245e224c64a3eb426c0934b0bd67c9a7f8",
-      "title": "Live Updates: Iran Names Khamenei’s Son Supreme Leader",
-      "summary": "Top clerics said Mojtaba Khamenei will succeed his slain father, Ayatollah Ali Khamenei. The Israeli military said it was attacking Tehran and Beirut early Monday, and Iran said it had launched missiles toward Israel.",
-      "url": "https://www.nytimes.com/live/2026/03/09/world/iran-war-trump-israel-lebanon",
-      "source": "NYT > World News",
-      "published_at": "2026-03-09T09:39:13+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israeli military said it was attacking Tehran and Beirut"
-    },
-    {
-      "id": "88fc0e931adc79474781ab314df1c86116625577",
-      "title": "Israel accused of using white phosphorus in Lebanon: Why the weapon is controversial",
-      "summary": "Human Rights Watch alleges Israel unlawfully used white phosphorus shells in a Lebanese village, sparking concerns over civilian harm. The controversial incendiary munition ignites on contact with oxygen, causing severe…",
-      "url": "https://timesofindia.indiatimes.com/defence/international/human-rights-watch-accuses-israel-of-using-white-phosphorus-in-lebanon-why-the-weapon-is-controversial/articleshow/129315994.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-09T07:25:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel accused of using white phosphorus in Lebanon"
-    },
-    {
-      "id": "070a978d6de340d3eb01b55911654cad32d13524",
-      "title": "SalamAir issues urgent travel advisory after suspending flights to multiple destinations amid Iran vs US-Israel war",
-      "summary": "Low-cost carrier SalamAir has temporarily suspended flights to several Middle Eastern destinations, including Iraq, Lebanon and Iran, until March 28, 2026 and Kuwait City, Sharjah, Doha and Dammam until March 20, 2026. T…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/salamair-issues-urgent-travel-advisory-after-suspending-flights-to-multiple-destinations-amid-iran-vs-us-israel-war/articleshow/129302454.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-09T02:03:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "suspending flights to multiple destinations amid Iran vs US-Israel war"
-    },
-    {
-      "id": "037bc06a6fbd55e05ebbcda44260baefbd96bbe5",
-      "title": "Lebanese Villagers Bury Hezbollah Fighters, Praising Their Defiance of Israel",
-      "summary": "After a fierce ground fight between Israeli forces and Iran-backed Hezbollah, the village of Nabi Sheet mourned its dead. “We are not here to bow,” said one villager. “We will not kneel.”",
-      "url": "https://www.nytimes.com/2026/03/08/world/middleeast/lebanon-hezbollah-fighters-israel.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-08T18:39:35+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Lebanese Villagers Bury Hezbollah Fighters"
-    },
-    {
-      "id": "8f00e12ebb113af09d4bb838ff8cb6600769557a",
-      "title": "Failed Israeli mission to recover pilot’s remains leaves 41 dead in Lebanon",
-      "summary": "An Israeli special forces operation in Lebanon's Bekaa Valley, targeting Nabi Sheet, aimed to locate the remains of missing airman Ron Arad. The overnight raid, involving air strikes and ground clashes, resulted in 41 de…",
-      "url": "https://timesofindia.indiatimes.com/defence/international/failed-israeli-mission-to-recover-pilots-remains-leaves-41-dead-in-lebanon/articleshow/129255789.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-08T06:47:29+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "41 dead in Lebanon"
-    },
-    {
-      "id": "37aa56550f18e8251a358a9d1f47fddf5a048813",
-      "title": "Israel's Failed Lebanon Op To Find Body Of Pilot Missing Since 1986 Kills 41",
-      "summary": "Gutted buildings, torn-off roofs, munitions were seen in Nabi Sheet",
-      "url": "https://www.ndtv.com/world-news/nabi-sheet-israels-failed-op-to-find-body-of-pilot-ron-arad-missing-since-1986-kills-41-in-lebanon-11184524#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-03-08T05:08:32+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Kills 41"
-    },
-    {
-      "id": "013d9b2e38f39ce3a04d1933053b35a6c4e3edf9",
-      "title": "UK faces growing calls from locals to remove Cyprus military bases",
-      "summary": "Foreign minister, Constantinos Kombos, tells Guardian Iranian-made drone that hit airbase was launched from Lebanon  Britain is facing growing calls to withdraw its military bases from Cyprus as locals step up protests a…",
-      "url": "https://www.theguardian.com/world/2026/mar/07/uk-faces-growing-calls-from-locals-to-remove-cyprus-military-bases",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-08T00:04:55+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "drone that hit airbase was launched from Lebanon"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-12T10:03:34Z"
+  "last_updated": "2026-03-13T09:57:30Z"
 }

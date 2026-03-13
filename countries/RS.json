@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 6,
+  "sources": 7,
   "sentiment": {
     "positive": 0,
     "neutral": 4,
-    "negative": 2
+    "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "9bd2aee03c81c8f78e072aea1bdea23456d62520",
+      "title": "Serbia confirms it owns Chinese supersonic missiles",
+      "summary": "\"Everything we do is to defend our country,\" Vucic said",
+      "url": "https://www.euractiv.com/news/serbia-confirms-it-owns-chinese-supersonic-missiles/",
+      "source": "Euractiv",
+      "published_at": "2026-03-13T06:50:47+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Serbia confirms it owns Chinese supersonic missiles"
+    },
     {
       "id": "07eaadfbd15ad96e1127a6c89a8f5e0877579ccb",
       "title": "EU rearmament tests stability and trust in the Western Balkans",
@@ -79,5 +90,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-12T10:03:34Z"
+  "last_updated": "2026-03-13T09:57:30Z"
 }

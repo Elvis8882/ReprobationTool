@@ -1,0 +1,48 @@
+{
+  "id": "9ad03b8ba3c1f5e1e918ff068287b8e2f17f2863",
+  "title": "Ukraine strikes Russian electronics plant that builds missile components",
+  "summary_full": "The general staff said that it used Storm Shadow missiles, which are produced jointly by Britain and France, to hit a plant that makes microchips and high-end electronics.",
+  "summary_public": "The general staff said that it used Storm Shadow missiles, which are produced jointly by Britain and France, to hit a plant that makes microchips and high-end electronics.",
+  "url": "https://www.washingtonpost.com/world/2026/03/12/ukraine-electronics-plant-russia-war/",
+  "published_at": "2026-03-12T10:23:47+00:00",
+  "source": "World (Washington post)",
+  "language": "en",
+  "countries_detected": [
+    "FR",
+    "GB",
+    "RU",
+    "UA"
+  ],
+  "countries_scored": [
+    "FR",
+    "GB",
+    "RU",
+    "UA"
+  ],
+  "sentiment_by_country": {
+    "FR": {
+      "label": "positive",
+      "confidence": 0.6,
+      "evidence": "produced jointly by Britain and France"
+    },
+    "GB": {
+      "label": "positive",
+      "confidence": 0.6,
+      "evidence": "produced jointly by Britain and France"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Russian electronics plant that builds missile components"
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine strikes Russian electronics plant"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-13T09:57:30+00:00",
+  "processed_at": "2026-03-13T09:57:30+00:00"
+}
