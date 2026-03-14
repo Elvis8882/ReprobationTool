@@ -4,13 +4,68 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 434,
+  "sources": 444,
   "sentiment": {
-    "positive": 20,
-    "neutral": 94,
-    "negative": 320
+    "positive": 21,
+    "neutral": 98,
+    "negative": 325
   },
   "latest_articles": [
+    {
+      "id": "a342ad58f5bc77b6f4cdc5a304f808729f13c282",
+      "title": "Paris demands ‘full transparency’ over Ukrainian oil pipeline",
+      "summary": "Hungary is vetoing a €90bn loan to Kyiv over the stoppage of Russian oil deliveries",
+      "url": "https://www.euractiv.com/news/paris-demands-full-transparency-over-ukrainian-oil-pipeline/",
+      "source": "Euractiv",
+      "published_at": "2026-03-13T18:20:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "stoppage of Russian oil deliveries"
+    },
+    {
+      "id": "187f52755c41b7a2723160484fad2407e8a6eec5",
+      "title": "Trump says he thinks Putin is helping Iran",
+      "summary": "Russian leaders told President Trump they aren't sharing intelligence with Iran as it fights the U.S. and Israel, special envoy Steve Witkoff said this week.",
+      "url": "https://www.cnbc.com/2026/03/13/trump-iran-war-putin-russia.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-03-13T16:24:50+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.6,
+      "evidence": "Putin is helping Iran; aren't sharing intelligence"
+    },
+    {
+      "id": "75212eb7897632f6a5fd847502196df97bed5235",
+      "title": "Ukraine and allies fear easing Russian sanctions will prolong war",
+      "summary": "Ukraine's president says the US decision \"certainly does not help achieve peace\".",
+      "url": "https://www.bbc.com/news/articles/c1d6l67122wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-13T16:12:27+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "easing Russian sanctions will prolong war"
+    },
+    {
+      "id": "ad21495381de190b7bf09aa86a39466c30586c4f",
+      "title": "Europe chides US for lifting Russian oil sanctions",
+      "summary": "EU Council President António Costa described Washington's move as 'very concerning'",
+      "url": "https://www.euractiv.com/news/europe-chides-us-for-lifting-russian-oil-sanctions/",
+      "source": "Euractiv",
+      "published_at": "2026-03-13T13:33:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Europe chides US for lifting Russian oil sanctions"
+    },
+    {
+      "id": "6a1135cc06ea9e0404b65abd23c892e2ed709e51",
+      "title": "U.S. 'misadventure' in Iran has no clear exit strategy, Russia's UK ambassador says",
+      "summary": "His comments to CNBC come as the U.S. and Israeli-led war appears poised to enter its third week.",
+      "url": "https://www.cnbc.com/2026/03/13/iran-war-russia-putin-us-israel-trump-middle-east.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-03-13T10:31:48+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Russia's UK ambassador says"
+    },
     {
       "id": "bf4299c2bb4a8b7a0b98047b96fb554bb978a08b",
       "title": "Oil Prices Rise Despite Trump’s Decision to Lift Russia Sanctions",
@@ -21,6 +76,28 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Lift Russia Sanctions"
+    },
+    {
+      "id": "cbacd9ebe2fc946d27a73fa06a64b9c486174065",
+      "title": "After 'Permitting' India, US Allows Sale Of Russian Oil Already At Sea",
+      "summary": "War in the Middle East has upended the world's energy and transport sectors",
+      "url": "https://www.ndtv.com/world-news/iran-israel-us-war-after-india-us-temporarily-allows-sale-of-russian-oil-at-sea-middle-east-conflict-11208403#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-13T08:08:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "US Allows Sale Of Russian Oil Already At Sea"
+    },
+    {
+      "id": "bccf5c18ee2c47fbe460d21253bd0cf1d4914794",
+      "title": "The world must treat Putin like the Nazis, says visiting foreign minister - The Age",
+      "summary": "The world must treat Putin like the Nazis, says visiting foreign minister&nbsp;&nbsp;The AgeEstonia urges allies to brace for Russian veterans after Ukraine war&nbsp;&nbsp;ABC NewsEstonia’s foreign minister to meet with…",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN09iQTEycFBDM2MybW91WlZJZVgyVEVqUUJVVkRTeVpjQm94ZFFOUVRWcl9KYWVqZGhHQ0JqeWtTN1NqMnh3S1BiWnRlbWVNT1MyWjZNaEZfcDBYRk5JRWpNNDI2Qy14NUxSWmJnLW1kMlcwdE8yaG5ERkJseVk5dmJ4NkdHeVFfbHZGTG42ZkwwTTZyZUlxRFRkMkkyeGpSLTk2em01TGVzTkh5MzhGMVY2R0VMd3hRQ2F1TVZiNzVBNGMxMGVUMEtmN0JwQnZtaFE?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-13T08:00:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "The world must treat Putin like the Nazis"
     },
     {
       "id": "7490b6f51e836d05cbcfe02bf4faae7bcbf635ee",
@@ -65,6 +142,17 @@
       "sentiment": "negative",
       "confidence": 1.0,
       "evidence": "Russia invaded Ukraine"
+    },
+    {
+      "id": "d3467994664f4ced2fa383f86b85f6668159bb21",
+      "title": "Meloni’s gamble",
+      "summary": "Also, in Friday’s edition: FAO showdown, Russia sanctions, French elections, Mercosur",
+      "url": "https://www.euractiv.com/news/rapporteur-melonis-gamble/",
+      "source": "Euractiv",
+      "published_at": "2026-03-13T05:57:51+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Russia sanctions"
     },
     {
       "id": "4efd02860ab1855254472c2c0616b1ad2f427183",
@@ -142,96 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Pilots reportedly adopting Russian tactics"
-    },
-    {
-      "id": "2c22e672a3d2fa0fa70477240f46c618b8118292",
-      "title": "Lithuania Preparing to Restrict Entry for Russian Soldiers Involved in War in Ukraine - UNITED24 Media",
-      "summary": "Lithuania Preparing to Restrict Entry for Russian Soldiers Involved in War in Ukraine&nbsp;&nbsp;UNITED24 MediaEstonia urges allies to brace for Russian veterans after Ukraine war&nbsp;&nbsp;ABC NewsLithuania Prepares to…",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX054dDZJT2pLN21KZFdESG11d3J6R3NsZ2U0YWNrWU9PamIzdlNQUzRXaFBPRW9QZ0s3Qk5KbVZ3NEU4YWJLQ1Bta0NyS1dBOEN1OFVmX09MWThKaWhuZ01SdDAwR09hb01HZ3drNzJtdk1SWVN4bTdGVnBBRG1zMGFqWkMzMHItRlh4aWE2MXo5UVZ3ekQwOV9hRWMxOWZwaTdILXlaYktINFpsUWVTM0hTQVhZNGIzWjZRRjVKTHNuRFE5Y0prUw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-12T15:49:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russian Soldiers Involved in War in Ukraine"
-    },
-    {
-      "id": "e08111420cfddd86cf607ffc14c36ee14368055e",
-      "title": "15 Are Sentenced to Life for Moscow Concert Hall Massacre",
-      "summary": "At least 149 people died in the 2024 terror attack outside the Russian capital, for which the Islamic State claimed responsibility.",
-      "url": "https://www.nytimes.com/2026/03/12/world/europe/moscow-concert-hall-attack.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-12T15:40:31+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Life for Moscow Concert Hall Massacre"
-    },
-    {
-      "id": "a438c93e31f301980cd7d441885e19227a73e8a4",
-      "title": "Venice Biennale risks losing EU funding over planned Russia involvement",
-      "summary": "European Commission says it will suspend €2m grant if organisers of arts festival go ahead with proposalsThe European Commission has warned it will cut funding for the Venice Biennale if organisers go ahead with plans to…",
-      "url": "https://www.theguardian.com/artanddesign/2026/mar/12/venice-biennale-risks-losing-eu-funding-over-planned-russia-involvement",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-12T14:00:45+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Venice Biennale risks losing EU funding over planned Russia involvement"
-    },
-    {
-      "id": "6a8103d204870658adfcba7e1a6be5c55a906666",
-      "title": "Nineteen jailed over deadly Moscow concert attack",
-      "summary": "Gunmen opened fire at Crocus City Concert hall near Moscow in 2024, killing 149 and injuring more than 500.",
-      "url": "https://www.bbc.com/news/articles/c0j5lx75vg3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-12T13:29:01+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "deadly Moscow concert attack"
-    },
-    {
-      "id": "9ad03b8ba3c1f5e1e918ff068287b8e2f17f2863",
-      "title": "Ukraine strikes Russian electronics plant that builds missile components",
-      "summary": "The general staff said that it used Storm Shadow missiles, which are produced jointly by Britain and France, to hit a plant that makes microchips and high-end electronics.",
-      "url": "https://www.washingtonpost.com/world/2026/03/12/ukraine-electronics-plant-russia-war/",
-      "source": "World (Washington post)",
-      "published_at": "2026-03-12T10:23:47+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russian electronics plant that builds missile components"
-    },
-    {
-      "id": "e6cca69afe0c429c0edf8bf0a787e0675cfa49b9",
-      "title": "How Russia’s Scorched-Earth Attacks Put Ukraine’s Power Grid Near Collapse",
-      "summary": "Strikes on Ukrainian energy systems have tripled this winter. Continuous repairs and Western aid staved off a total breakdown.",
-      "url": "https://www.nytimes.com/2026/03/12/world/europe/ukraine-russia-energy-system.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-12T09:02:33+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russia’s Scorched-Earth Attacks Put Ukraine’s Power Grid Near Collapse"
-    },
-    {
-      "id": "aa263582f10124ed2cb8345a465822df1f54e729",
-      "title": "Winter Paralympics | WATCH - German athletes deny selfie with Russians after turning back at podium - WION",
-      "summary": "Winter Paralympics | WATCH - German athletes deny selfie with Russians after turning back at podium&nbsp;&nbsp;WIONWinter Paralympics 2026: Germans protest against Russia during medal ceremony&nbsp;&nbsp;BBCSilent shadow…",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSXVOZDJwcXJ0RGk1OEZaMTdPZDJHNGEzMTdLc3B2YjNqTmNCZ0RtT3V3eGY1SVBNZDF4RjM3U19LR3Y5YzZpMHVXUE1YLTBENnRieS15UmN3OUw0UjdyNXJRMW5pLWh3ZmpmOFE0YmRIcmZtRWhVZlRtcUpwd3NZQlZFSHBGV1M3THRibWVURjJBV2RCZFVtNFJrcHRmU1Z4bGpmWXMwTTZ1azNvUnExcFpSbS1EYVJQczgwemgwQjlYRXg4bVZwdzlHUDIwOV9TcDczZ3dvd9IB3AFBVV95cUxQbDdxdE1na1RNbTNZbjVhZGhfU1FjNnpodTZwdzBVVDVYY3NwaVRSYjR5ZHZ6TXhvVDVEZHcxSG1USGFRc3I3OWxYVnExLTg4U3RfNEJDdjAwNU52OWdOLThHdTlldHdBbFRRSFd0OXZWZWRkNUN6VGRwZnJDMFF3b2V2MHMxWVFRTlM3WFYxYlZRcW1ZUjhPSTR6MGNZOGNzNmI2NTFnckdKSlZ4OUtublA2MXotQUdhRnFtQzBYejItd2pqejY2a2FwcjBDYXFuNG54MC05Q0FnRUwx?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-12T05:14:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Germans protest against Russia during medal ceremony"
-    },
-    {
-      "id": "3738367d7fd9192f6dd4e43fae1b7ce82d156161",
-      "title": "European drivers face €220 a year jump in fuel costs due to Iran conflict, say experts",
-      "summary": "Exclusive: Oil at $100 a barrel means higher prices in the EU and UK, making savings for those with electric vehicles even greater, analysts sayEuropean drivers face paying an extra €220 (£190) a year at the pumps becaus…",
-      "url": "https://www.theguardian.com/money/2026/mar/12/european-drivers-fuel-costs-jump-iran-conflict",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-12T05:00:09+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Russia’s invasion of Ukraine pushed the oil price"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-13T09:57:30Z"
+  "last_updated": "2026-03-14T09:49:50Z"
 }

@@ -1,16 +1,38 @@
 {
   "country": "IQ",
-  "score": 88,
+  "score": 87,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 30,
-  "sources": 49,
+  "trend": -1,
+  "sources": 51,
   "sentiment": {
     "positive": 2,
-    "neutral": 29,
-    "negative": 18
+    "neutral": 30,
+    "negative": 19
   },
   "latest_articles": [
+    {
+      "id": "ae609e029ec431a962f483e98c5f794650af8a14",
+      "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
+      "summary": "A group of fighters based in Iraq say they are \"ready to go home\", as they face drone attacks from Tehran.",
+      "url": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-13T22:02:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Under drone fire, exiled Kurds wait to confront Iranian regime"
+    },
+    {
+      "id": "c5f1c3ff953c34fe6662f6037f42c469243bcb29",
+      "title": "‘No clear goal’: lack of Iran war plan has unleashed chaos and could stymie US military for decades, say critics",
+      "summary": "White House contends with reality of shoddy preparations for war and unclear conditions for victoryMiddle East crisis – live updatesSign up for the Breaking News US newsletter emailAs US and Israeli jets descended to del…",
+      "url": "https://www.theguardian.com/us-news/2026/mar/13/goal-plan-iran-war-military",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-13T17:51:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "start of the Iraq war in 2003"
+    },
     {
       "id": "b5d4349a2c189b9296c30b74a72f901e329320c5",
       "title": "Iran War Live Updates: Israel Targets Hezbollah in Beirut as Strikes Hit City Center",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Fighting spread to Lebanon and Iraq, with significant casualties reported."
-    },
-    {
-      "id": "ae951fa0a3d3053924517e2ed52d54d4f7f5c7cb",
-      "title": "US-Israel-Iran War News Live Updates: UAE embassy in Iraq attacked, Hezbollah drones target Israel",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/us-israel-iran-war-news-live-udates-middle-east-crisis-conflict-drone-ballistic-missile-attacks-explosions-gulf-countries-flights-status-donald-trump-netanyahu-khamenei/liveblog/129370636.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-10T03:20:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "UAE embassy in Iraq attacked"
-    },
-    {
-      "id": "070a978d6de340d3eb01b55911654cad32d13524",
-      "title": "SalamAir issues urgent travel advisory after suspending flights to multiple destinations amid Iran vs US-Israel war",
-      "summary": "Low-cost carrier SalamAir has temporarily suspended flights to several Middle Eastern destinations, including Iraq, Lebanon and Iran, until March 28, 2026 and Kuwait City, Sharjah, Doha and Dammam until March 20, 2026. T…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/salamair-issues-urgent-travel-advisory-after-suspending-flights-to-multiple-destinations-amid-iran-vs-us-israel-war/articleshow/129302454.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-09T02:03:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "suspending flights to multiple destinations amid Iran vs US-Israel war"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-13T09:57:30Z"
+  "last_updated": "2026-03-14T09:49:50Z"
 }

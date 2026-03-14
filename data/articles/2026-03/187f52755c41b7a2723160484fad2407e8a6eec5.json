@@ -1,0 +1,41 @@
+{
+  "id": "187f52755c41b7a2723160484fad2407e8a6eec5",
+  "title": "Trump says he thinks Putin is helping Iran",
+  "summary_full": "Russian leaders told President Trump they aren't sharing intelligence with Iran as it fights the U.S. and Israel, special envoy Steve Witkoff said this week.",
+  "summary_public": "Russian leaders told President Trump they aren't sharing intelligence with Iran as it fights the U.S. and Israel, special envoy Steve Witkoff said this week.",
+  "url": "https://www.cnbc.com/2026/03/13/trump-iran-war-putin-russia.html",
+  "published_at": "2026-03-13T16:24:50+00:00",
+  "source": "International: Top News And Analysis",
+  "language": "en",
+  "countries_detected": [
+    "IL",
+    "IR",
+    "RU"
+  ],
+  "countries_scored": [
+    "IL",
+    "IR",
+    "RU"
+  ],
+  "sentiment_by_country": {
+    "IL": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran as it fights the U.S. and Israel"
+    },
+    "IR": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Putin is helping Iran; fights the U.S. and Israel"
+    },
+    "RU": {
+      "label": "mixed",
+      "confidence": 0.6,
+      "evidence": "Putin is helping Iran; aren't sharing intelligence"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-14T09:49:50+00:00",
+  "processed_at": "2026-03-14T09:49:50+00:00"
+}
