@@ -1,0 +1,41 @@
+{
+  "id": "8072f307825e737ef2493906eb4f2ba1deebeb24",
+  "title": "EU renews Russian sanctions before deadline as new package stalls",
+  "summary_full": "The 20th sanction package remains blocked by Hungary and Slovakia",
+  "summary_public": "The 20th sanction package remains blocked by Hungary and Slovakia",
+  "url": "https://www.euractiv.com/news/eu-renews-russian-sanctions-before-deadline-as-new-package-stalls/",
+  "published_at": "2026-03-14T16:00:46+00:00",
+  "source": "Euractiv",
+  "language": "en",
+  "countries_detected": [
+    "HU",
+    "RU",
+    "SK"
+  ],
+  "countries_scored": [
+    "HU",
+    "RU",
+    "SK"
+  ],
+  "sentiment_by_country": {
+    "HU": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "new package stalls The 20th sanction package remains blocked by Hungary"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "EU renews Russian sanctions before deadline as new package stalls"
+    },
+    "SK": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "new package stalls The 20th sanction package remains blocked by Hungary and Slovakia"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-15T09:50:59+00:00",
+  "processed_at": "2026-03-15T09:50:59+00:00"
+}

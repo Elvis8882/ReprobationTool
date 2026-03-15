@@ -4,13 +4,90 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 444,
+  "sources": 452,
   "sentiment": {
-    "positive": 21,
-    "neutral": 98,
-    "negative": 325
+    "positive": 22,
+    "neutral": 100,
+    "negative": 330
   },
   "latest_articles": [
+    {
+      "id": "c45166cb68412feee74dbe394f66eb2e8b0e7742",
+      "title": "Pressure to re-open Russian oil pipeline like ‘blackmail’, Zelenskyy tells EU",
+      "summary": "Hungary and Slovakia have been holding up the EU’s next sanctions package over the pipeline dispute",
+      "url": "https://www.euractiv.com/news/kyiv-to-work-with-any-hungarian-leader-not-allied-with-putin-zelenskyy-says/",
+      "source": "Euractiv",
+      "published_at": "2026-03-15T09:09:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Pressure to re-open Russian oil pipeline like ‘blackmail’"
+    },
+    {
+      "id": "4eebc0580cbd3ac54cb19b28f3c498df41a1cc79",
+      "title": "Russia exploiting Iran war, Zelensky says after fresh bombardment",
+      "summary": "Volodymyr Zelensky cast concern over the supply of air-defence missiles after a heavy overnight attack kills at least five.",
+      "url": "https://www.bbc.com/news/articles/c0mger2zkmwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-14T21:50:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Russia exploiting Iran war, Zelensky says after fresh bombardment"
+    },
+    {
+      "id": "8072f307825e737ef2493906eb4f2ba1deebeb24",
+      "title": "EU renews Russian sanctions before deadline as new package stalls",
+      "summary": "The 20th sanction package remains blocked by Hungary and Slovakia",
+      "url": "https://www.euractiv.com/news/eu-renews-russian-sanctions-before-deadline-as-new-package-stalls/",
+      "source": "Euractiv",
+      "published_at": "2026-03-14T16:00:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "EU renews Russian sanctions before deadline as new package stalls"
+    },
+    {
+      "id": "9ad6b469ea85181042f087cccd912edc5348a2eb",
+      "title": "Sweden arrests captain of seized Russian tanker",
+      "summary": "The tanker was flying a Comoran flag, which the coast guard believed was phoney",
+      "url": "https://www.euractiv.com/news/sweden-arrests-captain-of-seized-russian-tanker/",
+      "source": "Euractiv",
+      "published_at": "2026-03-14T09:15:58+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Sweden arrests captain of seized Russian tanker"
+    },
+    {
+      "id": "ba4d683c8858d45b1547f949b70520cbca771952",
+      "title": "For Russia, Trump’s sanctions pause means more money to fight Ukraine",
+      "summary": "The Kremlin hopes the Trump administration’s move to contain oil prices sent soaring by the U.S.-Israeli war on Iran will lead to further relief.",
+      "url": "https://www.washingtonpost.com/world/2026/03/14/russia-oil-sanction-iran-war-trump/",
+      "source": "World (Washington post)",
+      "published_at": "2026-03-14T09:00:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "For Russia, Trump’s sanctions pause means more money to fight Ukraine"
+    },
+    {
+      "id": "5b273a66d2ac35c095a7a0ee5aedc4d16b8dc6b7",
+      "title": "Did Trump reject Putin's Iran deal to end war? What was the offer",
+      "summary": "Russia's Vladimir Putin reportedly proposed Russia take custody of Iran's enriched uranium to end the ongoing war, a deal Donald Trump declined. This offer comes as the US and Israel seek to secure Iran's nuclear stockpi…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/did-trump-reject-putins-iran-deal-to-end-war-what-was-the-offer/articleshow/129570719.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-03-14T07:31:10+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Russia take custody of Iran's enriched uranium to end the ongoing war"
+    },
+    {
+      "id": "f5f9909b103c23d39adc05e7a3b525eba88783f6",
+      "title": "'White House now begging India': Iran FM Araghchi mocks US U-turn on Russian oil",
+      "summary": "Iran's foreign minister Araghchi slammed the US for pressuring India to stop Russian oil imports, only to now \"beg\" for such purchases. He also criticized Europe's stance on the Ukraine conflict. Meanwhile, Iran assured…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/white-house-now-begging-india-iran-fm-araghchi-mocks-us-u-turn-on-russian-oil/articleshow/129568264.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-03-14T03:47:45+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "US U-turn on Russian oil"
+    },
     {
       "id": "a342ad58f5bc77b6f4cdc5a304f808729f13c282",
       "title": "Paris demands ‘full transparency’ over Ukrainian oil pipeline",
@@ -21,6 +98,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "stoppage of Russian oil deliveries"
+    },
+    {
+      "id": "57bee869ce7f8a05ca8c364357b708cba0e0a71d",
+      "title": "U.S. Sanctions Pause Adds Political Win to Russia’s Economic Gain From Iran War",
+      "summary": "Kremlin officials said the American move, which Europe opposes, showed that Moscow could not be dislodged from the center of global energy markets.",
+      "url": "https://www.nytimes.com/2026/03/13/world/europe/russia-oil-suspended-sanctions-economy.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-13T17:14:24+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "Russia’s Economic Gain From Iran War"
     },
     {
       "id": "187f52755c41b7a2723160484fad2407e8a6eec5",
@@ -142,96 +230,8 @@
       "sentiment": "negative",
       "confidence": 1.0,
       "evidence": "Russia invaded Ukraine"
-    },
-    {
-      "id": "d3467994664f4ced2fa383f86b85f6668159bb21",
-      "title": "Meloni’s gamble",
-      "summary": "Also, in Friday’s edition: FAO showdown, Russia sanctions, French elections, Mercosur",
-      "url": "https://www.euractiv.com/news/rapporteur-melonis-gamble/",
-      "source": "Euractiv",
-      "published_at": "2026-03-13T05:57:51+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Russia sanctions"
-    },
-    {
-      "id": "4efd02860ab1855254472c2c0616b1ad2f427183",
-      "title": "Europe needs to seize and hold Russian tankers, not play catch-and-release",
-      "summary": "Europe’s catch-and-release approach to Russia’s shadow fleet is more akin to traffic enforcement than law enforcement",
-      "url": "https://www.euractiv.com/opinion/europe-needs-to-seize-and-hold-russian-tankers-not-play-catch-and-release/",
-      "source": "Euractiv",
-      "published_at": "2026-03-13T05:00:21+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Europe needs to seize and hold Russian tankers"
-    },
-    {
-      "id": "c82b131a64fc7d0607a613bc6398952a5dfdade5",
-      "title": "U.S. allows temporary purchases of Russian oil already at sea to stabilize energy markets",
-      "summary": "The U.S. has temporarily authorized the purchase of Russian oil stranded at sea to stabilize energy markets.",
-      "url": "https://www.cnbc.com/2026/03/13/bessent-us-allows-purchase-russian-oil-stranded-sea-energy-markets.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-03-13T04:49:41+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "U.S. allows temporary purchases of Russian oil"
-    },
-    {
-      "id": "af1593d22cc5ee5436926d21ad09b5d57597a5e7",
-      "title": "‘Acknowledging the obvious’: Russia reacts to US waiver on oil amid Iran war",
-      "summary": "Russia asserted that global energy markets cannot be stable without its oil, following a US temporary allowance for Russian crude sales already in transit. This move occurred as oil prices surged amid escalating conflict…",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/acknowledging-the-obvious-russia-reacts-to-us-waiver-on-oil-amid-iran-war/articleshow/129535565.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-13T03:38:22+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Russia reacts to US waiver on oil"
-    },
-    {
-      "id": "cbec3e6a73addc7203710959bb83ff7ee8caa2ed",
-      "title": "Trump administration allows for Russian oil sales as energy prices soar",
-      "summary": "The move is likely to be a boon to Russia as the United States tries to stem the economic fallout from its war on Iran as the price of crude has soared.",
-      "url": "https://www.washingtonpost.com/business/2026/03/12/russian-oil-sanctions-lifted-iran/",
-      "source": "World (Washington post)",
-      "published_at": "2026-03-13T03:18:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.5,
-      "evidence": "allows for Russian oil sales"
-    },
-    {
-      "id": "d7eca265f8eedc804163e9e0e0ac8770818ec650",
-      "title": "Ukraine to Make Drone Videos Available for Training A.I. Models",
-      "summary": "Despite ethical concerns about using battlefield videos to train artificial intelligence, Ukraine’s defense ministry said it needs to improve A.I. targeting to compete with Russia.",
-      "url": "https://www.nytimes.com/2026/03/12/world/europe/ukraine-drones-ai-models-training.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-13T01:41:42+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "compete with Russia"
-    },
-    {
-      "id": "e7a935f7a5dad0b2da3b0b3036473a08268b4b3c",
-      "title": "Trump Removes Sanctions on Russia to Help Oil Flow Amid Iran Conflict",
-      "summary": "Treasury Secretary Scott Bessent said it was “unfortunate” that the move could benefit Russia, but maintained that it was only for the short term.",
-      "url": "https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-13T01:32:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Trump Removes Sanctions on Russia to Help Oil Flow"
-    },
-    {
-      "id": "be32d96c2b5442a5ac7381b88c3d6741ac373db9",
-      "title": "Putin’s ‘hidden hand’ lies behind Iran’s drone tactics, UK defence secretary says",
-      "summary": "Pilots reportedly adopting Russian tactics as statement in name of new Iranian supreme leader vows continued attacks on US basesMiddle East crisis – live updatesVladimir Putin’s “hidden hand” lies behind Iran’s military…",
-      "url": "https://www.theguardian.com/world/2026/mar/12/iran-using-russian-drone-tactics-uk-defence-secretary-john-healey",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-12T18:10:45+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Pilots reportedly adopting Russian tactics"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-14T09:49:50Z"
+  "last_updated": "2026-03-15T09:50:59Z"
 }

@@ -1,16 +1,104 @@
 {
   "country": "IQ",
-  "score": 87,
+  "score": 85,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 51,
+  "trend": -2,
+  "sources": 60,
   "sentiment": {
     "positive": 2,
-    "neutral": 30,
-    "negative": 19
+    "neutral": 35,
+    "negative": 23
   },
   "latest_articles": [
+    {
+      "id": "9b82e08c62b497ea9470c29c9276b63fbc7c1474",
+      "title": "US names six crew killed in refuelling plane crash in Iraq",
+      "summary": "The aircraft was on a combat mission as part of ongoing US operations against Iran when it crashed in western Iraq on Thursday.",
+      "url": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-15T08:08:30+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "US names six crew killed in refuelling plane crash in Iraq"
+    },
+    {
+      "id": "5f20a87e8dda561cd9b02b8bc12725c7f8d8200c",
+      "title": "\"Died Doing What She Loved\": Captain Among 6 US Soldiers Killed In Iraq Crash",
+      "summary": "Ariana G Savino was the Chief of Current Operations Pilot",
+      "url": "https://www.ndtv.com/world-news/us-iran-war-john-klinner-ariana-savino-ashley-pruitt-seth-koval-curtis-angst-tyler-simmons-among-6-us-soldiers-killed-in-iraq-crash-11217245#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-15T05:18:56+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "6 US Soldiers Killed In Iraq Crash"
+    },
+    {
+      "id": "92700501fbc578597bb1313cc310f481d61a28a4",
+      "title": "Warning to Americans to leave Iraq is a sign the Iran war is spilling over the border.",
+      "summary": "",
+      "url": "https://www.nytimes.com/live/2026/03/15/world/iran-war-trump-oil-israel/warning-to-americans-to-leave-iraq-is-a-sign-the-iran-war-is-spilling-over-the-border",
+      "source": "NYT > World News",
+      "published_at": "2026-03-15T01:26:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Warning to Americans to leave Iraq"
+    },
+    {
+      "id": "f59ea868616da01830881df3a847fdc04c239ab6",
+      "title": "Israel says Iran war entering 'decisive phase'",
+      "summary": "Middle East cities witnessed intense explosions as Israel declared its conflict with Iran entering a \"decisive phase.\" Strikes targeted the American embassy in Baghdad and a major Emirati energy facility. Lebanon's healt…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-says-iran-war-entering-decisive-phase/articleshow/129583490.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-03-15T00:23:19+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Strikes targeted the American embassy in Baghdad"
+    },
+    {
+      "id": "24cf52359bfdebee8f2164131b987f2c3d0188df",
+      "title": "Iraq taking private plane to Mexico for World Cup play-off",
+      "summary": "Iraq will travel to Mexico by private plane for their World Cup play-off despite calls from coach Graham Arnold to postpone the match amid the escalating US-Israeli war with Iran, the country's FA president Adnan Dirjal…",
+      "url": "https://www.bbc.com/sport/football/articles/c0k10zzjk6yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-14T23:56:28+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Iraq taking private plane to Mexico for World Cup play-off"
+    },
+    {
+      "id": "64297701939765bd5b46bbb9ab65ae7b32a32808",
+      "title": "Pentagon identifies six US service members killed in aircraft crash over Iraq",
+      "summary": "US Central Command says crash followed unspecified incident, and second refueling tanker landed safely in IsraelThe names of the six US service members who died when a military refueling aircraft crashed over Iraq on Thu…",
+      "url": "https://www.theguardian.com/world/2026/mar/14/us-service-members-killed-identified",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-14T22:54:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "six US service members killed in aircraft crash over Iraq"
+    },
+    {
+      "id": "9e158c7784f19ecb7c0acec64e624754237d5d99",
+      "title": "Here’s What Happened in the U.S.-Israel War With Iran on Saturday",
+      "summary": "The U.S. Embassy in Baghdad was attacked overnight. Israeli strikes continued to hit the capitals of Iran and Lebanon, as Iran refused to relinquish control over a vital oil route.",
+      "url": "https://www.nytimes.com/2026/03/14/world/middleeast/iran-war-recap-kharg-island-oil.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-14T22:26:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "The U.S. Embassy in Baghdad was attacked overnight."
+    },
+    {
+      "id": "c186817abccadf376b75b55c8ea59eb8960cfe50",
+      "title": "US embassy in Baghdad hit after strikes kill two Iran-backed fighters",
+      "summary": "It is the second attack on the US embassy in Baghdad since the war began",
+      "url": "https://www.euractiv.com/news/us-embassy-in-baghdad-hit-after-strikes-kill-two-iran-backed-fighters/",
+      "source": "Euractiv",
+      "published_at": "2026-03-14T08:50:42+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "US embassy in Baghdad hit after strikes kill two Iran-backed fighters"
+    },
     {
       "id": "ae609e029ec431a962f483e98c5f794650af8a14",
       "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
@@ -100,6 +188,17 @@
       "evidence": "attack in Iraqi Kurdistan"
     },
     {
+      "id": "4fdf808334b2282ff06e1229eeeed0e4f6d91a29",
+      "title": "U.S. Air Force refueler crashes in Iraq while supporting Iran war",
+      "summary": "Rescue efforts are ongoing, officials said, after the KC-135 tanker was involved in an apparent accident with another KC-135.",
+      "url": "https://www.washingtonpost.com/national-security/2026/03/12/kc-135-crash-iraq-iran/",
+      "source": "World (Washington post)",
+      "published_at": "2026-03-13T04:32:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "crashes in Iraq while supporting Iran war"
+    },
+    {
       "id": "c215fa6d1eb9ab918f3daf320c6b829ccbd65892",
       "title": "U.S. KC-135 Refueling Plane Crashes in Iraq, Military Says",
       "summary": "The crash was not because of hostile fire or friendly fire, U.S. Central Command said.",
@@ -131,107 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Iraqi Women’s Rights Advocate, Is Killed by Gunmen"
-    },
-    {
-      "id": "fa90ecb59b17557373c79e8a24e27ddab7f7b9fa",
-      "title": "Iran War Live Updates: Iraq Closes Oil Terminals as Energy Prices Surge",
-      "summary": "Two oil tankers were burning off the Iraqi coast on Thursday as the conflict in the Middle East deepened disruptions to the global energy supply. Israeli airstrikes also shook Beirut, the Lebanese capital.",
-      "url": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel",
-      "source": "NYT > World News",
-      "published_at": "2026-03-12T09:41:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Iraq Closes Oil Terminals as Energy Prices Surge"
-    },
-    {
-      "id": "ddcf2e97df841bd5bebbb884abf15cd7eb46fd40",
-      "title": "Middle East crisis live: Iran steps up campaign to disrupt energy markets as oil price spikes above $100 a barrel",
-      "summary": "Iran has set ablaze two tankers in Iraqi waters as it increased attacks on oil and transport facilities across the Middle EastIran escalates attacks on infrastructure and transport across the GulfHow have you been affect…",
-      "url": "https://www.theguardian.com/world/live/2026/mar/12/iran-war-live-updates-oil-trump-middle-east-crisis-israel-lebanon-iraq-latest-news",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-12T09:19:45+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Iran has set ablaze two tankers in Iraqi waters"
-    },
-    {
-      "id": "ad885722659883929061a458f83839c690e832ff",
-      "title": "How Hegseth Came to See Moral Purpose in War as Weakness",
-      "summary": "Defense Secretary Pete Hegseth’s bellicose and vengeful rhetoric describing the military’s war in Iran grew out of his experience in Iraq.",
-      "url": "https://www.nytimes.com/2026/03/12/us/politics/hegseth-iran-war.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-12T09:03:16+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "military’s war in Iran grew out of his experience in Iraq."
-    },
-    {
-      "id": "6ea51f37470afb21342ea37c6bcd4e7c61546dbd",
-      "title": "Deadly Attack on Oil Tankers Prompts Iraq to Close Oil Terminals",
-      "summary": "An attack off the Iraqi coast engulfed two oil tankers in flames, killing at least one person. Senior Iraqi officials believe the attack was Iranian.",
-      "url": "https://www.nytimes.com/2026/03/12/world/middleeast/iraq-oil-tankers-attack-iran-war.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-12T08:53:46+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Attack on Oil Tankers Prompts Iraq to Close Oil Terminals"
-    },
-    {
-      "id": "450a58d97c1c935d8846c1c89412efcd5dbf0cb8",
-      "title": "Watch: Video shows huge blaze after blasts hit oil tankers off Iraq’s Basra coast",
-      "summary": "A deadly explosion rocked two oil tankers in the Persian Gulf off Iraq's Basra coast, with officials suspecting an attack by Iranian boats. The blasts ignited massive fires, forcing the evacuation of 38 foreign crew memb…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/watch-video-shows-huge-blaze-after-blasts-hit-oil-tankers-off-iraqs-basra-coast/articleshow/129489843.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-12T03:42:32+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "blasts hit oil tankers off Iraq’s Basra coast"
-    },
-    {
-      "id": "6c41319e2ddbcdd8b14ade3e58de0fe9df482a5a",
-      "title": "Justified or not? US military families on fears of Iran war",
-      "summary": "BBC's North America editor Sarah Smith spoke to Gold Star mum Lynn, whose son died in the Iraq War, and veteran Jeremy.",
-      "url": "https://www.bbc.com/news/videos/cqxd7lyngxjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-12T00:20:34+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Iraq War"
-    },
-    {
-      "id": "8cda69ccaa5161ae741606580f25f41432dae10a",
-      "title": "Three Norwegian brothers arrested over US embassy blast in Oslo",
-      "summary": "Trio held on suspicion of ‘terrorist bombing’ that caused minor damage but no injuriesThree Norwegian brothers have been arrested on suspicion of a “terrorist bombing” at the US embassy in Oslo that caused minor damage a…",
-      "url": "https://www.theguardian.com/world/2026/mar/11/three-norwegian-brothers-arrested-us-embassy-blast-oslo",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-11T18:26:56+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Norwegian citizens of Iraqi origin, had been arrested in Oslo"
-    },
-    {
-      "id": "a684f4f6a95a0ddaaff0ef53c6d8e2ecefac2fc8",
-      "title": "Iranian exile factions vie for US leaders’ blessing to lead Iran",
-      "summary": "Maga world figures throw weight behind Maryam Rajavi, MEK’s leader, and Reza Pahlavi, the son of last Shah of IranAs a US battle group steamed to the Gulf in November 2002, competing Iraqi exiles, some championed by Amer…",
-      "url": "https://www.theguardian.com/us-news/2026/mar/11/iran-leaders-us-trump-support",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-11T09:00:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "competing Iraqi exiles, “Iraq’s unruly opposition”"
-    },
-    {
-      "id": "6e679584796f5d2375362a7b3dca17eea74555d4",
-      "title": "Middle East war enters day 12 as US, Israel unleash 'heaviest strikes' on Iran as Tehran rules out ceasefire",
-      "summary": "The war between the US, Israel, and Iran intensified on its 12th day with heavy strikes on Iranian targets and regional expansion. Iran vowed to continue fighting, rejecting ceasefire calls, while Israel aims to weaken i…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/middle-east-war-enters-day-12-as-us-israel-unleash-heaviest-strikes-on-iran-as-tehran-rules-out-ceasefire/articleshow/129426206.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-10T23:29:21+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Fighting spread to Lebanon and Iraq, with significant casualties reported."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-14T09:49:50Z"
+  "last_updated": "2026-03-15T09:50:59Z"
 }
