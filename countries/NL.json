@@ -1,14 +1,14 @@
 {
   "country": "NL",
-  "score": 100,
+  "score": 99,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 21,
-  "sources": 144,
+  "trend": -1,
+  "sources": 145,
   "sentiment": {
     "positive": 14,
     "neutral": 122,
-    "negative": 8
+    "negative": 9
   },
   "latest_articles": [
     {
@@ -32,6 +32,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Explosion strikes Amsterdam Jewish school amid attacks on Jewish sites"
+    },
+    {
+      "id": "038c681f489753808c405064fb1867ba9a79e405",
+      "title": "‘Deliberate attack’: explosion damages Jewish school in Amsterdam",
+      "summary": "Mayor condemns ‘cowardly act’ on south side of Amsterdam which caused limited damage and no reported injuriesAn explosion has damaged a Jewish school in Amsterdam in what the city’s mayor described as “a deliberate attac…",
+      "url": "https://www.theguardian.com/world/2026/mar/14/deliberate-attack-explosion-damages-jewish-school-in-amsterdam",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-14T08:57:52+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "explosion damages Jewish school in Amsterdam"
     },
     {
       "id": "35bf7df7c27ffca5df557e0d75b6b29a45ce0b5a",
@@ -210,18 +221,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Intertraffic Amsterdam 2026"
-    },
-    {
-      "id": "da752a81328a0e945c6a3acdda0a159facd571cd",
-      "title": "European Parliament eyes date for decision on US trade pact, breaking standstill",
-      "summary": "A final vote would take place during the Brussels plenary on 25–26 March",
-      "url": "https://www.euractiv.com/news/european-parliament-eyes-date-for-decision-on-us-trade-pact-breaking-standstill/",
-      "source": "Euractiv",
-      "published_at": "2026-03-10T12:21:34+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-15T09:50:59Z"
+  "last_updated": "2026-03-16T10:20:14Z"
 }

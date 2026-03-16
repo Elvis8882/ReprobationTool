@@ -1,16 +1,38 @@
 {
   "country": "LB",
-  "score": 45,
+  "score": 43,
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": -2,
-  "sources": 94,
+  "sources": 99,
   "sentiment": {
     "positive": 1,
-    "neutral": 16,
-    "negative": 77
+    "neutral": 18,
+    "negative": 80
   },
   "latest_articles": [
+    {
+      "id": "891d4432164b6f4e022fa3b08b19a8c6f15de751",
+      "title": "Michigan synagogue attacker's brother was Hezbollah commander, IDF says",
+      "summary": "US officials previously said the man accused of ramming a truck full of explosives into a synagogue had recently lost family in Lebanon.",
+      "url": "https://www.bbc.com/news/articles/c4gj1135x7ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-15T20:47:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "lost family in Lebanon"
+    },
+    {
+      "id": "db701f27c083d71028142311a4f4e233f58a0f8e",
+      "title": "Israel Says Michigan Synagogue Attacker’s Brother Was a Hezbollah Commander",
+      "summary": "The Israeli military said it killed the brother of Ayman Mohamad Ghazali in an airstrike in Lebanon a week before the attack on the synagogue.",
+      "url": "https://www.nytimes.com/2026/03/15/world/middleeast/israel-lebanon-michigan-synagogue-hezbollah.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-15T18:10:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "airstrike in Lebanon"
+    },
     {
       "id": "f59ea868616da01830881df3a847fdc04c239ab6",
       "title": "Israel says Iran war entering 'decisive phase'",
@@ -65,6 +87,28 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Lebanon’s Displaced Flee Israeli Strikes"
+    },
+    {
+      "id": "a95fe89464f0877a3ec0e562cc4f15f36336087d",
+      "title": "Israeli strike kills 12 healthcare workers in southern Lebanon",
+      "summary": "The facility was attacked on Friday night, bringing the toll of medical staff to 31 killed in past 12 daysMiddle East crisis – live updatesIsrael killed 12 medical workers in a strike on a medical centre in south Lebanon…",
+      "url": "https://www.theguardian.com/world/2026/mar/14/lebanon-israeli-rockets-kill-healthcare-workers",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-14T15:34:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Israeli strike kills 12 healthcare workers in southern Lebanon"
+    },
+    {
+      "id": "0eb05ee7f8f87a4f7c2436c82bdc48ce8b616cba",
+      "title": "Macron urges Israel to hold ‘direct talks’ with Lebanon",
+      "summary": "\"France is ready to facilitate these talks by hosting them in Paris,\" he said",
+      "url": "https://www.euractiv.com/news/macron-urges-israel-to-hold-direct-talks-with-lebanon/",
+      "source": "Euractiv",
+      "published_at": "2026-03-14T14:21:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "Macron urges Israel to hold ‘direct talks’ with Lebanon"
     },
     {
       "id": "6ac86ba2a220bd2ee71823a2e2ccee2a8b943598",
@@ -186,52 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Ground Down by War, Hezbollah’s Loyal Base Shows Cracks"
-    },
-    {
-      "id": "fa90ecb59b17557373c79e8a24e27ddab7f7b9fa",
-      "title": "Iran War Live Updates: Iraq Closes Oil Terminals as Energy Prices Surge",
-      "summary": "Two oil tankers were burning off the Iraqi coast on Thursday as the conflict in the Middle East deepened disruptions to the global energy supply. Israeli airstrikes also shook Beirut, the Lebanese capital.",
-      "url": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel",
-      "source": "NYT > World News",
-      "published_at": "2026-03-12T09:41:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Israeli airstrikes also shook Beirut, the Lebanese capital"
-    },
-    {
-      "id": "d43b4ad0d0a9b15eee06861fceeecce5fe7d99cf",
-      "title": "War against Iran expands into Lebanon as Israel battles Hezbollah",
-      "summary": "Fighting near Beirut and in southern Lebanon has killed more than 630 people and forced at least 800,000 from their homes.",
-      "url": "https://www.washingtonpost.com/world/2026/03/12/israel-hezbollah-lebanon-war/",
-      "source": "World (Washington post)",
-      "published_at": "2026-03-12T09:00:52+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Fighting near Beirut and in southern Lebanon"
-    },
-    {
-      "id": "d7419b09b810bf08c9a64d81e33ec1f983fadcd4",
-      "title": "Israel Bombards Lebanese Capital in Latest Round of Strikes",
-      "summary": "Lebanon’s health ministry said at least seven people were killed in the Beirut attacks early Thursday.",
-      "url": "https://www.nytimes.com/2026/03/11/world/middleeast/beirut-lebanon-israel-strikes.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-12T05:15:39+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel Bombards Lebanese Capital in Latest Round of Strikes"
-    },
-    {
-      "id": "2fef6d5cee0f13c96129d2524a1fd29fdd702b82",
-      "title": "Countries Scramble to Shore Up Global Oil Supplies as Ships Are Attacked",
-      "summary": "The United States and Israel launched more strikes against Iran, where crowds mourned military commanders killed in the war. Israel also bombed targets in Lebanon, where the death toll climbed.",
-      "url": "https://www.nytimes.com/2026/03/11/world/middleeast/oil-ships-lebanon-iran-israel.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-12T02:52:17+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Israel also bombed targets in Lebanon"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-15T09:50:59Z"
+  "last_updated": "2026-03-16T10:20:14Z"
 }

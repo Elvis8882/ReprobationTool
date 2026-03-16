@@ -1,16 +1,27 @@
 {
   "country": "DE",
-  "score": 92,
+  "score": 93,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 235,
+  "trend": 1,
+  "sources": 236,
   "sentiment": {
-    "positive": 43,
+    "positive": 44,
     "neutral": 156,
     "negative": 36
   },
   "latest_articles": [
+    {
+      "id": "6c48c2114d74609e589952214b75c4f9f2ecad29",
+      "title": "Jørgensen: EU won’t import ‘one molecule’ of gas from Russia",
+      "summary": "Germany joins EU energy commissioner in ruling out resumption of energy imports after controversial suggestion by Belgium's prime minister",
+      "url": "https://www.euractiv.com/news/jorgensen-eu-wont-import-one-molecule-of-gas-from-russia/",
+      "source": "Euractiv",
+      "published_at": "2026-03-16T09:32:44+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Germany joins EU energy commissioner in ruling out resumption of energy imports"
+    },
     {
       "id": "89c281521f791134ba4564055879e358b4ee05b1",
       "title": "New political party being founded in Latvia",
@@ -209,19 +220,8 @@
       "published_at": "2026-03-10T16:11:59+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "47e4678c3d9804885be122a568adc6e06a82102d",
-      "title": "Germany’s Merz says West Bank settlement project ‘big mistake’",
-      "summary": "The German chancellor described the developments as \"annexation moves\" and called on Israel to halt the settlement push",
-      "url": "https://www.euractiv.com/news/germanys-merz-says-west-bank-settlement-project-big-mistake/",
-      "source": "Euractiv",
-      "published_at": "2026-03-10T15:17:31+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Germany’s Merz says West Bank settlement project ‘big mistake’"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-15T09:50:59Z"
+  "last_updated": "2026-03-16T10:20:14Z"
 }

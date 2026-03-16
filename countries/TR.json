@@ -1,14 +1,14 @@
 {
   "country": "TR",
-  "score": 66,
+  "score": 65,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 43,
+  "trend": -1,
+  "sources": 44,
   "sentiment": {
     "positive": 6,
     "neutral": 29,
-    "negative": 8
+    "negative": 9
   },
   "latest_articles": [
     {
@@ -144,6 +144,17 @@
       "evidence": "Greece-Turkey tensions"
     },
     {
+      "id": "dcb19974d02e21d5c7c2951c4be9f1a623da6705",
+      "title": "Iranian Kurdish Forces Say They May Enter Iran. Who Are the Kurds?",
+      "summary": "Spread across Iran, Iraq, Syria and Turkey, the ethnic group of 40 million has long sought, and fought for, greater autonomy.",
+      "url": "https://www.nytimes.com/2026/03/05/world/middleeast/iran-kurds-who.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-05T23:13:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Spread across Iran, Iraq, Syria and Turkey"
+    },
+    {
       "id": "0abc2ca9336eef40def5166fefa70059b92ba8a3",
       "title": "EU countries shield Cyprus amid renewed Greece-Turkey tensions",
       "summary": "Greece’s mobilisation to support Cyprus has raised eyebrows in Ankara",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "big wins for Turkey"
-    },
-    {
-      "id": "0f0849e0f8b36cee74a312e1674745b3cfc9e7a8",
-      "title": "Ankara eyes F-35 deal with US in July, Turkish media reports",
-      "summary": "Turkey was expelled from the F-35 programme in 2019 after it purchased Russia's S-400 missile system",
-      "url": "https://www.euractiv.com/news/ankara-eyes-f-35-deal-with-us-in-july-turkish-media-reports/",
-      "source": "Euractiv",
-      "published_at": "2026-02-24T16:27:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Turkey was expelled from the F-35 programme"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-15T09:50:59Z"
+  "last_updated": "2026-03-16T10:20:14Z"
 }

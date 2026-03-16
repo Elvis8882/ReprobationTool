@@ -4,13 +4,90 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 452,
+  "sources": 460,
   "sentiment": {
     "positive": 22,
-    "neutral": 100,
-    "negative": 330
+    "neutral": 103,
+    "negative": 335
   },
   "latest_articles": [
+    {
+      "id": "17015cbb1e0cd39c1304e81ce64d2f22ec890394",
+      "title": "Is Cheburashka, the Beloved Soviet-Born Character, Ruining Russia?",
+      "summary": "Instead of obsessing over the fictional Cheburashka, Russians should be focused on more important things like the rebirth of a Russian empire, influential conservatives say.",
+      "url": "https://www.nytimes.com/2026/03/16/world/europe/russia-cheburashka-movie.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-16T09:53:26+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Beloved Soviet-Born Character, Ruining Russia?"
+    },
+    {
+      "id": "6c48c2114d74609e589952214b75c4f9f2ecad29",
+      "title": "Jørgensen: EU won’t import ‘one molecule’ of gas from Russia",
+      "summary": "Germany joins EU energy commissioner in ruling out resumption of energy imports after controversial suggestion by Belgium's prime minister",
+      "url": "https://www.euractiv.com/news/jorgensen-eu-wont-import-one-molecule-of-gas-from-russia/",
+      "source": "Euractiv",
+      "published_at": "2026-03-16T09:32:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "EU won’t import ‘one molecule’ of gas from Russia"
+    },
+    {
+      "id": "395a9bb08ff7d3887a8bdd15cac2bc5252098b09",
+      "title": "Russia-Ukraine clashes: Explosions rock Kyiv in rare daytime attack as drone war intensifies",
+      "summary": "Kyiv faced a rare daytime Russian assault Monday as air defenses intercepted projectiles, with debris falling in the city center. This escalation follows Moscow's claim of repelling a major Ukrainian drone attack over th…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/russia-ukraine-clashes-explosions-rock-kyiv-in-rare-daytime-attack-as-drone-war-intensifies/articleshow/129604231.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-03-16T08:46:42+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "rare daytime Russian assault Monday"
+    },
+    {
+      "id": "92e8f64bf6e5bec7fb0e4d2a7dbdfa796c3da912",
+      "title": "\"Like Shooting An Army In The Head\": How Internet Isolation Can Hit Russia's War",
+      "summary": "Representational Image",
+      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-how-internet-isolation-can-hit-russias-war-11221397#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-16T07:27:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "\"Like Shooting An Army In The Head\": How Internet Isolation Can Hit Russia's War"
+    },
+    {
+      "id": "a1717929ebaf3853e28a6aa81c000e84cc1a2353",
+      "title": "De Wever eyes prosperity with Russia",
+      "summary": "Also, in Monday’s edition: Japan’s clickbait diplomacy, Europe Day, French elections",
+      "url": "https://www.euractiv.com/news/rapporteur-de-wever-eyes-prosperity-with-russia/",
+      "source": "Euractiv",
+      "published_at": "2026-03-16T06:35:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "De Wever eyes prosperity with Russia"
+    },
+    {
+      "id": "c32f8617c6049d92396fc1010c11d7eb45550e70",
+      "title": "Belgian foreign minister rebukes De Wever’s call to normalise Russia ties",
+      "summary": "A day earlier, De Wever suggested Europe should rebuild ties with Moscow",
+      "url": "https://www.euractiv.com/news/belgian-foreign-minister-rebukes-de-wevers-call-to-normalise-russia-ties/",
+      "source": "Euractiv",
+      "published_at": "2026-03-15T15:25:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "De Wever suggested Europe should rebuild ties with Moscow"
+    },
+    {
+      "id": "93d3a525dd2ac04ec58f354f7762600b0cc311d6",
+      "title": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
+      "summary": "Volodymyr Zelensky says restoring the flow of Russian oil via Ukraine into the EU would be like lifting sanctions on Russia.",
+      "url": "https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-15T12:00:35+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "lifting sanctions on Russia."
+    },
     {
       "id": "c45166cb68412feee74dbe394f66eb2e8b0e7742",
       "title": "Pressure to re-open Russian oil pipeline like ‘blackmail’, Zelenskyy tells EU",
@@ -21,6 +98,17 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "Pressure to re-open Russian oil pipeline like ‘blackmail’"
+    },
+    {
+      "id": "9b50486b56595b8169b4a1218e84d259555b58ea",
+      "title": "‘My dear son’: the Ukrainian soldier who came back from the dead",
+      "summary": "In 2023, what were thought to be Nazar Daletskyi’s remains were buried in his home village and his mother, Nataliia, visited the grave every week. Three years later, he spoke to her on the phoneNazar Daletskyi was declar…",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/mar/15/my-dear-son-the-ukrainian-soldier-who-came-back-from-the-dead-nazar-daletskyi",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-15T06:00:17+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "one more casualty of Russia’s invasion"
     },
     {
       "id": "4eebc0580cbd3ac54cb19b28f3c498df41a1cc79",
@@ -43,6 +131,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "EU renews Russian sanctions before deadline as new package stalls"
+    },
+    {
+      "id": "252842b7b910388c3f7d96d95d150a5e4d0a91e8",
+      "title": "Belgium’s De Wever calls for EU to negotiate with Russia for Ukraine peace",
+      "summary": "\"There is only one method left: making a deal,\" he said",
+      "url": "https://www.euractiv.com/news/belgiums-de-wever-calls-for-eu-to-negotiate-with-russia-for-ukraine-peace/",
+      "source": "Euractiv",
+      "published_at": "2026-03-14T14:11:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Belgium’s De Wever calls for EU to negotiate with Russia for Ukraine peace"
     },
     {
       "id": "9ad6b469ea85181042f087cccd912edc5348a2eb",
@@ -131,107 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "easing Russian sanctions will prolong war"
-    },
-    {
-      "id": "ad21495381de190b7bf09aa86a39466c30586c4f",
-      "title": "Europe chides US for lifting Russian oil sanctions",
-      "summary": "EU Council President António Costa described Washington's move as 'very concerning'",
-      "url": "https://www.euractiv.com/news/europe-chides-us-for-lifting-russian-oil-sanctions/",
-      "source": "Euractiv",
-      "published_at": "2026-03-13T13:33:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Europe chides US for lifting Russian oil sanctions"
-    },
-    {
-      "id": "6a1135cc06ea9e0404b65abd23c892e2ed709e51",
-      "title": "U.S. 'misadventure' in Iran has no clear exit strategy, Russia's UK ambassador says",
-      "summary": "His comments to CNBC come as the U.S. and Israeli-led war appears poised to enter its third week.",
-      "url": "https://www.cnbc.com/2026/03/13/iran-war-russia-putin-us-israel-trump-middle-east.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-03-13T10:31:48+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Russia's UK ambassador says"
-    },
-    {
-      "id": "bf4299c2bb4a8b7a0b98047b96fb554bb978a08b",
-      "title": "Oil Prices Rise Despite Trump’s Decision to Lift Russia Sanctions",
-      "summary": "After surging about 10 percent on Thursday, oil prices had little reaction to the decision by President Trump to waive sanctions on the sale of some Russian crude.",
-      "url": "https://www.nytimes.com/2026/03/12/business/oil-stock-gas-markets-iran.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-13T08:21:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Lift Russia Sanctions"
-    },
-    {
-      "id": "cbacd9ebe2fc946d27a73fa06a64b9c486174065",
-      "title": "After 'Permitting' India, US Allows Sale Of Russian Oil Already At Sea",
-      "summary": "War in the Middle East has upended the world's energy and transport sectors",
-      "url": "https://www.ndtv.com/world-news/iran-israel-us-war-after-india-us-temporarily-allows-sale-of-russian-oil-at-sea-middle-east-conflict-11208403#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-03-13T08:08:51+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "US Allows Sale Of Russian Oil Already At Sea"
-    },
-    {
-      "id": "bccf5c18ee2c47fbe460d21253bd0cf1d4914794",
-      "title": "The world must treat Putin like the Nazis, says visiting foreign minister - The Age",
-      "summary": "The world must treat Putin like the Nazis, says visiting foreign minister&nbsp;&nbsp;The AgeEstonia urges allies to brace for Russian veterans after Ukraine war&nbsp;&nbsp;ABC NewsEstonia’s foreign minister to meet with…",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN09iQTEycFBDM2MybW91WlZJZVgyVEVqUUJVVkRTeVpjQm94ZFFOUVRWcl9KYWVqZGhHQ0JqeWtTN1NqMnh3S1BiWnRlbWVNT1MyWjZNaEZfcDBYRk5JRWpNNDI2Qy14NUxSWmJnLW1kMlcwdE8yaG5ERkJseVk5dmJ4NkdHeVFfbHZGTG42ZkwwTTZyZUlxRFRkMkkyeGpSLTk2em01TGVzTkh5MzhGMVY2R0VMd3hRQ2F1TVZiNzVBNGMxMGVUMEtmN0JwQnZtaFE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-13T08:00:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "The world must treat Putin like the Nazis"
-    },
-    {
-      "id": "7490b6f51e836d05cbcfe02bf4faae7bcbf635ee",
-      "title": "US Waiver Frees Up 19 Million Barrels Of Russia Oil For Purchase",
-      "summary": "Russian crude is being carried on 25 vessels, with grades such as Sokol on ships near China.",
-      "url": "https://www.ndtv.com/world-news/us-waiver-frees-up-19-million-barrels-of-russia-oil-for-purchase-11209516#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-03-13T07:50:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "US Waiver Frees Up 19 Million Barrels Of Russia Oil For Purchase"
-    },
-    {
-      "id": "425ad55b6ddddae761b7d4ace63b7d8117968173",
-      "title": "CNBC Daily Open: Russian oil draws a crowd",
-      "summary": "Buyers show interest in released Russian oil after the U.S. temporarily lifts sanctions.",
-      "url": "https://www.cnbc.com/2026/03/13/cnbc-daily-open-russian-oil-draws-a-crowd.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-03-13T07:24:15+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "Russian oil draws a crowd"
-    },
-    {
-      "id": "229076750bd6c3a89cbfed13d2b060212585b75a",
-      "title": "Opinion: Opinion | The Real Winner Of Iran-Israel War Is Someone Trump Never Accounted For",
-      "summary": "The current crisis promises tens of billions of dollars to Russia in additional revenue. Here's how.",
-      "url": "https://www.ndtv.com/opinion/iran-israel-war-how-russia-may-be-the-only-winner-in-this-crisis-11209402#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-03-13T07:04:04+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "promises tens of billions of dollars to Russia in additional revenue."
-    },
-    {
-      "id": "fce81971e2c8545f78782e2294cb2de56817b504",
-      "title": "Everything is a political weapon since Trump’s re-election, says Germany’s ex-economy minister",
-      "summary": "Robert Habeck says world has moved on from weaponising energy to using  tariffs, technology and more to inflict harmThe weaponisation of energy when Russia invaded Ukraine has given way to “weaponising everything” since…",
-      "url": "https://www.theguardian.com/world/2026/mar/13/everything-is-a-political-weapon-since-trumps-re-election-says-germanys-ex-economy-minister",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-13T06:00:41+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Russia invaded Ukraine"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-15T09:50:59Z"
+  "last_updated": "2026-03-16T10:20:14Z"
 }
