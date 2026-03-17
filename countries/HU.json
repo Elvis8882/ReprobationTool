@@ -1,16 +1,100 @@
 {
   "country": "HU",
-  "score": 62,
+  "score": 60,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 155,
+  "trend": -2,
+  "sources": 163,
   "sentiment": {
     "positive": 1,
-    "neutral": 105,
-    "negative": 49
+    "neutral": 111,
+    "negative": 51
   },
   "latest_articles": [
+    {
+      "id": "4740a60ddecc250ec1febad790f88cce9e82eaba",
+      "title": "Race for Paris mayor on knife’s edge after first round",
+      "summary": "Dati is due to appear in court in September, charged with corruption between 2010 and 2012 when she was a member of the European Parliament",
+      "url": "https://www.euractiv.com/news/race-for-paris-mayor-on-knifes-edge-after-first-round/",
+      "source": "Euractiv",
+      "published_at": "2026-03-17T08:15:32+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "9a4d677cf5c88514835bdfd44866d9a8e9ee3214",
+      "title": "Navigating the Strait of Budapest",
+      "summary": "Also, in Tuesday’s edition: Merz vs Weber, Sánchez pod, Kubilius, giant condom",
+      "url": "https://www.euractiv.com/news/rapporteur-navigating-the-strait-of-budapest/",
+      "source": "Euractiv",
+      "published_at": "2026-03-17T06:02:09+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Navigating the Strait of Budapest"
+    },
+    {
+      "id": "3a81534200039544e036080e35bd23f631847e89",
+      "title": "‘We are the family’: low-budget thriller highlights Hungary’s election tension",
+      "summary": "Audiences draw parallels between the abduction plot of Feels Like Home and Viktor Orbán’s 16-year reignIt’s seven o’clock on a Tuesday night, and one of the most popular movie theatres in Budapest is full, not an empty s…",
+      "url": "https://www.theguardian.com/world/2026/mar/17/low-budget-thriller-highlights-hungary-election-divide",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-17T05:00:40+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Hungary’s election tension"
+    },
+    {
+      "id": "c2020aacb6155e6a7716af1bd055bde30216fc9d",
+      "title": "EU calls for urgent reboot in talks with UK to stop reset deal failing",
+      "summary": "Time is running out to find agreement on areas such as tuition fees EU citizens would pay in Britain and rules for food safetyThe EU is hoping to urgently reboot talks on the “reset” of relations with the UK as negotiati…",
+      "url": "https://www.theguardian.com/world/2026/mar/16/eu-urgent-reboot-uk-talks-stop-reset-deal-failing",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-16T19:40:07+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "e8f09a40411de892df436f7a44cf8afbb0d2f626",
+      "title": "Von der Leyen suggests easing CO2 price paid by industrial polluters",
+      "summary": "European Commission president asks EU leaders to consider a 'more realistic decarbonisation trajectory'",
+      "url": "https://www.euractiv.com/news/von-der-leyen-suggests-easing-co2-price-paid-by-industrial-polluters/",
+      "source": "Euractiv",
+      "published_at": "2026-03-16T16:44:36+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "da73f8fcb4ea831478194c1aca89420f8f7604ee",
+      "title": "Hungary claims Kyiv refused talks as Druzhba pipeline feud deepens",
+      "summary": "Budapest continues to demand restoration of Russian crude oil deliveries as energy ministers gather in Brussels",
+      "url": "https://www.euractiv.com/news/hungary-claims-kyiv-refused-talks-as-druzhba-pipeline-feud-deepens/",
+      "source": "Euractiv",
+      "published_at": "2026-03-16T11:08:25+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Hungary claims Kyiv refused talks as Druzhba pipeline feud deepens"
+    },
+    {
+      "id": "55a09afbb13e345126d36047b8f5ff6667fe3a52",
+      "title": "Von der Leyen’s plan to get Ukraine into the EU is ‘not feasible’, says top German MP",
+      "summary": "Anton Hofreiter told Euractiv that the European Commission chief is not handling enlargement reform well",
+      "url": "https://www.euractiv.com/news/von-der-leyen-overpromising-on-ukraines-eu-bid-top-german-mp-warns/",
+      "source": "Euractiv",
+      "published_at": "2026-03-16T05:00:09+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "c2d555da60c07ce84bd22d3448e3ad7cde899e41",
+      "title": "Orbán supporters rally in Hungary ahead of key April election",
+      "summary": "Pro-government “peace marches” have been a fixture of Orbán’s rule since 2010",
+      "url": "https://www.euractiv.com/news/orban-supporters-rally-in-hungary-ahead-of-key-april-election/",
+      "source": "Euractiv",
+      "published_at": "2026-03-15T14:45:25+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Orbán supporters rally in Hungary"
+    },
     {
       "id": "c45166cb68412feee74dbe394f66eb2e8b0e7742",
       "title": "Pressure to re-open Russian oil pipeline like ‘blackmail’, Zelenskyy tells EU",
@@ -135,92 +219,8 @@
       "published_at": "2026-03-12T14:00:45+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "137490e227efe988c85121fbbca972e5b7c6fed9",
-      "title": "War in Ukraine spills into Hungarian election campaign",
-      "summary": "Hungary is going to the polls soon and Prime Minister Viktor Orbán has one public enemy in his sights - Ukraine's president.",
-      "url": "https://www.bbc.com/news/articles/crm8rxwyyz8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-12T09:03:39+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "War in Ukraine spills into Hungarian election campaign"
-    },
-    {
-      "id": "ef31d9dae19728150b1dd5dd68206b5289b5fe0b",
-      "title": "Hungary’s Orbán claims Ukrainians ‘threatened’ his family as election campaign ramps up",
-      "summary": "Prime minister makes claim as accusations mount that he is using row with Ukraine for political gain in run-up to electionsHungary’s prime minister, Viktor Orbán, has accused Ukrainians of plotting to attack his family,…",
-      "url": "https://www.theguardian.com/world/2026/mar/12/orban-ukraine-claims-hungary-election",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-12T08:33:07+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Hungary’s Orbán claims Ukrainians ‘threatened’ his family"
-    },
-    {
-      "id": "815caf0145f19b3f9462fbafc9d5c0e54123028f",
-      "title": "51% of people didn’t use public transport in 2024 - European Commission",
-      "summary": "51% of people didn’t use public transport in 2024&nbsp;&nbsp;European Commission58% of people in Malta did not use public transport in 2024 – Eurostat&nbsp;&nbsp;The Malta IndependentCyprus records highest share of peopl…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tWWNhR0pQMHkxMGgzR1ZaU2lMbmZMSFdORnVGckZRSy02ckJkY3RJcW5CY0FwYkh6NG5UNy1sbjZVWGVxcVp3Zkl0Zy1FZFdoRzdiMFR6bEgxeEhXZm5XV1FZTnpGeXVfcHVGX3c0YjE4R2NkNzZZb0RQcTZXZw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-12T06:38:28+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "96b37a0008ce012c7520a43de3e87a15d232d613",
-      "title": "Hungary and Slovakia resist renewal of Russia sanctions as deadline nears - Yahoo News UK",
-      "summary": "Hungary and Slovakia resist renewal of Russia sanctions as deadline nears&nbsp;&nbsp;Yahoo News UKView Full coverage on Google News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc0tuTF9QU2JVd3gwOEtkTzhCRThDWWdrdmNCQ1ZWNTVBM3U0RUNkZGpLaHlSNGMyTlpXR1NFTFVRYXpFbHBaWEo3QTZ5VkdzWmpQbzVheXdDQ1c4NXFVNEUxS1pYNktReXE2cVRvMjEwUGl5YVJLRUlyV2dhSzM0RmlsbG5odw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-11T18:42:47+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Hungary and Slovakia resist renewal of Russia sanctions"
-    },
-    {
-      "id": "904d8493a382dd961c70491bee4af43567afd3cc",
-      "title": "Hungary sends team for pipeline talks denied by Ukraine",
-      "summary": "Kyiv said it was aware that a group of Hungarians had crossed the border but stressed there was no plan for talks with officials",
-      "url": "https://www.euractiv.com/news/hungary-sends-team-for-pipeline-talks-denied-by-ukraine/",
-      "source": "Euractiv",
-      "published_at": "2026-03-11T14:36:52+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Hungary sends team for pipeline talks denied by Ukraine"
-    },
-    {
-      "id": "7610f363dc931680795659c7673014832fd54f51",
-      "title": "More than a third of online shoppers face issues - European Commission",
-      "summary": "More than a third of online shoppers face issues&nbsp;&nbsp;European CommissionNearly One in Three Bulgarians Face Issues With Online Shopping in 2025, Up From 19.4% in 2023&nbsp;&nbsp;БТАOnline shopping problems in Cypr…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MVXFSN1BzekhiV3phaGRvTkJITG95MzZzYkRQTVRMRUEweVBsbTVtOVJiRnUydmZib1Q2VzVubXItQWJ6VXNPa0syTHIzNDBzaklhZWxBNWdTb0JCTmE4Z1R1Slg5LTZJcjlSMjhnQzhVdWdaT3FfUmJIU0Fudw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-11T10:04:21+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "1577d1706e28b7e65b2e208de664e9617df38d93",
-      "title": "Dutch farmers’ party duo defects from EPP to ECR",
-      "summary": "Sander Smit and Jessika van Leeuwen are set to join the European Conservatives and Reformists grouping in the European Parliament",
-      "url": "https://www.euractiv.com/news/dutch-farmers-party-duo-defects-from-epp-to-ecr/",
-      "source": "Euractiv",
-      "published_at": "2026-03-10T16:11:59+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "da752a81328a0e945c6a3acdda0a159facd571cd",
-      "title": "European Parliament eyes date for decision on US trade pact, breaking standstill",
-      "summary": "A final vote would take place during the Brussels plenary on 25–26 March",
-      "url": "https://www.euractiv.com/news/european-parliament-eyes-date-for-decision-on-us-trade-pact-breaking-standstill/",
-      "source": "Euractiv",
-      "published_at": "2026-03-10T12:21:34+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-16T10:20:14Z"
+  "last_updated": "2026-03-17T10:10:51Z"
 }

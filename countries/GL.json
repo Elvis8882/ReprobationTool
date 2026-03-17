@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 36,
+  "sources": 37,
   "sentiment": {
     "positive": 4,
-    "neutral": 24,
+    "neutral": 25,
     "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "d2e1e7c97aa2c512fee2bae118f7e92f1c10e348",
+      "title": "Nordic Leaders Praise Carney as They Discuss Arctic Security",
+      "summary": "Canada’s prime minister got a warm welcome from leaders still smarting about President Trump’s remarks two months ago about taking over Greenland.",
+      "url": "https://www.nytimes.com/2026/03/15/world/canada/nordic-leaders-praise-carney-as-they-discuss-arctic-security.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-15T14:30:06+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "taking over Greenland"
+    },
     {
       "id": "85ee76682298ef5f4dce5dc17a0c1d2f9a9f0959",
       "title": "Paris inks deal for Greenland’s mineral wealth",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "U.S. Accepted Danish Control of Greenland 100 Years Ago"
-    },
-    {
-      "id": "6bf620cb312056bb99003c6e4400bf397930becd",
-      "title": "Greenland Crisis Has Danes Chuckling, in Their Own Way",
-      "summary": "A little teasing has helped Danes manage their anger and anxiety over American threats to take a part of their territory. A Trump pincushion, anyone?",
-      "url": "https://www.nytimes.com/2026/02/03/world/europe/denmark-trump-boycott.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-03T10:01:15+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "American threats to take a part of their territory"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-16T10:20:14Z"
+  "last_updated": "2026-03-17T10:10:51Z"
 }
