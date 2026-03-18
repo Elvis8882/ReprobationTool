@@ -1,0 +1,41 @@
+{
+  "id": "23c897abefb6133e4cd29994f52cfe2157e5daab",
+  "title": "Iran Launches Missile Attack on Tel Aviv in Retaliation for Latest Killings",
+  "summary_full": "Iranian state media confirmed the killings of Ali Larijani, who had served as Iran’s de facto leader recently, and a militia commander late Tuesday. Airstrikes rocked the Lebanese capital early Wednesday.",
+  "summary_public": "Iranian state media confirmed the killings of Ali Larijani, who had served as Iran’s de facto leader recently, and a militia commander late Tuesday. Airstrikes rocked the Lebanese capital early Wednesday.",
+  "url": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon",
+  "published_at": "2026-03-18T08:57:44+00:00",
+  "source": "NYT > World News",
+  "language": "en",
+  "countries_detected": [
+    "IL",
+    "IR",
+    "LB"
+  ],
+  "countries_scored": [
+    "IL",
+    "IR",
+    "LB"
+  ],
+  "sentiment_by_country": {
+    "IL": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Missile Attack on Tel Aviv"
+    },
+    "IR": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran Launches Missile Attack"
+    },
+    "LB": {
+      "label": "negative",
+      "confidence": 0.5,
+      "evidence": "Airstrikes rocked the Lebanese capital"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-18T10:11:39+00:00",
+  "processed_at": "2026-03-18T10:11:39+00:00"
+}

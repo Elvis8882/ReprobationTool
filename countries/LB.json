@@ -1,16 +1,38 @@
 {
   "country": "LB",
-  "score": 40,
+  "score": 39,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -3,
-  "sources": 104,
+  "trend": -1,
+  "sources": 106,
   "sentiment": {
     "positive": 1,
     "neutral": 20,
-    "negative": 83
+    "negative": 85
   },
   "latest_articles": [
+    {
+      "id": "90bb9c7ac26f8bb44efe1a32930d9d927bfa49ba",
+      "title": "Hezbollah ignites blowback from its base as over 1 million flee war with Israel",
+      "summary": "The militant group’s attacks on Israel have sparked anger even among its most loyal Shiite supporters in Lebanon, weakening its clout as the war widens.",
+      "url": "https://www.washingtonpost.com/world/2026/03/18/iran-war-hezbollah-israel-lebanon/",
+      "source": "World (Washington post)",
+      "published_at": "2026-03-18T09:00:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "weakening its clout as the war widens"
+    },
+    {
+      "id": "23c897abefb6133e4cd29994f52cfe2157e5daab",
+      "title": "Iran Launches Missile Attack on Tel Aviv in Retaliation for Latest Killings",
+      "summary": "Iranian state media confirmed the killings of Ali Larijani, who had served as Iran’s de facto leader recently, and a militia commander late Tuesday. Airstrikes rocked the Lebanese capital early Wednesday.",
+      "url": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon",
+      "source": "NYT > World News",
+      "published_at": "2026-03-18T08:57:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Airstrikes rocked the Lebanese capital"
+    },
     {
       "id": "210b07f912c47838a21d73df436b17c7c2886513",
       "title": "Middle East crisis live: Israel claims it has killed Iran’s security chief Ali Larijani; south Lebanon residents urged to evacuate",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Israel Drops Leaflets on Beirut"
-    },
-    {
-      "id": "b5d4349a2c189b9296c30b74a72f901e329320c5",
-      "title": "Iran War Live Updates: Israel Targets Hezbollah in Beirut as Strikes Hit City Center",
-      "summary": "The attacks heightened fears that the war was expanding beyond Hezbollah’s traditional strongholds into parts of Beirut once considered comparatively safe. New strikes were also reported in Iran, Iraq and Israel.",
-      "url": "https://www.nytimes.com/live/2026/03/13/world/iran-war-trump-oil-israel",
-      "source": "NYT > World News",
-      "published_at": "2026-03-13T09:37:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Hezbollah in Beirut as Strikes Hit City Center"
-    },
-    {
-      "id": "7728042c846e55c09df4469f07a3d22a1873fdb4",
-      "title": "Where Israeli Strikes Are Hitting Beirut",
-      "summary": "Our Beirut bureau chief, Christina Goldbaum, shows how Israeli airstrikes have affected Lebanon and its capital. Hundreds of thousands of people have fled areas around Beirut and in a huge swath of southern Lebanon after…",
-      "url": "https://www.nytimes.com/video/world/middleeast/100000010764777/where-israeli-strikes-are-hitting-beirut.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-13T09:02:15+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "affected Lebanon and its capital"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-17T10:10:51Z"
+  "last_updated": "2026-03-18T10:11:39Z"
 }

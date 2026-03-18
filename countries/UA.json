@@ -1,16 +1,38 @@
 {
   "country": "UA",
-  "score": 46,
+  "score": 45,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 386,
+  "trend": -1,
+  "sources": 390,
   "sentiment": {
-    "positive": 150,
+    "positive": 152,
     "neutral": 92,
-    "negative": 144
+    "negative": 146
   },
   "latest_articles": [
+    {
+      "id": "94e2ef63c309466447ee27ab2ca43bdbdaea95e5",
+      "title": "He Lost a Leg for Russia. Then, He Says, His Country Betrayed Him.",
+      "summary": "Imprisoned for murder, Aleksandr Abbasov-Derskhan sought a new start in life and freedom by signing up to fight in Ukraine. But he says promised benefits proved illusory.",
+      "url": "https://www.nytimes.com/2026/03/18/world/europe/russia-ukraine-prisoner-benefits.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-18T09:23:27+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "signing up to fight in Ukraine. But he says promised benefits proved illusory."
+    },
+    {
+      "id": "79a96ec39bbfbdac4a0c0ba63903820fa70f4e74",
+      "title": "Karis proclaims law on compensation for Russia's war damages - The Baltic Times",
+      "summary": "Karis proclaims law on compensation for Russia's war damages&nbsp;&nbsp;The Baltic TimesEstonia ratified the convention on the establishment of a commission for compensation to Ukraine&nbsp;&nbsp;Українські Національні Н…",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX012ZW9wSmp6aFFrb3laZ1RZTFhUak94VzdGdU9tR1lMNlNCdWMyRXNJN28xakhKX3lDdnVaemVXSEVCM0gzSXY1SThIbGowWWctOWUtUGhxeENOZFZldDNuZWR1eldXdUVELTlDU2ZDUzRaTjFUQ2ZiSjc4RW0xYXZzT19EZW9acUdhVUtGblhfWDA?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-17T17:23:28+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "compensation to Ukraine"
+    },
     {
       "id": "8b7ac30d0e63156883812c8f314b007b87e925b6",
       "title": "Sucked Into War, Gulf Countries Face the Limits of U.S. Security Guarantees",
@@ -67,6 +89,17 @@
       "evidence": "Ukraine risks losing control of its wartime innovations"
     },
     {
+      "id": "da254af1b77002cd78fab9c5333193e4213e2bd8",
+      "title": "Russia agrees to stop using Kenyan recruits in Ukraine conflict, Kenya says",
+      "summary": "Some 1,000 Kenyans are believed to have recruited to fight in Ukraine - many say they were lured under false pretences.",
+      "url": "https://www.bbc.com/news/articles/cev7rdwmky9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-16T14:09:58+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "recruits in Ukraine conflict"
+    },
+    {
       "id": "da73f8fcb4ea831478194c1aca89420f8f7604ee",
       "title": "Hungary claims Kyiv refused talks as Druzhba pipeline feud deepens",
       "summary": "Budapest continues to demand restoration of Russian crude oil deliveries as energy ministers gather in Brussels",
@@ -76,6 +109,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Hungary claims Kyiv refused talks"
+    },
+    {
+      "id": "d3ee9f0ca125c6fff80209e50f323b45e09a60c1",
+      "title": "Latvia marks 12 years since Russia's fake Crimea referendums",
+      "summary": "March 16th, 2026 marks twelve years since Russia staged bogus&nbsp;referendums on the annexation of Ukrainian territories to the Russian Federation&nbsp;in the Autonomous Republic of Crimea and the city of Sevastopol.",
+      "url": "https://eng.lsm.lv/article/politics/diplomacy/16.03.2026-latvia-marks-12-years-since-russias-fake-crimea-referendums.a639069/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "source": "LSM (English)",
+      "published_at": "2026-03-16T10:29:44+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "annexation of Ukrainian territories"
     },
     {
       "id": "395a9bb08ff7d3887a8bdd15cac2bc5252098b09",
@@ -186,52 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Trump’s sanctions pause means more money to fight Ukraine"
-    },
-    {
-      "id": "4ed1bea4f3aeb19edfb15dde01367e2dfe875c28",
-      "title": "How Ukraine trip unravelled Banksy's 'true identity'",
-      "summary": "For decades, the art world pondered the identity of Banksy, the anonymous street artist. Patient reporting, tracing clues from Bristol to Ukraine and a New York police file, revealed Robin Gunningham as the likely indivi…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/how-ukraine-trip-unravelled-banksys-true-identity/articleshow/129569595.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-14T08:30:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "How Ukraine trip unravelled Banksy's 'true identity'"
-    },
-    {
-      "id": "f5f9909b103c23d39adc05e7a3b525eba88783f6",
-      "title": "'White House now begging India': Iran FM Araghchi mocks US U-turn on Russian oil",
-      "summary": "Iran's foreign minister Araghchi slammed the US for pressuring India to stop Russian oil imports, only to now \"beg\" for such purchases. He also criticized Europe's stance on the Ukraine conflict. Meanwhile, Iran assured…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/white-house-now-begging-india-iran-fm-araghchi-mocks-us-u-turn-on-russian-oil/articleshow/129568264.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-14T03:47:45+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "criticized Europe's stance on the Ukraine conflict"
-    },
-    {
-      "id": "8ffca9465f7cae26d2ffeab0b753f283e7d5dac9",
-      "title": "Phones ‘Ringing Off the Hook’ for Ukraine Defense Firms as Mideast Seeks Help",
-      "summary": "Ukraine wants to leverage its defense expertise into security partnerships and to reap potentially vast profits for its arms industry.",
-      "url": "https://www.nytimes.com/2026/03/13/world/europe/ukraine-drone-interceptors-iran-middle-east.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-13T22:16:36+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Phones ‘Ringing Off the Hook’ for Ukraine Defense Firms"
-    },
-    {
-      "id": "ff0472706a736910f5c79b53e27c35768c398818",
-      "title": "To Fight Iran’s Drones, U.S. Taps Ukraine’s Hard-Earned Knowledge",
-      "summary": "As Iran has shown, warfare involves far more deadly projectiles than it once did. It’s a problem Ukraine has been dealing with for years.",
-      "url": "https://www.nytimes.com/2026/03/13/world/middleeast/ukraine-drone-knowledge.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-13T20:15:13+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "U.S. Taps Ukraine’s Hard-Earned Knowledge"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-17T10:10:51Z"
+  "last_updated": "2026-03-18T10:11:39Z"
 }
