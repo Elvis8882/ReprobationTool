@@ -1,16 +1,104 @@
 {
   "country": "UA",
-  "score": 45,
+  "score": 44,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": -1,
-  "sources": 390,
+  "sources": 400,
   "sentiment": {
-    "positive": 152,
-    "neutral": 92,
-    "negative": 146
+    "positive": 156,
+    "neutral": 94,
+    "negative": 150
   },
   "latest_articles": [
+    {
+      "id": "da39d776bcb68bc6e9477ca64334a7cf9a7841c7",
+      "title": "The Soldier Who Came Back From the Dead",
+      "summary": "Told that Nazar Daletskyi had died, his Ukrainian family buried what they thought were his remains. He turned up three years later in a prisoner-of-war exchange.",
+      "url": "https://www.nytimes.com/2026/03/19/world/europe/ukraine-soldier-dna-mistake-back-from-dead.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-19T09:22:53+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "He turned up three years later in a prisoner-of-war exchange."
+    },
+    {
+      "id": "f191d3af74203085759eb837216fb23292175737",
+      "title": "Hungary’s Orbán says he won’t back down and allow EU’s €90bn loan to Ukraine – Europe live",
+      "summary": "Hungarian PM, who is facing an upcoming election, appears in no mood to compromise as EU leaders meet in Brussels this morningMeanwhile, European Union experts have arrived in Ukraine to assess the condition of the Druzh…",
+      "url": "https://www.theguardian.com/world/live/2026/mar/19/europe-ukraine-russian-eu-loan-orban-hungary-tariffs-iran-nato-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-19T09:15:55+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.5,
+      "evidence": "EU’s €90bn loan to Ukraine...European Union experts have arrived in Ukraine"
+    },
+    {
+      "id": "4ab271b1787f71a0e143105c07e6a7ad985f2356",
+      "title": "Russia Agrees To Halt Recruitment Of Kenyans For Military Service In Ukraine",
+      "summary": "Over 1,000 Kenyan citizens were sent to fight in Ukraine, says the Kenyan Intelligence Service.",
+      "url": "https://www.ndtv.com/world-news/russia-agrees-to-halt-recruitment-of-kenyans-for-military-service-in-ukraine-11236710#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-19T07:09:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Over 1,000 Kenyan citizens were sent to fight in Ukraine"
+    },
+    {
+      "id": "e6e7c2fe78bbc26f16242fdda84e35aca834b303",
+      "title": "E.U. Loan for Ukraine Becomes Election Leverage for Orban",
+      "summary": "European leaders are pushing Prime Minister Viktor Orban to stop blocking a €90 billion loan to Ukraine. But the issue is a rallying cry in remarkably close elections in Hungary set for April 12.",
+      "url": "https://www.nytimes.com/2026/03/19/world/europe/ukraine-hungary-orban-elections.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-19T07:00:07+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "European leaders are pushing Prime Minister Viktor Orban to stop blocking a €90 billion loan to Ukraine"
+    },
+    {
+      "id": "59fc4592191871020f8fcb2dd67586364aafee9e",
+      "title": "Latvia has not received any requests to participate in the U.S.-Israeli operation in Middle East - Rinkevics - The Baltic Times",
+      "summary": "Latvia has not received any requests to participate in the U.S.-Israeli operation in Middle East - Rinkevics&nbsp;&nbsp;The Baltic TimesLatvia has not received invitations to join the operation in the Middle East - Rinke…",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU05sZTJZNU94VkNadHZFWHRjS0txVk1uSGtOUnVwY2Q3bXFGSUZMMXh4Tk42Q3l6RDVYQmdoV3gzTUlBZ05YZW45cEM2TDRUOTlwZTFJbDNzbnk0NGNEb25PWG5sNDRzYkRBbm9QYjlGS25HVWxoN25OMDJPMjdUZlhPRmlYQU9jM2psQ2d0VWNyVXg4NTZlMlhQbFVQMHJNQkp3UjA1d0lvaEtSeUgtY2p2RVROa244bk9SMWxIelVoSDFUejI3T3JYdVNYRFhESFNR?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-18T19:06:48+00:00",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "support for Ukraine and NATO’s eastern flank as priorities"
+    },
+    {
+      "id": "50be5ecde55ef5148133170d490bac2802004552",
+      "title": "Damaged Russian tanker carrying natural gas floats into Libyan waters",
+      "summary": "Fears of ecological disaster as vessel continues to drift after being struck by suspected drone attackA severely damaged Russian tanker carrying liquified natural gas that has been adrift in the Mediterranean for two wee…",
+      "url": "https://www.theguardian.com/environment/2026/mar/18/damaged-russian-tanker-carrying-natural-gas-floats-into-libyan-waters",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-18T18:51:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "invasion of Ukraine in February 2022"
+    },
+    {
+      "id": "2d63fc34a5243b216068fe76ac48d11666c35761",
+      "title": "LIVE: EU leaders arrive in Brussels to talk Middle East, Ukraine, and energy",
+      "summary": "Initially billed as the summit to tackle Europe's industrial competitiveness, the leaders' meeting on Thursday will be overshadowed by a Hungary-Ukraine stand-off and the war in Iran",
+      "url": "https://www.euractiv.com/news/live-eu-leaders-to-discuss-middle-east-energy-prices-and-ukraine/",
+      "source": "Euractiv",
+      "published_at": "2026-03-18T16:38:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Hungary-Ukraine stand-off"
+    },
+    {
+      "id": "63c23574bd06654729395272a63abec789bc7003",
+      "title": "Orbán urges EU to return to ‘old harmony’ with Russia",
+      "summary": "His remarks come as Brussels is struggling to get Budapest on board to approve a €90 billion aid package to Ukraine",
+      "url": "https://www.euractiv.com/news/orban-urges-eu-to-return-to-old-harmony-with-russia/",
+      "source": "Euractiv",
+      "published_at": "2026-03-18T12:39:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "aid package to Ukraine"
+    },
     {
       "id": "94e2ef63c309466447ee27ab2ca43bdbdaea95e5",
       "title": "He Lost a Leg for Russia. Then, He Says, His Country Betrayed Him.",
@@ -32,6 +120,28 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "compensation to Ukraine"
+    },
+    {
+      "id": "6d5992c34a090e3a9985248de30f838fde47a97d",
+      "title": "Water supply cut in Moldova after oil spill blamed on Russian strike in Ukraine",
+      "summary": "Moldova has imposed a 15-day state of alert in the Dniester river basin as a precaution.",
+      "url": "https://www.bbc.com/news/articles/cwy98qnpg1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-17T16:10:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "oil spill blamed on Russian strike in Ukraine"
+    },
+    {
+      "id": "89dbe8452b8a1d2817535a264ccf71e1cdae8146",
+      "title": "Opening remarks by HRVP Kaja Kallas for the Structured Dialogue on the Commission Work Programme with the European Parliament’s Committee on Foreign Affairs - EEAS",
+      "summary": "Opening remarks by HRVP Kaja Kallas for the Structured Dialogue on the Commission Work Programme with the European Parliament’s Committee on Foreign Affairs&nbsp;&nbsp;EEASKallas Says Ukraine Must Remain Europe’s Top Sec…",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUk1Hd2I2MW5YWkFKMm1LeGktcE1ESlg0VUFKS3lwN3pyS0x1Q0JWVjZvcnpidW1UdVdWUzdHVWt6eUl3dkM5U3ZjdU90bDN3MUlyN2lqM0h0eGF1eXl3Vi1fWTBVR3V4SHZZSEZoR1dmMjZqTVR5T3JmMmswZjFReS1GVlJsMjJfVW80aWVjZGVJSGtlSTJZWGpDN0xmNzU4S3FEemZ4QjV3eTBIalo5R1RCRzdvbmVSVjZUZFhKWDc5VEdINUVzeGN0MlVVQTh0TFBlS19iLUR0clE?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-17T15:51:12+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukraine Must Remain Europe’s Top Security Priority"
     },
     {
       "id": "8b7ac30d0e63156883812c8f314b007b87e925b6",
@@ -120,118 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "annexation of Ukrainian territories"
-    },
-    {
-      "id": "395a9bb08ff7d3887a8bdd15cac2bc5252098b09",
-      "title": "Russia-Ukraine clashes: Explosions rock Kyiv in rare daytime attack as drone war intensifies",
-      "summary": "Kyiv faced a rare daytime Russian assault Monday as air defenses intercepted projectiles, with debris falling in the city center. This escalation follows Moscow's claim of repelling a major Ukrainian drone attack over th…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/russia-ukraine-clashes-explosions-rock-kyiv-in-rare-daytime-attack-as-drone-war-intensifies/articleshow/129604231.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-16T08:46:42+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "major Ukrainian drone attack"
-    },
-    {
-      "id": "55a09afbb13e345126d36047b8f5ff6667fe3a52",
-      "title": "Von der Leyen’s plan to get Ukraine into the EU is ‘not feasible’, says top German MP",
-      "summary": "Anton Hofreiter told Euractiv that the European Commission chief is not handling enlargement reform well",
-      "url": "https://www.euractiv.com/news/von-der-leyen-overpromising-on-ukraines-eu-bid-top-german-mp-warns/",
-      "source": "Euractiv",
-      "published_at": "2026-03-16T05:00:09+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Von der Leyen’s plan to get Ukraine into the EU is ‘not feasible’, says top German MP"
-    },
-    {
-      "id": "7dcf9d7e74c4e9e2461712512110b3b434415c6b",
-      "title": "Ukraine risks losing control of its wartime innovations",
-      "summary": "Ukraine’s defence innovators often assume their technology will be stolen",
-      "url": "https://www.euractiv.com/news/ukraines-defence-boom-risks-losing-control-of-its-wartime-innovations/",
-      "source": "Euractiv",
-      "published_at": "2026-03-16T05:00:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukraine risks losing control of its wartime innovations"
-    },
-    {
-      "id": "bac79a76bc061adb820fe6b3ef07d69d00ba7c8d",
-      "title": "Mr Nobody Against Putin wins the best documentary Oscar",
-      "summary": "Primary school teacher Pavel Talankin’s record of the indoctrination of his pupils to support Russia’s invasion of Ukraine beats contendersOscars 2026 winners: the full listMr Nobody Against Putin, a primary school teach…",
-      "url": "https://www.theguardian.com/film/2026/mar/16/mr-nobody-against-putin-wins-the-best-documentary-oscar",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-16T01:19:01+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Russia’s invasion of Ukraine"
-    },
-    {
-      "id": "8cd6358bcb5d9796f3a1cfa58cf034c3d9c74bd1",
-      "title": "Ukraine's urgent fight on the financial frontline",
-      "summary": "The war-torn country is battling to secure crucial funding from the IMF and EU, as well as putting up taxes.",
-      "url": "https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-16T00:06:14+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine's urgent fight on the financial frontline"
-    },
-    {
-      "id": "93d3a525dd2ac04ec58f354f7762600b0cc311d6",
-      "title": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
-      "summary": "Volodymyr Zelensky says restoring the flow of Russian oil via Ukraine into the EU would be like lifting sanctions on Russia.",
-      "url": "https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-15T12:00:35+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "restoring the flow of Russian oil via Ukraine into the EU"
-    },
-    {
-      "id": "9b50486b56595b8169b4a1218e84d259555b58ea",
-      "title": "‘My dear son’: the Ukrainian soldier who came back from the dead",
-      "summary": "In 2023, what were thought to be Nazar Daletskyi’s remains were buried in his home village and his mother, Nataliia, visited the grave every week. Three years later, he spoke to her on the phoneNazar Daletskyi was declar…",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/mar/15/my-dear-son-the-ukrainian-soldier-who-came-back-from-the-dead-nazar-daletskyi",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-15T06:00:17+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukrainian soldier who volunteered for the front"
-    },
-    {
-      "id": "9dccaa80adeaf7911716ad705cc91fe6fc61c3c4",
-      "title": "Iran calls Ukraine ‘legitimate target’ over alleged drone support to Israel",
-      "summary": "Zelenskyy previously said that a group of 11 countries had sought Kyiv’s assistance in countering drones used in Tehran’s attacks",
-      "url": "https://www.euractiv.com/news/iran-calls-ukraine-legitimate-target-over-alleged-drone-support-to-israel/",
-      "source": "Euractiv",
-      "published_at": "2026-03-14T14:58:11+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Iran calls Ukraine ‘legitimate target’"
-    },
-    {
-      "id": "252842b7b910388c3f7d96d95d150a5e4d0a91e8",
-      "title": "Belgium’s De Wever calls for EU to negotiate with Russia for Ukraine peace",
-      "summary": "\"There is only one method left: making a deal,\" he said",
-      "url": "https://www.euractiv.com/news/belgiums-de-wever-calls-for-eu-to-negotiate-with-russia-for-ukraine-peace/",
-      "source": "Euractiv",
-      "published_at": "2026-03-14T14:11:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Belgium’s De Wever calls for EU to negotiate with Russia for Ukraine peace"
-    },
-    {
-      "id": "ba4d683c8858d45b1547f949b70520cbca771952",
-      "title": "For Russia, Trump’s sanctions pause means more money to fight Ukraine",
-      "summary": "The Kremlin hopes the Trump administration’s move to contain oil prices sent soaring by the U.S.-Israeli war on Iran will lead to further relief.",
-      "url": "https://www.washingtonpost.com/world/2026/03/14/russia-oil-sanction-iran-war-trump/",
-      "source": "World (Washington post)",
-      "published_at": "2026-03-14T09:00:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Trump’s sanctions pause means more money to fight Ukraine"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-18T10:11:39Z"
+  "last_updated": "2026-03-19T10:05:06Z"
 }

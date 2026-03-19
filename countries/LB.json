@@ -1,16 +1,82 @@
 {
   "country": "LB",
-  "score": 39,
+  "score": 36,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -1,
-  "sources": 106,
+  "trend": -3,
+  "sources": 113,
   "sentiment": {
     "positive": 1,
-    "neutral": 20,
-    "negative": 85
+    "neutral": 22,
+    "negative": 90
   },
   "latest_articles": [
+    {
+      "id": "c371fe5f28c218084b34c6f51ea33737b7c6abf3",
+      "title": "A Lebanese Cafe on the Edge of Destruction",
+      "summary": "Near the center of Beirut, one image captures the aftermath of an Israeli strike.",
+      "url": "https://www.nytimes.com/2026/03/18/world/middleeast/lebanon-cafe-israel-strike-image.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-19T09:19:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Near the center of Beirut"
+    },
+    {
+      "id": "eccab04df68787c2c36be2418b2764409c21d397",
+      "title": "Iran To Lebanon To Iraq: Heavy Casualties Reported Amid US-Israel-Iran War",
+      "summary": "Countries including Syria and Oman have also reported deaths linked to Iranian missile or drone attacks.",
+      "url": "https://www.ndtv.com/world-news/iran-to-lebanon-to-iraq-heavy-casualties-reported-amid-us-israel-iran-war-middle-east-conflict-11236817#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-19T07:08:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Heavy Casualties Reported Amid US-Israel-Iran War"
+    },
+    {
+      "id": "6f5d6f9d2b71b6e768947c95d1dfbe68dc24b49d",
+      "title": "As Missiles And Drones Rule Skies, Gulf Countries Prepare For Eid On Friday",
+      "summary": "A family breaks their fast in a shelter in Lebanon.",
+      "url": "https://www.ndtv.com/world-news/middle-east-war-as-missiles-and-drones-rule-skies-gulf-countries-prepare-for-eid-on-friday-11236040#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-19T07:05:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "family breaks their fast in a shelter in Lebanon"
+    },
+    {
+      "id": "ff3498a66c802f69edaa569aa0d652cb3b4e46a4",
+      "title": "EU calls on Israel to stop Lebanon operations",
+      "summary": "Lebanon was drawn into the Middle East war on March 2 when Hezbollah militants launched rockets at Israel",
+      "url": "https://www.euractiv.com/news/eu-calls-on-israel-to-stop-lebanon-operations/",
+      "source": "Euractiv",
+      "published_at": "2026-03-19T04:49:06+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Lebanon was drawn into the Middle East war"
+    },
+    {
+      "id": "215b88a670c2b1f47dbc004f84a26936711667fd",
+      "title": "Israel Intensifies Strikes on Beirut, Escalating Its Campaign Against Hezbollah",
+      "summary": "The Israeli military widened its attacks to the districts in the center of the Lebanese capital, destroying buildings, forcing residents to flee and killing at least 10.",
+      "url": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-beirut-lebanon-hezbollah.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-19T00:47:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "districts in the center of the Lebanese capital, destroying buildings"
+    },
+    {
+      "id": "836fe0af30f0c8691b41adfb88cac75b4a39d024",
+      "title": "Israel strikes Iran’s South Pars gasfield hours after forces kill intelligence minister",
+      "summary": "Death confirmed of Esmail Khatib, the third senior Iranian figure killed in 24 hours, as Israel also launches intense airstrikes on LebanonMiddle East crisis – live updatesExplainer: why attacks on gasfields are a major…",
+      "url": "https://www.theguardian.com/world/2026/mar/18/iran-intelligence-minister-esmail-khatib-killed-israel-claims",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-18T19:25:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "launched some of the most intense airstrikes in Beirut for decades."
+    },
     {
       "id": "90bb9c7ac26f8bb44efe1a32930d9d927bfa49ba",
       "title": "Hezbollah ignites blowback from its base as over 1 million flee war with Israel",
@@ -32,6 +98,17 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "Airstrikes rocked the Lebanese capital"
+    },
+    {
+      "id": "2895fb5021ccf2e95d8c1ac0055fd87ea15a3a05",
+      "title": "Gone In 6 Seconds. On Camera, Beirut Building Falls After Israeli Strike",
+      "summary": "The Israeli military said on Wednesday that it had begun striking Hezbollah targets in southern Lebanon.",
+      "url": "https://www.ndtv.com/world-news/at-least-6-killed-in-israel-strikes-on-central-beirut-says-lebanon-11231127#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-18T08:57:30+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Beirut Building Falls After Israeli Strike"
     },
     {
       "id": "210b07f912c47838a21d73df436b17c7c2886513",
@@ -153,85 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Lebanese health officials say that 31 health workers have been killed"
-    },
-    {
-      "id": "9caabded8edbcbb6a79f7be2cee195ab8a9f8f27",
-      "title": "Lebanon’s Displaced Flee Israeli Strikes One Year Into War",
-      "summary": "Israeli calls for the evacuation of huge swaths of southern Lebanon have led 830,000 people, about 14 percent of Lebanon’s population, to flee.",
-      "url": "https://www.nytimes.com/2026/03/14/world/middleeast/lebanon-beirut-israel-displaced.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-14T16:49:24+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Lebanon’s Displaced Flee Israeli Strikes"
-    },
-    {
-      "id": "a95fe89464f0877a3ec0e562cc4f15f36336087d",
-      "title": "Israeli strike kills 12 healthcare workers in southern Lebanon",
-      "summary": "The facility was attacked on Friday night, bringing the toll of medical staff to 31 killed in past 12 daysMiddle East crisis – live updatesIsrael killed 12 medical workers in a strike on a medical centre in south Lebanon…",
-      "url": "https://www.theguardian.com/world/2026/mar/14/lebanon-israeli-rockets-kill-healthcare-workers",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-14T15:34:29+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Israeli strike kills 12 healthcare workers in southern Lebanon"
-    },
-    {
-      "id": "0eb05ee7f8f87a4f7c2436c82bdc48ce8b616cba",
-      "title": "Macron urges Israel to hold ‘direct talks’ with Lebanon",
-      "summary": "\"France is ready to facilitate these talks by hosting them in Paris,\" he said",
-      "url": "https://www.euractiv.com/news/macron-urges-israel-to-hold-direct-talks-with-lebanon/",
-      "source": "Euractiv",
-      "published_at": "2026-03-14T14:21:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "Macron urges Israel to hold ‘direct talks’ with Lebanon"
-    },
-    {
-      "id": "6ac86ba2a220bd2ee71823a2e2ccee2a8b943598",
-      "title": "Israel's strike kills 12 medical workers at Lebanon clinic amid escalating Middle East conflict",
-      "summary": "An Israeli strike in southern Lebanon killed 12 medical workers at a healthcare center. Another strike killed two paramedics. Lebanon is drawn deeper into the regional conflict. Israel warned of increasing consequences f…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/israels-strike-kills-12-medical-workers-at-lebanon-clinic-amid-escalating-middle-east-conflict/articleshow/129567808.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-14T02:32:08+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel's strike kills 12 medical workers at Lebanon clinic"
-    },
-    {
-      "id": "a9393c527a9a3848a0a4dfe7a72163df8a2d2848",
-      "title": "Family of Michigan synagogue suspect killed in Lebanon airstrike, officials say",
-      "summary": "The FBI said the suspect had large quantities of fireworks and petrol in his vehicle when it caught fire after ramming a synagogue on Thursday.",
-      "url": "https://www.bbc.com/news/articles/cdxz0jpzk4do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-13T23:36:41+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "suspect killed in Lebanon airstrike"
-    },
-    {
-      "id": "d0a90daadbdcfbfd4a88a4aef0997a128f60ea24",
-      "title": "First photo released of man who rammed car into Michigan Jewish preschool",
-      "summary": "A naturalized US citizen from Lebanon, Ayman Ghazali, rammed his car, laden with mortar shells, into a Jewish pre-K in Michigan. Security guards intervened, stopping him from causing further harm. The attack followed the…",
-      "url": "https://timesofindia.indiatimes.com/world/us/first-photo-released-of-man-who-rammed-car-into-michigan-jewish-preschool/articleshow/129564529.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-13T21:04:53+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Hezbollah terrorists, in Lebanese airstrikes"
-    },
-    {
-      "id": "e7853981ffeefb0f9ab78329f38bcc81d63c20c9",
-      "title": "Israel Drops Leaflets on Beirut with Reminders of Gaza War",
-      "summary": "Leaflets dropped over the capital referenced Israel’s “success in Gaza” and urged Lebanese citizens to disarm Hezbollah.",
-      "url": "https://www.nytimes.com/2026/03/13/world/middleeast/israeli-leaflets-over-beirut-invoke-gazas-destruction-and-stoke-fear.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-13T18:57:12+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Israel Drops Leaflets on Beirut"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-18T10:11:39Z"
+  "last_updated": "2026-03-19T10:05:06Z"
 }

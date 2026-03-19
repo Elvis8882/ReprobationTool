@@ -1,16 +1,27 @@
 {
   "country": "MD",
-  "score": 100,
+  "score": 87,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 6,
+  "trend": -13,
+  "sources": 7,
   "sentiment": {
     "positive": 4,
     "neutral": 2,
-    "negative": 0
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "6d5992c34a090e3a9985248de30f838fde47a97d",
+      "title": "Water supply cut in Moldova after oil spill blamed on Russian strike in Ukraine",
+      "summary": "Moldova has imposed a 15-day state of alert in the Dniester river basin as a precaution.",
+      "url": "https://www.bbc.com/news/articles/cwy98qnpg1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-17T16:10:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Water supply cut in Moldova after oil spill"
+    },
     {
       "id": "38b960dc1406c376a012858abd34a6d4c58f4707",
       "title": "Ukraine Dismantles EU Crypto Fraud Scheme, Arrests 11 Suspects - Odessa Journal",
@@ -79,5 +90,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-18T10:11:39Z"
+  "last_updated": "2026-03-19T10:05:06Z"
 }

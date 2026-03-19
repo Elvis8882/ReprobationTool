@@ -1,16 +1,27 @@
 {
   "country": "SY",
-  "score": 88,
+  "score": 87,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 40,
+  "trend": -1,
+  "sources": 41,
   "sentiment": {
     "positive": 3,
     "neutral": 19,
-    "negative": 18
+    "negative": 19
   },
   "latest_articles": [
+    {
+      "id": "eccab04df68787c2c36be2418b2764409c21d397",
+      "title": "Iran To Lebanon To Iraq: Heavy Casualties Reported Amid US-Israel-Iran War",
+      "summary": "Countries including Syria and Oman have also reported deaths linked to Iranian missile or drone attacks.",
+      "url": "https://www.ndtv.com/world-news/iran-to-lebanon-to-iraq-heavy-casualties-reported-amid-us-israel-iran-war-middle-east-conflict-11236817#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-19T07:08:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "deaths linked to Iranian missile or drone attacks"
+    },
     {
       "id": "3a9a5f7d91bdf9a0e013624d165e703160994634",
       "title": "Syrian ex-colonel in court on crimes against humanity charge",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "transferred out of Syrian prisons and into Iraqi custody"
-    },
-    {
-      "id": "2f6c445e507216750fff2a2c17e1625e08745065",
-      "title": "US to withdraw troops from Syria as tensions mount with Iran",
-      "summary": "The decision came as US President Donald Trump ramps up military presence in the Middle East as tensions mount with Iran.",
-      "url": "https://www.bbc.com/news/articles/c875pey8vy2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-19T01:14:47+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "US to withdraw troops from Syria"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-18T10:11:39Z"
+  "last_updated": "2026-03-19T10:05:06Z"
 }

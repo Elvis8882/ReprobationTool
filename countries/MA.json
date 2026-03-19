@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 7,
+  "sources": 8,
   "sentiment": {
     "positive": 0,
     "neutral": 5,
-    "negative": 2
+    "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "75b83591e84a642ccdc1decec234c40f3c8d97eb",
+      "title": "EU farming lobby pushes to reopen contentious Morocco deal",
+      "summary": "Pressure mounts over imports and safeguards for EU producers",
+      "url": "https://www.euractiv.com/news/eu-farming-lobby-pushes-to-reopen-contentious-morocco-deal/",
+      "source": "Euractiv",
+      "published_at": "2026-03-18T14:48:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "contentious Morocco deal"
+    },
     {
       "id": "1101291de187dc71f28cc556e3beb46257bb3e91",
       "title": "Afcon 2025: Morocco declared the winners after CAF overturns final defeat to Senegal - BBC",
@@ -90,5 +101,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-18T10:11:39Z"
+  "last_updated": "2026-03-19T10:05:06Z"
 }

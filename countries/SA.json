@@ -1,16 +1,38 @@
 {
   "country": "SA",
-  "score": 85,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 101,
+  "trend": -1,
+  "sources": 103,
   "sentiment": {
     "positive": 1,
     "neutral": 79,
-    "negative": 21
+    "negative": 23
   },
   "latest_articles": [
+    {
+      "id": "d971415841beb8011bb529fb37cc7c2266167340",
+      "title": "With Hormuz Shut, Saudi's Yanbu Is Gulf's Only Oil Hope. It's Being Attacked",
+      "summary": "The key energy facility received minimal impact in the attack",
+      "url": "https://www.ndtv.com/world-news/saudi-aramcos-samref-refinery-in-yanbu-targeted-in-aerial-attack-report-11237192#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-19T08:38:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Saudi's Yanbu Is Gulf's Only Oil Hope. It's Being Attacked"
+    },
+    {
+      "id": "dccb5b4c160f7c44a328b7a432a39f95efe28bad",
+      "title": "'Patience Is Limited': Saudi Threatens To Join Gulf War Amid Iran's Attacks",
+      "summary": "Saudi said Iran's justifications for targeting its neighbours are 'unconvincing.'",
+      "url": "https://www.ndtv.com/world-news/iran-war-news-live-gulf-states-have-significant-capabilities-saudis-big-warning-to-iran-11236925#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-19T07:41:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Saudi Threatens To Join Gulf War"
+    },
     {
       "id": "6872f29b4998830d8f63fd5799b9cf20c35a0848",
       "title": "Opinion: Opinion | Behind Trump's Iran War Is A Saudi 'Equation' Few Can See",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Saudi intercepts drone headed to Shaybah oil field"
-    },
-    {
-      "id": "57ad531adc5460cc3a3a9e613648818292042b6c",
-      "title": "Iran war threatens catastrophic consequences for the oil market, Aramco CEO says",
-      "summary": "Saudi Aramco beats profit estimates and keeps $85 billion payouts as oil prices surge again.",
-      "url": "https://www.cnbc.com/2026/03/10/saudi-aramco-2025-earnings-q4-profit-beat-oil-war.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-03-10T08:19:38+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Saudi Aramco beats profit estimates"
-    },
-    {
-      "id": "9d1981a408761c65df2dab039ac8777423d55d2f",
-      "title": "U.S. orders more diplomats to leave Middle East",
-      "summary": "The State Department’s most recent directives apply to personnel in Turkey and Saudi Arabia, underscoring the ongoing threat posed by Iranian counterattacks.",
-      "url": "https://www.washingtonpost.com/national-security/2026/03/09/us-diplomats-middle-east-iran/",
-      "source": "World (Washington post)",
-      "published_at": "2026-03-09T22:54:25+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "personnel in Saudi Arabia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-18T10:11:39Z"
+  "last_updated": "2026-03-19T10:05:06Z"
 }
