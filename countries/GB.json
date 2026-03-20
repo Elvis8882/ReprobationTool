@@ -1,16 +1,104 @@
 {
   "country": "GB",
-  "score": 42,
+  "score": 41,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
-  "sources": 602,
+  "trend": -1,
+  "sources": 610,
   "sentiment": {
     "positive": 68,
-    "neutral": 410,
-    "negative": 124
+    "neutral": 416,
+    "negative": 126
   },
   "latest_articles": [
+    {
+      "id": "2ad0232a42ba805a1ec734c20bc90423bdba345f",
+      "title": "THE HACK: How to clean up Big Tech business models?",
+      "summary": "In today's edition: Google Search DMA probe, UK 4chan fine, Belgium's 'dag' to WhatsApp",
+      "url": "https://www.euractiv.com/news/the-hack-how-to-clean-up-big-tech-business-models/",
+      "source": "Euractiv",
+      "published_at": "2026-03-20T08:19:49+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "UK 4chan fine"
+    },
+    {
+      "id": "70e23c910cf546543ee2998b1c0c78d696e44880",
+      "title": "UK borrowing rises unexpectedly to £14.3bn in February",
+      "summary": "Data comes amid increasing fears that Iran war could send British government’s plans off courseBusiness live – latest updatesBritain’s public finances showed a higher than expected monthly deficit of £14.3bn last month,…",
+      "url": "https://www.theguardian.com/business/2026/mar/20/uk-borrowing-rises-unexpectedly-in-february",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-20T08:02:14+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "UK borrowing rises unexpectedly... fears that Iran war could send British government’s plans off course"
+    },
+    {
+      "id": "4c544aa1dc64df83e5f1adb4d598177a2f62d306",
+      "title": "Attorney general asks if Kemi Badenoch would object to Jewish public prayer",
+      "summary": "Exclusive: Richard Hermer, who is Jewish, says Tory leader and shadow minister seem ‘to only have an issue with Muslim events’Richard Hermer, the attorney general, has challenged Kemi Badenoch to say whether she would ob…",
+      "url": "https://www.theguardian.com/politics/2026/mar/20/attorney-general-richard-hermer-kemi-badenoch-public-prayer",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-20T07:05:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Conservative leader backed one of her shadow ministers who said an Islamic prayer event was intimidating and un-British."
+    },
+    {
+      "id": "d21e2e69d31df74e4b8c15372027ded9327e8676",
+      "title": "Friday briefing: What the Covid inquiry reveals about the NHS – and why it should worry us",
+      "summary": "In today’s newsletter: Bereaved families say the latest findings confirm long-standing concerns about capacity, care and political choicesGood morning. Yesterday lunchtime the UK Covid-19 inquiry published its latest fin…",
+      "url": "https://www.theguardian.com/world/2026/mar/19/friday-briefing-what-the-covid-inquiry-reveals-about-the-nhs-and-where-it-failed",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-20T06:51:30+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "future of the British bases on the island"
+    },
+    {
+      "id": "da1404913daa9057969350f053e403a8a6399219",
+      "title": "More than 70 UK councils failed to issue single fine for littering last year",
+      "summary": "Exclusive: Lack of enforcement is allowing people to drop rubbish with complete impunity, says Clean Up BritainScores of councils across the UK have in effect ended enforcement of fines for littering, while others are le…",
+      "url": "https://www.theguardian.com/environment/2026/mar/20/uk-councils-littering-fines-data-clean-up-britain-campaign",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-20T06:00:12+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "More than 70 UK councils failed to issue single fine for littering"
+    },
+    {
+      "id": "daab2bb79883358d07fe0f30394390696b720c55",
+      "title": "U.K. Advisers Sent to U.S. to Help Develop Options to Reopen Strait of Hormuz",
+      "summary": "The move comes after President Trump sharply criticized Prime Minister Keir Starmer for not supporting his initial military strikes on Iran.",
+      "url": "https://www.nytimes.com/2026/03/19/world/middleeast/uk-us-strait-of-hormuz-reopening-plans.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-20T01:31:18+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "U.K. Advisers Sent to U.S. to Help Develop Options to Reopen Strait of Hormuz"
+    },
+    {
+      "id": "769df3032b1a0c5b526df957a2af24e95260954b",
+      "title": "Why UK governing Labour's Brexit focus has shifted from Leavers to Remainers",
+      "summary": "Will the pursuit of a closer relationship with the EU risk courting electoral disaster by alienating Brexit-backing voters?",
+      "url": "https://www.bbc.com/news/articles/c4gjn1d74jlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-20T00:01:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "Why UK governing Labour's Brexit focus has shifted from Leavers to Remainers"
+    },
+    {
+      "id": "b338b4239d3fc1a79f08b8372e9de93ba045b62d",
+      "title": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
+      "summary": "UK’s bilateral aid to African countries, which funds areas such as schools and clinics, to be cut by almost £900m by 2028-29Some of the world’s poorest countries will lose out on UK aid that funds programmes such as scho…",
+      "url": "https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-19T18:46:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "poorest countries to lose UK aid due to 56% budget cut"
+    },
     {
       "id": "4bd56c5186912ef531f61caad426fdbdf821eff5",
       "title": "Khan says Labour should rejoin EU customs union and single market this parliament – UK politics live",
@@ -142,96 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "involved in discussions with the US and European allies over escorting"
-    },
-    {
-      "id": "5cda7d7710bf830c567007bf8cc79ba8af359b22",
-      "title": "Canada in push for joint G7 and Middle East effort to de-escalate Iran war",
-      "summary": "Foreign minister Anita Anand says she has drafted principles to reduce risk of regional spillover and wider shocksMiddle East crisis – live updatesCanada is pushing for a collective G7 and Middle East approach to de-esca…",
-      "url": "https://www.theguardian.com/world/2026/mar/18/canada-in-push-for-joint-g7-and-middle-east-effort-to-de-escalating-iran-war",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-18T18:38:09+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "In London to meet the UK foreign secretary"
-    },
-    {
-      "id": "625b9bbb08b8fc3991d3a26c678f032dbab955e6",
-      "title": "Farage called for release of Sean ‘Diddy’ Combs and praised effort to free drug trafficker",
-      "summary": "Reform UK leader was paid to make remarks about imprisoned rapper and ex-Honduran president in Cameo videosNewly unearthed Nigel Farage videos reveal support for rioter, neo-Nazi event and far-right slogansNigel Farage c…",
-      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/mar/18/farage-called-release-sean-diddy-combs-praised-effort-free-drug-trafficker",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-18T16:00:43+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "praised effort to free drug trafficker"
-    },
-    {
-      "id": "2c7fc9a75673bc127f75a507a9b5d44be0455c92",
-      "title": "Britain, Rwanda in €116m court clash over migrant deal",
-      "summary": "Officials from the two countries clashed in the Permanent Court of Arbitration in The Hague on Wednesday",
-      "url": "https://www.euractiv.com/news/britain-rwanda-in-e116m-court-clash-over-migrant-deal/",
-      "source": "Euractiv",
-      "published_at": "2026-03-18T10:33:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Britain, Rwanda in €116m court clash over migrant deal"
-    },
-    {
-      "id": "6376fbd44fa356b4f6c17cd9ce1daa5bb93d413b",
-      "title": "Burnham says Labour should listen to Angela Rayner after she warns party ‘running out of time’ to deliver change – UK politics live",
-      "summary": "Greater Manchester mayor says the party ‘would always do well to listen to what Angela has got to say’This is from Aubrey Allegretti from the Times, quoting an unnamed Labour MP furious about Angela Rayner’s speech.Rayne…",
-      "url": "https://www.theguardian.com/politics/live/2026/mar/18/angela-rayner-andy-burnham-labour-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-18T09:35:43+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "UK politics live"
-    },
-    {
-      "id": "15ea964281172958b19239e414344d165a7e2f61",
-      "title": "HelloFresh hit by sales slump as people lose appetite for meal kits",
-      "summary": "German food delivery firm’s share price has plummeted by 93% since 2021 boom during Covid lockdownsHelloFresh has reported a sharp decline in sales as the struggling food delivery company battles falling demand after the…",
-      "url": "https://www.theguardian.com/business/2026/mar/18/hellofresh-sales-decline-meal-kits",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-18T09:33:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "forced to make 900 UK job cuts last year"
-    },
-    {
-      "id": "48b75bcf33290c7be799c5aa80a7e79d269ce3da",
-      "title": "Andy Burnham says Labour would ‘do well to listen’ to Angela Rayner",
-      "summary": "Greater Manchester mayor adds to Rayner’s criticism of planned immigration changes, which she has called ‘un-British’UK politics live – latest updatesAndy Burnham has backed stark criticism of the direction of Keir Starm…",
-      "url": "https://www.theguardian.com/politics/2026/mar/18/andy-burnham-angela-rayner-labour-immigration-plans",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-18T08:51:53+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "planned immigration changes, which she has called ‘un-British’"
-    },
-    {
-      "id": "cabb0f2772d1eb010d4fbc29873eddc7b49d22c3",
-      "title": "GB News faces complaints after commentator claims ‘genocide’ against white people in UK",
-      "summary": "Thomas Corbett-Dillon, who claims to have advised Boris Johnson, says immigrants could ‘turn’ on white populationGB News is facing a backlash after a commentator on one of its shows suggested there is “a genocide happeni…",
-      "url": "https://www.theguardian.com/media/2026/mar/18/gb-news-faces-complaints-after-commentator-claims-genocide-against-white-people-in-uk",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-18T08:46:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "commentator claims ‘genocide’ against white people"
-    },
-    {
-      "id": "ea6190f5e8e2cbd601ca232d6886109792882c74",
-      "title": "Number of meningitis cases investigated in Kent rises to 20 - The Guardian",
-      "summary": "Number of meningitis cases investigated in Kent rises to 20&nbsp;&nbsp;The GuardianFive new cases of meningitis in Kent, UK Health Security Agency confirms&nbsp;&nbsp;BBCWes Streeting: Speed of meningitis outbreak worrie…",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNTlyanBrUmQ2am5MOFM5Z253V2V2WmhEYzc0V1FORHZEY3dLYUlkaFlmYS12WFB1YUJrVjlsbnZBU1I3VlFWdHlQVXFvcE1rUERQVXo0Tk5VdFBoRGdrZU00dVRUVk14OS1ENHNiRG5kWWNMdE1sbXNrazQzRzZPV2RXS2ppbVF6N1lLQU9WTlR1NVVYaDRWeFk5WWhaN2E1XzlQNXMtVUhZSnpl?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-18T08:27:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "meningitis cases investigated in Kent"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-19T10:05:06Z"
+  "last_updated": "2026-03-20T10:02:25Z"
 }

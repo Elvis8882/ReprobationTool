@@ -1,16 +1,27 @@
 {
   "country": "TN",
   "score": 55,
-  "score_label": "Negative",
-  "assessment": "High negative coverage",
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 2,
+  "sources": 3,
   "sentiment": {
     "positive": 0,
-    "neutral": 1,
+    "neutral": 2,
     "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "dcb224a13b0c93fe10bc4a0b08c24c526f346d1c",
+      "title": "Indian film board blocks release of Oscar-nominated Gaza drama The Voice of Hind Rajab",
+      "summary": "Distributor says authorities warned screening Tunisian film-maker Kaouther Ben Hania’s docudrama could harm India–Israel relationsThe Indian release of The Voice of Hind Rajab, the Oscar-nominated Tunisian film about the…",
+      "url": "https://www.theguardian.com/film/2026/mar/19/indian-film-board-blocks-release-of-oscar-nominated-gaza-drama-the-voice-of-hind-rajab",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-19T17:24:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Tunisian film-maker Kaouther Ben Hania’s docudrama"
+    },
     {
       "id": "6215e890453b4dd76012ae57a45fd2ba7372d431",
       "title": "Tunisian MP jailed for eight months over posts mocking president",
@@ -35,5 +46,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-19T10:05:06Z"
+  "last_updated": "2026-03-20T10:02:25Z"
 }

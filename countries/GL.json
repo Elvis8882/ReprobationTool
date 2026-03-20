@@ -1,16 +1,27 @@
 {
   "country": "GL",
-  "score": 64,
+  "score": 63,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 37,
+  "trend": -1,
+  "sources": 38,
   "sentiment": {
     "positive": 4,
     "neutral": 25,
-    "negative": 8
+    "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "d3b9052b19e11b160df5b4a3ff787401bb66ffbb",
+      "title": "Denmark considered destroying Greenland runways amid fears of US attack",
+      "summary": "Europe scrambled as fears grew over potential US move",
+      "url": "https://www.euractiv.com/news/denmark-considered-destroying-greenland-runways-amid-fears-of-us-attack/",
+      "source": "Euractiv",
+      "published_at": "2026-03-19T11:41:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "destroying Greenland runways amid fears of US attack"
+    },
     {
       "id": "d2e1e7c97aa2c512fee2bae118f7e92f1c10e348",
       "title": "Nordic Leaders Praise Carney as They Discuss Arctic Security",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Northern lights set to glow over Alaska, Canada and Greenland this week"
-    },
-    {
-      "id": "a349edc409702a9453cac6ff84300ff1fc117a32",
-      "title": "Here’s How the U.S. Accepted Danish Control of Greenland 100 Years Ago.",
-      "summary": "In 1917, the United States bought Caribbean islands from Denmark and agreed to respect Denmark’s hold over Greenland. The deal resurfaced with President Trump’s recent threats to seize Greenland.",
-      "url": "https://www.nytimes.com/2026/02/04/world/americas/what-to-know-us-west-indies-greenland-history-denmark.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-04T10:01:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "U.S. Accepted Danish Control of Greenland 100 Years Ago"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-19T10:05:06Z"
+  "last_updated": "2026-03-20T10:02:25Z"
 }

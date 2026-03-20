@@ -4,13 +4,35 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 15,
+  "sources": 17,
   "sentiment": {
     "positive": 1,
-    "neutral": 5,
-    "negative": 9
+    "neutral": 6,
+    "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "e6dcabe341a45d7f30f47d419333bf2be359f648",
+      "title": "Lukashenko Jailed Her in Belarus, but She Wants the World to Talk to Him",
+      "summary": "Maria Kalesnikava is campaigning for the West to engage with the regime in Belarus that imprisoned her for more than five years.",
+      "url": "https://www.nytimes.com/2026/03/20/world/europe/maria-kalesnikava-lukashenko-belarus.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-20T09:14:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Lukashenko Jailed Her in Belarus, but She Wants the World to Talk to Him"
+    },
+    {
+      "id": "75b6746e4fa933eed034cc288ca63de76744a1c6",
+      "title": "U.S. Lifts Fertilizer Sanctions on Belarus as Iran War Causes Price Surge",
+      "summary": "The Trump administration made the move in exchange for Belarus’s freeing of 250 political prisoners, part of a rapprochement between the two countries.",
+      "url": "https://www.nytimes.com/2026/03/19/world/europe/belarus-prisoners-fertilizer-potash-sanctions.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-19T19:02:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "U.S. Lifts Fertilizer Sanctions on Belarus"
+    },
     {
       "id": "a9b17046c268e74a97bf4eac6bdde41bcd5254e9",
       "title": "Trump's envoy Coale meets Belarus leader Lukashenko, seeking to win more prisoner releases - marketscreener.com",
@@ -178,5 +200,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-19T10:05:06Z"
+  "last_updated": "2026-03-20T10:02:25Z"
 }

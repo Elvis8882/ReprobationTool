@@ -15,8 +15,20 @@
     "RU",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-03-19T10:05:06+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-20T10:02:25+00:00",
+  "sentiment_by_country": {
+    "RU": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Russia has launched such drones against Ukraine for years."
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.6,
+      "evidence": "200 Ukrainian Experts in Middle East to Help Fight Drones"
+    }
+  },
+  "processed_at": "2026-03-20T10:02:25+00:00"
 }

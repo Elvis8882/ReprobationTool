@@ -3,14 +3,36 @@
   "score": 100,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": null,
-  "sources": 6,
+  "trend": 0,
+  "sources": 8,
   "sentiment": {
-    "positive": 0,
-    "neutral": 6,
+    "positive": 1,
+    "neutral": 7,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "4a1b673b8733f3ed7b4020ba43d93e3a832aa87b",
+      "title": "Patriarch Ilia II, a Spiritual Symbol of Stability in Georgia, Dies at 93",
+      "summary": "The longest-serving leader in the history of the Georgian Orthodox Church, he helped guide his country in its transition from Soviet repression to modern statehood.",
+      "url": "https://www.nytimes.com/2026/03/19/world/europe/patriarch-ilia-ii-dead.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-20T05:50:22+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Spiritual Symbol of Stability in Georgia"
+    },
+    {
+      "id": "2d26266971b543dac4fe7a67ad4c0b4585ff672e",
+      "title": "How the Iran War Narrowed Flight Corridors Between Europe and Asia",
+      "summary": "One of the few paths left between the two continents threads through Azerbaijan, Georgia and Turkey, as global conflicts complicate aviation logistics.",
+      "url": "https://www.nytimes.com/2026/03/20/world/europe/iran-war-airports-russia-flight-paths.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-20T04:01:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "threads through... Georgia"
+    },
     {
       "id": "e3cfc9d80a13fc8b7c158b4c36803b7ef39d923e",
       "title": "Charges dropped against Georgia teens whose teacher died during toilet paper prank",
@@ -79,5 +101,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-19T10:05:06Z"
+  "last_updated": "2026-03-20T10:02:25Z"
 }

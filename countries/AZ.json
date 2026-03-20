@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 10,
+  "sources": 11,
   "sentiment": {
     "positive": 1,
-    "neutral": 3,
+    "neutral": 4,
     "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "2d26266971b543dac4fe7a67ad4c0b4585ff672e",
+      "title": "How the Iran War Narrowed Flight Corridors Between Europe and Asia",
+      "summary": "One of the few paths left between the two continents threads through Azerbaijan, Georgia and Turkey, as global conflicts complicate aviation logistics.",
+      "url": "https://www.nytimes.com/2026/03/20/world/europe/iran-war-airports-russia-flight-paths.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-20T04:01:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "One of the few paths left between the two continents threads through Azerbaijan"
+    },
     {
       "id": "a90b59635f728efd234a6d1bfd40d8a7c4ac7d87",
       "title": "The Caspian Sea: A ‘lake’ so huge it outsizes Japan and touches five nations",
@@ -123,5 +134,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-19T10:05:06Z"
+  "last_updated": "2026-03-20T10:02:25Z"
 }

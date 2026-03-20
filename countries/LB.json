@@ -1,16 +1,38 @@
 {
   "country": "LB",
-  "score": 36,
+  "score": 34,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -3,
-  "sources": 113,
+  "trend": -2,
+  "sources": 115,
   "sentiment": {
     "positive": 1,
     "neutral": 22,
-    "negative": 90
+    "negative": 92
   },
   "latest_articles": [
+    {
+      "id": "641ef0d0fa62ea497cd8d4f17fa3c38add1463ab",
+      "title": "Video: Reporter Narrowly Escapes Israeli Missile That Lands Next To Him In Lebanon",
+      "summary": "Steve Sweeney and his cameraman Ali Rida were both injured in the blast.",
+      "url": "https://www.ndtv.com/world-news/middle-east-war-video-reporter-narrowly-escapes-israeli-missile-that-lands-next-to-him-in-lebanon-11242017#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-20T07:06:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Israeli Missile That Lands Next To Him In Lebanon"
+    },
+    {
+      "id": "b161542ea561f21f4f926460eb36b641f62a2c1f",
+      "title": "Watch: Missile lands next to presenter during live report from Lebanon",
+      "summary": "In footage from Russian state broadcaster RT, correspondent Steve Sweeney is seen diving off screen as a missile hits.",
+      "url": "https://www.bbc.com/news/videos/ce9mz0gl8z7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-19T16:00:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Missile lands next to presenter during live report from Lebanon"
+    },
     {
       "id": "c371fe5f28c218084b34c6f51ea33737b7c6abf3",
       "title": "A Lebanese Cafe on the Edge of Destruction",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Israeli strikes continued to hit the capitals of Iran and Lebanon"
-    },
-    {
-      "id": "2b69b6fef10a000fd2ebc2bde5bc743f47801c23",
-      "title": "France pushes Lebanon-Israel recognition as Beirut moves against Iranian influence",
-      "summary": "Lebanon's step represent one of the most significant challenges to Hezbollah and its Iranian backers in years",
-      "url": "https://www.euractiv.com/news/france-pushes-lebanon-israel-recognition-as-beirut-moves-against-iranian-influence/",
-      "source": "Euractiv",
-      "published_at": "2026-03-14T20:19:48+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.5,
-      "evidence": "Lebanon's step represent one of the most significant challenges to Hezbollah"
-    },
-    {
-      "id": "df35a3dfb629653dd3417cf0cc2665c1ae42f69d",
-      "title": "Dozens of Medical Workers Killed as Israel Hits Lebanon",
-      "summary": "Lebanese health officials say that 31 health workers have been killed by Israeli strikes. Israel claimed, without evidence, that Hezbollah has been using ambulances and medical facilities.",
-      "url": "https://www.nytimes.com/2026/03/14/world/middleeast/lebanon-medical-workers-killed.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-14T18:14:25+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Lebanese health officials say that 31 health workers have been killed"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-19T10:05:06Z"
+  "last_updated": "2026-03-20T10:02:25Z"
 }
