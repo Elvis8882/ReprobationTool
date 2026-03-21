@@ -1,16 +1,27 @@
 {
   "country": "CH",
-  "score": 79,
+  "score": 81,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 46,
+  "trend": 2,
+  "sources": 47,
   "sentiment": {
-    "positive": 8,
+    "positive": 9,
     "neutral": 35,
     "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "1e9c1113d27f19271c4deebcebe0e363d5906861",
+      "title": "Switzerland Blocks Arms Sales to U.S. Over Iran War",
+      "summary": "Swiss law prohibits selling war materiel to countries involved in armed conflict, a policy the country has already cited to block sales to Israel and Iran.",
+      "url": "https://www.nytimes.com/2026/03/20/world/middleeast/switzerland-halts-arms-sales-us.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-20T20:34:06+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Switzerland Blocks Arms Sales... to countries involved in armed conflict"
+    },
     {
       "id": "285c0d81f727868d411c0b8f670046bcfc2cfae9",
       "title": "Switzerland refuses US overflights linked to Middle East war",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Swiss claim first four-man medal in 20 years"
-    },
-    {
-      "id": "f7e5aa05b6ee7409010a2c213542a0640ddd0146",
-      "title": "Swiss centenarians show youthful blood protein profiles in aging study - News-Medical",
-      "summary": "Swiss centenarians show youthful blood protein profiles in aging study&nbsp;&nbsp;News-Medical",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUY3VUUxejdPbHViUkNCVDFGRXFldU1hamtEQllXeTJDcktSZG5JQlB3UDdSd211cGVVV1N6dkJLdllNbWVUVk9lRzUwUF85TU5qS0hDSTJHd3JtSkpHWV9CdXpXTWV0WXZ6RDlSMlZaTVJxUFg3ZjR6eHBPRFo4ZkNoTnFGd1RTY2xmMUM1MmlkZFEwSXRLUldaUmZrMmV2eFhKRXRHQ1ZHal9rdWhRdVk2ejBmY1l2SUE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-02-24T09:17:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Swiss centenarians show youthful blood protein profiles"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-20T10:02:25Z"
+  "last_updated": "2026-03-21T09:48:00Z"
 }

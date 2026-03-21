@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 82,
+  "score": 81,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 68,
+  "trend": -1,
+  "sources": 69,
   "sentiment": {
     "positive": 2,
     "neutral": 38,
-    "negative": 28
+    "negative": 29
   },
   "latest_articles": [
+    {
+      "id": "c84bfb7b9a24f20033a4d8b040ef3ffdb6c1f236",
+      "title": "NATO Pulls Last Military Trainers From Iraq Amid Strikes From Iran",
+      "summary": "The NATO mission, created in 2018, trained and advised Iraqi forces. Iraq is among the countries facing retaliatory attacks from the U.S.-Israeli war.",
+      "url": "https://www.nytimes.com/2026/03/20/world/middleeast/nato-iraq.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-20T18:25:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "NATO Pulls Last Military Trainers From Iraq Amid Strikes From Iran"
+    },
     {
       "id": "eccab04df68787c2c36be2418b2764409c21d397",
       "title": "Iran To Lebanon To Iraq: Heavy Casualties Reported Amid US-Israel-Iran War",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "U.S. refueling plane crashes in Iraq"
-    },
-    {
-      "id": "5104356e171e079e2c95f91758eadd40f5c7d71e",
-      "title": "Rescue effort under way as US military refuelling plane crashes in Iraq",
-      "summary": "US Central Command officials say ‘incident occurred in friendly airspace during Operation Epic Fury’Middle East live blog – latest updatesPentagon tells lawmakers Iran war costs top $11.3bn – but true price unknownRescue…",
-      "url": "https://www.theguardian.com/us-news/2026/mar/12/us-military-aircraft-iraq-crash",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-13T07:05:10+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "US military refuelling plane crashes in Iraq"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-20T10:02:25Z"
+  "last_updated": "2026-03-21T09:48:00Z"
 }

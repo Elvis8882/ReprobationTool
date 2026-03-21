@@ -1,16 +1,38 @@
 {
   "country": "LB",
-  "score": 34,
+  "score": 33,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -2,
-  "sources": 115,
+  "trend": -1,
+  "sources": 117,
   "sentiment": {
     "positive": 1,
     "neutral": 22,
-    "negative": 92
+    "negative": 94
   },
   "latest_articles": [
+    {
+      "id": "b904b042e3de542c1288183cfed35ff1f683da3d",
+      "title": "Iran War Live Updates: Israel Launches Attacks in Lebanon as Iran Fires on U.S. Allies",
+      "summary": "The United States temporarily lifted sanctions on some Iranian oil in an effort to ease surging global oil prices.",
+      "url": "https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump",
+      "source": "NYT > World News",
+      "published_at": "2026-03-21T09:33:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel Launches Attacks in Lebanon"
+    },
+    {
+      "id": "1daefe96507afb4afd1f7c82adea52dbc17a0611",
+      "title": "Cyprus seeks coordination with ‘colonial’ British military bases",
+      "summary": "Tensions arose due to London’s handling of a drone strike carried out by Lebanon’s Hezbollah on the Akrotiri base",
+      "url": "https://www.euractiv.com/news/cyprus-seeks-coordination-with-colonial-british-military-bases/",
+      "source": "Euractiv",
+      "published_at": "2026-03-20T16:09:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "drone strike carried out by Lebanon’s Hezbollah"
+    },
     {
       "id": "641ef0d0fa62ea497cd8d4f17fa3c38add1463ab",
       "title": "Video: Reporter Narrowly Escapes Israeli Missile That Lands Next To Him In Lebanon",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "Lebanon's health ministry reported 826 deaths from Israeli strikes"
-    },
-    {
-      "id": "489a6b724f2f133d6785b4e72663ae529632fee4",
-      "title": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
-      "summary": "A relative tells BBC those killed were civilians and not Hezbollah operatives, but the Israel Defense Forces says it was targeting \"terrorist infrastructure\".",
-      "url": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-14T22:55:40+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Israeli strike on Lebanon that killed family"
-    },
-    {
-      "id": "9e158c7784f19ecb7c0acec64e624754237d5d99",
-      "title": "Here’s What Happened in the U.S.-Israel War With Iran on Saturday",
-      "summary": "The U.S. Embassy in Baghdad was attacked overnight. Israeli strikes continued to hit the capitals of Iran and Lebanon, as Iran refused to relinquish control over a vital oil route.",
-      "url": "https://www.nytimes.com/2026/03/14/world/middleeast/iran-war-recap-kharg-island-oil.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-14T22:26:55+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Israeli strikes continued to hit the capitals of Iran and Lebanon"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-20T10:02:25Z"
+  "last_updated": "2026-03-21T09:48:00Z"
 }

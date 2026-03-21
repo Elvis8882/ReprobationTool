@@ -4,13 +4,123 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 770,
+  "sources": 783,
   "sentiment": {
-    "positive": 22,
-    "neutral": 220,
-    "negative": 534
+    "positive": 23,
+    "neutral": 225,
+    "negative": 541
   },
   "latest_articles": [
+    {
+      "id": "b904b042e3de542c1288183cfed35ff1f683da3d",
+      "title": "Iran War Live Updates: Israel Launches Attacks in Lebanon as Iran Fires on U.S. Allies",
+      "summary": "The United States temporarily lifted sanctions on some Iranian oil in an effort to ease surging global oil prices.",
+      "url": "https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump",
+      "source": "NYT > World News",
+      "published_at": "2026-03-21T09:33:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Israel Launches Attacks in Lebanon"
+    },
+    {
+      "id": "94f997c92f9015de3a00883fb68a5e11d66763fb",
+      "title": "Trump Signals Retreat From Goal of Regime Change in Iran",
+      "summary": "In the first days of the U.S.-Israeli campaign against Iran, Mr. Trump pressed for a popular uprising against Tehran’s government.",
+      "url": "https://www.nytimes.com/2026/03/20/world/middleeast/trump-winding-down-iran-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-21T01:17:12+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "U.S.-Israeli campaign against Iran"
+    },
+    {
+      "id": "202927835002618ffd9d83112a4c6cd726d08ad8",
+      "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
+      "summary": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
+      "url": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-20T22:34:05+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "US and Israel launched its operation"
+    },
+    {
+      "id": "e0eb92847fadcde8a6ceb626d4bc6b6bafd81897",
+      "title": "U.S. Attacks Iranian Targets to Try to Open Strait of Hormuz",
+      "summary": "The Israeli military said it had killed the spokesman for Iran’s Islamic Revolutionary Guards Corps, and Iran warned that it could target American and Israeli military personnel.",
+      "url": "https://www.nytimes.com/2026/03/20/world/middleeast/us-iran-strait-hormuz.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-20T22:17:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Israeli military said it had killed the spokesman"
+    },
+    {
+      "id": "1e9c1113d27f19271c4deebcebe0e363d5906861",
+      "title": "Switzerland Blocks Arms Sales to U.S. Over Iran War",
+      "summary": "Swiss law prohibits selling war materiel to countries involved in armed conflict, a policy the country has already cited to block sales to Israel and Iran.",
+      "url": "https://www.nytimes.com/2026/03/20/world/middleeast/switzerland-halts-arms-sales-us.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-20T20:34:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "block sales to Israel"
+    },
+    {
+      "id": "c84bfb7b9a24f20033a4d8b040ef3ffdb6c1f236",
+      "title": "NATO Pulls Last Military Trainers From Iraq Amid Strikes From Iran",
+      "summary": "The NATO mission, created in 2018, trained and advised Iraqi forces. Iraq is among the countries facing retaliatory attacks from the U.S.-Israeli war.",
+      "url": "https://www.nytimes.com/2026/03/20/world/middleeast/nato-iraq.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-20T18:25:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "retaliatory attacks from the U.S.-Israeli war"
+    },
+    {
+      "id": "32829f4386a953ea9c8312205c9f4377d1a4541b",
+      "title": "Hamas Considering Disarmament Plan From Trump’s Board of Peace, Officials Say",
+      "summary": "The proposal envisions a phased process, in which the militant group would hand over its weapons and Israeli troops would withdraw. Hamas is expected to respond in the coming days.",
+      "url": "https://www.nytimes.com/2026/03/20/world/middleeast/hamas-disarming-plan-board-of-peace-trump.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-20T18:10:57+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Israeli troops would withdraw"
+    },
+    {
+      "id": "872f533642626ff6cedfdcc137079f3ffb4831bc",
+      "title": "Israel strikes Syria after Druze clashes",
+      "summary": "Syria condemned the strikes on weapons sites and government infrastructure as an \"outrageous\" assault on Syria's sovereignty.",
+      "url": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-20T16:02:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Israel strikes Syria after Druze clashes"
+    },
+    {
+      "id": "6324705ffb0ae0449e3651a6f33bde3704a77b79",
+      "title": "Fire at Czech–Israeli defence site probed as possible terror attack",
+      "summary": "Responsibility was claimed in emails to Czech media by a previously unknown group calling itself The Earthquake Faction",
+      "url": "https://www.euractiv.com/news/fire-at-czech-israeli-defence-site-probed-as-possible-terror-attack/",
+      "source": "Euractiv",
+      "published_at": "2026-03-20T15:10:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Fire at Czech–Israeli defence site"
+    },
+    {
+      "id": "ad607e83fecf037a69bb3411997807e18fc4c551",
+      "title": "BNN IN FOCUS | “We support them, they support us” – political scientist on Latvia’s choice in the Hormuz issue - bnn-news.com",
+      "summary": "BNN IN FOCUS | “We support them, they support us” – political scientist on Latvia’s choice in the Hormuz issue&nbsp;&nbsp;bnn-news.comLatvia has not received invitations to join the operation in the Middle East - Rinkevi…",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeklBYUU2SmVGb0ZQMTlrOE53NExwenozVUVsQU8tMWY3TlNYRHlaWnVrZHpsRmRmZ3VNM21sUXZkbUpaa240eF9OVXVkMEFtakg4QkFKam40TGJXVEdQRXozcXVEcGoyblR2cFJ1bXF4X0djSWNiY0V0VURoZjd5aFVGNEpFVGlLeVpxd1YwamJiZlliZGlzZHVZZXFaZUsxbjJySXd6MDZTWVJQMGpaWll0cHdfZENKVXdPRGd0RUpVZDZmUVQ0ZEx3?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-20T12:27:42+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "U.S.-Israeli operation in Middle East"
+    },
     {
       "id": "9a81087d8b4f157591761b5fae9c04e8c015ce97",
       "title": "Iran War Live Updates: Oil Prices Retreat and More Attacks Are Reported",
@@ -100,6 +210,17 @@
       "evidence": "US-Israel-Iran war."
     },
     {
+      "id": "019c77cccc8295e9191186e0eff8fdff7e1e6109",
+      "title": "CNBC Daily Open: Netanyahu's 'ground component' warning",
+      "summary": "Factors playing into early trade include the threat of a \"ground component\" from Israel's Benjamin Netanyahu.",
+      "url": "https://www.cnbc.com/2026/03/20/cnbc-daily-open-netanyahus-ground-component-warning.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-03-20T08:28:24+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "threat of a \"ground component\" from Israel's Benjamin Netanyahu"
+    },
+    {
       "id": "44c2622a15f1e27260226b19b6ab28608aa1a91f",
       "title": "Australia PM Asked To \"Get Out\", Heckled At Mosque For Supporting Israel",
       "summary": "Australia PM Anthony Albanese visited Lakemba Mosque for Eid al-Fitr in Sydney.",
@@ -109,129 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Heckled At Mosque For Supporting Israel"
-    },
-    {
-      "id": "641ef0d0fa62ea497cd8d4f17fa3c38add1463ab",
-      "title": "Video: Reporter Narrowly Escapes Israeli Missile That Lands Next To Him In Lebanon",
-      "summary": "Steve Sweeney and his cameraman Ali Rida were both injured in the blast.",
-      "url": "https://www.ndtv.com/world-news/middle-east-war-video-reporter-narrowly-escapes-israeli-missile-that-lands-next-to-him-in-lebanon-11242017#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-03-20T07:06:12+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Israeli Missile That Lands Next To Him In Lebanon"
-    },
-    {
-      "id": "88806cb2d67cf543bba6eb95dffc9dd01fdec242",
-      "title": "‘The saddest day for Muslim worshippers in Jerusalem’: al-Aqsa mosque closed at Eid",
-      "summary": "Palestinians say the move is part of a wider Israeli strategy to leverage security tensions to tighten restrictionsFor the first time since 1967, al-Aqsa mosque – Jerusalem’s most sensitive holy site – will be closed at…",
-      "url": "https://www.theguardian.com/world/2026/mar/20/the-saddest-day-for-muslim-worshippers-in-jerusalem-al-aqsa-mosque-closed-at-eid",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-20T05:00:11+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israeli authorities keep the complex shut, forcing worshippers to hold Eid prayers"
-    },
-    {
-      "id": "ceb1f9a746e559c2f2fb6667395d3f1d6513bdde",
-      "title": "Australia PM heckled at Sydney mosque Ramadan event",
-      "summary": "The government's response to the Israel-Gaza war and rising Islamophobia has angered many Muslim Australians.",
-      "url": "https://www.bbc.com/news/articles/cz90wy2190go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-20T02:54:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Israel-Gaza war"
-    },
-    {
-      "id": "9bf37ed0840f983f7f29db1f03c5dad1ac7db674",
-      "title": "US-Israel-Iran War News Live Updates: Gulf energy sites continue to be targeted; Kuwait's key oil refinery hit again by Iranian drone",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-latest-news-middle-east-crisis-conflict-drone-ballistic-missile-attack-gulf-countries-dubai-qatar-news-donald-trump-netanyahu-strait-of-hormuz-lpg-tanker/liveblog/129690507.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-20T02:04:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Kuwait's key oil refinery hit again by Iranian drone"
-    },
-    {
-      "id": "95cf63c1ae419d8f55677f51d94560770576dbfe",
-      "title": "Japanese prime minister explains to Trump that her country cannot join his Iran war – as it happened",
-      "summary": "This live blog is now closed.Trump news at a glance: president claims ignorance of Israel’s plan to strike Iranian gasfield, exposing riftSign up for the Breaking US News US emailAnswering a reporter’s question on Iran’s…",
-      "url": "https://www.theguardian.com/us-news/live/2026/mar/19/donald-trump-iran-bondi-epstein-mullin-japan-takaichi-save-voter-id-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-20T01:59:49+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Trump claims ignorance of Israel’s plan to strike Iranian gasfield"
-    },
-    {
-      "id": "de92dcabde283d2bac81d17a0c1f32ed79f0a82a",
-      "title": "China has been preparing for a global energy crisis for years. It is paying off now",
-      "summary": "As other Asian economies race to conserve energy, China has huge reserves of oil and gas as well as alternative energy sources like wind and solarMiddle East crisis – live updatesXi Jinping has been preparing for a crisi…",
-      "url": "https://www.theguardian.com/world/2026/mar/20/china-oil-reserves-global-energy-crisis",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-20T01:14:34+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "US-Israel war on Iran plunged the Middle East into a deep conflict"
-    },
-    {
-      "id": "07ea2fbef89996438f3e8973f882fd82757c6125",
-      "title": "Inside the Riyadh meeting: What Arab and Muslim ministers agreed on as Iran war escalates",
-      "summary": "Arab and Muslim nations convened in Riyadh, issuing a unified call to condemn escalating attacks and defend sovereignty amid the Iran vs US-Israel conflict. Ministers stressed de-escalation and protecting energy infrastr…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/inside-riyadh-meeting-who-was-present-what-did-saudi-arabia-uae-qatar-trkiye-other-arab-and-muslim-ministers-agree-on-amid-iran-vs-us-israel-war/articleshow/129689995.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-20T01:12:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Iran vs US-Israel conflict."
-    },
-    {
-      "id": "c2e617920520eb26f8d804fa2c1f142819591f9e",
-      "title": "Trump’s Complaint About Israeli Strike on Gas Field Exposes Divergent Strategies",
-      "summary": "President Trump said he told Prime Minister Benjamin Netanyahu of Israel he disapproved of the attack, which sent energy markets reeling. But Israeli officials said the Americans were informed beforehand.",
-      "url": "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-20T00:39:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Israeli Strike on Gas Field Exposes Divergent Strategies... sent energy markets reeling"
-    },
-    {
-      "id": "ebb28581ae64c6284de4fcdf2212e4174ec98dab",
-      "title": "Trump Administration Faces Public Jitters as Oil Prices Surge Amid Iran War",
-      "summary": "President Trump and Prime Minister Benjamin Netanyahu of Israel suggested that the war with Iran could end soon, but that there were still more attacks ahead.",
-      "url": "https://www.nytimes.com/2026/03/19/world/middleeast/trump-oil-iran-war-mideast-japan.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-20T00:31:59+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Prime Minister Benjamin Netanyahu of Israel suggested that the war with Iran"
-    },
-    {
-      "id": "cd6c26cc5f125ab6121deaeef3f621d6ee66cb24",
-      "title": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
-      "summary": "What does Trump's Truth Social post after gas field attacks tell us about US-Israeli alignment?",
-      "url": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-19T23:19:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "US and Israel aligned on Iran war"
-    },
-    {
-      "id": "52c35bff4f73af67cd1d6d22ac5f5b01eeeda472",
-      "title": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
-      "summary": "Speaking at a news conference, the Israeli leader said Trump had requested that there be no further such attacks.",
-      "url": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-19T22:41:40+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-20T10:02:25Z"
+  "last_updated": "2026-03-21T09:48:00Z"
 }

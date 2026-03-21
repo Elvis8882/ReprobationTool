@@ -1,0 +1,41 @@
+{
+  "id": "1e9c1113d27f19271c4deebcebe0e363d5906861",
+  "title": "Switzerland Blocks Arms Sales to U.S. Over Iran War",
+  "summary_full": "Swiss law prohibits selling war materiel to countries involved in armed conflict, a policy the country has already cited to block sales to Israel and Iran.",
+  "summary_public": "Swiss law prohibits selling war materiel to countries involved in armed conflict, a policy the country has already cited to block sales to Israel and Iran.",
+  "url": "https://www.nytimes.com/2026/03/20/world/middleeast/switzerland-halts-arms-sales-us.html",
+  "published_at": "2026-03-20T20:34:06+00:00",
+  "source": "NYT > World News",
+  "language": "en",
+  "countries_detected": [
+    "CH",
+    "IL",
+    "IR"
+  ],
+  "countries_scored": [
+    "CH",
+    "IL",
+    "IR"
+  ],
+  "sentiment_by_country": {
+    "CH": {
+      "label": "positive",
+      "confidence": 0.7,
+      "evidence": "Switzerland Blocks Arms Sales... to countries involved in armed conflict"
+    },
+    "IL": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "block sales to Israel"
+    },
+    "IR": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Iran War... block sales to Israel and Iran"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-21T09:48:00+00:00",
+  "processed_at": "2026-03-21T09:48:00+00:00"
+}

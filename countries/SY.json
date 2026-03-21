@@ -1,16 +1,27 @@
 {
   "country": "SY",
-  "score": 87,
+  "score": 86,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 41,
+  "trend": -1,
+  "sources": 42,
   "sentiment": {
     "positive": 3,
     "neutral": 19,
-    "negative": 19
+    "negative": 20
   },
   "latest_articles": [
+    {
+      "id": "872f533642626ff6cedfdcc137079f3ffb4831bc",
+      "title": "Israel strikes Syria after Druze clashes",
+      "summary": "Syria condemned the strikes on weapons sites and government infrastructure as an \"outrageous\" assault on Syria's sovereignty.",
+      "url": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-20T16:02:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Syria condemned the strikes on weapons sites and government infrastructure"
+    },
     {
       "id": "eccab04df68787c2c36be2418b2764409c21d397",
       "title": "Iran To Lebanon To Iraq: Heavy Casualties Reported Amid US-Israel-Iran War",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Syria situation ‘distressing’ for children, but lays blame on parents"
-    },
-    {
-      "id": "926f73ffab3de978f79f9cb91a8d556905c978be",
-      "title": "Concerns suspected Australian IS fighters could face death penalty after mass prisoner transfer to Iraq",
-      "summary": "Dfat aware of Australians among 5,704 detainees transferred out of Syrian prisons and into Iraqi custodyGet our breaking news email, free app or daily news podcastA group of Australian men suspected of being former Islam…",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/19/concerns-suspected-australian-is-fighters-could-face-death-penalty-after-mass-prisoner-transfer-to-iraq",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-19T08:51:04+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "transferred out of Syrian prisons and into Iraqi custody"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-20T10:02:25Z"
+  "last_updated": "2026-03-21T09:48:00Z"
 }
