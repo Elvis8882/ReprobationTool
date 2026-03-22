@@ -1,16 +1,27 @@
 {
   "country": "JO",
-  "score": 64,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 9,
+  "score": 62,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": -2,
+  "sources": 10,
   "sentiment": {
     "positive": 1,
     "neutral": 6,
-    "negative": 2
+    "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "37ed40bf250e076b65c9b513a1ce977a14f4c514",
+      "title": "Trump Officials Bypass Congress to Sell Weapons to U.A.E., Kuwait and Jordan",
+      "summary": "Some of the proposed sales, valued at more than $23 billion, were under review, while others were never sent to Congress. The administration is pushing them through without congressional approval.",
+      "url": "https://www.nytimes.com/2026/03/20/us/politics/wartime-emergency-congress-weapons.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-20T20:06:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Sell Weapons to U.A.E., Kuwait and Jordan"
+    },
     {
       "id": "862fd8222e790ecc3ff64f17838c759776c1e2a4",
       "title": "Ukraine sent drone experts to protect US bases in Jordan, says Zelenskyy",
@@ -112,5 +123,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-21T09:48:00Z"
+  "last_updated": "2026-03-22T09:47:44Z"
 }

@@ -1,14 +1,14 @@
 {
   "country": "HU",
-  "score": 57,
+  "score": 56,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": -1,
-  "sources": 186,
+  "sources": 188,
   "sentiment": {
     "positive": 1,
-    "neutral": 129,
-    "negative": 56
+    "neutral": 130,
+    "negative": 57
   },
   "latest_articles": [
     {
@@ -136,6 +136,16 @@
       "sentiment_fallback": true
     },
     {
+      "id": "27049cc71200e9b5971e9384d70f545db274133c",
+      "title": "VOLTAGE: If not now, when? Europe grapples with energy transition",
+      "summary": "In today's edition: European Council, SAFs, EU ETS, Russian gas ban",
+      "url": "https://www.euractiv.com/news/voltage-if-not-now-when-europe-grapples-with-energy-transition/",
+      "source": "Euractiv",
+      "published_at": "2026-03-19T08:12:16+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "e6e7c2fe78bbc26f16242fdda84e35aca834b303",
       "title": "E.U. Loan for Ukraine Becomes Election Leverage for Orban",
       "summary": "European leaders are pushing Prime Minister Viktor Orban to stop blocking a €90 billion loan to Ukraine. But the issue is a rallying cry in remarkably close elections in Hungary set for April 12.",
@@ -145,6 +155,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Orban to stop blocking a €90 billion loan to Ukraine"
+    },
+    {
+      "id": "bc5610d95b7f2cf94e9151dd657b13d45908ee5a",
+      "title": "Hungary’s Orbán to face pressure over Ukraine loan veto at EU summit",
+      "summary": "Hungarian PM shows no sign of backing down while Volodymyr Zelenskyy urges EU to resolve disputeHungary’s prime minister, Viktor Orbán, will face pressure from other EU leaders to stop blocking a vital €90bn loan for Ukr…",
+      "url": "https://www.theguardian.com/world/2026/mar/19/hungary-orban-ukraine-loan-veto-eu-summit-europe",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-19T05:00:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Hungary’s Orbán... blocking a vital €90bn loan for Ukraine"
     },
     {
       "id": "88bd1961a4d0554e07b69164838c9296eaf4d575",
@@ -197,28 +218,8 @@
       "published_at": "2026-03-18T10:01:26+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "95bedf5d056d6bb1218bb0e441097d1a3e9e56fd",
-      "title": "Italy warns Russian tanker could explode in Mediterranean at any time",
-      "summary": "Italy is one of nine EU countries urging the European Commission to act over the Arctic Metagaz, drifting out of control in the Mediterranean Sea.",
-      "url": "https://www.bbc.com/news/articles/cn9e9dxw3e1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-17T19:21:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "b8987695b3bc450b604056f68441eb401e7719d3",
-      "title": "Improving Europe’s water quality – How can the revised UWWTD be implemented fairly and effectively? [Advocacy Lab]",
-      "summary": "On 1 January 2025, the revised Urban Wastewater Treatment Directive (UWWTD) entered into force. Through this initiative, the European Commission aims to protect human health and improve water quality, and hence the envir…",
-      "url": "https://www.euractiv.com/video/improving-europes-water-quality-how-can-the-revised-uwwtd-be-implemented-fairly-and-effectively/",
-      "source": "Euractiv",
-      "published_at": "2026-03-17T16:30:44+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-21T09:48:00Z"
+  "last_updated": "2026-03-22T09:47:44Z"
 }

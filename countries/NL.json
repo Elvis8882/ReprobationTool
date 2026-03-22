@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 169,
+  "sources": 171,
   "sentiment": {
     "positive": 14,
-    "neutral": 144,
+    "neutral": 146,
     "negative": 11
   },
   "latest_articles": [
+    {
+      "id": "2def16cbd2176037e902522838dd4089e500d2e7",
+      "title": "Senior European journalist suspended over AI-generated quotes",
+      "summary": "Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chiefThe publisher of the Dutch newspaper De Telegraaf and the Irish In…",
+      "url": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-20T16:13:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "the Dutch newspaper De Telegraaf"
+    },
     {
       "id": "7f6f6620146948e2b2bd3feadee84e7a09486067",
       "title": "Euro area international trade in goods deficit €1.9 bn - European Commission",
@@ -98,6 +109,16 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSXNVWXRNakRfMmwzQ0dNcGRFZ2hQV0lGX3BId0x0dUV1V2NWOXFZOGlBcnpwTUhmM3lJVWs0RHVZMUkzSnBERWxLNkJBeXB4WnNVbzBLamlmSi1Md0J5c1p2bWJndHF5UGM3Qy1zUnFUeUFVUWF1TGw1OGZfc3lBRjR3UF9DVUZzLWUyYkwycWNzZlFtTUttcnFtNlFqai1IZGt0TS1SNkRzRkxrc0RVUkxaZlVWS04yY2w4dEVmY200b002RW5DMA?oc=5",
       "source": "Top stories - Google News",
       "published_at": "2026-03-19T08:49:41+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "27049cc71200e9b5971e9384d70f545db274133c",
+      "title": "VOLTAGE: If not now, when? Europe grapples with energy transition",
+      "summary": "In today's edition: European Council, SAFs, EU ETS, Russian gas ban",
+      "url": "https://www.euractiv.com/news/voltage-if-not-now-when-europe-grapples-with-energy-transition/",
+      "source": "Euractiv",
+      "published_at": "2026-03-19T08:12:16+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -194,28 +215,8 @@
       "published_at": "2026-03-17T16:30:44+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "89dbe8452b8a1d2817535a264ccf71e1cdae8146",
-      "title": "Opening remarks by HRVP Kaja Kallas for the Structured Dialogue on the Commission Work Programme with the European Parliament’s Committee on Foreign Affairs - EEAS",
-      "summary": "Opening remarks by HRVP Kaja Kallas for the Structured Dialogue on the Commission Work Programme with the European Parliament’s Committee on Foreign Affairs&nbsp;&nbsp;EEASKallas Says Ukraine Must Remain Europe’s Top Sec…",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUk1Hd2I2MW5YWkFKMm1LeGktcE1ESlg0VUFKS3lwN3pyS0x1Q0JWVjZvcnpidW1UdVdWUzdHVWt6eUl3dkM5U3ZjdU90bDN3MUlyN2lqM0h0eGF1eXl3Vi1fWTBVR3V4SHZZSEZoR1dmMjZqTVR5T3JmMmswZjFReS1GVlJsMjJfVW80aWVjZGVJSGtlSTJZWGpDN0xmNzU4S3FEemZ4QjV3eTBIalo5R1RCRzdvbmVSVjZUZFhKWDc5VEdINUVzeGN0MlVVQTh0TFBlS19iLUR0clE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-17T15:51:12+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "b98ea57c48d5b6eeb9ccb600b0b0f18dd6f3f657",
-      "title": "Europe Has Helped the U.S. Protect Shipping. The Strait of Hormuz Is Different.",
-      "summary": "European Union ministers and leaders pushed back on ideas to protect the strait, including expanding a maritime operation already in place in the Red Sea.",
-      "url": "https://www.nytimes.com/2026/03/17/world/europe/operation-aspides-strait-hormuz.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-17T10:29:50+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-21T09:48:00Z"
+  "last_updated": "2026-03-22T09:47:44Z"
 }

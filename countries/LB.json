@@ -1,16 +1,49 @@
 {
   "country": "LB",
-  "score": 33,
+  "score": 30,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -1,
-  "sources": 117,
+  "trend": -3,
+  "sources": 122,
   "sentiment": {
     "positive": 1,
-    "neutral": 22,
-    "negative": 94
+    "neutral": 24,
+    "negative": 97
   },
   "latest_articles": [
+    {
+      "id": "9f8baadecf060f678e75b39ec4270ddff58ac4d0",
+      "title": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War",
+      "summary": "Thousands displaced by Israeli strikes on Lebanon’s capital now shelter along the promenade hugging the Mediterranean Sea. They share it with joggers, cyclists and dog walkers, alongside dizzying displays of wealth.",
+      "url": "https://www.nytimes.com/2026/03/22/world/middleeast/beirut-israel-war-displaced-corniche.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-22T09:01:08+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli strikes on Lebanon’s capital"
+    },
+    {
+      "id": "ae4fff662a3fd7e3b1490452a9c53c87bb97eb26",
+      "title": "Israel Strikes Across Lebanon Amid Fierce Ground Fighting in the South",
+      "summary": "The Israeli military said it was stepping up attacks aimed at infrastructure in Beirut belonging to Hezbollah.",
+      "url": "https://www.nytimes.com/2026/03/21/world/middleeast/heavy-storms-in-beirut-cap-a-morning-of-ongoing-israeli-strikes.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-21T17:35:03+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": ""
+    },
+    {
+      "id": "5e3644e162b5bb9e49ac1d1fd45300a11e741c86",
+      "title": "How the Litani River Shapes the Israel-Hezbollah War",
+      "summary": "The 90-mile waterway, back in focus amid Israel’s renewed offensive in Lebanon, could define how far the fighting spreads.",
+      "url": "https://www.nytimes.com/2026/03/21/world/middleeast/litani-river-israel-hezbollah-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-21T16:20:49+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Israel’s renewed offensive in Lebanon"
+    },
     {
       "id": "b904b042e3de542c1288183cfed35ff1f683da3d",
       "title": "Iran War Live Updates: Israel Launches Attacks in Lebanon as Iran Fires on U.S. Allies",
@@ -21,6 +54,28 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Israel Launches Attacks in Lebanon"
+    },
+    {
+      "id": "ac68ff89c24bcf68adec89961050f668f303fa83",
+      "title": "Israel deliberately targeting medical facilities in south Lebanon, say health workers",
+      "summary": "Medics and officials say there is systematic use of double-tap strikes in campaign to make the south uninhabitableMiddle East crisis – live updatesLebanese healthcare workers and officials say Israeli bombings have delib…",
+      "url": "https://www.theguardian.com/world/2026/mar/21/israel-targeting-medical-facilities-south-lebanon-health-workers",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-21T06:00:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "medical facilities in south Lebanon, killing 40 healthcare workers"
+    },
+    {
+      "id": "56562dafb81c19f4cfa067dd351c248a343dae21",
+      "title": "Israeli strike next to British journalist is not AI-generated",
+      "summary": "The video of the strike, hitting just metres from RT's Steve Sweeney and his crew, was recorded on Thursday in southern Lebanon.",
+      "url": "https://www.bbc.com/news/videos/c62k8xgjkggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-20T18:52:38+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "recorded on Thursday in southern Lebanon."
     },
     {
       "id": "1daefe96507afb4afd1f7c82adea52dbc17a0611",
@@ -175,63 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "de-escalation in Lebanon"
-    },
-    {
-      "id": "7984961ea5469c56b52e58778e07ca3c8e7f319d",
-      "title": "Here’s What Happened in the War in the Middle East on Monday",
-      "summary": "President Trump said he might postpone a trip to China to focus on the war. More than a million people have been displaced in Lebanon this month, according to the country’s health ministry.",
-      "url": "https://www.nytimes.com/2026/03/16/world/middleeast/iran-war-recap-lebanon-ground-invasion.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-17T03:24:35+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "More than a million people have been displaced in Lebanon"
-    },
-    {
-      "id": "3654ee2e141ae2625042c00325a3f9ba230a8450",
-      "title": "Israel’s Expanding Ground Assault in Lebanon Meets Resistance in Hilltop Town",
-      "summary": "The town of Khiam’s location on high ground just a few miles north of the border between Israel and Lebanon has made it coveted territory over multiple conflicts.",
-      "url": "https://www.nytimes.com/2026/03/16/world/middleeast/lebanon-strategic-town-khiam.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-16T18:53:51+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel’s Expanding Ground Assault in Lebanon Meets Resistance in Hilltop Town"
-    },
-    {
-      "id": "891d4432164b6f4e022fa3b08b19a8c6f15de751",
-      "title": "Michigan synagogue attacker's brother was Hezbollah commander, IDF says",
-      "summary": "US officials previously said the man accused of ramming a truck full of explosives into a synagogue had recently lost family in Lebanon.",
-      "url": "https://www.bbc.com/news/articles/c4gj1135x7ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-15T20:47:36+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "lost family in Lebanon"
-    },
-    {
-      "id": "db701f27c083d71028142311a4f4e233f58a0f8e",
-      "title": "Israel Says Michigan Synagogue Attacker’s Brother Was a Hezbollah Commander",
-      "summary": "The Israeli military said it killed the brother of Ayman Mohamad Ghazali in an airstrike in Lebanon a week before the attack on the synagogue.",
-      "url": "https://www.nytimes.com/2026/03/15/world/middleeast/israel-lebanon-michigan-synagogue-hezbollah.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-15T18:10:46+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "airstrike in Lebanon"
-    },
-    {
-      "id": "f59ea868616da01830881df3a847fdc04c239ab6",
-      "title": "Israel says Iran war entering 'decisive phase'",
-      "summary": "Middle East cities witnessed intense explosions as Israel declared its conflict with Iran entering a \"decisive phase.\" Strikes targeted the American embassy in Baghdad and a major Emirati energy facility. Lebanon's healt…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-says-iran-war-entering-decisive-phase/articleshow/129583490.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-15T00:23:19+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Lebanon's health ministry reported 826 deaths from Israeli strikes"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-21T09:48:00Z"
+  "last_updated": "2026-03-22T09:47:44Z"
 }

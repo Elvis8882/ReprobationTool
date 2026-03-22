@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 49,
+  "sources": 50,
   "sentiment": {
     "positive": 7,
-    "neutral": 33,
+    "neutral": 34,
     "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "125068eb682b291ff129291162a646403836abbe",
+      "title": "With Fire and Song, Kurds in Turkey Hail the Start of Spring",
+      "summary": "The Newroz holiday comes at a critical time, as Kurds in Turkey push for peace while their brethren in Syria and Iran fear further conflict.",
+      "url": "https://www.nytimes.com/2026/03/21/world/middleeast/kurds-turkey-newroz-iran.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-21T21:32:18+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "push for peace"
+    },
     {
       "id": "2d26266971b543dac4fe7a67ad4c0b4585ff672e",
       "title": "How the Iran War Narrowed Flight Corridors Between Europe and Asia",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "renewed Greece-Turkey tensions"
-    },
-    {
-      "id": "4dc4736a1cb552600d9316f339af5aed46e6a9f0",
-      "title": "Iran’s Friends Include China and Russia. But Where are They Now?",
-      "summary": "Iran maintains ties with a range of countries, including Turkey, India, Russia and China. Yet in this war, their support is mostly rhetoric.",
-      "url": "https://www.nytimes.com/2026/03/05/world/middleeast/iran-turkey-india-russia.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-05T10:04:24+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Iran maintains ties with a range of countries, including Turkey"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-21T09:48:00Z"
+  "last_updated": "2026-03-22T09:47:44Z"
 }

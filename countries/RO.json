@@ -1,16 +1,27 @@
 {
   "country": "RO",
-  "score": 71,
+  "score": 73,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 132,
+  "trend": 2,
+  "sources": 135,
   "sentiment": {
-    "positive": 6,
-    "neutral": 120,
+    "positive": 7,
+    "neutral": 122,
     "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "9ea3ef2d80b1f104d673f47d99a07267adc7e2be",
+      "title": "Iranian Man Arrested After Trying to Enter U.K. Naval Base, Police Say",
+      "summary": "The man and a Romanian woman walked up to the gate of the base in Scotland, where nuclear-armed submarines are docked, and asked to be let in, an official said.",
+      "url": "https://www.nytimes.com/2026/03/21/world/europe/iran-scotland-naval-base-clyde.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-21T12:20:26+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Romanian woman"
+    },
     {
       "id": "7f6f6620146948e2b2bd3feadee84e7a09486067",
       "title": "Euro area international trade in goods deficit €1.9 bn - European Commission",
@@ -98,6 +109,16 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSXNVWXRNakRfMmwzQ0dNcGRFZ2hQV0lGX3BId0x0dUV1V2NWOXFZOGlBcnpwTUhmM3lJVWs0RHVZMUkzSnBERWxLNkJBeXB4WnNVbzBLamlmSi1Md0J5c1p2bWJndHF5UGM3Qy1zUnFUeUFVUWF1TGw1OGZfc3lBRjR3UF9DVUZzLWUyYkwycWNzZlFtTUttcnFtNlFqai1IZGt0TS1SNkRzRkxrc0RVUkxaZlVWS04yY2w4dEVmY200b002RW5DMA?oc=5",
       "source": "Top stories - Google News",
       "published_at": "2026-03-19T08:49:41+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "27049cc71200e9b5971e9384d70f545db274133c",
+      "title": "VOLTAGE: If not now, when? Europe grapples with energy transition",
+      "summary": "In today's edition: European Council, SAFs, EU ETS, Russian gas ban",
+      "url": "https://www.euractiv.com/news/voltage-if-not-now-when-europe-grapples-with-energy-transition/",
+      "source": "Euractiv",
+      "published_at": "2026-03-19T08:12:16+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -190,29 +211,8 @@
       "published_at": "2026-03-16T19:40:07+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "e8f09a40411de892df436f7a44cf8afbb0d2f626",
-      "title": "Von der Leyen suggests easing CO2 price paid by industrial polluters",
-      "summary": "European Commission president asks EU leaders to consider a 'more realistic decarbonisation trajectory'",
-      "url": "https://www.euractiv.com/news/von-der-leyen-suggests-easing-co2-price-paid-by-industrial-polluters/",
-      "source": "Euractiv",
-      "published_at": "2026-03-16T16:44:36+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "34d8ec4e66609eabe0c9955b8d6f9e09e02cb316",
-      "title": "Ensuring fiscal sustainability, improving competitiveness and boosting employment are key for Romania to sustain strong and resilient growth - OECD",
-      "summary": "Ensuring fiscal sustainability, improving competitiveness and boosting employment are key for Romania to sustain strong and resilient growth&nbsp;&nbsp;OECDOECD Economic Surveys: Romania 2026&nbsp;&nbsp;OECDOECD: Ensurin…",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWDdMemJsT1RVZV90Wl9aRUhscDlUalF4ZVllVHhYdFJ0OHVzQy0zNUkxTVZrX1c5anZkUFVUTWRFandNa29wV0x1Nl9nVmE1azNLUkl4Tm5kdVV1SGhjWTQ0SEFOQzNwY1NYMXQwZDdZWHh6NGZ4N0pJel9JWjBhQzJMd1pWNGsta0hNNUgwZ2h4MzJaTFhFdE5GRUNFUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-16T10:53:07+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "strong and resilient growth - OECD"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-21T09:48:00Z"
+  "last_updated": "2026-03-22T09:47:44Z"
 }

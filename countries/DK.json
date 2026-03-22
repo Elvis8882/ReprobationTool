@@ -1,16 +1,38 @@
 {
   "country": "DK",
-  "score": 97,
+  "score": 96,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 160,
+  "trend": -1,
+  "sources": 163,
   "sentiment": {
     "positive": 10,
-    "neutral": 140,
-    "negative": 10
+    "neutral": 142,
+    "negative": 11
   },
   "latest_articles": [
+    {
+      "id": "c281bb1154c93558e6527fc88cc5b088177a45e9",
+      "title": "More British teenagers stranded abroad as result of new rules on dual nationals",
+      "summary": "Cases emerge after other people tell of change in Home Office policy on passports that has left people scramblingTwo more British teenagers have found themselves unable to return to the UK because of new Home Office bord…",
+      "url": "https://www.theguardian.com/politics/2026/mar/21/british-teenagers-stranded-abroad-dual-national-rules-home-office-passports",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-21T07:00:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "schoolgirl was blocked from boarding a flight in Denmark home"
+    },
+    {
+      "id": "54b4f39c8030edb69f82f3102c56a7b9f6e804cd",
+      "title": "Denmark Was Ready to Blow Up Airfields to Stop a U.S. Invasion of Greenland",
+      "summary": "The Danes brought blood supplies, explosives and live ammunition to Greenland as part of contingency plans in case President Trump acted on his threats to seize the island.",
+      "url": "https://www.nytimes.com/2026/03/20/world/europe/denmark-blow-up-greenland-runways-us-invasion.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-20T19:09:17+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Ready to Blow Up Airfields to Stop a U.S. Invasion"
+    },
     {
       "id": "7f6f6620146948e2b2bd3feadee84e7a09486067",
       "title": "Euro area international trade in goods deficit €1.9 bn - European Commission",
@@ -125,6 +147,16 @@
       "sentiment_fallback": true
     },
     {
+      "id": "27049cc71200e9b5971e9384d70f545db274133c",
+      "title": "VOLTAGE: If not now, when? Europe grapples with energy transition",
+      "summary": "In today's edition: European Council, SAFs, EU ETS, Russian gas ban",
+      "url": "https://www.euractiv.com/news/voltage-if-not-now-when-europe-grapples-with-energy-transition/",
+      "source": "Euractiv",
+      "published_at": "2026-03-19T08:12:16+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "88bd1961a4d0554e07b69164838c9296eaf4d575",
       "title": "Move fast and break things: von der Leyen’s method under scrutiny",
       "summary": "If politics is the art of the possible, no one told the European Commission president",
@@ -183,38 +215,8 @@
       "published_at": "2026-03-17T15:51:12+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "b98ea57c48d5b6eeb9ccb600b0b0f18dd6f3f657",
-      "title": "Europe Has Helped the U.S. Protect Shipping. The Strait of Hormuz Is Different.",
-      "summary": "European Union ministers and leaders pushed back on ideas to protect the strait, including expanding a maritime operation already in place in the Red Sea.",
-      "url": "https://www.nytimes.com/2026/03/17/world/europe/operation-aspides-strait-hormuz.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-17T10:29:50+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "4740a60ddecc250ec1febad790f88cce9e82eaba",
-      "title": "Race for Paris mayor on knife’s edge after first round",
-      "summary": "Dati is due to appear in court in September, charged with corruption between 2010 and 2012 when she was a member of the European Parliament",
-      "url": "https://www.euractiv.com/news/race-for-paris-mayor-on-knifes-edge-after-first-round/",
-      "source": "Euractiv",
-      "published_at": "2026-03-17T08:15:32+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "c2020aacb6155e6a7716af1bd055bde30216fc9d",
-      "title": "EU calls for urgent reboot in talks with UK to stop reset deal failing",
-      "summary": "Time is running out to find agreement on areas such as tuition fees EU citizens would pay in Britain and rules for food safetyThe EU is hoping to urgently reboot talks on the “reset” of relations with the UK as negotiati…",
-      "url": "https://www.theguardian.com/world/2026/mar/16/eu-urgent-reboot-uk-talks-stop-reset-deal-failing",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-16T19:40:07+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-21T09:48:00Z"
+  "last_updated": "2026-03-22T09:47:44Z"
 }
