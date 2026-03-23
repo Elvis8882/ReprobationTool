@@ -1,16 +1,27 @@
 {
   "country": "IT",
-  "score": 100,
+  "score": 99,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 309,
+  "trend": -1,
+  "sources": 312,
   "sentiment": {
     "positive": 28,
-    "neutral": 265,
-    "negative": 16
+    "neutral": 267,
+    "negative": 17
   },
   "latest_articles": [
+    {
+      "id": "fc76f52afb12280d5d82431a640aa834cf98f1ca",
+      "title": "Pro-EU liberals see narrow win in Slovenia as key Italian referendum enters final hours – Europe live",
+      "summary": "The result in Slovenia will relieve EU diplomats and means the incumbent will lead exploratory talks to form the next governmentIn an unexpected early morning football reference, Italy’s foreign minister Antonio Tajani a…",
+      "url": "https://www.theguardian.com/world/live/2026/mar/23/local-eu-elections-slovenia-italy-france-latest-updates-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-23T09:27:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Italy’s foreign minister Antonio Tajani also encouraged Italians to vote"
+    },
     {
       "id": "36e7f201713777ec75282a9c4ad06116b634e326",
       "title": "Meloni v the judges: high stakes for Italian PM in vote on judiciary overhaul",
@@ -32,6 +43,28 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "referendum to overhaul Italy’s judiciary... could hurt Prime Minister"
+    },
+    {
+      "id": "a6b915b2b95f2235deec24e031bd4c4e004edf2e",
+      "title": "Italy is voting on whether to change its constitution. What does this mean for Meloni?",
+      "summary": "The dry subject matter of this weekend's vote seems obscure but for many it is a vote on the PM.",
+      "url": "https://www.bbc.com/news/articles/cm29n1lvp64o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-22T00:10:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Italy is voting on whether to change its constitution."
+    },
+    {
+      "id": "370585c95736d3ed9466cb749f21e228b41fff0c",
+      "title": "Umberto Bossi, Fiery Founder of Italian Separatist Party, Dies at 84",
+      "summary": "A charismatic populist, he channeled the anger of a disaffected North, arguing — in inflammatory oratory — for secession and railing against a tide of migrants.",
+      "url": "https://www.nytimes.com/2026/03/21/world/europe/umberto-bossi-dead.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-21T16:00:52+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "railing against a tide of migrants."
     },
     {
       "id": "a98819d33510dd29323f7286a0b212fe4f23b4e0",
@@ -185,39 +218,8 @@
       "published_at": "2026-03-18T10:15:58+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "7e033ba0780989cc13b320e1f963f8b24ca1b225",
-      "title": "Energy in Europe: imports dependency - European Commission",
-      "summary": "Energy in Europe: imports dependency&nbsp;&nbsp;European Commission42% of Bulgaria’s Energy in 2024 Came from Imports, Compared with 57% EU-Wide&nbsp;&nbsp;БТАCyprus energy dependence exposed amid Middle East tensions&nb…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zc0pyOHd2MFloNDUxd3RFbTBGb3A2N0tqTHpVOUw1cExBcnBEUV9TN0dab2ZpNFVUV1I1ZXJrT19HejFCdTFYS3pac1ZaZWhyV05CQjlWeWhTSEotZ1BCZ3EtLW5lNG9Wbm00alpRUGVGVVdId1cyb1NJaXRHUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-18T10:01:26+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "95bedf5d056d6bb1218bb0e441097d1a3e9e56fd",
-      "title": "Italy warns Russian tanker could explode in Mediterranean at any time",
-      "summary": "Italy is one of nine EU countries urging the European Commission to act over the Arctic Metagaz, drifting out of control in the Mediterranean Sea.",
-      "url": "https://www.bbc.com/news/articles/cn9e9dxw3e1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-17T19:21:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "Italy warns Russian tanker could explode in Mediterranean"
-    },
-    {
-      "id": "b8987695b3bc450b604056f68441eb401e7719d3",
-      "title": "Improving Europe’s water quality – How can the revised UWWTD be implemented fairly and effectively? [Advocacy Lab]",
-      "summary": "On 1 January 2025, the revised Urban Wastewater Treatment Directive (UWWTD) entered into force. Through this initiative, the European Commission aims to protect human health and improve water quality, and hence the envir…",
-      "url": "https://www.euractiv.com/video/improving-europes-water-quality-how-can-the-revised-uwwtd-be-implemented-fairly-and-effectively/",
-      "source": "Euractiv",
-      "published_at": "2026-03-17T16:30:44+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-22T09:47:44Z"
+  "last_updated": "2026-03-23T10:17:36Z"
 }

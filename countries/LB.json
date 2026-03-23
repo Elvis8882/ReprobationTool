@@ -1,16 +1,38 @@
 {
   "country": "LB",
-  "score": 30,
+  "score": 29,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -3,
-  "sources": 122,
+  "trend": -1,
+  "sources": 124,
   "sentiment": {
     "positive": 1,
     "neutral": 24,
-    "negative": 97
+    "negative": 99
   },
   "latest_articles": [
+    {
+      "id": "1f0e8a6d51857626620ae5187ff0873955fb8eb1",
+      "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
+      "summary": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
+      "url": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-22T20:23:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "fears in Lebanon that Israel is preparing for a large-scale"
+    },
+    {
+      "id": "392023d563843dc5a52c4f9a1506ce3c7ad4b04a",
+      "title": "Israel Orders Military to Intensify Demolitions in Southern Lebanon",
+      "summary": "Israel Katz, the defense minister, said he ordered troops to destroy more bridges and buildings in southern Lebanon, stoking worries that Israel was widening a military-controlled buffer zone there.",
+      "url": "https://www.nytimes.com/2026/03/22/world/middleeast/israel-lebanon-fighting-hezbollah.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-22T19:45:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel Orders Military to Intensify Demolitions in Southern Lebanon"
+    },
     {
       "id": "9f8baadecf060f678e75b39ec4270ddff58ac4d0",
       "title": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Beirut Building Falls After Israeli Strike"
-    },
-    {
-      "id": "210b07f912c47838a21d73df436b17c7c2886513",
-      "title": "Middle East crisis live: Israel claims it has killed Iran’s security chief Ali Larijani; south Lebanon residents urged to evacuate",
-      "summary": "Israel said it had killed the secretary of Iran’s supreme national security council in overnight strikes; a earlier warning to village residents in south Lebanon said the IDF will attack Hezbollah infrastructureEuropean…",
-      "url": "https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-17T09:39:20+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "south Lebanon residents urged to evacuate"
-    },
-    {
-      "id": "e473aaac1ead14b89d076f1b257c4ffc538805a8",
-      "title": "US embassy in Iraq hit by drone strike as several Western leaders call for de-escalation in Lebanon - BBC",
-      "summary": "US embassy in Iraq hit by drone strike as several Western leaders call for de-escalation in Lebanon&nbsp;&nbsp;BBCIran war: US embassy in Iraq struck as Israel bombs Beirut&nbsp;&nbsp;dw.comIran-US war latest: US embassy…",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5djJqR2YwSG5qVVVhSUZmekNOZHNtN29fdTBmal95Yldwb3I0TGpMZzNQZ0hmM29VaHJBV0lNeEJYcTBVX2V3UndmOTNJWEFCbTdKWA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-17T06:02:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "de-escalation in Lebanon"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-22T09:47:44Z"
+  "last_updated": "2026-03-23T10:17:36Z"
 }
