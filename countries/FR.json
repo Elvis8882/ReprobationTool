@@ -1,16 +1,89 @@
 {
   "country": "FR",
-  "score": 95,
+  "score": 96,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 367,
+  "trend": 1,
+  "sources": 375,
   "sentiment": {
-    "positive": 62,
-    "neutral": 265,
+    "positive": 63,
+    "neutral": 272,
     "negative": 40
   },
   "latest_articles": [
+    {
+      "id": "3572547423e1a2b7b4e58a666ed26107aabfe30e",
+      "title": "Europe Clinches Critical Mineral Access With Australian Trade Deal",
+      "summary": "The European Union and Australia have shaken hands on a trade deal that would improve access to aluminum, lithium and other critical minerals for the 27-nation bloc.",
+      "url": "https://www.nytimes.com/2026/03/24/world/europe/europe-australian-trade-deal.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-24T07:20:39+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "35db98564b60fbadbd1ba7ad1346caba8ff39b07",
+      "title": "Lionel Jospin, Who Helped Set France on Socialist Path, Dies at 88",
+      "summary": "As prime minister beginning in 1997, he introduced a national 35-hour workweek and oversaw the replacement of the franc with the euro.",
+      "url": "https://www.nytimes.com/2026/03/23/world/europe/lionel-jospin-dead.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-23T20:32:43+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "oversaw the replacement of the franc with the euro"
+    },
+    {
+      "id": "1c5407c324115a3037e16800719ff8bc84bcdee3",
+      "title": "Could Iranian missiles reach London and Paris?",
+      "summary": "Some experts say Iran may be able to launch missiles to hit London, but they would likely be shot down long before arriving and the risk is low.",
+      "url": "https://www.bbc.com/news/articles/cly73y5e788o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-23T16:45:52+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "reach London and Paris?"
+    },
+    {
+      "id": "4b28ebc3a6a7a3df35d575c765fd0c3288404d1d",
+      "title": "EU Parliament willing to compromise on automatic permits for defence factories",
+      "summary": "The EU and national governments are clashing over permit rules for defence factories",
+      "url": "https://www.euractiv.com/news/eu-parliament-willing-to-compromise-on-automatic-permits-for-defence-factories/",
+      "source": "Euractiv",
+      "published_at": "2026-03-23T15:51:13+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "d2800bdc795f481589076b31d2286cee3ecd183a",
+      "title": "From simplification to implementation – Boosting competitiveness and productivity across the EU [Advocacy Lab]",
+      "summary": "The European Commission is committed to making EU legislation more efficient and easier to implement, aiming to reduce administrative burdens by 25% overall and 35% for SMEs. This agenda is central to the Commission’s ef…",
+      "url": "https://www.euractiv.com/video/live-now-from-simplification-to-implementation-boosting-competitiveness-and-productivity-across-the-eu/",
+      "source": "Euractiv",
+      "published_at": "2026-03-23T15:30:58+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "66c333d681fbf9b4d06d7e94bf33acea548f3f97",
+      "title": "France's former Socialist Prime Minister Lionel Jospin dies at 88",
+      "summary": "Jospin was head of government from 1997 to 2002 and is credited with bringing in the 35-hour working week.",
+      "url": "https://www.bbc.com/news/articles/cp861v8mj8mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-23T11:29:26+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "France's former Socialist Prime Minister Lionel Jospin dies at 88"
+    },
+    {
+      "id": "fc9b94f9e282ee7db6264b3ba0aa7654dab531c4",
+      "title": "Daily News 23 / 03 / 2026 - European Commission",
+      "summary": "Daily News 23 / 03 / 2026&nbsp;&nbsp;European CommissionEU ramps up aid for Lebanon amid escalating violence, displacement crisis&nbsp;&nbsp;The Brussels TimesEU announces 458 million euros in humanitarian aid for Middle…",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZRm4xYm1JWjNCQTF5aWJ1RlNGY25JT1IzbTBST0pCWEIySDNnOGhueHNvaTZBUVZRT2ZRb1Rwdk9HZm5YV2I1V3pXLTZ5aThDWGd6YklwdjNZUEllSXRvdTR0X002c3RVVUphaUlsaFFGUQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-23T10:58:42+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "6a52ed1fc0198c9fdcf44df4a9caee041fef2b6f",
       "title": "French Far Right Falls Short of Statement Win in Yardstick Local Races",
@@ -21,6 +94,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Its results were mixed."
+    },
+    {
+      "id": "3d11734b96f488397676e6f827adae16c8cf2138",
+      "title": "Sports - Ligue 1: Lille defeat Marseille thanks to Giroud and close in on third place - France 24",
+      "summary": "Sports - Ligue 1: Lille defeat Marseille thanks to Giroud and close in on third place&nbsp;&nbsp;France 24Marseille vs Lille: Ligue 1 stats & head-to-head&nbsp;&nbsp;BBCOlivier Giroud, Ethan Nwaneri score, Mason Greenwoo…",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRFpkYzdTZE5HRkp5VmRySlpVTUlKOUdfZHduVmJJWjZrQXhjdWRpNkl5YWZmQ0J2aDZKamJ4ek01NUNSTVprNFJXeEV6NVk2MktpNjNNaWF5LUdnQnQ5SVE4TWRtd2dRUTRnN2hNdlRCNURKWmZmNEhFRDljTHFxc1hkM3dCVk9ueVY2WW1OWF96WG1zcFVNSXRhcXJEOUFnRWltVmdGQVQyZzd2Q1IyTFplbzRBanpUMzkydjNrZVR0WkNFTHlld0dyaENONTQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-23T06:35:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Ligue 1: Lille defeat Marseille"
     },
     {
       "id": "9735c0e2c84fa04e3bce780736bc8cfb174a5656",
@@ -141,92 +225,8 @@
       "published_at": "2026-03-20T10:07:30+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "3d970fa72d763bdab8cd147afdee6e3309d36340",
-      "title": "Forest growth in the EU outpaces harvesting - European Commission",
-      "summary": "Forest growth in the EU outpaces harvesting&nbsp;&nbsp;European CommissionForest growth in Cyprus exceeds logging, according to Eurostat&nbsp;&nbsp;ΚΥΠΕForest growth surpasses harvesting levels in most of EU&nbsp;&nbsp;T…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vdnA0Ry1hSDdUREVyOHBRN2ZLVks0aHFjQmZOcGlQQUFTNFJ6dHlUQ1NpV2RKX3lQbHk1NzBpYTE2YjVoWWFlQXlUZDFYOTdBWFA1TUdIZmNmUXNITVVnMjh2MjZPMFR2ZlQwOG1nczVMREhnMDVDeGZjTTQzUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-20T10:03:04+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "173c87651a032d4ce002bd817e6971670a301697",
-      "title": "Sailor's Fitness App Revealed French Aircraft Carrier's Real-Time Location",
-      "summary": "Macron gave a speech aboard the warship few days back",
-      "url": "https://www.ndtv.com/world-news/iran-war-news-how-sailors-run-exposed-french-aircraft-carriers-exact-location-amid-war-11241872#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-03-20T09:22:41+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Sailor's Fitness App Revealed French Aircraft Carrier's Real-Time Location"
-    },
-    {
-      "id": "809d97c0ebe7b3f25fd1ab51bb4e515a3f97999c",
-      "title": "WTO to examine EU complaint over China high-tech patents",
-      "summary": "The European Commission has accused China of pressuring innovative European high-tech companies into lowering their fees",
-      "url": "https://www.euractiv.com/news/wto-to-examine-eu-complaint-over-china-high-tech-patents/",
-      "source": "Euractiv",
-      "published_at": "2026-03-20T06:49:53+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "2293f8a7cc970b787b9d7847fffe59c2a701825f",
-      "title": "Italy, Germany and France offer help with Hormuz only after ceasefire",
-      "summary": "\"We express our deep concern about the escalating conflict,\" the allies' joint statement said",
-      "url": "https://www.euractiv.com/news/italy-germany-and-france-offer-help-with-hormuz-only-after-ceasefire/",
-      "source": "Euractiv",
-      "published_at": "2026-03-20T06:36:42+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Italy, Germany and France offer help with Hormuz only after ceasefire"
-    },
-    {
-      "id": "e2cc6a49527cefaa6f1be492e108da544123837e",
-      "title": "European Council: Doorstep remarks by High Representative Kaja Kallas - EEAS",
-      "summary": "European Council: Doorstep remarks by High Representative Kaja Kallas&nbsp;&nbsp;EEASKallas: \"The war in Ukraine is linked to events in the Middle East. Russia benefits from the situation.\"&nbsp;&nbsp;Agenzia NovaEU on t…",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdWNQNGpUSFJybmdRcS1PVlN4Y1poQUxydmVleERVMngzU0RjQzJHTFFKa185N2V0aUtyR0pFU2VRdDZsNEV4bl9iNFRzakVSQmhDTVhBbTI3YVNreGlqSDVKTGJJdWZvN0pDcVZpWmxLNVV4TUVZNXltTHJaSy1WeDlsblFIR0UyS2Z2aV92Y1lCd19JOUY5SWt3NE9OWWUwNXRxUUkweS16TTFhcDJKaFdndzhIak0?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-19T13:15:56+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "31b562dca444cda37bbac9dc5dd2884758fe86df",
-      "title": "Macron urges world to ‘return to reason’ as Iran war escalates",
-      "summary": "\"I think that everyone should calm down,\" the French president said",
-      "url": "https://www.euractiv.com/news/macron-urges-world-to-return-to-reason-as-iran-war-escalates/",
-      "source": "Euractiv",
-      "published_at": "2026-03-19T11:35:54+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Macron urges world to ‘return to reason’"
-    },
-    {
-      "id": "4497ce4a0e06f5ee2b18e44bc373c833ae46d1b6",
-      "title": "Paris Court of Appeal upholds refusal to block Shein",
-      "summary": "French government fails in bid to block the ecommerce platform after last year's child-like sex doll scandal",
-      "url": "https://www.euractiv.com/news/paris-court-of-appeal-upholds-refusal-to-block-shein/",
-      "source": "Euractiv",
-      "published_at": "2026-03-19T11:03:26+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Paris Court of Appeal upholds refusal to block Shein"
-    },
-    {
-      "id": "b5855e0bcbe526405d1ccecbfa1a2e202069a167",
-      "title": "47% of EU’s electricity came from renewables in 2025 - European Commission",
-      "summary": "47% of EU’s electricity came from renewables in 2025&nbsp;&nbsp;European CommissionIn 2025, renewable energy sources accounted for over 47% of the EU’s energy supply. Wind power leads the way&nbsp;&nbsp;ЭкоПолитикаCyprus…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93RUpjTy1wTXpjUGxVckdnTkoyeE5vcXl0ZERnanpxem5odGlqNWQxcE91bHNDMkFtWFVHb09FX2JLZi1zcHUyQjNWQjl0MUFnZ1dkVkJ4akNSZUdPSlZ3Z2NkRFhMcW5uQzkxYjZ5VmV0MGljNXhmS0duaUhrUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-19T10:03:44+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-23T10:17:36Z"
+  "last_updated": "2026-03-24T10:12:20Z"
 }

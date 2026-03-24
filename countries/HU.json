@@ -1,16 +1,89 @@
 {
   "country": "HU",
-  "score": 56,
+  "score": 55,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 188,
+  "trend": -1,
+  "sources": 195,
   "sentiment": {
     "positive": 1,
-    "neutral": 130,
-    "negative": 57
+    "neutral": 135,
+    "negative": 59
   },
   "latest_articles": [
+    {
+      "id": "af191efefd2196689e5ef0d254a0facefe013dbd",
+      "title": "FIREPOWER: NATO ‘unsurprised’ over report Hungarian leaks to Russia",
+      "summary": "Tanks, Permits, EU-Australia",
+      "url": "https://www.euractiv.com/news/firepower-nato-unsurprised-over-report-hungarian-leaks-to-russia/",
+      "source": "Euractiv",
+      "published_at": "2026-03-24T08:29:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Hungarian leaks to Russia"
+    },
+    {
+      "id": "3572547423e1a2b7b4e58a666ed26107aabfe30e",
+      "title": "Europe Clinches Critical Mineral Access With Australian Trade Deal",
+      "summary": "The European Union and Australia have shaken hands on a trade deal that would improve access to aluminum, lithium and other critical minerals for the 27-nation bloc.",
+      "url": "https://www.nytimes.com/2026/03/24/world/europe/europe-australian-trade-deal.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-24T07:20:39+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "85bf70c60aacbaf78b50daa9c2ff4f498774fcac",
+      "title": "Budapest picnic: Orbán rallies Europe’s far right as race tightens",
+      "summary": "Despite the confident rhetoric, the relaxed atmosphere contrasted with a far more uncertain political reality",
+      "url": "https://www.euractiv.com/news/budapest-picnic-orban-rallies-europes-far-right-as-race-tightens/",
+      "source": "Euractiv",
+      "published_at": "2026-03-24T05:00:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Orbán rallies Europe’s far right"
+    },
+    {
+      "id": "a8c0ff5a90827efeb60a169be05bb8865bc9b43d",
+      "title": "NATO ‘unsurprised’ over report Hungarian leaks to Russia",
+      "summary": "Budapest has emerged as an outlier among European allies due to its close ties to the Kremlin",
+      "url": "https://www.euractiv.com/news/nato-unsurprised-over-report-hungarian-leaks-to-russia/",
+      "source": "Euractiv",
+      "published_at": "2026-03-23T17:38:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Hungarian leaks to Russia"
+    },
+    {
+      "id": "4b28ebc3a6a7a3df35d575c765fd0c3288404d1d",
+      "title": "EU Parliament willing to compromise on automatic permits for defence factories",
+      "summary": "The EU and national governments are clashing over permit rules for defence factories",
+      "url": "https://www.euractiv.com/news/eu-parliament-willing-to-compromise-on-automatic-permits-for-defence-factories/",
+      "source": "Euractiv",
+      "published_at": "2026-03-23T15:51:13+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "d2800bdc795f481589076b31d2286cee3ecd183a",
+      "title": "From simplification to implementation – Boosting competitiveness and productivity across the EU [Advocacy Lab]",
+      "summary": "The European Commission is committed to making EU legislation more efficient and easier to implement, aiming to reduce administrative burdens by 25% overall and 35% for SMEs. This agenda is central to the Commission’s ef…",
+      "url": "https://www.euractiv.com/video/live-now-from-simplification-to-implementation-boosting-competitiveness-and-productivity-across-the-eu/",
+      "source": "Euractiv",
+      "published_at": "2026-03-23T15:30:58+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "fc9b94f9e282ee7db6264b3ba0aa7654dab531c4",
+      "title": "Daily News 23 / 03 / 2026 - European Commission",
+      "summary": "Daily News 23 / 03 / 2026&nbsp;&nbsp;European CommissionEU ramps up aid for Lebanon amid escalating violence, displacement crisis&nbsp;&nbsp;The Brussels TimesEU announces 458 million euros in humanitarian aid for Middle…",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZRm4xYm1JWjNCQTF5aWJ1RlNGY25JT1IzbTBST0pCWEIySDNnOGhueHNvaTZBUVZRT2ZRb1Rwdk9HZm5YV2I1V3pXLTZ5aThDWGd6YklwdjNZUEllSXRvdTR0X002c3RVVUphaUlsaFFGUQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-23T10:58:42+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "41b9035f14b23d1ba1ea9268aa2c486d2429cf74",
       "title": "To tilt Hungarian election, Russians proposed staging assassination attempt",
@@ -144,82 +217,8 @@
       "published_at": "2026-03-19T08:12:16+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "e6e7c2fe78bbc26f16242fdda84e35aca834b303",
-      "title": "E.U. Loan for Ukraine Becomes Election Leverage for Orban",
-      "summary": "European leaders are pushing Prime Minister Viktor Orban to stop blocking a €90 billion loan to Ukraine. But the issue is a rallying cry in remarkably close elections in Hungary set for April 12.",
-      "url": "https://www.nytimes.com/2026/03/19/world/europe/ukraine-hungary-orban-elections.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-19T07:00:07+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Orban to stop blocking a €90 billion loan to Ukraine"
-    },
-    {
-      "id": "bc5610d95b7f2cf94e9151dd657b13d45908ee5a",
-      "title": "Hungary’s Orbán to face pressure over Ukraine loan veto at EU summit",
-      "summary": "Hungarian PM shows no sign of backing down while Volodymyr Zelenskyy urges EU to resolve disputeHungary’s prime minister, Viktor Orbán, will face pressure from other EU leaders to stop blocking a vital €90bn loan for Ukr…",
-      "url": "https://www.theguardian.com/world/2026/mar/19/hungary-orban-ukraine-loan-veto-eu-summit-europe",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-19T05:00:59+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Hungary’s Orbán... blocking a vital €90bn loan for Ukraine"
-    },
-    {
-      "id": "88bd1961a4d0554e07b69164838c9296eaf4d575",
-      "title": "Move fast and break things: von der Leyen’s method under scrutiny",
-      "summary": "If politics is the art of the possible, no one told the European Commission president",
-      "url": "https://www.euractiv.com/news/move-fast-and-break-things-von-der-leyens-method-under-scrutiny/",
-      "source": "Euractiv",
-      "published_at": "2026-03-19T05:00:06+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "2d63fc34a5243b216068fe76ac48d11666c35761",
-      "title": "LIVE: EU leaders arrive in Brussels to talk Middle East, Ukraine, and energy",
-      "summary": "Initially billed as the summit to tackle Europe's industrial competitiveness, the leaders' meeting on Thursday will be overshadowed by a Hungary-Ukraine stand-off and the war in Iran",
-      "url": "https://www.euractiv.com/news/live-eu-leaders-to-discuss-middle-east-energy-prices-and-ukraine/",
-      "source": "Euractiv",
-      "published_at": "2026-03-18T16:38:56+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Hungary-Ukraine stand-off"
-    },
-    {
-      "id": "63c23574bd06654729395272a63abec789bc7003",
-      "title": "Orbán urges EU to return to ‘old harmony’ with Russia",
-      "summary": "His remarks come as Brussels is struggling to get Budapest on board to approve a €90 billion aid package to Ukraine",
-      "url": "https://www.euractiv.com/news/orban-urges-eu-to-return-to-old-harmony-with-russia/",
-      "source": "Euractiv",
-      "published_at": "2026-03-18T12:39:20+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "struggling to get Budapest on board to approve a €90 billion aid package"
-    },
-    {
-      "id": "c3d382625c973e5a804fada7806be5d1b2bb9cd5",
-      "title": "Daily News 18 / 03 / 2026 - European Commission",
-      "summary": "Daily News 18 / 03 / 2026&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sUkV2UnMyN3JZdlh4YlFpaU1pZkF1aTF1NktEc3Q4XzAzMC03YThtM0tHRGk1bWd4cV9qdmFKVWtTWjctQjdNR1hfaUtRYlo1YnMtWXBCczlHY2dxTlp1N2RPV2EzUEVURldnWVp2V1psZw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-18T10:15:58+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "7e033ba0780989cc13b320e1f963f8b24ca1b225",
-      "title": "Energy in Europe: imports dependency - European Commission",
-      "summary": "Energy in Europe: imports dependency&nbsp;&nbsp;European Commission42% of Bulgaria’s Energy in 2024 Came from Imports, Compared with 57% EU-Wide&nbsp;&nbsp;БТАCyprus energy dependence exposed amid Middle East tensions&nb…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zc0pyOHd2MFloNDUxd3RFbTBGb3A2N0tqTHpVOUw1cExBcnBEUV9TN0dab2ZpNFVUV1I1ZXJrT19HejFCdTFYS3pac1ZaZWhyV05CQjlWeWhTSEotZ1BCZ3EtLW5lNG9Wbm00alpRUGVGVVdId1cyb1NJaXRHUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-18T10:01:26+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-23T10:17:36Z"
+  "last_updated": "2026-03-24T10:12:20Z"
 }
