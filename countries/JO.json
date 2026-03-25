@@ -1,16 +1,27 @@
 {
   "country": "JO",
-  "score": 62,
+  "score": 61,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 11,
+  "trend": -1,
+  "sources": 12,
   "sentiment": {
     "positive": 1,
     "neutral": 7,
-    "negative": 3
+    "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "c95ab4d02922a79b5f4e179cd89c7d23127424e5",
+      "title": "US set to send airborne troops to Middle East as Trump claims talks with Iran taking place",
+      "summary": "Israel and Gulf states are targeted by Iran while Tehran denies any negotiations with US to end warMiddle East crisis – live updatesThe US is poised to deploy airborne troops to the Middle East as strikes intensified acr…",
+      "url": "https://www.theguardian.com/world/2026/mar/24/middle-east-violence-trump-claims-very-good-talks-iran",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-25T05:02:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "US bases in Kuwait, Jordan and Bahrain."
+    },
     {
       "id": "df4a681d02b1a4eae6eb6b56a460dd27152f70a2",
       "title": "Jordan Stephens questions Piers Morgan approach as Harrison Sullivan HSTikkyTokky interview turns into viral chaos",
@@ -134,5 +145,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-24T10:12:20Z"
+  "last_updated": "2026-03-25T10:11:20Z"
 }

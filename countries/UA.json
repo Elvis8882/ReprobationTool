@@ -1,16 +1,82 @@
 {
   "country": "UA",
-  "score": 45,
+  "score": 40,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 430,
+  "trend": -5,
+  "sources": 441,
   "sentiment": {
-    "positive": 171,
-    "neutral": 102,
-    "negative": 157
+    "positive": 174,
+    "neutral": 103,
+    "negative": 164
   },
   "latest_articles": [
+    {
+      "id": "3a14786cbbed33af431913453b6ec71fa7b5807a",
+      "title": "Ukraine Finally Got Battlefield Momentum. Now Comes a Russian Offensive.",
+      "summary": "Moscow’s forces are intensifying their attacks in southern Ukraine after Kyiv made rare gains along the front.",
+      "url": "https://www.nytimes.com/2026/03/25/world/europe/ukraine-russia-war-zaporizhzhia.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-25T09:41:18+00:00",
+      "sentiment": "positive",
+      "confidence": 0.5,
+      "evidence": "Ukraine Finally Got Battlefield Momentum."
+    },
+    {
+      "id": "301e707491b69d977ba0dbf553d0091b934a14f5",
+      "title": "Drones Enter Baltic Airspace, Hitting Power Plant in Estonia - Bloomberg.com",
+      "summary": "Drones Enter Baltic Airspace, Hitting Power Plant in Estonia&nbsp;&nbsp;Bloomberg.comUkraine-Russia war latest: Nato member says Russian drone entered its airspace in new wave of aerial attacks&nbsp;&nbsp;The Independent…",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQmhsVFgtYkRLb2twUFhHa2k2Mk9XTTl6ZUZGbjdlVklONmlXLW1XdDlLaEJFbmNTNE5lTzV6MDFzeGxMTmdzNk00Sm5hdEFKTTZLbjA3NXViTjViR3hLRnhzSkFvVjJUSnlZMk1pQUlLazItZVo4WjdlNlQxY0Z1Q2ptR2xySzhmR1l2dzdwR0NuT0NpMFpHS1VWX01kS1IzN3BPU0g1U3JaWmhISlNV?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-25T07:34:43+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine-Russia war latest"
+    },
+    {
+      "id": "ab59e6bfc7a176d68c5873e9b63a1dc4b4e9c3b0",
+      "title": "Massive Russian drone attacks kill eight, hit Ukraine UNESCO site",
+      "summary": "Russia fired nearly 1,000 drones at Ukraine in 24 hours, unleashing one of its biggest-ever daytime attacks",
+      "url": "https://www.euractiv.com/news/massive-russian-drone-attacks-kill-eight-hit-ukraine-unesco-site/",
+      "source": "Euractiv",
+      "published_at": "2026-03-24T22:41:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "hit Ukraine UNESCO site"
+    },
+    {
+      "id": "b425c65a87f820000e162e31fb08055511ae3c69",
+      "title": "Russia launches 948 drones at Ukraine in largest attack over 24-hour period",
+      "summary": "Cities across Ukraine were hit, with local officials reporting at least eight people killed and dozens injured.",
+      "url": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-24T21:47:10+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Cities across Ukraine were hit, with local officials reporting at least eight people killed"
+    },
+    {
+      "id": "d3cdca51addc372afe39950134db03c87f4fa712",
+      "title": "Ukraine’s universities push to restore campus life - Times Higher Education",
+      "summary": "Ukraine’s universities push to restore campus life&nbsp;&nbsp;Times Higher Education",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNGx0QWliekpIdUNOV0MxY3EyeUZwRlNTZXJOOVVXbzktbGdqV3l0ZmlDaDdFZG82bW91NS1qcHhZeWlQR0tFenl6cVFMTWhqUEJPd21jZzk0QnUtUUNXbldkYTZZQnRhZDR3QUFNZ3BDUWZsUkl2eVc1WVB1eFNPSDNvWlFIWU4xVVJpSHM2OThHdw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-24T21:00:59+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine’s universities push to restore campus life"
+    },
+    {
+      "id": "d1cb0e837f1f5c5c16e11dfaccaa70052f287504",
+      "title": "Russia fires nearly 1,000 drones in one of its largest aerial attacks on Ukraine",
+      "summary": "At least seven killed as Moscow appears to step up spring offensive amid concerns focus on Iran war leaves Kyiv more vulnerableRussia has launched a huge wave of nearly 1,000 drones at Ukraine, killing at least seven peo…",
+      "url": "https://www.theguardian.com/world/2026/mar/24/russia-strikes-civilian-areas-ukraine",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-24T18:15:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia fires nearly 1,000 drones at Ukraine, killing at least seven"
+    },
     {
       "id": "42e6d392b47bbad1c7368665688e8bb755e84666",
       "title": "Ukraine Spent Big to Shield Energy Industry From Drones. Is the Mideast Next?",
@@ -54,6 +120,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "feeding the Kremlin’s war machine in Ukraine"
+    },
+    {
+      "id": "1ac36e9c061213af5b729f496b12e7af39517816",
+      "title": "Ukraine war briefing: Russia setting up long-range drone bases in Belarus, Zelenskyy says",
+      "summary": "Ukraine president vows to respond to move that would draw Belarus more directly into the war; EU anger at Hungary over Russia information sharing. What we know on day 1,490 Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/mar/24/ukraine-war-briefing-russia-setting-up-long-range-drone-bases-in-belarus-zelenskyy-says",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-24T04:03:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Ukraine war briefing"
     },
     {
       "id": "f758edde2fbddeca7f0f30b396b65d86c6d2600e",
@@ -100,6 +177,17 @@
       "evidence": "Ukraine Using Underground Network To Rescue Children"
     },
     {
+      "id": "af7b5666ad315de3c5b064445b60381c0f72f862",
+      "title": "Iran war energy crisis equal to 70s twin oil shocks and fallout from Ukraine war, says IEA chief - The Guardian",
+      "summary": "Iran war energy crisis equal to 70s twin oil shocks and fallout from Ukraine war, says IEA chief&nbsp;&nbsp;The GuardianWorld energy watchdog warns fuel crisis is 'very severe'&nbsp;&nbsp;ABC NewsDozens of petrol station…",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmVoSlVaMGxfUVVEb0tsN0VxZG5BZmF2c0lWVDF0cThqU1ZHYzBLSlQ4MVhHLTc5bGM1TVVxb3FPY2dLNGE0eWRjX1VWS2R2TWJYRTNudU1jVVJNVXF4ZDZLd1pCVkZPUGZnV2sxNHJ4YWdnWlRVNmFMMkxFZW9ULXhSNnhyOVh5eXZaYnNMRzVoRUhxa0RxRlFKYTFhUzN2UUJJ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-23T08:22:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "fallout from Ukraine war"
+    },
+    {
       "id": "4d91342689df840acbb5f773a1265503ebbb8ab0",
       "title": "Coalition to hear Defence Minister on Latvia’s position regarding the United States - bnn-news.com",
       "summary": "Coalition to hear Defence Minister on Latvia’s position regarding the United States&nbsp;&nbsp;bnn-news.comLatvian Defense Minister to Be Forced to Swear Loyalty to the U.S.&nbsp;&nbsp;Inbox.lvLatvia has not received any…",
@@ -109,6 +197,17 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "support for Ukraine"
+    },
+    {
+      "id": "2241d185ef36760a82f9d8586d66e5d459f1dc3f",
+      "title": "Monday briefing: What a new Guardian podcast reveals about the US justice system",
+      "summary": "In today’s newsletter: Off Duty revisits the conviction of Alexander Villa, raising troubling questions about how it was builtGood morning. On the evening of 29 December 2011, Clifton Lewis – an off-duty Chicago police o…",
+      "url": "https://www.theguardian.com/world/2026/mar/23/first-edition-off-duty-guardian-podcast",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-23T06:50:42+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia’s invasion of Ukraine"
     },
     {
       "id": "762367a06e7289d800124612dd1fe0d2623c120e",
@@ -131,107 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Kenyans fighting illegally for Russia in Ukraine"
-    },
-    {
-      "id": "6a333025873b09526c4e0fae54cdde085d3d08b4",
-      "title": "Panel Discussion on “Four years of Russia’s war against Ukraine: Global instability and implications on the Korean Peninsula” - EEAS",
-      "summary": "Panel Discussion on “Four years of Russia’s war against Ukraine: Global instability and implications on the Korean Peninsula”&nbsp;&nbsp;EEASSouth Korea Considers Boosting Military Aid to Ukraine: Implications and Contex…",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVlVfaVZDWkYzU2tsbjBudjZCeDIxLTU2Vk1lZ0xSOGRSZDNwT2hsZ3ZJUTZ5MFpuYUljUm85Zi0zNlU5VzU2aVYyVE1sS3FpbEhQcmdfRmhTTG5mb05wUVVQVXI5bkVoLWh4UHlkWEtfMDRTdU0yVEV1bS14aEx6c3FibXV0U25uTEc0QW9uM3VYT2wxcTViSEgxb3lXZTFsb21WSDRQNGFwNWhrUWdQOEw1RjExSW1NeFRoWXVqN3JMaFcwUVIyMDYwYUIwVkVtRGFwVEd6eWF1NjFjV1hlQ2dIeTBnYnBONUZabi16S21zWFVzU09vUXNuQV81YUE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-21T18:58:41+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "South Korea Considers Boosting Military Aid to Ukraine"
-    },
-    {
-      "id": "f37308e0c956bb49952d7bff66efdf113f0f1b4e",
-      "title": "Patriarch Filaret Dies at 97, Orthodox Church of Ukraine Says",
-      "summary": "Filaret led a movement in Ukraine that created a schism among Orthodox believers and, ultimately, a church independent of Moscow.",
-      "url": "https://www.nytimes.com/2026/03/21/world/europe/patriarch-filaret-dead.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-21T17:54:04+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "created a schism among Orthodox believers and, ultimately, a church independent of Moscow."
-    },
-    {
-      "id": "d4a958d728202e7fd503db3878d464c7e983a7d4",
-      "title": "Zelensky Sends Negotiators to the U.S., Hoping to Revive Peace Talks",
-      "summary": "The Ukrainian president has said he has a “very bad feeling” about the effects of the Iran conflict on Ukraine’s own war.",
-      "url": "https://www.nytimes.com/2026/03/21/world/europe/ukraine-russia-peace-talks-iran.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-21T09:01:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Ukraine’s own war"
-    },
-    {
-      "id": "bfcba04455b6631d77f93d5a28d7be80f4d13373",
-      "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
-      "summary": "Two children, aged 11 and 15 were also injured in the attack which took place in Zaporizhzhia.",
-      "url": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-21T08:54:29+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russian drone attack kills two in Ukraine"
-    },
-    {
-      "id": "21b5e23135e5681c0b097e3957f6d7ef97306e3f",
-      "title": "Putin Offered To Ditch Iran If US Cut Off Ukraine? What Russia Said",
-      "summary": "The Washington Post had reported earlier this month that Russia had passed sensitive intelligence to Iran amid its war against the US and Israel.",
-      "url": "https://www.ndtv.com/world-news/vladimir-putin-offered-to-ditch-iran-if-us-cut-off-ukraine-amid-middle-east-war-what-russia-said-donald-trump-11246050#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-03-21T03:34:13+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "If US Cut Off Ukraine?"
-    },
-    {
-      "id": "15132135fc1f9123c578ead6c62484b71c12c2f9",
-      "title": "Editors’ Choice: Orbán’s political theatre isn’t going to last forever",
-      "summary": "His veto angers EU leaders, but few doubt Ukraine’s €90 billion loan will come through anyway",
-      "url": "https://www.euractiv.com/opinion/editors-choice-orbans-political-theatre-isnt-going-to-last-forever/",
-      "source": "Euractiv",
-      "published_at": "2026-03-20T16:21:40+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine’s €90 billion loan will come through"
-    },
-    {
-      "id": "ad607e83fecf037a69bb3411997807e18fc4c551",
-      "title": "BNN IN FOCUS | “We support them, they support us” – political scientist on Latvia’s choice in the Hormuz issue - bnn-news.com",
-      "summary": "BNN IN FOCUS | “We support them, they support us” – political scientist on Latvia’s choice in the Hormuz issue&nbsp;&nbsp;bnn-news.comLatvia has not received invitations to join the operation in the Middle East - Rinkevi…",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeklBYUU2SmVGb0ZQMTlrOE53NExwenozVUVsQU8tMWY3TlNYRHlaWnVrZHpsRmRmZ3VNM21sUXZkbUpaa240eF9OVXVkMEFtakg4QkFKam40TGJXVEdQRXozcXVEcGoyblR2cFJ1bXF4X0djSWNiY0V0VURoZjd5aFVGNEpFVGlLeVpxd1YwamJiZlliZGlzZHVZZXFaZUsxbjJySXd6MDZTWVJQMGpaWll0cHdfZENKVXdPRGd0RUpVZDZmUVQ0ZEx3?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-20T12:27:42+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "support for Ukraine"
-    },
-    {
-      "id": "e613ead79fac81755ee0b8a793c4c984d62f5300",
-      "title": "In Photos: The War in Ukraine, After 4 Years",
-      "summary": "A photographic chronicle of Russia’s invasion.",
-      "url": "https://www.nytimes.com/2026/03/20/world/europe/ukraine-russia-war-photos.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-20T12:24:10+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "The War in Ukraine"
-    },
-    {
-      "id": "f48cf5752ee44dae315049f0118fe8187b77bb45",
-      "title": "Orbán gets the bashing he craved",
-      "summary": "Also, in Friday’s edition: One Europe, One Market, Ukraine, energy, migration",
-      "url": "https://www.euractiv.com/news/rapporteur-orban-gets-the-bashing-he-craved/",
-      "source": "Euractiv",
-      "published_at": "2026-03-20T06:02:53+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Ukraine, energy, migration"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-24T10:12:20Z"
+  "last_updated": "2026-03-25T10:11:20Z"
 }

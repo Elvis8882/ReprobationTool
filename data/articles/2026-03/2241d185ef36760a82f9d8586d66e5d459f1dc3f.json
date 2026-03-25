@@ -19,8 +19,30 @@
     "RU",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-03-24T10:12:20+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-25T10:11:20+00:00",
+  "sentiment_by_country": {
+    "GB": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Palantir is to be granted access to UK financial data"
+    },
+    "IR": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "global energy crisis caused by the war in Iran"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "fallout of Russia’s invasion of Ukraine"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia’s invasion of Ukraine"
+    }
+  },
+  "processed_at": "2026-03-25T10:11:20+00:00"
 }

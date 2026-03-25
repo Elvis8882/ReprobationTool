@@ -1,0 +1,41 @@
+{
+  "id": "c795a8161f396f53b457feda4ca2a678bf582a8a",
+  "title": "Israel, Iran trade strikes as U.S. says it is pausing attacks on energy targets",
+  "summary_full": "Four Persian Gulf states reported fresh missile and drone threats from Iran, as Israel pledged to keep up its attacks in Iran and Lebanon “with full force.”",
+  "summary_public": "Four Persian Gulf states reported fresh missile and drone threats from Iran, as Israel pledged to keep up its attacks in Iran and Lebanon “with full force.”",
+  "url": "https://www.washingtonpost.com/world/2026/03/24/us-trump-iran-israel-tel-aviv-strike/",
+  "published_at": "2026-03-24T15:28:22+00:00",
+  "source": "World (Washington post)",
+  "language": "en",
+  "countries_detected": [
+    "IL",
+    "IR",
+    "LB"
+  ],
+  "countries_scored": [
+    "IL",
+    "IR",
+    "LB"
+  ],
+  "sentiment_by_country": {
+    "IL": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Israel, Iran trade strikes"
+    },
+    "IR": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran trade strikes"
+    },
+    "LB": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel pledged to keep up its attacks in Lebanon"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-25T10:11:20+00:00",
+  "processed_at": "2026-03-25T10:11:20+00:00"
+}
