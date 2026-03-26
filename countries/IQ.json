@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 69,
+  "sources": 70,
   "sentiment": {
     "positive": 2,
-    "neutral": 38,
+    "neutral": 39,
     "negative": 29
   },
   "latest_articles": [
+    {
+      "id": "f360adf6409cbdc3bc4515ec2b8ebd27dd7eb535",
+      "title": "Iraq Summons U.S. Diplomat After Attack on Military Base",
+      "summary": "The attack came a day after a separate strike on the same base, which hosts units viewed by the United States as allies of Iran.",
+      "url": "https://www.nytimes.com/2026/03/25/world/middleeast/iraq-summons-us-diplomat-after-attack-on-military-base.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-25T15:29:35+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Iraq Summons U.S. Diplomat After Attack on Military Base"
+    },
     {
       "id": "c84bfb7b9a24f20033a4d8b040ef3ffdb6c1f236",
       "title": "NATO Pulls Last Military Trainers From Iraq Amid Strikes From Iran",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "New strikes were also reported in Iran, Iraq and Israel."
-    },
-    {
-      "id": "ffe6fb71a642845326b879c42ea95eec93d10153",
-      "title": "Pentagon says enemy fire not to blame after U.S. refueling plane crashes in Iraq",
-      "summary": "The U.S. Central Command said that the loss was \"not due to hostile or enemy fire.\"",
-      "url": "https://www.cnbc.com/2026/03/13/us-kc135-crash-iraq-iran-threats-shipping-attacks.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-03-13T09:01:23+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "U.S. refueling plane crashes in Iraq"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-25T10:11:20Z"
+  "last_updated": "2026-03-26T10:17:08Z"
 }

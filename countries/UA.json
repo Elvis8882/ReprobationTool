@@ -1,16 +1,93 @@
 {
   "country": "UA",
-  "score": 40,
+  "score": 37,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -5,
-  "sources": 441,
+  "trend": -3,
+  "sources": 448,
   "sentiment": {
     "positive": 174,
-    "neutral": 103,
-    "negative": 164
+    "neutral": 105,
+    "negative": 169
   },
   "latest_articles": [
+    {
+      "id": "fdcd8afd05dc9552424518a7f6e67ec2b5b13e3f",
+      "title": "US weighs redirecting Ukraine-bound weapons to Middle East: Report",
+      "summary": "The Pentagon is reportedly considering rerouting some weapons, including air defence interceptors, originally destined for Ukraine to the Middle East due to strains on US stockpiles from the ongoing Iran war. This move h…",
+      "url": "https://timesofindia.indiatimes.com/world/us/pentagon-weighs-redirecting-ukraine-bound-weapons-to-middle-east-as-iran-war-strains-us-munitions-report/articleshow/129820531.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-03-26T09:51:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "rerouting some weapons, including air defence interceptors, originally destined for Ukraine"
+    },
+    {
+      "id": "9b88a9ca73efbb36a3192270261c5fbeafc4bf77",
+      "title": "In Rural Ukraine, Basic Health Care Is a Casualty of War",
+      "summary": "Elderly people in isolated villages are going without medicine. One woman said she hadn’t seen a doctor in four years.",
+      "url": "https://www.nytimes.com/2026/03/26/world/europe/ukraine-russia-war-health-care.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-26T09:01:16+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "In Rural Ukraine, Basic Health Care Is a Casualty of War"
+    },
+    {
+      "id": "3078a3eb140092516713adeb83162155454c382f",
+      "title": "Pentagon considers diverting Ukraine military aid to the Middle East",
+      "summary": "A shift would highlight the growing trade-offs required for the U.S. to sustain its war with Iran as the conflict depletes the military’s critical munitions.",
+      "url": "https://www.washingtonpost.com/national-security/2026/03/26/us-iran-war-ukraine-missile-defense/",
+      "source": "World (Washington post)",
+      "published_at": "2026-03-26T09:00:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Pentagon considers diverting Ukraine military aid"
+    },
+    {
+      "id": "5def3817749ff56ab412bb4d8399009138524558",
+      "title": "Ukraine war briefing: Zelenskyy says US has linked security guarantees to ceding of Donbas",
+      "summary": "Ukrainian president says peace deal proposed by US includes handing over land to Russia. What we know on day 1,492 Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-26T06:51:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "ceding of Donbas"
+    },
+    {
+      "id": "6d60d300dca38aef355604588ebe5c732cfb268c",
+      "title": "Merz says Ukraine no longer needs German Taurus missiles",
+      "summary": "\"Ukraine itself has long-range weapons in its depots, which it has built itself,\" Merz said",
+      "url": "https://www.euractiv.com/news/merz-says-ukraine-no-longer-needs-german-taurus-missiles/",
+      "source": "Euractiv",
+      "published_at": "2026-03-25T16:07:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ukraine no longer needs German Taurus missiles"
+    },
+    {
+      "id": "9ffd8834906b7f5511f68fda29d54fadb87ce9a1",
+      "title": "Russia handed diplomatic note over crash of Ukrainian drone in Latvia",
+      "summary": "Latvia's Ministry of Foreign Affairs said that on March 25th it had summoned a Russian diplomat – not for the first time –&nbsp;to be handed&nbsp;a protest note in connection with that country's warmongering.&nbsp;",
+      "url": "https://eng.lsm.lv/article/politics/diplomacy/25.03.2026-russia-handed-diplomatic-note-over-crash-of-ukrainian-drone-in-latvia.a640429/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "source": "LSM (English)",
+      "published_at": "2026-03-25T14:54:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "crash of Ukrainian drone"
+    },
+    {
+      "id": "9377478af031bc1fd12586fd7458420147d118b9",
+      "title": "Hungary to phase out gas deliveries to Ukraine",
+      "summary": "'To break the oil blockade and guarantee the security of Hungary's energy supply, new measures are now necessary,' Orbán said",
+      "url": "https://www.euractiv.com/news/hungary-to-phase-out-gas-deliveries-to-ukraine/",
+      "source": "Euractiv",
+      "published_at": "2026-03-25T11:22:27+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Hungary to phase out gas deliveries to Ukraine"
+    },
     {
       "id": "3a14786cbbed33af431913453b6ec71fa7b5807a",
       "title": "Ukraine Finally Got Battlefield Momentum. Now Comes a Russian Offensive.",
@@ -153,85 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "Ukraine hits major Russian oil port"
-    },
-    {
-      "id": "107a456ecb1660816d46c8d1f49006460a9d1c09",
-      "title": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops",
-      "summary": "Ukraine has created online marketplaces to let units select their own drones, a break from generations of standardized and centralized weapons procurement.",
-      "url": "https://www.nytimes.com/2026/03/23/world/europe/ukraine-drones-marketplace-military-russia.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-23T09:34:28+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Ukraine has created online marketplaces to let units select their own drones"
-    },
-    {
-      "id": "67aea9f94c8a315cff8cade3ec7c38476ef52d88",
-      "title": "Ukraine Using Underground Network To Rescue Children 'Indoctrinated' By Russia",
-      "summary": "'Save Ukraine' has a team of about 30 people working to find and rescue children. (Representative Image)",
-      "url": "https://www.ndtv.com/world-news/ukraine-using-underground-network-to-rescue-children-indoctrinated-by-russia-11253019#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-03-23T09:11:40+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukraine Using Underground Network To Rescue Children"
-    },
-    {
-      "id": "af7b5666ad315de3c5b064445b60381c0f72f862",
-      "title": "Iran war energy crisis equal to 70s twin oil shocks and fallout from Ukraine war, says IEA chief - The Guardian",
-      "summary": "Iran war energy crisis equal to 70s twin oil shocks and fallout from Ukraine war, says IEA chief&nbsp;&nbsp;The GuardianWorld energy watchdog warns fuel crisis is 'very severe'&nbsp;&nbsp;ABC NewsDozens of petrol station…",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmVoSlVaMGxfUVVEb0tsN0VxZG5BZmF2c0lWVDF0cThqU1ZHYzBLSlQ4MVhHLTc5bGM1TVVxb3FPY2dLNGE0eWRjX1VWS2R2TWJYRTNudU1jVVJNVXF4ZDZLd1pCVkZPUGZnV2sxNHJ4YWdnWlRVNmFMMkxFZW9ULXhSNnhyOVh5eXZaYnNMRzVoRUhxa0RxRlFKYTFhUzN2UUJJ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-23T08:22:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "fallout from Ukraine war"
-    },
-    {
-      "id": "4d91342689df840acbb5f773a1265503ebbb8ab0",
-      "title": "Coalition to hear Defence Minister on Latvia’s position regarding the United States - bnn-news.com",
-      "summary": "Coalition to hear Defence Minister on Latvia’s position regarding the United States&nbsp;&nbsp;bnn-news.comLatvian Defense Minister to Be Forced to Swear Loyalty to the U.S.&nbsp;&nbsp;Inbox.lvLatvia has not received any…",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNSX3lTWEEwTlJGVW5fUVVfM2tYeEV6MGFHM2E3V2RqdWplalRpZ0lwTS1lOFVXaFBGT3FIZGhmMFlHUHVmQXo3NzdzaFJ0bjdqb0hpQTlQa01QSEwtSGpjMTRrMGl2RjhVRzRMZ3llRTlBVFpheUZ5LVZrb1RSUFlxazdHQkhteThOd1M4dHpGSG91MEM2WlBoeVg0dDJzdlhjYWVGYWJ5SWo4YldJ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-23T08:06:39+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "support for Ukraine"
-    },
-    {
-      "id": "2241d185ef36760a82f9d8586d66e5d459f1dc3f",
-      "title": "Monday briefing: What a new Guardian podcast reveals about the US justice system",
-      "summary": "In today’s newsletter: Off Duty revisits the conviction of Alexander Villa, raising troubling questions about how it was builtGood morning. On the evening of 29 December 2011, Clifton Lewis – an off-duty Chicago police o…",
-      "url": "https://www.theguardian.com/world/2026/mar/23/first-edition-off-duty-guardian-podcast",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-23T06:50:42+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russia’s invasion of Ukraine"
-    },
-    {
-      "id": "762367a06e7289d800124612dd1fe0d2623c120e",
-      "title": "Iran war energy crisis equal to 70s twin oil shocks and fallout from Ukraine war, says IEA chief",
-      "summary": "Fatih Birol says effect on energy markets of Iran bombings and closure of Hormuz strait not initially understood by world leadersMiddle East crisis live – latest updatesThe global energy crisis caused by the war in Iran…",
-      "url": "https://www.theguardian.com/world/2026/mar/23/iran-war-energy-crisis-1970s-oil-shocks-fatih-birol-iea",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-23T05:04:11+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "fallout from Ukraine war"
-    },
-    {
-      "id": "ef2c66231956331a293fb59a59cf638b6883e864",
-      "title": "Kenyans fighting illegally for Russia in Ukraine to be granted amnesty",
-      "summary": "It is illegal for Kenyans to serve in foreign armies and can carry a sentence of up to 10 years in jail.",
-      "url": "https://www.bbc.com/news/articles/cj94jmj2p28o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-22T19:05:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Kenyans fighting illegally for Russia in Ukraine"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-25T10:11:20Z"
+  "last_updated": "2026-03-26T10:17:08Z"
 }
