@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 70,
+  "sources": 71,
   "sentiment": {
     "positive": 2,
-    "neutral": 39,
+    "neutral": 40,
     "negative": 29
   },
   "latest_articles": [
+    {
+      "id": "edf2ef56cd6503c0673e272c4e351f579c06d75d",
+      "title": "Europeans Are Angry at Trump, but Often Forgiving of Americans",
+      "summary": "A generation ago, foreign fury over the Iraq invasion often blurred into anti-Americanism. Now, some Europeans seem ready to distinguish between the president and the American people.",
+      "url": "https://www.nytimes.com/2026/03/27/world/europe/europe-trump-sentiment.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-27T09:03:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "foreign fury over the Iraq invasion"
+    },
     {
       "id": "f360adf6409cbdc3bc4515ec2b8ebd27dd7eb535",
       "title": "Iraq Summons U.S. Diplomat After Attack on Military Base",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "start of the Iraq war in 2003"
-    },
-    {
-      "id": "b5d4349a2c189b9296c30b74a72f901e329320c5",
-      "title": "Iran War Live Updates: Israel Targets Hezbollah in Beirut as Strikes Hit City Center",
-      "summary": "The attacks heightened fears that the war was expanding beyond Hezbollah’s traditional strongholds into parts of Beirut once considered comparatively safe. New strikes were also reported in Iran, Iraq and Israel.",
-      "url": "https://www.nytimes.com/live/2026/03/13/world/iran-war-trump-oil-israel",
-      "source": "NYT > World News",
-      "published_at": "2026-03-13T09:37:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "New strikes were also reported in Iran, Iraq and Israel."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-26T10:17:08Z"
+  "last_updated": "2026-03-27T10:10:04Z"
 }

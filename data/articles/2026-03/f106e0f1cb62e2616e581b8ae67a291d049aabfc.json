@@ -15,8 +15,20 @@
     "FR",
     "NL"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-03-26T10:17:08+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-27T10:10:04+00:00",
+  "sentiment_by_country": {
+    "FR": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "the French soldier who inspired Alexandre Dumas"
+    },
+    "NL": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Maastricht, Netherlands, may be of soldier"
+    }
+  },
+  "processed_at": "2026-03-27T10:10:04+00:00"
 }

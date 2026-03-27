@@ -1,16 +1,27 @@
 {
   "country": "LB",
-  "score": 24,
+  "score": 23,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -2,
-  "sources": 136,
+  "trend": -1,
+  "sources": 137,
   "sentiment": {
     "positive": 3,
     "neutral": 26,
-    "negative": 107
+    "negative": 108
   },
   "latest_articles": [
+    {
+      "id": "cbb7d519a7b52a4354bdcafd483e04c2f35efa89",
+      "title": "Displaced by War, Many Seek Shelter in Beirut",
+      "summary": "Over 100,000 people have fled to temporary shelters as Israel continues strikes on Lebanon.",
+      "url": "https://www.nytimes.com/2026/03/26/world/middleeast/war-displaced-beirut.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-26T21:33:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Displaced by War, Many Seek Shelter in Beirut"
+    },
     {
       "id": "53b131a5b899796c9e95f20587cd84bf9f4a94e5",
       "title": "Israel Keeps Up Strikes in Lebanon as Hezbollah Signals Defiance",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "medical facilities in south Lebanon, killing 40 healthcare workers"
-    },
-    {
-      "id": "56562dafb81c19f4cfa067dd351c248a343dae21",
-      "title": "Israeli strike next to British journalist is not AI-generated",
-      "summary": "The video of the strike, hitting just metres from RT's Steve Sweeney and his crew, was recorded on Thursday in southern Lebanon.",
-      "url": "https://www.bbc.com/news/videos/c62k8xgjkggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-20T18:52:38+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "recorded on Thursday in southern Lebanon."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-26T10:17:08Z"
+  "last_updated": "2026-03-27T10:10:04Z"
 }

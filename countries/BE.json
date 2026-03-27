@@ -1,16 +1,78 @@
 {
   "country": "BE",
-  "score": 91,
+  "score": 90,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 244,
+  "trend": -1,
+  "sources": 251,
   "sentiment": {
     "positive": 29,
-    "neutral": 187,
-    "negative": 28
+    "neutral": 193,
+    "negative": 29
   },
   "latest_articles": [
+    {
+      "id": "3a1adc84c3c182afabfdeb83b0c8e5d317630e47",
+      "title": "MEPs back plans for ‘return hubs’, raising fears of ‘human rights black holes’",
+      "summary": "European parliament votes in favour of sending refused asylum seekers to offshore hubs, in ‘historic setback for refugee rights’People with no right to stay in the EU could be detained for up to two years or sent to offs…",
+      "url": "https://www.theguardian.com/world/2026/mar/26/meps-back-plans-for-return-hubs-raising-fears-of-human-rights-black-holes",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-26T17:23:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "e645e3c9e6d09f91e7a8c1bc3b46ef70e13b6df9",
+      "title": "Brussels opens investigation into Snapchat amid concern over children’s safety",
+      "summary": "European Commission says social messaging app is exposing children to grooming and sexual exploitationBrussels has opened an investigation into Snapchat over concerns the social messaging app is exposing children to groo…",
+      "url": "https://www.theguardian.com/technology/2026/mar/26/brussels-opens-investigation-into-snapchat-amid-concern-over-childrens-safety",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-26T17:08:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Brussels opens investigation into Snapchat amid concern over children’s safety"
+    },
+    {
+      "id": "4b5b1c12084b3134504681357568a61ed31c1eb7",
+      "title": "Commission turns to its own rules to take down official’s leaked call",
+      "summary": "The leaked call was uncontroversial but  raised fears of interception in Brussels media and EU diplomatic circles",
+      "url": "https://www.euractiv.com/news/commission-turns-to-its-own-rules-to-take-down-officials-leaked-call/",
+      "source": "Euractiv",
+      "published_at": "2026-03-26T15:46:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "raised fears of interception in Brussels media and EU diplomatic circles"
+    },
+    {
+      "id": "7681fd93291addfd58a4c2d5fbc3236c5445572c",
+      "title": "EU check reveals misleading sales practices online - European Commission",
+      "summary": "EU check reveals misleading sales practices online&nbsp;&nbsp;European CommissionCCPC investigation — one in three online retailers misleads us on Black Friday discounts&nbsp;&nbsp;The Irish IndependentEU finds 30% of on…",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUgxZG5jaDdMNTNMYjI2VWloZ3Y1bm5maFFYN0VaZC1zWW81Q1hZUWJnUGs1azdYZ2s2ZDY5Y0d0eldSZlRCSXh4STQyR25DVEN2SkMtM20ySHhJbmlNajJOMmFJTWNsZVNDOGk0WmRIZGZLNHg4eW9vUkNaVkpvVnhoQWt4UFBfTE1hcy1vX1VaamJWRXFpVExBOTVabFdYVHpkZkNQRzlKOXdlNXUzQjRtOA?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-26T15:14:28+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "9d0ab7dcc5374f22af2319a4ea60bd9e75337889",
+      "title": "After ‘Sausage Making,’ European Lawmakers Approve U.S. Trade Deal",
+      "summary": "The agreement that President Trump struck with the European Union has cleared a major hurdle that delayed it for months.",
+      "url": "https://www.nytimes.com/2026/03/26/world/europe/eu-trade-deal-us-european-parliament.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-26T15:01:15+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "32da0ff0157327ee91715ee853c9dae5b65e3923",
+      "title": "25% of goods transported by road in the EU - European Commission",
+      "summary": "25% of goods transported by road in the EU&nbsp;&nbsp;European Commission",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YTHNBamMxQWFUVDBpemIwU3dDaEJXUUxtX1NMT2ZjbE4xcXRMdVRmMjgyVlBGdDhUMnd4ODVUbS1mamVwdzhkbXBXdHl3TU1KWmJ4SVBDcnFWWW1FVUo2dGFVd0VWVkhOQXBhWkF0bDFadXRHZFNQcGZmMGN1UQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-26T11:11:38+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "63ff05b4b0cbf94310c0e20eca1a4cb41220882a",
       "title": "EU healthcare workers say they ‘refuse to be instruments’ in deportation plans",
@@ -18,6 +80,16 @@
       "url": "https://www.theguardian.com/world/2026/mar/26/eu-europe-healthcare-workers-deportation-plans",
       "source": "World news - The Guardian",
       "published_at": "2026-03-26T05:00:27+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "f450e71c42dd7ac86533b96c817629c43cb74aaf",
+      "title": "France ‘confident’ that EU probe won’t block nuclear plans",
+      "summary": "The government expects a European Commission investigation by the end of March",
+      "url": "https://www.euractiv.com/news/france-confident-that-eu-probe-wont-block-nuclear-plans/",
+      "source": "Euractiv",
+      "published_at": "2026-03-25T17:11:05+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -144,83 +216,8 @@
       "published_at": "2026-03-23T15:51:13+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "d2800bdc795f481589076b31d2286cee3ecd183a",
-      "title": "From simplification to implementation – Boosting competitiveness and productivity across the EU [Advocacy Lab]",
-      "summary": "The European Commission is committed to making EU legislation more efficient and easier to implement, aiming to reduce administrative burdens by 25% overall and 35% for SMEs. This agenda is central to the Commission’s ef…",
-      "url": "https://www.euractiv.com/video/live-now-from-simplification-to-implementation-boosting-competitiveness-and-productivity-across-the-eu/",
-      "source": "Euractiv",
-      "published_at": "2026-03-23T15:30:58+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "fc9b94f9e282ee7db6264b3ba0aa7654dab531c4",
-      "title": "Daily News 23 / 03 / 2026 - European Commission",
-      "summary": "Daily News 23 / 03 / 2026&nbsp;&nbsp;European CommissionEU ramps up aid for Lebanon amid escalating violence, displacement crisis&nbsp;&nbsp;The Brussels TimesEU announces 458 million euros in humanitarian aid for Middle…",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZRm4xYm1JWjNCQTF5aWJ1RlNGY25JT1IzbTBST0pCWEIySDNnOGhueHNvaTZBUVZRT2ZRb1Rwdk9HZm5YV2I1V3pXLTZ5aThDWGd6YklwdjNZUEllSXRvdTR0X002c3RVVUphaUlsaFFGUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-23T10:58:42+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "The Brussels Times"
-    },
-    {
-      "id": "915fe304ea7b70af4ccbf01137f42e822d4843cd",
-      "title": "INTERVIEW: ‘We are not there yet’: Brussels’ top pharma lobbyist on EU legislation",
-      "summary": "From clinical trials to authorisation, industry urges the EU to step up",
-      "url": "https://www.euractiv.com/news/interview-we-are-not-there-yet-brussels-top-pharma-lobbyist-on-eu-legislation/",
-      "source": "Euractiv",
-      "published_at": "2026-03-23T05:00:40+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Brussels’ top pharma lobbyist on EU legislation"
-    },
-    {
-      "id": "315852a64cbb758d1cf7b8abc130bb7b022eeaa6",
-      "title": "Brussels walks tightrope with farmers as von der Leyen heads to Australia",
-      "summary": "The Commission has pushed for conditionality and safeguards to avoid a Mercosur scenario",
-      "url": "https://www.euractiv.com/news/brussels-walks-tightrope-with-farmers-as-von-der-leyen-heads-to-australia/",
-      "source": "Euractiv",
-      "published_at": "2026-03-23T05:00:10+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Brussels walks tightrope with farmers as von der Leyen heads to Australia"
-    },
-    {
-      "id": "dabd8d3bb579f64e284ca89deb15fc5f8e20d34e",
-      "title": "US high school student Cooper Lutkenhaus wins 800m to become youngest ever indoor world champion",
-      "summary": "17-year-old took time off high school to win goldBeats Belgium’s Eliott Crestan by 0.14 secondsUS teenager Cooper Lutkenhaus made history on Sunday when he won gold in the 800m to becomes the youngest ever champion at th…",
-      "url": "https://www.theguardian.com/sport/2026/mar/22/cooper-lutkenhaus-800m-world-indoor-championship-teenager",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-22T20:08:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Belgium’s Eliott Crestan"
-    },
-    {
-      "id": "b3019a39eda3467ab8db721ec57da283ebfd84b5",
-      "title": "Tusk claims no surprise over alleged Hungarian leaks to Moscow",
-      "summary": "Polish Prime Minister said suspicions had long made him keep quiet during EU Council talks",
-      "url": "https://www.euractiv.com/news/tusk-claims-no-surprise-over-alleged-hungarian-leaks-to-moscow/",
-      "source": "Euractiv",
-      "published_at": "2026-03-22T13:27:57+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "b5a0c6108814d56d0c102ef9ef0caff1dbeb5ce1",
-      "title": "A Brussels Community Moves on From Terrorist Attacks, but New Challenges Emerge",
-      "summary": "Molenbeek was branded a hotbed of radicalization after the Paris and Brussels terrorist attacks of a decade ago. Now it is trying to reinvent itself.",
-      "url": "https://www.nytimes.com/2026/03/22/world/europe/brussels-terror-molenbeek.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-22T08:12:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "New Challenges Emerge"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-26T10:17:08Z"
+  "last_updated": "2026-03-27T10:10:04Z"
 }
