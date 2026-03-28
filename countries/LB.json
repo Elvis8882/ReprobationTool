@@ -3,14 +3,25 @@
   "score": 23,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -1,
-  "sources": 137,
+  "trend": 0,
+  "sources": 138,
   "sentiment": {
     "positive": 3,
-    "neutral": 26,
+    "neutral": 27,
     "negative": 108
   },
   "latest_articles": [
+    {
+      "id": "7254fd0b80425604036c294360e39a157849d076",
+      "title": "'Our home is gone': BBC speaks to displaced families in Lebanon",
+      "summary": "The BBC's Hugo Bachega speaks to families in Beirut as more than a million people have been displaced in Lebanon.",
+      "url": "https://www.bbc.com/news/videos/clyr530yry5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-28T06:00:25+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "displaced families in Lebanon"
+    },
     {
       "id": "cbb7d519a7b52a4354bdcafd483e04c2f35efa89",
       "title": "Displaced by War, Many Seek Shelter in Beirut",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Israel Launches Attacks in Lebanon"
-    },
-    {
-      "id": "ac68ff89c24bcf68adec89961050f668f303fa83",
-      "title": "Israel deliberately targeting medical facilities in south Lebanon, say health workers",
-      "summary": "Medics and officials say there is systematic use of double-tap strikes in campaign to make the south uninhabitableMiddle East crisis – live updatesLebanese healthcare workers and officials say Israeli bombings have delib…",
-      "url": "https://www.theguardian.com/world/2026/mar/21/israel-targeting-medical-facilities-south-lebanon-health-workers",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-21T06:00:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "medical facilities in south Lebanon, killing 40 healthcare workers"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-27T10:10:04Z"
+  "last_updated": "2026-03-28T09:54:22Z"
 }

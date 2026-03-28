@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 3,
+  "sources": 4,
   "sentiment": {
     "positive": 0,
-    "neutral": 2,
+    "neutral": 3,
     "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "9aaf7f2792c2b53aaf0911a063e554c2a7f3a408",
+      "title": "Pope Leo heads to Monaco 488 years after the last papal visit",
+      "summary": "Decision to choose small, wealthy – but very Catholic – state for first European trip has baffled some Vatican observersPope Leo will travel to Monaco, the semi-enclave famous for casinos and superyachts, on Saturday on…",
+      "url": "https://www.theguardian.com/world/2026/mar/28/pope-leo-monaco-papal-visit",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-28T06:00:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Pope Leo heads to Monaco 488 years after the last papal visit"
+    },
     {
       "id": "074e861023e07578f75a58b6b9e0b9b6a7634ccb",
       "title": "Minister and Burnham escalate row with ‘hypocritical’ Ratcliffe over claim UK colonised by immigrants – politics live",
@@ -46,5 +57,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-27T10:10:04Z"
+  "last_updated": "2026-03-28T09:54:22Z"
 }

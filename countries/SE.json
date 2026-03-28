@@ -1,16 +1,37 @@
 {
   "country": "SE",
-  "score": 99,
+  "score": 98,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 182,
+  "trend": -1,
+  "sources": 185,
   "sentiment": {
     "positive": 12,
-    "neutral": 162,
-    "negative": 8
+    "neutral": 164,
+    "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "40bcfd9fb70e05934c6c7de76fe661ca2571bc16",
+      "title": "Middle East conflict risks Europe’s medicines supply, warns Swedish agency [Advocacy Lab]",
+      "summary": "Rocketing fuel prices and the risk of war spreading to the Suez Canal could escalate impact on Europe's pharma supplies",
+      "url": "https://www.euractiv.com/news/middle-east-conflict-risks-europes-medicines-supply-warns-swedish-agency/",
+      "source": "Euractiv",
+      "published_at": "2026-03-27T11:56:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Middle East conflict risks Europe’s medicines supply"
+    },
+    {
+      "id": "e9e275df6b08c40a6e00904899fe9635f3268118",
+      "title": "Czech minister warns EU, wastewater rules risk limiting medicines access [Advocacy Lab]",
+      "summary": "Prague calls on the European Commission and member states to reconsider environmental obligations amid fears of medicine shortages and pressure on generic producers",
+      "url": "https://www.euractiv.com/news/czech-minister-warns-eu-wastewater-rules-risk-limiting-medicines-access/",
+      "source": "Euractiv",
+      "published_at": "2026-03-27T11:32:11+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "3a1adc84c3c182afabfdeb83b0c8e5d317630e47",
       "title": "MEPs back plans for ‘return hubs’, raising fears of ‘human rights black holes’",
@@ -58,6 +79,16 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YTHNBamMxQWFUVDBpemIwU3dDaEJXUUxtX1NMT2ZjbE4xcXRMdVRmMjgyVlBGdDhUMnd4ODVUbS1mamVwdzhkbXBXdHl3TU1KWmJ4SVBDcnFWWW1FVUo2dGFVd0VWVkhOQXBhWkF0bDFadXRHZFNQcGZmMGN1UQ?oc=5",
       "source": "Top stories - Google News",
       "published_at": "2026-03-26T11:11:38+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "3f524634b376a5c4addcae0a33a4a21c66e2a0df",
+      "title": "Commission greenlights Latvia's fourth payment request for €371 million under NextGenerationEU - European Commission",
+      "summary": "Commission greenlights Latvia's fourth payment request for €371 million under NextGenerationEU&nbsp;&nbsp;European Commission",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mX0p3OTFFa3JQWGVBY3VmNkpvR0xJVTg2QkdZYmlPSFJ5N3hjcU15OVBrZmxYSDQzSHhEMThDLUtJa3Joc3pURGlwaDNaeVRTcU5DY0V4ZzhjeHJueGhHMWN4RjYweGpIaEdSM2RjOEU?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-26T10:33:17+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -181,38 +212,8 @@
       "published_at": "2026-03-24T07:20:39+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "0c9e9c7cbf92e1c338e978f6aac4062fe0863134",
-      "title": "EU road deaths drop by 3% in 2025 - European Commission",
-      "summary": "EU road deaths drop by 3% in 2025&nbsp;&nbsp;European CommissionRoad traffic deaths in Greece down 22% in 2025&nbsp;&nbsp;eKathimerini.comEC: Bulgaria on track to meet target of halving annual number of road deaths by 20…",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85NjQtUGI0X2V2M2lpSnhWM0hNMUhRYnAzN084ZUVnTTBjY1ZxUHhBTTFBRDlWdjdBOWhrT2xVRmNUajhLbDNsaDZsejBGUmw5MERpVzhYMXprR09DNzBHRUFQMjBITE4wN1U1NjNSS1o?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-24T04:43:07+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "4b28ebc3a6a7a3df35d575c765fd0c3288404d1d",
-      "title": "EU Parliament willing to compromise on automatic permits for defence factories",
-      "summary": "The EU and national governments are clashing over permit rules for defence factories",
-      "url": "https://www.euractiv.com/news/eu-parliament-willing-to-compromise-on-automatic-permits-for-defence-factories/",
-      "source": "Euractiv",
-      "published_at": "2026-03-23T15:51:13+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "d2800bdc795f481589076b31d2286cee3ecd183a",
-      "title": "From simplification to implementation – Boosting competitiveness and productivity across the EU [Advocacy Lab]",
-      "summary": "The European Commission is committed to making EU legislation more efficient and easier to implement, aiming to reduce administrative burdens by 25% overall and 35% for SMEs. This agenda is central to the Commission’s ef…",
-      "url": "https://www.euractiv.com/video/live-now-from-simplification-to-implementation-boosting-competitiveness-and-productivity-across-the-eu/",
-      "source": "Euractiv",
-      "published_at": "2026-03-23T15:30:58+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-27T10:10:04Z"
+  "last_updated": "2026-03-28T09:54:22Z"
 }

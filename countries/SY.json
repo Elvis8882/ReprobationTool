@@ -1,16 +1,27 @@
 {
   "country": "SY",
-  "score": 86,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 43,
+  "score": 85,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
+  "trend": -1,
+  "sources": 44,
   "sentiment": {
     "positive": 3,
     "neutral": 19,
-    "negative": 21
+    "negative": 22
   },
   "latest_articles": [
+    {
+      "id": "5f99ad1d26982ff74182a05496a71da047ea163f",
+      "title": "U.N. Report Documents Sectarian Violence in Syria That Killed Over 1,700",
+      "summary": "Investigators said the government of President Ahmed al-Sharaa had done little to address the extrajudicial killings and torture of Druse civilians in July 2025.",
+      "url": "https://www.nytimes.com/2026/03/27/world/middleeast/syria-mass-killing-druse-un.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-27T19:38:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Sectarian Violence in Syria That Killed Over 1,700"
+    },
     {
       "id": "125068eb682b291ff129291162a646403836abbe",
       "title": "With Fire and Song, Kurds in Turkey Hail the Start of Spring",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Nightly raids and violent beatings... conditions in Roj camp deteriorate"
-    },
-    {
-      "id": "8de724fd7c0386163158e76f68bddedb071af1b7",
-      "title": "A Makeup Ban in Syria for Women in Government and Public Sector Stirs Outrage",
-      "summary": "A provincial governor wants to prohibit women in government and public sector jobs from wearing makeup, stirring outrage and many, many memes.",
-      "url": "https://www.nytimes.com/2026/02/20/world/middleeast/makeup-ban-women-syria.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-20T22:20:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "A Makeup Ban in Syria for Women in Government and Public Sector Stirs Outrage"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-27T10:10:04Z"
+  "last_updated": "2026-03-28T09:54:22Z"
 }
