@@ -1,16 +1,49 @@
 {
   "country": "GR",
-  "score": 95,
+  "score": 93,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 199,
+  "trend": -2,
+  "sources": 203,
   "sentiment": {
     "positive": 18,
-    "neutral": 164,
-    "negative": 17
+    "neutral": 166,
+    "negative": 19
   },
   "latest_articles": [
+    {
+      "id": "7ba3d411cd5b5b3500ebbefd4a81b161ca18b035",
+      "title": "Two Sudanese men face court in Greece after at least 22 people die off Crete coast",
+      "summary": "Survivors tell coastguard smugglers ordered victims to be thrown overboard after six days adrift in boat from LibyaTwo Sudanese men, believed by Greek authorities to have been behind a smuggling operation in which 22 peo…",
+      "url": "https://www.theguardian.com/world/2026/mar/28/22-people-die-after-six-days-adrift-in-boat-attempting-to-reach-europe-from-libya",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-28T16:54:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "smugglers ordered victims to be thrown overboard"
+    },
+    {
+      "id": "c2ab30609877cbf380e13df8395aafdb01b322de",
+      "title": "Twenty-two migrants die off Greek coast after six days at sea",
+      "summary": "Poor weather and a lack of food and water contributed to the deaths, the Greek coastguard says.",
+      "url": "https://www.bbc.com/news/articles/cnv8z1lvn8ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-28T15:11:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Twenty-two migrants die off Greek coast"
+    },
+    {
+      "id": "10074eba36bd30a72916675f989745b5d37342f3",
+      "title": "Clocks go forward one hour in Greece this Sunday as daylight saving time begins - Greek City Times",
+      "summary": "Clocks go forward one hour in Greece this Sunday as daylight saving time begins&nbsp;&nbsp;Greek City TimesClocks go forward an hour in Estonia overnight Sunday&nbsp;&nbsp;ERRGreece ahead of time: Daylight saving kicks i…",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUUNHWjhyVXJIU0MwTmVfUlFxa29jVzR3b1ZGUXU5cXNxZXRlT242NG00b1RIcVZmRWpDdEFXNm1XSVotOVZqaGxrbU14Zjd0Rm9JNE5FSHpFUmlzMXhNeXk4aUdrM3pvX1VvT1JHelpJb1N3ZVBhTjFzR2tnSXRRbmJuR1N3Qkx5dTdnbU9tUQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-28T07:00:56+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Clocks go forward one hour in Greece"
+    },
     {
       "id": "e9e275df6b08c40a6e00904899fe9635f3268118",
       "title": "Czech minister warns EU, wastewater rules risk limiting medicines access [Advocacy Lab]",
@@ -69,6 +102,16 @@
       "url": "https://www.nytimes.com/2026/03/26/world/europe/eu-trade-deal-us-european-parliament.html",
       "source": "NYT > World News",
       "published_at": "2026-03-26T15:01:15+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "55eb8ba535e94edf05b5913cf95585150f129cdf",
+      "title": "1 million deaths from avoidable conditions in 2023 - European Commission",
+      "summary": "1 million deaths from avoidable conditions in 2023&nbsp;&nbsp;European CommissionCyprus recorded the lowest rate of avoidable deaths in the EU in 2023&nbsp;&nbsp;ΚΥΠΕLatvia has EU's highest rate of preventable deaths / A…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZaHBqOVBWZER1Sm1RZEx5ZjhmcWs0NWtYN3ZKUlFmY1lPMDU2ZWl0WkVVcnJHdF9QR0dfUFFSY3RaZjJyRWt3VXNFRnZ4SlJyazA1VE9GUXpRM1dQb0ljaEpoOEJ5STV6T0ZfMWZwT0FCbHlMaU9BSjVaUWVEdw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-26T11:45:56+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -173,49 +216,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "EU prosecutor probes multiple cases in Greek farm subsidy scandal"
-    },
-    {
-      "id": "305d3cbe64792fd5f571d252930e09803854e88d",
-      "title": "EU should discuss security with Russia ‘in the future,’ says Costa",
-      "summary": "European Council president bats away a question from pro-Russian student at Sciences Po university",
-      "url": "https://www.euractiv.com/news/eu-should-discuss-security-with-russia-in-the-future-says-costa/",
-      "source": "Euractiv",
-      "published_at": "2026-03-24T15:09:50+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "642e2b9a6f453c5b16845dbd00fa9a55bf05eefd",
-      "title": "Russian oil import ban dropped from Brussels short-term agenda",
-      "summary": "European Commission plays down disappearance of keenly awaited proposal from April-May schedule",
-      "url": "https://www.euractiv.com/news/russian-oil-import-ban-dropped-from-brussels-short-term-agenda/",
-      "source": "Euractiv",
-      "published_at": "2026-03-24T13:50:53+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "5195c39899b1b69346b73b3fa4f9ed75ebe1d8aa",
-      "title": "Hungary’s Szijjártó defends Moscow contacts as standard diplomatic practice",
-      "summary": "The European Commission earlier urged Budapest to clarify the reports, calling them “concerning”.",
-      "url": "https://www.euractiv.com/news/hungarys-szijjarto-defends-moscow-contacts-as-standard-diplomatic-practice/",
-      "source": "Euractiv",
-      "published_at": "2026-03-24T10:55:49+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f49c957d9d0fec0fee4ff5bb397b49c72b043036",
-      "title": "FIRST AID: Greece pushes freeze on wastewater rules",
-      "summary": "In today's edition: MFN, tuberculosis, Germany insurance",
-      "url": "https://www.euractiv.com/news/first-aid-greece-pushes-freeze-on-wastewater-rules/",
-      "source": "Euractiv",
-      "published_at": "2026-03-24T07:42:17+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Greece pushes freeze on wastewater rules"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-28T09:54:22Z"
+  "last_updated": "2026-03-29T09:53:10Z"
 }

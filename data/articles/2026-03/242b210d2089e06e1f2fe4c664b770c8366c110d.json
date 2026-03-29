@@ -17,8 +17,25 @@
     "ES",
     "RU"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-03-28T09:54:22+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-29T09:53:09+00:00",
+  "sentiment_by_country": {
+    "DE": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia is trying to recruit 'disposable agents'"
+    },
+    "ES": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia is trying to recruit 'disposable agents'"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia is trying to recruit 'disposable agents'"
+    }
+  },
+  "processed_at": "2026-03-29T09:53:09+00:00"
 }

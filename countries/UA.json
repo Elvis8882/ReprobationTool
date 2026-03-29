@@ -1,16 +1,49 @@
 {
   "country": "UA",
-  "score": 32,
+  "score": 29,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 459,
+  "trend": -3,
+  "sources": 468,
   "sentiment": {
-    "positive": 174,
-    "neutral": 109,
-    "negative": 176
+    "positive": 177,
+    "neutral": 110,
+    "negative": 181
   },
   "latest_articles": [
+    {
+      "id": "b835d4a6130dbc9b49ff20536cce172aeb8d8e48",
+      "title": "Ukraine Finalizes Air Defense Deals With Gulf Nations Amid War in Mideast",
+      "summary": "The Ukrainian president visited the Middle East, where he sought to shift his country from a recipient of military aid to a supplier.",
+      "url": "https://www.nytimes.com/2026/03/28/world/europe/ukraine-air-defense-deal-qatar-saudi-arabia.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-28T19:53:21+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "shift his country from a recipient of military aid to a supplier"
+    },
+    {
+      "id": "9d78ed29c45b71a3657af0ef788605c731021c54",
+      "title": "Russian strikes kill 4 in Ukraine, damage port, maternity hospital",
+      "summary": "\"There was no military purpose whatsoever -- this was pure terror against ordinary civilian life,\" Ukrainian President Volodymyr Zelenskyy said",
+      "url": "https://www.euractiv.com/news/russian-strikes-kill-4-in-ukraine-damage-port-maternity-hospital/",
+      "source": "Euractiv",
+      "published_at": "2026-03-28T16:25:32+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "strikes kill 4 in Ukraine, damage port"
+    },
+    {
+      "id": "6347fe596400f5c5e9e71eeafac9741728874383",
+      "title": "Orbán’s party buying votes in rural Hungary, claims documentary - TVP World",
+      "summary": "Orbán’s party buying votes in rural Hungary, claims documentary&nbsp;&nbsp;TVP WorldOrban's Hungarian government accused of mass voter intimidation ahead of election&nbsp;&nbsp;BBCTop Hungary news: Mass vote-buying, sanc…",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSXBxMGw5ZnNFalpleDdwVDNhbS04M29oNFBncWo5eXZqaUNjTHBDcG16NFlxUVVNd1RhalZnVEJPemZ1QnprZG9Udnh5ZDBPX1pQUFc1akpKdXd1bUlQckJDYXZZYnJPbUN5Ujl4b29MVDN0bXVWQ0YwZHZhSUs0OU9XVGZWbFRTN0hWamhaR3ZzdmJ2?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-27T20:35:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Risks for Ukraine"
+    },
     {
       "id": "0ce89f579b6943b26098054e0d1b3d0dcaf5bd66",
       "title": "Ukraine signed a defense cooperation agreement with Saudi Arabia, Zelensky says.",
@@ -67,6 +100,17 @@
       "evidence": "Two key supporters of Russia's war in Ukraine close ranks"
     },
     {
+      "id": "c71a55699690b202f940c09ddd8305bccb08a0e8",
+      "title": "Europeans Worry Russia Is Preparing to Deliver Drones to Iran",
+      "summary": "The drones are an improved version of a weapon that Iran sent to Russia for use in its war in Ukraine.",
+      "url": "https://www.nytimes.com/2026/03/26/world/europe/iran-russia-europe-drones.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-27T00:35:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran sent to Russia for use in its war"
+    },
+    {
       "id": "a53c3f8c69695b69421a2bee2576b69f3e25e7be",
       "title": "Hungary charges journalist after claims minister was in touch with Moscow",
       "summary": "Investigative reporter Szabolcs Panyi covered story alleging foreign minister had passed information to Sergei LavrovThe Hungarian government has filed charges against one of the country’s most prominent investigative jo…",
@@ -78,6 +122,17 @@
       "evidence": "accusing him of spying for Ukraine"
     },
     {
+      "id": "39a09e10f755977eac1fe8b8465bd4fc9b8ba296",
+      "title": "Estonia participates in Kyiv discussion on Ukraine's economy - The Baltic Times",
+      "summary": "Estonia participates in Kyiv discussion on Ukraine's economy&nbsp;&nbsp;The Baltic Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeUJiYmNHbWNoaS1rczczeDktc0l3YWlFMm52SEZnbG40Rzgzczd2MXJhRFpkbHpzazlfdXdSVnJ4MHo1RU9JcTVGSGZ2Vjdua2RTTnhwaTRWRVhXMUgxeXc5eFNmZE1CMk9EMVRLMU5BZ1ppZGpFaXE5d2QtenV1YUotc0VPcml0R1hXMGNhM1Nzak0?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-26T15:09:41+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Estonia participates in Kyiv discussion on Ukraine's economy"
+    },
+    {
       "id": "976c0dc02ae790fc1f985e644dc7a94981447af4",
       "title": "Russian Lawmakers Go to U.S. for First Time Since Invasion of Ukraine",
       "summary": "The State Department had to lift sanctions on Russian lawmakers invited by a Kremlin-friendly member of Congress.",
@@ -87,6 +142,17 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "First Time Since Invasion of Ukraine"
+    },
+    {
+      "id": "05f9e0c171e05e5a9a38de84fb65db6f13ab338b",
+      "title": "Russian lawmakers visit US to help ‘revive’ ties",
+      "summary": "The visit comes as US-brokered talks to end the war in Ukraine remain effectively frozen",
+      "url": "https://www.euractiv.com/news/russian-lawmakers-visit-us-to-help-revive-ties/",
+      "source": "Euractiv",
+      "published_at": "2026-03-26T11:07:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "talks to end the war in Ukraine remain effectively frozen"
     },
     {
       "id": "fdcd8afd05dc9552424518a7f6e67ec2b5b13e3f",
@@ -144,6 +210,17 @@
       "evidence": "Latvia has protested to Russia over the Ukrainian drone"
     },
     {
+      "id": "c52cee32bfb72441712d7dd8a23ea6a8f5f7c942",
+      "title": "Russia hits Ukrainian cities, intensifying bombing as U.S. focuses on Iran",
+      "summary": "Ukraine said eight people were killed as Russia launched a bombardment that included its largest single-day drone assault of the war.",
+      "url": "https://www.washingtonpost.com/world/2026/03/25/ukraine-russia-drone-attack/",
+      "source": "World (Washington post)",
+      "published_at": "2026-03-25T17:34:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Ukraine said eight people were killed"
+    },
+    {
       "id": "6d60d300dca38aef355604588ebe5c732cfb268c",
       "title": "Merz says Ukraine no longer needs German Taurus missiles",
       "summary": "\"Ukraine itself has long-range weapons in its depots, which it has built itself,\" Merz said",
@@ -153,85 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Ukraine no longer needs German Taurus missiles"
-    },
-    {
-      "id": "9ffd8834906b7f5511f68fda29d54fadb87ce9a1",
-      "title": "Russia handed diplomatic note over crash of Ukrainian drone in Latvia",
-      "summary": "Latvia's Ministry of Foreign Affairs said that on March 25th it had summoned a Russian diplomat – not for the first time –&nbsp;to be handed&nbsp;a protest note in connection with that country's warmongering.&nbsp;",
-      "url": "https://eng.lsm.lv/article/politics/diplomacy/25.03.2026-russia-handed-diplomatic-note-over-crash-of-ukrainian-drone-in-latvia.a640429/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-03-25T14:54:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "crash of Ukrainian drone"
-    },
-    {
-      "id": "9377478af031bc1fd12586fd7458420147d118b9",
-      "title": "Hungary to phase out gas deliveries to Ukraine",
-      "summary": "'To break the oil blockade and guarantee the security of Hungary's energy supply, new measures are now necessary,' Orbán said",
-      "url": "https://www.euractiv.com/news/hungary-to-phase-out-gas-deliveries-to-ukraine/",
-      "source": "Euractiv",
-      "published_at": "2026-03-25T11:22:27+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Hungary to phase out gas deliveries to Ukraine"
-    },
-    {
-      "id": "3a14786cbbed33af431913453b6ec71fa7b5807a",
-      "title": "Ukraine Finally Got Battlefield Momentum. Now Comes a Russian Offensive.",
-      "summary": "Moscow’s forces are intensifying their attacks in southern Ukraine after Kyiv made rare gains along the front.",
-      "url": "https://www.nytimes.com/2026/03/25/world/europe/ukraine-russia-war-zaporizhzhia.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-25T09:41:18+00:00",
-      "sentiment": "positive",
-      "confidence": 0.5,
-      "evidence": "Ukraine Finally Got Battlefield Momentum."
-    },
-    {
-      "id": "301e707491b69d977ba0dbf553d0091b934a14f5",
-      "title": "Drones Enter Baltic Airspace, Hitting Power Plant in Estonia - Bloomberg.com",
-      "summary": "Drones Enter Baltic Airspace, Hitting Power Plant in Estonia&nbsp;&nbsp;Bloomberg.comUkraine-Russia war latest: Nato member says Russian drone entered its airspace in new wave of aerial attacks&nbsp;&nbsp;The Independent…",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQmhsVFgtYkRLb2twUFhHa2k2Mk9XTTl6ZUZGbjdlVklONmlXLW1XdDlLaEJFbmNTNE5lTzV6MDFzeGxMTmdzNk00Sm5hdEFKTTZLbjA3NXViTjViR3hLRnhzSkFvVjJUSnlZMk1pQUlLazItZVo4WjdlNlQxY0Z1Q2ptR2xySzhmR1l2dzdwR0NuT0NpMFpHS1VWX01kS1IzN3BPU0g1U3JaWmhISlNV?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-25T07:34:43+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine-Russia war latest"
-    },
-    {
-      "id": "979cb1ebbba7c48ca2bf0695c9028928e1723e2f",
-      "title": "Ukraine war briefing: Moldova declares emergency after Russian attack cuts key power line",
-      "summary": "President urges people to reduce consumption after power line passing through Ukraine damaged by drones; Moscow spring offensive steps up. What we know on day 1,491Moldova declared a state of emergency in the energy sect…",
-      "url": "https://www.theguardian.com/world/2026/mar/25/ukraine-war-briefing-moldova-declares-emergency-after-russian-attack-cuts-key-power-line",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-25T05:49:33+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russian attack cuts key power line"
-    },
-    {
-      "id": "ab59e6bfc7a176d68c5873e9b63a1dc4b4e9c3b0",
-      "title": "Massive Russian drone attacks kill eight, hit Ukraine UNESCO site",
-      "summary": "Russia fired nearly 1,000 drones at Ukraine in 24 hours, unleashing one of its biggest-ever daytime attacks",
-      "url": "https://www.euractiv.com/news/massive-russian-drone-attacks-kill-eight-hit-ukraine-unesco-site/",
-      "source": "Euractiv",
-      "published_at": "2026-03-24T22:41:48+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "hit Ukraine UNESCO site"
-    },
-    {
-      "id": "b425c65a87f820000e162e31fb08055511ae3c69",
-      "title": "Russia launches 948 drones at Ukraine in largest attack over 24-hour period",
-      "summary": "Cities across Ukraine were hit, with local officials reporting at least eight people killed and dozens injured.",
-      "url": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-24T21:47:10+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Cities across Ukraine were hit, with local officials reporting at least eight people killed"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-28T09:54:22Z"
+  "last_updated": "2026-03-29T09:53:10Z"
 }

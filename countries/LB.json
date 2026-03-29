@@ -1,16 +1,71 @@
 {
   "country": "LB",
-  "score": 23,
+  "score": 19,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 138,
+  "trend": -4,
+  "sources": 145,
   "sentiment": {
     "positive": 3,
-    "neutral": 27,
-    "negative": 108
+    "neutral": 28,
+    "negative": 114
   },
   "latest_articles": [
+    {
+      "id": "b38f2b4af0f22beb5643a4f21fc8fc96fe6d91e1",
+      "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+      "summary": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
+      "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-29T07:51:04+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Three Lebanese journalists killed in Israeli strike"
+    },
+    {
+      "id": "3d3790f13dfcb7315b82cc132a065f5295b80142",
+      "title": "\"Violation Of International Law\": Lebanon On 3 Journalists' Deaths In Israeli Strikes",
+      "summary": "Among the journalists were Al Mayadeen's Fatima Ftouni and Al-Manar's Ali Shaib.",
+      "url": "https://www.ndtv.com/world-news/middle-east-war-violation-of-international-law-lebanon-on-3-journalists-deaths-in-israeli-strikes-11281025#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-29T04:13:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Lebanon On 3 Journalists' Deaths In Israeli Strikes"
+    },
+    {
+      "id": "51e7d73d2138a96c903ed9533638659439624e1a",
+      "title": "Lebanon faces moment of truth as decision to expel Iranian envoy looms",
+      "summary": "Western countries watching closely for proof that Beirut can escape Tehran's orbit",
+      "url": "https://www.euractiv.com/news/lebanon-faces-moment-of-truth-as-decision-to-expel-iranian-envoy-looms/",
+      "source": "Euractiv",
+      "published_at": "2026-03-29T04:00:37+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Lebanon faces moment of truth"
+    },
+    {
+      "id": "8707242e5c0b783d2b679b67d7093a61b35c67b7",
+      "title": "Israel Kills 3 Journalists in Lebanon Strike, Claims 1 Was Hezbollah Member",
+      "summary": "Al Mayadeen and Al Manar confirmed the deaths of their journalists.",
+      "url": "https://www.ndtv.com/world-news/israel-iran-war-israel-kills-3-journalists-in-lebanon-strike-claims-1-was-hezbollah-member-11279795#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-29T02:35:32+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Israel Kills 3 Journalists in Lebanon Strike"
+    },
+    {
+      "id": "21e41ad99faf066bbc4bcdbd87a672ce3df96a1e",
+      "title": "Israeli Strike Kills 3 Journalists in Southern Lebanon, Officials Say",
+      "summary": "Israel accused one of the reporters of being a Hezbollah operative. Lebanon’s president said they were journalists and condemned the killings.",
+      "url": "https://www.nytimes.com/2026/03/28/world/middleeast/lebanon-journalists-killed-israeli-strike.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-28T19:14:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli Strike Kills 3 Journalists in Southern Lebanon"
+    },
     {
       "id": "7254fd0b80425604036c294360e39a157849d076",
       "title": "'Our home is gone': BBC speaks to displaced families in Lebanon",
@@ -21,6 +76,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "displaced families in Lebanon"
+    },
+    {
+      "id": "31b29bab8d3a0881add307703598a22d5b8a0976",
+      "title": "Yemen’s Houthis launch first attack on Israel since outbreak of conflict, as Rubio says war to end in ‘weeks’",
+      "summary": "Missile fired from Yemen the first since the Iran war began and came hours after the US secretary set a new timeline for the conflictMiddle East crisis – live updatesYemen’s Iran-aligned Houthis have confirmed that they…",
+      "url": "https://www.theguardian.com/world/2026/mar/27/us-expects-iran-operation-to-end-in-weeks-not-months-says-marco-rubio",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-28T05:56:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "targeting of infrastructure in Iran, Lebanon, Iraq"
     },
     {
       "id": "cbb7d519a7b52a4354bdcafd483e04c2f35efa89",
@@ -164,74 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "destroy the crossings over the Litani river that were being used by Hezbollah"
-    },
-    {
-      "id": "1f0e8a6d51857626620ae5187ff0873955fb8eb1",
-      "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
-      "summary": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
-      "url": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-22T20:23:07+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "fears in Lebanon that Israel is preparing for a large-scale"
-    },
-    {
-      "id": "392023d563843dc5a52c4f9a1506ce3c7ad4b04a",
-      "title": "Israel Orders Military to Intensify Demolitions in Southern Lebanon",
-      "summary": "Israel Katz, the defense minister, said he ordered troops to destroy more bridges and buildings in southern Lebanon, stoking worries that Israel was widening a military-controlled buffer zone there.",
-      "url": "https://www.nytimes.com/2026/03/22/world/middleeast/israel-lebanon-fighting-hezbollah.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-22T19:45:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel Orders Military to Intensify Demolitions in Southern Lebanon"
-    },
-    {
-      "id": "9f8baadecf060f678e75b39ec4270ddff58ac4d0",
-      "title": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War",
-      "summary": "Thousands displaced by Israeli strikes on Lebanon’s capital now shelter along the promenade hugging the Mediterranean Sea. They share it with joggers, cyclists and dog walkers, alongside dizzying displays of wealth.",
-      "url": "https://www.nytimes.com/2026/03/22/world/middleeast/beirut-israel-war-displaced-corniche.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-22T09:01:08+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israeli strikes on Lebanon’s capital"
-    },
-    {
-      "id": "ae4fff662a3fd7e3b1490452a9c53c87bb97eb26",
-      "title": "Israel Strikes Across Lebanon Amid Fierce Ground Fighting in the South",
-      "summary": "The Israeli military said it was stepping up attacks aimed at infrastructure in Beirut belonging to Hezbollah.",
-      "url": "https://www.nytimes.com/2026/03/21/world/middleeast/heavy-storms-in-beirut-cap-a-morning-of-ongoing-israeli-strikes.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-21T17:35:03+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": ""
-    },
-    {
-      "id": "5e3644e162b5bb9e49ac1d1fd45300a11e741c86",
-      "title": "How the Litani River Shapes the Israel-Hezbollah War",
-      "summary": "The 90-mile waterway, back in focus amid Israel’s renewed offensive in Lebanon, could define how far the fighting spreads.",
-      "url": "https://www.nytimes.com/2026/03/21/world/middleeast/litani-river-israel-hezbollah-war.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-21T16:20:49+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Israel’s renewed offensive in Lebanon"
-    },
-    {
-      "id": "b904b042e3de542c1288183cfed35ff1f683da3d",
-      "title": "Iran War Live Updates: Israel Launches Attacks in Lebanon as Iran Fires on U.S. Allies",
-      "summary": "The United States temporarily lifted sanctions on some Iranian oil in an effort to ease surging global oil prices.",
-      "url": "https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump",
-      "source": "NYT > World News",
-      "published_at": "2026-03-21T09:33:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel Launches Attacks in Lebanon"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-28T09:54:22Z"
+  "last_updated": "2026-03-29T09:53:10Z"
 }

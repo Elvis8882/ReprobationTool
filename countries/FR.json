@@ -1,16 +1,49 @@
 {
   "country": "FR",
-  "score": 96,
+  "score": 97,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 413,
+  "trend": 1,
+  "sources": 419,
   "sentiment": {
-    "positive": 69,
-    "neutral": 302,
+    "positive": 71,
+    "neutral": 306,
     "negative": 42
   },
   "latest_articles": [
+    {
+      "id": "4fc652dc9f3cb722aa55877fb6b9b62503ddccb3",
+      "title": "Watch: Iconic global landmarks turn off lights for Earth Hour",
+      "summary": "France's Eiffel Tower and Barcelona's Sagrada Família Basilica were among the famous global landmarks that went dark for an hour on Saturday night.",
+      "url": "https://www.bbc.com/news/videos/c4gx042nlezo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-28T22:02:34+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "France's Eiffel Tower and Barcelona's Sagrada Família"
+    },
+    {
+      "id": "5e02e1b816bd2538d86f43a156baa1d5160f626d",
+      "title": "Sugar high(st): more than twelve tons of KitKat’s ‘new chocolate range’ stolen in Italy",
+      "summary": "Thieves made a break for 413,793 units of the company’s new F1 line bars which could cause shortage before EasterA large shipment of KitKat bars was stolen while in transit to distributors, a major candy crime right befo…",
+      "url": "https://www.theguardian.com/world/2026/mar/28/kitkat-stolen-italy-f1-bar",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-28T20:38:37+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Agence France-Presse reported"
+    },
+    {
+      "id": "5d478b80392874d9788c0dd6c46d4b413b99384b",
+      "title": "Man in Paris Accused of Attempted Attack on Bank of America",
+      "summary": "Prosecutors say the police thwarted an attacker as he was trying to detonate explosives. The episode is being investigated as possible terrorism.",
+      "url": "https://www.nytimes.com/2026/03/28/world/europe/paris-attack-bank-of-america.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-28T19:27:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Man in Paris Accused of Attempted Attack on Bank of America"
+    },
     {
       "id": "5108835c0376009f9ab34f8635d465835ca0844a",
       "title": "Europe Is Drafting Postwar Plan to Escort Tankers, Officials Say",
@@ -21,6 +54,17 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "France and Britain are leading planning to have warships escort vessels"
+    },
+    {
+      "id": "4d1f965f3fa5901c2bee744da06ed2e7d45efd63",
+      "title": "Austria becomes latest to propose social media ban for children",
+      "summary": "The proposed under-14 ban follows similar steps in other European countries, including France and Spain.",
+      "url": "https://www.bbc.com/news/articles/cwyv70de9exo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-27T17:21:42+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "similar steps in other European countries, including France and Spain"
     },
     {
       "id": "9bdbca5a3149d33f7d8f55dfb3b1ad35a4c7164a",
@@ -75,6 +119,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "US pressured France to rescind Ramaphosa’s invitation"
+    },
+    {
+      "id": "b8f28a2f0032c1854ccaab8b401c30297b1eb25f",
+      "title": "Rubio Says Allies Should Help Secure Strait by Iran for Oil and Gas Ships",
+      "summary": "The secretary of state said the United States and Iran were passing messages to each other as he headed to France for a diplomatic meeting of the Group of 7 nations.",
+      "url": "https://www.nytimes.com/2026/03/26/world/middleeast/rubio-strait-of-hormuz-iran-oil.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-27T03:56:42+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "diplomatic meeting of the Group of 7 nations."
     },
     {
       "id": "31defe65478a2de3c8b7557ea1e57280895a12a6",
@@ -139,6 +194,16 @@
       "evidence": "France moves to curb carcinogenic cadmium in fertilisers"
     },
     {
+      "id": "55eb8ba535e94edf05b5913cf95585150f129cdf",
+      "title": "1 million deaths from avoidable conditions in 2023 - European Commission",
+      "summary": "1 million deaths from avoidable conditions in 2023&nbsp;&nbsp;European CommissionCyprus recorded the lowest rate of avoidable deaths in the EU in 2023&nbsp;&nbsp;ΚΥΠΕLatvia has EU's highest rate of preventable deaths / A…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZaHBqOVBWZER1Sm1RZEx5ZjhmcWs0NWtYN3ZKUlFmY1lPMDU2ZWl0WkVVcnJHdF9QR0dfUFFSY3RaZjJyRWt3VXNFRnZ4SlJyazA1VE9GUXpRM1dQb0ljaEpoOEJ5STV6T0ZfMWZwT0FCbHlMaU9BSjVaUWVEdw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-26T11:45:56+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "32da0ff0157327ee91715ee853c9dae5b65e3923",
       "title": "25% of goods transported by road in the EU - European Commission",
       "summary": "25% of goods transported by road in the EU&nbsp;&nbsp;European Commission",
@@ -157,73 +222,8 @@
       "published_at": "2026-03-26T10:33:17+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "912c56b5b2c1aad6afd7e90f11ff05548248bbee",
-      "title": "Two drone strikes on civilian targets kill 28 people in Sudan",
-      "summary": "Market in North Darfur and truck carrying civilians in North Kordofan hit as civil war approaches fourth yearAt least 28 civilians have been killed in two separate drone strikes in Sudan, according to health workers, as…",
-      "url": "https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-26T10:24:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Agence France-Presse (AFP)"
-    },
-    {
-      "id": "b4dc3b4a9550ebb974e3aa547ba96dd1245a151c",
-      "title": "Air Canada C.E.O. Draws Scorn for Delivering Condolences Only in English",
-      "summary": "The lack of French in Michael Rousseau’s speech about the deadly collision at LaGuardia Airport reignited a debate over linguistic inclusivity in Canada.",
-      "url": "https://www.nytimes.com/2026/03/25/world/canada/air-canada-ceo-speech-french.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-26T06:45:03+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "The lack of French in Michael Rousseau’s speech"
-    },
-    {
-      "id": "63ff05b4b0cbf94310c0e20eca1a4cb41220882a",
-      "title": "EU healthcare workers say they ‘refuse to be instruments’ in deportation plans",
-      "summary": "Professionals from across Europe urge MEPs to reject plans, saying ‘climate of fear’ could stop people seeking careMore than 1,100 healthcare professionals from across Europe have urged MEPs to reject proposed measures a…",
-      "url": "https://www.theguardian.com/world/2026/mar/26/eu-europe-healthcare-workers-deportation-plans",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-26T05:00:27+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "c3d7e3b6f72d09714239c317d604ca95dad7c80e",
-      "title": "G7 meets in France to narrow transatlantic Iran split",
-      "summary": "The two-day gathering at the Vaux-de-Cernay Abbey comes as the White House said President Donald Trump is ready to \"unleash hell\" if Iran does not accept a deal to end the war",
-      "url": "https://www.euractiv.com/news/g7-meets-in-france-to-narrow-transatlantic-iran-split/",
-      "source": "Euractiv",
-      "published_at": "2026-03-26T03:55:25+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "G7 meets in France to narrow transatlantic Iran split"
-    },
-    {
-      "id": "705854e6cc24e43e8da1371389d0619d04a0bbe1",
-      "title": "Mark Carney rebukes Air Canada chief over English-only crash message",
-      "summary": "The prime minister says the condolence video after the fatal LaGuardia crash revived anger over linguistic rightsCanada’s prime minister, Mark Carney, has said a decision by Air Canada’s top executive to post an English-…",
-      "url": "https://www.theguardian.com/world/2026/mar/25/mark-carney-air-canada-fire-truck-crash",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-25T19:47:43+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "linguistic rights protections in the province of Quebec"
-    },
-    {
-      "id": "f450e71c42dd7ac86533b96c817629c43cb74aaf",
-      "title": "France ‘confident’ that EU probe won’t block nuclear plans",
-      "summary": "The government expects a European Commission investigation by the end of March",
-      "url": "https://www.euractiv.com/news/france-confident-that-eu-probe-wont-block-nuclear-plans/",
-      "source": "Euractiv",
-      "published_at": "2026-03-25T17:11:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "France ‘confident’ that EU probe won’t block nuclear plans"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-28T09:54:22Z"
+  "last_updated": "2026-03-29T09:53:10Z"
 }

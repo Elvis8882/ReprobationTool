@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 81,
+  "score": 80,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 71,
+  "trend": -1,
+  "sources": 72,
   "sentiment": {
     "positive": 2,
     "neutral": 40,
-    "negative": 29
+    "negative": 30
   },
   "latest_articles": [
+    {
+      "id": "31b29bab8d3a0881add307703598a22d5b8a0976",
+      "title": "Yemen’s Houthis launch first attack on Israel since outbreak of conflict, as Rubio says war to end in ‘weeks’",
+      "summary": "Missile fired from Yemen the first since the Iran war began and came hours after the US secretary set a new timeline for the conflictMiddle East crisis – live updatesYemen’s Iran-aligned Houthis have confirmed that they…",
+      "url": "https://www.theguardian.com/world/2026/mar/27/us-expects-iran-operation-to-end-in-weeks-not-months-says-marco-rubio",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-28T05:56:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "targeting of infrastructure in Iran, Lebanon, Iraq"
+    },
     {
       "id": "edf2ef56cd6503c0673e272c4e351f579c06d75d",
       "title": "Europeans Are Angry at Trump, but Often Forgiving of Americans",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Under drone fire, exiled Kurds wait to confront Iranian regime"
-    },
-    {
-      "id": "c5f1c3ff953c34fe6662f6037f42c469243bcb29",
-      "title": "‘No clear goal’: lack of Iran war plan has unleashed chaos and could stymie US military for decades, say critics",
-      "summary": "White House contends with reality of shoddy preparations for war and unclear conditions for victoryMiddle East crisis – live updatesSign up for the Breaking News US newsletter emailAs US and Israeli jets descended to del…",
-      "url": "https://www.theguardian.com/us-news/2026/mar/13/goal-plan-iran-war-military",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-13T17:51:20+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "start of the Iraq war in 2003"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-28T09:54:22Z"
+  "last_updated": "2026-03-29T09:53:10Z"
 }

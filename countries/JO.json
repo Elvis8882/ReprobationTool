@@ -1,16 +1,38 @@
 {
   "country": "JO",
-  "score": 61,
+  "score": 65,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 12,
+  "trend": 4,
+  "sources": 14,
   "sentiment": {
-    "positive": 1,
-    "neutral": 7,
+    "positive": 2,
+    "neutral": 8,
     "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "d353873d7996d7b630e10912a605c7067c372801",
+      "title": "Gulf countries warn of rising threat from Iran-backed militias and proxies",
+      "summary": "Fears grow that Tehran may start activating sleeper cells across Middle East as part of war with US and IsraelMiddle East crisis – live updatesGulf countries have raised concerns over the prospect of attacks by Iran-back…",
+      "url": "https://www.theguardian.com/world/2026/mar/28/gulf-countries-threat-iran-backed-militias-proxies-war-us-israel-middle-east",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-28T05:00:19+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Jordan condemned Iranian attacks on their soil"
+    },
+    {
+      "id": "6927e5132d49934e5cbb1e8a5e4449342a12ee73",
+      "title": "Middle East crisis live: Iran’s military mocks Trump’s claims of ceasefire talks, strikes Gulf states overnight",
+      "summary": "Iran says it fired missiles at Israel and US forces in bases in Kuwait, Jordan and Bahrain; military spokesman asks US if it is ‘negotiating with yourselves’Trump’s rehashed 15-point Iran plan unlikely to appease TehranI…",
+      "url": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-25T09:32:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "strikes Gulf states overnight"
+    },
     {
       "id": "c95ab4d02922a79b5f4e179cd89c7d23127424e5",
       "title": "US set to send airborne troops to Middle East as Trump claims talks with Iran taking place",
@@ -145,5 +167,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-28T09:54:22Z"
+  "last_updated": "2026-03-29T09:53:10Z"
 }

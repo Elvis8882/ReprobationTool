@@ -19,8 +19,30 @@
     "IR",
     "LB"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-03-28T09:54:22+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-03-29T09:53:09+00:00",
+  "sentiment_by_country": {
+    "IL": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "attack on Israel for the first time"
+    },
+    "IQ": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "targeting of infrastructure in Iran, Lebanon, Iraq"
+    },
+    "IR": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "Israel-US war on Iran, marking their entry to the conflict"
+    },
+    "LB": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "targeting of infrastructure in Iran, Lebanon, Iraq"
+    }
+  },
+  "processed_at": "2026-03-29T09:53:09+00:00"
 }
