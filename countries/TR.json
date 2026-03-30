@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 67,
+  "score": 68,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 1,
-  "sources": 56,
+  "sources": 57,
   "sentiment": {
-    "positive": 8,
+    "positive": 9,
     "neutral": 38,
     "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "78e3647f4d1471d1813922a7676ca744e95a48c4",
+      "title": "Regional officials meet in Pakistan to discuss the war in Iran.",
+      "summary": "Pakistani officials hosted talks on Sunday with the foreign ministers of Saudi Arabia, Turkey and Egypt, in the country’s latest efforts to mediate the war in the Middle East.",
+      "url": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/regional-officials-pakistan-meeting",
+      "source": "NYT > World News",
+      "published_at": "2026-03-30T02:14:16+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "foreign ministers of... Turkey... mediate the war"
+    },
     {
       "id": "0dd4f8eee01be69bc0f50eb99d1135a605834392",
       "title": "Israeli strikes and US troop buildup put Pakistan’s peacemaker role under pressure - The Guardian",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Iranian Missile Entering Turkey’s Airspace"
-    },
-    {
-      "id": "216025798759ebf75db208971f959a204d9ebe0d",
-      "title": "Trial of Ekrem Imamoglu, Erdogan’s Rival, Begins in Turkey",
-      "summary": "Ekrem Imamoglu, the former mayor of Istanbul who stands accused of corruption, clashed with the judge and criticized the trial as baseless.",
-      "url": "https://www.nytimes.com/2026/03/09/world/middleeast/turkey-trial-imamoglu-erdogan.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-09T13:09:45+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Trial of Ekrem Imamoglu, Erdogan’s Rival, Begins in Turkey"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-29T09:53:10Z"
+  "last_updated": "2026-03-30T10:32:29Z"
 }

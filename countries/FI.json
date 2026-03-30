@@ -1,16 +1,38 @@
 {
   "country": "FI",
-  "score": 94,
+  "score": 88,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 155,
+  "trend": -6,
+  "sources": 157,
   "sentiment": {
     "positive": 12,
-    "neutral": 142,
-    "negative": 1
+    "neutral": 143,
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "601d1ee20d2763db9dfb9b42e7790814552fe00f",
+      "title": "Finland probes drone incursion after airspace breach",
+      "summary": "At least one drone identified as Ukrainian, probe ongoing",
+      "url": "https://www.euractiv.com/news/finland-probes-drone-incursion-after-airspace-breach/",
+      "source": "Euractiv",
+      "published_at": "2026-03-29T14:46:13+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "Finland probes drone incursion after airspace breach"
+    },
+    {
+      "id": "dcba68a8261c15c33c02fe9f31ac3a5e5ea2266c",
+      "title": "Two unidentified drones crash in Finland, defence ministry says - Euronews.com",
+      "summary": "Two unidentified drones crash in Finland, defence ministry says&nbsp;&nbsp;Euronews.comFinland Warns Drone Activity to Continue After Airspace Breaches&nbsp;&nbsp;Bloomberg.comFinland reports territorial violation by dro…",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0l2S0k2UDJ0WjhRTGk2aUx6eE9tR3BJUmE0cmlObFEyLTJEYjh2MWh4U1h5cVA3ZjI4dnQtUlI1cjAwVFJoVzVfeGhYUW5NVjRVYmdwbjZuS2hCVkVKTkloQ2xxMlBFMlRiSWJERWFsWjdNVHRMOGZGUWZHSnZPc19STFlyM3g2Z2Q1OFJGZzc2MVNqZm95clNJQ1RPQjBWWk8xYkh1TGZBMWlpaXZEU0dPbzE5S28tY1RTcUNQMHFaUQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-29T13:43:47+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Finland reports territorial violation by drones"
+    },
     {
       "id": "e9e275df6b08c40a6e00904899fe9635f3268118",
       "title": "Czech minister warns EU, wastewater rules risk limiting medicines access [Advocacy Lab]",
@@ -191,28 +213,8 @@
       "published_at": "2026-03-24T13:50:53+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "5195c39899b1b69346b73b3fa4f9ed75ebe1d8aa",
-      "title": "Hungary’s Szijjártó defends Moscow contacts as standard diplomatic practice",
-      "summary": "The European Commission earlier urged Budapest to clarify the reports, calling them “concerning”.",
-      "url": "https://www.euractiv.com/news/hungarys-szijjarto-defends-moscow-contacts-as-standard-diplomatic-practice/",
-      "source": "Euractiv",
-      "published_at": "2026-03-24T10:55:49+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "3572547423e1a2b7b4e58a666ed26107aabfe30e",
-      "title": "Europe Clinches Critical Mineral Access With Australian Trade Deal",
-      "summary": "The European Union and Australia have shaken hands on a trade deal that would improve access to aluminum, lithium and other critical minerals for the 27-nation bloc.",
-      "url": "https://www.nytimes.com/2026/03/24/world/europe/europe-australian-trade-deal.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-24T07:20:39+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-29T09:53:10Z"
+  "last_updated": "2026-03-30T10:32:29Z"
 }

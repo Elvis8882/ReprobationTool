@@ -1,16 +1,27 @@
 {
   "country": "DK",
-  "score": 95,
+  "score": 94,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 205,
+  "trend": -1,
+  "sources": 207,
   "sentiment": {
     "positive": 10,
-    "neutral": 182,
-    "negative": 13
+    "neutral": 183,
+    "negative": 14
   },
   "latest_articles": [
+    {
+      "id": "19edb1cd485c5fdae9b3a5f9a12e8bbb5dc33de7",
+      "title": "They’ve Been Accused of Running a ‘Covert’ Operation in Greenland. It’s No Secret.",
+      "summary": "Members of President Trump’s circle, working in plain sight, have caught the eye of Denmark’s intelligence services for trying to make friends and cut deals on the Danish territory.",
+      "url": "https://www.nytimes.com/2026/03/30/world/europe/trump-greenland-operation-danish-media.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-30T04:01:10+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "caught the eye of Denmark’s intelligence services"
+    },
     {
       "id": "e9e275df6b08c40a6e00904899fe9635f3268118",
       "title": "Czech minister warns EU, wastewater rules risk limiting medicines access [Advocacy Lab]",
@@ -205,19 +216,8 @@
       "published_at": "2026-03-25T10:00:32+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "380f01d3e8a0e20a4dab5e7c6f8eba9933b31499",
-      "title": "Four Takeaways From Denmark’s Election",
-      "summary": "A desire for change and a fractured political landscape left Prime Minister Mette Frederiksen ahead, but with a tough road to securing a new term.",
-      "url": "https://www.nytimes.com/2026/03/25/world/europe/takeaways-denmark-election-frederiksen.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-25T09:55:04+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Denmark’s Election"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-29T09:53:10Z"
+  "last_updated": "2026-03-30T10:32:29Z"
 }

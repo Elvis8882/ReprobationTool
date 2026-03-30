@@ -1,16 +1,38 @@
 {
   "country": "LB",
-  "score": 19,
+  "score": 17,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -4,
-  "sources": 145,
+  "trend": -2,
+  "sources": 147,
   "sentiment": {
     "positive": 3,
     "neutral": 28,
-    "negative": 114
+    "negative": 116
   },
   "latest_articles": [
+    {
+      "id": "3e076bbcfa08c41ae2cb26a2bcfb9b6f03c2f373",
+      "title": "Israel’s Other War",
+      "summary": "As missiles fly in Iran, Israeli troops have moved deep into southern Lebanon to hit Hezbollah.",
+      "url": "https://www.nytimes.com/2026/03/29/world/israel-lebanon-hezbollah-war-iran.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-30T04:36:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli troops have moved deep into southern Lebanon"
+    },
+    {
+      "id": "b23bc93f4ee9bd17be8aa77551cfbe51cd707a5b",
+      "title": "Hundreds in Beirut mourn journalists killed in Israeli strike",
+      "summary": "BBC reports from the funerals of three journalists killed by a targeted attack in southern Lebanon.",
+      "url": "https://www.bbc.com/news/videos/ce354d73v2ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-29T15:20:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "mourn journalists killed in Israeli strike"
+    },
     {
       "id": "b38f2b4af0f22beb5643a4f21fc8fc96fe6d91e1",
       "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
@@ -208,30 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "EU ramps up aid for Lebanon amid escalating violence"
-    },
-    {
-      "id": "c49fc6408d78eb3f0b9f4bf520c109a84ed9ee15",
-      "title": "Here’s What Happened in the War in the Middle East on Sunday",
-      "summary": "The Israeli military said its campaign against Hezbollah in Lebanon would intensify, while Iran threatened to attack civilian infrastructure if President Trump followed through with an ultimatum.",
-      "url": "https://www.nytimes.com/2026/03/22/world/middleeast/middle-east-war-recap.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-23T00:07:27+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Israeli military said its campaign against Hezbollah in Lebanon would intensify"
-    },
-    {
-      "id": "72f17ae63b81edae244025fc82aaad5dc98312fa",
-      "title": "Why is Israel targeting Lebanon's bridges?",
-      "summary": "Israeli forces have been instructed to destroy the crossings over the Litani river that were being used by Hezbollah to send reinforcements.",
-      "url": "https://www.bbc.com/news/videos/c2087lr223lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-22T21:46:30+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "destroy the crossings over the Litani river that were being used by Hezbollah"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-29T09:53:10Z"
+  "last_updated": "2026-03-30T10:32:29Z"
 }

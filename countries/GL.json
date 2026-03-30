@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 47,
+  "sources": 49,
   "sentiment": {
     "positive": 4,
-    "neutral": 33,
-    "negative": 10
+    "neutral": 34,
+    "negative": 11
   },
   "latest_articles": [
+    {
+      "id": "19edb1cd485c5fdae9b3a5f9a12e8bbb5dc33de7",
+      "title": "They’ve Been Accused of Running a ‘Covert’ Operation in Greenland. It’s No Secret.",
+      "summary": "Members of President Trump’s circle, working in plain sight, have caught the eye of Denmark’s intelligence services for trying to make friends and cut deals on the Danish territory.",
+      "url": "https://www.nytimes.com/2026/03/30/world/europe/trump-greenland-operation-danish-media.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-30T04:01:10+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Running a ‘Covert’ Operation in Greenland"
+    },
     {
       "id": "4004c66db041a102f6ac4b359794bef05c73fa45",
       "title": "The Faroe Islands, Wary After Greenland, Vote for Change",
@@ -54,6 +65,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "standing up to Trump over Greenland"
+    },
+    {
+      "id": "6aaab17fc1acddf4f0e5ea242d7f1aa4cd853f23",
+      "title": "Greenland gamble leaves weakened Frederiksen poised for third term",
+      "summary": "The snap election left Denmark’s Social Democrats at century-low support",
+      "url": "https://www.euractiv.com/news/greenland-gamble-leaves-weakened-frederiksen-poised-for-third-term/",
+      "source": "Euractiv",
+      "published_at": "2026-03-25T02:20:58+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Greenland gamble"
     },
     {
       "id": "399950f6754a758e6c90898be102f007892b1ab7",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "tensions over Trump’s Greenland takeover push"
-    },
-    {
-      "id": "d9027f1a506a54f1b1176c104019322598f271aa",
-      "title": "Trump’s talk of sending a hospital ship to Greenland puzzles leaders",
-      "summary": "Trump says he’s sending a ship to care for Greenland’s sick. But the territory doesn’t want the help and the U.S. appears to have no hospital ships available to send.",
-      "url": "https://www.washingtonpost.com/politics/2026/02/22/trump-greenland-hospital-ship/",
-      "source": "World (Washington post)",
-      "published_at": "2026-02-22T17:35:40+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "territory doesn’t want the help"
-    },
-    {
-      "id": "abceafa66491154e0ed3a4ab1497b4a2d85d2dce",
-      "title": "Greenland row reopens after US senator calls Danish PM ‘little lady’",
-      "summary": "If Trump wanted Greenland, Washington could simply take it, Lindsey Graham warned",
-      "url": "https://www.euractiv.com/news/greenland-row-reopens-after-us-senator-calls-danish-pm-little-lady/",
-      "source": "Euractiv",
-      "published_at": "2026-02-18T16:16:03+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "If Trump wanted Greenland, Washington could simply take it"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-29T09:53:10Z"
+  "last_updated": "2026-03-30T10:32:29Z"
 }
