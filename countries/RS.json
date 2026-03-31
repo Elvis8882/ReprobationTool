@@ -4,13 +4,35 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 7,
+  "sources": 9,
   "sentiment": {
     "positive": 0,
-    "neutral": 4,
-    "negative": 3
+    "neutral": 5,
+    "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "d67d636693daea54a02b3ae807b85b3551f15c4d",
+      "title": "Croatia cancels Balkans summit over Serbian leader’s remarks",
+      "summary": "“I don't belong there,” Vučić said, according to Serbian public broadcaster",
+      "url": "https://www.euractiv.com/news/croatia-cancels-balkans-summit-over-serbian-leaders-remarks/",
+      "source": "Euractiv",
+      "published_at": "2026-03-31T07:13:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "Croatia cancels Balkans summit over Serbian leader’s remarks"
+    },
+    {
+      "id": "db829ab39e620e046d310acf3baa8d71a08f087f",
+      "title": "Serbia local elections marred by claims of violence",
+      "summary": "The student movement said some of their observers were threatened and in one incident sprayed with pepper spray",
+      "url": "https://www.euractiv.com/news/serbia-local-elections-marred-by-claims-of-violence/",
+      "source": "Euractiv",
+      "published_at": "2026-03-30T07:39:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Serbia local elections marred by claims of violence"
+    },
     {
       "id": "9bd2aee03c81c8f78e072aea1bdea23456d62520",
       "title": "Serbia confirms it owns Chinese supersonic missiles",
@@ -90,5 +112,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-30T10:32:29Z"
+  "last_updated": "2026-03-31T10:20:28Z"
 }

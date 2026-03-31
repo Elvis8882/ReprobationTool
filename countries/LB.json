@@ -1,16 +1,93 @@
 {
   "country": "LB",
-  "score": 17,
+  "score": 13,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -2,
-  "sources": 147,
+  "trend": -4,
+  "sources": 156,
   "sentiment": {
     "positive": 3,
-    "neutral": 28,
-    "negative": 116
+    "neutral": 30,
+    "negative": 123
   },
   "latest_articles": [
+    {
+      "id": "4a814f42f4d4c3a14a46ba24a77d225bbbe2f15f",
+      "title": "Middle East crisis live: Iran strikes tanker in Dubai; Israel prepared to keep up attacks ‘for weeks’",
+      "summary": "Fully loaded Kuwaiti tanker set alight as Israeli military spokesperson says country has ‘the munition, targets and manpower’ to continue campaignKuwaiti tanker hit by Iranian attack in Dubai port, raising oil spill fear…",
+      "url": "https://www.theguardian.com/world/live/2026/mar/31/iran-latest-updates-trump-threats-oil-spill-dubai-tehran-jerusalem-strikes",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-31T09:33:47+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Israeli military said four soldiers had been killed in southern Lebanon"
+    },
+    {
+      "id": "ba5341864e962817868f3a9ce7f41037194011c1",
+      "title": "4 Israeli Soldiers killed Amid Urgent Evacuation Orders In South Lebanon",
+      "summary": "A military statement named three soldiers from the same battalion who \"fell during combat\"",
+      "url": "https://www.ndtv.com/world-news/iran-us-israel-war-4-israeli-soldiers-killed-amid-urgent-evacuation-orders-in-south-lebanon-middle-east-conflicts-11290254#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-31T08:55:19+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "4 Israeli Soldiers killed Amid Urgent Evacuation Orders In South Lebanon"
+    },
+    {
+      "id": "c775197a622637178c4119c103a77c074095d173",
+      "title": "Two More U.N. Peacekeepers Are Killed in Southern Lebanon",
+      "summary": "The deaths came a day after the U.N. secretary-general, António Guterres, condemned the killing of another peacekeeper.",
+      "url": "https://www.nytimes.com/2026/03/30/world/middleeast/lebanon-un-peacekeepers.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-30T22:04:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Two More U.N. Peacekeepers Are Killed in Southern Lebanon"
+    },
+    {
+      "id": "474a35ca1ebc146cdfe19b072e91af509d083adc",
+      "title": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
+      "summary": "It is the second fatal incident in the last 24 hours, Unifil says, after Israel expanded its operation against Hezbollah.",
+      "url": "https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-30T19:14:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "explosion in Lebanon"
+    },
+    {
+      "id": "f179f21f7514934c9023d97028d20fd6c2192aca",
+      "title": "Iran says ambassador to Lebanon to remain despite expulsion order",
+      "summary": "The trigger for the stand-off was the ambassador's statement that any Lebanese effort to disarm Hezbollah should be reversed",
+      "url": "https://www.euractiv.com/news/iran-says-ambassador-to-lebanon-to-remain-despite-expulsion-order/",
+      "source": "Euractiv",
+      "published_at": "2026-03-30T16:16:12+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Iran says ambassador to Lebanon to remain despite expulsion order"
+    },
+    {
+      "id": "d162f48c9a5194e9e7c0b381891c644dfb4aaf83",
+      "title": "NDTV On Ground Zero: Israel Steps Up Lebanon Strike, Hezbollah Fights On",
+      "summary": "NDTV's Nazir Masoodi is in Beirut to cover the conflict",
+      "url": "https://www.ndtv.com/world-news/iran-war-israel-attacks-lebanon-beirut-ground-report-ndtv-on-ground-zero-israel-steps-up-lebanon-strike-hezbollah-fights-on-11285762#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-30T10:09:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel Steps Up Lebanon Strike, Hezbollah Fights On"
+    },
+    {
+      "id": "339796b464b891b0cbc0c7bc401cdee019b7a543",
+      "title": "Exclusive: Hezbollah Seeks India's Role To Stop Israel's War Against Lebanon",
+      "summary": "According to Hezbollah, the war on Lebanon is part of establishing greater Israel",
+      "url": "https://www.ndtv.com/world-news/world-exclusive-hezbollah-seeks-indias-role-to-stop-israels-war-against-lebanon-11284982#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-30T07:45:25+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Hezbollah Seeks India's Role To Stop Israel's War Against Lebanon"
+    },
     {
       "id": "3e076bbcfa08c41ae2cb26a2bcfb9b6f03c2f373",
       "title": "Israel’s Other War",
@@ -21,6 +98,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Israeli troops have moved deep into southern Lebanon"
+    },
+    {
+      "id": "c64df694c4ed847e2d477005b07a2881f7d82cbb",
+      "title": "Hundreds Gather for Funeral of 3 Lebanese Killed in Israeli Strike",
+      "summary": "Israel said one of those killed was a member of Hezbollah’s military wing “disguised as a journalist.” Lebanon’s president said all three were journalists and condemned the killings.",
+      "url": "https://www.nytimes.com/2026/03/29/world/middleeast/funerals-lebanese-killed-israeli-strike.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-29T19:44:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Hundreds Gather for Funeral of 3 Lebanese Killed in Israeli Strike"
     },
     {
       "id": "b23bc93f4ee9bd17be8aa77551cfbe51cd707a5b",
@@ -43,6 +131,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Three Lebanese journalists killed in Israeli strike"
+    },
+    {
+      "id": "31975ea57d46bdb73b57f56abf599592227a983f",
+      "title": "Ground Report: Buildings Reduced To Rubble, Beirut Residents Say 'Not Slept For A Month'",
+      "summary": "\"I'm scared. I want to sleep,\" George, a Beirut resident, told NDTV's Nazir Masoodi.",
+      "url": "https://www.ndtv.com/world-news/hezbollah-israel-war-ground-report-buildings-reduced-to-rubble-beirut-residents-say-not-slept-for-a-month-11281409#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-03-29T07:25:14+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Buildings Reduced To Rubble, Beirut Residents Say 'Not Slept For A Month'"
     },
     {
       "id": "3d3790f13dfcb7315b82cc132a065f5295b80142",
@@ -131,107 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Hezbollah Signals Defiance"
-    },
-    {
-      "id": "d3e904a7396d814afbd22859d7b5aadfd067bb37",
-      "title": "Australia backs Lebanon’s sovereignty and opposes occupation, Penny Wong tells Israel",
-      "summary": "Foreign minister reiterates condemnation of Iran over the strait of Hormuz and says Australia does not want to see occupation of southern Lebanon by IsraelFollow our Australia news live blog for latest updatesGet our bre…",
-      "url": "https://www.theguardian.com/australia-news/2026/mar/25/penny-wong-tells-israel-australia-backs-lebanons-sovereignty-and-opposes-occupation",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-25T04:07:11+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Australia supports Lebanon’s sovereignty and opposes occupation"
-    },
-    {
-      "id": "180f87811b2ca9b538c76fb4e301344f492974ff",
-      "title": "Lebanon Expels Iranian Envoy as Rift With Tehran Deepens",
-      "summary": "The decision by Lebanon’s foreign ministry has heightened fears of internal instability. Hezbollah, the Iranian-backed militant group and political party, was quick to condemn the move.",
-      "url": "https://www.nytimes.com/2026/03/24/world/middleeast/lebanon-iran-envoy-expelled.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-24T19:29:09+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Lebanon Expels Iranian Envoy as Rift With Tehran Deepens"
-    },
-    {
-      "id": "6a2c7840481e6a48d5805159710cac22c694fd67",
-      "title": "Israel says it will take control of large buffer zone in southern Lebanon",
-      "summary": "Thousands of displaced Lebanese residents will not be allowed to return home until northern Israel is safe, Israel's defence minister says.",
-      "url": "https://www.bbc.com/news/articles/cy91j9qwp4do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-24T16:58:08+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Thousands of displaced Lebanese residents will not be allowed to return"
-    },
-    {
-      "id": "b13ac608126f121f75bd938ce39908a0e2acc836",
-      "title": "Israel Plans to Control Large Parts of Southern Lebanon, Defense Minister Says",
-      "summary": "Israel Katz, the Israeli defense minister, suggested that Israeli troops might remain in parts of Lebanon even after the fighting there winds down.",
-      "url": "https://www.nytimes.com/2026/03/24/world/middleeast/israel-southern-lebanon-defense-minister.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-24T16:21:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Control Large Parts of Southern Lebanon"
-    },
-    {
-      "id": "c795a8161f396f53b457feda4ca2a678bf582a8a",
-      "title": "Israel, Iran trade strikes as U.S. says it is pausing attacks on energy targets",
-      "summary": "Four Persian Gulf states reported fresh missile and drone threats from Iran, as Israel pledged to keep up its attacks in Iran and Lebanon “with full force.”",
-      "url": "https://www.washingtonpost.com/world/2026/03/24/us-trump-iran-israel-tel-aviv-strike/",
-      "source": "World (Washington post)",
-      "published_at": "2026-03-24T15:28:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel pledged to keep up its attacks in Lebanon"
-    },
-    {
-      "id": "de110de7cf1ab288bf26e7bfd0c7eb3affaceb61",
-      "title": "Three of the Lives Lost in One Day of Israeli Strikes in Lebanon",
-      "summary": "A 4-year-old, a professor and an aid worker are among those killed in separate airstrikes as Israel pummels towns and cities, saying it is targeting Hezbollah operatives.",
-      "url": "https://www.nytimes.com/2026/03/24/world/middleeast/lebanon-iran-war-casualties.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-24T15:15:12+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Israeli Strikes in Lebanon"
-    },
-    {
-      "id": "88f53179e9e42cbbaf669bff39eed99abf8dd435",
-      "title": "Iran War Live Updates: Israel Reports Missile Damage in Tel Aviv",
-      "summary": "President Trump said there had been “very strong talks” with Iran to end the war, though Iranian officials did not confirm that. Israel continued its campaign against Hezbollah in Lebanon.",
-      "url": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil",
-      "source": "NYT > World News",
-      "published_at": "2026-03-24T09:43:35+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "campaign against Hezbollah in Lebanon"
-    },
-    {
-      "id": "e66486996ad40a4123762d4817b1168b3505ba92",
-      "title": "Israel Says Its Own Artillery Killed a Farmer, Not a Hezbollah Rocket",
-      "summary": "Ofer Moskovitz, 60, an avocado farmer in a kibbutz on Israel’s border with Lebanon, was killed Sunday when the car he was riding in was hit.",
-      "url": "https://www.nytimes.com/2026/03/23/world/middleeast/israel-says-its-own-artillery-killed-a-farmer-not-a-hezbollah-rocket.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-23T16:47:09+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "kibbutz on Israel’s border with Lebanon"
-    },
-    {
-      "id": "fc9b94f9e282ee7db6264b3ba0aa7654dab531c4",
-      "title": "Daily News 23 / 03 / 2026 - European Commission",
-      "summary": "Daily News 23 / 03 / 2026&nbsp;&nbsp;European CommissionEU ramps up aid for Lebanon amid escalating violence, displacement crisis&nbsp;&nbsp;The Brussels TimesEU announces 458 million euros in humanitarian aid for Middle…",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZRm4xYm1JWjNCQTF5aWJ1RlNGY25JT1IzbTBST0pCWEIySDNnOGhueHNvaTZBUVZRT2ZRb1Rwdk9HZm5YV2I1V3pXLTZ5aThDWGd6YklwdjNZUEllSXRvdTR0X002c3RVVUphaUlsaFFGUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-23T10:58:42+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "EU ramps up aid for Lebanon amid escalating violence"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-30T10:32:29Z"
+  "last_updated": "2026-03-31T10:20:28Z"
 }

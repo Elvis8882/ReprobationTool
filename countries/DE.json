@@ -1,16 +1,103 @@
 {
   "country": "DE",
-  "score": 92,
+  "score": 91,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 324,
+  "trend": -1,
+  "sources": 333,
   "sentiment": {
-    "positive": 54,
-    "neutral": 228,
-    "negative": 42
+    "positive": 56,
+    "neutral": 233,
+    "negative": 44
   },
   "latest_articles": [
+    {
+      "id": "94f1d44cd4e06bcd686b9de9975489ffc45c0369",
+      "title": "FIRST AID: Berlin considers taxes to fund healthcare",
+      "summary": "In today's edition: Beating cancer plan, French sick leave, children's cosmetic",
+      "url": "https://www.euractiv.com/news/first-aid-berlin-considers-taxes-to-fund-healthcare/",
+      "source": "Euractiv",
+      "published_at": "2026-03-31T07:45:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "FIRST AID: Berlin considers taxes to fund healthcare"
+    },
+    {
+      "id": "3e7b4640a6e31f8bec3fee98fa64bdeed607599f",
+      "title": "Europe could get a sovereign tech fund",
+      "summary": "An ongoing pilot could scale up German funding for key open source software",
+      "url": "https://www.euractiv.com/news/europe-could-get-a-sovereign-tech-fund/",
+      "source": "Euractiv",
+      "published_at": "2026-03-30T16:13:10+00:00",
+      "sentiment": "positive",
+      "confidence": 0.5,
+      "evidence": "scale up German funding for key open source software"
+    },
+    {
+      "id": "1a2e30632d4cec5330f7f5f08695dd107a07aa67",
+      "title": "TV star’s AI porn allegations spark national debate in Germany",
+      "summary": "Collien Fernandes accuses ex-husband Christian Ulmen of sharing sexually explicit deepfake images of her onlineA high-profile German TV star’s allegations that her ex-husband spread AI-generated pornographic images of he…",
+      "url": "https://www.theguardian.com/world/2026/mar/30/collien-fernandes-deepfake-porn-allegations-digital-violence-against-women",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-30T16:12:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "TV star’s AI porn allegations spark national debate in Germany"
+    },
+    {
+      "id": "21d76d31f50f1e9f99a8c9a72c978a66ecf44d27",
+      "title": "The Brief – Berlin’s tax on good times",
+      "summary": "Welcome to a new edition of our ‘Brief’, a wrap-up of today's top stories",
+      "url": "https://www.euractiv.com/opinion/the-brief-berlins-tax-on-good-times/",
+      "source": "Euractiv",
+      "published_at": "2026-03-30T16:12:02+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Berlin’s tax on good times"
+    },
+    {
+      "id": "ec0fd6a8cf43c854de89bd004f0cd1c102de21b4",
+      "title": "Berlin weighs ‘sin taxes’ to stabilise strained health insurance system",
+      "summary": "Plans include new taxes and scrapping free spousal coverage to plug funding gap",
+      "url": "https://www.euractiv.com/news/berlin-weighs-sin-taxes-to-stabilise-strained-health-insurance-system/",
+      "source": "Euractiv",
+      "published_at": "2026-03-30T14:34:10+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Berlin weighs ‘sin taxes’ to stabilise strained health insurance"
+    },
+    {
+      "id": "995ca4b350ff22c57939f9968fe39b6b97c114d2",
+      "title": "Berlin attacks methane regulation over US gas supply fears",
+      "summary": "EU climate policy could \"hinder partner countries from exporting LNG to Europe\", German energy minister says",
+      "url": "https://www.euractiv.com/news/berlin-attacks-methane-regulation-over-us-gas-supply-fears/",
+      "source": "Euractiv",
+      "published_at": "2026-03-30T13:32:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Berlin attacks methane regulation over US gas supply fears"
+    },
+    {
+      "id": "c5bdcbf0e189bafe2474296e4ef773b2017d5e68",
+      "title": "Rheinmetall CEO faces backlash for belittling Ukrainian drone innovation",
+      "summary": "The German CEO described the Ukrainian drone industry as housewives working on 3D printers",
+      "url": "https://www.euractiv.com/news/rheinmetall-ceo-faces-backlash-for-belittling-ukrainian-drone-innovation/",
+      "source": "Euractiv",
+      "published_at": "2026-03-30T12:07:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "German CEO faces backlash for belittling Ukrainian drone innovation"
+    },
+    {
+      "id": "c89730735566cc2fa10f11145676fffd37c241ae",
+      "title": "517 kg municipal waste per capita in 2024 - European Commission",
+      "summary": "517 kg municipal waste per capita in 2024&nbsp;&nbsp;European CommissionView Full coverage on Google News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11aFJVNWl4NG1wbzhlemVJVURjWkszejRlcjhWNnMtbG10SkFZNE5RWDRDM2Z2VkkwcEhQTndsb3JFXzVEU1hVWTFKV19zM0VQLU8xNjNuWEVBNllmSGNPSzNjdmNjWWV5S3pUdl90U0paNzZoNXlHRi0yTklUUQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-03-30T09:43:58+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "48c9ca62629d9a325d1d2e52bed297d27c868d21",
       "title": "Struggling humpback whale stranded for third time on German coast",
@@ -121,6 +208,17 @@
       "evidence": "Europe is welcoming a resurgent German military"
     },
     {
+      "id": "407d499b98a049e44ae7c219699d8b9bb20ef7af",
+      "title": "New Paris-Berlin sleeper service hopes to further Europe’s rail renaissance",
+      "summary": "Operators speak of huge public interest, and the hope of support from Brussels",
+      "url": "https://www.euractiv.com/news/new-paris-berlin-sleeper-service-hopes-to-further-europes-rail-renaissance/",
+      "source": "Euractiv",
+      "published_at": "2026-03-27T05:00:47+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "New Paris-Berlin sleeper service hopes to further Europe’s rail renaissance"
+    },
+    {
       "id": "3a864e40dc37976e44dd1b73719be846fded0e0f",
       "title": "Germany weighs deepfake porn ban already covered by EU rules",
       "summary": "A high-profile scandal involving revenge porn has sprung Berlin into action on an existing EU directive",
@@ -130,100 +228,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Germany weighs deepfake porn ban already covered by EU rules"
-    },
-    {
-      "id": "5c1c0acd7f882af9abec1a051872ed780f4ffef5",
-      "title": "The German Military Tightens Its Social Media Rules",
-      "summary": "Military members sharing clips on Instagram and TikTok have helped recruit badly needed new soldiers, but Bundeswehr officials said they are concerned about security.",
-      "url": "https://www.nytimes.com/2026/03/27/world/europe/german-military-social-media.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-27T04:01:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "The German Military Tightens Its Social Media Rules"
-    },
-    {
-      "id": "3a1adc84c3c182afabfdeb83b0c8e5d317630e47",
-      "title": "MEPs back plans for ‘return hubs’, raising fears of ‘human rights black holes’",
-      "summary": "European parliament votes in favour of sending refused asylum seekers to offshore hubs, in ‘historic setback for refugee rights’People with no right to stay in the EU could be detained for up to two years or sent to offs…",
-      "url": "https://www.theguardian.com/world/2026/mar/26/meps-back-plans-for-return-hubs-raising-fears-of-human-rights-black-holes",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-26T17:23:33+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "e645e3c9e6d09f91e7a8c1bc3b46ef70e13b6df9",
-      "title": "Brussels opens investigation into Snapchat amid concern over children’s safety",
-      "summary": "European Commission says social messaging app is exposing children to grooming and sexual exploitationBrussels has opened an investigation into Snapchat over concerns the social messaging app is exposing children to groo…",
-      "url": "https://www.theguardian.com/technology/2026/mar/26/brussels-opens-investigation-into-snapchat-amid-concern-over-childrens-safety",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-26T17:08:55+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "b8cc521b1b0ed62130d2eaf1c93bf38577d0ca20",
-      "title": "German Armed Forces Association calls to prepare for war economy",
-      "summary": "Chairman André Wüstner called for round-the-clock operations at arms factories",
-      "url": "https://www.euractiv.com/news/german-armed-forces-association-calls-to-prepare-for-war-economy/",
-      "source": "Euractiv",
-      "published_at": "2026-03-26T15:28:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "German Armed Forces Association calls to prepare for war economy"
-    },
-    {
-      "id": "7681fd93291addfd58a4c2d5fbc3236c5445572c",
-      "title": "EU check reveals misleading sales practices online - European Commission",
-      "summary": "EU check reveals misleading sales practices online&nbsp;&nbsp;European CommissionCCPC investigation — one in three online retailers misleads us on Black Friday discounts&nbsp;&nbsp;The Irish IndependentEU finds 30% of on…",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUgxZG5jaDdMNTNMYjI2VWloZ3Y1bm5maFFYN0VaZC1zWW81Q1hZUWJnUGs1azdYZ2s2ZDY5Y0d0eldSZlRCSXh4STQyR25DVEN2SkMtM20ySHhJbmlNajJOMmFJTWNsZVNDOGk0WmRIZGZLNHg4eW9vUkNaVkpvVnhoQWt4UFBfTE1hcy1vX1VaamJWRXFpVExBOTVabFdYVHpkZkNQRzlKOXdlNXUzQjRtOA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-26T15:14:28+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "9d0ab7dcc5374f22af2319a4ea60bd9e75337889",
-      "title": "After ‘Sausage Making,’ European Lawmakers Approve U.S. Trade Deal",
-      "summary": "The agreement that President Trump struck with the European Union has cleared a major hurdle that delayed it for months.",
-      "url": "https://www.nytimes.com/2026/03/26/world/europe/eu-trade-deal-us-european-parliament.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-26T15:01:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "55eb8ba535e94edf05b5913cf95585150f129cdf",
-      "title": "1 million deaths from avoidable conditions in 2023 - European Commission",
-      "summary": "1 million deaths from avoidable conditions in 2023&nbsp;&nbsp;European CommissionCyprus recorded the lowest rate of avoidable deaths in the EU in 2023&nbsp;&nbsp;ΚΥΠΕLatvia has EU's highest rate of preventable deaths / A…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZaHBqOVBWZER1Sm1RZEx5ZjhmcWs0NWtYN3ZKUlFmY1lPMDU2ZWl0WkVVcnJHdF9QR0dfUFFSY3RaZjJyRWt3VXNFRnZ4SlJyazA1VE9GUXpRM1dQb0ljaEpoOEJ5STV6T0ZfMWZwT0FCbHlMaU9BSjVaUWVEdw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-26T11:45:56+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "32da0ff0157327ee91715ee853c9dae5b65e3923",
-      "title": "25% of goods transported by road in the EU - European Commission",
-      "summary": "25% of goods transported by road in the EU&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YTHNBamMxQWFUVDBpemIwU3dDaEJXUUxtX1NMT2ZjbE4xcXRMdVRmMjgyVlBGdDhUMnd4ODVUbS1mamVwdzhkbXBXdHl3TU1KWmJ4SVBDcnFWWW1FVUo2dGFVd0VWVkhOQXBhWkF0bDFadXRHZFNQcGZmMGN1UQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-26T11:11:38+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "3f524634b376a5c4addcae0a33a4a21c66e2a0df",
-      "title": "Commission greenlights Latvia's fourth payment request for €371 million under NextGenerationEU - European Commission",
-      "summary": "Commission greenlights Latvia's fourth payment request for €371 million under NextGenerationEU&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mX0p3OTFFa3JQWGVBY3VmNkpvR0xJVTg2QkdZYmlPSFJ5N3hjcU15OVBrZmxYSDQzSHhEMThDLUtJa3Joc3pURGlwaDNaeVRTcU5DY0V4ZzhjeHJueGhHMWN4RjYweGpIaEdSM2RjOEU?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-26T10:33:17+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-30T10:32:29Z"
+  "last_updated": "2026-03-31T10:20:28Z"
 }
