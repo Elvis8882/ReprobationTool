@@ -1,16 +1,27 @@
 {
   "country": "SY",
   "score": 85,
-  "score_label": "Negative",
-  "assessment": "High negative coverage",
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 44,
+  "sources": 45,
   "sentiment": {
     "positive": 3,
-    "neutral": 19,
+    "neutral": 20,
     "negative": 22
   },
   "latest_articles": [
+    {
+      "id": "670af53e732904e14023d441932b6f84c148434c",
+      "title": "Merz criticised after calling for Syrians in Germany to ‘go back’ home",
+      "summary": "The German chancellor has drawn condemnation from NGOs and members of his own governmentFriedrich Merz has drawn condemnation from NGOs and members of his own government after he called for the vast majority of Syrians l…",
+      "url": "https://www.theguardian.com/world/2026/mar/31/friedrich-merz-criticised-syrians-germany-return",
+      "source": "World news - The Guardian",
+      "published_at": "2026-03-31T17:24:54+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "calling for Syrians in Germany to ‘go back’ home"
+    },
     {
       "id": "5f99ad1d26982ff74182a05496a71da047ea163f",
       "title": "U.N. Report Documents Sectarian Violence in Syria That Killed Over 1,700",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "34 Australian women and children stuck in a Syrian detention camp"
-    },
-    {
-      "id": "8cbc61c08f0e4a703c5a64a34f2a18e37e91f19e",
-      "title": "Nightly raids and violent beatings: Australia urged to accept citizens trapped in Syria as conditions in Roj camp deteriorate",
-      "summary": "Aid workers say the camp where 34 women and children are being held are ‘dire’ and present more risk than if they were repatriatedGet our breaking news email, free app or daily news podcastConditions in the north-eastern…",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/21/as-conditions-in-roj-camp-deteriorate-australia-urged-to-accept-citizens-trapped-in-syria",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-21T00:48:55+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Nightly raids and violent beatings... conditions in Roj camp deteriorate"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-31T10:20:28Z"
+  "last_updated": "2026-04-01T10:23:31Z"
 }

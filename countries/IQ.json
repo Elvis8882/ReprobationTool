@@ -4,13 +4,35 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 72,
+  "sources": 74,
   "sentiment": {
     "positive": 2,
-    "neutral": 40,
+    "neutral": 42,
     "negative": 30
   },
   "latest_articles": [
+    {
+      "id": "4285b45fa0f4bbba92a0c5e0efcd1dcc16110536",
+      "title": "US Journalist Shelly Kittleson Was Abducted in Iraq, Officials Say",
+      "summary": "The freelance journalist was identified as Shelly Kittleson, who has worked for various news organizations, including Al-Monitor, which called for her safe and immediate release.",
+      "url": "https://www.nytimes.com/2026/03/31/world/middleeast/us-journalist-abducted-iraq-shelly-kittleson.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-31T22:28:43+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "US Journalist Shelly Kittleson Was Abducted in Iraq"
+    },
+    {
+      "id": "56bc6462e70c30bbcc626fb7791abec8d93f10d7",
+      "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
+      "summary": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.",
+      "url": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-03-31T21:08:35+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "US journalist Shelly Kittleson kidnapped in Baghdad"
+    },
     {
       "id": "31b29bab8d3a0881add307703598a22d5b8a0976",
       "title": "Yemen’s Houthis launch first attack on Israel since outbreak of conflict, as Rubio says war to end in ‘weeks’",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "The U.S. Embassy in Baghdad was attacked overnight."
-    },
-    {
-      "id": "c186817abccadf376b75b55c8ea59eb8960cfe50",
-      "title": "US embassy in Baghdad hit after strikes kill two Iran-backed fighters",
-      "summary": "It is the second attack on the US embassy in Baghdad since the war began",
-      "url": "https://www.euractiv.com/news/us-embassy-in-baghdad-hit-after-strikes-kill-two-iran-backed-fighters/",
-      "source": "Euractiv",
-      "published_at": "2026-03-14T08:50:42+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "US embassy in Baghdad hit after strikes kill two Iran-backed fighters"
-    },
-    {
-      "id": "ae609e029ec431a962f483e98c5f794650af8a14",
-      "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
-      "summary": "A group of fighters based in Iraq say they are \"ready to go home\", as they face drone attacks from Tehran.",
-      "url": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-13T22:02:39+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Under drone fire, exiled Kurds wait to confront Iranian regime"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-03-31T10:20:28Z"
+  "last_updated": "2026-04-01T10:23:31Z"
 }

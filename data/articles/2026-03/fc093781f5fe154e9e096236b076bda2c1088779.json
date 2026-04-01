@@ -19,8 +19,30 @@
     "RU",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-03-31T10:20:28+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-04-01T10:23:31+00:00",
+  "sentiment_by_country": {
+    "EE": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    "LV": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "Latvia Approves $7.8M Package to Support Ukraine’s Energy, Infrastructure"
+    },
+    "RU": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "Latvia Approves $7.8M Package to Support Ukraine’s Energy, Infrastructure"
+    }
+  },
+  "processed_at": "2026-04-01T10:23:31+00:00"
 }
