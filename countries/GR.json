@@ -1,16 +1,47 @@
 {
   "country": "GR",
-  "score": 93,
+  "score": 92,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 209,
+  "trend": -1,
+  "sources": 212,
   "sentiment": {
     "positive": 18,
-    "neutral": 172,
-    "negative": 19
+    "neutral": 174,
+    "negative": 20
   },
   "latest_articles": [
+    {
+      "id": "3c1f42b98063ab0fe76b1fd0db4890015e1d2d03",
+      "title": "Europe Pushes for a Gentler Internet for Children",
+      "summary": "The European Union and national capitals are trying to make social media and algorithms less addictive and safer, especially for children.",
+      "url": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-02T09:06:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "8ec255710e22d4d7899e1cbe93b3c570f299b3ff",
+      "title": "Nature calling: interest in camping & caravanning grows - European Commission",
+      "summary": "Nature calling: interest in camping & caravanning grows&nbsp;&nbsp;European Commission",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JVnhrcl93OGVoNmlTYjMxakdHR1BJcHp3dGRjUFVPVXVqeEdZTzdjV3BWS2ZFSTlMZV9LSllyVll5ckhVbVI4b19QS1ItTVpFamc3U0dFekdzcDZpbHRzRVN3V3pWeEYtblFFUi1mdGN4VWwzamNFdUtZVXlrdw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-02T09:00:24+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "e8793b6fe04dddd7b525aca90fb0ded2822801cb",
+      "title": "New EU farm subsidy fraud probe puts Greek PM to the test",
+      "summary": "The majority of those involved are members of the ruling New Democracy party",
+      "url": "https://www.euractiv.com/news/new-eu-farm-subsidy-fraud-probe-puts-greek-pm-to-the-test/",
+      "source": "Euractiv",
+      "published_at": "2026-04-01T11:59:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "New EU farm subsidy fraud probe puts Greek PM to the test"
+    },
     {
       "id": "06c4503307918788036b267869f78fde4f3b88a6",
       "title": "EU prosecutor seeks to lift immunity of 11 Greek MPs in subsidy fraud probe",
@@ -186,38 +217,8 @@
       "published_at": "2026-03-26T11:11:38+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "3f524634b376a5c4addcae0a33a4a21c66e2a0df",
-      "title": "Commission greenlights Latvia's fourth payment request for €371 million under NextGenerationEU - European Commission",
-      "summary": "Commission greenlights Latvia's fourth payment request for €371 million under NextGenerationEU&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mX0p3OTFFa3JQWGVBY3VmNkpvR0xJVTg2QkdZYmlPSFJ5N3hjcU15OVBrZmxYSDQzSHhEMThDLUtJa3Joc3pURGlwaDNaeVRTcU5DY0V4ZzhjeHJueGhHMWN4RjYweGpIaEdSM2RjOEU?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-26T10:33:17+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "63ff05b4b0cbf94310c0e20eca1a4cb41220882a",
-      "title": "EU healthcare workers say they ‘refuse to be instruments’ in deportation plans",
-      "summary": "Professionals from across Europe urge MEPs to reject plans, saying ‘climate of fear’ could stop people seeking careMore than 1,100 healthcare professionals from across Europe have urged MEPs to reject proposed measures a…",
-      "url": "https://www.theguardian.com/world/2026/mar/26/eu-europe-healthcare-workers-deportation-plans",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-26T05:00:27+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f450e71c42dd7ac86533b96c817629c43cb74aaf",
-      "title": "France ‘confident’ that EU probe won’t block nuclear plans",
-      "summary": "The government expects a European Commission investigation by the end of March",
-      "url": "https://www.euractiv.com/news/france-confident-that-eu-probe-wont-block-nuclear-plans/",
-      "source": "Euractiv",
-      "published_at": "2026-03-25T17:11:05+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-01T10:23:31Z"
+  "last_updated": "2026-04-02T10:18:23Z"
 }

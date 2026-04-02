@@ -1,16 +1,47 @@
 {
   "country": "NL",
-  "score": 97,
+  "score": 96,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 208,
+  "trend": -1,
+  "sources": 211,
   "sentiment": {
     "positive": 17,
-    "neutral": 178,
-    "negative": 13
+    "neutral": 180,
+    "negative": 14
   },
   "latest_articles": [
+    {
+      "id": "3c1f42b98063ab0fe76b1fd0db4890015e1d2d03",
+      "title": "Europe Pushes for a Gentler Internet for Children",
+      "summary": "The European Union and national capitals are trying to make social media and algorithms less addictive and safer, especially for children.",
+      "url": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-02T09:06:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "8ec255710e22d4d7899e1cbe93b3c570f299b3ff",
+      "title": "Nature calling: interest in camping & caravanning grows - European Commission",
+      "summary": "Nature calling: interest in camping & caravanning grows&nbsp;&nbsp;European Commission",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JVnhrcl93OGVoNmlTYjMxakdHR1BJcHp3dGRjUFVPVXVqeEdZTzdjV3BWS2ZFSTlMZV9LSllyVll5ckhVbVI4b19QS1ItTVpFamc3U0dFekdzcDZpbHRzRVN3V3pWeEYtblFFUi1mdGN4VWwzamNFdUtZVXlrdw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-02T09:00:24+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "71cab8c309816867a393ed0e45e6dceec70ad6ac",
+      "title": "French Prosecutors Link Foiled Attack on American Bank to a Pro-Iranian Group",
+      "summary": "The group is suspected of involvement in a string of attacks on Jewish targets in Belgium, Britain and the Netherlands.",
+      "url": "https://www.nytimes.com/2026/04/01/world/europe/bank-of-america-attack-pro-iranian-group.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-01T15:58:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "suspected of involvement in a string of attacks on Jewish targets in the Netherlands"
+    },
     {
       "id": "6098b2aad11eb386a573b14a41839709b656d527",
       "title": "EU countries, except Hungary, vow to prosecute war crimes in Ukraine - Euronews.com",
@@ -185,39 +216,8 @@
       "published_at": "2026-03-26T10:33:17+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "63ff05b4b0cbf94310c0e20eca1a4cb41220882a",
-      "title": "EU healthcare workers say they ‘refuse to be instruments’ in deportation plans",
-      "summary": "Professionals from across Europe urge MEPs to reject plans, saying ‘climate of fear’ could stop people seeking careMore than 1,100 healthcare professionals from across Europe have urged MEPs to reject proposed measures a…",
-      "url": "https://www.theguardian.com/world/2026/mar/26/eu-europe-healthcare-workers-deportation-plans",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-26T05:00:27+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f450e71c42dd7ac86533b96c817629c43cb74aaf",
-      "title": "France ‘confident’ that EU probe won’t block nuclear plans",
-      "summary": "The government expects a European Commission investigation by the end of March",
-      "url": "https://www.euractiv.com/news/france-confident-that-eu-probe-wont-block-nuclear-plans/",
-      "source": "Euractiv",
-      "published_at": "2026-03-25T17:11:05+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f106e0f1cb62e2616e581b8ae67a291d049aabfc",
-      "title": "Skeleton of Three Musketeers hero d’Artagnan may have been found",
-      "summary": "Archaeologists believe remains found in Maastricht, Netherlands, may be of soldier who inspired novel characterMore than three-and-a-half centuries after a musket ball to the throat put an end to decades of exemplary swa…",
-      "url": "https://www.theguardian.com/world/2026/mar/25/skeleton-three-musketeers-dartagnan-alexandre-dumas",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-25T15:51:51+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Maastricht, Netherlands, may be of soldier"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-01T10:23:31Z"
+  "last_updated": "2026-04-02T10:18:23Z"
 }

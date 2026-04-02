@@ -1,16 +1,91 @@
 {
   "country": "BE",
-  "score": 90,
+  "score": 89,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 264,
+  "trend": -1,
+  "sources": 271,
   "sentiment": {
     "positive": 30,
-    "neutral": 204,
-    "negative": 30
+    "neutral": 210,
+    "negative": 31
   },
   "latest_articles": [
+    {
+      "id": "3c1f42b98063ab0fe76b1fd0db4890015e1d2d03",
+      "title": "Europe Pushes for a Gentler Internet for Children",
+      "summary": "The European Union and national capitals are trying to make social media and algorithms less addictive and safer, especially for children.",
+      "url": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-02T09:06:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "8ec255710e22d4d7899e1cbe93b3c570f299b3ff",
+      "title": "Nature calling: interest in camping & caravanning grows - European Commission",
+      "summary": "Nature calling: interest in camping & caravanning grows&nbsp;&nbsp;European Commission",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JVnhrcl93OGVoNmlTYjMxakdHR1BJcHp3dGRjUFVPVXVqeEdZTzdjV3BWS2ZFSTlMZV9LSllyVll5ckhVbVI4b19QS1ItTVpFamc3U0dFekdzcDZpbHRzRVN3V3pWeEYtblFFUi1mdGN4VWwzamNFdUtZVXlrdw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-02T09:00:24+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "71cab8c309816867a393ed0e45e6dceec70ad6ac",
+      "title": "French Prosecutors Link Foiled Attack on American Bank to a Pro-Iranian Group",
+      "summary": "The group is suspected of involvement in a string of attacks on Jewish targets in Belgium, Britain and the Netherlands.",
+      "url": "https://www.nytimes.com/2026/04/01/world/europe/bank-of-america-attack-pro-iranian-group.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-01T15:58:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "suspected of involvement in a string of attacks on Jewish targets in Belgium"
+    },
+    {
+      "id": "a558d5229696965be001796811fe0ca61fcef9a5",
+      "title": "Brussels moves to dismantle carbon price support mechanism",
+      "summary": "The EU Emissions Trading System has been blamed for pushing up electricity prices and making manufacturers pay the world's highest price for their CO2 pollution",
+      "url": "https://www.euractiv.com/news/brussels-moves-to-dismantle-carbon-price-support-mechanism/",
+      "source": "Euractiv",
+      "published_at": "2026-04-01T10:01:47+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Brussels moves to dismantle carbon price support mechanism"
+    },
+    {
+      "id": "b1ed379d803c40299bdeb9ad3143c6ca539a049e",
+      "title": "FIREPOWER: Belgium’s defence minister calls out Europe’s ‘protectionism’",
+      "summary": "42.7, FCAS, EIB",
+      "url": "https://www.euractiv.com/news/firepower-belgiums-defence-minister-calls-out-europes-protectionism/",
+      "source": "Euractiv",
+      "published_at": "2026-04-01T07:51:17+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Belgium’s defence minister calls out Europe’s ‘protectionism’"
+    },
+    {
+      "id": "6f8537f9f183a55fe5c227f0f2f01a7a58344732",
+      "title": "VOLTAGE: Brussels floats return to 2022-style energy crisis management",
+      "summary": "In today's edition: Birds Directive, energy crisis, long-term contracts",
+      "url": "https://www.euractiv.com/news/voltage-brussels-floats-return-to-2022-style-energy-crisis-management/",
+      "source": "Euractiv",
+      "published_at": "2026-04-01T07:43:02+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Brussels floats return to 2022-style energy crisis management"
+    },
+    {
+      "id": "15b6dba5e096d7faa699b39deda453472a9d7f4f",
+      "title": "Brussels unveils plan to prevent nature laws delaying key infrastructure projects",
+      "summary": "Wary of revising core nature laws, the Commission offers practical fixes",
+      "url": "https://www.euractiv.com/news/brussels-unveils-plan-to-prevent-nature-laws-delaying-key-infrastructure-projects/",
+      "source": "Euractiv",
+      "published_at": "2026-03-31T17:37:33+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Brussels unveils plan to prevent nature laws"
+    },
     {
       "id": "c31a2944605cfb9738102880ff26e4cd90d62052",
       "title": "Brussels floats return to 2022-style energy crisis management",
@@ -149,80 +224,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "raised fears of interception in Brussels media and EU diplomatic circles"
-    },
-    {
-      "id": "7681fd93291addfd58a4c2d5fbc3236c5445572c",
-      "title": "EU check reveals misleading sales practices online - European Commission",
-      "summary": "EU check reveals misleading sales practices online&nbsp;&nbsp;European CommissionCCPC investigation — one in three online retailers misleads us on Black Friday discounts&nbsp;&nbsp;The Irish IndependentEU finds 30% of on…",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUgxZG5jaDdMNTNMYjI2VWloZ3Y1bm5maFFYN0VaZC1zWW81Q1hZUWJnUGs1azdYZ2s2ZDY5Y0d0eldSZlRCSXh4STQyR25DVEN2SkMtM20ySHhJbmlNajJOMmFJTWNsZVNDOGk0WmRIZGZLNHg4eW9vUkNaVkpvVnhoQWt4UFBfTE1hcy1vX1VaamJWRXFpVExBOTVabFdYVHpkZkNQRzlKOXdlNXUzQjRtOA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-26T15:14:28+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "9d0ab7dcc5374f22af2319a4ea60bd9e75337889",
-      "title": "After ‘Sausage Making,’ European Lawmakers Approve U.S. Trade Deal",
-      "summary": "The agreement that President Trump struck with the European Union has cleared a major hurdle that delayed it for months.",
-      "url": "https://www.nytimes.com/2026/03/26/world/europe/eu-trade-deal-us-european-parliament.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-26T15:01:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "55eb8ba535e94edf05b5913cf95585150f129cdf",
-      "title": "1 million deaths from avoidable conditions in 2023 - European Commission",
-      "summary": "1 million deaths from avoidable conditions in 2023&nbsp;&nbsp;European CommissionCyprus recorded the lowest rate of avoidable deaths in the EU in 2023&nbsp;&nbsp;ΚΥΠΕLatvia has EU's highest rate of preventable deaths / A…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZaHBqOVBWZER1Sm1RZEx5ZjhmcWs0NWtYN3ZKUlFmY1lPMDU2ZWl0WkVVcnJHdF9QR0dfUFFSY3RaZjJyRWt3VXNFRnZ4SlJyazA1VE9GUXpRM1dQb0ljaEpoOEJ5STV6T0ZfMWZwT0FCbHlMaU9BSjVaUWVEdw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-26T11:45:56+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "The Brussels Times"
-    },
-    {
-      "id": "adbef5e92b444ea833a33ef887ff3757a0ce458a",
-      "title": "RED THREAD: Brussels hedges down under",
-      "summary": "Also, China’s army, De Wever panned, Sánchez’s fourth trip, WTO",
-      "url": "https://www.euractiv.com/news/red-thread-brussels-hedges-down-under/",
-      "source": "Euractiv",
-      "published_at": "2026-03-26T11:41:50+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Brussels hedges down under"
-    },
-    {
-      "id": "32da0ff0157327ee91715ee853c9dae5b65e3923",
-      "title": "25% of goods transported by road in the EU - European Commission",
-      "summary": "25% of goods transported by road in the EU&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YTHNBamMxQWFUVDBpemIwU3dDaEJXUUxtX1NMT2ZjbE4xcXRMdVRmMjgyVlBGdDhUMnd4ODVUbS1mamVwdzhkbXBXdHl3TU1KWmJ4SVBDcnFWWW1FVUo2dGFVd0VWVkhOQXBhWkF0bDFadXRHZFNQcGZmMGN1UQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-26T11:11:38+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "3f524634b376a5c4addcae0a33a4a21c66e2a0df",
-      "title": "Commission greenlights Latvia's fourth payment request for €371 million under NextGenerationEU - European Commission",
-      "summary": "Commission greenlights Latvia's fourth payment request for €371 million under NextGenerationEU&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mX0p3OTFFa3JQWGVBY3VmNkpvR0xJVTg2QkdZYmlPSFJ5N3hjcU15OVBrZmxYSDQzSHhEMThDLUtJa3Joc3pURGlwaDNaeVRTcU5DY0V4ZzhjeHJueGhHMWN4RjYweGpIaEdSM2RjOEU?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-26T10:33:17+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "63ff05b4b0cbf94310c0e20eca1a4cb41220882a",
-      "title": "EU healthcare workers say they ‘refuse to be instruments’ in deportation plans",
-      "summary": "Professionals from across Europe urge MEPs to reject plans, saying ‘climate of fear’ could stop people seeking careMore than 1,100 healthcare professionals from across Europe have urged MEPs to reject proposed measures a…",
-      "url": "https://www.theguardian.com/world/2026/mar/26/eu-europe-healthcare-workers-deportation-plans",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-26T05:00:27+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-01T10:23:31Z"
+  "last_updated": "2026-04-02T10:18:23Z"
 }

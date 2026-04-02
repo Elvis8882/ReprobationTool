@@ -1,25 +1,58 @@
 {
   "country": "SA",
-  "score": 81,
+  "score": 79,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 138,
+  "trend": -2,
+  "sources": 141,
   "sentiment": {
     "positive": 6,
-    "neutral": 102,
-    "negative": 30
+    "neutral": 104,
+    "negative": 32
   },
   "latest_articles": [
     {
+      "id": "37c370b4efba69a212dd8409e08cd6bf926b0ac5",
+      "title": "Rare 1000-year-old Quranic manuscript unveiled in Saudi Arabia",
+      "summary": "A nearly millennium-old manuscript, \"Gharib Al-Qur’an\" by Abu Ubaidah Ma'mar ibn al-Muthanna, has been discovered in Saudi Arabia. This significant find, detailing rare Qur'anic terms, highlights the King Abdulaziz Publi…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/rare-1000-year-old-quranic-manuscript-unveiled-in-saudi-arabia/articleshow/129968011.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-04-02T05:29:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "discovered in Saudi Arabia"
+    },
+    {
+      "id": "c3433a964d9236a21da4a4a01be5a37a2270c6db",
+      "title": "After Saudi, UAE Willing To Put Boots On Ground To Force Open Hormuz: Report",
+      "summary": "UAE is reportedly reviewing how it could play a \"military role\" in securing the strait",
+      "url": "https://www.ndtv.com/world-news/iran-war-news-after-saudi-uae-willing-to-put-boots-on-ground-to-force-open-hormuz-report-11295400#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-04-01T07:29:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "After Saudi, UAE Willing To Put Boots On Ground"
+    },
+    {
+      "id": "7ecb3bdd8c7f0c92588f8c89e2fcb1b5c5f176f5",
+      "title": "Saudi Arabia launches special operations rooms for overseas Umrah pilgrims as arrivals surge over 214% since 2022",
+      "summary": "Saudi Arabia has launched a new operations room to manage a surge in Umrah pilgrims, with 18 million arrivals this year, a 214% increase. This initiative, in collaboration with aviation and other agencies, aims to enhanc…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-launches-special-operations-rooms-for-overseas-umrah-pilgrims-as-arrivals-surge-over-214-since-2022/articleshow/129941912.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-04-01T05:14:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Saudi Arabia launches special operations rooms for overseas Umrah pilgrims"
+    },
+    {
       "id": "4a814f42f4d4c3a14a46ba24a77d225bbbe2f15f",
-      "title": "Middle East crisis live: Iran strikes tanker in Dubai; Israel prepared to keep up attacks ‘for weeks’",
-      "summary": "Fully loaded Kuwaiti tanker set alight as Israeli military spokesperson says country has ‘the munition, targets and manpower’ to continue campaignKuwaiti tanker hit by Iranian attack in Dubai port, raising oil spill fear…",
+      "title": "Emirates says Iranian nationals are not allowed to enter or transit through UAE – as it happened",
+      "summary": "This blog is closed. Follow our new liveblog here. Saudi Arabia’s defence ministry has said it has intercepted and destroyed ten drones over the past hours, and eight missiles launched towards the Riyadh area and the cou…",
       "url": "https://www.theguardian.com/world/live/2026/mar/31/iran-latest-updates-trump-threats-oil-spill-dubai-tehran-jerusalem-strikes",
       "source": "World news - The Guardian",
-      "published_at": "2026-03-31T09:33:47+00:00",
+      "published_at": "2026-04-01T04:44:40+00:00",
       "sentiment": "negative",
-      "confidence": 0.6,
+      "confidence": 0.4,
       "evidence": "intercepted and destroyed ten drones over the past hours"
     },
     {
@@ -197,41 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Saudi air base"
-    },
-    {
-      "id": "0ce89f579b6943b26098054e0d1b3d0dcaf5bd66",
-      "title": "Ukraine signed a defense cooperation agreement with Saudi Arabia, Zelensky says.",
-      "summary": "",
-      "url": "https://www.nytimes.com/live/2026/03/27/world/iran-war-trump-oil-israel/ukraine-signed-a-defense-cooperation-agreement-with-saudi-arabia-zelensky-says",
-      "source": "NYT > World News",
-      "published_at": "2026-03-27T11:55:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": ""
-    },
-    {
-      "id": "5289b4ddcd1d192e3300ee4fd432517c8ab5433d",
-      "title": "Saudi Arabia urging US to keep up Iran attacks, intelligence source confirms",
-      "summary": "Crown Prince Mohammed bin Salman said to view US-Israeli war as ‘historic opportunity’ to remake Middle EastMiddle East crisis – live updatesSaudi Arabia has urged the US to ramp up attacks on Iran, a Saudi intelligence…",
-      "url": "https://www.theguardian.com/world/2026/mar/27/saudi-arabia-us-iran-attacks-mohammed-bin-salman",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-27T08:16:46+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Saudi Arabia urging US to keep up Iran attacks"
-    },
-    {
-      "id": "b55968dcf7184b57f96f0103cfd8b5f2506165b0",
-      "title": "Pakistan, Playing Mediator Between U.S. and Iran, Is Calling Several Countries",
-      "summary": "Washington, Tehran, Riyadh, Abu Dhabi, Cairo, Istanbul and Brussels have all received calls as Pakistan plays mediator between the United States and Iran.",
-      "url": "https://www.nytimes.com/2026/03/26/world/asia/pakistan-iran-united-states-talks.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-26T21:56:36+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Riyadh, Abu Dhabi, Cairo, Istanbul and Brussels have all received calls"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-01T10:23:31Z"
+  "last_updated": "2026-04-02T10:18:23Z"
 }

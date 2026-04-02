@@ -3,14 +3,67 @@
   "score": 41,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -4,
-  "sources": 238,
+  "trend": 0,
+  "sources": 243,
   "sentiment": {
-    "positive": 2,
-    "neutral": 159,
-    "negative": 77
+    "positive": 3,
+    "neutral": 162,
+    "negative": 78
   },
   "latest_articles": [
+    {
+      "id": "3c1f42b98063ab0fe76b1fd0db4890015e1d2d03",
+      "title": "Europe Pushes for a Gentler Internet for Children",
+      "summary": "The European Union and national capitals are trying to make social media and algorithms less addictive and safer, especially for children.",
+      "url": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-02T09:06:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "8ec255710e22d4d7899e1cbe93b3c570f299b3ff",
+      "title": "Nature calling: interest in camping & caravanning grows - European Commission",
+      "summary": "Nature calling: interest in camping & caravanning grows&nbsp;&nbsp;European Commission",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JVnhrcl93OGVoNmlTYjMxakdHR1BJcHp3dGRjUFVPVXVqeEdZTzdjV3BWS2ZFSTlMZV9LSllyVll5ckhVbVI4b19QS1ItTVpFamc3U0dFekdzcDZpbHRzRVN3V3pWeEYtblFFUi1mdGN4VWwzamNFdUtZVXlrdw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-02T09:00:24+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "f7a5184f5e9784ea7aeffa942e232d5daa26caac",
+      "title": "Peter Magyar, the former Orban ally vying for power in Hungary",
+      "summary": "Magyar represents the biggest threat to Viktor Orban's rule in Hungary since he won the first of four consecutive victories in 2010.",
+      "url": "https://www.bbc.com/news/articles/c78l7vyylgqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-01T13:43:10+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "biggest threat to Viktor Orban's rule in Hungary"
+    },
+    {
+      "id": "5ba92f679762820557837c8a066d7365ea8fa06d",
+      "title": "Szijjártó accused of ‘treason’ over close Russia ties by Hungary’s opposition",
+      "summary": "'This is defined as treason – and is punishable by life imprisonment,' Magyar said",
+      "url": "https://www.euractiv.com/news/szijjarto-accused-of-treason-over-close-russia-ties-by-hungarys-opposition/",
+      "source": "Euractiv",
+      "published_at": "2026-04-01T08:46:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Szijjártó accused of ‘treason’ over close Russia ties"
+    },
+    {
+      "id": "845d7456a1873b865cc72e956cc4747d3f854bc6",
+      "title": "Are the Czechs going Slovak? Babiš’ attacks on independent media",
+      "summary": "Press freedom watchdogs warn of parallels with Slovakia and Hungary as tensions with independent media escalate",
+      "url": "https://www.euractiv.com/news/czech-pm-babis-taking-slovak-path-in-attacks-on-independent-media/",
+      "source": "Euractiv",
+      "published_at": "2026-04-01T04:00:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "parallels with Slovakia and Hungary"
+    },
     {
       "id": "cdc76ddef326e90bbbf283836a1ba8635670a11e",
       "title": "The Brief – Euronews suppresses scrutiny of Orbán allies",
@@ -171,60 +224,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Hungary Opens Espionage Case Against Journalist"
-    },
-    {
-      "id": "3a1adc84c3c182afabfdeb83b0c8e5d317630e47",
-      "title": "MEPs back plans for ‘return hubs’, raising fears of ‘human rights black holes’",
-      "summary": "European parliament votes in favour of sending refused asylum seekers to offshore hubs, in ‘historic setback for refugee rights’People with no right to stay in the EU could be detained for up to two years or sent to offs…",
-      "url": "https://www.theguardian.com/world/2026/mar/26/meps-back-plans-for-return-hubs-raising-fears-of-human-rights-black-holes",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-26T17:23:33+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "40e50e6645fa77fd4c2132f21f1dc4312cbd802d",
-      "title": "Orban's Hungarian government accused of mass voter intimidation ahead of election",
-      "summary": "A film quoting voters, mayors and a police officer alleges money and drugs are being offered to pressure people to back the ruling party.",
-      "url": "https://www.bbc.com/news/articles/c36r0068xp2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-26T17:16:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Hungarian government accused of mass voter intimidation"
-    },
-    {
-      "id": "e645e3c9e6d09f91e7a8c1bc3b46ef70e13b6df9",
-      "title": "Brussels opens investigation into Snapchat amid concern over children’s safety",
-      "summary": "European Commission says social messaging app is exposing children to grooming and sexual exploitationBrussels has opened an investigation into Snapchat over concerns the social messaging app is exposing children to groo…",
-      "url": "https://www.theguardian.com/technology/2026/mar/26/brussels-opens-investigation-into-snapchat-amid-concern-over-childrens-safety",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-26T17:08:55+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "7d6d784edb9101219db0ed97ec0ec547f5b31fc8",
-      "title": "Wiretap row rocks Hungary’s campaign as government files espionage complaint",
-      "summary": "Covert recordings have come to define Hungary’s ongoing election campaign",
-      "url": "https://www.euractiv.com/news/wiretap-row-rocks-hungarys-campaign-as-government-files-espionage-complaint/",
-      "source": "Euractiv",
-      "published_at": "2026-03-26T16:50:03+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Wiretap row rocks Hungary’s campaign as government files espionage complaint"
-    },
-    {
-      "id": "7681fd93291addfd58a4c2d5fbc3236c5445572c",
-      "title": "EU check reveals misleading sales practices online - European Commission",
-      "summary": "EU check reveals misleading sales practices online&nbsp;&nbsp;European CommissionCCPC investigation — one in three online retailers misleads us on Black Friday discounts&nbsp;&nbsp;The Irish IndependentEU finds 30% of on…",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUgxZG5jaDdMNTNMYjI2VWloZ3Y1bm5maFFYN0VaZC1zWW81Q1hZUWJnUGs1azdYZ2s2ZDY5Y0d0eldSZlRCSXh4STQyR25DVEN2SkMtM20ySHhJbmlNajJOMmFJTWNsZVNDOGk0WmRIZGZLNHg4eW9vUkNaVkpvVnhoQWt4UFBfTE1hcy1vX1VaamJWRXFpVExBOTVabFdYVHpkZkNQRzlKOXdlNXUzQjRtOA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-26T15:14:28+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-01T10:23:31Z"
+  "last_updated": "2026-04-02T10:18:23Z"
 }
