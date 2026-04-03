@@ -1,16 +1,27 @@
 {
   "country": "NO",
-  "score": 69,
+  "score": 68,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 58,
+  "trend": -1,
+  "sources": 59,
   "sentiment": {
     "positive": 6,
     "neutral": 44,
-    "negative": 8
+    "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "69c49570e6490afeaf48b552bb4d5ce9ded7483d",
+      "title": "Nordics fight plan to fund European electricity grid development",
+      "summary": "Brussels wants to ring-fence 25% of a rent paid to power line operators, but Stockholm and Oslo are having none of it",
+      "url": "https://www.euractiv.com/news/nordics-fight-plan-to-fund-european-electricity-grid-development/",
+      "source": "Euractiv",
+      "published_at": "2026-04-02T04:00:27+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Oslo are having none of it"
+    },
     {
       "id": "2e072b2f38a082d2c4659d4448dbb4a8477b0409",
       "title": "Iceland and Norway join EU’s Starlink competitor, IRIS2",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Norway beats US to top Winter Olympics medal table"
-    },
-    {
-      "id": "8af7ebf22d31033f22f5418a11a7c3cdec47533c",
-      "title": "Johannes Hoesflot Klaebo Leads Norway to Record Olympic Medal Haul",
-      "summary": "Norway, led by the cross-country skiing sensation Johannes Hoesflot Klaebo, topped the medal table for the fourth straight Winter Games.",
-      "url": "https://www.nytimes.com/2026/02/22/world/europe/2026-winter-olympics-klaebo-norway-epstein.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-22T05:01:29+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Norway, led by the cross-country skiing sensation Johannes Hoesflot Klaebo, topped the medal table"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-02T10:18:23Z"
+  "last_updated": "2026-04-03T10:08:04Z"
 }

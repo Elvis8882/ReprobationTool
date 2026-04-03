@@ -1,16 +1,37 @@
 {
   "country": "SE",
-  "score": 99,
+  "score": 98,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 193,
+  "trend": -1,
+  "sources": 197,
   "sentiment": {
     "positive": 13,
-    "neutral": 171,
-    "negative": 9
+    "neutral": 174,
+    "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "efcf60fd204b76c84e5c0b0fcf2b1b30d93740cc",
+      "title": "France launches ‘Friends of the Ocean’ group within EU Council",
+      "summary": "Paris seeks to cement leadership on EU ocean policy as new rules loom",
+      "url": "https://www.euractiv.com/news/france-launches-friends-of-the-ocean-group-within-eu-council/",
+      "source": "Euractiv",
+      "published_at": "2026-04-03T04:00:27+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "45b92a54c2f41f16fb194602b040f47ba3be04a8",
+      "title": "‘Snus has a special place’: Swedish MEP calls French ban too extreme",
+      "summary": "Travellers carrying snus risk fines under France’s nicotine ban",
+      "url": "https://www.euractiv.com/news/snus-has-a-special-place-swedish-mep-calls-french-ban-too-extreme/",
+      "source": "Euractiv",
+      "published_at": "2026-04-03T04:00:18+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Swedish MEP calls French ban too extreme"
+    },
     {
       "id": "3c1f42b98063ab0fe76b1fd0db4890015e1d2d03",
       "title": "Europe Pushes for a Gentler Internet for Children",
@@ -30,6 +51,28 @@
       "published_at": "2026-04-02T09:00:24+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "69c49570e6490afeaf48b552bb4d5ce9ded7483d",
+      "title": "Nordics fight plan to fund European electricity grid development",
+      "summary": "Brussels wants to ring-fence 25% of a rent paid to power line operators, but Stockholm and Oslo are having none of it",
+      "url": "https://www.euractiv.com/news/nordics-fight-plan-to-fund-european-electricity-grid-development/",
+      "source": "Euractiv",
+      "published_at": "2026-04-02T04:00:27+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Stockholm and Oslo are having none of it"
+    },
+    {
+      "id": "d6d241e206fa73fecd2b3323d3a849617d0d3706",
+      "title": "France’s nicotine pouch ban sparks backlash from Swedish MEPs",
+      "summary": "Swedes warn the ban could disrupt European Parliament sessions in Strasbourg",
+      "url": "https://www.euractiv.com/news/frances-nicotine-pouch-ban-sparks-backlash-from-swedish-meps/",
+      "source": "Euractiv",
+      "published_at": "2026-04-01T15:17:18+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Swedish MEPs warn the ban could disrupt European Parliament sessions"
     },
     {
       "id": "6098b2aad11eb386a573b14a41839709b656d527",
@@ -172,48 +215,8 @@
       "published_at": "2026-03-26T10:33:17+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "63ff05b4b0cbf94310c0e20eca1a4cb41220882a",
-      "title": "EU healthcare workers say they ‘refuse to be instruments’ in deportation plans",
-      "summary": "Professionals from across Europe urge MEPs to reject plans, saying ‘climate of fear’ could stop people seeking careMore than 1,100 healthcare professionals from across Europe have urged MEPs to reject proposed measures a…",
-      "url": "https://www.theguardian.com/world/2026/mar/26/eu-europe-healthcare-workers-deportation-plans",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-26T05:00:27+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f450e71c42dd7ac86533b96c817629c43cb74aaf",
-      "title": "France ‘confident’ that EU probe won’t block nuclear plans",
-      "summary": "The government expects a European Commission investigation by the end of March",
-      "url": "https://www.euractiv.com/news/france-confident-that-eu-probe-wont-block-nuclear-plans/",
-      "source": "Euractiv",
-      "published_at": "2026-03-25T17:11:05+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "a189624e739ff577f3fd1db1fa400105305f3bae",
-      "title": "European Commission unveils €115m programme to boost defence start-ups",
-      "summary": "The Commission AGILE programme aims to fund 20-30 defence projects developed by small and medium-sized companies",
-      "url": "https://www.euractiv.com/news/european-commission-unveils-e115m-programme-to-boost-defence-start-ups/",
-      "source": "Euractiv",
-      "published_at": "2026-03-25T13:54:29+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "b7778e67bc4e6eeb2841034f851c83efd93bbe29",
-      "title": "EU imports of energy products decreased again in 2025 - European Commission",
-      "summary": "EU imports of energy products decreased again in 2025&nbsp;&nbsp;European CommissionMalta Tops Europe In Energy Import Dependence At 98% In 2024&nbsp;&nbsp;Lovin MaltaEU energy imports hit 57% dependency as oil and gas d…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jX09hZHhsWVJZRGJuRzFKRjNuWExvckVvelhxbFFPZWo5aFRuNU04bFRIS29WSXJwNzNQYUY4WWpzdkxXM2s5VDdlOVUwcXpudDFhaFB6eDlDYlpwQ0dCT2F0MXQ2ZlJDRnpiT2RKTmdwUW5CRHZSS1RZd1owdw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-25T10:00:32+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-02T10:18:23Z"
+  "last_updated": "2026-04-03T10:08:04Z"
 }

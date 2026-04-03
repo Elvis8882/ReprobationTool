@@ -1,16 +1,37 @@
 {
   "country": "PL",
-  "score": 96,
+  "score": 95,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": -1,
-  "sources": 199,
+  "sources": 203,
   "sentiment": {
     "positive": 19,
-    "neutral": 164,
-    "negative": 16
+    "neutral": 167,
+    "negative": 17
   },
   "latest_articles": [
+    {
+      "id": "efcf60fd204b76c84e5c0b0fcf2b1b30d93740cc",
+      "title": "France launches ‘Friends of the Ocean’ group within EU Council",
+      "summary": "Paris seeks to cement leadership on EU ocean policy as new rules loom",
+      "url": "https://www.euractiv.com/news/france-launches-friends-of-the-ocean-group-within-eu-council/",
+      "source": "Euractiv",
+      "published_at": "2026-04-03T04:00:27+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "1de9b00d6d04775be7db698a69fd404e876177a4",
+      "title": "Court ruling forces Romania and Poland to accept millions of unwanted Covid-19 vaccines",
+      "summary": "More than 90 million doses face uncertain future after court ruling",
+      "url": "https://www.euractiv.com/news/court-ruling-forces-romania-and-poland-to-accept-millions-of-unwanted-covid-19-vaccines/",
+      "source": "Euractiv",
+      "published_at": "2026-04-02T13:13:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Romania and Poland to accept millions of unwanted Covid-19 vaccines"
+    },
     {
       "id": "3a1b2d28e805826fef6482dfe0455ea120d042c3",
       "title": "Trump’s threats to withdraw US from Nato ‘look like Putin’s dream plan’, says Tusk – Europe live",
@@ -39,6 +60,16 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JVnhrcl93OGVoNmlTYjMxakdHR1BJcHp3dGRjUFVPVXVqeEdZTzdjV3BWS2ZFSTlMZV9LSllyVll5ckhVbVI4b19QS1ItTVpFamc3U0dFekdzcDZpbHRzRVN3V3pWeEYtblFFUi1mdGN4VWwzamNFdUtZVXlrdw?oc=5",
       "source": "Top stories - Google News",
       "published_at": "2026-04-02T09:00:24+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "d6d241e206fa73fecd2b3323d3a849617d0d3706",
+      "title": "France’s nicotine pouch ban sparks backlash from Swedish MEPs",
+      "summary": "Swedes warn the ban could disrupt European Parliament sessions in Strasbourg",
+      "url": "https://www.euractiv.com/news/frances-nicotine-pouch-ban-sparks-backlash-from-swedish-meps/",
+      "source": "Euractiv",
+      "published_at": "2026-04-01T15:17:18+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -74,6 +105,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "MEPs examine Poland’s readiness for pharma reform"
+    },
+    {
+      "id": "de14e6d0c0c198f8e14fa2697c6d415010bf0cd8",
+      "title": "Poland’s pharmacies deliver one third of flu vaccines in national surge [Advocacy Lab]",
+      "summary": "Poland’s vaccination drive gains momentum amid uneven progress and persistent gaps",
+      "url": "https://www.euractiv.com/news/polands-record-flu-vaccine-surge/",
+      "source": "Euractiv",
+      "published_at": "2026-04-01T03:24:56+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Poland’s pharmacies deliver one third of flu vaccines"
     },
     {
       "id": "6098b2aad11eb386a573b14a41839709b656d527",
@@ -177,48 +219,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Will Poland win again?"
-    },
-    {
-      "id": "7681fd93291addfd58a4c2d5fbc3236c5445572c",
-      "title": "EU check reveals misleading sales practices online - European Commission",
-      "summary": "EU check reveals misleading sales practices online&nbsp;&nbsp;European CommissionCCPC investigation — one in three online retailers misleads us on Black Friday discounts&nbsp;&nbsp;The Irish IndependentEU finds 30% of on…",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUgxZG5jaDdMNTNMYjI2VWloZ3Y1bm5maFFYN0VaZC1zWW81Q1hZUWJnUGs1azdYZ2s2ZDY5Y0d0eldSZlRCSXh4STQyR25DVEN2SkMtM20ySHhJbmlNajJOMmFJTWNsZVNDOGk0WmRIZGZLNHg4eW9vUkNaVkpvVnhoQWt4UFBfTE1hcy1vX1VaamJWRXFpVExBOTVabFdYVHpkZkNQRzlKOXdlNXUzQjRtOA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-26T15:14:28+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "9d0ab7dcc5374f22af2319a4ea60bd9e75337889",
-      "title": "After ‘Sausage Making,’ European Lawmakers Approve U.S. Trade Deal",
-      "summary": "The agreement that President Trump struck with the European Union has cleared a major hurdle that delayed it for months.",
-      "url": "https://www.nytimes.com/2026/03/26/world/europe/eu-trade-deal-us-european-parliament.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-26T15:01:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "55eb8ba535e94edf05b5913cf95585150f129cdf",
-      "title": "1 million deaths from avoidable conditions in 2023 - European Commission",
-      "summary": "1 million deaths from avoidable conditions in 2023&nbsp;&nbsp;European CommissionCyprus recorded the lowest rate of avoidable deaths in the EU in 2023&nbsp;&nbsp;ΚΥΠΕLatvia has EU's highest rate of preventable deaths / A…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZaHBqOVBWZER1Sm1RZEx5ZjhmcWs0NWtYN3ZKUlFmY1lPMDU2ZWl0WkVVcnJHdF9QR0dfUFFSY3RaZjJyRWt3VXNFRnZ4SlJyazA1VE9GUXpRM1dQb0ljaEpoOEJ5STV6T0ZfMWZwT0FCbHlMaU9BSjVaUWVEdw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-26T11:45:56+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "32da0ff0157327ee91715ee853c9dae5b65e3923",
-      "title": "25% of goods transported by road in the EU - European Commission",
-      "summary": "25% of goods transported by road in the EU&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YTHNBamMxQWFUVDBpemIwU3dDaEJXUUxtX1NMT2ZjbE4xcXRMdVRmMjgyVlBGdDhUMnd4ODVUbS1mamVwdzhkbXBXdHl3TU1KWmJ4SVBDcnFWWW1FVUo2dGFVd0VWVkhOQXBhWkF0bDFadXRHZFNQcGZmMGN1UQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-26T11:11:38+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-02T10:18:23Z"
+  "last_updated": "2026-04-03T10:08:04Z"
 }
