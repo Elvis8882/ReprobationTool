@@ -1,16 +1,47 @@
 {
   "country": "HU",
-  "score": 41,
+  "score": 40,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 245,
+  "trend": -1,
+  "sources": 249,
   "sentiment": {
     "positive": 3,
-    "neutral": 164,
-    "negative": 78
+    "neutral": 167,
+    "negative": 79
   },
   "latest_articles": [
+    {
+      "id": "ddcc5f1268fffed2aa5944fa65581b25e70e3608",
+      "title": "After 16 years in power, could Viktor Orban finally be unseated?",
+      "summary": "Hungary is going to the polls in nine days - after 16 years in power, can Viktor Orban be unseated?",
+      "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-03T23:04:24+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "could Viktor Orban finally be unseated?"
+    },
+    {
+      "id": "2310d0e52181fedd2cc1ea94e3f914cb803b9867",
+      "title": "EU under pressure as fertiliser costs soar on Middle East war",
+      "summary": "Agriculture sector representatives are due in Brussels for talks with the European Commission",
+      "url": "https://www.euractiv.com/news/eu-under-pressure-as-fertiliser-costs-soar-on-middle-east-war/",
+      "source": "Euractiv",
+      "published_at": "2026-04-03T18:33:36+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "9da0a0bb1f19eedcbec7a929fa1a60ca48c2db5a",
+      "title": "Rima Hassan Is Charged With Glorifying Terrorism Online in Social Media Post",
+      "summary": "Rima Hassan, a member of the European Parliament, could face seven years in prison for the post, in which she quoted a perpetrator of a 1972 massacre in Israel.",
+      "url": "https://www.nytimes.com/2026/04/03/rima-hassan-france-terrorism-charges.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-03T18:24:26+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "efcf60fd204b76c84e5c0b0fcf2b1b30d93740cc",
       "title": "France launches ‘Friends of the Ocean’ group within EU Council",
@@ -72,6 +103,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Szijjártó accused of ‘treason’ over close Russia ties"
+    },
+    {
+      "id": "b354aa20f44cb45d363a720c5530eed37774a319",
+      "title": "Hungarian FM slams reports of passing info to Russia",
+      "summary": "Péter Magyar, the frontrunner to unseat Orbán, suggested that Szijjártó should face life in jail \"treason\"",
+      "url": "https://www.euractiv.com/news/hungarian-fm-slams-reports-of-passing-info-to-russia/",
+      "source": "Euractiv",
+      "published_at": "2026-04-01T07:16:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Hungarian FM slams reports of passing info to Russia"
     },
     {
       "id": "845d7456a1873b865cc72e956cc4747d3f854bc6",
@@ -179,51 +221,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Governments in five EU member states are “consistently and intentionally” eroding the rule of law"
-    },
-    {
-      "id": "0f0f9fcd8e9b4d60257a6635a1a212c59e696c02",
-      "title": "Third-country tip triggers police check on MEP Salis ahead of protest",
-      "summary": "Parliament blocked Hungary’s bid to lift Salis’ immunity last year",
-      "url": "https://www.euractiv.com/news/third-country-tip-triggers-police-check-on-mep-salis-ahead-of-protest/",
-      "source": "Euractiv",
-      "published_at": "2026-03-28T13:18:42+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Parliament blocked Hungary’s bid to lift Salis’ immunity"
-    },
-    {
-      "id": "6347fe596400f5c5e9e71eeafac9741728874383",
-      "title": "Orbán’s party buying votes in rural Hungary, claims documentary - TVP World",
-      "summary": "Orbán’s party buying votes in rural Hungary, claims documentary&nbsp;&nbsp;TVP WorldOrban's Hungarian government accused of mass voter intimidation ahead of election&nbsp;&nbsp;BBCTop Hungary news: Mass vote-buying, sanc…",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSXBxMGw5ZnNFalpleDdwVDNhbS04M29oNFBncWo5eXZqaUNjTHBDcG16NFlxUVVNd1RhalZnVEJPemZ1QnprZG9Udnh5ZDBPX1pQUFc1akpKdXd1bUlQckJDYXZZYnJPbUN5Ujl4b29MVDN0bXVWQ0YwZHZhSUs0OU9XVGZWbFRTN0hWamhaR3ZzdmJ2?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-27T20:35:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Orbán’s party buying votes in rural Hungary"
-    },
-    {
-      "id": "e9e275df6b08c40a6e00904899fe9635f3268118",
-      "title": "Czech minister warns EU, wastewater rules risk limiting medicines access [Advocacy Lab]",
-      "summary": "Prague calls on the European Commission and member states to reconsider environmental obligations amid fears of medicine shortages and pressure on generic producers",
-      "url": "https://www.euractiv.com/news/czech-minister-warns-eu-wastewater-rules-risk-limiting-medicines-access/",
-      "source": "Euractiv",
-      "published_at": "2026-03-27T11:32:11+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "acd05dfd2861c8f999948cb32e289340915bba59",
-      "title": "Hungary, Poland, Romania to face Pfizer in Brussels over COVID vaccine contracts",
-      "summary": "Pharmaceutical giants says contracts must be honored",
-      "url": "https://www.euractiv.com/news/hungary-poland-romania-to-face-pfizer-in-brussels-over-covid-vaccine-contracts/",
-      "source": "Euractiv",
-      "published_at": "2026-03-27T05:00:48+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Hungary, Poland, Romania to face Pfizer in Brussels"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-03T10:08:04Z"
+  "last_updated": "2026-04-04T09:54:20Z"
 }

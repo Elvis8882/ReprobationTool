@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 68,
+  "score": 95,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 58,
+  "trend": 27,
+  "sources": 59,
   "sentiment": {
     "positive": 9,
     "neutral": 39,
-    "negative": 10
+    "negative": 11
   },
   "latest_articles": [
+    {
+      "id": "b99302898bc32becdad5279a9a78cf11862957ae",
+      "title": "‘Every night they are bombarding’: at border crossing, some Iranians are fleeing war and some are heading home",
+      "summary": "People leaving Iran for Turkey tell of impact of bombs and internet blackouts, while others are travelling the other way to be closer to relatives in perilHe could not help but splutter out a laugh at the question. Amir,…",
+      "url": "https://www.theguardian.com/world/2026/apr/03/iran-turkey-kapikoy-border-crossing-war",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-03T07:00:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "People leaving Iran for Turkey tell of impact of bombs"
+    },
     {
       "id": "4a814f42f4d4c3a14a46ba24a77d225bbbe2f15f",
       "title": "Emirates says Iranian nationals are not allowed to enter or transit through UAE – as it happened",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Turkey’s assistance “was instrumental”"
-    },
-    {
-      "id": "9d1981a408761c65df2dab039ac8777423d55d2f",
-      "title": "U.S. orders more diplomats to leave Middle East",
-      "summary": "The State Department’s most recent directives apply to personnel in Turkey and Saudi Arabia, underscoring the ongoing threat posed by Iranian counterattacks.",
-      "url": "https://www.washingtonpost.com/national-security/2026/03/09/us-diplomats-middle-east-iran/",
-      "source": "World (Washington post)",
-      "published_at": "2026-03-09T22:54:25+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "personnel in Turkey"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-03T10:08:04Z"
+  "last_updated": "2026-04-04T09:54:20Z"
 }

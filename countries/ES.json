@@ -1,16 +1,36 @@
 {
   "country": "ES",
-  "score": 87,
+  "score": 88,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 293,
+  "trend": 1,
+  "sources": 296,
   "sentiment": {
-    "positive": 37,
-    "neutral": 218,
+    "positive": 38,
+    "neutral": 220,
     "negative": 38
   },
   "latest_articles": [
+    {
+      "id": "2310d0e52181fedd2cc1ea94e3f914cb803b9867",
+      "title": "EU under pressure as fertiliser costs soar on Middle East war",
+      "summary": "Agriculture sector representatives are due in Brussels for talks with the European Commission",
+      "url": "https://www.euractiv.com/news/eu-under-pressure-as-fertiliser-costs-soar-on-middle-east-war/",
+      "source": "Euractiv",
+      "published_at": "2026-04-03T18:33:36+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "9da0a0bb1f19eedcbec7a929fa1a60ca48c2db5a",
+      "title": "Rima Hassan Is Charged With Glorifying Terrorism Online in Social Media Post",
+      "summary": "Rima Hassan, a member of the European Parliament, could face seven years in prison for the post, in which she quoted a perpetrator of a 1972 massacre in Israel.",
+      "url": "https://www.nytimes.com/2026/04/03/rima-hassan-france-terrorism-charges.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-03T18:24:26+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "efcf60fd204b76c84e5c0b0fcf2b1b30d93740cc",
       "title": "France launches ‘Friends of the Ocean’ group within EU Council",
@@ -61,6 +81,17 @@
       "published_at": "2026-04-01T15:17:18+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "12db3705a6f5aac1c222e79378e31a7c71aa6889",
+      "title": "Trump is railing over access to European bases for Iran war. But where are they?",
+      "summary": "The US President claimed he could just \"just fly in and use\" jointly operated bases in Spain. Madrid has a wildly different interpretation of their agreement, and so do others",
+      "url": "https://www.euractiv.com/news/trump-is-railing-over-access-to-european-bases-for-iran-war-but-where-are-they/",
+      "source": "Euractiv",
+      "published_at": "2026-04-01T13:22:31+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Madrid has a wildly different interpretation of their agreement"
     },
     {
       "id": "f6a2d886f91f9bbf9cf3be2a4a91affaebbbfd3d",
@@ -189,41 +220,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Spanish bishops criticise gang-rape survivor Noelia Castillo’s euthanasia death"
-    },
-    {
-      "id": "7b05139d5fe996575e86a7c5a883fcb22c1a6c26",
-      "title": "Noelia Castillo Ramos Dies in Spain After Winning Right to End Her Life",
-      "summary": "Noelia Castillo Ramos, 25, who was in chronic physical and psychological pain, had sought an assisted death since 2024, but her father sued to prevent it.",
-      "url": "https://www.nytimes.com/2026/03/27/world/europe/noelia-castillo-ramos-spain-assisted-death.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-27T18:03:41+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Dies in Spain After Winning Right to End Her Life"
-    },
-    {
-      "id": "4d1f965f3fa5901c2bee744da06ed2e7d45efd63",
-      "title": "Austria becomes latest to propose social media ban for children",
-      "summary": "The proposed under-14 ban follows similar steps in other European countries, including France and Spain.",
-      "url": "https://www.bbc.com/news/articles/cwyv70de9exo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-27T17:21:42+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "similar steps in other European countries, including France and Spain"
-    },
-    {
-      "id": "e351c9e349ba4170cad842c450be76b40c642e8a",
-      "title": "Spanish woman who died through euthanasia failed by state, say critics",
-      "summary": "Noelia Castillo died on Thursday evening in a Barcelona hospital, after a protracted legal battle with her own father.",
-      "url": "https://www.bbc.com/news/articles/c4g8w4xp97jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-27T12:09:06+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Spanish woman who died through euthanasia failed by state"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-03T10:08:04Z"
+  "last_updated": "2026-04-04T09:54:20Z"
 }

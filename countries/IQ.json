@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 78,
+  "sources": 79,
   "sentiment": {
     "positive": 3,
     "neutral": 42,
-    "negative": 33
+    "negative": 34
   },
   "latest_articles": [
+    {
+      "id": "1c95a57bd33ba0ea5bf6c493fd8c13e93f7a01a2",
+      "title": "Ex-US Army Pilot Recalls Battle for Survival When Shot Down in Iraq",
+      "summary": "Ronald Young Jr. was in the Army when his Apache Longbow copter went down during the U.S. invasion of Iraq.",
+      "url": "https://www.nytimes.com/2026/04/03/world/middleeast/iraq-us-pow-rescue-survival.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-03T22:35:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Apache Longbow copter went down during the U.S. invasion of Iraq."
+    },
     {
       "id": "bd0632b8bd37a43afcd166dd533b4366a55e202e",
       "title": "Civilians, businesses, universities potential targets: US embassy in Baghdad warns of attacks",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "6 US Soldiers Killed In Iraq Crash"
-    },
-    {
-      "id": "92700501fbc578597bb1313cc310f481d61a28a4",
-      "title": "Warning to Americans to leave Iraq is a sign the Iran war is spilling over the border.",
-      "summary": "",
-      "url": "https://www.nytimes.com/live/2026/03/15/world/iran-war-trump-oil-israel/warning-to-americans-to-leave-iraq-is-a-sign-the-iran-war-is-spilling-over-the-border",
-      "source": "NYT > World News",
-      "published_at": "2026-03-15T01:26:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Warning to Americans to leave Iraq"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-03T10:08:04Z"
+  "last_updated": "2026-04-04T09:54:20Z"
 }
