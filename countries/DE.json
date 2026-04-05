@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 349,
+  "sources": 351,
   "sentiment": {
-    "positive": 56,
-    "neutral": 247,
+    "positive": 57,
+    "neutral": 248,
     "negative": 46
   },
   "latest_articles": [
+    {
+      "id": "a0dcc4cda40fba4dfb13cd5c77a13aaff5cf6f75",
+      "title": "German males under 45 may need military approval for long stays abroad",
+      "summary": "Under the law, travel approvals must generally be granted and it remains unclear how the rule would be enforced if breached.",
+      "url": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-04T21:16:42+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "German males under 45 may need military approval for long stays abroad"
+    },
     {
       "id": "2310d0e52181fedd2cc1ea94e3f914cb803b9867",
       "title": "EU under pressure as fertiliser costs soar on Middle East war",
@@ -70,6 +81,17 @@
       "published_at": "2026-04-01T15:17:18+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "4b116b50126186f49a71e143a639efbe9364773e",
+      "title": "Germany stops gas stations from raising pump prices more than once a day",
+      "summary": "Germany is introducing a fuel package to prevent powerful gas companies from \"abusive fuel price increases,\" as the Middle East conflict continues.",
+      "url": "https://www.cnbc.com/2026/04/01/germany-fuel-gas-price-limit-oil-iran-war.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-04-01T14:18:43+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Germany stops gas stations from raising pump prices more than once a day"
     },
     {
       "id": "85cac5b553ebbdd2495c8b39b417b194e1a13e76",
@@ -200,30 +222,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Berlin’s tax on good times"
-    },
-    {
-      "id": "2e4334aecabe2254be3045fee9dcf050e65ef25c",
-      "title": "Rebuild and return: Germany expects 800,000 Syrians to leave before 2030",
-      "summary": "Most Syrians, \"first and foremost for those who abuse our hospitality\", should return home within three years, said the German Chancellor",
-      "url": "https://www.euractiv.com/news/rebuild-and-return-germany-expects-800000-syrians-to-leave-before-2030/",
-      "source": "Euractiv",
-      "published_at": "2026-03-30T15:10:50+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Germany expects 800,000 Syrians to leave before 2030"
-    },
-    {
-      "id": "ec0fd6a8cf43c854de89bd004f0cd1c102de21b4",
-      "title": "Berlin weighs ‘sin taxes’ to stabilise strained health insurance system",
-      "summary": "Plans include new taxes and scrapping free spousal coverage to plug funding gap",
-      "url": "https://www.euractiv.com/news/berlin-weighs-sin-taxes-to-stabilise-strained-health-insurance-system/",
-      "source": "Euractiv",
-      "published_at": "2026-03-30T14:34:10+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Berlin weighs ‘sin taxes’ to stabilise strained health insurance"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-04T09:54:20Z"
+  "last_updated": "2026-04-05T09:54:29Z"
 }
