@@ -4,13 +4,68 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 627,
+  "sources": 633,
   "sentiment": {
-    "positive": 31,
-    "neutral": 162,
-    "negative": 434
+    "positive": 32,
+    "neutral": 163,
+    "negative": 438
   },
   "latest_articles": [
+    {
+      "id": "590c9faa4bf65638ed1f3972b31de4cda2acbe2c",
+      "title": "A Hidden Russian Hand in Hungary’s Election? Actually, It’s Quite Open.",
+      "summary": "Prime Minister Viktor Orban has made hostility to Ukraine a centerpiece of his campaign. Moscow seems determined to repay the favor.",
+      "url": "https://www.nytimes.com/2026/04/06/world/europe/viktor-orban-hungary-election-russia.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-06T09:04:32+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Moscow seems determined to repay the favor."
+    },
+    {
+      "id": "a035e410aab1dbeb22a6e1451da0ecbf357e577b",
+      "title": "Why Trees Are Key to Russia’s Spring Offensive in Ukraine",
+      "summary": "In the age of drone warfare, Russia is expected to exploit the return of vegetation to help conceal its troops.",
+      "url": "https://www.nytimes.com/2026/04/06/world/europe/ukraine-russia-war-spring-foliage.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-06T09:01:31+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia’s Spring Offensive in Ukraine"
+    },
+    {
+      "id": "9379718114e8b11ab00913720b6466b955795921",
+      "title": "Estonia 'recommends' Ukraine uses different drone attack corridors after airspace breaches - ERR",
+      "summary": "Estonia 'recommends' Ukraine uses different drone attack corridors after airspace breaches&nbsp;&nbsp;ERRFinland Shoots Down Drones: Firing Toward Russia is Prohibited&nbsp;&nbsp;МілітарнийStray Ukrainian drone that fell…",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGliWENyWDEwZXdYMkI0V0FxeDBrd2xSZWZ5Z0tkNFNibnlKUUU1R0did3Ewdk9UbjFOU3l5aTZEc2FKVlZ1YlowVmZaSTdCWmRQNlhBZzRuOGYxMXoteFg5T1d3cWRHcWJhRkszb09aRW11UTEteDBscHo0RDUwRmlpWl9mRmh5YlJXcExOQzUwNE1KbXNXeDNwbktmbXgybEsyd1ktUDc3Z3NaNmtyS0hsem0tSENDR2dn?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-06T05:39:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia redirected Ukrainian drones toward Finland, Baltic states"
+    },
+    {
+      "id": "dce76e2cf218bf35fdc9e44bd09abec801451807",
+      "title": "Ukraine war briefing: Russian oil facilities burn as Zelenskyy tours Middle East - The Guardian",
+      "summary": "Ukraine war briefing: Russian oil facilities burn as Zelenskyy tours Middle East&nbsp;&nbsp;The GuardianRussian Offensive Campaign Assessment, April 5, 2026&nbsp;&nbsp;Institute for the Study of WarRussia’s Key Black Sea…",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZFpDMDNTVTBId1VLOC1sQzh2NUNVNDUxYnhULW5pMmdUYUc3N0J4X2VrdDdLWlZxMERsUDByN1BGeGNGbnJzYUYyX3A1LVVYaG9TMUpieGpBMWZ2WWRLWXFBanJpQWlkbTVwckE0dC1mLXEyUWR2QmNmM1VOLWNGUllDRF9MTXgxcXE4d19ENlNNaVVBdnVyVmhTdEI1MzZaMW0zOVpnVkw5c1NYaWRJS2NEeG8wUmFYSHEzT0FsTXYtQ2M?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-06T05:34:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Russian oil facilities burn as Zelenskyy tours Middle East"
+    },
+    {
+      "id": "812777c536004e3e4f07df355c8c65b638999b54",
+      "title": "Hungarian PM faces ‘false flag’ claims after Serbia says explosives found near pipeline",
+      "summary": "Incident prompts political scrutiny across Hungary as Viktor Orbán trails in polls before next Sunday’s electionSerbia has said it found “explosives of devastating power” near a pipeline that carries Russian natural gas…",
+      "url": "https://www.theguardian.com/world/2026/apr/05/viktor-orban-hungary-election-serbia-explosives-gas-pipeline",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-05T17:13:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "pipeline that carries Russian natural gas to Hungary"
+    },
     {
       "id": "9ca3aa4398afff96779f6c5b0a0bdb25d79df71e",
       "title": "Chinese planes rerouted over Finland due to Ukrainian drone strikes - Yle",
@@ -175,63 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "easing sanctions on Russia, a massive energy crisis in Europe"
-    },
-    {
-      "id": "f385cd28b655a39ff13711d43707b5ca2119fd7f",
-      "title": "Ukraine drone strikes push Russia to boost air defenses - TVP World",
-      "summary": "Ukraine drone strikes push Russia to boost air defenses&nbsp;&nbsp;TVP WorldEstonia and Latvia say territories hit by stray Ukrainian drones&nbsp;&nbsp;BBCRussia is trying to unsettle the Baltic states — oddly, the Ukrai…",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcWZ1SFNBX0VVdGRqb2M2SmpMR0g4LUxsU3JsSzJjcENGSWozT3ZyYWlXQUdKQmtSY1I2OXkxOG1KZEt1aVlTTFVfNVNtRVV3RmJBNkxpbTI5NkVPYlBqR0dFVmJQQjlnSHBibExibkpLMmlRNU1XRGJpSDViZ2pOWFFqOU5hVFcxT01JQ3NZOGxBakstN3FVQlVXdHJydVJCMkFJekIzWjEtSWho?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-02T06:52:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Ukraine drone strikes push Russia to boost air defenses"
-    },
-    {
-      "id": "91223a44adb76cacbdc8d65b60fa2fcb52e7dbba",
-      "title": "Latvian security service outs Russian and Belarusian spies / Article - LSM",
-      "summary": "Latvian security service outs Russian and Belarusian spies / Article&nbsp;&nbsp;LSMLatvian intelligence agency names seven identified agents of Russia and Belarus&nbsp;&nbsp;Українська правдаLatvia Advises Citizens Not T…",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUS1yN01VdXRBLTkyaHZIZFNHM3pfUTRCZWNlRlpEeFdZWF9zSklEcWlmVjFMYU1WbFhMdk10LUl1VUxKd0ZJa1lRTGFBTzhQOTRWY0FQOTY5MjNLZG1IUk1IRmtLSjJzUTBvNWcyQzFHc3c3cHVnS0JWdUZPZDJrN0ZHTlNvMTY4T3Q2bnBGa3ZFSEVXYy1oWU9CZXU4Um1GNVZSLXB0UVpONDhfX2cxenM5TEhvanVsam5hVWJ3?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-01T23:49:08+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Latvian military intelligence: \"Russia remains the greatest threat"
-    },
-    {
-      "id": "5197563ea9fc9d4e3103ffb24f20d80eecf7b3b1",
-      "title": "Estonia says stray Ukrainian drones entered its territory between Monday and Tuesday - Daily Maverick",
-      "summary": "Estonia says stray Ukrainian drones entered its territory between Monday and Tuesday&nbsp;&nbsp;Daily MaverickEstonia and Latvia say territories hit by stray Ukrainian drones&nbsp;&nbsp;BBCDrones from Russian airspace hi…",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOeHU2MVNsWnhXWG5rc2k2ZV9sd2cwd05oOVJrcDFlc2d5ektXLWlHSVBzMDRHMW9razBaR0NhWXQxOEFOQ2FiT01ucWk2V2ZBcG9VWUNkYlMtbEdpM1BlaEFNQTVBRzNiNUlhLUtNV3lnUFJfTTZtVEtvVjh0OTREeDdxajdoTWttWWVmelp2cnlscXpZOEtsOTB3d1A3THZvaUZxemh3NUhVZktEcFdMNlJUbmhmQkx5dkE2d3FCT2ZMM0pyUWZ3NEZiNVZ2Wk5lZ3RnajdUZFlXTlJaRlNkMFBWanhzUmd1czdyU0pRcE5YYkt5T2dwN3lPQXJlUExwbjBabkxuSHhLZ3FRQ2ZfSGxPNjlMVzdCQVVUaklSRmk5MFE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-01T11:11:02+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Drones from Russian airspace hit Estonia and Latvia"
-    },
-    {
-      "id": "b9729cf95143ca8e9f79aee2469aa0e47aba25d1",
-      "title": "INTERVIEW: Belarus could drive change in Russia, says opposition leader",
-      "summary": "Sviatlana Tsikhanouskaya tells Euractiv that transformation in Belarus, alongside a Ukrainian victory, could instead catalyse change in Moscow",
-      "url": "https://www.euractiv.com/news/interview-belarus-could-drive-change-in-russia-says-opposition-leader/",
-      "source": "Euractiv",
-      "published_at": "2026-04-01T10:08:31+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": ""
-    },
-    {
-      "id": "340621431f940d5e87d1f73c81fbca6f4fa29580",
-      "title": "29 Killed in Russian Military Plane Crash in Crimea",
-      "summary": "Investigators cited a possible technical malfunction.",
-      "url": "https://www.nytimes.com/2026/04/01/world/europe/russia-military-plane-crash-crimea.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-01T09:17:54+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Russian Military Plane Crash in Crimea"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-05T09:54:29Z"
+  "last_updated": "2026-04-06T10:25:25Z"
 }

@@ -1,16 +1,38 @@
 {
   "country": "DE",
-  "score": 90,
+  "score": 91,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 351,
+  "trend": 1,
+  "sources": 353,
   "sentiment": {
-    "positive": 57,
-    "neutral": 248,
+    "positive": 58,
+    "neutral": 249,
     "negative": 46
   },
   "latest_articles": [
+    {
+      "id": "c5941d838007ae0abe0335d626f59a323b69cf40",
+      "title": "Uproar in Germany over law requiring men get military approval for long stays abroad",
+      "summary": "Ministry clarifies clause affecting those up to age 45 that is part of legislation that came into effect in JanuaryA little-noticed clause in sweeping changes to Germany’s military service policy has caused uproar after…",
+      "url": "https://www.theguardian.com/world/2026/apr/05/uproar-germany-law-men-up-to-45-military-permission-long-stays-abroad",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-05T11:45:51+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "aims to bolster the military"
+    },
+    {
+      "id": "ce8ae38957d074672e0637400e8497c5399d752f",
+      "title": "German men must inform military of extended foreign trips",
+      "summary": "Approval will be granted as long as \"no specific service as a soldier is expected during the period in question\"",
+      "url": "https://www.euractiv.com/news/german-men-must-inform-military-of-extended-foreign-trips/",
+      "source": "Euractiv",
+      "published_at": "2026-04-05T10:16:52+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "German men must inform military of extended foreign trips"
+    },
     {
       "id": "a0dcc4cda40fba4dfb13cd5c77a13aaff5cf6f75",
       "title": "German males under 45 may need military approval for long stays abroad",
@@ -200,30 +222,8 @@
       "sentiment": "positive",
       "confidence": 0.5,
       "evidence": "scale up German funding for key open source software"
-    },
-    {
-      "id": "1a2e30632d4cec5330f7f5f08695dd107a07aa67",
-      "title": "TV star’s AI porn allegations spark national debate in Germany",
-      "summary": "Collien Fernandes accuses ex-husband Christian Ulmen of sharing sexually explicit deepfake images of her onlineA high-profile German TV star’s allegations that her ex-husband spread AI-generated pornographic images of he…",
-      "url": "https://www.theguardian.com/world/2026/mar/30/collien-fernandes-deepfake-porn-allegations-digital-violence-against-women",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-30T16:12:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "TV star’s AI porn allegations spark national debate in Germany"
-    },
-    {
-      "id": "21d76d31f50f1e9f99a8c9a72c978a66ecf44d27",
-      "title": "The Brief – Berlin’s tax on good times",
-      "summary": "Welcome to a new edition of our ‘Brief’, a wrap-up of today's top stories",
-      "url": "https://www.euractiv.com/opinion/the-brief-berlins-tax-on-good-times/",
-      "source": "Euractiv",
-      "published_at": "2026-03-30T16:12:02+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Berlin’s tax on good times"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-05T09:54:29Z"
+  "last_updated": "2026-04-06T10:25:25Z"
 }

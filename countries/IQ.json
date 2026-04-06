@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 78,
+  "score": 77,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 79,
+  "trend": -1,
+  "sources": 81,
   "sentiment": {
     "positive": 3,
-    "neutral": 42,
-    "negative": 34
+    "neutral": 43,
+    "negative": 35
   },
   "latest_articles": [
+    {
+      "id": "5e7915b16afd5a522bf2ea7266ef50c9689751dc",
+      "title": "Iraq Tells Buyers To Collect Crude As Its Oil Can Cross Hormuz",
+      "summary": "Iran said that its neighbour was now exempt from shipping restrictions around the vital waterway.",
+      "url": "https://www.ndtv.com/world-news/iran-war-news-iraq-tells-buyers-to-collect-crude-as-its-oil-can-cross-hormuz-11316882#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-04-06T09:40:43+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Iraq Tells Buyers To Collect Crude As Its Oil Can Cross Hormuz"
+    },
     {
       "id": "1c95a57bd33ba0ea5bf6c493fd8c13e93f7a01a2",
       "title": "Ex-US Army Pilot Recalls Battle for Survival When Shot Down in Iraq",
@@ -21,6 +32,17 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Apache Longbow copter went down during the U.S. invasion of Iraq."
+    },
+    {
+      "id": "5433557e5097858d5a86cb1915bb860b2ba96b92",
+      "title": "Iraqi leaders face balancing act as Iran conflict exposes deep rifts",
+      "summary": "Country is torn between those who hope for end to Tehran’s influence and those loyal to Islamic republicOf all the countries being pulled into the US-Israeli war on Iran, it is Iraq – a country that still bears the emoti…",
+      "url": "https://www.theguardian.com/world/2026/apr/03/iraq-deep-rifts-balancing-act-iran-war",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-03T11:00:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Iraq – a country that still bears the emotional and physical scars"
     },
     {
       "id": "bd0632b8bd37a43afcd166dd533b4366a55e202e",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Iraq’s football team will travel to Mexico"
-    },
-    {
-      "id": "9b82e08c62b497ea9470c29c9276b63fbc7c1474",
-      "title": "US names six crew killed in refuelling plane crash in Iraq",
-      "summary": "The aircraft was on a combat mission as part of ongoing US operations against Iran when it crashed in western Iraq on Thursday.",
-      "url": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-15T08:08:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "US names six crew killed in refuelling plane crash in Iraq"
-    },
-    {
-      "id": "5f20a87e8dda561cd9b02b8bc12725c7f8d8200c",
-      "title": "\"Died Doing What She Loved\": Captain Among 6 US Soldiers Killed In Iraq Crash",
-      "summary": "Ariana G Savino was the Chief of Current Operations Pilot",
-      "url": "https://www.ndtv.com/world-news/us-iran-war-john-klinner-ariana-savino-ashley-pruitt-seth-koval-curtis-angst-tyler-simmons-among-6-us-soldiers-killed-in-iraq-crash-11217245#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-03-15T05:18:56+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "6 US Soldiers Killed In Iraq Crash"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-05T09:54:29Z"
+  "last_updated": "2026-04-06T10:25:25Z"
 }

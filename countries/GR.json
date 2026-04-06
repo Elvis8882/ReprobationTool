@@ -1,16 +1,27 @@
 {
   "country": "GR",
-  "score": 92,
+  "score": 91,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 220,
+  "trend": -1,
+  "sources": 222,
   "sentiment": {
     "positive": 18,
-    "neutral": 182,
-    "negative": 20
+    "neutral": 183,
+    "negative": 21
   },
   "latest_articles": [
+    {
+      "id": "ac427a30401f4f703a35308105b427ea15b3d41a",
+      "title": "Greek PM calls for swift resolution of EU farm funds cases against MPs",
+      "summary": "The centre-right New Democracy government has been hit hard by another scandal involving 11 of its lawmakers",
+      "url": "https://www.euractiv.com/news/greek-pm-calls-for-swift-resolution-of-eu-farm-funds-cases-against-mps/",
+      "source": "Euractiv",
+      "published_at": "2026-04-06T09:52:31+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Greek PM calls for swift resolution of EU farm funds cases against MPs"
+    },
     {
       "id": "2310d0e52181fedd2cc1ea94e3f914cb803b9867",
       "title": "EU under pressure as fertiliser costs soar on Middle East war",
@@ -41,6 +52,17 @@
       "sentiment": "neutral",
       "confidence": 0.4,
       "evidence": "Greece announces government reshuffle after EU farm scandal resignations"
+    },
+    {
+      "id": "f0df356d31a3e7ca865d47aef8353c9474cb05b2",
+      "title": "Storm Erminio lashes much of Greece as Saharan dust blankets Crete",
+      "summary": "South-east Italy also affected by heavy rain, and snow at higher altitudes, while deadly flooding hits AfghanistanParts of the Mediterranean have been lashed by Storm Erminio this week. Heavy rain, thunderstorms and occa…",
+      "url": "https://www.theguardian.com/news/2026/apr/03/storm-erminio-saharan-dust-crete-greece-italy-rain-flooding-afghanistan",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-03T09:00:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Storm Erminio lashes much of Greece"
     },
     {
       "id": "efcf60fd204b76c84e5c0b0fcf2b1b30d93740cc",
@@ -198,30 +220,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "smugglers ordered victims to be thrown overboard"
-    },
-    {
-      "id": "c2ab30609877cbf380e13df8395aafdb01b322de",
-      "title": "Twenty-two migrants die off Greek coast after six days at sea",
-      "summary": "Poor weather and a lack of food and water contributed to the deaths, the Greek coastguard says.",
-      "url": "https://www.bbc.com/news/articles/cnv8z1lvn8ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-28T15:11:59+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Twenty-two migrants die off Greek coast"
-    },
-    {
-      "id": "10074eba36bd30a72916675f989745b5d37342f3",
-      "title": "Clocks go forward one hour in Greece this Sunday as daylight saving time begins - Greek City Times",
-      "summary": "Clocks go forward one hour in Greece this Sunday as daylight saving time begins&nbsp;&nbsp;Greek City TimesClocks go forward an hour in Estonia overnight Sunday&nbsp;&nbsp;ERRGreece ahead of time: Daylight saving kicks i…",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUUNHWjhyVXJIU0MwTmVfUlFxa29jVzR3b1ZGUXU5cXNxZXRlT242NG00b1RIcVZmRWpDdEFXNm1XSVotOVZqaGxrbU14Zjd0Rm9JNE5FSHpFUmlzMXhNeXk4aUdrM3pvX1VvT1JHelpJb1N3ZVBhTjFzR2tnSXRRbmJuR1N3Qkx5dTdnbU9tUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-28T07:00:56+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Clocks go forward one hour in Greece"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-05T09:54:29Z"
+  "last_updated": "2026-04-06T10:25:25Z"
 }

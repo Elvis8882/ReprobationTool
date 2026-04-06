@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 3,
+  "sources": 4,
   "sentiment": {
     "positive": 0,
-    "neutral": 1,
+    "neutral": 2,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "21b19e4f53c299bf991f7190b86d1ed07e9b9aa9",
+      "title": "30 Years Before Iran Op, A Pilot Who Survived Behind Enemy Lines For Days",
+      "summary": "In 1995, US pilot Scott O'Grady survived for six days after his F-16 was shot down over Bosnia",
+      "url": "https://www.ndtv.com/world-news/30-years-before-iran-op-us-pilot-scott-ogrady-survived-behind-enemy-lines-for-days-in-bosnia-11317409#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-04-06T09:56:52+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "F-16 was shot down over Bosnia"
+    },
     {
       "id": "62802eb0795e86cbefa5fbc0f16913d4bdcc3d89",
       "title": "Israel basketball national team beats Cyprus, qualifies for next round of World Cup qualifiers - The Jerusalem Post",
@@ -46,5 +57,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-05T09:54:29Z"
+  "last_updated": "2026-04-06T10:25:25Z"
 }
