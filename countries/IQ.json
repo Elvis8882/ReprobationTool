@@ -1,14 +1,14 @@
 {
   "country": "IQ",
-  "score": 77,
+  "score": 76,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": -1,
-  "sources": 81,
+  "sources": 82,
   "sentiment": {
     "positive": 3,
     "neutral": 43,
-    "negative": 35
+    "negative": 36
   },
   "latest_articles": [
     {
@@ -21,6 +21,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Iraq Tells Buyers To Collect Crude As Its Oil Can Cross Hormuz"
+    },
+    {
+      "id": "0ab9e7a38f4072cb07296f78f02e6765b1b946de",
+      "title": "Drone strike hits Iraq oil facilities; Iran-backed group claims 19 attacks on US bases",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-updates-middle-east-crisis-conflict-latest-news-iran-drone-missile-attack-gulf-dubai-qatar-news-strait-of-hormuz-crude-oil-impact-donald-trump/liveblog/130011222.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-04-03T23:29:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Drone strike hits Iraq oil facilities"
     },
     {
       "id": "1c95a57bd33ba0ea5bf6c493fd8c13e93f7a01a2",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Five missiles struck the Baghdad International Airport"
-    },
-    {
-      "id": "a059c804eac97bcdd931a12861ce4f947fc8529d",
-      "title": "Middle East crisis live: Israel says it has launched ‘extensive strikes’ on Iran as Trump says US ‘not ready’ to make a deal to end war",
-      "summary": "IDF says it has begun wide-scale strikes in western Iran; US president says he is ‘surprised’ Tehran has targeted Gulf countriesHow have you been affected by the latest Middle East events?Iraq’s football team will travel…",
-      "url": "https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-15T09:07:53+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Iraq’s football team will travel to Mexico"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-06T10:25:25Z"
+  "last_updated": "2026-04-07T10:21:52Z"
 }
