@@ -1,16 +1,93 @@
 {
   "country": "GB",
-  "score": 23,
+  "score": 21,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": -2,
-  "sources": 776,
+  "sources": 787,
   "sentiment": {
     "positive": 86,
-    "neutral": 529,
-    "negative": 161
+    "neutral": 536,
+    "negative": 165
   },
   "latest_articles": [
+    {
+      "id": "65098d8e08e118ac82fcc724e74e3680a46ed599",
+      "title": "Doctors’ strike timed to cause havoc over Easter break, says NHS England chief",
+      "summary": "Sir Jim Mackey said hospitals were struggling to fill rotas because six-day walkout was scheduled over holidayThe latest strike by resident doctors in England has been “deliberately timed to cause havoc” by coinciding wi…",
+      "url": "https://www.theguardian.com/society/2026/apr/08/doctors-strike-easter-break-rota-havoc-nhs-england-chief-jim-mackey",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-08T09:49:27+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Doctors’ strike timed to cause havoc over Easter break, says NHS England chief"
+    },
+    {
+      "id": "f91629908a05581e1ad58bf4d9d4bc3b556f6ed4",
+      "title": "Bristol airport loses legal challenge against Cardiff rival over £205m subsidy",
+      "summary": "Tribunal dismisses claim that the Welsh government’s financial package breached competition rulesCardiff airport has won a legal challenge brought by its rival in Bristol over the fairness of a £205m Welsh government sub…",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/08/bristol-airport-loses-legal-challenge-against-cardiff-rival-over-subsidy",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-08T09:34:38+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Bristol airport loses legal challenge against Cardiff rival over £205m subsidy"
+    },
+    {
+      "id": "275cd0509ae2df4650c558c8a64b766f77fa817b",
+      "title": "UK house prices fall in March amid uncertain impact of Middle East conflict",
+      "summary": "Average price dips back below £300,000 after higher energy costs have knock-on effect on mortgage ratesUK house prices fell in March, as the housing market lost momentum amid uncertainty over the conflict in the Middle E…",
+      "url": "https://www.theguardian.com/business/2026/apr/08/uk-house-prices-fall-march-middle-east-conflict-iran",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-08T07:55:28+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "UK house prices fall in March amid uncertain impact"
+    },
+    {
+      "id": "02ccb73894caf1b32ce8982f74662a32202e563a",
+      "title": "Kanye West ‘Should Never Have Been Invited,’ Starmer Says After Barring Rapper From UK",
+      "summary": "Prime Minister Keir Starmer’s government blocked the artist formerly known as Kanye West from entering Britain for the three-day Wireless Festival in July.",
+      "url": "https://www.nytimes.com/2026/04/07/world/europe/kanye-west-ye-keir-starmer-uk-wireless.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-07T19:43:24+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "barring rapper from UK"
+    },
+    {
+      "id": "9a568885a97abd88d3adeeca797e379d6536234a",
+      "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
+      "summary": "West was due to headline the festival in July but drew criticism over past antisemitic comments.",
+      "url": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-07T19:40:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Kanye West blocked from coming to UK"
+    },
+    {
+      "id": "19f94c451438f2178bcd674093de9c8f5ebcda8d",
+      "title": "Commonwealth leaders vow to keep seeking reparations after Reform UK plan to halt visas",
+      "summary": "Politicians warn party’s pledge to ‘punish’ countries seeking justice for slavery will harm and isolate BritainCommonwealth politicians say they will not back down from seeking reparations as UK public figures, including…",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/07/commonwealth-leaders-vow-to-keep-seeking-reparations-after-reform-uk-plan-to-halt-visas",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-07T19:26:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "pledge to “punish” countries seeking justice for slavery would harm and isolate Britain."
+    },
+    {
+      "id": "6fb83e1e13db1b9224d1418c448da4089ce65df6",
+      "title": "German EV sales up two-thirds, while UK sees record record uptake",
+      "summary": "Almost one in four new German, UK cars now all-electric as cost of petrol soars amid war in the Gulf",
+      "url": "https://www.euractiv.com/news/german-ev-sales-up-two-thirds-while-uk-sees-record-record-uptake/",
+      "source": "Euractiv",
+      "published_at": "2026-04-07T13:27:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "UK sees record record uptake"
+    },
     {
       "id": "678a19419036617f5951b54c850672c3d682c2b6",
       "title": "Resident doctors begin longest strike yet as Streeting accuses BMA of hypocrisy over pay – UK politics live",
@@ -21,6 +98,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Resident doctors begin longest strike yet"
+    },
+    {
+      "id": "dcf6d8a56d777be2a57988e0f2836c869e0af87c",
+      "title": "UK government caps student loan interest rates at 6%",
+      "summary": "Minister says change for plan 2 and 3 loans in England and Wales will ‘protect borrowers’ from impact of global conflictUK politics live – latest updatesThe interest rate on plan 2 and plan 3 student loans will be capped…",
+      "url": "https://www.theguardian.com/money/2026/apr/07/uk-government-caps-student-loan-interest-rates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-07T09:50:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "UK government caps student loan interest rates at 6%"
     },
     {
       "id": "0e17d11d194856eba7f4480fb86933074c1bf488",
@@ -43,6 +131,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Kanye West offers to meet UK’s Jewish community after Wireless backlash"
+    },
+    {
+      "id": "1b047841fb7a61923b764e263a90c773325d27c6",
+      "title": "Cyprus wants British sovereign bases deal modelled on return of Chagos Islands",
+      "summary": "‘We are calling for a reassessment of the relationship and a renegotiation of the status on the terms of 2026,’ said lawmaker Chrisis Pantelides",
+      "url": "https://www.euractiv.com/news/cyprus-wants-british-sovereign-bases-deal-modelled-on-return-of-chagos-islands/",
+      "source": "Euractiv",
+      "published_at": "2026-04-07T04:00:26+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Cyprus wants British sovereign bases deal modelled on return of Chagos Islands"
     },
     {
       "id": "c91b36f91e907fc6a50b6d9c539e06d4f5757189",
@@ -100,6 +199,17 @@
       "evidence": "SNL UK faces backlash over crude joke referencing Mark Zuckerberg"
     },
     {
+      "id": "25f130d78bc8a67dd456fa3c4671e97bfbe310b9",
+      "title": "Labour to back down on foie gras and fur bans to ease EU trade deal",
+      "summary": "Exclusive: Animal welfare charities ‘bitterly disappointed’ UK government plans to backtrack on manifesto promisesThis article contains an image of a duck being force-fed that some readers may find upsettingThe UK govern…",
+      "url": "https://www.theguardian.com/world/2026/apr/05/labour-back-down-foie-gras-fur-bans-eu-trade-deal",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-05T13:00:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Labour to back down on foie gras and fur bans to ease EU trade deal"
+    },
+    {
       "id": "99c4bd683dd672a91dcd1c96faed33787299280d",
       "title": "Kanye West headlining Wireless festival is ‘deeply concerning’, says Keir Starmer - The Guardian",
       "summary": "Kanye West headlining Wireless festival is ‘deeply concerning’, says Keir Starmer&nbsp;&nbsp;The GuardianKeir Starmer 'concerned' over Kanye West UK festival dates&nbsp;&nbsp;BBCKeir Starmer 'deeply concerned' by Kanye W…",
@@ -120,118 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "PM says antisemitism is ‘abhorrent’ after booking of West"
-    },
-    {
-      "id": "4f601b9fb9671d2404f647220fa702ec3c3505cd",
-      "title": "Former heavyweight champion Deontay Wilder edges a wild win over retiring Derek Chisora - NBC News",
-      "summary": "Former heavyweight champion Deontay Wilder edges a wild win over retiring Derek Chisora&nbsp;&nbsp;NBC NewsChisora vs Wilder RECAP: Reaction and analysis as Deontay Wilder beats Derek Chisora in heavyweight bout&nbsp;&nb…",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOREJ6TlA5bU1ZeWdJYXFZQ3NWLVpxaGFWa244STdYcUtKNEFYN1RlTklrRmRwUVpmR1BHV19MZHBHaGJocThVa1hDRjB4SXZNTlF3UjNteDJsS1hnZ2J6cVdhN21iQ29WaTlJWVo4QjBJal9LVVRvRHFVcGpTRHFzQVVJa3lMdTR6enJqNF80T2ZSM1pMcVo1eHVuR3pBdFpnRUFidGlFcTI?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-05T08:20:25+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "at The O2 in London"
-    },
-    {
-      "id": "dce403e585232e116d71308f57e8ac987e7a98de",
-      "title": "Ashab al-Yamin, The Mystery Group Linked To Attacks In Europe",
-      "summary": "Ambulances belonging to Hatzola, a Jewish community organisation, were set on fire in London on March 23",
-      "url": "https://www.ndtv.com/world-news/who-is-ashab-al-yamin-the-mystery-group-linked-to-attacks-in-europe-11313242#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-04-05T08:14:57+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "set on fire in London on March 23"
-    },
-    {
-      "id": "2404467a4ec8b08fd109ca4848eef55a127b9601",
-      "title": "Middle East War Hits Britain's Fish And Chip Shops",
-      "summary": "Fish and chip shops usually serve nothing else and most are take-away.",
-      "url": "https://www.ndtv.com/world-news/middle-east-war-hits-britains-fish-and-chip-shops-11313300#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-04-05T07:17:09+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Britain's Fish And Chip Shops"
-    },
-    {
-      "id": "9842229be3db459f4861f1c78a337950256b76a4",
-      "title": "Fair Work Agency’s priorities criticised days before its launch",
-      "summary": "Cornerstone of the UK’s Employment Rights Act ‘in danger of becoming a dead duck’, says Unite bossThe government has asked its new employment rights watchdog to reduce the regulatory burden on business, it has emerged, a…",
-      "url": "https://www.theguardian.com/business/2026/apr/05/fair-work-agency-criticised-launch-dead-duck-employment-rights",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-05T06:00:43+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Fair Work Agency’s priorities criticised days before its launch"
-    },
-    {
-      "id": "bc6630414fb87e0f5988e686906e557b4191f2b6",
-      "title": "Ministers working with Labour backbenchers to temper Mahmood immigration plans",
-      "summary": "Exclusive: Starmer urged to go further with exemptions if he wants to avoid widespread anger from his own MPsA number of ministers concerned about Shabana Mahmood’s immigration changes are working behind the scenes with…",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/05/ministers-labour-backbenchers-temper-shabana-mahmood-immigration-plans",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-05T06:00:42+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Ministers working with Labour backbenchers to temper immigration plans"
-    },
-    {
-      "id": "d6a46211ecd4333a6f0efbf6167c53c2a30c32db",
-      "title": "25-Year-Old British Flight Attendant Arrested In Dubai For Sharing Image Of A Drone Strike",
-      "summary": "He now faces up to two years in prison and a fine exceeding $50,000.",
-      "url": "https://www.ndtv.com/world-news/25-year-old-british-flight-attendant-arrested-in-dubai-after-sharing-image-of-a-drone-strike-11313230#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-04-05T05:46:52+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "British Flight Attendant Arrested In Dubai"
-    },
-    {
-      "id": "1925bdfb1be1d676d5a668f2a5d317efb26de642",
-      "title": "Waitrose employee sacked after stopping shoplifter from taking Easter eggs",
-      "summary": "Walker Smith, 54, who worked for retailer for 17 years, says he grabbed bag from thief before they escapedA Waitrose employee of 17 years has described his devastation after being sacked for stopping a shoplifter who had…",
-      "url": "https://www.theguardian.com/business/2026/apr/05/waitrose-employee-sacked-after-stopping-shoplifter-from-taking-easter-eggs",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-05T05:00:43+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Waitrose employee sacked after stopping shoplifter from taking Easter eggs"
-    },
-    {
-      "id": "3ac57070d954f22c6d0fe5b2e0638b3df28960f2",
-      "title": "Iran conflict to forefront of UK religious and political leaders’ Easter messages",
-      "summary": "Archbishop of Canterbury to issue urgent call for peace, as PM exhorts Britons to ‘choose community over division’Religious and political leaders in the UK are highlighting the conflict in the Middle East in their Easter…",
-      "url": "https://www.theguardian.com/world/2026/apr/04/iran-conflict-uk-easter-messages-archbishop-canterbury-keir-starmer",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-04T21:30:32+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "UK religious and political leaders’ Easter messages"
-    },
-    {
-      "id": "698aa0c4156f334bf7ebdc4a4e4cb6d280216766",
-      "title": "Titanic returns, this time in the sky: 950 drones recreate the iconic liner in a stunning show over UK’s Belfast",
-      "summary": "A spectacular drone show lit up Belfast's night sky, forming the outline of the historic RMS Titanic.  Around 950 drones created the glowing silhouette over Belfast Harbour.  The event marked the anniversary of Titanic's…",
-      "url": "https://timesofindia.indiatimes.com/world/uk/titanic-returns-this-time-in-the-sky-950-drones-recreate-the-iconic-liner-in-a-stunning-show-over-uks-belfast/articleshow/130025859.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-04-04T18:53:26+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Titanic returns, this time in the sky: 950 drones recreate the iconic liner"
-    },
-    {
-      "id": "e251e66734a19b2dcca5861201078eb47937ca6a",
-      "title": "U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield",
-      "summary": "A military analyst identified markings consistent with a squadron based at R.A.F. Lakenheath, one of two British bases that host the largest U.S. fighter jet operation in Europe.",
-      "url": "https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-04T16:43:43+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "British bases that host the largest U.S. fighter jet operation"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-07T10:21:52Z"
+  "last_updated": "2026-04-08T10:24:02Z"
 }

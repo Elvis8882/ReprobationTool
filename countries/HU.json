@@ -1,16 +1,59 @@
 {
   "country": "HU",
-  "score": 36,
+  "score": 35,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": -1,
-  "sources": 264,
+  "sources": 270,
   "sentiment": {
     "positive": 5,
-    "neutral": 173,
-    "negative": 86
+    "neutral": 178,
+    "negative": 87
   },
   "latest_articles": [
+    {
+      "id": "fbe95917762cd7a5f4b5845cf1dd90df27b42827",
+      "title": "After pager attack on Hezbollah, Hungary offered help to Iran",
+      "summary": "Revelations about a 2024 call offering assistance raise questions about Hungary’s ties to Iran as the Trump administration backs Prime Minister Viktor Orban for reelection.",
+      "url": "https://www.washingtonpost.com/world/2026/04/08/hungary-iran-hezbollah-trump-orban/",
+      "source": "World (Washington post)",
+      "published_at": "2026-04-08T09:26:27+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Hungary’s ties to Iran as the Trump administration backs Prime Minister Viktor Orban"
+    },
+    {
+      "id": "6d728862e90ff89af86de4024fdebbf9e73ef2a3",
+      "title": "Republicans express hope for Trump’s deal with Iran as Democrats voice skepticism – as it happened",
+      "summary": "This blog is now closed. Follow the latest ceasefire news and updates in our Iran war live blog here.Middle East crisis – live updatesUS and Iran agree to provisional ceasefireIran war ceasefire announcement – what we kn…",
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/07/government-shutdown-congress-house-of-representatives-donald-trump-republicans-democrats-ice-us-politics-latest-updates-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-08T02:00:19+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "During a press conference in Budapest with Hungary’s prime minister Viktor Orbán"
+    },
+    {
+      "id": "4af1c79cf9bed34a659ddbe510b3c70cbfa65355",
+      "title": "JD Vance campaigns for far-right nationalist Viktor Orban in Hungary",
+      "summary": "The vice president traveled to Budapest as Trump’s deadline for an Iran deal loomed Tuesday, backing the administration’s closest ideological ally in Europe.",
+      "url": "https://www.washingtonpost.com/politics/2026/04/07/vance-orban-trump-election/",
+      "source": "World (Washington post)",
+      "published_at": "2026-04-07T16:42:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "JD Vance campaigns for far-right nationalist Viktor Orban in Hungary"
+    },
+    {
+      "id": "648282af498c26252037739d349427d7c8b5494f",
+      "title": "France moves to ban imports containing prohibited pesticides",
+      "summary": "The European Commission is weighing a similar measure but faces criticism over its potential trade impact",
+      "url": "https://www.euractiv.com/news/france-moves-to-ban-imports-containing-prohibited-pesticides/",
+      "source": "Euractiv",
+      "published_at": "2026-04-07T15:44:03+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "175494a438f5c034399e14bb9ff1465535d322e8",
       "title": "JD Vance arrives in Hungary to back Orbán's re-election bid",
@@ -32,6 +75,27 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "signals ‘golden age’ of Hungarian-US relations"
+    },
+    {
+      "id": "88e6a8baa7053aca13229fb26176ef33123af193",
+      "title": "Vance Visits Hungary to Boost Orban Before Election",
+      "summary": "The trip by the American vice president, JD Vance, makes clear that Russia is not the only country invested in a victory for Hungary’s leader, Viktor Orban.",
+      "url": "https://www.nytimes.com/2026/04/07/world/europe/vance-hungary-orban-fidesz-election.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-07T09:08:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Vance Visits Hungary to Boost Orban Before Election"
+    },
+    {
+      "id": "64125887cd5c30c661d5808bd6123dee8f5fc925",
+      "title": "House prices and rents went up in Q4 2025 - European Commission",
+      "summary": "House prices and rents went up in Q4 2025&nbsp;&nbsp;European CommissionHouse prices up by 5.1% in the euro area&nbsp;&nbsp;European CommissionHouse prices in Portugal have increased by 180%&nbsp;&nbsp;The Portugal NewsF…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YTHkwa28yNnpVcVZtOVpqMG0zMGtkQnZEMWNXSFNyelpSSnlISVU0QkdlUEVDb1JIS0l1OHUzTGZEQklCOTdtV2F6RFBfMDZVX0RXWVhSU3M3YkVMX3JBWWNPcjRDNFBmMGRNMGpHX2x2dkRvLVFwYXdfTkUyZw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-07T09:01:37+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "8068d0424bccdbcdd730edaf652588b4c1a0bc6a",
@@ -163,70 +227,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "US and Russia are backing Viktor Orbán"
-    },
-    {
-      "id": "fb95f06732ed9aa779210e4f1d9ca5d66203416a",
-      "title": "‘Feels like history is being made’: will young Hungarian voters oust Orbán?",
-      "summary": "The rightwing populist has been in power for 16 years but a new generation of voters are preparing to vote for his opponent, polls suggestHungary elections: what is at stake and who is likely to win?As he rushed to finis…",
-      "url": "https://www.theguardian.com/world/2026/apr/04/young-people-hungary-general-election-polls-viktor-orban",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-04T11:00:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "will young Hungarian voters oust Orbán?"
-    },
-    {
-      "id": "ddcc5f1268fffed2aa5944fa65581b25e70e3608",
-      "title": "After 16 years in power, could Viktor Orban finally be unseated?",
-      "summary": "Hungary is going to the polls in nine days - after 16 years in power, can Viktor Orban be unseated?",
-      "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-03T23:04:24+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "could Viktor Orban finally be unseated?"
-    },
-    {
-      "id": "2310d0e52181fedd2cc1ea94e3f914cb803b9867",
-      "title": "EU under pressure as fertiliser costs soar on Middle East war",
-      "summary": "Agriculture sector representatives are due in Brussels for talks with the European Commission",
-      "url": "https://www.euractiv.com/news/eu-under-pressure-as-fertiliser-costs-soar-on-middle-east-war/",
-      "source": "Euractiv",
-      "published_at": "2026-04-03T18:33:36+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "9da0a0bb1f19eedcbec7a929fa1a60ca48c2db5a",
-      "title": "Rima Hassan Is Charged With Glorifying Terrorism Online in Social Media Post",
-      "summary": "Rima Hassan, a member of the European Parliament, could face seven years in prison for the post, in which she quoted a perpetrator of a 1972 massacre in Israel.",
-      "url": "https://www.nytimes.com/2026/04/03/rima-hassan-france-terrorism-charges.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-03T18:24:26+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "efcf60fd204b76c84e5c0b0fcf2b1b30d93740cc",
-      "title": "France launches ‘Friends of the Ocean’ group within EU Council",
-      "summary": "Paris seeks to cement leadership on EU ocean policy as new rules loom",
-      "url": "https://www.euractiv.com/news/france-launches-friends-of-the-ocean-group-within-eu-council/",
-      "source": "Euractiv",
-      "published_at": "2026-04-03T04:00:27+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "3c1f42b98063ab0fe76b1fd0db4890015e1d2d03",
-      "title": "Europe Pushes for a Gentler Internet for Children",
-      "summary": "The European Union and national capitals are trying to make social media and algorithms less addictive and safer, especially for children.",
-      "url": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-02T09:06:33+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-07T10:21:52Z"
+  "last_updated": "2026-04-08T10:24:02Z"
 }
