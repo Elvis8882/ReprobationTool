@@ -4,13 +4,76 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 361,
+  "sources": 367,
   "sentiment": {
     "positive": 60,
-    "neutral": 255,
-    "negative": 46
+    "neutral": 260,
+    "negative": 47
   },
   "latest_articles": [
+    {
+      "id": "c0b5246895f38411dcb8fe2f36dc9fa1b8276d2d",
+      "title": "In Germany’s East, the Far Right Could Soon Take Power. This Is Its Plan.",
+      "summary": "In the eastern state of Saxony-Anhalt, the Alternative for Germany could win control of the government this fall. Once in power, it has a plan to overhaul German society.",
+      "url": "https://www.nytimes.com/2026/04/09/world/europe/afd-germany-saxony-anhalt-plan.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-09T09:13:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Far Right Could Soon Take Power. This Is Its Plan."
+    },
+    {
+      "id": "166736a798466efe03164b68293809762b667c75",
+      "title": "Sánchez to Trump: Spain won’t ‘applaud those who set the world on fire just because they then show up with a bucket’",
+      "summary": "Spanish Prime Minister Pedro Sánchez has emerged as one of the European Union's leading critics of U.S. and Israeli strikes against Iran.",
+      "url": "https://www.cnbc.com/2026/04/08/spain-pm-sanchez-trump-iran-war-ceasefire-middle-east-crisis.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-04-08T17:10:15+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "e518e437da29d444ee49f0e16e9497954a3fccae",
+      "title": "Germany suspends military approval for long stays abroad for men under 45",
+      "summary": "The requirement to obtain permission had gone largely unnoticed until a German newspaper reported on it.",
+      "url": "https://www.bbc.com/news/articles/ckgx103wkl1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-08T15:21:12+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "suspends military approval"
+    },
+    {
+      "id": "76ebc752777eae8f1a2f5f1dc318ecaaa791ed0c",
+      "title": "EU Parliament’s agriculture committee greenlights ‘veggie bacon’ ban - politico.eu",
+      "summary": "EU Parliament’s agriculture committee greenlights ‘veggie bacon’ ban&nbsp;&nbsp;politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMFFHQ3oxVm9BY0dFR1lLUXBNVnlJdkgwQjJkeVl3b2ZqS0hLUFRIa0dOX191TVBUY2tCdTVKV09mcHREOWxhczhJaDBEQkV6VUxaeUZ1RTdXWkdzU2IydWV0a3RMZGpLRU9ZTkdzQTJQbU5wNVdfeFJTVGFKMjBGVjRsWHlUcnNDNmVPaXpLVjZpcV9CQ1ItSkZSdw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-08T14:26:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "7bd4690744f84f4e5981921fed3fe09a5b03acf9",
+      "title": "‘High standards, fewer rules’ – EU businesses need red tape simplification [Advocacy Lab]",
+      "summary": "Can the European Commission really reduce administrative burdens by 25% overall, and 35% for SMEs?",
+      "url": "https://www.euractiv.com/news/high-standards-fewer-rules-eu-businesses-need-red-tape-simplification/",
+      "source": "Euractiv",
+      "published_at": "2026-04-08T12:41:22+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "9d0d7c17704e4a1ccea23faa4185fb240b878a25",
+      "title": "Fuel expensive, trains cheaper: Latvian government prepares discounts - Baltic News Network",
+      "summary": "Fuel expensive, trains cheaper: Latvian government prepares discounts&nbsp;&nbsp;Baltic News NetworkLithuania tops Baltics, Poland, Germany, Finland in diesel excise – media&nbsp;&nbsp;DelfiLithuanian energy minister say…",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSGUtNkdGVE9oWGJHbF9MSHRkMVM3VWU5SERiN1QxMjNRM25aUkRjeW1KMDRpbUpYVUlRejVWZlN2eVVtYllLYllCUHNWU2x6ckxpM011VEhyYWtoa21ISTlwRUcyc01BemdDaVJjV1NKNHYzQ29fU1lZakpna0VIamt2RG1pRFJScFZBa1BiVFNUU19iYXFVMnYtTQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-08T10:06:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": ""
+    },
     {
       "id": "8ffa44afcf01880c25acffb7bb1d4e90826ed175",
       "title": "German spy agency accuses Russia of new cyberattacks",
@@ -158,71 +221,8 @@
       "published_at": "2026-04-03T04:00:27+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "3c1f42b98063ab0fe76b1fd0db4890015e1d2d03",
-      "title": "Europe Pushes for a Gentler Internet for Children",
-      "summary": "The European Union and national capitals are trying to make social media and algorithms less addictive and safer, especially for children.",
-      "url": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-02T09:06:33+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "8ec255710e22d4d7899e1cbe93b3c570f299b3ff",
-      "title": "Nature calling: interest in camping & caravanning grows - European Commission",
-      "summary": "Nature calling: interest in camping & caravanning grows&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JVnhrcl93OGVoNmlTYjMxakdHR1BJcHp3dGRjUFVPVXVqeEdZTzdjV3BWS2ZFSTlMZV9LSllyVll5ckhVbVI4b19QS1ItTVpFamc3U0dFekdzcDZpbHRzRVN3V3pWeEYtblFFUi1mdGN4VWwzamNFdUtZVXlrdw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-02T09:00:24+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "d6d241e206fa73fecd2b3323d3a849617d0d3706",
-      "title": "France’s nicotine pouch ban sparks backlash from Swedish MEPs",
-      "summary": "Swedes warn the ban could disrupt European Parliament sessions in Strasbourg",
-      "url": "https://www.euractiv.com/news/frances-nicotine-pouch-ban-sparks-backlash-from-swedish-meps/",
-      "source": "Euractiv",
-      "published_at": "2026-04-01T15:17:18+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "4b116b50126186f49a71e143a639efbe9364773e",
-      "title": "Germany stops gas stations from raising pump prices more than once a day",
-      "summary": "Germany is introducing a fuel package to prevent powerful gas companies from \"abusive fuel price increases,\" as the Middle East conflict continues.",
-      "url": "https://www.cnbc.com/2026/04/01/germany-fuel-gas-price-limit-oil-iran-war.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-04-01T14:18:43+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Germany stops gas stations from raising pump prices more than once a day"
-    },
-    {
-      "id": "85cac5b553ebbdd2495c8b39b417b194e1a13e76",
-      "title": "Lithuania says EU urges caution on broad fuel tax cut - The Baltic Times",
-      "summary": "Lithuania says EU urges caution on broad fuel tax cut&nbsp;&nbsp;The Baltic TimesLatvia introduces solidarity fee for fuel traders&nbsp;&nbsp;logos-pres.mdLithuania tops Baltics, Poland, Germany, Finland in diesel excise…",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMkxYOFo0NlhFWVpGQ2J6TVFoUlcwcXNiOUpLVktENGk0dmt4VkM1V2Fad1g0bGc4aXBuMzJkOXpNeFV3bnhwSmhrZ0NvUGFlU2kxR3dvSGJkbm5TQTdieUg0MzZnNmJ1TGhtOTlwbXVneUE5QXRPdWJGcFExZF9vRlRiTkhOYnptWGc?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-01T13:29:29+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Germany, Finland in diesel excise"
-    },
-    {
-      "id": "670af53e732904e14023d441932b6f84c148434c",
-      "title": "Merz criticised after calling for Syrians in Germany to ‘go back’ home",
-      "summary": "The German chancellor has drawn condemnation from NGOs and members of his own governmentFriedrich Merz has drawn condemnation from NGOs and members of his own government after he called for the vast majority of Syrians l…",
-      "url": "https://www.theguardian.com/world/2026/mar/31/friedrich-merz-criticised-syrians-germany-return",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-31T17:24:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "calling for Syrians in Germany to ‘go back’ home"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-08T10:24:02Z"
+  "last_updated": "2026-04-09T10:28:46Z"
 }

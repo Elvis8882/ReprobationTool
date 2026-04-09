@@ -1,0 +1,41 @@
+{
+  "id": "49fc6ea1de943a098727dbc7b8639b3dd8c4f21e",
+  "title": "Disagreement Over Lebanon’s Inclusion in Cease-Fire Threatens to Unravel It",
+  "summary_full": "The U.S. says the deal didn’t include the country, but Iran says it did. Israel is bombarding Lebanon, and Iran wants to show it supports its allies.",
+  "summary_public": "The U.S. says the deal didn’t include the country, but Iran says it did. Israel is bombarding Lebanon, and Iran wants to show it supports its allies.",
+  "url": "https://www.nytimes.com/2026/04/08/world/middleeast/us-iran-israel-lebanon-cease-fire.html",
+  "published_at": "2026-04-09T03:12:12+00:00",
+  "source": "NYT > World News",
+  "language": "en",
+  "countries_detected": [
+    "IL",
+    "IR",
+    "LB"
+  ],
+  "countries_scored": [
+    "IL",
+    "IR",
+    "LB"
+  ],
+  "sentiment_by_country": {
+    "IL": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Israel is bombarding Lebanon"
+    },
+    "IR": {
+      "label": "negative",
+      "confidence": 0.5,
+      "evidence": "Iran wants to show it supports its allies"
+    },
+    "LB": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Disagreement Over Lebanon’s Inclusion in Cease-Fire Threatens to Unravel It"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-04-09T10:28:46+00:00",
+  "processed_at": "2026-04-09T10:28:46+00:00"
+}

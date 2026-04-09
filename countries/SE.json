@@ -4,13 +4,65 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 205,
+  "sources": 210,
   "sentiment": {
     "positive": 14,
-    "neutral": 181,
-    "negative": 10
+    "neutral": 185,
+    "negative": 11
   },
   "latest_articles": [
+    {
+      "id": "0b07dcd86fea03224c97e71654fbcc208fb77e1e",
+      "title": "VOLTAGE: Energy crisis here to stay, critical minerals still critical",
+      "summary": "In today's edition: Middle East crisis, Water Framework Directive, Swedish mining",
+      "url": "https://www.euractiv.com/news/voltage-energy-crisis-here-to-stay-critical-minerals-still-critical/",
+      "source": "Euractiv",
+      "published_at": "2026-04-09T07:23:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Swedish mining"
+    },
+    {
+      "id": "497cbc7537db77163539b981980a057b412f86c3",
+      "title": "Swedish mining firms, steelmakers demand rollback of water protection rules",
+      "summary": "EU environment commissioner meets producers in her native Sweden, who say environmental rules need to be eased",
+      "url": "https://www.euractiv.com/news/swedish-mining-firms-steelmakers-demand-rollback-of-water-protection-rules/",
+      "source": "Euractiv",
+      "published_at": "2026-04-09T04:00:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.4,
+      "evidence": "demand rollback of water protection rules"
+    },
+    {
+      "id": "166736a798466efe03164b68293809762b667c75",
+      "title": "Sánchez to Trump: Spain won’t ‘applaud those who set the world on fire just because they then show up with a bucket’",
+      "summary": "Spanish Prime Minister Pedro Sánchez has emerged as one of the European Union's leading critics of U.S. and Israeli strikes against Iran.",
+      "url": "https://www.cnbc.com/2026/04/08/spain-pm-sanchez-trump-iran-war-ceasefire-middle-east-crisis.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-04-08T17:10:15+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "76ebc752777eae8f1a2f5f1dc318ecaaa791ed0c",
+      "title": "EU Parliament’s agriculture committee greenlights ‘veggie bacon’ ban - politico.eu",
+      "summary": "EU Parliament’s agriculture committee greenlights ‘veggie bacon’ ban&nbsp;&nbsp;politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMFFHQ3oxVm9BY0dFR1lLUXBNVnlJdkgwQjJkeVl3b2ZqS0hLUFRIa0dOX191TVBUY2tCdTVKV09mcHREOWxhczhJaDBEQkV6VUxaeUZ1RTdXWkdzU2IydWV0a3RMZGpLRU9ZTkdzQTJQbU5wNVdfeFJTVGFKMjBGVjRsWHlUcnNDNmVPaXpLVjZpcV9CQ1ItSkZSdw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-08T14:26:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "7bd4690744f84f4e5981921fed3fe09a5b03acf9",
+      "title": "‘High standards, fewer rules’ – EU businesses need red tape simplification [Advocacy Lab]",
+      "summary": "Can the European Commission really reduce administrative burdens by 25% overall, and 35% for SMEs?",
+      "url": "https://www.euractiv.com/news/high-standards-fewer-rules-eu-businesses-need-red-tape-simplification/",
+      "source": "Euractiv",
+      "published_at": "2026-04-08T12:41:22+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "37ea09327f381c1515f0c56c31d2264ab48776b0",
       "title": "Swedish lithium mine project sparks water pollution alarm",
@@ -166,60 +218,8 @@
       "published_at": "2026-03-31T12:05:43+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "2ee8be0a09f0edb62bb36287b804cdeddac2d443",
-      "title": "EU hourly labour costs ranged from €12 to €57 in 2025 - European Commission",
-      "summary": "EU hourly labour costs ranged from €12 to €57 in 2025&nbsp;&nbsp;European CommissionLuxembourg’s hourly labour costs of €56.80 remain EU’s highest&nbsp;&nbsp;Luxembourg TimesEU: hourly labour costs rise to €34.9 and €38.…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mc21pSHBma05aQkZFbnk4WGVtblVod1JnbnJvOTBYRXRnelhTdndVdk9ERDVnM1VmRW5lYjNNUHdRY1M5XzFnSjBPTFpMZHhsSTZsbmZ4LWR1X0ZRMmIwMlVfVDNOLWRuZnhIZVR4anVBRHBocmY5dUQxaEIydw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-31T09:04:54+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "563d064cf7021ddd635b6624b78dbe8ef02614a1",
-      "title": "Sweden to host the next meeting of NATO Ministers of Foreign Affairs - nato.int",
-      "summary": "Sweden to host the next meeting of NATO Ministers of Foreign Affairs&nbsp;&nbsp;nato.intHelsingborg is hosting Sweden’s first NATO meeting on 21–22 May&nbsp;&nbsp;MynewsdeskNATO foreign ministers meet in Sweden to bolste…",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY2NWSDZkLXhibGo4VTBPYkFEYlZWbFZMQ3JKN2pkWVlDLV9OUkZaT3ItdGIzelY3dXJMYmwzZVdxcVpVUEhGaXc5VGNiNml0SW9nYi1PNl9SS01YbHRxeGRFQWtFLXZPUWhKWWFkOUNPZHZld3VQY28xQU1vdlNOQVBkeW9JdGVZZDgtVmp6Qm5yd0hiOTBjQmdDOU1taUM5cVdlNWhFZU5HSUk2LTlwWEl2R3pTUlo4Nm5HTkhqdVlBUGpxb3hsN2tnQ2I5dw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-31T06:54:50+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Sweden to host NATO ministers for the first time since joining alliance"
-    },
-    {
-      "id": "b52aac0f8460f9e402c93173611756cd00a34337",
-      "title": "Brussels issues guidance on law to cut packaging waste",
-      "summary": "European Commission moves to ensure smooth implementation when new rules kick in after summer",
-      "url": "https://www.euractiv.com/news/brussels-issues-guidance-on-law-to-cut-packaging-waste/",
-      "source": "Euractiv",
-      "published_at": "2026-03-30T13:57:04+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "c89730735566cc2fa10f11145676fffd37c241ae",
-      "title": "517 kg municipal waste per capita in 2024 - European Commission",
-      "summary": "517 kg municipal waste per capita in 2024&nbsp;&nbsp;European CommissionView Full coverage on Google News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11aFJVNWl4NG1wbzhlemVJVURjWkszejRlcjhWNnMtbG10SkFZNE5RWDRDM2Z2VkkwcEhQTndsb3JFXzVEU1hVWTFKV19zM0VQLU8xNjNuWEVBNllmSGNPSzNjdmNjWWV5S3pUdl90U0paNzZoNXlHRi0yTklUUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-03-30T09:43:58+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "40bcfd9fb70e05934c6c7de76fe661ca2571bc16",
-      "title": "Middle East conflict risks Europe’s medicines supply, warns Swedish agency [Advocacy Lab]",
-      "summary": "Rocketing fuel prices and the risk of war spreading to the Suez Canal could escalate impact on Europe's pharma supplies",
-      "url": "https://www.euractiv.com/news/middle-east-conflict-risks-europes-medicines-supply-warns-swedish-agency/",
-      "source": "Euractiv",
-      "published_at": "2026-03-27T11:56:07+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Middle East conflict risks Europe’s medicines supply"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-08T10:24:02Z"
+  "last_updated": "2026-04-09T10:28:46Z"
 }

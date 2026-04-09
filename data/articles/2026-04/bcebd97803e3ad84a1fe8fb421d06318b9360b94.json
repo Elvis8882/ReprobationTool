@@ -1,0 +1,41 @@
+{
+  "id": "bcebd97803e3ad84a1fe8fb421d06318b9360b94",
+  "title": "North Korea Tests New Weapons, Drawing Lessons from Iran War",
+  "summary_full": "The country has been leveraging armed conflicts abroad, such as Russia’s war against Ukraine, to bolster its own military capabilities.",
+  "summary_public": "The country has been leveraging armed conflicts abroad, such as Russia’s war against Ukraine, to bolster its own military capabilities.",
+  "url": "https://www.nytimes.com/2026/04/09/world/asia/north-korea-weapons-iran.html",
+  "published_at": "2026-04-09T09:57:03+00:00",
+  "source": "NYT > World News",
+  "language": "en",
+  "countries_detected": [
+    "IR",
+    "RU",
+    "UA"
+  ],
+  "countries_scored": [
+    "IR",
+    "RU",
+    "UA"
+  ],
+  "sentiment_by_country": {
+    "IR": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Lessons from Iran War"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Russia’s war against Ukraine"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Russia’s war against Ukraine"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-04-09T10:28:46+00:00",
+  "processed_at": "2026-04-09T10:28:46+00:00"
+}
