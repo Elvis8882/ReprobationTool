@@ -1,16 +1,126 @@
 {
   "country": "GB",
-  "score": 22,
+  "score": 20,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 802,
+  "trend": -2,
+  "sources": 817,
   "sentiment": {
-    "positive": 91,
-    "neutral": 545,
-    "negative": 166
+    "positive": 92,
+    "neutral": 555,
+    "negative": 170
   },
   "latest_articles": [
+    {
+      "id": "b08bd19e918838034afa9c85246e7de34d537ead",
+      "title": "Starmer says he’s ‘fed up’ with Trump and Putin’s actions pushing up energy bills for Britons – UK politics live",
+      "summary": "Prime minister explicitly blames US president for British consumers’ higher bills as he concludes tour of Gulf statesOne person who will be disappointed by the Labour party cooling on the idea of a leadership contest lat…",
+      "url": "https://www.theguardian.com/politics/live/2026/apr/10/starmer-trump-putin-iran-war-farage-reform-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-10T09:38:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Starmer says he’s ‘fed up’ with Trump and Putin’s actions"
+    },
+    {
+      "id": "5e91bb9ec55ed79168539115c196b81453df7913",
+      "title": "Starmer says he is ‘fed up’ with Trump and Putin’s impact on UK energy costs",
+      "summary": "PM appears to draw comparison between Russian and US leaders’ actions and calls for plan to restore Hormuz strait shippingUK politics live – latest updatesMiddle East crisis – live updatesKeir Starmer has said he is “fed…",
+      "url": "https://www.theguardian.com/politics/2026/apr/10/starmer-fed-up-trump-uk-politics",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-10T07:55:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Trump and Putin’s impact on UK energy costs"
+    },
+    {
+      "id": "6a66d2f6b95159a4f095ca4e20f7abd760b58278",
+      "title": "Keir Starmer: 'I'm fed up' with Trump and Putin affecting UK energy costs",
+      "summary": "Iran has effectively closed the Strait of Hormuz in the war with the U.S. and Israel, creating an oil supply crunch and sending global energy prices soaring.",
+      "url": "https://www.cnbc.com/2026/04/09/keir-starmer-fed-up-trump-putin-uk-energy-costs.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-04-10T04:49:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.4,
+      "evidence": "Trump and Putin affecting UK energy costs"
+    },
+    {
+      "id": "705a185f9e1bffde261c9fc6fdb4f8387e5e110e",
+      "title": "Reform UK voters least likely to see social media posts from family and friends, study finds",
+      "summary": "Thinktank says algorithms are fuelling isolation and division after analysing posts shown to social media usersReform UK voters are the least likely to see posts from friends and family on social media and most likely to…",
+      "url": "https://www.theguardian.com/media/2026/apr/10/reform-uk-voters-least-likely-to-see-social-media-posts-from-family-and-friends-study-finds",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-10T04:01:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Reform UK voters least likely to see social media posts"
+    },
+    {
+      "id": "616ef56c839795e86068b8043fd9534f5e74a3be",
+      "title": "European Leaders Demand That U.S. Cease-Fire With Iran Include Lebanon",
+      "summary": "Britain, France and the European Union condemned Israel’s strikes targeting Hezbollah in the country, saying these threatened the truce.",
+      "url": "https://www.nytimes.com/2026/04/09/world/middleeast/european-demands-iran-us-cease-fire-lebanon.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-09T23:20:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Britain condemned Israel’s strikes targeting Hezbollah"
+    },
+    {
+      "id": "e3396363e3913f40a1bb2e0090ca2e79b303db21",
+      "title": "3 Russian Submarines Detected Near Britain Were Spying, U.K. Says",
+      "summary": "John Healey, the defense secretary, said the vessels were gathering information about undersea pipelines, and said he believed President Vladimir V. Putin “would want us to be distracted by the Middle East.”",
+      "url": "https://www.nytimes.com/2026/04/09/world/europe/uk-russia-submarines-cables.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-09T22:57:33+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "3 Russian Submarines Detected Near Britain Were Spying"
+    },
+    {
+      "id": "ae7e220388e7cd86ec84ac318b2d63ce7808b4ec",
+      "title": "Israel’s attacks on Lebanon should not be happening, says Keir Starmer",
+      "summary": "In article for Guardian, PM also calls for Iran conflict to become watershed moment for future UK securityThe Iran war is a warning: Britain must build resilience – at home and with our allies in EuropeIsrael’s continued…",
+      "url": "https://www.theguardian.com/politics/2026/apr/09/israel-attacks-on-lebanon-should-not-be-happening-says-keir-starmer",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-09T17:32:32+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "future UK security The Iran war is a warning"
+    },
+    {
+      "id": "658e93d2f0989e49330f99e2c2f60fc1ddcb8e7d",
+      "title": "UK says Russia ran submarine operation over cables and pipelines",
+      "summary": "Defence Secretary John Healey says there is \"no evidence\" of any damage to UK infrastructure in the Atlantic.",
+      "url": "https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-09T17:09:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "no evidence\" of any damage to UK infrastructure"
+    },
+    {
+      "id": "1e2aab8fc5ac0c487332bad11d7b6102d67c2d71",
+      "title": "Britain foils High North Russian operation in month-long submarine hunt",
+      "summary": "“Putin would have wanted us distracted by the situation in the Middle East. My point today is to demonstrate publicly that we are not,\" John Healey said",
+      "url": "https://www.euractiv.com/news/britain-foils-high-north-russian-operation-in-month-long-submarine-hunt/",
+      "source": "Euractiv",
+      "published_at": "2026-04-09T12:55:45+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Britain foils High North Russian operation in month-long submarine hunt"
+    },
+    {
+      "id": "c7b849735c0d459aba1c50079f9e3e575a1e0a4c",
+      "title": "Canada Joins United States, United Kingdom, and Australia to Transform Travel With New EU Digital Border System in 2026 - Travel And Tour World",
+      "summary": "Canada Joins United States, United Kingdom, and Australia to Transform Travel With New EU Digital Border System in 2026&nbsp;&nbsp;Travel And Tour WorldBrits facing extra EU border checks, as 'technical difficulties' ham…",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNDNrZHY0M2xyUHk2cnRpTklOZFE2YTB4WTE3bzRfZVN6dlVUazlubV96SExNREdKZGo0UlhPcW44d2FMS2pkTXZGaEtGdGpibnBTT09lMHJ5Sl9aQXFwUWlxbUNKYkZXTVdndnhVeE5RcVZ6ekVQZ2dCYnlRVGN0N1F4SHJRejRabDdUNW9SczdSVUVtSnNpb0dvM0NqdHZLd3ctYXloel9HRDRZM1dxQUR1YmVPamRzSHE3OVRnZnhWSkJNSS0yVlp3N2llOVFwVHNGT2M0UlhYQ2wzYlVueUhTbTh1cnBKUWtLYzZMOWFFTng2ck1fT1Z3?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-09T11:32:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Brits facing extra EU border checks"
+    },
     {
       "id": "e8a21f2642e14460ea78865f7c35d26a138b4fe9",
       "title": "Iran cannot ‘hijack’ strait of Hormuz with shipping tolls, says Yvette Cooper – UK politics live",
@@ -43,6 +153,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "between France and Britain"
+    },
+    {
+      "id": "010a355be707bcba7e276b9c55423e911fb2ef50",
+      "title": "No, Britain Is Not Having a Christian Revival",
+      "summary": "A study said church attendance had soared among British young people, a trend reversal that excited religious conservatives around the world. Turns out it wasn’t true.",
+      "url": "https://www.nytimes.com/2026/04/09/world/europe/britain-christian-revival-survey.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-09T09:24:16+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Britain Is Not Having a Christian Revival"
     },
     {
       "id": "19440bf05298f67bf72d05d7f14dc5efc62afeb2",
@@ -78,6 +199,17 @@
       "evidence": "Campaigners demand action to break UK’s ‘addiction’ to herbicides"
     },
     {
+      "id": "928adf9a6bf993450128e0aebece23908bbc959e",
+      "title": "Report Claims Bitcoin's Mysterious Founder Is UK Entrepreneur. He Denies It",
+      "summary": "The identity of Satoshi Nakamoto is still unknown.",
+      "url": "https://www.ndtv.com/world-news/report-claims-bitcoin-039-s-mysterious-founder-is-british-entrepreneur-he-denies-it-11332430#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-04-09T07:07:27+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Satoshi Nakamoto is still unknown."
+    },
+    {
       "id": "4dc2aac5bc0bf57710cb05a9d389d4d14dbc1c0e",
       "title": "Lebanon must be included in US-Iran ceasefire deal, Yvette Cooper to say",
       "summary": "Foreign secretary to address City leaders in London as Israel intensifies bombing and Vance says Lebanon is not part of dealMiddle East crisis – live updatesLebanon must be included in the ceasefire agreement between the…",
@@ -89,149 +221,17 @@
       "evidence": "British foreign secretary to say “must be no return to conflict”"
     },
     {
-      "id": "8c977ca5c9417974705ac8f8e19bedb300952e1d",
-      "title": "Abandoned Battle of Britain control tower to become a home for holidaymakers … and six species of bat",
-      "summary": "Council backs £700,000 plan to save historic landmark at former RAF base in the New ForestA unique RAF watch office that has been crumbling for decades is to be turned into a smart hideaway home to be shared by holidayma…",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/09/battle-of-britain-raf-control-new-forest-holiday-home-bats",
+      "id": "1ca11fdbfd74149e863042e6fdf685b83f9fa457",
+      "title": "Thursday briefing: ​What difference will the ceasefire in the Middle East make, and will it hold?",
+      "summary": "In today’s newsletter: The truce offers a reprieve after weeks of turmoil, ​b​ut unresolved disputes and competing interpretations ​of what was agreed, threaten to pull the region back toward crisis​ at a moment’s notice…",
+      "url": "https://www.theguardian.com/world/2026/apr/09/thursday-briefing-what-difference-will-the-ceasefire-in-the-middle-east-make-and-will-it-hold",
       "source": "World news - The Guardian",
-      "published_at": "2026-04-09T05:00:23+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Battle of Britain control tower to become a home"
-    },
-    {
-      "id": "849742b4f6436d878afcaec0e92cfda0fcd2c090",
-      "title": "Consumers urged to ‘completely avoid’ UK-caught cod as population plunges",
-      "summary": "Marine Conservation Society warns that fish numbers have reached dangerous point of declineConsumers should “completely avoid” buying UK-caught cod, the Marine Conservation Society (MCS) has said, as it warned that popul…",
-      "url": "https://www.theguardian.com/environment/2026/apr/09/consumers-urged-to-completely-avoid-uk-caught-cod-as-population-plunges",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-09T04:00:23+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Consumers urged to ‘completely avoid’ UK-caught cod as population plunges"
-    },
-    {
-      "id": "273ec051aae155a20804bb6067f25fcf48e96d92",
-      "title": "Gambia appoints British barrister to prosecute gruesome Jammeh-era crimes",
-      "summary": "Ex-President Yahya Jammeh's 22-year rule was known for enforced disappearances and extrajudicial killings.",
-      "url": "https://www.bbc.com/news/articles/cjr90wyw09wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-08T19:30:35+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Gambia appoints British barrister to prosecute gruesome Jammeh-era crimes"
-    },
-    {
-      "id": "65098d8e08e118ac82fcc724e74e3680a46ed599",
-      "title": "Doctors’ strike timed to cause havoc over Easter break, says NHS England chief",
-      "summary": "Sir Jim Mackey said hospitals were struggling to fill rotas because six-day walkout was scheduled over holidayThe latest strike by resident doctors in England has been “deliberately timed to cause havoc” by coinciding wi…",
-      "url": "https://www.theguardian.com/society/2026/apr/08/doctors-strike-easter-break-rota-havoc-nhs-england-chief-jim-mackey",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-08T09:49:27+00:00",
+      "published_at": "2026-04-09T05:45:23+00:00",
       "sentiment": "neutral",
       "confidence": 0.3,
-      "evidence": "Doctors’ strike timed to cause havoc over Easter break, says NHS England chief"
-    },
-    {
-      "id": "ce27588aab66841be9a5283be2ad4455d31c6561",
-      "title": "Keir Starmer welcomes Iran war ceasefire as he heads to Gulf to meet regional leaders – UK politics live",
-      "summary": "PM to meet partners in region to discuss effort to ‘support and sustain ceasefire’ and reopening the strait of HormuzThe chief executive of the British Horseracing Authority, Brant Dunshea, has revealed that the sport wi…",
-      "url": "https://www.theguardian.com/politics/live/2026/apr/08/keir-starmer-iran-war-trump-ceasefire-gulf-strait-of-hormuz-labour-conservatives-liberal-democrats-reform-scotland-holyrood-uk-politics-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-08T09:45:23+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "UK politics live"
-    },
-    {
-      "id": "37187f43aeb5d957c09327ff93c7ebea9065f863",
-      "title": "UK scientists send worms to ISS to study effects of space on the human body - Innovation News Network",
-      "summary": "UK scientists send worms to ISS to study effects of space on the human body&nbsp;&nbsp;Innovation News NetworkSpace breakthrough: British scientists to send worms to space in crucial step to help mankind's quest to Moon&…",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVJkZTR1Q09naTRpSExmTnZXcVZJWk9OT2s5WjZWTHNlSHlfMlNJMUZXcWJIQjVqVm84NHNjS3pDTTBNRDgwSy1RQWN2cDNGcGhQdVRxcFFGRElyZUJsT0oycTFuZ2lycVMtQnA1M0R3cGRqWE1vbnp3LTF3aWExQ2M3MVBvd1Uwa0JEOGJnUHdWTi1KUDV4Z0R5SVVnbnpDMkpB?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-08T09:43:03+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "UK scientists send worms to ISS to study effects of space"
-    },
-    {
-      "id": "f91629908a05581e1ad58bf4d9d4bc3b556f6ed4",
-      "title": "Bristol airport loses legal challenge against Cardiff rival over £205m subsidy",
-      "summary": "Tribunal dismisses claim that the Welsh government’s financial package breached competition rulesCardiff airport has won a legal challenge brought by its rival in Bristol over the fairness of a £205m Welsh government sub…",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/08/bristol-airport-loses-legal-challenge-against-cardiff-rival-over-subsidy",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-08T09:34:38+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Bristol airport loses legal challenge against Cardiff rival over £205m subsidy"
-    },
-    {
-      "id": "90d7d38ce875ca19185ed24091f8e291536726d4",
-      "title": "Family pay tribute to British teenager killed in motorcycle crash in Vietnam",
-      "summary": "Orla Wates, 19, who died after incident on popular Ha Giang loop, described as ‘beautiful, independent and very funny’The family of a British teenager have paid tribute to their daughter who died after a motorcycle crash…",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/08/orla-wates-family-tribute-british-teenager-killed-motorcycle-crash-vietnam-ha-giang-loop",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-08T08:27:19+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "British teenager killed in motorcycle crash"
-    },
-    {
-      "id": "275cd0509ae2df4650c558c8a64b766f77fa817b",
-      "title": "UK house prices fall in March amid uncertain impact of Middle East conflict",
-      "summary": "Average price dips back below £300,000 after higher energy costs have knock-on effect on mortgage ratesUK house prices fell in March, as the housing market lost momentum amid uncertainty over the conflict in the Middle E…",
-      "url": "https://www.theguardian.com/business/2026/apr/08/uk-house-prices-fall-march-middle-east-conflict-iran",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-08T07:55:28+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "UK house prices fall in March amid uncertain impact"
-    },
-    {
-      "id": "391bd8953bc863b99d5d1abd1f173886b15c88e6",
-      "title": "Britain Reinforces That U.S. Cannot Use British Bases for Attacks on Iran",
-      "summary": "The U.K. government underlined its previous stance that the United States could only use British bases for defensive purposes, after President Trump threatened to strike civilian targets.",
-      "url": "https://www.nytimes.com/2026/04/07/world/middleeast/britain-iran-bases.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-07T22:21:01+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Britain Reinforces That U.S. Cannot Use British Bases"
-    },
-    {
-      "id": "02ccb73894caf1b32ce8982f74662a32202e563a",
-      "title": "Kanye West ‘Should Never Have Been Invited,’ Starmer Says After Barring Rapper From UK",
-      "summary": "Prime Minister Keir Starmer’s government blocked the artist formerly known as Kanye West from entering Britain for the three-day Wireless Festival in July.",
-      "url": "https://www.nytimes.com/2026/04/07/world/europe/kanye-west-ye-keir-starmer-uk-wireless.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-07T19:43:24+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "barring rapper from UK"
-    },
-    {
-      "id": "9a568885a97abd88d3adeeca797e379d6536234a",
-      "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
-      "summary": "West was due to headline the festival in July but drew criticism over past antisemitic comments.",
-      "url": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-07T19:40:05+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Kanye West blocked from coming to UK"
-    },
-    {
-      "id": "19f94c451438f2178bcd674093de9c8f5ebcda8d",
-      "title": "Commonwealth leaders vow to keep seeking reparations after Reform UK plan to halt visas",
-      "summary": "Politicians warn party’s pledge to ‘punish’ countries seeking justice for slavery will harm and isolate BritainCommonwealth politicians say they will not back down from seeking reparations as UK public figures, including…",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/07/commonwealth-leaders-vow-to-keep-seeking-reparations-after-reform-uk-plan-to-halt-visas",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-07T19:26:05+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "pledge to “punish” countries seeking justice for slavery would harm and isolate Britain."
+      "evidence": "UK has a “job” to help reopen the strait of Hormuz"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-09T10:28:46Z"
+  "last_updated": "2026-04-10T10:26:27Z"
 }

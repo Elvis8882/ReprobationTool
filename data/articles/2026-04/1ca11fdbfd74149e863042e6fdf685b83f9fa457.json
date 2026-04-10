@@ -23,8 +23,40 @@
     "RU",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-04-09T10:28:46+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-04-10T10:26:27+00:00",
+  "sentiment_by_country": {
+    "GB": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "UK has a “job” to help reopen the strait of Hormuz"
+    },
+    "IL": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Israel’s assault on Lebanon continues"
+    },
+    "IR": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "US and Israeli attacks on Tehran, and Iranian retaliation"
+    },
+    "LB": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Israel’s assault on Lebanon continues"
+    },
+    "RU": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Russia has been helping Iran to target US bases"
+    },
+    "UA": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ukrainian president, Volodymyr Zelenskyy"
+    }
+  },
+  "processed_at": "2026-04-10T10:26:27+00:00"
 }

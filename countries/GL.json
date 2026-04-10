@@ -1,16 +1,27 @@
 {
   "country": "GL",
   "score": 61,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 52,
+  "sources": 53,
   "sentiment": {
     "positive": 4,
-    "neutral": 35,
+    "neutral": 36,
     "negative": 13
   },
   "latest_articles": [
+    {
+      "id": "feb688e8073e54f6fe705fd95d3c783a09446d53",
+      "title": "Amid Trump’s Threats, NATO Labors to Survive the Iran War",
+      "summary": "President Trump is citing the unwillingness of European nations to back the United States in the conflict as another reason to scale back or abandon the alliance. And he still wants Greenland.",
+      "url": "https://www.nytimes.com/2026/04/09/us/politics/trump-iran-nato-rutte.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-09T23:11:02+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "still wants Greenland"
+    },
     {
       "id": "5c32b857de0bfc8f3d69fcb82ab36ec66f8e550e",
       "title": "‘I want to make myself obsolete’: the MP fighting for Greenland’s self-governance",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "capitalising on Greenland tensions"
-    },
-    {
-      "id": "37bc308c69f6551857085b699bd85602288efe0d",
-      "title": "Danish PM calls snap election with Greenland issue centre-stage",
-      "summary": "The issue of Greenland, which Donald Trump wants to annex, is likely to dominate the election campaign.",
-      "url": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-02-26T13:56:39+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "The issue of Greenland, which Donald Trump wants to annex"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-09T10:28:46Z"
+  "last_updated": "2026-04-10T10:26:27Z"
 }
