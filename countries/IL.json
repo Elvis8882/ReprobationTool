@@ -4,13 +4,68 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 1112,
+  "sources": 1120,
   "sentiment": {
     "positive": 31,
-    "neutral": 322,
-    "negative": 767
+    "neutral": 323,
+    "negative": 774
   },
   "latest_articles": [
+    {
+      "id": "03f60b77c5e3b1738a0b9fef98b5d1faf37f2294",
+      "title": "Inside Tyre, a Lebanese City Bombarded by Israel",
+      "summary": "In Tyre, a city on Lebanon’s coast, near-daily bombardments by Israel have killed and injured civilians, and left many searching for shelter.",
+      "url": "https://www.nytimes.com/2026/04/12/world/middleeast/lebanon-hezbollah-israel-iran-war-tyre.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-12T09:02:10+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "bombardments by Israel have killed and injured civilians"
+    },
+    {
+      "id": "4472de54fd4929549b7410d4168cec3e0c62d385",
+      "title": "'To preserve security of people': Lebanon PM postpones US visit amid Israeli strikes",
+      "summary": "Lebanon's Prime Minister Nawaf Salam has postponed his US and UN visit due to \"current internal circumstances\" and security concerns. This comes amid rising tensions, with Iran warning Beirut against sidelining Hezbollah…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/to-preserve-security-unity-of-people-lebanon-pm-postpones-us-visit-amid-ongoing-israeli-strikes/articleshow/130201922.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-04-12T04:36:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Israeli strikes continue"
+    },
+    {
+      "id": "17d7b6459104045769c04b918deffc19484f0810",
+      "title": "US-Iran direct talks begin in Pakistan amid disputes, distrust",
+      "summary": "Direct US-Iran talks commenced in Pakistan Saturday, following a fragile ceasefire.  US Vice President JD Vance met with Iran's Parliament Speaker Mohammad Bagher Qalibaf to discuss advancing the peace, amidst ongoing Is…",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/us-iran-direct-talks-begin-in-pakistan-amid-disputes-distrust/articleshow/130201041.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-04-11T23:36:47+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "ongoing Israeli attacks"
+    },
+    {
+      "id": "96db66a0c06d9c22aea98b5f5b088496f291a1ff",
+      "title": "South Korea President vs Israel On Rights Abuses, Disinformation Claims",
+      "summary": "South Korea, US's ally, has generally maintained a balanced stance on strife in the Middle East.",
+      "url": "https://www.ndtv.com/world-news/south-korea-president-lee-jae-myung-vs-israel-on-rights-abuses-disinformation-claims-11342073#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-04-11T06:04:39+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "maintained a balanced stance on strife in the Middle East."
+    },
+    {
+      "id": "d1498d349aeadf56463d75aa8132937f1a53559b",
+      "title": "World Leaders Push to Save Iran Talks Amid Israel’s Attacks in Lebanon",
+      "summary": "President Trump’s cease-fire with Iran appears at risk as Vice President JD Vance heads to Pakistan for discussions with Iranian officials.",
+      "url": "https://www.nytimes.com/2026/04/10/us/politics/iran-israel-lebanon-trump-talks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-11T05:11:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Israel’s Attacks in Lebanon"
+    },
     {
       "id": "7117490bd964aeaab459ecb4fe758d2e51e73a53",
       "title": "In New War With Israel, Hezbollah Defies Notion That It Was Crippled",
@@ -43,6 +98,28 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "largest US-Israeli onslaught in history"
+    },
+    {
+      "id": "b047003d2ada5119b98bfe9accbc0d50d0f46760",
+      "title": "What will it take for U.S. and Iran to end war? Here’s what we know.",
+      "summary": "The sides are far apart on Iran’s nuclear program, the Strait of Hormuz and the Israeli campaign against Hezbollah in Lebanon.",
+      "url": "https://www.washingtonpost.com/world/2026/04/10/iran-united-states-war-peace-talks/",
+      "source": "World (Washington post)",
+      "published_at": "2026-04-10T18:21:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli campaign against Hezbollah in Lebanon"
+    },
+    {
+      "id": "78a5884c9d6a3e4594453683ce6f49b5b76f6ada",
+      "title": "What's at stake ahead of crucial U.S.-Iran peace talks as leaders meet in Pakistan",
+      "summary": "Already, Tehran has accused Israel of violating the terms of the ceasefire, as the IDF continues to attack Hezbollah in Lebanon.",
+      "url": "https://www.cnbc.com/2026/04/10/negotiating-points-hardest-us-iran-ceasefire-lebanon.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-04-10T16:13:25+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "IDF continues to attack Hezbollah in Lebanon"
     },
     {
       "id": "82e58b74d02bcf216aa13eaa84e20adb6016855c",
@@ -87,6 +164,17 @@
       "sentiment": "negative",
       "confidence": 0.4,
       "evidence": "Israel and Hezbollah continue to trade strikes"
+    },
+    {
+      "id": "9e65c02da141e484963070dfe1f85d7bce776a0d",
+      "title": "Israeli Airstrikes On 2 Lebanon Towns Despite Trump's Request To Netanyahu",
+      "summary": "Fresh Israeli Attack On Lebanon Despite Trump Asking To 'Scale Back' Strikes",
+      "url": "https://www.ndtv.com/world-news/fresh-israeli-attack-on-lebanon-despite-trump-asking-to-scale-back-strikes-11338114#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-04-10T09:35:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Israeli Airstrikes On 2 Lebanon Towns"
     },
     {
       "id": "845dbb285e132e8e609d3ea8047f92b05e81d6d3",
@@ -142,96 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "No Talks With US Till Lebanon Ceasefire"
-    },
-    {
-      "id": "3165816eb5267fa2d170c624b701109ae29659e8",
-      "title": "The last days of Orbán?",
-      "summary": "Also, in Friday’s edition: Ukraine in Brussels, NATO, Sánchez in China, EU-Israel association agreement, Telegram",
-      "url": "https://www.euractiv.com/news/rapporteur-the-last-days-of-orban/",
-      "source": "Euractiv",
-      "published_at": "2026-04-10T05:02:32+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "EU-Israel association agreement"
-    },
-    {
-      "id": "6a66d2f6b95159a4f095ca4e20f7abd760b58278",
-      "title": "Keir Starmer: 'I'm fed up' with Trump and Putin affecting UK energy costs",
-      "summary": "Iran has effectively closed the Strait of Hormuz in the war with the U.S. and Israel, creating an oil supply crunch and sending global energy prices soaring.",
-      "url": "https://www.cnbc.com/2026/04/09/keir-starmer-fed-up-trump-putin-uk-energy-costs.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-04-10T04:49:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.4,
-      "evidence": "war with the U.S. and Israel"
-    },
-    {
-      "id": "68e47419226ddfc1b342ba0c5705fe0bfc3c7887",
-      "title": "From sitting on the fence to political action – the EU’s Iran options",
-      "summary": "The European room for manoeuvre is constrained by dependencies on the US and an inability to exert influence on Israeli policy, let alone the Iranian regime. But these constraints do not justify the absence of European p…",
-      "url": "https://www.euractiv.com/opinion/from-sitting-on-the-fence-to-political-action-what-the-eu-could-actually-do/",
-      "source": "Euractiv",
-      "published_at": "2026-04-10T04:00:12+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "inability to exert influence on Israeli policy"
-    },
-    {
-      "id": "24e606541cc8c60758cd7c8f471079003b999a49",
-      "title": "Pakistan, Israel war of words: Khwaja Asif’s 'burn in hell' remark triggers a 'outrageous' response",
-      "summary": "Israel has criticised remarks by Khawaja Asif, calling them “outrageous” and questioning Pakistan’s neutrality in regional diplomacy. Asif described Israel as “evil” and a “curse for humanity.” He also alleged civilians…",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-israel-war-of-words-khwaja-asifs-burn-in-hell-remark-triggers-a-outrageous-response/articleshow/130156999.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-04-10T03:06:58+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Israel has criticised remarks by Khawaja Asif, calling them “outrageous”"
-    },
-    {
-      "id": "901b9daf76702539f61f912b77b7f88949e9e020",
-      "title": "Islamabad prepares to host historic negotiations between Iran and the US",
-      "summary": "In Pakistan’s capital, the army has been deployed, a public holiday has been declared and the streets are eerily emptyMiddle East crisis – live updatesThe streets of Islamabad were on strict lockdown as Pakistan’s capita…",
-      "url": "https://www.theguardian.com/world/2026/apr/10/islamabad-pakistan-negotiations-iran-us",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-10T03:00:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Israel’s continued bombardment of Lebanon"
-    },
-    {
-      "id": "208485be489b7cc461bbcc344ca4aa7733fff988",
-      "title": "Netanyahu says there is no ceasefire in Lebanon as Israel launches fresh strikes",
-      "summary": "Israeli PM says he will continue to attack Hezbollah ‘with full force’ after attacks that killed more than 300 peopleMiddle East crisis – live updatesBenjamin Netanyahu has said there is “no ceasefire in Lebanon” and Isr…",
-      "url": "https://www.theguardian.com/world/2026/apr/09/israel-bombing-lebanon-us-iran-ceasefire-condemnation",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-10T02:28:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Israel launches fresh strikes"
-    },
-    {
-      "id": "f4a05f008f08475788e80dd7dccec1eb9fa01ada",
-      "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
-      "summary": "The US president accused Iran of \"doing a very poor job\" with the waterway as Israel and Lebanon to begin peace talks.",
-      "url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-10T02:10:44+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Israel and Lebanon to begin peace talks."
-    },
-    {
-      "id": "0b9879710e8a9b420b7725cd22724f73d1a2f231",
-      "title": "'Will advance management of Hormuz to new stage': Khamenei flags shift amid fragile truce",
-      "summary": "Iran's new Supreme Leader Mojtaba Khamenei has vowed to escalate control over the Strait of Hormuz, signaling a tougher stance amid a strained ceasefire with the US and Israel. He declared Iran would seek compensation fo…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/will-advance-management-of-strait-of-hormuz-to-new-stage-irans-mojatba-khamenei-flags-shift-amid-fragile-truce-with-us-israel/articleshow/130156775.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-04-10T02:03:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": ""
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-11T09:55:44Z"
+  "last_updated": "2026-04-12T10:02:41Z"
 }

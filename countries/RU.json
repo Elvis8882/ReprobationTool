@@ -4,13 +4,90 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 664,
+  "sources": 672,
   "sentiment": {
-    "positive": 32,
-    "neutral": 172,
-    "negative": 460
+    "positive": 34,
+    "neutral": 173,
+    "negative": 465
   },
   "latest_articles": [
+    {
+      "id": "c48dcc1923c5c03691e1b019b23124870aa0afc6",
+      "title": "Hungarian election tests Trump’s global reach as Orban fights for survival",
+      "summary": "The president and vice president strongly backed Prime Minister Viktor Orban, a Kremlin ally and E.U. antagonist, but he trails in polls after 16 years in power.",
+      "url": "https://www.washingtonpost.com/world/2026/04/12/hungary-election-viktor-orban-trump/",
+      "source": "World (Washington post)",
+      "published_at": "2026-04-12T09:00:51+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Orban, a Kremlin ally... he trails in polls"
+    },
+    {
+      "id": "552fc9968d9e1f764c106e5af47d9c4eaccfff79",
+      "title": "Hungarians vote in hard-fought election that could oust Viktor Orbán after 16 years",
+      "summary": "Rightwing leader trails in polls to Péter Magyar, despite support from JD Vance on recent visitHungarians are heading to the ballot boxes to vote in a hard-fought parliamentary election that could oust Viktor Orbán after…",
+      "url": "https://www.theguardian.com/world/2026/apr/12/hungarians-vote-in-hard-fought-election-that-could-oust-viktor-orban-after-16-years",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-12T06:00:09+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "reshape the central European country’s relations with... Moscow"
+    },
+    {
+      "id": "510442c1bcef4ef184f9668715a1df66837a572c",
+      "title": "Easter Truce Between Russia And Ukraine Falters",
+      "summary": "Hours before the truce was due to start, Russia launched at least 160 drones at Ukraine.",
+      "url": "https://www.ndtv.com/world-news/easter-truce-between-russia-and-ukraine-falters-11344913#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-04-12T05:51:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia launched at least 160 drones at Ukraine."
+    },
+    {
+      "id": "7ec7968d9e0628bdad504e7e29963adc1163625f",
+      "title": "How Hungary's knife-edge election could impact the US and Russia",
+      "summary": "The BBC's Europe Editor Katya Adler reports from Prime Minister Victor Orbán's home town of Felscút.",
+      "url": "https://www.bbc.com/news/videos/cpqxy0d1g2yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-12T02:52:03+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "How Hungary's knife-edge election could impact the US and Russia"
+    },
+    {
+      "id": "6d1aaf8603f688abd2bdd1c807db5c4caf6d98c2",
+      "title": "Explosives found near pipeline in Serbia probably ‘Russian provocation’, says expert",
+      "summary": "Former Ukrainian major general says 4kg of material was most likely an attempt to influence Hungary’s electionHungary elections explainerThe amount of explosives discovered in Serbia last week would not have been enough…",
+      "url": "https://www.theguardian.com/world/2026/apr/11/explosives-serbia-pipeline-likely-russian-provocation-says-military-expert-hungary-ukraine",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-11T09:36:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "probably ‘Russian provocation’... Russian intelligence plot"
+    },
+    {
+      "id": "3c910930390103e89694355f40abba87b3f1147c",
+      "title": "2 killed in Russian drone strikes at Ukraine's Odesa ahead of proposed Easter ceasefire",
+      "summary": "Russian drone attacks struck Odesa, Ukraine, causing casualties and damage. This occurred just before a proposed Easter ceasefire. Both Russia and Ukraine reported numerous drone interceptions. President Putin announced…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/2-killed-in-russian-drone-strikes-at-ukraines-odesa-ahead-of-proposed-easter-ceasefire/articleshow/130186961.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-04-11T07:41:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russian drone strikes at Ukraine's Odesa causing casualties and damage."
+    },
+    {
+      "id": "b8a30eb10791374ed18a94aa93de6274d3605153",
+      "title": "Fallout of War Piles Economic Pain Onto Europe’s Political Stress",
+      "summary": "Europe is finding itself on the outs with Russia, China and the U.S., in what’s amounting to its very own “Mean Girls” moment.",
+      "url": "https://www.nytimes.com/2026/04/11/business/europe-economy-trump-trade-iran.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-11T04:00:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Europe is finding itself on the outs with Russia"
+    },
     {
       "id": "cf1874ca020541d7b9d2e0e72dd1988d00947413",
       "title": "Baltic states insist they are not letting Ukraine use their airspace",
@@ -21,6 +98,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "launch attacks on aggressor state Russia"
+    },
+    {
+      "id": "3814858bb1eb1009d6de6b76f0e5ec93937dd21e",
+      "title": "Siberian LNG hub depends almost entirely on sales to Europe",
+      "summary": "In the first three months of the year, all but two cargoes of Russian liquefied natural gas headed to ports in the EU",
+      "url": "https://www.euractiv.com/news/siberian-lng-hub-depends-almost-entirely-on-sales-to-europe/",
+      "source": "Euractiv",
+      "published_at": "2026-04-10T11:06:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russian liquefied natural gas headed to ports in the EU"
     },
     {
       "id": "389b577b34d30439938e48f9a50878e178fe2e38",
@@ -142,96 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Russia’s war against Ukraine"
-    },
-    {
-      "id": "f101b146c76362118fb507704ee00d41d61cd900",
-      "title": "France accuses Hungary of ‘betrayal of solidarity’ over leaked call with Russian foreign minister – Europe live",
-      "summary": "France’s foreign minister, Jean-Noël Barrot, condemns call in which Hungary’s Péter Szijjártó appeared to offer to share documents about Ukrainian EU accession But Hungary’s embattled prime minister Viktor Orbán rejected…",
-      "url": "https://www.theguardian.com/world/live/2026/apr/09/nato-rutte-trump-iran-hungary-elections-vance-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-09T09:35:40+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "France accuses Hungary of ‘betrayal of solidarity’ over leaked call"
-    },
-    {
-      "id": "1ca11fdbfd74149e863042e6fdf685b83f9fa457",
-      "title": "Thursday briefing: ​What difference will the ceasefire in the Middle East make, and will it hold?",
-      "summary": "In today’s newsletter: The truce offers a reprieve after weeks of turmoil, ​b​ut unresolved disputes and competing interpretations ​of what was agreed, threaten to pull the region back toward crisis​ at a moment’s notice…",
-      "url": "https://www.theguardian.com/world/2026/apr/09/thursday-briefing-what-difference-will-the-ceasefire-in-the-middle-east-make-and-will-it-hold",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-09T05:45:23+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Russia has been helping Iran to target US bases"
-    },
-    {
-      "id": "d9f78217a75873b40e25e118243b1543188e5697",
-      "title": "US ignoring evidence Russia is helping Iran because it trusts Putin, says Zelenskyy",
-      "summary": "Ukraine’s president tells podcast he has tried to draw White House’s attention to collaboration between Moscow and Tehran over strikes on US basesHow the Ukraine and Iran wars are starting to overlapMiddle East crisis –…",
-      "url": "https://www.theguardian.com/world/2026/apr/09/us-ignoring-evidence-russia-is-helping-iran-because-it-trusts-putin-says-zelenskyy",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-08T23:00:16+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Russia is Helping Iran because it trusts Putin, says Zelenskyy"
-    },
-    {
-      "id": "af69dbac2765ebdff958b90a79c9e78dc09f575f",
-      "title": "Moldova Dismantles Russia-Backed Network and Offers EU Support Against Election Interference - UNITED24 Media",
-      "summary": "Moldova Dismantles Russia-Backed Network and Offers EU Support Against Election Interference&nbsp;&nbsp;UNITED24 MediaMoldova to the EU: Let us in and we’ll help you fend off Russia&nbsp;&nbsp;politico.euPresident Maia S…",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbUMyeFAzT2h1Yl9fdHBiaUxJYm5EYUV6bjd0cFNqUTUwR1ZHWGFTMEkteDRKQzVPUVRUQS1hWnVMUDVWSWo2bGZFQXdjN0lpRWJRYk1URDlydENnaENuOG1wSTNUcjgtV2h4ZXRKZzJCSDdMdHFaV2cyQldJUm56VUl0OEVPa09KckcyRlFCdjhzXzZPNjRpdDJyaU9ROGpYR1dhQjZuYmt6dXZYWU1CVkpLdy15OF85TFFybUN4SVctTGxXRm1TenpJOXQ1SGhyRXc?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-08T09:38:31+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russia-Backed Network and Offers EU Support Against Election Interference"
-    },
-    {
-      "id": "027f5a7c05439acc608714bc59758e7adc4e7c65",
-      "title": "New list of companies trading with Russia and Belarus likely to be published / Article - LSM",
-      "summary": "New list of companies trading with Russia and Belarus likely to be published / Article&nbsp;&nbsp;LSMLatvia extends ban on purchasing Russian grain&nbsp;&nbsp;UkrAgroConsultLatvian companies trading with Russia, Belarus…",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZndfT3BuZTFvYVExY1FHQkNlYjBNQUhpNlhZd2RsaXdqN2ZQZlEyUi1RdExjbG05OC1xOWppb1QtQ2hZSUtsUnZaUDFKWVNGekk5U3NOYnU2TGZjaWs4X2tPS3hhLVVXNGR0cG1OaXU2ZV8wdnY0bjNkeU82LVhfRmwwTGw5MjRkOV9wZWtTaXFOVEtaaUY3aU5nMk1CWU9VemFial9LLWFrdEQxbnVWSVh5UzlBUkxwcm1IVV9ETUZZd3NST3F4S09ueWxRelhITjFVd0pDYw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-08T07:03:55+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "companies trading with Russia"
-    },
-    {
-      "id": "8ffa44afcf01880c25acffb7bb1d4e90826ed175",
-      "title": "German spy agency accuses Russia of new cyberattacks",
-      "summary": "The hackers aimed to \"obtain military information, government information, or information about critical infrastructure,\" said the BfV",
-      "url": "https://www.euractiv.com/news/german-spy-agency-accuses-russia-of-new-cyberattacks/",
-      "source": "Euractiv",
-      "published_at": "2026-04-08T06:15:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russia of new cyberattacks"
-    },
-    {
-      "id": "f4de9a47ea32cda81a2d70827057b38fdb97e93f",
-      "title": "\"We Are In World War\": Billionaire Investor Calls China, Russia 'Winners' In Iran Conflict",
-      "summary": "Dalio called America overstretched",
-      "url": "https://www.ndtv.com/world-news/iran-us-war-news-ray-dalio-we-are-in-world-war-billionaire-investor-calls-china-russia-winners-11326949#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-04-08T05:55:21+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Winners' in Iran Conflict"
-    },
-    {
-      "id": "ab10295ebf3ce32ed4695f5c18ceff3adac1a5bc",
-      "title": "Ukraine war briefing: Kyiv lays out how ‘Russian satellites help Iran in war’",
-      "summary": "Iran bombed US bases and allies’ facilities soon after Russian satellites mapped them, according to Ukrainian assessment. What we know on day 1,505Russian satellites made detailed imagery of military facilities and criti…",
-      "url": "https://www.theguardian.com/world/2026/apr/08/ukraine-war-briefing-kyiv-how-russian-satellites-help-iran-in-war",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-08T01:22:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Russian satellites help Iran in war"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-11T09:55:44Z"
+  "last_updated": "2026-04-12T10:02:41Z"
 }
