@@ -3,14 +3,25 @@
   "score": 20,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 543,
+  "trend": 0,
+  "sources": 545,
   "sentiment": {
-    "positive": 201,
-    "neutral": 138,
-    "negative": 204
+    "positive": 203,
+    "neutral": 137,
+    "negative": 205
   },
   "latest_articles": [
+    {
+      "id": "9dff6a9a78df4e51d849fcacb09c61994dfec3a4",
+      "title": "Defeat of Orban Removes Ukraine’s Biggest Nemesis in Europe",
+      "summary": "The Hungarian leader’s pro-Moscow tilt cemented his reputation in Kyiv as a spoiler. Now, Ukraine hopes a 90 billion euro loan he blocked will be disbursed.",
+      "url": "https://www.nytimes.com/2026/04/13/world/europe/hungary-orban-ukraine-zelensky.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-13T09:54:26+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Ukraine hopes a 90 billion euro loan he blocked will be disbursed"
+    },
     {
       "id": "8d0f9974f32466e88a9e327b1817125bef981425",
       "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
@@ -23,6 +34,17 @@
       "evidence": "Easter truce fails to lift grim mood in war-torn Ukraine"
     },
     {
+      "id": "d951b96e205e26a2119e573d6f9a7669ad211d6e",
+      "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+      "summary": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks.",
+      "url": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-12T09:19:47+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "respond \"symmetrically\" to Russian attacks"
+    },
+    {
       "id": "510442c1bcef4ef184f9668715a1df66837a572c",
       "title": "Easter Truce Between Russia And Ukraine Falters",
       "summary": "Hours before the truce was due to start, Russia launched at least 160 drones at Ukraine.",
@@ -32,6 +54,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Russia launched at least 160 drones at Ukraine."
+    },
+    {
+      "id": "96be8744442d85b5bea89f8bfbdbf9a7a1386d55",
+      "title": "Russian drone attacks persist despite Kremlin’s Easter ceasefire, Ukrainian forces say",
+      "summary": "Ukraine reports 469 violations of Putin’s 32-hour ceasefire, hours after deadly drone attacks on Odesa and KhersonRussia continued to strike Ukrainian positions with drones after a Kremlin-declared Easter ceasefire took…",
+      "url": "https://www.theguardian.com/world/2026/apr/11/russian-drone-attacks-persist-despite-kremlins-easter-ceasefire-ukrainian-forces-say",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-11T19:50:04+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russian drone attacks persist despite Kremlin’s Easter ceasefire"
     },
     {
       "id": "6d1aaf8603f688abd2bdd1c807db5c4caf6d98c2",
@@ -197,41 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Brussels to release €2 billion to Ukraine to support EU reforms"
-    },
-    {
-      "id": "e8a21f2642e14460ea78865f7c35d26a138b4fe9",
-      "title": "Iran cannot ‘hijack’ strait of Hormuz with shipping tolls, says Yvette Cooper – UK politics live",
-      "summary": "As Keir Starmer continues his Gulf visit, foreign secretary says laws of the sea prevent Tehran from charging for passage of ‘international transit route’In interviews this morning Yvette Cooper, the foreign secretary, d…",
-      "url": "https://www.theguardian.com/politics/live/2026/apr/09/iran-yvette-cooper-starmer-gulf-green-polanski-elections-housing-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-09T10:02:58+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Sanctioned Russian ships carry oil being sold to fund the war"
-    },
-    {
-      "id": "bcebd97803e3ad84a1fe8fb421d06318b9360b94",
-      "title": "North Korea Tests New Weapons, Drawing Lessons from Iran War",
-      "summary": "The country has been leveraging armed conflicts abroad, such as Russia’s war against Ukraine, to bolster its own military capabilities.",
-      "url": "https://www.nytimes.com/2026/04/09/world/asia/north-korea-weapons-iran.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-09T09:57:03+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Russia’s war against Ukraine"
-    },
-    {
-      "id": "f101b146c76362118fb507704ee00d41d61cd900",
-      "title": "France accuses Hungary of ‘betrayal of solidarity’ over leaked call with Russian foreign minister – Europe live",
-      "summary": "France’s foreign minister, Jean-Noël Barrot, condemns call in which Hungary’s Péter Szijjártó appeared to offer to share documents about Ukrainian EU accession But Hungary’s embattled prime minister Viktor Orbán rejected…",
-      "url": "https://www.theguardian.com/world/live/2026/apr/09/nato-rutte-trump-iran-hungary-elections-vance-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-09T09:35:40+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "France accuses Hungary of ‘betrayal of solidarity’ over leaked call"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-12T10:02:41Z"
+  "last_updated": "2026-04-13T11:04:08Z"
 }
