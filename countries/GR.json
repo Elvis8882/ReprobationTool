@@ -1,16 +1,37 @@
 {
   "country": "GR",
-  "score": 91,
+  "score": 90,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 258,
+  "trend": -1,
+  "sources": 260,
   "sentiment": {
     "positive": 19,
-    "neutral": 217,
-    "negative": 22
+    "neutral": 218,
+    "negative": 23
   },
   "latest_articles": [
+    {
+      "id": "921213e9e0f6345a883ef0a56014644719a2804e",
+      "title": "Greek police using masked migrants to forcibly push other migrants back across border",
+      "summary": "Mercenaries recruited since at least 2020 for illegal migrant ‘pushbacks’ in Greece, BBC told",
+      "url": "https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-14T05:02:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Greek police using masked migrants to forcibly push other migrants back"
+    },
+    {
+      "id": "a6fea3ddb6192ef1c73bd80da0a69ed67f831ddb",
+      "title": "‘We Finally Have Democracy’: Hungarians Erupt in Joy and Relief",
+      "summary": "Many Hungarians, exhausted by a struggling economy and worried about a move away from the European Union, were jubilant after Prime Minister Viktor Orban conceded. Some had wondered if he would.",
+      "url": "https://www.nytimes.com/2026/04/13/world/europe/hungary-voters-reaction-election-orban-magyar.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-13T19:14:23+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "ed8f5b789bd8dda831ee972ef2dc3dd85f903ba6",
       "title": "“It’s Rare for Me” Art Exhibit at the European Parliament [Advocacy Lab]",
@@ -193,29 +214,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Greece steps up clinical trial reforms"
-    },
-    {
-      "id": "166736a798466efe03164b68293809762b667c75",
-      "title": "Sánchez to Trump: Spain won’t ‘applaud those who set the world on fire just because they then show up with a bucket’",
-      "summary": "Spanish Prime Minister Pedro Sánchez has emerged as one of the European Union's leading critics of U.S. and Israeli strikes against Iran.",
-      "url": "https://www.cnbc.com/2026/04/08/spain-pm-sanchez-trump-iran-war-ceasefire-middle-east-crisis.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-04-08T17:10:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "abccf90e737d2bbb727663275e32f2b0812848e7",
-      "title": "Greece announces social media ban for under-15s, citing anxiety and sleep problems",
-      "summary": "PM says ban will come into force in January if it is backed by parliament and calls for united action across EUGreece has announced a social media ban for under-15s from 1 January, with the country’s prime minister, Kyri…",
-      "url": "https://www.theguardian.com/world/2026/apr/08/greece-proposes-social-media-ban-under-15s-anxiety-sleep-problems",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-08T15:52:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Greece announces social media ban for under-15s"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-13T11:04:08Z"
+  "last_updated": "2026-04-14T10:30:20Z"
 }

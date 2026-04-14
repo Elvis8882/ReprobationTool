@@ -1,16 +1,27 @@
 {
   "country": "SY",
-  "score": 85,
+  "score": 84,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 47,
+  "trend": -1,
+  "sources": 48,
   "sentiment": {
     "positive": 3,
     "neutral": 22,
-    "negative": 22
+    "negative": 23
   },
   "latest_articles": [
+    {
+      "id": "9157cc47dd061f4a70cf934207ab5df315b1be3c",
+      "title": "French cement maker convicted of financing terror groups to keep its Syria plant working",
+      "summary": "Lafarge fined more than €1m and its former boss jailed for paying nearly €5.6m to groups including Islamic State A French court has fined the cement group Lafarge more than €1m (£870,000) and sentenced its former boss to…",
+      "url": "https://www.theguardian.com/world/2026/apr/13/french-cement-maker-lafarge-convicted-financing-terror-groups-syria",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-13T15:20:08+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "paying protection money to Islamic State and other terror groups"
+    },
     {
       "id": "558bab00e4631204d270f73b2afee579b5ddaa33",
       "title": "In Syria, Kidnappings of Women and Girls Fuel a Minority Group’s Fears",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "convoy of Australian families linked to Islamic State fighters"
-    },
-    {
-      "id": "3844144be7937b15700aa5bfb7292ee8d34ef7e9",
-      "title": "EU to overhaul its Syrian sanctions regime",
-      "summary": "The move aims to target \"spoilers\" of the country’s fragile transition after Bashar al-Assad’s fall last year",
-      "url": "https://www.euractiv.com/news/eu-to-overhaul-its-syrian-sanctions-regime/",
-      "source": "Euractiv",
-      "published_at": "2026-02-23T15:26:25+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "EU to overhaul its Syrian sanctions regime"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-13T11:04:08Z"
+  "last_updated": "2026-04-14T10:30:20Z"
 }
