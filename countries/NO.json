@@ -1,16 +1,27 @@
 {
   "country": "NO",
-  "score": 68,
+  "score": 69,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 62,
+  "trend": 1,
+  "sources": 63,
   "sentiment": {
-    "positive": 7,
+    "positive": 8,
     "neutral": 45,
     "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "a1f33730182966c6bd843593c42fcd2ef2c9cbaa",
+      "title": "Europe Is Desperate for More Energy. Can Norway Come to the Rescue?",
+      "summary": "The war in Iran has once again exposed Europe’s energy vulnerability. A friendly source at home would seem to be ideal. But it’s not that easy.",
+      "url": "https://www.nytimes.com/2026/04/14/world/europe/norway-oil-europe-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-14T09:00:55+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Can Norway Come to the Rescue?"
+    },
     {
       "id": "236d68bc6b842ea577898f0ecab90e3ecc31039e",
       "title": "France joins Germany, Italy, Norway, Poland, Portugal, Denmark, and more EU countries in ushering in the era of seamless travel with the fully operational EES system, preparing for the highly anticipated ETIAS visa authorization to redefine travel security by 2 - Travel And Tour World",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Explosion Hits US Embassy In Oslo"
-    },
-    {
-      "id": "c28239a72de4d970692f7e7fcdbcdd5d1223c25c",
-      "title": "The world's biggest sovereign wealth fund is using Anthropic's Claude AI model to screen investments for ethical issues",
-      "summary": "Norway’s $2 trillion wealth fund is reviewing its ethical framework after decisions on U.S. and Israeli companies drew ire from the Trump administration.",
-      "url": "https://www.cnbc.com/2026/02/26/norway-sovereign-wealth-fund-nbim-investment-ai-esg-claude.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-02-26T14:50:34+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Norway’s $2 trillion wealth fund is reviewing its ethical framework"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-14T10:30:20Z"
+  "last_updated": "2026-04-15T10:31:49Z"
 }

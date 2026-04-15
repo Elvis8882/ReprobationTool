@@ -1,16 +1,71 @@
 {
   "country": "UA",
-  "score": 20,
+  "score": 21,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 553,
+  "trend": 1,
+  "sources": 562,
   "sentiment": {
-    "positive": 208,
-    "neutral": 138,
-    "negative": 207
+    "positive": 213,
+    "neutral": 140,
+    "negative": 209
   },
   "latest_articles": [
+    {
+      "id": "bedd3792aa8f0cebc11f0716322fa024e0ee0653",
+      "title": "Labour claims Reform UK won’t protect women, as poll suggests Farage’s party heading for ‘seismic’ wins in May – UK politics live",
+      "summary": "Poll projects major political earthquake across Britain with Labour losing Wales and England’s Red WallIn the light of what George Robertson, who led the strategic defence review for Labour, said about defence spending i…",
+      "url": "https://www.theguardian.com/politics/live/2026/apr/15/labour-reform-uk-women-nigel-farage-local-elections-keir-starmer-kemi-badenoch-pmqs-iran-war-uk-politics-latest",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-15T09:34:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "increasing likelihood that British forces will be deployed to Ukraine"
+    },
+    {
+      "id": "448ff3a951150349bea08b063023f6beecd56a36",
+      "title": "Brussels urges G7 to frontload €45 billion Ukraine loan",
+      "summary": "Valdis Dombrovskis, EU Economy Commissioner, is calling on Japan, the UK, and the US to accelerate payouts",
+      "url": "https://www.euractiv.com/news/brussels-urges-g7-to-frontload-e45-billion-ukraine-loan/",
+      "source": "Euractiv",
+      "published_at": "2026-04-15T04:00:29+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Brussels urges G7 to frontload €45 billion Ukraine loan"
+    },
+    {
+      "id": "bbe685ddcaac76a3fe1953167adf41805c1475b5",
+      "title": "Russian Oil Revenues Nearly Doubled in March",
+      "summary": "The surge in revenue provided a critical lifeline for Moscow, which has struggled to fund the war in Ukraine amid record-high deficits.",
+      "url": "https://www.nytimes.com/2026/04/14/world/europe/russian-oil-revenues-doubled.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-14T19:02:52+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "fund the war in Ukraine amid record-high deficits"
+    },
+    {
+      "id": "5ce1cc8fbfe02a019b3243fb71191d7b722d113f",
+      "title": "Germany and Ukraine strike defence deal on missiles, drones and battlefield data sharing",
+      "summary": "\"Our experience can be incorporated into the European security system,\" Zelenskyy said",
+      "url": "https://www.euractiv.com/news/germany-and-ukraine-strike-defence-deal-on-missiles-drones-and-battlefield-data-sharing/",
+      "source": "Euractiv",
+      "published_at": "2026-04-14T14:07:21+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Germany and Ukraine strike defence deal on missiles, drones"
+    },
+    {
+      "id": "f100ca68dd30c555482085337f4b437ca4d70880",
+      "title": "Lithuanian president, NATO chief discuss Middle East, upcoming summit - The Baltic Times",
+      "summary": "Lithuanian president, NATO chief discuss Middle East, upcoming summit&nbsp;&nbsp;The Baltic TimesDispatch from Vilnius: Warfare is evolving rapidly. Here’s how NATO can keep up.&nbsp;&nbsp;Atlantic CouncilLatvia Signals…",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRzFtTVNIbDJmeFJlV1lWVEpOSjlBWkRXSHhNNzdDU25OR1RGV1p4Z2lLTlBIcFo4bFZqbFVReEJOOGlxNU16a3ZCcFk2eFBHSHF5b3VGRzJkX3FOZHpZVEJFVEk1enZScWRuQldKQ3BnZGRzelZhRFRQSkxOYWl2QUY1OGYwX1kyRXZzMEVPbzE2MlRMWGR4enV3dENJX1E?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-14T10:10:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Warfare is evolving rapidly. Here’s how NATO can keep up."
+    },
     {
       "id": "8f7c129d4aef9451e86bda0102d945c8140476b6",
       "title": "Ukrainian robots capture enemy position without troops in historic first, Zelenskyy says",
@@ -21,6 +76,50 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Ukrainian robots capture enemy position without troops"
+    },
+    {
+      "id": "a7661cde527904d909b0783e34576ff67757101b",
+      "title": "Adopted by Denmark, a Bombed-Out Ukrainian City Is Given New Life",
+      "summary": "The Danish government has contributed more than $250 million to Mykolaiv, as the Trump administration pushes a more business-focused plan.",
+      "url": "https://www.nytimes.com/2026/04/14/world/europe/mykolaiv-ukraine-denmark-rebuilding.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-14T09:02:10+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Bombed-Out Ukrainian City Is Given New Life"
+    },
+    {
+      "id": "177475e7be8f209b5b7f32f5b1ebe99d27d88927",
+      "title": "Not Soldiers, Ukraine Sends Robots To Frontline, Takes Over Russian Post",
+      "summary": "In a first, Ukraine took over a Russian post \"exclusively by\" unmanned platforms.",
+      "url": "https://www.ndtv.com/world-news/not-soldiers-ukraines-unmanned-armed-robots-take-over-russian-post-volodymyr-zelensky-russia-ukraine-war-11354715#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-04-14T06:43:41+00:00",
+      "sentiment": "positive",
+      "confidence": 0.5,
+      "evidence": "Ukraine Sends Robots To Frontline, Takes Over Russian Post"
+    },
+    {
+      "id": "0b5b3fd392e254357cb31326ca7f74c5df8bf40a",
+      "title": "Latvian family goes on charity bike ride in Ukraine / Article - LSM",
+      "summary": "Latvian family goes on charity bike ride in Ukraine / Article&nbsp;&nbsp;LSM",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa1FwUm5adnVQXzVBOVphVWd3X3Z1ZU5jazZPWFlaMk5BeU5tWHd0dVpPNWdkMkFXLVRBVUNyRWRTdFJIOUIzMGowLWE1bDZ1TE9OQ2QtRWgwbklMcFFCckJFWEhWWXlPUmZkaFI5emhPdlJJNkdwVzU2RDZOR0E2Z3RUSjYyZHhVTS1OUUcxNWpXTklPY1pHRVdvazVKRFgwbDdxb0VfdUFwV2xkb2VaeFZQYUo?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-14T06:14:04+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Latvian family goes on charity bike ride in Ukraine"
+    },
+    {
+      "id": "4e8aef4181ba0303209bdda574c3d8f037374ecc",
+      "title": "Russian FM visits China to discuss Middle East war",
+      "summary": "The Russian foreign ministry said discussions include the war in Ukraine and the situation in the Middle East",
+      "url": "https://www.euractiv.com/news/russian-fm-visits-china-to-discuss-middle-east-war/",
+      "source": "Euractiv",
+      "published_at": "2026-04-14T05:44:25+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "discussions include the war in Ukraine"
     },
     {
       "id": "93ce9a89321014ab345a440bb349883ea92b00f8",
@@ -131,107 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "respond \"symmetrically\" to Russian attacks"
-    },
-    {
-      "id": "510442c1bcef4ef184f9668715a1df66837a572c",
-      "title": "Easter Truce Between Russia And Ukraine Falters",
-      "summary": "Hours before the truce was due to start, Russia launched at least 160 drones at Ukraine.",
-      "url": "https://www.ndtv.com/world-news/easter-truce-between-russia-and-ukraine-falters-11344913#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-04-12T05:51:34+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russia launched at least 160 drones at Ukraine."
-    },
-    {
-      "id": "96be8744442d85b5bea89f8bfbdbf9a7a1386d55",
-      "title": "Russian drone attacks persist despite Kremlin’s Easter ceasefire, Ukrainian forces say",
-      "summary": "Ukraine reports 469 violations of Putin’s 32-hour ceasefire, hours after deadly drone attacks on Odesa and KhersonRussia continued to strike Ukrainian positions with drones after a Kremlin-declared Easter ceasefire took…",
-      "url": "https://www.theguardian.com/world/2026/apr/11/russian-drone-attacks-persist-despite-kremlins-easter-ceasefire-ukrainian-forces-say",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-11T19:50:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russian drone attacks persist despite Kremlin’s Easter ceasefire"
-    },
-    {
-      "id": "6d1aaf8603f688abd2bdd1c807db5c4caf6d98c2",
-      "title": "Explosives found near pipeline in Serbia probably ‘Russian provocation’, says expert",
-      "summary": "Former Ukrainian major general says 4kg of material was most likely an attempt to influence Hungary’s electionHungary elections explainerThe amount of explosives discovered in Serbia last week would not have been enough…",
-      "url": "https://www.theguardian.com/world/2026/apr/11/explosives-serbia-pipeline-likely-russian-provocation-says-military-expert-hungary-ukraine",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-11T09:36:01+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Former Ukrainian major general says... probably ‘Russian provocation’"
-    },
-    {
-      "id": "3c910930390103e89694355f40abba87b3f1147c",
-      "title": "2 killed in Russian drone strikes at Ukraine's Odesa ahead of proposed Easter ceasefire",
-      "summary": "Russian drone attacks struck Odesa, Ukraine, causing casualties and damage. This occurred just before a proposed Easter ceasefire. Both Russia and Ukraine reported numerous drone interceptions. President Putin announced…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/2-killed-in-russian-drone-strikes-at-ukraines-odesa-ahead-of-proposed-easter-ceasefire/articleshow/130186961.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-04-11T07:41:57+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine stated readiness for a genuine ceasefire."
-    },
-    {
-      "id": "cf1874ca020541d7b9d2e0e72dd1988d00947413",
-      "title": "Baltic states insist they are not letting Ukraine use their airspace",
-      "summary": "The Baltic states of Latvia, Estonia and Lithuania reiterated on Friday that they have not given Ukraine permission to use Baltic airspace to launch attacks on aggressor state Russia.",
-      "url": "https://eng.lsm.lv/article/politics/diplomacy/10.04.2026-baltic-states-insist-they-are-not-letting-ukraine-use-their-airspace.a642492/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-04-10T19:06:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "not letting Ukraine use their airspace"
-    },
-    {
-      "id": "d66e66b233353a33e7225deb490d7d681b0c7109",
-      "title": "Defense's Silicon Valley pivot: Ukraine, Iran wars challenge the legacy playbook",
-      "summary": "Companies are betting on a new type of warfare, based on shorter lead times that allow for rapid deployments and more cost-effective solutions.",
-      "url": "https://www.cnbc.com/2026/04/10/defense-tech-ai-startup-silicon-valley-ukraine-iran-war-stocks.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-04-10T13:51:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Ukraine, Iran wars challenge the legacy playbook"
-    },
-    {
-      "id": "7b523ede8c26cc986a5aa4898c74dfcf8799b8e5",
-      "title": "Ukraine opens defence expertise export in Middle East security deals",
-      "summary": "“Ukrainian companies will work with the armed forces of these countries to protect specific facilities,” Zelenskyy said",
-      "url": "https://www.euractiv.com/news/ukraine-opens-defence-expertise-export-in-middle-east-security-deals/",
-      "source": "Euractiv",
-      "published_at": "2026-04-10T12:44:57+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine opens defence expertise export in Middle East security deals"
-    },
-    {
-      "id": "7a6224a0f6dbcd587ce5f3c65c4b446251ea63b7",
-      "title": "Hungary election campaigns enter final stretch as Orbán fights to remain in power – Europe live",
-      "summary": "Opposition candidate Péter Magyar warns supporters against complacency as some voters undecided ahead of Sundaymoving on Intercity 564 Tokaj trainOne of the striking features of this campaign is how much Ukraine’s Volody…",
-      "url": "https://www.theguardian.com/world/live/2026/apr/10/hungary-election-orban-europe-budapest-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-10T09:48:17+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Ukraine’s Volodymyr Zelenskyy features on Fidesz’s attack posters"
-    },
-    {
-      "id": "389b577b34d30439938e48f9a50878e178fe2e38",
-      "title": "\"Grave Concern\": Supreme Court On Indians Forced Into Russia-Ukraine War",
-      "summary": "Families said their members were stationed in or near active conflict zones (File photo)",
-      "url": "https://www.ndtv.com/india-news/supreme-court-on-indians-forced-into-russia-ukraine-war-grave-concern-11338324#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-04-10T09:36:16+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Indians Forced Into Russia-Ukraine War"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-14T10:30:20Z"
+  "last_updated": "2026-04-15T10:31:49Z"
 }
