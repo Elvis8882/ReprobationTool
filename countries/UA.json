@@ -1,16 +1,104 @@
 {
   "country": "UA",
-  "score": 21,
+  "score": 19,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 562,
+  "trend": -2,
+  "sources": 571,
   "sentiment": {
-    "positive": 213,
-    "neutral": 140,
-    "negative": 209
+    "positive": 217,
+    "neutral": 142,
+    "negative": 212
   },
   "latest_articles": [
+    {
+      "id": "47345bdece208a3a7048613fdf8ba0e064da871c",
+      "title": "Got $100 Million? Ukraine Has Just the Fertilizer Plant for You.",
+      "summary": "An effort to privatize the facility is a key test of whether Kyiv can overcome concerns about Russian attacks and corruption to attract foreign investment.",
+      "url": "https://www.nytimes.com/2026/04/16/world/europe/ukraine-odesa-fertilizer-plant-privatization.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-16T09:03:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ukraine Has Just the Fertilizer Plant for You."
+    },
+    {
+      "id": "7826a110bff7edf94ac5fe9bb669ad33571984ac",
+      "title": "Russian Strikes Kill at Least 15 in Ukraine in Biggest Attack in Months",
+      "summary": "Moscow is again ramping up missile and drone attacks on civilian targets, dispelling any notion that a temporary cease-fire for Orthodox Easter might become more lasting.",
+      "url": "https://www.nytimes.com/2026/04/16/world/europe/russia-ukraine-missile-drone-attacks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-16T08:55:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russian Strikes Kill at Least 15 in Ukraine in Biggest Attack in Months"
+    },
+    {
+      "id": "6af6a8ee286a09088e6c24907a86bfea1d980679",
+      "title": "Shattered windows, cars on fire: 14 dead as Russia rains 31 missiles, 636 drones on Ukraine",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/europe/shattered-windows-buildings-cars-on-fire-russia-rains-31-missiles-636-drones-on-ukraine-killing-14/articleshow/130298467.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-04-16T05:33:35+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "14 dead as Russia rains 31 missiles, 636 drones on Ukraine"
+    },
+    {
+      "id": "984bc6e3f0e4b3a228095ee33a1f5851dc37bb11",
+      "title": "Russia pummels Ukraine with drone and missile strikes, killing at least 12",
+      "summary": "Missile and drone attacks on the port city of Odesa killed six people, with other fatalities recorded in Kyiv and DniproRussian strikes killed at least 12 people in Ukraine, local authorities have said, after Moscow pumm…",
+      "url": "https://www.theguardian.com/world/2026/apr/16/russia-drone-missile-strikes-ukraine-kyiv-dnipro",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-16T04:48:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia pummels Ukraine with drone and missile strikes"
+    },
+    {
+      "id": "f7eaf2dbf9ca1d67688e0379c00668cb3933bb58",
+      "title": "Ukraine's Zelenskyy pursues more arms deals with allies - The Washington Post",
+      "summary": "Ukraine's Zelenskyy pursues more arms deals with allies&nbsp;&nbsp;The Washington PostUkraine Patriot Crews Break the Norm, Fight Russia With Fewer Missiles&nbsp;&nbsp;Business InsiderUkraine’s Zelenskyy pursues more arm…",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSnlxcUM1SzlaX0pWMS1uZ2I0R0Iydjl1VndvMWdaWl9CQ3o5Q2s0d2Q3ZWlFdDNNeXhIbG5sOTZxZVlVeG1FdG1IVkFfNUNBMDJiTE12Zzl6TzNKVUdnWjdpSUlKcmRBejB5UTJldmpoNHRWbjhRWUlMWlBUZFM0ZkxVcl9UT3kyVWdRSTJQMmVkU1g3end6VzhvVTZ4LTdsNTVaNUR5NnpuNHpDYlotUlprV0I0SmVub3g2cFRqbk9PYjJFWU01X3lwbDJ6SlNoMjhzTE5B?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-15T21:02:25+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine's Zelenskyy pursues more arms deals with allies"
+    },
+    {
+      "id": "b9e80d0d1d3151514e9d4837d59469fed352654e",
+      "title": "‘We Cannot Lose Sight of Ukraine.’ Europeans Promise More Aid to Kyiv.",
+      "summary": "The focus in recent weeks has been on the conflict in Iran, but European leaders said it was crucial to keep aid flowing to Ukraine.",
+      "url": "https://www.nytimes.com/2026/04/15/world/europe/europe-ukraine-aid-iran.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-15T18:15:29+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Europeans Promise More Aid to Kyiv."
+    },
+    {
+      "id": "83df722fce8365d75ccd556da08012f4e1c4f5f5",
+      "title": "Italy and Ukraine eye joint drone production in defence cooperation push",
+      "summary": "Rome is “strongly interested” in developing joint production projects, Meloni said",
+      "url": "https://www.euractiv.com/news/italy-and-ukraine-eye-joint-drone-production-in-defence-cooperation-push/",
+      "source": "Euractiv",
+      "published_at": "2026-04-15T16:10:54+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Italy and Ukraine eye joint drone production in defence cooperation push"
+    },
+    {
+      "id": "342fdca0563784eeb3dd2dcd28a570c1ae44678a",
+      "title": "Sanctions Severely Impact Russia’s Economy and Trade Flows - Odessa Journal",
+      "summary": "Sanctions Severely Impact Russia’s Economy and Trade Flows&nbsp;&nbsp;Odessa JournalRussian officials acknowledge heavy losses from Western sanctions but Putin not informed – Latvian intelligen&nbsp;&nbsp;Українська прав…",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSVFpZEF5Zk9EM2xza1JLR2h0N1RzSnB4eGYxZlQ1SGd2aGxqLTRqcEJvSThHLURiQzNjbHBvZzZfcFJwWlB4R0t1TVRHQlZiMmcwcTlvakVuaUpQMHdTOG9wbElzdzZ0Ymx0d3NrTzN0d010eGlCZHo1c1ZXRjdBNms1UE1OVEh5Mktud09YdV85SlBZUlFva3I0QlNaTHR6VF9ldUluMmZYcEpZak1aV1V5ZEl6N1ptTVpFaUlCWlN5VC11bHZ6ajZB?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-15T09:41:24+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "The New Voice of Ukraine"
+    },
     {
       "id": "bedd3792aa8f0cebc11f0716322fa024e0ee0653",
       "title": "Labour claims Reform UK won’t protect women, as poll suggests Farage’s party heading for ‘seismic’ wins in May – UK politics live",
@@ -21,6 +109,17 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "increasing likelihood that British forces will be deployed to Ukraine"
+    },
+    {
+      "id": "c40c09f67c43aef11f7333d1e40485d321e8bd67",
+      "title": "Dodging Bombs and Drones, This Postman Still Delivers",
+      "summary": "Oleksiy Klochkovsky has driven mail and parcels around the front line in Ukraine for four years. He keeps one ear tuned for danger from above.",
+      "url": "https://www.nytimes.com/2026/04/15/world/europe/ukraine-russia-war-kharkiv-nova-poshta.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-15T09:02:04+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Dodging Bombs and Drones, This Postman Still Delivers"
     },
     {
       "id": "448ff3a951150349bea08b063023f6beecd56a36",
@@ -131,107 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Ukraine loan, Meloni vs Salis, EPPO baby, budgetary ‘excellence’"
-    },
-    {
-      "id": "6381fcc0ae44c1ef972681f7c2770d344cc461e1",
-      "title": "Ukraine war briefing: Hungary’s new leader says he would ask Putin to end the killing in Ukraine",
-      "summary": "Péter Magyar would ‘talk to Russian president, but won’t initiate contact’; Ukraine welcomes defeat of Orbán. What we know on day 1,511Péter Magyar, Hungary’s new leader, said he would ask Vladimir Putin to end the killi…",
-      "url": "https://www.theguardian.com/world/2026/apr/14/ukraine-war-briefing-peter-magyar-hungary-putin",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-14T01:10:02+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Ukraine welcomed defeat of Orbán"
-    },
-    {
-      "id": "2b4f1afcc633f9f289ba7a8506eb91a085008c16",
-      "title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
-      "summary": "Russia has offered \"pragmatic\" relations, but Péter Magyar says he will not call Vladimir Putin himself.",
-      "url": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-13T21:28:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "tell him to stop Ukraine war"
-    },
-    {
-      "id": "3df006c5bfbb8868b3919301b9140b8cc432e828",
-      "title": "New drones are giving Ukraine a battlefield advantage and ravaging Russia’s oil industry - Fortune",
-      "summary": "New drones are giving Ukraine a battlefield advantage and ravaging Russia’s oil industry&nbsp;&nbsp;FortuneRussian Offensive Campaign Assessment, April 9, 2026&nbsp;&nbsp;Institute for the Study of WarUkraine’s Drones Co…",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV3I4WE55R3Z2ZXhRdkdscGU1c090dF9ZblFUb0RsbjIzQVVWbDU4MjYweUVCcElsTXNIRmc3dVV0OFZ2ZUJuZ3RubFJMcG5hVmM0elNsYWJTRjRCckhkZmh0bHBCcUlCb29rXzR4NjdiV085N1dXUEltMEhFVFpZSnFVQWRfOW5xSjkyMnF0bEtpd2hidFhkbnctTzBVWWZXVW52d01R?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-13T20:53:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "giving Ukraine a battlefield advantage"
-    },
-    {
-      "id": "4ddef0acde020a2b54a433989723d3572074fd2d",
-      "title": "Why Orbán’s defeat won’t (yet) unblock EU’s €90 billion Ukraine loan",
-      "summary": "Hungarian politics, a possible Slovak veto and EU bureaucracy mean unlocking cash could take weeks",
-      "url": "https://www.euractiv.com/news/why-orbans-defeat-wont-yet-unblock-eus-e90-billion-ukraine-loan/",
-      "source": "Euractiv",
-      "published_at": "2026-04-13T16:51:11+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "unblock EU’s €90 billion Ukraine loan"
-    },
-    {
-      "id": "d539eb17b82eb0f989ea8a580a9638bbb4254c54",
-      "title": "Magyar wants ‘strong’ NATO ally role, but Ukraine stance will be key",
-      "summary": "“Trust will need to be repaired,” Eric Maurice, an analyst at the EPC, told Euractiv",
-      "url": "https://www.euractiv.com/news/magyar-wants-strong-nato-ally-role-but-ukraine-stance-will-be-key/",
-      "source": "Euractiv",
-      "published_at": "2026-04-13T16:15:12+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Magyar wants ‘strong’ NATO ally role"
-    },
-    {
-      "id": "23530a084d57b212820e176afe3195399c09b9e5",
-      "title": "Magyar faces balancing act over EU military aid to Ukraine",
-      "summary": "Hungary signals a shift after years of Orbán-era obstruction",
-      "url": "https://www.euractiv.com/news/magyar-faces-balancing-act-over-eu-military-aid-to-ukraine/",
-      "source": "Euractiv",
-      "published_at": "2026-04-13T15:06:41+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "EU military aid to Ukraine"
-    },
-    {
-      "id": "9dff6a9a78df4e51d849fcacb09c61994dfec3a4",
-      "title": "Defeat of Orban Removes Ukraine’s Biggest Nemesis in Europe",
-      "summary": "The Hungarian leader’s pro-Moscow tilt cemented his reputation in Kyiv as a spoiler. Now, Ukraine hopes a 90 billion euro loan he blocked will be disbursed.",
-      "url": "https://www.nytimes.com/2026/04/13/world/europe/hungary-orban-ukraine-zelensky.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-13T09:54:26+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Ukraine hopes a 90 billion euro loan he blocked will be disbursed"
-    },
-    {
-      "id": "8d0f9974f32466e88a9e327b1817125bef981425",
-      "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
-      "summary": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
-      "url": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-12T09:38:31+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Easter truce fails to lift grim mood in war-torn Ukraine"
-    },
-    {
-      "id": "d951b96e205e26a2119e573d6f9a7669ad211d6e",
-      "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
-      "summary": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks.",
-      "url": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-12T09:19:47+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "respond \"symmetrically\" to Russian attacks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-15T10:31:49Z"
+  "last_updated": "2026-04-16T10:28:37Z"
 }

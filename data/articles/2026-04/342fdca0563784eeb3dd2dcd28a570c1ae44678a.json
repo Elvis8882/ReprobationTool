@@ -17,8 +17,25 @@
     "RU",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-04-15T10:31:49+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-04-16T10:28:37+00:00",
+  "sentiment_by_country": {
+    "LV": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Latvian intelligen"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Sanctions Severely Impact Russia’s Economy"
+    },
+    "UA": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "The New Voice of Ukraine"
+    }
+  },
+  "processed_at": "2026-04-16T10:28:37+00:00"
 }

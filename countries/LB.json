@@ -4,13 +4,90 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 255,
+  "sources": 263,
   "sentiment": {
-    "positive": 4,
-    "neutral": 70,
-    "negative": 182
+    "positive": 5,
+    "neutral": 76,
+    "negative": 183
   },
   "latest_articles": [
+    {
+      "id": "53783bcdbfa800f1bde740023864f798f370e650",
+      "title": "Trump Says Leaders From Israel and Lebanon Will Speak Thursday",
+      "summary": "Neither side confirmed a meeting. Israeli and Lebanese officials have said a cease-fire in the war against Hezbollah is under consideration.",
+      "url": "https://www.nytimes.com/2026/04/16/world/middleeast/israel-lebanon-talks-trump.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-16T10:09:13+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "cease-fire in the war against Hezbollah is under consideration"
+    },
+    {
+      "id": "84b6a24f9efab7b12f7cdfb1a9a71ceb57c7cde2",
+      "title": "Middle East crisis live: Netanyahu ‘to speak to Lebanese leader today’ but Beirut reportedly unaware of plans",
+      "summary": "Israeli minister says pair to speak after ‘many years of total disconnect’ but reports say that Lebanese were not aware of plans first outlined by TrumpUS and Iran in indirect talks to extend two-week ceasefireIran has s…",
+      "url": "https://www.theguardian.com/world/live/2026/apr/16/middle-east-crisis-live-iran-war-news-us-trump-ceasefire-deal-lebanon-israel-oil-sanctions-latest-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-16T09:51:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Beirut reportedly unaware of plans"
+    },
+    {
+      "id": "c8da1cb8e8d08639e98d3cec625c0d24b1f5a1af",
+      "title": "Trump says Israeli, Lebanese leaders will meet amid push to extend ceasefire",
+      "summary": "The president did not specify which leaders. Meanwhile, Pakistani officials were working to extend the U.S.-Iran ceasefire and arrange new negotiations.",
+      "url": "https://www.washingtonpost.com/world/2026/04/16/trump-iran-israel-lebanon-ceasefire-talks/",
+      "source": "World (Washington post)",
+      "published_at": "2026-04-16T09:34:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Lebanese leaders will meet"
+    },
+    {
+      "id": "9ec8b2621e3b6873da4ee5e89d5d0d4c732fc5fb",
+      "title": "Trump says Israel and Lebanon leaders to hold talks after first high-level meeting in decades",
+      "summary": "The U.S. president said he was \"trying to get a little breathing room between Israel and Lebanon.\"",
+      "url": "https://www.cnbc.com/2026/04/16/trump-israel-lebanon-talks-hezbollah-ceasefire-conflict.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-04-16T06:45:29+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Trump says Israel and Lebanon leaders to hold talks"
+    },
+    {
+      "id": "2e605c7d7eb7770b5765f1f12807d05d804fce4c",
+      "title": "CNBC Daily Open: Trading the truce and the Lebanon dilemma",
+      "summary": "The S&amp;P, Nasdaq and Nikkei all top new record highs on optimism of an extended truce between the U.S. and Israel, as well as talks with Lebanon.",
+      "url": "https://www.cnbc.com/2026/04/16/cnbc-daily-open-trading-the-truce-and-the-lebanon-dilemma-.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-04-16T05:57:31+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "as well as talks with Lebanon."
+    },
+    {
+      "id": "9f69b5d755d558b73eb34e38650bd058d4bb13e7",
+      "title": "Israel Considering Cease-Fire With Lebanon, Officials Say",
+      "summary": "Talk of a truce that would pause the war between Israel and Iran-backed Hezbollah in Lebanon followed rare direct talks between Israel and Lebanon in Washington on Tuesday.",
+      "url": "https://www.nytimes.com/2026/04/15/world/middleeast/israel-lebanon-ceasefire-preparations-hezbollah.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-15T19:16:01+00:00",
+      "sentiment": "positive",
+      "confidence": 0.5,
+      "evidence": "Israel Considering Cease-Fire With Lebanon"
+    },
+    {
+      "id": "8c208d350cebf8c881ed72c6cf93364f5b098090",
+      "title": "Israeli triple-tap strike kills three paramedics in Lebanon, officials say",
+      "summary": "Lebanon's government condemns as a \"flagrant crime\" the killing of the paramedics, one of whom featured in a BBC report.",
+      "url": "https://www.bbc.com/news/articles/cgqkkxd09e2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-15T18:48:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Lebanon's government condemns as a \"flagrant crime\""
+    },
     {
       "id": "2f726ef028b388d9c9e521e82e073062c3651d35",
       "title": "The Complex Role Of Hezbollah As Lebanon-Israel Diplomacy Intensifies",
@@ -100,6 +177,17 @@
       "evidence": "Israeli ground forces have invaded south Lebanon"
     },
     {
+      "id": "5e6fb3dd1f477b7ebd1cceaad3712f08aa363307",
+      "title": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
+      "summary": "The Lebanese government go into peace talks with limited influence over the group.",
+      "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-13T23:26:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Lebanon seeks peace, but Hezbollah needs to be convinced first"
+    },
+    {
       "id": "4a1c35cfa5729179aac96fb79fd8d19b2ce97d67",
       "title": "'They are striking everywhere' - Paramedics in Lebanon speak to BBC after Israeli strikes",
       "summary": "BBC Middle East correspondent Hugo Bachega joins paramedics on duty in Nabatieh - a city that was once vibrant, but is now abandoned.",
@@ -142,96 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "stop Lebanon attacks that intensified during Middle East ceasefire"
-    },
-    {
-      "id": "03f60b77c5e3b1738a0b9fef98b5d1faf37f2294",
-      "title": "Inside Tyre, a Lebanese City Bombarded by Israel",
-      "summary": "In Tyre, a city on Lebanon’s coast, near-daily bombardments by Israel have killed and injured civilians, and left many searching for shelter.",
-      "url": "https://www.nytimes.com/2026/04/12/world/middleeast/lebanon-hezbollah-israel-iran-war-tyre.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-12T09:02:10+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Lebanese City Bombarded by Israel have killed and injured civilians"
-    },
-    {
-      "id": "4472de54fd4929549b7410d4168cec3e0c62d385",
-      "title": "'To preserve security of people': Lebanon PM postpones US visit amid Israeli strikes",
-      "summary": "Lebanon's Prime Minister Nawaf Salam has postponed his US and UN visit due to \"current internal circumstances\" and security concerns. This comes amid rising tensions, with Iran warning Beirut against sidelining Hezbollah…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/to-preserve-security-unity-of-people-lebanon-pm-postpones-us-visit-amid-ongoing-israeli-strikes/articleshow/130201922.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-04-12T04:36:33+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Lebanon PM postpones US visit amid Israeli strikes"
-    },
-    {
-      "id": "762b5d5033a4de78ca4938330c72b86debec0ea8",
-      "title": "US and Iran hold talks in Islamabad as Pakistan seeks to broker peace deal",
-      "summary": "JD Vance leads American delegation while Iran’s negotiators headed up by Iran’s parliamentary speakerPeace talks between Iran and the US began in Islamabad this afternoon, with senior negotiators from both countries meet…",
-      "url": "https://www.theguardian.com/world/2026/apr/11/us-iran-talks-peace-deal-islamabad-pakistan",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-11T19:43:09+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "fighting continuing in Lebanon"
-    },
-    {
-      "id": "52965cdc8813d13df4dec8063f25e7ca07ac6d87",
-      "title": "Still in shock, Beirut tries to heal after deadly Israeli attacks",
-      "summary": "BBC Middle East Correspondent Hugo Bachega hears from people affected by this week's attacks.",
-      "url": "https://www.bbc.com/news/videos/c0rx4ve0klyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-11T10:10:05+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "deadly Israeli attacks"
-    },
-    {
-      "id": "a71b954c02b068de764b0bfb910155fce597f48d",
-      "title": "US-Iran ceasefire: JD Vance lands in Islamabad to lead talks amid fragile truce - watch",
-      "summary": "US Vice President JD Vance is in Islamabad for critical talks with Iran, aiming to solidify a fragile ceasefire and pursue peace in the Middle East. The negotiations, brokered by Pakistan, face significant hurdles, inclu…",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-iran-ceasefire-jd-vance-lands-in-islamabad-to-lead-talks-as-fragile-truce-hangs-in-balance/articleshow/130186159.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-04-11T06:48:15+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "including Iran's preconditions for a Lebanon ceasefire"
-    },
-    {
-      "id": "d1498d349aeadf56463d75aa8132937f1a53559b",
-      "title": "World Leaders Push to Save Iran Talks Amid Israel’s Attacks in Lebanon",
-      "summary": "President Trump’s cease-fire with Iran appears at risk as Vice President JD Vance heads to Pakistan for discussions with Iranian officials.",
-      "url": "https://www.nytimes.com/2026/04/10/us/politics/iran-israel-lebanon-trump-talks.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-11T05:11:37+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "discussions with Iranian officials."
-    },
-    {
-      "id": "7117490bd964aeaab459ecb4fe758d2e51e73a53",
-      "title": "In New War With Israel, Hezbollah Defies Notion That It Was Crippled",
-      "summary": "The Iran-backed Lebanese militant group surprised many with the intensity of its attacks on Israel in the current conflict.",
-      "url": "https://www.nytimes.com/2026/04/11/world/middleeast/hezbollah-israel.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-11T04:01:08+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Hezbollah Defies Notion That It Was Crippled...attacks on Israel in the current conflict."
-    },
-    {
-      "id": "1c09d629a63f93651e3fc2f581923fc1bf1f0f46",
-      "title": "Watch: Iranian delegation arrives in Islamabad for high-stakes talks with US",
-      "summary": "A high-level Iranian delegation arrived in Islamabad for crucial peace talks with the US, aiming to stabilize a fragile Middle East ceasefire. Iran has set preconditions, including asset release and a Lebanon ceasefire,…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/watch-iranian-delegation-arrives-in-islamabad-for-high-stakes-talks-with-us-amid-fragile-ceasefire/articleshow/130183017.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-04-11T02:23:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "a Lebanon ceasefire"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-15T10:31:49Z"
+  "last_updated": "2026-04-16T10:28:37Z"
 }

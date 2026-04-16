@@ -13,8 +13,15 @@
   "countries_scored": [
     "IT"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-04-15T10:31:49+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-04-16T10:28:37+00:00",
+  "sentiment_by_country": {
+    "IT": {
+      "label": "negative",
+      "confidence": 0.5,
+      "evidence": "Trump attacks Meloni, ‘she is no longer the same person’"
+    }
+  },
+  "processed_at": "2026-04-16T10:28:37+00:00"
 }

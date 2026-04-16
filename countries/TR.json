@@ -1,16 +1,38 @@
 {
   "country": "TR",
-  "score": 95,
+  "score": 94,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 65,
+  "trend": -1,
+  "sources": 67,
   "sentiment": {
     "positive": 10,
-    "neutral": 43,
-    "negative": 12
+    "neutral": 44,
+    "negative": 13
   },
   "latest_articles": [
+    {
+      "id": "5893308369c7ed6ee008c51978e487c52e9f0420",
+      "title": "At Least 4 Dead in Second School Shooting in Turkey in 2 Days",
+      "summary": "An armed eighth grader opened fire in his middle school. One of those killed was a teacher.",
+      "url": "https://www.nytimes.com/2026/04/15/world/europe/turkey-school-shooting-kahramanmaras-province.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-16T04:13:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Second School Shooting in Turkey in 2 Days"
+    },
+    {
+      "id": "7683890e7df3988cbe012df87b81baf150c5953a",
+      "title": "Sixteen injured after ex-student opens fire at high school in Turkey",
+      "summary": "Students and teachers are among those who were injured in the attack in the country's south-east.",
+      "url": "https://www.bbc.com/news/articles/c2k33xk24nyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-14T13:23:50+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.9,
+      "evidence": "Sixteen injured after ex-student opens fire at high school in Turkey"
+    },
     {
       "id": "227eb86875c66f3d0d52343ec693c4e8758efae1",
       "title": "Ex-Student Opens Fire At Turkish School Wounding 16, Then Kills Self",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Turkey to choose"
-    },
-    {
-      "id": "5cda7d7710bf830c567007bf8cc79ba8af359b22",
-      "title": "Canada in push for joint G7 and Middle East effort to de-escalate Iran war",
-      "summary": "Foreign minister Anita Anand says she has drafted principles to reduce risk of regional spillover and wider shocksMiddle East crisis – live updatesCanada is pushing for a collective G7 and Middle East approach to de-esca…",
-      "url": "https://www.theguardian.com/world/2026/mar/18/canada-in-push-for-joint-g7-and-middle-east-effort-to-de-escalating-iran-war",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-18T18:38:09+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "talks with the her Turkish counterpart"
-    },
-    {
-      "id": "1deeaaf79a1cb77abf91baafb661c6d38687a3ea",
-      "title": "Ankara says NATO deploys new Patriot battery at south Turkey air base",
-      "summary": "Last Friday, Turkey confirmed a third ballistic missile from Iran was shot down in Turkish airspace by NATO forces",
-      "url": "https://www.euractiv.com/news/ankara-says-nato-deploys-new-patriot-battery-at-south-turkey-air-base/",
-      "source": "Euractiv",
-      "published_at": "2026-03-18T11:24:36+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "NATO deploys new Patriot battery at south Turkey air base"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-15T10:31:49Z"
+  "last_updated": "2026-04-16T10:28:37Z"
 }
