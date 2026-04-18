@@ -1,16 +1,37 @@
 {
   "country": "RO",
-  "score": 99,
+  "score": 98,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 215,
+  "trend": -1,
+  "sources": 217,
   "sentiment": {
     "positive": 12,
-    "neutral": 194,
-    "negative": 9
+    "neutral": 195,
+    "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "2adbf6091d7f71fb5e3d7d5a8665bb37530380ce",
+      "title": "‘It’s a powder keg’: Romania leads EU measles cases as vaccination rates collapse",
+      "summary": "Bottlenecks in the system and parents’ suspicions mean doctors expect another serious outbreak soonBy 10am on a spring day, the corridor of the clinic in the Transylvanian town of Săcele was already crowded with parents…",
+      "url": "https://www.theguardian.com/world/2026/apr/18/romania-eu-measles-cases-vaccination-rates-collapse",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-18T05:00:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Romania leads EU measles cases as vaccination rates collapse"
+    },
+    {
+      "id": "915c50d628daaaeb031f1f48746eb4a32c1351be",
+      "title": "EU fumes as Turkey blocks Cyprus from UN climate meeting",
+      "summary": "The European Commission has called on Turkey to reverse its “unacceptable” decision not to invite the Republic of Cyprus to a preparatory meeting ahead of a United Nations climate conference. The 2026 United Nations Clim…",
+      "url": "https://www.euractiv.com/news/eu-fumes-as-turkey-blocks-cyprus-from-un-climate-meeting/",
+      "source": "Euractiv",
+      "published_at": "2026-04-17T11:05:07+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "339a169065f4adade7c5485c97bc4a5d321ccad6",
       "title": "EU’s employment rate grew above 76% in 2025 - European Commission",
@@ -193,29 +214,8 @@
       "published_at": "2026-04-13T05:47:30+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "ac1a70df1bcc4bd1bb15bdbbbb507dfa603c3cac",
-      "title": "‘Hungary has chosen Europe’: EU leaders jubilant after Péter Magyar’s victory over Orbán",
-      "summary": "Congratulations pour in from across EU, with leaders from Spain, Poland, France, Britain, Denmark, Romania, Sweden and beyond hailing a new chapterFull report: Hungarian opposition ousts Viktor Orbán after 16 years in po…",
-      "url": "https://www.theguardian.com/world/2026/apr/13/hungary-election-results-eu-europe-leaders-react-peter-magyar-viktor-orban",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-13T04:42:26+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "hailing a new chapter"
-    },
-    {
-      "id": "980d875cf7b6c38e455d020afc5a7efdb6ff6ba0",
-      "title": "European Commission makes progress on gender parity – but men still dominate top jobs",
-      "summary": "Ursula von der Leyen made gender equality a defining ambition of her mandate",
-      "url": "https://www.euractiv.com/news/european-commission-makes-progress-on-gender-parity-but-men-still-dominate-top-jobs/",
-      "source": "Euractiv",
-      "published_at": "2026-04-13T04:00:16+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-17T10:29:13Z"
+  "last_updated": "2026-04-18T10:02:20Z"
 }

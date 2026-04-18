@@ -4,13 +4,90 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 280,
+  "sources": 287,
   "sentiment": {
-    "positive": 6,
-    "neutral": 89,
-    "negative": 186
+    "positive": 9,
+    "neutral": 91,
+    "negative": 188
   },
   "latest_articles": [
+    {
+      "id": "24c9c8ef6d22f92fb83c9ddebbe9e13637145862",
+      "title": "‘Trust Trump, not panicans’: Donald pushes ‘the peace president’ image after 'reopening' Hormuz",
+      "summary": "Donald Trump declared himself \"The Peace President,\" claiming to have settled eight wars while simultaneously issuing stern warnings of military action against Iran if ongoing negotiations fail. He highlighted potential…",
+      "url": "https://timesofindia.indiatimes.com/world/us/trust-trump-not-panicans-donald-pushes-the-peace-president-image-after-reopening-hormuz/articleshow/130347262.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-04-18T05:44:40+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "reported ceasefire between Israel and Lebanon"
+    },
+    {
+      "id": "bb01a7857f8b98aac668e44d7c9821ae21f99433",
+      "title": "\"Enough Is Enough\": Trump Says US Banned Israel From Bombing Lebanon",
+      "summary": "Trump said that any US deal with Iran is not linked to the Lebanon conflict",
+      "url": "https://www.ndtv.com/world-news/israel-iran-war-enough-is-enough-trump-says-us-banned-israel-from-bombing-lebanon-11372883#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-04-18T04:45:43+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "US Banned Israel From Bombing Lebanon"
+    },
+    {
+      "id": "dcf4392b2a5e40bcab868e5759c1b488f3783b90",
+      "title": "‘I Just Want to Be Back’: Thousands Rush South in Lebanon Under Cease-Fire",
+      "summary": "Lebanese people who had been displaced by fighting expressed a mix of excitement and uncertainty about a pause in Israel’s campaign against Hezbollah.",
+      "url": "https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-traffic-south.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-17T22:39:33+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Thousands Rush South in Lebanon Under Cease-Fire"
+    },
+    {
+      "id": "82a30d6dde160c193494c04e3bbb644401983882",
+      "title": "Displaced Lebanese families rush home as fragile ceasefire takes force",
+      "summary": "Even amid uncertainty over whether the truce would hold, many in Lebanon expressed relief at the prospect of quiet as aid groups mobilized help.",
+      "url": "https://www.washingtonpost.com/world/2026/04/17/trump-israel-lebanon-hezbollah-ceasefire/",
+      "source": "World (Washington post)",
+      "published_at": "2026-04-17T22:06:09+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "fragile ceasefire takes force... relief at the prospect of quiet"
+    },
+    {
+      "id": "8c8bae6b0b1ac30f623b616759e8b1fd6cf573ff",
+      "title": "Strait of Hormuz Is Open During Cease-Fire in Lebanon, U.S. and Iran Say",
+      "summary": "Statements from President Trump and Iran aimed to raise confidence in the safety of the waterway, but shipping experts said risks remained.",
+      "url": "https://www.nytimes.com/2026/04/17/world/middleeast/strait-hormuz-open-iran-lebanon-ceasefire.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-17T21:50:49+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Cease-Fire in Lebanon"
+    },
+    {
+      "id": "d6f8be0c15cb37cc1fbc1d1e4d00d092988d1eba",
+      "title": "Why Lebanon’s Government Has Struggled to Contain Hezbollah",
+      "summary": "Lebanon’s government has been caught between Western demands to disarm the Shiite Muslim militant group and fears of inflaming sectarian tensions.",
+      "url": "https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-hezbollah-ceasefire.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-17T15:45:16+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "caught between Western demands to disarm the Shiite Muslim militant group"
+    },
+    {
+      "id": "61913fac34999bf07f0b3050c47a285e647eb46b",
+      "title": "Lebanon Cease-Fire Leaves Netanyahu in an Uncomfortable Spot",
+      "summary": "Most Israelis wanted the fight against Hezbollah to continue. But Prime Minister Benjamin Netanyahu’s critics say he is showing that he cannot, or will not, stand up to President Trump.",
+      "url": "https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-netanyahu-israel.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-17T14:56:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.4,
+      "evidence": "Netanyahu’s critics say he is showing that he cannot"
+    },
     {
       "id": "d11617fb8868aca54271305e9082bbee546d4093",
       "title": "Lebanon’s Cease-Fire Buys Time, Not a Way Out",
@@ -153,85 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "Israel and Lebanon agree to 10-day ceasefire"
-    },
-    {
-      "id": "293c06e2d78a53e3dcbdbfdcb317b601ade8e081",
-      "title": "Israel escalates attacks on medics in Lebanon with deadly ‘quadruple tap’",
-      "summary": "Lebanese health ministry says killing of 91 healthcare workers shows ‘total disregard’ for international lawMiddle East crisis – live updatesWhen they received the call to respond to an Israeli airstrike in the city of M…",
-      "url": "https://www.theguardian.com/world/2026/apr/16/israel-escalates-attacks-on-medics-in-lebanon-with-deadly-quadruple-tap",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-16T17:12:32+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "deadly ‘quadruple tap’"
-    },
-    {
-      "id": "605eed06defb8b04bf12d89f2f0ba507bdf701c7",
-      "title": "A Timeline of the Lebanon-Israel Relationship",
-      "summary": "Israeli and Lebanese officials this week met in Washington for direct talks between two nations, which have technically been at war since 1948.",
-      "url": "https://www.nytimes.com/2026/04/16/world/middleeast/lebanon-israel-tensions-relations-timeline.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-16T16:39:24+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Israeli and Lebanese officials this week met"
-    },
-    {
-      "id": "53783bcdbfa800f1bde740023864f798f370e650",
-      "title": "Trump Says Leaders From Israel and Lebanon Will Speak Thursday",
-      "summary": "Neither side confirmed a meeting. Israeli and Lebanese officials have said a cease-fire in the war against Hezbollah is under consideration.",
-      "url": "https://www.nytimes.com/2026/04/16/world/middleeast/israel-lebanon-talks-trump.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-16T10:09:13+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "cease-fire in the war against Hezbollah is under consideration"
-    },
-    {
-      "id": "84b6a24f9efab7b12f7cdfb1a9a71ceb57c7cde2",
-      "title": "Middle East crisis live: Netanyahu ‘to speak to Lebanese leader today’ but Beirut reportedly unaware of plans",
-      "summary": "Israeli minister says pair to speak after ‘many years of total disconnect’ but reports say that Lebanese were not aware of plans first outlined by TrumpUS and Iran in indirect talks to extend two-week ceasefireIran has s…",
-      "url": "https://www.theguardian.com/world/live/2026/apr/16/middle-east-crisis-live-iran-war-news-us-trump-ceasefire-deal-lebanon-israel-oil-sanctions-latest-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-16T09:51:23+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Beirut reportedly unaware of plans"
-    },
-    {
-      "id": "c8da1cb8e8d08639e98d3cec625c0d24b1f5a1af",
-      "title": "Trump says Israeli, Lebanese leaders will meet amid push to extend ceasefire",
-      "summary": "The president did not specify which leaders. Meanwhile, Pakistani officials were working to extend the U.S.-Iran ceasefire and arrange new negotiations.",
-      "url": "https://www.washingtonpost.com/world/2026/04/16/trump-iran-israel-lebanon-ceasefire-talks/",
-      "source": "World (Washington post)",
-      "published_at": "2026-04-16T09:34:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Lebanese leaders will meet"
-    },
-    {
-      "id": "57720beeb715b4f39d860737d0896f1c3ae7a7ca",
-      "title": "Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed",
-      "summary": "BBC Verify analysis found more than 1,400 buildings had been destroyed since 2 March.",
-      "url": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-16T08:28:51+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Lebanese villages destroyed"
-    },
-    {
-      "id": "9ec8b2621e3b6873da4ee5e89d5d0d4c732fc5fb",
-      "title": "Trump says Israel and Lebanon leaders to hold talks after first high-level meeting in decades",
-      "summary": "The U.S. president said he was \"trying to get a little breathing room between Israel and Lebanon.\"",
-      "url": "https://www.cnbc.com/2026/04/16/trump-israel-lebanon-talks-hezbollah-ceasefire-conflict.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-04-16T06:45:29+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Trump says Israel and Lebanon leaders to hold talks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-17T10:29:13Z"
+  "last_updated": "2026-04-18T10:02:20Z"
 }

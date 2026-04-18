@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 14,
+  "sources": 15,
   "sentiment": {
     "positive": 0,
     "neutral": 8,
-    "negative": 6
+    "negative": 7
   },
   "latest_articles": [
+    {
+      "id": "7c9007e209d2181191b42ed9973e310bf81c707f",
+      "title": "US grants Serbian oil giant new sanctions waiver",
+      "summary": "The company is now 45% owned by Gazprom Neft, which is under US sanctions",
+      "url": "https://www.euractiv.com/news/us-grants-serbian-oil-giant-new-sanctions-waiver/",
+      "source": "Euractiv",
+      "published_at": "2026-04-18T07:45:25+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Serbian oil giant new sanctions waiver"
+    },
     {
       "id": "6d1aaf8603f688abd2bdd1c807db5c4caf6d98c2",
       "title": "Explosives found near pipeline in Serbia probably ‘Russian provocation’, says expert",
@@ -167,5 +178,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-17T10:29:13Z"
+  "last_updated": "2026-04-18T10:02:20Z"
 }

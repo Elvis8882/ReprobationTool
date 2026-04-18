@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 77,
+  "score": 76,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 88,
+  "trend": -1,
+  "sources": 89,
   "sentiment": {
     "positive": 4,
     "neutral": 48,
-    "negative": 36
+    "negative": 37
   },
   "latest_articles": [
+    {
+      "id": "78051cf56b70f16789bda89e73d936f4b02b8f9a",
+      "title": "EU fears new resurgence of Islamic State terrorism",
+      "summary": "Officials also raised concerns over European terror suspects who face death penalty in Iraq",
+      "url": "https://www.euractiv.com/news/eu-fears-new-resurgence-of-islamic-state-terrorism/",
+      "source": "Euractiv",
+      "published_at": "2026-04-17T11:08:42+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "EU fears new resurgence of Islamic State terrorism"
+    },
     {
       "id": "9439f32d0562ffd47b18c19b8e272bda8e475088",
       "title": "Pak-Flagged, Iraq-Bound Supertankers U-Turn In Hormuz As US-Iran Talks Break Down",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Iraq Summons U.S. Diplomat After Attack on Military Base"
-    },
-    {
-      "id": "c84bfb7b9a24f20033a4d8b040ef3ffdb6c1f236",
-      "title": "NATO Pulls Last Military Trainers From Iraq Amid Strikes From Iran",
-      "summary": "The NATO mission, created in 2018, trained and advised Iraqi forces. Iraq is among the countries facing retaliatory attacks from the U.S.-Israeli war.",
-      "url": "https://www.nytimes.com/2026/03/20/world/middleeast/nato-iraq.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-20T18:25:07+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "NATO Pulls Last Military Trainers From Iraq Amid Strikes From Iran"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-17T10:29:13Z"
+  "last_updated": "2026-04-18T10:02:20Z"
 }
