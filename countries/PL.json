@@ -1,16 +1,27 @@
 {
   "country": "PL",
-  "score": 95,
+  "score": 96,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 251,
+  "trend": 1,
+  "sources": 252,
   "sentiment": {
-    "positive": 23,
+    "positive": 24,
     "neutral": 209,
     "negative": 19
   },
   "latest_articles": [
+    {
+      "id": "dfcf95717edbd50051d68594d2a1941ae82b521e",
+      "title": "Hungary’s incoming PM seeks Polish help to renew EU relations",
+      "summary": "Péter Magyar hopes building stronger relations with Poland will help restore ties with bloc after Orbán’s ruleThe Hungarian election winner, Péter Magyar, is eyeing a special relationship with Poland’s prime minister, Do…",
+      "url": "https://www.theguardian.com/world/2026/apr/18/hungary-peter-magyar-donald-tusk-poland-europe",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-18T11:00:12+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Hungary’s incoming PM seeks Polish help to renew EU relations"
+    },
     {
       "id": "7bd88774f2457b1b3d0f6c41c7cd0cd21150a806",
       "title": "Kanye West concert in Poland cancelled over antisemitic comments",
@@ -203,18 +214,8 @@
       "published_at": "2026-04-13T07:49:37+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "5df9d9dbd7e31e307b006789b5b0a3bf332cbdad",
-      "title": "Monday briefing: Hungary chooses Péter Magyar over Viktor Orbán",
-      "summary": "In today’s newsletter: Orbán concedes defeat after 16 years in power, ushering in a new era for Hungary’s relations with the EU, US and RussiaGood morning. The people of Hungary are waking up in an unfamiliar political l…",
-      "url": "https://www.theguardian.com/world/2026/apr/13/monday-briefing-hungary-election-peter-magyar-viktor-orban",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-13T05:47:30+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-18T10:02:20Z"
+  "last_updated": "2026-04-19T10:01:20Z"
 }

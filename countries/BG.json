@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 200,
+  "sources": 201,
   "sentiment": {
     "positive": 10,
-    "neutral": 185,
+    "neutral": 186,
     "negative": 5
   },
   "latest_articles": [
+    {
+      "id": "9b2f5cf809d5e034ab171a6f480d25648e608113",
+      "title": "What to Know About the Bulgarian Election",
+      "summary": "The Black Sea country is holding its eighth election in five years, with Bulgarians yearning for the kind of prosperous life enjoyed by other Europeans.",
+      "url": "https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-what-to-know.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-19T04:01:06+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.7,
+      "evidence": "holding its eighth election in five years, with Bulgarians yearning for"
+    },
     {
       "id": "915c50d628daaaeb031f1f48746eb4a32c1351be",
       "title": "EU fumes as Turkey blocks Cyprus from UN climate meeting",
@@ -203,18 +214,8 @@
       "published_at": "2026-04-13T05:47:30+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "980d875cf7b6c38e455d020afc5a7efdb6ff6ba0",
-      "title": "European Commission makes progress on gender parity – but men still dominate top jobs",
-      "summary": "Ursula von der Leyen made gender equality a defining ambition of her mandate",
-      "url": "https://www.euractiv.com/news/european-commission-makes-progress-on-gender-parity-but-men-still-dominate-top-jobs/",
-      "source": "Euractiv",
-      "published_at": "2026-04-13T04:00:16+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-18T10:02:20Z"
+  "last_updated": "2026-04-19T10:01:20Z"
 }

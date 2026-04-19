@@ -1,16 +1,27 @@
 {
   "country": "HU",
-  "score": 30,
+  "score": 31,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 373,
+  "trend": 1,
+  "sources": 375,
   "sentiment": {
-    "positive": 30,
+    "positive": 32,
     "neutral": 236,
     "negative": 107
   },
   "latest_articles": [
+    {
+      "id": "dfcf95717edbd50051d68594d2a1941ae82b521e",
+      "title": "Hungary’s incoming PM seeks Polish help to renew EU relations",
+      "summary": "Péter Magyar hopes building stronger relations with Poland will help restore ties with bloc after Orbán’s ruleThe Hungarian election winner, Péter Magyar, is eyeing a special relationship with Poland’s prime minister, Do…",
+      "url": "https://www.theguardian.com/world/2026/apr/18/hungary-peter-magyar-donald-tusk-poland-europe",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-18T11:00:12+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Hungary’s incoming PM seeks Polish help to renew EU relations"
+    },
     {
       "id": "2640a9c9e49e62199fe176ae2adcfa7cc6900372",
       "title": "Who Is the New Leader of Hungary?",
@@ -21,6 +32,17 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "chose Peter Magyar over Viktor Orban... ending Orban’s 16 years in power"
+    },
+    {
+      "id": "9b7314fa409a134b54d8032faadc1ffdcd10a7fb",
+      "title": "Orbán's era was over in a flash and Hungary's next PM is a man in a hurry",
+      "summary": "Péter Magyar and his Tisza party are wasting no time preparing for the transfer of power after their dramatic landslide victory.",
+      "url": "https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-18T04:46:34+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Orbán's era was over in a flash"
     },
     {
       "id": "1e697881dcf8dcbb23bb97be54fb365c460243ee",
@@ -199,30 +221,8 @@
       "published_at": "2026-04-15T13:50:52+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "9343e0997752849860bed6ccd1817a147e3befcc",
-      "title": "Magyar meets with Hungarian president and goes on state media as he plans break with Orbán era – Europe live",
-      "summary": "Prime minister elect says he expects new government to be in place by mid-MayElection winner Péter Magyar has confirmed work is under way to form the new Hungarian government by mid-May after holding talks with the count…",
-      "url": "https://www.theguardian.com/world/live/2026/apr/15/peter-magyar-hungary-president-media-viktor-orban-european-union-europe-latest",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-15T09:43:34+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "unfit to serve as the guardian of legality"
-    },
-    {
-      "id": "6a0c519c477ef8469fa54727b601017986d13208",
-      "title": "Fico pushes voting changes after Orbán ousted in Hungary",
-      "summary": "The move follow the electoral defeat of Viktor Orbán, one of the Slovakian prime minister's closest allies",
-      "url": "https://www.euractiv.com/news/fico-makes-electoral-changes-after-orban-ousted-in-hungary/",
-      "source": "Euractiv",
-      "published_at": "2026-04-15T09:06:48+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Orbán ousted in Hungary"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-18T10:02:20Z"
+  "last_updated": "2026-04-19T10:01:20Z"
 }
