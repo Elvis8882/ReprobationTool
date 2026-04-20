@@ -15,8 +15,20 @@
     "IL",
     "LB"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-04-19T10:01:20+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-04-20T11:10:17+00:00",
+  "sentiment_by_country": {
+    "IL": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "ceasefire between Israel and Hezbollah in southern Lebanon goes into its second day"
+    },
+    "LB": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "ceasefire between Israel and Hezbollah in southern Lebanon goes into its second day"
+    }
+  },
+  "processed_at": "2026-04-20T11:10:17+00:00"
 }

@@ -1,16 +1,58 @@
 {
   "country": "SE",
-  "score": 97,
+  "score": 96,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 243,
+  "trend": -1,
+  "sources": 247,
   "sentiment": {
     "positive": 15,
-    "neutral": 216,
-    "negative": 12
+    "neutral": 218,
+    "negative": 14
   },
   "latest_articles": [
+    {
+      "id": "77cd87c865e52e18d6a1a28b427c741943d45f48",
+      "title": "Jet fuel crisis spat shows Europe’s energy blind spot",
+      "summary": "The European Commission seeks data to avoid flying blind",
+      "url": "https://www.euractiv.com/news/jet-fuel-crisis-spat-shows-europes-energy-blind-spot/",
+      "source": "Euractiv",
+      "published_at": "2026-04-20T04:00:44+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "35d53b59130a24803dddd4161081f7dfa6fe2058",
+      "title": "Outrage as Chinese state-owned company poised to win €320m EU-project in Africa",
+      "summary": "\"It's completely mad\" an MEP said about a Chinese bidder offering a price less than half of its Swedish rival",
+      "url": "https://www.euractiv.com/news/outrage-as-chinese-state-owned-company-poised-to-win-e320m-eu-project-in-africa/",
+      "source": "Euractiv",
+      "published_at": "2026-04-20T04:00:24+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Outrage as Chinese state-owned company poised to win €320m EU-project"
+    },
+    {
+      "id": "e6242c341e78d07a15d4fff0ecf807e5aca94139",
+      "title": "INTERVIEW: Europe must not sacrifice lakes and rivers for critical minerals",
+      "summary": "With a review of the Water Framework Directive looming, Swedish MEP Jonas Sjöstedt warns against weakening a key pillar of EU environmental law",
+      "url": "https://www.euractiv.com/news/interview-europe-must-not-sacrifice-lakes-and-rivers-for-critical-minerals/",
+      "source": "Euractiv",
+      "published_at": "2026-04-20T04:00:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Europe must not sacrifice lakes and rivers for critical minerals"
+    },
+    {
+      "id": "57710edb91a3415bffba66ae9ca692bfc1dad962",
+      "title": "UK's Keir Starmer Looks To European Union As Iran War Strains Ties With US",
+      "summary": "Starmer's administration is preparing an EU \"reset\" bill",
+      "url": "https://www.ndtv.com/world-news/uks-keir-starmer-looks-to-european-union-as-iran-war-strains-ties-with-us-11378801#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-04-19T08:49:34+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "915c50d628daaaeb031f1f48746eb4a32c1351be",
       "title": "EU fumes as Turkey blocks Cyprus from UN climate meeting",
@@ -172,49 +214,8 @@
       "published_at": "2026-04-13T10:20:33+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "ed8f5b789bd8dda831ee972ef2dc3dd85f903ba6",
-      "title": "“It’s Rare for Me” Art Exhibit at the European Parliament [Advocacy Lab]",
-      "summary": "This event video brings together short interviews with representatives from Chiesi, Members of the European Parliament, patient advocates and patient organisations, recorded at the opening ceremony of the “It’s Rare for…",
-      "url": "https://www.euractiv.com/video/its-rare-for-me-art-exhibit-at-the-european-parliament/",
-      "source": "Euractiv",
-      "published_at": "2026-04-13T10:00:08+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f95db58d4fc0be397f70a3dbadf1be0b58e54261",
-      "title": "LTV's 'De Facto' examines Latvian MEPs' bureau expenses",
-      "summary": "Three Members of the European Parliament (MEPs) from Latvia rent premises in their home country from their political parties, but at least one other office maintained with European money regularly produces party-related…",
-      "url": "https://eng.lsm.lv/article/politics/politics/13.04.2026-ltvs-de-facto-examines-latvian-meps-bureau-expenses.a642605/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-04-13T07:49:37+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "5df9d9dbd7e31e307b006789b5b0a3bf332cbdad",
-      "title": "Monday briefing: Hungary chooses Péter Magyar over Viktor Orbán",
-      "summary": "In today’s newsletter: Orbán concedes defeat after 16 years in power, ushering in a new era for Hungary’s relations with the EU, US and RussiaGood morning. The people of Hungary are waking up in an unfamiliar political l…",
-      "url": "https://www.theguardian.com/world/2026/apr/13/monday-briefing-hungary-election-peter-magyar-viktor-orban",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-13T05:47:30+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "ac1a70df1bcc4bd1bb15bdbbbb507dfa603c3cac",
-      "title": "‘Hungary has chosen Europe’: EU leaders jubilant after Péter Magyar’s victory over Orbán",
-      "summary": "Congratulations pour in from across EU, with leaders from Spain, Poland, France, Britain, Denmark, Romania, Sweden and beyond hailing a new chapterFull report: Hungarian opposition ousts Viktor Orbán after 16 years in po…",
-      "url": "https://www.theguardian.com/world/2026/apr/13/hungary-election-results-eu-europe-leaders-react-peter-magyar-viktor-orban",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-13T04:42:26+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "hailing a new chapter"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-19T10:01:20Z"
+  "last_updated": "2026-04-20T11:10:17Z"
 }

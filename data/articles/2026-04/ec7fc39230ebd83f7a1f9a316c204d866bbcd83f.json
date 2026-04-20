@@ -17,8 +17,25 @@
     "RU",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-04-19T10:01:20+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-04-20T11:10:17+00:00",
+  "sentiment_by_country": {
+    "FI": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Russia warns Finland"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Russia warns Finland and Baltic states over Ukraine drone strikes"
+    },
+    "UA": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ukraine drone strikes via airspace"
+    }
+  },
+  "processed_at": "2026-04-20T11:10:17+00:00"
 }

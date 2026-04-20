@@ -1,16 +1,27 @@
 {
   "country": "CH",
-  "score": 81,
+  "score": 78,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 57,
+  "trend": -3,
+  "sources": 58,
   "sentiment": {
     "positive": 9,
     "neutral": 45,
-    "negative": 3
+    "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "e75546290c2d38d58600686df26f31ec7f1e067d",
+      "title": "Kanye West’s European tour in doubt as more concerts cancelled in Poland and Switzerland",
+      "summary": "FC Basel and Polish stadium stop US rapper’s upcoming shows, after similar cancellations in France and UK over antisemitic commentsKanye West’s upcoming concerts in Poland and Switzerland have been cancelled, as a growin…",
+      "url": "https://www.theguardian.com/music/2026/apr/20/kanye-west-european-tour-concerts-cancelled-poland-switzerland",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-20T01:46:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "stop US rapper’s upcoming shows, after similar cancellations in France and UK over antisemitic comments"
+    },
     {
       "id": "f62c7f0de117fca7e53140423708bb8a16411135",
       "title": "Graves reveal plague’s inequitable toll - Nature",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "he was in hospital in Geneva because of his multiple sclerosis."
-    },
-    {
-      "id": "649af0a7b92f649db99b5f577231da40ee42e336",
-      "title": "Swiss Re pops 4% after posting record $4.8 billion profit, plans $1.5 billion buyback",
-      "summary": "European markets finished mixed as more earnings reports and economic data were in focus.",
-      "url": "https://www.cnbc.com/2026/02/27/european-markets-stoxx-600-ftse-dax-cac-earnings-data.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-02-27T16:43:31+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "European markets finished mixed"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-19T10:01:20Z"
+  "last_updated": "2026-04-20T11:10:17Z"
 }

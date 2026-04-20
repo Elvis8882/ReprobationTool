@@ -1,16 +1,92 @@
 {
   "country": "FR",
-  "score": 96,
+  "score": 94,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -3,
-  "sources": 565,
+  "trend": -2,
+  "sources": 575,
   "sentiment": {
     "positive": 95,
-    "neutral": 412,
-    "negative": 58
+    "neutral": 420,
+    "negative": 60
   },
   "latest_articles": [
+    {
+      "id": "129d49afa232e63ae3364ab9891a837eeed6a7ef",
+      "title": "THE HACK: Virkkunen scores point in sovereignty debate",
+      "summary": "In today's edition: US love for EU tech rules, age app bumps, French AI minister in town",
+      "url": "https://www.euractiv.com/news/the-hack-virkkunen-scores-point-in-sovereignty-debate/",
+      "source": "Euractiv",
+      "published_at": "2026-04-20T09:20:45+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "French AI minister in town"
+    },
+    {
+      "id": "6e7e4c0fe6d783b1ab6affff9fe66e13136a4ead",
+      "title": "Weather tracker: temperatures in Spain and Brazil well above late April norm",
+      "summary": "Seville could see 34C this week and parts of Brazil could hit high 30s, while storms forecast in southern AfricaOver the course of this week, temperatures in Spain are expected to soar well above the seasonal average. Da…",
+      "url": "https://www.theguardian.com/environment/2026/apr/20/weather-tracker-high-temperatures-spain-brazil",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-20T09:20:30+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "parts of France may see dust from Sahara"
+    },
+    {
+      "id": "539775c3163567cc0d12300576453aee28e6b95c",
+      "title": "French prosecutors summon Elon Musk over alleged child abuse images on X",
+      "summary": "Owner of X summoned along with former CEO Linda Yaccarino over investigation by cybercrime unitBusiness live – latest updatesEurope live – latest updatesElon Musk has been summoned to Paris, where investigators are looki…",
+      "url": "https://www.theguardian.com/technology/2026/apr/20/french-prosecutors-summon-elon-musk-over-alleged-child-abuse-images-on-x",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-20T08:49:31+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "French prosecutors summon Elon Musk over alleged child abuse images on X"
+    },
+    {
+      "id": "77cd87c865e52e18d6a1a28b427c741943d45f48",
+      "title": "Jet fuel crisis spat shows Europe’s energy blind spot",
+      "summary": "The European Commission seeks data to avoid flying blind",
+      "url": "https://www.euractiv.com/news/jet-fuel-crisis-spat-shows-europes-energy-blind-spot/",
+      "source": "Euractiv",
+      "published_at": "2026-04-20T04:00:44+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "ca6b5411555758d30ba9e9396288940a1132957d",
+      "title": "France summons Elon Musk over X probe",
+      "summary": "Authorities issued a summons for Musk as part of an investigation, launched in January 2025, into allegations that X's algorithm was used to interfere in French politics",
+      "url": "https://www.euractiv.com/news/france-summons-elon-musk-over-x-probe/",
+      "source": "Euractiv",
+      "published_at": "2026-04-20T03:17:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "investigation, launched in January 2025, into allegations that X's algorithm was used to interfere in French politics"
+    },
+    {
+      "id": "e75546290c2d38d58600686df26f31ec7f1e067d",
+      "title": "Kanye West’s European tour in doubt as more concerts cancelled in Poland and Switzerland",
+      "summary": "FC Basel and Polish stadium stop US rapper’s upcoming shows, after similar cancellations in France and UK over antisemitic commentsKanye West’s upcoming concerts in Poland and Switzerland have been cancelled, as a growin…",
+      "url": "https://www.theguardian.com/music/2026/apr/20/kanye-west-european-tour-concerts-cancelled-poland-switzerland",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-20T01:46:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "stop US rapper’s upcoming shows, after similar cancellations in France and UK over antisemitic comments"
+    },
+    {
+      "id": "56bdc1eb221a1df36ebe0622a81b75978fe3bec6",
+      "title": "Canadian astronaut’s bon mots help heal wounds from French language row",
+      "summary": "Jeremy Hansen praised for speaking French in space after Air Canada chief’s linguistic snub exposed tensions and drew rebuke from PMFew people foresaw humanity’s quest for the moon as accurately as the 19th-century Frenc…",
+      "url": "https://www.theguardian.com/world/2026/apr/19/artemis-astronaut-jeremy-hansen-french-canada",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-19T11:00:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Canadian astronaut’s bon mots help heal wounds from French language row"
+    },
     {
       "id": "1ad0a106c2f3c74c66f23647b29bd79aa7dba724",
       "title": "Middle East crisis live: Iran says ‘fundamental’ issues’ still to be resolved with US amid strait of Hormuz impasse",
@@ -32,6 +108,27 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "FCAS mediation between Germany and France collapses"
+    },
+    {
+      "id": "57710edb91a3415bffba66ae9ca692bfc1dad962",
+      "title": "UK's Keir Starmer Looks To European Union As Iran War Strains Ties With US",
+      "summary": "Starmer's administration is preparing an EU \"reset\" bill",
+      "url": "https://www.ndtv.com/world-news/uks-keir-starmer-looks-to-european-union-as-iran-war-strains-ties-with-us-11378801#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-04-19T08:49:34+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "335a34db2fce9cbd6d2b4eab12fa37905c74775f",
+      "title": "France blames Hezbollah for French peacekeeper’s death in Lebanon",
+      "summary": "The incident comes Lebanon is eyeing the first direct negotiations with Israel in decades",
+      "url": "https://www.euractiv.com/news/france-blames-hezbollah-for-french-peacekeepers-death-in-lebanon/",
+      "source": "Euractiv",
+      "published_at": "2026-04-19T07:06:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "France blames Hezbollah for French peacekeeper’s death"
     },
     {
       "id": "9896e40aa0708da5fe8ac875727798df8de4a7a2",
@@ -100,6 +197,17 @@
       "evidence": "French Widow, 85, Returns Home After Being Detained"
     },
     {
+      "id": "d49fe90a377556dc45947fb21c8f9b67f44790f1",
+      "title": "'Mum is finally free!' Pensioner detained by ICE in US returns to France",
+      "summary": "Marie-Thérèse had moved to the US after reuniting with her long-lost love, an American man who died in January.",
+      "url": "https://www.bbc.com/news/articles/ce84j0j6622o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-17T17:14:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Pensioner detained by ICE in US returns to France"
+    },
+    {
       "id": "ff101622ddc3d6181402657b757c9de9edd66f27",
       "title": "France, UK to lead multinational Hormuz mission",
       "summary": "The Paris talks' participants welcomed Tehran's announcement of the strait's reopening",
@@ -120,112 +228,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "French four-to-three telco merger back in play"
-    },
-    {
-      "id": "915c50d628daaaeb031f1f48746eb4a32c1351be",
-      "title": "EU fumes as Turkey blocks Cyprus from UN climate meeting",
-      "summary": "The European Commission has called on Turkey to reverse its “unacceptable” decision not to invite the Republic of Cyprus to a preparatory meeting ahead of a United Nations climate conference. The 2026 United Nations Clim…",
-      "url": "https://www.euractiv.com/news/eu-fumes-as-turkey-blocks-cyprus-from-un-climate-meeting/",
-      "source": "Euractiv",
-      "published_at": "2026-04-17T11:05:07+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "339a169065f4adade7c5485c97bc4a5d321ccad6",
-      "title": "EU’s employment rate grew above 76% in 2025 - European Commission",
-      "summary": "EU’s employment rate grew above 76% in 2025&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KdWpiWndWdTYteVA1aUV5N0JVdFptRnR5TDQ0QTEyU0l6UnVkekR4TTl4cTZuckJPamtKYUU2MW13dngxdTNzZ2ZncTVfUkk4Mi02OEs4UXhZS2h3VU5NMXRLMEJWOVVRVkZoTFQwLXNsSmZLb0dtd3U1NjdXZw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-17T09:02:42+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "0ad00123148f54b98c5c2b5d11a92129ba263b7e",
-      "title": "US-backed clouds among EU’s ‘sovereign’ picks for €180M tender",
-      "summary": "France's S3NS, a joint venture that involves US cloud giant Google, is one of the awarded providers",
-      "url": "https://www.euractiv.com/news/us-backed-clouds-among-eus-sovereign-picks-for-e180m-tender/",
-      "source": "Euractiv",
-      "published_at": "2026-04-17T08:52:39+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "France's S3NS, a joint venture that involves US cloud giant Google"
-    },
-    {
-      "id": "57aa9b6e98ae23cb070a39229849654b7fe567a9",
-      "title": "US tech firms successfully lobbied EU to keep datacentre emissions secret",
-      "summary": "Legally questionable confidentiality clause adopted almost word for word from demands of Microsoft and trade groupsMicrosoft and other US tech companies successfully lobbied the EU to hide the environmental toll of their…",
-      "url": "https://www.theguardian.com/technology/2026/apr/17/microsoft-us-tech-firms-lobbied-eu-secrecy-rules-datacentre-emissions",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-17T06:00:24+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "a77a4022656c631d576bd81758a244d1573e0ac3",
-      "title": "France finance minister says Hormuz must open, G7 ready to mitigate war fallout",
-      "summary": "French President Emmanuel Macron and UK Prime Minister Keir Starmer are hosting talks in Paris on Friday on navigation through the Strait of Hormuz once there is a ceasefire",
-      "url": "https://www.euractiv.com/news/france-finance-minister-says-hormuz-must-open-g7-ready-to-mitigate-war-fallout/",
-      "source": "Euractiv",
-      "published_at": "2026-04-16T21:41:44+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "France finance minister says Hormuz must open"
-    },
-    {
-      "id": "d8c8edb88e7b54b130037f82d1dcafabba864f47",
-      "title": "French Rafales Scramble Repeatedly to Intercept Russian Su-30SM Near NATO Airspace - UNITED24 Media",
-      "summary": "French Rafales Scramble Repeatedly to Intercept Russian Su-30SM Near NATO Airspace&nbsp;&nbsp;UNITED24 MediaRussian Su-30SM Armed with Kh-31 Strike Missiles Intercepted by French Rafale Fighters Near NATO Airspace&nbsp;&…",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWEx3Qi0zYXVlV21haTI2bGpQVWptNVFSbkZSNUR2LUFYdWRwVnF0bVNKajM2MUtVVU5IZzB2UzJqX3ZabTR1b2NzY0I3Tnc2RlFNN1RzMG1xbHhQSkt2VTBtLXNneXl1OW9LNjdVMndVNzZiYk11QTdsTTNra05ObWsydzB0TWdleFJ1eDF5d1J1ZVdvRVNfUFd6ckdUUFdhVnphY0lsUWZZVTFnQjVVZG9JbVRWQTdpUWlmV3hfb0dNd29L?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-16T13:56:50+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "French Rafales Scramble Repeatedly to Intercept Russian Su-30SM"
-    },
-    {
-      "id": "d7d99b3abc30ff2951143c6ee1e8a652877df1f5",
-      "title": "Wanted activist arrested in South Africa over support for Benin coup plot",
-      "summary": "Keba Seba is known for opposing French influence in Africa and backing West Africa's military leaders.",
-      "url": "https://www.bbc.com/news/articles/cm29p64z77go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-16T09:58:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "opposing French influence in Africa and backing West Africa's military leaders."
-    },
-    {
-      "id": "7cfbd6a2138cd80524959b29a7d83485e6abd304",
-      "title": "Commission approves Bulgarian, German and Slovenian State aid schemes - European Commission",
-      "summary": "Commission approves Bulgarian, German and Slovenian State aid schemes&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aYmN0Zmt4MHllMzV2bmRqakhPRC15TXdLdTZhQW9yZmRHTFpfaDBVSnFQalBWTjROa3FwMERkSGhRSVBnWWxJclVvak1fUXlSY1R2cTZ4SmExSmdpRFVpRThLd0VaX1FnM0Uxak91U2E?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-16T09:47:46+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "5d09dae9cc6aea018b2bf0cc7578fda0a4397954",
-      "title": "EU’s population projected to drop by 11.7% by 2100 - European Commission",
-      "summary": "EU’s population projected to drop by 11.7% by 2100&nbsp;&nbsp;European CommissionEU to shrink by 50m people as the birth rate hits a record low&nbsp;&nbsp;The TelegraphEU’s population to shrink this century, Eurostat pro…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rVlRxd3hTQ092UnF2NDZCWkd5TVNCa1haeXJOckhQb2dtNTZDdmg1S2puNUhSbkpXSG5wbDJNZXZZeE9DTHZyOExiUEhfOUZBOTZaVF9lQ2t5bUdhTnJKdUFlRWdYNGVuRjlTZWwtbkNjTUxjWVpzMTd5Tl9GQQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-16T09:02:41+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "e29a4999444b844804d76281f769a84ca0a28543",
-      "title": "European age verification app to keep children safe online - European Commission",
-      "summary": "European age verification app to keep children safe online&nbsp;&nbsp;European CommissionEurope rolls out online age verification app to protect young people&nbsp;&nbsp;CNN‘No More Excuses’: Europe Announces Age Verifica…",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2NiLUFRbC1HaVdZaFpROFJLRm5mX3Z5RUhWMnJFRzFyR3U3cFEtbFo2bmY3NlMxUGRNdVQ1S3JyUnN3Tk1UM3l6TVhVWjRxd01QcklCUXI1SUlBWGFQOE9aMGxsb1dFUlNpRFAzYmZtLUJPUHZxeEg0MFZQUGhBZmpoS0d1R1JzZXVWeEV5N1lUa1R2RUdFOWdUTDZmZnhmRjY3SEFnMm42ZkQ3cmg5cjEtT0E5aUdPWkE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-16T06:49:29+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-19T10:01:20Z"
+  "last_updated": "2026-04-20T11:10:17Z"
 }

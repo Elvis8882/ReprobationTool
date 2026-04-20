@@ -1,12 +1,12 @@
 {
   "country": "NO",
-  "score": 71,
+  "score": 97,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 65,
+  "trend": 26,
+  "sources": 66,
   "sentiment": {
-    "positive": 9,
+    "positive": 10,
     "neutral": 46,
     "negative": 10
   },
@@ -20,6 +20,17 @@
       "published_at": "2026-04-17T11:30:26+00:00",
       "sentiment": "positive",
       "confidence": 0.8,
+      "evidence": "Kubilius pitches new treaty to build European defence union"
+    },
+    {
+      "id": "56c66a283bff06e9ae44f2cef39ad790204a5d2c",
+      "title": "Kubilius pitches new treaty to build European defence union",
+      "summary": "EU defence chief: Schengen-style pact could be open to UK, Norway, Ukraine",
+      "url": "https://www.euractiv.com/news/kubilius-pitches-new-treaty-to-build-european-defence-union/",
+      "source": "Euractiv",
+      "published_at": "2026-04-17T11:30:23+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
       "evidence": "Kubilius pitches new treaty to build European defence union"
     },
     {
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Explosion at US embassy in Oslo, no injuries"
-    },
-    {
-      "id": "85552c729bc9acc0cb813bcbe8ecc377e452cf31",
-      "title": "US embassy in Oslo hit by explosion, Norway police say",
-      "summary": "No injuries are reported after the blast in the Norwegian capital in the early hours on Sunday.",
-      "url": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-08T06:54:58+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "US embassy in Oslo hit by explosion, Norway police say"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-19T10:01:20Z"
+  "last_updated": "2026-04-20T11:10:17Z"
 }
