@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 2,
+  "sources": 3,
   "sentiment": {
     "positive": 1,
-    "neutral": 1,
+    "neutral": 2,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "f45f41fe93209b7d72655f008f5e5fff874e9125",
+      "title": "UK firms to face tougher checks on export licences to bolster sanctions on Russia",
+      "summary": "News follows Guardian report on licence given to British firm exporting machinery to Armenian firm linked to Russian war effortBritish firms will face “much tougher” controls to prevent their goods from reaching Russia v…",
+      "url": "https://www.theguardian.com/business/2026/apr/22/uk-firms-to-face-tougher-checks-on-export-licences-to-bolster-sanctions-on-russia",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-22T09:00:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "licence given to British firm exporting machinery to Armenian firm"
+    },
     {
       "id": "66e8f4c5df8a9efb32e17aafcb075ab08f122dee",
       "title": "Decision to allow UK exports to Armenian firm under review over Russian links",
@@ -35,5 +46,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-21T10:32:35Z"
+  "last_updated": "2026-04-22T10:31:05Z"
 }

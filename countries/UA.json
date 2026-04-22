@@ -1,16 +1,137 @@
 {
   "country": "UA",
-  "score": 20,
+  "score": 19,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 593,
+  "trend": -1,
+  "sources": 606,
   "sentiment": {
-    "positive": 227,
-    "neutral": 149,
-    "negative": 217
+    "positive": 232,
+    "neutral": 153,
+    "negative": 221
   },
   "latest_articles": [
+    {
+      "id": "9c4e04c1f513f29f2f2c50a3105d138d4ac12eb1",
+      "title": "EU close to signing off on critical €90bn loan for Ukraine after months of vetoing from Hungary – Europe live",
+      "summary": "Member states meet this morning, as Ukraine starts pumping oil through Druzhba with Slovakia deliveries to resume ThursdayDuring his press conference, Fico also doubles down on his criticism of the incoming Hungarian gov…",
+      "url": "https://www.theguardian.com/world/live/2026/apr/22/ukraine-eu-90bn-loan-russia-war-hungary-zelenskyy-putin-magyar-orban-europe-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-22T10:17:15+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "EU close to signing off on critical €90bn loan for Ukraine"
+    },
+    {
+      "id": "18f010bc54211f9727c390cee3d0b613817a9d2b",
+      "title": "EU decides on key €90bn Ukraine loan after pipeline deadlock ends",
+      "summary": "The funding was agreed last December, but it has been held up in a row over Russian oil supplies to Hungary.",
+      "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-22T09:47:48+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "EU decides on key €90bn Ukraine loan"
+    },
+    {
+      "id": "f45f41fe93209b7d72655f008f5e5fff874e9125",
+      "title": "UK firms to face tougher checks on export licences to bolster sanctions on Russia",
+      "summary": "News follows Guardian report on licence given to British firm exporting machinery to Armenian firm linked to Russian war effortBritish firms will face “much tougher” controls to prevent their goods from reaching Russia v…",
+      "url": "https://www.theguardian.com/business/2026/apr/22/uk-firms-to-face-tougher-checks-on-export-licences-to-bolster-sanctions-on-russia",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-22T09:00:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "aiding Vladimir Putin’s assault on Ukraine."
+    },
+    {
+      "id": "d1fdc3f2ba555c28d989bbb9a56621a6d1864299",
+      "title": "Threat of Evictions Darkens Russia’s Rosy Picture of Occupied Ukraine",
+      "summary": "A new law forces Ukrainians in the captured regions to get Russian title deeds or risk losing their homes.",
+      "url": "https://www.nytimes.com/2026/04/22/world/europe/russia-occupied-territories-mariupol.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-22T09:00:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "forces Ukrainians in the captured regions to get Russian title deeds"
+    },
+    {
+      "id": "faf894b7c3b11035f9e0de66dc48b457c87425f1",
+      "title": "EU Considers $106 Billion Loan to Ukraine, Delayed for Months by Orban",
+      "summary": "After months of impasse because of objections from Prime Minister Viktor Orban of Hungary, ambassadors were meeting to discuss a key step on the way to disbursing the much-needed money.",
+      "url": "https://www.nytimes.com/2026/04/22/world/europe/eu-loan-ukraine-pipeline-hungary.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-22T08:48:23+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "$106 Billion Loan to Ukraine"
+    },
+    {
+      "id": "ba8d1bdc7e0faa7c952bdebe4871d2c640cc8c57",
+      "title": "Ukraine to restart Russian oil pipeline to Europe ‘within a few hours’",
+      "summary": "The pipeline has created a standoff that pit Hungary and Slovakia against Ukraine and the European Union",
+      "url": "https://www.euractiv.com/news/ukraine-to-restart-russian-oil-pipeline-to-europe-within-a-few-hours/",
+      "source": "Euractiv",
+      "published_at": "2026-04-22T08:41:43+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Hungary and Slovakia against Ukraine and the European Union"
+    },
+    {
+      "id": "9e568430e47a218193b3bf798de13934b12d0f1a",
+      "title": "‘Donnyland’? Ukraine Proposes Naming Part of the Donbas in Trump’s Honor.",
+      "summary": "The proposal reflects a global reality in which governments appeal to President Trump’s vanity to get American might on their side.",
+      "url": "https://www.nytimes.com/2026/04/21/us/politics/donnyland-ukraine-donbas-trump.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-21T20:33:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Ukraine Proposes Naming Part of the Donbas in Trump’s Honor."
+    },
+    {
+      "id": "94538bb14aa3a7e4ad5b68d692f17fe5a986545b",
+      "title": "Russian diplomat summoned by Latvia yet again",
+      "summary": "A staffer at the Russian embassy in Rīga was summoned by the Latvian Ministry of Foreign Affairs (MFA) on April 21st, the latest in an extremely long line of similar diplomatic summonses since the start of Russia's war i…",
+      "url": "https://eng.lsm.lv/article/politics/diplomacy/21.04.2026-russian-diplomat-summoned-by-latvia-yet-again.a643954/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "source": "LSM (English)",
+      "published_at": "2026-04-21T18:15:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "start of Russia's war in Ukraine"
+    },
+    {
+      "id": "9183da65ef29f80fb0dc6e5a8d8a8e174bb76dbe",
+      "title": "Druzhba oil pipeline ready to ship Russian oil again, says Ukraine’s Zelenskyy",
+      "summary": "Zelenskyy calls for unblocking of €90 billion support package in quid pro quo",
+      "url": "https://www.euractiv.com/news/druzhba-oil-pipeline-ready-to-ship-russian-oil-to-central-europe-again/",
+      "source": "Euractiv",
+      "published_at": "2026-04-21T16:09:58+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Zelenskyy calls for unblocking of €90 billion support package"
+    },
+    {
+      "id": "137f5584a333ca57ff1acc0b65bd7dd9102f97c9",
+      "title": "Ukraine floats delay to EU farm subsidies until after 2034",
+      "summary": "Deputy PM says EU farm talks will take much longer",
+      "url": "https://www.euractiv.com/news/ukraine-floats-delay-to-eu-farm-subsidies-until-after-2034/",
+      "source": "Euractiv",
+      "published_at": "2026-04-21T15:17:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ukraine floats delay to EU farm subsidies until after 2034"
+    },
+    {
+      "id": "07a6022669cb56302fc8e2cdf392d8b370e7a86e",
+      "title": "EU optimistic over approval of €90bn loan for Ukraine following Orbán defeat – Europe live",
+      "summary": "EU foreign policy chief Kaja Kallas confirms she expects ‘some positive decisions tomorrow’ on the €90bn loanGerman foreign minister Joseph Wadephul also makes it very clear that he is relieved with the change of governm…",
+      "url": "https://www.theguardian.com/world/live/2026/apr/21/eu-foreign-ministers-meet-to-discuss-ukraine-russia-and-the-middle-east-europe-live",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-21T09:46:50+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "EU optimistic over approval of €90bn loan for Ukraine"
+    },
     {
       "id": "16b7e59b11b7cea299d0edaa352c0c73305e69ba",
       "title": "FIREPOWER: EU set to approve €90bn Ukraine loan after Hungary drops veto",
@@ -32,6 +153,17 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "EU hopes to unblock Ukraine loan"
+    },
+    {
+      "id": "f50d9321c76e2c89ba490cb6f93fdfe37e8cd5bc",
+      "title": "Radev’s victory in Bulgaria raises questions over Europe’s ammunition supply to Ukraine",
+      "summary": "The VMZ factory in Sopot plays central role in delivering NATO-standard 155 mm artillery shells to the Ukrainian army",
+      "url": "https://www.euractiv.com/news/radevs-victory-in-bulgaria-raises-questions-over-europes-ammunition-supply-to-ukraine/",
+      "source": "Euractiv",
+      "published_at": "2026-04-20T16:08:03+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "delivering NATO-standard 155 mm artillery shells to the Ukrainian army"
     },
     {
       "id": "9dc35e5909ab2959b92072d271fd276f679c2410",
@@ -98,140 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Ukraine police chief resigns after officers allegedly fled deadly shooting"
-    },
-    {
-      "id": "97b8f5c70c2226b1a020fc2f7fa4c4c48dabfc0a",
-      "title": "Ukraine could resume Druzhba oil flows by Monday, Orbán says",
-      "summary": "The move could end a months-long standoff between Budapest and Kyiv over the pipeline",
-      "url": "https://www.euractiv.com/news/ukraine-could-resume-druzhba-oil-flows-by-monday-orban-says/",
-      "source": "Euractiv",
-      "published_at": "2026-04-19T15:18:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Ukraine could resume Druzhba oil flows by Monday, Orbán says"
-    },
-    {
-      "id": "bcac88a2ecb09ffcbf130d286995df351da24032",
-      "title": "Latvia, Lithuania reject Fico's flight plan to Moscow / Article - LSM",
-      "summary": "Latvia, Lithuania reject Fico's flight plan to Moscow / Article&nbsp;&nbsp;LSMLithuania, Latvia bar Slovak prime minister from using airspace for travel to Moscow&nbsp;&nbsp;The Kyiv IndependentairBaltic Joins Lufthansa,…",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUkZLNkFVaWJuUE0zRXA1QnNjYlEtbXh5TW10NG9ZRWZIWVZ6VVNpY0doQW9YY0YxbExPc2V4akp4VFVHMklLVko0Z2VjOE1CeVZFOFdidU9YNTNJdnBZcFpMeEFpTC1GbkZRYXRPX0Vub2V1dVZvSUJrRC13eVNBQnNObkV1R01pRW1Xd2RsMlBuX0VpbUZPaXJ1TmZ5OWpPa29JdjZlY1J5ZmxQOWFZOFJYbGI1VWsw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-19T07:18:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Slovak prime minister"
-    },
-    {
-      "id": "c6486f93ed884eb8e9ec6f5f47c378046d05a3aa",
-      "title": "Kyiv Mass Shooting Kills 6 and Gunman Is Shot Dead After Taking Hostages in Grocery",
-      "summary": "It was the deadliest mass shooting in Ukraine in years, where firearms have proliferated since the war with Russia began.",
-      "url": "https://www.nytimes.com/2026/04/18/world/europe/kyiv-ukraine-mass-shooting-hostages.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-18T20:43:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "deadliest mass shooting in Ukraine in years, where firearms have proliferated"
-    },
-    {
-      "id": "5320a3c2267209251cbbeaf2e5e01da3c3b5b48e",
-      "title": "Investigators examine whether Ukraine terrorist attack was directed by Russia",
-      "summary": "The gunman, who killed six people in Kyiv before police shot him dead, was a Ukrainian citizen born in MoscowUkrainian investigators are examining whether a terrorist attack in Kyiv was directed by Moscow after a man sho…",
-      "url": "https://www.theguardian.com/world/2026/apr/18/terrorist-attack-kyiv-ukraine",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-18T20:19:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "terrorist attack in Kyiv was directed by Moscow"
-    },
-    {
-      "id": "fb6de16aa0e0967df0ee8412d903660717ce7adf",
-      "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
-      "summary": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say.",
-      "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-18T18:09:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "At least six killed in Kyiv as gunman opens fire"
-    },
-    {
-      "id": "502e5d255e87e4cd3c4ab65ab2fec9d3d5781286",
-      "title": "6 Killed As Gunman Takes Hostages, Opens Fire In Supermarket In Kyiv",
-      "summary": "The suspect later entered a supermarket where gunshots were heard.",
-      "url": "https://www.ndtv.com/world-news/several-people-killed-as-gunman-opens-fire-in-kyiv-says-mayor-11376755#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-04-18T17:58:26+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "6 Killed As Gunman Takes Hostages, Opens Fire In Supermarket In Kyiv"
-    },
-    {
-      "id": "1e697881dcf8dcbb23bb97be54fb365c460243ee",
-      "title": "‘A defeat for Putin’: Ukrainians hope Magyar’s victory will mark new era with Hungary",
-      "summary": "As Orbán is rejected, there is cautious optimism new leader can restore ties – but issues such as EU accession loom largeLike many Ukrainians, Oleh Kupchak was delighted when Péter Magyar won Hungary’s election last week…",
-      "url": "https://www.theguardian.com/world/2026/apr/18/ukraine-hungary-election-magyar-orban-europe",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-18T04:00:03+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukrainians hope Magyar’s victory will mark new era"
-    },
-    {
-      "id": "96f19aaa4d5e8ad485632c37845310787f2a45a7",
-      "title": "Ukraine’s long-range strikes prompt new Russian threat against Europe - Al Jazeera",
-      "summary": "Ukraine’s long-range strikes prompt new Russian threat against Europe&nbsp;&nbsp;Al JazeeraPotential targets: Moscow releases data about European firms making drones for Ukraine&nbsp;&nbsp;EuronewsUK drone firms helping…",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQW9YQkVfNG1POVBfNTFneC1NckFXclNVMmo0TXQ0d0drdWd1TjY0bTNPZ0RMMnU3a1M3RTJrMXo5RnpUVFU0Yk5NaG5GZm5hek5ZQzRmRktCOEhFVW1PV3pOc2t6LXIzMWIycjVqSDlSSURMNDY3Y3NJQ0xnQlJhNFN5eFdKVlZwT3JvQXNxX3IybmVqLUREUlZ4Q09ELVlLMEVXMlRHUG9JdmFTMmVSeWZEc9IBuAFBVV95cUxPQU5ub19YWEY2eUpXRmVQT0w2RmRJNk04SnFFbmlYaVRVQ3VlTGJjN01UVWhPeGhEOHp5S1UtbElFd3U4UFRrcmpqMl9IejVjVlVBak80Q2FXQTRhVVFscUdvYVhDMEZoUTJNVUJEakhfdUllZHhRcWxqT0xzOXVpb3JRbFN4cGhRcnhSbi1RWk0tVF9nbUY4dTZ0VDBHeVpXZG5yMjdyTlFqc3dYbk5wUmw0U1dXTEVk?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-17T15:51:23+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Ukraine’s long-range strikes prompt new Russian threat"
-    },
-    {
-      "id": "32c56b90d7ffe720eb03bee7069644dfb1f36762",
-      "title": "Kubilius pitches new treaty to build European defence union - Euractiv",
-      "summary": "Kubilius pitches new treaty to build European defence union&nbsp;&nbsp;EuractivEuropean army can help fix NATO, says EU defense commissioner&nbsp;&nbsp;politico.euEU Commissioner urges defense union with Ukraine&nbsp;&nb…",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMl8yQmhWVVRDWDJET2hLSGYyNlQ0Z0UxOGpuTUMwaHR6T3pQZkY1SC1tb0hybTd2Yms2X183OWl6bHkyMS1NMkFHaVhvZHBDWHljbXpOaGlqai1zU05oRDkwaHp3d0Z1eUM5YlNLU1NnbEs2bHB6ODJJNHY3Y19iOE9UNkVYY1IxY1E5Vlp4TGFWa1FQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-17T11:30:26+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "EU Commissioner urges defense union with Ukraine"
-    },
-    {
-      "id": "56c66a283bff06e9ae44f2cef39ad790204a5d2c",
-      "title": "Kubilius pitches new treaty to build European defence union",
-      "summary": "EU defence chief: Schengen-style pact could be open to UK, Norway, Ukraine",
-      "url": "https://www.euractiv.com/news/kubilius-pitches-new-treaty-to-build-european-defence-union/",
-      "source": "Euractiv",
-      "published_at": "2026-04-17T11:30:23+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Kubilius pitches new treaty to build European defence union"
-    },
-    {
-      "id": "ec7fc39230ebd83f7a1f9a316c204d866bbcd83f",
-      "title": "Russia warns Finland and Baltic states over Ukraine drone strikes via airspace - WION",
-      "summary": "Russia warns Finland and Baltic states over Ukraine drone strikes via airspace&nbsp;&nbsp;WIONRussia threatens action against Finland, Baltics if Ukrainian drones strike via their airspace&nbsp;&nbsp;The Kyiv Independent…",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYjJydTlqc0lHZjZVcW5qTkhGMmJCd3Q4WE5ETXhuT0lyYTh1VG5mc3dNbmp5R1VjNXBLcV9hQ1ZZZ3FNTXYwaGhfSHo1NHJNQjQ3TUtMUG5zUVZlWEZJTE9ub0t4ZlM4ajI5c2FVX1ZQRGVDWWhSY0VvNWRUajB3SnZBV0VoM1VKNHdVSHFZS0tHNGJSTXBwSDd2a01Yb3VDaHprbUdWSjkyeHVTY25YelBSMzLSAboBQVVfeXFMTU1KZUtEM1IyUHFiRnZzaDdWaTk4dk5ZSmR1WlVSUWU2S1JTbkJzbVBJZ3I4UFRTV2diSzA1VjQ5LXNfcWZac2dtbTJ6NW54S3YzbVFqM012aTBKejhoODI5VVhyNG9jZEdUdEowQnpBZ1RBd2k2T3RmR3NwRlAwbVJNUlFaR0NwZFV6TWFxc2JxYTlhNi1LMm5kb2N1Q1pUT1FRT2o1VDFvUVk1WVJfalp6b2wtaDNCakZ3?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-17T08:22:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Ukraine drone strikes via airspace"
-    },
-    {
-      "id": "12ca77f0a9cee957643ad3fa12c50b34b258eb6c",
-      "title": "Ukraine war briefing: €90bn EU loan for Ukraine to be released in second quarter",
-      "summary": "EU economy commissioner says Iran war is feeding Russia’s war machine; Trump condemns massive strikes on Ukraine. What we know on day 1,513The EU expects to start releasing a new €90bn loan to Ukraine in the second quart…",
-      "url": "https://www.theguardian.com/world/2026/apr/17/ukraine-war-briefing-90bn-eu-loan-russia",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-17T00:19:33+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "EU expects to start releasing a new €90bn loan to Ukraine"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-21T10:32:35Z"
+  "last_updated": "2026-04-22T10:31:05Z"
 }

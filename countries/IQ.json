@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 76,
+  "score": 75,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 89,
+  "trend": -1,
+  "sources": 90,
   "sentiment": {
     "positive": 4,
     "neutral": 48,
-    "negative": 37
+    "negative": 38
   },
   "latest_articles": [
+    {
+      "id": "c817c94e2578d491aab1559dff127015f809a1c1",
+      "title": "U.S. Turns Up Pressure on Iraq to Distance Itself From Iran",
+      "summary": "Washington is demanding that the Baghdad government dismantle Iran-backed Iraqi militias that have been attacking Americans and U.S. sites there recently.",
+      "url": "https://www.nytimes.com/2026/04/21/world/middleeast/us-iraq-security-cooperation.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-21T20:06:47+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "U.S. Turns Up Pressure on Iraq to Distance Itself From Iran"
+    },
     {
       "id": "78051cf56b70f16789bda89e73d936f4b02b8f9a",
       "title": "EU fears new resurgence of Islamic State terrorism",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "foreign fury over the Iraq invasion"
-    },
-    {
-      "id": "f360adf6409cbdc3bc4515ec2b8ebd27dd7eb535",
-      "title": "Iraq Summons U.S. Diplomat After Attack on Military Base",
-      "summary": "The attack came a day after a separate strike on the same base, which hosts units viewed by the United States as allies of Iran.",
-      "url": "https://www.nytimes.com/2026/03/25/world/middleeast/iraq-summons-us-diplomat-after-attack-on-military-base.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-25T15:29:35+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Iraq Summons U.S. Diplomat After Attack on Military Base"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-21T10:32:35Z"
+  "last_updated": "2026-04-22T10:31:05Z"
 }
