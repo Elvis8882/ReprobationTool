@@ -17,8 +17,25 @@
     "GB",
     "RO"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-04-22T10:31:05+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-04-23T10:35:29+00:00",
+  "sentiment_by_country": {
+    "FR": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "France host military planners for Strait of Hormuz mission"
+    },
+    "GB": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "UK, France host military planners for Strait of Hormuz mission"
+    },
+    "RO": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Romania, NATO's 1.5% target"
+    }
+  },
+  "processed_at": "2026-04-23T10:35:29+00:00"
 }

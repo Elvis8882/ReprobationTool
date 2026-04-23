@@ -3,14 +3,25 @@
   "score": 75,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 90,
+  "trend": 0,
+  "sources": 91,
   "sentiment": {
     "positive": 4,
     "neutral": 48,
-    "negative": 38
+    "negative": 39
   },
   "latest_articles": [
+    {
+      "id": "7d532b4797c044a27f8d8e45bf396e736c992d4d",
+      "title": "US Withholding Iraq’s Own Oil Money Over Ties to Iran",
+      "summary": "The United States has halted dollar shipments to Iraq’s cash-based economy in an effort to force the Baghdad government to distance itself from Iran. The money comes from Iraq’s oil revenues.",
+      "url": "https://www.nytimes.com/2026/04/22/world/middleeast/iraq-us-dollars-shipment-iran.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-22T18:46:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "US Withholding Iraq’s Own Oil Money Over Ties to Iran"
+    },
     {
       "id": "c817c94e2578d491aab1559dff127015f809a1c1",
       "title": "U.S. Turns Up Pressure on Iraq to Distance Itself From Iran",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "targeting of infrastructure in Iran, Lebanon, Iraq"
-    },
-    {
-      "id": "edf2ef56cd6503c0673e272c4e351f579c06d75d",
-      "title": "Europeans Are Angry at Trump, but Often Forgiving of Americans",
-      "summary": "A generation ago, foreign fury over the Iraq invasion often blurred into anti-Americanism. Now, some Europeans seem ready to distinguish between the president and the American people.",
-      "url": "https://www.nytimes.com/2026/03/27/world/europe/europe-trump-sentiment.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-27T09:03:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "foreign fury over the Iraq invasion"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-22T10:31:05Z"
+  "last_updated": "2026-04-23T10:35:29Z"
 }
