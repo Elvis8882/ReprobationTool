@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 4,
+  "sources": 5,
   "sentiment": {
     "positive": 0,
     "neutral": 2,
-    "negative": 2
+    "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "165b865627c013bec899e23662a740bcde1aefb0",
+      "title": "EU tells Bosnia to ‘carefully’ follow obligations over US pipeline deal",
+      "summary": "The energy project has drawn criticism from environmental groups, with two NGOs labelling it a \"harmful project\"",
+      "url": "https://www.euractiv.com/news/eu-tells-bosnia-to-carefully-follow-obligations-over-us-pipeline-deal/",
+      "source": "Euractiv",
+      "published_at": "2026-04-23T16:29:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "EU tells Bosnia to ‘carefully’ follow obligations over US pipeline deal"
+    },
     {
       "id": "21b19e4f53c299bf991f7190b86d1ed07e9b9aa9",
       "title": "30 Years Before Iran Op, A Pilot Who Survived Behind Enemy Lines For Days",
@@ -57,5 +68,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-23T10:35:29Z"
+  "last_updated": "2026-04-24T10:38:06Z"
 }

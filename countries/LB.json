@@ -4,13 +4,101 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 312,
+  "sources": 321,
   "sentiment": {
     "positive": 11,
-    "neutral": 100,
-    "negative": 202
+    "neutral": 107,
+    "negative": 204
   },
   "latest_articles": [
+    {
+      "id": "797401177da8ec9a996dc11e1bff543dbe70751d",
+      "title": "Iran War Live Updates: Trump Says Lebanon Cease-Fire Is Extended by 3 Weeks",
+      "summary": "The Israeli military said it had struck Hezbollah targets on Friday, but its truce with Lebanon appeared to be holding. Stopping the fighting between Israel and the Iran-backed militia could help end the war in Iran.",
+      "url": "https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz",
+      "source": "NYT > World News",
+      "published_at": "2026-04-24T10:20:17+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "truce with Lebanon appeared to be holding"
+    },
+    {
+      "id": "1db173c62aebc8b4cac9cfdbfc2645701b891706",
+      "title": "Oil prices rise as U.S. and Iran jockey for control over Strait of Hormuz",
+      "summary": "Oil prices rose as investors stayed cautious despite a three-week extension of the Israel-Lebanon ceasefire.",
+      "url": "https://www.cnbc.com/2026/04/24/oil-price-wti-brent-after-israel-lebanon-ceasefire-extension.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-04-24T10:06:25+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "extension of the Israel-Lebanon ceasefire."
+    },
+    {
+      "id": "fe5fc758415717e6cd83d524eb792b6ebd2119e7",
+      "title": "Middle East crisis live: Trump says Israel-Lebanon ceasefire extended by three weeks but claims he won’t rush Iran deal",
+      "summary": "US president orders navy to ‘shoot and kill’ boats laying mines in Hormuz and claims ‘total control’ over the straitTrump claims US has total control over strait of Hormuz after Iran seizes two container shipsAnalysis: T…",
+      "url": "https://www.theguardian.com/world/live/2026/apr/24/iran-war-live-updates-trump-hormuz-strait-israel-lebanon-truce",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-24T10:01:50+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Israel-Lebanon ceasefire extended"
+    },
+    {
+      "id": "5b3773613c6997b369da3eadbb0e7dcd9b1744f2",
+      "title": "Lebanese Journalist Killed in Israeli Strike Was Known for Being Intrepid",
+      "summary": "Mourners paid respects to Amal Khalil, who remained trapped under rubble for hours before emergency medics recovered her body.",
+      "url": "https://www.nytimes.com/2026/04/23/world/middleeast/lebanese-journalist-amal-khalil-killed-israeli-strike.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-24T09:53:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Lebanese Journalist Killed in Israeli Strike"
+    },
+    {
+      "id": "48dc3b6f4df6dc270c884a8da791b789b1cc3c3a",
+      "title": "Asia-Pacific markets trade mixed as Israel-Lebanon ceasefire extension fails to calm investors",
+      "summary": "Asia-Pacific markets traded mixed as investors remained cautious despite a three-week extension of the Israel-Lebanon ceasefire.",
+      "url": "https://www.cnbc.com/2026/04/24/asia-pacific-markets-nikkei-225-csi-300-hang-seng-index.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-04-24T07:26:17+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Israel-Lebanon ceasefire extension fails to calm investors"
+    },
+    {
+      "id": "de724679af402e5e1338e52d0381a72f0942a82d",
+      "title": "Israel, Lebanon extend ceasefire as Iran peace talks stall",
+      "summary": "\"I think there's a very good chance of having peace. I think it should be an easy one,\" Trump told reporters",
+      "url": "https://www.euractiv.com/news/israel-lebanon-extend-ceasefire-as-iran-peace-talks-stall/",
+      "source": "Euractiv",
+      "published_at": "2026-04-24T06:03:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Israel, Lebanon extend ceasefire"
+    },
+    {
+      "id": "c91fd5fa69b2e47ad1945377b65c6337a78104b0",
+      "title": "Trump says Israel-Lebanon ceasefire extended by three weeks",
+      "summary": "Israel and Lebanon agreed to extend their ceasefire by three weeks following a meeting in the White House with top U.S. officials, President Donald Trump said.",
+      "url": "https://www.cnbc.com/2026/04/23/trump-israel-lebanon-ceasefire-iran-war.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-04-23T21:58:58+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Israel-Lebanon ceasefire extended by three weeks"
+    },
+    {
+      "id": "5246ecc9be138dcb7883c0e696ae54f5ae128b3c",
+      "title": "Lebanon looks to Trump for ‘leverage over Israel’ with ceasefire set to expire",
+      "summary": "As talks resume, Prime Minister Nawaf Salam told The Post any deal requires a “full withdrawal” of Israeli forces after Israel seized a “buffer zone” in Lebanon.",
+      "url": "https://www.washingtonpost.com/world/2026/04/23/lebanon-israel-ceasefire-talks/",
+      "source": "World (Washington post)",
+      "published_at": "2026-04-23T10:37:28+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Lebanon looks to Trump for ‘leverage over Israel’ with ceasefire set to expire"
+    },
     {
       "id": "bf5edd0fff6232311616ce0f85839684184edbc3",
       "title": "Thursday briefing: ​Why the US president is losing support from crucial allies",
@@ -21,6 +109,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Israeli strikes in southern Lebanon killed a journalist"
+    },
+    {
+      "id": "cbd0182f236a3848b4bac81738930d058abbabb3",
+      "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
+      "summary": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.",
+      "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-23T04:25:30+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "accused Israel of war crimes"
     },
     {
       "id": "5cbc0dc75c28544b2cd92944710136b62d58c859",
@@ -131,107 +230,8 @@
       "sentiment": "mixed",
       "confidence": 0.7,
       "evidence": "In Lebanon, residents of the south make their way home"
-    },
-    {
-      "id": "170d207798560543a2c7edaea60f06afee002c41",
-      "title": "Israeli Soldier in Lebanon Sledgehammered a Statue of Jesus",
-      "summary": "The military is investigating the soldier. Prime Minister Benjamin Netanyahu expressed regret for any hurt caused to “believers in Lebanon and around the world.”",
-      "url": "https://www.nytimes.com/2026/04/20/world/middleeast/israeli-soldier-lebanon-sledgehammer-jesus.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-20T17:08:24+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "in Lebanon Sledgehammered a Statue of Jesus"
-    },
-    {
-      "id": "606032b1b5eb8bb6abeb154c264042a103759de0",
-      "title": "Israel told people to evacuate Beirut’s southern suburbs — then hit city’s center",
-      "summary": "The deadly strikes on the Lebanese capital shattered neighborhoods where many people had taken refuge after being displaced by earlier Israeli bombardments.",
-      "url": "https://www.washingtonpost.com/investigations/2026/04/20/israel-beirut-lebanon-strikes/",
-      "source": "World (Washington post)",
-      "published_at": "2026-04-20T13:43:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "deadly strikes on the Lebanese capital shattered neighborhoods"
-    },
-    {
-      "id": "e9f1ca4d172ed97084b8117faf40e55fa7e7fb3b",
-      "title": "Israeli army investigates soldier seen striking Jesus statue in Lebanon",
-      "summary": "IDF says sledgehammer photo circulating online is authentic and is being viewed with ‘great severity’The Israeli army has said it is investigating a soldier who was seen apparently striking a statue of Jesus with a sledg…",
-      "url": "https://www.theguardian.com/world/2026/apr/20/israel-soldier-jesus-statue-sledgehammer-lebanon",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-20T08:33:27+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "soldier seen striking Jesus statue in Lebanon"
-    },
-    {
-      "id": "1ad0a106c2f3c74c66f23647b29bd79aa7dba724",
-      "title": "Middle East crisis live: Iran says ‘fundamental’ issues’ still to be resolved with US amid strait of Hormuz impasse",
-      "summary": "Iran’s top negotiator says both sides remain far apart after Tehran again closed strait of Hormuz after US said it would not end its blockadeFull report: Iran closes strait of Hormuz again ‘until US lifts blockade’UN sec…",
-      "url": "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-19T09:40:12+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "attack in southern Lebanon"
-    },
-    {
-      "id": "7d51f68174bf41f7d0ce33dd844289c6f7c55fa7",
-      "title": "More Displaced Lebanese Head Home as Cease-Fire Is Tested",
-      "summary": "The truce appeared to mostly hold even as Israel said it had carried out strikes on what it called “terrorists” approaching its forces in southern Lebanon. Separately, a U.N. peacekeeper was killed.",
-      "url": "https://www.nytimes.com/2026/04/18/world/middleeast/lebanon-israel-cease-fire-hezbollah-un.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-19T08:20:19+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "More Displaced Lebanese Head Home as Cease-Fire Is Tested"
-    },
-    {
-      "id": "335a34db2fce9cbd6d2b4eab12fa37905c74775f",
-      "title": "France blames Hezbollah for French peacekeeper’s death in Lebanon",
-      "summary": "The incident comes Lebanon is eyeing the first direct negotiations with Israel in decades",
-      "url": "https://www.euractiv.com/news/france-blames-hezbollah-for-french-peacekeepers-death-in-lebanon/",
-      "source": "Euractiv",
-      "published_at": "2026-04-19T07:06:22+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "France blames Hezbollah for French peacekeeper’s death in Lebanon"
-    },
-    {
-      "id": "a13e92026331953cac678f40debcca08765b8387",
-      "title": "Hormuz Chaos, Lebanon Clashes Dent Trump's Peace Deal Hopes",
-      "summary": "Trump said Saturday there were \"very good conversations\" going on with Iran",
-      "url": "https://www.ndtv.com/world-news/strait-of-hormuz-chaos-lebanon-israel-clashes-dent-donald-trumps-peace-deal-hopes-11378215#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-04-19T05:05:47+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Hormuz Chaos, Lebanon Clashes Dent Trump's Peace Deal Hopes"
-    },
-    {
-      "id": "12e4cef3e421efc3c1959d457e06189c58f58592",
-      "title": "French peacekeeper killed in southern Lebanon",
-      "summary": "President Macron blames the attack on Hezbollah. The Iran-backed armed group denies \"any connection\" to the incident.",
-      "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-19T03:14:45+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "killed in southern Lebanon"
-    },
-    {
-      "id": "0455768a4f604a840987e5de48b0d239f15af5e6",
-      "title": "Trump's \"Bold, Loyal\" Praise For Israel Amid Ceasefire With Lebanon",
-      "summary": "Trump's remarks also come at a time of tensions, including the renewed closure of the Strait of Hormuz",
-      "url": "https://www.ndtv.com/world-news/president-donald-trumps-bold-loyal-praise-for-israel-amid-ceasefire-with-lebanon-middle-east-conflict-us-iran-israel-war-11377934#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-04-19T02:50:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Trump's \"Bold, Loyal\" Praise For Israel Amid Ceasefire With Lebanon"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-23T10:35:29Z"
+  "last_updated": "2026-04-24T10:38:06Z"
 }

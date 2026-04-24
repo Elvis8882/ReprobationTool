@@ -1,16 +1,38 @@
 {
   "country": "SY",
-  "score": 84,
+  "score": 83,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 54,
+  "trend": -1,
+  "sources": 56,
   "sentiment": {
-    "positive": 3,
+    "positive": 4,
     "neutral": 27,
-    "negative": 24
+    "negative": 25
   },
   "latest_articles": [
+    {
+      "id": "aaef16a096d223a009c7cd9dd2a6ca542e348b4c",
+      "title": "Syria arrests suspected leader of Tadamon massacre",
+      "summary": "Amjad Youssef one of most-wanted fugitives in relation to slaughter of almost 290 civilians under AssadA Syrian former regime official suspected of leading a notorious civilian massacre revealed by the Guardian – and who…",
+      "url": "https://www.theguardian.com/world/2026/apr/24/syria-arrests-suspected-leader-of-tadamon-massacre",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-24T09:53:25+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Syria arrests suspected leader of Tadamon massacre"
+    },
+    {
+      "id": "16d944346deb0436f1696b223e153aa0ca314b41",
+      "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
+      "summary": "Victims were bound and blindfolded before being shot and dumped in a pit.",
+      "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-24T09:46:01+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "suspect in notorious Tadamon massacre during Syria civil war arrested"
+    },
     {
       "id": "5728708d08d3de52cdcd378f9a4b31c030165bcb",
       "title": "Syrian Tycoons Pitched Trump-Branded Golf Course To Help Lift US Sanctions: Report",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Thousands of Syrians There Flee Back Home"
-    },
-    {
-      "id": "e52c6a6d495b8f1400c0fcfeb255d19396bfeb3c",
-      "title": "Angus Taylor snaps at journalist as Liberals ramp up rhetoric against Australian children in Syrian camp",
-      "summary": "Opposition leader suggests 23 children and 11 women attempting to leave al-Roj are Islamic State ‘sympathisers’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news pod…",
-      "url": "https://www.theguardian.com/australia-news/2026/mar/02/angus-taylor-islamic-state-syria-comments-ntwnfb",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-02T05:11:03+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "children in Syrian camp are “Isis sympathisers”"
-    },
-    {
-      "id": "eb693074d4e1f5009ec6603fbb6d7db7d885babc",
-      "title": "Beacon of (shrinking) aid",
-      "summary": "In Friday’s edition: Mercosur, Syria, Epstein files, EU's mutual defence",
-      "url": "https://www.euractiv.com/news/rapporteur-beacon-of-shrinking-aid/",
-      "source": "Euractiv",
-      "published_at": "2026-02-27T05:58:45+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Syria"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-23T10:35:29Z"
+  "last_updated": "2026-04-24T10:38:06Z"
 }

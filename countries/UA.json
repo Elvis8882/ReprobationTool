@@ -1,16 +1,115 @@
 {
   "country": "UA",
-  "score": 20,
+  "score": 19,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 618,
+  "trend": -1,
+  "sources": 629,
   "sentiment": {
-    "positive": 238,
-    "neutral": 156,
-    "negative": 224
+    "positive": 243,
+    "neutral": 158,
+    "negative": 228
   },
   "latest_articles": [
+    {
+      "id": "46a2533a83edb52868c04d2fe07065c922dcb8df",
+      "title": "FIREPOWER: France, Greece to renew defence partnership",
+      "summary": "In today's edition: Ukraine loan, military mobility, ground drones",
+      "url": "https://www.euractiv.com/news/firepower-france-greece-to-renew-defence-partnership/",
+      "source": "Euractiv",
+      "published_at": "2026-04-24T07:27:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Ukraine loan, military mobility, ground drones"
+    },
+    {
+      "id": "bdef2a444d1aa469f3e4596e87e99d88333afa7a",
+      "title": "Ukraine's Remote-Controlled Drones Can Hit Targets At Great Distance, Says Minister",
+      "summary": "Ukrainian Defence Minister Mykhailo Fedorov wrote about the country's new interceptor drones on Telegram.",
+      "url": "https://www.ndtv.com/world-news/ukraines-remote-controlled-drones-can-hit-targets-at-great-distance-11402070#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-04-24T05:55:37+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine's Remote-Controlled Drones Can Hit Targets At Great Distance"
+    },
+    {
+      "id": "b79e28d93d4a3207566f9d06b7ab934981f3e01b",
+      "title": "Investment bank chief tells Europe to ‘break free’ from fossil fuels",
+      "summary": "Nadia Calviño urges EU to heed lessons from war in Ukraine and Iran",
+      "url": "https://www.euractiv.com/news/development-bank-chief-tells-europe-to-break-free-from-fossil-fuels/",
+      "source": "Euractiv",
+      "published_at": "2026-04-23T14:52:09+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "lessons from war in Ukraine"
+    },
+    {
+      "id": "83a544e8df815b7361ce282cdb7f3c71db7bd7c8",
+      "title": "INTERVIEW: Ukraine’s defence industry starts eyeing post-war survival",
+      "summary": "Tencore has struck a partnership with France's Shark Robotics to develop civilian expertise",
+      "url": "https://www.euractiv.com/news/interview-ukraines-defence-industry-starts-eyeing-post-war-survival/",
+      "source": "Euractiv",
+      "published_at": "2026-04-23T14:29:57+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukraine’s defence industry starts eyeing post-war survival"
+    },
+    {
+      "id": "6de7579b1b9543547a4ee90988d4b226165514f4",
+      "title": "Zelensky details deals Ukraine signed to bolster Gulf nations’ defense against Iranian drones.",
+      "summary": "",
+      "url": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news/zelensky-deals-ukraine-gulf-drones",
+      "source": "NYT > World News",
+      "published_at": "2026-04-23T14:17:31+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Zelensky details deals Ukraine signed to bolster Gulf nations’ defense"
+    },
+    {
+      "id": "d4986aae74d2ccea6bed9ea3a90a4bb22152bd17",
+      "title": "Russian Officials Say Town’s Air Is Toxic, Days After Strike on Oil Refinery",
+      "summary": "Since Ukraine attacked the refinery in Tuapse, starting a huge fire, residents have reported drops of dark, oily toxins falling from the sky.",
+      "url": "https://www.nytimes.com/2026/04/23/world/europe/russia-oil-refinery-black-rain.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-23T13:49:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Ukraine attacked the refinery"
+    },
+    {
+      "id": "5e3d9d24747a465154d7054d4e088751e11ab10d",
+      "title": "EU’s €90 billion loan to Ukraine is approved",
+      "summary": "\"Deadlock over,\" Kaja Kallas posted online. \"Russia's war economy is under growing strain, while Ukraine is getting a major boost\"",
+      "url": "https://www.euractiv.com/news/eus-e90-billion-loan-to-ukraine-is-approved/",
+      "source": "Euractiv",
+      "published_at": "2026-04-23T12:05:45+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukraine is getting a major boost"
+    },
+    {
+      "id": "2856e84d089d6613c0ebff6daa22bd3c52e6c388",
+      "title": "Russia reports toxic rain, orders locals to stay home after Ukrainian oil strike",
+      "summary": "Russia was struggling to extinguish a fire raging at a Black Sea oil terminal hit by Ukraine earlier this week, local authorities told AFP on Thursday, after urging residents to stay home amid harmful toxic emissions. Ky…",
+      "url": "https://www.euractiv.com/news/russia-reports-toxic-rain-orders-locals-to-stay-home-after-ukrainian-oil-strike/",
+      "source": "Euractiv",
+      "published_at": "2026-04-23T11:22:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Ukrainian oil strike"
+    },
+    {
+      "id": "308b3eb1009d652bed483fc0145180078be60fd9",
+      "title": "EU set to sign off €90bn loan for Ukraine and fresh Russia sanctions – Europe live",
+      "summary": "Move comes after Hungary and Slovakia dropped opposition following reopening of the Druzhba oil pipelineOver in Brussels, the European Commission is giving its daily briefing.Responding to a question from our Brussels co…",
+      "url": "https://www.theguardian.com/world/live/2026/apr/23/eu-ukraine-loan-russia-sanctions-zelenskyy-cyprus-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-23T10:19:22+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "EU set to sign off €90bn loan for Ukraine"
+    },
     {
       "id": "885b0ff09dcad1de68a45b0b9ff4f196b1442eaa",
       "title": "Zelenskyy calls on 'big players' Trump, PM Modi and Xi to put pressure on Russia",
@@ -89,6 +188,17 @@
       "evidence": "Ukraine War Bills"
     },
     {
+      "id": "0691f10f599254defe5ce1237de18433692f53f9",
+      "title": "China, not Russia, is reshaping Serbia’s path to the EU",
+      "summary": "With Russia bogged down in Ukraine, Beijing has overtaken Moscow as the EU's main rival in Serbia",
+      "url": "https://www.euractiv.com/news/china-not-russia-is-reshaping-serbias-path-to-the-eu/",
+      "source": "Euractiv",
+      "published_at": "2026-04-23T04:00:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Russia bogged down in Ukraine"
+    },
+    {
       "id": "2a4597a6c97bc2dd1ab54e816630845d73300962",
       "title": "Ukraine wins the cash – but EU membership stalls",
       "summary": "Capitals push back on efforts to fast-track Kyiv’s accession",
@@ -120,118 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Ukraine will get $105 billion loan after Hungary drops opposition"
-    },
-    {
-      "id": "413985d070df69b0a3ae7f812ae24cfdbe952593",
-      "title": "EU ambassadors agree €90 billion Ukraine loan",
-      "summary": "\"Today, both the €90 billion Ukraine loan, and the 20th sanctions package have been approved at the level of Coreper\"",
-      "url": "https://www.euractiv.com/news/eu-ambassadors-e90-billion-ukraine-loan/",
-      "source": "Euractiv",
-      "published_at": "2026-04-22T11:45:52+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "EU ambassadors agree €90 billion Ukraine loan"
-    },
-    {
-      "id": "9c4e04c1f513f29f2f2c50a3105d138d4ac12eb1",
-      "title": "EU close to signing off on critical €90bn loan for Ukraine after months of vetoing from Hungary – Europe live",
-      "summary": "Member states meet this morning, as Ukraine starts pumping oil through Druzhba with Slovakia deliveries to resume ThursdayDuring his press conference, Fico also doubles down on his criticism of the incoming Hungarian gov…",
-      "url": "https://www.theguardian.com/world/live/2026/apr/22/ukraine-eu-90bn-loan-russia-war-hungary-zelenskyy-putin-magyar-orban-europe-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-22T10:17:15+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "EU close to signing off on critical €90bn loan for Ukraine"
-    },
-    {
-      "id": "18f010bc54211f9727c390cee3d0b613817a9d2b",
-      "title": "EU decides on key €90bn Ukraine loan after pipeline deadlock ends",
-      "summary": "The funding was agreed last December, but it has been held up in a row over Russian oil supplies to Hungary.",
-      "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-22T09:47:48+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "EU decides on key €90bn Ukraine loan"
-    },
-    {
-      "id": "f45f41fe93209b7d72655f008f5e5fff874e9125",
-      "title": "UK firms to face tougher checks on export licences to bolster sanctions on Russia",
-      "summary": "News follows Guardian report on licence given to British firm exporting machinery to Armenian firm linked to Russian war effortBritish firms will face “much tougher” controls to prevent their goods from reaching Russia v…",
-      "url": "https://www.theguardian.com/business/2026/apr/22/uk-firms-to-face-tougher-checks-on-export-licences-to-bolster-sanctions-on-russia",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-22T09:00:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "aiding Vladimir Putin’s assault on Ukraine."
-    },
-    {
-      "id": "d1fdc3f2ba555c28d989bbb9a56621a6d1864299",
-      "title": "Threat of Evictions Darkens Russia’s Rosy Picture of Occupied Ukraine",
-      "summary": "A new law forces Ukrainians in the captured regions to get Russian title deeds or risk losing their homes.",
-      "url": "https://www.nytimes.com/2026/04/22/world/europe/russia-occupied-territories-mariupol.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-22T09:00:21+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "forces Ukrainians in the captured regions to get Russian title deeds"
-    },
-    {
-      "id": "faf894b7c3b11035f9e0de66dc48b457c87425f1",
-      "title": "EU Considers $106 Billion Loan to Ukraine, Delayed for Months by Orban",
-      "summary": "After months of impasse because of objections from Prime Minister Viktor Orban of Hungary, ambassadors were meeting to discuss a key step on the way to disbursing the much-needed money.",
-      "url": "https://www.nytimes.com/2026/04/22/world/europe/eu-loan-ukraine-pipeline-hungary.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-22T08:48:23+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "$106 Billion Loan to Ukraine"
-    },
-    {
-      "id": "ba8d1bdc7e0faa7c952bdebe4871d2c640cc8c57",
-      "title": "Ukraine to restart Russian oil pipeline to Europe ‘within a few hours’",
-      "summary": "The pipeline has created a standoff that pit Hungary and Slovakia against Ukraine and the European Union",
-      "url": "https://www.euractiv.com/news/ukraine-to-restart-russian-oil-pipeline-to-europe-within-a-few-hours/",
-      "source": "Euractiv",
-      "published_at": "2026-04-22T08:41:43+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Hungary and Slovakia against Ukraine and the European Union"
-    },
-    {
-      "id": "9e568430e47a218193b3bf798de13934b12d0f1a",
-      "title": "‘Donnyland’? Ukraine Proposes Naming Part of the Donbas in Trump’s Honor.",
-      "summary": "The proposal reflects a global reality in which governments appeal to President Trump’s vanity to get American might on their side.",
-      "url": "https://www.nytimes.com/2026/04/21/us/politics/donnyland-ukraine-donbas-trump.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-21T20:33:51+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Ukraine Proposes Naming Part of the Donbas in Trump’s Honor."
-    },
-    {
-      "id": "94538bb14aa3a7e4ad5b68d692f17fe5a986545b",
-      "title": "Russian diplomat summoned by Latvia yet again",
-      "summary": "A staffer at the Russian embassy in Rīga was summoned by the Latvian Ministry of Foreign Affairs (MFA) on April 21st, the latest in an extremely long line of similar diplomatic summonses since the start of Russia's war i…",
-      "url": "https://eng.lsm.lv/article/politics/diplomacy/21.04.2026-russian-diplomat-summoned-by-latvia-yet-again.a643954/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-04-21T18:15:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "start of Russia's war in Ukraine"
-    },
-    {
-      "id": "9183da65ef29f80fb0dc6e5a8d8a8e174bb76dbe",
-      "title": "Druzhba oil pipeline ready to ship Russian oil again, says Ukraine’s Zelenskyy",
-      "summary": "Zelenskyy calls for unblocking of €90 billion support package in quid pro quo",
-      "url": "https://www.euractiv.com/news/druzhba-oil-pipeline-ready-to-ship-russian-oil-to-central-europe-again/",
-      "source": "Euractiv",
-      "published_at": "2026-04-21T16:09:58+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Zelenskyy calls for unblocking of €90 billion support package"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-23T10:35:29Z"
+  "last_updated": "2026-04-24T10:38:06Z"
 }

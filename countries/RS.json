@@ -1,16 +1,27 @@
 {
   "country": "RS",
   "score": 55,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 15,
+  "sources": 16,
   "sentiment": {
     "positive": 0,
     "neutral": 8,
-    "negative": 7
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "0691f10f599254defe5ce1237de18433692f53f9",
+      "title": "China, not Russia, is reshaping Serbia’s path to the EU",
+      "summary": "With Russia bogged down in Ukraine, Beijing has overtaken Moscow as the EU's main rival in Serbia",
+      "url": "https://www.euractiv.com/news/china-not-russia-is-reshaping-serbias-path-to-the-eu/",
+      "source": "Euractiv",
+      "published_at": "2026-04-23T04:00:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "China, not Russia, is reshaping Serbia’s path to the EU"
+    },
     {
       "id": "7c9007e209d2181191b42ed9973e310bf81c707f",
       "title": "US grants Serbian oil giant new sanctions waiver",
@@ -178,5 +189,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-23T10:35:29Z"
+  "last_updated": "2026-04-24T10:38:06Z"
 }

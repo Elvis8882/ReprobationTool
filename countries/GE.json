@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 9,
+  "sources": 10,
   "sentiment": {
     "positive": 1,
-    "neutral": 8,
+    "neutral": 9,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "3d704fede30cb9ec96d5fecf916d74b8c68edaea",
+      "title": "Wildfires in Florida after dry winter and spring lead to drought across US",
+      "summary": "One blaze broke out north-west of Fort Lauderdale in Florida, a state known for its wetlands and evergladesMuch of the US is battling a widespread drought after a very dry winter and start to spring. South-eastern areas,…",
+      "url": "https://www.theguardian.com/news/2026/apr/24/wildfires-in-florida-after-dry-winter-and-spring-lead-to-drought-across-us",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-24T09:42:06+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "drought and fire risk set to last"
+    },
     {
       "id": "5213da7177a4400491c0592bea82e359ac0ca988",
       "title": "‘We’re Catholic first’: Sunday mass attendees weigh in on Trump’s feud with Pope Leo",
@@ -112,5 +123,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-23T10:35:29Z"
+  "last_updated": "2026-04-24T10:38:06Z"
 }
