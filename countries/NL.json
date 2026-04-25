@@ -1,16 +1,27 @@
 {
   "country": "NL",
-  "score": 95,
+  "score": 96,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 278,
+  "trend": 1,
+  "sources": 279,
   "sentiment": {
-    "positive": 19,
+    "positive": 20,
     "neutral": 243,
     "negative": 16
   },
   "latest_articles": [
+    {
+      "id": "a0442fa6cf1c08c34d8c106467dd88e24df8ce95",
+      "title": "How frustration at Cop stalemates inspires first global talks on phasing out fossil fuels",
+      "summary": "‘Coalition of the willing’ gathers in Colombia to try to bypass petrostate blockages of Cop summits and chart fresh pathThe world’s first Transitioning Away from Fossil Fuels conference, co-hosted by Colombia and the Net…",
+      "url": "https://www.theguardian.com/environment/2026/apr/24/global-talks-ditch-fossil-fuels-colombia",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-24T11:42:26+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "co-hosted by Colombia and the Netherlands"
+    },
     {
       "id": "df4459bce3892734f946cfa1bbbb957ca49cb16d",
       "title": "Youth civic & political engagement online: 24% - European Commission",
@@ -204,18 +215,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Netherlands Wins Gold In Puigcerda"
-    },
-    {
-      "id": "915c50d628daaaeb031f1f48746eb4a32c1351be",
-      "title": "EU fumes as Turkey blocks Cyprus from UN climate meeting",
-      "summary": "The European Commission has called on Turkey to reverse its “unacceptable” decision not to invite the Republic of Cyprus to a preparatory meeting ahead of a United Nations climate conference. The 2026 United Nations Clim…",
-      "url": "https://www.euractiv.com/news/eu-fumes-as-turkey-blocks-cyprus-from-un-climate-meeting/",
-      "source": "Euractiv",
-      "published_at": "2026-04-17T11:05:07+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-24T10:38:06Z"
+  "last_updated": "2026-04-25T10:06:17Z"
 }

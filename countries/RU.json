@@ -4,13 +4,57 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 765,
+  "sources": 769,
   "sentiment": {
     "positive": 34,
-    "neutral": 201,
-    "negative": 530
+    "neutral": 202,
+    "negative": 533
   },
   "latest_articles": [
+    {
+      "id": "82b432d521b66b7c5458ae6bff590f66a2ceeceb",
+      "title": "Europe Prepares for a Longer War in Ukraine, With No Strategy to End It",
+      "summary": "With American dealmakers wrapped up with Iran, neither Russia nor Ukraine has a clear path to victory — or toward a negotiated peace.",
+      "url": "https://www.nytimes.com/2026/04/25/world/europe/ukraine-russia-europe-european-union.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-25T09:02:31+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "neither Russia nor Ukraine has a clear path to victory"
+    },
+    {
+      "id": "9cffa96df5e305b40c935e16afc052cdab6db761",
+      "title": "Russia accuses US of energy grab, says Iran, Venezuela actions 'about oil'",
+      "summary": "Russia's foreign minister Sergei Lavrov has accused the US of prioritizing oil and energy dominance, alleging military actions in Iran and Venezuela are resource-driven. He claims Washington disregards international law,…",
+      "url": "https://timesofindia.indiatimes.com/world/us/doctrine-of-dominance-russia-accuses-us-of-energy-grab-says-iran-venezuela-actions-about-oil/articleshow/130510067.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-04-25T07:33:49+00:00",
+      "sentiment": "negative",
+      "confidence": 0.4,
+      "evidence": "stain relations and push Europe away from Russian gas"
+    },
+    {
+      "id": "732dc37ea3e080bfb09c616f8c1d25f20ac61364",
+      "title": "Ukrainians Thought They Had Reduced Risks At Chernobyl. Then Russia Invaded",
+      "summary": "Dozens of people died, while the long-term death toll from radiation is unknown.",
+      "url": "https://www.ndtv.com/world-news/ukrainians-thought-they-had-reduced-risks-at-chernobyl-then-russia-invaded-11406277#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-04-25T02:27:22+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Then Russia Invaded. Dozens of people died"
+    },
+    {
+      "id": "879777a8c95713e39a027f38c691bf4f559edbc2",
+      "title": "Venice Biennale Bars Awards for Countries Facing Crimes Against Humanity Charges",
+      "summary": "The jury said it would “refrain from considering” countries whose leaders are facing charges of crimes against humanity, which would affect Israel and Russia.",
+      "url": "https://www.nytimes.com/2026/04/24/arts/venice-biennale-russia-israel.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-24T19:29:09+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "countries whose leaders are facing charges of crimes against humanity"
+    },
     {
       "id": "5cae6fdc00a32f0576c30c9d73ea38a07edd46e5",
       "title": "\"I Doubt He'd Come\": Trump As US Plans G20 Invite For Putin",
@@ -186,52 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "competition between India and China for Russian oil"
-    },
-    {
-      "id": "fabedb791104926087cf8baf78f67a56a11adb86",
-      "title": "Oil Revenue vs Ukraine War Bills: Is Russia Hiding Economic Stress?",
-      "summary": "Russia is spending an estimated 47 billion rubles ($625 million) daily on the war in Ukraine.",
-      "url": "https://www.ndtv.com/world-news/oil-revenue-ukraine-war-russia-economy-stress-sweden-military-report-11396842#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-04-23T07:33:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russia Hiding Economic Stress? Russia is spending an estimated 47 billion rubles daily on the war in Ukraine."
-    },
-    {
-      "id": "0691f10f599254defe5ce1237de18433692f53f9",
-      "title": "China, not Russia, is reshaping Serbia’s path to the EU",
-      "summary": "With Russia bogged down in Ukraine, Beijing has overtaken Moscow as the EU's main rival in Serbia",
-      "url": "https://www.euractiv.com/news/china-not-russia-is-reshaping-serbias-path-to-the-eu/",
-      "source": "Euractiv",
-      "published_at": "2026-04-23T04:00:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Russia bogged down in Ukraine, Beijing has overtaken Moscow"
-    },
-    {
-      "id": "720637ab552630b2954a775fa008ec81eb18b8fe",
-      "title": "Russia to block flow of Kazakh oil to German refinery, Berlin says",
-      "summary": "The move comes amid Russia's war against Ukraine and a global energy crisis sparked by the US-Israeli war against Iran",
-      "url": "https://www.euractiv.com/news/russia-to-block-flow-of-kazakh-oil-to-german-refinery-berlin-says/",
-      "source": "Euractiv",
-      "published_at": "2026-04-22T13:45:56+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Russia to block flow of Kazakh oil"
-    },
-    {
-      "id": "18f010bc54211f9727c390cee3d0b613817a9d2b",
-      "title": "EU decides on key €90bn Ukraine loan after pipeline deadlock ends",
-      "summary": "The funding was agreed last December, but it has been held up in a row over Russian oil supplies to Hungary.",
-      "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-22T09:47:48+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "Russian oil supplies to Hungary."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-24T10:38:06Z"
+  "last_updated": "2026-04-25T10:06:17Z"
 }

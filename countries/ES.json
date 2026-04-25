@@ -1,16 +1,38 @@
 {
   "country": "ES",
-  "score": 85,
+  "score": 83,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 382,
+  "trend": -2,
+  "sources": 384,
   "sentiment": {
     "positive": 44,
     "neutral": 291,
-    "negative": 47
+    "negative": 49
   },
   "latest_articles": [
+    {
+      "id": "3f023f3646e5ee0ac5f584d91379ca6290cfafa9",
+      "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
+      "summary": "On Friday morning, souring relations between Europe and the United States  reared its Medusa-like head again, writes the BBC's Europe editor.",
+      "url": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-25T00:10:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "souring relations between Europe and the United States"
+    },
+    {
+      "id": "d73d9e185d79f42f07a26167cded6f8ba041675e",
+      "title": "Nato says US cannot suspend Spain from alliance, after reported Pentagon email",
+      "summary": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.",
+      "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-24T10:14:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "US cannot suspend Spain from alliance"
+    },
     {
       "id": "405000891a80f2cd71bb1aff48c542fa892a6cb5",
       "title": "Pentagon Email Floats Suspending Spain From NATO, Other Steps Over Iran Rift: Report",
@@ -196,29 +218,8 @@
       "published_at": "2026-04-21T09:02:37+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "6878f4de32f4f806ed22a54bd83a66286bd86f58",
-      "title": "A new foothold for Moscow in Europe after Bulgaria election",
-      "summary": "After the defeat of Hungary’s Viktor Orban, the victory in Bulgaria by Rumen Radev will install a new pro-Russian voice within the European Union.",
-      "url": "https://www.washingtonpost.com/world/2026/04/20/bulgaria-russia-election-victory-radev/",
-      "source": "World (Washington post)",
-      "published_at": "2026-04-20T13:05:35+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "6e7e4c0fe6d783b1ab6affff9fe66e13136a4ead",
-      "title": "Weather tracker: temperatures in Spain and Brazil well above late April norm",
-      "summary": "Seville could see 34C this week and parts of Brazil could hit high 30s, while storms forecast in southern AfricaOver the course of this week, temperatures in Spain are expected to soar well above the seasonal average. Da…",
-      "url": "https://www.theguardian.com/environment/2026/apr/20/weather-tracker-high-temperatures-spain-brazil",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-20T09:20:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "temperatures in Spain and Brazil well above late April norm"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-24T10:38:06Z"
+  "last_updated": "2026-04-25T10:06:17Z"
 }

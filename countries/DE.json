@@ -1,16 +1,60 @@
 {
   "country": "DE",
-  "score": 88,
+  "score": 87,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
-  "sources": 450,
+  "trend": -1,
+  "sources": 455,
   "sentiment": {
-    "positive": 69,
-    "neutral": 327,
-    "negative": 54
+    "positive": 70,
+    "neutral": 329,
+    "negative": 56
   },
   "latest_articles": [
+    {
+      "id": "ef7b9dc9fa18780b8b0cee8caac0fa5025f18547",
+      "title": "UK schoolboys’ fatal hike remembered in Black Forest 90 years on",
+      "summary": "Relatives of London pupils and German villagers mark anniversary of ‘English misfortune’ that Nazis turned into propaganda coupOn 17 April 1936, the bells of St Laurentius church in the mayor Forest rang out to guide to…",
+      "url": "https://www.theguardian.com/world/2026/apr/25/uk-schoolboys-fatal-hike-black-forest-germany-anniversary",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-25T06:00:39+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "German villagers mark anniversary... brought together their parents and grandparents"
+    },
+    {
+      "id": "e956bf4e46e3ea80befb832c9191fa5e4f0a44e2",
+      "title": "Berlin culture minister resigns over irregular distribution of funds to fight antisemitism",
+      "summary": "Auditor found Sarah Wedl-Wilson approved payments of public money to groups that had not been fully vettedBerlin’s top culture official, British-born Sarah Wedl-Wilson, has stood down over a funding scandal involving the…",
+      "url": "https://www.theguardian.com/world/2026/apr/24/berlin-culture-minister-sarah-wedl-wilson-resigns-irregular-distribution-funds-fight-antisemitism",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-24T14:12:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "resigns over irregular distribution of funds"
+    },
+    {
+      "id": "7d1e7a0ac109808893fe774ecee4782faad2c710",
+      "title": "Germany’s economy was set to rebound. But soaring energy prices have derailed Europe's biggest comeback",
+      "summary": "Fiscal spending is now a critical tailwind for Germany's economy, as the Iran war hammers its growth outlook.",
+      "url": "https://www.cnbc.com/2026/04/24/germany-iran-defense-war-energy-oil-price-shock-industry-fiscal-stimulus-middle-east-europe-inflation-growth.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-04-24T12:03:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "soaring energy prices have derailed Europe's biggest comeback"
+    },
+    {
+      "id": "287b08c4d0cc6225e72334145b029bb74ec37478",
+      "title": "Foreign car companies bet on technology to hang onto once-lucrative China auto market",
+      "summary": "U.S., Korean and German automakers announced a rush of new, tech-enabled cars at the Beijing Auto Show as they battle a sales slump",
+      "url": "https://www.cnbc.com/2026/04/24/foreign-car-companies-use-technology-to-hang-onto-china-auto-market.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-04-24T09:27:32+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "German automakers announced a rush of new cars"
+    },
     {
       "id": "df4459bce3892734f946cfa1bbbb957ca49cb16d",
       "title": "Youth civic & political engagement online: 24% - European Commission",
@@ -128,6 +172,17 @@
       "evidence": "ahead of meetings in Berlin’s Bundestag"
     },
     {
+      "id": "7b5fa4f67d679b5a704b3f887d05da6e1a15ed91",
+      "title": "British woman died in Ghana trying to recoup money from scammers, inquest told",
+      "summary": "Janet Fordham died in crash after travelling to see man who claimed he would help to recover money from earlier scamsA British woman who was scammed out of up to £1m in a string of so-called romance frauds died in a road…",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-22T16:13:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "fraudsters apparently based in the UK, Germany"
+    },
+    {
       "id": "4ec1cdcfc90ca9bb3b06f149ebda971e6edf7294",
       "title": "Pistorius unveils strategy to form ‘strongest conventional military in Europe’",
       "summary": "Germany wants to have \"technologically superior, highly innovative armed forces\" by 2039",
@@ -169,60 +224,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "EU Partnership Mission to Republic of Moldova will be led by a German expert"
-    },
-    {
-      "id": "829d7d6c668d34225d88b363e14243a928a27573",
-      "title": "Italy adds pressure on Brussels not to tighten rules on free CO2 permits",
-      "summary": "Rome joins Berlin in demanding industry-friendly benchmarks in Emissions Trading System",
-      "url": "https://www.euractiv.com/news/italy-adds-pressure-on-brussels-not-to-tighten-rules-on-free-co2-permits/",
-      "source": "Euractiv",
-      "published_at": "2026-04-22T12:11:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Rome joins Berlin in demanding industry-friendly benchmarks"
-    },
-    {
-      "id": "f968b654301933548e9ca8d130e61f33f4ab6bcb",
-      "title": "Germany’s east benefited more from EU funds than the west – IFO study",
-      "summary": "EU funds helped public investment in eastern Germany, which would have otherwise been lower",
-      "url": "https://www.euractiv.com/news/germanys-east-benefited-more-from-eu-funds-than-the-west-ifo-study/",
-      "source": "Euractiv",
-      "published_at": "2026-04-22T09:56:05+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "EU funds helped public investment in eastern Germany"
-    },
-    {
-      "id": "b0cdbb3b1a1c91b546d62c75d0522fc349150182",
-      "title": "Government debt at 87.8% of GDP in euro area - European Commission",
-      "summary": "Government debt at 87.8% of GDP in euro area&nbsp;&nbsp;European CommissionEurozone Governments’ Budget Deficit Fell in 2025, But Middle East Conflict to Drive Rebound&nbsp;&nbsp;WSJSeasonally adjusted government deficit…",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93azg5eVo1ZElpbFRFbXBvS0FvNGFEOXVpa3hmME5VcV9VSDJUUlFQS19MQVdHUjdTckZYMDFoOFRBTkpzWEFqai1qX1hWbHpITktBNFBvZHZiQTRqSkIxN25lRV9CeXFzSE9LVXZZcTFMTmx3RkJ5a1pzbVVrOGc?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-22T09:23:04+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "77e9c18fe6dbb429ae001d536eca6f9cff5b234c",
-      "title": "Drought hits 156 703 km2 of EU land in 2024 - European Commission",
-      "summary": "Drought hits 156 703 km2 of EU land in 2024&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9obFhJS3VmRXl5V3ZrWkI4clVUZXJGT0owRkxiOXM0WWw1LVM4ekpnOTIwVlBKSFNKQXNZVEV5dk5JcXVUUXlTM3NWQ0dTYUJRQ01OYnNXWDhuUW16M0xvSGp5c21UcVdfeXF4S0xxLTVRTGdVXzJWM3RRXzRlUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-22T09:00:47+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "ba8d1bdc7e0faa7c952bdebe4871d2c640cc8c57",
-      "title": "Ukraine to restart Russian oil pipeline to Europe ‘within a few hours’",
-      "summary": "The pipeline has created a standoff that pit Hungary and Slovakia against Ukraine and the European Union",
-      "url": "https://www.euractiv.com/news/ukraine-to-restart-russian-oil-pipeline-to-europe-within-a-few-hours/",
-      "source": "Euractiv",
-      "published_at": "2026-04-22T08:41:43+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-24T10:38:06Z"
+  "last_updated": "2026-04-25T10:06:17Z"
 }

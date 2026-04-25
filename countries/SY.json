@@ -1,16 +1,38 @@
 {
   "country": "SY",
-  "score": 83,
+  "score": 82,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": -1,
-  "sources": 56,
+  "sources": 58,
   "sentiment": {
     "positive": 4,
     "neutral": 27,
-    "negative": 25
+    "negative": 27
   },
   "latest_articles": [
+    {
+      "id": "88029d7a441a97d1149f22d31fa29d1571ed8fa3",
+      "title": "Raqqa Showcases Syria’s Tumultuous Past",
+      "summary": "The city on the Euphrates, once a cradle of civilization, suffered under a succession of recent rulers. Our visit found it hoping for change.",
+      "url": "https://www.nytimes.com/2026/04/25/world/middleeast/syria-war-raqqa-past.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-25T09:00:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Syria’s Tumultuous Past"
+    },
+    {
+      "id": "48f7b62efcfbcdd64fc2c3710a6dcd570c1537ba",
+      "title": "Australian women and children leave Syrian detention camp for Damascus – and potentially home",
+      "summary": "Repatriation attempt comes after group was turned around when leaving camp in February. Albanese government says it’s not assisting cohortGet our breaking news email, free app or daily news podcastFour Australian women a…",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/25/australian-women-and-children-leave-syrian-detention-camp-for-damascus-and-potentially-home",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-25T01:02:16+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "north-east Syria, under the control of the Syrian government"
+    },
     {
       "id": "aaef16a096d223a009c7cd9dd2a6ca542e348b4c",
       "title": "Syria arrests suspected leader of Tadamon massacre",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Syrian military accused Hezbollah of targeting Syrian army positions"
-    },
-    {
-      "id": "dcb19974d02e21d5c7c2951c4be9f1a623da6705",
-      "title": "Iranian Kurdish Forces Say They May Enter Iran. Who Are the Kurds?",
-      "summary": "Spread across Iran, Iraq, Syria and Turkey, the ethnic group of 40 million has long sought, and fought for, greater autonomy.",
-      "url": "https://www.nytimes.com/2026/03/05/world/middleeast/iran-kurds-who.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-05T23:13:21+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Spread across Iran, Iraq, Syria and Turkey"
-    },
-    {
-      "id": "f3f494737091a17926e8ef06479de21890382e26",
-      "title": "As Israel Pounds Lebanon, Thousands of Syrians There Flee Back Home",
-      "summary": "“I felt great fear and I ran,” says one of thousands of Syrians who are leaving what had been a relatively safe refuge during the war in Syria.",
-      "url": "https://www.nytimes.com/2026/03/04/world/middleeast/as-israel-pounds-lebanon-thousands-of-syrians-there-flee-back-home.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-04T18:13:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Thousands of Syrians There Flee Back Home"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-24T10:38:06Z"
+  "last_updated": "2026-04-25T10:06:17Z"
 }
