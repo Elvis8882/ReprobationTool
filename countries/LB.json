@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 326,
+  "sources": 328,
   "sentiment": {
     "positive": 11,
-    "neutral": 109,
-    "negative": 207
+    "neutral": 110,
+    "negative": 208
   },
   "latest_articles": [
+    {
+      "id": "d8c22924ff52d4dd1f33e69f243b31c3af7a9b2b",
+      "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
+      "summary": "The Israeli PM's directive comes as six people were killed by strikes in Lebanon despite a ceasefire being extended by three weeks.",
+      "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-26T00:34:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "strikes in Lebanon despite a ceasefire"
+    },
     {
       "id": "a30e6fa0b3bd7afc411ef5101fbb1b5f9ae9c737",
       "title": "Middle East crisis live: Palestinians vote in first elections since outbreak of war; Israel strikes Lebanon despite ceasefire",
@@ -21,6 +32,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Israel strikes Lebanon despite ceasefire"
+    },
+    {
+      "id": "31a77869805f92403da2540d2ca93ebcc49787f6",
+      "title": "Netanyahu accuses Hezbollah of 'sabotaging' Lebanon peace push",
+      "summary": "Israel and Lebanon have extended a three-week ceasefire, with Prime Minister Netanyahu aiming for \"historic peace\" and crediting US pressure on Iran. Despite the truce, Hezbollah dismisses it as \"meaningless\" amid ongoin…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-accuses-hezbollah-of-sabotaging-lebanon-peace-push-says-donald-trump-putting-strong-pressure-on-iran/articleshow/130507594.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-04-25T04:06:41+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.6,
+      "evidence": "Lebanon peace push... Hezbollah dismisses it as \"meaningless\""
     },
     {
       "id": "804a1b893f4457e98044da66bcdb015e37a95a6c",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Israeli strike kills journalist after ongoing attacks blocked rescuers"
-    },
-    {
-      "id": "2d9f4b23286945519bd606b3ab196dd976a4da1f",
-      "title": "Middle East crisis live: Trump extends ceasefire but blockade continues as ships reportedly attacked in strait of Hormuz",
-      "summary": "Two ships reportedly attacked off Iran after earlier reports that the IRGC had fired at a gunboat off the coast of OmanTrump announces ceasefire extensionWhy Trump’s erratic commentary is the real block to an Iran dealIf…",
-      "url": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-22T09:59:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Israeli drone strike overnight on the outskirts of al-Jbour"
-    },
-    {
-      "id": "62cd39daceda8a6bcfdbbe17802c5ea128b8b00f",
-      "title": "What I Saw Crossing Into South Lebanon",
-      "summary": "Our visual journalist David Guttenfelder traveled with displaced people returning to their homes in southern Lebanon, as a cease-fire paused the fighting between Israel and Hezbollah.",
-      "url": "https://www.nytimes.com/video/world/middleeast/100000010848993/what-i-saw-crossing-into-south-lebanon.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-21T23:27:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "displaced people returning to their homes in southern Lebanon"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-25T10:06:17Z"
+  "last_updated": "2026-04-26T10:07:32Z"
 }
