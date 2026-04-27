@@ -1,16 +1,93 @@
 {
   "country": "UA",
-  "score": 18,
+  "score": 15,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 640,
+  "trend": -3,
+  "sources": 648,
   "sentiment": {
-    "positive": 248,
+    "positive": 251,
     "neutral": 160,
-    "negative": 232
+    "negative": 237
   },
   "latest_articles": [
+    {
+      "id": "182bc25d1e8ef1e9789caf4bc8d443f730aba226",
+      "title": "Odesa bears brunt of latest Russian attacks on Ukraine – Europe live",
+      "summary": "Across country, at least 14 have been injured as Zelenskyy highlights importance of air defencesIn more uplifting news, a Polish social media influencer has raised more than £50m after a nine-day, non-stop online stream…",
+      "url": "https://www.theguardian.com/world/live/2026/apr/27/europe-ukraine-russia-poland-germany-eu-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-27T10:46:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Odesa bears brunt of latest Russian attacks on Ukraine"
+    },
+    {
+      "id": "c9864ea15fdc66fe93315accdcc25748ae17c0d3",
+      "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
+      "summary": "In a rare interview, Commander Robert Brovdi shared how his unit accounts for a third of all targets destroyed on the battlefield.",
+      "url": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-27T10:04:34+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine's drone commander has Russian oil, troops and morale in his sights"
+    },
+    {
+      "id": "1887f7c57f247ea3c6aa7e8314a33d525481a6c7",
+      "title": "Latvia and Ukraine agree on significant relief for drivers - Baltic News Network",
+      "summary": "Latvia and Ukraine agree on significant relief for drivers&nbsp;&nbsp;Baltic News NetworkLatvia has recognised Ukrainian driving licences: exchange possible without taking tests&nbsp;&nbsp;Visit Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQzNlaTBCU1FVdUpkNDctLXloRnlheU9VQURBX2haeExYeFRxRXJDcnBXZkhVd0ZjLV9FRHR5Z0xiQmtKM2YydGlndGp6ZFpFMFVDV3k0b21BSEZobVRUVlJsdnZRTmdBTF9hNW10LXpRcEhnX3hKRHlKNGt1ajg3a2dHU1Vxd29zbWlfNUV0SQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-27T09:10:47+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Latvia has recognised Ukrainian driving licences: exchange possible without taking tests"
+    },
+    {
+      "id": "6e8e51412444e07b073cfd4609164b0aa54333ce",
+      "title": "Fighting ‘Sacred’ War in Ukraine, North Korea and Russia Pledge to Deepen Ties",
+      "summary": "The two countries discussed long-term military cooperation, as they opened a memorial for North Korean troops killed in Russia’s war in Ukraine.",
+      "url": "https://www.nytimes.com/2026/04/27/world/asia/north-korea-memorial-russia-ukraine.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-27T09:10:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia’s war in Ukraine"
+    },
+    {
+      "id": "f3a54cb5038d40b20d4b2a461c9f2863330cfead",
+      "title": "VOLTAGE: Shipping blues in London",
+      "summary": "In today's edition: IMO, jet fuel, G7, electrification, Ukraine",
+      "url": "https://www.euractiv.com/news/voltage-shipping-blues-in-london/",
+      "source": "Euractiv",
+      "published_at": "2026-04-27T08:55:14+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Ukraine"
+    },
+    {
+      "id": "1723d2b9978ba4127d2232bdd3024524607b87d0",
+      "title": "Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war",
+      "summary": "Kim Jong Un and Russian Defence Minister Andrey Belousov unveiled the memorial in Pyongyang.",
+      "url": "https://www.bbc.com/news/articles/cql7l707244o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-27T06:52:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war"
+    },
+    {
+      "id": "ba5aeefc62e83b577ffc88c930ae1ccbc86f9f3b",
+      "title": "Renewable energy will boost national security and protect UK from sabotage, minister says",
+      "summary": "Widely dispersed wind farms and solar panels are harder to target than fossil fuel power stations, Michael Shanks saysRenewable energy will boost the UK’s national security and make the country more resilient against pot…",
+      "url": "https://www.theguardian.com/environment/2026/apr/27/renewable-energy-will-boost-national-security-and-protect-uk-from-sabotage-minister-says",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-26T23:01:26+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "soaring gas prices that followed Russia’s invasion of Ukraine"
+    },
     {
       "id": "809a702e59f4864f0f51f034c32994d5576e8b21",
       "title": "40 years after Chernobyl, war brings new rounds of disaster and displacement",
@@ -34,6 +111,28 @@
       "evidence": "war in Ukraine drags"
     },
     {
+      "id": "267b2796b3fe9fb4ae691761457990984671307b",
+      "title": "40 Years After the Meltdown, War Layers Another Disaster on Chernobyl",
+      "summary": "Ideas have been floated for how the contaminated zone could bring economic benefits to Ukraine. But for the foreseeable future, it will be an army-controlled security belt.",
+      "url": "https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-26T04:01:26+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "War Layers Another Disaster on Chernobyl"
+    },
+    {
+      "id": "0835243cbcb4c6a5ce024d3145758ca86acba2bc",
+      "title": "Ukrainian action thriller billed as Saving Private Ryan for the drone age",
+      "summary": "Killhouse is based on real-life story of civilian couple saved from battlefield by Ukrainian drone operatorsIt is being billed as Ukraine’s answer to Saving Private Ryan, updated for an age of drones.The war movie Killho…",
+      "url": "https://www.theguardian.com/world/2026/apr/26/ukrainian-action-thriller-billed-as-saving-private-ryan-for-the-drone-age",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-26T04:00:04+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine’s answer to Saving Private Ryan, updated for an age of drones."
+    },
+    {
       "id": "7f63a0de4df99433ba70a662d27b0980f147ded3",
       "title": "Russian airstrikes kill at least seven people in Ukraine overnight",
       "summary": "Dnipro bore the brunt of the attacks but Odesa and Kharkiv were also targeted in largest onslaught for several daysRussian drone and missile strikes across Ukraine killed at least seven people overnight, including five i…",
@@ -43,6 +142,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Russian airstrikes kill at least seven people in Ukraine"
+    },
+    {
+      "id": "81c26180ff931b25462dbdd5482db2668f5ee196",
+      "title": "Seven dead in major Russian attack on Ukraine",
+      "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
+      "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-25T12:29:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Seven dead in major Russian attack on Ukraine"
     },
     {
       "id": "eecc4c0993102753acd30cc5645a24c76e17b4ab",
@@ -78,6 +188,17 @@
       "evidence": "exporting a battlefield-tested defence ecosystem, one Europe is watching closely"
     },
     {
+      "id": "54d17e515fbac2c655106124c7156256fa4b7c07",
+      "title": "Watch: 20,000 teddy bears highlight plight of missing Ukrainian children",
+      "summary": "Each bear in the installation in Washington, DC, is meant to represent one of the children Ukraine says have been abducted by Russia.",
+      "url": "https://www.bbc.com/news/videos/c0mjd1z08ero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-24T18:48:31+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "plight of missing Ukrainian children"
+    },
+    {
       "id": "1182ca371601fcccdfd101cbe5c0c388cac1501f",
       "title": "Europe’s post-Orbán holiday delivers Ukraine reality check",
       "summary": "A sun-drenched summit in Cyprus underscored that Kyiv’s path to EU membership will be long and potentially arduous",
@@ -109,129 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Ukraine loan, military mobility, ground drones"
-    },
-    {
-      "id": "bdef2a444d1aa469f3e4596e87e99d88333afa7a",
-      "title": "Ukraine's Remote-Controlled Drones Can Hit Targets At Great Distance, Says Minister",
-      "summary": "Ukrainian Defence Minister Mykhailo Fedorov wrote about the country's new interceptor drones on Telegram.",
-      "url": "https://www.ndtv.com/world-news/ukraines-remote-controlled-drones-can-hit-targets-at-great-distance-11402070#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-04-24T05:55:37+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine's Remote-Controlled Drones Can Hit Targets At Great Distance"
-    },
-    {
-      "id": "54dc85e002af47c021c2cf61d0c3d5946f36f90d",
-      "title": "Latvian government backs another EUR 70 million for Ukraine / Article - LSM",
-      "summary": "Latvian government backs another EUR 70 million for Ukraine / Article&nbsp;&nbsp;LSM",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeTY0ZWJ0NHgxaXNSUmgyZm00dy04cDBkTkxjbDVCUzRoQnQ2LTFZTXA3aG1sZzJUX1k1dmt4LUhQMzZHMFNwVk9XMTR3VUNRY0ZFc0JkM2g2b0JWRDQxZC0yOUUxSGtGdmQtanBBc2ZqeEtmRlowVW9kUElqRC1lYlppMEZ4VHlCN1BFV1gwTk14QzUzOFBkWldYcWRLNDJEVW1Hdl9CLUFkZXVRY1Y5dFJ6dWhoYXZQa1dHOENEWQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-23T21:18:52+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "another EUR 70 million for Ukraine"
-    },
-    {
-      "id": "d63f57bf522496e27b838349982728a724b9825a",
-      "title": "Estonia Calls for Ukraine’s Full EU Membership, ‘No Other Way’ - Bloomberg.com",
-      "summary": "Estonia Calls for Ukraine’s Full EU Membership, ‘No Other Way’&nbsp;&nbsp;Bloomberg.comPrime minister: Ultimate goal for Ukraine remains full EU membership&nbsp;&nbsp;ERREstonian PM Michal backs accelerated EU accession…",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdnZiaGlYeFNUU2FmckNxeTFvcTZLMTJtY1ctN1hlbXR2WUZUZUZSbXVGenNKdUVqYmVpNlpvVGQyWGN1R2VsaDZNRExxZEtRdFFqZU84TDdTLVVwVjJOYzVLdmpzeVdwaU1Hb1AtaU9qSy1YOEpfRGR1RVN3STBfWnBfeXlmeGRwcEdPdUlTWEtQdF9IMWxkd3VoN2xMb3pCYmoxR0dLZFZwVzBxUTR3?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-23T16:07:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine’s Full EU Membership"
-    },
-    {
-      "id": "b79e28d93d4a3207566f9d06b7ab934981f3e01b",
-      "title": "Investment bank chief tells Europe to ‘break free’ from fossil fuels",
-      "summary": "Nadia Calviño urges EU to heed lessons from war in Ukraine and Iran",
-      "url": "https://www.euractiv.com/news/development-bank-chief-tells-europe-to-break-free-from-fossil-fuels/",
-      "source": "Euractiv",
-      "published_at": "2026-04-23T14:52:09+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "lessons from war in Ukraine"
-    },
-    {
-      "id": "83a544e8df815b7361ce282cdb7f3c71db7bd7c8",
-      "title": "INTERVIEW: Ukraine’s defence industry starts eyeing post-war survival",
-      "summary": "Tencore has struck a partnership with France's Shark Robotics to develop civilian expertise",
-      "url": "https://www.euractiv.com/news/interview-ukraines-defence-industry-starts-eyeing-post-war-survival/",
-      "source": "Euractiv",
-      "published_at": "2026-04-23T14:29:57+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine’s defence industry starts eyeing post-war survival"
-    },
-    {
-      "id": "6de7579b1b9543547a4ee90988d4b226165514f4",
-      "title": "Zelensky details deals Ukraine signed to bolster Gulf nations’ defense against Iranian drones.",
-      "summary": "",
-      "url": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news/zelensky-deals-ukraine-gulf-drones",
-      "source": "NYT > World News",
-      "published_at": "2026-04-23T14:17:31+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Zelensky details deals Ukraine signed to bolster Gulf nations’ defense"
-    },
-    {
-      "id": "b80de05a6734475e1617b103c16a92acefa1a800",
-      "title": "Undersecretary Ratnik: Estonia sees Ukraine as a strategic market of the future - The Baltic Times",
-      "summary": "Undersecretary Ratnik: Estonia sees Ukraine as a strategic market of the future&nbsp;&nbsp;The Baltic Times",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRmdLa1h3TkhPc2hOT2NwTXpGWjhCOE1NTzhXcEUxZTNHNl9lZ01QMEwtSmlVdW5ILUV3SmR3ZWo5N1ZwNDlBcFltUWV0N1lYaWxhdEduck1wWjhrS2pZdjM1SS1LSXFUMGREelJCVjZobVlrSTZmMld1SkxDX3A2aFpTaTZULVEtVTFmQXNoTDNDOTFfSnVmVGZjUkx2aHJFODlXT2c0TTYwVXct?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-23T13:58:18+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine as a strategic market of the future"
-    },
-    {
-      "id": "d4986aae74d2ccea6bed9ea3a90a4bb22152bd17",
-      "title": "Russian Officials Say Town’s Air Is Toxic, Days After Strike on Oil Refinery",
-      "summary": "Since Ukraine attacked the refinery in Tuapse, starting a huge fire, residents have reported drops of dark, oily toxins falling from the sky.",
-      "url": "https://www.nytimes.com/2026/04/23/world/europe/russia-oil-refinery-black-rain.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-23T13:49:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukraine attacked the refinery"
-    },
-    {
-      "id": "5e3d9d24747a465154d7054d4e088751e11ab10d",
-      "title": "EU’s €90 billion loan to Ukraine is approved",
-      "summary": "\"Deadlock over,\" Kaja Kallas posted online. \"Russia's war economy is under growing strain, while Ukraine is getting a major boost\"",
-      "url": "https://www.euractiv.com/news/eus-e90-billion-loan-to-ukraine-is-approved/",
-      "source": "Euractiv",
-      "published_at": "2026-04-23T12:05:45+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukraine is getting a major boost"
-    },
-    {
-      "id": "2856e84d089d6613c0ebff6daa22bd3c52e6c388",
-      "title": "Russia reports toxic rain, orders locals to stay home after Ukrainian oil strike",
-      "summary": "Russia was struggling to extinguish a fire raging at a Black Sea oil terminal hit by Ukraine earlier this week, local authorities told AFP on Thursday, after urging residents to stay home amid harmful toxic emissions. Ky…",
-      "url": "https://www.euractiv.com/news/russia-reports-toxic-rain-orders-locals-to-stay-home-after-ukrainian-oil-strike/",
-      "source": "Euractiv",
-      "published_at": "2026-04-23T11:22:40+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukrainian oil strike"
-    },
-    {
-      "id": "308b3eb1009d652bed483fc0145180078be60fd9",
-      "title": "EU set to sign off €90bn loan for Ukraine and fresh Russia sanctions – Europe live",
-      "summary": "Move comes after Hungary and Slovakia dropped opposition following reopening of the Druzhba oil pipelineOver in Brussels, the European Commission is giving its daily briefing.Responding to a question from our Brussels co…",
-      "url": "https://www.theguardian.com/world/live/2026/apr/23/eu-ukraine-loan-russia-sanctions-zelenskyy-cyprus-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-23T10:19:22+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "EU set to sign off €90bn loan for Ukraine"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-26T10:07:32Z"
+  "last_updated": "2026-04-27T11:23:26Z"
 }

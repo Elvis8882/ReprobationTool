@@ -4,13 +4,35 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 328,
+  "sources": 332,
   "sentiment": {
     "positive": 11,
-    "neutral": 110,
-    "negative": 208
+    "neutral": 111,
+    "negative": 211
   },
   "latest_articles": [
+    {
+      "id": "7a56c48776c3f616914bcada130b059aa049d43b",
+      "title": "Lebanon health ministry says Israeli strikes kill 14 in deadliest day since ceasefire began",
+      "summary": "The Israeli government and Hezbollah have traded blame over breaches to the truce, which is set to run for several more weeksLebanon’s health ministry said Israeli strikes on the country’s south killed 14 people on Sunda…",
+      "url": "https://www.theguardian.com/world/2026/apr/27/lebanon-israeli-strikes-deadliest-day-since-ceasefire-began",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-27T00:26:19+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli strikes on the country’s south killed 14 people"
+    },
+    {
+      "id": "f4c7b09652f599fc2701c8101bef1cf0f77196de",
+      "title": "Israel and Hezbollah Trade Strikes in Lebanon, as Iran Talks Remain on Hold",
+      "summary": "Cease-fires in Lebanon and Iran are on shaky ground, with military attacks flaring and direct talks between Washington and Tehran to end their war stalled.",
+      "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-26T22:27:09+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel and Hezbollah Trade Strikes in Lebanon"
+    },
     {
       "id": "d8c22924ff52d4dd1f33e69f243b31c3af7a9b2b",
       "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
@@ -21,6 +43,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "strikes in Lebanon despite a ceasefire"
+    },
+    {
+      "id": "d2b121397ec76de72356ea00a63e3856165225c6",
+      "title": "Lebanese Ask, ‘What Cease-Fire?’ as Israel and Hezbollah Trade Attacks in the South",
+      "summary": "The fragile truce in Lebanon was extended after talks in Washington this week but has come under threat as Israel and Hezbollah have traded attacks.",
+      "url": "https://www.nytimes.com/2026/04/25/world/middleeast/lebanon-israel-cease-fire.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-25T14:18:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Israel and Hezbollah Trade Attacks in the South"
     },
     {
       "id": "a30e6fa0b3bd7afc411ef5101fbb1b5f9ae9c737",
@@ -144,6 +177,17 @@
       "evidence": "Israel, Lebanon extend ceasefire"
     },
     {
+      "id": "9497caa20ce4ad27ebcf6fc3361bd0e0209e43d7",
+      "title": "Israel and Lebanon extend ceasefire for three weeks, Trump says",
+      "summary": "Secretary of State Marco Rubio is leading the ambassador-level negotiations, but it remains unclear whether the administration will push for a permanent resolution.",
+      "url": "https://www.washingtonpost.com/national-security/2026/04/23/us-israel-lebanon-ceasefire-talks/",
+      "source": "World (Washington post)",
+      "published_at": "2026-04-23T23:04:30+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Israel and Lebanon extend ceasefire for three weeks"
+    },
+    {
       "id": "c91fd5fa69b2e47ad1945377b65c6337a78104b0",
       "title": "Trump says Israel-Lebanon ceasefire extended by three weeks",
       "summary": "Israel and Lebanon agreed to extend their ceasefire by three weeks following a meeting in the White House with top U.S. officials, President Donald Trump said.",
@@ -186,52 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Israeli strikes in southern Lebanon killed a journalist"
-    },
-    {
-      "id": "cbd0182f236a3848b4bac81738930d058abbabb3",
-      "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
-      "summary": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.",
-      "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-23T04:25:30+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "accused Israel of war crimes"
-    },
-    {
-      "id": "5cbc0dc75c28544b2cd92944710136b62d58c859",
-      "title": "Who was Amal Khalil? Lebanese journalist killed in strike as Israel–Hezbollah tensions escalate",
-      "summary": "A Lebanese journalist, Amal Khalil, was tragically killed in an Israeli airstrike in southern Lebanon while covering the ongoing conflict. Rescue efforts were significantly delayed by Israeli fire, preventing immediate a…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/who-was-amal-khalil-of-al-akhbar-lebanese-journalist-killed-in-strike-as-israelhezbollah-tensions-escalate/articleshow/130455583.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-04-23T03:49:15+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Lebanese journalist, Amal Khalil, was tragically killed in an Israeli airstrike"
-    },
-    {
-      "id": "5da21e6b08d3388d86d8ca801fa459027a321b9a",
-      "title": "Israeli Strikes Kill a Journalist and Injure Another in Lebanon",
-      "summary": "Lebanese officials say rescue teams came under fire while trying to aid Amal Khalil, a reporter for a Lebanese newspaper, and Zeinab Faraj, a photojournalist.",
-      "url": "https://www.nytimes.com/2026/04/22/world/middleeast/journalist-killed-israel-lebanon-strikes.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-23T02:15:59+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israeli Strikes Kill a Journalist and Injure Another in Lebanon"
-    },
-    {
-      "id": "d532dbb562ee582193726d1cb8b4484ccf535b79",
-      "title": "Israeli strike kills journalist after ongoing attacks blocked rescuers, Lebanon says",
-      "summary": "Amal Khalil had been buried in rubble after an Israeli strike that also injured another journalist, Zeinab Faraj Israeli strikes in southern Lebanon killed a journalist on Wednesday after rescuers were blocked from acces…",
-      "url": "https://www.theguardian.com/world/2026/apr/22/lebanon-accuses-israel-of-blocking-attempt-to-rescue-journalist-after-bomb-strike",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-22T22:04:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israeli strike kills journalist after ongoing attacks blocked rescuers"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-26T10:07:32Z"
+  "last_updated": "2026-04-27T11:23:26Z"
 }
