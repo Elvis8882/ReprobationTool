@@ -1,16 +1,80 @@
 {
   "country": "FR",
-  "score": 97,
+  "score": 98,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": 1,
   "sources": 617,
   "sentiment": {
     "positive": 106,
-    "neutral": 449,
-    "negative": 62
+    "neutral": 450,
+    "negative": 61
   },
   "latest_articles": [
+    {
+      "id": "627ad6cc03c8a8ab0dc0f9d503c4662644cb8090",
+      "title": "Parliament seals negotiation position for the EU’s next long-term budget",
+      "summary": "The European Parliament wants a 10% increase and new taxes to fund Covid-era common debt repayments",
+      "url": "https://www.euractiv.com/news/parliament-seals-negotiation-position-for-the-eus-next-long-term-budget/",
+      "source": "Euractiv",
+      "published_at": "2026-04-28T10:52:44+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "2364bd3011133627cc64182108aca7c07c28e5da",
+      "title": "Adieu, Élysée: the Macrons reflect on life after politics",
+      "summary": "As France’s succession race looms, the presidential couple start its farewell",
+      "url": "https://www.euractiv.com/news/adieu-elysee-the-macrons-reflect-on-life-after-politics/",
+      "source": "Euractiv",
+      "published_at": "2026-04-28T04:00:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "France’s succession race looms, the presidential couple start its farewell"
+    },
+    {
+      "id": "66c07e14b46fe383a2b9fd0ea8f84c129b59b486",
+      "title": "French coastguard rescues more than 100 migrants crossing Channel",
+      "summary": "A boat carrying 106 people broke down at sea, while others were rescued attempting to board the vessel.",
+      "url": "https://www.bbc.com/news/articles/c3v6v4qd7qqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-27T16:19:43+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "French coastguard rescues more than 100 migrants"
+    },
+    {
+      "id": "cbf3481f6af32da91149efa14ac56ba371f2b231",
+      "title": "Paris brings fossil fuel phase-out plan to Santa Marta summit",
+      "summary": "Shifting away from fossil fuels “vital” for energy independence, says EU climate chief Wopke Hoekstra",
+      "url": "https://www.euractiv.com/news/paris-brings-fossil-fuel-phase-out-plan-to-santa-marta-summit/",
+      "source": "Euractiv",
+      "published_at": "2026-04-27T15:38:33+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Paris brings fossil fuel phase-out plan"
+    },
+    {
+      "id": "30d56f97755ba2ff1f2b2602986b97df1d78650f",
+      "title": "Norway police cooperate with France on Epstein probe",
+      "summary": "A joint investigation team has been established between the Norwegian police's economic crime unit and France",
+      "url": "https://www.euractiv.com/news/norway-police-cooperate-with-france-on-epstein-probe/",
+      "source": "Euractiv",
+      "published_at": "2026-04-27T12:36:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "cooperate with France on Epstein probe"
+    },
+    {
+      "id": "759e052ad8d024e0fa2908f44855abdcc6473993",
+      "title": "Brussels demands ‘reciprocity’ after Beijing’s ‘Made in Europe’ criticism",
+      "summary": "“We are one of the most open markets in the world,\" said a European Commission spokesperson. \"We also expect that openness to be mutual.\"",
+      "url": "https://www.euractiv.com/news/brussels-demands-reciprocity-after-beijings-made-in-europe-criticism/",
+      "source": "Euractiv",
+      "published_at": "2026-04-27T12:11:22+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "ac424df4b9975ffc7419fb2e5a1824e067800707",
       "title": "EU road fatalities decrease by 2.2% in 2024 - European Commission",
@@ -41,6 +105,17 @@
       "published_at": "2026-04-27T05:30:00+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "031941d85ef3fa941f495074e7e49c780ff0027e",
+      "title": "ECB set to hold rates steady with eye on Iran crisis - France 24",
+      "summary": "ECB set to hold rates steady with eye on Iran crisis&nbsp;&nbsp;France 24View Full coverage on Google News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa3h3bC1vblNYVHRJeGcyMnhHbUFMQVhXZFRuVm9uZm1PXzNZOTRaeTAyNGdKZDUwS25DSzQ1cHVHLXd0Rk5PQkNQdGdhUzlXNHRMSFFoNGZ4Y3EtcDg3TmxFTnREQlYzZk9CZFFSdWozb3UzT3I1TW5aSmR1Tkw2c1lxV19PNy1KUExKM042Y1ptRkh1N1NlX3Z6TG0zTU9J?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-27T04:09:30+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "ECB set to hold rates steady with eye on Iran crisis"
     },
     {
       "id": "68ca58acf4da938ed0b79fdab89a493d4e5035ad",
@@ -109,6 +184,17 @@
       "evidence": "Marie-Thérèse Ross-Mahé, the French widow of a former G.I."
     },
     {
+      "id": "a5ed7606133bef65a59d218c4d5af1b02ae1129b",
+      "title": "Live updates: US envoys will head to Pakistan for fresh Iran talks, White House says - CNN",
+      "summary": "Live updates: US envoys will head to Pakistan for fresh Iran talks, White House says&nbsp;&nbsp;CNNUS envoys to travel to Islamabad despite Iran ruling out direct negotiations with US&nbsp;&nbsp;France 24Iran War Live Up…",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQlVWLXluZWFWVDAwNDBGWkg2b2dYN3dDNmd3M2tERFI3cHFpdWZZR1ZfclU0elNJWTQ3VUp3WWhlYmh2MUt3dDJVZFBLcGhUUU5aWVhubXg5dmY2UUY0S1N3UVVrZFAtVWUyM0ozaEpQVTlDT1pnVkhiSDRwaVVrdkJlWQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-25T08:33:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "US envoys will head to Pakistan for fresh Iran talks"
+    },
+    {
       "id": "64ad97417cd859d31a7929ec0082c9565300a192",
       "title": "G7 environment: multilateralism works by sidestepping contentious issues",
       "summary": "France secured seven environmental agreements while climate stayed off the agenda",
@@ -139,94 +225,8 @@
       "published_at": "2026-04-24T09:04:34+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "8f89b054afa149a46d68f99cc870a76fd348a805",
-      "title": "THE HACK: French AI minister relaxed on gigafactories delays",
-      "summary": "In today's edition: Le Hénanff on sovereignty &#38; CSA2, Mythos risk, Poland vs DFA",
-      "url": "https://www.euractiv.com/news/the-hack-french-ai-minister-relaxed-on-gigafactories-delays/",
-      "source": "Euractiv",
-      "published_at": "2026-04-24T07:37:52+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "French AI minister relaxed on gigafactories delays"
-    },
-    {
-      "id": "46a2533a83edb52868c04d2fe07065c922dcb8df",
-      "title": "FIREPOWER: France, Greece to renew defence partnership",
-      "summary": "In today's edition: Ukraine loan, military mobility, ground drones",
-      "url": "https://www.euractiv.com/news/firepower-france-greece-to-renew-defence-partnership/",
-      "source": "Euractiv",
-      "published_at": "2026-04-24T07:27:57+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "France, Greece to renew defence partnership"
-    },
-    {
-      "id": "b6c96164f3f102b1b852fb6cf12c97ce9b3e694a",
-      "title": "Europe Mulls What Mutual Defense Looks Like Outside NATO",
-      "summary": "European Union nations have a little-known obligation to protect one another. Experts caution it is no replacement for NATO.",
-      "url": "https://www.nytimes.com/2026/04/24/world/europe/europe-defense-nato-trump-eu.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-24T06:52:08+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "16466e91de920fdfe6eecbb5f589e52537a81173",
-      "title": "Largest-ever ban on toxic chemicals in EU hit by ‘extremely frustrating’ delays",
-      "summary": "Green groups say European Commission is ‘chief roadblock’ to its own plans, as report finds poor progress four years onHarmful compounds in children’s nappies and toxic “forever chemicals” in everyday products are among…",
-      "url": "https://www.theguardian.com/environment/2026/apr/24/toxic-chemicals-eu-delays-pollution-report",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-24T04:00:30+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "54f6414bcd82654e0d8eaffe6ffb1c0e1a2a11b6",
-      "title": "Headscarf with a beret: Muslim designers showcase floral dresses and boxy streetwear in Paris",
-      "summary": "Some young attendees say the event demonstrated a more inclusive French culture taking shape.",
-      "url": "https://www.bbc.com/news/articles/cx23zmxd2z3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-24T00:34:04+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "more inclusive French culture taking shape"
-    },
-    {
-      "id": "ddef095820872f94685d97d62ffa3bbe8cad574f",
-      "title": "Paris launches ocean protection alliance at G7 summit",
-      "summary": "France celebrates agreement on marine protected areas at summit where climate is off the agenda",
-      "url": "https://www.euractiv.com/news/paris-launches-ocean-protection-alliance-at-g7-summit/",
-      "source": "Euractiv",
-      "published_at": "2026-04-23T18:15:59+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Paris launches ocean protection alliance at G7 summit"
-    },
-    {
-      "id": "83a544e8df815b7361ce282cdb7f3c71db7bd7c8",
-      "title": "INTERVIEW: Ukraine’s defence industry starts eyeing post-war survival",
-      "summary": "Tencore has struck a partnership with France's Shark Robotics to develop civilian expertise",
-      "url": "https://www.euractiv.com/news/interview-ukraines-defence-industry-starts-eyeing-post-war-survival/",
-      "source": "Euractiv",
-      "published_at": "2026-04-23T14:29:57+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "partnership with France's Shark Robotics"
-    },
-    {
-      "id": "c2d747e4e41b7c4cfc05d89e18792ba5ccc0d874",
-      "title": "INTERVIEW: France and Germany are united on cloud sovereignty, says French minister",
-      "summary": "\"There will not be French champions in every sector,” Anne Le Hénanff told Euractiv",
-      "url": "https://www.euractiv.com/news/interview-france-and-germany-are-united-on-cloud-sovereignty-says-french-minister/",
-      "source": "Euractiv",
-      "published_at": "2026-04-23T11:12:48+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": ""
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-27T11:23:26Z"
+  "last_updated": "2026-04-28T11:17:34Z"
 }
