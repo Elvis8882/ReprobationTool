@@ -1,16 +1,27 @@
 {
   "country": "AL",
-  "score": 100,
+  "score": 82,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 11,
+  "trend": -18,
+  "sources": 12,
   "sentiment": {
     "positive": 3,
     "neutral": 8,
-    "negative": 0
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "93b3ca3108ae0fcd78919f8aad266c95f9401a17",
+      "title": "Corruption trial against Albania ex-president begins",
+      "summary": "The former statesman has been in detention since his arrest in October 2024",
+      "url": "https://www.euractiv.com/news/corruption-trial-against-albania-ex-president-begins/",
+      "source": "Euractiv",
+      "published_at": "2026-04-27T13:31:26+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Corruption trial against Albania ex-president begins"
+    },
     {
       "id": "b857279ffbd52250217bde70655af830c94447ec",
       "title": "Meloni’s Albania migrant centres win backing from EU court adviser",
@@ -134,5 +145,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-28T11:17:34Z"
+  "last_updated": "2026-04-29T11:14:06Z"
 }

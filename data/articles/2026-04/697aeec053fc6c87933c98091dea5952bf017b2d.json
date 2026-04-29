@@ -1,0 +1,41 @@
+{
+  "id": "697aeec053fc6c87933c98091dea5952bf017b2d",
+  "title": "Ukraine accuses Israel of receiving shipments of grain 'stolen' by Russia",
+  "summary_full": "Israel's foreign minister says it has received no evidence to support the claim that a vessel carrying grain from occupied Ukraine has reached Haifa.",
+  "summary_public": "Israel's foreign minister says it has received no evidence to support the claim that a vessel carrying grain from occupied Ukraine has reached Haifa.",
+  "url": "https://www.bbc.com/news/articles/cqjplqgd1r2o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-04-28T13:51:51+00:00",
+  "source": "BBC News - World",
+  "language": "en",
+  "countries_detected": [
+    "IL",
+    "RU",
+    "UA"
+  ],
+  "countries_scored": [
+    "IL",
+    "RU",
+    "UA"
+  ],
+  "sentiment_by_country": {
+    "IL": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ukraine accuses Israel of receiving shipments of grain 'stolen' by Russia"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "grain 'stolen' by Russia"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Ukraine accuses Israel of receiving shipments of grain 'stolen'"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-04-29T11:14:06+00:00",
+  "processed_at": "2026-04-29T11:14:06+00:00"
+}
