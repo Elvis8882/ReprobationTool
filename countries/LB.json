@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 336,
+  "sources": 337,
   "sentiment": {
     "positive": 11,
     "neutral": 111,
-    "negative": 215
+    "negative": 216
   },
   "latest_articles": [
+    {
+      "id": "ac3a0bcc30470d867eac53842ea9718b8b9fa47e",
+      "title": "Watch: There's a ceasefire in Lebanon - but the fighting hasn't stopped",
+      "summary": "Israel and Hezbollah are still fighting in Lebanon despite a US-brokered ceasefire that began 12 days ago.",
+      "url": "https://www.bbc.com/news/videos/cpdpql7d839o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-29T14:41:26+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel and Hezbollah are still fighting in Lebanon despite a US-brokered ceasefire"
+    },
     {
       "id": "0f786ecae94cc25c2c4bf00247a895e497731e28",
       "title": "Hezbollah drone strikes target Israeli soldiers in southern Lebanon",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Israel, Lebanon extend ceasefire"
-    },
-    {
-      "id": "9497caa20ce4ad27ebcf6fc3361bd0e0209e43d7",
-      "title": "Israel and Lebanon extend ceasefire for three weeks, Trump says",
-      "summary": "Secretary of State Marco Rubio is leading the ambassador-level negotiations, but it remains unclear whether the administration will push for a permanent resolution.",
-      "url": "https://www.washingtonpost.com/national-security/2026/04/23/us-israel-lebanon-ceasefire-talks/",
-      "source": "World (Washington post)",
-      "published_at": "2026-04-23T23:04:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Israel and Lebanon extend ceasefire for three weeks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-29T11:14:06Z"
+  "last_updated": "2026-04-30T11:07:58Z"
 }

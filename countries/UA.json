@@ -1,16 +1,93 @@
 {
   "country": "UA",
-  "score": 22,
+  "score": 25,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 4,
-  "sources": 656,
+  "trend": 3,
+  "sources": 645,
   "sentiment": {
-    "positive": 260,
-    "neutral": 162,
-    "negative": 234
+    "positive": 258,
+    "neutral": 158,
+    "negative": 229
   },
   "latest_articles": [
+    {
+      "id": "4fe19fe596c569a4fd0a52c05c7679340c8fdb89",
+      "title": "Oil price tops $126 a barrel after Trump warns Iran blockade could last ‘months’",
+      "summary": "Markets spooked as US president appears willing to keep up naval blockade and Iran keeps Hormuz strait all but shutBusiness live – latest updatesThe global oil price has soared above $126 a barrel, its highest level sinc…",
+      "url": "https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-30T09:16:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Russia’s 2022 invasion of Ukraine"
+    },
+    {
+      "id": "dc288ce300db51478d29c94005010c60639726d8",
+      "title": "Russia scales back Victory Day plans as Ukraine’s military reach expands",
+      "summary": "Moscow is reducing the footprint of its foremost annual military parade amid a wave of Ukrainian drone attacks inside Russia.",
+      "url": "https://www.washingtonpost.com/world/2026/04/30/russia-victory-day-parade-ukraine-moscow/",
+      "source": "World (Washington post)",
+      "published_at": "2026-04-30T09:00:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.5,
+      "evidence": "Ukraine’s military reach expands"
+    },
+    {
+      "id": "cffb29ecddf1ce6edaaf5e005b9423d72a003091",
+      "title": "FIREPOWER: Macron observes ORION 26 testing France’s NATO leadership",
+      "summary": "In today's edition: Nordic naval alliance, Article 42.7, Ukraine drone exports",
+      "url": "https://www.euractiv.com/news/firepower-macron-observes-orion-26-testing-frances-nato-leadership/",
+      "source": "Euractiv",
+      "published_at": "2026-04-30T08:14:28+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine drone exports"
+    },
+    {
+      "id": "c01c4112d0f5c87ef7733232113b86d824e01836",
+      "title": "Trump and Putin Call for a Brief Cease-Fire in Ukraine",
+      "summary": "Previous truces have broken down amid competing accusations of violations, and it is not clear that Ukraine will agree to Moscow’s terms.",
+      "url": "https://www.nytimes.com/2026/04/29/world/europe/ukraine-russia-ceasefire-trump-putin.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-29T19:40:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Ukraine will agree to Moscow’s terms"
+    },
+    {
+      "id": "cd861f0ab032e77083d1c3f9ed2e0452450f57c5",
+      "title": "Russia’s Victory Day Parade Will Be Missing Tanks and Other Heavy Military Armor",
+      "summary": "The absence of tanks and other heavy military vehicles on Red Square will highlight the heavy toll of the war in Ukraine.",
+      "url": "https://www.nytimes.com/2026/04/29/world/europe/russia-victory-day-parade-tanks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-29T17:32:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "highlight the heavy toll of the war in Ukraine"
+    },
+    {
+      "id": "c5b4aefd4288c80e5ebe5e50b158c88d39672049",
+      "title": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine",
+      "summary": "Russia says the annual commemoration of Soviet victory in World War Two will not feature military vehicles or cadets.",
+      "url": "https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-29T13:01:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine"
+    },
+    {
+      "id": "cc49219c8871870b5baf083f061a1e298db3c5ea",
+      "title": "Kim praises North Korean soldiers who blew themselves up to evade Ukraine capture",
+      "summary": "Leader mentions for first time lengths to which troops go to avoid falling into enemy hands while fighting for RussiaKim Jong-un has praised North Korean soldiers who blew themselves up with grenades in order to avoid ca…",
+      "url": "https://www.theguardian.com/world/2026/apr/29/kim-north-korea-soldiers-blow-themselves-up-ukraine",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-29T11:34:08+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "avoid falling into enemy hands while fighting Ukrainian forces"
+    },
     {
       "id": "614abdc4eecd6527c7c5c929dd155e84da3b53f0",
       "title": "Russia to hold Victory Day parade without military hardware due to fears of Ukraine attack",
@@ -45,6 +122,17 @@
       "evidence": "Ukraine's New Card In War Strategy"
     },
     {
+      "id": "572157f8474609caaeb14ae229ea53d6ea2a558e",
+      "title": "Focus on Ukraine, NATO and Middle East as Maria Malmer Stenergard attends NB8 meeting in Estonia - Government.se",
+      "summary": "Focus on Ukraine, NATO and Middle East as Maria Malmer Stenergard attends NB8 meeting in Estonia&nbsp;&nbsp;Government.seWatch live: NB8 Nordic-Baltic foreign ministers' press conference&nbsp;&nbsp;ERRNordic-Baltic minis…",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSlJQMTdoYmw0TmpscmZPd3Y2U1NMVFRpaUVQRnFLQ0REN3o4MENDaDk1TWxUV2h2UUE0TjFHNWdSckNrTDJzRHNpVEVKWURINDhkQ0xVeUJBdXMxb2tFZWJXb01NMnNmZjRzX2pTZWdYVUdLQzgwdS1INU1MdTVfSF90VGMwaWt5ZXFZT0liVzdsOHZaM2dfUGJaNm1iLVpaZGxtTk80c2JleDd3WXV6QjhnbUl2QzMxZW9DejdrYUg0Z0Vvd09NcGhVcFZrWmJWemw2OEpGYkZnLXVXU0E?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-29T09:19:53+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "back Ukraine NATO bid"
+    },
+    {
       "id": "7439d2664ae1e90f3b8ebd9ac95daf3f41ad7bfe",
       "title": "Ukraine And Israel Are Fighting Over 'Stolen' Grains. Russia Is The Reason",
       "summary": "Israel said that Kyiv had not provided evidence to support its claims",
@@ -56,6 +144,17 @@
       "evidence": "Ukraine And Israel Are Fighting Over 'Stolen' Grains"
     },
     {
+      "id": "4203c11b11c54bf80df989beb2347bab18a837d3",
+      "title": "Magyar’s tricky Brussels homecoming",
+      "summary": "Also, in Wednesday’s edition: DG reshuffle, Stéphane Séjourné, Mark Carney, Ukraine",
+      "url": "https://www.euractiv.com/news/rapporteur-magyars-tricky-brussels-homecoming/",
+      "source": "Euractiv",
+      "published_at": "2026-04-29T05:24:34+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Ukraine"
+    },
+    {
       "id": "d4ac01d018dded9c1773a02c429ad25d8ebd84b4",
       "title": "Kim Jong Un praises troops who 'self-blasted' to avoid capture by Ukraine",
       "summary": "It confirms suspicions that North Korean soldiers are being told to detonate their grenades to kill themselves.",
@@ -65,6 +164,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Kim Jong Un praises troops who 'self-blasted' to avoid capture by Ukraine"
+    },
+    {
+      "id": "030447e6b80f455d777ba70faffde99a921f7400",
+      "title": "Watch: Elderly woman rescued by robot from Ukraine's frontline",
+      "summary": "The Ukrainian army spotted the woman using a drone and sent the machine to her rescue as she was trying to leave her war-torn village.",
+      "url": "https://www.bbc.com/news/videos/cpqpjw1zdvjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-28T21:58:17+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Elderly woman rescued by robot from Ukraine's frontline"
     },
     {
       "id": "4ba4c58c97174d88e3b7fd9c4cc4db530088f3a5",
@@ -120,118 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Moldova’s entry into Ukraine’s ‘Coalition of the Willing’ brings major logistical benefits"
-    },
-    {
-      "id": "527677999cb267d99b880977aa202d7dbd02ccfc",
-      "title": "What about defence funding? Poland seeks partnership with the Baltic states - Defence24.com",
-      "summary": "What about defence funding? Poland seeks partnership with the Baltic states&nbsp;&nbsp;Defence24.comPoland and Baltic states form coalition to secure EU defense funding&nbsp;&nbsp;HariciLithuanian president calls for str…",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbUtXU19uUk1qWVE3cGZjRnR3Uy04Q1hZNE03TkpNREN2UFotQnlZQ28yUXZHcklaX0pyWnBlZEVfeVJDR045X1dSNmtMOF9TZS04N3R1aVNiQnNqY0NTT0d0WGJpclZTMFotbWRZbXZQeGJwNEFlenVlNTVTYWhBR0JtcjdDSjhVYTE5ZkphRmpzMmJRdlBYNGdYTHgyekZLWlI0eXlMU1hpcE1EdU03Nw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-28T07:36:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "consistent support for Ukraine means a stronger Europe"
-    },
-    {
-      "id": "da867a83dc61dcb3a2689d50bb2c87e20f2168e3",
-      "title": "FIREPOWER: Donald Tusk announces Polish ‘drone armada’",
-      "summary": "In today's edition: Kubilius, drones, investing in Ukraine",
-      "url": "https://www.euractiv.com/news/firepower-donald-tusk-announces-polish-drone-armada/",
-      "source": "Euractiv",
-      "published_at": "2026-04-28T07:26:11+00:00",
-      "sentiment": "positive",
-      "confidence": 0.5,
-      "evidence": "investing in Ukraine"
-    },
-    {
-      "id": "3ba5a9b00033845ff9924c76b799340fcdb178bd",
-      "title": "North Korea's Kim Jong Un Confirms Soldier 'Self-Blasting' Policy In Ukraine",
-      "summary": "Disclosure by Kim follows reports that North Korean troops in Ukraine were required to kill themselves",
-      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-north-koreas-kim-jong-un-confirms-soldier-self-blasting-policy-in-ukraine-11419280#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-04-28T07:21:05+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "North Korean troops in Ukraine were required to kill themselves"
-    },
-    {
-      "id": "8864437cc6f834335b95a9890b2df278ed883944",
-      "title": "Putin’s Stalin cosplay threatens Central Europe and the Baltics",
-      "summary": "Invocations of “the great Soviet past” become all the more hysterical as news of the frontline in Ukraine grows more dire and Russian cities feel less safe from Ukrainian drones",
-      "url": "https://www.euractiv.com/opinion/putins-stalin-cosplay-threatens-central-europe-and-the-baltics/",
-      "source": "Euractiv",
-      "published_at": "2026-04-28T04:00:52+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukrainian drones"
-    },
-    {
-      "id": "678c53d4a77933e104ccb5b8d0789aa4ae9498bf",
-      "title": "Latvia to donate more armoured vehicles to Ukraine / Article - LSM",
-      "summary": "Latvia to donate more armoured vehicles to Ukraine / Article&nbsp;&nbsp;LSMLatvia to transfer additional CVR(T) armoured combat vehicles to Ukraine&nbsp;&nbsp;Українська правдаLatvia plans to supply reconnaissance vehicl…",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObW5zcEZoVFloYUR6V2pYU1pidUp0ajBQc0hQZGZmcTBBMkthUDg5SjF1UTd1a3VuZXd5M0lSVmlKcUtPYmp0YXZIVW5EWHAzMHBoVWFJeEtCMjhQVmVZaW5yVzB1M18ybF92TXRtSDNNUDlpdkZzNkNPNGFKVVdPWHJmM3h4NzFPd09BNTR1bmtHN1VhUTdQLXdHY1FxRUsyb0dmeG1EdHF1SlNqeFZoLVBNbw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-28T01:25:49+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Latvia to donate more armoured vehicles to Ukraine"
-    },
-    {
-      "id": "2388dde7634153a4904027cf017073c787b44788",
-      "title": "Estonia says infantry central after shelving vehicle deal for drones",
-      "summary": "'The war in Ukraine has shown the importance of unmanned systems and air assets,' a spokesperson said",
-      "url": "https://www.euractiv.com/news/infantry-remain-central-estonian-mod-says-after-shelving-ifvs-purchases-for-drones/",
-      "source": "Euractiv",
-      "published_at": "2026-04-27T14:20:35+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "The war in Ukraine has shown the importance of unmanned systems and air assets"
-    },
-    {
-      "id": "182bc25d1e8ef1e9789caf4bc8d443f730aba226",
-      "title": "Odesa bears brunt of latest Russian attacks on Ukraine – Europe live",
-      "summary": "Across country, at least 14 have been injured as Zelenskyy highlights importance of air defencesIn more uplifting news, a Polish social media influencer has raised more than £50m after a nine-day, non-stop online stream…",
-      "url": "https://www.theguardian.com/world/live/2026/apr/27/europe-ukraine-russia-poland-germany-eu-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-27T10:46:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Odesa bears brunt of latest Russian attacks on Ukraine"
-    },
-    {
-      "id": "c9864ea15fdc66fe93315accdcc25748ae17c0d3",
-      "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
-      "summary": "In a rare interview, Commander Robert Brovdi shared how his unit accounts for a third of all targets destroyed on the battlefield.",
-      "url": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-27T10:04:34+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine's drone commander has Russian oil, troops and morale in his sights"
-    },
-    {
-      "id": "1887f7c57f247ea3c6aa7e8314a33d525481a6c7",
-      "title": "Latvia and Ukraine agree on significant relief for drivers - Baltic News Network",
-      "summary": "Latvia and Ukraine agree on significant relief for drivers&nbsp;&nbsp;Baltic News NetworkLatvia has recognised Ukrainian driving licences: exchange possible without taking tests&nbsp;&nbsp;Visit Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQzNlaTBCU1FVdUpkNDctLXloRnlheU9VQURBX2haeExYeFRxRXJDcnBXZkhVd0ZjLV9FRHR5Z0xiQmtKM2YydGlndGp6ZFpFMFVDV3k0b21BSEZobVRUVlJsdnZRTmdBTF9hNW10LXpRcEhnX3hKRHlKNGt1ajg3a2dHU1Vxd29zbWlfNUV0SQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-27T09:10:47+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Latvia has recognised Ukrainian driving licences: exchange possible without taking tests"
-    },
-    {
-      "id": "6e8e51412444e07b073cfd4609164b0aa54333ce",
-      "title": "Fighting ‘Sacred’ War in Ukraine, North Korea and Russia Pledge to Deepen Ties",
-      "summary": "The two countries discussed long-term military cooperation, as they opened a memorial for North Korean troops killed in Russia’s war in Ukraine.",
-      "url": "https://www.nytimes.com/2026/04/27/world/asia/north-korea-memorial-russia-ukraine.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-27T09:10:40+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russia’s war in Ukraine"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-29T11:14:06Z"
+  "last_updated": "2026-04-30T11:07:58Z"
 }

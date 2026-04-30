@@ -1,16 +1,38 @@
 {
   "country": "GL",
-  "score": 62,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 45,
+  "score": 60,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": -2,
+  "sources": 44,
   "sentiment": {
-    "positive": 4,
+    "positive": 3,
     "neutral": 30,
     "negative": 11
   },
   "latest_articles": [
+    {
+      "id": "e69083f42f7c9ead346c826efbe2d4c17973d0dc",
+      "title": "The Brief – US gatecrashing Greenland",
+      "summary": "Washington's \"special envoy to Greenland” wasn't invited to the business conference, but bought a ticket anyway",
+      "url": "https://www.euractiv.com/news/the-brief-us-gatecrashing-greenland/",
+      "source": "Euractiv",
+      "published_at": "2026-04-29T16:19:06+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "Washington's \"special envoy to Greenland” wasn't invited"
+    },
+    {
+      "id": "9308daf6c15dbe5b2ac51d0746eb3e5ed9460127",
+      "title": "Trump envoy invites himself to Greenland conference",
+      "summary": "The EU's development commissioner is speaking at the conference that the US envoy will attend",
+      "url": "https://www.euractiv.com/news/trump-envoy-invites-himself-to-greenland-conference/",
+      "source": "Euractiv",
+      "published_at": "2026-04-29T14:52:02+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "The EU's development commissioner is speaking at the conference"
+    },
     {
       "id": "835cbf1bfd0dde975f8b201914ebeee633314c30",
       "title": "Denmark turns to European air defence amid US delays and stockpile strain",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "destroying Greenland runways amid fears of US attack"
-    },
-    {
-      "id": "d2e1e7c97aa2c512fee2bae118f7e92f1c10e348",
-      "title": "Nordic Leaders Praise Carney as They Discuss Arctic Security",
-      "summary": "Canada’s prime minister got a warm welcome from leaders still smarting about President Trump’s remarks two months ago about taking over Greenland.",
-      "url": "https://www.nytimes.com/2026/03/15/world/canada/nordic-leaders-praise-carney-as-they-discuss-arctic-security.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-15T14:30:06+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "taking over Greenland"
-    },
-    {
-      "id": "85ee76682298ef5f4dce5dc17a0c1d2f9a9f0959",
-      "title": "Paris inks deal for Greenland’s mineral wealth",
-      "summary": "“This project will provide new and deeper knowledge about our geology and is only possible thanks to the French contribution,” the Greenlandic government said",
-      "url": "https://www.euractiv.com/news/paris-inks-deal-for-greenlands-mineral-wealth/",
-      "source": "Euractiv",
-      "published_at": "2026-03-05T16:46:31+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Greenland’s mineral wealth"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-29T11:14:06Z"
+  "last_updated": "2026-04-30T11:07:58Z"
 }

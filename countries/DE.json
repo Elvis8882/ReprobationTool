@@ -1,16 +1,166 @@
 {
   "country": "DE",
-  "score": 87,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 2,
-  "sources": 477,
+  "trend": -3,
+  "sources": 478,
   "sentiment": {
     "positive": 68,
-    "neutral": 353,
-    "negative": 56
+    "neutral": 350,
+    "negative": 60
   },
   "latest_articles": [
+    {
+      "id": "65ced43cc34916fb57f5ed6933203051cb3fc9df",
+      "title": "Merz calls for a ‘a reliable transatlantic partnership’ after Trump threatens Germany with US troop reduction – Europe live",
+      "summary": "German chancellor stresses links with US and Nato during army visit without directly responding to US president’s overnight commentsMeanwhile, the issue of the US deployment in Europe also came up during the European Com…",
+      "url": "https://www.theguardian.com/world/live/2026/apr/30/europe-germany-troops-trump-threat-iran-eu-france-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-30T10:50:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Trump threatens Germany with US troop reduction"
+    },
+    {
+      "id": "707872e4537dfd71e9b9acdd886639adc2283fd5",
+      "title": "U.S. weighs 'reduction' of troops in Germany as Trump's feud with Berlin deepens",
+      "summary": "The U.S. is considering the possibility of reducing the number of troops it has stationed in Germany, President Donald Trump said.",
+      "url": "https://www.cnbc.com/2026/04/30/us-reviews-cutting-troop-numbers-in-germany-amid-trumps-berlin-feud-.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-04-30T10:09:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "U.S. weighs 'reduction' of troops in Germany as Trump's feud"
+    },
+    {
+      "id": "d1d57548552e41e381ad9e8e53efa456bb7c88e8",
+      "title": "Stranded whale ferried out of German waters in barge",
+      "summary": "The final operation to save the whale is being closely followed, after the failure of earlier attempts.",
+      "url": "https://www.bbc.com/news/articles/clyp559l06no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-30T09:46:38+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "German waters"
+    },
+    {
+      "id": "315e02391d9bf72ada3e2cfdf551a04341f338bb",
+      "title": "EU business investment rate hit 21.8% low in Q4 2025 - European Commission",
+      "summary": "EU business investment rate hit 21.8% low in Q4 2025&nbsp;&nbsp;European Commission",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5NXFSNGUxUzJma25SS2x2b2NUQjRZNGRGSzhkOURTalZMT1l2ZXpnWWlsdmw1bUdBTkdNZnlQZGF3ZEtoYzhzeE1KM3E1QVpVcnRkV1czTGVMd3RIbFNlVXVxMjV6MTFjOGVqQWpvX2MxR3k2b2FKYzZhVkdlQQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-30T09:01:03+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "5d087cc5eacb90507a0d5a768e9640a4cc0cd155",
+      "title": "Japan puts 'too much burden' on U.S. for security, former defense minister Kono says",
+      "summary": "This comes as U.S. President Donald Trump said Washington is reviewing the possibility of a troop reduction in Germany.",
+      "url": "https://www.cnbc.com/2026/04/30/japan-us-security-burden-taro-kono-defense-china-tensions-taro-kono.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-04-30T07:02:19+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "troop reduction in Germany"
+    },
+    {
+      "id": "bc2c926415d0c533b93effe382842211af64ea46",
+      "title": "US may cut troops in Germany as Iran row rages",
+      "summary": "\"With a determination to be made over the next short period of time,” Trump said in a social media post",
+      "url": "https://www.euractiv.com/news/us-may-cut-troops-in-germany-as-iran-row-rages/",
+      "source": "Euractiv",
+      "published_at": "2026-04-30T06:53:16+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "US may cut troops in Germany"
+    },
+    {
+      "id": "e39c45f0e588c1ce81beb12a2375c86e74b087cd",
+      "title": "Trump says US studying troop cuts in Germany, after Merz criticises war",
+      "summary": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
+      "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-30T03:25:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "German chancellor criticised the US approach"
+    },
+    {
+      "id": "eb0cf677085ecf7796776ac043d3af5a7bd413e1",
+      "title": "Trump threatens to reduce troop numbers in Germany amid growing row with Nato allies",
+      "summary": "US president’s threat comes after Germany’s Friedrich Merz suggests Trump team is being outplayed in its negotiations with IranThe US may reduce its number of troops deployed in Germany, Donald Trump has announced, days…",
+      "url": "https://www.theguardian.com/world/2026/apr/30/trump-threatens-to-reduce-troop-numbers-in-germany-amid-growing-row-with-nato-allies",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-29T23:36:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.4,
+      "evidence": "Trump threatens to reduce troop numbers in Germany"
+    },
+    {
+      "id": "ce6db0dc1e8a7bf32af7720c210998aede21be1d",
+      "title": "Trump’s Clash With Merz Shows It’s Hard to Stay Friends With the President",
+      "summary": "Throughout the war in Iran, Friedrich Merz, the German chancellor, did all he could to keep President Trump happy. This week, Mr. Merz appeared to lose patience.",
+      "url": "https://www.nytimes.com/2026/04/29/world/europe/trump-merz-iran.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-29T15:58:19+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Friedrich Merz, the German chancellor, did all he could to keep President Trump happy"
+    },
+    {
+      "id": "ffe0f9f51afa8644e1eafabebc62a64d773f6369",
+      "title": "EU Parliament pushes back against chemicals deregulation",
+      "summary": "MEPs retain stricter labelling and limit exemptions for harmful substances",
+      "url": "https://www.euractiv.com/news/eu-parliament-pushes-back-against-chemicals-deregulation/",
+      "source": "Euractiv",
+      "published_at": "2026-04-29T15:38:55+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "7abfd248b52afb3589af0847d84c12e2560c8208",
+      "title": "EU parliament rejects right-wing attack on CO2 pricing for fuels",
+      "summary": "But the text adopted tells the EU executive to consider new loopholes",
+      "url": "https://www.euractiv.com/news/eu-parliament-rejects-right-wing-attack-on-co2-pricing-for-fuels/",
+      "source": "Euractiv",
+      "published_at": "2026-04-29T15:23:29+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "d44c5ebf7984831fd3605ee307ed317d0981529b",
+      "title": "Germany’s ‘historic’ health reform draws industry fire",
+      "summary": "Merz targets health costs to ease burdens on firms and revive growth",
+      "url": "https://www.euractiv.com/news/germanys-historic-health-reform-draws-industry-fire/",
+      "source": "Euractiv",
+      "published_at": "2026-04-29T14:06:33+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Germany’s ‘historic’ health reform"
+    },
+    {
+      "id": "3f74a8fec83c578cce9ad17727163317132bfb90",
+      "title": "European Parliament urges freezing EU funds for Slovakia over rule-of-law concerns",
+      "summary": "MEPs warn Fico risks following Orbán’s path",
+      "url": "https://www.euractiv.com/news/european-parliament-urges-freezing-eu-funds-for-slovakia-over-rule-of-law-concerns/",
+      "source": "Euractiv",
+      "published_at": "2026-04-29T12:35:01+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "0653fb1faba0223c1b227bc57b71b1e5897aff57",
+      "title": "Brussels unleashes a Berlin-led subsidy bonanza in response to Iran energy shock",
+      "summary": "EU countries can cover 70% of fuel bill increases, according to the new rules",
+      "url": "https://www.euractiv.com/news/brussels-unleashes-a-berlin-led-subsidy-bonanza-in-response-to-iran-energy-shock/",
+      "source": "Euractiv",
+      "published_at": "2026-04-29T12:09:31+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Berlin-led subsidy bonanza"
+    },
     {
       "id": "995bfa5881a2f6e43e8d02731cd479e762dcc244",
       "title": "Left-wing lawmakers blame Commission for stalled AI reform talks",
@@ -21,6 +171,16 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "stalled AI reform talks"
+    },
+    {
+      "id": "72acf5d9ef02dd2c97812cbe9246b75d3ce448f0",
+      "title": "April infringements package: key decisions - European Commission",
+      "summary": "April infringements package: key decisions&nbsp;&nbsp;European CommissionEU launches proceedings against Poland over failure to protect Oder river&nbsp;&nbsp;Notes From PolandPoland ‘failing’ to restore Oder River after…",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12ZU9mTkpRM1k1ZHMxYkJiM01JSHdUWE9hREE3aFg2a09wTzZIMFNfTUF2WFk1aHN1ZndfYUVLRFYtZmpnZHhxeGNONV92Y1dUUXc3Z05GRG1PWS1vZ2M5d2VzRXNJNUktU0c0OW1NSGkyQQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-29T09:51:15+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "3c1cfa87c2d94b44de86bb65d5a412541dc7146a",
@@ -62,164 +222,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Franco-German cloud fragility"
-    },
-    {
-      "id": "8123056e64b85bc3ecba054af69dc91da10a6a4d",
-      "title": "Finland’s Kone to buy German rival TK Elevator in blockbuster $34.4 billion deal",
-      "summary": "The combination would create the world’s largest elevator maker and marks one of Europe's biggest takeovers in recent years.",
-      "url": "https://www.cnbc.com/2026/04/29/kone-tk-elevator-deal-europe-business.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-04-29T07:34:24+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Finland’s Kone to buy German rival TK Elevator in blockbuster $34.4 billion deal"
-    },
-    {
-      "id": "f365158186301be8ec43decd8f50c9fa76aab24b",
-      "title": "Merz’s coalition partner opposed his push to cut EU’s AI rules",
-      "summary": "Germany’s Social Democrats sent a letter to their European lawmakers titled: “VERY URGENT! Trilogue on AI digital omnibus”",
-      "url": "https://www.euractiv.com/news/merzs-coalition-partner-opposed-his-push-for-cutting-eus-ai-rules/",
-      "source": "Euractiv",
-      "published_at": "2026-04-29T05:57:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Merz’s coalition partner opposed his push to cut EU’s AI rules"
-    },
-    {
-      "id": "426760e8231c40338173f45749072b81b0787f49",
-      "title": "Franco-German cloud sovereignty unity may prove paper thin",
-      "summary": "The German government will argue for \"open sovereignty for economic competitiveness\"",
-      "url": "https://www.euractiv.com/news/franco-german-cloud-sovereignty-unity-may-prove-paper-thin/",
-      "source": "Euractiv",
-      "published_at": "2026-04-29T04:00:24+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Franco-German cloud sovereignty unity may prove paper thin"
-    },
-    {
-      "id": "5f3b8915b31f0b717729e62317f50564bbf980e0",
-      "title": "BUDGET BRIEF: Own your resources?",
-      "summary": "Including: Luxembourg's PM speaks, own resources debate and a vote in the European Parliament",
-      "url": "https://www.euractiv.com/news/budget-brief-own-your-resources/",
-      "source": "Euractiv",
-      "published_at": "2026-04-28T19:36:05+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "a1552f155d127d3cb8d32079cc8fce1e1d9fa3ba",
-      "title": "‘Only yes means yes’: MEPs call for EU to adopt consent-based definition of rape",
-      "summary": "Legislators say move would be crucial step towards addressing patchwork of laws in place across blocEurope live – latest updatesThe European parliament has called on the EU to draw up a standardised consent-based definit…",
-      "url": "https://www.theguardian.com/world/2026/apr/28/european-parliament-urges-eu-draw-up-standardised-consent-based-definition-rape",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-28T18:55:35+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "92410774912f6b1060a8bccfd6a0f4f8a4fc7779",
-      "title": "Household real consumption per capita grows in both the euro area and the EU - European Commission",
-      "summary": "Household real consumption per capita grows in both the euro area and the EU&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXdEVSLS1uODI5ZkhYRFdHUUtvQmZ5QWF2MlE3ci0tV3cxOTJjdk5lTXNVTnVFMXFFdVdwQ2I0T2Fia2Jhc19mSnlvLWxCZ2oxd01nVU5uM3llUEdHUEV4eWQ2dnlMM0pvQkN3SEp4VWtXVk1IN0JtZ2NxSWxOMlE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-28T17:35:31+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "eee40c43909acff6ee91983e378db77ca1ef3ccb",
-      "title": "The European Parliament warns about deep-sea mining push",
-      "summary": "MEPs are calling for a moratorium on the controversial practice",
-      "url": "https://www.euractiv.com/news/the-european-parliament-warns-about-deep-sea-mining-push/",
-      "source": "Euractiv",
-      "published_at": "2026-04-28T16:30:04+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "345de59c74b58f4ecb5e5398dbdf0022b81787d4",
-      "title": "Latvian President at Three Seas Initiative meeting in Croatia",
-      "summary": "Latvian President Edgars Rinkēvičs is in Dubrovnik, Croatia on April 28th-29th to attend the Summit of the&nbsp;Three Seas Initiative –&nbsp;an economic cooperation platform proposed by the presidents of the region's cou…",
-      "url": "https://eng.lsm.lv/article/politics/president/28.04.2026-latvian-president-at-three-seas-initiative-meeting-in-croatia.a644946/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-04-28T15:06:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "c02d275dee987a7e8497215c41906239b6daeb05",
-      "title": "German bid to rescue ‘Timmy’ the whale passes key hurdle",
-      "summary": "The latest rescue effort – financed by two entrepreneurs – involves transporting the sea mammal on a barge",
-      "url": "https://www.euractiv.com/news/german-bid-to-rescue-timmy-the-whale-passes-key-hurdle/",
-      "source": "Euractiv",
-      "published_at": "2026-04-28T15:02:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "German bid to rescue ‘Timmy’ the whale passes key hurdle"
-    },
-    {
-      "id": "b880ce29737755bb00e271ef6937b2876b8308f1",
-      "title": "Germany plans sharp tobacco tax rise as EU talks near decision",
-      "summary": "The finance ministry expects the measures to generate an additional €2.8 billion in revenue",
-      "url": "https://www.euractiv.com/news/germany-plans-sharp-tobacco-tax-rise-as-eu-talks-near-decision/",
-      "source": "Euractiv",
-      "published_at": "2026-04-28T14:05:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Germany plans sharp tobacco tax rise as EU talks near decision"
-    },
-    {
-      "id": "0ea6690a9f7784f80eb8daaae27e49c3dd842b31",
-      "title": "European Commission appoints new trade, energy chiefs in major reshuffle",
-      "summary": "Senior Danish, French officials take on key portfolios",
-      "url": "https://www.euractiv.com/news/european-commission-appoints-new-trade-energy-chiefs-in-major-reshuffle/",
-      "source": "Euractiv",
-      "published_at": "2026-04-28T12:09:57+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "c4455cba5e5e062739d1a228c21590dc13caa4db",
-      "title": "Sweeping EU budget changes may not deliver better results, auditors warn",
-      "summary": "European auditors warn of risks and challenges in European Commission's proposed €2 trillion budget for 2028-2034",
-      "url": "https://www.euractiv.com/news/sweeping-eu-budget-changes-may-not-deliver-better-results-auditors-warn/",
-      "source": "Euractiv",
-      "published_at": "2026-04-28T11:53:06+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "de70888354e9a6b7be5d1f0b3beb71a274f64c0f",
-      "title": "EU parliament adopts new rules to protect cats, dogs",
-      "summary": "The European Union is home to over 72 million dogs and 83 million cats",
-      "url": "https://www.euractiv.com/news/eu-parliament-adopts-new-rules-to-protect-cats-dogs/",
-      "source": "Euractiv",
-      "published_at": "2026-04-28T11:48:39+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "627ad6cc03c8a8ab0dc0f9d503c4662644cb8090",
-      "title": "Parliament seals negotiation position for the EU’s next long-term budget",
-      "summary": "The European Parliament wants a 10% increase and new taxes to fund Covid-era common debt repayments",
-      "url": "https://www.euractiv.com/news/parliament-seals-negotiation-position-for-the-eus-next-long-term-budget/",
-      "source": "Euractiv",
-      "published_at": "2026-04-28T10:52:44+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "87b09fc93fc9180e46f802f543b66edf13637aee",
-      "title": "Barge rescue attempt for Timmy the whale in Germany gets go-ahead",
-      "summary": "Vets say whale stranded for a month near Lübeck is fit to be transported in rescue effort funded by two entrepreneursGerman officials have given the green light for a fresh attempt to rescue a humpback whale that has bee…",
-      "url": "https://www.theguardian.com/world/2026/apr/28/timmy-whale-barge-rescue-attempt-germany",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-28T10:22:50+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "whale in Germany gets go-ahead"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-29T11:14:06Z"
+  "last_updated": "2026-04-30T11:07:58Z"
 }

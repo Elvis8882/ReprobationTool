@@ -1,9 +1,9 @@
 {
   "country": "SY",
-  "score": 82,
+  "score": 81,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 58,
   "sentiment": {
     "positive": 4,
@@ -11,6 +11,28 @@
     "negative": 27
   },
   "latest_articles": [
+    {
+      "id": "0d1d84e992f07e33967778e1a00b88e62ce623c1",
+      "title": "Trump administration urges countries to help citizens stuck in Syria as Australia maintains hardline stance",
+      "summary": "Syrian officials say a group Australians ‘awaiting a solution’ as Albanese government refuses to repatriate themGet our breaking news email, free app or daily news podcastThe Trump administration says it is in “active co…",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/30/syria-australian-citizens-repatriation-us-trump",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-30T07:13:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "urges countries to help citizens stuck in Syria"
+    },
+    {
+      "id": "1e75eff713cfbcc81aabb2468056c81efb01bb77",
+      "title": "Syrian commission prepares war crimes case against notorious Assad official",
+      "summary": "Fadi Saqr is accused of mass killings of civilians in Tadamon, Damascus, where people say he must face justiceA Syrian rights commission is preparing a case accusing Fadi Saqr, a militia leader within the Assad regime, o…",
+      "url": "https://www.theguardian.com/world/2026/apr/30/fadi-saqr-tadamon-damascus-syria",
+      "source": "World news - The Guardian",
+      "published_at": "2026-04-30T06:00:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Syrian commission prepares war crimes case against notorious Assad official"
+    },
     {
       "id": "3c7be4c3585402f602b3d61a9ce332a58f554d26",
       "title": "Taking power in Mali might be a stretch but insurgents can force hand of weakened regime",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Syria condemned the strikes on weapons sites and government infrastructure"
-    },
-    {
-      "id": "eccab04df68787c2c36be2418b2764409c21d397",
-      "title": "Iran To Lebanon To Iraq: Heavy Casualties Reported Amid US-Israel-Iran War",
-      "summary": "Countries including Syria and Oman have also reported deaths linked to Iranian missile or drone attacks.",
-      "url": "https://www.ndtv.com/world-news/iran-to-lebanon-to-iraq-heavy-casualties-reported-amid-us-israel-iran-war-middle-east-conflict-11236817#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-03-19T07:08:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "deaths linked to Iranian missile or drone attacks"
-    },
-    {
-      "id": "3a9a5f7d91bdf9a0e013624d165e703160994634",
-      "title": "Syrian ex-colonel in court on crimes against humanity charge",
-      "summary": "Salem Michel Al-Salem, accused of crimes committed in Syria in 2011 and 2012, has been named for the first time.",
-      "url": "https://www.bbc.com/news/articles/cedz4jp379wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-10T14:17:37+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Syrian ex-colonel in court on crimes against humanity charge"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-29T11:14:06Z"
+  "last_updated": "2026-04-30T11:07:58Z"
 }

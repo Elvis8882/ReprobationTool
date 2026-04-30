@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 3,
+  "sources": 4,
   "sentiment": {
     "positive": 1,
-    "neutral": 2,
+    "neutral": 3,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "fbe1865d11514f7492bd9c32966547c2e37d8678",
+      "title": "Armenia eyes closer European ties with major summits",
+      "summary": "Relations between Yerevan and its traditional ally Moscow have become strained in recent years",
+      "url": "https://www.euractiv.com/news/armenia-eyes-closer-european-ties-with-major-summits/",
+      "source": "Euractiv",
+      "published_at": "2026-04-30T06:35:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "Armenia eyes closer European ties"
+    },
     {
       "id": "f45f41fe93209b7d72655f008f5e5fff874e9125",
       "title": "UK firms to face tougher checks on export licences to bolster sanctions on Russia",
@@ -46,5 +57,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-29T11:14:06Z"
+  "last_updated": "2026-04-30T11:07:58Z"
 }
