@@ -1,16 +1,27 @@
 {
   "country": "BE",
-  "score": 82,
+  "score": 83,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 2,
-  "sources": 388,
+  "trend": 1,
+  "sources": 383,
   "sentiment": {
-    "positive": 44,
-    "neutral": 296,
-    "negative": 48
+    "positive": 43,
+    "neutral": 293,
+    "negative": 47
   },
   "latest_articles": [
+    {
+      "id": "13a4bdf2c55d327cfdfcd57ccf5d634fcabdcb29",
+      "title": "Belgium plans to nationalise nuclear power plants",
+      "summary": "Prime Minister Bart De Wever said the move would see \"less dependence on fossil fuel imports and more control over our own supply\".",
+      "url": "https://www.bbc.com/news/articles/c4g05jg87wko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-30T19:50:29+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "less dependence on fossil fuel imports and more control"
+    },
     {
       "id": "65ced43cc34916fb57f5ed6933203051cb3fc9df",
       "title": "Merz calls for a ‘a reliable transatlantic partnership’ after Trump threatens Germany with US troop reduction – Europe live",
@@ -206,19 +217,8 @@
       "published_at": "2026-04-28T15:06:00+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "81d571aa3fadce8acaef751727d5e5144564c944",
-      "title": "Brussels to step up legal action against EU capitals in bid to slash red tape",
-      "summary": "Enforcement will involve “faster procedures, more automaticity, and also potentially higher penalties,\" said Valdis Dombrovskis",
-      "url": "https://www.euractiv.com/news/brussels-to-step-up-legal-action-against-eu-capitals-in-bid-to-slash-red-tape/",
-      "source": "Euractiv",
-      "published_at": "2026-04-28T14:02:34+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Brussels to step up legal action against EU capitals in bid to slash red tape"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-30T11:07:58Z"
+  "last_updated": "2026-05-01T10:36:35Z"
 }

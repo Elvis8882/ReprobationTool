@@ -1,16 +1,27 @@
 {
   "country": "BG",
-  "score": 97,
+  "score": 98,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": 1,
   "sources": 238,
   "sentiment": {
-    "positive": 12,
-    "neutral": 216,
+    "positive": 13,
+    "neutral": 215,
     "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "12a8d5e709a3974a726589f663bb8e50dc7f515b",
+      "title": "In Bulgaria, a New Government Challenges an Old Puppet Master",
+      "summary": "Delyan Peevski was a focus of protests that led to elections in April. A new government now promises to challenge his hold on power.",
+      "url": "https://www.nytimes.com/2026/05/01/world/europe/bulgaria-election-peevski.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-01T04:01:07+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "new government now promises to challenge his hold on power"
+    },
     {
       "id": "65ced43cc34916fb57f5ed6933203051cb3fc9df",
       "title": "Merz calls for a ‘a reliable transatlantic partnership’ after Trump threatens Germany with US troop reduction – Europe live",
@@ -202,18 +213,8 @@
       "published_at": "2026-04-28T10:52:44+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "759e052ad8d024e0fa2908f44855abdcc6473993",
-      "title": "Brussels demands ‘reciprocity’ after Beijing’s ‘Made in Europe’ criticism",
-      "summary": "“We are one of the most open markets in the world,\" said a European Commission spokesperson. \"We also expect that openness to be mutual.\"",
-      "url": "https://www.euractiv.com/news/brussels-demands-reciprocity-after-beijings-made-in-europe-criticism/",
-      "source": "Euractiv",
-      "published_at": "2026-04-27T12:11:22+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-30T11:07:58Z"
+  "last_updated": "2026-05-01T10:36:35Z"
 }

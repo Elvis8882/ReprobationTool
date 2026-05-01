@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 93,
+  "score": 92,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 77,
+  "trend": -1,
+  "sources": 78,
   "sentiment": {
     "positive": 11,
     "neutral": 51,
-    "negative": 15
+    "negative": 16
   },
   "latest_articles": [
+    {
+      "id": "3eac7ada058ce9b19ef12d3502f97823ba3ebc70",
+      "title": "Turkey seeks ‘hegemony’, Israeli ambassador claims",
+      "summary": "\"Turkey, instead of seeking partnership, is thinking along the lines of hegemony,\" Noam Katz said",
+      "url": "https://www.euractiv.com/news/turkey-seeks-hegemony-israeli-ambassador-claims/",
+      "source": "Euractiv",
+      "published_at": "2026-05-01T04:00:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Turkey seeks ‘hegemony’"
+    },
     {
       "id": "76235dedc6d20c4ac872c320a6bb1cbe63cf0c07",
       "title": "India-Turkey Cement Security Ties With Dawood Aide Salim Dola's Deportation",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "in Istanbul, Officials Say"
-    },
-    {
-      "id": "e7fb33131353ea6c2001ea248670aac29dd68633",
-      "title": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul",
-      "summary": "No Israeli diplomats are currently in Turkey and the Istanbul consulate has been empty for the past two-and-a-half years.",
-      "url": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-07T14:51:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "shooting at Israeli consulate in Istanbul"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-30T11:07:58Z"
+  "last_updated": "2026-05-01T10:36:35Z"
 }

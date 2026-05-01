@@ -7,10 +7,21 @@
   "sources": 270,
   "sentiment": {
     "positive": 30,
-    "neutral": 230,
-    "negative": 10
+    "neutral": 229,
+    "negative": 11
   },
   "latest_articles": [
+    {
+      "id": "bf1e1767b09e83f76e8b5e199f78d64a2fbd0cc6",
+      "title": "Lithuania Says It Broke Up Russian Sabotage and Murder Plots",
+      "summary": "The arrests of nine people are reminders of the threat Russia poses in Europe at a time when Washington has shifted focus to the Middle East.",
+      "url": "https://www.nytimes.com/2026/05/01/world/europe/russia-sabotage-lithuania.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-01T04:01:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Broke Up Russian Sabotage and Murder Plots"
+    },
     {
       "id": "65ced43cc34916fb57f5ed6933203051cb3fc9df",
       "title": "Merz calls for a ‘a reliable transatlantic partnership’ after Trump threatens Germany with US troop reduction – Europe live",
@@ -202,18 +213,8 @@
       "published_at": "2026-04-28T10:52:44+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "759e052ad8d024e0fa2908f44855abdcc6473993",
-      "title": "Brussels demands ‘reciprocity’ after Beijing’s ‘Made in Europe’ criticism",
-      "summary": "“We are one of the most open markets in the world,\" said a European Commission spokesperson. \"We also expect that openness to be mutual.\"",
-      "url": "https://www.euractiv.com/news/brussels-demands-reciprocity-after-beijings-made-in-europe-criticism/",
-      "source": "Euractiv",
-      "published_at": "2026-04-27T12:11:22+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-30T11:07:58Z"
+  "last_updated": "2026-05-01T10:36:35Z"
 }

@@ -1,16 +1,93 @@
 {
   "country": "UA",
-  "score": 25,
+  "score": 27,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 3,
-  "sources": 645,
+  "trend": 2,
+  "sources": 649,
   "sentiment": {
-    "positive": 258,
-    "neutral": 158,
-    "negative": 229
+    "positive": 262,
+    "neutral": 159,
+    "negative": 228
   },
   "latest_articles": [
+    {
+      "id": "89022c45ff31f5333d025ccbaeb3c1c66ef11e6e",
+      "title": "Oil Companies’ Huge Profits Revive Calls for Temporary Windfall Taxes",
+      "summary": "European nations imposed temporary taxes in the 2022 energy shock when Russia invaded Ukraine, but whether they can effectively help households is up for debate.",
+      "url": "https://www.nytimes.com/2026/05/01/business/economy/iran-war-oil-profits-tax.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-01T04:00:27+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Russia invaded Ukraine"
+    },
+    {
+      "id": "9dbc5aa9bd071e60fa11b58f0dcbed70347cb8df",
+      "title": "Venice Biennale jury resigns days before start of top art exhibition",
+      "summary": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
+      "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-04-30T23:44:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "full-scale invasion of Ukraine"
+    },
+    {
+      "id": "c815ea3d6b773838f4a15ce93bd59aa7fe7c11d5",
+      "title": "Hezbollah Using Fiber-Optic Drones Against Israeli Targets",
+      "summary": "The Lebanese militant group is attacking Israeli troops with explosive drones controlled by fiber-optic cables, like those commonly used in the war in Ukraine.",
+      "url": "https://www.nytimes.com/2026/04/30/world/middleeast/hezbollah-fiber-optic-drones.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-30T21:10:18+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "commonly used in the war in Ukraine"
+    },
+    {
+      "id": "6efca326972d68aa87a1182426585fdab03cbdeb",
+      "title": "Trump aide Josh Gruenbaum dropped from Ukraine, Iran roles: Here's why he was sidelined",
+      "summary": "Josh Gruenbaum, formerly an adviser to Jared Kushner and Steve Witkoff on Russia-Ukraine and Iran policy, will now exclusively focus on Gaza Strip issues through the independent Board of Peace. This shift follows interna…",
+      "url": "https://timesofindia.indiatimes.com/world/us/trump-aide-josh-gruenbaum-dropped-from-ukraine-iran-roles-heres-why-he-was-sidelined/articleshow/130648385.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-04-30T18:55:31+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "dropped from Ukraine, Iran roles"
+    },
+    {
+      "id": "46ece4fdd6a57983b28a9bc3fcbce1db7a723b4d",
+      "title": "Ukraine’s armed forces advertise for 15,000 more drone pilots",
+      "summary": "The new “Drone Line” doctrine aims to establish a kill zone of 10-15 kilometres",
+      "url": "https://www.euractiv.com/news/ukraines-armed-forces-advertise-for-15000-more-drone-pilots/",
+      "source": "Euractiv",
+      "published_at": "2026-04-30T15:13:26+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukraine’s armed forces advertise for 15,000 more drone pilots"
+    },
+    {
+      "id": "bda491ebad03475b3a71cf4f1037219743103b5c",
+      "title": "Nordic-Baltic Eight: Press remarks by High Representative/Vice President Kaja Kallas at the joint press conference with Foreign Ministers - EEAS",
+      "summary": "Nordic-Baltic Eight: Press remarks by High Representative/Vice President Kaja Kallas at the joint press conference with Foreign Ministers&nbsp;&nbsp;EEASLatvia calls for stronger European responsibility in defence, secur…",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQy1zZ1hkMk5JN0lsdV96UFEzb2E4XzhnS2ZZbElWYk1XT0dGTG1RRFJfbU1QMjhFdDQ5dU1wQUo5Z2EtZnRQcmdxU1Q2WmlCbGk4Qy1tamhtRFJrMUZtb0FhTnlVYVgtelJmVzc2UWtUNklkOS1qckFSQmhSYWdnQ0NHcDFZY2ZUN0xtd3FiMWc5Zm1XOGVLTHdqVndzdlloeHAtOTZOSzBmd0JVS2w3OElnZ1IyakFrdmZrNVlZd041Z3cyZTllRExOY2V2NHVxU2FkTDB0a3FYUE44bU5xUlVGU3labDU4RmdpWXVMU0w?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-04-30T14:24:30+00:00",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "Strong Support for Ukraine’s EU and NATO Path"
+    },
+    {
+      "id": "6559296112c723c0d6b6948a2662e8cc2259eb05",
+      "title": "Ukraine wants details of Russia’s army parade truce offer",
+      "summary": "The Kremlin's call for a short halt in fighting came several weeks after the warring countries agreed an Easter truce that was marred by allegations of violations",
+      "url": "https://www.euractiv.com/news/ukraine-wants-details-of-russias-army-parade-truce-offer/",
+      "source": "Euractiv",
+      "published_at": "2026-04-30T12:26:39+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine wants details of Russia’s army parade truce offer"
+    },
     {
       "id": "4fe19fe596c569a4fd0a52c05c7679340c8fdb89",
       "title": "Oil price tops $126 a barrel after Trump warns Iran blockade could last ‘months’",
@@ -153,85 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Ukraine"
-    },
-    {
-      "id": "d4ac01d018dded9c1773a02c429ad25d8ebd84b4",
-      "title": "Kim Jong Un praises troops who 'self-blasted' to avoid capture by Ukraine",
-      "summary": "It confirms suspicions that North Korean soldiers are being told to detonate their grenades to kill themselves.",
-      "url": "https://www.bbc.com/news/articles/cddp7pzqdvjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-29T01:47:51+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Kim Jong Un praises troops who 'self-blasted' to avoid capture by Ukraine"
-    },
-    {
-      "id": "030447e6b80f455d777ba70faffde99a921f7400",
-      "title": "Watch: Elderly woman rescued by robot from Ukraine's frontline",
-      "summary": "The Ukrainian army spotted the woman using a drone and sent the machine to her rescue as she was trying to leave her war-torn village.",
-      "url": "https://www.bbc.com/news/videos/cpqpjw1zdvjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-28T21:58:17+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Elderly woman rescued by robot from Ukraine's frontline"
-    },
-    {
-      "id": "4ba4c58c97174d88e3b7fd9c4cc4db530088f3a5",
-      "title": "Ukraine’s battlefield tech draws Europe despite wartime limits",
-      "summary": "Joint ventures give firms access to combat-tested systems",
-      "url": "https://www.euractiv.com/news/ukraines-battlefield-tech-draws-europe-despite-wartime-limits/",
-      "source": "Euractiv",
-      "published_at": "2026-04-28T16:32:11+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine’s battlefield tech draws Europe"
-    },
-    {
-      "id": "7e1d597034011ca3a051312840b40f3776153fc4",
-      "title": "Ukraine pushes for sanctions on Israel over ‘looted’ grain",
-      "summary": "The EU \"remains ready\" to sanction and entities that help fund Russia’s war, a Commission spokesperson said",
-      "url": "https://www.euractiv.com/news/ukraine-pushes-for-sanctions-on-israel-over-looted-grain/",
-      "source": "Euractiv",
-      "published_at": "2026-04-28T16:00:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Ukraine pushes for sanctions on Israel over ‘looted’ grain"
-    },
-    {
-      "id": "e7213032d0e7f3a7d2d78ab01e5d5053f4065b08",
-      "title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
-      "summary": "Residents near a burning refinery in Tuapse are told to leave, and the Kremlin accuses Kyiv of destabilising global energy markets.",
-      "url": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-28T14:32:20+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Third Ukrainian strike hits Russian oil refinery"
-    },
-    {
-      "id": "697aeec053fc6c87933c98091dea5952bf017b2d",
-      "title": "Ukraine accuses Israel of receiving shipments of grain 'stolen' by Russia",
-      "summary": "Israel's foreign minister says it has received no evidence to support the claim that a vessel carrying grain from occupied Ukraine has reached Haifa.",
-      "url": "https://www.bbc.com/news/articles/cqjplqgd1r2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-28T13:51:51+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Ukraine accuses Israel of receiving shipments of grain 'stolen'"
-    },
-    {
-      "id": "819bb9bdb94a7703915461585b3b88fe1dbf1ae0",
-      "title": "Moldova’s entry into Ukraine’s ‘Coalition of the Willing’ brings major logistical benefits, experts say",
-      "summary": "Discussions about the kind of contributions Chișinău could make to the coalition are ongoing, an official told Euractiv",
-      "url": "https://www.euractiv.com/news/moldovas-entry-into-ukraines-coalition-of-the-willing-brings-major-logistical-benefits-experts-say/",
-      "source": "Euractiv",
-      "published_at": "2026-04-28T13:17:08+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Moldova’s entry into Ukraine’s ‘Coalition of the Willing’ brings major logistical benefits"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-04-30T11:07:58Z"
+  "last_updated": "2026-05-01T10:36:35Z"
 }
