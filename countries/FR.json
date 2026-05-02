@@ -1,16 +1,27 @@
 {
   "country": "FR",
-  "score": 100,
+  "score": 99,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 623,
+  "trend": -1,
+  "sources": 624,
   "sentiment": {
     "positive": 106,
     "neutral": 459,
-    "negative": 58
+    "negative": 59
   },
   "latest_articles": [
+    {
+      "id": "98e5338ac195c1c09b17797088830f77897d6538",
+      "title": "Israeli police arrest man after nun attacked in Jerusalem",
+      "summary": "The French nun was pushed over and kicked in the apparently unprovoked assault, amid a rise in harassment of Christians in the city by Jewish extremists.",
+      "url": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-01T17:03:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "The French nun was pushed over and kicked"
+    },
     {
       "id": "a41870b1a7de6c5c38884025c45d14fbd1eef83b",
       "title": "Sofiane Pamart Emerged From France’s Rap Scene. Now, He’s Setting the Piano World on Fire.",
@@ -211,18 +222,8 @@
       "published_at": "2026-04-29T09:29:46+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "fdddb1ca952684d66e2e479a4a154d703a9ef6ad",
-      "title": "24% of first-time asylum applicants were minors in 2025 - European Commission",
-      "summary": "24% of first-time asylum applicants were minors in 2025&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92TFhqUmx2a0hXeHFfdktsQ1dxSGR1aDY0eUI1eHFna29acFNNU2pLSWFLcVhtbGdQWXp6NXdvdlI3akR3bHhOSHhRRFB6MUNnb1dXV1Zqa0JSeUNNWFN6WGlGNlU3VzdYc2pXYzBGaURkSVdoLVAzNHRIWUVndw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-29T09:00:39+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-01T10:36:35Z"
+  "last_updated": "2026-05-02T10:12:28Z"
 }
