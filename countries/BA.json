@@ -1,16 +1,27 @@
 {
   "country": "BA",
-  "score": 55,
-  "score_label": "Negative",
-  "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 4,
+  "score": 63,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": 8,
+  "sources": 5,
   "sentiment": {
-    "positive": 0,
+    "positive": 1,
     "neutral": 2,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "05e4f4ab28bdef970e9d7f946fb982d8357ecbfe",
+      "title": "War criminal Mladic close to death, say lawyers asking judge for jail release",
+      "summary": "Mladic, 84, was jailed for life for genocide, war crimes and crimes against humanity during the Bosnian war in 1992-95.",
+      "url": "https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-01T15:12:14+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Mladic was jailed for life for genocide, war crimes"
+    },
     {
       "id": "165b865627c013bec899e23662a740bcde1aefb0",
       "title": "EU tells Bosnia to ‘carefully’ follow obligations over US pipeline deal",
@@ -57,5 +68,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-02T10:12:28Z"
+  "last_updated": "2026-05-03T10:20:00Z"
 }

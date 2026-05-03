@@ -1,16 +1,27 @@
 {
   "country": "NO",
-  "score": 98,
+  "score": 75,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 68,
+  "trend": -23,
+  "sources": 65,
   "sentiment": {
     "positive": 11,
-    "neutral": 48,
-    "negative": 9
+    "neutral": 46,
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "cfeb62f5ecf20818dd74faf765d28ac023e90013",
+      "title": "Norway’s Northern Lights Nightmare",
+      "summary": "This Arctic region has seen a boom in tourism, but as tourists chase the northern lights, scammers chase their money.",
+      "url": "https://www.nytimes.com/2026/05/03/world/europe/norway-northern-lights-tromso.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-03T04:01:29+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Norway’s Northern Lights Nightmare"
+    },
     {
       "id": "a4fc61d5d89ef579fa0c77f5609025014fcf1e0e",
       "title": "Carney to Launch Sovereign Wealth Fund to Distance Canada’s Economy From U.S.",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "explosion at US embassy in Oslo, investigating whether a foreign state actor was involved"
-    },
-    {
-      "id": "8cda69ccaa5161ae741606580f25f41432dae10a",
-      "title": "Three Norwegian brothers arrested over US embassy blast in Oslo",
-      "summary": "Trio held on suspicion of ‘terrorist bombing’ that caused minor damage but no injuriesThree Norwegian brothers have been arrested on suspicion of a “terrorist bombing” at the US embassy in Oslo that caused minor damage a…",
-      "url": "https://www.theguardian.com/world/2026/mar/11/three-norwegian-brothers-arrested-us-embassy-blast-oslo",
-      "source": "World news - The Guardian",
-      "published_at": "2026-03-11T18:26:56+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "Three Norwegian brothers arrested over US embassy blast in Oslo"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-02T10:12:28Z"
+  "last_updated": "2026-05-03T10:20:00Z"
 }

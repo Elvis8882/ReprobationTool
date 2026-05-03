@@ -1,16 +1,38 @@
 {
   "country": "IT",
-  "score": 94,
+  "score": 93,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 481,
+  "trend": -1,
+  "sources": 477,
   "sentiment": {
     "positive": 38,
-    "neutral": 414,
-    "negative": 29
+    "neutral": 409,
+    "negative": 30
   },
   "latest_articles": [
+    {
+      "id": "0958af4eec485fb0cc70c3634660e26a351f8868",
+      "title": "Gaza flotilla activists from Spain and Brazil appear in Israeli court",
+      "summary": "Court extends detention of two men who were among 175 people intercepted in Mediterranean on ThursdayTwo foreign activists from a Gaza-bound flotilla who were brought to Israel for interrogation have appeared before an I…",
+      "url": "https://www.theguardian.com/world/2026/may/03/gaza-flotilla-activists-spain-brazil-appear-israel-court",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-03T09:02:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Italy with the aim of breaking an Israeli blockade of Gaza"
+    },
+    {
+      "id": "55a892dda4472065108edb911d2fbdb9a1d53264",
+      "title": "Italy fast-tracks primary care overhaul to meet EU deadlines",
+      "summary": "Doctors warn reform risks undermining the profession and lacks proper consultation",
+      "url": "https://www.euractiv.com/news/italy-fast-tracks-primary-care-overhaul-to-meet-eu-deadlines/",
+      "source": "Euractiv",
+      "published_at": "2026-05-03T06:30:34+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.6,
+      "evidence": "Italy fast-tracks primary care overhaul to meet EU deadlines"
+    },
     {
       "id": "c8264b2d7153bc2990385076f7079dd49d620f76",
       "title": "Explore Italy and Croatia Like Never Before: New Solo and Cycling Tours for 2026 - Travel And Tour World",
@@ -197,29 +219,8 @@
       "published_at": "2026-04-28T18:55:35+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "92410774912f6b1060a8bccfd6a0f4f8a4fc7779",
-      "title": "Household real consumption per capita grows in both the euro area and the EU - European Commission",
-      "summary": "Household real consumption per capita grows in both the euro area and the EU&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXdEVSLS1uODI5ZkhYRFdHUUtvQmZ5QWF2MlE3ci0tV3cxOTJjdk5lTXNVTnVFMXFFdVdwQ2I0T2Fia2Jhc19mSnlvLWxCZ2oxd01nVU5uM3llUEdHUEV4eWQ2dnlMM0pvQkN3SEp4VWtXVk1IN0JtZ2NxSWxOMlE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-28T17:35:31+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "2f2bf5479e3d9a7ff25eb3527d84fec5e6cd4d57",
-      "title": "Ex-TV showgirl's pardon at centre of widening Italian scandal",
-      "summary": "Nicole Minetti was convicted of facilitating prostitution in connection with the notorious \"bunga bunga\" parties at Silvio Berlusconi's villa.",
-      "url": "https://www.bbc.com/news/articles/cd9pdkeekkzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-28T16:59:49+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "widening Italian scandal"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-02T10:12:28Z"
+  "last_updated": "2026-05-03T10:20:00Z"
 }
