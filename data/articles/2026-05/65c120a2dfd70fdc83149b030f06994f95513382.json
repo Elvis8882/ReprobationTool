@@ -17,8 +17,25 @@
     "GB",
     "SY"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-05-03T10:20:00+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-05-04T11:19:04+00:00",
+  "sentiment_by_country": {
+    "FR": {
+      "label": "negative",
+      "confidence": 0.5,
+      "evidence": "asylum seeker sent back to France... to be returned to Syria"
+    },
+    "GB": {
+      "label": "negative",
+      "confidence": 0.5,
+      "evidence": "scheme to be returned to Syria... Keir Starmer... Emmanuel Macron"
+    },
+    "SY": {
+      "label": "negative",
+      "confidence": 0.5,
+      "evidence": "returned to Syria... first case of its kind"
+    }
+  },
+  "processed_at": "2026-05-04T11:19:04+00:00"
 }

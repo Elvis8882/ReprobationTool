@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 92,
+  "score": 90,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 80,
+  "trend": -2,
+  "sources": 78,
   "sentiment": {
-    "positive": 11,
+    "positive": 8,
     "neutral": 53,
-    "negative": 16
+    "negative": 17
   },
   "latest_articles": [
+    {
+      "id": "d882fac7cdb973ef9aafca81404867842f010a9e",
+      "title": "Greece pushes maritime talks with Libya to counter Turkey’s 2019 pact",
+      "summary": "The region is believed to hold significant offshore gas reserves",
+      "url": "https://www.euractiv.com/news/greece-pushes-maritime-talks-with-libya-to-counter-turkeys-2019-pact/",
+      "source": "Euractiv",
+      "published_at": "2026-05-03T10:22:49+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "counter Turkey’s 2019 pact The region is believed to hold significant offshore gas"
+    },
     {
       "id": "4f461ff64995b040bfda4a0579bbd7372d2396b6",
       "title": "Pakistan's Map Faux Pas In Peace Talks Meeting With Afghanistan",
@@ -21,6 +32,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "meeting held in Istanbul"
+    },
+    {
+      "id": "f9450a5658339fef4551c33dd806559fa0c2811b",
+      "title": "Dawood Aide Salim Dola Went Incognito In Turkey. A 'Mistake' Led To His Arrest",
+      "summary": "Salim Dola, a resident of Mumbai's Dongri, was arrested in Turkey",
+      "url": "https://www.ndtv.com/india-news/dawood-aide-salim-dola-went-underground-in-turkey-his-one-move-led-to-arrest-in-istanbul-11438619#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-05-02T07:09:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Dawood Aide Salim Dola Went Incognito In Turkey"
     },
     {
       "id": "3925e011c7033651c50d7794a6bdeecaab3bec64",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.9,
       "evidence": "Sixteen injured after ex-student opens fire at high school in Turkey"
-    },
-    {
-      "id": "227eb86875c66f3d0d52343ec693c4e8758efae1",
-      "title": "Ex-Student Opens Fire At Turkish School Wounding 16, Then Kills Self",
-      "summary": "School shootings are rare inTurkey.",
-      "url": "https://www.ndtv.com/world-news/ex-student-opens-fire-at-turkish-school-wounding-16-then-kills-self-11355265#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-04-14T08:47:20+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "School shootings are rare inTurkey."
-    },
-    {
-      "id": "d24a510d886d691b311f94e3ae1b175747b09b28",
-      "title": "Turkey fears it could be Israel’s next target",
-      "summary": "Fidan warned Greece that its cooperation with Israel amounted to “risky” policies",
-      "url": "https://www.euractiv.com/news/turkey-fears-it-could-be-israels-next-target/",
-      "source": "Euractiv",
-      "published_at": "2026-04-13T14:00:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Turkey fears it could be Israel’s next target"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-03T10:20:00Z"
+  "last_updated": "2026-05-04T11:19:04Z"
 }

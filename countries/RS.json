@@ -1,16 +1,27 @@
 {
   "country": "RS",
-  "score": 55,
+  "score": 57,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 17,
+  "trend": 2,
+  "sources": 18,
   "sentiment": {
-    "positive": 0,
+    "positive": 1,
     "neutral": 8,
     "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "375da9f1778918975ba7a31d4b0a275f02ef4756",
+      "title": "Crowdfunding helps Serbian birdwatchers save woodland",
+      "summary": "A Serbian bird society successfully crowdfunded 8,000 euros to purchase and protect a two-hectare woodland, preventing its likely deforestation. This initiative highlights growing public concern for environmental protect…",
+      "url": "https://timesofindia.indiatimes.com/home/environment/crowdfunding-helps-serbian-birdwatchers-save-woodland/articleshow/130743483.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-05-04T02:22:25+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Serbian bird society successfully crowdfunded 8,000 euros to purchase and protect woodland"
+    },
     {
       "id": "7300c639bbb4bee42b250b3fb89a2abf83bf5ae8",
       "title": "EU suspends funds for Serbia over law reforms",
@@ -200,5 +211,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-03T10:20:00Z"
+  "last_updated": "2026-05-04T11:19:04Z"
 }
