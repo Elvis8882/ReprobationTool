@@ -1,16 +1,27 @@
 {
   "country": "CH",
-  "score": 78,
+  "score": 75,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 63,
+  "trend": -3,
+  "sources": 64,
   "sentiment": {
     "positive": 9,
     "neutral": 50,
-    "negative": 4
+    "negative": 5
   },
   "latest_articles": [
+    {
+      "id": "5a26b454ef5088bae655ea1b5cd919fb3f0a46d4",
+      "title": "Husband Accused Of Killing Former Miss Switzerland, Carving Out Her Womb Says He \"Loved\" Her",
+      "summary": "Her husband allegedly choked her first and then carved out her womb",
+      "url": "https://www.ndtv.com/world-news/husband-accused-of-killing-former-miss-switzerland-carving-out-her-womb-says-he-loved-her-11451219#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-05-05T07:57:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Killing Former Miss Switzerland, Carving Out Her Womb"
+    },
     {
       "id": "d211197293ec331eb51b410508f56a2a1df88390",
       "title": "How the war in Iran is affecting Swiss consumers - SWI swissinfo.ch",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.5,
       "evidence": "Switzerland refuses US overflights linked to Middle East war"
-    },
-    {
-      "id": "28cf15b6b66dcc14293b7e4e8e3838595a6007bb",
-      "title": "This electronic device we all throw away hides 450 milligrams of 22-carat gold, say Swiss scientists",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/science/this-electronic-device-we-all-throw-away-hides-450-milligrams-of-22-carat-gold-say-swiss-scientists/articleshow/129444579.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-11T07:10:01+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "say Swiss scientists"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-04T11:19:04Z"
+  "last_updated": "2026-05-05T10:57:12Z"
 }

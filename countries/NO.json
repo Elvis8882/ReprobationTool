@@ -1,16 +1,27 @@
 {
   "country": "NO",
-  "score": 75,
+  "score": 98,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 60,
+  "trend": 23,
+  "sources": 58,
   "sentiment": {
     "positive": 11,
-    "neutral": 41,
-    "negative": 8
+    "neutral": 38,
+    "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "b12d582d18310dc56dfb82d1de83f8cef5f18b14",
+      "title": "Norwegian fish farms polluting fjords with waste likened to ‘raw sewage of millions of people’",
+      "summary": "Exclusive: ‘Fish sludge’ in coastal waters now has nutrient levels equivalent to those in untreated effluent of country the size of Australia, report findsNorwegian fish farms are filling fjords and other coastal waters…",
+      "url": "https://www.theguardian.com/world/2026/may/04/norwegian-fish-farms-polluting-fjords-with-waste-likened-to-raw-sewage-of-millions-of-people",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-04T22:01:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Norwegian fish farms polluting fjords with waste"
+    },
     {
       "id": "cfeb62f5ecf20818dd74faf765d28ac023e90013",
       "title": "Norway’s Northern Lights Nightmare",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Norway Celebrates Oscar Win for Joachim Trier’s ‘Sentimental Value’"
-    },
-    {
-      "id": "2675d80460ec586d5ab6b1c6928b42b81c17cf5b",
-      "title": "Three brothers arrested after explosion at US embassy in Oslo",
-      "summary": "Norway's police attorney says the authorities are investigating whether a foreign state actor was involved.",
-      "url": "https://www.bbc.com/news/articles/cx2grl7lrrmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-11T18:28:46+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "explosion at US embassy in Oslo, investigating whether a foreign state actor was involved"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-04T11:19:04Z"
+  "last_updated": "2026-05-05T10:57:12Z"
 }

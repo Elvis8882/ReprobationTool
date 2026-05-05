@@ -1,16 +1,38 @@
 {
   "country": "MA",
   "score": 55,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 12,
+  "sources": 14,
   "sentiment": {
     "positive": 0,
-    "neutral": 9,
+    "neutral": 11,
     "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "5636b2ad3c6b58f8c99ac0a14e313b6c3f13bd56",
+      "title": "Two US service members reported missing in Morocco, officials say",
+      "summary": "A search and rescue operation is underway for the service members, who are believed to have been involved in an accident, according to authorities.",
+      "url": "https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-03T17:27:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Two US service members reported missing in Morocco"
+    },
+    {
+      "id": "faf6fb70bd7171ffbfff4e2ebb828d6b01feccc6",
+      "title": "Two US service members missing after military exercises in Morocco",
+      "summary": "Search and rescue operation launched after service members reported missing near south-western city of Tan TanTwo US service members are missing in south-western Morocco after taking part in annual multinational military…",
+      "url": "https://www.theguardian.com/us-news/2026/may/03/service-members-missing-military-exercises-morocco",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-03T12:23:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "military exercises in Morocco"
+    },
     {
       "id": "0b7f5b0baf8f342a2e0c96e746f7152c38dc6c00",
       "title": "British influencer goes missing after Morocco work trip; family says phone switched off for days",
@@ -145,5 +167,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-04T11:19:04Z"
+  "last_updated": "2026-05-05T10:57:12Z"
 }

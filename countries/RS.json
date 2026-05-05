@@ -1,16 +1,27 @@
 {
   "country": "RS",
-  "score": 57,
+  "score": 60,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 2,
+  "trend": 3,
   "sources": 18,
   "sentiment": {
-    "positive": 1,
-    "neutral": 8,
+    "positive": 2,
+    "neutral": 7,
     "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "0e685cac7ef26b41cf4a55b8433c5c945a3fb0a5",
+      "title": "EU backtracks on Serbia funding stop",
+      "summary": "\"There is no decision to freeze funds,\" a Commission spokesperson said",
+      "url": "https://www.euractiv.com/news/eu-backtracks-on-serbia-funding-stop/",
+      "source": "Euractiv",
+      "published_at": "2026-05-04T13:40:56+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "EU backtracks on Serbia funding stop"
+    },
     {
       "id": "375da9f1778918975ba7a31d4b0a275f02ef4756",
       "title": "Crowdfunding helps Serbian birdwatchers save woodland",
@@ -197,19 +208,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Officials allegedly falsified documents"
-    },
-    {
-      "id": "6803d0881a096696a0d5e4919da41ebb932992cd",
-      "title": "Serbian judges and prosecutors go on strike over laws curbing courts",
-      "summary": "Students have been demanding judicial accountability for the deadly Novi Sad accident for more than a year",
-      "url": "https://www.euractiv.com/news/serbian-judges-and-prosecutors-go-on-strike-over-laws-curbing-courts/",
-      "source": "Euractiv",
-      "published_at": "2026-02-03T11:32:19+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Serbian judges and prosecutors go on strike over laws curbing courts"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-04T11:19:04Z"
+  "last_updated": "2026-05-05T10:57:12Z"
 }

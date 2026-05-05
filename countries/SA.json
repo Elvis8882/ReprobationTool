@@ -1,16 +1,27 @@
 {
   "country": "SA",
-  "score": 76,
+  "score": 75,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 180,
+  "trend": -1,
+  "sources": 179,
   "sentiment": {
     "positive": 12,
-    "neutral": 128,
-    "negative": 41
+    "neutral": 126,
+    "negative": 42
   },
   "latest_articles": [
+    {
+      "id": "d62e8d4434b8f4888d1069094510531d74e20bf8",
+      "title": "The Growing Rift Between the UAE and Saudi Arabia, Explained",
+      "summary": "Officials say competition between the countries is healthy. But tensions are mounting over energy quotas, regional conflicts and their different visions for the Middle East.",
+      "url": "https://www.nytimes.com/2026/05/05/world/middleeast/uae-saudi-arabia-oil-opec-what-to-know.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-05T09:19:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Growing Rift Between the UAE and Saudi Arabia"
+    },
     {
       "id": "679eb1e654c0b4e9a1811648dc030d2d81a3a1bd",
       "title": "Saudi Arabia arrests over 11,000 for residency, labour, border violations in nationwide crackdown",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Iranian strike on a base in Saudi"
-    },
-    {
-      "id": "885b0ff09dcad1de68a45b0b9ff4f196b1442eaa",
-      "title": "Zelenskyy calls on 'big players' Trump, PM Modi and Xi to put pressure on Russia",
-      "summary": "Ukrainian President Zelenskyy urged global leaders, including PM Modi, to pressure Putin to end the war, stating mediation alone is insufficient. He emphasized unified international action over compromise.  Meanwhile, Uk…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/tell-putin-to-stop-zelenskyy-calls-on-big-players-donald-trump-pm-modi-and-xi-jinping-to-put-pressure-on-russia/articleshow/130463091.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-04-23T09:23:35+00:00",
-      "sentiment": "positive",
-      "confidence": 0.5,
-      "evidence": "bolstering defence ties... signing drone cooperation agreements"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-04T11:19:04Z"
+  "last_updated": "2026-05-05T10:57:12Z"
 }
