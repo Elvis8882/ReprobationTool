@@ -1,16 +1,27 @@
 {
   "country": "NO",
-  "score": 98,
+  "score": 97,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 23,
-  "sources": 58,
+  "trend": -1,
+  "sources": 57,
   "sentiment": {
     "positive": 11,
-    "neutral": 38,
-    "negative": 9
+    "neutral": 36,
+    "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "0fa05b9316c449163ec89d6897f16bb994890333",
+      "title": "Brent crude falls below $100 a barrel amid Middle East peace hopes – business live",
+      "summary": "Safe transit through the strait of Hormuz will be ensured with US threats coming to an end and new procedures in place, the Revolutionary Guards’ navy said, according to state mediaJob vacancies in the UK bounced back in…",
+      "url": "https://www.theguardian.com/business/live/2026/may/06/oil-prices-retreat-global-stocks-hit-record-highs-trump-great-progress-iran-deal-live-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-06T11:03:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Norwegian oil giant’s relentless pursuit of profit"
+    },
     {
       "id": "b12d582d18310dc56dfb82d1de83f8cef5f18b14",
       "title": "Norwegian fish farms polluting fjords with waste likened to ‘raw sewage of millions of people’",
@@ -219,19 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "warned Europe is facing a crisis and that “it is time to act.”"
-    },
-    {
-      "id": "c93d15d1ed4d7186bbe4bc3bd33b5b1012a478c3",
-      "title": "Norway Celebrates Oscar Win for Joachim Trier’s ‘Sentimental Value’",
-      "summary": "“Sentimental Value,” set in Oslo, was named best international feature film. After a slew of negative news in Norway, it was a welcome victory.",
-      "url": "https://www.nytimes.com/2026/03/16/world/europe/norway-oscar-win-sentimental-value.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-16T13:29:14+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Norway Celebrates Oscar Win for Joachim Trier’s ‘Sentimental Value’"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-05T10:57:12Z"
+  "last_updated": "2026-05-06T11:22:58Z"
 }

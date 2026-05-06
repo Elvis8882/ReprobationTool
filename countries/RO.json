@@ -1,16 +1,92 @@
 {
   "country": "RO",
-  "score": 95,
+  "score": 94,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": -1,
-  "sources": 239,
+  "sources": 243,
   "sentiment": {
     "positive": 14,
-    "neutral": 210,
-    "negative": 15
+    "neutral": 212,
+    "negative": 17
   },
   "latest_articles": [
+    {
+      "id": "752bd008f700c77e09fd4d986b7519f8792762d6",
+      "title": "In Romania, Living With Weapons of War Spilling Into NATO Territory",
+      "summary": "Four years of battle in Ukraine is taking a toll on neighboring Romanians. Even if the war has not crossed the border, drones have done so.",
+      "url": "https://www.nytimes.com/2026/05/06/world/europe/ukraine-russia-romania-drones-nato-drone-wall.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-06T09:27:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Living With Weapons of War Spilling Into NATO Territory"
+    },
+    {
+      "id": "c6019601da7e0b6e0b8891fe638cc2ed2af8dd3c",
+      "title": "People with dependent children face higher poverty - European Commission",
+      "summary": "People with dependent children face higher poverty&nbsp;&nbsp;European Commission20.9% of people at risk of poverty or social exclusion&nbsp;&nbsp;European CommissionDespite growth and pay rises, Greek workers are among…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10QXFRaDU2Ylg2ZUlmbDhjRmdMaFRYR3BldGtGVE9Ia2ZmaHRkNTN3RUxiU21OQUc3QkxPdHNUd0Y4ZkVUS2Jvd2RsOGZITTZwdEtTeGMzUnFIdzRkWHZLSDlVXzZqY0ZlWXNEZWpTcHNMUzNyVXR1YkNCN0xzZw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-05-06T09:03:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Romania most exposed to poverty and social exclusion"
+    },
+    {
+      "id": "8383b5dbd83686858a5ce750280c2b04da776732",
+      "title": "EU gives Russians MORE tourist visas",
+      "summary": "Also, in Wednesday’s edition: US trade, sweary spox, EESC, Várhelyi stays, Romania",
+      "url": "https://www.euractiv.com/news/rapporteur-eu-gives-russians-more-tourist-visas/",
+      "source": "Euractiv",
+      "published_at": "2026-05-06T05:40:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Romania"
+    },
+    {
+      "id": "bd50cf3ca0273f30c1837769f83b4551d8712da3",
+      "title": "Romanian PM ousted in no-confidence vote",
+      "summary": "Ilie Bolojan lost the vote after the largest party in his coalition joined the far-right opposition to depose him.",
+      "url": "https://www.bbc.com/news/articles/cgkpjz2638ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-05T14:05:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Romanian PM ousted in no-confidence vote"
+    },
+    {
+      "id": "b99cb44128ceffed957dadac4e47665c0a9ba691",
+      "title": "Romanian women’s football is expanding rapidly, structural support now needed [Advocacy Lab]",
+      "summary": "Growth in Romania’s women’s football is outpacing its ability to sustain player engagement and career pathways into adulthood, new systems are needed for longterm growth",
+      "url": "https://www.euractiv.com/news/romanian-womens-football-is-expanding-rapidly-structural-support-now-needed/",
+      "source": "Euractiv",
+      "published_at": "2026-05-05T13:30:25+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Romanian women’s football is expanding rapidly"
+    },
+    {
+      "id": "ba8a8c034f37d97b8ea3b9f17c9b3c0cf771806d",
+      "title": "Romanian pro-EU PM loses no-confidence motion",
+      "summary": "The motion received 281 votes in the 464-seat parliament",
+      "url": "https://www.euractiv.com/news/romanian-pro-eu-pm-loses-no-confidence-motion/",
+      "source": "Euractiv",
+      "published_at": "2026-05-05T12:41:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Romanian pro-EU PM loses no-confidence motion"
+    },
+    {
+      "id": "97d86bb4ae9e3fe797e428bee2f51fbb0b3f1d0f",
+      "title": "EU household gas prices up in the second half of 2025 - European Commission",
+      "summary": "EU household gas prices up in the second half of 2025&nbsp;&nbsp;European CommissionLusa - Business News - Portugal: European Union’s second-highest domestic gas prices in 2025&nbsp;&nbsp;Alliance of Mediterranean News A…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iSUk4YXFjN0h0bl9HM3oxN3dQaV9ZOTNZc1g2SllwTXJjdFQyc3NOc0haOVNSRk1KSUVDSGtISGFnMW13LUdIMXJVVzRMNmItNHcwNEh4Rmh3MkFKU196WnU0eXg0blVDNlRCV2dBX2kwWE9UUTAtT1cwb2VzUQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-05-05T09:03:37+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "492c6d40300cd3082bff08a06a23247748d1df56",
       "title": "EU household electricity prices stable in 2025 - European Commission",
@@ -142,79 +218,8 @@
       "published_at": "2026-04-29T09:34:42+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "faf4ef2ce1859b986b311c0e4779732aba12888a",
-      "title": "Meta found in breach of EU law for failing to keep children off platforms",
-      "summary": "Commission says tech company does not have effective measures to keep under-13s off Facebook and InstagramThe tech company Meta has been found to be in breach of EU law for failing to prevent children under 13 from using…",
-      "url": "https://www.theguardian.com/technology/2026/apr/29/meta-found-in-breach-of-eu-law-for-failing-to-keep-children-off-platforms",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-29T09:29:46+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "fdddb1ca952684d66e2e479a4a154d703a9ef6ad",
-      "title": "24% of first-time asylum applicants were minors in 2025 - European Commission",
-      "summary": "24% of first-time asylum applicants were minors in 2025&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92TFhqUmx2a0hXeHFfdktsQ1dxSGR1aDY0eUI1eHFna29acFNNU2pLSWFLcVhtbGdQWXp6NXdvdlI3akR3bHhOSHhRRFB6MUNnb1dXV1Zqa0JSeUNNWFN6WGlGNlU3VzdYc2pXYzBGaURkSVdoLVAzNHRIWUVndw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-29T09:00:39+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "5f3b8915b31f0b717729e62317f50564bbf980e0",
-      "title": "BUDGET BRIEF: Own your resources?",
-      "summary": "Including: Luxembourg's PM speaks, own resources debate and a vote in the European Parliament",
-      "url": "https://www.euractiv.com/news/budget-brief-own-your-resources/",
-      "source": "Euractiv",
-      "published_at": "2026-04-28T19:36:05+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "a1552f155d127d3cb8d32079cc8fce1e1d9fa3ba",
-      "title": "‘Only yes means yes’: MEPs call for EU to adopt consent-based definition of rape",
-      "summary": "Legislators say move would be crucial step towards addressing patchwork of laws in place across blocEurope live – latest updatesThe European parliament has called on the EU to draw up a standardised consent-based definit…",
-      "url": "https://www.theguardian.com/world/2026/apr/28/european-parliament-urges-eu-draw-up-standardised-consent-based-definition-rape",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-28T18:55:35+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "92410774912f6b1060a8bccfd6a0f4f8a4fc7779",
-      "title": "Household real consumption per capita grows in both the euro area and the EU - European Commission",
-      "summary": "Household real consumption per capita grows in both the euro area and the EU&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXdEVSLS1uODI5ZkhYRFdHUUtvQmZ5QWF2MlE3ci0tV3cxOTJjdk5lTXNVTnVFMXFFdVdwQ2I0T2Fia2Jhc19mSnlvLWxCZ2oxd01nVU5uM3llUEdHUEV4eWQ2dnlMM0pvQkN3SEp4VWtXVk1IN0JtZ2NxSWxOMlE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-28T17:35:31+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "eee40c43909acff6ee91983e378db77ca1ef3ccb",
-      "title": "The European Parliament warns about deep-sea mining push",
-      "summary": "MEPs are calling for a moratorium on the controversial practice",
-      "url": "https://www.euractiv.com/news/the-european-parliament-warns-about-deep-sea-mining-push/",
-      "source": "Euractiv",
-      "published_at": "2026-04-28T16:30:04+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "345de59c74b58f4ecb5e5398dbdf0022b81787d4",
-      "title": "Latvian President at Three Seas Initiative meeting in Croatia",
-      "summary": "Latvian President Edgars Rinkēvičs is in Dubrovnik, Croatia on April 28th-29th to attend the Summit of the&nbsp;Three Seas Initiative –&nbsp;an economic cooperation platform proposed by the presidents of the region's cou…",
-      "url": "https://eng.lsm.lv/article/politics/president/28.04.2026-latvian-president-at-three-seas-initiative-meeting-in-croatia.a644946/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-04-28T15:06:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.5,
-      "evidence": "Three Seas Initiative meeting in Croatia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-05T10:57:12Z"
+  "last_updated": "2026-05-06T11:22:58Z"
 }
