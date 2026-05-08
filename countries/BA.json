@@ -1,16 +1,27 @@
 {
   "country": "BA",
-  "score": 63,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
-  "trend": 0,
+  "score": 69,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": 6,
   "sources": 5,
   "sentiment": {
     "positive": 1,
-    "neutral": 2,
-    "negative": 2
+    "neutral": 3,
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "d87071bb8795a69dda31b5170ea2ffd0fc2e908b",
+      "title": "Bosnia calls national elections for October",
+      "summary": "The electoral commission also announced new biometric identity checks and ballot scanners across 6,000 polling stations",
+      "url": "https://www.euractiv.com/news/bosnia-calls-national-elections-for-october/",
+      "source": "Euractiv",
+      "published_at": "2026-05-07T13:43:10+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Bosnia calls national elections for October"
+    },
     {
       "id": "05e4f4ab28bdef970e9d7f946fb982d8357ecbfe",
       "title": "War criminal Mladic close to death, say lawyers asking judge for jail release",
@@ -54,19 +65,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Türkiye, Bosnia and Herzegovina advance to Second Round"
-    },
-    {
-      "id": "aacbf86212609d3a2b14a29c099f894fe8be47f7",
-      "title": "Philippe Morillon, General Who Made Fateful Protection Promise, Dies at 90",
-      "summary": "“I will never abandon you,” he told residents of Srebrenica amid sectarian armed conflict in Bosnia. The town later suffered the worst massacre in Europe since World War II.",
-      "url": "https://www.nytimes.com/2026/02/06/world/europe/philippe-morillon-dead.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-07T03:26:27+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "town later suffered the worst massacre in Europe since World War II"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-07T11:22:14Z"
+  "last_updated": "2026-05-08T10:38:26Z"
 }

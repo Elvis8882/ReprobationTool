@@ -1,16 +1,93 @@
 {
   "country": "UA",
-  "score": 37,
+  "score": 41,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 635,
+  "trend": 4,
+  "sources": 637,
   "sentiment": {
-    "positive": 262,
-    "neutral": 158,
-    "negative": 216
+    "positive": 265,
+    "neutral": 160,
+    "negative": 213
   },
   "latest_articles": [
+    {
+      "id": "ffa31835d0e134efb32c7ff4a4fd0c023d1f59cb",
+      "title": "Ukraine and Russia accuse each other of breaking proposed ceasefires ahead of Victory Day parade in Moscow – Europe live",
+      "summary": "Ukraine suggested an indefinite ceasefire this week but it was repeatedly violated by RussiaBack to Moscow’s preparations for the Victory Parade, Reuters is now reporting that, in the latest signal of concern about the e…",
+      "url": "https://www.theguardian.com/world/live/2026/may/08/ukraine-russia-ceasefire-accusations-strikes-rubio-meloni-hanavirus-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-08T10:04:13+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "Ukraine suggested an indefinite ceasefire"
+    },
+    {
+      "id": "923e0debab8f625adf90559fc77c0dfd719b01d4",
+      "title": "Many Russians in No Mood for Celebration on Kremlin’s Biggest Day of the Year",
+      "summary": "As the country heads into Victory Day, the economy is stalling, internet restrictions are growing and the Kremlin is fearing Ukrainian attacks.",
+      "url": "https://www.nytimes.com/2026/05/08/world/europe/russia-mood-victory-day.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-08T09:32:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "fearing Ukrainian attacks"
+    },
+    {
+      "id": "49f4cc0985d06f2015329d3538383295c32bf159",
+      "title": "LIVE: Saeima strategic communications conference draws on Ukrainian expertise / Article - LSM",
+      "summary": "LIVE: Saeima strategic communications conference draws on Ukrainian expertise / Article&nbsp;&nbsp;LSM",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaVpBaXQzalo1UmxQNlg0RGtHR2tuR0o1ZXY1TjhpemNnQ29UeWNTWXA1bGFvUWlEVTBtMHl4MUxjNzNka3Y0dC1CZGM5WWNQQTV4RHd0aTREUXdXcWNESXFrOGR1alBhOFNhRXp3WnhZSFRSWU45RXhCQi1pSkhKN1VoRjNHZTVEYmxPZUR0Q1dhRU5VTjgxc1J2Y3N1X1dqSzNoWTBCeUVDMW1DZWs3OTFsb2JJcmN3UGFPRDJrSG43ZGdfd090N19pMFh5a0tGYlBCZFJR?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-05-08T07:53:10+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "draws on Ukrainian expertise"
+    },
+    {
+      "id": "c7ec8dc855d2055d9b78b1108d873a8f249fc543",
+      "title": "The missing tanks on Red Square tell a bigger story about Russia’s arms production",
+      "summary": "Russia's defence industry is struggling to match Ukraine’s technical innovation",
+      "url": "https://www.euractiv.com/news/the-missing-tanks-on-red-square-tell-a-bigger-story-about-russias-arms-production/",
+      "source": "Euractiv",
+      "published_at": "2026-05-08T04:00:49+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "technical innovation"
+    },
+    {
+      "id": "08848e048b93e5f6c13885351e7f7ee45c37fc18",
+      "title": "Russia Ramps Up Threats Toward Ukraine Over Victory Day Parade",
+      "summary": "Kremlin officials said a large strike on Kyiv would be “inevitable” if Ukraine disrupted the May 9 event, a prospect President Volodymyr Zelensky has appeared to allude to.",
+      "url": "https://www.nytimes.com/2026/05/07/world/europe/ukraine-russia-victory-day.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-07T20:35:32+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "if Ukraine disrupted the May 9 event"
+    },
+    {
+      "id": "7966ea8871301f7c0e206896be6e0793f04c7b8c",
+      "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
+      "summary": "For the first time in nearly two decades, there will be no military hardware, just soldiers during Saturday's parade in Moscow.",
+      "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-07T16:00:05+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine war not going to plan"
+    },
+    {
+      "id": "870a3b1f64a25b900dee0aa58a0f0cea847f10b9",
+      "title": "Two drones from Russia crash in Latvia with one causing oil depot fire, army says - Euronews.com",
+      "summary": "Two drones from Russia crash in Latvia with one causing oil depot fire, army says&nbsp;&nbsp;Euronews.comAlarm raised as two drones crash in Nato country after crossing from Russia&nbsp;&nbsp;The IndependentBaltic nation…",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVmMxakV0NHhDVkhGZkVmVnhVeVN0YXdSZUxWLWtHcE9maG02RzNBOEJ6c2c3QVEzcDdGUWNYc1BMZ19HUE5aWU9ONV9IU2V4TWhJa24wRllWclNOQzNwTE5JOHoxcmxtVkt1a25qRm95TG9FeFNmNEJlVUkwanVnaFZpZy0xVHU0UkE0ai1XV0JwUUt2bjhWUjFUX25kZEMzQmVFVFlzZHRrRnFDU3g3Z3UydlZRSW1vbkpFRnBNLUUyeXFD?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-05-07T08:44:05+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Russian Military Accuses Ukraine of Launching Drone Attacks"
+    },
     {
       "id": "bc78ddbc63c6ddea0197cf6de94fb3da3127c9f8",
       "title": "FIREPOWER: Nordic defence ministers deepen cooperation as Ukraine joins talks",
@@ -153,85 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "Latvia's parliament...Ukrainian army and strategic communication experts will share their experience"
-    },
-    {
-      "id": "3b0d250daabf20cabad4b6c1057cb4d847b18f80",
-      "title": "FIREPOWER: EU ambassadors look at ‘practicalities’ of triggering Article 42.7",
-      "summary": "In today's edition: Ukraine loan, SAFE, energy security",
-      "url": "https://www.euractiv.com/news/firepower-eu-ambassadors-look-at-practicalities-of-triggering-article-42-7/",
-      "source": "Euractiv",
-      "published_at": "2026-05-05T06:49:32+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Ukraine loan, SAFE, energy security"
-    },
-    {
-      "id": "2388f024480d1d65f794f5f96a07b94c73762d73",
-      "title": "Taiwan Could Learn From Ukraine. Informally, Connections Are Growing.",
-      "summary": "The governments have no official diplomatic or military ties. But a loose network led by company executives and volunteers is bridging some of that gulf.",
-      "url": "https://www.nytimes.com/2026/05/05/world/europe/ukraine-taiwan-drones.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-05T04:01:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Taiwan Could Learn From Ukraine. Informally, Connections Are Growing."
-    },
-    {
-      "id": "b2d665ca5d7fc929881b8e1f6ec1a67dbea64476",
-      "title": "Ukraine, Russia announce separate ceasefires ahead of Moscow’s Victory Day",
-      "summary": "Ukraine announced a ceasefire starting May 5-6, prioritizing human life over Victory Day commemorations, with President Zelenskyy criticizing Russia's focus on parades. Russia, however, declared its own truce from May 8-…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/ukraine-russia-announce-separate-ceasefires-ahead-of-moscows-victory-day/articleshow/130815208.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-05-05T03:57:20+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine announced a ceasefire starting May 5-6, prioritizing human life over Victory Day"
-    },
-    {
-      "id": "0990e3fc7c2a46e1c1dea72c67c32cf692915709",
-      "title": "Starmer lauds £78bn EU loan for Ukraine amid increased Trump tensions",
-      "summary": "Prime minister uses European Political Community summit to begin negotiations for UK participation in schemeKeir Starmer has said the benefit of joining the European Union’s £78bn loan scheme for Ukraine “outweighs the c…",
-      "url": "https://www.theguardian.com/world/2026/may/04/europe-must-face-up-to-tensions-with-trump-keir-starmer-says",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-04T18:37:07+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "EU loan for Ukraine"
-    },
-    {
-      "id": "83508edd7ba77b925a43c5eff774f19cd1294e93",
-      "title": "UK seeks to join EU’s €90bn Ukraine loan after SAFE talks collapse",
-      "summary": "Dispute over London’s financial contribution could complicate negotiations",
-      "url": "https://www.euractiv.com/news/uk-seeks-to-join-eus-e90bn-ukraine-loan-after-safe-talks-collapse/",
-      "source": "Euractiv",
-      "published_at": "2026-05-04T11:24:52+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "EU’s €90bn Ukraine loan after SAFE talks collapse"
-    },
-    {
-      "id": "04c27b95c9867311e5d92d68c0f31e45db853a90",
-      "title": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
-      "summary": "Air defenses in the Russian capital were breached as Ukraine expands long-range strikes.",
-      "url": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-04T10:08:52+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine expands long-range strikes."
-    },
-    {
-      "id": "85f378f5733db7f338d7237cdb32e12001104704",
-      "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
-      "summary": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday.",
-      "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-04T09:49:05+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukrainian drone hits upmarket Moscow high-rise"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-07T11:22:14Z"
+  "last_updated": "2026-05-08T10:38:26Z"
 }

@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 348,
+  "sources": 350,
   "sentiment": {
     "positive": 11,
-    "neutral": 112,
-    "negative": 226
+    "neutral": 113,
+    "negative": 227
   },
   "latest_articles": [
+    {
+      "id": "4a5ecc44b05cc2567d55dbe86dba4484f215b925",
+      "title": "US and Iran trade fire, threatening fragile truce",
+      "summary": "Any agreement between the United States and Iran could also help lower tensions in Lebanon",
+      "url": "https://www.euractiv.com/news/us-and-iran-trade-fire-threatening-fragile-truce/",
+      "source": "Euractiv",
+      "published_at": "2026-05-08T05:43:39+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Any agreement between the United States and Iran could also help lower tensions"
+    },
     {
       "id": "6dc2061b50e5b0bb2363567856814d9199122824",
       "title": "Israel strikes Beirut suburbs, threatening already shaky ceasefire",
@@ -32,6 +43,17 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Senior Hezbollah Commander Killed In Israeli Strike"
+    },
+    {
+      "id": "16f1c5012bfad68ab3bc097d4ee256a37c1e6042",
+      "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+      "summary": "Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.",
+      "url": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-06T19:58:04+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel strikes Beirut for first time since Hezbollah ceasefire"
     },
     {
       "id": "8af572dae54ad5f7bc60547ee3ef15a47e1abe67",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Israel and Hezbollah Trade Strikes in Lebanon"
-    },
-    {
-      "id": "d8c22924ff52d4dd1f33e69f243b31c3af7a9b2b",
-      "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
-      "summary": "The Israeli PM's directive comes as six people were killed by strikes in Lebanon despite a ceasefire being extended by three weeks.",
-      "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-26T00:34:21+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "strikes in Lebanon despite a ceasefire"
-    },
-    {
-      "id": "d2b121397ec76de72356ea00a63e3856165225c6",
-      "title": "Lebanese Ask, ‘What Cease-Fire?’ as Israel and Hezbollah Trade Attacks in the South",
-      "summary": "The fragile truce in Lebanon was extended after talks in Washington this week but has come under threat as Israel and Hezbollah have traded attacks.",
-      "url": "https://www.nytimes.com/2026/04/25/world/middleeast/lebanon-israel-cease-fire.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-25T14:18:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Israel and Hezbollah Trade Attacks in the South"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-07T11:22:14Z"
+  "last_updated": "2026-05-08T10:38:26Z"
 }
