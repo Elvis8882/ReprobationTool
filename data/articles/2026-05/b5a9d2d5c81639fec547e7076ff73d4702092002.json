@@ -1,0 +1,41 @@
+{
+  "id": "b5a9d2d5c81639fec547e7076ff73d4702092002",
+  "title": "Greece examines mystery naval drone found in Ionian Sea",
+  "summary_full": "Greek media say the drone, which reportedly had explosives, could be either Ukrainian or linked to the Russia-Ukraine war.",
+  "summary_public": "Greek media say the drone, which reportedly had explosives, could be either Ukrainian or linked to the Russia-Ukraine war.",
+  "url": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-05-08T17:53:25+00:00",
+  "source": "BBC News - World",
+  "language": "en",
+  "countries_detected": [
+    "GR",
+    "RU",
+    "UA"
+  ],
+  "countries_scored": [
+    "GR",
+    "RU",
+    "UA"
+  ],
+  "sentiment_by_country": {
+    "GR": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Greek media say the drone, which reportedly had explosives"
+    },
+    "RU": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "linked to the Russia-Ukraine war."
+    },
+    "UA": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "could be either Ukrainian or linked to the Russia-Ukraine war."
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-05-09T10:20:04+00:00",
+  "processed_at": "2026-05-09T10:20:04+00:00"
+}

@@ -1,16 +1,27 @@
 {
   "country": "NO",
-  "score": 97,
+  "score": 98,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 55,
+  "trend": 1,
+  "sources": 56,
   "sentiment": {
-    "positive": 10,
-    "neutral": 35,
+    "positive": 12,
+    "neutral": 34,
     "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "2e4690ccd57b14b1f571150752f5a85faffa218e",
+      "title": "‘We are talking about energy security for Europe’: Norway doubles down on oil and gas production",
+      "summary": "Norway’s energy minister says country has a ‘responsibility’ to address shortfalls caused by wars in Ukraine and Middle EastIn case of any doubt about Norway’s commitment to maintain – and expand – its production of gas…",
+      "url": "https://www.theguardian.com/world/2026/may/09/norway-oil-and-gas-production-shortages-middle-east-ukraine",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-09T06:00:49+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "energy security for Europe"
+    },
     {
       "id": "313b6235ca4640a20a4fd4cdfec8bc235cdf64b5",
       "title": "Norway's central bank raises interest rates to curb inflation; European stocks edge higher",
@@ -21,6 +32,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Norway's central bank raises interest rates to curb inflation"
+    },
+    {
+      "id": "b0fda4c9f7e1ad0e0847409bad9bfae90f83faaa",
+      "title": "It’s not just Big Oil. Wind giants welcome profit beats as Iran war spurs energy pivot",
+      "summary": "Norway's Equinor told CNBC that the company expects the Iran war to deliver a boost to its transition industries.",
+      "url": "https://www.cnbc.com/2026/05/07/iran-war-renewables-wind-oil-gas-equinor-orsted.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-05-07T05:00:01+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Norway's Equinor told CNBC that the company expects"
     },
     {
       "id": "e258316c49e24e7e20f60927d719eb933b020d92",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "England, Finland, France, Germany, Norway, Poland, Spain"
-    },
-    {
-      "id": "c9b06f490d33c85e2fce4765713891c59b4ddf4e",
-      "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
-      "summary": "Crown Princess Mette Marit tells Norwegian TV she wishes she had never met the late sex offender.",
-      "url": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-20T15:30:28+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Norway's crown princess breaks silence"
-    },
-    {
-      "id": "b65d94a5d26933e5b9955e6c7072419adead8e88",
-      "title": "I didn't know Epstein was a predator - Norway's crown princess",
-      "summary": "Norway's Crown Princess Mette-Marit has said that she wishes she had never met late US sex offender Jeffrey Epstein",
-      "url": "https://www.bbc.com/news/videos/c78l5x0zl0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-03-20T12:38:01+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Norway's Crown Princess Mette-Marit has said"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-08T10:38:26Z"
+  "last_updated": "2026-05-09T10:20:04Z"
 }

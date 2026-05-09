@@ -3,14 +3,25 @@
   "score": 55,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -6,
-  "sources": 31,
+  "trend": 0,
+  "sources": 32,
   "sentiment": {
     "positive": 0,
     "neutral": 22,
-    "negative": 9
+    "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "38638ab3aef7e6bebc7500322a703a7cd6376398",
+      "title": "Mysterious American Man Makes Mysterious Proposal in Greenland",
+      "summary": "The police in Greenland are investigating the case of a lone man from Las Vegas who goes by Cliff. Locals said he had offered money to Greenlanders to join the United States.",
+      "url": "https://www.nytimes.com/2026/05/08/world/europe/greenland-mysterious-offer-american.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-08T21:11:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "offered money to Greenlanders to join the United States"
+    },
     {
       "id": "e69083f42f7c9ead346c826efbe2d4c17973d0dc",
       "title": "The Brief – US gatecrashing Greenland",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Stop a U.S. Invasion of Greenland"
-    },
-    {
-      "id": "d3b9052b19e11b160df5b4a3ff787401bb66ffbb",
-      "title": "Denmark considered destroying Greenland runways amid fears of US attack",
-      "summary": "Europe scrambled as fears grew over potential US move",
-      "url": "https://www.euractiv.com/news/denmark-considered-destroying-greenland-runways-amid-fears-of-us-attack/",
-      "source": "Euractiv",
-      "published_at": "2026-03-19T11:41:07+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "destroying Greenland runways amid fears of US attack"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-08T10:38:26Z"
+  "last_updated": "2026-05-09T10:20:04Z"
 }
