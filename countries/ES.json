@@ -1,16 +1,38 @@
 {
   "country": "ES",
-  "score": 82,
+  "score": 81,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 399,
+  "trend": -1,
+  "sources": 397,
   "sentiment": {
     "positive": 40,
-    "neutral": 312,
-    "negative": 47
+    "neutral": 308,
+    "negative": 49
   },
   "latest_articles": [
+    {
+      "id": "4c57a431b86dd898242dced2cdcb078b3e79936c",
+      "title": "Spain starts evacuating passengers from hantavirus-hit cruise ship in Tenerife – Europe live",
+      "summary": "Health officials say all 146 passengers remain asymptomaticPassengers begin evacuating cruise ship hit by hantavirusIn other news, there are reports of Russian attacks continuing on Ukraine despite a ceasefire that was m…",
+      "url": "https://www.theguardian.com/world/live/2026/may/10/hantavirus-cruise-ship-rat-spain-tenerife-russia-ukraine-putin-zelenskyy-war-europe-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-10T10:04:33+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Spain starts evacuating passengers from hantavirus-hit cruise ship"
+    },
+    {
+      "id": "52a91bb6b5c6984ad760bb7fa93dbdb7a8ffeb05",
+      "title": "Passengers begin evacuating cruise ship hit by hantavirus",
+      "summary": "Spanish passengers taken off MV Hondius by medical teams in hazmat suits after being screened for the infectionCruise ship hantavirus outbreak – latest updatesAn evacuation has begun of passengers aboard a cruise ship at…",
+      "url": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-10T09:26:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Spanish passengers taken off MV Hondius by medical teams"
+    },
     {
       "id": "c75cc8434af52e74d13c07d46a64d8164c6cc248",
       "title": "Canada and the European Union Are in Love. Where Can It Lead?",
@@ -41,6 +63,28 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Spanish authorities are not allowing the vessel to dock"
+    },
+    {
+      "id": "5a1e303cc52c716dd415d88138197ab0aa319b9b",
+      "title": "Hantavirus Update: WHO Chief, Spanish Health Authorities To Coordinate Ship Evacuation In Canary Islands",
+      "summary": "The World Health Organization's chief is due in the Spanish island of Tenerife on Saturday to help coordinate the evacuation of passengers hit by the...",
+      "url": "https://www.ndtv.com/health/who-chief-due-in-canaries-to-coordinate-hantavirus-ship-evacuation-11469695#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-05-09T05:07:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Spanish Health Authorities To Coordinate Ship Evacuation"
+    },
+    {
+      "id": "bb6b065f35465941e8a6c7705a08a4c1d684ffb0",
+      "title": "WHO Reports 6 Confirmed Hantavirus Cases Tied To Spain-Bound MV Hondius Cruise",
+      "summary": "The World Health Organization said on Friday that eight people had fallen ill, including three who died, in a hantavirus outbreak linked to a cruise ship, with six confirmed cases",
+      "url": "https://www.ndtv.com/health/who-reports-six-confirmed-hantavirus-cases-tied-to-spain-bound-cruise-11469694#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-05-09T04:46:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Hantavirus Cases Tied To Spain-Bound MV Hondius Cruise"
     },
     {
       "id": "fa1ee4980c1d8ef83870c37e377cdfef9d8bae48",
@@ -179,50 +223,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Finale of Spanish corruption trial keeps Sánchez under pressure"
-    },
-    {
-      "id": "e0bf9c79ff32e8cd6744fc4d7d4fbdc4042fddac",
-      "title": "Hantavirus-hit cruise ship to head to Canary Islands as Swiss confirm new case",
-      "summary": "More than 140 people remain on the Hondius, which will take about three days to reach the Spanish archipelago for screening. A local official has criticized the plan.",
-      "url": "https://www.washingtonpost.com/health/2026/05/06/hantavirus-cruise-ship-hondius-outbreak-spain/",
-      "source": "World (Washington post)",
-      "published_at": "2026-05-06T14:16:51+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Spanish archipelago for screening"
-    },
-    {
-      "id": "a330f4938354045874d85b1d0b41b88a2e5c8ce3",
-      "title": "Hantavirus ship to dock in Spain, one person heading to German hospital",
-      "summary": "The rare disease is usually spread from infected rodents, typically through urine, droppings and saliva",
-      "url": "https://www.euractiv.com/news/hantavirus-ship-to-dock-in-spain-one-person-heading-to-german-hospital/",
-      "source": "Euractiv",
-      "published_at": "2026-05-06T13:35:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Hantavirus ship to dock in Spain"
-    },
-    {
-      "id": "c6019601da7e0b6e0b8891fe638cc2ed2af8dd3c",
-      "title": "People with dependent children face higher poverty - European Commission",
-      "summary": "People with dependent children face higher poverty&nbsp;&nbsp;European Commission20.9% of people at risk of poverty or social exclusion&nbsp;&nbsp;European CommissionDespite growth and pay rises, Greek workers are among…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10QXFRaDU2Ylg2ZUlmbDhjRmdMaFRYR3BldGtGVE9Ia2ZmaHRkNTN3RUxiU21OQUc3QkxPdHNUd0Y4ZkVUS2Jvd2RsOGZITTZwdEtTeGMzUnFIdzRkWHZLSDlVXzZqY0ZlWXNEZWpTcHNMUzNyVXR1YkNCN0xzZw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-06T09:03:38+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "fd8e18bca19869bc219f426ad740d610c8ade325",
-      "title": "149 678 multinational enterprise groups in EU and EFTA - European Commission",
-      "summary": "149 678 multinational enterprise groups in EU and EFTA&nbsp;&nbsp;European CommissionCyprus relies less on big international companies for jobs than EU peers&nbsp;&nbsp;Cyprus MailCyprus has low share for employment in m…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tcVhYVldoYW9TUXUwUFZQYkhHLVByXzdISC1LbkZlNExqcFZLeHRpbTE4NXZaR2lXVFB6V091eUhPcFJiWEJiM2VIeFloTEJQYTloVDhNNkhvZWxmZ1MxZzNiNDA1RGdSejBaSnhuOWxYVG16MXF3SGhVbmoxdw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-06T09:03:38+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-09T10:20:04Z"
+  "last_updated": "2026-05-10T10:29:03Z"
 }

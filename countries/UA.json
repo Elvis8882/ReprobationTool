@@ -1,16 +1,104 @@
 {
   "country": "UA",
-  "score": 42,
+  "score": 36,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 641,
+  "trend": -6,
+  "sources": 650,
   "sentiment": {
     "positive": 268,
-    "neutral": 161,
-    "negative": 213
+    "neutral": 163,
+    "negative": 220
   },
   "latest_articles": [
+    {
+      "id": "4c57a431b86dd898242dced2cdcb078b3e79936c",
+      "title": "Spain starts evacuating passengers from hantavirus-hit cruise ship in Tenerife – Europe live",
+      "summary": "Health officials say all 146 passengers remain asymptomaticPassengers begin evacuating cruise ship hit by hantavirusIn other news, there are reports of Russian attacks continuing on Ukraine despite a ceasefire that was m…",
+      "url": "https://www.theguardian.com/world/live/2026/may/10/hantavirus-cruise-ship-rat-spain-tenerife-russia-ukraine-putin-zelenskyy-war-europe-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-10T10:04:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russian attacks continuing on Ukraine despite a ceasefire"
+    },
+    {
+      "id": "54fe29387d0d175d980dcdac194df4a38f9ab775",
+      "title": "Putin’s Forces Are Barely Inching Along on the Battlefield",
+      "summary": "The Russian military has yet to solve a fundamental problem: how to make big advances in eastern Ukraine when drones are everywhere.",
+      "url": "https://www.nytimes.com/2026/05/10/world/europe/russia-ukraine-putin-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-10T09:02:05+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "how to make big advances in eastern Ukraine when drones are everywhere"
+    },
+    {
+      "id": "dfb9bd0f14ca6d774edcba04cc7ec7668600daf9",
+      "title": "Spring in Ukraine means the return of blooms, battles and wartime tourists",
+      "summary": "In Ukraine, specialized tour guides are ready for a small but unstoppable flow of visitors who ignore blunt travel advisories.",
+      "url": "https://www.washingtonpost.com/world/2026/05/10/ukraine-war-tourism-increasing/",
+      "source": "World (Washington post)",
+      "published_at": "2026-05-10T09:00:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Spring in Ukraine means the return of blooms, battles and wartime tourists"
+    },
+    {
+      "id": "21e48adfed46e5c8b6868394641ce1ab8a42f0d4",
+      "title": "Putin says Armenia EU membership referendum would be ‘logical’",
+      "summary": "Putin also envisioned Ukraine war’s end with Schröder in negotiation role",
+      "url": "https://www.euractiv.com/news/putin-says-armenia-eu-membership-referendum-would-be-logical/",
+      "source": "Euractiv",
+      "published_at": "2026-05-10T08:59:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Putin also envisioned Ukraine war’s end with Schröder in negotiation role"
+    },
+    {
+      "id": "399ce44f4131f578e86485cf80aae0e10e1fb724",
+      "title": "\"Coming To An End\": Vladimir Putin On Russia's War With Ukraine",
+      "summary": "The Kremlin said last week that it was for European governments to make the first move.",
+      "url": "https://www.ndtv.com/world-news/coming-to-an-end-vladimir-putin-on-russias-war-with-ukraine-11473038#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-05-10T03:27:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia's War With Ukraine"
+    },
+    {
+      "id": "c099837822cca8c634dfb4c3739039b9ebd463bd",
+      "title": "Vladimir Putin suggests Ukraine war is ‘coming to an end’",
+      "summary": "Russian president damns western support that has allowed Ukraine to hold out and asks for talks with Gerhard Schröder in remarks after diminished Victory Day paradeVladimir Putin has said he thinks the Ukraine war is win…",
+      "url": "https://www.theguardian.com/world/2026/may/10/vladimir-putin-suggests-ukraine-war-is-coming-to-an-end",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-10T00:52:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Vladimir Putin suggests Ukraine war is ‘coming to an end’"
+    },
+    {
+      "id": "9c3aec5338a8b53c5af7d605f46771ccc80d2698",
+      "title": "'Russia grateful to US for talks': Putin says Ukraine conflict ‘coming to an end’",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/europe/russia-grateful-to-us-for-talks-ukraine-conflict-coming-to-an-end-vladimir-putin-awaits-kyiv-response-on-pow-swap/articleshow/130982369.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-05-09T18:47:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Putin says Ukraine conflict ‘coming to an end’"
+    },
+    {
+      "id": "e3126187d831770571a1786dd24296a80f161028",
+      "title": "Greece conducts controlled blast of mystery naval drone explosives",
+      "summary": "The unmanned vessel, suspected to be of Ukrainian origin, was found by fishermen in a cave on Thursday.",
+      "url": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-09T18:00:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "suspected to be of Ukrainian origin"
+    },
     {
       "id": "0f04fc5e49657ab1a57f04aed4da57ac3b064c31",
       "title": "Three-day Russia-Ukraine ceasefire begins as Moscow holds Victory Day parade – Europe live",
@@ -34,6 +122,17 @@
       "evidence": "growing public fatigue with the war."
     },
     {
+      "id": "abe61e50706b987115319e2a4cfd456ad29e4aa0",
+      "title": "Russia Has Lost More Than 350,000 Soldiers, New Estimate Finds",
+      "summary": "The number raises the prospect that about half a million soldiers in total have died on the Russian and Ukrainian sides.",
+      "url": "https://www.nytimes.com/2026/05/09/world/europe/russia-ukraine-war-death-toll.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-09T09:27:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "half a million soldiers in total have died on the Russian and Ukrainian sides"
+    },
+    {
       "id": "6afdadeb1f69076fca7dbde6ef7f85e4150bc46a",
       "title": "Putin denounces Nato at scaled back Victory Day parade",
       "summary": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
@@ -54,6 +153,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "shortfalls caused by wars in Ukraine"
+    },
+    {
+      "id": "867901386548aba7be0b2440bbdac70b7f8476d4",
+      "title": "Crisis? Europe’s leaders think this time is different",
+      "summary": "EU policymakers are repeating the same mistakes they made following Russia's full-scale invasion of Ukraine in 2022 – and before the global financial meltdown in 2008",
+      "url": "https://www.euractiv.com/news/crisis-europes-leaders-think-this-time-is-different/",
+      "source": "Euractiv",
+      "published_at": "2026-05-09T04:00:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "invasion of Ukraine in 2022"
     },
     {
       "id": "a27bf4ee3608851dafba4e1c67c2d5db3018e7cf",
@@ -120,118 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "draws on Ukrainian expertise"
-    },
-    {
-      "id": "c7ec8dc855d2055d9b78b1108d873a8f249fc543",
-      "title": "The missing tanks on Red Square tell a bigger story about Russia’s arms production",
-      "summary": "Russia's defence industry is struggling to match Ukraine’s technical innovation",
-      "url": "https://www.euractiv.com/news/the-missing-tanks-on-red-square-tell-a-bigger-story-about-russias-arms-production/",
-      "source": "Euractiv",
-      "published_at": "2026-05-08T04:00:49+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "technical innovation"
-    },
-    {
-      "id": "d19e383d05f648da815ae5509fcd2421b4b57fa4",
-      "title": "Thousands of North Koreans fought for Russia. A memorial hints at the death toll",
-      "summary": "An estimated 11,000 North Korean soldiers were sent to fight in Russia's war against Ukraine.",
-      "url": "https://www.bbc.com/news/articles/clypr5985ejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-07T22:20:56+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "North Korean soldiers were sent to fight in Russia's war against Ukraine"
-    },
-    {
-      "id": "08848e048b93e5f6c13885351e7f7ee45c37fc18",
-      "title": "Russia Ramps Up Threats Toward Ukraine Over Victory Day Parade",
-      "summary": "Kremlin officials said a large strike on Kyiv would be “inevitable” if Ukraine disrupted the May 9 event, a prospect President Volodymyr Zelensky has appeared to allude to.",
-      "url": "https://www.nytimes.com/2026/05/07/world/europe/ukraine-russia-victory-day.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-07T20:35:32+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "if Ukraine disrupted the May 9 event"
-    },
-    {
-      "id": "7966ea8871301f7c0e206896be6e0793f04c7b8c",
-      "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
-      "summary": "For the first time in nearly two decades, there will be no military hardware, just soldiers during Saturday's parade in Moscow.",
-      "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-07T16:00:05+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine war not going to plan"
-    },
-    {
-      "id": "870a3b1f64a25b900dee0aa58a0f0cea847f10b9",
-      "title": "Two drones from Russia crash in Latvia with one causing oil depot fire, army says - Euronews.com",
-      "summary": "Two drones from Russia crash in Latvia with one causing oil depot fire, army says&nbsp;&nbsp;Euronews.comAlarm raised as two drones crash in Nato country after crossing from Russia&nbsp;&nbsp;The IndependentBaltic nation…",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVmMxakV0NHhDVkhGZkVmVnhVeVN0YXdSZUxWLWtHcE9maG02RzNBOEJ6c2c3QVEzcDdGUWNYc1BMZ19HUE5aWU9ONV9IU2V4TWhJa24wRllWclNOQzNwTE5JOHoxcmxtVkt1a25qRm95TG9FeFNmNEJlVUkwanVnaFZpZy0xVHU0UkE0ai1XV0JwUUt2bjhWUjFUX25kZEMzQmVFVFlzZHRrRnFDU3g3Z3UydlZRSW1vbkpFRnBNLUUyeXFD?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-07T08:44:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Russian Military Accuses Ukraine of Launching Drone Attacks"
-    },
-    {
-      "id": "bc78ddbc63c6ddea0197cf6de94fb3da3127c9f8",
-      "title": "FIREPOWER: Nordic defence ministers deepen cooperation as Ukraine joins talks",
-      "summary": "In today's edition: TNT, Italy, military mobility, AGILE",
-      "url": "https://www.euractiv.com/news/firepower-nordic-defence-ministers-deepen-cooperation-as-ukraine-joins-talks/",
-      "source": "Euractiv",
-      "published_at": "2026-05-07T07:31:50+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine joins talks"
-    },
-    {
-      "id": "9f3fda52e0c84893a5ce51ed4426f1ce6d22b971",
-      "title": "Ukraine is a global surrogacy hub - but that could be about to end",
-      "summary": "Ukraine is considering a law that would effectively ban foreigners from accessing surrogacy in the country.",
-      "url": "https://www.bbc.com/news/articles/clyp4kp687go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-07T05:02:12+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "Ukraine is considering a law that would effectively ban foreigners"
-    },
-    {
-      "id": "be4de451c7ace1b3fce2694b5a009e38feb76f38",
-      "title": "'Enjoy the show. Ignore the war': Venice Biennale faces backlash after including Russia",
-      "summary": "Protests have taken place at the prestigious arts fair over the inclusion of Russia for the first time since the full-scale invasion of Ukraine.",
-      "url": "https://www.bbc.com/news/articles/cvgz14e1zeno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-06T21:29:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "inclusion of Russia for the first time since the full-scale invasion of Ukraine"
-    },
-    {
-      "id": "424f2410ae2d19f3b175612339d722c428b6c7ab",
-      "title": "Robot wars - what an operation in Ukraine tells us about the battlefield of the near future",
-      "summary": "After Ukraine's President Zelensky said territory had been captured using just robots and drones, what is the future of unmanned warfare?",
-      "url": "https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-06T11:59:44+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine's President Zelensky said territory had been captured using just robots"
-    },
-    {
-      "id": "e52eb59c60b54c80dc4ef085fe3a9c665ba8b0ef",
-      "title": "Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten",
-      "summary": "Ukraine's president says Russia has \"spurned the ceasefire\" and Kyiv is deciding on further action to take.",
-      "url": "https://www.bbc.com/news/articles/cpdpxdd5n6yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-06T11:53:20+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine's unilateral ceasefire"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-09T10:20:04Z"
+  "last_updated": "2026-05-10T10:29:03Z"
 }

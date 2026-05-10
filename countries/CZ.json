@@ -1,16 +1,27 @@
 {
   "country": "CZ",
-  "score": 69,
+  "score": 95,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 232,
+  "trend": 26,
+  "sources": 230,
   "sentiment": {
     "positive": 9,
-    "neutral": 213,
-    "negative": 10
+    "neutral": 210,
+    "negative": 11
   },
   "latest_articles": [
+    {
+      "id": "4f19a187d12ab698e73dcbad557bd9c33a8f6691",
+      "title": "Prague derby abandoned after fans storm pitch with Slavia seconds from title",
+      "summary": "Sparta keeper Surovcik says he will pursue legal actionSlavia chair calls incident in derby ‘disgrace’The derby between Slavia Prague and Sparta Prague was abandoned on Saturday after hundreds of home fans stormed the pi…",
+      "url": "https://www.theguardian.com/football/2026/may/10/slavia-sparta-prague-derby-abandoned-fans-storm-pitch-title",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-10T06:51:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "fans storm pitch with Slavia seconds from title"
+    },
     {
       "id": "c75cc8434af52e74d13c07d46a64d8164c6cc248",
       "title": "Canada and the European Union Are in Love. Where Can It Lead?",
@@ -201,18 +212,8 @@
       "published_at": "2026-04-29T15:23:29+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "3f74a8fec83c578cce9ad17727163317132bfb90",
-      "title": "European Parliament urges freezing EU funds for Slovakia over rule-of-law concerns",
-      "summary": "MEPs warn Fico risks following Orbán’s path",
-      "url": "https://www.euractiv.com/news/european-parliament-urges-freezing-eu-funds-for-slovakia-over-rule-of-law-concerns/",
-      "source": "Euractiv",
-      "published_at": "2026-04-29T12:35:01+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-09T10:20:04Z"
+  "last_updated": "2026-05-10T10:29:03Z"
 }

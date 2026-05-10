@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 73,
+  "score": 72,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 96,
+  "trend": -1,
+  "sources": 97,
   "sentiment": {
     "positive": 4,
     "neutral": 51,
-    "negative": 41
+    "negative": 42
   },
   "latest_articles": [
+    {
+      "id": "2f2ecb83b14a0c539a3b75dd1eb5865dce247b9d",
+      "title": "Israel Built And Defended A Secret Base In Iraq For Iran War: Report",
+      "summary": "Israel built the installation, which housed special forces and served as a logistical hub. (File)",
+      "url": "https://www.ndtv.com/world-news/israel-built-and-defended-a-secret-base-in-iraq-for-iran-war-report-11473187#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-05-10T03:58:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Israel Built And Defended A Secret Base In Iraq For Iran War"
+    },
     {
       "id": "ce458b7c0237508e0ce9989e4edaf507df8f924a",
       "title": "How Modern Airspace Closures Quietly Reshuffled Global Aviation - Simple Flying",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Drone strike hits Iraq oil facilities"
-    },
-    {
-      "id": "1c95a57bd33ba0ea5bf6c493fd8c13e93f7a01a2",
-      "title": "Ex-US Army Pilot Recalls Battle for Survival When Shot Down in Iraq",
-      "summary": "Ronald Young Jr. was in the Army when his Apache Longbow copter went down during the U.S. invasion of Iraq.",
-      "url": "https://www.nytimes.com/2026/04/03/world/middleeast/iraq-us-pow-rescue-survival.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-03T22:35:05+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Apache Longbow copter went down during the U.S. invasion of Iraq."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-09T10:20:04Z"
+  "last_updated": "2026-05-10T10:29:03Z"
 }

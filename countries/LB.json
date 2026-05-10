@@ -4,13 +4,35 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 350,
+  "sources": 351,
   "sentiment": {
     "positive": 11,
-    "neutral": 113,
-    "negative": 227
+    "neutral": 112,
+    "negative": 229
   },
   "latest_articles": [
+    {
+      "id": "bfaa35621ad2208aee0ab57255617e1921c78eca",
+      "title": "Lebanon says Israeli strikes killed 39",
+      "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
+      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-09T21:23:14+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Lebanon says Israeli strikes killed 39"
+    },
+    {
+      "id": "744371d70a19218c33498b9cb778866bdc2d1ddc",
+      "title": "Deadly Israeli Strikes Erode Cease-Fire in Lebanon",
+      "summary": "Fighting between Israel and Hezbollah has shown little sign of abating, with Hezbollah also continuing to attack Israeli troops, and both sides accusing the other of violating a U.S.-brokered truce.",
+      "url": "https://www.nytimes.com/2026/05/09/world/middleeast/israel-strikes-lebanon-ceasefire.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-09T17:37:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Fighting between Israel and Hezbollah has shown little sign of abating"
+    },
     {
       "id": "4a5ecc44b05cc2567d55dbe86dba4484f215b925",
       "title": "US and Iran trade fire, threatening fragile truce",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Hezbollah Vows to Keep Its Weapons"
-    },
-    {
-      "id": "7a56c48776c3f616914bcada130b059aa049d43b",
-      "title": "Lebanon health ministry says Israeli strikes kill 14 in deadliest day since ceasefire began",
-      "summary": "The Israeli government and Hezbollah have traded blame over breaches to the truce, which is set to run for several more weeksLebanon’s health ministry said Israeli strikes on the country’s south killed 14 people on Sunda…",
-      "url": "https://www.theguardian.com/world/2026/apr/27/lebanon-israeli-strikes-deadliest-day-since-ceasefire-began",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-27T00:26:19+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israeli strikes on the country’s south killed 14 people"
-    },
-    {
-      "id": "f4c7b09652f599fc2701c8101bef1cf0f77196de",
-      "title": "Israel and Hezbollah Trade Strikes in Lebanon, as Iran Talks Remain on Hold",
-      "summary": "Cease-fires in Lebanon and Iran are on shaky ground, with military attacks flaring and direct talks between Washington and Tehran to end their war stalled.",
-      "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-26T22:27:09+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel and Hezbollah Trade Strikes in Lebanon"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-09T10:20:04Z"
+  "last_updated": "2026-05-10T10:29:03Z"
 }
