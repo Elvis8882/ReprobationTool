@@ -1,16 +1,27 @@
 {
   "country": "MA",
-  "score": 55,
+  "score": 61,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 15,
+  "trend": 6,
+  "sources": 16,
   "sentiment": {
-    "positive": 0,
+    "positive": 1,
     "neutral": 12,
     "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "31e47f6abc1eb62407168cde9dbf70f1865a8a77",
+      "title": "Body of missing US soldier recovered off coast of Morocco",
+      "summary": "1st Lt Kendrick Lamont Key Jr was participating in largest military exercise among US, Nato allies and African nationsA search team recovered the body of a US soldier who went missing near a cliff during a training exerc…",
+      "url": "https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-10T20:44:36+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "largest military exercise among US, Nato allies and African nations"
+    },
     {
       "id": "acd4cff218b374326e09411a31688b186b636fad",
       "title": "Arab Cinema shines at Cannes 2026 as Gulf Filmmakers lead major festival categories",
@@ -178,5 +189,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-10T10:29:03Z"
+  "last_updated": "2026-05-11T12:27:04Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "MD",
-  "score": 82,
+  "score": 79,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 12,
+  "trend": -3,
+  "sources": 13,
   "sentiment": {
     "positive": 8,
     "neutral": 1,
-    "negative": 3
+    "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "50eae0450d8404245222714478a2838f292c742b",
+      "title": "INTERVIEW: Moldova’s energy minister rues ‘serious impact’ of EU carbon border tax",
+      "summary": "Climate levy is limiting the would-be member state’s ability to export electricity",
+      "url": "https://www.euractiv.com/news/interview-moldovas-energy-minister-rues-serious-impact-of-eu-carbon-border-tax/",
+      "source": "Euractiv",
+      "published_at": "2026-05-11T04:00:08+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Moldova’s energy minister rues ‘serious impact’ of EU carbon border tax"
+    },
     {
       "id": "819bb9bdb94a7703915461585b3b88fe1dbf1ae0",
       "title": "Moldova’s entry into Ukraine’s ‘Coalition of the Willing’ brings major logistical benefits, experts say",
@@ -145,5 +156,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-10T10:29:03Z"
+  "last_updated": "2026-05-11T12:27:04Z"
 }

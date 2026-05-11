@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 351,
+  "sources": 352,
   "sentiment": {
     "positive": 11,
     "neutral": 112,
-    "negative": 229
+    "negative": 230
   },
   "latest_articles": [
+    {
+      "id": "b25f0d0ede1b7a342cccd64e4e685b155f2eb7b3",
+      "title": "Lebanese Mourn Eight Members of One Family Killed in Israeli Strike",
+      "summary": "Israel has escalated attacks on Lebanon since Thursday, further unraveling a truce in its war with Hezbollah. Among those killed on Saturday was a 6-month-old infant, relatives said.",
+      "url": "https://www.nytimes.com/2026/05/10/world/middleeast/lebanon-family-funeral-israel-strikes.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-10T19:46:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Lebanese Mourn Eight Members of One Family"
+    },
     {
       "id": "bfaa35621ad2208aee0ab57255617e1921c78eca",
       "title": "Lebanon says Israeli strikes killed 39",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Lebanon’s minister for the environment has accused Israel’s military of committing “an act of ecocide”"
-    },
-    {
-      "id": "4f69a92c2e158150dab644a8fdc6121ecda4d368",
-      "title": "Hezbollah Vows to Keep Its Weapons as Lebanon Says Israeli Strikes Killed 14",
-      "summary": "Despite a cease-fire, Israel and Hezbollah have been trading attacks almost daily.",
-      "url": "https://www.nytimes.com/2026/04/27/world/middleeast/hezbollah-weapons-lebanon-israel.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-27T17:12:56+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Hezbollah Vows to Keep Its Weapons"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-10T10:29:03Z"
+  "last_updated": "2026-05-11T12:27:04Z"
 }
