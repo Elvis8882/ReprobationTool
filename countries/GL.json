@@ -1,16 +1,38 @@
 {
   "country": "GL",
-  "score": 55,
+  "score": 57,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 32,
+  "trend": 2,
+  "sources": 34,
   "sentiment": {
-    "positive": 0,
-    "neutral": 22,
+    "positive": 1,
+    "neutral": 23,
     "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "38099c138d49a70217e069d33fb3961673211495",
+      "title": "Talks with US inching forward, says Greenland’s PM",
+      "summary": "\"The EU member countries have been a steadfast friend and have stood by us when we needed it the most,\" the Greenlandic leader said",
+      "url": "https://www.euractiv.com/news/talks-with-us-inching-forward-says-greenlands-pm/",
+      "source": "Euractiv",
+      "published_at": "2026-05-12T10:55:55+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "The EU member countries have been a steadfast friend and have stood by us"
+    },
+    {
+      "id": "9c29db4e06a322e2dd91e1c319be729345e4c825",
+      "title": "US in closely guarded talks to open new bases in Greenland",
+      "summary": "It is seeking to open three bases in the south of the Arctic territory, according to multiple officials familiar with the talks.",
+      "url": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-12T09:31:45+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "US in closely guarded talks to open new bases in Greenland"
+    },
     {
       "id": "38638ab3aef7e6bebc7500322a703a7cd6376398",
       "title": "Mysterious American Man Makes Mysterious Proposal in Greenland",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Trump’s Greenland threat"
-    },
-    {
-      "id": "3c008c2132a76a861e51e42acc34ace1bc5cd296",
-      "title": "In Denmark’s Election, How Will the Woman Who Took On Trump Fare?",
-      "summary": "Prime Minister Mette Frederiksen is the biggest force this country has seen in decades. The crisis in Greenland has energized her, but are voters itching for change?",
-      "url": "https://www.nytimes.com/2026/03/23/world/asia/denmark-elections-frederiksen-hometown.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-23T04:01:14+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "The crisis in Greenland has energized her"
-    },
-    {
-      "id": "54b4f39c8030edb69f82f3102c56a7b9f6e804cd",
-      "title": "Denmark Was Ready to Blow Up Airfields to Stop a U.S. Invasion of Greenland",
-      "summary": "The Danes brought blood supplies, explosives and live ammunition to Greenland as part of contingency plans in case President Trump acted on his threats to seize the island.",
-      "url": "https://www.nytimes.com/2026/03/20/world/europe/denmark-blow-up-greenland-runways-us-invasion.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-20T19:09:17+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Stop a U.S. Invasion of Greenland"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-11T12:27:04Z"
+  "last_updated": "2026-05-12T11:34:37Z"
 }

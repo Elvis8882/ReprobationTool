@@ -1,16 +1,148 @@
 {
   "country": "UA",
-  "score": 37,
+  "score": 33,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 650,
+  "trend": -4,
+  "sources": 659,
   "sentiment": {
-    "positive": 268,
-    "neutral": 163,
-    "negative": 220
+    "positive": 269,
+    "neutral": 165,
+    "negative": 226
   },
   "latest_articles": [
+    {
+      "id": "70a014d583b384f0fc677aa9b7d81fec462f4cd5",
+      "title": "Defence minister candidate says 'safe sky' is priority",
+      "summary": "Prime Minister Evika Siliņa has approached Colonel Raivis Melnis about the position of defence minister. Melnis said in a press briefing after meeting with PM Siliņa on Tuesday that&nbsp;his priority was anti-drone defen…",
+      "url": "https://eng.lsm.lv/article/politics/politics/12.05.2026-defence-minister-candidate-says-safe-sky-is-priority.a646734/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "source": "LSM (English)",
+      "published_at": "2026-05-12T11:39:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.5,
+      "evidence": "drawing on the Ukrainian experience."
+    },
+    {
+      "id": "95aed8b1bf53413281ce03c522c94cf8b10edf0b",
+      "title": "Three-day ceasefire ends with fresh wave of Russian attacks on Ukraine – Europe live",
+      "summary": "At least one person killed as Moscow launches drone strikes on energy facilities and apartments Significant gaps remain in negotiations on the reset in relations between the UK and the EU despite Keir Starmer’s latest pl…",
+      "url": "https://www.theguardian.com/world/live/2026/may/12/europe-defence-ukraine-russia-hungary-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-12T10:50:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "fresh wave of Russian attacks on Ukraine"
+    },
+    {
+      "id": "1ac35c5639edd5ea79d3c7c85ea9f17d51e0df7b",
+      "title": "Russia Keeps Attacking U.S. Firms in Ukraine. The White House Is Silent.",
+      "summary": "Facilities tied to Coca-Cola, Cargill, Mondelez and others appear to have been deliberately hit. The Trump administration’s muted response has raised concerns.",
+      "url": "https://www.nytimes.com/2026/05/12/world/europe/russian-strikes-us-firms-ukraine-trump.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-12T10:46:19+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia Keeps Attacking U.S. Firms in Ukraine"
+    },
+    {
+      "id": "652e6cbc943b98116855e23871f678adb3015f2f",
+      "title": "The War in Iran Is Another Blow to Russia’s Credibility. Or Is It?",
+      "summary": "Despite its long slog in Ukraine and the loss of former allies like Syria, Russia is benefiting from costly energy, a clever narrative and America’s own failure to achieve a quick victory.",
+      "url": "https://www.nytimes.com/2026/05/12/world/europe/russia-europe-ukraine-syria-iran.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-12T09:02:25+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Despite its long slog in Ukraine"
+    },
+    {
+      "id": "68b02392dfb3f2c6c7f179a524b86b5a87792ff9",
+      "title": "Ukrainian Teen Recounts Year Under Russian Control During War",
+      "summary": "Teen describes abduction, indoctrination, and harsh conditions in Russian-controlled camps.",
+      "url": "https://www.ndtv.com/world-news/ukrainian-teen-recounts-year-under-russian-control-during-war-11482197#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-05-12T08:13:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Year Under Russian Control During War"
+    },
+    {
+      "id": "2558804e06b7c60f6c3e0b3913ef9064589641f2",
+      "title": "FIREPOWER: Fincantieri positive on defence outlook despite Q1 revenue drop",
+      "summary": "In today's edition: drones, Latvian resignation, Ukraine",
+      "url": "https://www.euractiv.com/news/firepower-fincantieri-positive-on-defence-outlook-despite-q1-revenue-drop/",
+      "source": "Euractiv",
+      "published_at": "2026-05-12T07:29:39+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Ukraine"
+    },
+    {
+      "id": "24584d09d179670432a7277a63dc8c7c2dc1901b",
+      "title": "Teen bedroom art installation shines spotlight on Ukraine’s stolen children",
+      "summary": "Since the start of the current conflict, more than 20,500 Ukrainian children have been taken by RussiaIt looks like a typical teenager’s bedroom: football shirts on the wall, crumpled clothes on the floor, exercise books…",
+      "url": "https://www.theguardian.com/world/2026/may/12/teen-bedroom-art-installation-shines-spotlight-on-ukraines-stolen-children",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-12T05:00:15+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukraine’s stolen children"
+    },
+    {
+      "id": "9cc64c0ef29f4a386f762cadf580ec341bd19cb5",
+      "title": "Ukraine war briefing: EU sanctions officials for child abductions; Kyiv under drone attack as ceasefire expires - The Guardian",
+      "summary": "Ukraine war briefing: EU sanctions officials for child abductions; Kyiv under drone attack as ceasefire expires&nbsp;&nbsp;The GuardianEU, UK sanction Russians over deportations of Ukrainian children&nbsp;&nbsp;Al Jazeer…",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc1B2MDBrc0laTGp2YjBMd2VMUnFianFfenI4bDNPSWI3TjFkYURTUzdzVVdaZzNDbk5tcUlRTElqejdhSmJDUC1JM2hZaTd2R1lqSVRFWXNwR0dTS2dWNWRUeHhiOTVtZ2pqMHZ2cFhuaG9OVDF4WnI2MWE1QXZiNkpuYjR4VVBlM0Y0ZGs2ZDlEUlk1ZlJLaW1SSVBlSTNWbk0xaFBPSGRuMG9SY0s2M2ZwQmhIOTdvXzhSUFRLTVppN3lEQnRzWXU0LXBjck45SmppSQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-05-12T00:04:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "EU sanctions officials for child abductions"
+    },
+    {
+      "id": "0debcb988a2e20059f62cb640d62fadc434fd2fe",
+      "title": "Former Top Zelensky Aide Is Accused in Corruption Inquiry",
+      "summary": "Ukrainian news outlets named the suspect as Andriy Yermak, who resigned last year amid a sweeping scandal.",
+      "url": "https://www.nytimes.com/2026/05/11/world/europe/ukraine-corruption-yermak-zelensky.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-11T21:20:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Accused in Corruption Inquiry"
+    },
+    {
+      "id": "ef8e8981c38d42384e84936d2eee07aa0c9117dc",
+      "title": "Nine Ukrainian Startups to Represent Ukraine at Latitude59 in Estonia - Odessa Journal",
+      "summary": "Nine Ukrainian Startups to Represent Ukraine at Latitude59 in Estonia&nbsp;&nbsp;Odessa JournalTeam Nice Côte d’Azur and Rising Sud join forces at Latitude59 Tallinn 2026&nbsp;&nbsp;Team Nice Côte d'Azur",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWmI0S09lRU02Y3pKMzNSYUp0dEh4aHBSNHNJQ3RBN1R1S1ZBb3d1MU9DdEJ0SWZqcm9CLUJKeVktNEJYV3lzQW16eGxCVWRtamFaeHR3TUJtMy1fZUVRaDBHbHhGNktvcHU5dERZS2FxOGc1QUNWaXAyU3NEanZLdFk2NVNYMVcxOFBNbzJ4WFA?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-05-11T18:46:12+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Nine Ukrainian Startups to Represent Ukraine at Latitude59 in Estonia"
+    },
+    {
+      "id": "ab9234337cd9ab4a49805a336c36e12ff1a1cac5",
+      "title": "The Brief – Tables turning for Ukraine",
+      "summary": "With the Kremlin ever more conscious of war fatigue and devastating losses on the front, what once was a foregone conclusion now appears in a very different light",
+      "url": "https://www.euractiv.com/news/the-brief-tables-turning-for-ukraine/",
+      "source": "Euractiv",
+      "published_at": "2026-05-11T16:23:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Tables turning for Ukraine"
+    },
+    {
+      "id": "ad1fb3dc27663c145e522af68712415402b83030",
+      "title": "EU capitals say momentum is shifting toward Ukraine as Russia feels the pressure",
+      "summary": "Elina Valtonen, Finland's Foreign Minister, said Ukraine now “holds the stronger cards”",
+      "url": "https://www.euractiv.com/news/eu-capitals-say-momentum-is-shifting-toward-ukraine-as-russia-feels-the-pressure/",
+      "source": "Euractiv",
+      "published_at": "2026-05-11T13:29:53+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "momentum is shifting toward Ukraine as Russia feels the pressure"
+    },
     {
       "id": "4ca855cd797fc09a58e3bac64246f2252f81d24e",
       "title": "It’s time to admit that a strong Ukraine is a strong Europe",
@@ -78,6 +210,17 @@
       "evidence": "gauge how they can meet Ukraine’s defence needs through 2027"
     },
     {
+      "id": "ffe19046219b79816a0065b81b3fd7a457e8298c",
+      "title": "Latvian defence minister resigns after Ukrainian drones hit oil tanks - AOL.com",
+      "summary": "Latvian defence minister resigns after Ukrainian drones hit oil tanks&nbsp;&nbsp;AOL.comBaltic nations seek more NATO defence as drone hits Latvian oil tanks&nbsp;&nbsp;ReutersUkrainian drone strike on empty Baltic fuel…",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd2t5ejhVNm51NHg2N3BhSUY1QVNjeGRPanVEb3JFZENOcldVcVcza2wySEJ4ZDZsdnhOVnZEVDZTc1AxU2tLNl9qb0NHbnA4UE9wWFhVOXhtQ0UxYnF1Vm5sNVltNUlTUXdNdVE2aDhvcFZrYnh6VFgwUFhrbXhhLU8zM3k2NGFtOVl4STJBNA?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-05-10T16:54:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Ukrainian drones hit oil tanks"
+    },
+    {
       "id": "4c57a431b86dd898242dced2cdcb078b3e79936c",
       "title": "Spain starts evacuating passengers from hantavirus-hit cruise ship in Tenerife – Europe live",
       "summary": "Health officials say all 146 passengers remain asymptomaticPassengers begin evacuating cruise ship hit by hantavirusIn other news, there are reports of Russian attacks continuing on Ukraine despite a ceasefire that was m…",
@@ -87,151 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Russian attacks continuing on Ukraine despite a ceasefire"
-    },
-    {
-      "id": "54fe29387d0d175d980dcdac194df4a38f9ab775",
-      "title": "Putin’s Forces Are Barely Inching Along on the Battlefield",
-      "summary": "The Russian military has yet to solve a fundamental problem: how to make big advances in eastern Ukraine when drones are everywhere.",
-      "url": "https://www.nytimes.com/2026/05/10/world/europe/russia-ukraine-putin-war.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-10T09:02:05+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "how to make big advances in eastern Ukraine when drones are everywhere"
-    },
-    {
-      "id": "dfb9bd0f14ca6d774edcba04cc7ec7668600daf9",
-      "title": "Spring in Ukraine means the return of blooms, battles and wartime tourists",
-      "summary": "In Ukraine, specialized tour guides are ready for a small but unstoppable flow of visitors who ignore blunt travel advisories.",
-      "url": "https://www.washingtonpost.com/world/2026/05/10/ukraine-war-tourism-increasing/",
-      "source": "World (Washington post)",
-      "published_at": "2026-05-10T09:00:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Spring in Ukraine means the return of blooms, battles and wartime tourists"
-    },
-    {
-      "id": "21e48adfed46e5c8b6868394641ce1ab8a42f0d4",
-      "title": "Putin says Armenia EU membership referendum would be ‘logical’",
-      "summary": "Putin also envisioned Ukraine war’s end with Schröder in negotiation role",
-      "url": "https://www.euractiv.com/news/putin-says-armenia-eu-membership-referendum-would-be-logical/",
-      "source": "Euractiv",
-      "published_at": "2026-05-10T08:59:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Putin also envisioned Ukraine war’s end with Schröder in negotiation role"
-    },
-    {
-      "id": "399ce44f4131f578e86485cf80aae0e10e1fb724",
-      "title": "\"Coming To An End\": Vladimir Putin On Russia's War With Ukraine",
-      "summary": "The Kremlin said last week that it was for European governments to make the first move.",
-      "url": "https://www.ndtv.com/world-news/coming-to-an-end-vladimir-putin-on-russias-war-with-ukraine-11473038#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-05-10T03:27:12+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russia's War With Ukraine"
-    },
-    {
-      "id": "c099837822cca8c634dfb4c3739039b9ebd463bd",
-      "title": "Vladimir Putin suggests Ukraine war is ‘coming to an end’",
-      "summary": "Russian president damns western support that has allowed Ukraine to hold out and asks for talks with Gerhard Schröder in remarks after diminished Victory Day paradeVladimir Putin has said he thinks the Ukraine war is win…",
-      "url": "https://www.theguardian.com/world/2026/may/10/vladimir-putin-suggests-ukraine-war-is-coming-to-an-end",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-10T00:52:39+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Vladimir Putin suggests Ukraine war is ‘coming to an end’"
-    },
-    {
-      "id": "9c3aec5338a8b53c5af7d605f46771ccc80d2698",
-      "title": "'Russia grateful to US for talks': Putin says Ukraine conflict ‘coming to an end’",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/europe/russia-grateful-to-us-for-talks-ukraine-conflict-coming-to-an-end-vladimir-putin-awaits-kyiv-response-on-pow-swap/articleshow/130982369.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-05-09T18:47:05+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Putin says Ukraine conflict ‘coming to an end’"
-    },
-    {
-      "id": "e3126187d831770571a1786dd24296a80f161028",
-      "title": "Greece conducts controlled blast of mystery naval drone explosives",
-      "summary": "The unmanned vessel, suspected to be of Ukrainian origin, was found by fishermen in a cave on Thursday.",
-      "url": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-09T18:00:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "suspected to be of Ukrainian origin"
-    },
-    {
-      "id": "0f04fc5e49657ab1a57f04aed4da57ac3b064c31",
-      "title": "Three-day Russia-Ukraine ceasefire begins as Moscow holds Victory Day parade – Europe live",
-      "summary": "As ceasefire begins, Zelenskyy says ‘Red Square is less important to us than the lives of Ukrainian prisoners who can be brought home’While Russia celebrated Victory Day with a scaled-back military parade in Moscow’s Red…",
-      "url": "https://www.theguardian.com/world/live/2026/may/09/peter-magyar-hungary-russia-ukraine-ceasefire-moscow-victory-day-parade-europe-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-09T09:59:15+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "lives of Ukrainian prisoners who can be brought home"
-    },
-    {
-      "id": "cdca734e4bd64d404c48e0fd154ba475589dc9a3",
-      "title": "Russia will always be victorious, says Putin at scaled-back Victory Day parade",
-      "summary": "Moscow blanketed in heavy security despite last-minute announcement of three-day ceasefire with UkraineVladimir Putin has declared Russia will always be victorious as he oversaw a scaled-back Victory Day parade on Red Sq…",
-      "url": "https://www.theguardian.com/world/2026/may/09/russia-putin-moscow-victory-day-parade-scaled-back",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-09T09:55:24+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "growing public fatigue with the war."
-    },
-    {
-      "id": "abe61e50706b987115319e2a4cfd456ad29e4aa0",
-      "title": "Russia Has Lost More Than 350,000 Soldiers, New Estimate Finds",
-      "summary": "The number raises the prospect that about half a million soldiers in total have died on the Russian and Ukrainian sides.",
-      "url": "https://www.nytimes.com/2026/05/09/world/europe/russia-ukraine-war-death-toll.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-09T09:27:48+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "half a million soldiers in total have died on the Russian and Ukrainian sides"
-    },
-    {
-      "id": "6afdadeb1f69076fca7dbde6ef7f85e4150bc46a",
-      "title": "Putin denounces Nato at scaled back Victory Day parade",
-      "summary": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
-      "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-09T09:26:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "special military operation in Ukraine"
-    },
-    {
-      "id": "2e4690ccd57b14b1f571150752f5a85faffa218e",
-      "title": "‘We are talking about energy security for Europe’: Norway doubles down on oil and gas production",
-      "summary": "Norway’s energy minister says country has a ‘responsibility’ to address shortfalls caused by wars in Ukraine and Middle EastIn case of any doubt about Norway’s commitment to maintain – and expand – its production of gas…",
-      "url": "https://www.theguardian.com/world/2026/may/09/norway-oil-and-gas-production-shortages-middle-east-ukraine",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-09T06:00:49+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "shortfalls caused by wars in Ukraine"
-    },
-    {
-      "id": "867901386548aba7be0b2440bbdac70b7f8476d4",
-      "title": "Crisis? Europe’s leaders think this time is different",
-      "summary": "EU policymakers are repeating the same mistakes they made following Russia's full-scale invasion of Ukraine in 2022 – and before the global financial meltdown in 2008",
-      "url": "https://www.euractiv.com/news/crisis-europes-leaders-think-this-time-is-different/",
-      "source": "Euractiv",
-      "published_at": "2026-05-09T04:00:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "invasion of Ukraine in 2022"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-11T12:27:04Z"
+  "last_updated": "2026-05-12T11:34:37Z"
 }

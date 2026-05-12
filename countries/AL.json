@@ -1,16 +1,27 @@
 {
   "country": "AL",
-  "score": 82,
+  "score": 85,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 12,
+  "trend": 3,
+  "sources": 13,
   "sentiment": {
-    "positive": 3,
+    "positive": 4,
     "neutral": 8,
     "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "9f01bb0922f57c1bae5d4a9c9930177a0b89015a",
+      "title": "EXCLUSIVE: Albania won’t extend Italy migration deal beyond 2030, foreign minister says",
+      "summary": "\"We'll be a member of the European Union\" by then, Ferit Hoxha tells Euractiv",
+      "url": "https://www.euractiv.com/news/exclusive-albania-wont-extend-italy-migration-deal-beyond-2030-foreign-minister-says/",
+      "source": "Euractiv",
+      "published_at": "2026-05-12T04:00:13+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "We'll be a member of the European Union"
+    },
     {
       "id": "5bc0c88b4c38f10a4911c63f5bd504308adfea9e",
       "title": "Chess: England fail to win senior team world medals for first time in five years - The Guardian",
@@ -145,5 +156,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-11T12:27:04Z"
+  "last_updated": "2026-05-12T11:34:37Z"
 }
