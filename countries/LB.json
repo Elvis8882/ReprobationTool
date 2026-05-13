@@ -4,11 +4,11 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 354,
+  "sources": 355,
   "sentiment": {
     "positive": 11,
     "neutral": 114,
-    "negative": 230
+    "negative": 231
   },
   "latest_articles": [
     {
@@ -76,6 +76,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Any agreement between the United States and Iran could also help lower tensions"
+    },
+    {
+      "id": "47af26410a8467e23dd418be4ef960fd8ae06dd1",
+      "title": "Israel Says It Killed a Hezbollah Chief Near Beirut, Testing the Truce",
+      "summary": "The strike was the first near the Lebanese capital since a cease-fire that has curbed fighting but not halted it. Washington is pushing for a lasting peace, hoping it will ease diplomacy with Iran.",
+      "url": "https://www.nytimes.com/2026/05/07/world/middleeast/israel-hezbollah-commander-beirut-strike.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-07T19:11:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Hezbollah Chief Near Beirut, Testing the Truce"
     },
     {
       "id": "6dc2061b50e5b0bb2363567856814d9199122824",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Israel and Hezbollah are still fighting in Lebanon despite a US-brokered ceasefire"
-    },
-    {
-      "id": "0f786ecae94cc25c2c4bf00247a895e497731e28",
-      "title": "Hezbollah drone strikes target Israeli soldiers in southern Lebanon",
-      "summary": "Ceasefire frays further as Israel also carries out airstrikes and issues new displacement orders for south Lebanon Hezbollah launched several drones at Israeli soldiers in south Lebanon on Tuesday, while Israel issued ne…",
-      "url": "https://www.theguardian.com/world/2026/apr/28/hezbollah-drone-strikes-target-israeli-soldiers-in-southern-lebanon",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-28T16:20:47+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Hezbollah drone strikes target Israeli soldiers in southern Lebanon"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-12T11:34:37Z"
+  "last_updated": "2026-05-13T11:45:11Z"
 }
