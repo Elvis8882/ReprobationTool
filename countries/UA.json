@@ -1,16 +1,71 @@
 {
   "country": "UA",
-  "score": 30,
+  "score": 26,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -3,
-  "sources": 661,
+  "trend": -4,
+  "sources": 662,
   "sentiment": {
-    "positive": 267,
-    "neutral": 166,
-    "negative": 229
+    "positive": 264,
+    "neutral": 167,
+    "negative": 232
   },
   "latest_articles": [
+    {
+      "id": "9b196ac4889c56fa9d84280c8e3cb6efff6be31f",
+      "title": "Rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
+      "summary": "A girl, 12, is among the dead after Russia launched attacks across Ukraine overnight, officials say.",
+      "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-14T11:10:30+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia launched attacks across Ukraine overnight"
+    },
+    {
+      "id": "d74e340747c8ed25fbf3065217e67ee081a36b68",
+      "title": "Latvia prime minister resigns over straying Ukraine drones",
+      "summary": "Silina lost coalition support after dismissing defence minister",
+      "url": "https://www.euractiv.com/news/latvia-prime-minister-resigns-over-straying-ukraine-drones/",
+      "source": "Euractiv",
+      "published_at": "2026-05-14T10:32:54+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "straying Ukraine drones"
+    },
+    {
+      "id": "e40122f53b8b39f3fca170b72db7c7d11d107872",
+      "title": "Russia Pummels Kyiv After Putin Hints That War Could End Soon",
+      "summary": "At least four people were killed and dozens were wounded in a drone and missile strike, the latest in a series of attacks since a three-day truce expired on Monday.",
+      "url": "https://www.nytimes.com/2026/05/14/world/europe/ukraine-strike-kyiv-russia-putin.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-14T09:51:45+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "missile strike, the latest in a series of attacks"
+    },
+    {
+      "id": "2a96910be7e50dfb26057f7ebe2cee3f2a65ca77",
+      "title": "Heavy Russian strikes on Kyiv kill one, wound 31",
+      "summary": "President Volodymyr Zelenskyy said Russia had launched more than 670 attack drones and 56 missiles in the attack",
+      "url": "https://www.euractiv.com/news/heavy-russian-strikes-on-kyiv-kill-one-wound-31/",
+      "source": "Euractiv",
+      "published_at": "2026-05-14T07:14:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Heavy Russian strikes on Kyiv kill one, wound 31"
+    },
+    {
+      "id": "46d967974a4802d77ea642e4b750bfbf388d9418",
+      "title": "NATO Secretary General at B9 and Nordic Allies Summit in Bucharest: We need a stronger Europe in a stronger NATO - North Atlantic Treaty Organization",
+      "summary": "NATO Secretary General at B9 and Nordic Allies Summit in Bucharest: We need a stronger Europe in a stronger NATO&nbsp;&nbsp;North Atlantic Treaty OrganizationRussian airspace breaches show need to boost NATO eastern flan…",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdXFBMnVwWlhhNU5ZRXA4S2dDTk9mLTlyTTByYjZRbzdJRDVic2VhbF9WLV9UUGdQVFMyNjU0el9VYWZTVnlxQXUtQWdCWmk0SktSQ2NfM0dGRUh4YjZ2UHdsUHRiYWo3MG5qQXEzTjI1LTctdENiOVNwbGZhemZWZFBZYUtmLW5mX3E2M24zMFRhUlhtWFU0RmNKRjdIX0E2N0QxTHotOEJoYWgteXMwd0VlWDVvdWVYRVE?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-05-13T23:58:23+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Zelensky: Europe needs truly common defense"
+    },
     {
       "id": "bbdb7a576cee5bf80e745a9c29bfc574bde89626",
       "title": "Russian foreign minister says ‘nothing is happening’ in US talks on Ukraine and peace process is stuck – Europe live",
@@ -89,6 +144,17 @@
       "evidence": "Ukraine corruption probe escalates"
     },
     {
+      "id": "3b83fe38605cb579850dcdf3caaf8c924e543afa",
+      "title": "Hungary’s new government sparks hopes of billions in Ukraine military aid repayments",
+      "summary": "Péter Magyar indicated he would lift Hungary's 2024 veto on the EPF",
+      "url": "https://www.euractiv.com/news/hungarys-new-government-sparks-hopes-of-billions-in-ukraine-military-aid-repayments/",
+      "source": "Euractiv",
+      "published_at": "2026-05-12T12:32:39+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "hopes of billions in Ukraine military aid repayments"
+    },
+    {
       "id": "70a014d583b384f0fc677aa9b7d81fec462f4cd5",
       "title": "Defence minister candidate says 'safe sky' is priority",
       "summary": "Prime Minister Evika Siliņa has approached Colonel Raivis Melnis about the position of defence minister. Melnis said in a press briefing after meeting with PM Siliņa on Tuesday that&nbsp;his priority was anti-drone defen…",
@@ -164,74 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Ukraine"
-    },
-    {
-      "id": "24584d09d179670432a7277a63dc8c7c2dc1901b",
-      "title": "Teen bedroom art installation shines spotlight on Ukraine’s stolen children",
-      "summary": "Since the start of the current conflict, more than 20,500 Ukrainian children have been taken by RussiaIt looks like a typical teenager’s bedroom: football shirts on the wall, crumpled clothes on the floor, exercise books…",
-      "url": "https://www.theguardian.com/world/2026/may/12/teen-bedroom-art-installation-shines-spotlight-on-ukraines-stolen-children",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-12T05:00:15+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukraine’s stolen children"
-    },
-    {
-      "id": "9cc64c0ef29f4a386f762cadf580ec341bd19cb5",
-      "title": "Ukraine war briefing: EU sanctions officials for child abductions; Kyiv under drone attack as ceasefire expires - The Guardian",
-      "summary": "Ukraine war briefing: EU sanctions officials for child abductions; Kyiv under drone attack as ceasefire expires&nbsp;&nbsp;The GuardianEU, UK sanction Russians over deportations of Ukrainian children&nbsp;&nbsp;Al Jazeer…",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc1B2MDBrc0laTGp2YjBMd2VMUnFianFfenI4bDNPSWI3TjFkYURTUzdzVVdaZzNDbk5tcUlRTElqejdhSmJDUC1JM2hZaTd2R1lqSVRFWXNwR0dTS2dWNWRUeHhiOTVtZ2pqMHZ2cFhuaG9OVDF4WnI2MWE1QXZiNkpuYjR4VVBlM0Y0ZGs2ZDlEUlk1ZlJLaW1SSVBlSTNWbk0xaFBPSGRuMG9SY0s2M2ZwQmhIOTdvXzhSUFRLTVppN3lEQnRzWXU0LXBjck45SmppSQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-12T00:04:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "EU sanctions officials for child abductions"
-    },
-    {
-      "id": "0debcb988a2e20059f62cb640d62fadc434fd2fe",
-      "title": "Former Top Zelensky Aide Is Accused in Corruption Inquiry",
-      "summary": "Ukrainian news outlets named the suspect as Andriy Yermak, who resigned last year amid a sweeping scandal.",
-      "url": "https://www.nytimes.com/2026/05/11/world/europe/ukraine-corruption-yermak-zelensky.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-11T21:20:20+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Accused in Corruption Inquiry"
-    },
-    {
-      "id": "ef8e8981c38d42384e84936d2eee07aa0c9117dc",
-      "title": "Nine Ukrainian Startups to Represent Ukraine at Latitude59 in Estonia - Odessa Journal",
-      "summary": "Nine Ukrainian Startups to Represent Ukraine at Latitude59 in Estonia&nbsp;&nbsp;Odessa JournalTeam Nice Côte d’Azur and Rising Sud join forces at Latitude59 Tallinn 2026&nbsp;&nbsp;Team Nice Côte d'Azur",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWmI0S09lRU02Y3pKMzNSYUp0dEh4aHBSNHNJQ3RBN1R1S1ZBb3d1MU9DdEJ0SWZqcm9CLUJKeVktNEJYV3lzQW16eGxCVWRtamFaeHR3TUJtMy1fZUVRaDBHbHhGNktvcHU5dERZS2FxOGc1QUNWaXAyU3NEanZLdFk2NVNYMVcxOFBNbzJ4WFA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-11T18:46:12+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Nine Ukrainian Startups to Represent Ukraine at Latitude59 in Estonia"
-    },
-    {
-      "id": "ab9234337cd9ab4a49805a336c36e12ff1a1cac5",
-      "title": "The Brief – Tables turning for Ukraine",
-      "summary": "With the Kremlin ever more conscious of war fatigue and devastating losses on the front, what once was a foregone conclusion now appears in a very different light",
-      "url": "https://www.euractiv.com/news/the-brief-tables-turning-for-ukraine/",
-      "source": "Euractiv",
-      "published_at": "2026-05-11T16:23:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Tables turning for Ukraine"
-    },
-    {
-      "id": "ad1fb3dc27663c145e522af68712415402b83030",
-      "title": "EU capitals say momentum is shifting toward Ukraine as Russia feels the pressure",
-      "summary": "Elina Valtonen, Finland's Foreign Minister, said Ukraine now “holds the stronger cards”",
-      "url": "https://www.euractiv.com/news/eu-capitals-say-momentum-is-shifting-toward-ukraine-as-russia-feels-the-pressure/",
-      "source": "Euractiv",
-      "published_at": "2026-05-11T13:29:53+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "momentum is shifting toward Ukraine as Russia feels the pressure"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-13T11:45:11Z"
+  "last_updated": "2026-05-14T11:28:20Z"
 }

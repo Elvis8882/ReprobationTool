@@ -4,13 +4,57 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 355,
+  "sources": 359,
   "sentiment": {
-    "positive": 11,
-    "neutral": 114,
-    "negative": 231
+    "positive": 12,
+    "neutral": 116,
+    "negative": 232
   },
   "latest_articles": [
+    {
+      "id": "29a52de35c48b015c78e151c44b81455ff93437e",
+      "title": "‘These are our people.’ Lebanon’s medics carry on through grief, injuries.",
+      "summary": "As Israel and Hezbollah exchange fire, dozens of volunteers eat, sleep and pray at a small hospital, waiting to respond to the next airstrike.",
+      "url": "https://www.washingtonpost.com/photography/interactive/2026/05/14/more-than-100-lebanese-medical-workers-killed-israel-hezbollah-war/",
+      "source": "World (Washington post)",
+      "published_at": "2026-05-14T09:00:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Lebanon’s medics carry on through grief, injuries"
+    },
+    {
+      "id": "1d4c3cdd03338694c45d60378a5ef6e862761d02",
+      "title": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel",
+      "summary": "Despite continuing Israeli attacks and occupation, many people in the south still believe the armed group is the only force capable of defending them.",
+      "url": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-13T23:22:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "south Lebanon as ceasefire fails"
+    },
+    {
+      "id": "1a0abf293dec00c19710fbbb8e72d670a9a6bc5f",
+      "title": "EU eyes new Lebanon mission ‘radically different’ from UN peacekeeping model",
+      "summary": "An EEAS fact-finding mission is expected in Beirut in the coming days to test the ground",
+      "url": "https://www.euractiv.com/news/eu-eyes-new-lebanon-mission-radically-different-from-un-peacekeeping-model/",
+      "source": "Euractiv",
+      "published_at": "2026-05-13T04:00:19+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "EU eyes new Lebanon mission ‘radically different’ from UN peacekeeping"
+    },
+    {
+      "id": "8f79846b1e249aa9ac3a719d682bb3243a708816",
+      "title": "Lebanon says two paramedics among 13 killed in Israeli strikes",
+      "summary": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
+      "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-12T20:00:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Lebanon says two paramedics among 13 killed"
+    },
     {
       "id": "6cccdeeed18a1a24c050247f647945e8666bd533",
       "title": "Watch: IDF shares footage of Hezbollah living quarters in underground tunnels",
@@ -186,52 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Israeli military said it has continued to strike... in southern Lebanon"
-    },
-    {
-      "id": "f913b68fee80e6e11c363ff49473a18e2c3b71d7",
-      "title": "As Israel Entrenches, Frustration With Hezbollah Turns to Support",
-      "summary": "With the cease-fire fraying and Israel demolishing villages in the south, many Hezbollah supporters in Lebanon are putting aside their annoyance with the group and turning to it for protection.",
-      "url": "https://www.nytimes.com/2026/05/01/world/middleeast/lebanon-hezbollah-ceasefire-israel.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-01T09:13:45+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "many Hezbollah supporters in Lebanon are putting aside their annoyance"
-    },
-    {
-      "id": "f6953ce2632009c9f53257a35af872f4fcd140c6",
-      "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
-      "summary": "Seventeen people - including two children - were killed, according to Lebanon's health ministry.",
-      "url": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-01T08:12:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Deadly Israeli strikes on southern Lebanon despite ceasefire"
-    },
-    {
-      "id": "c815ea3d6b773838f4a15ce93bd59aa7fe7c11d5",
-      "title": "Hezbollah Using Fiber-Optic Drones Against Israeli Targets",
-      "summary": "The Lebanese militant group is attacking Israeli troops with explosive drones controlled by fiber-optic cables, like those commonly used in the war in Ukraine.",
-      "url": "https://www.nytimes.com/2026/04/30/world/middleeast/hezbollah-fiber-optic-drones.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-30T21:10:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "The Lebanese militant group is attacking Israeli troops"
-    },
-    {
-      "id": "ac3a0bcc30470d867eac53842ea9718b8b9fa47e",
-      "title": "Watch: There's a ceasefire in Lebanon - but the fighting hasn't stopped",
-      "summary": "Israel and Hezbollah are still fighting in Lebanon despite a US-brokered ceasefire that began 12 days ago.",
-      "url": "https://www.bbc.com/news/videos/cpdpql7d839o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-29T14:41:26+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel and Hezbollah are still fighting in Lebanon despite a US-brokered ceasefire"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-13T11:45:11Z"
+  "last_updated": "2026-05-14T11:28:20Z"
 }

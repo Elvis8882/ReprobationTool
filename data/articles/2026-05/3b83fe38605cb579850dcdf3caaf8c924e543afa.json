@@ -15,8 +15,20 @@
     "HU",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-05-13T11:45:11+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-05-14T11:28:20+00:00",
+  "sentiment_by_country": {
+    "HU": {
+      "label": "positive",
+      "confidence": 0.7,
+      "evidence": "Hungary’s new government sparks hopes of billions in Ukraine military aid"
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.7,
+      "evidence": "hopes of billions in Ukraine military aid repayments"
+    }
+  },
+  "processed_at": "2026-05-14T11:28:20+00:00"
 }
