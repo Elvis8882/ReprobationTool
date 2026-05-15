@@ -1,16 +1,27 @@
 {
   "country": "DE",
-  "score": 70,
+  "score": 71,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
-  "sources": 505,
+  "trend": 1,
+  "sources": 503,
   "sentiment": {
     "positive": 61,
-    "neutral": 368,
-    "negative": 76
+    "neutral": 367,
+    "negative": 75
   },
   "latest_articles": [
+    {
+      "id": "704c40b67e010950be1338059fba710a8b25af4c",
+      "title": "Germany’s Merz calls for more investment, less subsidies in EU budget",
+      "summary": "The 27 EU nations are wrangling over the bloc's 2028-2034 budget",
+      "url": "https://www.euractiv.com/news/germanys-merz-calls-for-more-investment-less-subsidies-in-eu-budget/",
+      "source": "Euractiv",
+      "published_at": "2026-05-14T17:16:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Germany’s Merz calls for more investment, less subsidies in EU budget"
+    },
     {
       "id": "44ce8152e0a6df2c59a3cf4a4663bd4fb8ef9dac",
       "title": "Back to Bohemia: Sudeten German gathering sparks Czech-German nationalist row",
@@ -33,6 +44,17 @@
       "sentiment_fallback": true
     },
     {
+      "id": "cbd376392218287a44e4eef4e082207ca5b31346",
+      "title": "UK army to replace donated AS90 guns with German-built RCH 155 howitzers",
+      "summary": "The procurement will replace equipment donated to Ukraine",
+      "url": "https://www.euractiv.com/news/uk-army-to-replace-donated-as90-guns-with-german-built-rch-155-howitzers/",
+      "source": "Euractiv",
+      "published_at": "2026-05-14T04:00:24+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "German-built RCH 155 howitzers"
+    },
+    {
       "id": "bd70bc03c00a74a5136ef8281830ba5b0327d517",
       "title": "Milka maker milked shoppers over size of chocolate bars, German court rules",
       "summary": "Brand owner Mondelēz was accused of reducing weight of Alpine Milk bar from 100g to 90g without significantly altering the packagingMany chocolate lovers consider shrinkflation a serious crime – and they have been vindic…",
@@ -52,6 +74,17 @@
       "published_at": "2026-05-13T11:53:17+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "5a0ffc843cf56b5c886dfd7495010b8dd3576ba8",
+      "title": "Shrinking Milka chocolate bar tricked consumers, says German court",
+      "summary": "A court in Bremen has found the manufacturer of the classic Alpine Milk chocolate bar guilty of \"shrinkflation\".",
+      "url": "https://www.bbc.com/news/articles/crmp428zylko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-13T11:29:53+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "German court... found the manufacturer... guilty of \"shrinkflation\""
     },
     {
       "id": "cb1ca511eb078d4a5fee6ac9afacb33a9b32dac2",
@@ -185,39 +218,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "German researcher exposes 11,000 robot lawnmowers that could be hacked"
-    },
-    {
-      "id": "c099837822cca8c634dfb4c3739039b9ebd463bd",
-      "title": "Vladimir Putin suggests Ukraine war is ‘coming to an end’",
-      "summary": "Russian president damns western support that has allowed Ukraine to hold out and asks for talks with Gerhard Schröder in remarks after diminished Victory Day paradeVladimir Putin has said he thinks the Ukraine war is win…",
-      "url": "https://www.theguardian.com/world/2026/may/10/vladimir-putin-suggests-ukraine-war-is-coming-to-an-end",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-10T00:52:39+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "asks for talks with Gerhard Schröder"
-    },
-    {
-      "id": "518e8c1702ccbb120dbf502debb4706e0ab07f25",
-      "title": "EU will talk to Russia at ‘right moment’, Costa says",
-      "summary": "EU Council President suggests talks with Moscow are far off, and swings behind US-led talks",
-      "url": "https://www.euractiv.com/news/eu-will-talk-to-russia-at-right-moment-costa-says/",
-      "source": "Euractiv",
-      "published_at": "2026-05-09T14:14:53+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "c75cc8434af52e74d13c07d46a64d8164c6cc248",
-      "title": "Canada and the European Union Are in Love. Where Can It Lead?",
-      "summary": "A rapid trip with the prime minister to Armenia highlighted the new era of amity between Canada and the European Union. We examine what that can and can’t do for Canadians.",
-      "url": "https://www.nytimes.com/2026/05/09/world/canada/carney-canada-european-union-trade-trump.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-09T10:00:02+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-14T11:28:20Z"
+  "last_updated": "2026-05-15T11:33:54Z"
 }

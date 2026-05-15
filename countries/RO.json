@@ -1,16 +1,27 @@
 {
   "country": "RO",
-  "score": 94,
+  "score": 93,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 260,
+  "trend": -1,
+  "sources": 261,
   "sentiment": {
     "positive": 16,
     "neutral": 226,
-    "negative": 18
+    "negative": 19
   },
   "latest_articles": [
+    {
+      "id": "024c4817999cd74ee2ea0afce715ca488a8b315c",
+      "title": "Romanian President Dan: From EU hero to MAGA-style zero",
+      "summary": "Former allies accused the Romanian president of appeasing populist forces",
+      "url": "https://www.euractiv.com/news/romanian-president-dan-from-eu-hero-to-maga-style-zero/",
+      "source": "Euractiv",
+      "published_at": "2026-05-15T04:00:31+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Romanian President Dan: From EU hero to MAGA-style zero"
+    },
     {
       "id": "f2d09c036c9b1eb9e84ae42aeb51876f5bed45be",
       "title": "EU rail passengers made 8.7 billion trips in 2024 - European Commission",
@@ -204,18 +215,8 @@
       "published_at": "2026-05-09T10:00:02+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "0f04fc5e49657ab1a57f04aed4da57ac3b064c31",
-      "title": "Three-day Russia-Ukraine ceasefire begins as Moscow holds Victory Day parade – Europe live",
-      "summary": "As ceasefire begins, Zelenskyy says ‘Red Square is less important to us than the lives of Ukrainian prisoners who can be brought home’While Russia celebrated Victory Day with a scaled-back military parade in Moscow’s Red…",
-      "url": "https://www.theguardian.com/world/live/2026/may/09/peter-magyar-hungary-russia-ukraine-ceasefire-moscow-victory-day-parade-europe-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-09T09:59:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-14T11:28:20Z"
+  "last_updated": "2026-05-15T11:33:54Z"
 }

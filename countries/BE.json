@@ -1,16 +1,27 @@
 {
   "country": "BE",
-  "score": 84,
+  "score": 85,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 2,
-  "sources": 381,
+  "trend": 1,
+  "sources": 384,
   "sentiment": {
-    "positive": 45,
+    "positive": 48,
     "neutral": 290,
     "negative": 46
   },
   "latest_articles": [
+    {
+      "id": "6889169626287f6ca37b78c8512a006dc4eab5c6",
+      "title": "We’ve had the dogfight, now the railway wars are coming to Brussels",
+      "summary": "As on air passenger rights, EU lawmakers are siding with consumers on new train ticketing rules",
+      "url": "https://www.euractiv.com/news/weve-had-the-dogfight-now-the-railway-wars-are-coming-to-brussels/",
+      "source": "Euractiv",
+      "published_at": "2026-05-15T05:00:02+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "EU lawmakers are siding with consumers on new train ticketing rules"
+    },
     {
       "id": "f2d09c036c9b1eb9e84ae42aeb51876f5bed45be",
       "title": "EU rail passengers made 8.7 billion trips in 2024 - European Commission",
@@ -95,6 +106,17 @@
       "evidence": "Brussels launches public consultation on core nature laws"
     },
     {
+      "id": "a6c792a23a10731c93887b4ef45e623374fb69ec",
+      "title": "Belgium’s medicine security framework embedded in Critical Medicines Act [Advocacy Lab]",
+      "summary": "In a significant win for Belgian Health Minister Frank Vandenbroucke, medicine policy is emerging as part of Europe’s broader industrial and geopolitical strategy.",
+      "url": "https://www.euractiv.com/interview/belgiums-medicine-security-framework-embedded-in-critical-medicines-act/",
+      "source": "Euractiv",
+      "published_at": "2026-05-12T16:33:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "medicine security framework embedded in Critical Medicines Act"
+    },
+    {
       "id": "dc3882812b4f37367c583507f402877c600fc2e6",
       "title": "The Brief – The Taliban tour to Brussels",
       "summary": "“The EU is mandated… to maintain operational engagement with the de facto authorities in Afghanistan. This [meeting] does not by any means constitute a recognition”",
@@ -148,6 +170,17 @@
       "sentiment_fallback": true
     },
     {
+      "id": "abe6411f7d7a166f14b4eaf5ffdad466afbb606c",
+      "title": "Brussels activates EU emergency system as hantavirus spreads",
+      "summary": "“The situation is far from over,” the Commission's health director warns",
+      "url": "https://www.euractiv.com/news/brussels-activates-eu-emergency-system-as-hantavirus-spreads/",
+      "source": "Euractiv",
+      "published_at": "2026-05-12T04:00:03+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Brussels activates EU emergency system as hantavirus spreads"
+    },
+    {
       "id": "60b9f7aa820bee24bd082cd99d1e7cff82fb6ca7",
       "title": "Commission admits plan to invite Taliban to Brussels",
       "summary": "Euractiv first reported last month on plans for politically sensitive deportation talks with the Taliban in Brussels",
@@ -188,39 +221,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Brussels hands €4 billion to industry ahead of carbon pricing overhaul"
-    },
-    {
-      "id": "fdebc5151e7ae069038be83026ae0f7b9e98e542",
-      "title": "EU’s Kallas criticises Putin’s ‘very cynical’ Ukraine ceasefire calls and rejects suggestion of Schröder as mediator – Europe live",
-      "summary": "EU’s foreign policy chief and the ex-Estonian PM dismiss Putin’s suggestion that former German chancellor could coordinate talksMeanwhile, the European Union has imposed sanctions on 16 individuals and seven entities in…",
-      "url": "https://www.theguardian.com/world/live/2026/may/11/ukraine-russia-eu-ministers-brussels-putin-zelenskyy-hantavirus-spain-europe-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-11T11:48:35+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "ea4975aa87cab9541eb93529ca7ab9e4e7fc2f71",
-      "title": "Euro dominates extra-EU trade in primary goods - European Commission",
-      "summary": "Euro dominates extra-EU trade in primary goods&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IdDF5cmZxUXNPQ01HUDBZUnFxd3g4TDNxcnl1ZjVxaXZCcUNkaGpyYW96ZThZUmNMT2Q4SHV5NE43Z2padGs2Qno2d3NRWGpqRTRUZzg0cW5ZdGdaNmdCSXphaEkzQ0dza2trVGdWX2hCN2g5bEtVZVUzbWxsQQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-11T09:04:39+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "39641e9bfbd1ebe775f0c18e9977bb5e375753e3",
-      "title": "From Singapore to Brussels, world leaders eye Trump-Xi summit from afar",
-      "summary": "The world will be watching the Trump-Xi summit.",
-      "url": "https://www.cnbc.com/2026/05/11/trump-xi-summit-beijing-global-leaders-iran-war-taiwan-strait-of-hormuz-.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-05-11T07:28:36+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "From Singapore to Brussels, world leaders eye"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-14T11:28:20Z"
+  "last_updated": "2026-05-15T11:33:54Z"
 }

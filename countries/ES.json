@@ -1,14 +1,14 @@
 {
   "country": "ES",
-  "score": 82,
+  "score": 81,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 404,
+  "trend": -1,
+  "sources": 406,
   "sentiment": {
-    "positive": 40,
-    "neutral": 317,
-    "negative": 47
+    "positive": 39,
+    "neutral": 319,
+    "negative": 48
   },
   "latest_articles": [
     {
@@ -60,6 +60,17 @@
       "published_at": "2026-05-13T07:28:54+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "22a993483ff420060d2d6873ccee34dedf873609",
+      "title": "Spain under fire for using EU post-pandemic fund to patch pension deficit",
+      "summary": "Amid rising pressure from an aging population, pension sustainability is the Spanish government’s primary long-term fiscal challenge",
+      "url": "https://www.euractiv.com/news/spain-under-fire-for-using-eu-post-pandemic-fund-to-patch-pension-deficit/",
+      "source": "Euractiv",
+      "published_at": "2026-05-12T15:29:43+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Spain under fire for using EU post-pandemic fund to patch pension deficit"
     },
     {
       "id": "36dd6ffb68d6f63803bd291ed09150ef9f02edd0",
@@ -206,19 +217,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Spain’s Canary Islands for Disembarking"
-    },
-    {
-      "id": "52a91bb6b5c6984ad760bb7fa93dbdb7a8ffeb05",
-      "title": "Passengers begin evacuating cruise ship hit by hantavirus",
-      "summary": "Spanish passengers taken off MV Hondius by medical teams in hazmat suits after being screened for the infectionCruise ship hantavirus outbreak – latest updatesAn evacuation has begun of passengers aboard a cruise ship at…",
-      "url": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-10T09:26:29+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Spanish passengers taken off MV Hondius by medical teams"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-14T11:28:20Z"
+  "last_updated": "2026-05-15T11:33:54Z"
 }

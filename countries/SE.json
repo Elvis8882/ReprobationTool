@@ -1,16 +1,27 @@
 {
   "country": "SE",
-  "score": 93,
+  "score": 92,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 275,
+  "trend": -1,
+  "sources": 276,
   "sentiment": {
     "positive": 12,
     "neutral": 246,
-    "negative": 17
+    "negative": 18
   },
   "latest_articles": [
+    {
+      "id": "fcaf9d2a5093abdbef220280389274cae36a12e3",
+      "title": "WHO warns of rapid rise of nicotine pouches in Europe amid major regulatory gaps",
+      "summary": "In Sweden, sales of non-therapeutic oral nicotine products were highest",
+      "url": "https://www.euractiv.com/news/who-warns-of-rapid-rise-of-nicotine-pouches-in-europe-amid-major-regulatory-gaps/",
+      "source": "Euractiv",
+      "published_at": "2026-05-15T09:55:47+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "rapid rise of nicotine pouches in Europe amid major regulatory gaps"
+    },
     {
       "id": "f2d09c036c9b1eb9e84ae42aeb51876f5bed45be",
       "title": "EU rail passengers made 8.7 billion trips in 2024 - European Commission",
@@ -203,19 +214,8 @@
       "published_at": "2026-05-09T09:59:15+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "59b64b67b58d7cb2367f0aed616bc3f8cbc1b215",
-      "title": "Sweden halts power line to Denmark amid Brussels grid planning row",
-      "summary": "EU initiative to redistribute interconnector rent is a major bone of contention in Stockholm",
-      "url": "https://www.euractiv.com/news/sweden-halts-power-line-to-denmark-amid-brussels-grid-planning-row/",
-      "source": "Euractiv",
-      "published_at": "2026-05-08T11:33:38+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Sweden halts power line to Denmark amid Brussels grid planning row"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-14T11:28:20Z"
+  "last_updated": "2026-05-15T11:33:54Z"
 }

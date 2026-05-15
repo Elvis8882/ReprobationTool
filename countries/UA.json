@@ -1,16 +1,71 @@
 {
   "country": "UA",
-  "score": 26,
+  "score": 28,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -4,
-  "sources": 662,
+  "trend": 2,
+  "sources": 668,
   "sentiment": {
-    "positive": 264,
-    "neutral": 167,
+    "positive": 268,
+    "neutral": 169,
     "negative": 232
   },
   "latest_articles": [
+    {
+      "id": "42ddda77e433d620c564d7cb0663e09833555af9",
+      "title": "Delivering Mail on Ukraine’s Front Line",
+      "summary": "Larysa Navrotska risks her life to deliver mail, retirement checks and medicine to remote Ukrainian communities under the constant threat of Russian drones from the nearby front line. Her service has become even more cru…",
+      "url": "https://www.nytimes.com/video/world/europe/100000010847527/delivering-mail-on-ukraines-front-line.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-15T09:37:38+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "delivering mail, retirement checks and medicine to remote Ukrainian communities"
+    },
+    {
+      "id": "002e8387472e50c770ef2b066483b76bafb8ff65",
+      "title": "In northern Ukraine, it was boy vs. Russian drone. The boy won.",
+      "summary": "A soldier taught a 12-year-old how to disable the fiber-optic drones that Russia has been using to hunt Ukrainian civilians in a campaign the U.N. has labeled a war crime.",
+      "url": "https://www.washingtonpost.com/world/2026/05/15/russian-drones-hunt-ukrainians-human-safari-boy-fought-back/",
+      "source": "World (Washington post)",
+      "published_at": "2026-05-15T09:00:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "boy vs. Russian drone. The boy won."
+    },
+    {
+      "id": "d73a81b6652aa6876ba6ed76de67fa6ab7e17797",
+      "title": "How Ukraine Is Replacing Snipers With Drones In War Against Russia",
+      "summary": "An official said that drones are \"just more effective and cost less\"",
+      "url": "https://www.ndtv.com/world-news/how-ukraine-is-replacing-snipers-with-drones-in-war-against-russia-11498370#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-05-15T05:30:53+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "How Ukraine Is Replacing Snipers With Drones In War"
+    },
+    {
+      "id": "319c6d6d0e5a428d1e9cd514c946357b14948b9c",
+      "title": "Enter the Killer Robots: The Ukrainian Forging the Future of Warfare",
+      "summary": "Mykhailo Fedorov, Ukraine’s 35-year-old defense minister, sees futuristic military technology as crucial to his country’s survival.",
+      "url": "https://www.nytimes.com/2026/05/15/world/europe/mykhailo-fedorov-ukraine-ai.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-15T04:01:11+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "The Ukrainian Forging the Future of Warfare"
+    },
+    {
+      "id": "a0c92f055d8e24d7bee3eac4179091688f015e13",
+      "title": "Latvian government collapses amid dispute over breaches by Ukrainian drones",
+      "summary": "Prime Minister Evika Silina resigned after suspected Ukrainian drones headed for Russia crossed into her country, sparking concerns about its defenses.",
+      "url": "https://www.washingtonpost.com/world/2026/05/14/latvian-government-collapses-amid-dispute-over-breaches-by-ukrainian-drones/",
+      "source": "World (Washington post)",
+      "published_at": "2026-05-14T14:35:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "suspected Ukrainian drones headed for Russia crossed into her country"
+    },
     {
       "id": "9b196ac4889c56fa9d84280c8e3cb6efff6be31f",
       "title": "Rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
@@ -21,6 +76,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Russia launched attacks across Ukraine overnight"
+    },
+    {
+      "id": "4576dee71093cad070052194f7aeb930ea99e32e",
+      "title": "Latvian PM resigns after row over stray Ukrainian drones",
+      "summary": "Drones bound for Russia crashed down in Latvia last week, prompting a political fallout.",
+      "url": "https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-14T10:53:56+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.8,
+      "evidence": "stray Ukrainian drones"
     },
     {
       "id": "d74e340747c8ed25fbf3065217e67ee081a36b68",
@@ -45,6 +111,17 @@
       "evidence": "missile strike, the latest in a series of attacks"
     },
     {
+      "id": "628cd89b2b821a5e76a20eb1234f0ead18626730",
+      "title": "Latvian Prime Minister Evika Siliņa steps down / Article - LSM",
+      "summary": "Latvian Prime Minister Evika Siliņa steps down / Article&nbsp;&nbsp;LSMLatvia prime minister resigns days after ‘stray’ drone incursion – Europe live&nbsp;&nbsp;The GuardianLatvian PM Evika Silina resigns over response t…",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUkZKdXZ4MEFsQWpheC1Wd0s5ajJlT2hVNUNHeWhiaHVwUWZUeWg0aFJwVF9CcGpZQUU4WWRLQXJKT0hoWU9lSWhZRmlkZDRYTWxxMU04b2RwN05ZMTRRU2cwR0JMcnFJYlBTSnNRMXFOZTQyZ29STEFFR29xZnNQSVF2NU9rT1JjUnpZVFdRenQ5bDZLSDRvbHVUM3dRUlBDZFkwQ0hIWkVac09pNm1uOQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-05-14T07:49:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "handling of Ukraine drone incidents"
+    },
+    {
       "id": "2a96910be7e50dfb26057f7ebe2cee3f2a65ca77",
       "title": "Heavy Russian strikes on Kyiv kill one, wound 31",
       "summary": "President Volodymyr Zelenskyy said Russia had launched more than 670 attack drones and 56 missiles in the attack",
@@ -54,6 +131,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Heavy Russian strikes on Kyiv kill one, wound 31"
+    },
+    {
+      "id": "cbd376392218287a44e4eef4e082207ca5b31346",
+      "title": "UK army to replace donated AS90 guns with German-built RCH 155 howitzers",
+      "summary": "The procurement will replace equipment donated to Ukraine",
+      "url": "https://www.euractiv.com/news/uk-army-to-replace-donated-as90-guns-with-german-built-rch-155-howitzers/",
+      "source": "Euractiv",
+      "published_at": "2026-05-14T04:00:24+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "equipment donated to Ukraine"
     },
     {
       "id": "46d967974a4802d77ea642e4b750bfbf388d9418",
@@ -133,105 +221,17 @@
       "evidence": "Russian military’s progress has slowed to a crawl"
     },
     {
-      "id": "2909736782bce10acefd4547fe5b383c9a58b2e5",
-      "title": "Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates",
-      "summary": "Andriy Yermak was named by Ukraine's two anti-corruption agencies as a suspect in a money-laundering scheme.",
-      "url": "https://www.bbc.com/news/articles/c4g48kj40lwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-12T16:19:24+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukraine corruption probe escalates"
-    },
-    {
-      "id": "3b83fe38605cb579850dcdf3caaf8c924e543afa",
-      "title": "Hungary’s new government sparks hopes of billions in Ukraine military aid repayments",
-      "summary": "Péter Magyar indicated he would lift Hungary's 2024 veto on the EPF",
-      "url": "https://www.euractiv.com/news/hungarys-new-government-sparks-hopes-of-billions-in-ukraine-military-aid-repayments/",
-      "source": "Euractiv",
-      "published_at": "2026-05-12T12:32:39+00:00",
+      "id": "ea12d0837edb78d3def7702bc0399abcedd4c0f2",
+      "title": "Inside the digital hunt for Ukraine’s missing children - politico.eu",
+      "summary": "Inside the digital hunt for Ukraine’s missing children&nbsp;&nbsp;politico.euTeen bedroom art installation shines spotlight on Ukraine’s stolen children&nbsp;&nbsp;The GuardianEU, UK sanction Russians over deportations o…",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVHZZMFlRWXROTG1PUDRQVGs0NXNkeU1jZUR4SnlOMWxvWEpiNGhzMzhzTEFfLXVWN1c5cjdKRHBqNS0wNjhYZUFnaU5ZVlVFX2pvcDA3akhlR3g5VFRkam8zSmlueWpSc2ZoUzZsdHdDQmp2RUhpb3RyNDA5aWg0QjVDbEQzdFUxWlZ3Z1MxNlBtZFV0VDFZ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-05-13T03:00:00+00:00",
       "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "hopes of billions in Ukraine military aid repayments"
-    },
-    {
-      "id": "70a014d583b384f0fc677aa9b7d81fec462f4cd5",
-      "title": "Defence minister candidate says 'safe sky' is priority",
-      "summary": "Prime Minister Evika Siliņa has approached Colonel Raivis Melnis about the position of defence minister. Melnis said in a press briefing after meeting with PM Siliņa on Tuesday that&nbsp;his priority was anti-drone defen…",
-      "url": "https://eng.lsm.lv/article/politics/politics/12.05.2026-defence-minister-candidate-says-safe-sky-is-priority.a646734/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-05-12T11:39:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.5,
-      "evidence": "drawing on the Ukrainian experience."
-    },
-    {
-      "id": "acc008cd721b532e5201daac5689f5bb1895159e",
-      "title": "Athens-Kyiv relations in crisis mode after Ukrainian sea drone incident",
-      "summary": "\"We are certain that the drone is Ukrainian,” said the Greek defence minister",
-      "url": "https://www.euractiv.com/news/athens-kyiv-relations-in-crisis-mode-after-ukrainian-sea-drone-incident/",
-      "source": "Euractiv",
-      "published_at": "2026-05-12T11:20:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Ukrainian sea drone incident"
-    },
-    {
-      "id": "95aed8b1bf53413281ce03c522c94cf8b10edf0b",
-      "title": "Three-day ceasefire ends with fresh wave of Russian attacks on Ukraine – Europe live",
-      "summary": "At least one person killed as Moscow launches drone strikes on energy facilities and apartments Significant gaps remain in negotiations on the reset in relations between the UK and the EU despite Keir Starmer’s latest pl…",
-      "url": "https://www.theguardian.com/world/live/2026/may/12/europe-defence-ukraine-russia-hungary-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-12T10:50:34+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "fresh wave of Russian attacks on Ukraine"
-    },
-    {
-      "id": "1ac35c5639edd5ea79d3c7c85ea9f17d51e0df7b",
-      "title": "Russia Keeps Attacking U.S. Firms in Ukraine. The White House Is Silent.",
-      "summary": "Facilities tied to Coca-Cola, Cargill, Mondelez and others appear to have been deliberately hit. The Trump administration’s muted response has raised concerns.",
-      "url": "https://www.nytimes.com/2026/05/12/world/europe/russian-strikes-us-firms-ukraine-trump.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-12T10:46:19+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russia Keeps Attacking U.S. Firms in Ukraine"
-    },
-    {
-      "id": "652e6cbc943b98116855e23871f678adb3015f2f",
-      "title": "The War in Iran Is Another Blow to Russia’s Credibility. Or Is It?",
-      "summary": "Despite its long slog in Ukraine and the loss of former allies like Syria, Russia is benefiting from costly energy, a clever narrative and America’s own failure to achieve a quick victory.",
-      "url": "https://www.nytimes.com/2026/05/12/world/europe/russia-europe-ukraine-syria-iran.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-12T09:02:25+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Despite its long slog in Ukraine"
-    },
-    {
-      "id": "68b02392dfb3f2c6c7f179a524b86b5a87792ff9",
-      "title": "Ukrainian Teen Recounts Year Under Russian Control During War",
-      "summary": "Teen describes abduction, indoctrination, and harsh conditions in Russian-controlled camps.",
-      "url": "https://www.ndtv.com/world-news/ukrainian-teen-recounts-year-under-russian-control-during-war-11482197#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-05-12T08:13:20+00:00",
-      "sentiment": "negative",
       "confidence": 0.8,
-      "evidence": "Year Under Russian Control During War"
-    },
-    {
-      "id": "2558804e06b7c60f6c3e0b3913ef9064589641f2",
-      "title": "FIREPOWER: Fincantieri positive on defence outlook despite Q1 revenue drop",
-      "summary": "In today's edition: drones, Latvian resignation, Ukraine",
-      "url": "https://www.euractiv.com/news/firepower-fincantieri-positive-on-defence-outlook-despite-q1-revenue-drop/",
-      "source": "Euractiv",
-      "published_at": "2026-05-12T07:29:39+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Ukraine"
+      "evidence": "Ukraine’s missing children"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-14T11:28:20Z"
+  "last_updated": "2026-05-15T11:33:54Z"
 }
