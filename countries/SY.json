@@ -3,14 +3,25 @@
   "score": 80,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
+  "trend": 0,
   "sources": 61,
   "sentiment": {
-    "positive": 5,
-    "neutral": 27,
+    "positive": 4,
+    "neutral": 28,
     "negative": 29
   },
   "latest_articles": [
+    {
+      "id": "2169857bc17c8446ffa5bde587966d4b82016a9a",
+      "title": "Hezbollah’s unjammable drones pose new threat to Israel",
+      "summary": "The cheap weapons have helped the militants rearm despite the loss of a sponsor in Syria and the U.S.-Israeli war on Iran.",
+      "url": "https://www.washingtonpost.com/world/2026/05/13/hezbollahs-unjammable-drones-pose-new-threat-israel/",
+      "source": "World (Washington post)",
+      "published_at": "2026-05-13T09:00:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "loss of a sponsor in Syria"
+    },
     {
       "id": "418e15e40b60364ab8c54077d933aeef9ab3cc18",
       "title": "World’s most unsafe countries for women: Afghanistan, Yemen and Syria ranked lowest in global women safety index",
@@ -219,19 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "suspect in notorious Tadamon massacre during Syria civil war arrested"
-    },
-    {
-      "id": "5728708d08d3de52cdcd378f9a4b31c030165bcb",
-      "title": "Syrian Tycoons Pitched Trump-Branded Golf Course To Help Lift US Sanctions: Report",
-      "summary": "The White House said it was not aware of any proposed Trump golf resort in Syria",
-      "url": "https://www.ndtv.com/world-news/syrian-tycoons-pitched-trump-branded-golf-course-to-help-lift-us-sanctions-report-11381928#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-04-20T07:46:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Trump golf resort in Syria"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-15T11:33:54Z"
+  "last_updated": "2026-05-16T10:30:19Z"
 }

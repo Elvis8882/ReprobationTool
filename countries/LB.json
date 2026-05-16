@@ -4,13 +4,35 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 359,
+  "sources": 361,
   "sentiment": {
     "positive": 12,
-    "neutral": 116,
-    "negative": 232
+    "neutral": 117,
+    "negative": 233
   },
   "latest_articles": [
+    {
+      "id": "b6a3a2bf115d19f08a0a8f6798b0b1a7fa1ab5ad",
+      "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+      "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
+      "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-15T23:59:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "six killed in Israeli strike"
+    },
+    {
+      "id": "b355da639f8c487bbba03c9dab4adc88741f55ad",
+      "title": "Shaky truce between Israel and Lebanon extended for 45 days, US says",
+      "summary": "Statement following ‘productive’ talks in Washington comes as Israel launches strikes on southern city of TyreIsrael and Lebanon have agreed to a 45-day extension of their ceasefire after another round of talks in Washin…",
+      "url": "https://www.theguardian.com/world/2026/may/15/israel-and-lebanon-agree-ceasefire-extension-us-says",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-15T19:05:13+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "ceasefire between Israel and Lebanon extended"
+    },
     {
       "id": "29a52de35c48b015c78e151c44b81455ff93437e",
       "title": "‘These are our people.’ Lebanon’s medics carry on through grief, injuries.",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "bringing chaos and destruction across the country."
-    },
-    {
-      "id": "6f520acb2a8d5fad11eb8f15bf6339e8395efec3",
-      "title": "Israel issues evacuation warning; kills 1, hurts 4 in Lebanon strikes",
-      "summary": "Israeli airstrikes in southern Lebanon claimed at least one life and injured four rescuers on Sunday, despite a fragile truce. The Lebanese health ministry condemned the attacks, citing violations of the Geneva Conventio…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-issues-evacuation-warning-kills-1-hurts-4-in-lebanon-strikes/articleshow/130743595.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-05-04T02:27:03+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Israeli airstrikes in southern Lebanon claimed at least one life"
-    },
-    {
-      "id": "29b7059517a10dd26a527639a5dfac4c004ea5c1",
-      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-      "summary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
-      "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-02T09:41:07+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Thirteen killed in Israeli strikes on southern Lebanon"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-15T11:33:54Z"
+  "last_updated": "2026-05-16T10:30:19Z"
 }

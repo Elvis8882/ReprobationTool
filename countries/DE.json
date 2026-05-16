@@ -1,16 +1,59 @@
 {
   "country": "DE",
-  "score": 71,
+  "score": 70,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 503,
+  "trend": -1,
+  "sources": 505,
   "sentiment": {
-    "positive": 61,
+    "positive": 62,
     "neutral": 367,
-    "negative": 75
+    "negative": 76
   },
   "latest_articles": [
+    {
+      "id": "603cdd56d53f5369435e8d33d0e6954053df41e6",
+      "title": "German Chancellor Friedrich Merz: I wouldn’t advise my kids to live or study in US",
+      "summary": "German Chancellor Friedrich Merz advised his children against studying or working in the US due to a rapidly changing social climate and job market difficulties for the highly educated. Merz expressed strong optimism abo…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/german-chancellor-friedrich-merz-i-wouldnt-advise-my-kids-to-live-or-study-in-us/articleshow/131129911.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-05-15T23:53:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "strong optimism about Germany's opportunities"
+    },
+    {
+      "id": "495835f5b26e976bc76cb569c924700b05c15c9c",
+      "title": "German Chancellor, After Iran Spat With Trump, Reports ‘Good’ Phone Call",
+      "summary": "The call, initiated by Friedrich Merz, came soon after he told young people, “I am a great admirer of America. My admiration is not increasing at the moment.”",
+      "url": "https://www.nytimes.com/2026/05/15/world/europe/merz-trump-germany-us.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-15T19:28:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "German Chancellor, After Iran Spat With Trump, Reports ‘Good’ Phone Call"
+    },
+    {
+      "id": "db0940b736d7675f688c66fefbbdf1c66f99f03d",
+      "title": "Energy-hungry German industries in decline since Ukraine war: data",
+      "summary": "Production in Germany's most energy-intensive sectors fell by 15.2 per cent",
+      "url": "https://www.euractiv.com/news/energy-hungry-german-industries-in-decline-since-ukraine-war-data/",
+      "source": "Euractiv",
+      "published_at": "2026-05-15T11:28:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Energy-hungry German industries in decline since Ukraine war"
+    },
+    {
+      "id": "ec01389e0ac694cfd533c288c571c8ec238da50c",
+      "title": "Commission welcomes the Council of Europe declaration on migration - European Commission",
+      "summary": "Commission welcomes the Council of Europe declaration on migration&nbsp;&nbsp;European CommissionUK backs human rights plan to accelerate illegal migration removals&nbsp;&nbsp;BBCUK joins European deal to send rejected a…",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BemNtU3NwemdPcHlPV2R0Y0dtNmE5RnMtazJUWXlJV0tSTVA0ZHVPVG1mTFh5dlRNRmhwd1loRDVFc3hLLVlWMUcxSWhzYS16Q0x0OVFrX213WDgxYTYwVU5TcFltZWVwNlpjdmJUX2pkQQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-05-15T08:36:44+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "704c40b67e010950be1338059fba710a8b25af4c",
       "title": "Germany’s Merz calls for more investment, less subsidies in EU budget",
@@ -21,6 +64,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Germany’s Merz calls for more investment, less subsidies in EU budget"
+    },
+    {
+      "id": "34899b2748b68b1ce173d09fb9411a11f1223ff2",
+      "title": "Who Owns These Artworks? Musée d’Orsay Hopes Visitors Can Help Find Out.",
+      "summary": "A new room in the Musée d’Orsay’s permanent display includes 13 pieces that were recovered from Germany and Austria after World War II and whose provenance is unknown.",
+      "url": "https://www.nytimes.com/2026/05/14/arts/design/musee-dorsay-art-world-war-ii.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-14T13:47:15+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "recovered from Germany and Austria after World War II"
     },
     {
       "id": "44ce8152e0a6df2c59a3cf4a4663bd4fb8ef9dac",
@@ -167,59 +221,8 @@
       "published_at": "2026-05-12T05:00:15+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "9f01bb0922f57c1bae5d4a9c9930177a0b89015a",
-      "title": "EXCLUSIVE: Albania won’t extend Italy migration deal beyond 2030, foreign minister says",
-      "summary": "\"We'll be a member of the European Union\" by then, Ferit Hoxha tells Euractiv",
-      "url": "https://www.euractiv.com/news/exclusive-albania-wont-extend-italy-migration-deal-beyond-2030-foreign-minister-says/",
-      "source": "Euractiv",
-      "published_at": "2026-05-12T04:00:13+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "2b3797b16627a0c57b1a29d133908fe2c5cbdc7c",
-      "title": "European Union Hits Israeli Settlers With Sanctions",
-      "summary": "Israel criticized the European Union’s announcement that it will apply sanctions to Israeli settlers over violence against Palestinians.",
-      "url": "https://www.nytimes.com/2026/05/11/world/europe/israel-settlers-european-union-sanctions.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-11T16:22:14+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "6dc834ea7a207efce5295e3ae6b0c3f9415aa8bd",
-      "title": "UK should commit to rejoin the EU, London mayor tells CNBC",
-      "summary": "London mayor Sadiq Khan said that Prime Minister Keir Starmer should commit to rejoining the European Union and be \"bigger and bolder.\"",
-      "url": "https://www.cnbc.com/2026/05/11/sadiq-khan-uk-rejoin-eu-labour-starmer.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-05-11T15:57:21+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "ea4975aa87cab9541eb93529ca7ab9e4e7fc2f71",
-      "title": "Euro dominates extra-EU trade in primary goods - European Commission",
-      "summary": "Euro dominates extra-EU trade in primary goods&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IdDF5cmZxUXNPQ01HUDBZUnFxd3g4TDNxcnl1ZjVxaXZCcUNkaGpyYW96ZThZUmNMT2Q4SHV5NE43Z2padGs2Qno2d3NRWGpqRTRUZzg0cW5ZdGdaNmdCSXphaEkzQ0dza2trVGdWX2hCN2g5bEtVZVUzbWxsQQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-11T09:04:39+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "a6d466418c20b92920d07f2793a47b3e2cebac7e",
-      "title": "Risky robots: German researcher exposes 11,000 robot lawnmowers that could be hacked and controlled worldwide",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/risky-robots-german-researcher-exposes-11000-robot-lawnmowers-that-could-be-hacked-and-controlled-worldwide/articleshow/130989629.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-05-10T08:57:32+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "German researcher exposes 11,000 robot lawnmowers that could be hacked"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-15T11:33:54Z"
+  "last_updated": "2026-05-16T10:30:19Z"
 }

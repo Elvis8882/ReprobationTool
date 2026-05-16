@@ -1,16 +1,27 @@
 {
   "country": "SA",
-  "score": 72,
+  "score": 71,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 171,
+  "trend": -1,
+  "sources": 167,
   "sentiment": {
     "positive": 12,
-    "neutral": 113,
-    "negative": 47
+    "neutral": 108,
+    "negative": 48
   },
   "latest_articles": [
+    {
+      "id": "a2da81600f599bae5f0b11020057bed36aaab230",
+      "title": "French judge to probe Khashoggi killing after complaint against Saudi crown prince",
+      "summary": "Rights groups hailed Saturday's decision as a major step towards justice for the journalist's murder",
+      "url": "https://www.euractiv.com/news/french-judge-to-probe-khashoggi-killing-after-complaint-against-saudi-crown-prince/",
+      "source": "Euractiv",
+      "published_at": "2026-05-16T08:57:49+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Rights groups hailed Saturday's decision as a major step towards justice"
+    },
     {
       "id": "011c46e784f675e185fba0b41a642641129cbb7c",
       "title": "Opinion: Opinion | PM Modi Lands In UAE Amidst A Saudi 'Complication'",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Saudi Arabia’s Big-Spending Era"
-    },
-    {
-      "id": "caaacfa7a0b2e2996cb2a4aacc8f42c4975b3d24",
-      "title": "Is Saudi Arabia's sports revolution unravelling?",
-      "summary": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf, but what does this mean for the country's other sporting investments? Dan Roan takes a closer look.",
-      "url": "https://www.bbc.com/sport/articles/cglp42nnyeko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-01T07:49:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-15T11:33:54Z"
+  "last_updated": "2026-05-16T10:30:19Z"
 }
