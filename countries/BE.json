@@ -4,13 +4,23 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 386,
+  "sources": 383,
   "sentiment": {
-    "positive": 48,
-    "neutral": 292,
-    "negative": 46
+    "positive": 47,
+    "neutral": 291,
+    "negative": 45
   },
   "latest_articles": [
+    {
+      "id": "af19c985783b4d16f465dc520cdafb71d78f2008",
+      "title": "Fight club: European Parliament plans to liven up debate",
+      "summary": "The EU assembly will test out expanding the use of 'blue cards', encouraging members to challenge each other on the debating floor",
+      "url": "https://www.euractiv.com/news/fight-club-european-parliament-plans-to-liven-up-debate/",
+      "source": "Euractiv",
+      "published_at": "2026-05-17T04:00:22+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "cdfcf5a5ae4848efd23ac83d9b3ea0dc955fc9ba",
       "title": "Brussels runs on summaries and AI is now writing them",
@@ -211,18 +221,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "invite Taliban to Brussels"
-    },
-    {
-      "id": "2b3797b16627a0c57b1a29d133908fe2c5cbdc7c",
-      "title": "European Union Hits Israeli Settlers With Sanctions",
-      "summary": "Israel criticized the European Union’s announcement that it will apply sanctions to Israeli settlers over violence against Palestinians.",
-      "url": "https://www.nytimes.com/2026/05/11/world/europe/israel-settlers-european-union-sanctions.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-11T16:22:14+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-16T10:30:19Z"
+  "last_updated": "2026-05-17T10:36:04Z"
 }
