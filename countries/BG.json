@@ -1,16 +1,27 @@
 {
   "country": "BG",
-  "score": 95,
+  "score": 96,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 244,
+  "trend": 1,
+  "sources": 242,
   "sentiment": {
     "positive": 9,
-    "neutral": 223,
-    "negative": 12
+    "neutral": 222,
+    "negative": 11
   },
   "latest_articles": [
+    {
+      "id": "b92c6f14a78f4383e0c2c2d9b9dc7ff9f03e9d96",
+      "title": "Eurovision winner Dara arrives to screaming fans in Bulgaria",
+      "summary": "The 27-year-old's tune Bangaranga won Bulgaria its first ever title in the song contest.",
+      "url": "https://www.bbc.com/news/videos/c2k2p8qkk58o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-17T18:10:32+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Eurovision winner Dara arrives to screaming fans in Bulgaria"
+    },
     {
       "id": "af19c985783b4d16f465dc520cdafb71d78f2008",
       "title": "Fight club: European Parliament plans to liven up debate",
@@ -203,18 +214,8 @@
       "published_at": "2026-05-09T14:14:53+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "c75cc8434af52e74d13c07d46a64d8164c6cc248",
-      "title": "Canada and the European Union Are in Love. Where Can It Lead?",
-      "summary": "A rapid trip with the prime minister to Armenia highlighted the new era of amity between Canada and the European Union. We examine what that can and can’t do for Canadians.",
-      "url": "https://www.nytimes.com/2026/05/09/world/canada/carney-canada-european-union-trade-trump.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-09T10:00:02+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-17T10:36:04Z"
+  "last_updated": "2026-05-18T12:51:00Z"
 }

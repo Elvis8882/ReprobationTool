@@ -1,16 +1,27 @@
 {
   "country": "SY",
-  "score": 80,
+  "score": 82,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 61,
+  "trend": 2,
+  "sources": 59,
   "sentiment": {
     "positive": 4,
-    "neutral": 28,
-    "negative": 29
+    "neutral": 29,
+    "negative": 26
   },
   "latest_articles": [
+    {
+      "id": "14f6cc40a3d1c0a5b979b7ddd57b426b1dd50dc2",
+      "title": "Blocked Strait of Hormuz Leads to New Opportunities for Syria",
+      "summary": "The latest war in the Middle East has created new economic opportunities for Syria thanks to its geography.",
+      "url": "https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-18T09:55:24+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "new economic opportunities for Syria thanks to its geography"
+    },
     {
       "id": "2169857bc17c8446ffa5bde587966d4b82016a9a",
       "title": "Hezbollah’s unjammable drones pose new threat to Israel",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Syria arrests suspected leader of Tadamon massacre"
-    },
-    {
-      "id": "16d944346deb0436f1696b223e153aa0ca314b41",
-      "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
-      "summary": "Victims were bound and blindfolded before being shot and dumped in a pit.",
-      "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-24T09:46:01+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "suspect in notorious Tadamon massacre during Syria civil war arrested"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-17T10:36:04Z"
+  "last_updated": "2026-05-18T12:51:00Z"
 }

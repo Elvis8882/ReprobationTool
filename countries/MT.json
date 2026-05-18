@@ -1,16 +1,27 @@
 {
   "country": "MT",
-  "score": 60,
+  "score": 63,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 216,
+  "trend": 3,
+  "sources": 215,
   "sentiment": {
-    "positive": 1,
-    "neutral": 210,
+    "positive": 2,
+    "neutral": 208,
     "negative": 5
   },
   "latest_articles": [
+    {
+      "id": "ec0c15ecd6e0b704f3d33fa805d14f345e96333a",
+      "title": "Maltese to get ChatGPT Plus, Microsoft Copilot for free",
+      "summary": "'We are making sure that every citizen, regardless of their background, has the chance to build the confidence and skills needed to thrive in a digital world,' said Malta's economy minister",
+      "url": "https://www.euractiv.com/news/maltese-to-get-chatgpt-plus-microsoft-copilot-for-free/",
+      "source": "Euractiv",
+      "published_at": "2026-05-17T16:11:59+00:00",
+      "sentiment": "positive",
+      "confidence": 0.5,
+      "evidence": "building confidence and skills needed to thrive in a digital world"
+    },
     {
       "id": "af19c985783b4d16f465dc520cdafb71d78f2008",
       "title": "Fight club: European Parliament plans to liven up debate",
@@ -200,19 +211,8 @@
       "published_at": "2026-05-09T09:59:15+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "8a01be5ce29c1477c9b5c7d0a2432e8001be898c",
-      "title": "Eurobarometer shows Europeans see benefits from EU membership, stability and security - European Commission",
-      "summary": "Eurobarometer shows Europeans see benefits from EU membership, stability and security&nbsp;&nbsp;European CommissionEurobarometer: Housing dominates at home as Middle East becomes rising EU concern&nbsp;&nbsp;RTL TodaySu…",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PMWtOaEtmNTR6QW54S04wQ0tqMGswbUtWSVpjbXpBR3d4LVNlaDZkM041Y3VDTDZNSHI1WHNialhGV2V3aVRmT3JXQjZvMHpoYVpZVklGTnZIMlJvWFhzN2d6OGN2bHlxMkJ1UFVWU1gwdw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-08T09:04:25+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Malta among EU’s strongest supporters"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-17T10:36:04Z"
+  "last_updated": "2026-05-18T12:51:00Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 72,
+  "score": 71,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 94,
   "sentiment": {
     "positive": 2,
-    "neutral": 50,
-    "negative": 42
+    "neutral": 49,
+    "negative": 43
   },
   "latest_articles": [
+    {
+      "id": "8e88854383fbe8903074b4fa70be120ae3286f36",
+      "title": "Kataib Hezbollah: What to Know",
+      "summary": "A commander of one of the most-hard line and powerful Iranian proxies in Iraq has been charged with plotting to attack Jewish sites in the United States.",
+      "url": "https://www.nytimes.com/2026/05/15/world/middleeast/what-is-kataib-hezbollah.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-16T00:57:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "powerful Iranian proxies in Iraq"
+    },
     {
       "id": "34e445b736d6784896589a37e012191ddcc115ec",
       "title": "Israel operated from Iraq's Najaf desert during war: Reports",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "U.S. and Iraqi officials say they believe freelancer Shelly Kittleson was kidnapped"
-    },
-    {
-      "id": "5e7915b16afd5a522bf2ea7266ef50c9689751dc",
-      "title": "Iraq Tells Buyers To Collect Crude As Its Oil Can Cross Hormuz",
-      "summary": "Iran said that its neighbour was now exempt from shipping restrictions around the vital waterway.",
-      "url": "https://www.ndtv.com/world-news/iran-war-news-iraq-tells-buyers-to-collect-crude-as-its-oil-can-cross-hormuz-11316882#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-04-06T09:40:43+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Iraq Tells Buyers To Collect Crude As Its Oil Can Cross Hormuz"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-17T10:36:04Z"
+  "last_updated": "2026-05-18T12:51:00Z"
 }

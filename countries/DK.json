@@ -4,10 +4,10 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 285,
+  "sources": 283,
   "sentiment": {
     "positive": 8,
-    "neutral": 263,
+    "neutral": 261,
     "negative": 14
   },
   "latest_articles": [
@@ -20,6 +20,17 @@
       "published_at": "2026-05-17T04:00:22+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "b881fae9f99e452f6b782cf2d15ec4639384c4c9",
+      "title": "Whale found dead near Danish island after German rescue operation",
+      "summary": "Wildlife experts had previous criticised the operation, saying it would only cause the animal more distress.",
+      "url": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-16T17:01:28+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "near Danish island"
     },
     {
       "id": "5835ebe684c2ee4e544ad2a8bc11dc19a4e0acf6",
@@ -203,18 +214,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Denmark"
-    },
-    {
-      "id": "518e8c1702ccbb120dbf502debb4706e0ab07f25",
-      "title": "EU will talk to Russia at ‘right moment’, Costa says",
-      "summary": "EU Council President suggests talks with Moscow are far off, and swings behind US-led talks",
-      "url": "https://www.euractiv.com/news/eu-will-talk-to-russia-at-right-moment-costa-says/",
-      "source": "Euractiv",
-      "published_at": "2026-05-09T14:14:53+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-17T10:36:04Z"
+  "last_updated": "2026-05-18T12:51:00Z"
 }
