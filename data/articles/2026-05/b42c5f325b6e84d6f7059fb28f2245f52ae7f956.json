@@ -19,8 +19,30 @@
     "RU",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-05-18T12:51:00+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-05-19T12:25:20+00:00",
+  "sentiment_by_country": {
+    "GB": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Yahoo News UK"
+    },
+    "LV": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Latvian government collapses over Russia-bound Ukrainian drones"
+    },
+    "RU": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "near Russian border"
+    },
+    "UA": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Russia-bound Ukrainian drones"
+    }
+  },
+  "processed_at": "2026-05-19T12:25:20+00:00"
 }

@@ -17,8 +17,25 @@
     "RU",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-05-18T12:51:00+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-05-19T12:25:20+00:00",
+  "sentiment_by_country": {
+    "IT": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "rescuers have located the bodies of four Italian divers"
+    },
+    "RU": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    "UA": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    }
+  },
+  "processed_at": "2026-05-19T12:25:20+00:00"
 }
