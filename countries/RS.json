@@ -1,16 +1,27 @@
 {
   "country": "RS",
-  "score": 60,
-  "score_label": "Negative",
-  "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 16,
+  "score": 61,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": 1,
+  "sources": 17,
   "sentiment": {
-    "positive": 2,
+    "positive": 3,
     "neutral": 6,
     "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "26f59a81c861003a6010e21205cee2490437e73c",
+      "title": "Is This The Next Airline Facing Uncertainty? - Simple Flying",
+      "summary": "Is This The Next Airline Facing Uncertainty?&nbsp;&nbsp;Simple FlyingairBaltic reports €70 million losses in Q1 of 2026 / Article&nbsp;&nbsp;LSMAir Baltic stresses positive trends as advisors look to stabilise finances&n…",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uZjZFb1FKeTJEUk9zMkhqelVQYVdsWkY1ZlNpQlpxLXNQaV95Szh6TF9JaWlWNEhVX3YzbXlKZjJQaFRpODBiOUEyenktWWg3QnRDMVdobEk1SEs4RFN6bjFaTklEUWlR?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-05-20T05:30:19+00:00",
+      "sentiment": "positive",
+      "confidence": 0.4,
+      "evidence": "Germany, France, UK, Romania, Serbia, Turkey, and More Countries"
+    },
     {
       "id": "0e685cac7ef26b41cf4a55b8433c5c945a3fb0a5",
       "title": "EU backtracks on Serbia funding stop",
@@ -189,5 +200,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-19T12:25:20Z"
+  "last_updated": "2026-05-20T12:02:34Z"
 }
