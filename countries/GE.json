@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 10,
+  "sources": 9,
   "sentiment": {
     "positive": 1,
-    "neutral": 9,
+    "neutral": 8,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "08db753f3057742235abf41f1c4d5b2caafe9eb2",
+      "title": "Six US states hold primaries as Trump urges Kentucky voters to oust Massie",
+      "summary": "Republican critic of president faces challenge from Ed Gallrein, while Georgia and Pennsylvania hold key contestsThe biggest day of primaries yet arrives Tuesday, with voters in Kentucky, Pennsylvania, Georgia, Alabama,…",
+      "url": "https://www.theguardian.com/us-news/2026/may/19/us-voters-primary-contests",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-19T10:00:01+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Georgia and Pennsylvania hold key contests"
+    },
     {
       "id": "ac7dd20685ca511f74d02a9fb5e04608fc205e98",
       "title": "Georgia University Student Jumps Off Popular Cliff To Celebrate Graduation, Dies",
@@ -98,30 +109,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Latvian Ambassador to Georgia emphasises the necessity of securing"
-    },
-    {
-      "id": "7a49e172b7d440bcb2d5114ec0b7c4bfcf510771",
-      "title": "Trump’s envoys rampage through Europe",
-      "summary": "In Friday’s edition, also: Qatargate, Spain migration, and College vs Tbilisi",
-      "url": "https://www.euractiv.com/news/rapporteur-trumps-envoys-rampage-through-europe/",
-      "source": "Euractiv",
-      "published_at": "2026-02-20T05:56:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "College vs Tbilisi"
-    },
-    {
-      "id": "bda242d92f891ef5c4ab41e8f17ae305e58d2842",
-      "title": "Trump defends tariffs in pre-midterms appearance in battleground Georgia",
-      "summary": "Visit was ostensibly to promote economy, but US president focused on repeated, unverified claims of voter fraudDonald Trump forcefully defended his tariffs on Thursday, claiming “tariffs are my favorite word in the dicti…",
-      "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-tariffs-georgia",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-20T01:54:22+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Trump defends tariffs in pre-midterms appearance in battleground Georgia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-20T12:02:34Z"
+  "last_updated": "2026-05-21T12:34:23Z"
 }

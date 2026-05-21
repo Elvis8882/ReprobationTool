@@ -13,8 +13,15 @@
   "countries_scored": [
     "BE"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-05-20T12:02:33+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-05-21T12:34:23+00:00",
+  "sentiment_by_country": {
+    "BE": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Open-source advocates warn EU faces twin deficits of scale and control"
+    }
+  },
+  "processed_at": "2026-05-21T12:34:23+00:00"
 }
