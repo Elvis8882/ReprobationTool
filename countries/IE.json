@@ -1,16 +1,37 @@
 {
   "country": "IE",
-  "score": 98,
+  "score": 97,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 314,
+  "trend": -1,
+  "sources": 316,
   "sentiment": {
     "positive": 24,
     "neutral": 276,
-    "negative": 14
+    "negative": 16
   },
   "latest_articles": [
+    {
+      "id": "fbaea0db4d077b6986deffe478371e64e13bd9be",
+      "title": "Ireland lags EU peers on clinical trials despite rise in activity [Advocacy Lab]",
+      "summary": "Pharmaceutical industry calls for structural reforms as Dublin ranked slowest in bloc for trial start-up times, and 14th out of 27 for per capita clinical trial activity in 2025",
+      "url": "https://www.euractiv.com/news/ireland-lags-eu-peers-on-clinical-trials-despite-rise-in-activity/",
+      "source": "Euractiv",
+      "published_at": "2026-05-22T08:06:27+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Ireland lags EU peers on clinical trials despite rise in activity"
+    },
+    {
+      "id": "3b3cf503e1e6f78ee117f7c0525521784a0af394",
+      "title": "Brussels bets on ‘divide and rule’ to preserve carbon pricing policy",
+      "summary": "European Commission set to pit company against company, industries against capitals",
+      "url": "https://www.euractiv.com/news/brussels-bets-on-divide-and-rule-to-preserve-carbon-pricing-policy/",
+      "source": "Euractiv",
+      "published_at": "2026-05-22T04:00:54+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "817e4c3b293ce259285452be884a989c06384252",
       "title": "Gonorrhoea and syphilis hit record levels in Europe, data shows - BBC",
@@ -53,12 +74,33 @@
       "sentiment_fallback": true
     },
     {
+      "id": "c20b5db0504e6e9244284ad5c3af256978f20480",
+      "title": "Ireland under fire for downplaying climate impact of cattle",
+      "summary": "The republic is home to 5 million people and 7 million methane-making cows",
+      "url": "https://www.euractiv.com/news/ireland-under-fire-for-downplaying-climate-impact-of-cattle/",
+      "source": "Euractiv",
+      "published_at": "2026-05-21T04:00:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Ireland under fire for downplaying climate impact of cattle"
+    },
+    {
       "id": "3267e075c23df227b638e4330a6d942bcb6fead8",
       "title": "Brussels ‘remains committed’ after US, UK lift Russia oil sanctions",
       "summary": "Kremlin must not benefit from Iran energy shock, European Commission says",
       "url": "https://www.euractiv.com/news/brussels-remains-committed-after-us-uk-lift-russia-oil-sanctions/",
       "source": "Euractiv",
       "published_at": "2026-05-20T12:06:18+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "151467c58b47d2d9c14a76c7eeb1031bcfef5745",
+      "title": "Trump tightens grip on GOP after Massie’s defeat in Kentucky primary – US politics live",
+      "summary": "Republican Congressman defeated by Trump-backed challenger in most expensive House primary in historySign up for the Breaking News US emailThe EU has finally agreed to implement a trade deal with the US after hours of ta…",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/20/donald-trump-republicans-midterms-primaries-kentucky-redistricting-raul-castro-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-20T11:26:42+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -174,51 +216,8 @@
       "published_at": "2026-05-19T07:29:21+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "9090b98ba4f9e31d81f3a1c664f4266d1243a52b",
-      "title": "Experts stunned by a forgotten medieval book in Rome hiding oldest English poem",
-      "summary": "Researchers in Ireland have unearthed the oldest known English poem, \"Caedmon’s Hymn,\" dating back to the 7th century. This remarkable discovery, found embedded within a 9th-century Latin manuscript in a Roman library, p…",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/experts-stunned-by-a-forgotten-medieval-book-in-rome-hiding-oldest-english-poem/articleshow/131191545.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-05-19T05:32:53+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Researchers in Ireland"
-    },
-    {
-      "id": "233c345f58a324ca04f67eb5743aafc144144740",
-      "title": "Belfast harbour operator to invest £1.3bn as NI economy grows",
-      "summary": "Port has upgraded offshore wind facilities and is to expand quays, ferry terminals and cruise ship servicesThe operator of Belfast harbour plans to spend £1.3bn over the next 25 years to take advantage of strong economic…",
-      "url": "https://www.theguardian.com/uk-news/2026/may/19/belfast-harbour-invest-ni-economy-port-ferry-cruise-ship",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-19T04:00:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "strong economic growth in Northern Ireland"
-    },
-    {
-      "id": "2b373fcfa565101e3991b1a10f966b77c222ce39",
-      "title": "Europe Cruise Demand Summer 2026: Uneven Booking Trends Across Mediterranean and Northern Europe Redefine Cruise Travel Planning for Tourists - Travel And Tour World",
-      "summary": "Europe Cruise Demand Summer 2026: Uneven Booking Trends Across Mediterranean and Northern Europe Redefine Cruise Travel Planning for Tourists&nbsp;&nbsp;Travel And Tour WorldTravel Agents Report Mixed Signals on Europe C…",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EbGtDaFNPTzVsMVN0T0VMZXVtb0xMZ1JLU0pYS2JmNTF2cGFublVsMWN3MkVQQzVLa2E0VS1qZjhiS2dieG1OOFlUNFQzbFl6TWZrWnVUblNLaEYzU0w5Q1pQSlRWMzhuZWc4NmF3?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-18T16:47:32+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Travel Agents Report Mixed Signals on Europe Cruise Demand"
-    },
-    {
-      "id": "25fb3d467adf5e9de2111305f037b187d498e25e",
-      "title": "Opening: 18-21 May plenary session | Atualidade | Parlamento Europeu - European Parliament",
-      "summary": "Opening: 18-21 May plenary session | Atualidade | Parlamento Europeu&nbsp;&nbsp;European ParliamentThe Week Ahead 18 – 24 May 2026&nbsp;&nbsp;PubAffairs BruxellesPoczobut to Address the European Parliament&nbsp;&nbsp;REF…",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdnpsSnVZS2ZoLUtfQnUzZmQ3cmZlRncwaHpGQkg1ZzFHenpYZk5sWjlFQThfNTlnUXFKajFRel9md3hleVNpemlIbjlYRFJjVGlWOGx6alltNXZPUXg5Y0tDdTdRdkZRdUVYRzhvcnFaTUNkLTJwZFhZbGRWU1loaEh3ZW5Lb3FyZ1M0T2FweG0yMEVIaTQ0SUd6aXRXOUtRS3c?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-18T16:34:39+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-21T12:34:23Z"
+  "last_updated": "2026-05-22T12:02:12Z"
 }

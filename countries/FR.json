@@ -1,16 +1,81 @@
 {
   "country": "FR",
-  "score": 95,
+  "score": 96,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 1,
-  "sources": 619,
+  "sources": 624,
   "sentiment": {
-    "positive": 88,
-    "neutral": 475,
+    "positive": 90,
+    "neutral": 478,
     "negative": 56
   },
   "latest_articles": [
+    {
+      "id": "277f749282800d10a8a1aa3e317f2865e38c388b",
+      "title": "Western Europe braces for first major heat event of the summer",
+      "summary": "Temperatures across Portugal, Spain, France and the UK are expected to exceed 30C on Friday and into next weekEurope live – latest updatesA large swathe of western Europe is bracing for the first significant heat event o…",
+      "url": "https://www.theguardian.com/world/2026/may/22/western-europe-braces-first-heat-event-summer",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-22T11:01:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Temperatures across Portugal, Spain, France and the UK are expected to exceed 30C"
+    },
+    {
+      "id": "ffbe76a41d29df45ed2f457dd03eb897ffdf56a1",
+      "title": "Timelapse footage shows 'giant cave' inflating on Paris bridge",
+      "summary": "The monumental structure was created by Parisan artist JR - often dubbed the French Banksy",
+      "url": "https://www.bbc.com/news/videos/cx214kxw2y4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-22T10:45:27+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Timelapse footage shows 'giant cave' inflating on Paris bridge"
+    },
+    {
+      "id": "3b3cf503e1e6f78ee117f7c0525521784a0af394",
+      "title": "Brussels bets on ‘divide and rule’ to preserve carbon pricing policy",
+      "summary": "European Commission set to pit company against company, industries against capitals",
+      "url": "https://www.euractiv.com/news/brussels-bets-on-divide-and-rule-to-preserve-carbon-pricing-policy/",
+      "source": "Euractiv",
+      "published_at": "2026-05-22T04:00:54+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "22a6644aa33e848d495f73492ff2149653ea3cc1",
+      "title": "Move to abolish low-emission zones in French cities fails on legal technicality",
+      "summary": "Populist alliance loses battle to abolish city traffic restrictions, but war set to go on",
+      "url": "https://www.euractiv.com/news/move-to-abolish-low-emission-zones-in-french-cities-fails-on-legal-technicality/",
+      "source": "Euractiv",
+      "published_at": "2026-05-21T16:01:53+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Move to abolish low-emission zones in French cities fails"
+    },
+    {
+      "id": "4c6a6286a702191aa2f433e1f21e048231c123c4",
+      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "summary": "The companies were found guilty by a French court over an air disaster which killed 228 people.",
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-21T15:58:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Air France and Airbus found guilty of manslaughter"
+    },
+    {
+      "id": "d71cf3ba3d055419a78c2ddf95a23658a2636b5a",
+      "title": "Air France Flight to U.S. Is Diverted to Montreal Over Congolese Passenger Amid Ebola Fears",
+      "summary": "An Air France plane was sent to Montreal because a passenger from the Democratic Republic of Congo was on board. The U.S. has closed its borders to recent visitors to the African country.",
+      "url": "https://www.nytimes.com/2026/05/21/world/africa/air-france-ebola-flight.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-21T11:58:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Air France Flight to U.S. Is Diverted to Montreal"
+    },
     {
       "id": "b9fcda4eec1c7692434c795d61e2e1c7f36ffe7f",
       "title": "EP Conference of Presidents expresses full solidarity with the Baltic states | Atualidade | Parlamento Europeu - European Parliament",
@@ -30,6 +95,17 @@
       "published_at": "2026-05-21T09:40:00+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "ada62714c6ceb68fba681455f4b5eaeef5faa7db",
+      "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
+      "summary": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
+      "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-21T08:48:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "France... criticised a video showing Itamar Ben-Gvir taunting"
     },
     {
       "id": "7b8b6483f7703a09138c8ebb242389827af8f4ce",
@@ -59,6 +135,16 @@
       "url": "https://www.euractiv.com/news/brussels-remains-committed-after-us-uk-lift-russia-oil-sanctions/",
       "source": "Euractiv",
       "published_at": "2026-05-20T12:06:18+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "151467c58b47d2d9c14a76c7eeb1031bcfef5745",
+      "title": "Trump tightens grip on GOP after Massie’s defeat in Kentucky primary – US politics live",
+      "summary": "Republican Congressman defeated by Trump-backed challenger in most expensive House primary in historySign up for the Breaking News US emailThe EU has finally agreed to implement a trade deal with the US after hours of ta…",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/20/donald-trump-republicans-midterms-primaries-kentucky-redistricting-raul-castro-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-20T11:26:42+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -133,92 +219,8 @@
       "published_at": "2026-05-20T06:25:35+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "26f59a81c861003a6010e21205cee2490437e73c",
-      "title": "Is This The Next Airline Facing Uncertainty? - Simple Flying",
-      "summary": "Is This The Next Airline Facing Uncertainty?&nbsp;&nbsp;Simple FlyingairBaltic reports €70 million losses in Q1 of 2026 / Article&nbsp;&nbsp;LSMAir Baltic stresses positive trends as advisors look to stabilise finances&n…",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uZjZFb1FKeTJEUk9zMkhqelVQYVdsWkY1ZlNpQlpxLXNQaV95Szh6TF9JaWlWNEhVX3YzbXlKZjJQaFRpODBiOUEyenktWWg3QnRDMVdobEk1SEs4RFN6bjFaTklEUWlR?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-20T05:30:19+00:00",
-      "sentiment": "positive",
-      "confidence": 0.4,
-      "evidence": "Germany, France, UK, Romania, Serbia, Turkey, and More Countries"
-    },
-    {
-      "id": "857c038f6d0c9893321114ef5d0b429c65286cdd",
-      "title": "Macron launches recycling drive as EU plastic levy bites",
-      "summary": "France looking at deposit scheme for plastic bottles and reuse strategy",
-      "url": "https://www.euractiv.com/news/macron-launches-recycling-drive-as-eu-plastic-levy-bites/",
-      "source": "Euractiv",
-      "published_at": "2026-05-19T16:09:37+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Macron launches recycling drive as EU plastic levy bites"
-    },
-    {
-      "id": "c9e01e32a0be49af8e4043076cdf64e46ca592ae",
-      "title": "MEPs foil EU prosecutor’s investigation into senior deputy",
-      "summary": "The handling of immunity cases is increasingly politicised within the European Parliament",
-      "url": "https://www.euractiv.com/news/meps-foil-eu-prosecutors-investigation-into-senior-deputy/",
-      "source": "Euractiv",
-      "published_at": "2026-05-19T13:45:53+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "3952d6a62f38fbb0c05f06315c0599d3c82cfc66",
-      "title": "Sweden to buy four frigates from France’s Naval Group: PM",
-      "summary": "France said it could deliver a 'fully equipped' frigate as early as 2030",
-      "url": "https://www.euractiv.com/news/sweden-to-buy-four-frigates-from-frances-naval-group-pm/",
-      "source": "Euractiv",
-      "published_at": "2026-05-19T09:28:43+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Sweden to buy four frigates from France’s Naval Group"
-    },
-    {
-      "id": "26e81438e4abd565bf5b38838115b5dd4e5f0789",
-      "title": "Fertilisers price went up 8.0% in Q4 2025 - European Commission",
-      "summary": "Fertilisers price went up 8.0% in Q4 2025&nbsp;&nbsp;European Commission“For some of our farmers, this is the last year!” - expert on the harsh fate of rural Latvia&nbsp;&nbsp;Inbox.euFertilizer prices up in Latvia, but…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWbGZaM29CQW96MkpYWElDZGdpWU5PUTZzN3RmMk83bkRYZWFUU1FWSXlBX2tZRmhRTUhFZXdSOTMzWXhXVTZLTDJsYkticjJJUUhqUDZGWjZuTmRFTm1yc0tpYkZYV1h1bmV3cm0zYjEydUFDLU9QaEZSbDNpZw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-19T09:01:35+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "63d877a62490e32825d73ed0f46f53ff997c2a63",
-      "title": "FIREPOWER: No white smoke for trilogue on cross-border transfer of defence goods",
-      "summary": "In today's edition: Austria, European Parliament, space",
-      "url": "https://www.euractiv.com/news/firepower-no-white-smoke-for-trilogue-on-cross-border-transfer-of-defence-goods/",
-      "source": "Euractiv",
-      "published_at": "2026-05-19T07:29:21+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "0bb07147761aa9da4aec19dfc22beefa2a6e60bc",
-      "title": "G7 Finance Ministers Look to Contain Iran Economic Fallout",
-      "summary": "Top policymakers were expected to discuss rising energy prices and sanctions policy at a critical summit in Paris this week.",
-      "url": "https://www.nytimes.com/2026/05/18/business/g7-finance-ministers-meeting-iran-war-oil.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-18T18:15:04+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "critical summit in Paris this week."
-    },
-    {
-      "id": "25fb3d467adf5e9de2111305f037b187d498e25e",
-      "title": "Opening: 18-21 May plenary session | Atualidade | Parlamento Europeu - European Parliament",
-      "summary": "Opening: 18-21 May plenary session | Atualidade | Parlamento Europeu&nbsp;&nbsp;European ParliamentThe Week Ahead 18 – 24 May 2026&nbsp;&nbsp;PubAffairs BruxellesPoczobut to Address the European Parliament&nbsp;&nbsp;REF…",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdnpsSnVZS2ZoLUtfQnUzZmQ3cmZlRncwaHpGQkg1ZzFHenpYZk5sWjlFQThfNTlnUXFKajFRel9md3hleVNpemlIbjlYRFJjVGlWOGx6alltNXZPUXg5Y0tDdTdRdkZRdUVYRzhvcnFaTUNkLTJwZFhZbGRWU1loaEh3ZW5Lb3FyZ1M0T2FweG0yMEVIaTQ0SUd6aXRXOUtRS3c?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-18T16:34:39+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-21T12:34:23Z"
+  "last_updated": "2026-05-22T12:02:12Z"
 }

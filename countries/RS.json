@@ -1,16 +1,27 @@
 {
   "country": "RS",
   "score": 61,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 17,
+  "sources": 18,
   "sentiment": {
     "positive": 3,
     "neutral": 6,
-    "negative": 8
+    "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "6d942e8bf37c3f99df7b6c51f51637e39d29c7b8",
+      "title": "‘Ready for violence’: Serbian hooligans target protesters",
+      "summary": "For more than a year, student-led protests have swept across Serbia",
+      "url": "https://www.euractiv.com/news/ready-for-violence-serbian-hooligans-target-protesters/",
+      "source": "Euractiv",
+      "published_at": "2026-05-21T08:16:08+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Serbian hooligans target protesters"
+    },
     {
       "id": "26f59a81c861003a6010e21205cee2490437e73c",
       "title": "Is This The Next Airline Facing Uncertainty? - Simple Flying",
@@ -200,5 +211,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-21T12:34:23Z"
+  "last_updated": "2026-05-22T12:02:12Z"
 }

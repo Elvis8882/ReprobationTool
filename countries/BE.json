@@ -1,16 +1,27 @@
 {
   "country": "BE",
-  "score": 85,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
+  "trend": -1,
   "sources": 387,
   "sentiment": {
     "positive": 45,
-    "neutral": 297,
-    "negative": 45
+    "neutral": 296,
+    "negative": 46
   },
   "latest_articles": [
+    {
+      "id": "3b3cf503e1e6f78ee117f7c0525521784a0af394",
+      "title": "Brussels bets on ‘divide and rule’ to preserve carbon pricing policy",
+      "summary": "European Commission set to pit company against company, industries against capitals",
+      "url": "https://www.euractiv.com/news/brussels-bets-on-divide-and-rule-to-preserve-carbon-pricing-policy/",
+      "source": "Euractiv",
+      "published_at": "2026-05-22T04:00:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Brussels bets on ‘divide and rule’ to preserve carbon pricing policy"
+    },
     {
       "id": "b9fcda4eec1c7692434c795d61e2e1c7f36ffe7f",
       "title": "EP Conference of Presidents expresses full solidarity with the Baltic states | Atualidade | Parlamento Europeu - European Parliament",
@@ -84,6 +95,16 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Russian threats against Baltics ‘unacceptable’ and danger to ‘our entire union’"
+    },
+    {
+      "id": "151467c58b47d2d9c14a76c7eeb1031bcfef5745",
+      "title": "Trump tightens grip on GOP after Massie’s defeat in Kentucky primary – US politics live",
+      "summary": "Republican Congressman defeated by Trump-backed challenger in most expensive House primary in historySign up for the Breaking News US emailThe EU has finally agreed to implement a trade deal with the US after hours of ta…",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/20/donald-trump-republicans-midterms-primaries-kentucky-redistricting-raul-castro-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-20T11:26:42+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "933c19c8198cbfe677945e7d1773af4a7a77a188",
@@ -199,29 +220,8 @@
       "published_at": "2026-05-19T07:29:21+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "25fb3d467adf5e9de2111305f037b187d498e25e",
-      "title": "Opening: 18-21 May plenary session | Atualidade | Parlamento Europeu - European Parliament",
-      "summary": "Opening: 18-21 May plenary session | Atualidade | Parlamento Europeu&nbsp;&nbsp;European ParliamentThe Week Ahead 18 – 24 May 2026&nbsp;&nbsp;PubAffairs BruxellesPoczobut to Address the European Parliament&nbsp;&nbsp;REF…",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdnpsSnVZS2ZoLUtfQnUzZmQ3cmZlRncwaHpGQkg1ZzFHenpYZk5sWjlFQThfNTlnUXFKajFRel9md3hleVNpemlIbjlYRFJjVGlWOGx6alltNXZPUXg5Y0tDdTdRdkZRdUVYRzhvcnFaTUNkLTJwZFhZbGRWU1loaEh3ZW5Lb3FyZ1M0T2FweG0yMEVIaTQ0SUd6aXRXOUtRS3c?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-18T16:34:39+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "d6e5fd0c4eb461727465b6fa9beb8820e8b3c855",
-      "title": "Europe’s AI sovereignty gap laid bare at Brussels cloud summit [Advocacy Lab]",
-      "summary": "Open-source advocates warn EU faces twin deficits of scale and control as US dominates global infrastructure spending",
-      "url": "https://www.euractiv.com/news/europes-ai-sovereignty-gap-laid-bare-at-brussels-cloud-summit/",
-      "source": "Euractiv",
-      "published_at": "2026-05-18T12:53:11+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Open-source advocates warn EU faces twin deficits of scale and control"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-21T12:34:23Z"
+  "last_updated": "2026-05-22T12:02:12Z"
 }

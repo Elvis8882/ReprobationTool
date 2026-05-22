@@ -3,14 +3,35 @@
   "score": 94,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 424,
+  "trend": 0,
+  "sources": 428,
   "sentiment": {
     "positive": 32,
-    "neutral": 367,
+    "neutral": 371,
     "negative": 25
   },
   "latest_articles": [
+    {
+      "id": "3b3cf503e1e6f78ee117f7c0525521784a0af394",
+      "title": "Brussels bets on ‘divide and rule’ to preserve carbon pricing policy",
+      "summary": "European Commission set to pit company against company, industries against capitals",
+      "url": "https://www.euractiv.com/news/brussels-bets-on-divide-and-rule-to-preserve-carbon-pricing-policy/",
+      "source": "Euractiv",
+      "published_at": "2026-05-22T04:00:54+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "a8684368e8886d09ac58f451bc287c079f91eaab",
+      "title": "The far-right Israeli minister taunting detained Gaza activists – The Latest",
+      "summary": "Israel’s far-right national security minister, Itamar Ben-Gvir, has triggered global outrage after sharing footage of himself taunting bound activists who had been detained as they tried to sail to Gaza with aid. The vid…",
+      "url": "https://www.theguardian.com/news/audio/2026/may/21/the-far-right-israeli-minister-taunting-detained-gaza-activists-the-latest",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-21T15:49:54+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Italian prime minister, Giorgia Meloni"
+    },
     {
       "id": "232a1e72d28a8a631737082144978ef8c1f32bf2",
       "title": "‘Ukraine owes an apology’: Athens anger over sea drone incident",
@@ -43,6 +64,28 @@
       "sentiment_fallback": true
     },
     {
+      "id": "ada62714c6ceb68fba681455f4b5eaeef5faa7db",
+      "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
+      "summary": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
+      "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-21T08:48:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Italy are among the countries that have criticised a video"
+    },
+    {
+      "id": "c291edf7ca3a23617955a4ff941bd605ba1edf77",
+      "title": "'Chaiwala Came To You': PM Modi's Tea-Seller Reference At Rome Event Is Viral",
+      "summary": "PM Modi was conferred with the prestigious Agricola Medal for 2026 by the FAO",
+      "url": "https://www.ndtv.com/world-news/chaiwala-came-to-you-pm-modis-tea-seller-reference-at-rome-event-is-viral-11527121#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-05-21T08:38:18+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "At Rome Event"
+    },
+    {
       "id": "7b8b6483f7703a09138c8ebb242389827af8f4ce",
       "title": "Calls for EU executive to present promised Russian oil ban bill",
       "summary": "European Commission faces growing pressure after dropping it from agenda without explanation",
@@ -53,12 +96,33 @@
       "sentiment_fallback": true
     },
     {
+      "id": "010bbd0f47ddaf5c510f3c69819660e8bb2e1fe6",
+      "title": "Bodies of Last 2 Missing Italian Divers Recovered in the Maldives",
+      "summary": "Experts have spent days conducting a complex search operation to find five divers who died on a trip to explore deep underwater caves in the Indian Ocean last week.",
+      "url": "https://www.nytimes.com/2026/05/20/world/asia/italian-divers-maldives-dead-recovery.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-20T13:18:14+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Italian Divers"
+    },
+    {
       "id": "3267e075c23df227b638e4330a6d942bcb6fead8",
       "title": "Brussels ‘remains committed’ after US, UK lift Russia oil sanctions",
       "summary": "Kremlin must not benefit from Iran energy shock, European Commission says",
       "url": "https://www.euractiv.com/news/brussels-remains-committed-after-us-uk-lift-russia-oil-sanctions/",
       "source": "Euractiv",
       "published_at": "2026-05-20T12:06:18+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "151467c58b47d2d9c14a76c7eeb1031bcfef5745",
+      "title": "Trump tightens grip on GOP after Massie’s defeat in Kentucky primary – US politics live",
+      "summary": "Republican Congressman defeated by Trump-backed challenger in most expensive House primary in historySign up for the Breaking News US emailThe EU has finally agreed to implement a trade deal with the US after hours of ta…",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/20/donald-trump-republicans-midterms-primaries-kentucky-redistricting-raul-castro-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-20T11:26:42+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -155,70 +219,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "discussions aimed at elevating bilateral ties to a special strategic partnership."
-    },
-    {
-      "id": "c9e01e32a0be49af8e4043076cdf64e46ca592ae",
-      "title": "MEPs foil EU prosecutor’s investigation into senior deputy",
-      "summary": "The handling of immunity cases is increasingly politicised within the European Parliament",
-      "url": "https://www.euractiv.com/news/meps-foil-eu-prosecutors-investigation-into-senior-deputy/",
-      "source": "Euractiv",
-      "published_at": "2026-05-19T13:45:53+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "26e81438e4abd565bf5b38838115b5dd4e5f0789",
-      "title": "Fertilisers price went up 8.0% in Q4 2025 - European Commission",
-      "summary": "Fertilisers price went up 8.0% in Q4 2025&nbsp;&nbsp;European Commission“For some of our farmers, this is the last year!” - expert on the harsh fate of rural Latvia&nbsp;&nbsp;Inbox.euFertilizer prices up in Latvia, but…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWbGZaM29CQW96MkpYWElDZGdpWU5PUTZzN3RmMk83bkRYZWFUU1FWSXlBX2tZRmhRTUhFZXdSOTMzWXhXVTZLTDJsYkticjJJUUhqUDZGWjZuTmRFTm1yc0tpYkZYV1h1bmV3cm0zYjEydUFDLU9QaEZSbDNpZw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-19T09:01:35+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "63d877a62490e32825d73ed0f46f53ff997c2a63",
-      "title": "FIREPOWER: No white smoke for trilogue on cross-border transfer of defence goods",
-      "summary": "In today's edition: Austria, European Parliament, space",
-      "url": "https://www.euractiv.com/news/firepower-no-white-smoke-for-trilogue-on-cross-border-transfer-of-defence-goods/",
-      "source": "Euractiv",
-      "published_at": "2026-05-19T07:29:21+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "9090b98ba4f9e31d81f3a1c664f4266d1243a52b",
-      "title": "Experts stunned by a forgotten medieval book in Rome hiding oldest English poem",
-      "summary": "Researchers in Ireland have unearthed the oldest known English poem, \"Caedmon’s Hymn,\" dating back to the 7th century. This remarkable discovery, found embedded within a 9th-century Latin manuscript in a Roman library, p…",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/experts-stunned-by-a-forgotten-medieval-book-in-rome-hiding-oldest-english-poem/articleshow/131191545.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-05-19T05:32:53+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "in a Roman library"
-    },
-    {
-      "id": "8680b8bf505198d06acf679acdb5b91d1d348986",
-      "title": "Experts locate bodies of four missing Italian divers inside Maldives cave",
-      "summary": "Spokesperson for Indian Ocean island nation says they will try to recover explorers in next couple of daysRescuers have located the bodies of four Italian divers deep inside an underwater cave in an atoll in the Maldives…",
-      "url": "https://www.theguardian.com/world/2026/may/18/maldives-cave-italian-divers-bodies",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-19T00:52:25+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "four missing Italian divers"
-    },
-    {
-      "id": "25fb3d467adf5e9de2111305f037b187d498e25e",
-      "title": "Opening: 18-21 May plenary session | Atualidade | Parlamento Europeu - European Parliament",
-      "summary": "Opening: 18-21 May plenary session | Atualidade | Parlamento Europeu&nbsp;&nbsp;European ParliamentThe Week Ahead 18 – 24 May 2026&nbsp;&nbsp;PubAffairs BruxellesPoczobut to Address the European Parliament&nbsp;&nbsp;REF…",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdnpsSnVZS2ZoLUtfQnUzZmQ3cmZlRncwaHpGQkg1ZzFHenpYZk5sWjlFQThfNTlnUXFKajFRel9md3hleVNpemlIbjlYRFJjVGlWOGx6alltNXZPUXg5Y0tDdTdRdkZRdUVYRzhvcnFaTUNkLTJwZFhZbGRWU1loaEh3ZW5Lb3FyZ1M0T2FweG0yMEVIaTQ0SUd6aXRXOUtRS3c?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-18T16:34:39+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-21T12:34:23Z"
+  "last_updated": "2026-05-22T12:02:12Z"
 }
