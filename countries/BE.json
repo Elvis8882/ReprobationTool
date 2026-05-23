@@ -1,16 +1,47 @@
 {
   "country": "BE",
-  "score": 84,
+  "score": 85,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 387,
+  "trend": 1,
+  "sources": 392,
   "sentiment": {
-    "positive": 45,
-    "neutral": 296,
+    "positive": 46,
+    "neutral": 300,
     "negative": 46
   },
   "latest_articles": [
+    {
+      "id": "75ce2f00f1deb467a097b67dbe1f10f5661fa25c",
+      "title": "Turnberry explained: The EU-US trade deal that never was",
+      "summary": "Will Brussels let Washington freestyle its way to a terrible deal for Europe?",
+      "url": "https://www.euractiv.com/news/turnberry-explained-the-eu-us-trade-deal-that-never-was/",
+      "source": "Euractiv",
+      "published_at": "2026-05-23T04:00:52+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "EU-US trade deal that never was"
+    },
+    {
+      "id": "6cf21a12c973b1dff5ae721824145e7a0911b80e",
+      "title": "Mining firms get official guidance on EU water pollution loopholes",
+      "summary": "European Commission explains how to use existing Water Framework Directive flexibilities to speed up operations",
+      "url": "https://www.euractiv.com/news/mining-firms-get-official-guidance-on-eu-water-pollution-loopholes/",
+      "source": "Euractiv",
+      "published_at": "2026-05-22T16:55:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "1eee80fcf12704dc67dd4994fcf8f78f6f593a0f",
+      "title": "European Parliament targets December plenary vote on Biotech Act",
+      "summary": "The timeline for Parliament's opinion‑giving committees is also set",
+      "url": "https://www.euractiv.com/news/european-parliament-targets-december-plenary-vote-on-biotech-act/",
+      "source": "Euractiv",
+      "published_at": "2026-05-22T12:37:40+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "3b3cf503e1e6f78ee117f7c0525521784a0af394",
       "title": "Brussels bets on ‘divide and rule’ to preserve carbon pricing policy",
@@ -73,6 +104,28 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "EU biotech champions struggle with finance, says Euronext Brussels CEO"
+    },
+    {
+      "id": "56fe566d46437d52a2948649039ad0ff2d3e3faa",
+      "title": "Top Green MEP quits Brussels",
+      "summary": "He admitted that 'I have not always done the right thing in the past'",
+      "url": "https://www.euractiv.com/news/top-green-mep-quits-brussels/",
+      "source": "Euractiv",
+      "published_at": "2026-05-20T17:35:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Top Green MEP quits Brussels"
+    },
+    {
+      "id": "0903cf57325375da1121b83d2e124f6bbbee4000",
+      "title": "Germany plans Brussels office for its defence procurement agency",
+      "summary": "The new office is meant to help coordinate multinational programmes",
+      "url": "https://www.euractiv.com/news/germany-plans-brussels-office-for-its-defence-procurement-agency/",
+      "source": "Euractiv",
+      "published_at": "2026-05-20T15:36:18+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Brussels office for its defence procurement agency"
     },
     {
       "id": "3267e075c23df227b638e4330a6d942bcb6fead8",
@@ -167,61 +220,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "EU gets tobacco taxation all wrong, economist warns"
-    },
-    {
-      "id": "44c445e9507a8269b38e1eabc116c8eb61d76c28",
-      "title": "Brussels breaks deadlock on defence factory permitting",
-      "summary": "More technical talks are needed on cross-border transfers of defence goods",
-      "url": "https://www.euractiv.com/news/brussels-breaks-deadlock-on-defence-factory-permitting/",
-      "source": "Euractiv",
-      "published_at": "2026-05-19T19:18:18+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Brussels breaks deadlock on defence factory permitting"
-    },
-    {
-      "id": "7577cef6294529320d70728aa9f88d852a909124",
-      "title": "Commission unveils fertiliser measures, farmers demand stronger action",
-      "summary": "Tractors gathered outside Parliament as pressure mounted on Brussels",
-      "url": "https://www.euractiv.com/news/commission-unveils-fertiliser-measures-farmers-demand-stronger-action/",
-      "source": "Euractiv",
-      "published_at": "2026-05-19T14:09:39+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Tractors gathered outside Parliament as pressure mounted on Brussels"
-    },
-    {
-      "id": "c9e01e32a0be49af8e4043076cdf64e46ca592ae",
-      "title": "MEPs foil EU prosecutor’s investigation into senior deputy",
-      "summary": "The handling of immunity cases is increasingly politicised within the European Parliament",
-      "url": "https://www.euractiv.com/news/meps-foil-eu-prosecutors-investigation-into-senior-deputy/",
-      "source": "Euractiv",
-      "published_at": "2026-05-19T13:45:53+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "26e81438e4abd565bf5b38838115b5dd4e5f0789",
-      "title": "Fertilisers price went up 8.0% in Q4 2025 - European Commission",
-      "summary": "Fertilisers price went up 8.0% in Q4 2025&nbsp;&nbsp;European Commission“For some of our farmers, this is the last year!” - expert on the harsh fate of rural Latvia&nbsp;&nbsp;Inbox.euFertilizer prices up in Latvia, but…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWbGZaM29CQW96MkpYWElDZGdpWU5PUTZzN3RmMk83bkRYZWFUU1FWSXlBX2tZRmhRTUhFZXdSOTMzWXhXVTZLTDJsYkticjJJUUhqUDZGWjZuTmRFTm1yc0tpYkZYV1h1bmV3cm0zYjEydUFDLU9QaEZSbDNpZw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-19T09:01:35+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "European Commission"
-    },
-    {
-      "id": "63d877a62490e32825d73ed0f46f53ff997c2a63",
-      "title": "FIREPOWER: No white smoke for trilogue on cross-border transfer of defence goods",
-      "summary": "In today's edition: Austria, European Parliament, space",
-      "url": "https://www.euractiv.com/news/firepower-no-white-smoke-for-trilogue-on-cross-border-transfer-of-defence-goods/",
-      "source": "Euractiv",
-      "published_at": "2026-05-19T07:29:21+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-22T12:02:12Z"
+  "last_updated": "2026-05-23T10:50:02Z"
 }

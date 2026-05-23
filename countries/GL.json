@@ -1,16 +1,27 @@
 {
   "country": "GL",
-  "score": 60,
+  "score": 62,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 42,
+  "trend": 2,
+  "sources": 44,
   "sentiment": {
-    "positive": 2,
-    "neutral": 30,
+    "positive": 3,
+    "neutral": 31,
     "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "759d60a2b03adceb92c6c5a38660ff75765dfd42",
+      "title": "Denmark ramps up Greenland defence with new Arctic patrol ships and drones",
+      "summary": "A central pillar of the strategy is expanded situational awareness",
+      "url": "https://www.euractiv.com/news/denmark-ramps-up-greenland-defence-with-new-arctic-patrol-ships-and-drones/",
+      "source": "Euractiv",
+      "published_at": "2026-05-23T04:00:10+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "ramps up Greenland defence with new Arctic patrol ships"
+    },
     {
       "id": "c174b12eefaa1ee94a41cb8663ff07d69c55bfe8",
       "title": "From charm offensive to backlash: US consulate opening in Greenland met with protests",
@@ -21,6 +32,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "US consulate opening in Greenland met with protests"
+    },
+    {
+      "id": "0d9ad9b224e28a9519b6972b418fed3d0d14ed4f",
+      "title": "In Greenland, Protesters Denounce Opening of Bigger U.S. Consulate",
+      "summary": "“Go away!” demonstrators yelled outside the newly opened diplomatic outpost, as guests inside nibbled on musk ox hot dogs.",
+      "url": "https://www.nytimes.com/2026/05/21/world/europe/greenland-protests-us-consulate.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-21T22:26:39+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "In Greenland, Protesters Denounce Opening of Bigger U.S. Consulate"
     },
     {
       "id": "e01ff9d93221466536fb5b02690c504f3ca18881",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "still wants Greenland"
-    },
-    {
-      "id": "5c32b857de0bfc8f3d69fcb82ab36ec66f8e550e",
-      "title": "‘I want to make myself obsolete’: the MP fighting for Greenland’s self-governance",
-      "summary": "Qarsoq Høegh-Dam aims to use his seat in Danish parliament to shift power from Copenhagen to NuukIt’s not the standard motto for a newly elected parliamentarian, but Qarsoq Høegh-Dam is adamant: if he does his job proper…",
-      "url": "https://www.theguardian.com/world/2026/apr/08/mp-greenland-danish-parliament-self-governance",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-08T08:00:26+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "MP fighting for Greenland’s self-governance"
-    },
-    {
-      "id": "b7d86c958e15fe4e7f077a6cc09d17f76a5e7dd0",
-      "title": "Von der Leyen’s Greenland trip delayed by Danish coalition talks",
-      "summary": "Brussels’ push to deepen ties with Nuuk – and signal its presence after Trump’s remarks – has been postponed",
-      "url": "https://www.euractiv.com/news/hold-hold-von-der-leyens-greenland-trip-delayed-by-danish-coalition-talks/",
-      "source": "Euractiv",
-      "published_at": "2026-04-03T04:00:52+00:00",
-      "sentiment": "negative",
-      "confidence": 0.4,
-      "evidence": "Greenland trip delayed"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-22T12:02:12Z"
+  "last_updated": "2026-05-23T10:50:02Z"
 }

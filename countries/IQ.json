@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 71,
+  "score": 70,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 95,
+  "trend": -1,
+  "sources": 96,
   "sentiment": {
     "positive": 2,
     "neutral": 50,
-    "negative": 43
+    "negative": 44
   },
   "latest_articles": [
+    {
+      "id": "48876d147139052d788643f2b50565a11cfb53f6",
+      "title": "'Revenge matter of time': IRGC-trained Iraqi arrested over assassination plot against Donald Trump's daughter Ivanka",
+      "summary": "An IRGC-trained operative, allegedly seeking revenge for Qasem Soleimani's death, was arrested in Turkey and extradited to the US. Mohammad Baqer Saad Dawood Al-Saadi is accused of plotting to assassinate Ivanka Trump, e…",
+      "url": "https://timesofindia.indiatimes.com/world/us/revenge-matter-of-time-irgc-trained-iraqi-arrested-over-assassination-plot-against-donald-trumps-daughter-ivanka/articleshow/131271352.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-05-23T03:19:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "assassination plot against Donald Trump's daughter"
+    },
     {
       "id": "b1e87aa327e022e0801964d226d50482ab3961e8",
       "title": "‘Disposable’ operatives for hire are a new menace for western countries",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.5,
       "evidence": "American Journalist Abducted in Iraq, Is Freed"
-    },
-    {
-      "id": "3a99b2cee721148cb8286fa82b0d02269052bcf2",
-      "title": "US journalist Shelly Kittleson released after kidnap in Iraq, officials say",
-      "summary": "US officials say they are now \"working to support her safe departure from Iraq\".",
-      "url": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-08T01:44:26+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "US journalist Shelly Kittleson released after kidnap in Iraq"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-22T12:02:12Z"
+  "last_updated": "2026-05-23T10:50:02Z"
 }
