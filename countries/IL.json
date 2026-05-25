@@ -4,13 +4,57 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 1320,
+  "sources": 1326,
   "sentiment": {
-    "positive": 38,
-    "neutral": 386,
-    "negative": 904
+    "positive": 40,
+    "neutral": 388,
+    "negative": 906
   },
   "latest_articles": [
+    {
+      "id": "2fd016a4481d91bc37645d8eb6d86966c5adac6e",
+      "title": "Australian flotilla activists arrive home alleging sexual assault and beatings in Israeli detention",
+      "summary": "Activists detained by Israel after attempting to deliver aid to Gaza as part of Global Sumud Flotilla arrive in AustraliaGet our breaking news email, free app or daily news podcastAustralians returning home from detentio…",
+      "url": "https://www.theguardian.com/world/2026/may/25/stripped-naked-and-beaten-australian-flotilla-activists-arrive-home-after-alleged-torture-in-israeli-detention-ntwnfb",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-25T09:12:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "alleging sexual assault and beatings in Israeli detention"
+    },
+    {
+      "id": "cf966af79c777ff4ee9b042314f28fad90a1def9",
+      "title": "Rubio Rebukes Hezbollah Chief Over Call for Lebanese to ‘Take to the Streets’",
+      "summary": "The militant leader, in a speech, had criticized the Lebanese government for engaging in direct talks with Israel.",
+      "url": "https://www.nytimes.com/2026/05/24/world/middleeast/naim-qassem-hezbollah-rubio.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-25T02:22:26+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "criticized the Lebanese government for engaging in direct talks with Israel"
+    },
+    {
+      "id": "d193dda532c858c3c5d87d57410abb2af42a06af",
+      "title": "Israeli strikes pound Lebanon despite signs US and Iran are close to peace deal",
+      "summary": "Some casualties after attacks on multiple locations in south and east of country on Sunday, state media reportsIsraeli strikes hit southern and eastern Lebanon on Sunday, a day after 11 people were killed in a single rai…",
+      "url": "https://www.theguardian.com/world/2026/may/24/israeli-strikes-pound-lebanon",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-24T19:44:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli strikes pound Lebanon despite signs US and Iran are close to peace deal"
+    },
+    {
+      "id": "71b4f7cf58dec198f2fdd3ab92acbc7e384ba8c0",
+      "title": "Israeli Leader Says He and Trump Agree On Blocking an Iranian Nuclear Weapon",
+      "summary": "Analysts said Israel was worried that a potential agreement would not significantly degrade Iran’s nuclear and missile capabilities.",
+      "url": "https://www.nytimes.com/2026/05/24/world/middleeast/iran-deal-israel-reaction.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-24T19:04:04+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Israeli Leader Says He and Trump Agree On Blocking an Iranian Nuclear Weapon"
+    },
     {
       "id": "3b2e85144ca78c91b39413721c2a89438d441f86",
       "title": "What is included in the Iran ceasefire deal?",
@@ -54,6 +98,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Middle East crisis: live updates"
+    },
+    {
+      "id": "59e83a3f1dbf016be2a0377899edf422da3c16ac",
+      "title": "From Hormuz to nuclear talks - what to expect in the 60-day US-Iran ceasefire proposal",
+      "summary": "A potential 60-day ceasefire extension between the US and Iran is nearing, aiming to reopen the Strait of Hormuz and allow Iranian oil exports. This deal, brokered by Pakistan, includes lifting US port blockades and sanc…",
+      "url": "https://timesofindia.indiatimes.com/world/us/from-hormuz-to-nuclear-talks-what-to-expect-in-the-60-day-us-iran-ceasefire-proposal/articleshow/131288866.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-05-24T05:02:57+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "ending the Israel-Hezbollah conflict"
     },
     {
       "id": "7e46f170fb5be60964bdc89175c068ae66cdae95",
@@ -122,6 +177,17 @@
       "evidence": "Gaza flotilla activists allege abuse by Israeli forces"
     },
     {
+      "id": "dc324d8024bbcb76c9fcce6df744d3a4b2c6bc1c",
+      "title": "Albanese joins coalition of nations calling for an end to Israeli settlement expansion in the West Bank",
+      "summary": "Australia joins the UK, Italy, France, Germany, Canada, Norway, the Netherlands and New Zealand in condemning illegal settlementsGet our breaking news email, free app or daily news podcastThe Israeli government is underm…",
+      "url": "https://www.theguardian.com/australia-news/2026/may/23/albanese-joins-coalition-of-nations-calling-for-an-end-to-israeli-settlement-expansion-in-the-west-bank-ntwnfb",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-23T06:03:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Israeli government is undermining stability in the West Bank as settler violence"
+    },
+    {
       "id": "b587efcfe37980bead0bdfc21137649c488b0ec2",
       "title": "Once Trump’s Co-Pilot Against Iran, Netanyahu Is Now a Mere Passenger",
       "summary": "A partner in the war, Israel has been largely left out of the peace talks, a humbling setback for its prime minister with significant risks for the country.",
@@ -164,74 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "abuse of detained Palestinians something of a macabre calling card"
-    },
-    {
-      "id": "4142bf49b58cc8e5f0ea57e3f950e573f3f01090",
-      "title": "Uranium and control of strait of Hormuz key as talks to end US-Iran war continue",
-      "summary": "Pakistani mediators believe permanent ceasefire within reach although major points of disagreement remainFuture control over the strait of Hormuz and a demand from Washington that Tehran export its stockpile of highly en…",
-      "url": "https://www.theguardian.com/world/2026/may/22/uranium-strait-of-hormuz-us-iran-war-talks-pakistan",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-22T11:24:56+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Israel and Iran each fear the other is about to launch a surprise attack"
-    },
-    {
-      "id": "aaf9d4876e3ffa1d6676cb8182eb7ce80cad91e7",
-      "title": "Progressive Democrats criticize 2024 election autopsy for silence on Gaza | First Thing",
-      "summary": "The 192-page report does not mention Gaza or Joe Biden’s age. Plus, is the world heading for another Ebola crisis?Don’t already get First Thing in your inbox? Sign up hereGood morning.On Thursday, the Democratic party pu…",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/first-thing-progressive-democrats-2024-election-autopsy-silence-gaza",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-22T10:36:14+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Progressive Democrats criticize 2024 election autopsy for silence on Gaza"
-    },
-    {
-      "id": "4043656f9d3cc6497fb2b8a2f5750c6171890cde",
-      "title": "In West Bank, Latest Victim of Israeli Settler Violence Shocks in a New Way",
-      "summary": "A video of a Palestinian family’s dog being savagely beaten has spread widely in the days after the attack.",
-      "url": "https://www.nytimes.com/2026/05/22/world/middleeast/settler-attack-dog-west-bank.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-22T09:02:11+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Latest Victim of Israeli Settler Violence Shocks in a New Way"
-    },
-    {
-      "id": "98109511eed0064689c321cd3bf731182e3a2a20",
-      "title": "Inside Israel's High-Tech 'Kill-Or-Capture' Mission After October 7 Attack",
-      "summary": "In the assault, around 1,200 people were killed, and 251 others were taken hostage",
-      "url": "https://www.ndtv.com/world-news/inside-israel-s-secret-mission-thousands-linked-to-october-7-attack-on-kill-or-capture-list-11531836#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-05-22T07:51:03+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Inside Israel's High-Tech 'Kill-Or-Capture' Mission After October 7 Attack"
-    },
-    {
-      "id": "ab5ff63f39066afdaec39a3d240e614be0826ae7",
-      "title": "Friday briefing: ​As Israel’s coalition collapses, can its prime minister hang on to power?",
-      "summary": "In today’s newsletter: As ​the polls tighten a​​round Benjamin Netanyahu, the coming months may redefine Israel’s political order without resolving its most entrenched conflictsGood morning. On Wednesday, Israeli legisla…",
-      "url": "https://www.theguardian.com/world/2026/may/22/friday-briefing-as-israels-coalition-collapses-can-its-prime-minister-hang-on-to-power",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-22T05:44:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Netanyahu has orchestrated a campaign of violence in Gaza"
-    },
-    {
-      "id": "9688713c726aab23957aba9a651d46facabe0fd7",
-      "title": "Gaza flotilla activists deported from Israel as backlash over treatment grows",
-      "summary": "A video showing a far-right Israeli minister taunting activists who were kneeling with their hands tied behind their backs has been widely condemned.",
-      "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-22T00:21:24+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "far-right Israeli minister taunting activists who were kneeling"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-24T10:55:04Z"
+  "last_updated": "2026-05-25T12:46:47Z"
 }

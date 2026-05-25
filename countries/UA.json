@@ -1,16 +1,38 @@
 {
   "country": "UA",
-  "score": 24,
+  "score": 30,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -3,
-  "sources": 669,
+  "trend": 6,
+  "sources": 642,
   "sentiment": {
-    "positive": 263,
-    "neutral": 171,
-    "negative": 236
+    "positive": 253,
+    "neutral": 166,
+    "negative": 224
   },
   "latest_articles": [
+    {
+      "id": "58a52f535691101c2a1cd08845f1db6025eed40e",
+      "title": "In Ukraine, a Divisive 20th-Century Hero Comes Home",
+      "summary": "Andriy Melnyk, criticized as a Nazi collaborator and lionized as an anti-Soviet resistance leader, was given state honors for his reburial near Kyiv.",
+      "url": "https://www.nytimes.com/2026/05/24/world/europe/ukraine-melnyk-nationalist-collaborator.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-24T23:35:33+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Divisive 20th-Century Hero Comes Home"
+    },
+    {
+      "id": "3d5c82614b622c48e5c8a6412f48e52c7d04cd8e",
+      "title": "Russia’s overnight barrage on Ukraine includes use of powerful Oreshnik missile",
+      "summary": "At least two people died in Kyiv, which faced the brunt of the attack, Ukrainian officials said. It was one of the biggest overnight aerial assaults since the beginning of Russia's invasion.",
+      "url": "https://www.washingtonpost.com/world/2026/05/24/russian-attack-kills-4-ukraine-uses-oreshnik-missile/",
+      "source": "World (Washington post)",
+      "published_at": "2026-05-24T16:06:26+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "two people died in Kyiv, which faced the brunt of the attack"
+    },
     {
       "id": "be655b4872fd82cc0ff6c47dcb1685ec700fd0a4",
       "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
@@ -54,6 +76,17 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Ballistic Missile Pounds Kyiv"
+    },
+    {
+      "id": "b74275f788cc9add106d949ce5d2105aa2d6ce5b",
+      "title": "Russia Preparing Strike On Ukraine Using Hypersonic 'Oreshnik' Missile",
+      "summary": "Zelensky said that Kyiv counts on a response from the world.",
+      "url": "https://www.ndtv.com/world-news/russia-preparing-strike-on-ukraine-using-hypersonic-oreshnik-missile-11538540#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-05-24T04:52:41+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Strike On Ukraine Using Hypersonic 'Oreshnik' Missile"
     },
     {
       "id": "4934340eb07c9fe45a61331309601f23beae98ea",
@@ -109,6 +142,28 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Ukrainian Drones"
+    },
+    {
+      "id": "7ddf2e9d08fa7e3703162c431336eab1f2fab6fb",
+      "title": "Ukraine's \"Call Of Duty\" Style War System Rewards Troops For Russian Kills",
+      "summary": "Frontline Ukrainian units are ranked on a leaderboard much like the popular game Call of Duty.",
+      "url": "https://www.ndtv.com/world-news/ukraines-call-of-duty-style-war-system-rewards-troops-for-russian-kills-11536435#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-05-23T08:09:51+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukraine's \"Call Of Duty\" Style War System Rewards Troops For Russian Kills"
+    },
+    {
+      "id": "e030040444a36b6dba650b93bf5990eb72549d7b",
+      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "summary": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-23T07:44:14+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukraine says it struck Russia's elite Rubicon drone military unit"
     },
     {
       "id": "0d471cbf191a98b30c2db8445f73cf9fa57de6b0",
@@ -175,63 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Canada, Baltic allies pledge stronger NATO cooperation and back Ukraine"
-    },
-    {
-      "id": "a928b55155eedbbf360ecbaa25eb09780797f347",
-      "title": "Baltics on alert over Ukrainian drones and Russian electronic warfare - EL PAÍS English",
-      "summary": "Baltics on alert over Ukrainian drones and Russian electronic warfare&nbsp;&nbsp;EL PAÍS EnglishUkraine's Baltic allies unsettled by repeated drone incursions&nbsp;&nbsp;BBCRussian jamming blamed after Nato jet downs Ukr…",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2ZnV2RTc01TLURRSDFrY3lMLW9mU3ZPR0I5aWswcjR3UEo3bXBhLW9USHllenNNOS1rNG9NcGFWMFlxS1hBU1JyWTlReUgyOTdkXzVhaHZ1eU5pYnhLdnpmeVRveGE5Qk1LN0FjQ3c3cF9wS0Ria2h4M1drYk5RRjg4WC1RV25aOVRIRnQ1ZzIwdEtTci1lNEp4bF9IcXNDbnZub3Q4QjYxdXI4MXhEelQ4Q0gzXzhTcTZIV3FreTZISF9G0gHYAUFVX3lxTE9sX0s0T1AtUjAtSW10Z0EtcHhEX3lGcDkycm1sXzd4NzJQSXdFM1VEZmpoMVNMcVpBWE90MnNlRHJpYTNjRE1RdWNKMWowUC1oZjFvUW9lZTlFeC1wbExkeGl2Nmh0T2tSM3RRS0k3c3FNRVB0VUZLd1RHLWNoQ01SZFNuLWxfVXpNTDBIRENkNWljb3VtMVY5eUc5NTBRcHlrQXVJYUdvVEZKZ2Y4REhvTXlxRFFZZXVTdGtDQkw4cHV0eUNhU3BmT2xUa3lmRHBmRkZxVEllQg?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-21T12:49:26+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Europe faces a Ukrainian drone problem as Kyiv targets Russian oil exports"
-    },
-    {
-      "id": "4c9845bd10981089888ffffad3f15a7c948341ac",
-      "title": "Latvia reiterates its position on Ukrainian drones",
-      "summary": "While another&nbsp;drone incursion warning remained in force on Thursday afternoon in eastern districts of Latvia, the Ministry of Foreign Affairs issued its latest statement in response to Russian disinformation efforts…",
-      "url": "https://eng.lsm.lv/article/politics/diplomacy/21.05.2026-latvia-reiterates-its-position-on-ukrainian-drones.a648178/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-05-21T12:34:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Ukrainian drones"
-    },
-    {
-      "id": "2b05e1e5aaec1cba1f4d2b4406510f64ed337273",
-      "title": "Many Nato countries not spending enough to support Ukraine, says Rutte – Europe live",
-      "summary": "Nato chief delivers speech in Sweden as he hints at further changes to US military commitments to EuropeJust as Pavel was speaking in Prague, Russian foreign ministry spokesperson Maria Zakharova told reporters that Ukra…",
-      "url": "https://www.theguardian.com/world/live/2026/may/21/czech-republic-petr-pavel-ukraine-baltics-drones-russia-nato-security-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-21T11:55:17+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukraine has demonstrated not only determination and heroism"
-    },
-    {
-      "id": "7aeddb68bee0bd39cb305cbab6a6624cb36e2454",
-      "title": "NATO ministers to discuss continuous support to Ukraine ahead of Ankara summit",
-      "summary": "Some allies have asked for more transparency on what countries commit to Ukraine",
-      "url": "https://www.euractiv.com/news/nato-ministers-to-discuss-continuous-support-to-ukraine-ahead-of-ankara-summit/",
-      "source": "Euractiv",
-      "published_at": "2026-05-21T10:38:53+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "continuous support to Ukraine"
-    },
-    {
-      "id": "232a1e72d28a8a631737082144978ef8c1f32bf2",
-      "title": "‘Ukraine owes an apology’: Athens anger over sea drone incident",
-      "summary": "The drone, said to be carrying 100kg of explosive, is believed to have entered Greek territorial waters from an area close to Sicily, Italy after a failure in its remote-control system",
-      "url": "https://www.euractiv.com/news/ukraine-owes-an-apology-athens-fumes-over-sea-drone-incident/",
-      "source": "Euractiv",
-      "published_at": "2026-05-21T10:38:38+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "‘Ukraine owes an apology’"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-24T10:55:04Z"
+  "last_updated": "2026-05-25T12:46:47Z"
 }

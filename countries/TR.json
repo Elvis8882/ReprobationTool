@@ -1,16 +1,38 @@
 {
   "country": "TR",
-  "score": 91,
+  "score": 90,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 84,
+  "trend": -1,
+  "sources": 86,
   "sentiment": {
     "positive": 9,
-    "neutral": 58,
-    "negative": 17
+    "neutral": 59,
+    "negative": 18
   },
   "latest_articles": [
+    {
+      "id": "4fdd0598762af96854f1b1840136381dd688e237",
+      "title": "‘A bridge, not an obstacle’: is Armenia a new crossroads between east and west?",
+      "summary": "As former Soviet Republic goes to the polls, it finds itself in a strategic tug of war between Russia, the US, Turkey, Europe and AzerbaijanTo describe Yerevan, a charming city of liberal values encased in imposing Sovie…",
+      "url": "https://www.theguardian.com/world/2026/may/25/armenia-election-crossroads-between-east-west",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-25T07:40:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "evidence": "tug of war between Turkey"
+    },
+    {
+      "id": "ba6aac269880816cf31109e42f5a7b863c085d53",
+      "title": "Turkish riot police storm opposition offices after leaders ousted",
+      "summary": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders.",
+      "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-24T19:49:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Turkish riot police storm opposition offices after leaders ousted"
+    },
     {
       "id": "15119f56105f6b2e6197b48b33ea5d19d633ea11",
       "title": "'Beaten, Tased': Gaza Flotilla Activists Allege Abuse By Israeli Forces In Detention",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Turkey’s foreign minister, Hakan Fidan, will visit Qatar later today"
-    },
-    {
-      "id": "c18fb65294dc503c22c13348a1abd830c6bf5534",
-      "title": "All About Turkey's New 'Yldrmhan' Missile That Can 'Hit' US Mainland",
-      "summary": "Turkey's longest-range missile is currently the Tayfun, which has reached 600 km in tests",
-      "url": "https://www.ndtv.com/world-news/turkey-s-new-y-ld-r-mhan-missile-unveiling-faces-scrutiny-after-ai-video-shows-us-targets-11471497#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-05-09T12:49:28+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Turkey's longest-range missile is currently the Tayfun"
-    },
-    {
-      "id": "5f05f3d50db3735798bd6947ffd5f806143e3499",
-      "title": "Berlin draws red line on Turkey arms use in fraught Athens talks",
-      "summary": "As Washington’s rift with Berlin spills into the Aegean, Germany’s foreign minister seeks to reassure Greece while preserving a delicate balance with Ankara over defence ties",
-      "url": "https://www.euractiv.com/news/berlin-draws-red-line-on-turkey-arms-use-during-fraught-athens-talks/",
-      "source": "Euractiv",
-      "published_at": "2026-05-05T04:00:04+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "preserving a delicate balance with Ankara"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-24T10:55:04Z"
+  "last_updated": "2026-05-25T12:46:47Z"
 }

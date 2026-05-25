@@ -3,12 +3,12 @@
   "score": 99,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 305,
+  "trend": 0,
+  "sources": 301,
   "sentiment": {
     "positive": 33,
-    "neutral": 255,
-    "negative": 17
+    "neutral": 250,
+    "negative": 18
   },
   "latest_articles": [
     {
@@ -20,6 +20,17 @@
       "published_at": "2026-05-23T10:26:13+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "c0c45a1276fed622fc6c8215acc8e849e81b6ca3",
+      "title": "Europeans Remain Wary After Trump Promises to Send Troops to Poland",
+      "summary": "President Trump said he would send 5,000 troops to Poland, part of a back-and-forth that has left European leaders reeling.",
+      "url": "https://www.nytimes.com/2026/05/22/world/europe/poland-troops-trump.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-22T21:43:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "left European leaders reeling"
     },
     {
       "id": "6cf21a12c973b1dff5ae721824145e7a0911b80e",
@@ -208,18 +219,8 @@
       "published_at": "2026-05-20T11:26:42+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "933c19c8198cbfe677945e7d1773af4a7a77a188",
-      "title": "EU agrees to implement US trade deal struck last summer",
-      "summary": "MEPs had twice frozen ratification process in protest at Trump’s threats to increase tariffs and take control of GreenlandThe EU has finally agreed to implement its trade deal with the US after five hours of talks betwee…",
-      "url": "https://www.theguardian.com/world/2026/may/20/eu-european-union-to-implement-us-trade-deal",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-20T10:07:13+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-24T10:55:04Z"
+  "last_updated": "2026-05-25T12:46:47Z"
 }

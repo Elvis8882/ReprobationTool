@@ -3,14 +3,25 @@
   "score": 83,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
-  "sources": 391,
+  "trend": 0,
+  "sources": 387,
   "sentiment": {
     "positive": 45,
-    "neutral": 298,
+    "neutral": 294,
     "negative": 48
   },
   "latest_articles": [
+    {
+      "id": "fa7f7b8e26e28f23b41d678afafaa44b838747b1",
+      "title": "White House Tells Congo’s Soccer Team to Isolate, Citing Ebola Outbreak",
+      "summary": "The team, now in Belgium, must isolate there for 21 days or risk being denied permission to come to Houston for the World Cup, an official said.",
+      "url": "https://www.nytimes.com/2026/05/23/world/africa/congo-soccer-ebola-world-cup.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-23T10:44:38+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "The team, now in Belgium"
+    },
     {
       "id": "f442bce6f34119748a4325437ff67d5f91ca5a12",
       "title": "UK needs ‘national consensus’ over rejoining EU, David Miliband says",
@@ -212,18 +223,8 @@
       "published_at": "2026-05-20T11:26:42+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "933c19c8198cbfe677945e7d1773af4a7a77a188",
-      "title": "EU agrees to implement US trade deal struck last summer",
-      "summary": "MEPs had twice frozen ratification process in protest at Trump’s threats to increase tariffs and take control of GreenlandThe EU has finally agreed to implement its trade deal with the US after five hours of talks betwee…",
-      "url": "https://www.theguardian.com/world/2026/may/20/eu-european-union-to-implement-us-trade-deal",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-20T10:07:13+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-24T10:55:04Z"
+  "last_updated": "2026-05-25T12:46:47Z"
 }

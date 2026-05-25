@@ -1,14 +1,14 @@
 {
   "country": "SE",
-  "score": 94,
+  "score": 95,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 290,
+  "trend": 1,
+  "sources": 286,
   "sentiment": {
     "positive": 14,
-    "neutral": 259,
-    "negative": 17
+    "neutral": 256,
+    "negative": 16
   },
   "latest_articles": [
     {
@@ -63,6 +63,17 @@
       "published_at": "2026-05-22T16:55:00+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "982d84f799b06e364a22b398579574d6e2076238",
+      "title": "NATO allies grapple with U.S. pullback, confusion over its military plans",
+      "summary": "As Secretary of State Marco Rubio meets with NATO foreign ministers in Sweden, the focus is on the U.S. moving to reduce its military footprint in Europe.",
+      "url": "https://www.washingtonpost.com/world/2026/05/22/nato-allies-grapple-with-us-pullback-confusion-over-its-military-plans/",
+      "source": "World (Washington post)",
+      "published_at": "2026-05-22T16:04:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "meets with NATO foreign ministers in Sweden"
     },
     {
       "id": "1eee80fcf12704dc67dd4994fcf8f78f6f593a0f",
@@ -207,18 +218,8 @@
       "published_at": "2026-05-20T10:07:13+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "102fd5477d9b597ed8a7d43f93cb8b6d2f4701b3",
-      "title": "Can Brussels make ‘unsentimental’ foreign aid a reality?",
-      "summary": "The European Commission's €200 billion plan makes aid more flexible and geopolitical, raising concerns over needs-based development policy",
-      "url": "https://www.euractiv.com/news/can-brussels-make-unsentimental-foreign-aid-a-reality/",
-      "source": "Euractiv",
-      "published_at": "2026-05-20T10:00:54+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-24T10:55:04Z"
+  "last_updated": "2026-05-25T12:46:47Z"
 }

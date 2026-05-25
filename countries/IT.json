@@ -1,16 +1,27 @@
 {
   "country": "IT",
-  "score": 92,
+  "score": 93,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 428,
+  "trend": 1,
+  "sources": 425,
   "sentiment": {
-    "positive": 31,
-    "neutral": 371,
+    "positive": 32,
+    "neutral": 367,
     "negative": 26
   },
   "latest_articles": [
+    {
+      "id": "fe3df66580450950a8d221a5525b41876383cb41",
+      "title": "Rare Rubens notebook sheet goes on display in artist’s home city of Antwerp",
+      "summary": "Double-sided page featuring a sketch and text sheds new light on the baroque master and his time living in RomeMore than 400 years ago, the up and coming Flemish painter Peter Paul Rubens toured the streets of Rome, note…",
+      "url": "https://www.theguardian.com/world/2026/may/25/rare-rubens-notebook-sheet-goes-on-display-in-artists-home-city-of-antwerp",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-25T10:00:24+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "time living in Rome"
+    },
     {
       "id": "268e59e4d1ba07ba03212b249df507a40e7427ca",
       "title": "ERC: Estonian Vaher proving excellent in Sweden - Federation Internationale de l'Automobile",
@@ -42,6 +53,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "toxic waste in Italy’s ‘Land of Fires’...criminal racket run by the mafia"
+    },
+    {
+      "id": "dc324d8024bbcb76c9fcce6df744d3a4b2c6bc1c",
+      "title": "Albanese joins coalition of nations calling for an end to Israeli settlement expansion in the West Bank",
+      "summary": "Australia joins the UK, Italy, France, Germany, Canada, Norway, the Netherlands and New Zealand in condemning illegal settlementsGet our breaking news email, free app or daily news podcastThe Israeli government is underm…",
+      "url": "https://www.theguardian.com/australia-news/2026/may/23/albanese-joins-coalition-of-nations-calling-for-an-end-to-israeli-settlement-expansion-in-the-west-bank-ntwnfb",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-23T06:03:37+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Italy, France, Germany, Canada, Norway, the Netherlands and New Zealand in condemning illegal settlements"
     },
     {
       "id": "d90efff65b0282e9375a9120caadb9d0d6d54e40",
@@ -199,28 +221,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Italian Divers"
-    },
-    {
-      "id": "3267e075c23df227b638e4330a6d942bcb6fead8",
-      "title": "Brussels ‘remains committed’ after US, UK lift Russia oil sanctions",
-      "summary": "Kremlin must not benefit from Iran energy shock, European Commission says",
-      "url": "https://www.euractiv.com/news/brussels-remains-committed-after-us-uk-lift-russia-oil-sanctions/",
-      "source": "Euractiv",
-      "published_at": "2026-05-20T12:06:18+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "151467c58b47d2d9c14a76c7eeb1031bcfef5745",
-      "title": "Trump tightens grip on GOP after Massie’s defeat in Kentucky primary – US politics live",
-      "summary": "Republican Congressman defeated by Trump-backed challenger in most expensive House primary in historySign up for the Breaking News US emailThe EU has finally agreed to implement a trade deal with the US after hours of ta…",
-      "url": "https://www.theguardian.com/us-news/live/2026/may/20/donald-trump-republicans-midterms-primaries-kentucky-redistricting-raul-castro-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-20T11:26:42+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-24T10:55:04Z"
+  "last_updated": "2026-05-25T12:46:47Z"
 }

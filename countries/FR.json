@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 631,
+  "sources": 622,
   "sentiment": {
-    "positive": 92,
-    "neutral": 481,
+    "positive": 91,
+    "neutral": 473,
     "negative": 58
   },
   "latest_articles": [
+    {
+      "id": "90e7c420fd4a93a8f7d8fe1e072c557d35bddc41",
+      "title": "Weather tracker: flash floods in New York and a heat dome in Europe",
+      "summary": "Rain overwhelms sewer system in parts of US city, while temperatures in France break May recordNew York City saw flash flooding on Wednesday, as large parts of Brooklyn and Queens received about 2in (50mm) of rainfall in…",
+      "url": "https://www.theguardian.com/environment/2026/may/25/weather-tracker-flash-floods-new-york-heat-dome-europe",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-25T08:08:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "temperatures in France break May record"
+    },
     {
       "id": "6c04eeeae88b9502b52cee5e0d8c6f6b5c7add88",
       "title": "France bans Israel minister Ben-Gvir over mocking detained Gaza flotilla activists",
@@ -86,6 +97,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "French aid cuts will take ‘devastating toll’ on most vulnerable"
+    },
+    {
+      "id": "dc324d8024bbcb76c9fcce6df744d3a4b2c6bc1c",
+      "title": "Albanese joins coalition of nations calling for an end to Israeli settlement expansion in the West Bank",
+      "summary": "Australia joins the UK, Italy, France, Germany, Canada, Norway, the Netherlands and New Zealand in condemning illegal settlementsGet our breaking news email, free app or daily news podcastThe Israeli government is underm…",
+      "url": "https://www.theguardian.com/australia-news/2026/may/23/albanese-joins-coalition-of-nations-calling-for-an-end-to-israeli-settlement-expansion-in-the-west-bank-ntwnfb",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-23T06:03:37+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "France, Germany, Canada, Norway, the Netherlands and New Zealand in condemning illegal settlements"
     },
     {
       "id": "3d76aafa29016d5846ce2c0447f1c5646fa67ae5",
@@ -203,29 +225,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "France must address issue of reparations for its role in slave trade"
-    },
-    {
-      "id": "d71cf3ba3d055419a78c2ddf95a23658a2636b5a",
-      "title": "Air France Flight to U.S. Is Diverted to Montreal Over Congolese Passenger Amid Ebola Fears",
-      "summary": "An Air France plane was sent to Montreal because a passenger from the Democratic Republic of Congo was on board. The U.S. has closed its borders to recent visitors to the African country.",
-      "url": "https://www.nytimes.com/2026/05/21/world/africa/air-france-ebola-flight.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-21T11:58:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Air France Flight to U.S. Is Diverted to Montreal"
-    },
-    {
-      "id": "b9fcda4eec1c7692434c795d61e2e1c7f36ffe7f",
-      "title": "EP Conference of Presidents expresses full solidarity with the Baltic states | Atualidade | Parlamento Europeu - European Parliament",
-      "summary": "EP Conference of Presidents expresses full solidarity with the Baltic states | Atualidade | Parlamento Europeu&nbsp;&nbsp;European ParliamentUS warns Russia after Moscow threatens Latvia – as it happened&nbsp;&nbsp;The G…",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcWZ5ejVmSDZFeG5tM08yQjAzOFpMYzRZdXBrNUZvTkVjMnVqWDcwdDVfNmtMMU9ZeWR3cXpLY3pVLWJGb1RxNktmdV9wOHI0SlZMdk1JcU9seXNqeFJDbDBoQ3VJRzh0aV9McjZIQ2FmQnRPb1BBN2VFeldkeFpZeFRCZGRIeFQ2aHNpS2JIS3QxYkpMTGdJcmJoTlNVYU93STZxbmcwNkJTVkIxY1ZBX3ZSUDFsLWt2VWlaWHZ1Z1BfcmlFTlk4V3ZhNWZLaXAxcmgxS3FjZXg5c1U?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-21T10:28:30+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-24T10:55:04Z"
+  "last_updated": "2026-05-25T12:46:47Z"
 }

@@ -4,13 +4,35 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 367,
+  "sources": 368,
   "sentiment": {
     "positive": 12,
-    "neutral": 120,
+    "neutral": 121,
     "negative": 236
   },
   "latest_articles": [
+    {
+      "id": "cf966af79c777ff4ee9b042314f28fad90a1def9",
+      "title": "Rubio Rebukes Hezbollah Chief Over Call for Lebanese to ‘Take to the Streets’",
+      "summary": "The militant leader, in a speech, had criticized the Lebanese government for engaging in direct talks with Israel.",
+      "url": "https://www.nytimes.com/2026/05/24/world/middleeast/naim-qassem-hezbollah-rubio.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-25T02:22:26+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Rubio Rebukes Hezbollah Chief Over Call for Lebanese to ‘Take to the Streets’"
+    },
+    {
+      "id": "d193dda532c858c3c5d87d57410abb2af42a06af",
+      "title": "Israeli strikes pound Lebanon despite signs US and Iran are close to peace deal",
+      "summary": "Some casualties after attacks on multiple locations in south and east of country on Sunday, state media reportsIsraeli strikes hit southern and eastern Lebanon on Sunday, a day after 11 people were killed in a single rai…",
+      "url": "https://www.theguardian.com/world/2026/may/24/israeli-strikes-pound-lebanon",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-24T19:44:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli strikes pound Lebanon despite signs US and Iran are close to peace deal"
+    },
     {
       "id": "5e0ca9ef448ec09f5f67c00d56f075002a328271",
       "title": "Middle East crisis live: Rubio sees initial progress on reopening Hormuz after Trump claims Iran deal ‘largely negotiated’",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "statue of the Virgin Mary in southern Lebanon"
-    },
-    {
-      "id": "b25f0d0ede1b7a342cccd64e4e685b155f2eb7b3",
-      "title": "Lebanese Mourn Eight Members of One Family Killed in Israeli Strike",
-      "summary": "Israel has escalated attacks on Lebanon since Thursday, further unraveling a truce in its war with Hezbollah. Among those killed on Saturday was a 6-month-old infant, relatives said.",
-      "url": "https://www.nytimes.com/2026/05/10/world/middleeast/lebanon-family-funeral-israel-strikes.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-10T19:46:41+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Lebanese Mourn Eight Members of One Family"
-    },
-    {
-      "id": "bfaa35621ad2208aee0ab57255617e1921c78eca",
-      "title": "Lebanon says Israeli strikes killed 39",
-      "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
-      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-09T21:23:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Lebanon says Israeli strikes killed 39"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-24T10:55:04Z"
+  "last_updated": "2026-05-25T12:46:47Z"
 }
