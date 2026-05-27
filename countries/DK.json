@@ -1,16 +1,47 @@
 {
   "country": "DK",
-  "score": 95,
+  "score": 96,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 294,
+  "trend": 1,
+  "sources": 291,
   "sentiment": {
     "positive": 9,
-    "neutral": 273,
-    "negative": 12
+    "neutral": 271,
+    "negative": 11
   },
   "latest_articles": [
+    {
+      "id": "58ef65f04d677033908398604f2c4339a839a68e",
+      "title": "Flying Tiger snapped up by Modella Capital amid fears for its future",
+      "summary": "UK private equity investor with reputation for hard-nosed restructuring says it is backing existing managementBusiness live – latest updatesFlying Tiger is the latest retailer to be snapped up by Modella Capital, the Bri…",
+      "url": "https://www.theguardian.com/business/2026/may/27/flying-tiger-acquisition-modella-capital-private-equity-tg-jones",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-27T11:19:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "The Danish company, known for its cut-price homewares"
+    },
+    {
+      "id": "1deb0e72a988282463e68d664f0d01325b0a0b82",
+      "title": "‘A Dangerous Bluff’: Carney Likens Alberta Referendum to Brexit",
+      "summary": "The Canadian prime minister, who was the governor of the Bank of England when Britain voted to leave the European Union, said the Alberta referendum on separating from Canada could backfire.",
+      "url": "https://www.nytimes.com/2026/05/25/world/canada/mark-carney-alberta-referendum-brexit.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-26T15:08:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "34fc4cf1a9eb04a329804fa64e683b630c8b4e2f",
+      "title": "‘A very dangerous bluff’: Mark Carney warns of Brexit-like regret if Alberta leaves Canada",
+      "summary": "The Canadian prime minister led the Bank of England when the U.K. left the European Union in 2020.",
+      "url": "https://www.cnbc.com/2026/05/26/alberta-leave-canada-vote-mark-carney-brexit-stay-free.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-05-26T11:01:23+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "f442bce6f34119748a4325437ff67d5f91ca5a12",
       "title": "UK needs ‘national consensus’ over rejoining EU, David Miliband says",
@@ -183,39 +214,8 @@
       "published_at": "2026-05-20T09:04:44+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "1a291010077b92d00b94bdc68fa062675c3fddb6",
-      "title": "EU clears major hurdle to finalize U.S. trade pact — and sidestep Trump tariff hikes",
-      "summary": "European Commission President Ursula von der Leyen on Wednesday welcomed a provisional agreement on legislation to remove import duties on U.S. goods.",
-      "url": "https://www.cnbc.com/2026/05/20/eu-us-trade-deal-trump-autos.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-05-20T07:19:59+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "d69c5216b0784473ff68a2944b93bf63a8ce445d",
-      "title": "Under Trump Pressure, EU Agrees To Implement US Trade Pact",
-      "summary": "Trump had warned the European Union should expect \"much higher\" tariffs",
-      "url": "https://www.ndtv.com/world-news/under-trump-pressure-eu-agrees-to-implement-us-trade-pact-11521338#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-05-20T06:25:35+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f1a36c5837aeb4848a61406d6c491bcb1d41748b",
-      "title": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
-      "summary": "Jeff Landry's visit to the territory, a semi-autonomous part of Denmark, has touched a nerve among some Greenlanders.",
-      "url": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-20T03:49:24+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "semi-autonomous part of Denmark"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-25T12:46:47Z"
+  "last_updated": "2026-05-27T12:35:28Z"
 }

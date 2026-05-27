@@ -1,0 +1,41 @@
+{
+  "id": "500befe850b7dd8638cb4e364fa8b7a8722ebefc",
+  "title": "High-Level British Spy Warns of Expanding Russia Threat",
+  "summary_full": "The director of Britain’s electronic surveillance agency warns that Russia is only getting more brazen as battlefield losses in Ukraine mount.",
+  "summary_public": "The director of Britain’s electronic surveillance agency warns that Russia is only getting more brazen as battlefield losses in Ukraine mount.",
+  "url": "https://www.nytimes.com/2026/05/26/world/europe/britain-gchq-spying-russia.html",
+  "published_at": "2026-05-27T01:44:38+00:00",
+  "source": "NYT > World News",
+  "language": "en",
+  "countries_detected": [
+    "GB",
+    "RU",
+    "UA"
+  ],
+  "countries_scored": [
+    "GB",
+    "RU",
+    "UA"
+  ],
+  "sentiment_by_country": {
+    "GB": {
+      "label": "positive",
+      "confidence": 0.9,
+      "evidence": "British Spy Warns of Expanding Russia Threat"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "Expanding Russia Threat... Russia is only getting more brazen"
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "battlefield losses in Ukraine mount"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-05-27T12:35:28+00:00",
+  "processed_at": "2026-05-27T12:35:28+00:00"
+}

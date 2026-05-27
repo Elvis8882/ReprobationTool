@@ -1,0 +1,41 @@
+{
+  "id": "34f395bd4a8d736900cbc4eddf7a9ce2efdd99ac",
+  "title": "Lebanon ceasefire falters as Trump pushes for Iran deal",
+  "summary_full": "Israel is “deepening its operation” in Lebanon, Prime Minister Benjamin Netanyahu said.",
+  "summary_public": "Israel is “deepening its operation” in Lebanon, Prime Minister Benjamin Netanyahu said.",
+  "url": "https://www.washingtonpost.com/world/2026/05/26/lebanon-ceasefire-falters-trump-pushes-iran-deal/",
+  "published_at": "2026-05-27T09:45:35+00:00",
+  "source": "World (Washington post)",
+  "language": "en",
+  "countries_detected": [
+    "IL",
+    "IR",
+    "LB"
+  ],
+  "countries_scored": [
+    "IL",
+    "IR",
+    "LB"
+  ],
+  "sentiment_by_country": {
+    "IL": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Israel is “deepening its operation” in Lebanon"
+    },
+    "IR": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Trump pushes for Iran deal"
+    },
+    "LB": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "Lebanon ceasefire falters"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-05-27T12:35:28+00:00",
+  "processed_at": "2026-05-27T12:35:28+00:00"
+}

@@ -4,13 +4,88 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 622,
+  "sources": 620,
   "sentiment": {
-    "positive": 91,
+    "positive": 90,
     "neutral": 473,
-    "negative": 58
+    "negative": 57
   },
   "latest_articles": [
+    {
+      "id": "d48911aa1a4f97d13848bed2f193d15ec4593b1a",
+      "title": "Spanish police search ruling Socialist party headquarters – Europe live",
+      "summary": "Search takes place amid intensifying focus on separate allegations of influence peddling as problems worsen for prime minister Pedro SanchezIn recent days across parts of Europe, temperatures have soared, heat records ha…",
+      "url": "https://www.theguardian.com/world/live/2026/may/27/spain-pedro-sanchez-pope-leo-heatwave-ukraine-latest-updates-europe-live-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-27T11:53:52+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Météo France, the French national weather service"
+    },
+    {
+      "id": "027ad9462dc8fb1820a1e654ce4400a00a92dfe6",
+      "title": "France probes alleged election interference by Israeli company",
+      "summary": "France's Liberation and Israel's Haaretz named companies that were allegedly responsible",
+      "url": "https://www.euractiv.com/news/france-probes-alleged-election-interference-by-israeli-company/",
+      "source": "Euractiv",
+      "published_at": "2026-05-27T05:44:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "France probes alleged election interference"
+    },
+    {
+      "id": "3d38bcfa7f6e62ca337e793e8df5daf8c962f1f5",
+      "title": "Paris School Worker Tried on Assault Charges in Widespread Child Abuse Inquiry",
+      "summary": "The 36-year-old, named in the French news media as David G., is among more than 70 employees at schools in the capital who have been recently suspended or fired over allegations of sexual abuse and other misconduct.",
+      "url": "https://www.nytimes.com/2026/05/26/world/europe/child-abuse-trial-school-paris.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-27T03:07:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Paris School Worker Tried on Assault Charges in Widespread Child Abuse Inquiry"
+    },
+    {
+      "id": "4408b9ac29b56dc9732d5cd145d38e17a712e040",
+      "title": "A Spring Heat Wave Is Breaking Records in the U.K., Spain and France",
+      "summary": "Authorities in Britain and France warned that “unprecedented” temperatures — at a time when few expected them — could persist. Climate change has made heat waves more frequent and more intense.",
+      "url": "https://www.nytimes.com/2026/05/26/world/europe/europe-heatwave-uk-spain-france.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-26T21:33:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Spring Heat Wave Is Breaking Records"
+    },
+    {
+      "id": "416fdfac746d36d5f6ef65398db45e02a622f968",
+      "title": "Paris 'punishingly hot' as Western Europe hit by heatwave",
+      "summary": "Hugh Schofield reports from Paris as a heat dome settled over Western Europe bringing temperatures above the average for May.",
+      "url": "https://www.bbc.com/news/videos/cy522zrkr7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-26T16:46:58+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Paris 'punishingly hot' as Western Europe hit by heatwave"
+    },
+    {
+      "id": "1deb0e72a988282463e68d664f0d01325b0a0b82",
+      "title": "‘A Dangerous Bluff’: Carney Likens Alberta Referendum to Brexit",
+      "summary": "The Canadian prime minister, who was the governor of the Bank of England when Britain voted to leave the European Union, said the Alberta referendum on separating from Canada could backfire.",
+      "url": "https://www.nytimes.com/2026/05/25/world/canada/mark-carney-alberta-referendum-brexit.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-26T15:08:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "34fc4cf1a9eb04a329804fa64e683b630c8b4e2f",
+      "title": "‘A very dangerous bluff’: Mark Carney warns of Brexit-like regret if Alberta leaves Canada",
+      "summary": "The Canadian prime minister led the Bank of England when the U.K. left the European Union in 2020.",
+      "url": "https://www.cnbc.com/2026/05/26/alberta-leave-canada-vote-mark-carney-brexit-stay-free.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-05-26T11:01:23+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "90e7c420fd4a93a8f7d8fe1e072c557d35bddc41",
       "title": "Weather tracker: flash floods in New York and a heat dome in Europe",
@@ -21,6 +96,28 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "temperatures in France break May record"
+    },
+    {
+      "id": "c5a4a7e7c2539ea223e800e4fa56d66792fcd079",
+      "title": "The Oscars Start at Cannes",
+      "summary": "Glamorous and a touch old-fashioned, the French film festival increasingly defines what Hollywood celebrates each year.",
+      "url": "https://www.nytimes.com/2026/05/24/world/cannes-festival-fjord-iran-deal.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-25T04:28:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "The Oscars Start at Cannes"
+    },
+    {
+      "id": "cb6045ce7316d36a186288bc4eec52cec4f0fe1d",
+      "title": "France and allies call for EU trade defence tool to fend off China",
+      "summary": "Proposals to counter Beijing come ahead of a key strategic debate on Friday in Brussels",
+      "url": "https://www.euractiv.com/news/france-and-allies-call-for-eu-trade-defence-tool-to-fend-off-china/",
+      "source": "Euractiv",
+      "published_at": "2026-05-24T14:22:37+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "France and allies call for EU trade defence tool"
     },
     {
       "id": "6c04eeeae88b9502b52cee5e0d8c6f6b5c7add88",
@@ -129,104 +226,8 @@
       "published_at": "2026-05-22T16:55:00+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "817fadcc1f951a41551bf467ffff6e8940a467dd",
-      "title": "Spain, France win lion’s share of funding to slash industrial heat emissions",
-      "summary": "Companies blame narrow application window for failure to secure even half of €1 billion on offer",
-      "url": "https://www.euractiv.com/news/spain-france-win-lions-share-of-funding-to-slash-industrial-heat-emissions/",
-      "source": "Euractiv",
-      "published_at": "2026-05-22T15:51:34+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Spain, France win lion’s share of funding to slash industrial heat emissions"
-    },
-    {
-      "id": "1eee80fcf12704dc67dd4994fcf8f78f6f593a0f",
-      "title": "European Parliament targets December plenary vote on Biotech Act",
-      "summary": "The timeline for Parliament's opinion‑giving committees is also set",
-      "url": "https://www.euractiv.com/news/european-parliament-targets-december-plenary-vote-on-biotech-act/",
-      "source": "Euractiv",
-      "published_at": "2026-05-22T12:37:40+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "277f749282800d10a8a1aa3e317f2865e38c388b",
-      "title": "Western Europe braces for first major heat event of the summer",
-      "summary": "Temperatures across Portugal, Spain, France and the UK are expected to exceed 30C on Friday and into next weekEurope live – latest updatesA large swathe of western Europe is bracing for the first significant heat event o…",
-      "url": "https://www.theguardian.com/world/2026/may/22/western-europe-braces-first-heat-event-summer",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-22T11:01:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Temperatures across Portugal, Spain, France and the UK are expected to exceed 30C"
-    },
-    {
-      "id": "ffbe76a41d29df45ed2f457dd03eb897ffdf56a1",
-      "title": "Timelapse footage shows 'giant cave' inflating on Paris bridge",
-      "summary": "The monumental structure was created by Parisan artist JR - often dubbed the French Banksy",
-      "url": "https://www.bbc.com/news/videos/cx214kxw2y4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-22T10:45:27+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Timelapse footage shows 'giant cave' inflating on Paris bridge"
-    },
-    {
-      "id": "b35e35d0566248abc02d8db5e3513b547bc10681",
-      "title": "EU’s bird and butterfly populations are declining - European Commission",
-      "summary": "EU’s bird and butterfly populations are declining&nbsp;&nbsp;European CommissionDecline in pollinators sparks youth-led projects to restore habitats in Europe&nbsp;&nbsp;The Brussels TimesButterfly and bird populations a…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUUV80czVJRVJLYkRhcnNuLXZqLUN0V2VOMFJOZEhkaVoyb01oWHR1enZWdWMwSk1jWklOeElfOV85OGFieG5IWTA3QW80SlpZbVp3Snp2NzZRaE5Jb29kOHZmWmZWckluWFEzdDhpWkE4UTdodUM0Z3BGeVJudw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-22T09:00:17+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "3b3cf503e1e6f78ee117f7c0525521784a0af394",
-      "title": "Brussels bets on ‘divide and rule’ to preserve carbon pricing policy",
-      "summary": "European Commission set to pit company against company, industries against capitals",
-      "url": "https://www.euractiv.com/news/brussels-bets-on-divide-and-rule-to-preserve-carbon-pricing-policy/",
-      "source": "Euractiv",
-      "published_at": "2026-05-22T04:00:54+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "22a6644aa33e848d495f73492ff2149653ea3cc1",
-      "title": "Move to abolish low-emission zones in French cities fails on legal technicality",
-      "summary": "Populist alliance loses battle to abolish city traffic restrictions, but war set to go on",
-      "url": "https://www.euractiv.com/news/move-to-abolish-low-emission-zones-in-french-cities-fails-on-legal-technicality/",
-      "source": "Euractiv",
-      "published_at": "2026-05-21T16:01:53+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Move to abolish low-emission zones in French cities fails"
-    },
-    {
-      "id": "4c6a6286a702191aa2f433e1f21e048231c123c4",
-      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-      "summary": "The companies were found guilty by a French court over an air disaster which killed 228 people.",
-      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-21T15:58:46+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Air France and Airbus found guilty of manslaughter"
-    },
-    {
-      "id": "d26b35d2594d73748a82e5af036f71f67adefb86",
-      "title": "Macron says France must address issue of reparations for its role in slave trade",
-      "summary": "French president’s use of term comes as demand grows for formal discussion on addressing legacies of enslavementEmmanuel Macron has said reparations for France’s role in hundreds of years of enslavement of African people…",
-      "url": "https://www.theguardian.com/news/2026/may/21/macron-pressure-reparatory-justice-france-slave-trade-legacies-enslavement",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-21T15:05:15+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "France must address issue of reparations for its role in slave trade"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-25T12:46:47Z"
+  "last_updated": "2026-05-27T12:35:28Z"
 }

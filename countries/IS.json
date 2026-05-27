@@ -4,13 +4,46 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 9,
+  "sources": 12,
   "sentiment": {
-    "positive": 1,
-    "neutral": 8,
+    "positive": 3,
+    "neutral": 9,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "c075eea063575d70af942c45bcf77c6072176b52",
+      "title": "Iceland Warms to Europe",
+      "summary": "The country has always stood apart from the continent. Then President Trump started threatening Greenland.",
+      "url": "https://www.nytimes.com/2026/05/26/world/iceland-europe-iran-us-strikes.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-27T04:18:55+00:00",
+      "sentiment": "positive",
+      "confidence": 0.5,
+      "evidence": "Iceland Warms to Europe"
+    },
+    {
+      "id": "03c0a9f33be45927843f1829ffdf0fde4968c154",
+      "title": "Iceland, Rattled by Trump’s Greenland Threats, Weighs Joining the E.U.",
+      "summary": "Iceland has stood apart from the rest of Europe. But President Trump’s threats to Greenland have provoked a reconsideration.",
+      "url": "https://www.nytimes.com/2026/05/26/world/europe/iceland-eu-membership-trump.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-27T02:22:21+00:00",
+      "sentiment": "positive",
+      "confidence": 0.5,
+      "evidence": "Iceland, Rattled by Trump’s Greenland Threats, Weighs Joining the E.U."
+    },
+    {
+      "id": "d519004d198ba8153b75cbd6c4c90b8fd04ac59f",
+      "title": "Reykjavik redux: Iceland reopens EU debate",
+      "summary": "The polls, like the country, are split",
+      "url": "https://www.euractiv.com/news/reykjavik-redux-iceland-reopens-eu-debate/",
+      "source": "Euractiv",
+      "published_at": "2026-05-26T04:00:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Iceland reopens EU debate"
+    },
     {
       "id": "85e044006b94b58fd464ebf9cc1d320837008a52",
       "title": "Record number of dams dismantled in Europe in effort to help wildlife thrive",
@@ -112,5 +145,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-25T12:46:47Z"
+  "last_updated": "2026-05-27T12:35:28Z"
 }
