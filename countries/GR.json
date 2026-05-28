@@ -3,14 +3,66 @@
   "score": 88,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 324,
+  "trend": 0,
+  "sources": 325,
   "sentiment": {
     "positive": 16,
     "neutral": 285,
-    "negative": 24
+    "negative": 25
   },
   "latest_articles": [
+    {
+      "id": "6e3f3698384ec32931b62a651c74d6c0cecd9e15",
+      "title": "EU probes Chinese giant JD.com’s bid for Germany Ceconomy",
+      "summary": "The latest European Union probe to hit a Chinese firm comes as Brussels debates toughening its stance towards Beijing",
+      "url": "https://www.euractiv.com/news/eu-probes-chinese-giant-jd-coms-bid-for-germany-ceconomy/",
+      "source": "Euractiv",
+      "published_at": "2026-05-28T11:54:06+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "37bc4ea7010d9ceed526bd52ce5facc964334db1",
+      "title": "EU fines Temu €200m for allowing sale of illegal products",
+      "summary": "The European Commission says the Chinese-owned online retailer failed to take account of risks from baby toys and faulty chargers sold on its platform.",
+      "url": "https://www.bbc.com/news/articles/c1k2ydn1rz8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-28T11:39:38+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "de622f93a891ba4f3df8b89593a4e6cf2cc959e7",
+      "title": "Complex urban challenges hinder Greek housing energy transition",
+      "summary": "Ageing apartment blocks and fragmented ownership are complicating efforts to tackle energy poverty in Greek municipality Piraeus",
+      "url": "https://www.euractiv.com/news/complex-urban-challenges-hinder-greek-housing-energy-transition/",
+      "source": "Euractiv",
+      "published_at": "2026-05-28T01:12:05+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "hinder Greek housing energy transition"
+    },
+    {
+      "id": "3ffa1619a2a02c69ac8c4a1cc0307da8cc6bfdcb",
+      "title": "No more immunity: Greece’s Alexis Tsipras announces new party",
+      "summary": "The left-wing leader has heavily criticised corruption under Greece’s conservative government",
+      "url": "https://www.euractiv.com/news/no-more-immunity-greeces-alexis-tsipras-announces-new-party/",
+      "source": "Euractiv",
+      "published_at": "2026-05-27T13:02:45+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Greece’s Alexis Tsipras announces new party"
+    },
+    {
+      "id": "eec7e2bfa3328451b26f02d40658f97e35208901",
+      "title": "Brussels finally has timetable for Ukraine’s EU bid",
+      "summary": "The European Commission expects EU leaders to give the green light at the next Brussels summit",
+      "url": "https://www.euractiv.com/news/brussels-finally-has-timetable-for-ukraines-eu-bid/",
+      "source": "Euractiv",
+      "published_at": "2026-05-27T12:25:22+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "1deb0e72a988282463e68d664f0d01325b0a0b82",
       "title": "‘A Dangerous Bluff’: Carney Likens Alberta Referendum to Brexit",
@@ -30,6 +82,17 @@
       "published_at": "2026-05-26T11:01:23+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "70115aa25c018897561af0ccb1f009c0412a82ea",
+      "title": "EU Biotech Act raises pressure on Greece to compete, industry warns [Advocacy Lab]",
+      "summary": "From clinical trials to clawback reform, pharma leaders say Greece must move faster to attract investment under Europe’s new biotech strategy",
+      "url": "https://www.euractiv.com/news/eu-biotech-act-raises-pressure-on-greece-to-compete-industry-warns/",
+      "source": "Euractiv",
+      "published_at": "2026-05-26T07:20:26+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Greece must move faster to attract investment under Europe’s new biotech strategy"
     },
     {
       "id": "7b89dc9224db1c3caad2740b9c5f461fd7c3e9d1",
@@ -156,68 +219,8 @@
       "published_at": "2026-05-21T10:28:30+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "eb771dc8ca7b4957c553b17e077f734193e408c0",
-      "title": "Saeima commission wants quota for number of third-country nationals allowed into Latvia",
-      "summary": "The Saeima 'Parliamentary Inquiry Commission on Problems in National and European Union-Level Immigration Regulation and the Work of Executive Bodies' said on May 20th it has&nbsp;adopted a&nbsp;final report, which will…",
-      "url": "https://eng.lsm.lv/article/politics/saeima/21.05.2026-saeima-commission-wants-quota-for-number-of-third-country-nationals-allowed-into-latvia.a648136/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-05-21T09:40:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "c6a2438faac7d4f457a64f786d525de026521619",
-      "title": "Demography of Europe: 2026 edition out now - European Commission",
-      "summary": "Demography of Europe: 2026 edition out now&nbsp;&nbsp;European CommissionCyprus population nears one million after two decades of growth&nbsp;&nbsp;Cyprus MailNew EU figures show scale of Latvia's demographic challenge&n…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IaF9MU0lDdFRreWo2VE51R19ya1otY2dRUHoyQXhfa0dYdjcwMXFldDNIc29jNGZGbV9pUndCcGpSN1Q4bFduRDR6Q2tkc2VKcUpEdDlFYUloRzJROWo3Tl8zLWxiTFMyZ29xbVR4d1V3VG5USlBaLUphQ1ZHQQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-21T09:00:11+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "7b8b6483f7703a09138c8ebb242389827af8f4ce",
-      "title": "Calls for EU executive to present promised Russian oil ban bill",
-      "summary": "European Commission faces growing pressure after dropping it from agenda without explanation",
-      "url": "https://www.euractiv.com/news/calls-for-eu-executive-to-present-promised-russian-oil-ban-bill/",
-      "source": "Euractiv",
-      "published_at": "2026-05-21T04:00:53+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "3267e075c23df227b638e4330a6d942bcb6fead8",
-      "title": "Brussels ‘remains committed’ after US, UK lift Russia oil sanctions",
-      "summary": "Kremlin must not benefit from Iran energy shock, European Commission says",
-      "url": "https://www.euractiv.com/news/brussels-remains-committed-after-us-uk-lift-russia-oil-sanctions/",
-      "source": "Euractiv",
-      "published_at": "2026-05-20T12:06:18+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "151467c58b47d2d9c14a76c7eeb1031bcfef5745",
-      "title": "Trump tightens grip on GOP after Massie’s defeat in Kentucky primary – US politics live",
-      "summary": "Republican Congressman defeated by Trump-backed challenger in most expensive House primary in historySign up for the Breaking News US emailThe EU has finally agreed to implement a trade deal with the US after hours of ta…",
-      "url": "https://www.theguardian.com/us-news/live/2026/may/20/donald-trump-republicans-midterms-primaries-kentucky-redistricting-raul-castro-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-20T11:26:42+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "933c19c8198cbfe677945e7d1773af4a7a77a188",
-      "title": "EU agrees to implement US trade deal struck last summer",
-      "summary": "MEPs had twice frozen ratification process in protest at Trump’s threats to increase tariffs and take control of GreenlandThe EU has finally agreed to implement its trade deal with the US after five hours of talks betwee…",
-      "url": "https://www.theguardian.com/world/2026/may/20/eu-european-union-to-implement-us-trade-deal",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-20T10:07:13+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-27T12:35:28Z"
+  "last_updated": "2026-05-28T12:42:53Z"
 }

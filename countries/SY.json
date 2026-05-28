@@ -1,16 +1,27 @@
 {
   "country": "SY",
-  "score": 88,
+  "score": 87,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 42,
   "sentiment": {
     "positive": 3,
-    "neutral": 20,
-    "negative": 19
+    "neutral": 19,
+    "negative": 20
   },
   "latest_articles": [
+    {
+      "id": "90d82956fa67246c3844c18513fefd85aa0a1e28",
+      "title": "Australia charges woman who returned from Syria with joining Islamic State",
+      "summary": "Several groups of women and children who spent years in a Syrian camp have returned in recent months.",
+      "url": "https://www.bbc.com/news/articles/c87q2w0w0jvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-28T04:01:17+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Australia charges woman who returned from Syria with joining Islamic State"
+    },
     {
       "id": "29052c74ff907344a34d3a4c418368d98f2456eb",
       "title": "Last Australian women and children linked to IS leave Syrian camp before expected return home – report",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Syria’s Tumultuous Past"
-    },
-    {
-      "id": "48f7b62efcfbcdd64fc2c3710a6dcd570c1537ba",
-      "title": "Australian women and children leave Syrian detention camp for Damascus – and potentially home",
-      "summary": "Repatriation attempt comes after group was turned around when leaving camp in February. Albanese government says it’s not assisting cohortGet our breaking news email, free app or daily news podcastFour Australian women a…",
-      "url": "https://www.theguardian.com/australia-news/2026/apr/25/australian-women-and-children-leave-syrian-detention-camp-for-damascus-and-potentially-home",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-25T01:02:16+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "north-east Syria, under the control of the Syrian government"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-27T12:35:28Z"
+  "last_updated": "2026-05-28T12:42:53Z"
 }
