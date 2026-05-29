@@ -1,16 +1,93 @@
 {
   "country": "UA",
-  "score": 31,
+  "score": 28,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 622,
+  "trend": -3,
+  "sources": 629,
   "sentiment": {
-    "positive": 243,
+    "positive": 245,
     "neutral": 163,
-    "negative": 217
+    "negative": 222
   },
   "latest_articles": [
+    {
+      "id": "2a3b8485c489dc187af57d5233abd0b1138dd89a",
+      "title": "‘Serious escalation’: Nato fumes after Russian drone crashes in Romania",
+      "summary": "A Russian drone crashed into an apartment building in eastern Romania, injuring two people and sparking outrage. President Nicusor Dan called it the \"worst incident to hit the national territory\" since the war began. NAT…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/serious-irresponsible-escalation-nato-fumes-after-russian-drone-crashes-into-romanian-apartment-building/articleshow/131389726.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-05-29T11:50:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "renewed Russian attacks on Ukraine"
+    },
+    {
+      "id": "ac3bc2b0b72237761002be1f8a35239813a27336",
+      "title": "After a brutal winter, Ukraine’s drones are breaking Russian defenses",
+      "summary": "Russia’s advance has suddenly stalled, and Ukraine is fighting on its own terms — a comeback credited to Kyiv’s efforts to steadily strengthen the capabilities of its UAVs.",
+      "url": "https://www.washingtonpost.com/world/2026/05/29/after-brutal-winter-ukraines-drones-are-breaking-russian-defenses/",
+      "source": "World (Washington post)",
+      "published_at": "2026-05-29T09:00:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukraine’s drones are breaking Russian defenses"
+    },
+    {
+      "id": "db509d5f597c4dd5472d4a263f35c8d15d38500f",
+      "title": "Greece to protest Kyiv over sea drone as former PM blames Russia",
+      "summary": "Athens is expected to lodge a formal démarche with Kyiv after a sea drone carrying explosives was found near a Greek island, diplomatic sources said",
+      "url": "https://www.euractiv.com/news/greece-to-protest-kyiv-over-sea-drone-as-former-pm-blames-russia/",
+      "source": "Euractiv",
+      "published_at": "2026-05-29T06:06:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Greece to protest Kyiv over sea drone"
+    },
+    {
+      "id": "eb04977255de1941007c13f35165fd9130fc1eef",
+      "title": "Russian drone hits Romania apartment building, Bucharest says",
+      "summary": "Romania has recorded dozens of drone incursions since Russia's 2022 invasion of Ukraine, but this was the first to hit a residential building",
+      "url": "https://www.euractiv.com/news/russian-drone-hits-romania-apartment-building-bucharest-says/",
+      "source": "Euractiv",
+      "published_at": "2026-05-29T04:47:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia's 2022 invasion of Ukraine"
+    },
+    {
+      "id": "da57845c18ad49e2dc8a2f4a22713b2bc03e5b2c",
+      "title": "Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel",
+      "summary": "Fibre-optic drones are now Hezbollah's primary weapon against Israel's soldiers and civilians.",
+      "url": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-28T16:39:30+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Learning from Ukraine war, Hezbollah is now using fibre-optic drones"
+    },
+    {
+      "id": "dce8c16c71a35d4700e0231c54d8f06ed17af2ee",
+      "title": "The Brief – An offer Kyiv should not refuse",
+      "summary": "“We need to grasp the opportunity right now and move as quickly as possible to get everything that is possible\"",
+      "url": "https://www.euractiv.com/news/the-brief-an-offer-kyiv-should-not-refuse/",
+      "source": "Euractiv",
+      "published_at": "2026-05-28T16:26:56+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "move as quickly as possible to get everything that is possible"
+    },
+    {
+      "id": "11314fbaab9ca3162cd44dc0bed1602186092a19",
+      "title": "Ukraine to buy 20 Gripen fighter jets from Sweden",
+      "summary": "Kyiv will finance the first acquisition with funds from the EU's €90 billion loan",
+      "url": "https://www.euractiv.com/news/ukraine-to-buy-20-gripen-fighter-jets-from-sweden/",
+      "source": "Euractiv",
+      "published_at": "2026-05-28T13:00:35+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine to buy 20 Gripen fighter jets from Sweden"
+    },
     {
       "id": "4a40f0ca3057e77e846ba7470b4786855ccf75c0",
       "title": "At Cannes, a Russian director rebuked Putin’s war. Cue a Ukrainian eye roll. - The Washington Post",
@@ -23,6 +100,17 @@
       "evidence": "Cue a Ukrainian eye roll."
     },
     {
+      "id": "92f8369d22c57d21bef67965590e5a98b6d9b879",
+      "title": "At Cannes, a Russian director urged Putin to end the war. Cue a Ukrainian eye roll.",
+      "summary": "Andrei Zvyagintsev urged Russian President Vladimir Putin to end the “bloodbath”  — but in Ukraine his remarks elicited ridicule and frustration.",
+      "url": "https://www.washingtonpost.com/world/2026/05/28/cannes-director-andrei-zvyagintsev-rebuked-putins-war-ukrainians-are-furious/",
+      "source": "World (Washington post)",
+      "published_at": "2026-05-28T10:51:04+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "elicited ridicule and frustration"
+    },
+    {
       "id": "22439c6ca4fb221dbfefe16467fbca7c9cf90b81",
       "title": "European defense stocks rally after Ukraine ratifies $105 billion EU loan deal; regional indices fall",
       "summary": "European stocks were broadly lower on Thursday as investors assessed news related to the Iran war and developments in Ukraine.",
@@ -32,6 +120,61 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "Ukraine ratifies $105 billion EU loan deal"
+    },
+    {
+      "id": "16007fa4d47f4d83bc0c2e0f3e473c6d8fceabca",
+      "title": "How Ukraine’s Street Style Is Shaped by the War",
+      "summary": "In Kyiv, military-inspired fashion can be seen everywhere. Soldiers and civilians alike say it’s a show of solidarity, not a fad.",
+      "url": "https://www.nytimes.com/2026/05/28/world/europe/ukraine-war-street-style-fashion-military.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-28T09:11:18+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "a show of solidarity, not a fad."
+    },
+    {
+      "id": "c70e55c593b1299348c009b8641d2e388b5c727f",
+      "title": "Russia Claims Discovery Of US-Linked Bioweapons Programme In Ukraine",
+      "summary": "Russia has long accused the US of funding biological research programmes in Ukraine.",
+      "url": "https://www.ndtv.com/world-news/russia-claims-discovery-of-us-linked-bioweapons-programme-in-ukraine-11558613#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-05-28T08:42:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Bioweapons Programme In Ukraine"
+    },
+    {
+      "id": "82f078db17208440543be91351373d2a29185e82",
+      "title": "FIREPOWER: Zelenskyy warns US and EU of critical shortages in Ukraine’s air defences",
+      "summary": "In today's edition: Latvia, NATO innovation, Canada",
+      "url": "https://www.euractiv.com/news/firepower-zelenskyy-warns-us-and-eu-of-critical-shortages-in-ukraines-air-defences/",
+      "source": "Euractiv",
+      "published_at": "2026-05-28T07:12:58+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "critical shortages in Ukraine’s air defences"
+    },
+    {
+      "id": "09053497be9e5adda96de99f4abdf7c28133dd95",
+      "title": "INTERVIEW: EU should support regions hit by drone incursions, Latvian president says - Euractiv",
+      "summary": "INTERVIEW: EU should support regions hit by drone incursions, Latvian president says&nbsp;&nbsp;EuractivGreg Afinogenov · Slavdom: What Russians Want&nbsp;&nbsp;London Review of BooksEurope Is Starting to Think Putin Wil…",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQekExTUNJR2NzVlZzWDVaeFcxZTFiZ09VMVZPN0xib0g4dDlqQVdNMDl4dkNpTFZieTMwTk9FWTFsYlY1VUx1OUJ5MXpnVDFGQzZEZXdwc2ZnSTN6ZXdpQWwwdS11aEFLUE12WWNWTnVCSFpOYllyYTFNc0hJZjZhWnJ1QndmX1RHaFBHNWVxdnlIblE3amoxVzg4MjVtSFNQTGhNMW4wQWhRblNJbHIwNlA2SQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-05-28T04:24:19+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Europe Is Starting to Think Putin Will Expand the War"
+    },
+    {
+      "id": "53501fdb8ee2ff871c27da84d58159a1f5068e93",
+      "title": "Uefa drags its heels over action against Russia’s fake Ukrainian clubs",
+      "summary": "Imitation versions of Shakhtar and Zorya in RussiaUkrainian FA urged Uefa to take action last yearUefa is yet to take action against the integration of clubs from illegally occupied parts of Ukraine into Russia’s footbal…",
+      "url": "https://www.theguardian.com/football/2026/may/27/uefa-action-russia-fake-ukrainian-clubs-shakhtar-donetsk",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-27T19:00:43+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Imitation versions of Shakhtar and Zorya in Russia"
     },
     {
       "id": "4a5b35dea2959f322d47a46c6ac075cc0c7a59ff",
@@ -87,151 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "battlefield losses in Ukraine mount"
-    },
-    {
-      "id": "1aa83465d21beeb145dd17af218e2555725d7942",
-      "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
-      "summary": "With the US pulling out of trilateral talks with Russia and Ukraine, the EU is looking for potential candidates to step in.",
-      "url": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-26T23:15:47+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "mediate an end to war in Ukraine?"
-    },
-    {
-      "id": "df4b83c4d1df66debe3b4e2738f12a1d577077e3",
-      "title": "The Wars in Ukraine and Iran Are More Alike Than You May Think",
-      "summary": "Aspects such as drone technology and diplomacy show how the wars intersect on the battlefield and in global alignments, providing a model for future conflicts.",
-      "url": "https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-26T20:29:16+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "The Wars in Ukraine and Iran Are More Alike Than You May Think"
-    },
-    {
-      "id": "1cb76779c2d2c00b384507545d7d3c3576eb7bea",
-      "title": "Russians Are Thriving on This Thai Island, but the Scene Feels Fleeting",
-      "summary": "Thousands who fled Russia after the invasion of Ukraine have built an enclave in Phuket. An air of impermanence hangs over their community.",
-      "url": "https://www.nytimes.com/2026/05/26/world/asia/russians-phuket-thailand.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-26T09:00:15+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "fled Russia after the invasion of Ukraine"
-    },
-    {
-      "id": "2361618e5a0ad346f1eb92a4862e6bc5de37335a",
-      "title": "FIREPOWER: Von der Leyen meets with Baltic presidents over drone incursions",
-      "summary": "In today's edition: NATO eastern flank, Ukraine drone spillover, Greenland defence, SAFE",
-      "url": "https://www.euractiv.com/news/firepower-von-der-leyen-meets-with-baltic-presidents-over-drone-incursions/",
-      "source": "Euractiv",
-      "published_at": "2026-05-26T07:15:20+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukraine drone spillover"
-    },
-    {
-      "id": "64c6704b1c0f34f77083b79bc20a9c1f4eb2d25e",
-      "title": "Merz’s Ukraine pitch looms over EU talks",
-      "summary": "Also, in Tuesday’s edition: EU budget, Iceland vote, EU staff, China tensions",
-      "url": "https://www.euractiv.com/news/rapporteur-merzs-ukraine-pitch-looms-over-eu-talks/",
-      "source": "Euractiv",
-      "published_at": "2026-05-26T05:01:37+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "Merz’s Ukraine pitch looms over EU talks"
-    },
-    {
-      "id": "c3ce48d42bf62ec74f845d7bc0e2d0ae9ba73d55",
-      "title": "Kremlin dismisses Russian film director’s call for peace - Yahoo",
-      "summary": "Kremlin dismisses Russian film director’s call for peace&nbsp;&nbsp;YahooMinotaur review – Andrei Zvyagintsev’s scorching noir intrigue amid the Ukraine war&nbsp;&nbsp;The GuardianKremlin Rejects Film Director Zvyagintse…",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWjRTRUhuT0RGaXFJVjVhdndIZ0pJMnRqbVhaM1ZVVFlIVVUzSHRLSWdJYTZXMkhqRnlINkpoT203UDN4VHRYVXRETlB3OENmcUVjdHlveWxrY29pc0ZuMzBNbzhMNVgya3Y5NldpbVc2b3FkRFhxV1NHU0ZPMVk1eEVxQm1hcmt4X2RiZmlXZDJkV1Y0eEdjVE8xck00eEZS?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-25T16:40:35+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "amid the Ukraine war"
-    },
-    {
-      "id": "58a52f535691101c2a1cd08845f1db6025eed40e",
-      "title": "In Ukraine, a Divisive 20th-Century Hero Comes Home",
-      "summary": "Andriy Melnyk, criticized as a Nazi collaborator and lionized as an anti-Soviet resistance leader, was given state honors for his reburial near Kyiv.",
-      "url": "https://www.nytimes.com/2026/05/24/world/europe/ukraine-melnyk-nationalist-collaborator.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-24T23:35:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Divisive 20th-Century Hero Comes Home"
-    },
-    {
-      "id": "7cf08b4534e0e976d731aa26c8b86e53153f44ba",
-      "title": "Von der Leyen to head to Lithuania for drone crisis talks - politico.eu",
-      "summary": "Von der Leyen to head to Lithuania for drone crisis talks&nbsp;&nbsp;politico.euUS concerned Russian campaign against Baltics could ‘spark into something bigger’, says Rubio – as it happened&nbsp;&nbsp;The GuardianRussia…",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWJWdXQ1YUM1N2YxRFRMODRQckNNcUdZd2tiaXNhQnVMaDRSSjlnU1cyTDhkdGpPLWt2ekdUVm84UURRRWFNQXhuS2pBQTZiN0V5emRPRXZpUWJMVVp1dWR0eFNXRk1MdlU1a3M5TURyWV9MRjFCeTNZQ1F5RS16RHdfOUh5SUJKLUE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-24T21:01:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Ukraine's drone offensive worries the Kremlin"
-    },
-    {
-      "id": "3d5c82614b622c48e5c8a6412f48e52c7d04cd8e",
-      "title": "Russia’s overnight barrage on Ukraine includes use of powerful Oreshnik missile",
-      "summary": "At least two people died in Kyiv, which faced the brunt of the attack, Ukrainian officials said. It was one of the biggest overnight aerial assaults since the beginning of Russia's invasion.",
-      "url": "https://www.washingtonpost.com/world/2026/05/24/russian-attack-kills-4-ukraine-uses-oreshnik-missile/",
-      "source": "World (Washington post)",
-      "published_at": "2026-05-24T16:06:26+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "two people died in Kyiv, which faced the brunt of the attack"
-    },
-    {
-      "id": "d70eb5ba5e7627343e96ed5a333fa7d9cecaf9d6",
-      "title": "Russia launches new deadly attack on Ukraine with nuclear-capable missile",
-      "summary": "Studios used by German broadcaster ARD and an office for German outlet DW were also damaged",
-      "url": "https://www.euractiv.com/news/russia-launches-new-deadly-attack-on-ukraine-with-nuclear-capable-missile/",
-      "source": "Euractiv",
-      "published_at": "2026-05-24T15:30:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "deadly attack on Ukraine with nuclear-capable missile"
-    },
-    {
-      "id": "d9766f8f8d1f909ec42cce94a0ba515801dac6ed",
-      "title": "Zvyagintsev Addresses Putin at Cannes: 'Put an End to This Carnage' - Variety",
-      "summary": "Zvyagintsev Addresses Putin at Cannes: 'Put an End to This Carnage'&nbsp;&nbsp;VarietyRussian Director Zvyagintsev Denounces Ukraine War ‘Carnage' at Cannes Awards&nbsp;&nbsp;The Moscow TimesMinotaur review – Andrei Zvya…",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVHAtQktYQU8zUmQzRjdoWWVUOVphYk9pOFQ1SjJ0Y0xHZnhoQ2NxV19wOWRHV1hRMGhReGNRSndhUGRjd05WaXVfbmNTOFJQa2tCUlY4S2oxODR2RkVFM1V1Q2xWd2hLdWRub09BZEdVRXlpSjhhTEN2RjVwakM0TklJaEYxenVoa0lnUEhvNmdsN1N2a3o4?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-24T15:28:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russian Director Zvyagintsev Denounces Ukraine War ‘Carnage’"
-    },
-    {
-      "id": "be655b4872fd82cc0ff6c47dcb1685ec700fd0a4",
-      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-      "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
-      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-24T10:37:24+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "attack on Ukraine leaves four dead and dozens injured"
-    },
-    {
-      "id": "ffe8f9fa85e2b8b28b1b9567ac56f202cea2af0e",
-      "title": "Russia kills 4 in massive Ukraine attack after vowing retaliation - Yahoo",
-      "summary": "Russia kills 4 in massive Ukraine attack after vowing retaliation&nbsp;&nbsp;YahooSee more headlines and perspectives on Google News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONEVVSXQtM2swcm4ya04zeHd6aWJ3VEVkRHdHd1lxbFRCVHZuR1ExR2hnem9KQmVjbDZfUXpEVWx6VGIxSFNjTE5CSmNxc0ZETVNlZy1mSGNKM0hVUUJSV3VCX2czTUo5ZlROb2kwRlhFcWNVZmI5MHlibFdmZFdncUtjSDVXaEJaTW1VU2VqUGVlOXhF?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-24T08:05:47+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "kills 4 in massive Ukraine attack"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-28T12:42:53Z"
+  "last_updated": "2026-05-29T12:31:23Z"
 }

@@ -1,16 +1,28 @@
 {
   "country": "LI",
   "score": 100,
-  "score_label": "Not enough data",
-  "assessment": "No information available",
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
   "trend": null,
-  "sources": 0,
+  "sources": 1,
   "sentiment": {
     "positive": 0,
-    "neutral": 0,
+    "neutral": 1,
     "negative": 0
   },
-  "latest_articles": [],
+  "latest_articles": [
+    {
+      "id": "3f12289103c57d55c93018d01911c2d7206c464b",
+      "title": "Top 10 richest countries in the world in 2026 by GDP: From Liechtenstein to Denmark",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/top-10-richest-countries-in-the-world-in-2026-by-gdp-from-liechtenstein-to-denmark/articleshow/131342605.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-05-29T11:16:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "From Liechtenstein to Denmark"
+    }
+  ],
   "window_days": 90,
-  "last_updated": "2026-05-28T12:42:53Z"
+  "last_updated": "2026-05-29T12:31:23Z"
 }
