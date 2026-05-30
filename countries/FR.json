@@ -1,16 +1,38 @@
 {
   "country": "FR",
-  "score": 96,
+  "score": 95,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 626,
+  "trend": -1,
+  "sources": 629,
   "sentiment": {
     "positive": 91,
-    "neutral": 479,
-    "negative": 56
+    "neutral": 481,
+    "negative": 57
   },
   "latest_articles": [
+    {
+      "id": "e45333b4c5676a80f1b1b937e97137cd5bdd3924",
+      "title": "Eighteen people killed in Afghanistan truck crash, including 10 children",
+      "summary": "Truck was carrying Afghan families returning Pakistan when it overturned, official saysA truck overturned in eastern Afghanistan on Saturday, killing 18 people on board including 10 children, a provincial official told A…",
+      "url": "https://www.theguardian.com/world/2026/may/30/eighteen-people-killed-in-afghanistan-truck-crash-in-including-10-children",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-30T06:51:37+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Agence France-Presse"
+    },
+    {
+      "id": "e357c10d401f6cd128c3f29758411bf1e49e54a1",
+      "title": "Lone children held at UK-run detention centres in France 284 times last year",
+      "summary": "Refugee charities say the numbers revealed in freedom of information data are ‘shocking’Lone children were held at UK-run detention centres in France on nearly 300 occasions last year, according to documents released und…",
+      "url": "https://www.theguardian.com/uk-news/2026/may/29/lone-children-uk-detention-centres-france-foi-data-2025",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-29T16:55:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "UK-run detention centres in France"
+    },
     {
       "id": "e0f1d36043dacabc43f2ede4717d1d059c1be662",
       "title": "New scoreboard shows success of European startup policies - European Commission",
@@ -22,6 +44,17 @@
       "sentiment_fallback": true
     },
     {
+      "id": "212741537c08a7e1c3fac8cdddfaea1443cbb977",
+      "title": "Riga Airport's retail future revealed / Article - LSM",
+      "summary": "Riga Airport's retail future revealed / Article&nbsp;&nbsp;LSMRiga Airport gets a major retail and dining overhaul under a new 12-year deal&nbsp;&nbsp;FTN newsLatvia Joins Switzerland, Greece, Portugal, Serbia, Turkey, F…",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQkFKSG91ZE1fYll1QzczWUJuLTVkV0EwYUFYNTNBTl9vSElVOGxsMkUyTGZZM2FpNnNEN2g3bE1adGhkbGoxekgxQ0tCSVdHNnBMQlZsMDg4WTZxQThXa0pZbUxtYlpteFI3TkVmcDgtZUY4SElHeF9pWlJrRmJZMmQyVTZaTm9oY2U3ZnloVUFEZ0tyNzU1bDQzdkhWZFJENEd3?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-05-29T10:05:58+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Latvia Joins Switzerland, Greece, Portugal, Serbia, Turkey, France, Malta"
+    },
+    {
       "id": "9ff5b4d8c64476841616ca7ce1dd4eb249c2436f",
       "title": "Women make up 53% of science & technology ranks - News articles - Eurostat - European Commission",
       "summary": "Women make up 53% of science & technology ranks - News articles - Eurostat&nbsp;&nbsp;European Commission",
@@ -30,6 +63,17 @@
       "published_at": "2026-05-29T09:02:45+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "f69243d638983680dbed4501adf436f8945b47a9",
+      "title": "France’s Far Right Has 2 Leaders. They Don’t Always Have One Voice.",
+      "summary": "Marine Le Pen and her protégé, Jordan Bardella, lead presidential polls. They are united on curbing immigration but split recently on economic policy.",
+      "url": "https://www.nytimes.com/2026/05/29/world/europe/france-presidential-election-le-pen-bardella.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-29T09:01:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "France’s Far Right Has 2 Leaders"
     },
     {
       "id": "2cb856cf0c6b2efd4c2901cd864e6a7243ceaae3",
@@ -178,51 +222,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "France probes alleged election interference"
-    },
-    {
-      "id": "3d38bcfa7f6e62ca337e793e8df5daf8c962f1f5",
-      "title": "Paris School Worker Tried on Assault Charges in Widespread Child Abuse Inquiry",
-      "summary": "The 36-year-old, named in the French news media as David G., is among more than 70 employees at schools in the capital who have been recently suspended or fired over allegations of sexual abuse and other misconduct.",
-      "url": "https://www.nytimes.com/2026/05/26/world/europe/child-abuse-trial-school-paris.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-27T03:07:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Paris School Worker Tried on Assault Charges in Widespread Child Abuse Inquiry"
-    },
-    {
-      "id": "4408b9ac29b56dc9732d5cd145d38e17a712e040",
-      "title": "A Spring Heat Wave Is Breaking Records in the U.K., Spain and France",
-      "summary": "Authorities in Britain and France warned that “unprecedented” temperatures — at a time when few expected them — could persist. Climate change has made heat waves more frequent and more intense.",
-      "url": "https://www.nytimes.com/2026/05/26/world/europe/europe-heatwave-uk-spain-france.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-26T21:33:51+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Spring Heat Wave Is Breaking Records"
-    },
-    {
-      "id": "416fdfac746d36d5f6ef65398db45e02a622f968",
-      "title": "Paris 'punishingly hot' as Western Europe hit by heatwave",
-      "summary": "Hugh Schofield reports from Paris as a heat dome settled over Western Europe bringing temperatures above the average for May.",
-      "url": "https://www.bbc.com/news/videos/cy522zrkr7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-26T16:46:58+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Paris 'punishingly hot' as Western Europe hit by heatwave"
-    },
-    {
-      "id": "1deb0e72a988282463e68d664f0d01325b0a0b82",
-      "title": "‘A Dangerous Bluff’: Carney Likens Alberta Referendum to Brexit",
-      "summary": "The Canadian prime minister, who was the governor of the Bank of England when Britain voted to leave the European Union, said the Alberta referendum on separating from Canada could backfire.",
-      "url": "https://www.nytimes.com/2026/05/25/world/canada/mark-carney-alberta-referendum-brexit.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-26T15:08:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-29T12:31:23Z"
+  "last_updated": "2026-05-30T11:00:36Z"
 }

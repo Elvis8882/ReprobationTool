@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 518,
+  "sources": 519,
   "sentiment": {
-    "positive": 62,
+    "positive": 63,
     "neutral": 384,
     "negative": 72
   },
   "latest_articles": [
+    {
+      "id": "021bf60f56dd8b20542a15aa7d68811459f86209",
+      "title": "Lithuania, Once Occupied by Germany, Is Glad German Troops Are Back",
+      "summary": "Berlin has deployed forces to protect the Baltic country amid fears of increased Russian aggression in Europe. This time, the soldiers were welcomed.",
+      "url": "https://www.nytimes.com/2026/05/30/world/europe/germany-lithuania-military-deployment.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-30T04:01:07+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Lithuania... Is Glad German Troops Are Back... welcomed"
+    },
     {
       "id": "e0f1d36043dacabc43f2ede4717d1d059c1be662",
       "title": "New scoreboard shows success of European startup policies - European Commission",
@@ -210,19 +221,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Germany-Focused Lineup"
-    },
-    {
-      "id": "d70eb5ba5e7627343e96ed5a333fa7d9cecaf9d6",
-      "title": "Russia launches new deadly attack on Ukraine with nuclear-capable missile",
-      "summary": "Studios used by German broadcaster ARD and an office for German outlet DW were also damaged",
-      "url": "https://www.euractiv.com/news/russia-launches-new-deadly-attack-on-ukraine-with-nuclear-capable-missile/",
-      "source": "Euractiv",
-      "published_at": "2026-05-24T15:30:06+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "German broadcaster ARD and an office for German outlet DW"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-29T12:31:23Z"
+  "last_updated": "2026-05-30T11:00:36Z"
 }

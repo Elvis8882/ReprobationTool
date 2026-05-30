@@ -3,14 +3,25 @@
   "score": 100,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 287,
+  "trend": 0,
+  "sources": 288,
   "sentiment": {
-    "positive": 25,
+    "positive": 26,
     "neutral": 249,
     "negative": 13
   },
   "latest_articles": [
+    {
+      "id": "021bf60f56dd8b20542a15aa7d68811459f86209",
+      "title": "Lithuania, Once Occupied by Germany, Is Glad German Troops Are Back",
+      "summary": "Berlin has deployed forces to protect the Baltic country amid fears of increased Russian aggression in Europe. This time, the soldiers were welcomed.",
+      "url": "https://www.nytimes.com/2026/05/30/world/europe/germany-lithuania-military-deployment.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-30T04:01:07+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Lithuania... Is Glad German Troops Are Back... welcomed"
+    },
     {
       "id": "e0f1d36043dacabc43f2ede4717d1d059c1be662",
       "title": "New scoreboard shows success of European startup policies - European Commission",
@@ -205,18 +216,8 @@
       "published_at": "2026-05-22T09:00:17+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "3b3cf503e1e6f78ee117f7c0525521784a0af394",
-      "title": "Brussels bets on ‘divide and rule’ to preserve carbon pricing policy",
-      "summary": "European Commission set to pit company against company, industries against capitals",
-      "url": "https://www.euractiv.com/news/brussels-bets-on-divide-and-rule-to-preserve-carbon-pricing-policy/",
-      "source": "Euractiv",
-      "published_at": "2026-05-22T04:00:54+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-29T12:31:23Z"
+  "last_updated": "2026-05-30T11:00:36Z"
 }

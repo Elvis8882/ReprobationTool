@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 70,
+  "score": 72,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 93,
+  "trend": 2,
+  "sources": 91,
   "sentiment": {
     "positive": 2,
     "neutral": 47,
-    "negative": 44
+    "negative": 42
   },
   "latest_articles": [
+    {
+      "id": "93a8144f2ea70f4e9b5974909c51cb2fb484ddb2",
+      "title": "Some Iranians abroad say they’d fight for the regime. Others want to topple it.",
+      "summary": "Members of the diaspora in Iraq, from Sunni Muslim Kurds in the north to Shiite Persians in the south, are as divided over the war as Iranians back home.",
+      "url": "https://www.washingtonpost.com/world/2026/05/30/some-iranians-abroad-say-theyd-fight-regime-others-want-topple-it/",
+      "source": "World (Washington post)",
+      "published_at": "2026-05-30T09:00:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "diaspora in Iraq"
+    },
     {
       "id": "48876d147139052d788643f2b50565a11cfb53f6",
       "title": "'Revenge matter of time': IRGC-trained Iraqi arrested over assassination plot against Donald Trump's daughter Ivanka",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "US journalist kidnapped in Baghdad by Iran-backed Iraqi militia"
-    },
-    {
-      "id": "d18e1310b2402774852408e383ec31afe0a5c92f",
-      "title": "Shelly Kittleson, American Journalist Abducted in Iraq, Is Freed",
-      "summary": "The journalist, Shelly Kittleson, was abducted by a militia allied with Iran and held for a week. Iraqi officials say she was freed in exchange for the release of militia members.",
-      "url": "https://www.nytimes.com/2026/04/07/world/middleeast/shelly-kittleson-journalist-iraq.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-08T02:13:48+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "American Journalist Abducted in Iraq, Is Freed"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-29T12:31:23Z"
+  "last_updated": "2026-05-30T11:00:36Z"
 }

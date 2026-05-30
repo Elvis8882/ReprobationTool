@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 8,
+  "sources": 9,
   "sentiment": {
     "positive": 1,
-    "neutral": 7,
+    "neutral": 8,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "8618eac5a85b03908cbe24c367b46cf6827e851e",
+      "title": "No, Not That Georgia. A.I. Compounds a Nation’s Identity Woes.",
+      "summary": "Online queries are more likely to turn up references to the U.S. state — a problem for the republic in the Caucasus and its people. But a move to drop the name “Georgia” has lost steam.",
+      "url": "https://www.nytimes.com/2026/05/29/world/europe/georgia-name-confusion.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-29T09:34:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "A.I. Compounds a Nation’s Identity Woes"
+    },
     {
       "id": "08db753f3057742235abf41f1c4d5b2caafe9eb2",
       "title": "Six US states hold primaries as Trump urges Kentucky voters to oust Massie",
@@ -101,5 +112,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-29T12:31:23Z"
+  "last_updated": "2026-05-30T11:00:36Z"
 }

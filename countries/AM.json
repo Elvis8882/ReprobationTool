@@ -1,16 +1,27 @@
 {
   "country": "AM",
-  "score": 100,
+  "score": 90,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -10,
   "sources": 16,
   "sentiment": {
     "positive": 6,
-    "neutral": 10,
-    "negative": 0
+    "neutral": 9,
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "02834a80031f4c392a66b26664fd3c7bffb78bfd",
+      "title": "Russia recalls envoy to Armenia for ‘consultations’ over Yerevan’s EU ties",
+      "summary": "Putin said Armenia had to choose between the EU and the EEU",
+      "url": "https://www.euractiv.com/news/russia-recalls-envoy-to-armenia-for-consultations-over-yerevans-eu-ties/",
+      "source": "Euractiv",
+      "published_at": "2026-05-30T09:11:24+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Yerevan’s EU ties"
+    },
     {
       "id": "4fdd0598762af96854f1b1840136381dd688e237",
       "title": "‘A bridge, not an obstacle’: is Armenia a new crossroads between east and west?",
@@ -175,19 +186,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "licence given to British firm exporting machinery to Armenian firm"
-    },
-    {
-      "id": "66e8f4c5df8a9efb32e17aafcb075ab08f122dee",
-      "title": "Decision to allow UK exports to Armenian firm under review over Russian links",
-      "summary": "Cygnet Texkimp was approved to export machines to Rydena, but ministers examining deal after Guardian highlighted founders’ links to Kremlin military supply chainMinisters are reviewing a decision to allow a British comp…",
-      "url": "https://www.theguardian.com/politics/2026/feb/28/decision-allow-uk-exports-cygnet-texkimp-armenian-firm-review-russian-links",
-      "source": "World news - The Guardian",
-      "published_at": "2026-02-28T13:00:12+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "export machines to Rydena"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-29T12:31:23Z"
+  "last_updated": "2026-05-30T11:00:36Z"
 }

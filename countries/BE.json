@@ -1,16 +1,38 @@
 {
   "country": "BE",
-  "score": 83,
+  "score": 82,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 397,
+  "trend": -1,
+  "sources": 399,
   "sentiment": {
-    "positive": 44,
-    "neutral": 305,
-    "negative": 48
+    "positive": 43,
+    "neutral": 307,
+    "negative": 49
   },
   "latest_articles": [
+    {
+      "id": "dfea1138e8f9075265ede071bc39596fa5a96c1a",
+      "title": "The World Capital of French Fries Has a Problem: Too Many Potatoes",
+      "summary": "Belgium’s potato harvest set a record, just as tariffs hit U.S. demand for frozen fries and as competition from suppliers in Asia intensified.",
+      "url": "https://www.nytimes.com/2026/05/30/world/europe/europe-belgium-potato-surplus.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-30T09:00:14+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Belgium’s potato harvest set a record"
+    },
+    {
+      "id": "7d77530d7d1bb16d16fbe677a0ef399b51d3641a",
+      "title": "Editors’ Choice: Magyar scores big Brussels",
+      "summary": "Magyar arrived in Brussels more as a contestant than a lost leader coming in from the cold. But he left with a big prize",
+      "url": "https://www.euractiv.com/news/editors-choice-magyar-scores-big-brussels/",
+      "source": "Euractiv",
+      "published_at": "2026-05-29T15:03:37+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Magyar scores big Brussels"
+    },
     {
       "id": "e0f1d36043dacabc43f2ede4717d1d059c1be662",
       "title": "New scoreboard shows success of European startup policies - European Commission",
@@ -54,6 +76,17 @@
       "evidence": "push Brussels to fast-track free CO2 pollution permits"
     },
     {
+      "id": "d1fb4f08ed237c6e12c86c500e852a24bec50120",
+      "title": "Generics lobby and health insurers slam potential impact of SPC proposal",
+      "summary": "Brussels faces criticism over the delayed impact assessment",
+      "url": "https://www.euractiv.com/news/generics-lobby-and-health-insurers-slam-potential-impact-of-spc-proposal/",
+      "source": "Euractiv",
+      "published_at": "2026-05-28T16:24:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Brussels faces criticism over the delayed impact assessment"
+    },
+    {
       "id": "bced85765f704b222e97c0c6ed01a317160a38d9",
       "title": "EU fines Temu for failing to stop sale of illegal and dangerous products",
       "summary": "European Commission finds shoppers on Chinese website very likely to find unsafe items and imposes €200m penaltyEU regulators have fined the Chinese shopping website Temu €200m (£173m) for failing to stop the sale of ill…",
@@ -62,6 +95,17 @@
       "published_at": "2026-05-28T12:27:08+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "de9a9282227467cce72d9f80b3c436004b6db54f",
+      "title": "Kaja Kallas warns against walking into Russian ‘trap’ as EU ministers meet for talks – Europe live",
+      "summary": "EU chief diplomat says ‘not much happening’ in talks as she cautions against focus on personalities rather than strategyMeanwhile, Hungary’s Magyar hits a bit more upbeat tone in his latest post on Facebook, saying that…",
+      "url": "https://www.theguardian.com/world/live/2026/may/28/europe-russia-ukraine-talks-heatwave-kaja-kallas-putin-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-28T12:17:06+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "meeting room in Brussels"
     },
     {
       "id": "37bc4ea7010d9ceed526bd52ce5facc964334db1",
@@ -180,52 +224,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Europe’s strong scientific base and growing biotech sector"
-    },
-    {
-      "id": "1d5c88c23c8af8956fe474937366cb95dab6aa1a",
-      "title": "Four killed as school minibus collides with train in Belgium",
-      "summary": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash, says a Belgian minister.",
-      "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-26T17:11:24+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "minibus collides with train in Belgium"
-    },
-    {
-      "id": "1581cd6bf307970428d24cf8003868f69341152c",
-      "title": "Brussels’ global health push falls short of its ambitions, advocates say",
-      "summary": "Experts said Europe must step up after sweeping international aid cuts",
-      "url": "https://www.euractiv.com/news/brussels-global-health-push-falls-short-of-its-ambitions-advocates-say/",
-      "source": "Euractiv",
-      "published_at": "2026-05-26T15:54:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Brussels’ global health push falls short of its ambitions"
-    },
-    {
-      "id": "aee7316035ad23b8d1cf420bf1f5da782816c9ee",
-      "title": "Belgium Crash Kills 4 as Train Hits School Van",
-      "summary": "Two children, 12 and 15, were among those killed in the crash near Brussels, officials said. The students in the van attended a special education school.",
-      "url": "https://www.nytimes.com/2026/05/26/world/europe/belgium-minibus-train-collision-children.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-26T15:50:13+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Belgium Crash Kills 4"
-    },
-    {
-      "id": "3a7b7767fb260f317a819d48a6884817aadf3f27",
-      "title": "The Brief – Rejoin UK? Europe could not care less",
-      "summary": "On this side of the Channel, Brussels and almost all EU countries are indifferent to the idea",
-      "url": "https://www.euractiv.com/news/the-brief-rejoin-uk-europe-could-not-care-less/",
-      "source": "Euractiv",
-      "published_at": "2026-05-26T15:45:55+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Brussels and almost all EU countries are indifferent to the idea"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-29T12:31:23Z"
+  "last_updated": "2026-05-30T11:00:36Z"
 }

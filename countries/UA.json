@@ -1,16 +1,38 @@
 {
   "country": "UA",
-  "score": 28,
+  "score": 27,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -3,
-  "sources": 629,
+  "trend": -1,
+  "sources": 631,
   "sentiment": {
     "positive": 245,
-    "neutral": 163,
-    "negative": 222
+    "neutral": 164,
+    "negative": 223
   },
   "latest_articles": [
+    {
+      "id": "3515104d9396e1e238ad206d066f1d9bb83fb8fa",
+      "title": "Ukraine using AI drones to strike vital convoys supplying Russian troops",
+      "summary": "BBC Verify has analysed videos of attacks in occupied Ukraine on Russian trucks carrying ammunition, fuel and food.",
+      "url": "https://www.bbc.com/news/articles/cdjp0n7rn41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-30T01:34:38+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukraine using AI drones to strike vital convoys"
+    },
+    {
+      "id": "44cbfc06b23dbf4e25d92cddc3dcc6cbb679bc36",
+      "title": "Putin denies Russian involvement in Romania drone incident - Yahoo",
+      "summary": "Putin denies Russian involvement in Romania drone incident&nbsp;&nbsp;YahooUkraine war latest: Ukraine hits Russian city in 'massive attack'&nbsp;&nbsp;Sky NewsThe Russian Drone That Hit Romania Also Hit European Confide…",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY29OM1ktNGFUbHMzVElsZ00wdEdnX3JXbUNLVDZaSkxRMVpRWlRBcVYycUk3RXF3M2wtY2hILUN6MDl2bEZ4VENxOXVDM1VZX3lBS2o5VzI5WXM3Wk9hbnVBdzBWUXd4aFhMVFkydl80T2s5TGZycVp3c1FON1RWU3EwcEhzUFJuNEl2SFAwUXJCMjBkUUlFbElGMzN0Zw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-05-29T17:25:17+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Ukraine war latest"
+    },
     {
       "id": "2a3b8485c489dc187af57d5233abd0b1138dd89a",
       "title": "‘Serious escalation’: Nato fumes after Russian drone crashes in Romania",
@@ -21,6 +43,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "renewed Russian attacks on Ukraine"
+    },
+    {
+      "id": "0ccbe0b29156c36863ed9fe648479ac8e6bfe94e",
+      "title": "Were Romanian Casualties From a Russian Drone Strike Inevitable?",
+      "summary": "The strike on Friday, near the Ukrainian border, was the first to injure civilians in Romania, officials say. But drones from the nearby war have been a growing threat.",
+      "url": "https://www.nytimes.com/2026/05/29/world/europe/romania-drone-strike-what-to-know.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-29T11:33:38+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "near the Ukrainian border"
     },
     {
       "id": "ac3bc2b0b72237761002be1f8a35239813a27336",
@@ -188,50 +221,17 @@
       "evidence": "Ukraine’s course to the EU"
     },
     {
-      "id": "eec7e2bfa3328451b26f02d40658f97e35208901",
-      "title": "Brussels finally has timetable for Ukraine’s EU bid",
-      "summary": "The European Commission expects EU leaders to give the green light at the next Brussels summit",
-      "url": "https://www.euractiv.com/news/brussels-finally-has-timetable-for-ukraines-eu-bid/",
-      "source": "Euractiv",
-      "published_at": "2026-05-27T12:25:22+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Brussels finally has timetable for Ukraine’s EU bid"
-    },
-    {
-      "id": "fb8613b69f09a10824efb881fc0f007c7802d332",
-      "title": "Ukrainian Drones Stray Into Baltic Airspace, Raising Tensions With Russia",
-      "summary": "Damage to an oil tank after drones crashed at a storage facility in Rezekne, Latvia",
-      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-ukrainian-drones-stray-into-baltic-airspace-raising-tensions-with-russia-11553710#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-05-27T08:42:15+00:00",
+      "id": "81b3990c22b9b6bfd395b4a3a956fd0003495a47",
+      "title": "Could Russia Hit Harder? It at Least Wants Ukraine to Think So.",
+      "summary": "Major attacks on Kyiv, followed by warnings of more, come as Moscow is stalled on the battlefield and at the negotiating table.",
+      "url": "https://www.nytimes.com/2026/05/27/world/europe/russia-ukraine-kyiv-attacks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-27T15:54:26+00:00",
       "sentiment": "negative",
       "confidence": 0.8,
-      "evidence": "Ukrainian Drones Stray Into Baltic Airspace"
-    },
-    {
-      "id": "b14bbcd649dce401cf74298b548b068eea7c2014",
-      "title": "Europe Today: NATO drills near Russia border as VDL warns over drone threat - Euronews.com",
-      "summary": "Europe Today: NATO drills near Russia border as VDL warns over drone threat&nbsp;&nbsp;Euronews.comUS concerned Russian campaign against Baltics could ‘spark into something bigger’, says Rubio – as it happened&nbsp;&nbsp…",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSnpGd2FSckp1Q1BKUFFWVlFlOVl4SWxTNjhSZWZSajY1NHNfSHR6MzdhNndITWV4ZC1ic2pPQUVmdnNFWGxVMkwwODN0aHRNMzdia1V0Si1GZktxTUZMcXV3RmR2UE5NV0RlOEpqWUNELTdfcFhtRHJkeFVzX2txMjJXWTg2ZlRVb1pPZVFsNGU3Y0hJOU9GSmtiS0dDWHFsNHdCOWZaLU5ZVkhFY3Z4NFRMSmdaWmpvZEE1eg?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-27T05:57:40+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Baltic States unite to demand more EU aid"
-    },
-    {
-      "id": "500befe850b7dd8638cb4e364fa8b7a8722ebefc",
-      "title": "High-Level British Spy Warns of Expanding Russia Threat",
-      "summary": "The director of Britain’s electronic surveillance agency warns that Russia is only getting more brazen as battlefield losses in Ukraine mount.",
-      "url": "https://www.nytimes.com/2026/05/26/world/europe/britain-gchq-spying-russia.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-27T01:44:38+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "battlefield losses in Ukraine mount"
+      "evidence": "Major attacks on Kyiv, followed by warnings of more"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-29T12:31:23Z"
+  "last_updated": "2026-05-30T11:00:36Z"
 }

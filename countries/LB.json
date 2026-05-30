@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 380,
+  "sources": 381,
   "sentiment": {
     "positive": 12,
     "neutral": 121,
-    "negative": 248
+    "negative": 249
   },
   "latest_articles": [
+    {
+      "id": "ffb89601acecd245921cae28acde4cfbe75e6264",
+      "title": "Israeli Troops Push Deeper Into Lebanon as Cease-Fire Talks Continue",
+      "summary": "Prime Minister Benjamin Netanyahu said Israeli ground forces had crossed Lebanon’s Litani River, as military officials from the two countries were set to meet for U.S.-brokered talks.",
+      "url": "https://www.nytimes.com/2026/05/29/world/middleeast/israel-lebanon-litani-troops-talks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-29T17:10:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Push Deeper Into Lebanon"
+    },
     {
       "id": "c13865d05aff853ab31509947b685e6cf6d3efe6",
       "title": "Israel hits Lebanese capital in 'targeted strike'",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Israeli strikes in Lebanon killed 10, including six paramedics"
-    },
-    {
-      "id": "7fcd51da9e2c0592fb2a5b0b9df0b0f5be2fa84d",
-      "title": "Israeli strikes on Lebanon kill at least 19 as clashes with Hezbollah continue despite ceasefire",
-      "summary": "Single strike on the village of Deir Qanoun al Nahr in the coastal Tyre province killed 10, including three children and three women, health ministry saysIsraeli airstrikes on southern Lebanon on Tuesday killed at least…",
-      "url": "https://www.theguardian.com/world/2026/may/20/deadly-israeli-strikes-lebanon",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-19T23:13:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Israeli strikes on Lebanon kill at least 19 as clashes with Hezbollah continue"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-29T12:31:23Z"
+  "last_updated": "2026-05-30T11:00:36Z"
 }
