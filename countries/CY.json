@@ -1,16 +1,26 @@
 {
   "country": "CY",
-  "score": 90,
+  "score": 95,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 291,
+  "trend": 5,
+  "sources": 282,
   "sentiment": {
-    "positive": 21,
+    "positive": 20,
     "neutral": 245,
-    "negative": 25
+    "negative": 17
   },
   "latest_articles": [
+    {
+      "id": "04c1454b8defc80d912974faff55adc6276abbf6",
+      "title": "After Orban’s Defeat, Hungary Is Poised to Get Billions From E.U.",
+      "summary": "The European Union is set to release 16 billion euros it had withheld, as Hungary moves to enact anti-corruption and rule of law policies.",
+      "url": "https://www.nytimes.com/2026/05/29/world/europe/eu-hungary-funds.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-30T01:24:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "e0f1d36043dacabc43f2ede4717d1d059c1be662",
       "title": "New scoreboard shows success of European startup policies - European Commission",
@@ -204,19 +214,8 @@
       "published_at": "2026-05-21T09:40:00+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "c6a2438faac7d4f457a64f786d525de026521619",
-      "title": "Demography of Europe: 2026 edition out now - European Commission",
-      "summary": "Demography of Europe: 2026 edition out now&nbsp;&nbsp;European CommissionCyprus population nears one million after two decades of growth&nbsp;&nbsp;Cyprus MailNew EU figures show scale of Latvia's demographic challenge&n…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IaF9MU0lDdFRreWo2VE51R19ya1otY2dRUHoyQXhfa0dYdjcwMXFldDNIc29jNGZGbV9pUndCcGpSN1Q4bFduRDR6Q2tkc2VKcUpEdDlFYUloRzJROWo3Tl8zLWxiTFMyZ29xbVR4d1V3VG5USlBaLUphQ1ZHQQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-21T09:00:11+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Cyprus population nears one million after two decades of growth"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-30T11:00:36Z"
+  "last_updated": "2026-05-31T11:09:36Z"
 }

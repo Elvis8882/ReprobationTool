@@ -3,14 +3,24 @@
   "score": 100,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
+  "trend": 0,
   "sources": 303,
   "sentiment": {
-    "positive": 33,
-    "neutral": 253,
+    "positive": 34,
+    "neutral": 252,
     "negative": 17
   },
   "latest_articles": [
+    {
+      "id": "04c1454b8defc80d912974faff55adc6276abbf6",
+      "title": "After Orban’s Defeat, Hungary Is Poised to Get Billions From E.U.",
+      "summary": "The European Union is set to release 16 billion euros it had withheld, as Hungary moves to enact anti-corruption and rule of law policies.",
+      "url": "https://www.nytimes.com/2026/05/29/world/europe/eu-hungary-funds.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-30T01:24:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "b67ee4d7c6667e5738c1faa755e1c1bbd62287a6",
       "title": "Poland first in EU to receive SAFE defence loan payment",
@@ -41,6 +51,17 @@
       "published_at": "2026-05-29T09:02:45+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "2bfafe0ddb7e95dfbcb70c80b35d042a1d765baa",
+      "title": "FIREPOWER: Belgium, Poland cheer new SAFE milestones",
+      "summary": "In today's edition: drones, new NATO command centre, AGILE",
+      "url": "https://www.euractiv.com/news/firepower-belgium-poland-cheer-new-safe-milestones/",
+      "source": "Euractiv",
+      "published_at": "2026-05-29T06:05:52+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Belgium, Poland cheer new SAFE milestones"
     },
     {
       "id": "ca56f9bdc964166b54dd3bf7004519a177170b6b",
@@ -196,29 +217,8 @@
       "published_at": "2026-05-22T16:55:00+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "f4ca2aa3c4848b5037559a430c799a76f59fa5ed",
-      "title": "Trump reverses course, sending 5,000 troops to Poland weeks after Europe withdrawal - FOX 13 Tampa Bay",
-      "summary": "Trump reverses course, sending 5,000 troops to Poland weeks after Europe withdrawal&nbsp;&nbsp;FOX 13 Tampa BayCable: US-Polish troop fracas due partly to bad US messaging&nbsp;&nbsp;PoliticoTrump says he’s sending 5,000…",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYjRhUkVGazgwU0o2VFhwVG1ORGNTN1JkOWNOeW5PX3RlbC1hMG5pcFZsVXhyWTBWc19WdG5FWW5tOGkxMDBjWHRmd2FpLWpJX0N0YmZfdDYxZmFUSnQwQ3dmZVh0UzlwYlVsTXQ4aUJfQTdtU3RydWM0N0RLYXBvRENB0gGHAUFVX3lxTE1oVUtPdnhOWUVxNFdEdGRFald5dnhNbm1HZ1Zhd0MxczhaaTJTMk5DSUU3czhod1lzLTFFOUxyRHZBZEt1Q2puVHpFVkFUcmZ6WXZWSFgza19HU3l3TDlFQlNFUXo1bEhnWFNRVTl6OE9CaFcza2c4ZTRpNHJnektYTWdzM2NHYw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-22T15:15:52+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "sending 5,000 troops to Poland"
-    },
-    {
-      "id": "1eee80fcf12704dc67dd4994fcf8f78f6f593a0f",
-      "title": "European Parliament targets December plenary vote on Biotech Act",
-      "summary": "The timeline for Parliament's opinion‑giving committees is also set",
-      "url": "https://www.euractiv.com/news/european-parliament-targets-december-plenary-vote-on-biotech-act/",
-      "source": "Euractiv",
-      "published_at": "2026-05-22T12:37:40+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-30T11:00:36Z"
+  "last_updated": "2026-05-31T11:09:36Z"
 }

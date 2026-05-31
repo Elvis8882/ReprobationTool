@@ -1,16 +1,49 @@
 {
   "country": "IT",
-  "score": 91,
+  "score": 89,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 426,
+  "trend": -2,
+  "sources": 428,
   "sentiment": {
-    "positive": 30,
-    "neutral": 368,
-    "negative": 28
+    "positive": 29,
+    "neutral": 369,
+    "negative": 30
   },
   "latest_articles": [
+    {
+      "id": "ccb54abf1450deebb4ac4f67439b135c6a933292",
+      "title": "Horses Bolt Through Rome After Policeman Lights Fireworks At Parade Rehearsal",
+      "summary": "Several riders were thrown.",
+      "url": "https://www.ndtv.com/world-news/horses-bolt-through-rome-after-policeman-lights-fireworks-at-parade-rehearsal-11571122#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-05-31T10:00:31+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Horses Bolt Through Rome After Policeman Lights Fireworks"
+    },
+    {
+      "id": "9dee96821cf66fd8d74bf00672c1416ba0e949cd",
+      "title": "Ye and Travis Scott Concerts Canceled in Italy Over Security Fears",
+      "summary": "The events were canceled “to ensure public order and safety,” the authorities said. Jewish leaders had objected to the concert by Ye, formerly known as Kanye West, who has a history of antisemitic remarks.",
+      "url": "https://www.nytimes.com/2026/05/30/world/europe/ye-travis-scott-italy-concerts.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-30T18:37:14+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "canceled in Italy Over Security Fears"
+    },
+    {
+      "id": "03b43db4f93f368ce06db84ab4405012f69c4d95",
+      "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
+      "summary": "Local authorities say the cancellation of other West concerts had played a role in the decision.",
+      "url": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-30T15:39:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Italy bans Kanye West and Travis Scott concerts over security concerns"
+    },
     {
       "id": "7ff228141f8f2fc3e4bdd786f4d9680db288db73",
       "title": "‘How can you have a Ferrari without any vroom?’: electric model shocks owners’ club",
@@ -21,6 +54,16 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Italian carmaker’s first fully electric car, the Luce EV"
+    },
+    {
+      "id": "04c1454b8defc80d912974faff55adc6276abbf6",
+      "title": "After Orban’s Defeat, Hungary Is Poised to Get Billions From E.U.",
+      "summary": "The European Union is set to release 16 billion euros it had withheld, as Hungary moves to enact anti-corruption and rule of law policies.",
+      "url": "https://www.nytimes.com/2026/05/29/world/europe/eu-hungary-funds.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-30T01:24:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "e6faafd83ee704be70af474dcf7612c8140546aa",
@@ -178,51 +221,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Italy’s bridge megaproject hits procurement snag"
-    },
-    {
-      "id": "e55054b8acddc4c494d8d74fa137d86985c02bc5",
-      "title": "Hotel that refused to give tourist tap water acted lawfully, Italian court rules",
-      "summary": "The Italian Supreme Court rejected a tourist's claim that her consumer rights were breached when she was only offered €7 bottled mineral water.",
-      "url": "https://www.bbc.com/news/articles/c4g4yd8q0j7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-27T02:52:49+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Italian court rules"
-    },
-    {
-      "id": "e65d7795417abffa5ddcdb7ac2b851d198c3f383",
-      "title": "BUDGET BRIEF: Can the MFF fix the single market?",
-      "summary": "Includes: Italian mafia and EU funds, Friends of Cohesion, European safe haven for US researchers, tobacco taxation and more",
-      "url": "https://www.euractiv.com/news/budget-brief-can-the-mff-fix-the-single-market/",
-      "source": "Euractiv",
-      "published_at": "2026-05-26T16:58:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Includes: Italian mafia and EU funds"
-    },
-    {
-      "id": "f50fcaa547ebcf4f99dce5611eebc649665c3715",
-      "title": "Italian business lobby pitches two-speed energy union",
-      "summary": "Confindustria chief Orsini recommends using the EU's 'enhanced cooperation' mechanism",
-      "url": "https://www.euractiv.com/news/italian-business-lobby-pitches-two-speed-energy-union/",
-      "source": "Euractiv",
-      "published_at": "2026-05-26T16:23:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Italian business lobby pitches two-speed energy union"
-    },
-    {
-      "id": "1deb0e72a988282463e68d664f0d01325b0a0b82",
-      "title": "‘A Dangerous Bluff’: Carney Likens Alberta Referendum to Brexit",
-      "summary": "The Canadian prime minister, who was the governor of the Bank of England when Britain voted to leave the European Union, said the Alberta referendum on separating from Canada could backfire.",
-      "url": "https://www.nytimes.com/2026/05/25/world/canada/mark-carney-alberta-referendum-brexit.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-26T15:08:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-30T11:00:36Z"
+  "last_updated": "2026-05-31T11:09:36Z"
 }

@@ -1,16 +1,49 @@
 {
   "country": "RO",
-  "score": 86,
+  "score": 83,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": -3,
-  "sources": 283,
+  "sources": 287,
   "sentiment": {
     "positive": 17,
     "neutral": 238,
-    "negative": 28
+    "negative": 32
   },
   "latest_articles": [
+    {
+      "id": "b99138b15f1fa9820d73caf6a312dd668a6f93ab",
+      "title": "A Big Bang, a Fire and Panic as War Enters Romanian Homes",
+      "summary": "When a drone crashed into an apartment building in eastern Romania, residents were reminded that the Russia-Ukraine war makes for a dangerous neighbor.",
+      "url": "https://www.nytimes.com/2026/05/30/world/europe/romania-drone-russia-ukraine.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-30T19:10:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "war Enters Romanian Homes"
+    },
+    {
+      "id": "5cc6a955f0d1e851686352028cfde281ca901212",
+      "title": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
+      "summary": "People have just begun returning to check on their homes in the block that was hit early on Friday morning.",
+      "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-30T17:34:30+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Residents of Romanian city hit by drone share fears"
+    },
+    {
+      "id": "22dfd9fef7f47ca8ddae46d10f4c3b59bb213972",
+      "title": "'I will sleep with fear': Romanians shaken after block of flats hit by drone",
+      "summary": "A Russian drone hit a block of flats in Romania on Friday, causing a fire and injuring two people, Romanian officials say.",
+      "url": "https://www.bbc.com/news/videos/c4g5kxl9k1ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-05-30T16:21:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "A Russian drone hit a block of flats in Romania"
+    },
     {
       "id": "c9665c37d19df42fe9cd2409293ae2416c0dfd66",
       "title": "The Russian Drone That Hit Romania Also Hit European Confidence",
@@ -21,6 +54,27 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Russian Drone That Hit Romania Also Hit European Confidence"
+    },
+    {
+      "id": "04c1454b8defc80d912974faff55adc6276abbf6",
+      "title": "After Orban’s Defeat, Hungary Is Poised to Get Billions From E.U.",
+      "summary": "The European Union is set to release 16 billion euros it had withheld, as Hungary moves to enact anti-corruption and rule of law policies.",
+      "url": "https://www.nytimes.com/2026/05/29/world/europe/eu-hungary-funds.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-30T01:24:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "7be0d99a77b1a742d4e44651d13a37a710a21d8b",
+      "title": "Statement by the High Representative on behalf of the EU on the reckless violation of the EU’s airspace by Russia - consilium.europa.eu",
+      "summary": "Statement by the High Representative on behalf of the EU on the reckless violation of the EU’s airspace by Russia&nbsp;&nbsp;consilium.europa.eu'No-one feels safe now': Residents of Romanian city hit by drone share fears…",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONFNxaW1qU2NVd3hkM2JMaEJRczJNVUhTZjRlaENDNFE5UGtjbW4xQ1BfWjBWWXdpOXdMLVV5TnJZeDJLcUVoeEllUDdaVGxDcmxWb2JIa1E3WHIwUnNxbUNlVG5TbnBTMWphMW45ODhHQ1pDRU1uVHZBdnRIMkxtaXk3TzJsbzFLUGU3cFluRFJvVVdIQ0VPS0ZObnFUNVJBRnNuZnBWVjMxRXZDbVlLbXU2OHBySFVUSC1LNVNjbEhVTFd4ajkxQ051eVViQk8xM0ZJNHVyTUhmWEZJWlFDcnRxNTM3clJsNGNHUFd1VDBVd215NWtDYUpNUnh4M0xoMXMtLUZCbTF0MlhSX3c?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-05-29T18:12:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Residents of Romanian city hit by drone share fears"
     },
     {
       "id": "44cbfc06b23dbf4e25d92cddc3dcc6cbb679bc36",
@@ -171,58 +225,8 @@
       "published_at": "2026-05-28T11:54:06+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "37bc4ea7010d9ceed526bd52ce5facc964334db1",
-      "title": "EU fines Temu €200m for allowing sale of illegal products",
-      "summary": "The European Commission says the Chinese-owned online retailer failed to take account of risks from baby toys and faulty chargers sold on its platform.",
-      "url": "https://www.bbc.com/news/articles/c1k2ydn1rz8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-28T11:39:38+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "eec7e2bfa3328451b26f02d40658f97e35208901",
-      "title": "Brussels finally has timetable for Ukraine’s EU bid",
-      "summary": "The European Commission expects EU leaders to give the green light at the next Brussels summit",
-      "url": "https://www.euractiv.com/news/brussels-finally-has-timetable-for-ukraines-eu-bid/",
-      "source": "Euractiv",
-      "published_at": "2026-05-27T12:25:22+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "2671e499f216432f13e7c433af9d456c160d7450",
-      "title": "Number of ICT specialists in the EU continues to grow - European Commission",
-      "summary": "Number of ICT specialists in the EU continues to grow&nbsp;&nbsp;European CommissionICT specialist employment in Cyprus dips, gender gap persists&nbsp;&nbsp;Cyprus MailBulgaria Among EU Leaders in Womens Participation in…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlazRHQTNFNTdaWlBqaGcwQ2hyc3dzeU4yQ0FJV1Nwd2RSdl9Ha1c1UnREdjhqNXluQm9nMjJwMnJWOVR1dHJJX1RmRUxtMUs2NGw3YmFmNUxJOFdZZEY0Rkw4X1ZBT2Y0RUZqRktremQ0NU05UkZ3RGpNVTU1dw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-27T09:03:21+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "5e891704133c2c001496efb2698e09d41021c6cd",
-      "title": "Average work week nearly 36 hours in the EU in 2025 - News articles - Eurostat - European Commission",
-      "summary": "Average work week nearly 36 hours in the EU in 2025 - News articles - Eurostat&nbsp;&nbsp;European CommissionWeekly working time in Cyprus at 37.7 hours in 2025, according to Eurostat&nbsp;&nbsp;ΚΥΠΕLatvians work longer…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45MEFJY18tYkF2dUd3MWI3aG5ROTkwdzdIR2lwdS1nWjJ3TVBfQUdtRFFSQzU1bkVnOHNQa0IzWmZRTzJpbHp3aEM4bS04SUJTUkZCS0xXZk1Cems0SUlZd3BYNGtGOEhlMGVSbHVtQ1FmTlhOeFJxay1oN0Nxdw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-27T09:03:21+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "1deb0e72a988282463e68d664f0d01325b0a0b82",
-      "title": "‘A Dangerous Bluff’: Carney Likens Alberta Referendum to Brexit",
-      "summary": "The Canadian prime minister, who was the governor of the Bank of England when Britain voted to leave the European Union, said the Alberta referendum on separating from Canada could backfire.",
-      "url": "https://www.nytimes.com/2026/05/25/world/canada/mark-carney-alberta-referendum-brexit.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-26T15:08:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-30T11:00:36Z"
+  "last_updated": "2026-05-31T11:09:36Z"
 }
