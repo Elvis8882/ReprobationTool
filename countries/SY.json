@@ -1,16 +1,27 @@
 {
   "country": "SY",
-  "score": 88,
+  "score": 87,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 42,
+  "trend": -1,
+  "sources": 43,
   "sentiment": {
     "positive": 3,
     "neutral": 20,
-    "negative": 19
+    "negative": 20
   },
   "latest_articles": [
+    {
+      "id": "b303d9a0c9a10d400a0edc3b7c79e72c1a35695e",
+      "title": "Syrian Officers Who Hid in Plain Sight Face War Crime Charges in Austria",
+      "summary": "The trial, Austria’s first against Assad regime officials, will be a rare chance for Syrian witnesses to confront two men they have accused of torture.",
+      "url": "https://www.nytimes.com/2026/06/01/world/middleeast/syria-war-crimes-trial-austria.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-01T13:34:49+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "accused of torture"
+    },
     {
       "id": "481301c6740f5c7d78da274c7c6a498d72658382",
       "title": "How Mount Bental Acts As Israel's Fortress On Syrian Frontier, NDTV Reports",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Syrian commission prepares war crimes case against notorious Assad official"
-    },
-    {
-      "id": "3c7be4c3585402f602b3d61a9ce332a58f554d26",
-      "title": "Taking power in Mali might be a stretch but insurgents can force hand of weakened regime",
-      "summary": "Coordinated attack by JNIM and the Tuareg minority inflicted significant casualties on government forces and Russian auxiliariesWhen al-Qaida-affiliated Islamic militants launched a series of attacks on military bases an…",
-      "url": "https://www.theguardian.com/world/2026/apr/28/taking-power-in-mali-might-be-a-stretch-but-insurgents-can-force-hand-of-weakened-regime",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-28T06:00:42+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "their counterparts in Syria, who had overthrown the regime"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-05-31T11:09:36Z"
+  "last_updated": "2026-06-01T15:35:48Z"
 }

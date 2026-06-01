@@ -1,0 +1,41 @@
+{
+  "id": "cda998e27f664801d60c07f55ed0dbe0fbfb264d",
+  "title": "Iran War Live Updates: U.S. and Iran Trade Attacks and Israel Threatens Beirut",
+  "summary_full": "An unconfirmed report said Iran would stop participating in negotiations with Washington. In Lebanon, Israel issued an evacuation order for the capital’s southern outskirts, a stronghold of Iran-backed Hezbollah.",
+  "summary_public": "An unconfirmed report said Iran would stop participating in negotiations with Washington. In Lebanon, Israel issued an evacuation order for the capital’s southern outskirts, a stronghold of Iran-backed Hezbollah.",
+  "url": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon",
+  "published_at": "2026-06-01T15:20:40+00:00",
+  "source": "NYT > World News",
+  "language": "en",
+  "countries_detected": [
+    "IL",
+    "IR",
+    "LB"
+  ],
+  "countries_scored": [
+    "IL",
+    "IR",
+    "LB"
+  ],
+  "sentiment_by_country": {
+    "IL": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Israel Threatens Beirut"
+    },
+    "IR": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran War Live Updates: U.S. and Iran Trade Attacks"
+    },
+    "LB": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Israel issued an evacuation order for the capital’s southern outskirts"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-06-01T15:35:48+00:00",
+  "processed_at": "2026-06-01T15:35:48+00:00"
+}
