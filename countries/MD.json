@@ -1,16 +1,38 @@
 {
   "country": "MD",
-  "score": 79,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 15,
+  "score": 80,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": 1,
+  "sources": 17,
   "sentiment": {
-    "positive": 8,
-    "neutral": 3,
+    "positive": 9,
+    "neutral": 4,
     "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "78e7da567239d55cbccb106fcdc27526d4e86acf",
+      "title": "Whistleblower hunt",
+      "summary": "Also, in Tuesday’s edition: return hubs, Frederiksen returns, Moldova, and what’s a farmer?",
+      "url": "https://www.euractiv.com/news/rapporteur-whistleblower-hunt/",
+      "source": "Euractiv",
+      "published_at": "2026-06-02T05:24:27+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Moldova, and what’s a farmer?"
+    },
+    {
+      "id": "063165d4a67ad06f9e8e2536c0a890bd102fd384",
+      "title": "Moldova’s ‘Plan B’ for EU accession is to join Romania, says deputy PM",
+      "summary": "Moldova's objective remains signing an EU accession treaty by the end of 2028, Osmochescu insists",
+      "url": "https://www.euractiv.com/news/moldovas-plan-b-for-eu-accession-is-to-join-romania-says-deputy-pm/",
+      "source": "Euractiv",
+      "published_at": "2026-06-02T02:00:22+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Moldova’s ‘Plan B’ for EU accession is to join Romania"
+    },
     {
       "id": "01f300183a01970a4995605f81459b659fd75fa7",
       "title": "Could Moldova join the EU by merging with Romania?",
@@ -178,5 +200,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-01T15:35:48Z"
+  "last_updated": "2026-06-02T12:55:46Z"
 }

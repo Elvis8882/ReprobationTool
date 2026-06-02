@@ -1,16 +1,104 @@
 {
   "country": "UA",
-  "score": 28,
+  "score": 25,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 638,
+  "trend": -3,
+  "sources": 644,
   "sentiment": {
-    "positive": 250,
-    "neutral": 165,
-    "negative": 224
+    "positive": 251,
+    "neutral": 166,
+    "negative": 228
   },
   "latest_articles": [
+    {
+      "id": "90de04e19c09b66b74402130fb401a99b809b9a2",
+      "title": "Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people",
+      "summary": "An eight-year-old boy and a woman killed in a strike on an apartment block are among the dead, officials say.",
+      "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-02T12:04:53+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Ukraine rescuers pull dead from rubble"
+    },
+    {
+      "id": "0f1f1607985c9c4a5364b2480020458c1f0e0a58",
+      "title": "Russia Is Showing Signs of Weakness in Ukraine. So It Hits Harder.",
+      "summary": "The war has not been going the Kremlin’s way recently, with battleground losses and mounting casualties. With renewed strikes, Moscow hopes to gain a better position for negotiations.",
+      "url": "https://www.nytimes.com/2026/06/02/world/europe/ukraine-russia-war-strikes.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-02T11:51:19+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia Is Showing Signs of Weakness in Ukraine. So It Hits Harder."
+    },
+    {
+      "id": "a7a8540b2294e4ef0d988ad23f8b2c6cdfac4562",
+      "title": "Putin's New Friends: Russia's Military Pact With Taliban Amid Ukraine War",
+      "summary": "Analysts say the agreement is more likely to focus on security cooperation",
+      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-taliban-putin-putins-new-friends-russias-military-pact-with-taliban-amid-ukraine-war-11580357#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-02T11:48:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia's Military Pact With Taliban Amid Ukraine War"
+    },
+    {
+      "id": "30971ad8f3d22adc05481821c0f7aa61d4c61dc0",
+      "title": "Russia Accuses Kyiv Of 'Acts Of Terror' After Attacks On Ukrainian Cities",
+      "summary": "Russia made overnight strikes on Ukrainian cities, which killed at least 17 people",
+      "url": "https://www.ndtv.com/world-news/russia-accuses-kyiv-of-acts-of-terror-after-attacks-on-ukrainian-cities-11580577#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-02T11:31:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia made overnight strikes on Ukrainian cities, which killed at least 17 people"
+    },
+    {
+      "id": "fb9511b01d0b634ec862bb37905530c34940b66d",
+      "title": "Russia Launches Deadly Strikes on Kyiv After Threatening Ukraine for a Week",
+      "summary": "Moscow’s repeated warnings of a major strike, combined with the delay before it happened, seemed intended to inflict a psychological toll on the Ukrainian capital.",
+      "url": "https://www.nytimes.com/2026/06/02/world/europe/ukraine-war-russia-kyiv-attack.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-02T11:18:06+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Deadly Strikes on Kyiv After Threatening Ukraine"
+    },
+    {
+      "id": "dd3c463d0e9aca768c94ccd0ef2a5bc9f097699b",
+      "title": "Zelenskyy asks Trump to send missiles after Russian strikes across Ukraine",
+      "summary": "At least 18 killed, dozens injured and others trapped under collapsed buildings after attacks on five Ukrainian citiesVolodymyr Zelenskyy has asked Donald Trump to send Patriot missiles to Ukraine after a devastating Rus…",
+      "url": "https://www.theguardian.com/world/2026/jun/02/ukraine-war-russia-air-raids-strike-kyiv-dnipro-kharkiv",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-02T10:20:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russian strikes across Ukraine"
+    },
+    {
+      "id": "83fd1b8f03ede09e2cf88a837bc75029f4f090ab",
+      "title": "As Russia fails to achieve war aims in Ukraine, Putin needs a way out",
+      "summary": "European officials say Moscow's escalating aggression is a result of increasing difficulties that Russia is facing militarily and economically.",
+      "url": "https://www.washingtonpost.com/world/2026/06/02/pressure-rises-putin-analysts-say-russia-war-aims-are-unattainable/",
+      "source": "World (Washington post)",
+      "published_at": "2026-06-02T09:00:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Russia fails to achieve war aims in Ukraine"
+    },
+    {
+      "id": "a80fd162117f030e2290c857d113dca6c278fc3c",
+      "title": "EU says drones are a threat but scrambles for common response - Euronews.com",
+      "summary": "EU says drones are a threat but scrambles for common response&nbsp;&nbsp;Euronews.comErrant Ukrainian drones fuel tensions on NATO's eastern flank&nbsp;&nbsp;ReutersBaltics turn to Ukraine for bomb shelter expertise amid…",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZnRmbEhaakFwNGJuc3J1ZlFnbGcwUlZuZ1JNVXZjVWpSekZ1UHE1SVNjQnh0R2czZldWczNYUDM5eUduczJyVGdqOU1oYy1WTC1Bc2E3SkVkTTlFbm1PNkRvTmRIX1E4SXgxMlNlVWNJdDI1OUNLajJEdVZhVVJTUExIUy1ua2JmYUswV3VvdmpqZ0FHejhMS3IyUy1USFIySkhtb1B4LWNmOFRsV01J?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-01T15:06:35+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.8,
+      "evidence": "Ukraine's strikes inside Russia became a headache for its NATO allies"
+    },
     {
       "id": "a431ca51cadb7eeb5dbdc0078d8f3d8cf879e5eb",
       "title": "Russia Fired Record 8,150 Drones At Ukraine In May: Report",
@@ -21,6 +109,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Drones At Ukraine In May"
+    },
+    {
+      "id": "d9581016a12b7ccc32efd47df693e39089b358f8",
+      "title": "Lithuania deploys drone detection system at Palanga Airport, Kaunas and Vilnius to follow - Unmanned airspace",
+      "summary": "Lithuania deploys drone detection system at Palanga Airport, Kaunas and Vilnius to follow&nbsp;&nbsp;Unmanned airspaceLithuania to test drone detection system after incidents with Ukrainian drones&nbsp;&nbsp;БабельPalang…",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZnZYTjlkM3dEYUlFWlN1YVlybVlyeGtCdEJzaVRSdlBsRkdTT3RkX09iTF9HSGJ6VVlCd2xIYnZicGVudVk4YVhkT0ZScGtodnZ1YjcyaXdFc1NOQVlKWlBDbGNiOURoRmpFOXBEc2s5dFVyakJyYWx4VXFEU1ZWam9kbEhRdDdHeEx4OGs3U0FhbGdxai1rbGFWc2F1MDRvYnY4VF9kNkZ3SFdfak5zZkhNOWhHdWIwM0xubWJlMVFFX09zVld1NGlJMDd5VzRDeDhVUHpEcUVFLVh3cGx5NjZxQlUyQS1leUViZQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-01T10:41:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "incidents with Ukrainian drones"
     },
     {
       "id": "d7d4b14eff21e8b1c8dd6ffd6f21be24c4b09c28",
@@ -131,107 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "Ukraine Is Using Soldiers That Don't Need Food Or Water To Kill Russians"
-    },
-    {
-      "id": "3515104d9396e1e238ad206d066f1d9bb83fb8fa",
-      "title": "Ukraine using AI drones to strike vital convoys supplying Russian troops",
-      "summary": "BBC Verify has analysed videos of attacks in occupied Ukraine on Russian trucks carrying ammunition, fuel and food.",
-      "url": "https://www.bbc.com/news/articles/cdjp0n7rn41o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-30T01:34:38+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukraine using AI drones to strike vital convoys"
-    },
-    {
-      "id": "3a6c93e50265e606c1a6d4e0b310b83c3b3248f7",
-      "title": "Cutting bonuses and other expenses, impact on the economy and airBaltic. The government will hold its first meeting - Inbox.eu",
-      "summary": "Cutting bonuses and other expenses, impact on the economy and airBaltic. The government will hold its first meeting&nbsp;&nbsp;Inbox.euNo quick fix for Latvia’s drone crisis&nbsp;&nbsp;politico.euLatvia parliament approv…",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN2NjMmZITlBxTmJXM3p5WUtNRjVHa1lWZG9oa0ZIaElXenJRYkxzSW1JNTh2eE1KLXpPdTdjV2RvMEtScWRFeEdGenFjN3liYmRESDFXcDZBOXV2Rk9qRXhaYlFoQTVIN2QxNDY1VUM3elBsYjlVblZtVlZHWFlRbkd1NVhTYXZ6VFZZbVhDaFZyR05NUktUcG03QWhwbVA5RG9fVmhJYnpYU1VHRmNQaHRHc3BzdnRQYlRTZGd3Z1FUVHlMM1llMmMtV2tMWXBDMVVtOHREdS1ZazlBc18zV3FQZlBGUEJEaGdF?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-29T18:06:51+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "New Latvian government confirmed after Ukrainian drone incursion from Russia"
-    },
-    {
-      "id": "062def5ca9a5e56a847fd5d4bf41ce85d66cf825",
-      "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
-      "summary": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory.",
-      "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-29T17:27:09+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "hit over Ukraine by its air defences"
-    },
-    {
-      "id": "44cbfc06b23dbf4e25d92cddc3dcc6cbb679bc36",
-      "title": "Putin denies Russian involvement in Romania drone incident - Yahoo",
-      "summary": "Putin denies Russian involvement in Romania drone incident&nbsp;&nbsp;YahooUkraine war latest: Ukraine hits Russian city in 'massive attack'&nbsp;&nbsp;Sky NewsThe Russian Drone That Hit Romania Also Hit European Confide…",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY29OM1ktNGFUbHMzVElsZ00wdEdnX3JXbUNLVDZaSkxRMVpRWlRBcVYycUk3RXF3M2wtY2hILUN6MDl2bEZ4VENxOXVDM1VZX3lBS2o5VzI5WXM3Wk9hbnVBdzBWUXd4aFhMVFkydl80T2s5TGZycVp3c1FON1RWU3EwcEhzUFJuNEl2SFAwUXJCMjBkUUlFbElGMzN0Zw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-29T17:25:17+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Ukraine war latest"
-    },
-    {
-      "id": "29a95b2dee3f67d2f71611ba6a1960ea0d683dcd",
-      "title": "Palanga Airport installs advanced drone detection system: residents are urged to respect rules - The Baltic Times",
-      "summary": "Palanga Airport installs advanced drone detection system: residents are urged to respect rules&nbsp;&nbsp;The Baltic TimesLithuania tests drone early detection system&nbsp;&nbsp;Online.UALithuania considers Israeli drone…",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMmdZcXhDTmpuMVpnbm1fMENSa3pEbjd6Q1V5XzZJVlVobEJSTHNxU3Bna2JVMVllYWY3Qk1zai1mb1g1WlVueWc1dVBhNnNKaFgtdUZaWFdBVkQzaGRURGZGLWlCZTF3c012cVlRd01DcXRaZ3pIUWFlT0RpbUVPYWFYQ1Bjc2RjSE9Odmg3WXBoLUNaWi1ReW4zU183dHVDTXJKNEl2ZDNpOXpQbTFQUTlTNnNybU9lUjV4RmVZeWQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-29T12:47:02+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Lithuania to test drone detection system after incidents with Ukrainian drones"
-    },
-    {
-      "id": "2a3b8485c489dc187af57d5233abd0b1138dd89a",
-      "title": "‘Serious escalation’: Nato fumes after Russian drone crashes in Romania",
-      "summary": "A Russian drone crashed into an apartment building in eastern Romania, injuring two people and sparking outrage. President Nicusor Dan called it the \"worst incident to hit the national territory\" since the war began. NAT…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/serious-irresponsible-escalation-nato-fumes-after-russian-drone-crashes-into-romanian-apartment-building/articleshow/131389726.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-05-29T11:50:12+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "renewed Russian attacks on Ukraine"
-    },
-    {
-      "id": "0ccbe0b29156c36863ed9fe648479ac8e6bfe94e",
-      "title": "Were Romanian Casualties From a Russian Drone Strike Inevitable?",
-      "summary": "The strike on Friday, near the Ukrainian border, was the first to injure civilians in Romania, officials say. But drones from the nearby war have been a growing threat.",
-      "url": "https://www.nytimes.com/2026/05/29/world/europe/romania-drone-strike-what-to-know.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-29T11:33:38+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "near the Ukrainian border"
-    },
-    {
-      "id": "9d0b5d1028e598dcc2bdeedf8de20eda95b4a807",
-      "title": "Nato ready to defend ‘every inch’ of territory as Russian drone hits Romania",
-      "summary": "Mark Rutte says Moscow’s ‘reckless behaviour is a danger to us all’ after drone hit apartments during attack on UkraineEurope live – latest updatesThe Nato secretary general, Mark Rutte, has said the alliance is “ready t…",
-      "url": "https://www.theguardian.com/world/2026/may/29/russian-drone-romanian-apartments-wounding-two-people-and-starting-fire",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-29T09:11:20+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "attack on neighbouring Ukraine"
-    },
-    {
-      "id": "ac3bc2b0b72237761002be1f8a35239813a27336",
-      "title": "After a brutal winter, Ukraine’s drones are breaking Russian defenses",
-      "summary": "Russia’s advance has suddenly stalled, and Ukraine is fighting on its own terms — a comeback credited to Kyiv’s efforts to steadily strengthen the capabilities of its UAVs.",
-      "url": "https://www.washingtonpost.com/world/2026/05/29/after-brutal-winter-ukraines-drones-are-breaking-russian-defenses/",
-      "source": "World (Washington post)",
-      "published_at": "2026-05-29T09:00:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine’s drones are breaking Russian defenses"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-01T15:35:48Z"
+  "last_updated": "2026-06-02T12:55:46Z"
 }

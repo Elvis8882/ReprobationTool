@@ -1,16 +1,27 @@
 {
   "country": "GE",
-  "score": 100,
+  "score": 71,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 9,
+  "trend": -29,
+  "sources": 11,
   "sentiment": {
     "positive": 1,
-    "neutral": 8,
-    "negative": 0
+    "neutral": 9,
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "6edd7a36062bfedac050b319428678f90e6423da",
+      "title": "Inside Stalin’s hidden wine cellar in Georgia: 40,000 rare French and Georgian bottles emerge after decades underground",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/inside-stalins-hidden-wine-cellar-in-georgia-40000-rare-french-and-georgian-bottles-emerge-after-decades-underground/articleshow/131433927.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-06-01T04:33:42+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "wine cellar in Georgia: 40,000 rare French and Georgian bottles"
+    },
     {
       "id": "8618eac5a85b03908cbe24c367b46cf6827e851e",
       "title": "No, Not That Georgia. A.I. Compounds a Nation’s Identity Woes.",
@@ -21,6 +32,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "A.I. Compounds a Nation’s Identity Woes"
+    },
+    {
+      "id": "aea903610da54a7577cd99f56651cc1708811ce8",
+      "title": "Trump Tower in Georgia to be built on land part-owned by son of US sanctions-hit leader",
+      "summary": "Links between Trump Organization and Ivanishvili family for Tbilisi skyscraper raise new conflict of interest concernsA Trump Tower planned for the Georgian capital, Tbilisi, is to be built on land currently part-owned b…",
+      "url": "https://www.theguardian.com/world/2026/may/25/trump-tower-georgia-tbilisi-land-part-owned-son-us-sanctions-leader",
+      "source": "World news - The Guardian",
+      "published_at": "2026-05-25T12:00:27+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "land part-owned by son of US sanctions-hit leader"
     },
     {
       "id": "08db753f3057742235abf41f1c4d5b2caafe9eb2",
@@ -112,5 +134,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-01T15:35:48Z"
+  "last_updated": "2026-06-02T12:55:46Z"
 }

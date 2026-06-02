@@ -15,8 +15,20 @@
     "FR",
     "GE"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-06-01T15:35:48+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-06-02T12:55:46+00:00",
+  "sentiment_by_country": {
+    "FR": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "French and Georgian bottles"
+    },
+    "GE": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "wine cellar in Georgia: 40,000 rare French and Georgian bottles"
+    }
+  },
+  "processed_at": "2026-06-02T12:55:46+00:00"
 }
