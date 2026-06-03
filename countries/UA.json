@@ -1,16 +1,126 @@
 {
   "country": "UA",
-  "score": 25,
+  "score": 23,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -3,
-  "sources": 644,
+  "trend": -2,
+  "sources": 645,
   "sentiment": {
     "positive": 251,
-    "neutral": 166,
-    "negative": 228
+    "neutral": 165,
+    "negative": 230
   },
   "latest_articles": [
+    {
+      "id": "944fa04d1a3d57a169a886f791711a098a6f5a3c",
+      "title": "Ukraine hits oil refinery as Russia opens St. Petersburg economic forum",
+      "summary": "Plumes of thick black smoke rose over St. Petersburg, President Vladimir Putin's hometown, as the Kremlin welcomed international guests for an event often described as Russia's Davos.",
+      "url": "https://www.washingtonpost.com/world/2026/06/03/ukraine-hits-oil-refinery-russia-opens-st-petersburg-economic-forum/",
+      "source": "World (Washington post)",
+      "published_at": "2026-06-03T12:37:47+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukraine hits oil refinery"
+    },
+    {
+      "id": "91bd24cf5061c4887825f97c98edecbdeccb4e62",
+      "title": "Ukraine Strikes St. Petersburg on First Day of a Marquee Putin Event",
+      "summary": "As an annual economic conference was set to begin, President Volodymyr Zelensky said Ukraine had targeted a navy base and an oil terminal in the region that includes Russia’s second-largest city.",
+      "url": "https://www.nytimes.com/2026/06/03/world/europe/ukraine-russia-attack-st-petersburg-putin.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-03T12:30:19+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine had targeted a navy base and an oil terminal"
+    },
+    {
+      "id": "06ed761887dcac9977051935c4a10b9b211b2c5f",
+      "title": "Eight killed after drone hits bus in Russia-controlled part of Ukraine",
+      "summary": "The bus was travelling between Moscow and Simferopol, in Russian-controlled Crimea, an official says.",
+      "url": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-03T12:08:09+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Eight killed after drone hits bus in Russia-controlled part of Ukraine"
+    },
+    {
+      "id": "4ff90e7e385b031523ab2353dfbf45479a63f8bc",
+      "title": "Ukraine strikes St Petersburg oil terminal as Russia reports bus attack killing 8 civilians",
+      "summary": "Ukraine launched deep drone strikes on St. Petersburg's energy and military sites, including an oil terminal and naval base, just as Russia hosted its economic forum. This follows a deadly Russian barrage on Ukraine. Rus…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/ukraine-drones-strike-st-petersburg-oil-terminal-naval-base-as-russia-reports-bus-attack-killing-8-civilians/articleshow/131483103.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-06-03T11:38:04+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Ukraine strikes St Petersburg oil terminal"
+    },
+    {
+      "id": "7feea57a56a3899ad8b1369f89f24a25adc776d6",
+      "title": "NATO chief arrives in Kyiv as Ukraine strikes St. Petersburg harbour",
+      "summary": "Ukrainian drone strikes cast shadow over St. Petersburg Economic Forum",
+      "url": "https://www.euractiv.com/news/nato-chief-arrives-in-kyiv-as-ukraine-strikes-st-petersburg-harbour/",
+      "source": "Euractiv",
+      "published_at": "2026-06-03T10:07:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Ukraine strikes St. Petersburg harbour"
+    },
+    {
+      "id": "41d19188976326d274a26d793f8e57a00ff2510e",
+      "title": "How EU media became events businesses",
+      "summary": "Also, in Wednesday’s edition: Berlaymont Dark Lord, Huawei-gate, tech, Hungary-Ukraine",
+      "url": "https://www.euractiv.com/news/rapporteur-how-eu-media-became-events-businesses/",
+      "source": "Euractiv",
+      "published_at": "2026-06-03T05:44:33+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Hungary-Ukraine"
+    },
+    {
+      "id": "dd2c65f9abc884b22ff3797b422c1f89bb5c43d8",
+      "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
+      "summary": "Russia is intensifying attacks in Ukraine but more than four years of war are causing concern even among Putin loyalists.",
+      "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-02T23:33:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Putin remains uncompromising on Ukraine, Russia is intensifying attacks"
+    },
+    {
+      "id": "ceef6d076d99379ae0941121f92afb298645927c",
+      "title": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
+      "summary": "Scenes of devastation greet residents emerging from underground shelters after a major Russian attack.",
+      "url": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-02T19:13:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Scenes of devastation greet residents emerging from underground shelters"
+    },
+    {
+      "id": "af8beb9976e43ee41c15f493afa38ea9ae9fdaad",
+      "title": "Russia hammers Ukrainian cities, killing at least 22",
+      "summary": "Moscow has intensified aerial bombing of Ukrainian cities as its battlefield advances have stalled.",
+      "url": "https://www.washingtonpost.com/world/2026/06/02/russia-hammers-ukrainian-cities-killing-least-22/",
+      "source": "World (Washington post)",
+      "published_at": "2026-06-02T16:55:51+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukrainian cities, killing at least 22"
+    },
+    {
+      "id": "a3de943cf35e9b6ec9bd764a4de3068bf2efc928",
+      "title": "Merz hails ‘fresh start’ as Magyar visits Berlin but Ukraine rift remains",
+      "summary": "Hungary will send 'neither weapons nor soldiers to Ukraine,' says Magyar",
+      "url": "https://www.euractiv.com/news/merz-hails-fresh-start-as-magyar-visits-berlin-but-ukraine-rift-remains/",
+      "source": "Euractiv",
+      "published_at": "2026-06-02T13:16:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Ukraine rift remains"
+    },
     {
       "id": "90de04e19c09b66b74402130fb401a99b809b9a2",
       "title": "Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people",
@@ -78,6 +188,17 @@
       "evidence": "Russian strikes across Ukraine"
     },
     {
+      "id": "fef857b6a1d5d66d5e190906d0e1143257c0d793",
+      "title": "President: Ukraine’s accession to the EU is in the security interests of Latvia and Europe - Baltic News Network",
+      "summary": "President: Ukraine’s accession to the EU is in the security interests of Latvia and Europe&nbsp;&nbsp;Baltic News NetworkPolitics: Lithuania in favor of Ukraine's rapid accession to the EU | blue News&nbsp;&nbsp;blue New…",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMjRoOEI3NFpXS1JBaVhYMW9UT2N6dHpBelhpV1Utcl9RbXJtcWpfdTNLaVNkSjFhMVprc3VfSFg5V0QyZGNRRGZOYkl5N2ZQaDNoYkE3SXFoTzZTNEJMNUJXMFBxazdmVWNTY1hfTUhLX0pIdTJXbXdxX1ZHcXprY2lJMnVoSHFzTVpTSGNJanpKTm9tX21MUzRqbzdYWG1uaDkxUGVfNDR0b2lPUXUyYnNLRFhWMkU?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-02T10:15:11+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukraine’s accession to the EU is in the security interests of Latvia and Europe"
+    },
+    {
       "id": "83fd1b8f03ede09e2cf88a837bc75029f4f090ab",
       "title": "As Russia fails to achieve war aims in Ukraine, Putin needs a way out",
       "summary": "European officials say Moscow's escalating aggression is a result of increasing difficulties that Russia is facing militarily and economically.",
@@ -109,129 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Drones At Ukraine In May"
-    },
-    {
-      "id": "d9581016a12b7ccc32efd47df693e39089b358f8",
-      "title": "Lithuania deploys drone detection system at Palanga Airport, Kaunas and Vilnius to follow - Unmanned airspace",
-      "summary": "Lithuania deploys drone detection system at Palanga Airport, Kaunas and Vilnius to follow&nbsp;&nbsp;Unmanned airspaceLithuania to test drone detection system after incidents with Ukrainian drones&nbsp;&nbsp;БабельPalang…",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZnZYTjlkM3dEYUlFWlN1YVlybVlyeGtCdEJzaVRSdlBsRkdTT3RkX09iTF9HSGJ6VVlCd2xIYnZicGVudVk4YVhkT0ZScGtodnZ1YjcyaXdFc1NOQVlKWlBDbGNiOURoRmpFOXBEc2s5dFVyakJyYWx4VXFEU1ZWam9kbEhRdDdHeEx4OGs3U0FhbGdxai1rbGFWc2F1MDRvYnY4VF9kNkZ3SFdfak5zZkhNOWhHdWIwM0xubWJlMVFFX09zVld1NGlJMDd5VzRDeDhVUHpEcUVFLVh3cGx5NjZxQlUyQS1leUViZQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-01T10:41:56+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "incidents with Ukrainian drones"
-    },
-    {
-      "id": "d7d4b14eff21e8b1c8dd6ffd6f21be24c4b09c28",
-      "title": "'Int'l terrorism': Kremlin fumes after France seizes Russian-linked tanker",
-      "summary": "France has detained a Russian-linked oil tanker, the Tagor, in the Atlantic, suspecting it of violating sanctions imposed over the Ukraine war. Russia vehemently condemned the seizure as illegal, bordering on 'internatio…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/international-terrorism-russia-slams-frances-seizure-of-russian-linked-tanker-terms-it-illegal/articleshow/131439405.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-06-01T09:47:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "sanctions imposed over the Ukraine war"
-    },
-    {
-      "id": "6bafcfa8562d34b072258c95c1ebb080124e33a1",
-      "title": "EXCLUSIVE: EU may exclude military-age Ukrainian men from protection scheme",
-      "summary": "Some EU capitals argue the framework should be revised to support Ukraine’s war effort, with any limits applying only to future applicants",
-      "url": "https://www.euractiv.com/news/exclusive-eu-weighs-excluding-military-age-ukrainian-men-from-extended-protection-scheme/",
-      "source": "Euractiv",
-      "published_at": "2026-06-01T04:00:06+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "support Ukraine’s war effort"
-    },
-    {
-      "id": "b7b49ebe9af85a8666c3d63a7f4180d92323e0bd",
-      "title": "The drivers risking death on Ukraine's most dangerous bus routes",
-      "summary": "Russian drones are targeting public buses in Kherson, killing three transport workers so far this year.",
-      "url": "https://www.bbc.com/news/articles/c87q2eq8r1yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-31T23:40:57+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Ukraine's most dangerous bus routes"
-    },
-    {
-      "id": "372d8be59f2998f38ef3260d511a65095029c652",
-      "title": "Russia Is Using Drones to Test NATO’s Air Defenses, Zelenskyy Warns - UNITED24 Media",
-      "summary": "Russia Is Using Drones to Test NATO’s Air Defenses, Zelenskyy Warns&nbsp;&nbsp;UNITED24 MediaErrant Ukrainian drones fuel tensions on NATO's eastern flank&nbsp;&nbsp;ReutersHow Ukraine's strikes inside Russia became a he…",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajJVNl8xbTZzVlE3Mk4yMnpKazNzYmNwWUt0MnFsel9SaXB4WG9pYzV1Ump0R2UyLUV6T254bWt4d0hOSTVNU3RJVEl0MlhuQkxZbnhleU9jMWpXSExNN1NxVmRKZmFDZVVkcDMxZ1FpaVltdjhyTC1odldJdi1RWHZhN0lWMUh3OHdzUS1lRWYwU2g4X09ZOVIzdzBMMV91ZndrS0FHVV94UzM4TnpyZWVn?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-31T16:27:29+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.8,
-      "evidence": "Errant Ukrainian drones fuel tensions on NATO's eastern flank"
-    },
-    {
-      "id": "9e1271c236c985882ad940f298b3bbbe90564df9",
-      "title": "Tsikhanouskaya's Adviser: Russians, Lukashenko Regime Preparing for Escalation Along Belarus’s Borders - Kyiv Post",
-      "summary": "Tsikhanouskaya's Adviser: Russians, Lukashenko Regime Preparing for Escalation Along Belarus’s Borders&nbsp;&nbsp;Kyiv PostConcerns mount that Belarus could be a launchpad for a new Russian offensive in Ukraine&nbsp;&nbs…",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKc3p5OTlyVmxPWmNISEY0dUE5N0dkYVlWMWtibmxwQldBdHJiOTZhQnpZUjJvdkxGYk5SaF9mcXk1OG5OdXlMdzVvaw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-31T09:05:13+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine holds right to self-defense if Russia involves Belarus"
-    },
-    {
-      "id": "c5494a324dcea39350611abc4fb33661a3617ab5",
-      "title": "Ukraine’s Military Doesn’t Always Welcome Criticism. But That’s Her Job.",
-      "summary": "Olha Reshetylova has been tasked by the government with overseeing soldiers’ rights. Some commanders resent her, but she says her work makes the armed forces stronger.",
-      "url": "https://www.nytimes.com/2026/05/31/world/europe/ukraine-military-soldiers-ombudsman.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-31T09:00:29+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Lithuania to test drone detection system after incidents with Ukrainian drones"
-    },
-    {
-      "id": "34f59a9624371b8d11cb966464144ac701eb5cc8",
-      "title": "Ukraine turns real-life kills into video game thrills for drone pilots",
-      "summary": "Kyiv says the Army of Drones Bonus system, in which points may be redeemed for weapons, is the first of its kind anywhere.",
-      "url": "https://www.washingtonpost.com/world/2026/05/31/ukrainian-drone-operators-compete-kill-russian-invaders/",
-      "source": "World (Washington post)",
-      "published_at": "2026-05-31T09:00:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Ukraine turns real-life kills into video game thrills for drone pilots"
-    },
-    {
-      "id": "2efbe084c0e8d980d95b0a99b07eb4b66ec40fe3",
-      "title": "Ukraine receives new German IRIS-T air defence launcher amid continued Russian attacks",
-      "summary": "Ukraine has received a new IRIS-T air defence launcher from Germany, bolstering its defenses against Russian missile and drone strikes. This latest delivery adds to previous transfers of the German-made medium-range surf…",
-      "url": "https://timesofindia.indiatimes.com/defence/international/ukraine-receives-new-german-iris-t-air-defence-launcher-amid-continued-russian-missile-and-drone-attacks/articleshow/131420413.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-05-31T08:04:37+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine receives new German IRIS-T air defence launcher"
-    },
-    {
-      "id": "b99138b15f1fa9820d73caf6a312dd668a6f93ab",
-      "title": "A Big Bang, a Fire and Panic as War Enters Romanian Homes",
-      "summary": "When a drone crashed into an apartment building in eastern Romania, residents were reminded that the Russia-Ukraine war makes for a dangerous neighbor.",
-      "url": "https://www.nytimes.com/2026/05/30/world/europe/romania-drone-russia-ukraine.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-30T19:10:02+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "war Enters Romanian Homes"
-    },
-    {
-      "id": "49f70838a590bfb0817542fd3d189ec19b7a4c73",
-      "title": "Ukraine Is Using Soldiers That Don't Need Food Or Water To Kill Russians",
-      "summary": "Ukraine's growing reliance on automation is partly driven by necessity",
-      "url": "https://www.ndtv.com/world-news/ukraines-key-weapon-has-wheels-a-bomb-its-killing-thousands-of-russians-11569965#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-05-30T18:55:23+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Ukraine Is Using Soldiers That Don't Need Food Or Water To Kill Russians"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-02T12:55:46Z"
+  "last_updated": "2026-06-03T13:29:39Z"
 }
