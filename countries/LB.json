@@ -4,13 +4,57 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 381,
+  "sources": 373,
   "sentiment": {
     "positive": 14,
-    "neutral": 121,
-    "negative": 247
+    "neutral": 122,
+    "negative": 238
   },
   "latest_articles": [
+    {
+      "id": "a46d9e2e7a61e5c4a4c1f477ebd2c1703ec68db3",
+      "title": "Iran War Live Updates: Israel Says It Targeted Hezbollah After New Cease-Fire With Lebanon",
+      "summary": "The U.S.-brokered talks to clinch the deal did not include Hezbollah, the Iranian-backed armed group, which said it had fired rockets at Israeli targets hours after the truce was announced.",
+      "url": "https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon",
+      "source": "NYT > World News",
+      "published_at": "2026-06-04T11:52:13+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "truce was announced"
+    },
+    {
+      "id": "f0eae91b77f1949f7e46879d6fdff7799d80eaf5",
+      "title": "Israel and Lebanon agree new ceasefire as Trump scrambles to end Iran war",
+      "summary": "Despite deal, which is dependent on Hezbollah ceasing fire, Israel carries out multiple drone strikes in southern LebanonMiddle East crisis – live updatesIsrael and Lebanon have agreed to implement a ceasefire to end hos…",
+      "url": "https://www.theguardian.com/world/2026/jun/04/israel-lebanon-renew-ceasefire-hezbollah-trump-iran-deal-middle-east-us",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-04T10:08:42+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Israel and Lebanon agree new ceasefire"
+    },
+    {
+      "id": "a4f58585235b39fd2015156a5bffdb8fa358386e",
+      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+      "summary": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US says.",
+      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-04T07:49:33+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "reject \"any attempt...to hold Lebanon's future hostage\""
+    },
+    {
+      "id": "f5c806e50bdece03fc154b545a6a23d57573be8c",
+      "title": "CNBC Daily Open: Stock markets sense a shift",
+      "summary": "Global stocks are under pressure despite oil easing after a ceasefire between Israel and Lebanon, while investors anticipate SpaceX's IPO.",
+      "url": "https://www.cnbc.com/2026/06/04/cnbc-daily-open-stock-markets-sense-a-shift.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-06-04T06:35:10+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "evidence": "ceasefire between Israel and Lebanon"
+    },
     {
       "id": "4e9a3ebb564234749ad93cd8d2cdee51b8b89c26",
       "title": "Trump says Vance-Rubio ticket for 2028 presidential election would be ‘unbeatable’ – US politics live",
@@ -186,52 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Israel issued an evacuation order for the capital’s southern outskirts"
-    },
-    {
-      "id": "b23db0e23eb7176dcaaddf98ce98e0b960dee603",
-      "title": "Iran stops negotiations with U.S., vows to 'completely' block Strait of Hormuz: State media",
-      "summary": "The report in Iranian state media homes in on Israel's military operations in Lebanon against the Iran-backed militia Hezbollah.",
-      "url": "https://www.cnbc.com/2026/06/01/iran-us-negotiations-strait-of-hormuz.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-06-01T15:10:10+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Israel's military operations in Lebanon"
-    },
-    {
-      "id": "2e158da82a3004005ec85fe7a561b1594812194f",
-      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
-      "summary": "Benjamin Netanyahu says the Hezbollah stronghold of Dahieh will be targeted in response to attacks on Israeli civilians.",
-      "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-01T14:13:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Hezbollah stronghold of Dahieh will be targeted"
-    },
-    {
-      "id": "57f0366fdfda4f6e7224a94b215bf5d75a34c3bd",
-      "title": "Netanyahu Orders Israeli Military to Attack Beirut Suburbs",
-      "summary": "Thousands fled the southern suburbs of Lebanon’s capital after Prime Minister Benjamin Netanyahu of Israel announced the widening of the military campaign against Hezbollah.",
-      "url": "https://www.nytimes.com/2026/06/01/world/middleeast/netanyahu-israel-attack-beirut-lebanon.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-01T14:11:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "widening of the military campaign against Hezbollah"
-    },
-    {
-      "id": "c6e2595498bdbe17031ad8a38c47743e2f880bb9",
-      "title": "How Lebanon’s Best Chance to Disarm Hezbollah Failed",
-      "summary": "Lebanon’s government has long wanted the powerful militia to give up its weapons. Before the Iran war began, there were signs of progress toward that goal.",
-      "url": "https://www.nytimes.com/2026/06/01/world/middleeast/lebanon-hezbollah-disarm.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-01T14:04:13+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Lebanon’s Best Chance to Disarm Hezbollah Failed"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-03T13:29:39Z"
+  "last_updated": "2026-06-04T12:09:28Z"
 }

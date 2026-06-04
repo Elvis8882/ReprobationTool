@@ -1,16 +1,93 @@
 {
   "country": "GB",
-  "score": 7,
+  "score": 6,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 2,
+  "trend": -1,
   "sources": 1102,
   "sentiment": {
-    "positive": 115,
-    "neutral": 785,
+    "positive": 114,
+    "neutral": 786,
     "negative": 202
   },
   "latest_articles": [
+    {
+      "id": "524f3568b724e0036a2efab2757419ac2df5f98c",
+      "title": "UK car sales hit post-Covid high as Chinese EV makers gain ground",
+      "summary": "Registrations are up 7% in May, with battery electric vehicles recording the fastest growth and Tesla jumping 45%British car sales rose in May to their strongest level for the month since before the Covid pandemic, drive…",
+      "url": "https://www.theguardian.com/business/2026/jun/04/uk-car-sales-post-covid-high-chinese-ev-makers-tesla",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-04T11:43:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "UK car sales hit post-Covid high"
+    },
+    {
+      "id": "a20ca0861ffcf367a3c95035d069e5e43191a61a",
+      "title": "Starmer to meet Henry Nowak’s family this afternoon, No 10 says – UK politics live",
+      "summary": "The private meeting will take place in Downing StreetKemi Badenoch has posted a message on social media saying she met Henry Nowak’s father, mother and stepmother this morning. She praises their courage, and says:Henry’s…",
+      "url": "https://www.theguardian.com/politics/live/2026/jun/04/henry-nowak-death-policing-justice-farage-jenrick-reform-badenoch-burnham-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-04T11:23:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Starmer to meet Henry Nowak’s family this afternoon"
+    },
+    {
+      "id": "b7fd8b10c3fb6423b6dd2d092282c7e2f9a79ff4",
+      "title": "Starmer accuses Musk of trying to ‘whip up division’ in UK over Henry Nowak murder",
+      "summary": "PM says Britons are ‘reasonable, tolerant people’ and backs MP’s legal action against Grok firm over fake sexualised imagesUK politics live – latest updatesElon Musk is “interfering in our politics” and attempting to cre…",
+      "url": "https://www.theguardian.com/politics/2026/jun/04/keir-starmer-elon-musk-division-henry-nowak",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-04T10:37:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Starmer accuses Musk of trying to ‘whip up division’ in UK"
+    },
+    {
+      "id": "87653bc78000ea2437cbc2637fe7de35f2e67cb0",
+      "title": "‘My childhood was taken away’: UK grooming gang survivor recalls abuse as 15 men jailed for 188 years",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/uk/my-childhood-was-taken-away-uk-grooming-gang-survivor-recalls-abuse-as-15-men-jailed-for-188-years/articleshow/131502010.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-06-04T09:51:47+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "UK grooming gang survivor recalls abuse"
+    },
+    {
+      "id": "4ed9ab20c910a6f372f4c7302409c53b25199513",
+      "title": "Travelers Bound for the U.K. Hit a Roadblock: Electronic Authorization System Is Down",
+      "summary": "Some visitors from the U.S., Canada and most European countries can’t get an electronic travel authorization and are being turned away from planes, trains and boats.",
+      "url": "https://www.nytimes.com/2026/06/03/travel/uk-travelers-eta-outage.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-04T09:14:09+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Travelers Bound for the U.K. Hit a Roadblock"
+    },
+    {
+      "id": "f576bce0d62549ae1c77644cbd9874d054b14119",
+      "title": "Labour MP Jess Asato sues Elon Musk's xAI over deepfake bikini images in landmark UK AI lawsuit",
+      "summary": "British Labour MP Jess Asato is suing Elon Musk's xAI, alleging its Grok chatbot generated fake sexualised images of her. The High Court case could set a precedent for AI developer accountability, focusing on system desi…",
+      "url": "https://timesofindia.indiatimes.com/world/uk/labour-mp-jess-asato-sues-elon-musks-xai-over-deepfake-bikini-images-in-landmark-uk-ai-lawsuit/articleshow/131500359.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-06-04T08:10:43+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "landmark UK AI lawsuit"
+    },
+    {
+      "id": "4c41eb26fe10005ce0993a468e0f3904ff9dcda2",
+      "title": "Navy Helicopter Crash Kills Three in Britain",
+      "summary": "The helicopter was on a training exercise when it crashed in a field in southwestern England.",
+      "url": "https://www.nytimes.com/2026/06/03/world/europe/navy-helicopter-crash-kills-three-in-britain.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-03T14:49:38+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Navy Helicopter Crash Kills Three in Britain"
+    },
     {
       "id": "8f5fccdc82799268378f8e78640214217eefb3e3",
       "title": "Farage exploiting Nowak’s murder against wishes of his family, says Starmer – UK politics live",
@@ -111,6 +188,17 @@
       "evidence": "Google must let UK publishers opt out of AI overviews, says watchdog"
     },
     {
+      "id": "1a1d92a59d3b2dfea62f95d0134e0971186ff1cd",
+      "title": "Royal Navy helicopter crashes into field in southwest England; roads shut as probe begins",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/uk/royal-navy-helicopter-crashes-into-field-in-southwest-england-roads-shut-emergency-services-deployed/articleshow/131480697.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-06-03T09:26:26+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Royal Navy helicopter crashes"
+    },
+    {
       "id": "f0164f43e31c2a7b3f663523421d5f5801dc6cd9",
       "title": "'Countless Sikh soldiers died for Britain': Indian-origin Labour MP hits back at kirpan ban calls",
       "summary": "",
@@ -142,96 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "English football appears to be riding high"
-    },
-    {
-      "id": "cfb469e779cfbf5df91c73062abd595ed6e3b42c",
-      "title": "\"I Can't Breathe\": Video Shows UK Cops Arresting Dying Teen Stabbed By Indian",
-      "summary": "The clip also shows officers dismissing Nowak when he said that he had been stabbed.",
-      "url": "https://www.ndtv.com/world-news/i-cant-breathe-video-shows-uk-cops-handcuffing-teen-henry-nowak-stabbed-by-indian-origin-vickrum-digwa-11583488#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-06-03T03:15:22+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "UK Cops Arresting Dying Teen"
-    },
-    {
-      "id": "bc23219a88e1d33b4f3b85f159dbe65e8462aae2",
-      "title": "Murder of Henry Nowak, Who Was Handcuffed by Police While Dying, Fuels Outrage in UK",
-      "summary": "The authorities in Britain are investigating police officers who handcuffed a student, Henry Nowak, while he was dying, in a case that been increasingly politicized.",
-      "url": "https://www.nytimes.com/2026/06/02/world/europe/henry-nowak-murder-uk-stabbing.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-03T03:13:09+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Outrage in UK\nThe authorities in Britain are investigating police officers"
-    },
-    {
-      "id": "86f1c10d2eafb5adcfe3ad6a9aeaf114d39da418",
-      "title": "British couple lose Iran jail sentence appeal, family says",
-      "summary": "Lindsay and Craig Foreman were arrested in January 2025 during a global motorbike journey.",
-      "url": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-02T16:04:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "British couple lose Iran jail sentence appeal"
-    },
-    {
-      "id": "c197a675274e1b8f5285e4fe2baff03c9f38c726",
-      "title": "Ireland sets out EU presidency’s defence priorities",
-      "summary": "Dublin calls for greater cooperation with third countries, including the UK and Canada",
-      "url": "https://www.euractiv.com/news/ireland-sets-out-eu-presidencys-defence-priorities/",
-      "source": "Euractiv",
-      "published_at": "2026-06-02T13:47:43+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Ireland sets out EU presidency’s defence priorities"
-    },
-    {
-      "id": "a294779b8eae2e5e259757ebf011708db67ca44a",
-      "title": "Police watchdog probe into officer response to enry Nowak murder must happen ‘as quickly as possible’, says Starmer – UK politics live",
-      "summary": "Items bought by former chief executive included more than £23,000 from a luxury stationery brand and a £3,000 robotic lawnmowerBBC Scotland has more details of the Peter Murrell hearing this morning on its live blog. And…",
-      "url": "https://www.theguardian.com/politics/live/2026/jun/02/peter-mandelson-keir-starmer-labour-leadership-snp-peter-murrell-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-02T12:31:28+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "UK politics live"
-    },
-    {
-      "id": "9d0adb273f6669350d05efc55984306371354f6f",
-      "title": "Maga influencer admits London Tube station assault",
-      "summary": "Melissa Rein Lively accepted a caution, while an assault by beating charge against her was withdrawn.",
-      "url": "https://www.bbc.com/news/articles/c3v2qyp5pzro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-02T11:35:42+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "London Tube station assault"
-    },
-    {
-      "id": "8018a9217ba3effd65122a84a8608c7520977566",
-      "title": "BP backs Amanda Blanc to lead search for new chair despite investor concerns",
-      "summary": "Senior independent director to handle process again after Albert Manifold’s shock departure last weekBusiness live – latest updatesBP has backed Amanda Blanc to lead its search for a new chair for a second time, shruggin…",
-      "url": "https://www.theguardian.com/business/2026/jun/02/bp-amanda-blanc-search-new-chair-albert-manifold",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-02T11:13:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "BP backs Amanda Blanc to lead search for new chair"
-    },
-    {
-      "id": "809c88a5f2f6d126ca447d5eed3582f0aeec2087",
-      "title": "'Raped By 600-700 Men': UK MP Shares 'Pak Grooming Gang' Testimonies",
-      "summary": "Lowe led a private investigation that identified \"gang-based child sexual exploitation\" in UK",
-      "url": "https://www.ndtv.com/world-news/raped-by-600-700-men-dogs-uk-mp-rupert-lowe-reveals-pakistani-grooming-gang-horrors-11580066#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-06-02T10:23:34+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "'Raped By 600-700 Men': UK MP Shares 'Pak Grooming Gang' Testimonies"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-03T13:29:39Z"
+  "last_updated": "2026-06-04T12:09:28Z"
 }

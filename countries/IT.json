@@ -1,16 +1,58 @@
 {
   "country": "IT",
-  "score": 89,
+  "score": 88,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 429,
   "sentiment": {
     "positive": 29,
-    "neutral": 370,
-    "negative": 30
+    "neutral": 369,
+    "negative": 31
   },
   "latest_articles": [
+    {
+      "id": "0b0754f4780bcacbfe02398d04cfd65647f52991",
+      "title": "Midterms: Italian VP quits Socialists in European Parliament",
+      "summary": "The vice-president is expected to join Renew Europe after months of tensions with Democratic Party leader Elly Schlein",
+      "url": "https://www.euractiv.com/news/midterms-senior-italian-mep-quits-socialists/",
+      "source": "Euractiv",
+      "published_at": "2026-06-04T10:25:27+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Italian VP quits Socialists in European Parliament"
+    },
+    {
+      "id": "4a089a9aeeacfce4cee49ee4f97b259edf3a10cb",
+      "title": "Market-based approach to biodiversity takes centre stage at EU Green Week",
+      "summary": "European Commission uses annual conference to burnish plans for a 'nature credits' scheme",
+      "url": "https://www.euractiv.com/news/market-based-approach-to-biodiversity-takes-centre-stage-at-eu-green-week/",
+      "source": "Euractiv",
+      "published_at": "2026-06-04T04:00:51+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "144406bba0fb6022f94b30b9665c78dd1ee439cd",
+      "title": "Four Immigrant Workers Burned to Death in Italy",
+      "summary": "The immigrants had been working as fruit pickers in southern Italy, the authorities said, apparently as part of a system of criminal labor trafficking.",
+      "url": "https://www.nytimes.com/2026/06/03/world/europe/italy-migrants-burned.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-03T20:19:49+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Immigrant Workers Burned to Death in Italy"
+    },
+    {
+      "id": "8d13550325b88e4c390d2fb071c826e5015d11af",
+      "title": "European Parliament revolts over EU’s €150m aid for Tanzania",
+      "summary": "MEPs accuse the European Commission of handing over the money without human rights checks and balances",
+      "url": "https://www.euractiv.com/news/european-parliament-revolts-over-eus-e150m-aid-for-tanzania/",
+      "source": "Euractiv",
+      "published_at": "2026-06-03T14:46:01+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "ef02b77eff0423f7180b15922f369526b271455a",
       "title": "Four migrant workers reportedly burned alive in their car in attack in Italy",
@@ -41,6 +83,17 @@
       "published_at": "2026-06-03T12:07:32+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "7fdb356fb7c989526f5370b41e60f0676c21f4da",
+      "title": "Spring semester package: steering EU economies to increased competitiveness - European Commission",
+      "summary": "Spring semester package: steering EU economies to increased competitiveness&nbsp;&nbsp;European CommissionSpring Package 2026: the exemption from the Energy Pact and recommendations for Italy&nbsp;&nbsp;FASI.euEU fiscal…",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeU5OS2I3XzlJMXg3cVg1M3Z4QmdPU3c4OHNuN21BM21zRW9PSTczYnNNTUhiY0Rwb3BOVFB2MUFoUndSTzAyQ2hZS3NrbG5hLThCQXJtVFlWTTlCY0NzN19ZMTR5Mkxub0tjYnZZUVBqWWhySGFKaFgyb1VIQndkejB0X1AyQUhsb3ZTaTd4M2Ztakx0Qm03NUpBZm83bFVRaXhmS1M2MWdFYVRwR3lfbGdwZlczcDhiUy0zNWExRVR0Z2I3YlVHZGdsR3hRWHM?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-03T12:00:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "recommendations for Italy"
     },
     {
       "id": "1715ad5d5e3906cee7f1453ff2687e054559d418",
@@ -116,6 +169,17 @@
       "evidence": "Italians bemused by Milan bull mosaic restoration"
     },
     {
+      "id": "cceeaa564d9daffcc3b51a02f4bc2c04985fcd63",
+      "title": "Commission says second SAFE round possible if Italy cuts loan request",
+      "summary": "“We have several Member States that would be extremely interested in additional loans,” a spokesperson said",
+      "url": "https://www.euractiv.com/news/commission-says-second-safe-round-possible-if-italy-cuts-loan-request/",
+      "source": "Euractiv",
+      "published_at": "2026-06-01T15:02:40+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "if Italy cuts loan request"
+    },
+    {
       "id": "187729987b610dca06b56602aed6f50493912276",
       "title": "EU health ministers set emergency talks on Ebola response",
       "summary": "Italian leader Giorgia Meloni recently pressed for tighter travel restrictions",
@@ -157,73 +221,8 @@
       "published_at": "2026-06-01T09:03:30+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "ccb54abf1450deebb4ac4f67439b135c6a933292",
-      "title": "Horses Bolt Through Rome After Policeman Lights Fireworks At Parade Rehearsal",
-      "summary": "Several riders were thrown.",
-      "url": "https://www.ndtv.com/world-news/horses-bolt-through-rome-after-policeman-lights-fireworks-at-parade-rehearsal-11571122#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-05-31T10:00:31+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Horses Bolt Through Rome After Policeman Lights Fireworks"
-    },
-    {
-      "id": "20d46a7ffd5c3deb70ee9b5ac9a432c54ab71e30",
-      "title": "Kanye West concert in Italy cancelled over ‘public order and safety issues’",
-      "summary": "Reggio Emilia prefect stops gig after Jewish community ‘concerns’ over rapper’s previous antisemitic remarksA Kanye West concert in Italy has been cancelled over “public order and safety issues”.The 48-year-old rapper, w…",
-      "url": "https://www.theguardian.com/music/2026/may/30/kanye-west-concert-italy-cancelled-public-order-and-safety-issues",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-30T19:01:16+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "concert in Italy cancelled over ‘public order and safety issues’"
-    },
-    {
-      "id": "9dee96821cf66fd8d74bf00672c1416ba0e949cd",
-      "title": "Ye and Travis Scott Concerts Canceled in Italy Over Security Fears",
-      "summary": "The events were canceled “to ensure public order and safety,” the authorities said. Jewish leaders had objected to the concert by Ye, formerly known as Kanye West, who has a history of antisemitic remarks.",
-      "url": "https://www.nytimes.com/2026/05/30/world/europe/ye-travis-scott-italy-concerts.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-30T18:37:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "canceled in Italy Over Security Fears"
-    },
-    {
-      "id": "03b43db4f93f368ce06db84ab4405012f69c4d95",
-      "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
-      "summary": "Local authorities say the cancellation of other West concerts had played a role in the decision.",
-      "url": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-30T15:39:12+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Italy bans Kanye West and Travis Scott concerts over security concerns"
-    },
-    {
-      "id": "7ff228141f8f2fc3e4bdd786f4d9680db288db73",
-      "title": "‘How can you have a Ferrari without any vroom?’: electric model shocks owners’ club",
-      "summary": "Suggestion the Luce EV should be stripped of prancing horse logo shows strength of feeling from Ferrari fansFor passionate enthusiasts, Ferraris are not merely cars but works of art. The emotion stirred by their classic…",
-      "url": "https://www.theguardian.com/business/2026/may/30/ferrari-luce-ev-electric-model-shocks-owners-club",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-30T04:00:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Italian carmaker’s first fully electric car, the Luce EV"
-    },
-    {
-      "id": "04c1454b8defc80d912974faff55adc6276abbf6",
-      "title": "After Orban’s Defeat, Hungary Is Poised to Get Billions From E.U.",
-      "summary": "The European Union is set to release 16 billion euros it had withheld, as Hungary moves to enact anti-corruption and rule of law policies.",
-      "url": "https://www.nytimes.com/2026/05/29/world/europe/eu-hungary-funds.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-30T01:24:33+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-03T13:29:39Z"
+  "last_updated": "2026-06-04T12:09:28Z"
 }
