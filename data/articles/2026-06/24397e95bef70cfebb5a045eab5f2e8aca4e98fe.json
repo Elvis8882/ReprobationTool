@@ -1,0 +1,41 @@
+{
+  "id": "24397e95bef70cfebb5a045eab5f2e8aca4e98fe",
+  "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+  "summary_full": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+  "summary_public": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+  "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-06-05T08:03:23+00:00",
+  "source": "BBC News - World",
+  "language": "en",
+  "countries_detected": [
+    "IR",
+    "RU",
+    "UA"
+  ],
+  "countries_scored": [
+    "IR",
+    "RU",
+    "UA"
+  ],
+  "sentiment_by_country": {
+    "IR": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "US focused on Iran"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "end the war"
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "end the war"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-06-05T12:22:20+00:00",
+  "processed_at": "2026-06-05T12:22:20+00:00"
+}

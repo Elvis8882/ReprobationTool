@@ -1,16 +1,27 @@
 {
   "country": "BA",
   "score": 69,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 4,
+  "sources": 5,
   "sentiment": {
     "positive": 1,
-    "neutral": 2,
+    "neutral": 3,
     "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "a80ede530efa357c8131f96e2547e451603f6019",
+      "title": "US and Europeans fail to agree on new diplomat to oversee Bosnia",
+      "summary": "The former high representative cited 'huge and unexpected' pressure from Washington as among the reasons for his stepping down",
+      "url": "https://www.euractiv.com/news/us-and-europeans-fail-to-agree-on-new-diplomat-to-oversee-bosnia/",
+      "source": "Euractiv",
+      "published_at": "2026-06-05T09:21:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "US and Europeans fail to agree on new diplomat to oversee Bosnia"
+    },
     {
       "id": "d87071bb8795a69dda31b5170ea2ffd0fc2e908b",
       "title": "Bosnia calls national elections for October",
@@ -57,5 +68,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-04T12:09:28Z"
+  "last_updated": "2026-06-05T12:22:20Z"
 }

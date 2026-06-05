@@ -1,16 +1,27 @@
 {
   "country": "AM",
-  "score": 90,
+  "score": 83,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 16,
+  "trend": -7,
+  "sources": 17,
   "sentiment": {
     "positive": 6,
     "neutral": 9,
-    "negative": 1
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "2ab987b87bdd92e9571cd1bf6b0d31af4cd33538",
+      "title": "Russia Floods Armenia With Disinformation Ahead of Election",
+      "summary": "Fearing a loss of influence, groups linked to the Kremlin and intelligence agencies have sought to discredit the country’s prime minister.",
+      "url": "https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia-disinformation.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-05T09:02:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia Floods Armenia With Disinformation Ahead of Election"
+    },
     {
       "id": "02834a80031f4c392a66b26664fd3c7bffb78bfd",
       "title": "Russia recalls envoy to Armenia for ‘consultations’ over Yerevan’s EU ties",
@@ -189,5 +200,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-04T12:09:28Z"
+  "last_updated": "2026-06-05T12:22:20Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "RS",
-  "score": 61,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 19,
+  "score": 60,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
+  "trend": -1,
+  "sources": 20,
   "sentiment": {
     "positive": 3,
     "neutral": 7,
-    "negative": 9
+    "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "3ebbcbee270e301e7da0717e9995c476d912399c",
+      "title": "Middle East crisis live: Israel to continue ground operation in southern Lebanon despite agreed ceasefire",
+      "summary": "The country’s defence minister said the IDF will not withdraw from southern Lebanon and will not allow the ‘return of the population’Israel and Lebanon agree to renew ceasefire as Trump seeks to overcome barriers to Iran…",
+      "url": "https://www.theguardian.com/world/live/2026/jun/04/middle-east-crisis-israel-lebanon-hezbolllah-us-ceasefire-southern-military-attacks-continue-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-04T11:54:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "died this morning as a result of injuries sustained after a projectile impacted"
+    },
     {
       "id": "cdd3760b5fa17c1ca6c70fc181f5dc639f01114f",
       "title": "Serbia and the Netherlands shine on Day 1 of the FIBA 3x3 World Cup 2026 - FIBA Basketball",
@@ -222,5 +233,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-04T12:09:28Z"
+  "last_updated": "2026-06-05T12:22:20Z"
 }

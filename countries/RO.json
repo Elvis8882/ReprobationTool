@@ -1,16 +1,36 @@
 {
   "country": "RO",
-  "score": 81,
+  "score": 80,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 290,
+  "trend": -1,
+  "sources": 292,
   "sentiment": {
     "positive": 20,
-    "neutral": 235,
-    "negative": 35
+    "neutral": 236,
+    "negative": 36
   },
   "latest_articles": [
+    {
+      "id": "b43afd2a96ec311e9ac2fbde47d9546cba180e0d",
+      "title": "Brussels hints at new anti-China trade weapon",
+      "summary": "New tool could need to apply to 'entire segments of value chains', senior European Commission official says",
+      "url": "https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/",
+      "source": "Euractiv",
+      "published_at": "2026-06-05T02:00:49+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "2f51d2d89bd4f4f2f7fbd010a48c1c089828de33",
+      "title": "Jørgensen: European Commission to ‘stand by’ Methane Regulation",
+      "summary": "Efforts to implement the law “rationally\" does not mean compromising on sustainability, energy commissioner says",
+      "url": "https://www.euractiv.com/news/jorgensen-european-commission-to-stand-by-methane-regulation/",
+      "source": "Euractiv",
+      "published_at": "2026-06-04T14:21:24+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "0b0754f4780bcacbfe02398d04cfd65647f52991",
       "title": "Midterms: Italian VP quits Socialists in European Parliament",
@@ -18,6 +38,27 @@
       "url": "https://www.euractiv.com/news/midterms-senior-italian-mep-quits-socialists/",
       "source": "Euractiv",
       "published_at": "2026-06-04T10:25:27+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "434e87e29548b924451b61291bfb07d74c874e76",
+      "title": "Early school leavers down to 9.1% in 2025 - European Commission",
+      "summary": "Early school leavers down to 9.1% in 2025&nbsp;&nbsp;European CommissionRomania Leads EU in School Dropout Rate, Eurostat Data&nbsp;&nbsp;The Romania JournalEarly school leaver rates drop EU-wide, but disparities persist…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5blQ1ZHM5cm4zZjVfMXBsbm8yY1BsV3lXVXR4T0N3RXprR002WjlEekNrNUlUcUQtZ2JMYXVkQ2swOUlCVlNjVDRZd1owX3k5aEx1dDljQTZ1STNrU3BuSk5RMzBYSEVpMEpwTkVOdW5xVVJ2bm5XS1BjcXNOZw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-04T09:03:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Romania Leads EU in School Dropout Rate"
+    },
+    {
+      "id": "101aa9b313995fa58726cdf31e2e78cc3cc603ed",
+      "title": "Finland's president says EU should expand to 40 states — including Canada",
+      "summary": "Finnish President Alexander Stubb said the European Union needs to expand to project power on the global stage.",
+      "url": "https://www.cnbc.com/2026/06/04/finland-stubb-eu-canada-turkey-norway.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-06-04T06:04:01+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -93,6 +134,16 @@
       "evidence": "Romania Says It Could Invoke NATO’s Article 4"
     },
     {
+      "id": "c39bfa94e3db7feb43e7b4f079ec00dd8ad72602",
+      "title": "European Parliament to ditch Google for European alternative",
+      "summary": "France's Qwant will this week become the default search engine on MEPs' computers",
+      "url": "https://www.euractiv.com/news/european-parliament-to-ditch-google-for-european-alternative/",
+      "source": "Euractiv",
+      "published_at": "2026-06-02T13:46:07+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "58664c946dcd91d2d9998969fb9a18393967dcd6",
       "title": "EU tourism nights in the first quarter of 2026 up 3% - European Commission",
       "summary": "EU tourism nights in the first quarter of 2026 up 3%&nbsp;&nbsp;European CommissionOvernight Stays in Tourist Accommodations in Bulgaria Drop by 0.9% in Q1 2026, Y/Y, EU Records 3.4% Growth&nbsp;&nbsp;БТА",
@@ -164,62 +215,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "war Enters Romanian Homes"
-    },
-    {
-      "id": "5cc6a955f0d1e851686352028cfde281ca901212",
-      "title": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
-      "summary": "People have just begun returning to check on their homes in the block that was hit early on Friday morning.",
-      "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-30T17:34:30+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Residents of Romanian city hit by drone share fears"
-    },
-    {
-      "id": "22dfd9fef7f47ca8ddae46d10f4c3b59bb213972",
-      "title": "'I will sleep with fear': Romanians shaken after block of flats hit by drone",
-      "summary": "A Russian drone hit a block of flats in Romania on Friday, causing a fire and injuring two people, Romanian officials say.",
-      "url": "https://www.bbc.com/news/videos/c4g5kxl9k1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-30T16:21:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "A Russian drone hit a block of flats in Romania"
-    },
-    {
-      "id": "c9665c37d19df42fe9cd2409293ae2416c0dfd66",
-      "title": "The Russian Drone That Hit Romania Also Hit European Confidence",
-      "summary": "The failure to protect NATO territory further increased anxiety about alliance solidarity, Russia’s intentions and Washington’s commitment to collective defense.",
-      "url": "https://www.nytimes.com/2026/05/30/world/europe/europe-nato-russia-anxiety.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-30T09:02:46+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russian Drone That Hit Romania Also Hit European Confidence"
-    },
-    {
-      "id": "04c1454b8defc80d912974faff55adc6276abbf6",
-      "title": "After Orban’s Defeat, Hungary Is Poised to Get Billions From E.U.",
-      "summary": "The European Union is set to release 16 billion euros it had withheld, as Hungary moves to enact anti-corruption and rule of law policies.",
-      "url": "https://www.nytimes.com/2026/05/29/world/europe/eu-hungary-funds.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-30T01:24:33+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "7be0d99a77b1a742d4e44651d13a37a710a21d8b",
-      "title": "Statement by the High Representative on behalf of the EU on the reckless violation of the EU’s airspace by Russia - consilium.europa.eu",
-      "summary": "Statement by the High Representative on behalf of the EU on the reckless violation of the EU’s airspace by Russia&nbsp;&nbsp;consilium.europa.eu'No-one feels safe now': Residents of Romanian city hit by drone share fears…",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONFNxaW1qU2NVd3hkM2JMaEJRczJNVUhTZjRlaENDNFE5UGtjbW4xQ1BfWjBWWXdpOXdMLVV5TnJZeDJLcUVoeEllUDdaVGxDcmxWb2JIa1E3WHIwUnNxbUNlVG5TbnBTMWphMW45ODhHQ1pDRU1uVHZBdnRIMkxtaXk3TzJsbzFLUGU3cFluRFJvVVdIQ0VPS0ZObnFUNVJBRnNuZnBWVjMxRXZDbVlLbXU2OHBySFVUSC1LNVNjbEhVTFd4ajkxQ051eVViQk8xM0ZJNHVyTUhmWEZJWlFDcnRxNTM3clJsNGNHUFd1VDBVd215NWtDYUpNUnh4M0xoMXMtLUZCbTF0MlhSX3c?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-29T18:12:03+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Residents of Romanian city hit by drone share fears"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-04T12:09:28Z"
+  "last_updated": "2026-06-05T12:22:20Z"
 }
