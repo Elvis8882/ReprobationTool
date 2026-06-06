@@ -1,16 +1,70 @@
 {
   "country": "FR",
-  "score": 93,
+  "score": 92,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": -1,
-  "sources": 642,
+  "sources": 648,
   "sentiment": {
     "positive": 96,
-    "neutral": 483,
-    "negative": 63
+    "neutral": 488,
+    "negative": 64
   },
   "latest_articles": [
+    {
+      "id": "5bff3c754293f22b1c6f03885602511ab0ba3476",
+      "title": "Putin rules out talks with Zelenskyy and vows to pursue war",
+      "summary": "Zelenskyy is to meet with British, French and German leaders in London on Sunday",
+      "url": "https://www.euractiv.com/news/putin-rules-out-talks-with-zelenskyy-and-vows-to-pursue-war/",
+      "source": "Euractiv",
+      "published_at": "2026-06-06T09:04:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "French leaders"
+    },
+    {
+      "id": "43044502f6cac670ca2c810f02a3e2087b1fe79e",
+      "title": "Giant banquets rile radical left in France",
+      "summary": "The feasting phenomenon run by Le Canon Français has become a hot political issue.",
+      "url": "https://www.bbc.com/news/articles/c78q215vyd7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-06T03:42:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "radical left in France"
+    },
+    {
+      "id": "c20922179ca5a0b206cd1f947c3675bee983d3e3",
+      "title": "France Opens Investigation Into Israeli Treatment of Pro-Palestinian Flotilla Activists",
+      "summary": "Activists who were detained with a flotilla trying to reach the Gaza Strip have said they were abused while in Israel’s custody. Israeli authorities have denied mistreating them.",
+      "url": "https://www.nytimes.com/2026/06/05/world/europe/france-israel-flotilla-activists.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-05T19:24:44+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "France Opens Investigation"
+    },
+    {
+      "id": "f294ba83c4ccb723e8d77927fe1b51ee2f1ce03a",
+      "title": "Midterms: Picierno to stay in post despite Socialist pressure to resign",
+      "summary": "'European Parliament rules do not provide for the removal of members of the Bureau from office in the event that they join a different political group,' Picierno's office told Euractiv",
+      "url": "https://www.euractiv.com/news/midterms-picierno-to-stay-in-post-despite-socialist-pressure-to-resign/",
+      "source": "Euractiv",
+      "published_at": "2026-06-05T13:40:21+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "3d5f9f41e0511f9b5918e06623dfa0ef8f869535",
+      "title": "France, Spain and allies say EU must stick to pro-electric car policy",
+      "summary": "With five allies across Europe, Paris and Madrid have a blocking minority in the Council",
+      "url": "https://www.euractiv.com/news/france-spain-and-allies-say-eu-must-stick-to-pro-electric-car-policy/",
+      "source": "Euractiv",
+      "published_at": "2026-06-05T12:54:22+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "France and allies say EU must stick to pro-electric car policy"
+    },
     {
       "id": "8ca002cfe2b475487c6c56dcfd61726c193b30bd",
       "title": "Fury in France after child murder suspect's criminal record released",
@@ -55,6 +109,16 @@
       "evidence": "birthday trip to Paris"
     },
     {
+      "id": "38d8bcbc163ef28b20e0a1b0e5b1bb32bb925ef9",
+      "title": "EU Parliament hosted event by group accused of being a pro-Russian sect that believes aliens walk among us - politico.eu",
+      "summary": "EU Parliament hosted event by group accused of being a pro-Russian sect that believes aliens walk among us&nbsp;&nbsp;politico.euEP allows pro-Russian sect to hold event in its building&nbsp;&nbsp;Baltic News NetworkEuro…",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3lfb1o2Uy15SHFyQ2xuSUNaTTVWZlpSS2d0ZHFVSE5lQ2h6ci1JRllYNVdyR3VVN0hSTWNBdEVTWkVFUmhkdkxINTJ6WldVSXdkUVBlRzBoTTM5QnVHYWx3RlFZUXIwbEVaR24xenN5RU85bng2UmJyWXNEeU5pTmgzYzZHMm9ZT012ZUlWVF95OVpVZWVVeEhSMDJ1OUJ0T3cteFBZQQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-04T18:13:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "2f51d2d89bd4f4f2f7fbd010a48c1c089828de33",
       "title": "Jørgensen: European Commission to ‘stand by’ Methane Regulation",
       "summary": "Efforts to implement the law “rationally\" does not mean compromising on sustainability, energy commissioner says",
@@ -85,6 +149,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "French officials say."
+    },
+    {
+      "id": "1959b605b3d4d7bbe9fc397b2321f7ca6caba867",
+      "title": "Europe’s far right exploit Nowak murder with populist rhetoric on race",
+      "summary": "Polish, Spanish and French populists focus on clips of teenager’s dying moments and accuse UK of descending ‘into depths of the earth’UK politics live – latest updatesPolish far-right politicians have claimed that the mu…",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/04/polish-far-right-novak-britain-descent-depths-earth",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-04T11:10:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "French populists focus on clips of teenager’s dying moments"
     },
     {
       "id": "b5356943327fb5aa5dbc4e4e1006ab4d6e9ba4e4",
@@ -147,81 +222,8 @@
       "published_at": "2026-06-04T04:00:51+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "94c30ca4842fbd6df9a83d84f5cbcd75292bb759",
-      "title": "France arrests Russian captain of Moscow-linked tanker: prosecutor",
-      "summary": "The tanker arrived in a harbour in Brittany on Tuesday",
-      "url": "https://www.euractiv.com/news/france-arrests-russian-captain-of-moscow-linked-tanker-prosecutor/",
-      "source": "Euractiv",
-      "published_at": "2026-06-03T16:08:26+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "France arrests Russian captain"
-    },
-    {
-      "id": "8d13550325b88e4c390d2fb071c826e5015d11af",
-      "title": "European Parliament revolts over EU’s €150m aid for Tanzania",
-      "summary": "MEPs accuse the European Commission of handing over the money without human rights checks and balances",
-      "url": "https://www.euractiv.com/news/european-parliament-revolts-over-eus-e150m-aid-for-tanzania/",
-      "source": "Euractiv",
-      "published_at": "2026-06-03T14:46:01+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "8fcbbb10f2676423fee1741a470eed09487ae7cb",
-      "title": "Socialists fire opening shot in race for EU Parliament presidency",
-      "summary": "Katarina Barley or René Repasi are strong candidates to replace Roberta Metsola, according to leading social democrat",
-      "url": "https://www.euractiv.com/news/socialists-fire-opening-shot-in-race-for-eu-parliament-presidency/",
-      "source": "Euractiv",
-      "published_at": "2026-06-03T12:08:58+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "5b8a3a0152271f86d5f5eed5c2ba6a3a010772ec",
-      "title": "Programme for agile and rapid defence innovation: Council ready to start negotiations with the European Parliament - consilium.europa.eu",
-      "summary": "Programme for agile and rapid defence innovation: Council ready to start negotiations with the European Parliament&nbsp;&nbsp;consilium.europa.euGerman Startups Association: Defense startups need government contracts in…",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOUVdFbDNYNm1ZQXZTX3FrM2xtNmg5c2JVaktBZURkZWxNdlQteEVaSTdHZDNydTRzLWNBZGdkTHl6ZE1rdC01NzByUm9aTWFnMlRPSUJVZnAxaWk3TzBwX1MwQXNMWTdhUVhvWUxZUmtUYnhMb1d3UkFYMDUwY2ZVYjVCSEJTaXlyeU1fSFg5RVNaMjFIcUtGSHhxTDN0dGxtSFNHNGd2bzdwc0JuUmFxSUt2RVl4TmVxSEREVWlqb3ZNU1FsVGV4TkJ5dlhfN2F6WmRtQ0JWVjk0UEVzYVRGaFJHenh2VFlUUVdGckhHNXgzaG03dkd0WDRpSEI2R3VtVktDYklnOG8zUXA0Qmc?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-03T12:07:32+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "7fdb356fb7c989526f5370b41e60f0676c21f4da",
-      "title": "Spring semester package: steering EU economies to increased competitiveness - European Commission",
-      "summary": "Spring semester package: steering EU economies to increased competitiveness&nbsp;&nbsp;European CommissionSpring Package 2026: the exemption from the Energy Pact and recommendations for Italy&nbsp;&nbsp;FASI.euEU fiscal…",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeU5OS2I3XzlJMXg3cVg1M3Z4QmdPU3c4OHNuN21BM21zRW9PSTczYnNNTUhiY0Rwb3BOVFB2MUFoUndSTzAyQ2hZS3NrbG5hLThCQXJtVFlWTTlCY0NzN19ZMTR5Mkxub0tjYnZZUVBqWWhySGFKaFgyb1VIQndkejB0X1AyQUhsb3ZTaTd4M2Ztakx0Qm03NUpBZm83bFVRaXhmS1M2MWdFYVRwR3lfbGdwZlczcDhiUy0zNWExRVR0Z2I3YlVHZGdsR3hRWHM?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-03T12:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "ebc1c4a7134cee77bd516640f99a8b49283558e0",
-      "title": "French Open 2026 results: Maja Chwalinska stuns Anna Kalinskaya to reach semi-finals and continue dream run - BBC",
-      "summary": "French Open 2026 results: Maja Chwalinska stuns Anna Kalinskaya to reach semi-finals and continue dream run&nbsp;&nbsp;BBCSee more headlines and perspectives on Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51RlRpd0FPR3dkV3dkdjFyLVllX1JBR3JDekFIdU9SaTdiU1VpTnhIS1JfZ0FGd01zMFRGQjF4ZVdlZEc3bnBRZHh4SUd1eVJrRXVUM3FVWlZheElMZTdydVdaX2w?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-03T11:45:22+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "French Open 2026 results"
-    },
-    {
-      "id": "ab44fa88d51f79ac7356c5ec7bb23fec0cfd5313",
-      "title": "France's Macron invites Sam Altman to attend G7, OpenAI tells CNBC",
-      "summary": "French President Emmanuel Macron has looked to win over tech bosses amid hopes to boost AI capability.",
-      "url": "https://www.cnbc.com/2026/06/03/openai-sam-altman-g7-macron-france-big-tech.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-06-03T11:16:25+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "France's Macron invites Sam Altman to attend G7, OpenAI tells CNBC"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-05T12:22:20Z"
+  "last_updated": "2026-06-06T11:07:07Z"
 }

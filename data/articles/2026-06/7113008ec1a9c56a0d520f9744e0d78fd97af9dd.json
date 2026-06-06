@@ -1,0 +1,41 @@
+{
+  "id": "7113008ec1a9c56a0d520f9744e0d78fd97af9dd",
+  "title": "Ukraine strikes cargo ships and admits Romania drone blast",
+  "summary_full": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
+  "summary_public": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
+  "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-06-05T15:29:39+00:00",
+  "source": "BBC News - World",
+  "language": "en",
+  "countries_detected": [
+    "RO",
+    "RU",
+    "UA"
+  ],
+  "countries_scored": [
+    "RO",
+    "RU",
+    "UA"
+  ],
+  "sentiment_by_country": {
+    "RO": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Romania drone blast"
+    },
+    "RU": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Russian-occupied territories"
+    },
+    "UA": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ukraine strikes cargo ships"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-06-06T11:07:07+00:00",
+  "processed_at": "2026-06-06T11:07:07+00:00"
+}

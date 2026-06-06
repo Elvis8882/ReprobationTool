@@ -1,16 +1,27 @@
 {
   "country": "CH",
-  "score": 67,
+  "score": 65,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 44,
+  "trend": -2,
+  "sources": 45,
   "sentiment": {
     "positive": 2,
     "neutral": 39,
-    "negative": 3
+    "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "b183e41a72ccbe0b3301caa3339a91ae79688297",
+      "title": "Bar Owner Faces New Charge Over Swiss Ski Resort Fire That Killed 41",
+      "summary": "Most of those killed were teenagers, many aged 16 and under.",
+      "url": "https://www.ndtv.com/world-news/bar-owner-faces-new-charge-over-swiss-ski-resort-fire-that-killed-41-11598048#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-06T07:53:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Bar Owner Faces New Charge Over Swiss Ski Resort Fire That Killed 41"
+    },
     {
       "id": "e84a5e5a59ddda8b272481beab83929ab1fe4941",
       "title": "WHO chief arrives in DRC promising Ebola outbreak ‘can be stopped’",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "2026 Switzerland: Format, schedule"
-    },
-    {
-      "id": "3b0ac96ca9a4c9a69741ce86f2b6bd6192f8b360",
-      "title": "Hantavirus outbreak on cruise ship; 40 passengers disembark on South Atlantic island",
-      "summary": "Dutch officials confirmed about 40 passengers disembarked on St. Helena after a deadly hantavirus outbreak on a cruise ship, including the wife of a deceased Dutch man who later died in South Africa. Another passenger wh…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/hantavirus-outbreak-on-cruise-ship-40-passengers-disembark-on-south-atlantic-island/articleshow/130886883.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-05-07T08:53:44+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "tested positive for the virus in Switzerland."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-05T12:22:20Z"
+  "last_updated": "2026-06-06T11:07:07Z"
 }

@@ -15,8 +15,20 @@
     "RO",
     "RU"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-06-05T12:22:20+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-06-06T11:07:07+00:00",
+  "sentiment_by_country": {
+    "RO": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "drones That Have Been Crossing Into Romania"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "Russian drone strike"
+    }
+  },
+  "processed_at": "2026-06-06T11:07:07+00:00"
 }

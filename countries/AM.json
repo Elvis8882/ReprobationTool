@@ -1,16 +1,49 @@
 {
   "country": "AM",
-  "score": 83,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -7,
-  "sources": 17,
+  "trend": 1,
+  "sources": 20,
   "sentiment": {
-    "positive": 6,
-    "neutral": 9,
+    "positive": 7,
+    "neutral": 11,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "41929eacf94aa31e76cf8fe9726c5e04f68688f8",
+      "title": "Armenia elections: EU deepens engagement as Russia’s influence wanes",
+      "summary": "Both Moscow and Brussels are closely watching the vote",
+      "url": "https://www.euractiv.com/news/armenia-elections-eu-deepens-engagement-as-russias-influence-wanes/",
+      "source": "Euractiv",
+      "published_at": "2026-06-06T06:00:46+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "EU deepens engagement"
+    },
+    {
+      "id": "30245dd868186563e19d5360a55e95f84e5b8747",
+      "title": "Armenia heads to polls amid Russian pressure and threat of ‘Ukrainian scenario’",
+      "summary": "Relationship between Vladimir Putin and traditional ally has slowly unravelled under current PM Nikol PashinyanThe bottling line at the Abovyan cognac factory in Armenia is running at full tilt.Women in white coats and h…",
+      "url": "https://www.theguardian.com/world/2026/jun/06/russia-putin-armenia-election",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-06T06:00:02+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Armenia heads to polls amid Russian pressure"
+    },
+    {
+      "id": "2f83c30d853b9155fd747137de472da746212e38",
+      "title": "Backed by Trump, Opposed by Putin, and Fighting for His Political Life",
+      "summary": "Prime Minister Nikol Pashinyan of Armenia is seeking re-election as his country weighs questions of war and peace, of autocracy and democracy, and of subjugation and independence.",
+      "url": "https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-05T09:14:21+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.6,
+      "evidence": "weighs questions of war and peace, of autocracy and democracy"
+    },
     {
       "id": "2ab987b87bdd92e9571cd1bf6b0d31af4cd33538",
       "title": "Russia Floods Armenia With Disinformation Ahead of Election",
@@ -200,5 +233,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-05T12:22:20Z"
+  "last_updated": "2026-06-06T11:07:07Z"
 }

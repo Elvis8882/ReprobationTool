@@ -1,16 +1,26 @@
 {
   "country": "PL",
-  "score": 98,
+  "score": 97,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 303,
+  "trend": -1,
+  "sources": 306,
   "sentiment": {
     "positive": 30,
-    "neutral": 256,
-    "negative": 18
+    "neutral": 258,
+    "negative": 19
   },
   "latest_articles": [
+    {
+      "id": "f294ba83c4ccb723e8d77927fe1b51ee2f1ce03a",
+      "title": "Midterms: Picierno to stay in post despite Socialist pressure to resign",
+      "summary": "'European Parliament rules do not provide for the removal of members of the Bureau from office in the event that they join a different political group,' Picierno's office told Euractiv",
+      "url": "https://www.euractiv.com/news/midterms-picierno-to-stay-in-post-despite-socialist-pressure-to-resign/",
+      "source": "Euractiv",
+      "published_at": "2026-06-05T13:40:21+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "b43afd2a96ec311e9ac2fbde47d9546cba180e0d",
       "title": "Brussels hints at new anti-China trade weapon",
@@ -18,6 +28,16 @@
       "url": "https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/",
       "source": "Euractiv",
       "published_at": "2026-06-05T02:00:49+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "38d8bcbc163ef28b20e0a1b0e5b1bb32bb925ef9",
+      "title": "EU Parliament hosted event by group accused of being a pro-Russian sect that believes aliens walk among us - politico.eu",
+      "summary": "EU Parliament hosted event by group accused of being a pro-Russian sect that believes aliens walk among us&nbsp;&nbsp;politico.euEP allows pro-Russian sect to hold event in its building&nbsp;&nbsp;Baltic News NetworkEuro…",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3lfb1o2Uy15SHFyQ2xuSUNaTTVWZlpSS2d0ZHFVSE5lQ2h6ci1JRllYNVdyR3VVN0hSTWNBdEVTWkVFUmhkdkxINTJ6WldVSXdkUVBlRzBoTTM5QnVHYWx3RlFZUXIwbEVaR24xenN5RU85bng2UmJyWXNEeU5pTmgzYzZHMm9ZT012ZUlWVF95OVpVZWVVeEhSMDJ1OUJ0T3cteFBZQQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-04T18:13:00+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -30,6 +50,17 @@
       "published_at": "2026-06-04T14:21:24+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "1959b605b3d4d7bbe9fc397b2321f7ca6caba867",
+      "title": "Europe’s far right exploit Nowak murder with populist rhetoric on race",
+      "summary": "Polish, Spanish and French populists focus on clips of teenager’s dying moments and accuse UK of descending ‘into depths of the earth’UK politics live – latest updatesPolish far-right politicians have claimed that the mu…",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/04/polish-far-right-novak-britain-descent-depths-earth",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-04T11:10:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Polish far-right politicians have claimed that the murder of Henry Nowak symbolises"
     },
     {
       "id": "b5356943327fb5aa5dbc4e4e1006ab4d6e9ba4e4",
@@ -182,40 +213,8 @@
       "published_at": "2026-06-02T07:00:00+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "d09169f410456bd5dc73176fe9e0c0c1c20b68d7",
-      "title": "1 in 8 EU households with children rely on one adult - European Commission",
-      "summary": "1 in 8 EU households with children rely on one adult&nbsp;&nbsp;European CommissionSee more headlines and perspectives on Google News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QUmw3clhyMEJkWWlCcFRYRGlFX0swdzhrUjc2TU16ZzFUemlUejdvSk1oX2ZERWh3VlZoYmgwZ3lqbHlWdGRvbTF2b0NhR2dkSk1wNlBXTTFiOC00aGVOUTdibkJsa25uWE1qQnZkU2k3cTMyUENzR0E3a0NFQQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-01T09:03:30+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "889ed18c0818612a8d2db74183ca32f53134d15b",
-      "title": "Basketball: FIBA 3x3 World Cup 2026: Schedule, teams and how to watch all the action live - olympics.com",
-      "summary": "Basketball: FIBA 3x3 World Cup 2026: Schedule, teams and how to watch all the action live&nbsp;&nbsp;olympics.comThe strategy behind Basketball New Zealand's 3x3 rise&nbsp;&nbsp;RNZGangurrus ready for World Cup tip-off&n…",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVHViM1F0RVE2SnZEUWI0RXVueW9fVldVb1Rtb21Yakc2VlpJWVpyWjhyM0JBSFB5dnY3SXAwYzA1a1QtQ1lGYVVqSnJVTTZBWC10V3prbzF6RDAyMjU3bkNxVFNIU2ZhRDN6clZUb2QyTTJpT2NTMllfN3QybXNXWU5YVW05ekxuZkRnbm9KejFNYXhTSkNieGdMVXRTU2NlYkE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-01T08:03:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "FIBA 3x3 World Cup 2026 in Poland"
-    },
-    {
-      "id": "d4957d9d9c50d4a5e3c6d7f596840d0378259365",
-      "title": "Poland's controversial 'Highway to Hel' 666 bus revived",
-      "summary": "Poland's seaside resort called Hel is getting its 666 bus service back, despite earlier opposition from Christian groups.",
-      "url": "https://www.bbc.com/news/articles/c1d2ld91635o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-01T03:19:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Poland's controversial 'Highway to Hel' 666 bus revived"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-05T12:22:20Z"
+  "last_updated": "2026-06-06T11:07:07Z"
 }
