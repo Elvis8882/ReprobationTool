@@ -3,14 +3,46 @@
   "score": 82,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 410,
+  "trend": 0,
+  "sources": 415,
   "sentiment": {
     "positive": 30,
-    "neutral": 339,
+    "neutral": 344,
     "negative": 41
   },
   "latest_articles": [
+    {
+      "id": "b9237fe42011795e31359c120f95311ccd060bf8",
+      "title": "Huge crowds throng Madrid streets for Pope's open-air mass",
+      "summary": "The pontiff waved at those gathered from his popemobile as he arrived at the Plaza de Cibeles.",
+      "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-07T10:27:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Huge crowds throng Madrid streets for Pope's open-air mass"
+    },
+    {
+      "id": "7473fd879dd3e8dda6fd9c136d20627fed78a7b5",
+      "title": "More than a million people join Pope Leo for outdoor Mass in Madrid",
+      "summary": "In his first visit to an EU country outside Italy, pope urges world leaders to stop dividing electorates and to respect ‘every human being’More than a million people have filled the streets near one of Madrid’s main squa…",
+      "url": "https://www.theguardian.com/world/2026/jun/07/million-people-pope-leo-outdoor-mass-madrid",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-07T10:20:14+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "pope urges world leaders to stop dividing electorates and to respect ‘every human being’"
+    },
+    {
+      "id": "c7e670b2203cd8293992830dccc337c100eb2aa1",
+      "title": "Car industry pressing EU for further delay to Brexit EV tariffs",
+      "summary": "Exclusive: deal in 2020 had sought to stimulate local battery making but industry says it still cannot meet targetsThe EU and UK car industries are urging the European Commission to adjust the Brexit trade deal and suspe…",
+      "url": "https://www.theguardian.com/business/2026/jun/07/eu-uk-car-industry-lobbying-second-brexit-ev-tariff-delay",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-07T06:00:25+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "4e78359756b5e04b4cf346838d2962822ec93563",
       "title": "Pope Leo, After Taking on Trump and A.I., Prepares for New Duels in Spain",
@@ -23,12 +55,43 @@
       "evidence": "may come under fire from Vox, Spain’s far-right party."
     },
     {
+      "id": "f8140425efd87f31e5e0bdd52759aeb8baba50b5",
+      "title": "Pope Leo visits a polarized Spain where conservatives are turning on the church",
+      "summary": "On the first papal visit to Spain in 15 years, Leo plans to address political polarization and showcase the Catholic Church as an advocate for migrants and asylum seekers.",
+      "url": "https://www.washingtonpost.com/world/2026/06/06/pope-leo-visits-spain-conservative-catholics-say-church-is-too-liberal/",
+      "source": "World (Washington post)",
+      "published_at": "2026-06-06T08:35:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Pope Leo visits a polarized Spain"
+    },
+    {
+      "id": "68ee667048e8f55be796b6f5e108f61be436b8ff",
+      "title": "EU defence cash attracts first-time innovators as €3.6 million pool opens - The Brussels Times",
+      "summary": "EU defence cash attracts first-time innovators as €3.6 million pool opens&nbsp;&nbsp;The Brussels TimesProgramme for agile and rapid defence innovation: Council ready to start negotiations with the European Parliament&nb…",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGUtN050NktiU0c0cklXeWZOSWY1aTBmMlBYZlEtejBmV0hzTElmcjhoaWdpTVNTRGwyb2VhSVlrS3piSjBRaFFCNWphcTVicklBcDRQeTZrTWlQZ0RwbFFyRTM2bTFUQ2FQQUdRN0NEdTBubk1kbDAteVBMZmtjZHhTVzkxNWhnRHc2NldJTTJBREZhTjdZbkZsTlpyRjlXd0F3aWZPYmZfNkduSjNPSjMyTGkzQmlxUnZkMnhOaw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-06T02:48:22+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "f294ba83c4ccb723e8d77927fe1b51ee2f1ce03a",
       "title": "Midterms: Picierno to stay in post despite Socialist pressure to resign",
       "summary": "'European Parliament rules do not provide for the removal of members of the Bureau from office in the event that they join a different political group,' Picierno's office told Euractiv",
       "url": "https://www.euractiv.com/news/midterms-picierno-to-stay-in-post-despite-socialist-pressure-to-resign/",
       "source": "Euractiv",
       "published_at": "2026-06-05T13:40:21+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "c9e0f76971f0cab598e86dfdd6102e92394701fc",
+      "title": "EU's labour productivity slightly increased in Q1 2026 - European Commission",
+      "summary": "EU's labour productivity slightly increased in Q1 2026&nbsp;&nbsp;European Commission",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVDJVUE9nazR0UkNXVzI0aGhQZGdBR0Z4dXNqUmlQcEl4RTV5b3V5UEtOc1dUcDhoVjZkWlVFakJKeHdFTkdCRUpxcFNNWTBfbzZ0MThqSW1TTmdRY2ViUjlYRnBRN2VDTjZzSFhma18tZWdsejNvb3VzYmVEUQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-05T13:00:49+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -158,68 +221,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Man City threaten legal action over Real Madrid candidate's transfer claim"
-    },
-    {
-      "id": "101aa9b313995fa58726cdf31e2e78cc3cc603ed",
-      "title": "Finland's president says EU should expand to 40 states — including Canada",
-      "summary": "Finnish President Alexander Stubb said the European Union needs to expand to project power on the global stage.",
-      "url": "https://www.cnbc.com/2026/06/04/finland-stubb-eu-canada-turkey-norway.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-06-04T06:04:01+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "4a089a9aeeacfce4cee49ee4f97b259edf3a10cb",
-      "title": "Market-based approach to biodiversity takes centre stage at EU Green Week",
-      "summary": "European Commission uses annual conference to burnish plans for a 'nature credits' scheme",
-      "url": "https://www.euractiv.com/news/market-based-approach-to-biodiversity-takes-centre-stage-at-eu-green-week/",
-      "source": "Euractiv",
-      "published_at": "2026-06-04T04:00:51+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "8d13550325b88e4c390d2fb071c826e5015d11af",
-      "title": "European Parliament revolts over EU’s €150m aid for Tanzania",
-      "summary": "MEPs accuse the European Commission of handing over the money without human rights checks and balances",
-      "url": "https://www.euractiv.com/news/european-parliament-revolts-over-eus-e150m-aid-for-tanzania/",
-      "source": "Euractiv",
-      "published_at": "2026-06-03T14:46:01+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "8fcbbb10f2676423fee1741a470eed09487ae7cb",
-      "title": "Socialists fire opening shot in race for EU Parliament presidency",
-      "summary": "Katarina Barley or René Repasi are strong candidates to replace Roberta Metsola, according to leading social democrat",
-      "url": "https://www.euractiv.com/news/socialists-fire-opening-shot-in-race-for-eu-parliament-presidency/",
-      "source": "Euractiv",
-      "published_at": "2026-06-03T12:08:58+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "5b8a3a0152271f86d5f5eed5c2ba6a3a010772ec",
-      "title": "Programme for agile and rapid defence innovation: Council ready to start negotiations with the European Parliament - consilium.europa.eu",
-      "summary": "Programme for agile and rapid defence innovation: Council ready to start negotiations with the European Parliament&nbsp;&nbsp;consilium.europa.euGerman Startups Association: Defense startups need government contracts in…",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOUVdFbDNYNm1ZQXZTX3FrM2xtNmg5c2JVaktBZURkZWxNdlQteEVaSTdHZDNydTRzLWNBZGdkTHl6ZE1rdC01NzByUm9aTWFnMlRPSUJVZnAxaWk3TzBwX1MwQXNMWTdhUVhvWUxZUmtUYnhMb1d3UkFYMDUwY2ZVYjVCSEJTaXlyeU1fSFg5RVNaMjFIcUtGSHhxTDN0dGxtSFNHNGd2bzdwc0JuUmFxSUt2RVl4TmVxSEREVWlqb3ZNU1FsVGV4TkJ5dlhfN2F6WmRtQ0JWVjk0UEVzYVRGaFJHenh2VFlUUVdGckhHNXgzaG03dkd0WDRpSEI2R3VtVktDYklnOG8zUXA0Qmc?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-03T12:07:32+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "7fdb356fb7c989526f5370b41e60f0676c21f4da",
-      "title": "Spring semester package: steering EU economies to increased competitiveness - European Commission",
-      "summary": "Spring semester package: steering EU economies to increased competitiveness&nbsp;&nbsp;European CommissionSpring Package 2026: the exemption from the Energy Pact and recommendations for Italy&nbsp;&nbsp;FASI.euEU fiscal…",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeU5OS2I3XzlJMXg3cVg1M3Z4QmdPU3c4OHNuN21BM21zRW9PSTczYnNNTUhiY0Rwb3BOVFB2MUFoUndSTzAyQ2hZS3NrbG5hLThCQXJtVFlWTTlCY0NzN19ZMTR5Mkxub0tjYnZZUVBqWWhySGFKaFgyb1VIQndkejB0X1AyQUhsb3ZTaTd4M2Ztakx0Qm03NUpBZm83bFVRaXhmS1M2MWdFYVRwR3lfbGdwZlczcDhiUy0zNWExRVR0Z2I3YlVHZGdsR3hRWHM?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-03T12:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-06T11:07:07Z"
+  "last_updated": "2026-06-07T11:19:27Z"
 }

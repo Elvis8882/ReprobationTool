@@ -1,16 +1,27 @@
 {
   "country": "MD",
-  "score": 80,
+  "score": 81,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 17,
+  "trend": 1,
+  "sources": 18,
   "sentiment": {
-    "positive": 9,
+    "positive": 10,
     "neutral": 4,
     "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "5ffa79f00ab13afbcae93e620ef8ffc46693e449",
+      "title": "EU enlargement: Merz and Macron plan for ‘new momentum’",
+      "summary": "Western Balkans countries and Moldova should be involved more in the daily business of the EU, as they progress on domestic reforms, a Franco-German paper suggests",
+      "url": "https://www.euractiv.com/news/eu-enlargement-merz-and-macron-plan-for-new-momentum/",
+      "source": "Euractiv",
+      "published_at": "2026-06-04T15:14:57+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "should be involved more in the daily business of the EU"
+    },
     {
       "id": "78e7da567239d55cbccb106fcdc27526d4e86acf",
       "title": "Whistleblower hunt",
@@ -200,5 +211,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-06T11:07:07Z"
+  "last_updated": "2026-06-07T11:19:27Z"
 }

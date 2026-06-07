@@ -4,13 +4,56 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 516,
+  "sources": 518,
   "sentiment": {
     "positive": 58,
-    "neutral": 387,
+    "neutral": 389,
     "negative": 71
   },
   "latest_articles": [
+    {
+      "id": "2195972b7907d689ac51eada00dee1c3a2459a4b",
+      "title": "‘Görli is our garden’: Berliners fight to stop mayor locking their park at night",
+      "summary": "Kreuzberg campaigners win court ruling against €2m fence aimed at shutting out drug dealersThe “hollow” in Görlitzer Park was heaving with revellers who had gathered in reaction to a court ruling against Berlin’s mayor w…",
+      "url": "https://www.theguardian.com/world/2026/jun/07/gorlitzer-park-berlin-fight-germany-mayor",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-07T11:00:32+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Berliners fight to stop mayor locking their park at night"
+    },
+    {
+      "id": "66371f6d0502b354de5c55d1bb30b1c2c75e92e3",
+      "title": "BA boss warns costly aviation taxes and rail tickets are stunting UK growth",
+      "summary": "UK lagging behind rivals on tourism growth because of travel costs and lack of joined-up planning, says CEO Sean DoyleThe cost of travel to and around the UK is keeping millions of tourists away and slowing economic grow…",
+      "url": "https://www.theguardian.com/business/2026/jun/07/ba-ceo-sean-doyle-aviation-taxes-rail-costs-stunting-uk-growth",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-07T10:19:48+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "falling behind countries such as Japan, France and Germany"
+    },
+    {
+      "id": "c7e670b2203cd8293992830dccc337c100eb2aa1",
+      "title": "Car industry pressing EU for further delay to Brexit EV tariffs",
+      "summary": "Exclusive: deal in 2020 had sought to stimulate local battery making but industry says it still cannot meet targetsThe EU and UK car industries are urging the European Commission to adjust the Brexit trade deal and suspe…",
+      "url": "https://www.theguardian.com/business/2026/jun/07/eu-uk-car-industry-lobbying-second-brexit-ev-tariff-delay",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-07T06:00:25+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "687e15ba8967f9c7d5932a6ea182611496fe9032",
+      "title": "Member of Neo-Nazi Party Reaches Mayoral Runoff in German Town",
+      "summary": "Since the fall of the Third Reich, German voters have shunned mayoral candidates from neo-Nazi parties. That could change on Sunday in a small town in the country’s east.",
+      "url": "https://www.nytimes.com/2026/06/07/world/europe/germany-neo-nazi-mayor-election.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-07T04:01:14+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Member of Neo-Nazi Party Reaches Mayoral Runoff"
+    },
     {
       "id": "5bff3c754293f22b1c6f03885602511ab0ba3476",
       "title": "Putin rules out talks with Zelenskyy and vows to pursue war",
@@ -23,12 +66,32 @@
       "evidence": "German leaders"
     },
     {
+      "id": "68ee667048e8f55be796b6f5e108f61be436b8ff",
+      "title": "EU defence cash attracts first-time innovators as €3.6 million pool opens - The Brussels Times",
+      "summary": "EU defence cash attracts first-time innovators as €3.6 million pool opens&nbsp;&nbsp;The Brussels TimesProgramme for agile and rapid defence innovation: Council ready to start negotiations with the European Parliament&nb…",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGUtN050NktiU0c0cklXeWZOSWY1aTBmMlBYZlEtejBmV0hzTElmcjhoaWdpTVNTRGwyb2VhSVlrS3piSjBRaFFCNWphcTVicklBcDRQeTZrTWlQZ0RwbFFyRTM2bTFUQ2FQQUdRN0NEdTBubk1kbDAteVBMZmtjZHhTVzkxNWhnRHc2NldJTTJBREZhTjdZbkZsTlpyRjlXd0F3aWZPYmZfNkduSjNPSjMyTGkzQmlxUnZkMnhOaw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-06T02:48:22+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "f294ba83c4ccb723e8d77927fe1b51ee2f1ce03a",
       "title": "Midterms: Picierno to stay in post despite Socialist pressure to resign",
       "summary": "'European Parliament rules do not provide for the removal of members of the Bureau from office in the event that they join a different political group,' Picierno's office told Euractiv",
       "url": "https://www.euractiv.com/news/midterms-picierno-to-stay-in-post-despite-socialist-pressure-to-resign/",
       "source": "Euractiv",
       "published_at": "2026-06-05T13:40:21+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "c9e0f76971f0cab598e86dfdd6102e92394701fc",
+      "title": "EU's labour productivity slightly increased in Q1 2026 - European Commission",
+      "summary": "EU's labour productivity slightly increased in Q1 2026&nbsp;&nbsp;European Commission",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVDJVUE9nazR0UkNXVzI0aGhQZGdBR0Z4dXNqUmlQcEl4RTV5b3V5UEtOc1dUcDhoVjZkWlVFakJKeHdFTkdCRUpxcFNNWTBfbzZ0MThqSW1TTmdRY2ViUjlYRnBRN2VDTjZzSFhma18tZWdsejNvb3VzYmVEUQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-05T13:00:49+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -62,6 +125,17 @@
       "published_at": "2026-06-04T18:13:00+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "5ffa79f00ab13afbcae93e620ef8ffc46693e449",
+      "title": "EU enlargement: Merz and Macron plan for ‘new momentum’",
+      "summary": "Western Balkans countries and Moldova should be involved more in the daily business of the EU, as they progress on domestic reforms, a Franco-German paper suggests",
+      "url": "https://www.euractiv.com/news/eu-enlargement-merz-and-macron-plan-for-new-momentum/",
+      "source": "Euractiv",
+      "published_at": "2026-06-04T15:14:57+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "plan for ‘new momentum’"
     },
     {
       "id": "2f51d2d89bd4f4f2f7fbd010a48c1c089828de33",
@@ -145,79 +219,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "German director Wim Wenders has withdrawn from circulation his 1975 film"
-    },
-    {
-      "id": "f784f06a586a789d41c3c879b4199841c4aabf0f",
-      "title": "Portugal and Austria defeat Germany for seats on the UN Security Council - Audacy",
-      "summary": "Portugal and Austria defeat Germany for seats on the UN Security Council&nbsp;&nbsp;AudacyGermany blames Russia for 'bitter defeat' in UN Security Council bid&nbsp;&nbsp;BBCDid Germany lose its UNSC seat because of suppo…",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSllQUURqZ2o4MTVTRmYxMHJURGpxMUJXS3B2S0dHblQ0SmFVVjZBRktPaUFQREFPRkg5R1dQdlZOUnlLWmEyUDFtdjRHVEJrSjVtaGwxYTJpTnFpYXQ5b0ZCMXlELTR5d0hfcHhzdF9SYlRlUEM0dTBnajc2RE1xdjhuYmxlSGpNc2xRQjR4THk5TmhSaDliaXNtSW5CaThjWms0aWFCZXJMU0FGRnk0NkU1V1ZmN0JxTElUQ0NlX25kbTJQRHF1eXVVRTBvdw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-03T19:47:41+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Germany fails to win UN Security Council seat in major diplomatic setback"
-    },
-    {
-      "id": "8d13550325b88e4c390d2fb071c826e5015d11af",
-      "title": "European Parliament revolts over EU’s €150m aid for Tanzania",
-      "summary": "MEPs accuse the European Commission of handing over the money without human rights checks and balances",
-      "url": "https://www.euractiv.com/news/european-parliament-revolts-over-eus-e150m-aid-for-tanzania/",
-      "source": "Euractiv",
-      "published_at": "2026-06-03T14:46:01+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "8fcbbb10f2676423fee1741a470eed09487ae7cb",
-      "title": "Socialists fire opening shot in race for EU Parliament presidency",
-      "summary": "Katarina Barley or René Repasi are strong candidates to replace Roberta Metsola, according to leading social democrat",
-      "url": "https://www.euractiv.com/news/socialists-fire-opening-shot-in-race-for-eu-parliament-presidency/",
-      "source": "Euractiv",
-      "published_at": "2026-06-03T12:08:58+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "5b8a3a0152271f86d5f5eed5c2ba6a3a010772ec",
-      "title": "Programme for agile and rapid defence innovation: Council ready to start negotiations with the European Parliament - consilium.europa.eu",
-      "summary": "Programme for agile and rapid defence innovation: Council ready to start negotiations with the European Parliament&nbsp;&nbsp;consilium.europa.euGerman Startups Association: Defense startups need government contracts in…",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOUVdFbDNYNm1ZQXZTX3FrM2xtNmg5c2JVaktBZURkZWxNdlQteEVaSTdHZDNydTRzLWNBZGdkTHl6ZE1rdC01NzByUm9aTWFnMlRPSUJVZnAxaWk3TzBwX1MwQXNMWTdhUVhvWUxZUmtUYnhMb1d3UkFYMDUwY2ZVYjVCSEJTaXlyeU1fSFg5RVNaMjFIcUtGSHhxTDN0dGxtSFNHNGd2bzdwc0JuUmFxSUt2RVl4TmVxSEREVWlqb3ZNU1FsVGV4TkJ5dlhfN2F6WmRtQ0JWVjk0UEVzYVRGaFJHenh2VFlUUVdGckhHNXgzaG03dkd0WDRpSEI2R3VtVktDYklnOG8zUXA0Qmc?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-03T12:07:32+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "7fdb356fb7c989526f5370b41e60f0676c21f4da",
-      "title": "Spring semester package: steering EU economies to increased competitiveness - European Commission",
-      "summary": "Spring semester package: steering EU economies to increased competitiveness&nbsp;&nbsp;European CommissionSpring Package 2026: the exemption from the Energy Pact and recommendations for Italy&nbsp;&nbsp;FASI.euEU fiscal…",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeU5OS2I3XzlJMXg3cVg1M3Z4QmdPU3c4OHNuN21BM21zRW9PSTczYnNNTUhiY0Rwb3BOVFB2MUFoUndSTzAyQ2hZS3NrbG5hLThCQXJtVFlWTTlCY0NzN19ZMTR5Mkxub0tjYnZZUVBqWWhySGFKaFgyb1VIQndkejB0X1AyQUhsb3ZTaTd4M2Ztakx0Qm03NUpBZm83bFVRaXhmS1M2MWdFYVRwR3lfbGdwZlczcDhiUy0zNWExRVR0Z2I3YlVHZGdsR3hRWHM?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-03T12:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "e568d35374ef170f2158ec08dfd1e265fdd8fe07",
-      "title": "Brussels wants AI to run the European energy system from 2027",
-      "summary": "European Commission wants ‘deployment of AI solutions across the entire energy value chain’",
-      "url": "https://www.euractiv.com/news/brussels-wants-ai-to-run-the-european-energy-system-from-2027/",
-      "source": "Euractiv",
-      "published_at": "2026-06-02T18:13:59+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "c39bfa94e3db7feb43e7b4f079ec00dd8ad72602",
-      "title": "European Parliament to ditch Google for European alternative",
-      "summary": "France's Qwant will this week become the default search engine on MEPs' computers",
-      "url": "https://www.euractiv.com/news/european-parliament-to-ditch-google-for-european-alternative/",
-      "source": "Euractiv",
-      "published_at": "2026-06-02T13:46:07+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-06T11:07:07Z"
+  "last_updated": "2026-06-07T11:19:27Z"
 }

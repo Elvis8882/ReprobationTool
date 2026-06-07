@@ -4,13 +4,35 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 371,
+  "sources": 369,
   "sentiment": {
     "positive": 14,
-    "neutral": 126,
-    "negative": 232
+    "neutral": 125,
+    "negative": 231
   },
   "latest_articles": [
+    {
+      "id": "ae7e74652f4723c41c3514bf76fea104b8964997",
+      "title": "Lebanese general among three soldiers killed in Israeli attack on car",
+      "summary": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-06T21:23:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Lebanese general among three soldiers killed"
+    },
+    {
+      "id": "e5434b3a4367c0e5241245157e8aa0937c8637a2",
+      "title": "Israeli Strike Kills 3 Lebanese Soldiers, Days After Truce Was Signed",
+      "summary": "Israel invaded Lebanon and occupied parts of the country to fight Hezbollah, an Iran-backed armed group, but its military offensive has drawn in others.",
+      "url": "https://www.nytimes.com/2026/06/06/world/middleeast/israel-strike-lebanese-soldiers-general.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-06T13:49:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Israeli Strike Kills 3 Lebanese Soldiers"
+    },
     {
       "id": "2b704577e1a80d51a0448fa6412d8232517a4aad",
       "title": "What Visual Evidence Tells Us About Israel’s Use of White Phosphorus in Lebanon",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "Hezbollah’s Drones"
-    },
-    {
-      "id": "736da4648f82149e3da56027425bace84505b825",
-      "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-      "summary": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
-      "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-02T21:51:20+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "partial truce with Hezbollah appears to hold"
-    },
-    {
-      "id": "99a43a1c8938488fb52c9ee00989a432f2d2de2c",
-      "title": "Why Benjamin Netanyahu poses an obstacle to US and Iran peace deal",
-      "summary": "Prime minister under pressure to show his campaigns against Hamas, Hezbollah and Iran have brought results as he faces elections with his political survival at riskIf there is to be a peace deal between the United States…",
-      "url": "https://www.theguardian.com/world/2026/jun/02/benjamin-netanyahu-us-iran-war",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-02T18:15:47+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Israel’s military operations in Lebanon have become a sticking point"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-06T11:07:07Z"
+  "last_updated": "2026-06-07T11:19:27Z"
 }
