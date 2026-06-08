@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": null,
-  "sources": 1,
+  "sources": 2,
   "sentiment": {
     "positive": 0,
-    "neutral": 1,
+    "neutral": 2,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "d467cdd8d860b8d74a96818aae2ce629c30d7a8f",
+      "title": "Rare footage captured of Great White shark in Mediterranean Sea",
+      "summary": "A volunteer diver has described shaking as he filmed his encounter with an endangered Great White shark between Tunisia and Sicily.",
+      "url": "https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-08T06:09:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Great White shark in Mediterranean Sea between Tunisia and Sicily"
+    },
     {
       "id": "dcb224a13b0c93fe10bc4a0b08c24c526f346d1c",
       "title": "Indian film board blocks release of Oscar-nominated Gaza drama The Voice of Hind Rajab",
@@ -24,5 +35,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-07T11:19:27Z"
+  "last_updated": "2026-06-08T13:19:30Z"
 }

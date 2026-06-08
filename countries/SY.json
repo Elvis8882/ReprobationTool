@@ -1,16 +1,27 @@
 {
   "country": "SY",
-  "score": 88,
+  "score": 89,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
+  "trend": 1,
   "sources": 41,
   "sentiment": {
     "positive": 3,
-    "neutral": 20,
-    "negative": 18
+    "neutral": 21,
+    "negative": 17
   },
   "latest_articles": [
+    {
+      "id": "3605721c580253b1f2f21eb29151c0eda1aaca22",
+      "title": "'Stop shooting': Trump demands as Iran, Israel resume strikes 1st time post ceasefire",
+      "summary": "Tensions flared as Iran and Israel exchanged missile and air strikes, shattering an April ceasefire and sparking fears of wider conflict. US President Trump urged an immediate halt to hostilities. The escalating attacks,…",
+      "url": "https://timesofindia.indiatimes.com/world/us/stop-shooting-donald-trump-demands-as-iran-israel-resume-strikes-1st-time-post-april-ceasefire/articleshow/131583880.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-06-08T10:04:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "Iraq and Syria closing airspace"
+    },
     {
       "id": "b303d9a0c9a10d400a0edc3b7c79e72c1a35695e",
       "title": "Syrian Officers Who Hid in Plain Sight Face War Crime Charges in Austria",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "urges countries to help citizens stuck in Syria"
-    },
-    {
-      "id": "1e75eff713cfbcc81aabb2468056c81efb01bb77",
-      "title": "Syrian commission prepares war crimes case against notorious Assad official",
-      "summary": "Fadi Saqr is accused of mass killings of civilians in Tadamon, Damascus, where people say he must face justiceA Syrian rights commission is preparing a case accusing Fadi Saqr, a militia leader within the Assad regime, o…",
-      "url": "https://www.theguardian.com/world/2026/apr/30/fadi-saqr-tadamon-damascus-syria",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-30T06:00:11+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Syrian commission prepares war crimes case against notorious Assad official"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-07T11:19:27Z"
+  "last_updated": "2026-06-08T13:19:30Z"
 }
