@@ -4,13 +4,57 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 372,
+  "sources": 369,
   "sentiment": {
     "positive": 14,
-    "neutral": 126,
-    "negative": 233
+    "neutral": 125,
+    "negative": 231
   },
   "latest_articles": [
+    {
+      "id": "5df2e16fc1372547e1f7826bfc53f2cfa87dadcb",
+      "title": "U.S. Strikes Iran After Trump Vows to Retaliate for Downed Helicopter",
+      "summary": "The retaliatory U.S. attacks came on Tuesday as Israeli forces pounded southern Lebanon while targeting Hezbollah.",
+      "url": "https://www.nytimes.com/2026/06/09/world/middleeast/trump-iran-us-military-helicopter.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-09T22:28:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli forces pounded southern Lebanon while targeting Hezbollah."
+    },
+    {
+      "id": "3275057ea59d74cac5888eef55f8e0e4bfae6899",
+      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
+      "summary": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
+      "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-09T17:47:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning"
+    },
+    {
+      "id": "f72040f6582cffbe0ddab02d35f7ba4f2fef97ba",
+      "title": "Israeli attack on Tyre in Lebanon kills eight as evacuation ordered for Christian quarter",
+      "summary": "People flee historic district of ancient city after airstrikes hit residential areas and damage archaeological sitesMiddle East crisis – live updatesIsrael has bombed the city of Tyre, killing eight and injuring at least…",
+      "url": "https://www.theguardian.com/world/2026/jun/09/israeli-attack-tyre-lebanon-evacuation-ordered-historic-christian-quarter",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-09T15:58:09+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli attack on Tyre in Lebanon kills eight as evacuation ordered"
+    },
+    {
+      "id": "f41b960d278ee65d238eced5f6984fa435281c01",
+      "title": "Israel Strikes Lebanese City of Tyre as U.S.-Brokered Truce Falters",
+      "summary": "The bombardment followed Israeli evacuation warning for the entire city, a day after Iran threatened to attack Israel again if it kept up its offensive against Hezbollah in Lebanon.",
+      "url": "https://www.nytimes.com/2026/06/09/world/middleeast/israel-lebanon-strikes-tyre-ceasefire.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-09T15:17:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel Strikes Lebanese City of Tyre as U.S.-Brokered Truce Falters"
+    },
     {
       "id": "c0a71ee8d5f57b65ad7a13b45430c294e637ee3c",
       "title": "Iran War Live Updates: Israel Launches New Strikes in Southern Lebanon",
@@ -43,6 +87,17 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "Lebanon, which is trapped in their conflict"
+    },
+    {
+      "id": "a4828d0af51339eddfa3b37b26df4c79985ee47a",
+      "title": "Iran announces 'end of military operations' against Israel, but warns Lebanon strikes could trigger escalation",
+      "summary": "Iran and Israel traded strikes on Sunday night for the first time since a ceasefire was agreed in April, threatening to torpedo an already-fragile ceasefire.",
+      "url": "https://www.cnbc.com/2026/06/08/iran-end-military-operations-israel-lebanon-escalation.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-06-08T12:33:45+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "warns Lebanon strikes could trigger escalation"
     },
     {
       "id": "dd56a5603e7f93b7548715709d0aacdbe709c3c0",
@@ -98,6 +153,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Israeli bombing of apartment buildings in Beirut’s southern suburbs"
+    },
+    {
+      "id": "1927ebf8bb1b9b8ecd38f21f7fa3cf274f290ddd",
+      "title": "Iran Fires Missiles at Israel for First Time Since April Cease-Fire",
+      "summary": "Israel had struck the outskirts of the Lebanese capital, Beirut, earlier on Sunday, prompting Iran to retaliate.",
+      "url": "https://www.nytimes.com/2026/06/07/world/middleeast/iran-israel-missiles.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-07T21:10:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel had struck the outskirts of the Lebanese capital, Beirut"
     },
     {
       "id": "b19be0430e18fb3cbefb9deb485e6d1fadf6bcee",
@@ -164,74 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Thousands flee after Israel issued forced evacuation orders"
-    },
-    {
-      "id": "75d9cdfb270c9167179cb7bf97faba070136a01e",
-      "title": "Hopes of Lebanon Cease-fire Falter as Israel and Hezbollah Fight",
-      "summary": "The U.S.-brokered agreement requires Hezbollah, which Iran backs, to stop firing first. But the group, not party to the talks, rejected the conditions as a virtual surrender.",
-      "url": "https://www.nytimes.com/2026/06/05/world/middleeast/lebanon-cease-fire-israel-hezbollah.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-05T11:13:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Lebanon Cease-fire Falter"
-    },
-    {
-      "id": "bd755af4b3cac63b317e4f8de2c9ba25752454ee",
-      "title": "Friday briefing: How Gaza, Lebanon and Iran have found themselves caught in an escalation without end",
-      "summary": "In today’s newsletter: ​Global powers​ are focused on oil markets and elections​ but those living through conflict in the Middle East feel abandonedGood morning. It’s been another week of brinkmanship via Truth Social an…",
-      "url": "https://www.theguardian.com/world/2026/jun/05/friday-briefing-how-gaza-lebanon-and-iran-have-found-themselves-caught-in-an-escalation-without-end",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-05T05:48:40+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "People have seen more bombs dropped in Lebanon this week"
-    },
-    {
-      "id": "c480f2dc20ad6e0f559b1ee893080127ddbcc89e",
-      "title": "Latest Israel-Lebanon Cease-Fire Shows Little Sign of Taking Hold",
-      "summary": "The U.S.-brokered deal depends on Hezbollah halting its attacks first. But the leader of the Iran-backed group rejected those terms, and Israel said that its offensive would continue.",
-      "url": "https://www.nytimes.com/2026/06/04/world/middleeast/lebanon-israel-ceasefire-hezbollah-strikes.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-04T19:41:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Israel-Lebanon Cease-Fire"
-    },
-    {
-      "id": "3ebbcbee270e301e7da0717e9995c476d912399c",
-      "title": "Middle East crisis live: Israel to continue ground operation in southern Lebanon despite agreed ceasefire",
-      "summary": "The country’s defence minister said the IDF will not withdraw from southern Lebanon and will not allow the ‘return of the population’Israel and Lebanon agree to renew ceasefire as Trump seeks to overcome barriers to Iran…",
-      "url": "https://www.theguardian.com/world/live/2026/jun/04/middle-east-crisis-israel-lebanon-hezbolllah-us-ceasefire-southern-military-attacks-continue-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-04T11:54:21+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Supporting the resistance in Lebanon is the duty of all of us"
-    },
-    {
-      "id": "a46d9e2e7a61e5c4a4c1f477ebd2c1703ec68db3",
-      "title": "Iran War Live Updates: Israel Says It Targeted Hezbollah After New Cease-Fire With Lebanon",
-      "summary": "The U.S.-brokered talks to clinch the deal did not include Hezbollah, the Iranian-backed armed group, which said it had fired rockets at Israeli targets hours after the truce was announced.",
-      "url": "https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon",
-      "source": "NYT > World News",
-      "published_at": "2026-06-04T11:52:13+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "truce was announced"
-    },
-    {
-      "id": "01dcf2c0d49589d7c0d30c4df7d45e0e7408b941",
-      "title": "Israel and Lebanon Renew Cease-Fire, Calling for Evacuation of Hezbollah Operatives",
-      "summary": "The agreement places the onus on Hezbollah to halt attacks, while demanding few immediate concessions from Israel. The cease-fire could remove an obstacle in the talks between the United States and Iran.",
-      "url": "https://www.nytimes.com/2026/06/03/world/middleeast/israel-lebanon-ceasefire-hezbollah.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-04T11:35:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": ""
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-09T12:16:54Z"
+  "last_updated": "2026-06-10T12:36:01Z"
 }

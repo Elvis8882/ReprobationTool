@@ -1,16 +1,27 @@
 {
   "country": "JO",
-  "score": 80,
+  "score": 77,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 18,
+  "trend": -3,
+  "sources": 19,
   "sentiment": {
     "positive": 6,
     "neutral": 9,
-    "negative": 3
+    "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "2f78325cd67b1e60418299fae9e100d0c31d2ded",
+      "title": "Trump launches strikes against Iran after downing of US army helicopter",
+      "summary": "US president blames Tehran for loss of Apache gunship, whose crew were rescued  by a drone near strait of HormuzMiddle East crisis – live updatesThe US has launched strikes against Iran after Donald Trump blamed Tehran f…",
+      "url": "https://www.theguardian.com/us-news/2026/jun/09/trump-blames-iran-for-downing-of-army-helicopter-and-says-us-must-respond",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-10T05:39:58+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Tehran saying it had targeted Kuwait, Bahrain and Jordan."
+    },
     {
       "id": "555377f08b8301a640cc16ea05fb0faf4cdb7a6d",
       "title": "Middle East crisis live: Iran’s Revolutionary Guards warn of war ‘beyond the region’ if US resumes attacks",
@@ -211,5 +222,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-09T12:16:54Z"
+  "last_updated": "2026-06-10T12:36:01Z"
 }

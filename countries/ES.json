@@ -1,16 +1,90 @@
 {
   "country": "ES",
-  "score": 83,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 414,
+  "trend": 1,
+  "sources": 418,
   "sentiment": {
     "positive": 32,
-    "neutral": 342,
+    "neutral": 346,
     "negative": 40
   },
   "latest_articles": [
+    {
+      "id": "6f6e379eed9a8fba06b5e00bf182289ad82c603d",
+      "title": "Pope Leo Is Blessing the Sagrada Familia in Barcelona. To Some, the Church Is a Curse.",
+      "summary": "The pontiff will offer a Mass in Antoni Gaudí’s iconic, unfinished basilica during his Spain trip. But for some Barcelona residents, completing the construction could mean knocking down their homes.",
+      "url": "https://www.nytimes.com/2026/06/10/world/europe/pope-leo-sagrada-familia-barcelona-visit.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-10T10:41:48+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Pope Leo Is Blessing the Sagrada Familia in Barcelona."
+    },
+    {
+      "id": "25a845ecac60575262f5036a563e0f76016ebaef",
+      "title": "The EU Fertiliser Action Plan, ETS, CBAM and the Fertiliser Industry [Advocacy Lab]",
+      "summary": "Panel 1: The EU Fertiliser Action Plan – Balancing affordability, resilience and transition The Fertiliser Action Plan from the European Commission aims to address a complex policy triangle: ensuring affordability for fa…",
+      "url": "https://www.euractiv.com/video/the-eu-fertiliser-action-plan-ets-cbam-and-the-fertiliser-industry/",
+      "source": "Euractiv",
+      "published_at": "2026-06-10T08:13:32+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "3e83e1271120138652c8094494c1feeb3fbe8fa3",
+      "title": "Only one in 10 Europeans now see US as an ally, survey suggests",
+      "summary": "Exclusive: poll across 15 countries finds ‘deep mistrust’, with majority doubting US would come to their aid in an attackEuropean confidence in an American “security guarantee” has hit a historic low, a survey suggests,…",
+      "url": "https://www.theguardian.com/world/2026/jun/10/only-one-in-10-europeans-now-see-us-as-an-ally-survey-suggests",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-10T04:00:11+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "4679e57d8ee789ceddad0e3eecd22b4e74f00076",
+      "title": "Brussels demands Albania act ‘without delay’ over controversial resort development",
+      "summary": "European Commission warns project backed by Trump clan must align with EU nature protection rules",
+      "url": "https://www.euractiv.com/news/brussels-demands-albania-act-without-delay-over-controversial-resort-development/",
+      "source": "Euractiv",
+      "published_at": "2026-06-10T02:00:26+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "0665ab812daabf3c3192c954784696d6af32d65a",
+      "title": "Pope Leo Meets Bad Bunny",
+      "summary": "The two crossed paths in Spain, where they have been on decidedly different tours. Sorry, no photos were released.",
+      "url": "https://www.nytimes.com/2026/06/09/world/europe/pope-leo-bad-bunny.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-09T20:55:48+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "The two crossed paths in Spain, where they have been on decidedly different tours."
+    },
+    {
+      "id": "c2fea61bc3f2ac6bf59d5e160fedf0b5189d461f",
+      "title": "Germany Drops Plan to Build Warplane With Allies, Hindering Push to Rearm",
+      "summary": "Berlin pulled out of the Future Combat Air System, a project with Spain and France that had been seen as central to European efforts to face down Russia and reduce reliance on the United States.",
+      "url": "https://www.nytimes.com/2026/06/09/world/europe/europe-fighter-fcas-germany-france.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-09T16:28:14+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "project with Spain and France that had been seen as central to European efforts"
+    },
+    {
+      "id": "010d2ca9ad9986bec3449d1495e95b1ff19ecbd0",
+      "title": "Is the pope a Real Madrid fan? Leo’s admission upsets Barcelona faithful",
+      "summary": "Pontiff appeals in Catalan for harmony on Barcelona leg of Spain tour after making football foes in cityTo the delight of many, Pope Leo XIV kicked off the Barcelona leg of his week-long visit to Spain with a few words i…",
+      "url": "https://www.theguardian.com/world/2026/jun/09/pope-leo-real-madrid-barcelona-fans-spain",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-09T15:55:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Leo’s admission upsets Barcelona faithful"
+    },
     {
       "id": "48dbb3fed041298b9f67d4378e6ececb4d0426d9",
       "title": "One of Pope Leo’s Best Friends Works in Spain. They Talk About Cars.",
@@ -21,6 +95,38 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Pope Leo’s Best Friends Works in Spain."
+    },
+    {
+      "id": "fe1399c0517f20b87c6a48f9eaec7db8924fa78b",
+      "title": "Cardinal Cobo: ‘Madrid showed Pope is a moral authority for everyone’ - Vatican News",
+      "summary": "Cardinal Cobo: ‘Madrid showed Pope is a moral authority for everyone’&nbsp;&nbsp;Vatican NewsPope Leo calls war a ‘painful defeat’ of negotiations as Israel and Iran trade worst strikes in months&nbsp;&nbsp;CNNPope's his…",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTWdfLS12QTdDd0NjOE9jcDZtRXZ0NXRMeTEzVVRpeGZ0eEhVQ3kway15OVVHYTBZWGdDaldwdURFbnNNLWpGMVd0V2hkcWpkTHlPN0IzUFJjT05KSG44Ni1PYVROUVJlZjVVZGJsLWluamYwWEJfT1lLclY3c3lkdk1CZ3lrR2lzYnRvRFZmWmZQcnhjTkw0YjNWTGRQMlBsaFBBeUhmRWxKVU5j?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-09T09:52:19+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Pope's historic speech to Spain's parliament demands respect for migrants"
+    },
+    {
+      "id": "2d9574e02bf56e09a73b207a9f8ca220bb4847a7",
+      "title": "EU sold €10.4 billion worth of wind turbines in 2024 - European Commission",
+      "summary": "EU sold €10.4 billion worth of wind turbines in 2024&nbsp;&nbsp;European Commission",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mTXBDVFZTNk5qZG0wNkhTX3JSdnRwdDVrOVJQLWktS3hsbXRGYlNBNmMzbWpJOXFrZEhEbm9ZaWxTMGFrMDJRdjhiUkZfU3JNV1JORUZtWmJLV1BnUmRlYkhhaTBrWVJVdlQwYngyTFkwaU5ubEs0cXpSYXp1UQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-09T09:02:44+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "fc2dd28d44b6b3239df9a610489d2d4c972553b2",
+      "title": "Pope criticises ‘constant disparagement’ in politics during Madrid visit",
+      "summary": "Leo XIV found accord with Spain's beleaguered prime minister over migration and multilateralism",
+      "url": "https://www.euractiv.com/news/pope-criticises-constant-disparagement-in-politics-during-madrid-visit/",
+      "source": "Euractiv",
+      "published_at": "2026-06-08T13:58:09+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Pope criticises ‘constant disparagement’ in politics during Madrid visit"
     },
     {
       "id": "c3304995c70039a2373bcdf4999fc05d6a2545d5",
@@ -54,6 +160,16 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Prime Minister Pedro Sánchez of Spain, who met on Monday"
+    },
+    {
+      "id": "914a27d9b693704729913579e8911add24cee444",
+      "title": "Momentum builds for Brussels memorial to victims of dictatorship",
+      "summary": "Lawmakers are pressing EU institutions to help fund a monument outside the European Parliament commemorating victims of communist and fascist regimes",
+      "url": "https://www.euractiv.com/news/monument-fascism-communism-brussels-eu-memorial-victims/",
+      "source": "Euractiv",
+      "published_at": "2026-06-08T02:00:20+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "ec4847336d2125b3b29ea6fdbcebfdd861aff22b",
@@ -109,123 +225,8 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "pope urges world leaders to stop dividing electorates and to respect ‘every human being’"
-    },
-    {
-      "id": "c7e670b2203cd8293992830dccc337c100eb2aa1",
-      "title": "Car industry pressing EU for further delay to Brexit EV tariffs",
-      "summary": "Exclusive: deal in 2020 had sought to stimulate local battery making but industry says it still cannot meet targetsThe EU and UK car industries are urging the European Commission to adjust the Brexit trade deal and suspe…",
-      "url": "https://www.theguardian.com/business/2026/jun/07/eu-uk-car-industry-lobbying-second-brexit-ev-tariff-delay",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-07T06:00:25+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "187a49dd693fc1a4635c9b6b221e7f6ae6798148",
-      "title": "Pope calls for end to polarisation on Spain visit",
-      "summary": "Pontiff admits that more young Spaniards this weekend will flock to see Bad Bunny, a singer, but says, ‘I think there will also be a few here to see the pope’",
-      "url": "https://www.euractiv.com/news/pope-calls-for-end-to-polarisation-on-spain-visit/",
-      "source": "Euractiv",
-      "published_at": "2026-06-06T12:19:13+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Pope calls for end to polarisation on Spain visit"
-    },
-    {
-      "id": "4e78359756b5e04b4cf346838d2962822ec93563",
-      "title": "Pope Leo, After Taking on Trump and A.I., Prepares for New Duels in Spain",
-      "summary": "Leo arrived in Spain on Saturday for a weeklong visit in which he will meet with migrants and may come under fire from Vox, Spain’s far-right party.",
-      "url": "https://www.nytimes.com/2026/06/06/world/europe/leo-spain-visit.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-06T10:09:48+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "may come under fire from Vox, Spain’s far-right party."
-    },
-    {
-      "id": "f8140425efd87f31e5e0bdd52759aeb8baba50b5",
-      "title": "Pope Leo visits a polarized Spain where conservatives are turning on the church",
-      "summary": "On the first papal visit to Spain in 15 years, Leo plans to address political polarization and showcase the Catholic Church as an advocate for migrants and asylum seekers.",
-      "url": "https://www.washingtonpost.com/world/2026/06/06/pope-leo-visits-spain-conservative-catholics-say-church-is-too-liberal/",
-      "source": "World (Washington post)",
-      "published_at": "2026-06-06T08:35:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Pope Leo visits a polarized Spain"
-    },
-    {
-      "id": "68ee667048e8f55be796b6f5e108f61be436b8ff",
-      "title": "EU defence cash attracts first-time innovators as €3.6 million pool opens - The Brussels Times",
-      "summary": "EU defence cash attracts first-time innovators as €3.6 million pool opens&nbsp;&nbsp;The Brussels TimesProgramme for agile and rapid defence innovation: Council ready to start negotiations with the European Parliament&nb…",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGUtN050NktiU0c0cklXeWZOSWY1aTBmMlBYZlEtejBmV0hzTElmcjhoaWdpTVNTRGwyb2VhSVlrS3piSjBRaFFCNWphcTVicklBcDRQeTZrTWlQZ0RwbFFyRTM2bTFUQ2FQQUdRN0NEdTBubk1kbDAteVBMZmtjZHhTVzkxNWhnRHc2NldJTTJBREZhTjdZbkZsTlpyRjlXd0F3aWZPYmZfNkduSjNPSjMyTGkzQmlxUnZkMnhOaw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-06T02:48:22+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f294ba83c4ccb723e8d77927fe1b51ee2f1ce03a",
-      "title": "Midterms: Picierno to stay in post despite Socialist pressure to resign",
-      "summary": "'European Parliament rules do not provide for the removal of members of the Bureau from office in the event that they join a different political group,' Picierno's office told Euractiv",
-      "url": "https://www.euractiv.com/news/midterms-picierno-to-stay-in-post-despite-socialist-pressure-to-resign/",
-      "source": "Euractiv",
-      "published_at": "2026-06-05T13:40:21+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "c9e0f76971f0cab598e86dfdd6102e92394701fc",
-      "title": "EU's labour productivity slightly increased in Q1 2026 - European Commission",
-      "summary": "EU's labour productivity slightly increased in Q1 2026&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVDJVUE9nazR0UkNXVzI0aGhQZGdBR0Z4dXNqUmlQcEl4RTV5b3V5UEtOc1dUcDhoVjZkWlVFakJKeHdFTkdCRUpxcFNNWTBfbzZ0MThqSW1TTmdRY2ViUjlYRnBRN2VDTjZzSFhma18tZWdsejNvb3VzYmVEUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-05T13:00:49+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "3d5f9f41e0511f9b5918e06623dfa0ef8f869535",
-      "title": "France, Spain and allies say EU must stick to pro-electric car policy",
-      "summary": "With five allies across Europe, Paris and Madrid have a blocking minority in the Council",
-      "url": "https://www.euractiv.com/news/france-spain-and-allies-say-eu-must-stick-to-pro-electric-car-policy/",
-      "source": "Euractiv",
-      "published_at": "2026-06-05T12:54:22+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Spain and allies say EU must stick to pro-electric car policy"
-    },
-    {
-      "id": "f706ee22404d38f340e6fb9ad20dcd904885d126",
-      "title": "Divine intervention: why Pope Leo visit could be a godsend for Pedro Sánchez",
-      "summary": "Pontiff’s resolve to highlight plight of migrants has aligned him with Spanish PM, whose inner circle and party are mired in corruption allegationsWhile Pope Leo XIV isn’t due to touch down in Madrid until 10.30am on Sat…",
-      "url": "https://www.theguardian.com/world/2026/jun/05/divine-intervention-pope-leo-spain-tour-pedro-sanchez-boost",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-05T04:00:27+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Pope Leo visit could be a godsend for Pedro Sánchez"
-    },
-    {
-      "id": "b43afd2a96ec311e9ac2fbde47d9546cba180e0d",
-      "title": "Brussels hints at new anti-China trade weapon",
-      "summary": "New tool could need to apply to 'entire segments of value chains', senior European Commission official says",
-      "url": "https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/",
-      "source": "Euractiv",
-      "published_at": "2026-06-05T02:00:49+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "38d8bcbc163ef28b20e0a1b0e5b1bb32bb925ef9",
-      "title": "EU Parliament hosted event by group accused of being a pro-Russian sect that believes aliens walk among us - politico.eu",
-      "summary": "EU Parliament hosted event by group accused of being a pro-Russian sect that believes aliens walk among us&nbsp;&nbsp;politico.euEP allows pro-Russian sect to hold event in its building&nbsp;&nbsp;Baltic News NetworkEuro…",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3lfb1o2Uy15SHFyQ2xuSUNaTTVWZlpSS2d0ZHFVSE5lQ2h6ci1JRllYNVdyR3VVN0hSTWNBdEVTWkVFUmhkdkxINTJ6WldVSXdkUVBlRzBoTTM5QnVHYWx3RlFZUXIwbEVaR24xenN5RU85bng2UmJyWXNEeU5pTmgzYzZHMm9ZT012ZUlWVF95OVpVZWVVeEhSMDJ1OUJ0T3cteFBZQQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-04T18:13:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-09T12:16:54Z"
+  "last_updated": "2026-06-10T12:36:01Z"
 }

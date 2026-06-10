@@ -1,16 +1,27 @@
 {
   "country": "AM",
-  "score": 83,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 27,
+  "trend": 1,
+  "sources": 28,
   "sentiment": {
-    "positive": 10,
+    "positive": 11,
     "neutral": 14,
     "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "1b9e86a7ee6ff4823a1547ecfff82812d7c5dad6",
+      "title": "Armenia election confirms pro-European course despite Moscow’s warnings",
+      "summary": "Armenian authorities remain careful not to frame their foreign policy as a binary choice between Moscow and Brussels",
+      "url": "https://www.euractiv.com/news/armenia-election-confirms-pro-european-course-despite-moscows-warnings/",
+      "source": "Euractiv",
+      "published_at": "2026-06-09T02:00:36+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Armenia election confirms pro-European course despite Moscow’s warnings"
+    },
     {
       "id": "100822b18a9e3e83da4958bc469444a98ebaa8db",
       "title": "Armenia's pro-West government wins election despite Russian pressure",
@@ -219,19 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Armenia pivots West with EU deals at landmark Yerevan summits"
-    },
-    {
-      "id": "42169c4a4d2d31a1952f1102c8966af473cd2ebf",
-      "title": "Reform UK plan to set up migrant detention centres in Green-voting areas condemned by other parties – UK politics live",
-      "summary": "Nigel Farage’s party proposed to place detention centres in places that vote for Green council leaders or MPsKeir Starmer has said that Europe has to face up to the fact that its alliance with the US is under strain.He m…",
-      "url": "https://www.theguardian.com/politics/live/2026/may/04/local-election-uk-keir-starmer-ukraine-eu-loan-deal-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-04T11:02:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "European Political Community summit in Yerevan in Armenia."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-09T12:16:54Z"
+  "last_updated": "2026-06-10T12:36:01Z"
 }
