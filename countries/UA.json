@@ -1,16 +1,38 @@
 {
   "country": "UA",
-  "score": 32,
+  "score": 30,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 3,
-  "sources": 656,
+  "trend": -2,
+  "sources": 652,
   "sentiment": {
-    "positive": 268,
-    "neutral": 161,
-    "negative": 228
+    "positive": 264,
+    "neutral": 160,
+    "negative": 229
   },
   "latest_articles": [
+    {
+      "id": "9e4c462bd88ec0e19ccff9743c0df2ff2e26c96a",
+      "title": "The War in Ukraine Has Now Gone On Longer Than World War I",
+      "summary": "Parallels between the two wars abound, from the grinding nature of the fighting to the way new technologies reshaped warfare.",
+      "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-11T04:01:16+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "The War in Ukraine Has Now Gone On Longer"
+    },
+    {
+      "id": "af2bca703484ee0a11759be7bac9cd3cd54c6fdd",
+      "title": "Senior Russian Military Official Is Killed in Car Explosion Near Moscow",
+      "summary": "The death of the officer appeared to add to a string of targeted assassinations of high-profile opponents of Ukraine inside Russia.",
+      "url": "https://www.nytimes.com/2026/06/10/world/europe/russia-moscow-car-bomb.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-10T18:55:35+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "targeted assassinations of high-profile opponents of Ukraine inside Russia"
+    },
     {
       "id": "9d30444c1554d212bf7ba70ea22bb7511c135e50",
       "title": "Russia Preparing to Deploy 115,000 Troops Near NATO Borders After Ukraine War - UNITED24 Media",
@@ -76,6 +98,17 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Zelensky says Ukraine ready to share drone tech with Nordic and Baltic countries"
+    },
+    {
+      "id": "ccada2667265e067ac8b4050ae88abf49d46038d",
+      "title": "EU plans to ban Russian soldiers from bloc in fresh sanctions on Moscow",
+      "summary": "Banks, crypto firms and Kremlin oil reserves also targeted in 21st set of measures since full-scale invasion of UkraineThe EU hopes to ban Russian soldiers from entering its territory as part of further sanctions against…",
+      "url": "https://www.theguardian.com/world/2026/jun/09/eu-ban-russian-soldiers-fresh-sanctions-moscow",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-09T15:12:38+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "fresh sanctions on Moscow"
     },
     {
       "id": "822bf1e4b6f0ed76f8f52fe0f00dcb734f3add70",
@@ -166,6 +199,17 @@
       "evidence": "EU quota system ‘could kill Ukrainian steel industry’"
     },
     {
+      "id": "0fae093b5d949c6e410b11a7bdcfcc2b33d67a5e",
+      "title": "‘They are isolated … they are alone’: Zelenskyy on Russia, Putin’s lies – and fighting back",
+      "summary": "In a wide-ranging interview, an upbeat Ukrainian president also discusses Donald Trump, King Charles, and how Kyiv is prepared to share its experience of drone warfare with the westSitting down with the Guardian in Londo…",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/jun/09/volodymyr-zelenskyy-interview-russia-putin-drone-warfare-ukraine",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-09T05:00:46+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "appears to be slowly turning in Ukraine’s favour. The military situation is the most promising"
+    },
+    {
       "id": "2daf4b50de2989e41eb017ceea46fd8ec8fc152f",
       "title": "‘We want to see him in Ukraine’: Zelenskyy hopes to invite King Charles on state visit",
       "summary": "Exclusive: Ukrainian leader says he has ‘a very good relationship’ with British monarch, who has supported his countryZelenskyy hopes Reform UK councils will allow Ukraine flags to be flown againVolodymyr Zelenskyy has r…",
@@ -186,52 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Ukraine steps up strikes on occupied territories"
-    },
-    {
-      "id": "7a604550b4c6d53a97cad543e96f33ab06ca79ad",
-      "title": "NATO shoots down drone over Latvia as concern about Ukraine war’s spread grows",
-      "summary": "The drone, which entered Latvia from Russia, was the latest to violate the airspace of a NATO member during the war.",
-      "url": "https://www.washingtonpost.com/world/2026/06/08/nato-shoots-down-drone-over-latvia-concern-about-ukraine-wars-spread-grows/",
-      "source": "World (Washington post)",
-      "published_at": "2026-06-08T20:34:57+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "concern about Ukraine war’s spread grows"
-    },
-    {
-      "id": "afaeec6b4056ab3d3a2c9f3c9178f02e726897d2",
-      "title": "Security Council LIVE: UN officials warn humanitarian toll in Ukraine is worsening - UN News",
-      "summary": "Security Council LIVE: UN officials warn humanitarian toll in Ukraine is worsening&nbsp;&nbsp;UN NewsSecurity Council officials condemn attacks on civilians at emergency UN session&nbsp;&nbsp;The Kyiv IndependentUkraine…",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yeUV2eEJMd09xNjhiYjdvVTFPcEYtOTBabzhKeTY1Y0NPeS1fUjhONGN1YXl1Q0Q0LXVBTzY5SElDTlh4OGRLZHEtakVBeGZldUVKU1lKdw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-08T18:42:32+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine urges UNSC to consider resolution on immediate ceasefire"
-    },
-    {
-      "id": "21306fcf385a8943d768031413d9b18047dfe06a",
-      "title": "Ukraine Turns to Europe as U.S. Steps Back as Mediator in Peace Talks",
-      "summary": "President Volodymyr Zelensky traveled to London to meet with the leaders of Britain, Germany and France, who he said could be negotiators in talks with Russia.",
-      "url": "https://www.nytimes.com/2026/06/07/world/europe/ukraine-europe-russia-us-peace-talks.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-08T12:17:16+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine Turns to Europe as U.S. Steps Back"
-    },
-    {
-      "id": "b417995936abe2b0be07f77e9754825ddfb9d5f9",
-      "title": "EU and NATO Step Up Anti-Drone Capabilities in Cooperation With Ukraine Amid Russian Drone Incursions - UNITED24 Media",
-      "summary": "EU and NATO Step Up Anti-Drone Capabilities in Cooperation With Ukraine Amid Russian Drone Incursions&nbsp;&nbsp;UNITED24 MediaLatvia and Ukraine to sign defence cooperation agreement / Article&nbsp;&nbsp;LSMUkraine to s…",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT3JDVjJZYk45TXFPcV9NR1ZhS3dYenVPM1Mxb3JiRmVwWlVRTU9fY1NHUUlORWNpbUdEOG9QT3RCLUpURVRFd1ZNZjFXNjc3SUR6UTUxbnlDdWVFWnV2VENsOFZfWHlnZzllMWhmNUZYRkxzYXRlTnU3U1Y0LS1OQk5zTUE1aEdsbzZXNlZHUnRERUhOMjlWdjBHZnRJVF9wbW1UVHlsRnF0SVNzUEQzeGxmXy1EdVU1NHZBbG41STNjRm5nSnl2QmNmMGpWLVFTMGp0THNn?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-08T10:58:45+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Cooperation With Ukraine Amid Russian Drone Incursions"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-10T12:36:01Z"
+  "last_updated": "2026-06-11T13:00:07Z"
 }

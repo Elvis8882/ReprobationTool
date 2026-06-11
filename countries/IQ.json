@@ -1,14 +1,14 @@
 {
   "country": "IQ",
-  "score": 79,
+  "score": 81,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 3,
-  "sources": 67,
+  "trend": 2,
+  "sources": 58,
   "sentiment": {
     "positive": 2,
-    "neutral": 34,
-    "negative": 31
+    "neutral": 28,
+    "negative": 28
   },
   "latest_articles": [
     {
@@ -32,6 +32,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "terrorist attacks on Jewish communities across Europe"
+    },
+    {
+      "id": "58c50c3f5be7a4e0ca591a94285d7a995ca85420",
+      "title": "Attack on Kuwait Airport Further Upends Mideast Travel Amid U.S.-Iran Conflict",
+      "summary": "Airports in Kuwait, Iraq, Bahrain, the U.A.E. and Iran, some with military functions and some without, have all come under fire.",
+      "url": "https://www.nytimes.com/2026/06/03/world/middleeast/kuwait-airport-attack-mideast-travel.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-04T02:50:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Airports in Kuwait, Iraq, Bahrain, the U.A.E. and Iran, some with military functions and some without, have all come under fire."
     },
     {
       "id": "93a8144f2ea70f4e9b5974909c51cb2fb484ddb2",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "U.S. Turns Up Pressure on Iraq to Distance Itself From Iran"
-    },
-    {
-      "id": "78051cf56b70f16789bda89e73d936f4b02b8f9a",
-      "title": "EU fears new resurgence of Islamic State terrorism",
-      "summary": "Officials also raised concerns over European terror suspects who face death penalty in Iraq",
-      "url": "https://www.euractiv.com/news/eu-fears-new-resurgence-of-islamic-state-terrorism/",
-      "source": "Euractiv",
-      "published_at": "2026-04-17T11:08:42+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "EU fears new resurgence of Islamic State terrorism"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-10T12:36:01Z"
+  "last_updated": "2026-06-11T13:00:07Z"
 }

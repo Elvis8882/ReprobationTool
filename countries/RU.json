@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 799,
+  "sources": 783,
   "sentiment": {
-    "positive": 36,
-    "neutral": 198,
-    "negative": 566
+    "positive": 35,
+    "neutral": 190,
+    "negative": 559
   },
   "latest_articles": [
+    {
+      "id": "af2bca703484ee0a11759be7bac9cd3cd54c6fdd",
+      "title": "Senior Russian Military Official Is Killed in Car Explosion Near Moscow",
+      "summary": "The death of the officer appeared to add to a string of targeted assassinations of high-profile opponents of Ukraine inside Russia.",
+      "url": "https://www.nytimes.com/2026/06/10/world/europe/russia-moscow-car-bomb.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-10T18:55:35+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Senior Russian Military Official Is Killed in Car Explosion Near Moscow"
+    },
     {
       "id": "9d30444c1554d212bf7ba70ea22bb7511c135e50",
       "title": "Russia Preparing to Deploy 115,000 Troops Near NATO Borders After Ukraine War - UNITED24 Media",
@@ -45,6 +56,17 @@
       "evidence": "Russian fish"
     },
     {
+      "id": "6a92ea3dd112e674f7ad677f626bd65909303e09",
+      "title": "Seabees Connect to Past During Exercise Baltic Operations 26 - U.S. Department of War (.gov)",
+      "summary": "Seabees Connect to Past During Exercise Baltic Operations 26&nbsp;&nbsp;U.S. Department of War (.gov)Russia Rehearses Baltic Strike Operations from Kaliningrad with Su-24M Bombers and Su-30SM2 Fighters&nbsp;&nbsp;Army Re…",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWN4bThpazZLZGlkRkE0YmszLWhyMktjbE9YOXVkZG9Ma1F5ekFhMUVMOWVYOGR3TUV3Q0x4UmxlTnlxSFEtUlZvcjEwSVhrTEY1N1J5V3ZoTWpJSWpyd3NlQXJoZHVKbmZBYUxZS0VfNmZOUDZUY3JQUWJaV0xSLVJfQlJnTzZXRVkwWUpUeXdvZmowblNrVmhQVVUwMVBjX0k2eDBkT0FXeWtfLXhSdFdBZFBxNlNsV1hLMWRSZnlMQQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-09T20:41:09+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia Rehearses Baltic Strike Operations from Kaliningrad"
+    },
+    {
       "id": "c2fea61bc3f2ac6bf59d5e160fedf0b5189d461f",
       "title": "Germany Drops Plan to Build Warplane With Allies, Hindering Push to Rearm",
       "summary": "Berlin pulled out of the Future Combat Air System, a project with Spain and France that had been seen as central to European efforts to face down Russia and reduce reliance on the United States.",
@@ -65,6 +87,28 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Ukraine, Latvia sign drone deal as Russia says Europe not ready to mediate peace talks"
+    },
+    {
+      "id": "ccada2667265e067ac8b4050ae88abf49d46038d",
+      "title": "EU plans to ban Russian soldiers from bloc in fresh sanctions on Moscow",
+      "summary": "Banks, crypto firms and Kremlin oil reserves also targeted in 21st set of measures since full-scale invasion of UkraineThe EU hopes to ban Russian soldiers from entering its territory as part of further sanctions against…",
+      "url": "https://www.theguardian.com/world/2026/jun/09/eu-ban-russian-soldiers-fresh-sanctions-moscow",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-09T15:12:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "EU plans to ban Russian soldiers from bloc in fresh sanctions on Moscow"
+    },
+    {
+      "id": "911a86e1e40513f8c73a7483593942e411adf342",
+      "title": "EU announces oil cap freeze in latest Russia sanctions package",
+      "summary": "The 21st package also targets Russian banks, financial institutions in third countries and 30 oil tankers from Russia’s 'shadow fleet'",
+      "url": "https://www.euractiv.com/news/eu-announces-oil-cap-freeze-in-latest-russia-sanctions-package/",
+      "source": "Euractiv",
+      "published_at": "2026-06-09T11:52:58+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "EU announces oil cap freeze in latest Russia sanctions package"
     },
     {
       "id": "a2ca6db6bb06d58420d31be93c3a9e23fb66566c",
@@ -109,6 +153,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "defends itself against Russia"
+    },
+    {
+      "id": "0fae093b5d949c6e410b11a7bdcfcc2b33d67a5e",
+      "title": "‘They are isolated … they are alone’: Zelenskyy on Russia, Putin’s lies – and fighting back",
+      "summary": "In a wide-ranging interview, an upbeat Ukrainian president also discusses Donald Trump, King Charles, and how Kyiv is prepared to share its experience of drone warfare with the westSitting down with the Guardian in Londo…",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/jun/09/volodymyr-zelenskyy-interview-russia-putin-drone-warfare-ukraine",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-09T05:00:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Kremlin has suffered a series of setbacks. Long-range Ukrainian drones have hit Putin’s home city"
     },
     {
       "id": "2daf4b50de2989e41eb017ceea46fd8ec8fc152f",
@@ -175,63 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "This pattern of attacks from Russia shows a disregard for civilian life"
-    },
-    {
-      "id": "21306fcf385a8943d768031413d9b18047dfe06a",
-      "title": "Ukraine Turns to Europe as U.S. Steps Back as Mediator in Peace Talks",
-      "summary": "President Volodymyr Zelensky traveled to London to meet with the leaders of Britain, Germany and France, who he said could be negotiators in talks with Russia.",
-      "url": "https://www.nytimes.com/2026/06/07/world/europe/ukraine-europe-russia-us-peace-talks.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-08T12:17:16+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "negotiators in talks with Russia"
-    },
-    {
-      "id": "b417995936abe2b0be07f77e9754825ddfb9d5f9",
-      "title": "EU and NATO Step Up Anti-Drone Capabilities in Cooperation With Ukraine Amid Russian Drone Incursions - UNITED24 Media",
-      "summary": "EU and NATO Step Up Anti-Drone Capabilities in Cooperation With Ukraine Amid Russian Drone Incursions&nbsp;&nbsp;UNITED24 MediaLatvia and Ukraine to sign defence cooperation agreement / Article&nbsp;&nbsp;LSMUkraine to s…",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT3JDVjJZYk45TXFPcV9NR1ZhS3dYenVPM1Mxb3JiRmVwWlVRTU9fY1NHUUlORWNpbUdEOG9QT3RCLUpURVRFd1ZNZjFXNjc3SUR6UTUxbnlDdWVFWnV2VENsOFZfWHlnZzllMWhmNUZYRkxzYXRlTnU3U1Y0LS1OQk5zTUE1aEdsbzZXNlZHUnRERUhOMjlWdjBHZnRJVF9wbW1UVHlsRnF0SVNzUEQzeGxmXy1EdVU1NHZBbG41STNjRm5nSnl2QmNmMGpWLVFTMGp0THNn?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-08T10:58:45+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Russian Drone Incursions"
-    },
-    {
-      "id": "100822b18a9e3e83da4958bc469444a98ebaa8db",
-      "title": "Armenia's pro-West government wins election despite Russian pressure",
-      "summary": "Prime Minister Nikol Pashinyan's Civil Contract Party secures nearly 50% of the vote, comfortably beating the other contenders.",
-      "url": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-08T10:28:40+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Armenia's pro-West government wins election despite Russian pressure"
-    },
-    {
-      "id": "b83a9a11ea8bebd37f5016912af2721eab9fd93c",
-      "title": "Drone from Russia shot down in eastern Latvia, military spokesperson says - Euronews.com",
-      "summary": "Drone from Russia shot down in eastern Latvia, military spokesperson says&nbsp;&nbsp;Euronews.comUkraine-Russia war latest: Nato scrambles jets to shoot down Russian drone as Latvia issues ⁠air threat alert&nbsp;&nbsp;Th…",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWGdjUnpVSVlpNGFXdjZ4MEhxcGNwZ3FtbWlTV1ZSQzl0ajlBVkdzRmZvVk1LeHFzOWZ4WDgwdElPV1pxUEpqeXlaLV80MVhJTW93SHhGb21CM0dDQmVKUVBMNjFZMEh6T1hsUFFTa1FVamVVWGNDeVVrcDZqLTljaU1GcmlidUJCVzV0Qms3WlZVUjdJYW11V0Exby1PR3NfYmlrcFhrOUd1U3FoYjF5V1RUbzh1bmwyWXc?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-08T08:26:55+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Drone from Russia shot down"
-    },
-    {
-      "id": "e43912b9c0d75038fa1d870f2ddef446d17c9926",
-      "title": "Nikol Pashinyan Wins Re-election in Armenia",
-      "summary": "Prime Minister Nikol Pashinyan overcame a pressure campaign by Moscow and was on track to win a mandate to move ahead on peace talks that President Trump helped broker.",
-      "url": "https://www.nytimes.com/2026/06/08/world/europe/armenia-election-results.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-08T08:12:25+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "overcame a pressure campaign by Moscow"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-10T12:36:01Z"
+  "last_updated": "2026-06-11T13:00:07Z"
 }

@@ -1,16 +1,26 @@
 {
   "country": "ES",
-  "score": 84,
+  "score": 83,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 418,
+  "trend": -1,
+  "sources": 415,
   "sentiment": {
-    "positive": 32,
-    "neutral": 346,
+    "positive": 31,
+    "neutral": 344,
     "negative": 40
   },
   "latest_articles": [
+    {
+      "id": "a47f7dbd521d25881880b577a02f7ef579e18ff0",
+      "title": "Kadis voices concern over US withdrawal from ocean research",
+      "summary": "The European Commission has launched its own scheme, but is looking to the private sector and philanthropists for additional funding",
+      "url": "https://www.euractiv.com/news/kadis-voices-concern-over-us-withdrawal-from-ocean-research/",
+      "source": "Euractiv",
+      "published_at": "2026-06-10T14:21:17+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "6f6e379eed9a8fba06b5e00bf182289ad82c603d",
       "title": "Pope Leo Is Blessing the Sagrada Familia in Barcelona. To Some, the Church Is a Curse.",
@@ -21,6 +31,16 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Pope Leo Is Blessing the Sagrada Familia in Barcelona."
+    },
+    {
+      "id": "126bd029073b684dc84fd8268bb260a9bb557b2b",
+      "title": "Energy use in EU households drops for 3 years in a row - European Commission",
+      "summary": "Energy use in EU households drops for 3 years in a row&nbsp;&nbsp;European Commission",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vZ29uak1SdjhVUjZmUEp5SmVXUFMwVjRQd2ptMHNpU3ZXT3hiZmUzd3V0akRaVlZnb1d2S0tyaXFxbjZzQ3pXeGpvU1lyVGM0NUk1TEN1Tk9yb2hMbGlTcE5xMV9jaER1RTZDRVI5VlJ2S3pqZGVLUTJ3amRnQQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-10T09:04:39+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "25a845ecac60575262f5036a563e0f76016ebaef",
@@ -84,6 +104,16 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Leo’s admission upsets Barcelona faithful"
+    },
+    {
+      "id": "ccada2667265e067ac8b4050ae88abf49d46038d",
+      "title": "EU plans to ban Russian soldiers from bloc in fresh sanctions on Moscow",
+      "summary": "Banks, crypto firms and Kremlin oil reserves also targeted in 21st set of measures since full-scale invasion of UkraineThe EU hopes to ban Russian soldiers from entering its territory as part of further sanctions against…",
+      "url": "https://www.theguardian.com/world/2026/jun/09/eu-ban-russian-soldiers-fresh-sanctions-moscow",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-09T15:12:38+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "48dbb3fed041298b9f67d4378e6ececb4d0426d9",
@@ -192,41 +222,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "With Leo and Bad Bunny touring Madrid"
-    },
-    {
-      "id": "2d20ca4142c45cbaf39d87962aef6c1e0fb2e0a0",
-      "title": "Rising EU Tourism Overnight Stays Highlight Resilient Travel Trends and Expanding Visitor Demand Across Europe in 2026 - Travel And Tour World",
-      "summary": "Rising EU Tourism Overnight Stays Highlight Resilient Travel Trends and Expanding Visitor Demand Across Europe in 2026&nbsp;&nbsp;Travel And Tour WorldItaly Joins Austria, France, Ireland, Finland and Spain as Intra‑Euro…",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CQjVtS2xkNkdZQVF0eTR3ZWVYTWZBNGs2ODJLV2VhSFFWazdraHF6YTRZOHBHUGVaLWk1aGhfOV9xeWxma3RUSEh1eTZNRDdtQkg4NXVHM3pHbTdQOW40TDlvUlVSVER1VXpJZU53?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-07T17:07:50+00:00",
-      "sentiment": "positive",
-      "confidence": 0.5,
-      "evidence": "Italy Joins Austria, France, Ireland, Finland and Spain"
-    },
-    {
-      "id": "b9237fe42011795e31359c120f95311ccd060bf8",
-      "title": "Huge crowds throng Madrid streets for Pope's open-air mass",
-      "summary": "The pontiff waved at those gathered from his popemobile as he arrived at the Plaza de Cibeles.",
-      "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-07T10:27:15+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Huge crowds throng Madrid streets for Pope's open-air mass"
-    },
-    {
-      "id": "7473fd879dd3e8dda6fd9c136d20627fed78a7b5",
-      "title": "More than a million people join Pope Leo for outdoor Mass in Madrid",
-      "summary": "In his first visit to an EU country outside Italy, pope urges world leaders to stop dividing electorates and to respect ‘every human being’More than a million people have filled the streets near one of Madrid’s main squa…",
-      "url": "https://www.theguardian.com/world/2026/jun/07/million-people-pope-leo-outdoor-mass-madrid",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-07T10:20:14+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "pope urges world leaders to stop dividing electorates and to respect ‘every human being’"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-10T12:36:01Z"
+  "last_updated": "2026-06-11T13:00:07Z"
 }

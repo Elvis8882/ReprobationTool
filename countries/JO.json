@@ -1,16 +1,49 @@
 {
   "country": "JO",
-  "score": 77,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": -3,
-  "sources": 19,
+  "score": 70,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": -7,
+  "sources": 22,
   "sentiment": {
     "positive": 6,
     "neutral": 9,
-    "negative": 4
+    "negative": 7
   },
   "latest_articles": [
+    {
+      "id": "f2ab450ee66c8929c7b7a42ad51b0e6f250fca52",
+      "title": "US and Iran exchange strikes across Middle East for second day in a row",
+      "summary": "Iran says it responded to US strikes by targeting American assets in Kuwait, Jordan and Bahrain, which reported damage to its capital city overnight.",
+      "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-11T12:09:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "targeting American assets in Kuwait, Jordan"
+    },
+    {
+      "id": "459c9a7d00c87fa2c4ac2630d4e8a3c69fc72983",
+      "title": "Iran targets U.S. bases for a second night, raising fears of renewed combat",
+      "summary": "Iran said it launched the attacks in Kuwait, Bahrain and Jordan in response to U.S. strikes that it claimed effectively rendered the April ceasefire “meaningless.”",
+      "url": "https://www.washingtonpost.com/world/2026/06/11/iran-targets-five-us-bases-raising-fears-return-all-out-war/",
+      "source": "World (Washington post)",
+      "published_at": "2026-06-11T12:06:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran said it launched the attacks in Kuwait, Bahrain and Jordan"
+    },
+    {
+      "id": "6a3d91ab6d105a418e8fce2cd5e758be0c2abe2e",
+      "title": "US and Iran exchange strikes for second day, as ceasefire appears close to collapse",
+      "summary": "Explosions reported across Iran after Donald Trump vowed to ‘hit them hard again’, with Bahrain, Kuwait and Jordan targeted by TehranMiddle East crisis – live updatesThe US launched a new round of airstrikes on Iran into…",
+      "url": "https://www.theguardian.com/world/2026/jun/10/middle-east-peace-talks-iran-strikes",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-11T05:45:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Jordan targeted by Tehran"
+    },
     {
       "id": "2f78325cd67b1e60418299fae9e100d0c31d2ded",
       "title": "Trump launches strikes against Iran after downing of US army helicopter",
@@ -197,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "US bases in Kuwait, Jordan and Bahrain."
-    },
-    {
-      "id": "df4a681d02b1a4eae6eb6b56a460dd27152f70a2",
-      "title": "Jordan Stephens questions Piers Morgan approach as Harrison Sullivan HSTikkyTokky interview turns into viral chaos",
-      "summary": "Jordan Stephens criticized Piers Morgan’s interview with Harrison Sullivan, saying it lacked depth and preparation. He believes Sullivan intentionally provoked reactions and Piers fell into that trap. Jordan suggested be…",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/jordan-stephens-questions-piers-morgan-approach-as-harrison-sullivan-hstikkytokky-interview-turns-into-viral-chaos/articleshow/129761784.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-03-23T19:26:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Jordan Stephens questions Piers Morgan approach"
-    },
-    {
-      "id": "37ed40bf250e076b65c9b513a1ce977a14f4c514",
-      "title": "Trump Officials Bypass Congress to Sell Weapons to U.A.E., Kuwait and Jordan",
-      "summary": "Some of the proposed sales, valued at more than $23 billion, were under review, while others were never sent to Congress. The administration is pushing them through without congressional approval.",
-      "url": "https://www.nytimes.com/2026/03/20/us/politics/wartime-emergency-congress-weapons.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-20T20:06:37+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Sell Weapons to U.A.E., Kuwait and Jordan"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-10T12:36:01Z"
+  "last_updated": "2026-06-11T13:00:07Z"
 }
