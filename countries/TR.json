@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 94,
+  "score": 93,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": -1,
-  "sources": 72,
+  "sources": 73,
   "sentiment": {
     "positive": 9,
     "neutral": 50,
-    "negative": 13
+    "negative": 14
   },
   "latest_articles": [
+    {
+      "id": "47f4eefee53d73bb523841d4bccb00fb519a3c55",
+      "title": "EU seeks ‘active’ role in Cyprus talks despite Turkish opposition",
+      "summary": "Cyprus joined the EU in 2004, though the island has remained divided since 1974, when Turkey invaded",
+      "url": "https://www.euractiv.com/news/eu-seeks-active-role-in-cyprus-talks-despite-turkish-opposition/",
+      "source": "Euractiv",
+      "published_at": "2026-06-11T13:06:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Turkish opposition"
+    },
     {
       "id": "83276e99cf19f0121aab4fd7b3be844e9a9c1fbd",
       "title": "Turkish gang member convicted over plot to murder man outside family's London restaurant after £100,000 demand",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Turkey braces for rivalry"
-    },
-    {
-      "id": "dfa0cc1acbdd3597e4b2fc8ed6ee9a757f3979e7",
-      "title": "Turkish opposition warns EU that Erdoğan’s course limits strategic partnership",
-      "summary": "Opposition foreign-policy chief Kaya Türkmen says deeper ties with Europe require a more democratic Turkey",
-      "url": "https://www.euractiv.com/news/turkish-opposition-warns-eu-that-erdogans-course-limits-strategic-partnership/",
-      "source": "Euractiv",
-      "published_at": "2026-05-20T15:31:17+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Erdoğan’s course limits strategic partnership"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-11T13:00:07Z"
+  "last_updated": "2026-06-12T12:33:44Z"
 }

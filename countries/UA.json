@@ -1,16 +1,27 @@
 {
   "country": "UA",
-  "score": 30,
+  "score": 31,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -2,
-  "sources": 652,
+  "trend": 1,
+  "sources": 645,
   "sentiment": {
-    "positive": 264,
-    "neutral": 160,
-    "negative": 229
+    "positive": 262,
+    "neutral": 158,
+    "negative": 226
   },
   "latest_articles": [
+    {
+      "id": "c7bd23fa35d8a81ab9971fd212d8631f52483726",
+      "title": "Iran Adds Elon Musk's SpaceX, Starlink To Target List In Middle East: Report",
+      "summary": "During the Russia-Ukraine conflict, Starlink helped Ukrainian forces stay online",
+      "url": "https://www.ndtv.com/world-news/iran-adds-elon-musks-spacex-starlink-to-military-target-list-in-middle-east-report-11626041#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-12T06:01:12+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Starlink helped Ukrainian forces stay online"
+    },
     {
       "id": "9e4c462bd88ec0e19ccff9743c0df2ff2e26c96a",
       "title": "The War in Ukraine Has Now Gone On Longer Than World War I",
@@ -219,19 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Zelenskyy hopes to invite King Charles on state visit"
-    },
-    {
-      "id": "2a9303bff3d21f18a77238e729083b47aedd2e9e",
-      "title": "Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories",
-      "summary": "Kyiv has made it difficult for Moscow to provide military and civilian supplies to the territories it occupies.",
-      "url": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-08T23:23:15+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine steps up strikes on occupied territories"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-11T13:00:07Z"
+  "last_updated": "2026-06-12T12:33:44Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "TN",
-  "score": 100,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": null,
-  "sources": 2,
+  "score": 55,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": -45,
+  "sources": 3,
   "sentiment": {
     "positive": 0,
     "neutral": 2,
-    "negative": 0
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "e994c989f74c7ce3e461505ccffeaa4d713b0b3f",
+      "title": "'Posed as hotel staff': Tunisian man arrested after two British teens sexually assaulted in Valencia bathroom",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/uk/posed-as-hotel-staff-tunisian-man-arrested-after-two-british-teens-sexually-assaulted-in-valencia-bathroom/articleshow/131654566.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-06-11T09:35:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Tunisian man arrested"
+    },
     {
       "id": "d467cdd8d860b8d74a96818aae2ce629c30d7a8f",
       "title": "Rare footage captured of Great White shark in Mediterranean Sea",
@@ -35,5 +46,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-11T13:00:07Z"
+  "last_updated": "2026-06-12T12:33:44Z"
 }

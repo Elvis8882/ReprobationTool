@@ -1,16 +1,91 @@
 {
   "country": "FR",
-  "score": 94,
+  "score": 92,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
+  "trend": -2,
   "sources": 648,
   "sentiment": {
-    "positive": 102,
-    "neutral": 481,
-    "negative": 65
+    "positive": 101,
+    "neutral": 480,
+    "negative": 67
   },
   "latest_articles": [
+    {
+      "id": "c7d19803897a58bfb13e688fed1e8570462a96ff",
+      "title": "Battle For Steel: Why ArcelorMittal Is In The Eye Of Storm In France",
+      "summary": "The trigger was a series of job cuts announced across ArcelorMittal's French operations.",
+      "url": "https://www.ndtv.com/business-news/battle-for-steel-why-lakshmi-mittals-arcelormittal-is-in-the-eye-of-storm-in-france-11627223#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-12T10:49:19+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "job cuts announced across ArcelorMittal's French operations"
+    },
+    {
+      "id": "293f6f7a19f649f3afa2a152cd0f369e9966c14b",
+      "title": "'Did You Like It': Pak Migrant Rapes 'Drunk' UK Teen, Jailed For 10 Years",
+      "summary": "Malik is a Pakistani asylum seeker who has lived in France, Germany and Italy",
+      "url": "https://www.ndtv.com/world-news/did-you-like-it-pak-migrant-rapes-drunk-uk-teen-jailed-for-10-years-11627019#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-12T09:23:16+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "lived in France"
+    },
+    {
+      "id": "19ae881e409c4c657bf7e3a2ed8ce14c8a42250a",
+      "title": "Employment rate up, labour market slack down in Q1 2026 - European Commission",
+      "summary": "Employment rate up, labour market slack down in Q1 2026&nbsp;&nbsp;European CommissionIreland sees sharp rise in labour market slack despite stable EU jobs picture&nbsp;&nbsp;businessplus.ieLithuania sees EU’s highest em…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hRDVETmJ3TnNaQlcxc2dUanBSdFRhejhQd1RHbkdJS3RvUGJnVDRHdGNuNzJsWVduekUwUkZXZDZlbkJnaWNVMGMwV1FwQVJfZEdvRXJjOU5reENkSm5BQ1NpUVYzX3BwekNYMXcwWDY1YktUWU9IbndicWo4UQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-12T09:04:55+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "677afa3f7c5929aa313077712a0ddcde14614e25",
+      "title": "‘Operation Pushkin’: Paris Trial Puts Spotlight on Rare-Book Heists",
+      "summary": "One by one, valuable works by Russian masters like Pushkin and Gogol were disappearing from libraries across Europe. Now six defendants are being prosecuted.",
+      "url": "https://www.nytimes.com/2026/06/12/world/europe/russian-book-theft-trial-paris.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-12T04:01:06+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "valuable works by Russian masters"
+    },
+    {
+      "id": "f363372a71054ab4c438f73c516b9e11c9205d98",
+      "title": "Bardella vows ‘new European architecture’ if he wins power in France",
+      "summary": "Jordan Bardella says Ursula von der Leyen must go, and eyes close partnership with right-wing leaders in Germany and Italy",
+      "url": "https://www.euractiv.com/news/bardella-vows-new-european-architecture-if-he-wins-power-in-france/",
+      "source": "Euractiv",
+      "published_at": "2026-06-11T16:56:25+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "wins power in France"
+    },
+    {
+      "id": "59c59e78600f79c61e39585d05ae1d02510244a9",
+      "title": "The Brief – Let the budget battle commence",
+      "summary": "The proposal has already been whittled down from the €1.76 trillion initially pitched by the European Commission last July",
+      "url": "https://www.euractiv.com/news/the-brief-let-the-budget-battle-commence/",
+      "source": "Euractiv",
+      "published_at": "2026-06-11T15:48:01+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "6be67517f76bbe5704515aede119a9cadf5c892b",
+      "title": "Artan to referee Uefa Super Cup after losing World Cup role",
+      "summary": "Somali referee Omar Artan is appointed to take charge of the Uefa Super Cup match between Paris St-Germain and Aston Villa later this summer after being denied a spot at the World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-11T14:24:58+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Paris St-Germain and Aston Villa"
+    },
     {
       "id": "a40c2f9b3ddfb6a8ec6461e19706905df6cc02cd",
       "title": "French singer Patrick Bruel under formal investigation for rape - BBC",
@@ -21,6 +96,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "French singer Patrick Bruel under formal investigation for rape"
+    },
+    {
+      "id": "5a7ee16e4a3a880067f3ce42e652e3989ff18a88",
+      "title": "French singer Patrick Bruel under formal investigation for rape",
+      "summary": "Bruel was released from custody under judicial supervision while an examining magistrate looks more deeply into the case.",
+      "url": "https://www.bbc.com/news/articles/c3ey8d3jwglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-11T08:29:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "French singer Patrick Bruel under formal investigation"
     },
     {
       "id": "865cfefa3f195ff689656a5a0d0e84e5282432b6",
@@ -43,6 +129,17 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "French man on trial accused of raping partner after contact with Dominique Pelicot"
+    },
+    {
+      "id": "a32a50372e3a04dddefb990d78a80f0853aff100",
+      "title": "Twenty-two countries tell Iran to stop attacks 'on our soil' - France 24",
+      "summary": "Twenty-two countries tell Iran to stop attacks 'on our soil'&nbsp;&nbsp;France 24US leads group of 22 countries telling Iran to stop attacks ‘on our soil’&nbsp;&nbsp;The Times of IsraelAllies condemn Iran's 'lethal plott…",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcl9KUXRYYlJNVnlTV0gyYkc5dEFoM3M2by1yQzFCNkpoc0d1bmFQN3l2ZTJick5GckJNc1FzeXdST3k2aFZxSUNremF1Y1NNUEduWXdpaGo3T0toT1R6cGZiS0xPbVZRdlZqb2dqaWNBQUc5c1NTVWQ2N3BTOGFDMzdzRjF0VGNVZ3Z0TFFEOG1MVzVXR2hPSmFjeHNVc1otZFFPOVBkVWk?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-11T01:55:12+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Allies condemn Iran's 'lethal plotting' in US, Europe"
     },
     {
       "id": "80ffa71ddbddb27ae5684ab4c42cc20f7fceaa38",
@@ -127,105 +224,8 @@
       "published_at": "2026-06-10T02:00:26+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "517fc9100d57d07f9c6b99d0db88f3ead412566a",
-      "title": "Lawyer for murdered French girl’s family calls for more justice system funding",
-      "summary": "The death of the 11-year-old, named only as Lyhanna, has pushed the issue of male violence against girls to the top of the agendaA lawyer for the family of an 11-year-old girl whose disappearance and murder sparked prote…",
-      "url": "https://www.theguardian.com/world/2026/jun/09/lyhanna-lawyer-france-justice-system-funding",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-09T18:40:16+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Lawyer for murdered French girl’s family calls for more justice system funding"
-    },
-    {
-      "id": "6ac26f71c5d568c3eb4b0d834d956760f499763a",
-      "title": "6 Countries Announce Sanctions Targeting Israeli Settler Networks",
-      "summary": "The measures aim to “disrupt the flows of finance” supporting attacks on Palestinians in the West Bank, said the British government, which coordinated them with France and other nations.",
-      "url": "https://www.nytimes.com/2026/06/09/world/middleeast/west-bank-israeli-settlers-sanction.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-09T17:56:31+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "6 Countries Announce Sanctions Targeting Israeli Settler Networks"
-    },
-    {
-      "id": "c2fea61bc3f2ac6bf59d5e160fedf0b5189d461f",
-      "title": "Germany Drops Plan to Build Warplane With Allies, Hindering Push to Rearm",
-      "summary": "Berlin pulled out of the Future Combat Air System, a project with Spain and France that had been seen as central to European efforts to face down Russia and reduce reliance on the United States.",
-      "url": "https://www.nytimes.com/2026/06/09/world/europe/europe-fighter-fcas-germany-france.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-09T16:28:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "project with Spain and France that had been seen as central to European efforts"
-    },
-    {
-      "id": "ccada2667265e067ac8b4050ae88abf49d46038d",
-      "title": "EU plans to ban Russian soldiers from bloc in fresh sanctions on Moscow",
-      "summary": "Banks, crypto firms and Kremlin oil reserves also targeted in 21st set of measures since full-scale invasion of UkraineThe EU hopes to ban Russian soldiers from entering its territory as part of further sanctions against…",
-      "url": "https://www.theguardian.com/world/2026/jun/09/eu-ban-russian-soldiers-fresh-sanctions-moscow",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-09T15:12:38+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "7893c315af8bd7ba30f92d9f189da038da662f2b",
-      "title": "Murder of Lyhanna, 11, enrages France and turns up heat on government",
-      "summary": "Protesters are angry that the suspect had already been reported to police last August in a separate case.",
-      "url": "https://www.bbc.com/news/articles/c4gyd1w3e20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-09T14:27:37+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Murder of Lyhanna, 11, enrages France and turns up heat on government"
-    },
-    {
-      "id": "3f03d086670eb7ac6ee8da4633cc4788c87dbaeb",
-      "title": "Pistorius outlines alternatives after Germany, France scrap FCAS",
-      "summary": "A consortium of companies has proposed its own plan",
-      "url": "https://www.euractiv.com/news/pistorius-outlines-alternatives-after-germany-france-scrap-fcas/",
-      "source": "Euractiv",
-      "published_at": "2026-06-09T13:37:34+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Pistorius outlines alternatives after Germany, France scrap FCAS"
-    },
-    {
-      "id": "2d9574e02bf56e09a73b207a9f8ca220bb4847a7",
-      "title": "EU sold €10.4 billion worth of wind turbines in 2024 - European Commission",
-      "summary": "EU sold €10.4 billion worth of wind turbines in 2024&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mTXBDVFZTNk5qZG0wNkhTX3JSdnRwdDVrOVJQLWktS3hsbXRGYlNBNmMzbWpJOXFrZEhEbm9ZaWxTMGFrMDJRdjhiUkZfU3JNV1JORUZtWmJLV1BnUmRlYkhhaTBrWVJVdlQwYngyTFkwaU5ubEs0cXpSYXp1UQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-09T09:02:44+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "38c5e88118a9f53c9d65d04b86c95e19f6590113",
-      "title": "Patrick Bruel, French Singer, Is Taken Into Custody Over Sex Assault Claims",
-      "summary": "Mr. Bruel, long a beloved celebrity in France, has denied allegations raised by 13 women dating to 1997.",
-      "url": "https://www.nytimes.com/2026/06/08/world/europe/patrick-bruel-questioning-rape-sexual-assault.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-08T17:29:55+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Taken Into Custody Over Sex Assault Claims"
-    },
-    {
-      "id": "a5d45578301cd2e6b87eaa37a7c61a1991cc6792",
-      "title": "Corporate clean-car mandate gets short shrift from EU capitals",
-      "summary": "France among only four countries to back corporate fleet quotas",
-      "url": "https://www.euractiv.com/news/corporate-clean-car-mandate-gets-short-shrift-from-eu-capitals/",
-      "source": "Euractiv",
-      "published_at": "2026-06-08T15:52:53+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "France among only four countries to back corporate fleet quotas"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-11T13:00:07Z"
+  "last_updated": "2026-06-12T12:33:44Z"
 }

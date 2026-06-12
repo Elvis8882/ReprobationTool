@@ -1,16 +1,27 @@
 {
   "country": "AL",
-  "score": 74,
+  "score": 73,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 26,
+  "trend": -1,
+  "sources": 27,
   "sentiment": {
     "positive": 9,
     "neutral": 10,
-    "negative": 7
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "e24464d02436920661713bd84f5abd8578be4819",
+      "title": "‘The birds will fly away’: can Albania’s flamingo revolution keep its wetlands free from Trumps and tourists?",
+      "summary": "A luxury resort backed by the US president’s family may be built on a wildlife-rich nature reserve in one of Europe’s poorest nationsIf the real estate dreams of a billionaire political family come true, an island in one…",
+      "url": "https://www.theguardian.com/world/2026/jun/12/albania-flamingos-wetlands-trump-tourists",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-12T04:00:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Albania has been rocked by nearly two weeks of fierce protests"
+    },
     {
       "id": "4679e57d8ee789ceddad0e3eecd22b4e74f00076",
       "title": "Brussels demands Albania act ‘without delay’ over controversial resort development",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Championships Kick Off in Albania"
-    },
-    {
-      "id": "93b3ca3108ae0fcd78919f8aad266c95f9401a17",
-      "title": "Corruption trial against Albania ex-president begins",
-      "summary": "The former statesman has been in detention since his arrest in October 2024",
-      "url": "https://www.euractiv.com/news/corruption-trial-against-albania-ex-president-begins/",
-      "source": "Euractiv",
-      "published_at": "2026-04-27T13:31:26+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Corruption trial against Albania ex-president begins"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-11T13:00:07Z"
+  "last_updated": "2026-06-12T12:33:44Z"
 }

@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 367,
+  "sources": 364,
   "sentiment": {
-    "positive": 14,
-    "neutral": 125,
-    "negative": 229
+    "positive": 13,
+    "neutral": 124,
+    "negative": 228
   },
   "latest_articles": [
+    {
+      "id": "bbcd9d14886437fae78ee3f34d96989bf359e366",
+      "title": "Crude oil jumps back above $90 as Trump says U.S. will take Iran's Kharg Island",
+      "summary": "Oil prices edged lower on Thursday after Kuwait closed its airspace and Israel warned of launches from Lebanon.",
+      "url": "https://www.cnbc.com/2026/06/11/brent-wti-oil-prices-us-launches-fresh-strikes-on-iran-.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-06-11T12:29:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "launches from Lebanon."
+    },
     {
       "id": "382b5f6cf5d650cada16577ca777b63ffad0439b",
       "title": "Kuwait closes airspace, Israel warns of launches from Lebanon after U.S strikes in Iran",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "U.S. efforts for a truce in Lebanon appear to have stalled."
-    },
-    {
-      "id": "ac116e9ceffc50c0bea310630ef4592bd45e87a9",
-      "title": "An airstrike trapped a journalist. She died as rescuers waited for permission to save her.",
-      "summary": "A Post reconstruction of Amal Khalil’s final hours in Lebanon found that Israel’s military denied rescuers access to her during a key period when she was still alive.",
-      "url": "https://www.washingtonpost.com/business/2026/06/07/wounded-lebanese-journalist-died-rescuers-waited-israels-permission-save-her/",
-      "source": "World (Washington post)",
-      "published_at": "2026-06-07T10:00:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "She died as rescuers waited for permission to save her"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-11T13:00:07Z"
+  "last_updated": "2026-06-12T12:33:44Z"
 }
