@@ -4,13 +4,57 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 777,
+  "sources": 775,
   "sentiment": {
     "positive": 34,
     "neutral": 188,
-    "negative": 556
+    "negative": 554
   },
   "latest_articles": [
+    {
+      "id": "1cbaf077f769acdfb9d27ec90808d8368753544a",
+      "title": "Swedish fighters intercept Russian jets near border",
+      "summary": "Sweden's airspace was not violated",
+      "url": "https://www.euractiv.com/news/swedish-fighters-intercept-russian-jets-near-border/",
+      "source": "Euractiv",
+      "published_at": "2026-06-13T10:42:26+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "intercept Russian jets near border"
+    },
+    {
+      "id": "0984a6cc3d974486fc5767e0e8c6887fef8e87ac",
+      "title": "Two Phones And An App: How Russians Skirt Putin's Digital Iron Curtain",
+      "summary": "VPN downloads surge in Russia as users adapt to internet curbs and government-mandated apps.",
+      "url": "https://www.ndtv.com/world-news/two-phones-and-an-app-how-russians-skirt-putins-digital-iron-curtain-11631381#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-13T09:24:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "VPN downloads surge in Russia as users adapt to internet curbs"
+    },
+    {
+      "id": "043374df2fdec5dcc2b3c94403c02aaf0928ef78",
+      "title": "Russia Is Rich in Ballistic Missiles. Ukraine Is Short of Ways to Stop Them.",
+      "summary": "Ukraine is running out of American-made Patriot air-defense interceptors, and is pleading for more.",
+      "url": "https://www.nytimes.com/2026/06/13/world/europe/ukraine-russia-patriot-interceptors.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-13T09:01:43+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia Is Rich in Ballistic Missiles."
+    },
+    {
+      "id": "fa2df7282b9344ede19c96aefd0c72c9bdce19b8",
+      "title": "1,569 days and counting: Russia-Ukraine war now longer than World War I",
+      "summary": "The Russia-Ukraine war has surpassed World War I in duration, now exceeding 1,569 days. What began as a swift Russian operation has become Europe's longest and bloodiest conflict since WWII, defying early predictions. De…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/1569-days-and-counting-russia-ukraine-war-now-longer-than-world-war-i/articleshow/131697154.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-06-13T03:40:52+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Europe's longest and bloodiest conflict since WWII"
+    },
     {
       "id": "72e11087f93f43b58b991ed42124aee41a5e7b2d",
       "title": "NATO made a sudden statement about the war with Russia - ИА Ореанда-Новости",
@@ -186,52 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Kremlin has suffered a series of setbacks. Long-range Ukrainian drones have hit Putin’s home city"
-    },
-    {
-      "id": "2daf4b50de2989e41eb017ceea46fd8ec8fc152f",
-      "title": "‘We want to see him in Ukraine’: Zelenskyy hopes to invite King Charles on state visit",
-      "summary": "Exclusive: Ukrainian leader says he has ‘a very good relationship’ with British monarch, who has supported his countryZelenskyy hopes Reform UK councils will allow Ukraine flags to be flown againVolodymyr Zelenskyy has r…",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/09/zelenskyy-hopes-to-invite-king-charles-state-visit-ukraine",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-09T05:00:45+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "since Russia’s full-scale invasion"
-    },
-    {
-      "id": "1b9e86a7ee6ff4823a1547ecfff82812d7c5dad6",
-      "title": "Armenia election confirms pro-European course despite Moscow’s warnings",
-      "summary": "Armenian authorities remain careful not to frame their foreign policy as a binary choice between Moscow and Brussels",
-      "url": "https://www.euractiv.com/news/armenia-election-confirms-pro-european-course-despite-moscows-warnings/",
-      "source": "Euractiv",
-      "published_at": "2026-06-09T02:00:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Moscow’s warnings"
-    },
-    {
-      "id": "2a9303bff3d21f18a77238e729083b47aedd2e9e",
-      "title": "Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories",
-      "summary": "Kyiv has made it difficult for Moscow to provide military and civilian supplies to the territories it occupies.",
-      "url": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-08T23:23:15+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories"
-    },
-    {
-      "id": "7a604550b4c6d53a97cad543e96f33ab06ca79ad",
-      "title": "NATO shoots down drone over Latvia as concern about Ukraine war’s spread grows",
-      "summary": "The drone, which entered Latvia from Russia, was the latest to violate the airspace of a NATO member during the war.",
-      "url": "https://www.washingtonpost.com/world/2026/06/08/nato-shoots-down-drone-over-latvia-concern-about-ukraine-wars-spread-grows/",
-      "source": "World (Washington post)",
-      "published_at": "2026-06-08T20:34:57+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "drone, which entered Latvia from Russia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-12T12:33:44Z"
+  "last_updated": "2026-06-13T11:28:09Z"
 }

@@ -15,8 +15,20 @@
     "GB",
     "IE"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-06-12T12:33:44+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-06-13T11:28:09+00:00",
+  "sentiment_by_country": {
+    "GB": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Up to 90% of Ireland’s asylum seekers may have entered from Northern Ireland"
+    },
+    "IE": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Up to 90% of Ireland’s asylum seekers may have entered from Northern Ireland"
+    }
+  },
+  "processed_at": "2026-06-13T11:28:09+00:00"
 }

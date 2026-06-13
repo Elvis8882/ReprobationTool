@@ -1,16 +1,27 @@
 {
   "country": "FI",
-  "score": 81,
+  "score": 100,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 269,
+  "trend": 19,
+  "sources": 272,
   "sentiment": {
     "positive": 14,
-    "neutral": 250,
-    "negative": 5
+    "neutral": 252,
+    "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "0a21a8954490654a130dcc1c62d8cbd940440c90",
+      "title": "The college scam that promised students fleeing war a new life in Finland",
+      "summary": "BBC speaks to students from war-torn Myanmar who say they were cheated after paying to study abroad.",
+      "url": "https://www.bbc.com/news/articles/cgrprx55zpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-12T22:08:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "college scam that promised students fleeing war a new life"
+    },
     {
       "id": "19ae881e409c4c657bf7e3a2ed8ce14c8a42250a",
       "title": "Employment rate up, labour market slack down in Q1 2026 - European Commission",
@@ -28,6 +39,16 @@
       "url": "https://www.euractiv.com/news/the-brief-let-the-budget-battle-commence/",
       "source": "Euractiv",
       "published_at": "2026-06-11T15:48:01+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "b0a677f29a72501d7bfbac69f0f17b4d99111167",
+      "title": "Agricultural prices decreased in Q1 2026 - European Commission",
+      "summary": "Agricultural prices decreased in Q1 2026&nbsp;&nbsp;European CommissionAgricultural output prices in Cyprus rise by 5.4%, according to Eurostat&nbsp;&nbsp;ΚΥΠΕCyprus agricultural sector benefits from easing production co…",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoREZQV1d3ZUFsMVh4cHo3Q29iSWEtUWxNb0xDMEVhNk90OGRXWVdHMDVGeURScFlyMnM5QWp1Ml9aVUFKYVk3SVVBdE1QMG0zR05HRWpmZEZkMUN2OTZma0lUUndwcnFJZWw5NkhqRWxyVXpBQWl5bVpFR1ZnUQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-11T09:04:51+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -89,6 +110,16 @@
       "url": "https://www.euractiv.com/news/brussels-demands-albania-act-without-delay-over-controversial-resort-development/",
       "source": "Euractiv",
       "published_at": "2026-06-10T02:00:26+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "ffef4482a20392b302e764399c7cd44b883994d2",
+      "title": "Armenia: Council appoints Head of Mission for European Union Partnership Mission - consilium.europa.eu",
+      "summary": "Armenia: Council appoints Head of Mission for European Union Partnership Mission&nbsp;&nbsp;consilium.europa.euEU Council appoints new head of mission to Armenia&nbsp;&nbsp;Radar Armenia",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSXE1RzFGbURGRDlzaXNnYnVwWFV3WXFWUFJkRy1Ebm9QbVlRZVhYV3d6NzQ5UmZqbXdjV2V0SjVkejNLRl9VbU90LUdENExiUTZ4c0M1SGhiVW5TNTVtUzJMcUVuY2RZZTZhQ2V6NHA5amF5d1BCZ01WWmVkQkxsMXk0NmxOQmJBZzVNZVJRVEpuV3dyek1XLU5HSlBoSFdZaHp0SnBtdWlrWHZLSU1tMmhBaVBzNGtPQ2dCNGpvcm1OQk5PSTBmbHhGaEhJczFWem9sZ0VzNmdzRm8wNTNGNw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-09T16:10:17+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -184,38 +215,8 @@
       "published_at": "2026-06-05T13:40:21+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "c9e0f76971f0cab598e86dfdd6102e92394701fc",
-      "title": "EU's labour productivity slightly increased in Q1 2026 - European Commission",
-      "summary": "EU's labour productivity slightly increased in Q1 2026&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVDJVUE9nazR0UkNXVzI0aGhQZGdBR0Z4dXNqUmlQcEl4RTV5b3V5UEtOc1dUcDhoVjZkWlVFakJKeHdFTkdCRUpxcFNNWTBfbzZ0MThqSW1TTmdRY2ViUjlYRnBRN2VDTjZzSFhma18tZWdsejNvb3VzYmVEUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-05T13:00:49+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "b43afd2a96ec311e9ac2fbde47d9546cba180e0d",
-      "title": "Brussels hints at new anti-China trade weapon",
-      "summary": "New tool could need to apply to 'entire segments of value chains', senior European Commission official says",
-      "url": "https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/",
-      "source": "Euractiv",
-      "published_at": "2026-06-05T02:00:49+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "38d8bcbc163ef28b20e0a1b0e5b1bb32bb925ef9",
-      "title": "EU Parliament hosted event by group accused of being a pro-Russian sect that believes aliens walk among us - politico.eu",
-      "summary": "EU Parliament hosted event by group accused of being a pro-Russian sect that believes aliens walk among us&nbsp;&nbsp;politico.euEP allows pro-Russian sect to hold event in its building&nbsp;&nbsp;Baltic News NetworkEuro…",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3lfb1o2Uy15SHFyQ2xuSUNaTTVWZlpSS2d0ZHFVSE5lQ2h6ci1JRllYNVdyR3VVN0hSTWNBdEVTWkVFUmhkdkxINTJ6WldVSXdkUVBlRzBoTTM5QnVHYWx3RlFZUXIwbEVaR24xenN5RU85bng2UmJyWXNEeU5pTmgzYzZHMm9ZT012ZUlWVF95OVpVZWVVeEhSMDJ1OUJ0T3cteFBZQQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-04T18:13:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-12T12:33:44Z"
+  "last_updated": "2026-06-13T11:28:09Z"
 }
