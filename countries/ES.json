@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 422,
+  "sources": 421,
   "sentiment": {
     "positive": 33,
-    "neutral": 349,
+    "neutral": 348,
     "negative": 40
   },
   "latest_articles": [
+    {
+      "id": "510150df3e924dfc3b5230aada24c42be133ba77",
+      "title": "In Venezuela, a 91-Year-Old Weaver Sticks to Traditions",
+      "summary": "Though electric machines are now standard, the Venezuelan weaver Margarita Mora has clung to a mix of ancestral Indigenous and Spanish practices to create surprisingly modern work.",
+      "url": "https://www.nytimes.com/2026/06/14/arts/design/weaving-traditional-venezuela-margarita-mora.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-14T07:58:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "ancestral Indigenous and Spanish practices"
+    },
     {
       "id": "73eb5aaed6064f4ffccadd0dee5dd92399f857c1",
       "title": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
@@ -210,19 +221,8 @@
       "published_at": "2026-06-09T16:10:17+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "010d2ca9ad9986bec3449d1495e95b1ff19ecbd0",
-      "title": "Is the pope a Real Madrid fan? Leo’s admission upsets Barcelona faithful",
-      "summary": "Pontiff appeals in Catalan for harmony on Barcelona leg of Spain tour after making football foes in cityTo the delight of many, Pope Leo XIV kicked off the Barcelona leg of his week-long visit to Spain with a few words i…",
-      "url": "https://www.theguardian.com/world/2026/jun/09/pope-leo-real-madrid-barcelona-fans-spain",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-09T15:55:15+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Leo’s admission upsets Barcelona faithful"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-13T11:28:09Z"
+  "last_updated": "2026-06-14T11:43:33Z"
 }

@@ -4,13 +4,35 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 358,
+  "sources": 359,
   "sentiment": {
     "positive": 13,
-    "neutral": 123,
-    "negative": 223
+    "neutral": 122,
+    "negative": 225
   },
   "latest_articles": [
+    {
+      "id": "82326b00610e43e9169150a5bffe4826a0eefe45",
+      "title": "Iran War Live Updates: Israel and Hezbollah Exchange Strikes, Complicating Possible Iran Peace Agreement",
+      "summary": "Israel’s military said it attacked the southern outskirts of Beirut, the Lebanese capital, after accusing Hezbollah, the Iran-backed armed group, of violating a cease-fire.",
+      "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+      "source": "NYT > World News",
+      "published_at": "2026-06-14T11:22:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "southern outskirts of Beirut"
+    },
+    {
+      "id": "14bd29b226e48390283cf0f96f21ae8d50a076f6",
+      "title": "Middle East crisis live: Trump says Iran deal will be signed today but sources tell media Tehran ‘not yet’ taken final decision",
+      "summary": "Deal could see strait of Hormuz immediately ‘open to all’, but Trump says US retains the ‘ultimate alternative’ if talks failTrump says Iran peace deal could be signed by Sunday, with strait of Hormuz to open shortly aft…",
+      "url": "https://www.theguardian.com/world/live/2026/jun/14/iran-us-middle-east-crisis-donald-trump-peace-deal-strait-hormuz-open-pakistan-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-14T10:57:42+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "struck Beirut’s south suburbs, with explosions heard in the city"
+    },
     {
       "id": "1cb04c95d292a7539ccaa9b8064490c859272297",
       "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
@@ -32,6 +54,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "seeking to include Lebanon in the deal"
+    },
+    {
+      "id": "d8639aa5884522048c92fbe1931eb93dbc894517",
+      "title": "Despite Talk of an Iran Peace Deal, Lebanon’s War Grinds On",
+      "summary": "Israeli strikes on Friday left Lebanon out of sync with a cautious optimism taking hold elsewhere in the Middle East.",
+      "url": "https://www.nytimes.com/2026/06/12/world/middleeast/lebanon-israel-war-trump-iran.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-12T16:17:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Lebanon’s War Grinds On"
     },
     {
       "id": "bbcd9d14886437fae78ee3f34d96989bf359e366",
@@ -197,41 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Israel bombing a target in southern Beirut"
-    },
-    {
-      "id": "0dba8e6a965c289cdd859aad75b02e1d8d3a049d",
-      "title": "Israelis push Netanyahu to keep fighting in Lebanon, signalling long occupation",
-      "summary": "As Trump fumes over fighting that has impeded his peace talks with Iran, some Israelis recall the 18-year occupation of Lebanon that began in 1982 and cite “complete déjà vu.”",
-      "url": "https://www.washingtonpost.com/world/2026/06/08/israelis-push-netanyahu-keep-fighting-lebanon-signalling-long-occupation/",
-      "source": "World (Washington post)",
-      "published_at": "2026-06-08T10:27:11+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "keep fighting in Lebanon, signalling long occupation"
-    },
-    {
-      "id": "1b97e2fc6ce9ececab22159128d7a87bb97c516e",
-      "title": "Lebanon's Crusader Castle Seized By Israel A Symbol Of Bloody History",
-      "summary": "Beaufort castle has long been the region's strategic keystone.",
-      "url": "https://www.ndtv.com/world-news/lebanons-beaufort-castle-seized-by-israel-a-symbol-of-bloody-history-11606485#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-06-08T08:35:16+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Lebanon's Crusader Castle Seized By Israel"
-    },
-    {
-      "id": "220c4105075c1566b98bc7a5d72c98f28b3360ec",
-      "title": "Iran launches missiles at Israel in response to strikes on Beirut",
-      "summary": "Tehran official had promised ‘decisive and painful’ reply to Israeli bombing of apartment buildings in Beirut’s southern suburbsMiddle East crisis – live updatesIran launched missiles at Israel on Sunday in response to I…",
-      "url": "https://www.theguardian.com/world/2026/jun/07/israel-escalates-war-hezbollah-airstrikes-beirut",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-07T21:49:58+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israeli bombing of apartment buildings in Beirut’s southern suburbs"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-13T11:28:09Z"
+  "last_updated": "2026-06-14T11:43:33Z"
 }
