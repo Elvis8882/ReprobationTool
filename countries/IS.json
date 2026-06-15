@@ -1,16 +1,27 @@
 {
   "country": "IS",
-  "score": 73,
+  "score": 76,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 11,
+  "trend": 3,
+  "sources": 12,
   "sentiment": {
-    "positive": 3,
+    "positive": 4,
     "neutral": 6,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "cf2d775bde639d76598a676c92f8c9e7a99cce73",
+      "title": "EU membership would free Iceland from krona ‘inflation machine’, campaigner says",
+      "summary": "'At the moment, we have no seat at the table,' Magnússon, leader of Iceland’s pro-EU movement, told Euractiv",
+      "url": "https://www.euractiv.com/news/eu-membership-would-free-iceland-from-krona-inflation-machine-campaigner-says/",
+      "source": "Euractiv",
+      "published_at": "2026-06-15T02:00:16+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "EU membership would free Iceland from krona ‘inflation machine’"
+    },
     {
       "id": "1b6aa8a5a1f1dc966cf6e3249dc4408a35e2f7c0",
       "title": "Norway should follow Iceland’s EU referendum, says PM",
@@ -134,5 +145,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-14T11:43:33Z"
+  "last_updated": "2026-06-15T15:30:00Z"
 }

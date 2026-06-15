@@ -1,0 +1,34 @@
+{
+  "id": "eb30ce92f1046d24e43f89afd41504d05c244d59",
+  "title": "Russian attack kills at least five and damages historic monastery in Kyiv",
+  "summary_full": "UNESCO, the U.N.’s world heritage agency, condemned the attack, which damaged the Kyiv Pechersk Lavra monastery. Russia said it bombed military targets.",
+  "summary_public": "UNESCO, the U.N.’s world heritage agency, condemned the attack, which damaged the Kyiv Pechersk Lavra monastery. Russia said it bombed military targets.",
+  "url": "https://www.washingtonpost.com/world/2026/06/15/russian-attack-kyiv-damages-historic-monastery-kills-least-5/",
+  "published_at": "2026-06-15T11:42:04+00:00",
+  "source": "World (Washington post)",
+  "language": "en",
+  "countries_detected": [
+    "RU",
+    "UA"
+  ],
+  "countries_scored": [
+    "RU",
+    "UA"
+  ],
+  "sentiment_by_country": {
+    "RU": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Russian attack kills at least five"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.5,
+      "evidence": "damages historic monastery in Kyiv"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-06-15T15:30:00+00:00",
+  "processed_at": "2026-06-15T15:30:00+00:00"
+}

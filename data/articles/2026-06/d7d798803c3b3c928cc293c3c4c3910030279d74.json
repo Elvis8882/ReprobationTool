@@ -1,0 +1,41 @@
+{
+  "id": "d7d798803c3b3c928cc293c3c4c3910030279d74",
+  "title": "Deadlocked Wars: How Major Powers Misread the Regions They Attacked",
+  "summary_full": "Russia and the United States projected their own centralized views onto Ukraine and Iran, analysts said. As a result, the smaller countries trapped larger ones in a costly confrontation.",
+  "summary_public": "Russia and the United States projected their own centralized views onto Ukraine and Iran, analysts said. As a result, the smaller countries trapped larger ones in a costly confrontation.",
+  "url": "https://www.nytimes.com/2026/06/14/world/europe/us-iran-russia-ukraine.html",
+  "published_at": "2026-06-14T20:03:43+00:00",
+  "source": "NYT > World News",
+  "language": "en",
+  "countries_detected": [
+    "IR",
+    "RU",
+    "UA"
+  ],
+  "countries_scored": [
+    "IR",
+    "RU",
+    "UA"
+  ],
+  "sentiment_by_country": {
+    "IR": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "projected their own centralized views onto Ukraine and Iran"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia... misread the Regions They Attacked"
+    },
+    "UA": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "projected their own centralized views onto Ukraine"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-06-15T15:18:31+00:00",
+  "processed_at": "2026-06-15T15:18:31+00:00"
+}

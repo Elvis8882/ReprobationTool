@@ -1,0 +1,41 @@
+{
+  "id": "3c916e45cec4c75cc2a6e478832e0c53860d0caf",
+  "title": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
+  "summary_full": "In a call to The New York Times, President Trump praised Russia’s and China’s leaders and described Israel’s prime minister as “a very difficult guy.”",
+  "summary_public": "In a call to The New York Times, President Trump praised Russia’s and China’s leaders and described Israel’s prime minister as “a very difficult guy.”",
+  "url": "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html",
+  "published_at": "2026-06-15T12:32:07+00:00",
+  "source": "NYT > World News",
+  "language": "en",
+  "countries_detected": [
+    "IL",
+    "IR",
+    "RU"
+  ],
+  "countries_scored": [
+    "IL",
+    "IR",
+    "RU"
+  ],
+  "sentiment_by_country": {
+    "IL": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "described Israel’s prime minister as “a very difficult guy.”"
+    },
+    "IR": {
+      "label": "positive",
+      "confidence": 0.7,
+      "evidence": "Agreement With Iran"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Trump praised Russia’s and China’s leaders"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-06-15T15:30:00+00:00",
+  "processed_at": "2026-06-15T15:30:00+00:00"
+}
