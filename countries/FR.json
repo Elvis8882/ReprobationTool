@@ -1,16 +1,99 @@
 {
   "country": "FR",
-  "score": 89,
+  "score": 88,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -4,
-  "sources": 645,
+  "trend": -1,
+  "sources": 648,
   "sentiment": {
     "positive": 97,
-    "neutral": 479,
-    "negative": 69
+    "neutral": 481,
+    "negative": 70
   },
   "latest_articles": [
+    {
+      "id": "4e4fa850d61d59b6c5be5a71589fd90877e8e2f6",
+      "title": "France, Britain and Other Countries Say They’ll Send Ships to the Strait of Hormuz",
+      "summary": "For months, a coalition led by Britain and France has been preparing to send minesweepers and other ships to secure the strait once the fighting ends. That moment may finally be here.",
+      "url": "https://www.nytimes.com/2026/06/16/world/europe/europe-strait-of-hormuz-iran-security.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-16T13:06:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "send ships to the Strait of Hormuz"
+    },
+    {
+      "id": "0d33ab9f23e58f1df021401727d688e59ef90b99",
+      "title": "European Parliament plans to build ‘food court’",
+      "summary": "There are hygiene risks with the current canteen, fears the EU assembly's administration",
+      "url": "https://www.euractiv.com/news/european-parliament-plans-to-build-food-court/",
+      "source": "Euractiv",
+      "published_at": "2026-06-16T11:40:54+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "08d6d289336bbb26801b3c6e5a689effc07a9fb0",
+      "title": "European Parliament clears way for EU-US trade pact",
+      "summary": "Parliament approves Washington deal while fresh trade threats emerge",
+      "url": "https://www.euractiv.com/news/european-parliament-clears-way-for-eu-us-trade-pact/",
+      "source": "Euractiv",
+      "published_at": "2026-06-16T11:12:50+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "011338a0703d586d1040b001cdc18457266c1853",
+      "title": "Trim the Brussels bureaucracy budget, says Austria",
+      "summary": "The European Commission last July proposed spending around €104 billion on administration in the next budget cycle, including 2,500 additional civil service posts",
+      "url": "https://www.euractiv.com/news/trim-the-brussels-bureaucracy-budget-says-austria/",
+      "source": "Euractiv",
+      "published_at": "2026-06-16T10:54:26+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "380d94eaf31f8151d62d2dc43024a60236e9f0fb",
+      "title": "EU Court greenlights France’s age-check rules for EU-based porn websites",
+      "summary": "Under certain conditions, France's laws requiring porn websites to age-check their users fall under online child safety concerns",
+      "url": "https://www.euractiv.com/news/eu-court-greenlights-frances-age-check-rules-for-eu-based-porn-websites/",
+      "source": "Euractiv",
+      "published_at": "2026-06-16T10:26:12+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "EU Court greenlights France’s age-check rules for EU-based porn websites"
+    },
+    {
+      "id": "69e809ea61232e54163966a64872ce40d503b6b3",
+      "title": "Iran ‘agreed to never have a nuclear weapon’, says Trump – as it happened",
+      "summary": "This blog is now closed – see our full report on the US-Iran agreement and an analysis of what it meansThe agreement between the United ⁠States and Iran should allow for the “immediate reopening” ⁠of the ⁠Strait ​of Horm…",
+      "url": "https://www.theguardian.com/world/live/2026/jun/15/iran-us-peace-deal-live-updates-trump-israel-lebanon-hormuz-nuclear-program-europe-response",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-16T03:45:39+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "86366ffcc98251c7af11c7afb80b3ccdd0ba9a71",
+      "title": "Brussels cuts free greenhouse gas permits for industry… for now",
+      "summary": "European Commission has agreed to fast-track a review under pressure from Berlin, Paris",
+      "url": "https://www.euractiv.com/news/brussels-cuts-free-greenhouse-gas-permits-for-industry-for-now/",
+      "source": "Euractiv",
+      "published_at": "2026-06-15T17:37:58+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "pressure from Paris"
+    },
+    {
+      "id": "4183959b4122d445bc6a729110f60e37b2c2141b",
+      "title": "European Parliament celebrates air passenger rights win",
+      "summary": "MEPs claim victory after facing down European capitals and airline lobbyists over compensation rights",
+      "url": "https://www.euractiv.com/news/european-parliament-celebrates-air-passenger-rights-win/",
+      "source": "Euractiv",
+      "published_at": "2026-06-15T16:56:25+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "26226ff3385800427ee8721937fda1b5a7591604",
       "title": "In France, Justice System Faces Public Anger After 11-Year-Old Girl’s Killing",
@@ -54,6 +137,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "France’s Macron warns Iran against imposing Hormuz tolls"
+    },
+    {
+      "id": "8fdce9587a1cbe3f5a2aa42975f21895bcedb677",
+      "title": "Trump says France must scrap tech 'sales tax' or face 100% wine tariffs: NY Post",
+      "summary": "President Donald Trump issued the threat ahead of this week's G7 summit in Évian-les-Bains, France.",
+      "url": "https://www.cnbc.com/2026/06/15/trump-france-tech-tax-wine-tariffs-champagne.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-06-15T11:14:45+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "France must scrap tech 'sales tax' or face 100% wine tariffs"
     },
     {
       "id": "593217d6c3e71d9f51edcdfe3580436349ea27f2",
@@ -130,106 +224,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "French far right woos vapers"
-    },
-    {
-      "id": "2c5df3c7ab59303390249b6396865ad11e41eb9d",
-      "title": "Macron frames Évian G7 agenda in hope Trump will stay for whole summit",
-      "summary": "US president left last meeting early, but world leaders aim to end Ukraine war and push for resolution in Gaza and IranEmmanuel Macron, the host of the G7 summit in Évian-les-Bains, has framed an agenda to make it as pal…",
-      "url": "https://www.theguardian.com/world/2026/jun/15/macron-evian-g7-agenda-summit-trump",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-15T04:00:02+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Macron frames Évian G7 agenda"
-    },
-    {
-      "id": "a326079429b04168ac0aab0a2886e1ca022334e0",
-      "title": "Pro-vaping French far right to abstain in EU parliament tobacco tax vote",
-      "summary": "With France's presidential election approaching, the National Rally is wary of alienating consumers",
-      "url": "https://www.euractiv.com/news/pro-vaping-french-far-right-to-abstain-in-eu-parliament-tobacco-tax-vote/",
-      "source": "Euractiv",
-      "published_at": "2026-06-15T02:00:39+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "French far right to abstain in EU parliament tobacco tax vote"
-    },
-    {
-      "id": "9769e8c4f950c3e4782dffc1544ff382e255d649",
-      "title": "EU turns to US-powered AI to rank job candidates",
-      "summary": "With its ever-growing list of candidates, the European Commission is preparing to deploy an AI tool powered by Anthropic's model to shortlist them",
-      "url": "https://www.euractiv.com/news/eu-turns-to-us-powered-ai-to-rank-job-candidates/",
-      "source": "Euractiv",
-      "published_at": "2026-06-15T02:00:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "5ad4e5095c731eeebab53293a5c909ac15ebd3fc",
-      "title": "Protesters clash with police ahead of G7 summit in France",
-      "summary": "Swiss police deployed a water cannon and fired tear gas to disperse anti-G7 protesters after clashes.",
-      "url": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-14T19:46:36+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Protesters clash with police ahead of G7 summit"
-    },
-    {
-      "id": "542cd23e1fd05ab9de3a8426b8ae9c9d8bc3acb1",
-      "title": "French MEP Glucksmann tests presidential waters with sovereignty pitch",
-      "summary": "Elon Musk, Sam Altman, and Zhang Yiming are France's ennemies, Glucksmann said",
-      "url": "https://www.euractiv.com/news/french-mep-glucksmann-tests-presidential-waters-with-sovereignty-pitch/",
-      "source": "Euractiv",
-      "published_at": "2026-06-14T10:23:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "French MEP Glucksmann tests presidential waters"
-    },
-    {
-      "id": "8fcedd993ba73635608d323102907337f05c5461",
-      "title": "Epstein's Fashion World Ties To Get 'Cute French Girls, Women As Gifts'",
-      "summary": "At least six people from the modelling industry regularly introduced young models to Epstein",
-      "url": "https://www.ndtv.com/world-news/sex-offender-jeffrey-epsteins-fashion-world-ties-to-get-cute-french-girls-women-as-gifts-11634093#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-06-14T07:15:06+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Get 'Cute French Girls, Women As Gifts'"
-    },
-    {
-      "id": "02b7257d44748c96933d30b4af405ef87cf01960",
-      "title": "US decision to block Mythos access fuels European calls for sovereignty",
-      "summary": "French presidential hopeful Gabriel Attal said it shows \"the AI war has already begun\"",
-      "url": "https://www.euractiv.com/news/us-decision-to-block-mythos-access-fuels-european-calls-for-sovereignty/",
-      "source": "Euractiv",
-      "published_at": "2026-06-13T15:49:59+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "European calls for sovereignty\nFrench presidential hopeful Gabriel Attal said"
-    },
-    {
-      "id": "aa3857b178417eed478632fbb2ff421a05f62b0a",
-      "title": "German defence giant warns on future of European tank",
-      "summary": "The MGCS aims to replace battle tanks currently used by France and Germany",
-      "url": "https://www.euractiv.com/news/german-defence-giant-warns-on-future-of-european-tank/",
-      "source": "Euractiv",
-      "published_at": "2026-06-13T07:22:49+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "The MGCS aims to replace battle tanks currently used by France and Germany"
-    },
-    {
-      "id": "0622ab2935581b294ad630f5e7a272772c07cbaa",
-      "title": "French town buries murdered child as questions mount over police failings",
-      "summary": "The prime suspect in the killing of Lyhanna, 11, was reported to police nine months prior but never questioned.",
-      "url": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-12T16:19:12+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "French town buries murdered child as questions mount over police failings"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-15T15:30:00Z"
+  "last_updated": "2026-06-16T14:23:58Z"
 }
