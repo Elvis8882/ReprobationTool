@@ -1,16 +1,58 @@
 {
   "country": "ES",
-  "score": 84,
+  "score": 81,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 421,
+  "trend": -3,
+  "sources": 419,
   "sentiment": {
-    "positive": 34,
-    "neutral": 347,
-    "negative": 40
+    "positive": 33,
+    "neutral": 343,
+    "negative": 43
   },
   "latest_articles": [
+    {
+      "id": "c0559a82408611673c13de098508ce2df9427447",
+      "title": "European Parliament approves ‘return hubs’",
+      "summary": "‘Send them home,’ chanted nationalist and far-right MEPs",
+      "url": "https://www.euractiv.com/news/european-parliament-approves-return-hubs/",
+      "source": "Euractiv",
+      "published_at": "2026-06-17T11:59:41+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "ac331ee9139eb64e489037cb647a0a4af29fe9fd",
+      "title": "Household material welfare across the EU in 2025 - European Commission",
+      "summary": "Household material welfare across the EU in 2025&nbsp;&nbsp;European Commission",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqN2tydGZrX2VfVTA5aFdidUlWYnVZaklMZlE5ZGRCaUI2T1VZTEYzMVVvMEpCWnNyUkpmOTB1blNPWURfZXhPdEV3QWZnY1gyRXZLVTA3OUJyNFlwaGRSekhOVTN5NjU3SkdjbUxKRWZuLWVLbWxBY1VNd2IxQQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-17T09:11:56+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "1bf33a307e3b7eacacf0513796285f0fd605314a",
+      "title": "How Ecuador’s Andes Created a Language of Its Own",
+      "summary": "In Ecuador’s highlands, a seamless mix of Kichwa and Spanish creates a language that bends grammar, adds melody and goes unnoticed by many who speak it every day.",
+      "url": "https://www.nytimes.com/2026/06/17/world/americas/ecuador-kichwa-language-andes.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-17T09:00:12+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "seamless mix of Kichwa and Spanish creates a language"
+    },
+    {
+      "id": "d242a8df0220b0c55ec510ea64a8e88dfee4670b",
+      "title": "Fears that Chinese port investments make Spain and NATO ‘vulnerable’",
+      "summary": "A Chinese car manufacturer is building a plant by a key Spanish naval port used for NATO operations",
+      "url": "https://www.euractiv.com/news/fears-that-chinese-port-investments-make-spain-and-nato-vulnerable/",
+      "source": "Euractiv",
+      "published_at": "2026-06-17T02:00:42+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Fears that Chinese port investments make Spain and NATO ‘vulnerable’"
+    },
     {
       "id": "0d33ab9f23e58f1df021401727d688e59ef90b99",
       "title": "European Parliament plans to build ‘food court’",
@@ -81,6 +123,17 @@
       "published_at": "2026-06-15T16:56:25+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "99a76c54c28a449260ddf936e839d6da581d75dd",
+      "title": "Spain’s prime minister faces difficult week as wife and ex-PM summoned before judges",
+      "summary": "Pedro Sánchez’s wife, Begoña Gómez, charged and predecessor José Luis Rodríguez Zapatero investigated over offences including influence peddlingEurope live – latest updatesSpain’s prime minister, Pedro Sánchez, is facing…",
+      "url": "https://www.theguardian.com/world/2026/jun/15/spain-pedro-sanchez-begona-gomez-jose-luis-rodriguez-zapatero-trial",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-15T11:52:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "investigating them for alleged influence peddling and other offences"
     },
     {
       "id": "dcc1d2323f101ad42c212e8a3d2d09bf579545ef",
@@ -166,62 +219,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "the Bernabéu hosts the Corazón Classic Match"
-    },
-    {
-      "id": "73eb5aaed6064f4ffccadd0dee5dd92399f857c1",
-      "title": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
-      "summary": "José Luis Rodriguez Zapatero is suspected of being unable to show proof he paid import duties on the jewellery.",
-      "url": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-12T15:55:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Discovery of €1.2m jewellery prompts fresh probe"
-    },
-    {
-      "id": "5be7c2bd2d2dae7ecd5653f41cf8e944d7a47ede",
-      "title": "Economic governance: Council approves flexibility for Spain to increase defence spending - consilium.europa.eu",
-      "summary": "Economic governance: Council approves flexibility for Spain to increase defence spending&nbsp;&nbsp;consilium.europa.eu",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUFoa2pOVjhhRkRpcnhjZnBCWHRrcUswcmZHMnhlc3R6cXEwVHBJdmdPVmVpSGVHZ05iR0FINkt4QmN0bDRhSHZHbmVXaVA0NDlPYl9tcVV6dDFjYndTSHBqX09BTW9vZGt2SkZ0N3pkWUE4S1I4cDFDWU5EN0laUHdCLUxsLTVnS3F2RThyTksyRXJ4NTdnbFFqY0JyRlp0VE5lczdwcFlvM1pjQzF1dkZ3ZUxBNUVJWnhfQ2lDd1NfTFFMT25xalJuVVNrNlFiaXhLdTF2U1JraV9CaUtyc25LeUg3eEh0MGFz?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-12T13:59:37+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Council approves flexibility for Spain to increase defence spending"
-    },
-    {
-      "id": "69e3eea2d7b9897fe0a24c10af223550ff26af4b",
-      "title": "Spanish court opens new Zapatero probe over €1.3m jewellery haul",
-      "summary": "The former prime minister was already under investigastion over an alleged influence-peddling and money-laundering network",
-      "url": "https://www.euractiv.com/news/spanish-court-opens-new-zapatero-probe-over-e1-3m-jewellery-haul/",
-      "source": "Euractiv",
-      "published_at": "2026-06-12T13:36:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Spanish court opens new Zapatero probe"
-    },
-    {
-      "id": "84f1b96f269bb41c9a37f0c8f6fc75a74a8defd4",
-      "title": "Pope to human traffickers: Repent! Divine justice awaits you - Vatican News",
-      "summary": "Pope to human traffickers: Repent! Divine justice awaits you&nbsp;&nbsp;Vatican NewsPope Leo warns Europe’s migrant traffickers to repent or face hell&nbsp;&nbsp;ReutersPope tells traffickers of migrants in the Canary Is…",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaVdxazVzdjJJWjExT0k4YkRKMFJ6LXM4OVNIeUZtQVBmcjB1M256ME9IVlVDejR5MmNvQ183WFViZU9iOTRsOGdpX2JGbUo5RjVIMDc5dGFhd2s3cEo2V2ZScHNCSThTa18xZVhQQzVob3Z5ZXBBSWZSU1poYTVwZG5QbWh3OWw2NFNySzEySzBBNC10ZmdlR3dvTFIzUXo3em1wTg?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-12T10:53:55+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Spain’s tangled politics of faith and migration"
-    },
-    {
-      "id": "19ae881e409c4c657bf7e3a2ed8ce14c8a42250a",
-      "title": "Employment rate up, labour market slack down in Q1 2026 - European Commission",
-      "summary": "Employment rate up, labour market slack down in Q1 2026&nbsp;&nbsp;European CommissionIreland sees sharp rise in labour market slack despite stable EU jobs picture&nbsp;&nbsp;businessplus.ieLithuania sees EU’s highest em…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hRDVETmJ3TnNaQlcxc2dUanBSdFRhejhQd1RHbkdJS3RvUGJnVDRHdGNuNzJsWVduekUwUkZXZDZlbkJnaWNVMGMwV1FwQVJfZEdvRXJjOU5reENkSm5BQ1NpUVYzX3BwekNYMXcwWDY1YktUWU9IbndicWo4UQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-12T09:04:55+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-16T14:23:58Z"
+  "last_updated": "2026-06-17T13:08:13Z"
 }
