@@ -15,8 +15,20 @@
     "RU",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-06-17T13:08:13+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-06-18T12:41:35+00:00",
+  "sentiment_by_country": {
+    "RU": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "table with Russia, US, and Ukraine"
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.6,
+      "evidence": "table with Russia, US, and Ukraine"
+    }
+  },
+  "processed_at": "2026-06-18T12:41:35+00:00"
 }
