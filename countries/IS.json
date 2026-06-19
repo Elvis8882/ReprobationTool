@@ -1,16 +1,27 @@
 {
   "country": "IS",
-  "score": 76,
+  "score": 79,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 12,
+  "trend": 3,
+  "sources": 13,
   "sentiment": {
-    "positive": 4,
+    "positive": 5,
     "neutral": 6,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "17ff8a48a9953dc00e5b2f925650e384803e37e0",
+      "title": "MEPs mull European rocket launchers strategy to compete with US",
+      "summary": "The proposal could also extend EU space programme funding to Norway, Iceland and Liechtenstein",
+      "url": "https://www.euractiv.com/news/meps-mull-european-rocket-launchers-strategy-to-compete-with-us/",
+      "source": "Euractiv",
+      "published_at": "2026-06-19T10:59:31+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "extend EU space programme funding to Norway, Iceland and Liechtenstein"
+    },
     {
       "id": "cf2d775bde639d76598a676c92f8c9e7a99cce73",
       "title": "EU membership would free Iceland from krona ‘inflation machine’, campaigner says",
@@ -145,5 +156,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-18T12:41:35Z"
+  "last_updated": "2026-06-19T13:04:05Z"
 }

@@ -4,13 +4,35 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 361,
+  "sources": 358,
   "sentiment": {
     "positive": 14,
     "neutral": 131,
-    "negative": 217
+    "negative": 214
   },
   "latest_articles": [
+    {
+      "id": "0d54bdb64e84abc29896df6096670eb3cc6db53a",
+      "title": "Israel Launches Airstrikes in Lebanon After 4 Soldiers Are Killed",
+      "summary": "The violence involving Israel and Iran-backed Hezbollah militants added to pressure on the U.S.-Iran deal, which calls for fighting to stop on all fronts, including in Lebanon.",
+      "url": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-israel-attacks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-19T11:11:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Israel Launches Airstrikes in Lebanon"
+    },
+    {
+      "id": "2402fcf84291e24fc87e3cc6c61fb79ff43d3024",
+      "title": "Four Israeli soldiers killed as combat in Lebanon imperils U.S.-Iran deal",
+      "summary": "U.S. and Iranian officials postponed negotiations planned in Switzerland on Friday about the details of their peace agreement as it faced a major test.",
+      "url": "https://www.washingtonpost.com/world/2026/06/19/four-israeli-soldiers-killed-combat-lebanon-imperils-us-iran-deal/",
+      "source": "World (Washington post)",
+      "published_at": "2026-06-19T10:31:02+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "combat in Lebanon"
+    },
     {
       "id": "c9e7bdeeab80821510bf7a49c5fd32c3a0647079",
       "title": "Middle East crisis live: US will restart military action if Iran does not uphold deal, says Hegseth",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "southern outskirts of Beirut"
-    },
-    {
-      "id": "14bd29b226e48390283cf0f96f21ae8d50a076f6",
-      "title": "Middle East crisis live: Trump says Iran deal will be signed today but sources tell media Tehran ‘not yet’ taken final decision",
-      "summary": "Deal could see strait of Hormuz immediately ‘open to all’, but Trump says US retains the ‘ultimate alternative’ if talks failTrump says Iran peace deal could be signed by Sunday, with strait of Hormuz to open shortly aft…",
-      "url": "https://www.theguardian.com/world/live/2026/jun/14/iran-us-middle-east-crisis-donald-trump-peace-deal-strait-hormuz-open-pakistan-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-14T10:57:42+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "struck Beirut’s south suburbs, with explosions heard in the city"
-    },
-    {
-      "id": "1cb04c95d292a7539ccaa9b8064490c859272297",
-      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
-      "summary": "The strikes come as Iran's foreign minister said a deal to end fighting with the US is close.",
-      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-13T11:15:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Israel carries out air strikes on Lebanon"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-18T12:41:35Z"
+  "last_updated": "2026-06-19T13:04:05Z"
 }

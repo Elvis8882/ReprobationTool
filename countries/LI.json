@@ -3,14 +3,25 @@
   "score": 100,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": null,
-  "sources": 1,
+  "trend": 0,
+  "sources": 2,
   "sentiment": {
-    "positive": 0,
+    "positive": 1,
     "neutral": 1,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "17ff8a48a9953dc00e5b2f925650e384803e37e0",
+      "title": "MEPs mull European rocket launchers strategy to compete with US",
+      "summary": "The proposal could also extend EU space programme funding to Norway, Iceland and Liechtenstein",
+      "url": "https://www.euractiv.com/news/meps-mull-european-rocket-launchers-strategy-to-compete-with-us/",
+      "source": "Euractiv",
+      "published_at": "2026-06-19T10:59:31+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "extend EU space programme funding to Norway, Iceland and Liechtenstein"
+    },
     {
       "id": "3f12289103c57d55c93018d01911c2d7206c464b",
       "title": "Top 10 richest countries in the world in 2026 by GDP: From Liechtenstein to Denmark",
@@ -24,5 +35,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-18T12:41:35Z"
+  "last_updated": "2026-06-19T13:04:05Z"
 }

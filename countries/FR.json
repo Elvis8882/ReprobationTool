@@ -4,13 +4,23 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 647,
+  "sources": 649,
   "sentiment": {
     "positive": 101,
-    "neutral": 475,
+    "neutral": 477,
     "negative": 71
   },
   "latest_articles": [
+    {
+      "id": "476e0e809a41c59fb489d4ef69e9bbc7c78213bc",
+      "title": "EU Parliament’s internal market committee requests to co-lead cloud sovereignty law",
+      "summary": "A political clash between the centre-right EPP and the Greens is also brewing",
+      "url": "https://www.euractiv.com/news/eu-parliaments-internal-market-committee-requests-to-co-lead-cloud-sovereignty-law/",
+      "source": "Euractiv",
+      "published_at": "2026-06-18T13:15:52+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "9265d865c1d6e70df105c9b8aeaf5be209b2ffaa",
       "title": "Czechia, Slovakia weigh in on Methane Regulation spat",
@@ -20,6 +30,17 @@
       "published_at": "2026-06-18T10:56:19+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "0703f8129c39a25a13db13627bf7dd3f611aa7b5",
+      "title": "Opinion: Trump's Iran War: Was It Worth It?",
+      "summary": "President Donald Trump signs the Iran Memorandum of Understanding at Versailles in France",
+      "url": "https://www.ndtv.com/opinion/trumps-iran-war-was-it-worth-it-11653807#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-18T10:15:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Versailles in France"
     },
     {
       "id": "09e3e6dd1b3784880dca05c40c18326930d97ed2",
@@ -41,6 +62,27 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Moment Trump signs US-Iran agreement at Palace of Versailles"
+    },
+    {
+      "id": "f6c55f9e26eedfaebb6f67abfe63c5e932431c76",
+      "title": "Trump defends his Iran deal, criticizes longtime ally Israel as G-7 ends",
+      "summary": "In a sprawling news conference at the G-7 summit in France, the president touted the economic benefits of the ceasefire and threatened force if it fails.",
+      "url": "https://www.washingtonpost.com/politics/2026/06/17/trump-defends-iran-deal-white-house-unveils-details/",
+      "source": "World (Washington post)",
+      "published_at": "2026-06-17T22:39:01+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "G-7 summit in France"
+    },
+    {
+      "id": "73834509db4c71a56fc222ad993067bb2b16a5fb",
+      "title": "National capitals rally to back Kallas on illegal Israeli settlements",
+      "summary": "'No backtracking' on proposals, governments warn the European Commission",
+      "url": "https://www.euractiv.com/news/national-capitals-rally-to-back-kallas-on-illegal-israeli-settlements/",
+      "source": "Euractiv",
+      "published_at": "2026-06-17T15:50:48+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "202b73f306306cdc447e12ef1010fbeba93c7e35",
@@ -117,6 +159,16 @@
       "evidence": "raises concerns about media ownership in France"
     },
     {
+      "id": "c48810bfba4afb1226a99fb54e06716bda936346",
+      "title": "Europe Union Lawmakers Approve Much-Delayed Trade Deal With U.S.",
+      "summary": "After nearly a year of wrangling, the deal the European Union struck with President Trump in Turnberry, Scotland, is headed for final approval.",
+      "url": "https://www.nytimes.com/2026/06/16/world/europe/eu-us-trade-trump.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-16T13:20:07+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "4e4fa850d61d59b6c5be5a71589fd90877e8e2f6",
       "title": "France, Britain and Other Countries Say They’ll Send Ships to the Strait of Hormuz",
       "summary": "For months, a coalition led by Britain and France has been preparing to send minesweepers and other ships to secure the strait once the fighting ends. That moment may finally be here.",
@@ -167,61 +219,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "EU Court greenlights France’s age-check rules for EU-based porn websites"
-    },
-    {
-      "id": "bf0d8e4d7ba76331ded34eb4ed644ebcc609f028",
-      "title": "France bets big on AI: Macron govt invests over $750 million to build chatbot for state services",
-      "summary": "France is investing €655 million in AI development, aiming to spearhead technological advancement in its public sector. Prime Minister Sebastien Lecornu announced a unified chatbot system for all government services and…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/france-bets-big-on-ai-macron-govt-invests-over-750-million-to-build-chatbot-for-state-services/articleshow/131767264.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-06-16T10:02:52+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "France bets big on AI: Macron govt invests over $750 million"
-    },
-    {
-      "id": "730b7db0e0caf552b363a4f2ab8c88f1c470e437",
-      "title": "Latvia and USA sign drone development document in Paris / Article - LSM",
-      "summary": "Latvia and USA sign drone development document in Paris / Article&nbsp;&nbsp;LSMLithuania and United States ink drone partnership agreement&nbsp;&nbsp;Latest news from AzerbaijanU.S. Army signs counter-UAS letter of inte…",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEZicWU2LTduck52c1A2V1pNVFRtSVUtN3JwdE1UcXd5cDExUV9ZT1BjVTU3al9zR0FnblNJQ1lBV2plU2FPazlBOVdpTHZjc0pSSHhJVlBYcWZlTW5wenBfUmhJOWlud0MxN2QyRmszb3A3Tk5pOXJFcG0xdzExWE9zRmlha1lMdG5obm5IdVlVc2txdHA0LUxjWmlKbHZfblp4Nl8zTG8xckh3YVUyNEhydkdvSFluTHc?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-16T08:19:50+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "sign drone development document in Paris"
-    },
-    {
-      "id": "69e809ea61232e54163966a64872ce40d503b6b3",
-      "title": "Iran ‘agreed to never have a nuclear weapon’, says Trump – as it happened",
-      "summary": "This blog is now closed – see our full report on the US-Iran agreement and an analysis of what it meansThe agreement between the United ⁠States and Iran should allow for the “immediate reopening” ⁠of the ⁠Strait ​of Horm…",
-      "url": "https://www.theguardian.com/world/live/2026/jun/15/iran-us-peace-deal-live-updates-trump-israel-lebanon-hormuz-nuclear-program-europe-response",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-16T03:45:39+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "86366ffcc98251c7af11c7afb80b3ccdd0ba9a71",
-      "title": "Brussels cuts free greenhouse gas permits for industry… for now",
-      "summary": "European Commission has agreed to fast-track a review under pressure from Berlin, Paris",
-      "url": "https://www.euractiv.com/news/brussels-cuts-free-greenhouse-gas-permits-for-industry-for-now/",
-      "source": "Euractiv",
-      "published_at": "2026-06-15T17:37:58+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "pressure from Paris"
-    },
-    {
-      "id": "4183959b4122d445bc6a729110f60e37b2c2141b",
-      "title": "European Parliament celebrates air passenger rights win",
-      "summary": "MEPs claim victory after facing down European capitals and airline lobbyists over compensation rights",
-      "url": "https://www.euractiv.com/news/european-parliament-celebrates-air-passenger-rights-win/",
-      "source": "Euractiv",
-      "published_at": "2026-06-15T16:56:25+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-18T12:41:35Z"
+  "last_updated": "2026-06-19T13:04:05Z"
 }

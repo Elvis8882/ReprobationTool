@@ -3,14 +3,35 @@
   "score": 88,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 393,
+  "trend": 0,
+  "sources": 397,
   "sentiment": {
     "positive": 44,
-    "neutral": 308,
+    "neutral": 312,
     "negative": 41
   },
   "latest_articles": [
+    {
+      "id": "c62aad61907a3da1bef1c21cdc9b4dc1cad357a0",
+      "title": "The Brief – Chinese whispers in Brussels",
+      "summary": "China's gaping trade surplus threatens to decimate European industry, but a unified course of action will be hard to settle",
+      "url": "https://www.euractiv.com/news/the-brief-chinese-whispers-in-brussels/",
+      "source": "Euractiv",
+      "published_at": "2026-06-18T16:00:12+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "China's gaping trade surplus threatens to decimate European industry"
+    },
+    {
+      "id": "476e0e809a41c59fb489d4ef69e9bbc7c78213bc",
+      "title": "EU Parliament’s internal market committee requests to co-lead cloud sovereignty law",
+      "summary": "A political clash between the centre-right EPP and the Greens is also brewing",
+      "url": "https://www.euractiv.com/news/eu-parliaments-internal-market-committee-requests-to-co-lead-cloud-sovereignty-law/",
+      "source": "Euractiv",
+      "published_at": "2026-06-18T13:15:52+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "9265d865c1d6e70df105c9b8aeaf5be209b2ffaa",
       "title": "Czechia, Slovakia weigh in on Methane Regulation spat",
@@ -39,6 +60,16 @@
       "url": "https://www.euractiv.com/news/ukraines-eu-dreams-set-for-rude-awakening/",
       "source": "Euractiv",
       "published_at": "2026-06-18T02:00:04+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "73834509db4c71a56fc222ad993067bb2b16a5fb",
+      "title": "National capitals rally to back Kallas on illegal Israeli settlements",
+      "summary": "'No backtracking' on proposals, governments warn the European Commission",
+      "url": "https://www.euractiv.com/news/national-capitals-rally-to-back-kallas-on-illegal-israeli-settlements/",
+      "source": "Euractiv",
+      "published_at": "2026-06-17T15:50:48+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -93,6 +124,16 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Europe’s rump solar industry eyes chance as Brussels turns against China"
+    },
+    {
+      "id": "c48810bfba4afb1226a99fb54e06716bda936346",
+      "title": "Europe Union Lawmakers Approve Much-Delayed Trade Deal With U.S.",
+      "summary": "After nearly a year of wrangling, the deal the European Union struck with President Trump in Turnberry, Scotland, is headed for final approval.",
+      "url": "https://www.nytimes.com/2026/06/16/world/europe/eu-us-trade-trump.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-16T13:20:07+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "0d33ab9f23e58f1df021401727d688e59ef90b99",
@@ -176,49 +217,8 @@
       "published_at": "2026-06-15T09:00:12+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "a326079429b04168ac0aab0a2886e1ca022334e0",
-      "title": "Pro-vaping French far right to abstain in EU parliament tobacco tax vote",
-      "summary": "With France's presidential election approaching, the National Rally is wary of alienating consumers",
-      "url": "https://www.euractiv.com/news/pro-vaping-french-far-right-to-abstain-in-eu-parliament-tobacco-tax-vote/",
-      "source": "Euractiv",
-      "published_at": "2026-06-15T02:00:39+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "75ac5db006cc623cf0a2d1ea59c10f1f3e21c157",
-      "title": "Defence votes in Brussels once again expose growing cracks within Europe’s far right",
-      "summary": "A new realignment on defence is emerging inside the far right ahead of key elections",
-      "url": "https://www.euractiv.com/news/defence-votes-in-brussels-once-again-expose-growing-cracks-within-europes-far-right/",
-      "source": "Euractiv",
-      "published_at": "2026-06-15T02:00:38+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Defence votes in Brussels once again expose growing cracks"
-    },
-    {
-      "id": "9769e8c4f950c3e4782dffc1544ff382e255d649",
-      "title": "EU turns to US-powered AI to rank job candidates",
-      "summary": "With its ever-growing list of candidates, the European Commission is preparing to deploy an AI tool powered by Anthropic's model to shortlist them",
-      "url": "https://www.euractiv.com/news/eu-turns-to-us-powered-ai-to-rank-job-candidates/",
-      "source": "Euractiv",
-      "published_at": "2026-06-15T02:00:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "19ae881e409c4c657bf7e3a2ed8ce14c8a42250a",
-      "title": "Employment rate up, labour market slack down in Q1 2026 - European Commission",
-      "summary": "Employment rate up, labour market slack down in Q1 2026&nbsp;&nbsp;European CommissionIreland sees sharp rise in labour market slack despite stable EU jobs picture&nbsp;&nbsp;businessplus.ieLithuania sees EU’s highest em…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hRDVETmJ3TnNaQlcxc2dUanBSdFRhejhQd1RHbkdJS3RvUGJnVDRHdGNuNzJsWVduekUwUkZXZDZlbkJnaWNVMGMwV1FwQVJfZEdvRXJjOU5reENkSm5BQ1NpUVYzX3BwekNYMXcwWDY1YktUWU9IbndicWo4UQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-12T09:04:55+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-18T12:41:35Z"
+  "last_updated": "2026-06-19T13:04:05Z"
 }

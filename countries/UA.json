@@ -1,16 +1,49 @@
 {
   "country": "UA",
-  "score": 30,
+  "score": 31,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 647,
+  "trend": 1,
+  "sources": 645,
   "sentiment": {
     "positive": 264,
     "neutral": 156,
-    "negative": 228
+    "negative": 226
   },
   "latest_articles": [
+    {
+      "id": "cca9a4b3952c2db92429c9f25ca07921e9783345",
+      "title": "Two men jailed for arson attacks on property linked to Keir Starmer",
+      "summary": "Roman Lavrynovych and Stanislav Carpiuc imprisoned for seven years and two years respectivelyRoman Lavrynovych and Stanislav Carpiuc have been jailed at the Old Bailey for seven years and two years respectively for arson…",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/19/two-men-jailed-for-arson-attacks-on-property-linked-to-keir-starmer",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-19T12:26:30+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Ukrainian jailed for arson attacks on property linked to Keir Starmer"
+    },
+    {
+      "id": "d8a7857032e584a2e5d4fb9e0334e3c44cf66917",
+      "title": "Russia threatens escalation after Ukraine hits Moscow with largest-ever drone attack",
+      "summary": "Russia has pledged to carry out frequent and \"massive group strikes\" against Ukraine shortly after Kyiv launched a barrage of drones on Moscow.",
+      "url": "https://www.cnbc.com/2026/06/19/russia-ukraine-moscow-drone-attack-trump.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-06-19T10:25:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ukraine hits Moscow with largest-ever drone attack"
+    },
+    {
+      "id": "188351852beb5faf9805273d50e332ae883f89b1",
+      "title": "‘If Ukraine burns, your Moscow will burn,’ Zelenskyy warns after overnight strikes in Russia – Europe live",
+      "summary": "Ukraine’s president ramps up rhetoric after overnight drone strikes on the Russian capitalHegseth makes it clear that the review will not be just a box-ticking exercise.“It’s a review that some countries will fail and ot…",
+      "url": "https://www.theguardian.com/world/live/2026/jun/18/ukraine-russia-moscow-strikes-nato-defence-ministers-hegseth-rutte-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-18T12:19:56+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "If Ukraine burns, your Moscow will burn,’ Zelenskyy warns"
+    },
     {
       "id": "70c8851758da1f011ef5bf4970fe6ea4db27bd4a",
       "title": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
@@ -166,6 +199,17 @@
       "evidence": "Ukraine president tells US counterpart Kyiv is no longer losing"
     },
     {
+      "id": "06fd2a4e1875b963428ebed11a38cf84248988c2",
+      "title": "Zelenskyy thanks G7 leaders for ‘strong ideas on how to force Russia into peace’ – Europe live",
+      "summary": "Ukrainian president praises successful talks after Trump’s comments tha ‘Russia should make a deal’ following G7 meeting… and given the delay this morning, the meeting may or may not have happened already – guess we will…",
+      "url": "https://www.theguardian.com/world/live/2026/jun/16/g7-world-leaders-ukraine-russia-war-iran-trump-zelenskyy-putin-eu-france-eu-europe-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-16T13:33:45+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Zelenskyy thanks G7 leaders for ‘strong ideas on how to force Russia into peace’"
+    },
+    {
       "id": "89070982bd060342b9184bc8909e7c3173e15675",
       "title": "European leaders urge Trump to host Zelenskyy-Putin talks",
       "summary": "Call at G7 summit in France comes as Ukraine president tells US counterpart Kyiv is no longer losing on battlefieldEurope live – latest updatesEuropean leaders at the G7 summit have urged Donald Trump to try to break the…",
@@ -186,52 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Russia should make a deal to end its four-year war in Ukraine"
-    },
-    {
-      "id": "b0d70ed34a1b7b73b204837e1620bbadf2ff5bc7",
-      "title": "Ukraine Targets Moscow Oil Facility With Drones as G7 Leaders Meet",
-      "summary": "A day earlier, Russia bombarded Kyiv and other Ukrainian cities with missiles and drones, killing at least 11 people and damaging a holy cathedral.",
-      "url": "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-16T11:53:20+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine Targets Moscow Oil Facility With Drones"
-    },
-    {
-      "id": "ea38521745d0ef60697e46949d181a3ddad5b2f1",
-      "title": "'Dragging out of war': Ukraine hits Moscow region's largest refinery in deep-strike attack - video",
-      "summary": "Ukraine has struck an oil refinery in Moscow's region with a drone, causing damage. President Zelenskyy highlighted Ukraine's extended strike capabilities, emphasizing this as a response to Russian attacks and a means to…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/dragging-out-of-war-ukraine-hits-moscow-regions-largest-refinery-in-deep-strike-attack-video/articleshow/131766645.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-06-16T09:33:02+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine hits Moscow region's largest refinery"
-    },
-    {
-      "id": "21a34adcaeef99406bc582bc2828e5c0cc6c0257",
-      "title": "Spanish households save €10 a month thanks to renewables expansion, report finds",
-      "summary": "Thinktank says decoupling electricity from gas prices has also helped shield Spain from hikes caused by Iran warSpanish households save €10 a month on electricity bills because of wind turbines and solar panels installed…",
-      "url": "https://www.theguardian.com/world/2026/jun/16/spanish-households-save-renewables-expansion-electricity-gas-prices-iran-war",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-16T07:00:47+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Russia invaded Ukraine in 2022"
-    },
-    {
-      "id": "5e85738759bc051eb584c764ebe51f38978f2bdd",
-      "title": "Beyond enlargement: Ukraine and Europe’s new strategic reality",
-      "summary": "Ukraine isn’t just a recipient of security – it has become a contributor to it. This reality casts the enlargement debate in a new light",
-      "url": "https://www.euractiv.com/opinion/beyond-enlargement-ukraine-and-europes-new-strategic-reality/",
-      "source": "Euractiv",
-      "published_at": "2026-06-16T02:00:15+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine and Europe’s new strategic reality"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-18T12:41:35Z"
+  "last_updated": "2026-06-19T13:04:05Z"
 }
