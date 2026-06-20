@@ -1,16 +1,27 @@
 {
   "country": "SA",
-  "score": 87,
+  "score": 86,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 111,
+  "trend": -1,
+  "sources": 110,
   "sentiment": {
-    "positive": 12,
-    "neutral": 75,
-    "negative": 25
+    "positive": 11,
+    "neutral": 74,
+    "negative": 26
   },
   "latest_articles": [
+    {
+      "id": "ab31d0d24488695d143d982f18160d73332af435",
+      "title": "Fifa urged to drop Saudi oil giant Aramco as activists target World Cup",
+      "summary": "Fifa has defended its Aramco sponsorship, saying revenues are reinvested back into football at all levelsAs scorching temperatures beat down on World Cup soccer games across North America, climate activists – including f…",
+      "url": "https://www.theguardian.com/environment/2026/jun/19/activists-world-cup-fifa-aramco-oil-partnership",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-19T11:30:30+00:00",
+      "sentiment": "negative",
+      "confidence": 0.4,
+      "evidence": "Saudi oil giant Aramco as activists target World Cup"
+    },
     {
       "id": "420111e8194a886da1a729c63e302125ef32d5e4",
       "title": "Three Saudi oil tankers carrying 6 million barrels cross Strait of Hormuz",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Rights groups hailed Saturday's decision as a major step towards justice"
-    },
-    {
-      "id": "011c46e784f675e185fba0b41a642641129cbb7c",
-      "title": "Opinion: Opinion | PM Modi Lands In UAE Amidst A Saudi 'Complication'",
-      "summary": "The UAE-Saudi rivalry is no longer just a Middle East story. It's becoming India's strategic headache.",
-      "url": "https://www.ndtv.com/opinion/uae-saudi-arabia-pak-a-new-gulf-divide-is-forming-and-india-risks-getting-caught-in-the-middle-11499136#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-05-15T08:22:02+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "A Saudi 'Complication'"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-19T13:04:05Z"
+  "last_updated": "2026-06-20T11:34:57Z"
 }

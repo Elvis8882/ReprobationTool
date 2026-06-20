@@ -1,16 +1,27 @@
 {
   "country": "MA",
-  "score": 100,
+  "score": 69,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 13,
+  "trend": -31,
+  "sources": 14,
   "sentiment": {
     "positive": 1,
     "neutral": 12,
-    "negative": 0
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "84c5c72a486ef3c48ded23530866c47114a68e4a",
+      "title": "Morocco captain Achraf Hakimi to stand trial for rape",
+      "summary": "French prosecutors confirm Morocco captain Achraf Hakimi will stand trial for rape, in accusations dating back to 2023.",
+      "url": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-19T10:28:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Morocco captain Achraf Hakimi to stand trial for rape"
+    },
     {
       "id": "1489f295da914f8b020611b2f2ba49ad6bc61678",
       "title": "Tunisia sack head coach just one game into World Cup",
@@ -156,5 +167,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-19T13:04:05Z"
+  "last_updated": "2026-06-20T11:34:57Z"
 }

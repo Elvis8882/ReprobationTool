@@ -1,16 +1,60 @@
 {
   "country": "UA",
-  "score": 31,
+  "score": 32,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 1,
-  "sources": 645,
+  "sources": 656,
   "sentiment": {
-    "positive": 264,
-    "neutral": 156,
-    "negative": 226
+    "positive": 270,
+    "neutral": 159,
+    "negative": 228
   },
   "latest_articles": [
+    {
+      "id": "389eb3bdd2a30356624dbe915faeaf8e7e98f931",
+      "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+      "summary": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
+      "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-20T10:19:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Moscow oil refinery attack brings Russia's war with Ukraine closer to home"
+    },
+    {
+      "id": "016c9f44cb2811e09e28ccf3dd98d96ed14c5b57",
+      "title": "'Useful idiot' hired on Telegram: Ukraine-born duo jailed for arson attacks on properties linked to UK PM Starmer",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/uk/ukraine-born-duo-jailed-over-russia-backed-arson-attacks-on-properties-linked-to-uk-pm-keirstarmer/articleshow/131873493.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-06-20T09:45:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Ukraine-born duo jailed for arson attacks"
+    },
+    {
+      "id": "07a138e95713a93a2d81a5d732acd2a553107c2f",
+      "title": "UN Security Council to Convene on Kyiv-Pechersk Lavra Strike - Kyiv Post",
+      "summary": "UN Security Council to Convene on Kyiv-Pechersk Lavra Strike&nbsp;&nbsp;Kyiv PostRosemary DiCarlo, Under-Secretary-General for Political and Peacebuilding Affairs — Briefing to the UN Security Council on the Maintenance…",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JMXBTUEx2UXdHVExBWkdaY1VNVG9hTW5EQzdZRmlfNjNtdVFUVmEzeGZ4WTJUMy14WUxra0h1X3RvMWdmRkVZSDUwSQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-19T20:42:10+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia's latest major attack on Ukraine"
+    },
+    {
+      "id": "d2e600842e62651269cf2dedca2cf006cb9b4229",
+      "title": "A Missing Ingredient in Ukraine’s Barrages on Russia: Ballistic Missiles",
+      "summary": "Ukrainian drone attacks have achieved breakthroughs, but only ballistic missiles can push Russia to reconsider its war objectives, military experts and officials say.",
+      "url": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attacks-ballistic-missiles.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-19T13:15:08+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukraine’s Barrages on Russia"
+    },
     {
       "id": "cca9a4b3952c2db92429c9f25ca07921e9783345",
       "title": "Two men jailed for arson attacks on property linked to Keir Starmer",
@@ -23,6 +67,17 @@
       "evidence": "Ukrainian jailed for arson attacks on property linked to Keir Starmer"
     },
     {
+      "id": "a002e7d26bf5593fa06acba8643f8c53fd745c81",
+      "title": "‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
+      "summary": "The drone attack that sent plumes of smoke rising over Moscow intensified Ukrainian hopes of bringing the war to Russia.",
+      "url": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-19T10:42:22+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "intensified Ukrainian hopes of bringing the war to Russia."
+    },
+    {
       "id": "d8a7857032e584a2e5d4fb9e0334e3c44cf66917",
       "title": "Russia threatens escalation after Ukraine hits Moscow with largest-ever drone attack",
       "summary": "Russia has pledged to carry out frequent and \"massive group strikes\" against Ukraine shortly after Kyiv launched a barrage of drones on Moscow.",
@@ -32,6 +87,28 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Ukraine hits Moscow with largest-ever drone attack"
+    },
+    {
+      "id": "ab5f2a1642716fb0ca5fa77b7c0544994b8b925e",
+      "title": "Ukraine's New Drone Strategy Is Putting Russian Supply Lines Under Pressure",
+      "summary": "Military analysts say the campaign is creating fuel shortages, and slowing Russian operations.",
+      "url": "https://www.ndtv.com/world-news/a-new-phase-in-the-war-ukraines-drone-strategy-shifts-focus-to-russian-supply-routes-11658110#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-19T10:23:38+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine's New Drone Strategy Is Putting Russian Supply Lines Under Pressure"
+    },
+    {
+      "id": "6efbe3e8bb5e5b29a932a966a00355a36d56c3ab",
+      "title": "Ukraine pummels Russian capital with what may be largest drone strike yet on Moscow",
+      "summary": "After weeks of intensifying bombing of Kyiv, Ukraine hit back with a swarm of drones, damaging buildings and igniting an oil refinery.",
+      "url": "https://www.washingtonpost.com/world/2026/06/18/ukraine-takes-revenge-russian-capital-by-pummelling-moscow-with-drones/",
+      "source": "World (Washington post)",
+      "published_at": "2026-06-18T16:24:43+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukraine hit back with a swarm of drones, damaging buildings"
     },
     {
       "id": "188351852beb5faf9805273d50e332ae883f89b1",
@@ -67,6 +144,28 @@
       "evidence": "Roman Lavrynovych, 22, from Ukraine"
     },
     {
+      "id": "873d50124cde4013938e64b8fc7fc665533ef0bb",
+      "title": "Pope welcomes US-Iran agreement, calls for mutual trust in Middle East - Vatican News",
+      "summary": "Pope welcomes US-Iran agreement, calls for mutual trust in Middle East&nbsp;&nbsp;Vatican NewsPope Leo says 'thanks be to God' for interim US-Iran peace deal&nbsp;&nbsp;ReutersPope welcomes US-Iran deal, hopes for streng…",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZzROZXBuUzF3VU5tel9YaWxLUUNLS1liekhpY3FFZWFINW1zMXo4eEtLMnhSSE05OTBiRXdWZVlYWGpiT2JLZTg4Q3lhaVVMVXkyWF9WS1FKT3IyYzRWV2Vxal9idmZGc2NfZDVSQm5LZHhnSWRtWHB4Y3p2Qnc2MmE2amM4ZlRMWU9BNmpGSEctLWdTWkxMQ09YSVJJTFZYSHc?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-18T11:27:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Pope hails US-Iran deal, appeals for dialogue in Ukraine"
+    },
+    {
+      "id": "f2af3b9cbd61985c3d9cb79b305ed07aef23fc56",
+      "title": "Moscow oil refinery struck in Ukraine’s biggest air raid on city since start of war",
+      "summary": "Kyiv says attack, which also forced evacuation at Russia’s biggest airport, was in response to strike on historic monastery Europe live – latest updatesUkrainian drones have hit several locations across Moscow in Kyiv’s…",
+      "url": "https://www.theguardian.com/world/2026/jun/18/moscow-oil-refinery-on-fire-ukraine-drone-stikes",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-18T11:04:50+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukrainian drones have hit several locations across Moscow in Kyiv’s biggest air raid"
+    },
+    {
       "id": "37ad1346d70e01873ca7d86c51908471b038e815",
       "title": "Trump signs deal that Iran labels ‘a record of US failure’ | First Thing",
       "summary": "President hails ‘major win’ for US as he attempts to exit war having failed to achieve regime change in Tehran. Plus: an investigation into the murky world of OnlyFans ‘managers’Don’t already get First Thing in your inbo…",
@@ -87,6 +186,17 @@
       "sentiment": "positive",
       "confidence": 1.0,
       "evidence": "Ukrainian drone attacks"
+    },
+    {
+      "id": "af323dbd8077b3ef74d25822fb1ad94b734a856c",
+      "title": "Parliament condemns Russia’s drone incursions in the EU | Atualidade | Parlamento Europeu - European Parliament",
+      "summary": "Parliament condemns Russia’s drone incursions in the EU | Atualidade | Parlamento Europeu&nbsp;&nbsp;European ParliamentEU’s Eastern Flank Demands Brussels Step Up on Air-Defense Funds&nbsp;&nbsp;Bloomberg.comEuropean Co…",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONmw3YklNVUNNWTg2SnFZV2RUMjl1Ti10UjctLWh5S00xb3dfZEV3WHF4akIzUnNRWVp4VlY2dzdNWDlOSHJmUW9nOGpPaW9ETEpHdHNmU1JqMVFISkN4dFJxSlhIbV9GR0hqMEg4ckpkb2dMSi1KU1pnZS1LNXVJQ3VHVFB2X05TQ0VMdTh6aDBCa2taSExlTzh5c2tEQ2RvTHNhdmZ6SHdjOW9jMjdEeU8tOFZySEI1eE5mcjZpSQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-18T10:38:19+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "European Council backs Ukraine guarantees"
     },
     {
       "id": "804665c74f49d45eae71b9ea935e5c57531f4ac8",
@@ -120,118 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "€70 billion fund for Ukraine"
-    },
-    {
-      "id": "995e9e00a9cc57df46596f53e2ae80ac3134416c",
-      "title": "Prepare for the fear of the Ukrainian plumber",
-      "summary": "Far-right sovereigntist forces raise fears about new EU members, but enlargement should in fact boost the bloc's geopolitical clout",
-      "url": "https://www.euractiv.com/opinion/prepare-for-the-fear-of-the-ukrainian-plumber/",
-      "source": "Euractiv",
-      "published_at": "2026-06-18T02:00:55+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "enlargement should in fact boost the bloc's geopolitical clout"
-    },
-    {
-      "id": "09e3e6dd1b3784880dca05c40c18326930d97ed2",
-      "title": "Ukraine’s EU dreams set for rude awakening",
-      "summary": "European Commission is exploring a 'membership-lite' model that Kyiv rejects",
-      "url": "https://www.euractiv.com/news/ukraines-eu-dreams-set-for-rude-awakening/",
-      "source": "Euractiv",
-      "published_at": "2026-06-18T02:00:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Ukraine’s EU dreams set for rude awakening"
-    },
-    {
-      "id": "f0631603060e5ee9f3dc32205171e619e63b59ba",
-      "title": "Europe ‘earns’ place at table with Russia, US, and Ukraine",
-      "summary": "New peace negotiations are expected during the summer",
-      "url": "https://www.euractiv.com/news/europe-earns-place-at-table-with-russia-us-and-ukraine/",
-      "source": "Euractiv",
-      "published_at": "2026-06-17T11:29:40+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "table with Russia, US, and Ukraine"
-    },
-    {
-      "id": "39656151e94e7af74055e8a5335eff0933153040",
-      "title": "Ukraine Tries to Cut Off Crimea, Choking Russian Supply Routes",
-      "summary": "Scores of targeted attacks against supply routes, part of what Kyiv calls a “logistics lockdown,” has caused gasoline shortages.",
-      "url": "https://www.nytimes.com/2026/06/17/world/europe/russia-ukraine-crimea-fuel-shortages.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-17T09:04:58+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine Tries to Cut Off Crimea"
-    },
-    {
-      "id": "bb82b61300317bc831bca024e11b3bb849070ce5",
-      "title": "Trump Says U.S. Has ‘Nothing to Do’ With Ukraine War at G7 Summit",
-      "summary": "President Trump’s remarks underscored a new security reality for U.S. allies in Europe, who for eight decades relied on American protection.",
-      "url": "https://www.nytimes.com/2026/06/16/world/europe/trump-ukraine-war-g7.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-17T07:13:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "Trump Says U.S. Has ‘Nothing to Do’ With Ukraine War"
-    },
-    {
-      "id": "034a37fc7181bb65bce86881403aa9cfd8f772fb",
-      "title": "Live Updates: Ukraine and Middle East Are Focus as Group of 7 Leaders Meet",
-      "summary": "After the U.S. reached a preliminary deal with Iran, the mood seemed lighter than had been expected. President Volodymyr Zelensky of Ukraine was hoping to shift leaders’ attention to the war with Russia.",
-      "url": "https://www.nytimes.com/live/2026/06/16/world/g7-summit-conference-trump-france",
-      "source": "NYT > World News",
-      "published_at": "2026-06-16T14:02:36+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine and Middle East Are Focus"
-    },
-    {
-      "id": "21d2da2737c898dd8c35f98ad0111ae7c9cf8ed0",
-      "title": "Oklahoma, Georgia and Washington DC voters head to the polls – US politics live",
-      "summary": "Oklahoma primary set to test Donald Trump’s iron grip on the Republican party, while closely watched runoff underway in GeorgiaSign up for the Breaking News US emailin Évian-les-BainsEuropean leaders at the G7 summit hav…",
-      "url": "https://www.theguardian.com/us-news/live/2026/jun/16/donald-trump-oklahoma-senator-governor-primary-g7-iran-us-politics-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-16T13:45:05+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Ukraine president tells US counterpart Kyiv is no longer losing"
-    },
-    {
-      "id": "06fd2a4e1875b963428ebed11a38cf84248988c2",
-      "title": "Zelenskyy thanks G7 leaders for ‘strong ideas on how to force Russia into peace’ – Europe live",
-      "summary": "Ukrainian president praises successful talks after Trump’s comments tha ‘Russia should make a deal’ following G7 meeting… and given the delay this morning, the meeting may or may not have happened already – guess we will…",
-      "url": "https://www.theguardian.com/world/live/2026/jun/16/g7-world-leaders-ukraine-russia-war-iran-trump-zelenskyy-putin-eu-france-eu-europe-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-16T13:33:45+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Zelenskyy thanks G7 leaders for ‘strong ideas on how to force Russia into peace’"
-    },
-    {
-      "id": "89070982bd060342b9184bc8909e7c3173e15675",
-      "title": "European leaders urge Trump to host Zelenskyy-Putin talks",
-      "summary": "Call at G7 summit in France comes as Ukraine president tells US counterpart Kyiv is no longer losing on battlefieldEurope live – latest updatesEuropean leaders at the G7 summit have urged Donald Trump to try to break the…",
-      "url": "https://www.theguardian.com/world/2026/jun/16/g7-summit-european-leaders-urge-trump-to-host-zelenskyy-putin-talks",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-16T12:54:20+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Ukraine president tells US counterpart Kyiv is no longer losing"
-    },
-    {
-      "id": "ef35cca0d31d3829664383772e9ad2410efee360",
-      "title": "Trump turns his attention to Ukraine ahead of Iran deal: 'I’m going to do whatever I can’",
-      "summary": "President Donald Trump said Tuesday that \"Russia should make a deal\" to end its four-year war in Ukraine.",
-      "url": "https://www.cnbc.com/2026/06/16/trump-zelenskyy-ukraine-war-iran-g7-summit.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-06-16T12:19:13+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Russia should make a deal to end its four-year war in Ukraine"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-19T13:04:05Z"
+  "last_updated": "2026-06-20T11:34:57Z"
 }

@@ -15,8 +15,20 @@
     "FR",
     "SI"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-06-19T13:04:05+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-06-20T11:34:57+00:00",
+  "sentiment_by_country": {
+    "FR": {
+      "label": "neutral",
+      "confidence": 0.1,
+      "evidence": "France experiences atypical heatwave"
+    },
+    "SI": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Heavy rain also fell widely across the region with 23mm reported"
+    }
+  },
+  "processed_at": "2026-06-20T11:34:57+00:00"
 }
