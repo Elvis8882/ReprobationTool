@@ -1,16 +1,37 @@
 {
   "country": "PL",
-  "score": 96,
+  "score": 95,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": -1,
-  "sources": 308,
+  "sources": 309,
   "sentiment": {
-    "positive": 33,
-    "neutral": 254,
-    "negative": 22
+    "positive": 32,
+    "neutral": 255,
+    "negative": 23
   },
   "latest_articles": [
+    {
+      "id": "12d0900525893afc925cdfc21665607dfe6c0bd2",
+      "title": "From the US-Mexico border to protests in Poland: highlights of PhotoEspaña 2026",
+      "summary": "Spain’s leading festival of photography showcases the work of more than 300 visual artists in nearly 100 exhibitions across the countryPhotoEspaña, Spain’s leading festival of photography, held its official opening in Ma…",
+      "url": "https://www.theguardian.com/artanddesign/2026/jun/21/us-mexico-border-protests-poland-highlights-photoespana-2026-spain",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-21T06:00:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "protests in Poland"
+    },
+    {
+      "id": "bf8c8d719dc94ea106f5d6ff7889ac6e3bedf966",
+      "title": "Two-thirds of EU citizens back UK rejoining bloc, survey finds",
+      "summary": "Poll also finds three quarters of people in Britain want closer ties, with majority accepting free movementTwo-thirds of EU citizens would back Britain rejoining the bloc, while most UK voters say Brexit has been bad for…",
+      "url": "https://www.theguardian.com/politics/2026/jun/21/two-thirds-eu-citizens-back-uk-rejoining-bloc-brexit-survey",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-21T05:00:21+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "4492f358fb9cf646a0cd469379aec527368f1390",
       "title": "'Ideologies responsible for genocide': Poland strips Zelenskyy of highest honour over army unit naming",
@@ -31,6 +52,17 @@
       "published_at": "2026-06-20T06:00:03+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "4371eb6b736444ba8d2648e0191e01789d731cdc",
+      "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
+      "summary": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\".",
+      "url": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-19T21:46:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Zelensky stripped of highest Polish honour over WW2 name of army unit"
     },
     {
       "id": "d4f914688c2f555b1e7cd876400b0eebd07483e9",
@@ -184,39 +216,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Russian artist and critic of Putin shot dead in Poland"
-    },
-    {
-      "id": "0d33ab9f23e58f1df021401727d688e59ef90b99",
-      "title": "European Parliament plans to build ‘food court’",
-      "summary": "There are hygiene risks with the current canteen, fears the EU assembly's administration",
-      "url": "https://www.euractiv.com/news/european-parliament-plans-to-build-food-court/",
-      "source": "Euractiv",
-      "published_at": "2026-06-16T11:40:54+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "08d6d289336bbb26801b3c6e5a689effc07a9fb0",
-      "title": "European Parliament clears way for EU-US trade pact",
-      "summary": "Parliament approves Washington deal while fresh trade threats emerge",
-      "url": "https://www.euractiv.com/news/european-parliament-clears-way-for-eu-us-trade-pact/",
-      "source": "Euractiv",
-      "published_at": "2026-06-16T11:12:50+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "78772e1bd92a9c776da04681d8a480e452d8ebf7",
-      "title": "BUDGET BRIEF: ‘Nego box’ battle heads for EUCO",
-      "summary": "Including: ‘Nego box’ check, Meloni’s rebate debate, Poland vs ETS own resource and more",
-      "url": "https://www.euractiv.com/news/budget-brief-nego-box-battle-heads-for-euco/",
-      "source": "Euractiv",
-      "published_at": "2026-06-16T11:03:38+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Poland vs ETS own resource"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-20T11:34:57Z"
+  "last_updated": "2026-06-21T12:00:53Z"
 }

@@ -17,8 +17,25 @@
     "IR",
     "LB"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-06-20T11:34:57+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-06-21T12:00:53+00:00",
+  "sentiment_by_country": {
+    "IL": {
+      "label": "mixed",
+      "confidence": 0.6,
+      "evidence": "Israeli strikes in Lebanon; agreed to halt fighting"
+    },
+    "IR": {
+      "label": "mixed",
+      "confidence": 0.6,
+      "evidence": "Iran pulled out; U.S.-Iran Truce"
+    },
+    "LB": {
+      "label": "mixed",
+      "confidence": 0.6,
+      "evidence": "Lebanon Cease-Fire Bolsters U.S.-Iran Truce; Israeli strikes in Lebanon"
+    }
+  },
+  "processed_at": "2026-06-21T12:00:53+00:00"
 }

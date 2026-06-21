@@ -1,16 +1,26 @@
 {
   "country": "DE",
-  "score": 72,
+  "score": 71,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
+  "trend": -1,
   "sources": 531,
   "sentiment": {
-    "positive": 64,
+    "positive": 63,
     "neutral": 394,
-    "negative": 73
+    "negative": 74
   },
   "latest_articles": [
+    {
+      "id": "bf8c8d719dc94ea106f5d6ff7889ac6e3bedf966",
+      "title": "Two-thirds of EU citizens back UK rejoining bloc, survey finds",
+      "summary": "Poll also finds three quarters of people in Britain want closer ties, with majority accepting free movementTwo-thirds of EU citizens would back Britain rejoining the bloc, while most UK voters say Brexit has been bad for…",
+      "url": "https://www.theguardian.com/politics/2026/jun/21/two-thirds-eu-citizens-back-uk-rejoining-bloc-brexit-survey",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-21T05:00:21+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "97dbd42f869bce7f5b09d1372dd3be31a6bd55ff",
       "title": "‘It’s Russian roulette’: alarm as Europe backs critical minerals mines in water-stressed regions",
@@ -31,6 +41,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Germany’s waning influence is nobody’s gain"
+    },
+    {
+      "id": "5734dee1f0eaec846ac006e5afed6ed108ac4394",
+      "title": "Germany’s Schneider wants to stop oil, gas production in protected areas",
+      "summary": "The country’s ailing nature-protected areas should be spared new rigs, he said",
+      "url": "https://www.euractiv.com/news/germanys-schneider-wants-to-stop-oil-gas-production-in-protected-areas/",
+      "source": "Euractiv",
+      "published_at": "2026-06-19T14:25:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "Germany’s Schneider wants to stop oil, gas production in protected areas"
     },
     {
       "id": "d4f914688c2f555b1e7cd876400b0eebd07483e9",
@@ -73,6 +94,17 @@
       "published_at": "2026-06-18T16:53:35+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "5dd2f271e060cd0b3e8c16487712b61ae3899048",
+      "title": "Paris and Berlin demand EU act to rein in ultra-fast fashion industry",
+      "summary": "The proposal would make short-lived, hard-to-recycle products more expensive to sell",
+      "url": "https://www.euractiv.com/news/paris-and-berlin-demand-eu-act-to-rein-in-ultra-fast-fashion-industry/",
+      "source": "Euractiv",
+      "published_at": "2026-06-18T16:09:23+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Berlin demand EU act to rein in ultra-fast fashion industry"
     },
     {
       "id": "476e0e809a41c59fb489d4ef69e9bbc7c78213bc",
@@ -135,6 +167,17 @@
       "sentiment_fallback": true
     },
     {
+      "id": "568dd5c3dfcfbeb4fcd42829226cdd17dc0c1af5",
+      "title": "Early signs of France vs Germany collision course on cloud sovereignty",
+      "summary": "Germany remains cautious, while France is ready for stricter rules",
+      "url": "https://www.euractiv.com/news/early-signs-of-france-vs-germany-collision-course-on-cloud-sovereignty/",
+      "source": "Euractiv",
+      "published_at": "2026-06-17T14:08:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Germany remains cautious"
+    },
+    {
       "id": "2be0dc9cc151ccf76588a32356994430798c3424",
       "title": "Berlin and Warsaw tighten defence ties with new security agreement",
       "summary": "New agreement covers military capabilities, defence industry cooperation and infrastructure projects",
@@ -174,50 +217,8 @@
       "published_at": "2026-06-17T09:11:55+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "452de61ee79e93c6c3e36314413f6ed65e463714",
-      "title": "German broadcaster removes TV intro after Elon Musk takes legal action",
-      "summary": "ZDF TV responded to a \"cease and desist\" letter after the tech trillionaire condemned the broadcaster's \"outrageous lies\".",
-      "url": "https://www.bbc.com/news/articles/c0jyzp9z9deo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-16T17:57:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "German broadcaster removes TV intro after Elon Musk takes legal action"
-    },
-    {
-      "id": "f2a9379f27a4e36caeff8c04342f89e139f61600",
-      "title": "Paris and Berlin try their hand at defining digital sovereignty",
-      "summary": "A draft paper, to be presented on Wednesday, sets out a joint view of what sovereignty means",
-      "url": "https://www.euractiv.com/news/paris-and-berlin-try-their-hand-at-defining-digital-sovereignty/",
-      "source": "Euractiv",
-      "published_at": "2026-06-16T16:26:09+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Paris and Berlin try their hand at defining digital sovereignty"
-    },
-    {
-      "id": "c48810bfba4afb1226a99fb54e06716bda936346",
-      "title": "Europe Union Lawmakers Approve Much-Delayed Trade Deal With U.S.",
-      "summary": "After nearly a year of wrangling, the deal the European Union struck with President Trump in Turnberry, Scotland, is headed for final approval.",
-      "url": "https://www.nytimes.com/2026/06/16/world/europe/eu-us-trade-trump.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-16T13:20:07+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "0d33ab9f23e58f1df021401727d688e59ef90b99",
-      "title": "European Parliament plans to build ‘food court’",
-      "summary": "There are hygiene risks with the current canteen, fears the EU assembly's administration",
-      "url": "https://www.euractiv.com/news/european-parliament-plans-to-build-food-court/",
-      "source": "Euractiv",
-      "published_at": "2026-06-16T11:40:54+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-20T11:34:57Z"
+  "last_updated": "2026-06-21T12:00:53Z"
 }

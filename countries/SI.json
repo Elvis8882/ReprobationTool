@@ -1,16 +1,26 @@
 {
   "country": "SI",
-  "score": 79,
+  "score": 69,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 12,
-  "sources": 235,
+  "trend": -10,
+  "sources": 234,
   "sentiment": {
-    "positive": 2,
+    "positive": 1,
     "neutral": 232,
     "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "bf8c8d719dc94ea106f5d6ff7889ac6e3bedf966",
+      "title": "Two-thirds of EU citizens back UK rejoining bloc, survey finds",
+      "summary": "Poll also finds three quarters of people in Britain want closer ties, with majority accepting free movementTwo-thirds of EU citizens would back Britain rejoining the bloc, while most UK voters say Brexit has been bad for…",
+      "url": "https://www.theguardian.com/politics/2026/jun/21/two-thirds-eu-citizens-back-uk-rejoining-bloc-brexit-survey",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-21T05:00:21+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "97dbd42f869bce7f5b09d1372dd3be31a6bd55ff",
       "title": "‘It’s Russian roulette’: alarm as Europe backs critical minerals mines in water-stressed regions",
@@ -201,18 +211,8 @@
       "published_at": "2026-06-15T17:37:58+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "4183959b4122d445bc6a729110f60e37b2c2141b",
-      "title": "European Parliament celebrates air passenger rights win",
-      "summary": "MEPs claim victory after facing down European capitals and airline lobbyists over compensation rights",
-      "url": "https://www.euractiv.com/news/european-parliament-celebrates-air-passenger-rights-win/",
-      "source": "Euractiv",
-      "published_at": "2026-06-15T16:56:25+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-20T11:34:57Z"
+  "last_updated": "2026-06-21T12:00:53Z"
 }

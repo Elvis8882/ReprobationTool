@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 28,
+  "sources": 29,
   "sentiment": {
     "positive": 10,
-    "neutral": 10,
+    "neutral": 11,
     "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "d2f36d40ad9980313d925c86159b57f7e1601730",
+      "title": "Luxury Kushner Project Collides With Albanian Discontent",
+      "summary": "Protests in Albania against plans for a luxury tourist site have become a cause célèbre for opponents of President Trump and his family. But the politics are local.",
+      "url": "https://www.nytimes.com/2026/06/21/world/europe/albania-kushner-project-protests.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-21T04:21:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Protests in Albania against plans"
+    },
     {
       "id": "9defd73ebd363a3e50d1bd2a155f35c69119af75",
       "title": "Why Trump Family-linked Luxury Resort In Albania Is Facing Unrelenting Protests",
@@ -219,19 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "Albania pitches ‘more involving’ EU membership process"
-    },
-    {
-      "id": "7f40e4402e77ff7f32e90b33f7ecb61a38130f50",
-      "title": "Albania’s EU expansion plan",
-      "summary": "Also, in Tuesday’s edition: Ribera’s sauce andalouse, Taliban transparency, illicit drugs",
-      "url": "https://www.euractiv.com/news/rapporteur-albanias-eu-expansion-plan/",
-      "source": "Euractiv",
-      "published_at": "2026-05-12T05:58:12+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Albania’s EU expansion plan"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-20T11:34:57Z"
+  "last_updated": "2026-06-21T12:00:53Z"
 }
