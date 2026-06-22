@@ -4,13 +4,68 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 911,
+  "sources": 910,
   "sentiment": {
-    "positive": 37,
-    "neutral": 311,
-    "negative": 565
+    "positive": 38,
+    "neutral": 308,
+    "negative": 566
   },
   "latest_articles": [
+    {
+      "id": "3a71b60809ccf70ea5a0ffca7f6090bd3bb0b1ca",
+      "title": "Middle East crisis live: US-Iran talks laid ‘very good foundation for a successful final deal’, says Vance",
+      "summary": "The vice president said the move represented a ‘major milestone’ in ending Iran’s nuclear programmeAccording to Palestinian news agency Wafa, a high school student was killed and several other civilians were injured earl…",
+      "url": "https://www.theguardian.com/world/live/2026/jun/22/middle-east-crisis-iran-us-peace-talks-switzerland-strait-of-hormuz-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-22T14:23:42+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli attack on a civilian vehicle in Gaza City"
+    },
+    {
+      "id": "6c070ec03f5485605740c2e0c8a9a3d86b3fd8a7",
+      "title": "Explosion at Qatar Gas Plant Kills at Least 13 and Injures 66",
+      "summary": "The blast happened at a key site for natural gas production. The authorities blamed a technical malfunction while operations were being restarted after the U.S.-Israeli war against Iran.",
+      "url": "https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-22T14:09:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "U.S.-Israeli war against Iran"
+    },
+    {
+      "id": "60135a4d4b03a3823be05d22f70604bf13e76067",
+      "title": "Iran hails ‘progress’ as first day of talks with US conclude after shaky start",
+      "summary": "Mediators Pakistan and Qatar issue statement saying talks will run for rest of the week, as fighting in Lebanon continues to threaten dealMiddle East crisis live – latest updatesIran’s foreign minister has declared “prog…",
+      "url": "https://www.theguardian.com/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-22T07:33:52+00:00",
+      "sentiment": "negative",
+      "confidence": 0.4,
+      "evidence": "fighting between Israel and Iran-backed Hezbollah in Lebanon"
+    },
+    {
+      "id": "cf98953fa09738382d5a3849ecc602c2c7098f9b",
+      "title": "Israeli Troops Uncover Hezbollah's Underground Drone Factory In Lebanon",
+      "summary": "Military officials described the underground site as a drone factory",
+      "url": "https://www.ndtv.com/world-news/israeli-troops-uncover-hezbollahs-underground-drone-factory-in-lebanon-11669285#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-22T07:00:25+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Israeli Troops Uncover Hezbollah's Underground Drone Factory"
+    },
+    {
+      "id": "cd6ea40d718eb514d3f8aa25364c699fa92517aa",
+      "title": "Explained: Who Is Fighting Whom In Lebanon",
+      "summary": "The fighting is no longer just a Lebanon-Israel issue.",
+      "url": "https://www.ndtv.com/world-news/explained-who-is-fighting-whom-in-lebanon-11669152#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-22T06:29:27+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Explained: Who Is Fighting Whom In Lebanon"
+    },
     {
       "id": "1bd7e20868fa004c07512ed07d08ca66430fa6a2",
       "title": "Vance arrives in Switzerland for talks with Iranian negotiators amid rising Strait of Hormuz tensions",
@@ -67,6 +122,17 @@
       "evidence": "response to Israeli attacks in Lebanon"
     },
     {
+      "id": "47ec8f075948c5029912a761dd326e529e0a5314",
+      "title": "Israeli Army Confirms Journalist Killed In Gaza, Calls Him 'Hamas' Terrorist",
+      "summary": "Israel has carried out a strike in Gaza again.",
+      "url": "https://www.ndtv.com/world-news/israeli-army-confirms-journalist-killed-in-gaza-calls-him-hamas-terrorist-11665140#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-21T01:58:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Israeli Army Confirms Journalist Killed In Gaza, Calls Him 'Hamas' Terrorist"
+    },
+    {
       "id": "a495715f1e14978e89c72756b9ca20cddb7487e7",
       "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
       "summary": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
@@ -76,6 +142,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Israeli strikes kill six people in Gaza"
+    },
+    {
+      "id": "dc6732b13fbfe8adf8b8edab3ed87843d4201132",
+      "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli strike on Gaza",
+      "summary": "Wishah among at least 260 journalists killed since Israel’s war on Gaza began in October 2023Qatar-based news network Al Jazeera has said one of its journalists was killed by an Israeli strike in Gaza on Saturday, becomi…",
+      "url": "https://www.theguardian.com/world/2026/jun/20/al-jazeera-cameraman-ahmed-wishah-killed-in-israeli-strike-on-gaza",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-20T19:49:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Al Jazeera cameraman Ahmed Wishah killed in Israeli strike on Gaza"
     },
     {
       "id": "35acf2dbbfb2f4dbb560f6f248618545cb229a0b",
@@ -153,85 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Israel Strikes Lebanon Despite Ceasefire"
-    },
-    {
-      "id": "0e1650f3626ce3594ca59c013cc85cf7fb500819",
-      "title": "Israel and Hezbollah renew ceasefire after deadly flareup disrupts opening of Iran talks",
-      "summary": "JD Vance pulls out of US-Iran meeting in Switzerland on implementation of peace deal after clashes in southern LebanonMiddle East crisis – live updatesIsrael and Hezbollah agreed to renew a fragile ceasefire in Lebanon o…",
-      "url": "https://www.theguardian.com/world/2026/jun/19/israel-hezbollah-renew-ceasefire-lebanon-us-iran-agreement",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-20T05:29:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Israel and Hezbollah agreed to renew a fragile ceasefire"
-    },
-    {
-      "id": "3ab46dbb2c392931a7cb8a97041d567e4953fcd1",
-      "title": "‘It’s a big mistake’: Israelis feel betrayed and angry after Iran peace deal",
-      "summary": "In ‘middle Israel’ there are fears Iran could rebuild stronger – and there is particular ire for Donald TrumpIn the Tree brasserie off Herzl Street in Rehovot, there was much that almost everyone agreed on. Few contested…",
-      "url": "https://www.theguardian.com/world/2026/jun/20/israelis-betrayed-angry-after-iran-peace-deal-donald-trump",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-20T05:00:55+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "very bad for Israel"
-    },
-    {
-      "id": "9c521ab8c9aab1338e02158f3d2fe91b518a4849",
-      "title": "Fears doctors criticising Israel may be silenced as health watchdog adopts contested antisemitism definition",
-      "summary": "Australian Health Practitioner Regulation Agency to use International Holocaust Remembrance Alliance definition for ‘regulatory work’Get our breaking news email, free app or daily news podcastAustralia’s health watchdog…",
-      "url": "https://www.theguardian.com/world/2026/jun/20/ahpra-adopts-ihra-antisemitism-definition-ntwnfb",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-20T03:51:42+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "criticising Israel may be silenced as health watchdog adopts contested antisemitism definition"
-    },
-    {
-      "id": "298dcdb4bd3c09d0f520903ad621c49c3ce54e39",
-      "title": "'Be quiet now': Israeli envoy shouts at UN official at hearing on children in conflict; watch",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/watch-un-hearing-on-palestinian-children-turns-into-shouting-match-israel-blames-guterres-obsession-of-targeting-them/articleshow/131869520.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-06-20T02:56:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "'Be quiet now': Israeli envoy shouts at UN official"
-    },
-    {
-      "id": "a7729113721276cb102263d01611ea9c22f135ac",
-      "title": "'Calm down sometimes': Trump speaks to Israel, claims credit for Lebanon ceasefire",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/calm-down-sometimes-trump-speaks-to-israel-claims-credit-for-lebanon-ceasefire/articleshow/131869450.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-06-20T02:29:51+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Trump speaks to Israel, claims credit for Lebanon ceasefire"
-    },
-    {
-      "id": "8597a68fe6a5b9b4f5991556818813057ca05e1f",
-      "title": "\"Be Quiet\": Israeli Envoy, Top UN Official's Shouting Match At New York Meet",
-      "summary": "Danny Danon and Vanessa Frazier (File photos)",
-      "url": "https://www.ndtv.com/world-news/israeli-envoy-danny-danon-un-official-vanessa-frazier-clash-at-public-hearing-on-children-in-conflict-be-quiet-11662086#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-06-20T02:19:15+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "\"Be Quiet\": Israeli Envoy, Top UN Official's Shouting Match"
-    },
-    {
-      "id": "5237645b23698f830aee422df04f3fe8ffe1f9d5",
-      "title": "Lebanon Emerges as Weak Link in U.S.-Iran Deal to End War",
-      "summary": "The conflict between Israel and Hezbollah, once seen as a secondary front to the American-Israeli war on Iran, has become one of the main obstacles to ending it.",
-      "url": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-19T22:31:39+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "conflict between Israel and Hezbollah"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-21T12:00:53Z"
+  "last_updated": "2026-06-22T14:57:38Z"
 }

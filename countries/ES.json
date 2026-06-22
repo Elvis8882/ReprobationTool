@@ -1,16 +1,38 @@
 {
   "country": "ES",
-  "score": 81,
+  "score": 79,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 420,
+  "trend": -2,
+  "sources": 417,
   "sentiment": {
     "positive": 32,
-    "neutral": 344,
-    "negative": 44
+    "neutral": 339,
+    "negative": 46
   },
   "latest_articles": [
+    {
+      "id": "9c635e11850bb9cc92b5efe5f071b9d84af79409",
+      "title": "Spain’s top court condemns Sánchez’s former minister",
+      "summary": "The investigation and subsequent trial have intensified pressure on Pedro Sánchez",
+      "url": "https://www.euractiv.com/news/spains-top-court-condemns-sanchezs-former-minister-and-ally/",
+      "source": "Euractiv",
+      "published_at": "2026-06-22T12:08:09+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Spain’s top court condemns Sánchez’s former minister"
+    },
+    {
+      "id": "b8d09290de9769a18edb0bd282bba9a1aea5cd8a",
+      "title": "Europe suffers under record heatwave as temperatures forecast to reach 44C",
+      "summary": "Rail services, schools and sports events hit, with deaths of three elderly people in France partly blamed on intense heatWestern Europe is enduring a ferocious heatwave forecast to break temperature records, with half of…",
+      "url": "https://www.theguardian.com/environment/2026/jun/22/europe-record-heatwave-temperatures-forecast-reach-44c",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-22T10:14:40+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "sports events in Spain and Germany cancelled"
+    },
     {
       "id": "12d0900525893afc925cdfc21665607dfe6c0bd2",
       "title": "From the US-Mexico border to protests in Poland: highlights of PhotoEspaña 2026",
@@ -21,6 +43,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "PhotoEspaña 2026"
+    },
+    {
+      "id": "39bc67d78704950b2a4c313f70109d9659253171",
+      "title": "Spain PM's Wife To Face Corruption Trial, Told To Surrender Passport",
+      "summary": "Gomez has denied any wrongdoing.",
+      "url": "https://www.ndtv.com/world-news/spain-pm-pedro-sanchezs-wife-begona-gomez-to-face-corruption-trial-told-to-surrender-passport-11666045#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-21T05:58:26+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Spain PM's Wife To Face Corruption Trial"
     },
     {
       "id": "bf8c8d719dc94ea106f5d6ff7889ac6e3bedf966",
@@ -187,38 +220,8 @@
       "published_at": "2026-06-17T15:50:48+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "c0559a82408611673c13de098508ce2df9427447",
-      "title": "European Parliament approves ‘return hubs’",
-      "summary": "‘Send them home,’ chanted nationalist and far-right MEPs",
-      "url": "https://www.euractiv.com/news/european-parliament-approves-return-hubs/",
-      "source": "Euractiv",
-      "published_at": "2026-06-17T11:59:41+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "ac331ee9139eb64e489037cb647a0a4af29fe9fd",
-      "title": "Household material welfare across the EU in 2025 - European Commission",
-      "summary": "Household material welfare across the EU in 2025&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqN2tydGZrX2VfVTA5aFdidUlWYnVZaklMZlE5ZGRCaUI2T1VZTEYzMVVvMEpCWnNyUkpmOTB1blNPWURfZXhPdEV3QWZnY1gyRXZLVTA3OUJyNFlwaGRSekhOVTN5NjU3SkdjbUxKRWZuLWVLbWxBY1VNd2IxQQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-17T09:11:56+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "e689ff8f5848ba7ec84a85b43c01923741b6cc5f",
-      "title": "EU youth deprivation unchanged at 5.8% in 2025 - European Commission",
-      "summary": "EU youth deprivation unchanged at 5.8% in 2025&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HWEw3TGVmeGZ1MlRMVlhEU3I2QXdacTZhMXlPZS1zekd5dzVmb2VUU3JtcUFIU25Wakt2NHN0U0NKa3ZmanhlMHZYT2NQcGZWeFRqZXEzeE4zcS1uZnZlR3ExaWpVSlpoNEh3eF8xejRfNTBYcnZ2ZmxZNlZjQQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-17T09:11:55+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-21T12:00:53Z"
+  "last_updated": "2026-06-22T14:57:38Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "HU",
-  "score": 72,
+  "score": 75,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 2,
-  "sources": 402,
+  "trend": 3,
+  "sources": 392,
   "sentiment": {
     "positive": 51,
-    "neutral": 286,
-    "negative": 65
+    "neutral": 281,
+    "negative": 60
   },
   "latest_articles": [
+    {
+      "id": "c8a8db15559957be083e0fa2322d40b75172f422",
+      "title": "Weather tracker: Extreme heat in Europe as typhoon strengthens off Philippines",
+      "summary": "Eastern Europe to see temperatures above early July average into next weekThe extreme heat experienced across central and western Europe, including the UK, will continue to shift eastwards. As slightly cooler weather inf…",
+      "url": "https://www.theguardian.com/environment/2026/jun/22/weather-tracker-extreme-heat-in-europe-as-typhoon-strengthens-off-philippines",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-22T10:17:56+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Peak highs of between 35C and 40C are expected across southern Poland, Slovakia, Hungary"
+    },
     {
       "id": "bf8c8d719dc94ea106f5d6ff7889ac6e3bedf966",
       "title": "Two-thirds of EU citizens back UK rejoining bloc, survey finds",
@@ -202,19 +213,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Hungary’s pronatalist approach deliver an early rise in births"
-    },
-    {
-      "id": "9f0ec1c15608d7d9e99399f762a6519b5809942c",
-      "title": "Hungary passes two-term limit blocking Orbán comeback",
-      "summary": "The amendment was passed by the ruling Tisza party’s supermajority, with 135 votes in favour",
-      "url": "https://www.euractiv.com/news/hungary-parliament-orban-term-limits/",
-      "source": "Euractiv",
-      "published_at": "2026-06-15T21:54:32+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Hungary passes two-term limit blocking Orbán comeback"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-21T12:00:53Z"
+  "last_updated": "2026-06-22T14:57:38Z"
 }
