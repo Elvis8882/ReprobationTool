@@ -1,16 +1,38 @@
 {
   "country": "CH",
-  "score": 63,
+  "score": 62,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 84,
+  "trend": -1,
+  "sources": 86,
   "sentiment": {
     "positive": 3,
-    "neutral": 73,
-    "negative": 8
+    "neutral": 74,
+    "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "736642d6c0ef85fe05b5f2132ef7d4f634142bc8",
+      "title": "JD Vance Says Iran Talks Lay 'Good Foundation' For Deal To End War",
+      "summary": "The vice president departed Switzerland as technical teams were still negotiating",
+      "url": "https://www.ndtv.com/world-news/us-iran-war-jd-vance-says-iran-talks-lay-good-foundation-for-deal-to-end-war-us-iran-negotiations-11673992#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-23T05:19:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "The vice president departed Switzerland"
+    },
+    {
+      "id": "503696e0af0cb549d2995c11cd898ed333289a1d",
+      "title": "Will Swiss pharma be next?",
+      "summary": "Trump puts pressure on Swiss companies to raise pharma prices in Europe",
+      "url": "https://www.euractiv.com/news/will-swiss-pharma-be-next/",
+      "source": "Euractiv",
+      "published_at": "2026-06-23T04:00:49+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Trump puts pressure on Swiss companies to raise pharma prices"
+    },
     {
       "id": "3a71b60809ccf70ea5a0ffca7f6090bd3bb0b1ca",
       "title": "Middle East crisis live: US-Iran talks laid ‘very good foundation for a successful final deal’, says Vance",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "US-Iran talks in Switzerland called off"
-    },
-    {
-      "id": "5046fe065eb28e9b8a0682c0a4b107a9019322c7",
-      "title": "U.S.-Iran accord hits early snag after Swiss talks fail to proceed as planned",
-      "summary": "Analysts reckon a lasting resolution to the Middle East conflict will take some time to materialize.",
-      "url": "https://www.cnbc.com/2026/06/19/us-iran-talks-switzerland-canceled-interim-deal-markets.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-06-19T11:52:44+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Swiss talks fail to proceed as planned"
-    },
-    {
-      "id": "2402fcf84291e24fc87e3cc6c61fb79ff43d3024",
-      "title": "Four Israeli soldiers killed as combat in Lebanon imperils U.S.-Iran deal",
-      "summary": "U.S. and Iranian officials postponed negotiations planned in Switzerland on Friday about the details of their peace agreement as it faced a major test.",
-      "url": "https://www.washingtonpost.com/world/2026/06/19/four-israeli-soldiers-killed-combat-lebanon-imperils-us-iran-deal/",
-      "source": "World (Washington post)",
-      "published_at": "2026-06-19T10:31:02+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "negotiations planned in Switzerland"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-22T14:57:38Z"
+  "last_updated": "2026-06-23T12:23:28Z"
 }
