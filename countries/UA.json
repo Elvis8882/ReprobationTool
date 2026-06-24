@@ -1,16 +1,27 @@
 {
   "country": "UA",
-  "score": 36,
+  "score": 41,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 3,
-  "sources": 649,
+  "trend": 5,
+  "sources": 642,
   "sentiment": {
-    "positive": 271,
-    "neutral": 154,
-    "negative": 225
+    "positive": 272,
+    "neutral": 152,
+    "negative": 219
   },
   "latest_articles": [
+    {
+      "id": "ba72655c7b5f805c22222f494d0622d654aa3d05",
+      "title": "Zelensky to skip key Ukraine conference in Poland amid diplomatic spat",
+      "summary": "Despite being an ally of Ukraine, Tusk has said the blame for the diplomatic crisis lies with Kyiv",
+      "url": "https://www.euractiv.com/news/zelensky-to-skip-key-ukraine-conference-in-poland-amid-diplomatic-spat/",
+      "source": "Euractiv",
+      "published_at": "2026-06-24T07:27:16+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "blame for the diplomatic crisis lies with Kyiv"
+    },
     {
       "id": "7ff304a6d136b7ea4bbb1bc923721ed2ac8c9006",
       "title": "Ukraine’s drones are eroding Putin’s vision for Crimea",
@@ -21,6 +32,17 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Ukraine’s drones are eroding Putin’s vision for Crimea"
+    },
+    {
+      "id": "d6c9f80bb3447a0b61755fb8b146fa0225d22a58",
+      "title": "How Ukraine's Latest Drone Strategy Is Targeting Russia's Supply Lines",
+      "summary": "Ukraine says the goal is to weaken Russia's ability to sustain offensive operations",
+      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-how-ukraines-latest-drone-strategy-is-targeting-russias-supply-lines-11673966#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-23T05:18:20+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukraine's Latest Drone Strategy Is Targeting Russia's Supply Lines"
     },
     {
       "id": "8110cfaa8b1e687e250e07c8c24c242cac7fba6d",
@@ -208,30 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Ukraine’s Barrages on Russia"
-    },
-    {
-      "id": "cca9a4b3952c2db92429c9f25ca07921e9783345",
-      "title": "Two men jailed for arson attacks on property linked to Keir Starmer",
-      "summary": "Roman Lavrynovych and Stanislav Carpiuc imprisoned for seven years and two years respectivelyRoman Lavrynovych and Stanislav Carpiuc have been jailed at the Old Bailey for seven years and two years respectively for arson…",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/19/two-men-jailed-for-arson-attacks-on-property-linked-to-keir-starmer",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-19T12:26:30+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukrainian jailed for arson attacks on property linked to Keir Starmer"
-    },
-    {
-      "id": "764de75cd4b6f6a7ddcc4d6591fa77ab042b3705",
-      "title": "Ukraine creates platform to study captured Russian weapons",
-      "summary": "“Study the aggressor's technologies for the sake of global security,” Mikhailo Fedorov said",
-      "url": "https://www.euractiv.com/news/ukraine-creates-platform-to-study-captured-russian-weapons/",
-      "source": "Euractiv",
-      "published_at": "2026-06-19T11:39:32+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine creates platform to study captured Russian weapons"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-23T12:23:28Z"
+  "last_updated": "2026-06-24T12:04:45Z"
 }

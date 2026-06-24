@@ -3,14 +3,24 @@
   "score": 76,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 386,
+  "trend": 0,
+  "sources": 380,
   "sentiment": {
     "positive": 51,
-    "neutral": 276,
+    "neutral": 270,
     "negative": 59
   },
   "latest_articles": [
+    {
+      "id": "9c4e8e122c2693747ce6e6299615ffc06ae18c37",
+      "title": "‘A historic day’: European Parliament backs digital euro",
+      "summary": "Supporters say scheme is crucial to reduce Europe's dependence on US payment providers",
+      "url": "https://www.euractiv.com/news/a-historic-day-european-parliament-backs-digital-euro/",
+      "source": "Euractiv",
+      "published_at": "2026-06-23T12:21:40+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "c8a8db15559957be083e0fa2322d40b75172f422",
       "title": "Weather tracker: Extreme heat in Europe as typhoon strengthens off Philippines",
@@ -202,19 +212,8 @@
       "published_at": "2026-06-16T03:45:39+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "3f2bca30a40f5fee25f1707c1dcab8377368b5f0",
-      "title": "What one country's experiment says about attempts to boost birth rates",
-      "summary": "Why did Hungary’s pronatalist approach deliver an early rise in births only then to fall back? And what lessons does it offer to other countries desperate to lift fertility?",
-      "url": "https://www.bbc.com/news/articles/c5yzdr4ygdno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-15T23:56:47+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Hungary’s pronatalist approach deliver an early rise in births"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-23T12:23:28Z"
+  "last_updated": "2026-06-24T12:04:45Z"
 }

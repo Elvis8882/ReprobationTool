@@ -1,16 +1,48 @@
 {
   "country": "DE",
-  "score": 72,
+  "score": 71,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 524,
+  "trend": -1,
+  "sources": 517,
   "sentiment": {
-    "positive": 66,
-    "neutral": 384,
+    "positive": 65,
+    "neutral": 378,
     "negative": 74
   },
   "latest_articles": [
+    {
+      "id": "22bd98a2ef8846b942e9b0a440794006cf144377",
+      "title": "Defense stocks plummet on report Germany is scrapping warships; Rheinmetall stock down 17%",
+      "summary": "Berlin is planning to scrap a multi-billion-euro project to build the F126 frigates, according to reports.",
+      "url": "https://www.cnbc.com/2026/06/24/rheinmetall-stock-defense-germany-warship-scrap-plans.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-06-24T10:57:16+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Germany is scrapping warships"
+    },
+    {
+      "id": "ea684cbd84fd626a0917d88646a01407f9412955",
+      "title": "France and Germany struggle for international space communication role",
+      "summary": "But the two countries also oppose one another on EU space policy",
+      "url": "https://www.euractiv.com/news/france-and-germany-struggle-for-international-space-communication-role/",
+      "source": "Euractiv",
+      "published_at": "2026-06-24T09:05:28+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "struggle for international space communication role"
+    },
+    {
+      "id": "9c4e8e122c2693747ce6e6299615ffc06ae18c37",
+      "title": "‘A historic day’: European Parliament backs digital euro",
+      "summary": "Supporters say scheme is crucial to reduce Europe's dependence on US payment providers",
+      "url": "https://www.euractiv.com/news/a-historic-day-european-parliament-backs-digital-euro/",
+      "source": "Euractiv",
+      "published_at": "2026-06-23T12:21:40+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "2003e016e40b0a283d7d077bb60049a39a09ac44",
       "title": "Berlin ‘real pivot’ in European fighter as Leonardo open to German GCAP entry",
@@ -193,39 +225,8 @@
       "published_at": "2026-06-18T16:53:35+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "5dd2f271e060cd0b3e8c16487712b61ae3899048",
-      "title": "Paris and Berlin demand EU act to rein in ultra-fast fashion industry",
-      "summary": "The proposal would make short-lived, hard-to-recycle products more expensive to sell",
-      "url": "https://www.euractiv.com/news/paris-and-berlin-demand-eu-act-to-rein-in-ultra-fast-fashion-industry/",
-      "source": "Euractiv",
-      "published_at": "2026-06-18T16:09:23+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Berlin demand EU act to rein in ultra-fast fashion industry"
-    },
-    {
-      "id": "476e0e809a41c59fb489d4ef69e9bbc7c78213bc",
-      "title": "EU Parliament’s internal market committee requests to co-lead cloud sovereignty law",
-      "summary": "A political clash between the centre-right EPP and the Greens is also brewing",
-      "url": "https://www.euractiv.com/news/eu-parliaments-internal-market-committee-requests-to-co-lead-cloud-sovereignty-law/",
-      "source": "Euractiv",
-      "published_at": "2026-06-18T13:15:52+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "9265d865c1d6e70df105c9b8aeaf5be209b2ffaa",
-      "title": "Czechia, Slovakia weigh in on Methane Regulation spat",
-      "summary": "European Commission's planned workaround puts oil and gas importers in impossible situation, they say",
-      "url": "https://www.euractiv.com/news/czechia-slovakia-weigh-in-on-methane-regulation-spat/",
-      "source": "Euractiv",
-      "published_at": "2026-06-18T10:56:19+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-23T12:23:28Z"
+  "last_updated": "2026-06-24T12:04:45Z"
 }

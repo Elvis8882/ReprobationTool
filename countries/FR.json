@@ -3,14 +3,35 @@
   "score": 90,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 655,
+  "trend": 0,
+  "sources": 646,
   "sentiment": {
-    "positive": 102,
-    "neutral": 483,
+    "positive": 101,
+    "neutral": 475,
     "negative": 70
   },
   "latest_articles": [
+    {
+      "id": "ea684cbd84fd626a0917d88646a01407f9412955",
+      "title": "France and Germany struggle for international space communication role",
+      "summary": "But the two countries also oppose one another on EU space policy",
+      "url": "https://www.euractiv.com/news/france-and-germany-struggle-for-international-space-communication-role/",
+      "source": "Euractiv",
+      "published_at": "2026-06-24T09:05:28+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "struggle for international space communication role"
+    },
+    {
+      "id": "9c4e8e122c2693747ce6e6299615ffc06ae18c37",
+      "title": "‘A historic day’: European Parliament backs digital euro",
+      "summary": "Supporters say scheme is crucial to reduce Europe's dependence on US payment providers",
+      "url": "https://www.euractiv.com/news/a-historic-day-european-parliament-backs-digital-euro/",
+      "source": "Euractiv",
+      "published_at": "2026-06-23T12:21:40+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "d45d57e0eebe28b3a7ce333afe409a42b4279f2d",
       "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
@@ -21,6 +42,17 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "Drowning deaths soar in France as Europe buckles in peak of heatwave"
+    },
+    {
+      "id": "47a13afad3bd50692303ef027143ee0e3e6867ee",
+      "title": "Soldier, Scholar and Symbol: Marc Bloch Is Elevated to France’s Panthéon",
+      "summary": "French politicians, including those on the far right, are embracing a Jewish Resistance fighter murdered by the Gestapo in 1944.",
+      "url": "https://www.nytimes.com/2026/06/23/world/europe/marc-bloch-pantheon-france.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-23T09:27:02+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Soldier, Scholar and Symbol: Marc Bloch Is Elevated to France’s Panthéon"
     },
     {
       "id": "4a9e23a643e76552fea3d2ef0b32e4eb70de868f",
@@ -195,40 +227,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "A South Korean island is reviving a long‑forgotten episode involving a French whaler"
-    },
-    {
-      "id": "72e44370e5ef2f6e59b05f1813227d641692aee5",
-      "title": "Charles Kushner, U.S. Ambassador to France, Riles Paris With Trump Diplomacy",
-      "summary": "The U.S. envoy to Paris has emerged as the embodiment of combative diplomacy in the age of President Trump, riling the French establishment notably with his accusations of antisemitism.",
-      "url": "https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-20T04:01:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Riles Paris With Trump Diplomacy"
-    },
-    {
-      "id": "e8d0c9766ccaaa32da6ffeca8b82e084b2e698a5",
-      "title": "Italy Doesn’t ‘Beg,’ Giorgia Meloni Tells Trump",
-      "summary": "President Trump said the Italian leader had “begged” him to take a photo together at the Group of 7 summit in France. The remarks come as their once-friendly relationship has frayed.",
-      "url": "https://www.nytimes.com/2026/06/19/world/europe/meloni-trump-italy.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-19T16:44:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Group of 7 summit in France"
-    },
-    {
-      "id": "d4f914688c2f555b1e7cd876400b0eebd07483e9",
-      "title": "The politics behind the European Parliament’s flame out on tobacco tax",
-      "summary": "The vote essentially means that Parliament is asking the Commission to withdraw its proposal",
-      "url": "https://www.euractiv.com/news/the-politics-behind-the-european-parliaments-flame-out-on-tobacco-tax/",
-      "source": "Euractiv",
-      "published_at": "2026-06-19T14:00:44+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-23T12:23:28Z"
+  "last_updated": "2026-06-24T12:04:45Z"
 }
