@@ -1,16 +1,49 @@
 {
   "country": "UA",
-  "score": 41,
+  "score": 43,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 5,
-  "sources": 642,
+  "trend": 2,
+  "sources": 640,
   "sentiment": {
     "positive": 272,
-    "neutral": 152,
-    "negative": 219
+    "neutral": 154,
+    "negative": 215
   },
   "latest_articles": [
+    {
+      "id": "94e32a1811e561b7e1141b8eedb7ba4a631cf1ff",
+      "title": "HARVEST: The seal of excellence",
+      "summary": "In today's edition: livestock strategy, Ukraine, UPFs",
+      "url": "https://www.euractiv.com/news/harvest-the-seal-of-excellence/",
+      "source": "Euractiv",
+      "published_at": "2026-06-25T06:42:35+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "livestock strategy, Ukraine, UPFs"
+    },
+    {
+      "id": "b241f32b9601d6710ba418acc8f01bcb466acac7",
+      "title": "Joint call on current and prospective donors to contribute to the Ukraine Energy Support Fund - energy.ec.europa.eu",
+      "summary": "Joint call on current and prospective donors to contribute to the Ukraine Energy Support Fund&nbsp;&nbsp;energy.ec.europa.euUkraine's energy system is not in survival mode — we are building Europe's energy future&nbsp;&n…",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdDJqc01fSVB0Q0VnMTBGTzVPUGxNS3pJcUxiTVFHVVJMd2VKSHoxbGNhYTF6a1VSQVZocmJ0enhIMFJJekdpdlBPdnVGamZjREI0Mk9Ba0F2WWZ2UDFfSGNETFExQkpWQkZ2Y0pEcXUxajlvSl90WjE1Z0ZvVEFLblZZLS0yVHF0UWhkZ09PRHduNUlLVkljeUhheTBocWFKaFNnR2toVnpxZ1JuNjdvaU1fMk4yMnNSaTdfN3FPSU5LWXVqMWc?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-24T12:00:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukraine's energy system is not in survival mode — we are building Europe's energy future"
+    },
+    {
+      "id": "c3308022689726d68fa9d4795b9a43b847a5e333",
+      "title": "Trump Rejected Own Data On India Tariffs, Argued With Aide, Claims Book",
+      "summary": "In August 2025, Donald Trump accused India of supporting Russia's war in Ukraine.",
+      "url": "https://www.ndtv.com/world-news/donald-trump-rejected-own-data-on-india-tariffs-argued-with-aide-claims-book-11680476#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-24T09:22:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia's war in Ukraine"
+    },
     {
       "id": "ba72655c7b5f805c22222f494d0622d654aa3d05",
       "title": "Zelensky to skip key Ukraine conference in Poland amid diplomatic spat",
@@ -21,6 +54,28 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "blame for the diplomatic crisis lies with Kyiv"
+    },
+    {
+      "id": "4a8eaf70fbe492ebeda05b90b1bfabdb356a891c",
+      "title": "Myanmar’s Civil War Has Become an Apocalypse",
+      "summary": "Overshadowed by conflicts in Ukraine, Gaza and Lebanon, the fighting in Myanmar’s isolated heartland has reached new depths.",
+      "url": "https://www.nytimes.com/2026/06/24/world/asia/myanmar-civil-war-rebels-airstrikes.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-24T04:01:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "conflicts in Ukraine"
+    },
+    {
+      "id": "be9a8e879cec66e12727e68d645eb869e585c436",
+      "title": "Ukrainian Women Plead for News of Disabled Relatives Held by Russia",
+      "summary": "Four years after Ukraine was invaded, many of the people who lived in institutional settings remain unaccounted for.",
+      "url": "https://www.nytimes.com/2026/06/23/world/europe/ukraine-missing-children-russia.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-23T20:22:35+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Ukrainian Women Plead for News of Disabled Relatives Held by Russia"
     },
     {
       "id": "7ff304a6d136b7ea4bbb1bc923721ed2ac8c9006",
@@ -65,6 +120,17 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Ukraine Escalates Crimea Attacks, Creating a New Pressure Point for Russia"
+    },
+    {
+      "id": "d139a6daf84c81453cdecf712e6861d241041d13",
+      "title": "EXCLUSIVE: Commission mulls food, feed and fuel protein strategy",
+      "summary": "In a leaked document, the bloc's executive looks at Ukraine to cut import dependence",
+      "url": "https://www.euractiv.com/news/exclusive-commission-mulls-food-feed-and-fuel-protein-strategy/",
+      "source": "Euractiv",
+      "published_at": "2026-06-22T15:59:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "looks at Ukraine to cut import dependence"
     },
     {
       "id": "e2965cbf4a3f527664bfc084819502f1a0a1bb9e",
@@ -164,74 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Moscow oil refinery attack brings Russia's war with Ukraine closer to home"
-    },
-    {
-      "id": "915590c6fa6fa6468844f1c7d6bfc39fb510129e",
-      "title": "Poland’s president strips Zelenskyy of order, escalating WWII row",
-      "summary": "Ukraine slammed the decision as a \"strategic mistake\" from which \"only Moscow stands to gain\"",
-      "url": "https://www.euractiv.com/news/polands-president-strips-zelenskyy-of-order-escalating-wwii-row/",
-      "source": "Euractiv",
-      "published_at": "2026-06-20T10:03:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Ukraine slammed the decision as a \"strategic mistake\""
-    },
-    {
-      "id": "016c9f44cb2811e09e28ccf3dd98d96ed14c5b57",
-      "title": "'Useful idiot' hired on Telegram: Ukraine-born duo jailed for arson attacks on properties linked to UK PM Starmer",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/uk/ukraine-born-duo-jailed-over-russia-backed-arson-attacks-on-properties-linked-to-uk-pm-keirstarmer/articleshow/131873493.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-06-20T09:45:56+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukraine-born duo jailed for arson attacks"
-    },
-    {
-      "id": "7b68df4ef3ba61fc77f7f734dd539c95e7cca1e0",
-      "title": "Soviet Leader Leonid Brezhnev's Great-Grandson, Fighting For Russia, Captured By Ukraine: Report",
-      "summary": "File photo",
-      "url": "https://www.ndtv.com/world-news/leonid-brezhnevs-great-grandson-reportedly-captured-in-ukraine-11662283#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-06-20T06:56:24+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Captured By Ukraine"
-    },
-    {
-      "id": "4371eb6b736444ba8d2648e0191e01789d731cdc",
-      "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
-      "summary": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\".",
-      "url": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-19T21:46:07+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\"."
-    },
-    {
-      "id": "07a138e95713a93a2d81a5d732acd2a553107c2f",
-      "title": "UN Security Council to Convene on Kyiv-Pechersk Lavra Strike - Kyiv Post",
-      "summary": "UN Security Council to Convene on Kyiv-Pechersk Lavra Strike&nbsp;&nbsp;Kyiv PostRosemary DiCarlo, Under-Secretary-General for Political and Peacebuilding Affairs — Briefing to the UN Security Council on the Maintenance…",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JMXBTUEx2UXdHVExBWkdaY1VNVG9hTW5EQzdZRmlfNjNtdVFUVmEzeGZ4WTJUMy14WUxra0h1X3RvMWdmRkVZSDUwSQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-19T20:42:10+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russia's latest major attack on Ukraine"
-    },
-    {
-      "id": "d2e600842e62651269cf2dedca2cf006cb9b4229",
-      "title": "A Missing Ingredient in Ukraine’s Barrages on Russia: Ballistic Missiles",
-      "summary": "Ukrainian drone attacks have achieved breakthroughs, but only ballistic missiles can push Russia to reconsider its war objectives, military experts and officials say.",
-      "url": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attacks-ballistic-missiles.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-19T13:15:08+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine’s Barrages on Russia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-24T12:04:45Z"
+  "last_updated": "2026-06-25T11:55:05Z"
 }

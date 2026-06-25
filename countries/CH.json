@@ -1,16 +1,38 @@
 {
   "country": "CH",
-  "score": 62,
+  "score": 64,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 86,
+  "trend": 2,
+  "sources": 88,
   "sentiment": {
-    "positive": 3,
-    "neutral": 74,
+    "positive": 4,
+    "neutral": 75,
     "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "31f6e6f9ac53f9e5cdbc6ba3efd3c19a140ff927",
+      "title": "One of India's largest gold exporters paid its managing director just $180 a month, investigators say in accounting probe",
+      "summary": "Indian authorities have found accounting discrepancies in books of Indian gold company Rajesh Exports, and owner of Swiss refiner Valcambi.",
+      "url": "https://www.cnbc.com/2026/06/25/india-rajesh-exports-investigation-accounting-irregularities-valcambi.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-06-25T07:23:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "owner of Swiss refiner Valcambi."
+    },
+    {
+      "id": "1a77059953292ab58c27aabf87d13301fb3ff802",
+      "title": "Switzerland moves to diversify missile defence",
+      "summary": "Bern also reaffirm committmment to US-made Partriot purchase",
+      "url": "https://www.euractiv.com/news/switzerland-moves-to-diversify-missile-defence/",
+      "source": "Euractiv",
+      "published_at": "2026-06-24T16:03:18+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Switzerland moves to diversify missile defence"
+    },
     {
       "id": "736642d6c0ef85fe05b5f2132ef7d4f634142bc8",
       "title": "JD Vance Says Iran Talks Lay 'Good Foundation' For Deal To End War",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "nixed Swiss signing ceremonies"
-    },
-    {
-      "id": "99255ae280139064f3897099c9b0a05a3167ce94",
-      "title": "Mideast Live Updates: Deadly Attacks in Lebanon and Delay in Talks Test U.S.-Iran Deal",
-      "summary": "Israel said it targeted Hezbollah militants after four of its soldiers were killed in southern Lebanon. Switzerland postponed U.S.-Iran talks that had been set for Friday.",
-      "url": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal",
-      "source": "NYT > World News",
-      "published_at": "2026-06-19T12:31:14+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Switzerland postponed U.S.-Iran talks"
-    },
-    {
-      "id": "7e58be0e0be2505cf07c7c4d4625be12537980ea",
-      "title": "Middle East crisis live: Israel strikes targets in Lebanon as US-Iran talks in Switzerland called off",
-      "summary": "IDF claims continuing strikes come after Iran-backed group repeatedly violated ceasefire; JD Vance cancels trip as US-Iran talks set for Friday cancelledUS-Iran talks in Switzerland abruptly called offJD Vance tells Iran…",
-      "url": "https://www.theguardian.com/world/live/2026/jun/19/middle-east-crisis-live-israel-strikes-targets-in-lebanon-as-us-iran-talks-in-switzerland-called-off",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-19T12:16:47+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "US-Iran talks in Switzerland called off"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-24T12:04:45Z"
+  "last_updated": "2026-06-25T11:55:05Z"
 }

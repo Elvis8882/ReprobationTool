@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 375,
+  "sources": 378,
   "sentiment": {
     "positive": 12,
-    "neutral": 139,
-    "negative": 225
+    "neutral": 140,
+    "negative": 227
   },
   "latest_articles": [
+    {
+      "id": "4a8eaf70fbe492ebeda05b90b1bfabdb356a891c",
+      "title": "Myanmar’s Civil War Has Become an Apocalypse",
+      "summary": "Overshadowed by conflicts in Ukraine, Gaza and Lebanon, the fighting in Myanmar’s isolated heartland has reached new depths.",
+      "url": "https://www.nytimes.com/2026/06/24/world/asia/myanmar-civil-war-rebels-airstrikes.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-24T04:01:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "conflicts in Ukraine, Gaza and Lebanon"
+    },
     {
       "id": "25b580ff651ddf7a1f803d99acb8a0fb70ee36a2",
       "title": "The Guardrails Designed to Protect U.S.-Iran Talks",
@@ -177,6 +188,17 @@
       "evidence": "Israel's Attacks On Lebanon"
     },
     {
+      "id": "4e247beea099d6b6be4123867ab021206dfa51d0",
+      "title": "Mona Khalil, Defender of Sea Turtles, Killed in an Israeli Strike in Lebanon",
+      "summary": "For a quarter century, Ms. Khalil ran a guesthouse and worked to protect endangered sea turtles who every summer lay their eggs on a stretch of beach near Tyre, Lebanon.",
+      "url": "https://www.nytimes.com/2026/06/20/world/middleeast/mona-kahlil-turtles-lebanon-conservation.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-20T22:18:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "sea turtles who every summer lay their eggs on a stretch of beach"
+    },
+    {
       "id": "9528c3f9efc76ed45776e191debd7121dfbc5531",
       "title": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
       "summary": "Travelling with a humanitarian convoy, BBC's Hugo Bachega has been given rare access to a part of Lebanon under Israeli occupation.",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Lebanon was again at the center"
-    },
-    {
-      "id": "a780474aff931365e48e113387240e0edd894679",
-      "title": "Iran says Hormuz closed again after Israel strikes Lebanon",
-      "summary": "Fresh clashes test US-Iran agreement to end fighting",
-      "url": "https://www.euractiv.com/news/iran-says-hormuz-closed-again-after-israel-strikes-lebanon/",
-      "source": "Euractiv",
-      "published_at": "2026-06-20T14:54:53+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Iran says Hormuz closed again after Israel strikes Lebanon"
-    },
-    {
-      "id": "e9b642e2ddd58b3b4e34f0179ccaf7fa358f5086",
-      "title": "Mideast Live Updates: Fighting Persists in Lebanon, Complicating Iran Peace Talks",
-      "summary": "The Israeli military said it had exchanged fire with Hezbollah overnight, hours after a new cease-fire came into effect. Clashes in Lebanon derailed U.S.-Iran peace talks planned for Friday.",
-      "url": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon",
-      "source": "NYT > World News",
-      "published_at": "2026-06-20T10:05:46+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Fighting Persists in Lebanon, Complicating Iran Peace Talks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-24T12:04:45Z"
+  "last_updated": "2026-06-25T11:55:05Z"
 }

@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 886,
+  "sources": 877,
   "sentiment": {
-    "positive": 37,
-    "neutral": 299,
-    "negative": 552
+    "positive": 36,
+    "neutral": 294,
+    "negative": 549
   },
   "latest_articles": [
+    {
+      "id": "4a8eaf70fbe492ebeda05b90b1bfabdb356a891c",
+      "title": "Myanmar’s Civil War Has Become an Apocalypse",
+      "summary": "Overshadowed by conflicts in Ukraine, Gaza and Lebanon, the fighting in Myanmar’s isolated heartland has reached new depths.",
+      "url": "https://www.nytimes.com/2026/06/24/world/asia/myanmar-civil-war-rebels-airstrikes.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-24T04:01:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "conflicts in Ukraine, Gaza and Lebanon"
+    },
     {
       "id": "c709d1d3ac17232263a6e4a0ce345e12ea76b895",
       "title": "Israel continues to commit genocide by targeting children in Gaza, UN inquiry finds",
@@ -155,6 +166,17 @@
       "evidence": "Israeli Army Confirms Journalist Killed In Gaza, Calls Him 'Hamas' Terrorist"
     },
     {
+      "id": "4e247beea099d6b6be4123867ab021206dfa51d0",
+      "title": "Mona Khalil, Defender of Sea Turtles, Killed in an Israeli Strike in Lebanon",
+      "summary": "For a quarter century, Ms. Khalil ran a guesthouse and worked to protect endangered sea turtles who every summer lay their eggs on a stretch of beach near Tyre, Lebanon.",
+      "url": "https://www.nytimes.com/2026/06/20/world/middleeast/mona-kahlil-turtles-lebanon-conservation.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-20T22:18:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Killed in an Israeli Strike in Lebanon"
+    },
+    {
       "id": "a495715f1e14978e89c72756b9ca20cddb7487e7",
       "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
       "summary": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "destroyed villages in Israeli-occupied southern Lebanon"
-    },
-    {
-      "id": "971570263db2bc3ad85644c4bc5f6a6d3c7665e0",
-      "title": "Israel and Hezbollah Are Still Fighting, Several Cease-Fires Later",
-      "summary": "For the second time in two days, Lebanon was again at the center of whether the fragile U.S.-Iran deal would hold.",
-      "url": "https://www.nytimes.com/2026/06/20/world/middleeast/israel-hezbollah-fighting-cease-fire.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-20T15:43:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Israel and Hezbollah Are Still Fighting"
-    },
-    {
-      "id": "a780474aff931365e48e113387240e0edd894679",
-      "title": "Iran says Hormuz closed again after Israel strikes Lebanon",
-      "summary": "Fresh clashes test US-Iran agreement to end fighting",
-      "url": "https://www.euractiv.com/news/iran-says-hormuz-closed-again-after-israel-strikes-lebanon/",
-      "source": "Euractiv",
-      "published_at": "2026-06-20T14:54:53+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Iran says Hormuz closed again after Israel strikes Lebanon"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-24T12:04:45Z"
+  "last_updated": "2026-06-25T11:55:05Z"
 }

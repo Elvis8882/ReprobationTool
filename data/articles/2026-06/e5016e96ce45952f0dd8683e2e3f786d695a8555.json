@@ -19,8 +19,30 @@
     "GL",
     "IS"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-06-24T12:04:45+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-06-25T11:55:05+00:00",
+  "sentiment_by_country": {
+    "BE": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "evidence": ""
+    },
+    "GB": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "As the UK marks the tenth anniversary of its fateful Brexit referendum"
+    },
+    "GL": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "After Trump’s interventions over Greenland"
+    },
+    "IS": {
+      "label": "neutral",
+      "confidence": 0.4,
+      "evidence": "Iceland gets ready for its own EU referendum"
+    }
+  },
+  "processed_at": "2026-06-25T11:55:05+00:00"
 }
