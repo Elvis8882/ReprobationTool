@@ -1,16 +1,27 @@
 {
   "country": "UA",
-  "score": 43,
+  "score": 45,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 2,
-  "sources": 640,
+  "sources": 641,
   "sentiment": {
-    "positive": 272,
-    "neutral": 154,
-    "negative": 215
+    "positive": 276,
+    "neutral": 152,
+    "negative": 214
   },
   "latest_articles": [
+    {
+      "id": "4007397c3d973327339a88db6ab4d661a4299902",
+      "title": "FIREPOWER: NATO: One alliance, two narratives?",
+      "summary": "In today's edition: Quantum defence, Ukraine loan, Lithuania",
+      "url": "https://www.euractiv.com/news/firepower-nato-one-alliance-two-narratives/",
+      "source": "Euractiv",
+      "published_at": "2026-06-25T07:08:27+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukraine loan"
+    },
     {
       "id": "94e32a1811e561b7e1141b8eedb7ba4a631cf1ff",
       "title": "HARVEST: The seal of excellence",
@@ -23,6 +34,17 @@
       "evidence": "livestock strategy, Ukraine, UPFs"
     },
     {
+      "id": "6608c5c67a7ef3fd8ee5dfe25693605006b35af6",
+      "title": "First EU Ukraine Loan payment drops drone financing",
+      "summary": "The Commission and EEAS previously said the first disbursement would cover drones",
+      "url": "https://www.euractiv.com/news/first-eu-ukraine-loan-payment-drops-drone-financing-focuses-on-e3-2bn-budget-aid/",
+      "source": "Euractiv",
+      "published_at": "2026-06-24T13:16:51+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "First EU Ukraine Loan payment drops drone financing"
+    },
+    {
       "id": "b241f32b9601d6710ba418acc8f01bcb466acac7",
       "title": "Joint call on current and prospective donors to contribute to the Ukraine Energy Support Fund - energy.ec.europa.eu",
       "summary": "Joint call on current and prospective donors to contribute to the Ukraine Energy Support Fund&nbsp;&nbsp;energy.ec.europa.euUkraine's energy system is not in survival mode — we are building Europe's energy future&nbsp;&n…",
@@ -32,6 +54,28 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Ukraine's energy system is not in survival mode — we are building Europe's energy future"
+    },
+    {
+      "id": "42c5da8ba56150cd5f4b104912b1e8442ffef77a",
+      "title": "‘Battle hardened’ Ukraine has role to play in defending Europe, says ex-Nato chief",
+      "summary": "Country is ‘militarily the strongest in Europe’, says Anders Fogh Rasmussen, who wants coalition ready in case US pulls troopsThe US’s attitude to the defence of Europe has changed permanently and a European coalition of…",
+      "url": "https://www.theguardian.com/world/2026/jun/24/battle-hardened-ukraine-role-defending-europe-ex-nato-chief-anders-fogh-rasmussen",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-24T10:58:19+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "‘Battle hardened’ Ukraine has role to play in defending Europe"
+    },
+    {
+      "id": "845d881b365cf6db2dda14274b03cc3ff86811ac",
+      "title": "The Ukraine War Amputees Embracing Wake Boarding and Jujitsu",
+      "summary": "As the number of amputees in Ukraine soars, many are bonding by learning new sports, challenging both their bodies and their ideas of what they can do.",
+      "url": "https://www.nytimes.com/2026/06/24/world/europe/ukraine-war-amputees-sports.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-24T10:25:30+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Ukraine War Amputees Embracing Wake Boarding and Jujitsu"
     },
     {
       "id": "c3308022689726d68fa9d4795b9a43b847a5e333",
@@ -186,52 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas"
-    },
-    {
-      "id": "32dc48ac60cb4c7b9e69a94155e4e211d8d6c0b3",
-      "title": "Bitter Historical Feud Threatens Ukraine-Poland Alliance",
-      "summary": "President Volodymyr Zelensky of Ukraine signed a decree honoring World War II partisan fighters that has inflamed tensions with Warsaw.",
-      "url": "https://www.nytimes.com/2026/06/21/world/europe/ukraine-poland-alliance-russia.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-21T18:07:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "President Volodymyr Zelensky of Ukraine signed a decree honoring World War II partisan fighters"
-    },
-    {
-      "id": "c527912c724b7b443d2d9fd51e777778e1790b03",
-      "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
-      "summary": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
-      "url": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-21T10:55:05+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukraine targets oil facilities; Kyiv's attacks against supply routes"
-    },
-    {
-      "id": "5df8f67a7c07fbab3fe5302583974c26d4459ca1",
-      "title": "Ukraine Strikes Key Oil Refinery 2,000 Kilometres Inside Russia Using Drones",
-      "summary": "Ukraine hit a Moscow refinery twice this week",
-      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-ukraine-strikes-key-oil-refinery-tyumen-2-000-kilometres-inside-russia-using-drones-zelensky-reacts-11666095#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-06-21T06:13:21+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine Strikes Key Oil Refinery 2,000 Kilometres Inside Russia Using Drones"
-    },
-    {
-      "id": "389eb3bdd2a30356624dbe915faeaf8e7e98f931",
-      "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-      "summary": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
-      "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-20T10:19:34+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Moscow oil refinery attack brings Russia's war with Ukraine closer to home"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-25T11:55:05Z"
+  "last_updated": "2026-06-26T12:04:14Z"
 }

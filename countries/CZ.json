@@ -3,11 +3,11 @@
   "score": 96,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 240,
+  "trend": 0,
+  "sources": 244,
   "sentiment": {
     "positive": 9,
-    "neutral": 220,
+    "neutral": 224,
     "negative": 11
   },
   "latest_articles": [
@@ -22,12 +22,54 @@
       "sentiment_fallback": true
     },
     {
+      "id": "b7a11f32091ecd8f5c9641cb9e89838c4a76c6ef",
+      "title": "Duck off: World Cup hero Merlín barred from Mexico game due to Fifa’s animal ban",
+      "summary": "World’s sixth-most famous duck falls short of dreamTwo-year-old must watch Czechia game from distanceMerlín the duck’s bid to see his beloved Mexico live has hit a snag after he was barred from El Tri’s match with Czechi…",
+      "url": "https://www.theguardian.com/football/2026/jun/24/merlin-duck-mexico-world-cup",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-25T01:08:05+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "watch Czechia game from distance"
+    },
+    {
+      "id": "4c90517dc0429484bd505625a931b2ce62637d7b",
+      "title": "‘The V4 is back’: Visegrád leaders relaunch regional alliance at Gödöllő summit",
+      "summary": "Hungarian Prime Minister Péter Magyar blamed recent tensions within the Budapest-Bratislava-Prague-Warsaw alliance on Viktor Orbán's government",
+      "url": "https://www.euractiv.com/news/the-v4-is-back-visegrad-leaders-relaunch-regional-alliance-at-godollo-summit/",
+      "source": "Euractiv",
+      "published_at": "2026-06-24T02:00:14+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Visegrád leaders relaunch regional alliance"
+    },
+    {
+      "id": "b263d5d5380c2b74886a844a97688bb869207145",
+      "title": "EU’s off-patent medicines industry calls for industrial strategy at Athens summit [Advocacy Lab]",
+      "summary": "Medicines for Europe conference highlights Greece’s growing role as a pharmaceutical manufacturing hub ahead of the country’s 2027 EU Council Presidency",
+      "url": "https://www.euractiv.com/news/eus-off-patent-medicines-industry-calls-for-industrial-strategy-at-athens-summit/",
+      "source": "Euractiv",
+      "published_at": "2026-06-23T12:41:12+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "9c4e8e122c2693747ce6e6299615ffc06ae18c37",
       "title": "‘A historic day’: European Parliament backs digital euro",
       "summary": "Supporters say scheme is crucial to reduce Europe's dependence on US payment providers",
       "url": "https://www.euractiv.com/news/a-historic-day-european-parliament-backs-digital-euro/",
       "source": "Euractiv",
       "published_at": "2026-06-23T12:21:40+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "a9f3d03a97873c90ac8d801fe28ba54824177b1e",
+      "title": "UK’s former Brexit negotiator says Burnham should ditch much of Starmer’s EU reset if made PM – Europe live",
+      "summary": "As UK marks 10 years since the EU referendum, David Frost says outgoing prime minister’s team ‘didn’t think hard enough about the choices and the processes’Whoever becomes the next UK prime minister will have plenty of p…",
+      "url": "https://www.theguardian.com/world/live/2026/jun/23/uk-eu-brexit-visegrad-four-czech-republic-hungary-poland-slovakia-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-23T11:53:02+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -173,49 +215,8 @@
       "published_at": "2026-06-17T09:11:56+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "e689ff8f5848ba7ec84a85b43c01923741b6cc5f",
-      "title": "EU youth deprivation unchanged at 5.8% in 2025 - European Commission",
-      "summary": "EU youth deprivation unchanged at 5.8% in 2025&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HWEw3TGVmeGZ1MlRMVlhEU3I2QXdacTZhMXlPZS1zekd5dzVmb2VUU3JtcUFIU25Wakt2NHN0U0NKa3ZmanhlMHZYT2NQcGZWeFRqZXEzeE4zcS1uZnZlR3ExaWpVSlpoNEh3eF8xejRfNTBYcnZ2ZmxZNlZjQQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-17T09:11:55+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "fa233d9a8359ef892bbb708812a29709bdddd6ec",
-      "title": "EMA oversight sparks friction in medical devices overhaul",
-      "summary": "Italy and Czechia oppose a greater decision-making role for the European Medicines Agency",
-      "url": "https://www.euractiv.com/news/ema-oversight-sparks-friction-in-medical-devices-overhaul/",
-      "source": "Euractiv",
-      "published_at": "2026-06-16T14:18:30+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Czechia oppose a greater decision-making role for the European Medicines Agency"
-    },
-    {
-      "id": "c48810bfba4afb1226a99fb54e06716bda936346",
-      "title": "Europe Union Lawmakers Approve Much-Delayed Trade Deal With U.S.",
-      "summary": "After nearly a year of wrangling, the deal the European Union struck with President Trump in Turnberry, Scotland, is headed for final approval.",
-      "url": "https://www.nytimes.com/2026/06/16/world/europe/eu-us-trade-trump.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-16T13:20:07+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "0d33ab9f23e58f1df021401727d688e59ef90b99",
-      "title": "European Parliament plans to build ‘food court’",
-      "summary": "There are hygiene risks with the current canteen, fears the EU assembly's administration",
-      "url": "https://www.euractiv.com/news/european-parliament-plans-to-build-food-court/",
-      "source": "Euractiv",
-      "published_at": "2026-06-16T11:40:54+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-25T11:55:05Z"
+  "last_updated": "2026-06-26T12:04:14Z"
 }

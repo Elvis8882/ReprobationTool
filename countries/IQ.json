@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 87,
-  "score_label": "Negative",
-  "assessment": "High negative coverage",
-  "trend": 0,
+  "score": 88,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": 1,
   "sources": 38,
   "sentiment": {
     "positive": 2,
-    "neutral": 17,
-    "negative": 19
+    "neutral": 18,
+    "negative": 18
   },
   "latest_articles": [
+    {
+      "id": "be3ed10919a145f2b9688b927a0ab33df08f1419",
+      "title": "Kylian Mbappé’s France vs Iraq World Cup highlight gets xQc suspended as FIFA issues copyright strike",
+      "summary": "xQc received a temporary Twitch suspension after showing a five-second Kylian Mbappé highlight from France’s World Cup match against Iraq. He said FIFA filed the DMCA claim, leading to a 24-48 hour ban. His explanation w…",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/kylian-mbapps-france-vs-iraq-world-cup-highlight-gets-xqc-suspended-as-fifa-issues-copyright-strike/articleshow/131949495.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-06-23T19:34:39+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Iraq World Cup highlight"
+    },
     {
       "id": "3605721c580253b1f2f21eb29151c0eda1aaca22",
       "title": "'Stop shooting': Trump demands as Iran, Israel resume strikes 1st time post ceasefire",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "halts shipments of U.S. cash to Iraq"
-    },
-    {
-      "id": "c817c94e2578d491aab1559dff127015f809a1c1",
-      "title": "U.S. Turns Up Pressure on Iraq to Distance Itself From Iran",
-      "summary": "Washington is demanding that the Baghdad government dismantle Iran-backed Iraqi militias that have been attacking Americans and U.S. sites there recently.",
-      "url": "https://www.nytimes.com/2026/04/21/world/middleeast/us-iraq-security-cooperation.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-21T20:06:47+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "U.S. Turns Up Pressure on Iraq to Distance Itself From Iran"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-25T11:55:05Z"
+  "last_updated": "2026-06-26T12:04:14Z"
 }

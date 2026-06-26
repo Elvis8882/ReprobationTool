@@ -1,16 +1,27 @@
 {
   "country": "IT",
-  "score": 84,
+  "score": 83,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": -1,
-  "sources": 425,
+  "sources": 426,
   "sentiment": {
     "positive": 33,
     "neutral": 352,
-    "negative": 40
+    "negative": 41
   },
   "latest_articles": [
+    {
+      "id": "1f5d25ffa6d6cd45c8443448c943e9451cc67599",
+      "title": "Italy’s electoral rules may change before polls: Why Meloni’s proposal has triggered row",
+      "summary": "Italian Prime Minister Giorgia Meloni is pushing a controversial electoral reform, introducing a \"majority prize\" for winning coalitions. Opposition parties decry it as an \"authoritarian\" power grab, designed to secure h…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/ahead-of-italys-2026-election-giorgia-meloni-pushes-election-law-overhaul-opposition-calls-it-authoritarian/articleshow/132010207.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-06-26T08:02:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "accusations of undermining democratic principles"
+    },
     {
       "id": "608837ad6bf4ef344e468d3c112e35599f7c9e1c",
       "title": "Rome airports threaten to suspend new EU passport system to avoid summer ‘disaster’",
@@ -44,6 +55,17 @@
       "evidence": "Italy reignites Franco-German feud over multi-billion switchgear market"
     },
     {
+      "id": "a3fe9111c2cfad64bbfc32c7a9cdc6d86f9d4798",
+      "title": "Temperatures hit record levels in western Europe",
+      "summary": "France, Spain and Italy, have been hardest hit by the heatwave so far.",
+      "url": "https://www.bbc.co.uk/news/videos/c30y6qe2qqno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-23T21:46:34+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Italy, have been hardest hit by the heatwave"
+    },
+    {
       "id": "428357003ade48b31725ad20a8f75281f88f267c",
       "title": "Franco-Italian summit signals consolidation rather than new defence initiatives",
       "summary": "Defence ministers expected to sign 2026–2031 roadmap and new vision for security in the Mediterranean",
@@ -53,6 +75,16 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "Franco-Italian summit signals consolidation"
+    },
+    {
+      "id": "b263d5d5380c2b74886a844a97688bb869207145",
+      "title": "EU’s off-patent medicines industry calls for industrial strategy at Athens summit [Advocacy Lab]",
+      "summary": "Medicines for Europe conference highlights Greece’s growing role as a pharmaceutical manufacturing hub ahead of the country’s 2027 EU Council Presidency",
+      "url": "https://www.euractiv.com/news/eus-off-patent-medicines-industry-calls-for-industrial-strategy-at-athens-summit/",
+      "source": "Euractiv",
+      "published_at": "2026-06-23T12:41:12+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "9c4e8e122c2693747ce6e6299615ffc06ae18c37",
@@ -74,6 +106,16 @@
       "sentiment": "neutral",
       "confidence": 0.5,
       "evidence": "Italy’s health ministry has declared a red heatwave alert"
+    },
+    {
+      "id": "a9f3d03a97873c90ac8d801fe28ba54824177b1e",
+      "title": "UK’s former Brexit negotiator says Burnham should ditch much of Starmer’s EU reset if made PM – Europe live",
+      "summary": "As UK marks 10 years since the EU referendum, David Frost says outgoing prime minister’s team ‘didn’t think hard enough about the choices and the processes’Whoever becomes the next UK prime minister will have plenty of p…",
+      "url": "https://www.theguardian.com/world/live/2026/jun/23/uk-eu-brexit-visegrad-four-czech-republic-hungary-poland-slovakia-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-23T11:53:02+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "69a8ab501c3c0a072aafbff238ae75f881f3b555",
@@ -183,50 +225,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "MXGP and MX2 Time Practice Results from Italy!"
-    },
-    {
-      "id": "97dbd42f869bce7f5b09d1372dd3be31a6bd55ff",
-      "title": "‘It’s Russian roulette’: alarm as Europe backs critical minerals mines in water-stressed regions",
-      "summary": "Exclusive: European Commission planning to rewrite key law to allow water-intensive mines in regions suffering from droughtThe European Commission plans to rewrite the EU’s flagship water protection law to speed up the d…",
-      "url": "https://www.theguardian.com/environment/2026/jun/20/europe-backs-critical-minerals-mines-water-stressed-regions",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-20T06:00:03+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "08d51f5480c6fb684af4984822651fe082cc9171",
-      "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
-      "summary": "The highly public exchange is an indication that their earlier close ties have frayed  since Trump's decision to go to war with Iran.",
-      "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-19T19:36:10+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Italy's Meloni says Trump 'made up' story"
-    },
-    {
-      "id": "e8d0c9766ccaaa32da6ffeca8b82e084b2e698a5",
-      "title": "Italy Doesn’t ‘Beg,’ Giorgia Meloni Tells Trump",
-      "summary": "President Trump said the Italian leader had “begged” him to take a photo together at the Group of 7 summit in France. The remarks come as their once-friendly relationship has frayed.",
-      "url": "https://www.nytimes.com/2026/06/19/world/europe/meloni-trump-italy.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-19T16:44:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Italy Doesn’t ‘Beg,’ Giorgia Meloni"
-    },
-    {
-      "id": "d4f914688c2f555b1e7cd876400b0eebd07483e9",
-      "title": "The politics behind the European Parliament’s flame out on tobacco tax",
-      "summary": "The vote essentially means that Parliament is asking the Commission to withdraw its proposal",
-      "url": "https://www.euractiv.com/news/the-politics-behind-the-european-parliaments-flame-out-on-tobacco-tax/",
-      "source": "Euractiv",
-      "published_at": "2026-06-19T14:00:44+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-25T11:55:05Z"
+  "last_updated": "2026-06-26T12:04:14Z"
 }

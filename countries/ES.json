@@ -1,16 +1,38 @@
 {
   "country": "ES",
-  "score": 81,
+  "score": 80,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 397,
+  "trend": -1,
+  "sources": 400,
   "sentiment": {
-    "positive": 31,
-    "neutral": 323,
+    "positive": 30,
+    "neutral": 327,
     "negative": 43
   },
   "latest_articles": [
+    {
+      "id": "cedfda61f119c0f8988444b1b7b692e9bbb251d4",
+      "title": "Venezuela earthquakes: international rescue teams arrive, as 235 confirmed dead so far – latest updates",
+      "summary": "‘We hope to rescue as many living people as possible’, says the acting president, Delcy Rodríguez, but authorities fear the death toll will be in the thousandsThe Spanish foreign minister, José Manuel Albares, has raised…",
+      "url": "https://www.theguardian.com/world/live/2026/jun/26/venezuela-earthquakes-search-survivors-death-toll-rodriguez-rubio-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-26T11:23:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "The Spanish foreign minister, José Manuel Albares, has raised the death toll"
+    },
+    {
+      "id": "b2aad66763b11303de22bf595ff328cd3f99c748",
+      "title": "Deadly Heat Wave in Europe Continues to Smash Temperature Records",
+      "summary": "The continent’s second heat wave since May continued to disrupt daily life for millions. Officials in Spain said it might have contributed to a spike in deaths.",
+      "url": "https://www.nytimes.com/2026/06/25/world/europe/heat-wave.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-25T16:33:54+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Officials in Spain said it might have contributed to a spike in deaths."
+    },
     {
       "id": "0775be70a2a2f50f8904d7d32782aac9f040ff74",
       "title": "MEPs back new EU defence innovation programme | Atualidade | Parlamento Europeu - European Parliament",
@@ -33,6 +55,38 @@
       "evidence": "Sánchez hits back"
     },
     {
+      "id": "a3fe9111c2cfad64bbfc32c7a9cdc6d86f9d4798",
+      "title": "Temperatures hit record levels in western Europe",
+      "summary": "France, Spain and Italy, have been hardest hit by the heatwave so far.",
+      "url": "https://www.bbc.co.uk/news/videos/c30y6qe2qqno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-23T21:46:34+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Spain...have been hardest hit by the heatwave"
+    },
+    {
+      "id": "9d8c1e47a2c339dbdf52b28ae27218a56ec5b675",
+      "title": "Spanish proverb of the day on ingratitude, betrayal and expectation: 'Raise crows and they will pluck out your eyes'",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/europe/spanish-proverb-of-the-day-on-ingratitude-betrayal-and-expectation-raise-crows-and-they-will-pluck-out-your-eyes/articleshow/131949508.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-06-23T19:41:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Spanish proverb"
+    },
+    {
+      "id": "b263d5d5380c2b74886a844a97688bb869207145",
+      "title": "EU’s off-patent medicines industry calls for industrial strategy at Athens summit [Advocacy Lab]",
+      "summary": "Medicines for Europe conference highlights Greece’s growing role as a pharmaceutical manufacturing hub ahead of the country’s 2027 EU Council Presidency",
+      "url": "https://www.euractiv.com/news/eus-off-patent-medicines-industry-calls-for-industrial-strategy-at-athens-summit/",
+      "source": "Euractiv",
+      "published_at": "2026-06-23T12:41:12+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "9c4e8e122c2693747ce6e6299615ffc06ae18c37",
       "title": "‘A historic day’: European Parliament backs digital euro",
       "summary": "Supporters say scheme is crucial to reduce Europe's dependence on US payment providers",
@@ -41,6 +95,27 @@
       "published_at": "2026-06-23T12:21:40+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "a9f3d03a97873c90ac8d801fe28ba54824177b1e",
+      "title": "UK’s former Brexit negotiator says Burnham should ditch much of Starmer’s EU reset if made PM – Europe live",
+      "summary": "As UK marks 10 years since the EU referendum, David Frost says outgoing prime minister’s team ‘didn’t think hard enough about the choices and the processes’Whoever becomes the next UK prime minister will have plenty of p…",
+      "url": "https://www.theguardian.com/world/live/2026/jun/23/uk-eu-brexit-visegrad-four-czech-republic-hungary-poland-slovakia-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-23T11:53:02+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "674de93471ed07a59ba48c9599b952a636047292",
+      "title": "What Is the ‘Heat Dome’ Causing Europe’s Record Temperatures?",
+      "summary": "Heat domes happen all over the world, and the one over Europe this week is locking in days of near-record highs across Britain, Spain and France.",
+      "url": "https://www.nytimes.com/2026/06/22/weather/europe-heat-dome.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-22T17:16:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "near-record highs across Britain, Spain and France."
     },
     {
       "id": "69a8ab501c3c0a072aafbff238ae75f881f3b555",
@@ -150,81 +225,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Spain pushes offbeat regions as tourist numbers nudge 100m"
-    },
-    {
-      "id": "97dbd42f869bce7f5b09d1372dd3be31a6bd55ff",
-      "title": "‘It’s Russian roulette’: alarm as Europe backs critical minerals mines in water-stressed regions",
-      "summary": "Exclusive: European Commission planning to rewrite key law to allow water-intensive mines in regions suffering from droughtThe European Commission plans to rewrite the EU’s flagship water protection law to speed up the d…",
-      "url": "https://www.theguardian.com/environment/2026/jun/20/europe-backs-critical-minerals-mines-water-stressed-regions",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-20T06:00:03+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "d7227e660965a91641fd8240caf6ccdec1073952",
-      "title": "Watch: Spanish MEP mimics Marilyn Monroe to sing 'Happy Birthday, Mr Genocide' to Trump in Parliament",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/europe/watch-spanish-mep-mimics-marilyn-monroe-to-sing-happy-birthday-mr-genocide-to-trump-in-parliament/articleshow/131870098.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-06-20T04:25:45+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Spanish MEP mimics Marilyn Monroe"
-    },
-    {
-      "id": "d4f914688c2f555b1e7cd876400b0eebd07483e9",
-      "title": "The politics behind the European Parliament’s flame out on tobacco tax",
-      "summary": "The vote essentially means that Parliament is asking the Commission to withdraw its proposal",
-      "url": "https://www.euractiv.com/news/the-politics-behind-the-european-parliaments-flame-out-on-tobacco-tax/",
-      "source": "Euractiv",
-      "published_at": "2026-06-19T14:00:44+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "1671ec1d664c45195dfe0191a6d84d2e5c4b176e",
-      "title": "New blow to Sánchez as corruption cases mount",
-      "summary": "While he attends a summit of EU leaders in Brussels, a Madrid court decided to open a new investigation into Begoña Gómez, his wife",
-      "url": "https://www.euractiv.com/news/new-blow-to-sanchez-as-corruption-cases-mount/",
-      "source": "Euractiv",
-      "published_at": "2026-06-19T10:41:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "corruption cases mount"
-    },
-    {
-      "id": "920e57f4337701c8b3c9c7146e2468592e52224e",
-      "title": "Meloni clashes with Sanchez over migrant amnesty",
-      "summary": "Italian and Spanish prime ministers cross swords over migration",
-      "url": "https://www.euractiv.com/news/meloni-clashes-with-sanchez-over-migrant-amnesty/",
-      "source": "Euractiv",
-      "published_at": "2026-06-18T23:55:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Sanchez over migrant amnesty"
-    },
-    {
-      "id": "c8c33d633ae80ed070a5db28987edffce9dcecf5",
-      "title": "Brussels urges EU banking sector to ‘avoid zero-risk tolerance’",
-      "summary": "European Commission's draft report calls for 'cultural shift' by the EU's banks, regulators, and auditors",
-      "url": "https://www.euractiv.com/news/brussels-urges-eu-banks-sector-to-avoid-zero-risk-tolerance/",
-      "source": "Euractiv",
-      "published_at": "2026-06-18T16:53:35+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "476e0e809a41c59fb489d4ef69e9bbc7c78213bc",
-      "title": "EU Parliament’s internal market committee requests to co-lead cloud sovereignty law",
-      "summary": "A political clash between the centre-right EPP and the Greens is also brewing",
-      "url": "https://www.euractiv.com/news/eu-parliaments-internal-market-committee-requests-to-co-lead-cloud-sovereignty-law/",
-      "source": "Euractiv",
-      "published_at": "2026-06-18T13:15:52+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-25T11:55:05Z"
+  "last_updated": "2026-06-26T12:04:14Z"
 }
