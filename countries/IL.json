@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 868,
+  "sources": 852,
   "sentiment": {
-    "positive": 36,
-    "neutral": 292,
-    "negative": 542
+    "positive": 37,
+    "neutral": 291,
+    "negative": 525
   },
   "latest_articles": [
+    {
+      "id": "4f2bcb7b33bbfab5deb46e49ab75411e0cc655d6",
+      "title": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
+      "summary": "Criticism of Israel’s war in Gaza, anger over the Iran war and election results in New York all suggest Israel’s solid support from Washington may be on borrowed time.",
+      "url": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-27T09:02:30+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Criticism of Israel’s war in Gaza"
+    },
     {
       "id": "8dd078129101a461ebc08d54cc92cd68e9c279e8",
       "title": "Israeli forces arrest Palestinian ‘doctor of the poor’",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Killed in an Israeli Strike in Lebanon"
-    },
-    {
-      "id": "a495715f1e14978e89c72756b9ca20cddb7487e7",
-      "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-      "summary": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
-      "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-20T21:57:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Israeli strikes kill six people in Gaza"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-26T12:04:14Z"
+  "last_updated": "2026-06-27T11:16:23Z"
 }
