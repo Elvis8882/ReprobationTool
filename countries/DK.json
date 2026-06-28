@@ -1,16 +1,27 @@
 {
   "country": "DK",
-  "score": 79,
+  "score": 81,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": 2,
   "sources": 259,
   "sentiment": {
     "positive": 10,
-    "neutral": 244,
-    "negative": 5
+    "neutral": 245,
+    "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "24b5c68634350423d65cea4377b9370a4fc7c60e",
+      "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
+      "summary": "An estimated 150 million people have been experiencing temperatures of over 35C across Europe.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-27T20:48:16+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Heatwave breaks records in Germany, Denmark and Czech Republic"
+    },
     {
       "id": "2a95967a8bb256807c2ffa7c749f49600db7432e",
       "title": "Use of mineral fertilisers up 6% in 2024 - European Commission",
@@ -58,6 +69,16 @@
       "url": "https://www.theguardian.com/world/live/2026/jun/23/uk-eu-brexit-visegrad-four-czech-republic-hungary-poland-slovakia-latest-news-updates",
       "source": "World news - The Guardian",
       "published_at": "2026-06-23T11:53:02+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "981c82b181175b629cf887580c7c1e474bd670ea",
+      "title": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels",
+      "summary": "The delegation received visas from Belgium to attend talks with the European Union about the deportation of Afghans. Officials in Afghanistan said the meeting would take place on Tuesday.",
+      "url": "https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-22T19:00:15+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -190,28 +211,8 @@
       "published_at": "2026-06-17T09:11:55+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "c48810bfba4afb1226a99fb54e06716bda936346",
-      "title": "Europe Union Lawmakers Approve Much-Delayed Trade Deal With U.S.",
-      "summary": "After nearly a year of wrangling, the deal the European Union struck with President Trump in Turnberry, Scotland, is headed for final approval.",
-      "url": "https://www.nytimes.com/2026/06/16/world/europe/eu-us-trade-trump.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-16T13:20:07+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "0d33ab9f23e58f1df021401727d688e59ef90b99",
-      "title": "European Parliament plans to build ‘food court’",
-      "summary": "There are hygiene risks with the current canteen, fears the EU assembly's administration",
-      "url": "https://www.euractiv.com/news/european-parliament-plans-to-build-food-court/",
-      "source": "Euractiv",
-      "published_at": "2026-06-16T11:40:54+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-27T11:16:23Z"
+  "last_updated": "2026-06-28T11:25:18Z"
 }

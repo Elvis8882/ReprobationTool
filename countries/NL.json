@@ -1,16 +1,27 @@
 {
   "country": "NL",
-  "score": 98,
+  "score": 97,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 297,
   "sentiment": {
-    "positive": 17,
-    "neutral": 268,
+    "positive": 16,
+    "neutral": 269,
     "negative": 12
   },
   "latest_articles": [
+    {
+      "id": "ac0cb6ffe44c5cc511d9980d86b0856a86622846",
+      "title": "The Netherlands Records Its First Assisted Death of a Child Between 1 and 12",
+      "summary": "Physician-assisted death for terminally ill children in that age group has been allowed in the country since 2024.",
+      "url": "https://www.nytimes.com/2026/06/26/world/europe/assisted-death-child-netherlands.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-26T16:44:34+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "The Netherlands Records Its First Assisted Death of a Child"
+    },
     {
       "id": "2a95967a8bb256807c2ffa7c749f49600db7432e",
       "title": "Use of mineral fertilisers up 6% in 2024 - European Commission",
@@ -20,6 +31,17 @@
       "published_at": "2026-06-26T14:52:09+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "0876cbd33e8940a2ad68e091b90e6b7ea6967919",
+      "title": "Mpox smuggling case prompts congressional scrutiny of National Institutes of Health",
+      "summary": "House committee seeks records after two agency scientists were charged over undeclared samplesThe US House committee on energy and commerce is “examining concerns” about the National Institutes of Health after two NIH sc…",
+      "url": "https://www.theguardian.com/us-news/2026/jun/26/mpox-congress-scrutiny-nih",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-26T11:00:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Dr Vincent Munster, 53, a Dutch national and chief of the virus ecology section at the NIH’s Rocky Mountain Laboratories"
     },
     {
       "id": "0775be70a2a2f50f8904d7d32782aac9f040ff74",
@@ -71,6 +93,16 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Dutch Prime Minister Apologizes for Mistreatment of Moluccan Soldiers"
+    },
+    {
+      "id": "981c82b181175b629cf887580c7c1e474bd670ea",
+      "title": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels",
+      "summary": "The delegation received visas from Belgium to attend talks with the European Union about the deportation of Afghans. Officials in Afghanistan said the meeting would take place on Tuesday.",
+      "url": "https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-22T19:00:15+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "1a71b9bc78c333c6f18590acc7555a649265cc48",
@@ -185,38 +217,8 @@
       "published_at": "2026-06-18T10:38:19+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "415667e53c985a0a435f60ba30ac4115f97fa999",
-      "title": "Household consumption price levels across the EU in 2025 - European Commission",
-      "summary": "Household consumption price levels across the EU in 2025&nbsp;&nbsp;European CommissionWorrisome: Hungary was the poorest EU country in 2025&nbsp;&nbsp;Daily News HungaryWealth gaps persist as EU household consumption ra…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsXzc5VzVhYnZtdXhmaHpBOWZHQTJHNTJ5anZEMjc2TEdqQ280Z2xXc0FlekpRSnhmUnVMbVZfR1VEUlVyelkxUTc0dFN4NFhNSkUwSzhIcDZqeG1Ua2R0LThhaFIzOFRsWjF3UzV3b21UeGRJRG5CS1BEbld5dw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-18T09:04:03+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "09e3e6dd1b3784880dca05c40c18326930d97ed2",
-      "title": "Ukraine’s EU dreams set for rude awakening",
-      "summary": "European Commission is exploring a 'membership-lite' model that Kyiv rejects",
-      "url": "https://www.euractiv.com/news/ukraines-eu-dreams-set-for-rude-awakening/",
-      "source": "Euractiv",
-      "published_at": "2026-06-18T02:00:04+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "73834509db4c71a56fc222ad993067bb2b16a5fb",
-      "title": "National capitals rally to back Kallas on illegal Israeli settlements",
-      "summary": "'No backtracking' on proposals, governments warn the European Commission",
-      "url": "https://www.euractiv.com/news/national-capitals-rally-to-back-kallas-on-illegal-israeli-settlements/",
-      "source": "Euractiv",
-      "published_at": "2026-06-17T15:50:48+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-27T11:16:23Z"
+  "last_updated": "2026-06-28T11:25:18Z"
 }

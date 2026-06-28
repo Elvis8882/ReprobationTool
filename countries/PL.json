@@ -4,10 +4,10 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 299,
+  "sources": 300,
   "sentiment": {
     "positive": 32,
-    "neutral": 241,
+    "neutral": 242,
     "negative": 27
   },
   "latest_articles": [
@@ -52,6 +52,17 @@
       "published_at": "2026-06-25T10:02:21+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "0951f1fbcbadf205894015762e622e96926eca6a",
+      "title": "EU’s €8bn for Kyiv overshadowed by diplomatic rifts",
+      "summary": "EU to announce first tranche of Ukraine loan in Poland",
+      "url": "https://www.euractiv.com/news/eus-e8bn-for-kyiv-overshadowed-by-diplomatic-rifts/",
+      "source": "Euractiv",
+      "published_at": "2026-06-25T02:00:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "EU to announce first tranche of Ukraine loan in Poland"
     },
     {
       "id": "ba72655c7b5f805c22222f494d0622d654aa3d05",
@@ -128,6 +139,16 @@
       "evidence": "Polish politicians are playing 'the anti-Ukrainian card,'"
     },
     {
+      "id": "981c82b181175b629cf887580c7c1e474bd670ea",
+      "title": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels",
+      "summary": "The delegation received visas from Belgium to attend talks with the European Union about the deportation of Afghans. Officials in Afghanistan said the meeting would take place on Tuesday.",
+      "url": "https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-22T19:00:15+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "c8a8db15559957be083e0fa2322d40b75172f422",
       "title": "Weather tracker: Extreme heat in Europe as typhoon strengthens off Philippines",
       "summary": "Eastern Europe to see temperatures above early July average into next weekThe extreme heat experienced across central and western Europe, including the UK, will continue to shift eastwards. As slightly cooler weather inf…",
@@ -202,29 +223,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Poland strips Zelenskyy of highest honour over army unit naming"
-    },
-    {
-      "id": "97dbd42f869bce7f5b09d1372dd3be31a6bd55ff",
-      "title": "‘It’s Russian roulette’: alarm as Europe backs critical minerals mines in water-stressed regions",
-      "summary": "Exclusive: European Commission planning to rewrite key law to allow water-intensive mines in regions suffering from droughtThe European Commission plans to rewrite the EU’s flagship water protection law to speed up the d…",
-      "url": "https://www.theguardian.com/environment/2026/jun/20/europe-backs-critical-minerals-mines-water-stressed-regions",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-20T06:00:03+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "4371eb6b736444ba8d2648e0191e01789d731cdc",
-      "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
-      "summary": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\".",
-      "url": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-19T21:46:07+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Zelensky stripped of highest Polish honour over WW2 name of army unit"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-27T11:16:23Z"
+  "last_updated": "2026-06-28T11:25:18Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "ES",
-  "score": 80,
+  "score": 79,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 401,
+  "trend": -1,
+  "sources": 403,
   "sentiment": {
     "positive": 29,
-    "neutral": 329,
-    "negative": 43
+    "neutral": 330,
+    "negative": 44
   },
   "latest_articles": [
+    {
+      "id": "0e7759d60c245a919da20663a972368697668a05",
+      "title": "England through to last 32 of the World Cup after Uruguay exit against Spain - The Guardian",
+      "summary": "England through to last 32 of the World Cup after Uruguay exit against Spain&nbsp;&nbsp;The GuardianWorld Cup 2026: England through to last 32&nbsp;&nbsp;BBCEngland clinch World Cup knockout spot before Panama game&nbsp;…",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT1F3cXktRVBCa3E3U01VZXNzdW5rSThnb0VycE8tbVF5MDdFSEctbmdsQW5sOThnY25KUGJLX0xhYjNvRjdQSlgwN3kyQ2xJTjdtNGE1UjhTOGZ4Nk1JUzl5cWZGNG5mSUVaVHJZdUpyOVZPTjBheU9YRlNGc0hqbHRLZkdxQnF1MTllMFRmcVpwa1ZvdzdicGRwUEtGQTc2RUZpVjgxdzdzMDRqUURBdmthc1V3eF90Qi1hdE1qdnVCeEU?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-27T08:26:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Uruguay exit against Spain"
+    },
     {
       "id": "2a95967a8bb256807c2ffa7c749f49600db7432e",
       "title": "Use of mineral fertilisers up 6% in 2024 - European Commission",
@@ -52,6 +63,17 @@
       "published_at": "2026-06-25T10:02:21+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "7035eed2e72191baaffeefe71bbf280a59cc7d65",
+      "title": "EXCLUSIVE: Spain sues EU over push to broaden Eurocrat nationality mix",
+      "summary": "Spain is among 13 countries enjoying an over-representation of EU civil servants in Brussels",
+      "url": "https://www.euractiv.com/news/spain-sues-eu-over-push-to-broaden-eurocrat-nationality-mix/",
+      "source": "Euractiv",
+      "published_at": "2026-06-25T02:00:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.4,
+      "evidence": "Spain sues EU over push to broaden Eurocrat nationality mix"
     },
     {
       "id": "cc044d449b71da5528520d74f9388c7e6e36d53d",
@@ -128,6 +150,16 @@
       "sentiment_fallback": true
     },
     {
+      "id": "981c82b181175b629cf887580c7c1e474bd670ea",
+      "title": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels",
+      "summary": "The delegation received visas from Belgium to attend talks with the European Union about the deportation of Afghans. Officials in Afghanistan said the meeting would take place on Tuesday.",
+      "url": "https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-22T19:00:15+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "674de93471ed07a59ba48c9599b952a636047292",
       "title": "What Is the ‘Heat Dome’ Causing Europe’s Record Temperatures?",
       "summary": "Heat domes happen all over the world, and the one over Europe this week is locking in days of near-record highs across Britain, Spain and France.",
@@ -192,40 +224,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Spain PM's Wife To Face Corruption Trial"
-    },
-    {
-      "id": "bf8c8d719dc94ea106f5d6ff7889ac6e3bedf966",
-      "title": "Two-thirds of EU citizens back UK rejoining bloc, survey finds",
-      "summary": "Poll also finds three quarters of people in Britain want closer ties, with majority accepting free movementTwo-thirds of EU citizens would back Britain rejoining the bloc, while most UK voters say Brexit has been bad for…",
-      "url": "https://www.theguardian.com/politics/2026/jun/21/two-thirds-eu-citizens-back-uk-rejoining-bloc-brexit-survey",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-21T05:00:21+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "5be3048a9810d98b61db6a8f0a343bc2cc279798",
-      "title": "Wife of Spanish Prime Minister to Stand Trial for Corruption",
-      "summary": "Begoña Gómez faces charges of embezzlement, corruption, misappropriation of funds and influence peddling for helping favored companies win public contracts.",
-      "url": "https://www.nytimes.com/2026/06/20/world/europe/gomez-spain-trial-corruption.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-20T19:11:10+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Wife of Spanish Prime Minister to Stand Trial for Corruption"
-    },
-    {
-      "id": "f0d4c8720220dcdc2a843d1abb3e1ca4b3538bb6",
-      "title": "Court bans Spanish PM’s wife from leaving country",
-      "summary": "The case is one of several corruption affairs to embroil the Socialist leader’s family and former allies",
-      "url": "https://www.euractiv.com/news/court-bans-spanish-pms-wife-from-leaving-country/",
-      "source": "Euractiv",
-      "published_at": "2026-06-20T12:39:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Court bans Spanish PM’s wife from leaving country"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-27T11:16:23Z"
+  "last_updated": "2026-06-28T11:25:18Z"
 }

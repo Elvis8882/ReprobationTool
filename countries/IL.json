@@ -4,13 +4,35 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 852,
+  "sources": 839,
   "sentiment": {
     "positive": 37,
-    "neutral": 291,
-    "negative": 525
+    "neutral": 288,
+    "negative": 515
   },
   "latest_articles": [
+    {
+      "id": "fe28cbd6cb0df55025f34256fbd3fa1811b98b69",
+      "title": "What Life Is Like in Dahiya Amid a Hezbollah-Israel Truce in Lebanon",
+      "summary": "Dahiya, a sprawling area and Hezbollah stronghold, is stirring back to life amid a tense truce with Israel. “This war has brought so much loss,” one resident said.",
+      "url": "https://www.nytimes.com/2026/06/28/world/middleeast/beirut-dahiya-israel-lebanon-cease-fire.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-28T09:00:47+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "tense truce with Israel"
+    },
+    {
+      "id": "63af20bc73a81916067f6df7dcd6ddd0d2de7570",
+      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+      "summary": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-27T21:35:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Israel strikes southern Lebanon"
+    },
     {
       "id": "4f2bcb7b33bbfab5deb46e49ab75411e0cc655d6",
       "title": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
@@ -34,6 +56,17 @@
       "evidence": "Israeli forces arrest Palestinian ‘doctor of the poor’"
     },
     {
+      "id": "a37246b1ac874b7056d4659a323639f439533253",
+      "title": "Archbishop of Canterbury calls for end to Israeli occupation of Palestine",
+      "summary": "Sarah Mullally ends visit to region with call for two-state solution that allows Israelis and Palestinians to live in peaceThe archbishop of Canterbury has called for an end to the Israeli occupation of Palestine after a…",
+      "url": "https://www.theguardian.com/world/2026/jun/25/archbishop-of-canterbury-calls-for-end-to-israeli-occupation-of-palestine",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-25T14:55:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli occupation of Palestine after a pilgrimage"
+    },
+    {
       "id": "ddeca69d5b1d014dffc5e24d86347eebfefe80a6",
       "title": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz",
       "summary": "Fears of long-lasting energy crunch ‘slinking away’ as vessel traffic doubled in 24 hours to highest level since late FebruaryBusiness live – latest updatesOil prices have fallen below levels last seen before the Iran wa…",
@@ -43,6 +76,28 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Israel launched missile attacks on Tehran"
+    },
+    {
+      "id": "194f24f6b26701324ef0c766ce23f87c7dd5d1fd",
+      "title": "Israel says IDF is staying in southern Lebanon, undermining Iran peace talks",
+      "summary": "Defence minister says troops not withdrawing though Tehran sees end to war in Lebanon as part of deal with USThe Israeli defence minister, Israel Katz, has said that Israeli troops would not withdraw from southern Lebano…",
+      "url": "https://www.theguardian.com/world/2026/jun/24/israel-defence-minister-israel-katzrefuses-to-pull-out-of-southern-lebanon-undermining-iran-peace-talks",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-24T21:49:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel says IDF is staying in southern Lebanon, undermining Iran peace talks"
+    },
+    {
+      "id": "a9d0dc0e192056cd76ab90778665c1ba83fa6996",
+      "title": "Israel deliberately targeted Palestinian children in Gaza, U.N. commission says",
+      "summary": "The Israeli Foreign Ministry called the findings a “libelous sham.”",
+      "url": "https://www.washingtonpost.com/world/2026/06/24/israel-deliberately-targeted-palestinian-children-gaza-un-commission-says/",
+      "source": "World (Washington post)",
+      "published_at": "2026-06-24T18:25:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel deliberately targeted Palestinian children in Gaza, U.N. commission says"
     },
     {
       "id": "4bef2ff2f9db6b1ed4e28692463fb201e4e6ffb3",
@@ -175,63 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Israel directs its military to limit its actions in Lebanon"
-    },
-    {
-      "id": "5089572b4575222ab8e3cfa7cd3de7b504b3d05f",
-      "title": "Iran says it is closing strait of Hormuz over Israeli strikes in Lebanon",
-      "summary": "Unclear if threat has been carried out or if move will jeopardise talks with US scheduled for SundayMiddle East latest updatesIran has said it is closing the strait of Hormuz after waves of Israeli strikes in Lebanon in…",
-      "url": "https://www.theguardian.com/world/2026/jun/20/israeli-strikes-southern-lebanon-reports-renewed-ceasefire",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-21T04:44:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "closing the strait of Hormuz after waves of Israeli strikes in Lebanon"
-    },
-    {
-      "id": "76a2fd91a26a0fd4584a7803f7919670b7d235df",
-      "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
-      "summary": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
-      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-21T04:34:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "response to Israeli attacks in Lebanon"
-    },
-    {
-      "id": "b573b3d2faac1574249413b355764ce841122d4d",
-      "title": "Iran Closes Strait Of Hormuz Again Over Israel's Attacks On Lebanon",
-      "summary": "Iran has closed the Strait of Hormuz again",
-      "url": "https://www.ndtv.com/world-news/us-iran-strait-of-hormuz-closed-iran-closes-strait-of-hormuz-again-over-israels-attacks-on-lebanon-11664184#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-06-21T02:07:59+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel's Attacks On Lebanon"
-    },
-    {
-      "id": "47ec8f075948c5029912a761dd326e529e0a5314",
-      "title": "Israeli Army Confirms Journalist Killed In Gaza, Calls Him 'Hamas' Terrorist",
-      "summary": "Israel has carried out a strike in Gaza again.",
-      "url": "https://www.ndtv.com/world-news/israeli-army-confirms-journalist-killed-in-gaza-calls-him-hamas-terrorist-11665140#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-06-21T01:58:33+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Israeli Army Confirms Journalist Killed In Gaza, Calls Him 'Hamas' Terrorist"
-    },
-    {
-      "id": "4e247beea099d6b6be4123867ab021206dfa51d0",
-      "title": "Mona Khalil, Defender of Sea Turtles, Killed in an Israeli Strike in Lebanon",
-      "summary": "For a quarter century, Ms. Khalil ran a guesthouse and worked to protect endangered sea turtles who every summer lay their eggs on a stretch of beach near Tyre, Lebanon.",
-      "url": "https://www.nytimes.com/2026/06/20/world/middleeast/mona-kahlil-turtles-lebanon-conservation.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-20T22:18:23+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Killed in an Israeli Strike in Lebanon"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-27T11:16:23Z"
+  "last_updated": "2026-06-28T11:25:18Z"
 }
