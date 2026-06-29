@@ -1,16 +1,38 @@
 {
   "country": "UA",
-  "score": 48,
+  "score": 51,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 2,
-  "sources": 637,
+  "trend": 3,
+  "sources": 630,
   "sentiment": {
-    "positive": 277,
-    "neutral": 149,
-    "negative": 212
+    "positive": 278,
+    "neutral": 144,
+    "negative": 209
   },
   "latest_articles": [
+    {
+      "id": "0a8a639f7d47ebc03e24dbbc75ddcf91ad71f3d5",
+      "title": "Putin’s fuel shortage admission signals growing strain on Russia’s energy infrastructure",
+      "summary": "Putin's comments mark the first time he has detailed the extent to which Ukraine's deep-strike successes have hampered Russia's fuel production.",
+      "url": "https://www.cnbc.com/2026/06/29/putin-russia-fuel-shortages-ukraine-drone-strikes.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-06-29T11:04:36+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukraine's deep-strike successes have hampered Russia's fuel production"
+    },
+    {
+      "id": "63721247b1d8fa5e5e4659c0b3d02a9cefbd4575",
+      "title": "Putin admits Ukrainian drone strikes are driving Russian fuel shortages",
+      "summary": "President says attacks on infrastructure are causing ‘obvious’ problems but that they are ‘not critical’Vladimir Putin has admitted Russia is facing fuel shortages as Ukraine steps up its long-range drone campaign, with…",
+      "url": "https://www.theguardian.com/world/2026/jun/28/putin-admits-ukrainian-strikes-driving-russian-fuel-shortages",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-29T09:37:04+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Ukraine steps up its long-range drone campaign"
+    },
     {
       "id": "a2d75150c3b38acb1cfbe483908c2ae17f1b272d",
       "title": "124 drones downed, civilians killed: Russia-Ukraine cross-border attacks escalate",
@@ -43,6 +65,17 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Force Russia to Negotiate"
+    },
+    {
+      "id": "521b1e92dfadbad840f3d9ae11c33d2934751198",
+      "title": "Ukrainian drones drive Russia to declare emergency in occupied Crimea",
+      "summary": "Weeks of punishing strikes have disrupted water, fuel and electricity supplies across the peninsula, which Ukraine’s president has vowed to reclaim.",
+      "url": "https://www.washingtonpost.com/world/2026/06/26/ukrainian-drones-drive-russia-declare-emergency-occupied-crimea/",
+      "source": "World (Washington post)",
+      "published_at": "2026-06-26T19:22:50+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukrainian drones drive Russia to declare emergency"
     },
     {
       "id": "1ee384dc7211959eea2cd95a935f28717fbd156b",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Ukrainian Women Plead for News of Disabled Relatives Held by Russia"
-    },
-    {
-      "id": "7ff304a6d136b7ea4bbb1bc923721ed2ac8c9006",
-      "title": "Ukraine’s drones are eroding Putin’s vision for Crimea",
-      "summary": "Russian-installed authorities in Crimea have halted fuel distribution in vacation season as Ukraine isolates the peninsula.",
-      "url": "https://www.washingtonpost.com/world/2026/06/23/ukraines-drones-are-making-crimea-harder-russia-hold/",
-      "source": "World (Washington post)",
-      "published_at": "2026-06-23T10:35:18+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine’s drones are eroding Putin’s vision for Crimea"
-    },
-    {
-      "id": "d6c9f80bb3447a0b61755fb8b146fa0225d22a58",
-      "title": "How Ukraine's Latest Drone Strategy Is Targeting Russia's Supply Lines",
-      "summary": "Ukraine says the goal is to weaken Russia's ability to sustain offensive operations",
-      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-how-ukraines-latest-drone-strategy-is-targeting-russias-supply-lines-11673966#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-06-23T05:18:20+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine's Latest Drone Strategy Is Targeting Russia's Supply Lines"
-    },
-    {
-      "id": "8110cfaa8b1e687e250e07c8c24c242cac7fba6d",
-      "title": "From brotherhood to backlash: Poland falls out with Ukraine",
-      "summary": "Polish politicians are playing 'the anti-Ukrainian card,' warns Jakub Majmurek",
-      "url": "https://www.euractiv.com/news/from-brotherhood-to-backlash-poland-falls-out-with-ukraine/",
-      "source": "Euractiv",
-      "published_at": "2026-06-23T02:00:50+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Polish politicians are playing 'the anti-Ukrainian card,' warns Jakub Majmurek"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-28T11:25:18Z"
+  "last_updated": "2026-06-29T13:28:22Z"
 }

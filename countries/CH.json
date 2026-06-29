@@ -1,14 +1,14 @@
 {
   "country": "CH",
-  "score": 64,
+  "score": 63,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
+  "trend": -1,
   "sources": 91,
   "sentiment": {
     "positive": 5,
-    "neutral": 75,
-    "negative": 11
+    "neutral": 74,
+    "negative": 12
   },
   "latest_articles": [
     {
@@ -32,6 +32,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Swiss glaciers melting at alarming rate amid heatwave"
+    },
+    {
+      "id": "f991052ccfdf2e37c4eca284140a51d1d07c1d45",
+      "title": "Swiss glaciers shrink as climate crisis fuels extreme heat across Europe",
+      "summary": "Switzerland's glaciers are facing unprecedented melting, with \"glacier loss day\" arriving exceptionally early this year due to a prolonged European heatwave, warm May, and insufficient winter snowfall. Experts warn that…",
+      "url": "https://timesofindia.indiatimes.com/home/environment/swiss-glaciers-shrink-as-climate-crisis-fuels-extreme-heat-across-europe/articleshow/132027636.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-06-27T03:16:17+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "impacting vital European river systems"
     },
     {
       "id": "600016c35f9489baf158c17abdcfb912b562781a",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "US-Iran talks in Switzerland"
-    },
-    {
-      "id": "f83d93974dd33fa4211519048e833506d512ba02",
-      "title": "A Glamorous Swiss Resort Hosts Officials for U.S.-Iran Talks",
-      "summary": "The Bürgenstock Resort Lake Lucerne has hosted some of the world’s wealthiest and most powerful people for more than 100 years.",
-      "url": "https://www.nytimes.com/2026/06/21/world/europe/switzerland-resort-us-iran-meeting.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-21T09:34:35+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "A Glamorous Swiss Resort Hosts Officials for U.S.-Iran Talks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-28T11:25:18Z"
+  "last_updated": "2026-06-29T13:28:22Z"
 }

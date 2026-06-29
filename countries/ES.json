@@ -1,16 +1,26 @@
 {
   "country": "ES",
-  "score": 79,
+  "score": 81,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 403,
+  "trend": 2,
+  "sources": 397,
   "sentiment": {
-    "positive": 29,
-    "neutral": 330,
-    "negative": 44
+    "positive": 28,
+    "neutral": 327,
+    "negative": 42
   },
   "latest_articles": [
+    {
+      "id": "37ab654c527d9ce2f31106b608bcc20abce882fb",
+      "title": "EU introduces €3 customs charge on small parcels to curb cheap Chinese imports",
+      "summary": "Parcels of goods worth under €150 will no longer enjoy ‘de minimis’ exemption, exploited by platforms such as Temu and SheinBusiness live – latest updatesThe European Commission has said it hopes to prevent the “desertif…",
+      "url": "https://www.theguardian.com/world/2026/jun/29/eu-introduces-customs-charge-on-small-parcels-to-curb-cheap-chinese-imports",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-29T11:40:09+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "0e7759d60c245a919da20663a972368697668a05",
       "title": "England through to last 32 of the World Cup after Uruguay exit against Spain - The Guardian",
@@ -31,6 +41,17 @@
       "published_at": "2026-06-26T14:52:09+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "2c5ba902ed8f2b35d912e32e3d2142adbd124da8",
+      "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
+      "summary": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and UruguayWorld Cup live – latest updatesFor as long as she can remember, 13-year-old Lauryn struggled to find a map that…",
+      "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-26T12:03:25+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "hard-fought draws against Spain"
     },
     {
       "id": "cedfda61f119c0f8988444b1b7b692e9bbb251d4",
@@ -202,30 +223,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "sports events in Spain and Germany cancelled"
-    },
-    {
-      "id": "12d0900525893afc925cdfc21665607dfe6c0bd2",
-      "title": "From the US-Mexico border to protests in Poland: highlights of PhotoEspaña 2026",
-      "summary": "Spain’s leading festival of photography showcases the work of more than 300 visual artists in nearly 100 exhibitions across the countryPhotoEspaña, Spain’s leading festival of photography, held its official opening in Ma…",
-      "url": "https://www.theguardian.com/artanddesign/2026/jun/21/us-mexico-border-protests-poland-highlights-photoespana-2026-spain",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-21T06:00:23+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "PhotoEspaña 2026"
-    },
-    {
-      "id": "39bc67d78704950b2a4c313f70109d9659253171",
-      "title": "Spain PM's Wife To Face Corruption Trial, Told To Surrender Passport",
-      "summary": "Gomez has denied any wrongdoing.",
-      "url": "https://www.ndtv.com/world-news/spain-pm-pedro-sanchezs-wife-begona-gomez-to-face-corruption-trial-told-to-surrender-passport-11666045#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-06-21T05:58:26+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Spain PM's Wife To Face Corruption Trial"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-28T11:25:18Z"
+  "last_updated": "2026-06-29T13:28:22Z"
 }

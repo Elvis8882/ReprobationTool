@@ -1,16 +1,26 @@
 {
   "country": "IT",
-  "score": 83,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 1,
-  "sources": 423,
+  "sources": 418,
   "sentiment": {
     "positive": 34,
-    "neutral": 348,
-    "negative": 41
+    "neutral": 344,
+    "negative": 40
   },
   "latest_articles": [
+    {
+      "id": "37ab654c527d9ce2f31106b608bcc20abce882fb",
+      "title": "EU introduces €3 customs charge on small parcels to curb cheap Chinese imports",
+      "summary": "Parcels of goods worth under €150 will no longer enjoy ‘de minimis’ exemption, exploited by platforms such as Temu and SheinBusiness live – latest updatesThe European Commission has said it hopes to prevent the “desertif…",
+      "url": "https://www.theguardian.com/world/2026/jun/29/eu-introduces-customs-charge-on-small-parcels-to-curb-cheap-chinese-imports",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-29T11:40:09+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "b38125eb36361ae239e858e2609743ba2425155c",
       "title": "The Countries With The Cleanest Beaches And Swimming Water In Europe—2026 Report - Forbes",
@@ -120,6 +130,17 @@
       "evidence": "Meloni government on collision course with Brussels"
     },
     {
+      "id": "9ead9cafd8b1df5f328cf3dcf3fde8da60e35054",
+      "title": "Europe heatwave live: 94 million people to experience temperatures above 35C today",
+      "summary": "UK issues rare red heat alert as 68,000 households lose electricity in northern France and Italy puts warnings in place for 16 citiesFrance records hottest day ever as 40 people drown across countryTell us: how is the he…",
+      "url": "https://www.theguardian.com/world/live/2026/jun/24/europe-heatwave-live-news-updates-uk-record-breaking-temperatures-italy-red-alert",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-24T11:34:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Italy puts warnings in place for 16 cities"
+    },
+    {
       "id": "a3fe9111c2cfad64bbfc32c7a9cdc6d86f9d4798",
       "title": "Temperatures hit record levels in western Europe",
       "summary": "France, Spain and Italy, have been hardest hit by the heatwave so far.",
@@ -140,6 +161,17 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "Franco-Italian summit signals consolidation"
+    },
+    {
+      "id": "1c746dbdd48f33f4e88be14f9e482491a613888b",
+      "title": "Italian MEP slapped down in bid to overturn lead fishing tackle ban",
+      "summary": "Pietro Fiocchi may soon have another opportunity, with capitals set to vote on lead gunshot later this week",
+      "url": "https://www.euractiv.com/news/italian-mep-slapped-down-in-bid-to-overturn-lead-fishing-tackle-ban/",
+      "source": "Euractiv",
+      "published_at": "2026-06-23T12:43:19+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Italian MEP slapped down in bid to overturn lead fishing tackle ban"
     },
     {
       "id": "b263d5d5380c2b74886a844a97688bb869207145",
@@ -191,41 +223,8 @@
       "published_at": "2026-06-22T19:00:15+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "69a8ab501c3c0a072aafbff238ae75f881f3b555",
-      "title": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
-      "summary": "The heatwave conditions are forecast to intensify in the coming days across central and western Europe.",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-22T16:42:23+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Red heat alerts issued in France, Italy and Spain"
-    },
-    {
-      "id": "c388c1b9dd75e6081392c088f3e9ad07259b6f7e",
-      "title": "Italian MEP Fiocchi takes aim at EU ban on lead fishing tackle",
-      "summary": "The challenge comes as lawmakers prepare key votes this week",
-      "url": "https://www.euractiv.com/news/italian-mep-fiocchi-takes-aim-at-eu-ban-on-lead-fishing-tackle/",
-      "source": "Euractiv",
-      "published_at": "2026-06-22T12:56:51+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Italian MEP Fiocchi takes aim at EU ban on lead fishing tackle"
-    },
-    {
-      "id": "eb5f3bf268601e9115288956cd5b7e35a60fa444",
-      "title": "Rome, Warsaw slam Commission over bid to centralise electricity trading",
-      "summary": "Already under fire seeking greater role in grid planning, the EU executive is now looking to unify power trading",
-      "url": "https://www.euractiv.com/news/rome-warsaw-slam-commission-over-bid-to-centralise-electricity-trading/",
-      "source": "Euractiv",
-      "published_at": "2026-06-22T04:00:43+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Rome, Warsaw slam Commission over bid to centralise electricity trading"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-28T11:25:18Z"
+  "last_updated": "2026-06-29T13:28:22Z"
 }

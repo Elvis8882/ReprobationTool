@@ -4,13 +4,46 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 745,
+  "sources": 737,
   "sentiment": {
-    "positive": 33,
-    "neutral": 158,
-    "negative": 555
+    "positive": 34,
+    "neutral": 154,
+    "negative": 550
   },
   "latest_articles": [
+    {
+      "id": "0a8a639f7d47ebc03e24dbbc75ddcf91ad71f3d5",
+      "title": "Putin’s fuel shortage admission signals growing strain on Russia’s energy infrastructure",
+      "summary": "Putin's comments mark the first time he has detailed the extent to which Ukraine's deep-strike successes have hampered Russia's fuel production.",
+      "url": "https://www.cnbc.com/2026/06/29/putin-russia-fuel-shortages-ukraine-drone-strikes.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-06-29T11:04:36+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "growing strain on Russia’s energy infrastructure"
+    },
+    {
+      "id": "63721247b1d8fa5e5e4659c0b3d02a9cefbd4575",
+      "title": "Putin admits Ukrainian drone strikes are driving Russian fuel shortages",
+      "summary": "President says attacks on infrastructure are causing ‘obvious’ problems but that they are ‘not critical’Vladimir Putin has admitted Russia is facing fuel shortages as Ukraine steps up its long-range drone campaign, with…",
+      "url": "https://www.theguardian.com/world/2026/jun/28/putin-admits-ukrainian-strikes-driving-russian-fuel-shortages",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-29T09:37:04+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Putin admits Ukrainian drone strikes are driving Russian fuel shortages"
+    },
+    {
+      "id": "ebce463650dd0975dec1ed48c80ececf7782c3c7",
+      "title": "'Think like a wartime PM': Ex-military chief sets 'Moscow test' for Andy Burnham after Keir Starmer's exit",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/uk/moscow-test-for-burnham-ex-defence-chief-says-next-uk-pm-must-act-like-a-wartime-leader-amid-global-threats/articleshow/132048373.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-06-28T09:14:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "'Moscow test'"
+    },
     {
       "id": "a2d75150c3b38acb1cfbe483908c2ae17f1b272d",
       "title": "124 drones downed, civilians killed: Russia-Ukraine cross-border attacks escalate",
@@ -76,6 +109,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "ban on Russian oil imports"
+    },
+    {
+      "id": "521b1e92dfadbad840f3d9ae11c33d2934751198",
+      "title": "Ukrainian drones drive Russia to declare emergency in occupied Crimea",
+      "summary": "Weeks of punishing strikes have disrupted water, fuel and electricity supplies across the peninsula, which Ukraine’s president has vowed to reclaim.",
+      "url": "https://www.washingtonpost.com/world/2026/06/26/ukrainian-drones-drive-russia-declare-emergency-occupied-crimea/",
+      "source": "World (Washington post)",
+      "published_at": "2026-06-26T19:22:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Ukrainian drones drive Russia to declare emergency in occupied Crimea"
     },
     {
       "id": "b87c047e5d96bf8e59d23d024355c4ff345589cc",
@@ -186,52 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Russia at UN as Its Casualties Hit 40,000 a Month"
-    },
-    {
-      "id": "66d35e909ba337afcb03235da14407aea83ef18f",
-      "title": "Ukraine Escalates Crimea Attacks, Creating a New Pressure Point for Russia",
-      "summary": "To pressure Moscow, Ukraine is stepping up an air campaign to isolate the peninsula, which Russia annexed in 2014.",
-      "url": "https://www.nytimes.com/2026/06/22/world/europe/ukraine-russia-crimea-attacks.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-22T17:30:57+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Ukraine Escalates Crimea Attacks, Creating a New Pressure Point for Russia"
-    },
-    {
-      "id": "e2965cbf4a3f527664bfc084819502f1a0a1bb9e",
-      "title": "Zelenskyy pledges to ‘bring war back to Russia’ after drones swarm toward Moscow – Europe live",
-      "summary": "Russia intercepted 300 Ukrainian drones across the country and temporarily suspended operations from Moscow airportUkraine’s Volodymyr Zelenskyy also responded to Starmer setting out his plans to resign as Britain’s PM,…",
-      "url": "https://www.theguardian.com/world/live/2026/jun/22/zelenskyy-ukraine-russia-drones-europe-heatwave-trump-meloni-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-22T14:10:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Russia intercepted 300 Ukrainian drones across the country"
-    },
-    {
-      "id": "11761d329744834ee6f14a38b7dedc7f161c2656",
-      "title": "Drone carrying explosives found in Estonia after Ukrainian strike on Russia - The Kyiv Independent",
-      "summary": "Drone carrying explosives found in Estonia after Ukrainian strike on Russia&nbsp;&nbsp;The Kyiv IndependentArmed drone found in Estonia was likely stray Ukrainian UAV that was heading for Russia – photos&nbsp;&nbsp;Украї…",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnFVWkZiYVhDTHAyMVl0RWY5cDlSVUhOMHFpajR0QVBJNUI4SlUzb1d1T216dkFCQUJkZmR2NFRHRHg1aWNWOUJiOU01RjNLNWpGWTEwLWdfNEgwdDJKY3NPOGswcGdyWFhUZFpQMnpublZVZnVBeEFmTUZpR185bExSZHAwWTJ4WVJ6UQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-22T13:13:20+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Ukrainian strike on Russia"
-    },
-    {
-      "id": "296c847056653c8924696e6e8685448777ff7aff",
-      "title": "Thousands Are Fleeing Ukraine’s Donbas Strongholds as Russia Pushes Closer",
-      "summary": "While Kyiv’s fortunes have brightened in other ways in the war, Moscow’s forces are raining bombs and drones on “fortress belt” cities like Sloviansk and Kramatorsk.",
-      "url": "https://www.nytimes.com/2026/06/22/world/europe/ukraine-donetsk-donbas-sloviansk-kramatorsk-russia.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-22T09:09:29+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russia Pushes Closer"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-28T11:25:18Z"
+  "last_updated": "2026-06-29T13:28:22Z"
 }
