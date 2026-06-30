@@ -3,7 +3,7 @@
   "score": 81,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 2,
+  "trend": 0,
   "sources": 397,
   "sentiment": {
     "positive": 28,
@@ -84,6 +84,17 @@
       "published_at": "2026-06-25T10:02:21+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "4891b3ddb7b01ba67b1975c019197974d78b3811",
+      "title": "Can Bardella learn the Meloni method?",
+      "summary": "Also, in Thursday’s edition: Spain sues Commission, EEAS sec gen, Taliban",
+      "url": "https://www.euractiv.com/news/rapporteur-can-bardella-learn-the-meloni-method/",
+      "source": "Euractiv",
+      "published_at": "2026-06-25T06:36:13+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "Spain sues Commission"
     },
     {
       "id": "7035eed2e72191baaffeefe71bbf280a59cc7d65",
@@ -212,19 +223,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Spain’s top court condemns Sánchez’s former minister"
-    },
-    {
-      "id": "b8d09290de9769a18edb0bd282bba9a1aea5cd8a",
-      "title": "Europe suffers under record heatwave as temperatures forecast to reach 44C",
-      "summary": "Rail services, schools and sports events hit, with deaths of three elderly people in France partly blamed on intense heatWestern Europe is enduring a ferocious heatwave forecast to break temperature records, with half of…",
-      "url": "https://www.theguardian.com/environment/2026/jun/22/europe-record-heatwave-temperatures-forecast-reach-44c",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-22T10:14:40+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "sports events in Spain and Germany cancelled"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-29T13:28:22Z"
+  "last_updated": "2026-06-30T12:04:56Z"
 }

@@ -1,14 +1,14 @@
 {
   "country": "UA",
-  "score": 51,
+  "score": 52,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 3,
-  "sources": 630,
+  "trend": 1,
+  "sources": 625,
   "sentiment": {
-    "positive": 278,
-    "neutral": 144,
-    "negative": 209
+    "positive": 277,
+    "neutral": 142,
+    "negative": 207
   },
   "latest_articles": [
     {
@@ -76,6 +76,17 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "Ukrainian drones drive Russia to declare emergency"
+    },
+    {
+      "id": "f53b6ff05fc859f74fb76487d583fc052acf50cf",
+      "title": "Zelensky Steps Up Threats Against Belarus for Aiding Drone Attacks",
+      "summary": "Ukrainian officials say their northern neighbor is allowing its radio relay stations to be used to guide Russian attack drones more precisely.",
+      "url": "https://www.nytimes.com/2026/06/26/world/europe/zelensky-belarus-drones-relay.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-26T08:38:34+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Zelensky Steps Up Threats Against Belarus"
     },
     {
       "id": "1ee384dc7211959eea2cd95a935f28717fbd156b",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "conflicts in Ukraine"
-    },
-    {
-      "id": "be9a8e879cec66e12727e68d645eb869e585c436",
-      "title": "Ukrainian Women Plead for News of Disabled Relatives Held by Russia",
-      "summary": "Four years after Ukraine was invaded, many of the people who lived in institutional settings remain unaccounted for.",
-      "url": "https://www.nytimes.com/2026/06/23/world/europe/ukraine-missing-children-russia.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-23T20:22:35+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Ukrainian Women Plead for News of Disabled Relatives Held by Russia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-29T13:28:22Z"
+  "last_updated": "2026-06-30T12:04:56Z"
 }

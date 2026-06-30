@@ -1,16 +1,27 @@
 {
   "country": "BY",
-  "score": 82,
+  "score": 81,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 36,
+  "trend": -1,
+  "sources": 35,
   "sentiment": {
     "positive": 0,
-    "neutral": 12,
-    "negative": 24
+    "neutral": 10,
+    "negative": 25
   },
   "latest_articles": [
+    {
+      "id": "f53b6ff05fc859f74fb76487d583fc052acf50cf",
+      "title": "Zelensky Steps Up Threats Against Belarus for Aiding Drone Attacks",
+      "summary": "Ukrainian officials say their northern neighbor is allowing its radio relay stations to be used to guide Russian attack drones more precisely.",
+      "url": "https://www.nytimes.com/2026/06/26/world/europe/zelensky-belarus-drones-relay.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-26T08:38:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Belarus for Aiding Drone Attacks"
+    },
     {
       "id": "c17d6568971ba06bee2c7af51b0144c0e262a8ef",
       "title": "Russian, Belarusian investors' opportunities to live in Latvia restricted",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "U.S. sanctions companies and individuals... based in... Belarus"
-    },
-    {
-      "id": "ca5a8a5be6810d06c55137b5e354a362e25bdc43",
-      "title": "Lithuanian ruling party chief calls for coordinated approach on Belarus relations - BNS EXCLUSIVE - The Baltic Times",
-      "summary": "Lithuanian ruling party chief calls for coordinated approach on Belarus relations - BNS EXCLUSIVE&nbsp;&nbsp;The Baltic TimesLithuania, Poland intend to discuss possibility of enhancing level of political dialogue with B…",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS1pjLUQ5TFBqRHYydEVtNGczYm1BYWoyYldvTE91R09peHR4cVFyZ0M2RUlWWUZhU1BpX3RCRm5LOUNmTVd1bXpFaG5RVGVtUUF3WTVWWWJWSnlFZEdqZDRhNURGclRGTXJXY2YweC1KSUk5c3duY0laTkJtMEZ0cVJqdzRpUm55Q0lobWtvSGNtV3VfaUY2SlZXcDRqNkdqclpXczJ1aHFVZUpValdMTEUybUlHOWx4UGtaN1RIaXFEMWJL?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-08T13:27:56+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Lithuanian ruling party chief calls for coordinated approach on Belarus relations"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-29T13:28:22Z"
+  "last_updated": "2026-06-30T12:04:56Z"
 }
