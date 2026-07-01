@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 40,
+  "sources": 41,
   "sentiment": {
     "positive": 2,
     "neutral": 23,
-    "negative": 15
+    "negative": 16
   },
   "latest_articles": [
+    {
+      "id": "c3d90f30e4a6aebb47b2e54ca034fb4000247135",
+      "title": "Trump Suggestion of a Syrian Crackdown on Hezbollah Confounds Many in Mideast",
+      "summary": "During peace talks, President Trump repeatedly floated the idea that Syria could help subdue Hezbollah in Lebanon. The proposal revived bitter memories.",
+      "url": "https://www.nytimes.com/2026/07/01/world/middleeast/syria-trump-hezbollah-lebanon.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-01T09:42:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Syrian Crackdown on Hezbollah Confounds Many in Mideast"
+    },
     {
       "id": "daabe54d0f73f86934dd5f84116eedc5e149b6ac",
       "title": "Israel Links With Lebanon, United States, Iran, Iraq, Jordan, Bahrain and More in New Middle East Flight Disruption Alert as US-Brokered Framework Faces Pressure, Southern Lebanon Strikes Continue and Airlines Redraw Regional Routes - Travel And Tour World",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Islamic State-linked women arrive home in Australia from Syria"
-    },
-    {
-      "id": "0f0bd8f562843fc41431c75e9836cea2b464b7aa",
-      "title": "Australian Women and Children Linked to ISIS Fighters Return Home",
-      "summary": "Four women and nine children arrived in Australia from detention camps in northeast Syria after a yearslong controversy over their fate.",
-      "url": "https://www.nytimes.com/2026/05/07/world/asia/australia-isis-women-children-syria.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-07T08:55:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "detention camps in northeast Syria"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-30T12:04:56Z"
+  "last_updated": "2026-07-01T12:29:54Z"
 }

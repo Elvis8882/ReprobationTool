@@ -1,16 +1,59 @@
 {
   "country": "ES",
-  "score": 81,
+  "score": 79,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 397,
+  "trend": -2,
+  "sources": 396,
   "sentiment": {
-    "positive": 28,
-    "neutral": 327,
-    "negative": 42
+    "positive": 27,
+    "neutral": 326,
+    "negative": 43
   },
   "latest_articles": [
+    {
+      "id": "1df9bf6c45f4617c50a9db40e49705e332b797aa",
+      "title": "A ‘buttery’ mouthfeel or ‘meadow grass’ notes? How Australian olive oils rank against other supermarket options",
+      "summary": "Consumer advocacy group Choice blind tested 30 olive oils – and found many of the highest ranked came from AustraliaGet our breaking news email, free app or daily news podcastConsumer advocacy group Choice has taste test…",
+      "url": "https://www.theguardian.com/food/2026/jul/01/australian-olive-oil-ranked-supermarket",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-01T09:10:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "oils rank higher than those imported from Italy and Spain"
+    },
+    {
+      "id": "9a1f00ed389dc0c27ba7cbca65c38441a8662828",
+      "title": "Call to suspend new EU border system in peak holiday period as planes leave half full",
+      "summary": "Airlines and airports say passengers are struggling in queues of up to five hours for biometric checksAirlines and airports have called for the new EU biometric border check system to be suspended during the peak summer…",
+      "url": "https://www.theguardian.com/business/2026/jul/01/call-to-suspend-eu-border-system-peak-holiday-period-europe-travel-airport-queues",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-01T08:08:19+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "852b51d51be56f9bd0d546b1196f8b9b76311d57",
+      "title": "Spain Recorded Over 1,000 Heat-Related Deaths In June",
+      "summary": "Tourists rest in the shade in the town hall square in Palma de Mallorca.",
+      "url": "https://www.ndtv.com/world-news/spain-recorded-over-1-000-heat-related-deaths-in-june-11711330#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-01T08:07:43+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Spain Recorded Over 1,000 Heat-Related Deaths In June"
+    },
+    {
+      "id": "3ffe57ce041e8431a333b0b959f509ff19946274",
+      "title": "Romantic Dramedy Series ‘La Vida Barcelona,’ Directed by Katina Medina Mora, Boarded by Beta Film (EXCLUSIVE) - Variety",
+      "summary": "Romantic Dramedy Series ‘La Vida Barcelona,’ Directed by Katina Medina Mora, Boarded by Beta Film (EXCLUSIVE)&nbsp;&nbsp;Variety",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KUmhTLUhqVzdJM0FWNm9mZHlGbU94dWEyWU00Q2REU2ZEWm9NZmFXRXNWZk85UWFsaXF5allzZnJ5UF9ZcG16WE91eldmWlJHMVZDMU5HaTlZVWNmVDI1Z2g4RGtoRkV1cTJobGczNEluT1hFUFRSLVYtVkZLTzQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-30T10:06:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Romantic Dramedy Series ‘La Vida Barcelona,’"
+    },
     {
       "id": "37ab654c527d9ce2f31106b608bcc20abce882fb",
       "title": "EU introduces €3 customs charge on small parcels to curb cheap Chinese imports",
@@ -180,51 +223,8 @@
       "published_at": "2026-06-23T11:53:02+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "981c82b181175b629cf887580c7c1e474bd670ea",
-      "title": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels",
-      "summary": "The delegation received visas from Belgium to attend talks with the European Union about the deportation of Afghans. Officials in Afghanistan said the meeting would take place on Tuesday.",
-      "url": "https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-22T19:00:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "674de93471ed07a59ba48c9599b952a636047292",
-      "title": "What Is the ‘Heat Dome’ Causing Europe’s Record Temperatures?",
-      "summary": "Heat domes happen all over the world, and the one over Europe this week is locking in days of near-record highs across Britain, Spain and France.",
-      "url": "https://www.nytimes.com/2026/06/22/weather/europe-heat-dome.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-22T17:16:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "near-record highs across Britain, Spain and France."
-    },
-    {
-      "id": "69a8ab501c3c0a072aafbff238ae75f881f3b555",
-      "title": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
-      "summary": "The heatwave conditions are forecast to intensify in the coming days across central and western Europe.",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-22T16:42:23+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Red heat alerts issued in France, Italy and Spain"
-    },
-    {
-      "id": "9c635e11850bb9cc92b5efe5f071b9d84af79409",
-      "title": "Spain’s top court condemns Sánchez’s former minister",
-      "summary": "The investigation and subsequent trial have intensified pressure on Pedro Sánchez",
-      "url": "https://www.euractiv.com/news/spains-top-court-condemns-sanchezs-former-minister-and-ally/",
-      "source": "Euractiv",
-      "published_at": "2026-06-22T12:08:09+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Spain’s top court condemns Sánchez’s former minister"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-30T12:04:56Z"
+  "last_updated": "2026-07-01T12:29:54Z"
 }

@@ -1,16 +1,37 @@
 {
   "country": "GR",
-  "score": 85,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 303,
+  "trend": -1,
+  "sources": 301,
   "sentiment": {
     "positive": 11,
-    "neutral": 267,
-    "negative": 26
+    "neutral": 264,
+    "negative": 27
   },
   "latest_articles": [
+    {
+      "id": "9a1f00ed389dc0c27ba7cbca65c38441a8662828",
+      "title": "Call to suspend new EU border system in peak holiday period as planes leave half full",
+      "summary": "Airlines and airports say passengers are struggling in queues of up to five hours for biometric checksAirlines and airports have called for the new EU biometric border check system to be suspended during the peak summer…",
+      "url": "https://www.theguardian.com/business/2026/jul/01/call-to-suspend-eu-border-system-peak-holiday-period-europe-travel-airport-queues",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-01T08:08:19+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "ede2aeb9c68129a943ef82fd47fd6ca6fa60af35",
+      "title": "Firefighters struggle to contain deadly Greek wildfire",
+      "summary": "More than 100 firefighters are fighting a fire near Thessaloniki which has claimed at least two lives.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qy3nkex0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-30T20:25:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "deadly Greek wildfire"
+    },
     {
       "id": "37ab654c527d9ce2f31106b608bcc20abce882fb",
       "title": "EU introduces €3 customs charge on small parcels to curb cheap Chinese imports",
@@ -198,28 +219,8 @@
       "published_at": "2026-06-18T16:53:35+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "476e0e809a41c59fb489d4ef69e9bbc7c78213bc",
-      "title": "EU Parliament’s internal market committee requests to co-lead cloud sovereignty law",
-      "summary": "A political clash between the centre-right EPP and the Greens is also brewing",
-      "url": "https://www.euractiv.com/news/eu-parliaments-internal-market-committee-requests-to-co-lead-cloud-sovereignty-law/",
-      "source": "Euractiv",
-      "published_at": "2026-06-18T13:15:52+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "9265d865c1d6e70df105c9b8aeaf5be209b2ffaa",
-      "title": "Czechia, Slovakia weigh in on Methane Regulation spat",
-      "summary": "European Commission's planned workaround puts oil and gas importers in impossible situation, they say",
-      "url": "https://www.euractiv.com/news/czechia-slovakia-weigh-in-on-methane-regulation-spat/",
-      "source": "Euractiv",
-      "published_at": "2026-06-18T10:56:19+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-30T12:04:56Z"
+  "last_updated": "2026-07-01T12:29:54Z"
 }

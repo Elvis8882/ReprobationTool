@@ -1,16 +1,37 @@
 {
   "country": "BE",
-  "score": 87,
+  "score": 88,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 379,
+  "trend": 1,
+  "sources": 377,
   "sentiment": {
     "positive": 43,
-    "neutral": 295,
-    "negative": 41
+    "neutral": 294,
+    "negative": 40
   },
   "latest_articles": [
+    {
+      "id": "006e5b97a0e0e03acb658c4f6697eb7819b01ba0",
+      "title": "At least five killed in fire at Antwerp apartment block, say police",
+      "summary": "The fire broke out in the 10-storey block in the Linkeroever district of the Belgian city.",
+      "url": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-01T11:49:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "fire at Antwerp apartment block"
+    },
+    {
+      "id": "9a1f00ed389dc0c27ba7cbca65c38441a8662828",
+      "title": "Call to suspend new EU border system in peak holiday period as planes leave half full",
+      "summary": "Airlines and airports say passengers are struggling in queues of up to five hours for biometric checksAirlines and airports have called for the new EU biometric border check system to be suspended during the peak summer…",
+      "url": "https://www.theguardian.com/business/2026/jul/01/call-to-suspend-eu-border-system-peak-holiday-period-europe-travel-airport-queues",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-01T08:08:19+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "928e3a31d1de7398894bad05d97ed451245c9652",
       "title": "EU sets up three months of talks with China over €360bn trade deficit",
@@ -41,6 +62,17 @@
       "published_at": "2026-06-26T14:52:09+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "d231dd1db1472f5333ad5c3cd16d8e7cf23a102c",
+      "title": "RED THREAD: The EU summit China wanted",
+      "summary": "Welcome to Red Thread, Euractiv’s weekly newsletter on the EU’s relationship with China and the wider Asia-Pacific. I’m Christina Zhao in Oceania, joined by Anupriya Datta in Europe. This week, we look at why Beijing thi…",
+      "url": "https://www.euractiv.com/news/red-thread-the-eu-summit-china-wanted/",
+      "source": "Euractiv",
+      "published_at": "2026-06-25T10:30:35+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "The EU summit China wanted"
     },
     {
       "id": "0775be70a2a2f50f8904d7d32782aac9f040ff74",
@@ -149,6 +181,28 @@
       "evidence": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels"
     },
     {
+      "id": "c123adb5febb6a7d6cdacfbd6f235674eadf2d15",
+      "title": "Qatargate: Belgium seeks to lift immunity for former Commissioner",
+      "summary": "Belgian authorities have launched a procedure that could result in an arrest warrant being issued for former EU Migration Commissioner Dimitris Avramopoulos, due to his alleged involvement in the Qatargate scandal. The f…",
+      "url": "https://www.euractiv.com/news/qatargate-belgium-seeks-to-lift-immunity-for-former-commissioner/",
+      "source": "Euractiv",
+      "published_at": "2026-06-22T16:54:17+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Qatargate: Belgium seeks to lift immunity for former Commissioner"
+    },
+    {
+      "id": "024753c692cbba5a23b6bb9b80462fa17cd03aab",
+      "title": "Taliban delegation on its way to Brussels",
+      "summary": "The five-strong Taliban team will only be allowed to stay in Belgium for one day",
+      "url": "https://www.euractiv.com/news/taliban-delegation-on-its-way-to-brussels/",
+      "source": "Euractiv",
+      "published_at": "2026-06-22T16:01:35+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "Taliban delegation on its way to Brussels"
+    },
+    {
       "id": "d72b24f7682050831247766940191d9f359f94db",
       "title": "Brussels says energy crises delayed power grid ‘software’ update",
       "summary": "European electricity network is ‘silently disassembling’, analyst warns",
@@ -169,62 +223,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "rail services in Belgium disrupted"
-    },
-    {
-      "id": "a67cb0b3f8e423de44e5cfd58feec792e73be1f9",
-      "title": "China, Canada, EU climate talks kick off in Brussels",
-      "summary": "America will find itself on the 'wrong side of history', the Chinese minister says",
-      "url": "https://www.euractiv.com/news/china-canada-eu-climate-talks-kick-off-in-brussels/",
-      "source": "Euractiv",
-      "published_at": "2026-06-22T09:31:34+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "China, Canada, EU climate talks kick off in Brussels"
-    },
-    {
-      "id": "f51187715bc2ac45f95e95965cf3d082bafed04b",
-      "title": "Alzheimer’s experts call for a dementia strategy matching Europe’s cancer plan [Advocacy Lab]",
-      "summary": "Dementia experts from 12 countries have signed a policy paper urging Brussels to give dementia its own framework, modelled on the €4 billion Beating Cancer Plan",
-      "url": "https://www.euractiv.com/news/alzheimers-experts-call-for-a-dementia-plan-matching-europes-cancer-plan/",
-      "source": "Euractiv",
-      "published_at": "2026-06-22T07:30:46+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Brussels to give dementia its own framework, modelled on the Cancer Plan"
-    },
-    {
-      "id": "ab489ebd9f91cfa4ba8937cf70db0408f5906af1",
-      "title": "European countries close schools, cancel trains as heatwave set to intensify",
-      "summary": "Belgium could record its highest temperatures on record this week, according to IRM forecaster David Dehenauw",
-      "url": "https://www.euractiv.com/news/european-countries-close-schools-cancel-trains-as-heatwave-set-to-intensify/",
-      "source": "Euractiv",
-      "published_at": "2026-06-22T04:44:37+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "European countries close schools, cancel trains as heatwave"
-    },
-    {
-      "id": "78ac73fcceea6794761b18ba5b014c2b533298fa",
-      "title": "Europe’s power grid breaks apart as Brussels rulemaking fails to keep pace",
-      "summary": "A set of 'network codes' drawn up in the noughties governs what has been called 'the world's largest machine' – but are they still fit for purpose?",
-      "url": "https://www.euractiv.com/news/europes-power-grid-breaks-apart-as-brussels-rulemaking-fails-to-keep-pace/",
-      "source": "Euractiv",
-      "published_at": "2026-06-22T04:00:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Brussels rulemaking fails to keep pace"
-    },
-    {
-      "id": "bf8c8d719dc94ea106f5d6ff7889ac6e3bedf966",
-      "title": "Two-thirds of EU citizens back UK rejoining bloc, survey finds",
-      "summary": "Poll also finds three quarters of people in Britain want closer ties, with majority accepting free movementTwo-thirds of EU citizens would back Britain rejoining the bloc, while most UK voters say Brexit has been bad for…",
-      "url": "https://www.theguardian.com/politics/2026/jun/21/two-thirds-eu-citizens-back-uk-rejoining-bloc-brexit-survey",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-21T05:00:21+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-30T12:04:56Z"
+  "last_updated": "2026-07-01T12:29:54Z"
 }

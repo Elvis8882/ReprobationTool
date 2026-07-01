@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": null,
-  "sources": 3,
+  "sources": 4,
   "sentiment": {
     "positive": 0,
-    "neutral": 3,
+    "neutral": 4,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "62a2cfcb7bcac291f62cae0a94cda8c21141928c",
+      "title": "Parcel Bomb Explodes in Monaco, Injuring 3",
+      "summary": "The blast seriously injured three people, including a child, according to the authorities, who said the assailant was on the run.",
+      "url": "https://www.nytimes.com/2026/06/30/world/europe/monaco-parcel-bomb-explosion.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-30T14:58:42+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Parcel Bomb Explodes in Monaco, Injuring 3"
+    },
     {
       "id": "cf2fc65f7bd21a48d71d915efe514f0212065b0a",
       "title": "Gasly regains Monaco GP podium after Right of Review - Formula 1",
@@ -46,5 +57,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-30T12:04:56Z"
+  "last_updated": "2026-07-01T12:29:54Z"
 }

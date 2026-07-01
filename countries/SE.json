@@ -1,16 +1,26 @@
 {
   "country": "SE",
-  "score": 98,
+  "score": 99,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 280,
+  "trend": 1,
+  "sources": 277,
   "sentiment": {
     "positive": 15,
-    "neutral": 254,
-    "negative": 11
+    "neutral": 252,
+    "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "9a1f00ed389dc0c27ba7cbca65c38441a8662828",
+      "title": "Call to suspend new EU border system in peak holiday period as planes leave half full",
+      "summary": "Airlines and airports say passengers are struggling in queues of up to five hours for biometric checksAirlines and airports have called for the new EU biometric border check system to be suspended during the peak summer…",
+      "url": "https://www.theguardian.com/business/2026/jul/01/call-to-suspend-eu-border-system-peak-holiday-period-europe-travel-airport-queues",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-01T08:08:19+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "37ab654c527d9ce2f31106b608bcc20abce882fb",
       "title": "EU introduces €3 customs charge on small parcels to curb cheap Chinese imports",
@@ -202,18 +212,8 @@
       "published_at": "2026-06-17T15:50:48+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "c0559a82408611673c13de098508ce2df9427447",
-      "title": "European Parliament approves ‘return hubs’",
-      "summary": "‘Send them home,’ chanted nationalist and far-right MEPs",
-      "url": "https://www.euractiv.com/news/european-parliament-approves-return-hubs/",
-      "source": "Euractiv",
-      "published_at": "2026-06-17T11:59:41+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-30T12:04:56Z"
+  "last_updated": "2026-07-01T12:29:54Z"
 }

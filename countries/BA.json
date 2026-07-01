@@ -1,16 +1,27 @@
 {
   "country": "BA",
-  "score": 69,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 7,
+  "score": 64,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": -5,
+  "sources": 8,
   "sentiment": {
     "positive": 1,
     "neutral": 5,
-    "negative": 1
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "a64d62a93279d6eb58c5e00db0b1709a6232c554",
+      "title": "Europe and US on collision course over next high representative for Bosnia",
+      "summary": "Diplomats from around world meet in Sarajevo in second attempt to agree on top envoy, as US pushes for its choiceDiplomats from around the world are due to meet in Sarajevo on Tuesday in an attempt to resolve a deep rift…",
+      "url": "https://www.theguardian.com/world/2026/jun/30/europe-us-high-representative-for-bosnia",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-30T08:13:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Europe and US on collision course over next high representative for Bosnia"
+    },
     {
       "id": "61dbac0ba209d89260a68f1fd0fe0638c5a3dd70",
       "title": "‘They pushed me out’: Rapist who fled UK to Bosnia after accidental prison release, convicted of 9 counts",
@@ -90,5 +101,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-06-30T12:04:56Z"
+  "last_updated": "2026-07-01T12:29:54Z"
 }
