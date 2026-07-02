@@ -1,16 +1,27 @@
 {
   "country": "KZ",
-  "score": 100,
+  "score": 55,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": null,
-  "sources": 4,
+  "trend": -45,
+  "sources": 5,
   "sentiment": {
     "positive": 0,
     "neutral": 4,
-    "negative": 0
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "a670280bfeb9d9853c8b458b57864359b6bc8a7e",
+      "title": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
+      "summary": "An agreement between the U.S. and Kazakhstan has given a group of American investors with ties to the president and the commerce secretary access to one of the world’s largest untapped reserves of tungsten.",
+      "url": "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-28T10:26:19+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit."
+    },
     {
       "id": "83f39360e131582886c977bd7004c83185cc5d15",
       "title": "Russian Cargo Mission Launches To Space Station - Aviation Week",
@@ -57,5 +68,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-01T12:29:54Z"
+  "last_updated": "2026-07-02T11:55:32Z"
 }

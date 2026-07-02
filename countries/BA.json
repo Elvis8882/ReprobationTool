@@ -1,16 +1,27 @@
 {
   "country": "BA",
   "score": 64,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
-  "trend": -5,
-  "sources": 8,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": 0,
+  "sources": 9,
   "sentiment": {
     "positive": 1,
-    "neutral": 5,
+    "neutral": 6,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "1918e54ba524e95f268d0c3ca1009f5dfbbafe2c",
+      "title": "Unfamiliar With Bosnia and Herzegovina? What to Know Before It Faces the U.S.",
+      "summary": "A country has two names, a long history and, this year, a pretty darn good soccer team.",
+      "url": "https://www.nytimes.com/2026/07/01/world/europe/bosnia-and-herzegovina-name-world-cup.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-01T09:03:54+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Unfamiliar With Bosnia and Herzegovina? What to Know Before It Faces the U.S."
+    },
     {
       "id": "a64d62a93279d6eb58c5e00db0b1709a6232c554",
       "title": "Europe and US on collision course over next high representative for Bosnia",
@@ -101,5 +112,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-01T12:29:54Z"
+  "last_updated": "2026-07-02T11:55:32Z"
 }

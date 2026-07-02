@@ -4,13 +4,23 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 364,
+  "sources": 365,
   "sentiment": {
     "positive": 52,
-    "neutral": 265,
+    "neutral": 266,
     "negative": 47
   },
   "latest_articles": [
+    {
+      "id": "7f258754367a92c1ae05c83b0862f36b18283734",
+      "title": "Google loses fight over record $4.7 billion EU antitrust fine",
+      "summary": "In 2018, the European Commission slapped Google with the record-breaking penalty on the grounds that it abused Android's mobile dominance.",
+      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-02T11:13:36+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "9a1f00ed389dc0c27ba7cbca65c38441a8662828",
       "title": "Call to suspend new EU border system in peak holiday period as planes leave half full",
@@ -20,6 +30,17 @@
       "published_at": "2026-07-01T08:08:19+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "0607ddf839bbdf877a8e5215bbb2890a29b67a84",
+      "title": "Reader Q&A: ask Ajit Niranjan anything about Europe’s hellish week of heat",
+      "summary": "Our European environment correspondent has been reporting on the shocking heatwave that continues to scorch its way across Europe, covering everything from the lack of preparation to ways to deal with the heatPost your q…",
+      "url": "https://www.theguardian.com/community/live/2026/jun/30/reader-qa-ask-ajit-niranjan-anything-about-europes-hellish-week-of-heat",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-30T08:00:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Many European countries, including Germany, France, Czechia"
     },
     {
       "id": "37ab654c527d9ce2f31106b608bcc20abce882fb",
@@ -196,28 +217,8 @@
       "published_at": "2026-06-18T16:53:35+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "476e0e809a41c59fb489d4ef69e9bbc7c78213bc",
-      "title": "EU Parliament’s internal market committee requests to co-lead cloud sovereignty law",
-      "summary": "A political clash between the centre-right EPP and the Greens is also brewing",
-      "url": "https://www.euractiv.com/news/eu-parliaments-internal-market-committee-requests-to-co-lead-cloud-sovereignty-law/",
-      "source": "Euractiv",
-      "published_at": "2026-06-18T13:15:52+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "9265d865c1d6e70df105c9b8aeaf5be209b2ffaa",
-      "title": "Czechia, Slovakia weigh in on Methane Regulation spat",
-      "summary": "European Commission's planned workaround puts oil and gas importers in impossible situation, they say",
-      "url": "https://www.euractiv.com/news/czechia-slovakia-weigh-in-on-methane-regulation-spat/",
-      "source": "Euractiv",
-      "published_at": "2026-06-18T10:56:19+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-01T12:29:54Z"
+  "last_updated": "2026-07-02T11:55:32Z"
 }

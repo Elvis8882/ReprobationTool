@@ -1,16 +1,59 @@
 {
   "country": "FR",
-  "score": 90,
+  "score": 88,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 639,
+  "trend": -2,
+  "sources": 637,
   "sentiment": {
-    "positive": 95,
-    "neutral": 478,
-    "negative": 66
+    "positive": 93,
+    "neutral": 477,
+    "negative": 67
   },
   "latest_articles": [
+    {
+      "id": "7f258754367a92c1ae05c83b0862f36b18283734",
+      "title": "Google loses fight over record $4.7 billion EU antitrust fine",
+      "summary": "In 2018, the European Commission slapped Google with the record-breaking penalty on the grounds that it abused Android's mobile dominance.",
+      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-02T11:13:36+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "c66f53f2e6fefa5626ab2260e9df843ec3010ec6",
+      "title": "Ranking all 22 World Cup teams from worst to first as round of 32 unfolds - USA Today",
+      "summary": "Ranking all 22 World Cup teams from worst to first as round of 32 unfolds&nbsp;&nbsp;USA TodayThe USMNT are on the rise: Re-ranking the 48 World Cup teams after day 21 - The Athletic&nbsp;&nbsp;The New York TimesWorld Cu…",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaVlTTWw5VHIyV1dGbS1VWG5NcG1qdTg0S1l5U2ItQXQ3VE1WUFlrQW00OVZFdVdrNzhDQmFMcnYtMWRWLUdSLXNyTjMzNlRIcnRsVXk4blo0eFdNQ2tIS05lUWpucTVQLXEzVjk0M3BVSmotSVBMLW0yWWZIOGFzeURBZlM1ZEZiejRlaVFZM3hnSURlWGQxVDNIVkN0aFJrNkVONW9QejVibzM2VDFqdTdvZEtEUTN6U2xUeDJPWkdpZmpGRktCU2x4YndMSVNHQnhRQ1ZxNk9fcklveUZicg?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-02T10:08:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "France still kings"
+    },
+    {
+      "id": "27bd287369b4dd0926c892118cf48d02f8552fa5",
+      "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
+      "summary": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
+      "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-02T05:00:03+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "People smuggler convicted in France"
+    },
+    {
+      "id": "e6a1aa8e1bc249f734751a4634ff610ec7dfa924",
+      "title": "United Kingdom Links With Germany, Netherlands, Sweden, Norway, Denmark and More in Europe Airport Operations Growth Story as Market Heads for USD 30.6 Billion by 2031 With Smart Airport Systems, Biometric Borders and Net-Zero Infrastructure - Travel And Tour World",
+      "summary": "United Kingdom Links With Germany, Netherlands, Sweden, Norway, Denmark and More in Europe Airport Operations Growth Story as Market Heads for USD 30.6 Billion by 2031 With Smart Airport Systems, Biometric Borders and Ne…",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NNzBBZXB4VHRjUXd0VVlCdV91amVieTZ5TmlkbFhESDE1R3hzM1QxRFVOUUNESlhsUDFORy1kVkxiY3dEQmlJZFJJa2lvbmdqN0xldDFwYTNieGg0bkZWODFFMF84cEwxUHJjdExB?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-01T10:49:52+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "UK Joins Germany, France, Netherlands, and Italy as ACI Europe Reports"
+    },
     {
       "id": "9a1f00ed389dc0c27ba7cbca65c38441a8662828",
       "title": "Call to suspend new EU border system in peak holiday period as planes leave half full",
@@ -22,6 +65,17 @@
       "sentiment_fallback": true
     },
     {
+      "id": "350de58894fa835e76c06e6254ff20418a9946e2",
+      "title": "Monaco bombing was ‘attempted assassination’, not terror attack, say prosecutors – Europe live",
+      "summary": "Authorities are still searching to identify the suspect of an alleged assassination attempt of a Ukrainian business tycoonBoth Reuters and AFP seem to be confirming the identity of the target of yesterday’s bombing as Uk…",
+      "url": "https://www.theguardian.com/world/live/2026/jun/30/monaco-bombing-ukraine-gerany-hungary-poland-baltics-heat-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-30T11:33:18+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "The Ukrainian embassy in Paris said it was checking the identity"
+    },
+    {
       "id": "9ee480ec88bd19752527fe5dd4fbd255c250b50d",
       "title": "French biotech stock soars 34% after new data on experimental medicine",
       "summary": "Shares of French biotech company Abivax soared Tuesday after it released fresh data on its lead drug for bowel disease.",
@@ -31,6 +85,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "French biotech stock soars 34% after new data on experimental medicine"
+    },
+    {
+      "id": "0607ddf839bbdf877a8e5215bbb2890a29b67a84",
+      "title": "Reader Q&A: ask Ajit Niranjan anything about Europe’s hellish week of heat",
+      "summary": "Our European environment correspondent has been reporting on the shocking heatwave that continues to scorch its way across Europe, covering everything from the lack of preparation to ways to deal with the heatPost your q…",
+      "url": "https://www.theguardian.com/community/live/2026/jun/30/reader-qa-ask-ajit-niranjan-anything-about-europes-hellish-week-of-heat",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-30T08:00:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Many European countries, including Germany, France, Czechia"
     },
     {
       "id": "3c04d1145524d892ede556ba7024270e0e7b320b",
@@ -74,6 +139,28 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "French and American rescue teams nearly four days"
+    },
+    {
+      "id": "2234144dadb232191e0941af782e577815ab376e",
+      "title": "Skydiving Plane Crashes in France, Killing All 11 People Aboard",
+      "summary": "Five instructors, five students and a pilot died when the plane crashed on Sunday morning in a field near the northeastern city of Nancy.",
+      "url": "https://www.nytimes.com/2026/06/28/world/europe/france-skydiving-plane-crash-nancy.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-28T14:42:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Skydiving Plane Crashes in France, Killing All 11 People Aboard"
+    },
+    {
+      "id": "a89c99b85cb765e6ccf3db13f544bf4d47eb8dcc",
+      "title": "France Records 1,000 Excess Deaths During Heatwave, Elderly Hit Hard",
+      "summary": "The sharpest increases involved people dying at home",
+      "url": "https://www.ndtv.com/world-news/france-records-1-000-excess-deaths-during-heatwave-elderly-hit-hard-11697933#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-28T09:25:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "France Records 1,000 Excess Deaths During Heatwave"
     },
     {
       "id": "927ef9d0d1424fbf2044f1a3bb5a6bfe838f6514",
@@ -139,95 +226,8 @@
       "published_at": "2026-06-26T14:52:09+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "4e09755f600f5d350312df5d0563512eadf5ae67",
-      "title": "Millions in England face red heat warning while Paris postpones Pride as heatwave grips Europe – live",
-      "summary": "Estimated 150 million people in Europe could experience temperatures above 35C todayEuropean heatwave is worst ever and impossible without climate crisis, scientists sayOver in the UK, firefighters are still trying to br…",
-      "url": "https://www.theguardian.com/environment/live/2026/jun/26/europe-heatwave-extreme-heat-red-alert-weather-uk-england-france-climate-crisis-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-26T11:23:29+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Paris postpones Pride as heatwave grips Europe"
-    },
-    {
-      "id": "a9e61517b867e951c4ac9b4732ba7525f67e3c18",
-      "title": "Live: Paris Pride postponed, drowning death toll rises as Europe swelters in record heatwave - France 24",
-      "summary": "Live: Paris Pride postponed, drowning death toll rises as Europe swelters in record heatwave&nbsp;&nbsp;France 24European heatwave is worst ever and impossible without climate crisis, scientists say&nbsp;&nbsp;The Guardi…",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSUFCbDE4aDdLSE0wYi01dlhTQS1iTUxXbGszMTFyR0tHSjNCXy1FM2hOX29yU1dTaU9LZkRfdDJFTG1UTXVfZ1RyUGhJc1QydklCU21fdWwxMFV0QVdxc3ZIdUY2S2JIUktiSHNGTi14SGd3OFVYMV8xdGVBa1FsdXBaVklEVExtWGk4?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-26T09:33:04+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Paris Pride postponed, drowning death toll rises as Europe swelters"
-    },
-    {
-      "id": "d63d2ab12cc249cd88ccf6ec0a13969352bb03e1",
-      "title": "Is France equipped to handle heatwaves? 55 drown from swimming in unauthorised locations",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/europe/is-france-equipped-to-handle-heatwaves-55-drown-from-swimming-in-unauthorised-locations/articleshow/132011361.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-06-26T08:40:41+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "55 drown from swimming in unauthorised locations"
-    },
-    {
-      "id": "b87c047e5d96bf8e59d23d024355c4ff345589cc",
-      "title": "Weather tracker: Heatwave expected to bring Germany and Poland to 40C",
-      "summary": "Austrian Grand Prix declares heat hazard as dramatic rise in temperatures forecast in central and northern EuropeTemperatures are forecast to rise dramatically in parts of central and northern Europe this weekend as the…",
-      "url": "https://www.theguardian.com/environment/2026/jun/26/weather-tracker-heatwave-germany-poland-40c-temperatures",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-26T08:22:52+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "swathes of France experienced similar extreme temperatures"
-    },
-    {
-      "id": "1b7274779490fd46ecee24feec06a5a425a5ec93",
-      "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
-      "summary": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-25T18:50:12+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Women alleging rape and sexual assault in France call"
-    },
-    {
-      "id": "4840ee2321260f7225bebbc2e0e5ec0c764f85cd",
-      "title": "Dominant Osaka sails into Bad Homburg semis - France 24",
-      "summary": "Dominant Osaka sails into Bad Homburg semis&nbsp;&nbsp;France 24Osaka one win from first grass-court final after Bad Homburg victory&nbsp;&nbsp;WTA TennisNaomi Osaka is sending a Wimbledon warning tennis fans can't ignor…",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3BINWpUWkVSdlAyYmpqOHBYZDB5WnlEU0laeXRNaThHOVA1Nk9kN0JheHg0bjFMN0RMOExuekFPbnRmejZDV2pmN1dIbUprV3lNMXBTWVZ5empDMUltWTNXcUVDWExrLUZKcEZuR2JJY21ySU9tOHpoSEw4bnhsU0NQdmpUeUQ1WUtuRE11R2JxQWg1YlpF?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-25T12:35:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "France 24"
-    },
-    {
-      "id": "0775be70a2a2f50f8904d7d32782aac9f040ff74",
-      "title": "MEPs back new EU defence innovation programme | Atualidade | Parlamento Europeu - European Parliament",
-      "summary": "MEPs back new EU defence innovation programme | Atualidade | Parlamento Europeu&nbsp;&nbsp;European ParliamentSecuring Next-Generation Defense by Design&nbsp;&nbsp;EE TimesITRE, SEDE greenlight AGILE defence innovation p…",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb09JWmE0RUhnRGtOSnpXcFM5RU9xUThNNVNieWZpQ2s5dzl5SmJRNTRlZXJzQmVNT0tQMWN6eUlseXcwb0JQN0hzcjJ5LWFvV0NWdTNsZkZiQ3hPTFNLS0JSWm0wWi10ZkRzc0xlTlJVLTBOdlFwRlFkanBma2VHU0dBNVFheGp3Si1YYmpPcFBlbnd3Nk5pX3BDYjFVYlBaSjJwMzNBTkR5SHBhTk13WWJR?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-25T10:02:21+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "6a3697a35b0ac279eab6872d4baef035afd0efa0",
-      "title": "Kenzo Kies: French footballer dies, aged 21, after drowning during heatwave - BBC",
-      "summary": "Kenzo Kies: French footballer dies, aged 21, after drowning during heatwave&nbsp;&nbsp;BBCWorld Cup 2026: Scotland on brink after Brazil defeat, South Africa advance, and more – live&nbsp;&nbsp;The GuardianLigue 2 star t…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZMTVTVG1jbE1mZ2E5Xzh2T0t1SmRlODNWXzJINXoxX1lDQk44RE5yb2xHWDdIMWktNzloREhfR25mcmMxdDAzZ21Na2poRDhCdEY4R3FHRVhLczlkakV6OF94SzBReWs?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-25T09:38:15+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "French footballer dies"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-01T12:29:54Z"
+  "last_updated": "2026-07-02T11:55:32Z"
 }

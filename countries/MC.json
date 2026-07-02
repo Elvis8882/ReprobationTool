@@ -1,16 +1,27 @@
 {
   "country": "MC",
-  "score": 100,
+  "score": 55,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": null,
-  "sources": 4,
+  "trend": -45,
+  "sources": 8,
   "sentiment": {
     "positive": 0,
-    "neutral": 4,
-    "negative": 0
+    "neutral": 7,
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "01f2d6f7fb05bddbef6a4628bb821b40e7040e1a",
+      "title": "Who Is Vadym Yermolaiev? Sanctioned Ukrainian Tycoon Wounded In Monaco Parcel Bomb Attack",
+      "summary": "Yermolaiev built his fortune in Dnipro's construction sector",
+      "url": "https://www.ndtv.com/world-news/who-is-vadym-yermolaiev-sanctioned-ukrainian-tycoon-wounded-in-monaco-parcel-bomb-attack-11715418#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-02T08:52:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Wounded In Monaco Parcel Bomb Attack"
+    },
     {
       "id": "62a2cfcb7bcac291f62cae0a94cda8c21141928c",
       "title": "Parcel Bomb Explodes in Monaco, Injuring 3",
@@ -21,6 +32,39 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Parcel Bomb Explodes in Monaco, Injuring 3"
+    },
+    {
+      "id": "8c006acb8dad0aecdd1a23490972db3e27e8e7e8",
+      "title": "Manhunt under way after bomb injures Ukrainian oligarch and others in Monaco",
+      "summary": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
+      "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-30T11:36:05+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "bomb injures Ukrainian oligarch and others in Monaco"
+    },
+    {
+      "id": "350de58894fa835e76c06e6254ff20418a9946e2",
+      "title": "Monaco bombing was ‘attempted assassination’, not terror attack, say prosecutors – Europe live",
+      "summary": "Authorities are still searching to identify the suspect of an alleged assassination attempt of a Ukrainian business tycoonBoth Reuters and AFP seem to be confirming the identity of the target of yesterday’s bombing as Uk…",
+      "url": "https://www.theguardian.com/world/live/2026/jun/30/monaco-bombing-ukraine-gerany-hungary-poland-baltics-heat-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-30T11:33:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Monaco bombing was ‘attempted assassination’, not terror attack"
+    },
+    {
+      "id": "0b840e53c75fe1e40fae07746716dc55bed12a45",
+      "title": "Parcel Bomb Blast In Monaco Injures Ukrainian Oligarch, 2 Others",
+      "summary": "The Monaco government said the \"strong explosion\" was caused by a \"parcel bomb\"",
+      "url": "https://www.ndtv.com/world-news/parcel-bomb-blast-in-monaco-injures-ukrainian-oligarch-2-others-11706042#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-30T07:54:10+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Parcel Bomb Blast In Monaco Injures Ukrainian Oligarch"
     },
     {
       "id": "cf2fc65f7bd21a48d71d915efe514f0212065b0a",
@@ -57,5 +101,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-01T12:29:54Z"
+  "last_updated": "2026-07-02T11:55:32Z"
 }

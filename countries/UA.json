@@ -1,16 +1,93 @@
 {
   "country": "UA",
-  "score": 53,
+  "score": 48,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 625,
+  "trend": -5,
+  "sources": 636,
   "sentiment": {
-    "positive": 277,
-    "neutral": 143,
-    "negative": 206
+    "positive": 279,
+    "neutral": 146,
+    "negative": 212
   },
   "latest_articles": [
+    {
+      "id": "d24e24835d133955ddb2c2b732fdb9e118e05121",
+      "title": "Kyiv attacks death toll rises to 17 as Russia warns it will ‘continue to increase pressure’ on Ukrainian capital – Europe live",
+      "summary": "Damage recorded in 30 locations across in the city from overnight attacks, with ‘most of them ordinary residential buildings’in DublinVolodymyr Zelenskyy has said he hopes not to wait too long for the results of an Irish…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/02/russia-strikes-ukraine-war-kyiv-volodymyr-zelenskyy-europe-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-02T11:28:04+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Kyiv attacks death toll rises to 17"
+    },
+    {
+      "id": "03ca13f062a5effb2445b61e3dd6dd89b6d31eb0",
+      "title": "'Most massive' Russian attack on Kyiv kills at least 18",
+      "summary": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-02T11:11:52+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Kyiv kills at least 18"
+    },
+    {
+      "id": "6edb1bdd3890a3c934e38544acf7db6e6e70c4a9",
+      "title": "Ukrainian Charged With Sabotaging Pipelines Between Russia and Germany",
+      "summary": "A man identified only as Serhii K. is accused of overseeing an undersea bombing in 2022 that cut off a key source of Russian gas revenues.",
+      "url": "https://www.nytimes.com/2026/07/02/world/europe/pipeline-sabotage-ukraine-russia-germany.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-02T10:29:24+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukrainian Charged With Sabotaging Pipelines Between Russia and Germany"
+    },
+    {
+      "id": "01f2d6f7fb05bddbef6a4628bb821b40e7040e1a",
+      "title": "Who Is Vadym Yermolaiev? Sanctioned Ukrainian Tycoon Wounded In Monaco Parcel Bomb Attack",
+      "summary": "Yermolaiev built his fortune in Dnipro's construction sector",
+      "url": "https://www.ndtv.com/world-news/who-is-vadym-yermolaiev-sanctioned-ukrainian-tycoon-wounded-in-monaco-parcel-bomb-attack-11715418#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-02T08:52:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Sanctioned Ukrainian Tycoon"
+    },
+    {
+      "id": "23b1bb77fb40a74ec3d84240aded9b5c274250fa",
+      "title": "Russia rocks Ukrainian capital with massive assault, killing at least 17",
+      "summary": "Dozens were injured overnight in Kyiv during an attack that caused fires and explosions throughout the city.",
+      "url": "https://www.washingtonpost.com/world/2026/07/02/russia-rocks-kyiv-with-massive-missile-drone-attack/",
+      "source": "World (Washington post)",
+      "published_at": "2026-07-02T08:44:07+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Ukrainian capital with massive assault, killing at least 17"
+    },
+    {
+      "id": "65ae986b80935d96a8a85aa8f25159a27f1846df",
+      "title": "Russia Strikes Ukraine as Explosions Rock Capital of Kyiv",
+      "summary": "At least 13 people were killed in the assault, which began hours after President Volodymyr Zelensky of Ukraine warned that Russia was preparing another “massive strike” on Kyiv.",
+      "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/ukraine-kyiv-russia-attack",
+      "source": "NYT > World News",
+      "published_at": "2026-07-02T08:21:33+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Russia Strikes Ukraine as Explosions Rock Capital of Kyiv"
+    },
+    {
+      "id": "3c071d1e2e23a22ce032e23235f8e902273fffd7",
+      "title": "Watch: 9-storey Kyiv apartment building partially collapses after Russian attack; residents trapped",
+      "summary": "Kyiv endured a devastating overnight missile and drone assault, with a residential building partially collapsing and multiple fires erupting. This follows Ukraine's own long-range strikes on Russian targets. The escalati…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/watch-9-storey-kyiv-apartment-building-partially-collapses-after-russian-attack-residents-trapped/articleshow/132127343.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-07-02T02:34:45+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Kyiv endured a devastating overnight missile and drone assault"
+    },
     {
       "id": "e02c23cd5c502abb48ac6bf14472d6cd48ead62a",
       "title": "Ireland set to take presidency of EU in Dublin opening ceremony – Europe live",
@@ -56,6 +133,39 @@
       "evidence": "The Prom Went On in Kyiv"
     },
     {
+      "id": "a7481240ae201446be444bf75138f0fda703a580",
+      "title": "Latvia and Ukraine to open drone factory right on Baltic nation’s border with Russia - Yahoo",
+      "summary": "Latvia and Ukraine to open drone factory right on Baltic nation’s border with Russia&nbsp;&nbsp;YahooSee more headlines and perspectives on Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb2NYdk5hejhKWXc1b21qaF9weU1TUVRiQ2pFcUxTaE9xNVNObVFlUG1PcGV1TXdyMmNUc2hyR2lndlhkSHVzcFN2dEo0cFBmbVdQcXl0Sy1nU3RoZDkyYmhuQUl4VnU5VWhIbUZPOHRGZGtvUjQzVjM3d1FrbjhaSlRQcXAwYVZ5SmQ2YXFjcHU4Z2JQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-30T14:55:30+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Latvia and Ukraine to open drone factory"
+    },
+    {
+      "id": "8c006acb8dad0aecdd1a23490972db3e27e8e7e8",
+      "title": "Manhunt under way after bomb injures Ukrainian oligarch and others in Monaco",
+      "summary": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
+      "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-06-30T11:36:05+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "bomb injures Ukrainian oligarch and others in Monaco"
+    },
+    {
+      "id": "350de58894fa835e76c06e6254ff20418a9946e2",
+      "title": "Monaco bombing was ‘attempted assassination’, not terror attack, say prosecutors – Europe live",
+      "summary": "Authorities are still searching to identify the suspect of an alleged assassination attempt of a Ukrainian business tycoonBoth Reuters and AFP seem to be confirming the identity of the target of yesterday’s bombing as Uk…",
+      "url": "https://www.theguardian.com/world/live/2026/jun/30/monaco-bombing-ukraine-gerany-hungary-poland-baltics-heat-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-30T11:33:18+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "placed under Ukrainian sanctions in 2023"
+    },
+    {
       "id": "a16ff002e7082bd58eb59ec3695ab4f3710d9123",
       "title": "As war stalls, Putin concedes he never cut a deal with Trump in Alaska",
       "summary": "The Kremlin had framed the Anchorage summit as a turning point for the war in Ukraine. Now, Putin admits there was no deal, perhaps to get U.S. to help to broker a new one.",
@@ -65,6 +175,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "war in Ukraine"
+    },
+    {
+      "id": "0b840e53c75fe1e40fae07746716dc55bed12a45",
+      "title": "Parcel Bomb Blast In Monaco Injures Ukrainian Oligarch, 2 Others",
+      "summary": "The Monaco government said the \"strong explosion\" was caused by a \"parcel bomb\"",
+      "url": "https://www.ndtv.com/world-news/parcel-bomb-blast-in-monaco-injures-ukrainian-oligarch-2-others-11706042#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-30T07:54:10+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Parcel Bomb Blast In Monaco Injures Ukrainian Oligarch"
     },
     {
       "id": "0a8a639f7d47ebc03e24dbbc75ddcf91ad71f3d5",
@@ -109,129 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Russia could resort to provocations if war front nears Moscow"
-    },
-    {
-      "id": "b845104d9fa383c276d154aaa44566930bc54ee4",
-      "title": "Unease deepens in Russia as Ukraine steps up long-range strikes",
-      "summary": "Experts said Vladimir Putin was unlikely to change course despite worsening fuel shortages and a sharp decline in the stock market.",
-      "url": "https://www.washingtonpost.com/world/2026/06/27/unease-deepens-russia-ukraine-steps-up-long-range-strikes/",
-      "source": "World (Washington post)",
-      "published_at": "2026-06-27T09:00:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine steps up long-range strikes"
-    },
-    {
-      "id": "f842c58a206930006fc04c17ec36b02c345521de",
-      "title": "Baltic states urge EU to speed up ban on Russian oil imports - Financial Times",
-      "summary": "Baltic states urge EU to speed up ban on Russian oil imports&nbsp;&nbsp;Financial TimesItalian FM: We Cannot Buy Russian Gas If We Want to Force Russia to Negotiate&nbsp;&nbsp;uatv.uaBaltic countries urge EU to accelerat…",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLXRoZm4tR1JLMlBpd3ZYX0FTWEg4S1F6d21SMmJrNUlCREhWbXoxVUlrTXpSWHpJRjdsQ3AwaldadThuN2lGc3VDeVNlZzZabndjN1hfSmRmMGF4bld6Mi1YdkVJN0pudWZzcVFfV2xreXh1VTlPMVFlUV9temlVTTh0VWg?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-27T04:03:54+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Force Russia to Negotiate"
-    },
-    {
-      "id": "521b1e92dfadbad840f3d9ae11c33d2934751198",
-      "title": "Ukrainian drones drive Russia to declare emergency in occupied Crimea",
-      "summary": "Weeks of punishing strikes have disrupted water, fuel and electricity supplies across the peninsula, which Ukraine’s president has vowed to reclaim.",
-      "url": "https://www.washingtonpost.com/world/2026/06/26/ukrainian-drones-drive-russia-declare-emergency-occupied-crimea/",
-      "source": "World (Washington post)",
-      "published_at": "2026-06-26T19:22:50+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukrainian drones drive Russia to declare emergency"
-    },
-    {
-      "id": "f53b6ff05fc859f74fb76487d583fc052acf50cf",
-      "title": "Zelensky Steps Up Threats Against Belarus for Aiding Drone Attacks",
-      "summary": "Ukrainian officials say their northern neighbor is allowing its radio relay stations to be used to guide Russian attack drones more precisely.",
-      "url": "https://www.nytimes.com/2026/06/26/world/europe/zelensky-belarus-drones-relay.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-26T08:38:34+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Zelensky Steps Up Threats Against Belarus"
-    },
-    {
-      "id": "1ee384dc7211959eea2cd95a935f28717fbd156b",
-      "title": "Joint declaration from leaders meeting in Gdansk - Government.se",
-      "summary": "Joint declaration from leaders meeting in Gdansk&nbsp;&nbsp;Government.seAll quiet on the eastern flank? Nato leaders fear they can no longer rely on US help if Russia attacks&nbsp;&nbsp;The GuardianPoland's deputy prime…",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa2FRMko3UW9VdUhvWHgwQlN0cGI0U3M1RWhUT1VHcjlOdmtXOUFESTFtVFlBLW1LRnJLMDNIMWEyckR4ZzhtQ0RQc1ZEeUFsUVMySGZLT1BPUXM1a0xIeE9iSlBtbGxPZzFJNDdiaktCNlJYT0VSV1ZFd3VXdWd6TC01a0xzS3Q4RHlSQjM1UjNSNlpOUXAzYklUV1lQX0c0c0RGQ05YODk?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-25T12:02:05+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "war front nears Moscow and St. Petersburg"
-    },
-    {
-      "id": "4007397c3d973327339a88db6ab4d661a4299902",
-      "title": "FIREPOWER: NATO: One alliance, two narratives?",
-      "summary": "In today's edition: Quantum defence, Ukraine loan, Lithuania",
-      "url": "https://www.euractiv.com/news/firepower-nato-one-alliance-two-narratives/",
-      "source": "Euractiv",
-      "published_at": "2026-06-25T07:08:27+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine loan"
-    },
-    {
-      "id": "94e32a1811e561b7e1141b8eedb7ba4a631cf1ff",
-      "title": "HARVEST: The seal of excellence",
-      "summary": "In today's edition: livestock strategy, Ukraine, UPFs",
-      "url": "https://www.euractiv.com/news/harvest-the-seal-of-excellence/",
-      "source": "Euractiv",
-      "published_at": "2026-06-25T06:42:35+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "livestock strategy, Ukraine, UPFs"
-    },
-    {
-      "id": "0951f1fbcbadf205894015762e622e96926eca6a",
-      "title": "EU’s €8bn for Kyiv overshadowed by diplomatic rifts",
-      "summary": "EU to announce first tranche of Ukraine loan in Poland",
-      "url": "https://www.euractiv.com/news/eus-e8bn-for-kyiv-overshadowed-by-diplomatic-rifts/",
-      "source": "Euractiv",
-      "published_at": "2026-06-25T02:00:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "EU’s €8bn for Kyiv overshadowed by diplomatic rifts"
-    },
-    {
-      "id": "d0e1faecfd3fe2693afcfb2eab403891afa8c59c",
-      "title": "E5 leaders seek to prove Europe can deliver for Ukraine",
-      "summary": "The meeting in Berlin signalled to Washington that Europe was ready to do more ahead of next month's NATO summit",
-      "url": "https://www.euractiv.com/news/e5-leaders-seek-to-prove-europe-can-deliver-for-ukraine/",
-      "source": "Euractiv",
-      "published_at": "2026-06-24T17:34:40+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Europe can deliver for Ukraine"
-    },
-    {
-      "id": "6608c5c67a7ef3fd8ee5dfe25693605006b35af6",
-      "title": "First EU Ukraine Loan payment drops drone financing",
-      "summary": "The Commission and EEAS previously said the first disbursement would cover drones",
-      "url": "https://www.euractiv.com/news/first-eu-ukraine-loan-payment-drops-drone-financing-focuses-on-e3-2bn-budget-aid/",
-      "source": "Euractiv",
-      "published_at": "2026-06-24T13:16:51+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "First EU Ukraine Loan payment drops drone financing"
-    },
-    {
-      "id": "b241f32b9601d6710ba418acc8f01bcb466acac7",
-      "title": "Joint call on current and prospective donors to contribute to the Ukraine Energy Support Fund - energy.ec.europa.eu",
-      "summary": "Joint call on current and prospective donors to contribute to the Ukraine Energy Support Fund&nbsp;&nbsp;energy.ec.europa.euUkraine's energy system is not in survival mode — we are building Europe's energy future&nbsp;&n…",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdDJqc01fSVB0Q0VnMTBGTzVPUGxNS3pJcUxiTVFHVVJMd2VKSHoxbGNhYTF6a1VSQVZocmJ0enhIMFJJekdpdlBPdnVGamZjREI0Mk9Ba0F2WWZ2UDFfSGNETFExQkpWQkZ2Y0pEcXUxajlvSl90WjE1Z0ZvVEFLblZZLS0yVHF0UWhkZ09PRHduNUlLVkljeUhheTBocWFKaFNnR2toVnpxZ1JuNjdvaU1fMk4yMnNSaTdfN3FPSU5LWXVqMWc?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-24T12:00:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine's energy system is not in survival mode — we are building Europe's energy future"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-01T12:29:54Z"
+  "last_updated": "2026-07-02T11:55:32Z"
 }

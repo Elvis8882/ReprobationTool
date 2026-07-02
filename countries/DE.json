@@ -4,13 +4,34 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 510,
+  "sources": 514,
   "sentiment": {
-    "positive": 61,
-    "neutral": 373,
-    "negative": 76
+    "positive": 63,
+    "neutral": 374,
+    "negative": 77
   },
   "latest_articles": [
+    {
+      "id": "7f258754367a92c1ae05c83b0862f36b18283734",
+      "title": "Google loses fight over record $4.7 billion EU antitrust fine",
+      "summary": "In 2018, the European Commission slapped Google with the record-breaking penalty on the grounds that it abused Android's mobile dominance.",
+      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-02T11:13:36+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "6edb1bdd3890a3c934e38544acf7db6e6e70c4a9",
+      "title": "Ukrainian Charged With Sabotaging Pipelines Between Russia and Germany",
+      "summary": "A man identified only as Serhii K. is accused of overseeing an undersea bombing in 2022 that cut off a key source of Russian gas revenues.",
+      "url": "https://www.nytimes.com/2026/07/02/world/europe/pipeline-sabotage-ukraine-russia-germany.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-02T10:29:24+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Sabotaging Pipelines Between Russia and Germany... cut off a key source of Russian gas revenues"
+    },
     {
       "id": "e02c23cd5c502abb48ac6bf14472d6cd48ead62a",
       "title": "Ireland set to take presidency of EU in Dublin opening ceremony – Europe live",
@@ -32,6 +53,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "football team take on Germany"
+    },
+    {
+      "id": "e6a1aa8e1bc249f734751a4634ff610ec7dfa924",
+      "title": "United Kingdom Links With Germany, Netherlands, Sweden, Norway, Denmark and More in Europe Airport Operations Growth Story as Market Heads for USD 30.6 Billion by 2031 With Smart Airport Systems, Biometric Borders and Net-Zero Infrastructure - Travel And Tour World",
+      "summary": "United Kingdom Links With Germany, Netherlands, Sweden, Norway, Denmark and More in Europe Airport Operations Growth Story as Market Heads for USD 30.6 Billion by 2031 With Smart Airport Systems, Biometric Borders and Ne…",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NNzBBZXB4VHRjUXd0VVlCdV91amVieTZ5TmlkbFhESDE1R3hzM1QxRFVOUUNESlhsUDFORy1kVkxiY3dEQmlJZFJJa2lvbmdqN0xldDFwYTNieGg0bkZWODFFMF84cEwxUHJjdExB?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-01T10:49:52+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Germany, Netherlands, Sweden, Norway, Denmark and More in Europe Airport Operations Growth Story"
     },
     {
       "id": "9a1f00ed389dc0c27ba7cbca65c38441a8662828",
@@ -88,6 +120,17 @@
       "evidence": "Inflation likely to stay ‘significantly above target,’"
     },
     {
+      "id": "0607ddf839bbdf877a8e5215bbb2890a29b67a84",
+      "title": "Reader Q&A: ask Ajit Niranjan anything about Europe’s hellish week of heat",
+      "summary": "Our European environment correspondent has been reporting on the shocking heatwave that continues to scorch its way across Europe, covering everything from the lack of preparation to ways to deal with the heatPost your q…",
+      "url": "https://www.theguardian.com/community/live/2026/jun/30/reader-qa-ask-ajit-niranjan-anything-about-europes-hellish-week-of-heat",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-30T08:00:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Many European countries, including Germany, France, Czechia"
+    },
+    {
       "id": "adee7132be56ba816d9df5b4637aa1d89dab678f",
       "title": "6 Are Killed During a Rare Mass Shooting in Germany",
       "summary": "The authorities said a 45-year-old man opened fire at a youth facility after a quarrel about the custody of his baby daughter. The dead were all facility employees.",
@@ -119,6 +162,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "shooting at youth centre in Stade, northern Germany"
+    },
+    {
+      "id": "43a8b0e27b47559d8d7d9aef8548e70f60aa2ad5",
+      "title": "Live Updates: Major Police Op In Germany's Stade After 5 Dead In Mass Shooting",
+      "summary": "Atleast 5 people were killed after a shooting rocked the northern German city of Stade on Monday, triggering a massive police operation.",
+      "url": "https://www.ndtv.com/world-news/germany-mass-shooting-live-updates-atleast-5-killed-in-stade-1-arrested-11702675#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-29T12:39:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Major Police Op In Germany's Stade After 5 Dead In Mass Shooting"
     },
     {
       "id": "37ab654c527d9ce2f31106b608bcc20abce882fb",
@@ -173,63 +227,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "German authorities issued extreme heat warnings"
-    },
-    {
-      "id": "24b5c68634350423d65cea4377b9370a4fc7c60e",
-      "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
-      "summary": "An estimated 150 million people have been experiencing temperatures of over 35C across Europe.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-27T20:48:16+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Heatwave breaks records in Germany, Denmark and Czech Republic"
-    },
-    {
-      "id": "b38125eb36361ae239e858e2609743ba2425155c",
-      "title": "The Countries With The Cleanest Beaches And Swimming Water In Europe—2026 Report - Forbes",
-      "summary": "The Countries With The Cleanest Beaches And Swimming Water In Europe—2026 Report&nbsp;&nbsp;ForbesRanked: The European countries with the best lakes for safe swimming&nbsp;&nbsp;EuronewsEurope’s Safe Lake Tourism Booms a…",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSXRkcE9Hd19lWm1KM0xRdWVGeGtuM2VwSEd6X2hIcWRKMnpfaUEyaFZwLTl0cmt5dmxDZjNtckJDd1QzeFRSZVQ4WTEydkxZUlVPUEx0dGNmbFV6bFd5d1hMQlg0ZkM4NUFGcE5fRUcwLXFfbUdOUjZUZnZiOUp4VUhmczJKdTNSUjRxamI4ajFVNnNtWWItT3J2TjFmSm9Da2RpdW5ENC1LVHJ3XzAzcXU0SWpFWVJ6VEJYWU5EdDZoLTRWOS16SjRtY29VQWJCVEVPNVRob1pHaFZMMkVmcEtES2xuejlI?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-27T20:40:23+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Toward Austria, Finland, Germany, Italy, Switzerland and Hungary"
-    },
-    {
-      "id": "c74e9f74f0034d03cf7f72b667b642d4106fb6ca",
-      "title": "Europe heatwave live: Germany braced for temperatures ‘well over 40C’; extreme heat warnings for England",
-      "summary": "Forecasters say hottest conditions spreading into central and eastern EuropeWhile much of Germany is braced for temperatures above 40C today, countries farther east that are more usually on the frontline of the climate c…",
-      "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-27T10:52:57+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Germany braced for temperatures ‘well over 40C’"
-    },
-    {
-      "id": "48f5b81dd135e6305d503ed2c5c7eea2310b5499",
-      "title": "Facing Russia threat, Germany could bring back mandatory military service by mid-2027",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/europe/facing-russia-threat-germany-could-bring-back-mandatory-military-service-by-mid-2027/articleshow/132029182.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-06-27T05:29:43+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Germany could bring back mandatory military service"
-    },
-    {
-      "id": "374962b829ca465560333685c9620427ac6917b1",
-      "title": "Europe's deadly heatwave breaks German record and halts public events",
-      "summary": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-26T18:14:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "deadly heatwave breaks German record and halts public events"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-01T12:29:54Z"
+  "last_updated": "2026-07-02T11:55:32Z"
 }
