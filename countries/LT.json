@@ -4,13 +4,23 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 268,
+  "sources": 267,
   "sentiment": {
     "positive": 31,
-    "neutral": 223,
+    "neutral": 222,
     "negative": 14
   },
   "latest_articles": [
+    {
+      "id": "fbd7cb5420645af6ef454c43a6775ef9813c4f47",
+      "title": "Spyware used against MEP investigating Pegasus abuses, report finds",
+      "summary": "Researchers say Stelios Kouloglou’s device was compromised after he joined European parliamentary committeeNSO Group’s hacking software was repeatedly used against a member of the European parliament while he was conduct…",
+      "url": "https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-03T05:00:20+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "7f258754367a92c1ae05c83b0862f36b18283734",
       "title": "Google loses fight over record $4.7 billion EU antitrust fine",
@@ -20,6 +30,17 @@
       "published_at": "2026-07-02T11:13:36+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "26c9aa79d3b80896f1de1a002e3a15237ea58912",
+      "title": "Russia’s neighbor Lithuania scraps constitutional ban on nuclear weapons. Here's why",
+      "summary": "The decision comes shortly after lawmakers in Finland voted to lift its longstanding ban on nuclear weapons.",
+      "url": "https://www.cnbc.com/2026/07/02/russia-ukraine-nato-lithuania-nuclear-weapons.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-02T11:05:58+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Lithuania scraps constitutional ban on nuclear weapons"
     },
     {
       "id": "e4c9e29601effc77ec87b6d66a4dbd9ec8d2971d",
@@ -196,29 +217,8 @@
       "published_at": "2026-06-19T14:00:44+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "c8c33d633ae80ed070a5db28987edffce9dcecf5",
-      "title": "Brussels urges EU banking sector to ‘avoid zero-risk tolerance’",
-      "summary": "European Commission's draft report calls for 'cultural shift' by the EU's banks, regulators, and auditors",
-      "url": "https://www.euractiv.com/news/brussels-urges-eu-banks-sector-to-avoid-zero-risk-tolerance/",
-      "source": "Euractiv",
-      "published_at": "2026-06-18T16:53:35+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "35d5e0bfa372bdbe3513c579f311703fc8754543",
-      "title": "Not tanks, but apathy: the real threat to Lithuania's democracy – Tomas Janeliunas - The Baltic Times",
-      "summary": "Not tanks, but apathy: the real threat to Lithuania's democracy – Tomas Janeliunas&nbsp;&nbsp;The Baltic Times",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNczVvcV91REFkRVc3UjlkSkdMYjMxR3R0SmtiVlItZnlKNFVGVlJBMG5sYnZMUHBPYi1ydUtJd21rNWx1enB4c1RMbjZtXzZiRk1DRWEzYWpib2g4Y3R0RHpycmd6UkZ0RW1TTEJBNzhhSktPTUJnTXZqTXg1SFdIM25nRzBkei1pZS1FSGhPYkNRa1luUklabmJwVi16TG0zSHlDejJiNnJFY3kxNkM2SA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-18T14:59:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "threat to Lithuania's democracy"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-02T11:55:32Z"
+  "last_updated": "2026-07-03T11:49:20Z"
 }

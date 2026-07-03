@@ -1,16 +1,38 @@
 {
   "country": "SY",
-  "score": 58,
+  "score": 57,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 42,
+  "trend": -1,
+  "sources": 44,
   "sentiment": {
     "positive": 2,
-    "neutral": 24,
-    "negative": 16
+    "neutral": 25,
+    "negative": 17
   },
   "latest_articles": [
+    {
+      "id": "a88b3e837c081891ceded059a820711689471b1f",
+      "title": "Bomb blast at Damascus cafe kills nine, Syrian state media say",
+      "summary": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-03T06:42:14+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Bomb blast at Damascus cafe kills nine"
+    },
+    {
+      "id": "7a6578e5cfda8b0926e301330cf9c42f3553bfbf",
+      "title": "Bomb Explodes at Damascus Cafe, Killing at Least 6",
+      "summary": "The blast, near the Syrian capital’s main courthouse, underscored the country’s persistent instability as its leaders try to chart a path out of years of dictatorship and war.",
+      "url": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-02T17:31:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "country’s persistent instability as its leaders try to chart a path"
+    },
     {
       "id": "59ac9fc9b9c2c6f08070479bf9bab24b1c64901b",
       "title": "Syria's president names final 70 lawmakers to new post-Assad parliament",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "accused of joining Islamic State in Syria refused bail"
-    },
-    {
-      "id": "da8af9ed8ebcf4d2b096c05542ede3bc64fc4511",
-      "title": "Two Islamic-State linked Australian women charged with crimes against humanity",
-      "summary": "A third woman who also returned to Australia from Syria was charged with joining a terrorist organisation.",
-      "url": "https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-08T05:07:55+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Islamic-State linked Australian women charged with crimes against humanity"
-    },
-    {
-      "id": "5790085d82ba76f54b7a931c651078c7ea8cad73",
-      "title": "Two Australian Women Linked To ISIS Charged With Keeping Slave In Syria",
-      "summary": "Both were immediately arrested after their flight landed at Melbourne International airport.",
-      "url": "https://www.ndtv.com/world-news/two-australian-women-linked-to-isis-charged-with-keeping-slave-in-syria-11465001#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-05-08T00:38:31+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Linked To ISIS Charged With Keeping Slave In Syria"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-02T11:55:32Z"
+  "last_updated": "2026-07-03T11:49:20Z"
 }

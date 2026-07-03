@@ -1,16 +1,26 @@
 {
   "country": "NL",
-  "score": 98,
+  "score": 97,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 294,
+  "trend": -1,
+  "sources": 293,
   "sentiment": {
     "positive": 16,
-    "neutral": 267,
-    "negative": 11
+    "neutral": 265,
+    "negative": 12
   },
   "latest_articles": [
+    {
+      "id": "fbd7cb5420645af6ef454c43a6775ef9813c4f47",
+      "title": "Spyware used against MEP investigating Pegasus abuses, report finds",
+      "summary": "Researchers say Stelios Kouloglou’s device was compromised after he joined European parliamentary committeeNSO Group’s hacking software was repeatedly used against a member of the European parliament while he was conduct…",
+      "url": "https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-03T05:00:20+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "7f258754367a92c1ae05c83b0862f36b18283734",
       "title": "Google loses fight over record $4.7 billion EU antitrust fine",
@@ -31,6 +41,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Amsterdam-based company"
+    },
+    {
+      "id": "b001251f03c774f4f2d71f7d59fb112d15243c64",
+      "title": "Russia ‘mounted drone surveillance of European nuclear sites over 18 months’",
+      "summary": "Researchers say Moscow acted with ‘substantial impunity’ in 144 incidents, including over RAF LakenheathThe Kremlin orchestrated a concerted surveillance campaign using drones launched from shadow fleet vessels over an 1…",
+      "url": "https://www.theguardian.com/world/2026/jul/02/russia-mounted-drone-surveillance-of-european-nuclear-sites-over-18-months",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-02T08:30:08+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "targeted nuclear sites in the UK, France, Belgium and the Netherlands"
     },
     {
       "id": "e6a1aa8e1bc249f734751a4634ff610ec7dfa924",
@@ -199,28 +220,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Dutch royals enjoy two big results in one World Cup day"
-    },
-    {
-      "id": "bf8c8d719dc94ea106f5d6ff7889ac6e3bedf966",
-      "title": "Two-thirds of EU citizens back UK rejoining bloc, survey finds",
-      "summary": "Poll also finds three quarters of people in Britain want closer ties, with majority accepting free movementTwo-thirds of EU citizens would back Britain rejoining the bloc, while most UK voters say Brexit has been bad for…",
-      "url": "https://www.theguardian.com/politics/2026/jun/21/two-thirds-eu-citizens-back-uk-rejoining-bloc-brexit-survey",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-21T05:00:21+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "97dbd42f869bce7f5b09d1372dd3be31a6bd55ff",
-      "title": "‘It’s Russian roulette’: alarm as Europe backs critical minerals mines in water-stressed regions",
-      "summary": "Exclusive: European Commission planning to rewrite key law to allow water-intensive mines in regions suffering from droughtThe European Commission plans to rewrite the EU’s flagship water protection law to speed up the d…",
-      "url": "https://www.theguardian.com/environment/2026/jun/20/europe-backs-critical-minerals-mines-water-stressed-regions",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-20T06:00:03+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-02T11:55:32Z"
+  "last_updated": "2026-07-03T11:49:20Z"
 }

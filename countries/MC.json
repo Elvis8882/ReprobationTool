@@ -3,14 +3,25 @@
   "score": 55,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -45,
-  "sources": 8,
+  "trend": 0,
+  "sources": 10,
   "sentiment": {
     "positive": 0,
-    "neutral": 7,
-    "negative": 1
+    "neutral": 8,
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "ac5e934545547f6bbf5e8ac264eecf080e9a3510",
+      "title": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
+      "summary": "Monaco's prosecutor's office says the suspect is no longer in Monaco.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-03T10:58:26+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Monaco bomb attack"
+    },
     {
       "id": "01f2d6f7fb05bddbef6a4628bb821b40e7040e1a",
       "title": "Who Is Vadym Yermolaiev? Sanctioned Ukrainian Tycoon Wounded In Monaco Parcel Bomb Attack",
@@ -54,6 +65,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Monaco bombing was ‘attempted assassination’, not terror attack"
+    },
+    {
+      "id": "c5995c4376f36f65d7b99f69e7df16775b802d2f",
+      "title": "Monaco in shock after parcel bomb injures Ukrainian-born business leader",
+      "summary": "Normally safe principality left reeling from apartment blast, which also injured Vadym Iermolaiev’s wife and childPolice in Monaco are searching for a suspected bomber after a Ukrainian-born business tycoon, his wife and…",
+      "url": "https://www.theguardian.com/world/2026/jun/30/monaco-parcel-bomb-blast-ukrainian-oligarch",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-30T09:39:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Monaco in shock after parcel bomb injures Ukrainian-born business leader"
     },
     {
       "id": "0b840e53c75fe1e40fae07746716dc55bed12a45",
@@ -101,5 +123,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-02T11:55:32Z"
+  "last_updated": "2026-07-03T11:49:20Z"
 }

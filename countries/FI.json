@@ -4,13 +4,23 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 251,
+  "sources": 252,
   "sentiment": {
-    "positive": 17,
-    "neutral": 228,
-    "negative": 6
+    "positive": 18,
+    "neutral": 227,
+    "negative": 7
   },
   "latest_articles": [
+    {
+      "id": "fbd7cb5420645af6ef454c43a6775ef9813c4f47",
+      "title": "Spyware used against MEP investigating Pegasus abuses, report finds",
+      "summary": "Researchers say Stelios Kouloglou’s device was compromised after he joined European parliamentary committeeNSO Group’s hacking software was repeatedly used against a member of the European parliament while he was conduct…",
+      "url": "https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-03T05:00:20+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "7f258754367a92c1ae05c83b0862f36b18283734",
       "title": "Google loses fight over record $4.7 billion EU antitrust fine",
@@ -22,6 +32,17 @@
       "sentiment_fallback": true
     },
     {
+      "id": "26c9aa79d3b80896f1de1a002e3a15237ea58912",
+      "title": "Russia’s neighbor Lithuania scraps constitutional ban on nuclear weapons. Here's why",
+      "summary": "The decision comes shortly after lawmakers in Finland voted to lift its longstanding ban on nuclear weapons.",
+      "url": "https://www.cnbc.com/2026/07/02/russia-ukraine-nato-lithuania-nuclear-weapons.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-02T11:05:58+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Finland voted to lift its longstanding ban on nuclear weapons"
+    },
+    {
       "id": "c7f6d31a3c14a2f5688daab09ff490bcf29a7357",
       "title": "Alleged Scattered Spider hacker arrested in Finland",
       "summary": "The 19-year-old dual American-Estonian national has been extradited to the US, where he is facing federal charges.",
@@ -31,6 +52,17 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "hacker arrested in Finland"
+    },
+    {
+      "id": "3a9c7b1b7f3a8f76d7f01f006b0ce0b6269c5846",
+      "title": "Russia Closes Railway Border Crossings With Finland and Baltic Neighbors - The Moscow Times",
+      "summary": "Russia Closes Railway Border Crossings With Finland and Baltic Neighbors&nbsp;&nbsp;The Moscow TimesRussia closes railway border crossings with Finland, Estonia and Latvia&nbsp;&nbsp;EuronewsRussia Urgently Halts Rail Cr…",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd3NscUVHd01PZk5wdDJnYnhTSnJ1VnFnVkVrY1BRMVc3b2RwMUFJSlZsTVkxLXdPUnl5c29CZG02LVV1dldOaE5rZGVYSjd1aVNsMHdIZ2xBdV9RUm83NXhITnlIdURCLXlLQmV5Q0NnZ0ZnVUhkSktkZ2tkbzlrZmlmVmdOXzdNYUlJWFFsbzl1YkFMSl9BbjhDaGZ5X0JTYWFfMzhHZWpHZEpBYmpmRXl1UFdkcXpoNEJaNXpB?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-01T08:52:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia closes railway border crossings with Finland, Estonia and Latvia"
     },
     {
       "id": "9a1f00ed389dc0c27ba7cbca65c38441a8662828",
@@ -184,38 +216,8 @@
       "published_at": "2026-06-18T16:53:35+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "476e0e809a41c59fb489d4ef69e9bbc7c78213bc",
-      "title": "EU Parliament’s internal market committee requests to co-lead cloud sovereignty law",
-      "summary": "A political clash between the centre-right EPP and the Greens is also brewing",
-      "url": "https://www.euractiv.com/news/eu-parliaments-internal-market-committee-requests-to-co-lead-cloud-sovereignty-law/",
-      "source": "Euractiv",
-      "published_at": "2026-06-18T13:15:52+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "9265d865c1d6e70df105c9b8aeaf5be209b2ffaa",
-      "title": "Czechia, Slovakia weigh in on Methane Regulation spat",
-      "summary": "European Commission's planned workaround puts oil and gas importers in impossible situation, they say",
-      "url": "https://www.euractiv.com/news/czechia-slovakia-weigh-in-on-methane-regulation-spat/",
-      "source": "Euractiv",
-      "published_at": "2026-06-18T10:56:19+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "af323dbd8077b3ef74d25822fb1ad94b734a856c",
-      "title": "Parliament condemns Russia’s drone incursions in the EU | Atualidade | Parlamento Europeu - European Parliament",
-      "summary": "Parliament condemns Russia’s drone incursions in the EU | Atualidade | Parlamento Europeu&nbsp;&nbsp;European ParliamentEU’s Eastern Flank Demands Brussels Step Up on Air-Defense Funds&nbsp;&nbsp;Bloomberg.comEuropean Co…",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONmw3YklNVUNNWTg2SnFZV2RUMjl1Ti10UjctLWh5S00xb3dfZEV3WHF4akIzUnNRWVp4VlY2dzdNWDlOSHJmUW9nOGpPaW9ETEpHdHNmU1JqMVFISkN4dFJxSlhIbV9GR0hqMEg4ckpkb2dMSi1KU1pnZS1LNXVJQ3VHVFB2X05TQ0VMdTh6aDBCa2taSExlTzh5c2tEQ2RvTHNhdmZ6SHdjOW9jMjdEeU8tOFZySEI1eE5mcjZpSQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-18T10:38:19+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-02T11:55:32Z"
+  "last_updated": "2026-07-03T11:49:20Z"
 }

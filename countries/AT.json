@@ -1,16 +1,26 @@
 {
   "country": "AT",
-  "score": 94,
+  "score": 93,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 249,
+  "trend": -1,
+  "sources": 248,
   "sentiment": {
-    "positive": 10,
+    "positive": 9,
     "neutral": 226,
     "negative": 13
   },
   "latest_articles": [
+    {
+      "id": "fbd7cb5420645af6ef454c43a6775ef9813c4f47",
+      "title": "Spyware used against MEP investigating Pegasus abuses, report finds",
+      "summary": "Researchers say Stelios Kouloglou’s device was compromised after he joined European parliamentary committeeNSO Group’s hacking software was repeatedly used against a member of the European parliament while he was conduct…",
+      "url": "https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-03T05:00:20+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "7f258754367a92c1ae05c83b0862f36b18283734",
       "title": "Google loses fight over record $4.7 billion EU antitrust fine",
@@ -72,6 +82,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Austrian Grand Prix declares heat hazard"
+    },
+    {
+      "id": "64359e0ccddec201864749d9aa3b25d5c764aefa",
+      "title": "Porsche magnate puts historic Salzburg villa up for sale after row over private ‘tunnel for one’",
+      "summary": "Plans by Wolfgang Porsche to bore private 500-metre road link through Austrian hill caused anger among localsWolfgang Porsche, the Austrian-German automotive magnate, appears to have abandoned plans to build a private 50…",
+      "url": "https://www.theguardian.com/world/2026/jun/26/wolfgang-porsche-salzburg-villa-up-for-sale-tunnel-austria",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-26T05:00:10+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Porsche magnate puts historic Salzburg villa up for sale"
     },
     {
       "id": "0775be70a2a2f50f8904d7d32782aac9f040ff74",
@@ -192,28 +213,8 @@
       "published_at": "2026-06-18T10:38:19+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "415667e53c985a0a435f60ba30ac4115f97fa999",
-      "title": "Household consumption price levels across the EU in 2025 - European Commission",
-      "summary": "Household consumption price levels across the EU in 2025&nbsp;&nbsp;European CommissionWorrisome: Hungary was the poorest EU country in 2025&nbsp;&nbsp;Daily News HungaryWealth gaps persist as EU household consumption ra…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsXzc5VzVhYnZtdXhmaHpBOWZHQTJHNTJ5anZEMjc2TEdqQ280Z2xXc0FlekpRSnhmUnVMbVZfR1VEUlVyelkxUTc0dFN4NFhNSkUwSzhIcDZqeG1Ua2R0LThhaFIzOFRsWjF3UzV3b21UeGRJRG5CS1BEbld5dw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-18T09:04:03+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "09e3e6dd1b3784880dca05c40c18326930d97ed2",
-      "title": "Ukraine’s EU dreams set for rude awakening",
-      "summary": "European Commission is exploring a 'membership-lite' model that Kyiv rejects",
-      "url": "https://www.euractiv.com/news/ukraines-eu-dreams-set-for-rude-awakening/",
-      "source": "Euractiv",
-      "published_at": "2026-06-18T02:00:04+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-02T11:55:32Z"
+  "last_updated": "2026-07-03T11:49:20Z"
 }

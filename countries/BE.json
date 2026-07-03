@@ -1,16 +1,26 @@
 {
   "country": "BE",
-  "score": 88,
+  "score": 87,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 377,
+  "trend": -1,
+  "sources": 378,
   "sentiment": {
-    "positive": 42,
-    "neutral": 295,
-    "negative": 40
+    "positive": 43,
+    "neutral": 294,
+    "negative": 41
   },
   "latest_articles": [
+    {
+      "id": "fbd7cb5420645af6ef454c43a6775ef9813c4f47",
+      "title": "Spyware used against MEP investigating Pegasus abuses, report finds",
+      "summary": "Researchers say Stelios Kouloglou’s device was compromised after he joined European parliamentary committeeNSO Group’s hacking software was repeatedly used against a member of the European parliament while he was conduct…",
+      "url": "https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-03T05:00:20+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "7f258754367a92c1ae05c83b0862f36b18283734",
       "title": "Google loses fight over record $4.7 billion EU antitrust fine",
@@ -20,6 +30,17 @@
       "published_at": "2026-07-02T11:13:36+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "b001251f03c774f4f2d71f7d59fb112d15243c64",
+      "title": "Russia ‘mounted drone surveillance of European nuclear sites over 18 months’",
+      "summary": "Researchers say Moscow acted with ‘substantial impunity’ in 144 incidents, including over RAF LakenheathThe Kremlin orchestrated a concerted surveillance campaign using drones launched from shadow fleet vessels over an 1…",
+      "url": "https://www.theguardian.com/world/2026/jul/02/russia-mounted-drone-surveillance-of-european-nuclear-sites-over-18-months",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-02T08:30:08+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "targeted nuclear sites in the UK, France, Belgium and the Netherlands"
     },
     {
       "id": "d1a980d841740270bb113e01185cbe348d529c22",
@@ -94,6 +115,17 @@
       "published_at": "2026-06-26T14:52:09+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "4093fa8b530fe49f856c98bece372dcd6e7d6c42",
+      "title": "ERR in Gdańsk: Eastern Flank leaders urge stronger defense and closer US ties - ERR",
+      "summary": "ERR in Gdańsk: Eastern Flank leaders urge stronger defense and closer US ties&nbsp;&nbsp;ERREU’s Eastern Flank Demands Brussels Step Up on Air-Defense Funds&nbsp;&nbsp;Bloomberg.comDonald Tusk will brief European partner…",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWVBxNUZ4YVhRTWFhSzFqU1FIVV9uOVpZNVhDME9NM3BnNmNOY2N6RjNmNC1VRWxsczRuYTFvZWFDdnNQNzBpeGhYaHk3ZEkteFcxeDRXYm9FTl96MWZNMmkyVThxeW1hR0xWZlg3TWtqQnJtUmtBSnp2UUNrOTV4OWVsdzdNZWplWVVyT19YSjhWRXpGeElmUDdTRGFGVUdVNHAtVDlVanFpS1E?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-06-26T08:10:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Eastern Flank Demands Brussels Step Up on Air-Defense Funds"
     },
     {
       "id": "d231dd1db1472f5333ad5c3cd16d8e7cf23a102c",
@@ -189,41 +221,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Brussels heavyweights are clashing"
-    },
-    {
-      "id": "284e1f381587e5505f063e5e7fe5927209a602d9",
-      "title": "Iran Team Leaves Locker Room Note: The ‘Spirit of Iran Remains Alive and Steadfast’",
-      "summary": "After fighting Belgium to a draw for one of Iran’s best World Cup results, the Iranians had a note for their fans and the world.",
-      "url": "https://www.nytimes.com/2026/06/22/world/middleeast/iran-world-cup-locker-room-note.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-22T22:47:27+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "fighting Belgium to a draw"
-    },
-    {
-      "id": "981c82b181175b629cf887580c7c1e474bd670ea",
-      "title": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels",
-      "summary": "The delegation received visas from Belgium to attend talks with the European Union about the deportation of Afghans. Officials in Afghanistan said the meeting would take place on Tuesday.",
-      "url": "https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-22T19:00:15+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels"
-    },
-    {
-      "id": "c123adb5febb6a7d6cdacfbd6f235674eadf2d15",
-      "title": "Qatargate: Belgium seeks to lift immunity for former Commissioner",
-      "summary": "Belgian authorities have launched a procedure that could result in an arrest warrant being issued for former EU Migration Commissioner Dimitris Avramopoulos, due to his alleged involvement in the Qatargate scandal. The f…",
-      "url": "https://www.euractiv.com/news/qatargate-belgium-seeks-to-lift-immunity-for-former-commissioner/",
-      "source": "Euractiv",
-      "published_at": "2026-06-22T16:54:17+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Qatargate: Belgium seeks to lift immunity for former Commissioner"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-02T11:55:32Z"
+  "last_updated": "2026-07-03T11:49:20Z"
 }

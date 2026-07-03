@@ -1,16 +1,26 @@
 {
   "country": "IT",
-  "score": 85,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 416,
+  "trend": -1,
+  "sources": 414,
   "sentiment": {
-    "positive": 33,
-    "neutral": 345,
-    "negative": 38
+    "positive": 32,
+    "neutral": 343,
+    "negative": 39
   },
   "latest_articles": [
+    {
+      "id": "fbd7cb5420645af6ef454c43a6775ef9813c4f47",
+      "title": "Spyware used against MEP investigating Pegasus abuses, report finds",
+      "summary": "Researchers say Stelios Kouloglou’s device was compromised after he joined European parliamentary committeeNSO Group’s hacking software was repeatedly used against a member of the European parliament while he was conduct…",
+      "url": "https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-03T05:00:20+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "7f258754367a92c1ae05c83b0862f36b18283734",
       "title": "Google loses fight over record $4.7 billion EU antitrust fine",
@@ -119,6 +129,17 @@
       "sentiment_fallback": true
     },
     {
+      "id": "29962c17ad0acfe2ddf89a4f18242a9333bf67f8",
+      "title": "Done Quixote? Film archivists on quest to finish Orson Welles passion project",
+      "summary": "Team hope 30 of hours of footage held by three countries will be enough to bring to life film-maker’s visionMore than 70 years after he shot the first few frames, Orson Welles’s ambitious project to put Don Quixote on th…",
+      "url": "https://www.theguardian.com/film/2026/jun/29/orson-welles-unfinished-don-quixote-film",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-29T10:00:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "held by three countries will be enough"
+    },
+    {
       "id": "b38125eb36361ae239e858e2609743ba2425155c",
       "title": "The Countries With The Cleanest Beaches And Swimming Water In Europe—2026 Report - Forbes",
       "summary": "The Countries With The Cleanest Beaches And Swimming Water In Europe—2026 Report&nbsp;&nbsp;ForbesRanked: The European countries with the best lakes for safe swimming&nbsp;&nbsp;EuronewsEurope’s Safe Lake Tourism Booms a…",
@@ -203,30 +224,8 @@
       "published_at": "2026-06-25T10:02:21+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "b344d37007eb6f342aa9ff3474f221de05e2c3a3",
-      "title": "Italy reignites Franco-German feud over multi-billion switchgear market",
-      "summary": "Rome says banning use of world's worst greenhouse gas favours Germany's Siemens",
-      "url": "https://www.euractiv.com/news/italy-reignites-franco-german-feud-over-multi-billion-switchgear-market/",
-      "source": "Euractiv",
-      "published_at": "2026-06-25T02:00:19+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Italy reignites Franco-German feud over multi-billion switchgear market"
-    },
-    {
-      "id": "b280585b63b871be90dd13e44b9cc3d6b9fe2d75",
-      "title": "Can France’s far right copy-paste the Meloni method?",
-      "summary": "Bardella is interested but her strategy might not work outside Italian politics",
-      "url": "https://www.euractiv.com/news/can-french-far-right-copy-paste-the-meloni-method/",
-      "source": "Euractiv",
-      "published_at": "2026-06-25T02:00:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Meloni method... outside Italian politics"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-02T11:55:32Z"
+  "last_updated": "2026-07-03T11:49:20Z"
 }

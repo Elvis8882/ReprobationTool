@@ -7,10 +7,21 @@
   "sources": 788,
   "sentiment": {
     "positive": 38,
-    "neutral": 277,
-    "negative": 473
+    "neutral": 279,
+    "negative": 471
   },
   "latest_articles": [
+    {
+      "id": "7f6d540e8cecae162b3a60af0b7c873fb73ce9e3",
+      "title": "Ali Khamenei’s six-day funeral expected to draw millions in Iran",
+      "summary": "Huge scale of funeral for supreme leader across five cities is intended to relay message of resistance to rest of the worldIn the small hours of Friday the police roadblocks, stalls, posters and army vans were starting t…",
+      "url": "https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-03T05:43:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "US-Israeli attack on the country"
+    },
     {
       "id": "6442106cf8f39b954861e17eeb1e1717c997577f",
       "title": "Mass Mournings,6 Days and 2 Countries: Iran Prepares to Bury Supreme Leader",
@@ -21,6 +32,17 @@
       "sentiment": "mixed",
       "confidence": 0.7,
       "evidence": "killed during U.S.-Israeli strikes at the war’s outset"
+    },
+    {
+      "id": "4577780d3ba59b33973542e02c92ec42cca262f1",
+      "title": "Gaza patients face agonising delays for medical evacuation",
+      "summary": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
+      "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-02T04:59:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Gaza patients face agonising delays for medical evacuation"
     },
     {
       "id": "0103eba510449641d02136a75f348cc311cd2165",
@@ -111,6 +133,17 @@
       "evidence": "Israel strikes southern Lebanon"
     },
     {
+      "id": "15435b2a4c3ba8fe8bcc5cf46755361d21675e8c",
+      "title": "Deal With Israel Divides Lebanese, Fueling Protests in Beirut",
+      "summary": "Supporters welcomed the agreement as a step toward curtailing Iran’s influence within Lebanon, but others took to the streets, calling it a capitulation.",
+      "url": "https://www.nytimes.com/2026/06/27/world/middleeast/lebanon-israel-deal-divisions-protests-beirut.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-27T17:13:00+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.6,
+      "evidence": "Deal With Israel Divides Lebanese, Fueling Protests in Beirut"
+    },
+    {
       "id": "16e6618300b5caf2533d0b6d02e724445357b9ed",
       "title": "Challenges That Lie Ahead For The US-Israel-Lebanon Deal",
       "summary": "Netanyahu said displaced Lebanese civilians will not be allowed to return home to occupied areas.",
@@ -177,6 +210,17 @@
       "evidence": "Israel launched missile attacks on Tehran"
     },
     {
+      "id": "d83ce4a52e1353c70cbac5b727e84627bdadf4d2",
+      "title": "UN Report Highlights Severe Impact of Gaza Conflict On Palestinian Children",
+      "summary": "UN inquiry documents severe physical and psychological harm to Gaza children.",
+      "url": "https://www.ndtv.com/world-news/un-report-highlights-severe-impact-of-gaza-conflict-on-palestinian-children-11684817#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-06-25T06:44:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "UN Report Highlights Severe Impact of Gaza Conflict On Palestinian Children"
+    },
+    {
       "id": "194f24f6b26701324ef0c766ce23f87c7dd5d1fd",
       "title": "Israel says IDF is staying in southern Lebanon, undermining Iran peace talks",
       "summary": "Defence minister says troops not withdrawing though Tehran sees end to war in Lebanon as part of deal with USThe Israeli defence minister, Israel Katz, has said that Israeli troops would not withdraw from southern Lebano…",
@@ -186,52 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Israel says IDF is staying in southern Lebanon, undermining Iran peace talks"
-    },
-    {
-      "id": "a9d0dc0e192056cd76ab90778665c1ba83fa6996",
-      "title": "Israel deliberately targeted Palestinian children in Gaza, U.N. commission says",
-      "summary": "The Israeli Foreign Ministry called the findings a “libelous sham.”",
-      "url": "https://www.washingtonpost.com/world/2026/06/24/israel-deliberately-targeted-palestinian-children-gaza-un-commission-says/",
-      "source": "World (Washington post)",
-      "published_at": "2026-06-24T18:25:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel deliberately targeted Palestinian children in Gaza, U.N. commission says"
-    },
-    {
-      "id": "4bef2ff2f9db6b1ed4e28692463fb201e4e6ffb3",
-      "title": "Israel Says It Has Trapped Hezbollah Fighters Underground in Southern Lebanon",
-      "summary": "The Israeli military says thousands of troops have surrounded a large tunnel network in southern Lebanon. The standoff is at the center of intense clashes in the area recently.",
-      "url": "https://www.nytimes.com/2026/06/24/world/middleeast/israel-lebanon-hezbollah-fighters-tunnels.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-24T15:46:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel Says It Has Trapped Hezbollah Fighters Underground in Southern Lebanon"
-    },
-    {
-      "id": "4a8eaf70fbe492ebeda05b90b1bfabdb356a891c",
-      "title": "Myanmar’s Civil War Has Become an Apocalypse",
-      "summary": "Overshadowed by conflicts in Ukraine, Gaza and Lebanon, the fighting in Myanmar’s isolated heartland has reached new depths.",
-      "url": "https://www.nytimes.com/2026/06/24/world/asia/myanmar-civil-war-rebels-airstrikes.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-24T04:01:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "conflicts in Ukraine, Gaza and Lebanon"
-    },
-    {
-      "id": "1ccfc76f5f16e5830eaef3c598256366d2f76a63",
-      "title": "U.N. Report Says Israeli Killings of Gaza Children Post-Truce Amount to Genocide",
-      "summary": "Israel’s U.N. mission dismissed the report as a “libelous sham,” and called the investigating commission a “fundamentally flawed mechanism.”",
-      "url": "https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-23T21:29:17+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israeli Killings of Gaza Children Post-Truce Amount to Genocide"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-02T11:55:32Z"
+  "last_updated": "2026-07-03T11:49:20Z"
 }

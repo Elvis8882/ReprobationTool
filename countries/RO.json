@@ -1,16 +1,26 @@
 {
   "country": "RO",
-  "score": 76,
+  "score": 75,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 274,
   "sentiment": {
     "positive": 16,
-    "neutral": 219,
-    "negative": 39
+    "neutral": 218,
+    "negative": 40
   },
   "latest_articles": [
+    {
+      "id": "fbd7cb5420645af6ef454c43a6775ef9813c4f47",
+      "title": "Spyware used against MEP investigating Pegasus abuses, report finds",
+      "summary": "Researchers say Stelios Kouloglou’s device was compromised after he joined European parliamentary committeeNSO Group’s hacking software was repeatedly used against a member of the European parliament while he was conduct…",
+      "url": "https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-03T05:00:20+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "7f258754367a92c1ae05c83b0862f36b18283734",
       "title": "Google loses fight over record $4.7 billion EU antitrust fine",
@@ -205,18 +215,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Stanislav Carpiuc, 27, from Romania"
-    },
-    {
-      "id": "9265d865c1d6e70df105c9b8aeaf5be209b2ffaa",
-      "title": "Czechia, Slovakia weigh in on Methane Regulation spat",
-      "summary": "European Commission's planned workaround puts oil and gas importers in impossible situation, they say",
-      "url": "https://www.euractiv.com/news/czechia-slovakia-weigh-in-on-methane-regulation-spat/",
-      "source": "Euractiv",
-      "published_at": "2026-06-18T10:56:19+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-02T11:55:32Z"
+  "last_updated": "2026-07-03T11:49:20Z"
 }
