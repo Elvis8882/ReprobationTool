@@ -1,14 +1,14 @@
 {
   "country": "GR",
-  "score": 84,
+  "score": 83,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": -1,
-  "sources": 297,
+  "sources": 299,
   "sentiment": {
     "positive": 11,
-    "neutral": 260,
-    "negative": 27
+    "neutral": 261,
+    "negative": 28
   },
   "latest_articles": [
     {
@@ -31,6 +31,17 @@
       "published_at": "2026-07-02T11:13:36+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "836f4ffd8767ffb4c300a41fb5cfc8c9e72f9c37",
+      "title": "Bombings in Greece Target Governing Party Members, Officials Say",
+      "summary": "A candidate for Parliament for the New Democracy party was injured in one of the bombings in the city of Thessaloniki, as were her parents, the police said.",
+      "url": "https://www.nytimes.com/2026/07/01/world/europe/greece-bombings-thessaloniki.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-01T17:44:52+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Bombings in Greece Target Governing Party Members, Officials Say"
     },
     {
       "id": "9a1f00ed389dc0c27ba7cbca65c38441a8662828",
@@ -161,6 +172,16 @@
       "evidence": "Qatargate: I was cleared, says Avramopoulos"
     },
     {
+      "id": "a46aa5a56a05708eb0f8a6dc0bcf690c4bb5f0db",
+      "title": "Britain Is Still Deep in the Shadow of Brexit",
+      "summary": "Ten years after a slim majority voted to leave the European Union, the economic and political effects of that decision continue to disrupt the United Kingdom.",
+      "url": "https://www.nytimes.com/2026/06/23/world/europe/britain-brexit-legacy.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-23T16:33:42+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "b263d5d5380c2b74886a844a97688bb869207145",
       "title": "EU’s off-patent medicines industry calls for industrial strategy at Athens summit [Advocacy Lab]",
       "summary": "Medicines for Europe conference highlights Greece’s growing role as a pharmaceutical manufacturing hub ahead of the country’s 2027 EU Council Presidency",
@@ -200,28 +221,8 @@
       "published_at": "2026-06-22T19:00:15+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "bf8c8d719dc94ea106f5d6ff7889ac6e3bedf966",
-      "title": "Two-thirds of EU citizens back UK rejoining bloc, survey finds",
-      "summary": "Poll also finds three quarters of people in Britain want closer ties, with majority accepting free movementTwo-thirds of EU citizens would back Britain rejoining the bloc, while most UK voters say Brexit has been bad for…",
-      "url": "https://www.theguardian.com/politics/2026/jun/21/two-thirds-eu-citizens-back-uk-rejoining-bloc-brexit-survey",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-21T05:00:21+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "97dbd42f869bce7f5b09d1372dd3be31a6bd55ff",
-      "title": "‘It’s Russian roulette’: alarm as Europe backs critical minerals mines in water-stressed regions",
-      "summary": "Exclusive: European Commission planning to rewrite key law to allow water-intensive mines in regions suffering from droughtThe European Commission plans to rewrite the EU’s flagship water protection law to speed up the d…",
-      "url": "https://www.theguardian.com/environment/2026/jun/20/europe-backs-critical-minerals-mines-water-stressed-regions",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-20T06:00:03+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-03T11:49:20Z"
+  "last_updated": "2026-07-04T11:08:28Z"
 }

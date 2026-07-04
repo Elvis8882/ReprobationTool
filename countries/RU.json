@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 738,
+  "sources": 746,
   "sentiment": {
     "positive": 33,
     "neutral": 146,
-    "negative": 560
+    "negative": 568
   },
   "latest_articles": [
+    {
+      "id": "4b731e1ef939c0beb9a4fc878b121c96e8c213ac",
+      "title": "Polish PM warns critical months ahead in face of Russian threat",
+      "summary": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
+      "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-03T16:41:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russian threat"
+    },
     {
       "id": "3dcb284e75afca0598de0580384d111cc2226b0a",
       "title": "Allies Converge on Iran as Funeral Ceremonies for Supreme Leader Begin",
@@ -23,6 +34,39 @@
       "evidence": "Foreign dignitaries from China, Russia, Pakistan and elsewhere are set to pay respects"
     },
     {
+      "id": "233d844e229b9a58e939cb27f258573d3f31b748",
+      "title": "Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia",
+      "summary": "“Are we in the Soviet Union now?” asked one Russian, stunned and frustrated by the waits at the pumps.",
+      "url": "https://www.nytimes.com/2026/07/03/world/europe/russia-gas-shortages.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-03T10:47:14+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia"
+    },
+    {
+      "id": "dfab13ebc101d7a2d4fa9d7ef6f3fd662b122be3",
+      "title": "With Attacks on Crimea, Ukraine Hopes to Pressure Putin to End the War",
+      "summary": "Escalating drone strikes, fuel shortages and power cuts in the region Russia annexed are among the factors turning up the heat on President Vladimir V. Putin.",
+      "url": "https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-03T07:03:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Escalating drone strikes, fuel shortages and power cuts in the region Russia annexed"
+    },
+    {
+      "id": "640ffd3da9bd8ff1c41351866f597702b94a3ffb",
+      "title": "Friday briefing: The US at 250: who gets to tell the story?",
+      "summary": "In today’s newsletter: As official celebrations spotlight a narrow cast of ​white heroes, communities across the US are reclaiming the histories that Freedom 250 leaves outGood morning, and a very happy 250th birthday to…",
+      "url": "https://www.theguardian.com/world/2026/jul/03/friday-briefing-the-us-at-250-who-gets-to-tell-the-story",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-03T05:47:24+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia launched a huge barrage on Kyiv, killing at least 27 people"
+    },
+    {
       "id": "fbd7cb5420645af6ef454c43a6775ef9813c4f47",
       "title": "Spyware used against MEP investigating Pegasus abuses, report finds",
       "summary": "Researchers say Stelios Kouloglou’s device was compromised after he joined European parliamentary committeeNSO Group’s hacking software was repeatedly used against a member of the European parliament while he was conduct…",
@@ -32,6 +76,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "hacking campaign against exiled Russian and Belarusian journalists"
+    },
+    {
+      "id": "5b963cf01cc5ad07c3140cc9bcf3f66a9672742a",
+      "title": "Kyiv Residents Pick Up the Pieces After the Latest Russian Assault",
+      "summary": "The latest deadly night in Ukraine, more than four years after Russia’s full-scale invasion, showed how the toll for civilians continues to mount.",
+      "url": "https://www.nytimes.com/2026/07/02/world/europe/kyiv-strikes-civilians.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-02T21:50:58+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Russian Assault"
     },
     {
       "id": "fb0df78ec3c55fba8bcd1594e5cc3a49f2f15789",
@@ -65,6 +120,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Russia’s Deadly Attack on Ukraine Reminds Europe of Its Own Vulnerabilities"
+    },
+    {
+      "id": "68918412f677e58b5201999c57dec07d00136819",
+      "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
+      "summary": "Sarah Rainsford reports from the completely destroyed nine-storey block of flats in Ukraine's capital.",
+      "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-02T12:37:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "deadly Russian attack on Kyiv flats"
     },
     {
       "id": "d24e24835d133955ddb2c2b732fdb9e118e05121",
@@ -164,74 +230,8 @@
       "sentiment": "negative",
       "confidence": 1.0,
       "evidence": "Russia Strikes Ukraine as Explosions Rock Capital of Kyiv"
-    },
-    {
-      "id": "f647c90a12f88f1fe70ea3667fb5dd2e1929a3ae",
-      "title": "CNBC Daily Open: Chips are down, OpenAI's woos the White House, and Russia strikes",
-      "summary": "Global stocks take their cue from a chip-led sell-off on Wall Street as OpenAI reportedly considers selling a stake to the U.S. government.",
-      "url": "https://www.cnbc.com/2026/07/02/cnbc-daily-open-chips-are-down-openais-woos-the-white-house-and-russia-strikes.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-07-02T06:11:52+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russia strikes"
-    },
-    {
-      "id": "3c071d1e2e23a22ce032e23235f8e902273fffd7",
-      "title": "Watch: 9-storey Kyiv apartment building partially collapses after Russian attack; residents trapped",
-      "summary": "Kyiv endured a devastating overnight missile and drone assault, with a residential building partially collapsing and multiple fires erupting. This follows Ukraine's own long-range strikes on Russian targets. The escalati…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/watch-9-storey-kyiv-apartment-building-partially-collapses-after-russian-attack-residents-trapped/articleshow/132127343.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-07-02T02:34:45+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russian attack; residents trapped"
-    },
-    {
-      "id": "e02c23cd5c502abb48ac6bf14472d6cd48ead62a",
-      "title": "Ireland set to take presidency of EU in Dublin opening ceremony – Europe live",
-      "summary": "Ireland’s tasks at helm of bloc include helping navigate talks on fresh Russia sanctions, and Ukraine and Moldova accessionPistorius talks about changes in the German military reserve system, with “the Bundeswehr buildin…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/01/ireland-set-to-take-presidency-of-eu-in-dublin-opening-ceremony-europe-live",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-01T11:36:46+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "fresh Russia sanctions"
-    },
-    {
-      "id": "3a9c7b1b7f3a8f76d7f01f006b0ce0b6269c5846",
-      "title": "Russia Closes Railway Border Crossings With Finland and Baltic Neighbors - The Moscow Times",
-      "summary": "Russia Closes Railway Border Crossings With Finland and Baltic Neighbors&nbsp;&nbsp;The Moscow TimesRussia closes railway border crossings with Finland, Estonia and Latvia&nbsp;&nbsp;EuronewsRussia Urgently Halts Rail Cr…",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd3NscUVHd01PZk5wdDJnYnhTSnJ1VnFnVkVrY1BRMVc3b2RwMUFJSlZsTVkxLXdPUnl5c29CZG02LVV1dldOaE5rZGVYSjd1aVNsMHdIZ2xBdV9RUm83NXhITnlIdURCLXlLQmV5Q0NnZ0ZnVUhkSktkZ2tkbzlrZmlmVmdOXzdNYUlJWFFsbzl1YkFMSl9BbjhDaGZ5X0JTYWFfMzhHZWpHZEpBYmpmRXl1UFdkcXpoNEJaNXpB?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-01T08:52:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russia Closes Railway Border Crossings With Finland and Baltic Neighbors"
-    },
-    {
-      "id": "d0360f0a195b79a8728435424c44723457c87da8",
-      "title": "US Removes 4 Indian Firms From Sanctions List Over Russia Trade",
-      "summary": "The US has removed four Indian companies from its sanctions list.",
-      "url": "https://www.ndtv.com/world-news/us-removes-4-indian-firms-from-sanctions-list-over-russia-trade-11711219#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-01T07:29:05+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Removes 4 Indian Firms From Sanctions List Over Russia Trade"
-    },
-    {
-      "id": "7ef47e9a5d2a91f21e33e2ac2881a1a66aff4510",
-      "title": "Ukraine's Missiles Now Have Almost Half Of Russia Within Reach",
-      "summary": "Ukraine is increasingly relying on domestically developed long range cruise missiles.",
-      "url": "https://www.ndtv.com/world-news/ukraines-missiles-now-have-almost-half-of-russia-within-reach-11711131#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-01T07:12:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Ukraine's Missiles Now Have Almost Half Of Russia Within Reach"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-03T11:49:20Z"
+  "last_updated": "2026-07-04T11:08:28Z"
 }

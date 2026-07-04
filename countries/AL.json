@@ -1,16 +1,27 @@
 {
   "country": "AL",
   "score": 74,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 32,
+  "sources": 33,
   "sentiment": {
     "positive": 10,
-    "neutral": 14,
+    "neutral": 15,
     "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "c3e3b7de6a756e8ee955107c90dbead07c3d7813",
+      "title": "'Flamingo Revolution' takes off as thousands demand Albanian PM's resignation",
+      "summary": "Flamingos have become a national symbol of protest, triggered by opposition to a luxury development.",
+      "url": "https://www.bbc.co.uk/news/articles/c8925jnl0z3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-04T00:43:26+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "thousands demand Albanian PM's resignation"
+    },
     {
       "id": "3b78c899c3e45841711ffd35516461fbb5241c21",
       "title": "Italian MEP suggests government wants to ‘hide truth’ about Albania migrant centre",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "war between Azerbaijan and Albania"
-    },
-    {
-      "id": "da7779f320dc90ba6736e4a3c897fc464d629995",
-      "title": "Albania will accept EU membership probation on vetoes",
-      "summary": "Albania is the 'EU Taliban', fanatical about joining, jokes Edi Rama",
-      "url": "https://www.euractiv.com/news/albania-will-accept-eu-membership-probation-on-vetoes/",
-      "source": "Euractiv",
-      "published_at": "2026-05-27T11:08:50+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "Albania will accept EU membership probation on vetoes"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-03T11:49:20Z"
+  "last_updated": "2026-07-04T11:08:28Z"
 }

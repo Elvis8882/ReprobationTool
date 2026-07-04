@@ -4,10 +4,10 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 5,
+  "sources": 6,
   "sentiment": {
     "positive": 0,
-    "neutral": 4,
+    "neutral": 5,
     "negative": 1
   },
   "latest_articles": [
@@ -21,6 +21,17 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit."
+    },
+    {
+      "id": "087101370f7700ddb684cd340ea3759841d81559",
+      "title": "Kazakhstan’s Leader Deepens U.S. Ties, Saying Trump Was ‘Sent by Heaven’",
+      "summary": "The Central Asian nation is aggressively courting President Trump’s Washington to counterbalance its powerful neighbors, Russia and China.",
+      "url": "https://www.nytimes.com/2026/06/28/world/asia/kazakhstan-trump.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-28T09:39:19+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Kazakhstan’s Leader Deepens U.S. Ties"
     },
     {
       "id": "83f39360e131582886c977bd7004c83185cc5d15",
@@ -68,5 +79,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-03T11:49:20Z"
+  "last_updated": "2026-07-04T11:08:28Z"
 }

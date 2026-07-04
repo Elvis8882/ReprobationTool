@@ -1,16 +1,38 @@
 {
   "country": "UA",
-  "score": 44,
+  "score": 42,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -4,
-  "sources": 641,
+  "trend": -2,
+  "sources": 651,
   "sentiment": {
-    "positive": 279,
+    "positive": 283,
     "neutral": 147,
-    "negative": 216
+    "negative": 222
   },
   "latest_articles": [
+    {
+      "id": "67c8be1067db6b8761408c6ac537566b6f9d853d",
+      "title": "'I don't think it is possible': Keir Starmer says next PM cannot spend less time on diplomacy",
+      "summary": "Outgoing British Prime Minister Keir Starmer has pushed back against criticism regarding his focus on international affairs, asserting that global diplomacy is intrinsically linked to domestic priorities. He argued that…",
+      "url": "https://timesofindia.indiatimes.com/world/uk/i-dont-think-it-is-possible-keir-starmer-says-next-pm-cannot-spend-less-time-on-diplomacy/articleshow/132178287.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-07-04T09:17:37+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "supporting Ukraine as key achievements"
+    },
+    {
+      "id": "edbcdddf40a94fb9865e3323e82fa4eee992d64a",
+      "title": "Woman From Ukraine Was Behind Monaco Bomb Attack, Officials Say",
+      "summary": "Anastasiia Berezovska, a 39-year-old Ukrainian, tried to kill three people with a parcel bomb on Monday, the authorities said. She remained on the run.",
+      "url": "https://www.nytimes.com/2026/07/03/world/europe/monaco-bomb-suspect-ukraine-anastasiia-berezovska.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-03T14:52:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Woman From Ukraine Was Behind Monaco Bomb Attack"
+    },
     {
       "id": "ac5e934545547f6bbf5e8ac264eecf080e9a3510",
       "title": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
@@ -21,6 +43,61 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Ukrainian woman named by Interpol as main suspect"
+    },
+    {
+      "id": "7411745372968b5ee6d037574a2d77d3e6e7ef76",
+      "title": "Woman suspected in Monaco parcel bombing reportedly seen in Germany",
+      "summary": "Suspect is said to have tried to pass as a man during attack apparently targeting Ukrainian-born oligarchThe main suspect in ⁠a ⁠bomb attack in ​Monaco ⁠this week is a woman ⁠who ​has ‌been spotted ‌in Germany, a ‌judici…",
+      "url": "https://www.theguardian.com/world/2026/jul/03/suspect-identified-in-monaco-parcel-bombing-that-wounded-sanctioned-ukrainian-born-oligarch",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-03T09:05:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "attack apparently targeting Ukrainian-born oligarch"
+    },
+    {
+      "id": "7075743e84e8f046c422e37bf2170bd7a3e03bea",
+      "title": "Kyiv’s most-bombed neighborhood just won’t quit",
+      "summary": "After four years of war, life in Lukianivka, the most frequently hit part of the Ukrainian capital, is a mix of adaptability and endurance, defiance and denial, resignation and resilience.",
+      "url": "https://www.washingtonpost.com/world/2026/07/03/kyivs-most-bombed-nieghborhood-just-wont-quit/",
+      "source": "World (Washington post)",
+      "published_at": "2026-07-03T09:00:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "life in Lukianivka... is a mix of adaptability and endurance, defiance and resilience."
+    },
+    {
+      "id": "dfab13ebc101d7a2d4fa9d7ef6f3fd662b122be3",
+      "title": "With Attacks on Crimea, Ukraine Hopes to Pressure Putin to End the War",
+      "summary": "Escalating drone strikes, fuel shortages and power cuts in the region Russia annexed are among the factors turning up the heat on President Vladimir V. Putin.",
+      "url": "https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-03T07:03:39+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "With Attacks on Crimea, Ukraine Hopes to Pressure Putin to End the War"
+    },
+    {
+      "id": "640ffd3da9bd8ff1c41351866f597702b94a3ffb",
+      "title": "Friday briefing: The US at 250: who gets to tell the story?",
+      "summary": "In today’s newsletter: As official celebrations spotlight a narrow cast of ​white heroes, communities across the US are reclaiming the histories that Freedom 250 leaves outGood morning, and a very happy 250th birthday to…",
+      "url": "https://www.theguardian.com/world/2026/jul/03/friday-briefing-the-us-at-250-who-gets-to-tell-the-story",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-03T05:47:24+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Ukraine and Russia have promised fresh assaults"
+    },
+    {
+      "id": "5b963cf01cc5ad07c3140cc9bcf3f66a9672742a",
+      "title": "Kyiv Residents Pick Up the Pieces After the Latest Russian Assault",
+      "summary": "The latest deadly night in Ukraine, more than four years after Russia’s full-scale invasion, showed how the toll for civilians continues to mount.",
+      "url": "https://www.nytimes.com/2026/07/02/world/europe/kyiv-strikes-civilians.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-02T21:50:58+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "deadly night in Ukraine"
     },
     {
       "id": "fb0df78ec3c55fba8bcd1594e5cc3a49f2f15789",
@@ -54,6 +131,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Russia’s Deadly Attack on Ukraine Reminds Europe of Its Own Vulnerabilities"
+    },
+    {
+      "id": "68918412f677e58b5201999c57dec07d00136819",
+      "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
+      "summary": "Sarah Rainsford reports from the completely destroyed nine-storey block of flats in Ukraine's capital.",
+      "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-02T12:37:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "completely destroyed nine-storey block of flats in Ukraine's capital."
     },
     {
       "id": "d24e24835d133955ddb2c2b732fdb9e118e05121",
@@ -133,105 +221,17 @@
       "evidence": "Russia Strikes Ukraine as Explosions Rock Capital of Kyiv"
     },
     {
-      "id": "3c071d1e2e23a22ce032e23235f8e902273fffd7",
-      "title": "Watch: 9-storey Kyiv apartment building partially collapses after Russian attack; residents trapped",
-      "summary": "Kyiv endured a devastating overnight missile and drone assault, with a residential building partially collapsing and multiple fires erupting. This follows Ukraine's own long-range strikes on Russian targets. The escalati…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/watch-9-storey-kyiv-apartment-building-partially-collapses-after-russian-attack-residents-trapped/articleshow/132127343.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-07-02T02:34:45+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Kyiv endured a devastating overnight missile and drone assault"
-    },
-    {
-      "id": "243849b8582fc89e9439567783e5bfb739061f70",
-      "title": "Ukrainian charged in Germany over Nord Stream blasts",
-      "summary": "Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.",
-      "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-01T18:19:32+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Ukraine denies involvement in the case which may have serious implications"
-    },
-    {
-      "id": "e02c23cd5c502abb48ac6bf14472d6cd48ead62a",
-      "title": "Ireland set to take presidency of EU in Dublin opening ceremony – Europe live",
-      "summary": "Ireland’s tasks at helm of bloc include helping navigate talks on fresh Russia sanctions, and Ukraine and Moldova accessionPistorius talks about changes in the German military reserve system, with “the Bundeswehr buildin…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/01/ireland-set-to-take-presidency-of-eu-in-dublin-opening-ceremony-europe-live",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-01T11:36:46+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukraine and Moldova accession"
-    },
-    {
-      "id": "f5f89b29dac52c787339c5bfcafa570da7db4f16",
-      "title": "How War Takes Its Toll on Ukraine’s Pregnant Women",
-      "summary": "Bombings, blackouts and displacement compound maternal anxiety. Still, many women persevere. “We must bring new life,” one said.",
-      "url": "https://www.nytimes.com/2026/07/01/world/europe/ukraine-war-pregnant-women-hospitals.html",
+      "id": "6b537aa88dec6397eaf109b8add60436f3747876",
+      "title": "Ukraine Takes the War to Russia",
+      "summary": "Kyiv’s aim is simple: Put enough pressure on President Vladimir Putin that he agrees to end the war. Will it work?",
+      "url": "https://www.nytimes.com/2026/07/01/world/ukraine-war-russia-putin-maduro-harry-kane.html",
       "source": "NYT > World News",
-      "published_at": "2026-07-01T09:00:19+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "War Takes Its Toll on Ukraine’s Pregnant Women"
-    },
-    {
-      "id": "7ef47e9a5d2a91f21e33e2ac2881a1a66aff4510",
-      "title": "Ukraine's Missiles Now Have Almost Half Of Russia Within Reach",
-      "summary": "Ukraine is increasingly relying on domestically developed long range cruise missiles.",
-      "url": "https://www.ndtv.com/world-news/ukraines-missiles-now-have-almost-half-of-russia-within-reach-11711131#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-01T07:12:36+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukraine's Missiles Now Have Almost Half Of Russia Within Reach"
-    },
-    {
-      "id": "9fd61f892597b93b3fcc8204e6efd50151c1dced",
-      "title": "The Prom Went On in Kyiv, but Masha’s Date Danced Alone",
-      "summary": "Masha Polska, 15, was an avid dancer who had been dreaming of a star turn in the group waltz. That was not to be.",
-      "url": "https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-30T20:50:39+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "The Prom Went On in Kyiv"
-    },
-    {
-      "id": "a7481240ae201446be444bf75138f0fda703a580",
-      "title": "Latvia and Ukraine to open drone factory right on Baltic nation’s border with Russia - Yahoo",
-      "summary": "Latvia and Ukraine to open drone factory right on Baltic nation’s border with Russia&nbsp;&nbsp;YahooSee more headlines and perspectives on Google News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb2NYdk5hejhKWXc1b21qaF9weU1TUVRiQ2pFcUxTaE9xNVNObVFlUG1PcGV1TXdyMmNUc2hyR2lndlhkSHVzcFN2dEo0cFBmbVdQcXl0Sy1nU3RoZDkyYmhuQUl4VnU5VWhIbUZPOHRGZGtvUjQzVjM3d1FrbjhaSlRQcXAwYVZ5SmQ2YXFjcHU4Z2JQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-30T14:55:30+00:00",
+      "published_at": "2026-07-02T06:06:14+00:00",
       "sentiment": "positive",
       "confidence": 0.7,
-      "evidence": "Latvia and Ukraine to open drone factory"
-    },
-    {
-      "id": "8c006acb8dad0aecdd1a23490972db3e27e8e7e8",
-      "title": "Manhunt under way after bomb injures Ukrainian oligarch and others in Monaco",
-      "summary": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
-      "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-30T11:36:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "bomb injures Ukrainian oligarch and others in Monaco"
-    },
-    {
-      "id": "350de58894fa835e76c06e6254ff20418a9946e2",
-      "title": "Monaco bombing was ‘attempted assassination’, not terror attack, say prosecutors – Europe live",
-      "summary": "Authorities are still searching to identify the suspect of an alleged assassination attempt of a Ukrainian business tycoonBoth Reuters and AFP seem to be confirming the identity of the target of yesterday’s bombing as Uk…",
-      "url": "https://www.theguardian.com/world/live/2026/jun/30/monaco-bombing-ukraine-gerany-hungary-poland-baltics-heat-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-30T11:33:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "placed under Ukrainian sanctions in 2023"
+      "evidence": "Ukraine Takes the War to Russia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-03T11:49:20Z"
+  "last_updated": "2026-07-04T11:08:28Z"
 }

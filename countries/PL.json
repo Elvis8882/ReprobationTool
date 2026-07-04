@@ -1,16 +1,27 @@
 {
   "country": "PL",
-  "score": 93,
+  "score": 92,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 293,
+  "trend": -1,
+  "sources": 296,
   "sentiment": {
     "positive": 33,
-    "neutral": 235,
-    "negative": 26
+    "neutral": 236,
+    "negative": 28
   },
   "latest_articles": [
+    {
+      "id": "4b731e1ef939c0beb9a4fc878b121c96e8c213ac",
+      "title": "Polish PM warns critical months ahead in face of Russian threat",
+      "summary": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
+      "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-03T16:41:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Polish PM warns critical months ahead in face of Russian threat"
+    },
     {
       "id": "fbd7cb5420645af6ef454c43a6775ef9813c4f47",
       "title": "Spyware used against MEP investigating Pegasus abuses, report finds",
@@ -182,6 +193,27 @@
       "evidence": "Visegrád leaders relaunch regional alliance"
     },
     {
+      "id": "48c0c4cd1315c7eeafab91c3e1c4ebdc48b3287d",
+      "title": "Heatwave pushes Belgian electricity price past €1,000",
+      "summary": "From Poland to Austria, sweltering nights are seeing wholesale prices reach crisis levels",
+      "url": "https://www.euractiv.com/news/heatwave-pushes-belgian-electricity-price-past-e1000/",
+      "source": "Euractiv",
+      "published_at": "2026-06-23T17:33:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "sweltering nights are seeing wholesale prices reach crisis levels"
+    },
+    {
+      "id": "a46aa5a56a05708eb0f8a6dc0bcf690c4bb5f0db",
+      "title": "Britain Is Still Deep in the Shadow of Brexit",
+      "summary": "Ten years after a slim majority voted to leave the European Union, the economic and political effects of that decision continue to disrupt the United Kingdom.",
+      "url": "https://www.nytimes.com/2026/06/23/world/europe/britain-brexit-legacy.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-23T16:33:42+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "b263d5d5380c2b74886a844a97688bb869207145",
       "title": "EU’s off-patent medicines industry calls for industrial strategy at Athens summit [Advocacy Lab]",
       "summary": "Medicines for Europe conference highlights Greece’s growing role as a pharmaceutical manufacturing hub ahead of the country’s 2027 EU Council Presidency",
@@ -190,39 +222,8 @@
       "published_at": "2026-06-23T12:41:12+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "9c4e8e122c2693747ce6e6299615ffc06ae18c37",
-      "title": "‘A historic day’: European Parliament backs digital euro",
-      "summary": "Supporters say scheme is crucial to reduce Europe's dependence on US payment providers",
-      "url": "https://www.euractiv.com/news/a-historic-day-european-parliament-backs-digital-euro/",
-      "source": "Euractiv",
-      "published_at": "2026-06-23T12:21:40+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "a9f3d03a97873c90ac8d801fe28ba54824177b1e",
-      "title": "UK’s former Brexit negotiator says Burnham should ditch much of Starmer’s EU reset if made PM – Europe live",
-      "summary": "As UK marks 10 years since the EU referendum, David Frost says outgoing prime minister’s team ‘didn’t think hard enough about the choices and the processes’Whoever becomes the next UK prime minister will have plenty of p…",
-      "url": "https://www.theguardian.com/world/live/2026/jun/23/uk-eu-brexit-visegrad-four-czech-republic-hungary-poland-slovakia-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-23T11:53:02+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "dec1ad830c8d8c9d7933df9bcd361e00e2fed4d8",
-      "title": "Whistleblower investigating Ecuadorian president’s family business was murdered, activists say",
-      "summary": "Monika Silva Koniuszek died from a blow to the head and strangulation, a postmortem found, despite government claim of suicideCampaigners in Ecuador say a Polish anti-corruption activist who investigated allegations agai…",
-      "url": "https://www.theguardian.com/world/2026/jun/23/monika-silva-koniuszek-ecuador-president-family-business",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-23T06:00:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "a Polish anti-corruption activist"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-03T11:49:20Z"
+  "last_updated": "2026-07-04T11:08:28Z"
 }

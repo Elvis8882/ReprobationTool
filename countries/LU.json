@@ -4,10 +4,10 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 215,
+  "sources": 216,
   "sentiment": {
     "positive": 1,
-    "neutral": 211,
+    "neutral": 212,
     "negative": 3
   },
   "latest_articles": [
@@ -81,6 +81,16 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Green versus lean in Luxembourg"
+    },
+    {
+      "id": "a46aa5a56a05708eb0f8a6dc0bcf690c4bb5f0db",
+      "title": "Britain Is Still Deep in the Shadow of Brexit",
+      "summary": "Ten years after a slim majority voted to leave the European Union, the economic and political effects of that decision continue to disrupt the United Kingdom.",
+      "url": "https://www.nytimes.com/2026/06/23/world/europe/britain-brexit-legacy.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-23T16:33:42+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "b263d5d5380c2b74886a844a97688bb869207145",
@@ -201,18 +211,8 @@
       "published_at": "2026-06-18T09:04:03+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "09e3e6dd1b3784880dca05c40c18326930d97ed2",
-      "title": "Ukraine’s EU dreams set for rude awakening",
-      "summary": "European Commission is exploring a 'membership-lite' model that Kyiv rejects",
-      "url": "https://www.euractiv.com/news/ukraines-eu-dreams-set-for-rude-awakening/",
-      "source": "Euractiv",
-      "published_at": "2026-06-18T02:00:04+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-03T11:49:20Z"
+  "last_updated": "2026-07-04T11:08:28Z"
 }

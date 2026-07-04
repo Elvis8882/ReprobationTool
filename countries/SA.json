@@ -1,16 +1,27 @@
 {
   "country": "SA",
   "score": 90,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 81,
+  "sources": 78,
   "sentiment": {
     "positive": 8,
-    "neutral": 53,
+    "neutral": 50,
     "negative": 20
   },
   "latest_articles": [
+    {
+      "id": "2218e739a82e7da7a2dbea4375194c454a335729",
+      "title": "Saudi Arabia has ramped up oil shipments through the Strait of Hormuz since U.S.-Iran deal",
+      "summary": "Saudi Arabia is restarting its export logistics in the Persian Gulf after a three-month pause, according to Kpler.",
+      "url": "https://www.cnbc.com/2026/07/02/saudi-arabia-iran-strait-hormuz-persian-gulf-oil.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-02T20:47:06+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Saudi Arabia has ramped up oil shipments through the Strait of Hormuz"
+    },
     {
       "id": "2eac6c2518f9fb66f3cf74941c82b1961f97c58c",
       "title": "Opinion: Opinion | The Post-War Middle East May Already Be Splitting Into Two New 'Camps'",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Saudi Arabia's spending spree reached the end of the line"
-    },
-    {
-      "id": "e7c9f9d90a9a2085c9cdc02fd1810df9a61e3490",
-      "title": "UAE spooked? Fearing Gulf chaos, Abu Dhabi joins Saudis, Qatar in urging Trump against fresh Iran war",
-      "summary": "Gulf allies UAE, Saudi Arabia, and Qatar urged President Trump to pursue diplomacy with Iran, fearing renewed conflict would destabilize regional economies.  Leaders argued military action wouldn't achieve US objectives,…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-spooked-fearing-gulf-chaos-abu-dhabi-joins-saudis-qatar-in-urging-trump-against-fresh-iran-war/articleshow/131265320.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-05-22T15:33:08+00:00",
-      "sentiment": "positive",
-      "confidence": 0.75,
-      "evidence": "Saudis, Qatar in urging Trump against fresh Iran war"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-03T11:49:20Z"
+  "last_updated": "2026-07-04T11:08:28Z"
 }

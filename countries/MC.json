@@ -1,16 +1,27 @@
 {
   "country": "MC",
   "score": 55,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 10,
+  "sources": 12,
   "sentiment": {
     "positive": 0,
-    "neutral": 8,
-    "negative": 2
+    "neutral": 9,
+    "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "edbcdddf40a94fb9865e3323e82fa4eee992d64a",
+      "title": "Woman From Ukraine Was Behind Monaco Bomb Attack, Officials Say",
+      "summary": "Anastasiia Berezovska, a 39-year-old Ukrainian, tried to kill three people with a parcel bomb on Monday, the authorities said. She remained on the run.",
+      "url": "https://www.nytimes.com/2026/07/03/world/europe/monaco-bomb-suspect-ukraine-anastasiia-berezovska.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-03T14:52:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Monaco Bomb Attack"
+    },
     {
       "id": "ac5e934545547f6bbf5e8ac264eecf080e9a3510",
       "title": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
@@ -21,6 +32,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Monaco bomb attack"
+    },
+    {
+      "id": "7411745372968b5ee6d037574a2d77d3e6e7ef76",
+      "title": "Woman suspected in Monaco parcel bombing reportedly seen in Germany",
+      "summary": "Suspect is said to have tried to pass as a man during attack apparently targeting Ukrainian-born oligarchThe main suspect in ⁠a ⁠bomb attack in ​Monaco ⁠this week is a woman ⁠who ​has ‌been spotted ‌in Germany, a ‌judici…",
+      "url": "https://www.theguardian.com/world/2026/jul/03/suspect-identified-in-monaco-parcel-bombing-that-wounded-sanctioned-ukrainian-born-oligarch",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-03T09:05:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Three people were wounded on Monday evening in a parcel bomb explosion"
     },
     {
       "id": "01f2d6f7fb05bddbef6a4628bb821b40e7040e1a",
@@ -123,5 +145,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-03T11:49:20Z"
+  "last_updated": "2026-07-04T11:08:28Z"
 }

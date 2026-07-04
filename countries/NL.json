@@ -1,13 +1,13 @@
 {
   "country": "NL",
-  "score": 97,
+  "score": 98,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 293,
+  "trend": 1,
+  "sources": 295,
   "sentiment": {
-    "positive": 16,
-    "neutral": 265,
+    "positive": 17,
+    "neutral": 266,
     "negative": 12
   },
   "latest_articles": [
@@ -20,6 +20,17 @@
       "published_at": "2026-07-03T05:00:20+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "9341a1cf820dafd43cbb7e513cd1b817d3f7893f",
+      "title": "Dutch and U.K. Governments Apologize for Their Roles in Forced Adoptions",
+      "summary": "In the Netherlands, more than 15,000 children were separated from their mothers from 1956 to 1984, causing “great sorrow and anger,” according to an official report on the practice.",
+      "url": "https://www.nytimes.com/2026/07/02/world/europe/dutch-government-forced-adoptions-apology.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-02T14:11:39+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Dutch and U.K. Governments Apologize for Their Roles"
     },
     {
       "id": "7f258754367a92c1ae05c83b0862f36b18283734",
@@ -149,6 +160,16 @@
       "sentiment_fallback": true
     },
     {
+      "id": "a46aa5a56a05708eb0f8a6dc0bcf690c4bb5f0db",
+      "title": "Britain Is Still Deep in the Shadow of Brexit",
+      "summary": "Ten years after a slim majority voted to leave the European Union, the economic and political effects of that decision continue to disrupt the United Kingdom.",
+      "url": "https://www.nytimes.com/2026/06/23/world/europe/britain-brexit-legacy.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-23T16:33:42+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "b263d5d5380c2b74886a844a97688bb869207145",
       "title": "EU’s off-patent medicines industry calls for industrial strategy at Athens summit [Advocacy Lab]",
       "summary": "Medicines for Europe conference highlights Greece’s growing role as a pharmaceutical manufacturing hub ahead of the country’s 2027 EU Council Presidency",
@@ -198,30 +219,8 @@
       "published_at": "2026-06-22T19:00:15+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "1a71b9bc78c333c6f18590acc7555a649265cc48",
-      "title": "Dutch PM apologises for Moluccan soldiers’ mistreatment after Indonesian independence",
-      "summary": "Rob Jetten acknowledges grief and pain of Moluccan families as crowdfunded monument unveiled in RotterdamThe Dutch prime minister, Rob Jetten, has formally apologised for the “heartless” mistreatment of thousands of Molu…",
-      "url": "https://www.theguardian.com/world/2026/jun/21/dutch-pm-apologises-moluccan-soldiers-indonesia-independence",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-21T15:18:53+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Dutch PM apologises for Moluccan soldiers’ mistreatment after Indonesian independence"
-    },
-    {
-      "id": "504d12c8c61eb96e4408789eb81a2c5d8aa0ebf1",
-      "title": "Dutch royals enjoy two big results in one World Cup day",
-      "summary": "There may be about 5,000 miles between the Netherlands and their former colony Curacao but members of the Dutch royal family managed to see both sides play on Saturday.",
-      "url": "https://www.bbc.com/sport/football/articles/c4gydq973nqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-21T09:45:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Dutch royals enjoy two big results in one World Cup day"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-03T11:49:20Z"
+  "last_updated": "2026-07-04T11:08:28Z"
 }

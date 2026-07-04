@@ -13,8 +13,15 @@
   "countries_scored": [
     "TR"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-07-03T11:49:20+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-07-04T11:08:27+00:00",
+  "sentiment_by_country": {
+    "TR": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Turkish police beat us with iron rods before we lost limbs to frostbite"
+    }
+  },
+  "processed_at": "2026-07-04T11:08:27+00:00"
 }

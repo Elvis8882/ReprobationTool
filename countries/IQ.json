@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 34,
+  "sources": 36,
   "sentiment": {
     "positive": 2,
-    "neutral": 19,
-    "negative": 13
+    "neutral": 20,
+    "negative": 14
   },
   "latest_articles": [
+    {
+      "id": "32c61b4e5ddf5786f72d9f4f7e512e3d774fc23f",
+      "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+      "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
+      "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-04T09:45:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": ""
+    },
     {
       "id": "c63033be8779e00c615c0cc5482051aadabc855d",
       "title": "Iraqi 'Godfather of traffickers' found in UK seeking asylum under changed identity",
@@ -54,6 +65,17 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Iraqi security forces raid Baghdad Green Zone, arrest MPs"
+    },
+    {
+      "id": "892eaa0183ba571c2b5f56197b75302e933f5a08",
+      "title": "Shadow war: how use of proxy forces by Iran, Israel and US is driving Middle East instability",
+      "summary": "Across region there is a push to disarm militia and reinforce state authority but the temptation to use proxies remainsAs Marco Rubio ended his brief visit to the Middle East on Friday, he sought to cast in the best poss…",
+      "url": "https://www.theguardian.com/world/2026/jun/28/gulf-us-iran-war-proxies-middle-east",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-28T07:00:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "halt its support of Hamas in Gaza, Hezbollah in Lebanon, militia in Iraq"
     },
     {
       "id": "24ce5ad2f29f293cf692cb270b15f93cdc7166d7",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Airspace Closures Disrupt Dubai, Riyadh, Doha, Muscat, Manama, Kuwait City"
-    },
-    {
-      "id": "7ddbdbc8ddb7dd342ad3308a2de789f4c76e7959",
-      "title": "Saudi Arabia executes Iraqi nationals convicted in northern border drug smuggling case",
-      "summary": "Saudi Arabia has executed several Iraqi nationals. They were convicted of attempting to smuggle narcotics into the kingdom. The executions followed a thorough legal process. Saudi authorities are intensifying their crack…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-executes-iraqi-nationals-convicted-in-northern-border-drug-smuggling-case/articleshow/130627230.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-04-30T07:47:21+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Saudi Arabia executes Iraqi nationals convicted in northern border drug smuggling case"
-    },
-    {
-      "id": "eda1191e54fc827089a96df2b02eea9dd83c5f44",
-      "title": "'Attacked 28 times in a day' - BBC visits heavily targeted US-UK base in Iraq",
-      "summary": "Before the fragile ceasefire in the region, this was one of the most heavily targeted US and UK military bases in the Middle East.",
-      "url": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-04-30T01:46:52+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "heavily targeted US-UK base in Iraq"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-03T11:49:20Z"
+  "last_updated": "2026-07-04T11:08:28Z"
 }

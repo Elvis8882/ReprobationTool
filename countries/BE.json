@@ -1,16 +1,27 @@
 {
   "country": "BE",
-  "score": 87,
+  "score": 86,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": -1,
-  "sources": 378,
+  "sources": 382,
   "sentiment": {
-    "positive": 43,
-    "neutral": 294,
-    "negative": 41
+    "positive": 44,
+    "neutral": 295,
+    "negative": 43
   },
   "latest_articles": [
+    {
+      "id": "bd249b5f265cc23dda69b866cb02cb81a03fb387",
+      "title": "A U.S. Independence Celebration Damaged a Museum in Belgium",
+      "summary": "There were black marks left on a structure in a central Brussels park after a fireworks display, the American ambassador to Belgium confirmed.",
+      "url": "https://www.nytimes.com/2026/07/03/world/europe/belgium-building-damaged-america-250-fireworks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-03T17:19:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "A U.S. Independence Celebration Damaged a Museum in Belgium"
+    },
     {
       "id": "fbd7cb5420645af6ef454c43a6775ef9813c4f47",
       "title": "Spyware used against MEP investigating Pegasus abuses, report finds",
@@ -149,6 +160,17 @@
       "sentiment_fallback": true
     },
     {
+      "id": "63b4693c90849d28c427e058266cd515e0534136",
+      "title": "European Trade Associations in Evolution: Insights from a New Cross-Sector Benchmark",
+      "summary": "Brussels remains one of the world’s most important hubs for trade associations. These organisations play a unique role in the democratic process of policy-making: they bring industries together, help structure collective…",
+      "url": "https://www.euractiv.com/opinion/european-trade-associations-in-evolution-insights-from-a-new-cross-sector-benchmark/",
+      "source": "Euractiv",
+      "published_at": "2026-06-25T08:00:37+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "connect business priorities with European policymaking."
+    },
+    {
       "id": "6126a9523b3082df3aa291fb31975e14de47c080",
       "title": "Thursday briefing: Why EU​-Taliban talks have sparked outrage among Afghan women ​",
       "summary": "In today’s newsletter: Amid rising anti‑immigration rhetoric across Europe, the decision to engage with the Taliban signals a profound shift in how the EU balances security and human rightsGood morning. It’s a slap in th…",
@@ -158,6 +180,27 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "meeting between EU officials and the Taliban that took place in Brussels"
+    },
+    {
+      "id": "48c0c4cd1315c7eeafab91c3e1c4ebdc48b3287d",
+      "title": "Heatwave pushes Belgian electricity price past €1,000",
+      "summary": "From Poland to Austria, sweltering nights are seeing wholesale prices reach crisis levels",
+      "url": "https://www.euractiv.com/news/heatwave-pushes-belgian-electricity-price-past-e1000/",
+      "source": "Euractiv",
+      "published_at": "2026-06-23T17:33:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Heatwave pushes Belgian electricity price past €1,000"
+    },
+    {
+      "id": "a46aa5a56a05708eb0f8a6dc0bcf690c4bb5f0db",
+      "title": "Britain Is Still Deep in the Shadow of Brexit",
+      "summary": "Ten years after a slim majority voted to leave the European Union, the economic and political effects of that decision continue to disrupt the United Kingdom.",
+      "url": "https://www.nytimes.com/2026/06/23/world/europe/britain-brexit-legacy.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-23T16:33:42+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "8d03ff482e59fb2aab1ee27470f2198abe46eabb",
@@ -180,49 +223,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Taliban use Brussels visit to push for consular access"
-    },
-    {
-      "id": "b263d5d5380c2b74886a844a97688bb869207145",
-      "title": "EU’s off-patent medicines industry calls for industrial strategy at Athens summit [Advocacy Lab]",
-      "summary": "Medicines for Europe conference highlights Greece’s growing role as a pharmaceutical manufacturing hub ahead of the country’s 2027 EU Council Presidency",
-      "url": "https://www.euractiv.com/news/eus-off-patent-medicines-industry-calls-for-industrial-strategy-at-athens-summit/",
-      "source": "Euractiv",
-      "published_at": "2026-06-23T12:41:12+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "9c4e8e122c2693747ce6e6299615ffc06ae18c37",
-      "title": "‘A historic day’: European Parliament backs digital euro",
-      "summary": "Supporters say scheme is crucial to reduce Europe's dependence on US payment providers",
-      "url": "https://www.euractiv.com/news/a-historic-day-european-parliament-backs-digital-euro/",
-      "source": "Euractiv",
-      "published_at": "2026-06-23T12:21:40+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "a9f3d03a97873c90ac8d801fe28ba54824177b1e",
-      "title": "UK’s former Brexit negotiator says Burnham should ditch much of Starmer’s EU reset if made PM – Europe live",
-      "summary": "As UK marks 10 years since the EU referendum, David Frost says outgoing prime minister’s team ‘didn’t think hard enough about the choices and the processes’Whoever becomes the next UK prime minister will have plenty of p…",
-      "url": "https://www.theguardian.com/world/live/2026/jun/23/uk-eu-brexit-visegrad-four-czech-republic-hungary-poland-slovakia-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-23T11:53:02+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "474171795463e9a68267e3a4bddd210329cb6e10",
-      "title": "ANALYSIS: Fear not Britain, the EU doesn’t agree on you rejoining either",
-      "summary": "Brussels heavyweights are clashing over whether Brexit can be reversed and on what terms",
-      "url": "https://www.euractiv.com/news/analysis-fear-not-britain-the-eu-doesnt-agree-on-you-rejoining-either/",
-      "source": "Euractiv",
-      "published_at": "2026-06-23T02:00:02+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Brussels heavyweights are clashing"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-03T11:49:20Z"
+  "last_updated": "2026-07-04T11:08:28Z"
 }

@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 358,
+  "sources": 359,
   "sentiment": {
     "positive": 13,
-    "neutral": 139,
-    "negative": 206
+    "neutral": 138,
+    "negative": 208
   },
   "latest_articles": [
+    {
+      "id": "11e006529010e0a6b5122c373dfdb7f33d89755e",
+      "title": "Trump-backed truce in Lebanon, key to Iran peace deal, risks new civil war",
+      "summary": "To reach a more durable peace agreement with Iran and open the Strait of Hormuz, Trump needs Israel to uphold the terms of a deal with Lebanon that Hezbollah says it will block by \"any means necessary.\"",
+      "url": "https://www.washingtonpost.com/world/2026/07/02/trump-backed-ceasefire-lebanon-key-iran-peace-deal-risks-new-civil-war/",
+      "source": "World (Washington post)",
+      "published_at": "2026-07-02T10:35:14+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "truce in Lebanon... risks new civil war"
+    },
     {
       "id": "c3d90f30e4a6aebb47b2e54ca034fb4000247135",
       "title": "Trump Suggestion of a Syrian Crackdown on Hezbollah Confounds Many in Mideast",
@@ -43,6 +54,17 @@
       "sentiment": "mixed",
       "confidence": 0.6,
       "evidence": "Hezbollah stronghold, is stirring back to life amid a tense truce"
+    },
+    {
+      "id": "892eaa0183ba571c2b5f56197b75302e933f5a08",
+      "title": "Shadow war: how use of proxy forces by Iran, Israel and US is driving Middle East instability",
+      "summary": "Across region there is a push to disarm militia and reinforce state authority but the temptation to use proxies remainsAs Marco Rubio ended his brief visit to the Middle East on Friday, he sought to cast in the best poss…",
+      "url": "https://www.theguardian.com/world/2026/jun/28/gulf-us-iran-war-proxies-middle-east",
+      "source": "World news - The Guardian",
+      "published_at": "2026-06-28T07:00:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "halt its support of Hamas in Gaza, Hezbollah in Lebanon, militia in Iraq"
     },
     {
       "id": "d452ffb1248b7f067650e4c3d7b1f4b7d350c822",
@@ -155,6 +177,17 @@
       "evidence": "Israeli Soldiers Fatally Shoot 2 People in Southern Lebanon"
     },
     {
+      "id": "4ccb4e24d76f8b95d6d8ce5fb3b8243326fd70b2",
+      "title": "'Bibi is hysterical about it': How US-Iran understanding is rattling Israel over Lebanon",
+      "summary": "Israel expresses deep concern over new US-Iran understandings potentially legitimizing Tehran's influence in Lebanon and restricting Israeli military actions against Hezbollah. Concerns arise from recent talks and a memo…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/bibi-is-hysterical-about-it-how-us-iran-understanding-is-rattling-israel-over-lebanon/articleshow/131933575.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-06-23T10:31:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "potentially legitimizing Tehran's influence in Lebanon"
+    },
+    {
       "id": "25b580ff651ddf7a1f803d99acb8a0fb70ee36a2",
       "title": "The Guardrails Designed to Protect U.S.-Iran Talks",
       "summary": "The U.S. and Iran have agreed to set up a Strait of Hormuz hotline and a “de-confliction cell” for Lebanon, according to mediators from Pakistan and Qatar.",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Hezbollah's Underground Drone Factory In Lebanon"
-    },
-    {
-      "id": "cd6ea40d718eb514d3f8aa25364c699fa92517aa",
-      "title": "Explained: Who Is Fighting Whom In Lebanon",
-      "summary": "The fighting is no longer just a Lebanon-Israel issue.",
-      "url": "https://www.ndtv.com/world-news/explained-who-is-fighting-whom-in-lebanon-11669152#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-06-22T06:29:27+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "The fighting is no longer just a Lebanon-Israel issue."
-    },
-    {
-      "id": "6512abc09d603f7550f9bfee0e2462557fdb7351",
-      "title": "Trump faces fresh bipartisan criticism on Iran deal as Vance hails peace talks",
-      "summary": "Objections come as Trump threatens to renew attacks on Iran if it doesn’t rein in its proxy in LebanonUS political figures from left and right voiced fresh objections on Sunday to Donald Trump’s provisional deal with Ira…",
-      "url": "https://www.theguardian.com/world/2026/jun/21/trump-iran-deal-bipartisan-criticism",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-21T22:07:57+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Iran must immediately stop their highly paid PROXIES in Lebanon from causing trouble."
-    },
-    {
-      "id": "085410c3d04568c248c9354734a1dfde4744cba8",
-      "title": "Mideast Live Updates: New Round of U.S.-Iran Talks Set to Start in Switzerland",
-      "summary": "Vice President JD Vance was expected to talk with Iranian negotiators. But the conflict in Lebanon threatens efforts to reach a broader peace and keep the Strait of Hormuz open.",
-      "url": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon",
-      "source": "NYT > World News",
-      "published_at": "2026-06-21T11:34:32+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "conflict in Lebanon threatens efforts to reach a broader peace"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-03T11:49:20Z"
+  "last_updated": "2026-07-04T11:08:28Z"
 }
