@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 14,
+  "sources": 15,
   "sentiment": {
     "positive": 1,
-    "neutral": 12,
+    "neutral": 13,
     "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "12ce3d572b9706a7ae88a0e7aecf5f2672cf15fb",
+      "title": "A Big Week in the West, Canada vs. Morocco, Trade and a Canada-U.S. Quiz",
+      "summary": "Prime Minister Mark Carney further diversified trade away from the U.S. this week by announcing multibillion dollar investments in Alberta and British Columbia.",
+      "url": "https://www.nytimes.com/2026/07/04/world/canada/carney-alberta-pipeline-canada-us.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-04T10:00:10+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Canada vs. Morocco, Trade"
+    },
     {
       "id": "bbc7193504f51729fceb1f991e2549b97762b434",
       "title": "Why do goats climb trees in Morocco: The surprising science behind their forest-saving habit",
@@ -167,5 +178,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-04T11:08:28Z"
+  "last_updated": "2026-07-05T11:19:50Z"
 }

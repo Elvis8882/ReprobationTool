@@ -1,14 +1,14 @@
 {
   "country": "HU",
-  "score": 86,
+  "score": 89,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 360,
+  "trend": 3,
+  "sources": 356,
   "sentiment": {
     "positive": 51,
     "neutral": 263,
-    "negative": 46
+    "negative": 42
   },
   "latest_articles": [
     {
@@ -137,6 +137,17 @@
       "sentiment_fallback": true
     },
     {
+      "id": "b265c4958f62c3f50ebab35dcafcf8459a0d072f",
+      "title": "Brussels could relaunch SAFE funding round as Budapest set to cut request",
+      "summary": "A smaller Hungarian request could free up €10 billion",
+      "url": "https://www.euractiv.com/news/brussels-could-relaunch-safe-funding-round-as-budapest-set-to-cut-request/",
+      "source": "Euractiv",
+      "published_at": "2026-06-23T13:49:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Budapest set to cut request"
+    },
+    {
       "id": "b263d5d5380c2b74886a844a97688bb869207145",
       "title": "EU’s off-patent medicines industry calls for industrial strategy at Athens summit [Advocacy Lab]",
       "summary": "Medicines for Europe conference highlights Greece’s growing role as a pharmaceutical manufacturing hub ahead of the country’s 2027 EU Council Presidency",
@@ -207,18 +218,8 @@
       "published_at": "2026-06-21T05:00:21+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "97dbd42f869bce7f5b09d1372dd3be31a6bd55ff",
-      "title": "‘It’s Russian roulette’: alarm as Europe backs critical minerals mines in water-stressed regions",
-      "summary": "Exclusive: European Commission planning to rewrite key law to allow water-intensive mines in regions suffering from droughtThe European Commission plans to rewrite the EU’s flagship water protection law to speed up the d…",
-      "url": "https://www.theguardian.com/environment/2026/jun/20/europe-backs-critical-minerals-mines-water-stressed-regions",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-20T06:00:03+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-04T11:08:28Z"
+  "last_updated": "2026-07-05T11:19:50Z"
 }

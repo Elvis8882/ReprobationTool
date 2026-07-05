@@ -1,16 +1,27 @@
 {
   "country": "DE",
-  "score": 66,
+  "score": 65,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": -1,
-  "sources": 532,
+  "sources": 534,
   "sentiment": {
-    "positive": 64,
-    "neutral": 387,
-    "negative": 81
+    "positive": 62,
+    "neutral": 390,
+    "negative": 82
   },
   "latest_articles": [
+    {
+      "id": "4dcdaa0ec0d9492486b49d631ed4a04e54300b8c",
+      "title": "German riot police clash with protesters hoping to block far-right AfD conference",
+      "summary": "Thousands of police deployed to Erfurt in central Germany as party holds conference on key Nazi dateRiot police have clashed with opponents of the far-right Alternative für Deutschland (AfD) party on the streets of Erfur…",
+      "url": "https://www.theguardian.com/world/2026/jul/04/german-riot-police-clash-protesters-block-far-right-afd-conference",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-04T13:17:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "far-right Alternative für Deutschland (AfD) party"
+    },
     {
       "id": "bdb7f93be7e933e01d5f4384f80d4f47d8a35021",
       "title": "A Hitler Bunker Faces Demolition in Housing-Challenged Berlin",
@@ -216,19 +227,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "World Cup Loss Dominates German News"
-    },
-    {
-      "id": "9ddb90fec65d453f1b250aa1be0ee0f4e5167d3e",
-      "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-      "summary": "City officials want to build flats on the city centre site but others say it should be preserved as part of Germany's history.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-30T19:19:42+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "Row over plan to demolish Nazi bunker under Berlin"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-04T11:08:28Z"
+  "last_updated": "2026-07-05T11:19:50Z"
 }

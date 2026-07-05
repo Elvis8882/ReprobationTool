@@ -1,16 +1,49 @@
 {
   "country": "UA",
-  "score": 42,
+  "score": 44,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -2,
-  "sources": 651,
+  "trend": 2,
+  "sources": 654,
   "sentiment": {
-    "positive": 283,
-    "neutral": 147,
-    "negative": 222
+    "positive": 288,
+    "neutral": 146,
+    "negative": 221
   },
   "latest_articles": [
+    {
+      "id": "6f8236e967f8a0e80931384ca5fb6a39ae5bca0b",
+      "title": "Far From Kyiv and Moscow, Soldiers Stalk Ruins and Evade Drones on the Front",
+      "summary": "Ukraine’s military has denied a Kremlin claim to have taken a city in the eastern Donetsk region, saying its troops are holding out against infiltrating Russians.",
+      "url": "https://www.nytimes.com/2026/07/05/world/europe/ukraine-russia-donetsk-front.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-05T09:17:30+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "saying its troops are holding out against infiltrating Russians"
+    },
+    {
+      "id": "417b0d2d8fc474c69c601834ad16720455776c21",
+      "title": "Putin visits military installation, vowing to take more of Ukraine",
+      "summary": "The Russian president donned military fatigues as he tried to counter a narrative that Moscow is stumbling in its war after Ukrainian drone strikes set off an acute fuel shortage.",
+      "url": "https://www.washingtonpost.com/world/2026/07/04/putin-visits-military-installation-vowing-take-more-ukraine/",
+      "source": "World (Washington post)",
+      "published_at": "2026-07-04T20:31:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "vowing to take more of Ukraine"
+    },
+    {
+      "id": "031d2c88d75e950d20a470450f1a30482551ee41",
+      "title": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
+      "summary": "St Petersburg governor reports no victims after ‘large-scale’ overnight attack that also hit Baltic port of VysotskUkraine launched a big overnight drone attack on St Petersburg and the surrounding area, hitting the city…",
+      "url": "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-04T19:09:06+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukrainian drones hit St Petersburg oil terminal"
+    },
     {
       "id": "67c8be1067db6b8761408c6ac537566b6f9d853d",
       "title": "'I don't think it is possible': Keir Starmer says next PM cannot spend less time on diplomacy",
@@ -23,6 +56,17 @@
       "evidence": "supporting Ukraine as key achievements"
     },
     {
+      "id": "1058df1d03ce589153b5e7c85d0bf900f869a4c7",
+      "title": "Putin Visits Battlefield and Vows to Take More of Ukraine",
+      "summary": "The Russian leader denounced Ukraine’s “imaginary achievements” on the battlefield of late, calling its leaders “play actors.”",
+      "url": "https://www.nytimes.com/2026/07/03/world/europe/putin-ukraine-donbas-battlefield-visit.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-04T00:24:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Vows to Take More of Ukraine"
+    },
+    {
       "id": "edbcdddf40a94fb9865e3323e82fa4eee992d64a",
       "title": "Woman From Ukraine Was Behind Monaco Bomb Attack, Officials Say",
       "summary": "Anastasiia Berezovska, a 39-year-old Ukrainian, tried to kill three people with a parcel bomb on Monday, the authorities said. She remained on the run.",
@@ -32,6 +76,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Woman From Ukraine Was Behind Monaco Bomb Attack"
+    },
+    {
+      "id": "492abfe286f25ba38666ce3248697ef9aa98197c",
+      "title": "Failing to deter Putin would cost more than paying for defense, Estonian PM warns EU - politico.eu",
+      "summary": "Failing to deter Putin would cost more than paying for defense, Estonian PM warns EU&nbsp;&nbsp;politico.euEurope: armed for peace&nbsp;&nbsp;EuractivEstonia Calls for Increased Support for Ukraine Amid Ongoing Russian P…",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZjFDeVhKTDdBTDFWNkVnV3JFald1bjM3R3RfRFNDRkpnVC0tN3N4N0JkVUdSOWZyVTIzbHFtell3T3A2bUtlb0RtZnZfaGJrYlZQTHlDV3ZOSHQwbzVsTEN2bzJYWE9EQVZhcUNValNQR1h5Rl9aYkdva0ozZi1pSFEwRkhvN25LdzdreldDRGc3Z24tOVNQcjBHbFZ2RTRVS3IzclFweVpWNmwyYlZ0RGFsbk9KMUphU3hkb3JKZV85cExOUllLS3ZEVTVpRHRvLVFua19XbUFiMHRCZkI3eQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-03T12:19:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Increased Support for Ukraine"
     },
     {
       "id": "ac5e934545547f6bbf5e8ac264eecf080e9a3510",
@@ -175,63 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Kyiv kills at least 18"
-    },
-    {
-      "id": "6edb1bdd3890a3c934e38544acf7db6e6e70c4a9",
-      "title": "Ukrainian Charged With Sabotaging Pipelines Between Russia and Germany",
-      "summary": "A man identified only as Serhii K. is accused of overseeing an undersea bombing in 2022 that cut off a key source of Russian gas revenues.",
-      "url": "https://www.nytimes.com/2026/07/02/world/europe/pipeline-sabotage-ukraine-russia-germany.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-02T10:29:24+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukrainian Charged With Sabotaging Pipelines Between Russia and Germany"
-    },
-    {
-      "id": "01f2d6f7fb05bddbef6a4628bb821b40e7040e1a",
-      "title": "Who Is Vadym Yermolaiev? Sanctioned Ukrainian Tycoon Wounded In Monaco Parcel Bomb Attack",
-      "summary": "Yermolaiev built his fortune in Dnipro's construction sector",
-      "url": "https://www.ndtv.com/world-news/who-is-vadym-yermolaiev-sanctioned-ukrainian-tycoon-wounded-in-monaco-parcel-bomb-attack-11715418#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-02T08:52:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Sanctioned Ukrainian Tycoon"
-    },
-    {
-      "id": "23b1bb77fb40a74ec3d84240aded9b5c274250fa",
-      "title": "Russia rocks Ukrainian capital with massive assault, killing at least 17",
-      "summary": "Dozens were injured overnight in Kyiv during an attack that caused fires and explosions throughout the city.",
-      "url": "https://www.washingtonpost.com/world/2026/07/02/russia-rocks-kyiv-with-massive-missile-drone-attack/",
-      "source": "World (Washington post)",
-      "published_at": "2026-07-02T08:44:07+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Ukrainian capital with massive assault, killing at least 17"
-    },
-    {
-      "id": "65ae986b80935d96a8a85aa8f25159a27f1846df",
-      "title": "Russia Strikes Ukraine as Explosions Rock Capital of Kyiv",
-      "summary": "At least 13 people were killed in the assault, which began hours after President Volodymyr Zelensky of Ukraine warned that Russia was preparing another “massive strike” on Kyiv.",
-      "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/ukraine-kyiv-russia-attack",
-      "source": "NYT > World News",
-      "published_at": "2026-07-02T08:21:33+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Russia Strikes Ukraine as Explosions Rock Capital of Kyiv"
-    },
-    {
-      "id": "6b537aa88dec6397eaf109b8add60436f3747876",
-      "title": "Ukraine Takes the War to Russia",
-      "summary": "Kyiv’s aim is simple: Put enough pressure on President Vladimir Putin that he agrees to end the war. Will it work?",
-      "url": "https://www.nytimes.com/2026/07/01/world/ukraine-war-russia-putin-maduro-harry-kane.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-02T06:06:14+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine Takes the War to Russia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-04T11:08:28Z"
+  "last_updated": "2026-07-05T11:19:50Z"
 }

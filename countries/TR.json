@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 63,
+  "score": 93,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 62,
+  "trend": 30,
+  "sources": 63,
   "sentiment": {
-    "positive": 6,
+    "positive": 7,
     "neutral": 43,
     "negative": 13
   },
   "latest_articles": [
+    {
+      "id": "bf4744aa1a28a33a0049106c82b09bb7952e5eb4",
+      "title": "Turkey sees its status in NATO rise, thanks to its weapons factories and Trump",
+      "summary": "A friendship between presidents Donald Trump and Recep Tayyip Erdogan, and a need for weapons production, has changed how other NATO countries treat Turkey.",
+      "url": "https://www.washingtonpost.com/world/2026/07/03/trump-attendance-nato-summit-will-highlight-turkeys-new-prominence/",
+      "source": "World (Washington post)",
+      "published_at": "2026-07-05T09:00:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Turkey sees its status in NATO rise, thanks to its weapons factories"
+    },
     {
       "id": "c919467325ed3380780875990f9590d934261d8f",
       "title": "‘Ridiculous’ for US to maintain current Nato support, Trump warns ahead of alliance summit",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "upcoming Ankara summit will be “one of the more important leaders’ summit"
-    },
-    {
-      "id": "57c239dc4cea4ff0f731849509e3ae886ab9c107",
-      "title": "EU faces Turkey test over maritime territory grab",
-      "summary": "If Turkey passes the legislation then 'the EU will have no alternative but to impose sanctions' and provide Greece with military support, said Greek MEP Nikolas Farantouris",
-      "url": "https://www.euractiv.com/news/eu-faces-turkey-test-over-maritime-territory-grab/",
-      "source": "Euractiv",
-      "published_at": "2026-05-22T04:00:47+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Turkey test over maritime territory grab"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-04T11:08:28Z"
+  "last_updated": "2026-07-05T11:19:50Z"
 }

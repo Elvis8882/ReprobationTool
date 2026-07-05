@@ -1,16 +1,27 @@
 {
   "country": "FR",
-  "score": 85,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 643,
+  "trend": -1,
+  "sources": 646,
   "sentiment": {
     "positive": 92,
-    "neutral": 481,
-    "negative": 70
+    "neutral": 483,
+    "negative": 71
   },
   "latest_articles": [
+    {
+      "id": "257618211680b0f9650e921a17bda3b16870c7b8",
+      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+      "summary": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-04T23:17:24+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "guilty of misusing EU funds"
+    },
     {
       "id": "08afe798f8840815d69975b856f2910f59f8a299",
       "title": "UK and France agree with Oman to ensure safety of its territorial waters",
@@ -21,6 +32,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "France said it has deployed mine countermeasures to the Middle East"
+    },
+    {
+      "id": "75317fbc0fa7c223a2f96e2e74c597a499d09f2e",
+      "title": "England face Mexico in Azteca fortress, returning to scene of Maradona handball - France 24",
+      "summary": "England face Mexico in Azteca fortress, returning to scene of Maradona handball&nbsp;&nbsp;France 24England team booed on arrival at Mexico City hotel&nbsp;&nbsp;BBCSurvival is key for England in epic test or it will be…",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT1Zsd3NsX2IwTjJrdGVLdkx5bmsxS1lxcU1oaVhMNXBONkVONWlMdkZHOGhxc0k1SUw5T3BYMWtJYWpGMGd4NmIxR2YxM2xHdTFZM0hQTTM4RmJMY0stUnRWR0pUUndybkZzOGNaYmFyM0xESjdvaXZUel9RSW5ad2JiSS1NeGRvVU0xTnVNSXZwZXJHT3dZb2ExcFVZdG1fNm02RDB1ckhRU2tSakVUbFozSXRjYkl1c0NJ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-04T08:24:29+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "France 24"
     },
     {
       "id": "af1fa4f76487ba8223400941873f826906620613",
@@ -204,30 +226,8 @@
       "published_at": "2026-06-29T11:40:09+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "29962c17ad0acfe2ddf89a4f18242a9333bf67f8",
-      "title": "Done Quixote? Film archivists on quest to finish Orson Welles passion project",
-      "summary": "Team hope 30 of hours of footage held by three countries will be enough to bring to life film-maker’s visionMore than 70 years after he shot the first few frames, Orson Welles’s ambitious project to put Don Quixote on th…",
-      "url": "https://www.theguardian.com/film/2026/jun/29/orson-welles-unfinished-don-quixote-film",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-29T10:00:41+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "held by three countries will be enough"
-    },
-    {
-      "id": "72c8824018ab98d3a3f64be060d49ff799868270",
-      "title": "Watch: Europe's record heatwave melts roads in France, buckle tram tracks in Germany",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/europe/watch-europe-record-heatwave-melts-roads-in-france-buckle-tram-tracks-in-germany/articleshow/132061092.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-06-29T02:56:31+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "melts roads in France"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-04T11:08:28Z"
+  "last_updated": "2026-07-05T11:19:50Z"
 }
