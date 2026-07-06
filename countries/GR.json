@@ -1,16 +1,27 @@
 {
   "country": "GR",
-  "score": 83,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 298,
+  "trend": 1,
+  "sources": 295,
   "sentiment": {
     "positive": 11,
-    "neutral": 260,
-    "negative": 28
+    "neutral": 258,
+    "negative": 27
   },
   "latest_articles": [
+    {
+      "id": "2e7fb4aad164f13aca69962f41fa6c7430c05c11",
+      "title": "Wildfires rage across southern Europe, forcing thousands to flee homes",
+      "summary": "Tour de France spectator ban as country along with Spain, Portugal and Greece faces ‘powder keg’ after heatwaveEurope live – latest updatesWildfires raging across southern Europe have forced thousands to flee their homes…",
+      "url": "https://www.theguardian.com/world/2026/jul/06/wildfires-southern-europe-evacuations-tour-de-france-portugal-spain-greece-heatwave",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-06T10:01:31+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "in Portugal, Spain, France and Greece."
+    },
     {
       "id": "fbd7cb5420645af6ef454c43a6775ef9813c4f47",
       "title": "Spyware used against MEP investigating Pegasus abuses, report finds",
@@ -211,18 +222,8 @@
       "published_at": "2026-06-23T11:53:02+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "981c82b181175b629cf887580c7c1e474bd670ea",
-      "title": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels",
-      "summary": "The delegation received visas from Belgium to attend talks with the European Union about the deportation of Afghans. Officials in Afghanistan said the meeting would take place on Tuesday.",
-      "url": "https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-22T19:00:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-05T11:19:50Z"
+  "last_updated": "2026-07-06T13:13:57Z"
 }

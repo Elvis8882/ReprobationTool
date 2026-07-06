@@ -3,12 +3,12 @@
   "score": 44,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 2,
-  "sources": 654,
+  "trend": 0,
+  "sources": 653,
   "sentiment": {
     "positive": 288,
-    "neutral": 146,
-    "negative": 221
+    "neutral": 144,
+    "negative": 222
   },
   "latest_articles": [
     {
@@ -43,6 +43,17 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Ukrainian drones hit St Petersburg oil terminal"
+    },
+    {
+      "id": "0a6fbb1c8b9e18e7d56f40e1a42e1f1cab523aff",
+      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-04T18:41:25+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukraine hits major oil terminal in Russia's St Petersburg"
     },
     {
       "id": "67c8be1067db6b8761408c6ac537566b6f9d853d",
@@ -199,6 +210,17 @@
       "evidence": "completely destroyed nine-storey block of flats in Ukraine's capital."
     },
     {
+      "id": "71c2f26bcffe0ca2cddf96adfbc7c5b774440788",
+      "title": "At least 18 dead as Russia launches massive drone and missile attack on Kyiv",
+      "summary": "Ukraine capital targeted as Russia faces fuel shortages following long-range strikes against its oil refineriesEurope live – latest updatesAt least 18 people have been killed and dozens injured overnight in Kyiv, local a…",
+      "url": "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-02T11:29:49+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Ukraine capital targeted as Russia faces fuel shortages"
+    },
+    {
       "id": "d24e24835d133955ddb2c2b732fdb9e118e05121",
       "title": "Kyiv attacks death toll rises to 17 as Russia warns it will ‘continue to increase pressure’ on Ukrainian capital – Europe live",
       "summary": "Damage recorded in 30 locations across in the city from overnight attacks, with ‘most of them ordinary residential buildings’in DublinVolodymyr Zelenskyy has said he hopes not to wait too long for the results of an Irish…",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Kyiv attacks death toll rises to 17"
-    },
-    {
-      "id": "6bac887b93218d155291530461d550521624f204",
-      "title": "Live Updates: Russia Hammers Ukraine’s Capital in Deadly Attacks",
-      "summary": "At least 18 people were killed in Kyiv, the local authorities said. Ukraine’s president had warned that Moscow was preparing a “massive strike” as his country’s forces have hit deeper into Russian territory.",
-      "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
-      "source": "NYT > World News",
-      "published_at": "2026-07-02T11:19:49+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Ukraine’s Capital in Deadly Attacks"
-    },
-    {
-      "id": "03ca13f062a5effb2445b61e3dd6dd89b6d31eb0",
-      "title": "'Most massive' Russian attack on Kyiv kills at least 18",
-      "summary": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-02T11:11:52+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Kyiv kills at least 18"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-05T11:19:50Z"
+  "last_updated": "2026-07-06T13:13:57Z"
 }

@@ -13,8 +13,15 @@
   "countries_scored": [
     "GB"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-07-05T11:19:49+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-07-06T13:13:57+00:00",
+  "sentiment_by_country": {
+    "GB": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Convicted people smuggler reportedly living in UK should be deported"
+    }
+  },
+  "processed_at": "2026-07-06T13:13:57+00:00"
 }
