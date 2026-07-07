@@ -1,16 +1,38 @@
 {
   "country": "DE",
-  "score": 64,
+  "score": 65,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 531,
+  "trend": 1,
+  "sources": 527,
   "sentiment": {
-    "positive": 61,
-    "neutral": 388,
+    "positive": 62,
+    "neutral": 383,
     "negative": 82
   },
   "latest_articles": [
+    {
+      "id": "166b9bba4090cd7849162de12097a858a76b97d9",
+      "title": "Hanwha Ocean shares sink 23% as it loses bid to build Canada's next fleet of submarines",
+      "summary": "Canadian Prime Minister Mark Carney announced Monday that Germany's Thyssenkrupp Marine Systems would be the preferred supplier for delivering the submarines.",
+      "url": "https://www.cnbc.com/2026/07/07/hanwha-ocean-shares-sink-canada-submarines-tkms.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-07T05:29:18+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Germany's Thyssenkrupp Marine Systems would be the preferred supplier"
+    },
+    {
+      "id": "6b1f1f0ad4d81731ac78aa697f596ae0943ead73",
+      "title": "Canada to buy 12 hi-tech German submarines after bidding war",
+      "summary": "TKMS beats South Korean rival to multibillion-dollar contract that will deepen Canada’s Nato tiesCanada has selected a German consortium to build a dozen cutting-edge submarines in one of the country’s largest-ever defen…",
+      "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-06T16:41:47+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "German consortium to build submarines, deepen Canada’s Nato ties"
+    },
     {
       "id": "4dcdaa0ec0d9492486b49d631ed4a04e54300b8c",
       "title": "German riot police clash with protesters hoping to block far-right AfD conference",
@@ -206,29 +228,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Germany, Netherlands, Sweden, Norway, Denmark and More in Europe Airport Operations Growth Story"
-    },
-    {
-      "id": "9a1f00ed389dc0c27ba7cbca65c38441a8662828",
-      "title": "Call to suspend new EU border system in peak holiday period as planes leave half full",
-      "summary": "Airlines and airports say passengers are struggling in queues of up to five hours for biometric checksAirlines and airports have called for the new EU biometric border check system to be suspended during the peak summer…",
-      "url": "https://www.theguardian.com/business/2026/jul/01/call-to-suspend-eu-border-system-peak-holiday-period-europe-travel-airport-queues",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-01T08:08:19+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "42ea9226e986cbfef85b9cf32235beae9549ed86",
-      "title": "World Cup Loss Dominates German News, Displacing Even a Mass Shooting",
-      "summary": "A day after a deadly attack in northern Germany, the news media’s attention largely shifted to the country’s poor performance at the World Cup.",
-      "url": "https://www.nytimes.com/2026/06/30/world/europe/germany-shooting-stade-world-cup.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-30T21:01:49+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "World Cup Loss Dominates German News"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-06T13:13:57Z"
+  "last_updated": "2026-07-07T12:07:43Z"
 }

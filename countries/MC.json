@@ -1,16 +1,38 @@
 {
   "country": "MC",
   "score": 55,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 12,
+  "sources": 14,
   "sentiment": {
     "positive": 0,
-    "neutral": 9,
+    "neutral": 11,
     "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "84bd5b5ee549ee626c696ef8a077553838b75772",
+      "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
+      "summary": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-07T11:42:40+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Woman suspected of Monaco bomb attack found dead"
+    },
+    {
+      "id": "c9747266db9eed32c936a2b8f5f928d7fabcf5b9",
+      "title": "Woman suspected of Monaco bombing found shot dead near Kyiv",
+      "summary": "Anastasiia Berezovska was being sought by police over attack that seriously injured a Ukraine-born businessmanA woman suspected of carrying out last week’s bomb attack in Monaco that seriously injured a Ukraine-born busi…",
+      "url": "https://www.theguardian.com/world/2026/jul/07/woman-suspected-monaco-bombing-shot-dead-kyiv",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-07T11:17:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Woman suspected of Monaco bombing found shot dead"
+    },
     {
       "id": "edbcdddf40a94fb9865e3323e82fa4eee992d64a",
       "title": "Woman From Ukraine Was Behind Monaco Bomb Attack, Officials Say",
@@ -145,5 +167,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-06T13:13:57Z"
+  "last_updated": "2026-07-07T12:07:43Z"
 }

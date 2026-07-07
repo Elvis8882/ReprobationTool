@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 247,
+  "sources": 246,
   "sentiment": {
-    "positive": 9,
-    "neutral": 224,
+    "positive": 10,
+    "neutral": 222,
     "negative": 14
   },
   "latest_articles": [
+    {
+      "id": "eac027310bce9d7d52af9e1279e12992cd15c599",
+      "title": "Former Syrian Officials Found Guilty in Torture of Pro-Democracy Protesters",
+      "summary": "The case against the two men, who have been living in Austria since 2015, was one of the first that the country has brought under the principle of universal jurisdiction.",
+      "url": "https://www.nytimes.com/2026/07/06/world/middleeast/syrian-torture-verdict-vienna.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-06T14:12:07+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "country has brought under the principle of universal jurisdiction"
+    },
     {
       "id": "fbd7cb5420645af6ef454c43a6775ef9813c4f47",
       "title": "Spyware used against MEP investigating Pegasus abuses, report finds",
@@ -204,18 +215,8 @@
       "published_at": "2026-06-18T16:53:35+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "476e0e809a41c59fb489d4ef69e9bbc7c78213bc",
-      "title": "EU Parliament’s internal market committee requests to co-lead cloud sovereignty law",
-      "summary": "A political clash between the centre-right EPP and the Greens is also brewing",
-      "url": "https://www.euractiv.com/news/eu-parliaments-internal-market-committee-requests-to-co-lead-cloud-sovereignty-law/",
-      "source": "Euractiv",
-      "published_at": "2026-06-18T13:15:52+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-06T13:13:57Z"
+  "last_updated": "2026-07-07T12:07:43Z"
 }
