@@ -1,16 +1,27 @@
 {
   "country": "MC",
   "score": 55,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 14,
+  "sources": 15,
   "sentiment": {
     "positive": 0,
     "neutral": 11,
-    "negative": 3
+    "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "7eb590dfbdccc40c5fbed9bd1ebbc209b63b4db5",
+      "title": "Suspect in Monaco Bombing Attack Is Found Dead in Ukraine",
+      "summary": "The Ukrainian authorities said that Anastasiia Berezovska, who officials said was behind the explosion last week, had been shot.",
+      "url": "https://www.nytimes.com/2026/07/07/world/europe/monaco-bombing-suspect-dead-ukraine.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-07T15:34:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Monaco Bombing Attack"
+    },
     {
       "id": "84bd5b5ee549ee626c696ef8a077553838b75772",
       "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
@@ -167,5 +178,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-07T12:07:43Z"
+  "last_updated": "2026-07-08T11:23:32Z"
 }

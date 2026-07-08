@@ -3,14 +3,25 @@
   "score": 57,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 33,
+  "trend": 0,
+  "sources": 35,
   "sentiment": {
     "positive": 1,
-    "neutral": 18,
+    "neutral": 20,
     "negative": 14
   },
   "latest_articles": [
+    {
+      "id": "7e10d4578b16cf6bf7847f1fcc8a8bddb8593e6b",
+      "title": "Iraqis Turn Out in Droves to Mourn Khamenei in Show of Solidarity",
+      "summary": "In the cities of Najaf and Karbala, home to two of Shiite Islam’s holiest sites, hundreds of thousands attended commemorations for Ayatollah Ali Khamenei, who extended Iran’s influence in Iraq.",
+      "url": "https://www.nytimes.com/2026/07/08/world/middleeast/iraq-funeral-ayatollah-khamenei.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-08T11:03:01+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "hundreds of thousands attended commemorations for Ayatollah Ali Khamenei"
+    },
     {
       "id": "b50439a266cd70f45edc8d7f1a2c6cc4f20d8346",
       "title": "Funeral of Iran's former supreme leader 'intensely political moment'",
@@ -54,6 +65,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "including neighboring Iraq"
+    },
+    {
+      "id": "7c4e48e7ab90356b9bdc1711b6ca3fff83db98c3",
+      "title": "Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death",
+      "summary": "Iran plans a six-day funeral for Ayatollah Ali Khamenei, with ceremonies across Iran and Iraq before burial in Mashhad.",
+      "url": "https://www.cnbc.com/2026/07/04/-khamenei-funeral-procession-route.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-04T05:20:52+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "ceremonies across Iran and Iraq"
     },
     {
       "id": "c63033be8779e00c615c0cc5482051aadabc855d",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "In Iraqi Desert, Two Israeli Outposts Were Kept Secret for Months"
-    },
-    {
-      "id": "8e88854383fbe8903074b4fa70be120ae3286f36",
-      "title": "Kataib Hezbollah: What to Know",
-      "summary": "A commander of one of the most-hard line and powerful Iranian proxies in Iraq has been charged with plotting to attack Jewish sites in the United States.",
-      "url": "https://www.nytimes.com/2026/05/15/world/middleeast/what-is-kataib-hezbollah.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-16T00:57:46+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "powerful Iranian proxies in Iraq"
-    },
-    {
-      "id": "34e445b736d6784896589a37e012191ddcc115ec",
-      "title": "Israel operated from Iraq's Najaf desert during war: Reports",
-      "summary": "Israeli forces reportedly established a temporary base on an old airstrip in Iraq's Najaf desert during the war against Iran, according to security officials. The operation, coordinated with the US, led to clashes with I…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-operated-from-iraqs-najaf-desert-during-war-reports/articleshow/130998933.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-05-10T20:09:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Iraq had previously protested an air raid"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-07T12:07:43Z"
+  "last_updated": "2026-07-08T11:23:32Z"
 }

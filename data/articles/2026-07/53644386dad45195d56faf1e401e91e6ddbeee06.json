@@ -17,8 +17,25 @@
     "TR",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-07-07T12:07:43+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-07-08T11:23:32+00:00",
+  "sentiment_by_country": {
+    "RU": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Zelensky to press Nato for air defence systems after intense Russian strikes"
+    },
+    "TR": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "The Ukrainian president will use the Nato meeting in Turkey"
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.7,
+      "evidence": "Zelensky to press Nato for air defence systems"
+    }
+  },
+  "processed_at": "2026-07-08T11:23:32+00:00"
 }
