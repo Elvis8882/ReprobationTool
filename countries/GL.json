@@ -1,16 +1,27 @@
 {
   "country": "GL",
-  "score": 65,
+  "score": 66,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -5,
-  "sources": 33,
+  "trend": 1,
+  "sources": 38,
   "sentiment": {
-    "positive": 4,
-    "neutral": 22,
-    "negative": 7
+    "positive": 5,
+    "neutral": 25,
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "239aa1b2edb08fc76269a45189e6bd681a140272",
+      "title": "Watch: Why is there a 'black cloud' over unity at the Nato summit?",
+      "summary": "US President Donald Trump has used the Nato summit to criticise the lack of support for his war on Iran, and revive his interest in taking over Greenland.",
+      "url": "https://www.bbc.co.uk/news/videos/cn75n0lyzedo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-08T16:05:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.4,
+      "evidence": "interest in taking over Greenland"
+    },
     {
       "id": "46c8bd670bb050be04ed654b264e1aa391fc784f",
       "title": "Trump pours cold water on NATO allies' united front",
@@ -23,6 +34,17 @@
       "evidence": "renewed his Greenland push"
     },
     {
+      "id": "9b327be0f3bbcda05e9d0d6d34d2b26914ab2b29",
+      "title": "Greenland ‘is very important for US, but not important for Denmark’, Trump says at Nato meeting – Europe live",
+      "summary": "US president says he is not happy with Nato and tells officials to ‘cut all trade with Spain’ Trump renews call for US to take over Greenland as he arrives for Nato summitAnd that ends their short briefing, with Trump sa…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/08/trump-nato-summit-greenland-us-turkey-rutte-marine-le-pen-europe-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-08T10:52:02+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Trump renews call for US to take over Greenland"
+    },
+    {
       "id": "c4cf3a5177fcc984a48f563812541090c9a740df",
       "title": "Live Updates: Trump Lashes Out at Europe at NATO Summit",
       "summary": "President Trump assailed allies for not joining the war in Iran, called Spain “hopeless” and repeated his desire to control Greenland. His criticism cast a pall over a meeting critical for NATO’s future.",
@@ -32,6 +54,28 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "repeated his desire to control Greenland"
+    },
+    {
+      "id": "43aff240341146368388e49bdbe2fedee214103a",
+      "title": "'Not important for Denmark': Trump says US needs Greenland for 'protection of the world'",
+      "summary": "President Trump again urged the United States to control Greenland. He stated the Arctic island is vital for global security. Denmark's Prime Minister Mette Frederiksen rejected the demand, calling Greenland not for sale…",
+      "url": "https://timesofindia.indiatimes.com/world/us/not-important-for-denmark-trump-says-us-needs-greenland-for-protection-of-the-world/articleshow/132259624.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-07-08T09:54:33+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.8,
+      "evidence": "Greenland's leadership also opposes any US acquisition... dispute strains relations"
+    },
+    {
+      "id": "91702dc67b5b2c4867a14c5f3e0dc61b97f85eba",
+      "title": "Denmark Says It Will Defend ‘Every Inch’ of NATO as Trump Eyes Greenland Again",
+      "summary": "After President Trump once more said that the island should be under U.S. control, the Danish prime minister, Mette Frederiksen, told reporters, “We will defend the kingdom of Denmark.”",
+      "url": "https://www.nytimes.com/2026/07/08/world/europe/us-denmark-greenland-nato-frederiksen.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-08T09:49:34+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "defend the kingdom of Denmark"
     },
     {
       "id": "ec801e064fbca459e19d247bae17a03dd519222c",
@@ -67,6 +111,17 @@
       "evidence": "ready to defend' Greenland"
     },
     {
+      "id": "1ba18583addbe888bff301cf265ca4c6a36dd2a2",
+      "title": "A robot army is heading to Greenland for a mission scientists once thought was impossible",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/science/a-robot-army-is-heading-to-greenland-for-a-mission-scientists-once-thought-was-impossible/articleshow/132256173.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-07-08T07:06:38+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "robot army is heading to Greenland for a mission"
+    },
+    {
       "id": "176989b4f1606ffe02128bb59e26be7575d6bdcc",
       "title": "NATO Unveils Billions In Arms Deals As Trump Insists US Control Of Greenland",
       "summary": "Trump called the semiautonomous island \"an important part\" for US",
@@ -76,6 +131,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Trump Insists US Control Of Greenland"
+    },
+    {
+      "id": "28b0b298cbb757debb3802a31a98e10bf9da77c1",
+      "title": "CNBC Daily Open: Strait of Hormuz, Ukraine's attacks in Russia, Greenland",
+      "summary": "Geopolitics are back in focus, with the U.S. retaliating against Iran after several ships were struck in the Strait of Hormuz, and Ukraine hitting Russia.",
+      "url": "https://www.cnbc.com/2026/07/08/cnbc-daily-open-strait-of-hormuz-ukraine-moves-in-russia-greenland.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-08T01:20:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Greenland"
     },
     {
       "id": "d26066c28b50c5315b3c7398414c5b9c0f40fb8c",
@@ -164,74 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "ramps up Greenland defence with new Arctic patrol ships"
-    },
-    {
-      "id": "c174b12eefaa1ee94a41cb8663ff07d69c55bfe8",
-      "title": "From charm offensive to backlash: US consulate opening in Greenland met with protests",
-      "summary": "American divisions spill into Nuuk, reshaping diplomacy and local life",
-      "url": "https://www.euractiv.com/news/from-charm-offensive-to-backlash-us-consulate-opening-in-greenland-met-with-protests/",
-      "source": "Euractiv",
-      "published_at": "2026-05-22T04:00:36+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "US consulate opening in Greenland met with protests"
-    },
-    {
-      "id": "0d9ad9b224e28a9519b6972b418fed3d0d14ed4f",
-      "title": "In Greenland, Protesters Denounce Opening of Bigger U.S. Consulate",
-      "summary": "“Go away!” demonstrators yelled outside the newly opened diplomatic outpost, as guests inside nibbled on musk ox hot dogs.",
-      "url": "https://www.nytimes.com/2026/05/21/world/europe/greenland-protests-us-consulate.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-21T22:26:39+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "In Greenland, Protesters Denounce Opening of Bigger U.S. Consulate"
-    },
-    {
-      "id": "e01ff9d93221466536fb5b02690c504f3ca18881",
-      "title": "INTERVIEW: EU prepares Arctic ‘decade’ amid Greenland tensions",
-      "summary": "The EU’s long-awaited Arctic strategy will be finalised this autumn, Síkela tells Euractiv",
-      "url": "https://www.euractiv.com/news/interview-eu-prepares-arctic-decade-amid-greenland-tensions/",
-      "source": "Euractiv",
-      "published_at": "2026-05-21T04:00:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "EU prepares Arctic ‘decade’ amid Greenland tensions"
-    },
-    {
-      "id": "c971917036876f7f507400d45d8a6ff72dabd363",
-      "title": "Greenland says EU-US relations are ‘for others to decide’",
-      "summary": "Nielsen says that on EU membership Greenland has not decided yet",
-      "url": "https://www.euractiv.com/news/greenland-says-eu-us-relations-are-for-others-to-decide/",
-      "source": "Euractiv",
-      "published_at": "2026-05-20T11:52:22+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Greenland says EU-US relations are ‘for others to decide’"
-    },
-    {
-      "id": "2f146983fb45ac73a4ea914a98017db9df897a72",
-      "title": "US launches charm offensive in Greenland with chocolates and Trump caps",
-      "summary": "Before Trump, Greenland was ignored. Now 'we’re not ignoring them anymore,' Jeff Landry tells Euractiv",
-      "url": "https://www.euractiv.com/news/us-launches-charm-offensive-in-greenland-with-chocolates-and-trump-caps/",
-      "source": "Euractiv",
-      "published_at": "2026-05-20T04:00:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Greenland"
-    },
-    {
-      "id": "f1a36c5837aeb4848a61406d6c491bcb1d41748b",
-      "title": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
-      "summary": "Jeff Landry's visit to the territory, a semi-autonomous part of Denmark, has touched a nerve among some Greenlanders.",
-      "url": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-20T03:49:24+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Jeff Landry's visit to the territory"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-08T11:23:32Z"
+  "last_updated": "2026-07-09T12:25:45Z"
 }

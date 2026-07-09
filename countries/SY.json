@@ -1,16 +1,38 @@
 {
   "country": "SY",
-  "score": 86,
+  "score": 85,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 51,
+  "trend": -1,
+  "sources": 53,
   "sentiment": {
     "positive": 2,
-    "neutral": 28,
-    "negative": 21
+    "neutral": 29,
+    "negative": 22
   },
   "latest_articles": [
+    {
+      "id": "6546c4d3cd67cb6a8ac0cd563945862b1d8fe904",
+      "title": "Trump immigration cuts could worsen US caregiver shortage, experts say",
+      "summary": "The loss of protections for Haitian and Syrian workers could worsen shortages of nurses, aides and home care workersThe Trump administration may remove the temporary protected status (TPS) of Haitians and Syrians in the…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/09/trump-tps-haiti-syria-immigration",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-09T10:00:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "loss of protections for Haitian and Syrian workers"
+    },
+    {
+      "id": "c81834d60b16b1a115ffa11079929e8188c01eab",
+      "title": "Explosions injure 18 in Damascus during Macron's visit",
+      "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
+      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-07T11:16:30+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Explosions injure 18 in Damascus during Macron's visit"
+    },
     {
       "id": "c8bedb81cbe248770777139720ba17abd7e0ee79",
       "title": "Bombs explode near Damascus hotel housing Macron on Syria visit",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Trump’s efforts to end Temporary Protected Status for more than 356,000 immigrants"
-    },
-    {
-      "id": "3605721c580253b1f2f21eb29151c0eda1aaca22",
-      "title": "'Stop shooting': Trump demands as Iran, Israel resume strikes 1st time post ceasefire",
-      "summary": "Tensions flared as Iran and Israel exchanged missile and air strikes, shattering an April ceasefire and sparking fears of wider conflict. US President Trump urged an immediate halt to hostilities. The escalating attacks,…",
-      "url": "https://timesofindia.indiatimes.com/world/us/stop-shooting-donald-trump-demands-as-iran-israel-resume-strikes-1st-time-post-april-ceasefire/articleshow/131583880.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-06-08T10:04:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "Iraq and Syria closing airspace"
-    },
-    {
-      "id": "b303d9a0c9a10d400a0edc3b7c79e72c1a35695e",
-      "title": "Syrian Officers Who Hid in Plain Sight Face War Crime Charges in Austria",
-      "summary": "The trial, Austria’s first against Assad regime officials, will be a rare chance for Syrian witnesses to confront two men they have accused of torture.",
-      "url": "https://www.nytimes.com/2026/06/01/world/middleeast/syria-war-crimes-trial-austria.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-01T13:34:49+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "accused of torture"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-08T11:23:32Z"
+  "last_updated": "2026-07-09T12:25:45Z"
 }
