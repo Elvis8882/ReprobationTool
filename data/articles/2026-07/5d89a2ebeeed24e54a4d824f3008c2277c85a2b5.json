@@ -17,8 +17,25 @@
     "TR",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-07-09T12:25:45+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-07-10T12:08:49+00:00",
+  "sentiment_by_country": {
+    "RU": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Russian drones and missiles strike Kyiv on eve of Nato summit"
+    },
+    "TR": {
+      "label": "neutral",
+      "confidence": 0.1,
+      "evidence": "Nato summit in Turkey"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "second assault on Ukrainian capital within days"
+    }
+  },
+  "processed_at": "2026-07-10T12:08:49+00:00"
 }

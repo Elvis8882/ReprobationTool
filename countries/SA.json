@@ -1,14 +1,14 @@
 {
   "country": "SA",
-  "score": 91,
+  "score": 90,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 72,
+  "trend": -1,
+  "sources": 73,
   "sentiment": {
     "positive": 7,
     "neutral": 48,
-    "negative": 17
+    "negative": 18
   },
   "latest_articles": [
     {
@@ -87,6 +87,17 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Saudi Aramco resumes oil loading at Ras Tanura in boost to supply"
+    },
+    {
+      "id": "9f0d934fa6c970c9ce2688a0605fd469a4703213",
+      "title": "Saudi doctor jailed for life for ramming car into German Christmas market killing 6",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-doctor-jailed-for-life-for-ramming-car-into-german-christmas-market-killing-6/articleshow/132011718.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-06-26T09:39:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Saudi doctor jailed for life for ramming car into German Christmas market"
     },
     {
       "id": "ab31d0d24488695d143d982f18160d73332af435",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Saudi Arabia expressed concerns about escalating risks"
-    },
-    {
-      "id": "e85b8a1701670ead40e15c333c6f04ff4110ae25",
-      "title": "Global heating is making hajj ever more dangerous, report finds",
-      "summary": "Rising heat in Saudi Arabia threatens millions of Muslim pilgrims – but cutting fossil fuels would keep it saferGlobal heating has “fundamentally altered” the climate of Mecca and is exposing millions of hajj pilgrims to…",
-      "url": "https://www.theguardian.com/environment/2026/may/29/global-heating-hajj-muslim-pilgrimage-saudi-arabia-dangerous",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-28T23:01:34+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Global heating is making hajj ever more dangerous, report finds"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-09T12:25:45Z"
+  "last_updated": "2026-07-10T12:08:49Z"
 }

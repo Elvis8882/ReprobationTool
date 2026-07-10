@@ -1,16 +1,36 @@
 {
   "country": "DE",
-  "score": 65,
+  "score": 64,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": -1,
-  "sources": 526,
+  "sources": 534,
   "sentiment": {
     "positive": 63,
-    "neutral": 381,
-    "negative": 82
+    "neutral": 387,
+    "negative": 84
   },
   "latest_articles": [
+    {
+      "id": "08a02ae769eb110e437060d635d03a001341b5e2",
+      "title": "Meta found to breach EU laws with 'addictive' Instagram, Facebook designs",
+      "summary": "Instagram and Facebook's \"addictive\" designs have put Meta in breach of the European Union's digital laws, the EU concluded Friday in a preliminary report.",
+      "url": "https://www.cnbc.com/2026/07/10/meta-instagram-facebook-addictive-design-breach-eu-laws.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-10T11:48:12+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "2ac383c546f8fa6a2aa33b8ffe947cd26f3a0205",
+      "title": "EU accuses Meta of failing to tackle mental health risks of ‘addictive design’",
+      "summary": "Regulators say Facebook and Instagram features such as autoplay and infinite scroll contribute to ‘compulsive use’EU regulators have accused Meta, the company behind Facebook and Instagram, of failing to tackle the risks…",
+      "url": "https://www.theguardian.com/technology/2026/jul/10/eu-accuses-meta-failing-tackle-mental-health-risks-addictive-design",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-10T11:38:29+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "84072e2b40ea86c9a3817bdabb8c202171ee2737",
       "title": "What Germany and Japan Can Teach Ukraine About Patriot Missiles",
@@ -21,6 +41,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": ""
+    },
+    {
+      "id": "254a2a93e4bf8b4dd501142f3568f82909d9bd09",
+      "title": "VW faces protests in Germany over proposed job cuts and factory closures",
+      "summary": "Demonstrations at 18 sites set up as radical transformation plan put to board of Europe’s biggest carmakerVolkswagen’s proposal to slash up to 100,000 jobs and close factories faces a major test on Thursday as they are f…",
+      "url": "https://www.theguardian.com/business/2026/jul/09/vw-protests-germany-proposed-job-cuts-factory-closures",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-09T09:19:26+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "protests in Germany"
     },
     {
       "id": "f0d42565bf47e6f5a0ebcf8d9461180be6e2b835",
@@ -74,6 +105,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Chinese Men Used Telegram To Share Rape Videos, Drugging Tips In Germany"
+    },
+    {
+      "id": "5cf125d0f9224bbdae19e20be9d7870a6967e323",
+      "title": "A Plan to Stop the Far Right",
+      "summary": "The German chancellor and his center-left coalition partners are trying to hold off populist challengers. And they have a road map.",
+      "url": "https://www.nytimes.com/2026/07/07/world/germany-afd-centrist-far-right-le-pen-farage.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-08T05:06:13+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "The German chancellor and his center-left coalition partners are trying to hold off populist challengers."
     },
     {
       "id": "2ed7957956fa5b2beed9753beb2d8e2be132c741",
@@ -183,52 +225,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "German row over plan for workers"
-    },
-    {
-      "id": "3cb39265917f9b6b705f648ba31e4be14f2a3fbf",
-      "title": "Where's the doctor's note? Germany tightens workplace rules, no more sick leaves over call or text",
-      "summary": "Germany is tightening its sick leave policy, requiring a doctor's note from day one of illness, a move Chancellor Friedrich Merz believes will boost the economy. Previously, employees enjoyed up to six weeks of paid sick…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/wheres-the-doctors-note-germany-tightens-workplace-rules-no-more-sick-leaves-over-call-or-text/articleshow/132158282.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-07-03T09:59:44+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Germany tightens workplace rules"
-    },
-    {
-      "id": "cf45a3020b525ba2b820041e6d9899e987a6fc4f",
-      "title": "Weather tracker: Heatwave breaks June temperature records across Europe",
-      "summary": "UK provisional peak of 37.7C shatters previous record by huge margin, while Germany hits all-time high of 41.7CLast week’s heatwave across western Europe shattered national June records and set new all-time highs.The UK…",
-      "url": "https://www.theguardian.com/environment/2026/jul/03/weather-tracker-heatwave-breaks-june-temperature-records-across-europe",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-03T09:20:03+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Germany hits all-time high of 41.7C"
-    },
-    {
-      "id": "7411745372968b5ee6d037574a2d77d3e6e7ef76",
-      "title": "Woman suspected in Monaco parcel bombing reportedly seen in Germany",
-      "summary": "Suspect is said to have tried to pass as a man during attack apparently targeting Ukrainian-born oligarchThe main suspect in ⁠a ⁠bomb attack in ​Monaco ⁠this week is a woman ⁠who ​has ‌been spotted ‌in Germany, a ‌judici…",
-      "url": "https://www.theguardian.com/world/2026/jul/03/suspect-identified-in-monaco-parcel-bombing-that-wounded-sanctioned-ukrainian-born-oligarch",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-03T09:05:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Woman suspected in Monaco parcel bombing reportedly seen in Germany"
-    },
-    {
-      "id": "d88d5e8a55aff3c0bae47cfc760b31209e73389a",
-      "title": "A Hitler Bunker Faces Demolition In Housing-Challenged Berlin",
-      "summary": "Preservation experts say the move to develop the site reflects a tension in Germany between the need to preserve historically significant monuments and the need to build and modernize.",
-      "url": "https://www.nytimes.com/2026/07/03/world/europe/a-hitler-bunker-faces-demolition-in-housing-challenged-berlin.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-03T09:00:20+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "A Hitler Bunker Faces Demolition In Housing-Challenged Berlin"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-09T12:25:45Z"
+  "last_updated": "2026-07-10T12:08:49Z"
 }

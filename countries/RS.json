@@ -1,16 +1,27 @@
 {
   "country": "RS",
-  "score": 65,
+  "score": 66,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
+  "trend": 1,
   "sources": 16,
   "sentiment": {
     "positive": 4,
-    "neutral": 5,
-    "negative": 7
+    "neutral": 6,
+    "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "6f131c81981ff1280344806b4137e6bec1bb7f63",
+      "title": "Passenger nearly pulled out of Ryanair plane after cabin window breaks mid-flight",
+      "summary": "A Serbian tourist was nearly pulled from a Ryanair flight after a cabin window detached mid-air. Fellow passengers bravely pulled the man back inside the aircraft, which was returning to Thessaloniki. Oxygen masks deploy…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/passenger-nearly-pulled-out-of-ryanair-plane-after-cabin-window-breaks-mid-flight/articleshow/132309272.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-07-10T10:27:01+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "A Serbian tourist was nearly pulled"
+    },
     {
       "id": "81acc2c17d983807337db087236b2bb2a7b8da7c",
       "title": "Serbia and enlargement: MEPs expect real commitment to EU values | Atualidade | Parlamento Europeu - European Parliament",
@@ -175,19 +186,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Serbian oil giant new sanctions waiver"
-    },
-    {
-      "id": "6d1aaf8603f688abd2bdd1c807db5c4caf6d98c2",
-      "title": "Explosives found near pipeline in Serbia probably ‘Russian provocation’, says expert",
-      "summary": "Former Ukrainian major general says 4kg of material was most likely an attempt to influence Hungary’s electionHungary elections explainerThe amount of explosives discovered in Serbia last week would not have been enough…",
-      "url": "https://www.theguardian.com/world/2026/apr/11/explosives-serbia-pipeline-likely-russian-provocation-says-military-expert-hungary-ukraine",
-      "source": "World news - The Guardian",
-      "published_at": "2026-04-11T09:36:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Explosives found near pipeline in Serbia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-09T12:25:45Z"
+  "last_updated": "2026-07-10T12:08:49Z"
 }

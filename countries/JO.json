@@ -1,16 +1,27 @@
 {
   "country": "JO",
-  "score": 71,
+  "score": 69,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 20,
+  "trend": -2,
+  "sources": 21,
   "sentiment": {
     "positive": 5,
     "neutral": 10,
-    "negative": 5
+    "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "e781a34e9722d8bb691352832ce66f3db8d32789",
+      "title": "Iranian Attacks on Jordan Highlight Kingdom’s Difficult Position",
+      "summary": "Iran’s military said it fired missiles at a Jordanian air base used by American forces. Jordan said it had intercepted missiles entering its air space.",
+      "url": "https://www.nytimes.com/2026/07/09/world/middleeast/jordan-iran-missiles.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-10T01:00:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Jordan said it had intercepted missiles"
+    },
     {
       "id": "daabe54d0f73f86934dd5f84116eedc5e149b6ac",
       "title": "Israel Links With Lebanon, United States, Iran, Iraq, Jordan, Bahrain and More in New Middle East Flight Disruption Alert as US-Brokered Framework Faces Pressure, Southern Lebanon Strikes Continue and Airlines Redraw Regional Routes - Travel And Tour World",
@@ -219,19 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Jordan Officially Joins NASA’s International Artemis Accords"
-    },
-    {
-      "id": "5ca15cf20c8e9dc9b3e2b283b20ce3e04788f3ac",
-      "title": "Can red light therapy really deliver a beauty and health glow up? Here's the science - NPR",
-      "summary": "Can red light therapy really deliver a beauty and health glow up? Here's the science&nbsp;&nbsp;NPRConsidering a Red Light Mask? Read This First&nbsp;&nbsp;NewBeautyRed-light therapy: Breakthrough or junk science?&nbsp;&…",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUJaOGFmSllUWlNValNVZGdyakZuR0xFb3lWT0xWUkRDVGcxM0FZOHdsZ1ZQRzdwZV9KT1ZjN09WbThmcDlGX1pTRUN2WUxjVWdJT1ZOS1Z3ajlfSGszemZ3NjVHSS11NU9lenVNdnRXWnpIaFQwdEttRDNYQ1c3UFNHX3RseHc?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-13T09:00:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": ""
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-09T12:25:45Z"
+  "last_updated": "2026-07-10T12:08:49Z"
 }

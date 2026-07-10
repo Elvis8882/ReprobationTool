@@ -3,12 +3,12 @@
   "score": 56,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 38,
+  "trend": 0,
+  "sources": 39,
   "sentiment": {
     "positive": 1,
     "neutral": 22,
-    "negative": 15
+    "negative": 16
   },
   "latest_articles": [
     {
@@ -177,6 +177,17 @@
       "evidence": "Iraq piles pressure on OPEC over quota dispute"
     },
     {
+      "id": "94e384ac26cb54da54bd8efea1051350d4d59847",
+      "title": "Iraq’s New Leader Faces Resistance Trying to Bring Militias Under State Control",
+      "summary": "The Trump administration has demanded that Iraqi leaders distance themselves from Iran and rein in Iran-linked militias that are outside of government control.",
+      "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iraq-militias-state-control.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-25T09:15:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "rein in Iran-linked militias that are outside of government control"
+    },
+    {
       "id": "be3ed10919a145f2b9688b927a0ab33df08f1419",
       "title": "Kylian Mbappé’s France vs Iraq World Cup highlight gets xQc suspended as FIFA issues copyright strike",
       "summary": "xQc received a temporary Twitch suspension after showing a five-second Kylian Mbappé highlight from France’s World Cup match against Iraq. He said FIFA filed the DMCA claim, leading to a 24-48 hour ban. His explanation w…",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Airports in Kuwait, Iraq, Bahrain, the U.A.E. and Iran, some with military functions and some without, have all come under fire."
-    },
-    {
-      "id": "93a8144f2ea70f4e9b5974909c51cb2fb484ddb2",
-      "title": "Some Iranians abroad say they’d fight for the regime. Others want to topple it.",
-      "summary": "Members of the diaspora in Iraq, from Sunni Muslim Kurds in the north to Shiite Persians in the south, are as divided over the war as Iranians back home.",
-      "url": "https://www.washingtonpost.com/world/2026/05/30/some-iranians-abroad-say-theyd-fight-regime-others-want-topple-it/",
-      "source": "World (Washington post)",
-      "published_at": "2026-05-30T09:00:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "diaspora in Iraq"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-09T12:25:45Z"
+  "last_updated": "2026-07-10T12:08:49Z"
 }
