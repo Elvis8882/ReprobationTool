@@ -1,14 +1,14 @@
 {
   "country": "GR",
-  "score": 84,
+  "score": 83,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 278,
+  "trend": -1,
+  "sources": 281,
   "sentiment": {
     "positive": 11,
-    "neutral": 241,
-    "negative": 27
+    "neutral": 243,
+    "negative": 28
   },
   "latest_articles": [
     {
@@ -32,6 +32,17 @@
       "sentiment_fallback": true
     },
     {
+      "id": "f16ee91bfa70263a70f540843b8ba0495eb99b4b",
+      "title": "Greece Arrests 3 in Connection With Bombings Targeting Governing Party",
+      "summary": "The attacks killed one person and injured others. The Greek authorities said an investigation would continue.",
+      "url": "https://www.nytimes.com/2026/07/10/world/europe/greece-bombing-arrests.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-10T11:26:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Greece Arrests 3 in Connection With Bombings Targeting Governing Party"
+    },
+    {
       "id": "1fa0e3f6fbc5cf8f6f5af51d0969401346717ca1",
       "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
       "summary": "The runway is closed after the jet reportedly landed without deploying its landing gear before bursting into flames.",
@@ -41,6 +52,27 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Greek F-16 fighter jet crash-lands"
+    },
+    {
+      "id": "4c4fb1e2a7d150bf027079265634ddd768e99e3a",
+      "title": "After the NATO summit: The road to European leadership in defence - European Union Institute for Security Studies |",
+      "summary": "After the NATO summit: The road to European leadership in defence&nbsp;&nbsp;European Union Institute for Security Studies |Europe has promised cash for defence. It’s failing to provide it&nbsp;&nbsp;The EconomistEuropea…",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSU9ET2tsMzNPdGg0elY2NHhRalhjSV9LNjA3R2VnY0NQNGF3aUhMdzJhMHdwQTJpN0hyMElwYVVpbUdJSE5KdG1ibk1JbUdYdUdNTmczaGoxTHpWT0cwYjZubjlJeGhtOVAzVms3Z0hrTEptUmpnNm05RlVmTXVfdmJYWEZ6SzZ2am56MlM4WXRkVkJGWC11enZKNDNNYmJpUHc?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-09T14:15:26+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "5001a6ad5ff4be49826c4a149fd885aca072aa23",
+      "title": "EU’s ‘unpleasant and dangerous’ border checks need overhaul, says Greek airports boss",
+      "summary": "Airports have had to use gazebos to shield passengers from sun as they wait to be processed, says Alexander ZinellThe boss of 14 Greek airports has called for a serious overhaul of the EU’s new border checks after having…",
+      "url": "https://www.theguardian.com/business/2026/jul/09/eu-unpleasant-and-dangerous-border-checks-need-overhaul-says-greek-airports-boss",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-09T11:02:31+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "EU’s ‘unpleasant and dangerous’ border checks need overhaul"
     },
     {
       "id": "f0d42565bf47e6f5a0ebcf8d9461180be6e2b835",
@@ -188,40 +220,8 @@
       "published_at": "2026-06-26T14:52:09+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "2ac3b0928a174545a6dfa3f9796a9028cba394f0",
-      "title": "Binance says some European clients may be affected after pulling bid for Greek license",
-      "summary": "All crypto companies have to obtain a license under the bloc's Markets in Crypto-Assets Regulation by July 1, or risk penalties.",
-      "url": "https://www.cnbc.com/2026/06/26/binance-to-stop-providing-services-to-european-clients-after-failing-to-obtain-license-ft.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-06-26T10:58:53+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Binance says some European clients may be affected after pulling bid for Greek license"
-    },
-    {
-      "id": "6990c8418a7a06293167593d2b4c2eeeb9dd71de",
-      "title": "Greece turns to space technology: AI-powered satellites begin tracking wildfires",
-      "summary": "Greece is pioneering a new defense against wildfires with a constellation of four compact satellites. These space-based eyes, equipped with thermal sensors, detect nascent blazes as small as four meters, providing crucia…",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/greece-turns-to-space-technology-ai-powered-satellites-begin-tracking-wildfires/articleshow/132009927.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-06-26T07:23:52+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Greece turns to space technology: AI-powered satellites begin tracking wildfires"
-    },
-    {
-      "id": "0775be70a2a2f50f8904d7d32782aac9f040ff74",
-      "title": "MEPs back new EU defence innovation programme | Atualidade | Parlamento Europeu - European Parliament",
-      "summary": "MEPs back new EU defence innovation programme | Atualidade | Parlamento Europeu&nbsp;&nbsp;European ParliamentSecuring Next-Generation Defense by Design&nbsp;&nbsp;EE TimesITRE, SEDE greenlight AGILE defence innovation p…",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb09JWmE0RUhnRGtOSnpXcFM5RU9xUThNNVNieWZpQ2s5dzl5SmJRNTRlZXJzQmVNT0tQMWN6eUlseXcwb0JQN0hzcjJ5LWFvV0NWdTNsZkZiQ3hPTFNLS0JSWm0wWi10ZkRzc0xlTlJVLTBOdlFwRlFkanBma2VHU0dBNVFheGp3Si1YYmpPcFBlbnd3Nk5pX3BDYjFVYlBaSjJwMzNBTkR5SHBhTk13WWJR?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-25T10:02:21+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-10T12:08:49Z"
+  "last_updated": "2026-07-11T10:28:34Z"
 }

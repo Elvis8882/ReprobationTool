@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 15,
+  "sources": 16,
   "sentiment": {
     "positive": 0,
-    "neutral": 11,
+    "neutral": 12,
     "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "e3ec304981e3fe36b3f5618280819f070d164828",
+      "title": "Watch: What links a bomb in Monaco and a shooting in Ukraine?",
+      "summary": "A Ukrainian intelligence agent who confessed to killing the woman suspected of trying to assassinate a multimillionaire in Monaco, has now claimed he did not pull the trigger.",
+      "url": "https://www.bbc.co.uk/news/videos/c992zv2xpdjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-10T18:04:39+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "bomb in Monaco"
+    },
     {
       "id": "7eb590dfbdccc40c5fbed9bd1ebbc209b63b4db5",
       "title": "Suspect in Monaco Bombing Attack Is Found Dead in Ukraine",
@@ -178,5 +189,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-10T12:08:49Z"
+  "last_updated": "2026-07-11T10:28:34Z"
 }

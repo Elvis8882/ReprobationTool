@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 300,
+  "sources": 298,
   "sentiment": {
     "positive": 12,
     "neutral": 118,
-    "negative": 170
+    "negative": 168
   },
   "latest_articles": [
+    {
+      "id": "f5f362528a65d82bc1fddff7c67089115a2660d8",
+      "title": "Inside a Theater Sheltering Families in Lebanon",
+      "summary": "Our reporter Christina Goldbaum visits the Lebanese National Theater in Beirut to meet displaced families who have been sheltering there during the war.",
+      "url": "https://www.nytimes.com/video/world/100000010937075/inside-a-theater-sheltering-families-in-lebanon.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-10T09:00:19+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Theater Sheltering Families in Lebanon"
+    },
     {
       "id": "e4b264a9e39026e095b1caf21a82c9a2cbc0924d",
       "title": "Middle East crisis live: Funeral procession for supreme leader Ali Khamenei begins in Iran",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Israel says IDF is staying in southern Lebanon, undermining Iran peace talks"
-    },
-    {
-      "id": "4bef2ff2f9db6b1ed4e28692463fb201e4e6ffb3",
-      "title": "Israel Says It Has Trapped Hezbollah Fighters Underground in Southern Lebanon",
-      "summary": "The Israeli military says thousands of troops have surrounded a large tunnel network in southern Lebanon. The standoff is at the center of intense clashes in the area recently.",
-      "url": "https://www.nytimes.com/2026/06/24/world/middleeast/israel-lebanon-hezbollah-fighters-tunnels.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-24T15:46:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel Says It Has Trapped Hezbollah Fighters Underground in Southern Lebanon"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-10T12:08:49Z"
+  "last_updated": "2026-07-11T10:28:34Z"
 }
