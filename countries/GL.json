@@ -1,16 +1,27 @@
 {
   "country": "GL",
-  "score": 66,
+  "score": 68,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 38,
+  "trend": 2,
+  "sources": 39,
   "sentiment": {
-    "positive": 5,
+    "positive": 6,
     "neutral": 25,
     "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "1a6e3a3a5ae145df919784fae6b664e88e6a4c8a",
+      "title": "After Greenland bluster, Trump surprises NATO allies with praise",
+      "summary": "The president embraced the alliance in a meeting Wednesday, extolling member nations’ defense spending and saying nothing about the Danish territory, officials said.",
+      "url": "https://www.washingtonpost.com/politics/2026/07/08/denmark-says-it-will-defend-greenland-trump-threatens-revive-nato-crisis/",
+      "source": "World (Washington post)",
+      "published_at": "2026-07-08T19:22:17+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "saying nothing about the Danish territory"
+    },
     {
       "id": "239aa1b2edb08fc76269a45189e6bd681a140272",
       "title": "Watch: Why is there a 'black cloud' over unity at the Nato summit?",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "At the Arctic Games, Canada and Greenland vs. Trump"
-    },
-    {
-      "id": "759d60a2b03adceb92c6c5a38660ff75765dfd42",
-      "title": "Denmark ramps up Greenland defence with new Arctic patrol ships and drones",
-      "summary": "A central pillar of the strategy is expanded situational awareness",
-      "url": "https://www.euractiv.com/news/denmark-ramps-up-greenland-defence-with-new-arctic-patrol-ships-and-drones/",
-      "source": "Euractiv",
-      "published_at": "2026-05-23T04:00:10+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "ramps up Greenland defence with new Arctic patrol ships"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-11T10:28:34Z"
+  "last_updated": "2026-07-12T10:48:23Z"
 }
