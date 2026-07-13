@@ -1,16 +1,26 @@
 {
   "country": "BG",
-  "score": 65,
+  "score": 64,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 231,
+  "trend": -1,
+  "sources": 228,
   "sentiment": {
-    "positive": 7,
-    "neutral": 212,
+    "positive": 6,
+    "neutral": 210,
     "negative": 12
   },
   "latest_articles": [
+    {
+      "id": "4c96458419e0b1e8b70a242dd9172b38fe7abb6f",
+      "title": "Swedish MEP files police complaint accusing Danish colleague of racist hate speech",
+      "summary": "Abir Al-Sahlani targeted on social media after condemning anti-immigration chants in European parliamentA Swedish MEP has filed a police complaint accusing a fellow MEP of racist hate speech after she was targeted on soc…",
+      "url": "https://www.theguardian.com/world/2026/jul/13/swedish-mep-abir-al-sahlani-files-police-complaint-accusing-danish-mep-of-racist-hate-speech",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-13T04:00:37+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "7a459cb2fe37a1d8fa8632ca0b776aa50175452b",
       "title": "The EU Population Grew, Latvia Experienced the Most Significant Decline - Inbox.eu",
@@ -204,18 +214,8 @@
       "published_at": "2026-06-23T12:41:12+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "9c4e8e122c2693747ce6e6299615ffc06ae18c37",
-      "title": "‘A historic day’: European Parliament backs digital euro",
-      "summary": "Supporters say scheme is crucial to reduce Europe's dependence on US payment providers",
-      "url": "https://www.euractiv.com/news/a-historic-day-european-parliament-backs-digital-euro/",
-      "source": "Euractiv",
-      "published_at": "2026-06-23T12:21:40+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-12T10:48:23Z"
+  "last_updated": "2026-07-13T12:21:28Z"
 }

@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 295,
+  "sources": 291,
   "sentiment": {
     "positive": 12,
-    "neutral": 115,
-    "negative": 168
+    "neutral": 112,
+    "negative": 167
   },
   "latest_articles": [
+    {
+      "id": "9ea086c342ab508ea8522b160f3285f4dd812cb4",
+      "title": "Lebanese Hold Fast to Their Land Despite Threat of Long Israeli Occupation",
+      "summary": "Entire towns in southern Lebanon have been hollowed out by the war between Israel and Hezbollah. Some residents have stayed, fearing permanent displacement.",
+      "url": "https://www.nytimes.com/2026/07/13/world/middleeast/lebanon-south-israel.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-13T09:06:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Entire towns in southern Lebanon have been hollowed out"
+    },
     {
       "id": "f5f362528a65d82bc1fddff7c67089115a2660d8",
       "title": "Inside a Theater Sheltering Families in Lebanon",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Israel and Lebanon agreed to implement a ceasefire."
-    },
-    {
-      "id": "194f24f6b26701324ef0c766ce23f87c7dd5d1fd",
-      "title": "Israel says IDF is staying in southern Lebanon, undermining Iran peace talks",
-      "summary": "Defence minister says troops not withdrawing though Tehran sees end to war in Lebanon as part of deal with USThe Israeli defence minister, Israel Katz, has said that Israeli troops would not withdraw from southern Lebano…",
-      "url": "https://www.theguardian.com/world/2026/jun/24/israel-defence-minister-israel-katzrefuses-to-pull-out-of-southern-lebanon-undermining-iran-peace-talks",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-24T21:49:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel says IDF is staying in southern Lebanon, undermining Iran peace talks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-12T10:48:23Z"
+  "last_updated": "2026-07-13T12:21:28Z"
 }

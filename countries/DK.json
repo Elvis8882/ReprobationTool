@@ -1,16 +1,27 @@
 {
   "country": "DK",
-  "score": 86,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 248,
+  "trend": -2,
+  "sources": 246,
   "sentiment": {
     "positive": 14,
-    "neutral": 231,
-    "negative": 3
+    "neutral": 228,
+    "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "4c96458419e0b1e8b70a242dd9172b38fe7abb6f",
+      "title": "Swedish MEP files police complaint accusing Danish colleague of racist hate speech",
+      "summary": "Abir Al-Sahlani targeted on social media after condemning anti-immigration chants in European parliamentA Swedish MEP has filed a police complaint accusing a fellow MEP of racist hate speech after she was targeted on soc…",
+      "url": "https://www.theguardian.com/world/2026/jul/13/swedish-mep-abir-al-sahlani-files-police-complaint-accusing-danish-mep-of-racist-hate-speech",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-13T04:00:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "accusing Danish colleague of racist hate speech"
+    },
     {
       "id": "7a459cb2fe37a1d8fa8632ca0b776aa50175452b",
       "title": "The EU Population Grew, Latvia Experienced the Most Significant Decline - Inbox.eu",
@@ -40,6 +51,17 @@
       "published_at": "2026-07-10T11:38:29+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "217a3b205af7d58d8c6558018e5ec0680cad75c5",
+      "title": "Canada will extend Operation Reassurance mission until 2031 - The Baltic Times",
+      "summary": "Canada will extend Operation Reassurance mission until 2031&nbsp;&nbsp;The Baltic TimesCarney meets Denmark's Frederiksen, confirms expanded NATO role and backs Ukraine&nbsp;&nbsp;MSNCanada to increase troop numbers in L…",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS3dmWFZLdTdMNmV1SVNoNG1KNjlxNndjSUtaSTdWOFdGdy10WkhISHpsOFNuV2tFQUJQdkQ2N25UeDV0aEFvX0plekswcGdaWUhkeXRlUnJYZnFkQ2xuRG5sSjhiQ1AzMWh5ZnV3VG9HanN2ME1XV0dfVlVmV2JQZUlTanBwSjgwQ3V1TEw0dGU5Zw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-10T09:31:54+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Denmark's Frederiksen, confirms expanded NATO role and backs Ukraine"
     },
     {
       "id": "4c4fb1e2a7d150bf027079265634ddd768e99e3a",
@@ -201,29 +223,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Denmark’s century-old Fourth of July party looks different this year."
-    },
-    {
-      "id": "fbd7cb5420645af6ef454c43a6775ef9813c4f47",
-      "title": "Spyware used against MEP investigating Pegasus abuses, report finds",
-      "summary": "Researchers say Stelios Kouloglou’s device was compromised after he joined European parliamentary committeeNSO Group’s hacking software was repeatedly used against a member of the European parliament while he was conduct…",
-      "url": "https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-03T05:00:20+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "463e3516740f11734acc3687c9472d4c42752396",
-      "title": "Denmark Has a Big Fourth of July Party. This Year, the U.S. Is Uninvited.",
-      "summary": "Furious at President Trump over Greenland, Danish officials took the unprecedented step of pressuring organizers to cut American officials from the program.",
-      "url": "https://www.nytimes.com/2026/07/03/world/europe/denmark-fourth-of-july-trump-us.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-03T04:01:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Denmark Has a Big Fourth of July Party."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-12T10:48:23Z"
+  "last_updated": "2026-07-13T12:21:28Z"
 }

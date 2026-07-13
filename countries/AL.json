@@ -1,16 +1,27 @@
 {
   "country": "AL",
-  "score": 74,
+  "score": 72,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -2,
   "sources": 33,
   "sentiment": {
-    "positive": 10,
-    "neutral": 15,
+    "positive": 9,
+    "neutral": 16,
     "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "ff3d94308a53092550325a742638e61bf2470bee",
+      "title": "Albanian Leader Rejects Complaints About Kanye West Concert",
+      "summary": "Prime Minister Edi Rama is under fire over a proposed resort with Trump ties, and a planned concert by the controversial musician known as Ye. In both cases, he cites the need for tourism.",
+      "url": "https://www.nytimes.com/2026/07/09/world/europe/albania-kanye-west-concert.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-10T00:22:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Albanian Leader Rejects Complaints About Kanye West Concert"
+    },
     {
       "id": "8016483d3abea545d2afab52c40ee56a1f5546c1",
       "title": "The Alluring Albanian Island Inspiring Ivanka’s Fantasy",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "Protests Grow in Albania Over Kushner-Linked Project"
-    },
-    {
-      "id": "af3d391c61e22d426d5e5a3f981daa54cbb176e4",
-      "title": "New EU enlargement hurdle for Albania over Trump son-in-law’s beach resort plans",
-      "summary": "Protesters have 'no chance' of stopping the multi-billion investment, says Edi Rama",
-      "url": "https://www.euractiv.com/news/new-eu-enlargement-hurdle-for-albania-over-trump-son-in-laws-beach-resort-plans/",
-      "source": "Euractiv",
-      "published_at": "2026-06-02T16:26:20+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "New EU enlargement hurdle for Albania over Trump son-in-law’s beach resort plans"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-12T10:48:23Z"
+  "last_updated": "2026-07-13T12:21:28Z"
 }

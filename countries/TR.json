@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 91,
+  "score": 90,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 99,
   "sentiment": {
     "positive": 12,
-    "neutral": 68,
-    "negative": 19
+    "neutral": 67,
+    "negative": 20
   },
   "latest_articles": [
+    {
+      "id": "a3d3650913942a8772d3ca3555712212ab8160a7",
+      "title": "Opinion: Opinion | Trump's Quiet Turkey 'U-Turn' Has Loud Consequences For India",
+      "summary": "In a stunning policy reversal, Trump has decided to sell America's F-35 jets to Turkey, a staunch Pakistan ally and its closest defence supplier",
+      "url": "https://www.ndtv.com/opinion/paks-best-ally-may-soon-be-getting-americas-best-fighter-jet-11764138#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-13T08:31:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Trump has decided to sell America's F-35 jets to Turkey"
+    },
     {
       "id": "a84b7cef4607acbcc6628ea8333a391251d08901",
       "title": "US allies apprehensive after capricious Trump changes tune at Nato summit",
@@ -43,6 +54,17 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "showcase Turkey's defence industry with the gift"
+    },
+    {
+      "id": "580de6117050b1c9c67a950502a7131f4c485268",
+      "title": "After Turkey, Egypt Denies Entry To 2,000-Passenger LGBTQ+ Cruise Ship",
+      "summary": "The ship is operated by Virgin Voyages and chartered by LGBTQ+ travel company Atlantis Events",
+      "url": "https://www.ndtv.com/world-news/after-turkey-egypt-denies-entry-to-2-000-passenger-lgbtq-cruise-ship-scarlet-lady-carrying-patti-lupone-11752068#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-10T05:40:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Turkey, Egypt Denies Entry To 2,000-Passenger LGBTQ+ Cruise Ship"
     },
     {
       "id": "d9c638f0209acfeea7a633dab0dc37c0985ff93f",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Trump joins NATO leaders in Turkey"
-    },
-    {
-      "id": "e8f3d7f988b2924eca93a5ee77025b2643318835",
-      "title": "‘Russia does not have military capability’ for NATO invasion, Latvia’s president says - TVP World",
-      "summary": "‘Russia does not have military capability’ for NATO invasion, Latvia’s president says&nbsp;&nbsp;TVP WorldSenior NATO official explains why Russia is unlikely to attack Alliance for now&nbsp;&nbsp;Українська правдаPanel…",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS1d6cHh2MmdudjlWd2xYd0V5S1A4anhKRlRpNmU5ZlJFSW1idjdnTXNDMnhUazE4ZmRuTEpSMW5EcHZrZTZXYVIxOUFfWmdsckhNekpnRGFkdXlsdklUejRGR3VFaVh1ckpGMjR2TnRWQ0doam9WaWhHM3JuazEyeG8yZ0Z6UWhTNXc?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-08T07:24:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Panel on Baltic security held as part of NATO Ankara summit"
-    },
-    {
-      "id": "a5e39d6d9e95704fa6e2adf3287890cab2a35222",
-      "title": "Nato allies announce £37bn for new missile project",
-      "summary": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-08T05:57:53+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Prime Minister Sir Keir Starmer will convene around a dozen leaders"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-12T10:48:23Z"
+  "last_updated": "2026-07-13T12:21:28Z"
 }

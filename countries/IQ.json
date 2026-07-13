@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 38,
+  "sources": 39,
   "sentiment": {
     "positive": 1,
     "neutral": 21,
-    "negative": 16
+    "negative": 17
   },
   "latest_articles": [
+    {
+      "id": "a92eba0095fab8fb95f31f3c45dae952e161e8d0",
+      "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
+      "summary": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.",
+      "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-13T11:36:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "became members of the Islamic State group"
+    },
     {
       "id": "f69d6d6a9aef7422b33ddec4b2b74527cb5de787",
       "title": "Chaos At Ali Khamenei's Iraq Funeral As US And Iran Exchange Strikes",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "terrorist attacks on Jewish communities across Europe"
-    },
-    {
-      "id": "58c50c3f5be7a4e0ca591a94285d7a995ca85420",
-      "title": "Attack on Kuwait Airport Further Upends Mideast Travel Amid U.S.-Iran Conflict",
-      "summary": "Airports in Kuwait, Iraq, Bahrain, the U.A.E. and Iran, some with military functions and some without, have all come under fire.",
-      "url": "https://www.nytimes.com/2026/06/03/world/middleeast/kuwait-airport-attack-mideast-travel.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-04T02:50:34+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Airports in Kuwait, Iraq, Bahrain, the U.A.E. and Iran, some with military functions and some without, have all come under fire."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-12T10:48:23Z"
+  "last_updated": "2026-07-13T12:21:28Z"
 }

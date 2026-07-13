@@ -1,16 +1,48 @@
 {
   "country": "ES",
-  "score": 75,
+  "score": 76,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 410,
+  "trend": 1,
+  "sources": 408,
   "sentiment": {
     "positive": 26,
     "neutral": 336,
-    "negative": 48
+    "negative": 46
   },
   "latest_articles": [
+    {
+      "id": "4c96458419e0b1e8b70a242dd9172b38fe7abb6f",
+      "title": "Swedish MEP files police complaint accusing Danish colleague of racist hate speech",
+      "summary": "Abir Al-Sahlani targeted on social media after condemning anti-immigration chants in European parliamentA Swedish MEP has filed a police complaint accusing a fellow MEP of racist hate speech after she was targeted on soc…",
+      "url": "https://www.theguardian.com/world/2026/jul/13/swedish-mep-abir-al-sahlani-files-police-complaint-accusing-danish-mep-of-racist-hate-speech",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-13T04:00:37+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "f5d46ce88bfedd07d16d51a943a4ac5c0e114f14",
+      "title": "British couple return to village at heart of deadly Spanish wildfire",
+      "summary": "At least 13 people, including five believed to be Britons, were killed by Thursday's wildfire in Spain's Almeria province.",
+      "url": "https://www.bbc.co.uk/news/articles/cx24e09x79no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-13T00:29:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "deadly Spanish wildfire... killed by Thursday's wildfire in Spain"
+    },
+    {
+      "id": "30e427085ae73b55b0f9d037f712e7f256f694cd",
+      "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
+      "summary": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
+      "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-12T23:29:06+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "New era for Gibraltar with removal of 118-year-old border controls with Spain"
+    },
     {
       "id": "cecfc532df2763d5858432a5c3634302ff49026c",
       "title": "Badly burned British couple rescued from ravine during Spain wildfires",
@@ -32,6 +64,28 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Spain World Cup semifinal"
+    },
+    {
+      "id": "73a9962daef7191e26544ff6d6152255dc8af4e6",
+      "title": "A Wildfire Killed 12 People in Southern Spain. Here’s the Latest.",
+      "summary": "Officials said more than 20 people were still missing because of the fire, one of the deadliest in Spain’s history. Most of those confirmed to have been killed were from Belgium or Britain.",
+      "url": "https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-11T14:46:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "A Wildfire Killed 12 People in Southern Spain."
+    },
+    {
+      "id": "c02182026d0291368abb11f6148885cda3d26c5b",
+      "title": "5 Quiet Beach Alternatives To Escape Barcelona, Benidorm And Malaga - Forbes",
+      "summary": "5 Quiet Beach Alternatives To Escape Barcelona, Benidorm And Malaga&nbsp;&nbsp;Forbes",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM19reXREbzMwU1Q0UEhiQVJkbGpNUVNtZEo1SkdRQWNkb0IyRE1JQ0hTdGRESXRmQ2ItSmF4eHZWVjVubDlnY3cxem80MHRmV1ByMVltVEFWNkNraEJYYTBqUkFtblMweThMX1A3R0RMd0ZjWVl4U0czZ3hwUWdmV2hmUnlWY3FJbmxfdnNTYnhNOGpLZDVKVV83OTVOcS1zcy0ybGJEczdqUzVBUHdiUlR4Vm1lMnM5M0pGdlRR?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-11T10:30:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Escape Barcelona, Benidorm And Malaga"
     },
     {
       "id": "b4d09fb73c7609a0815e7b3f7f56f8d99b7d2031",
@@ -171,62 +225,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Trump Lashes Out at Spain: ‘Cut Off All Trade.’ Here’s Why That’s Unlikely."
-    },
-    {
-      "id": "81acc2c17d983807337db087236b2bb2a7b8da7c",
-      "title": "Serbia and enlargement: MEPs expect real commitment to EU values | Atualidade | Parlamento Europeu - European Parliament",
-      "summary": "Serbia and enlargement: MEPs expect real commitment to EU values | Atualidade | Parlamento Europeu&nbsp;&nbsp;European ParliamentEight EU countries oppose opening next accession cluster for Serbia&nbsp;&nbsp;Euronews.com…",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRHQyRnkzNXU2cDVqN2VGalBXemhVajFrYjBXdEtYYjVMbll3Q2w3U3F6ZFJqY0NKSURmVFJFZWI0RWQ3ZjNyOHNVQWVmQTBqdlNzNjZqRWh3OFBYNHZVTzRzMDVkMFhZRS1OQVZveEVha1c2VkNzYzlhV1E2bzdVNnNHbkktNXRiV3pWaG1KbG5vV1RUOWdrMlhKWXZkY010Nmg5QTVsZ2pTMDRSNHZmX29kLUdHc1VCZkpOQlRaQU9pUEgyMWZjMlpn?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-08T11:03:23+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "46c8bd670bb050be04ed654b264e1aa391fc784f",
-      "title": "Trump pours cold water on NATO allies' united front",
-      "summary": "Trump criticized NATO allies over defense spending, attacked Spain and renewed his Greenland push during the alliance’s summit in Turkey.",
-      "url": "https://www.cnbc.com/2026/07/08/nato-trump-rutte-russia-iran-greenland-ukraine.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-07-08T10:58:47+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "attacked Spain"
-    },
-    {
-      "id": "6e26165a1d819ca1f8a540f7d0657df8e0cc2fc6",
-      "title": "Trump says he doesn't want anything to do with Spain: 'Cut off all trade'",
-      "summary": "U.S. President Donald Trump slammed Spain for not contributing enough to NATO, as he attended the defense alliance summit in Turkey.",
-      "url": "https://www.cnbc.com/2026/07/08/trump-spain-nato-trade-summit.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-07-08T10:58:32+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Trump slams Spain for not contributing enough to NATO"
-    },
-    {
-      "id": "9b327be0f3bbcda05e9d0d6d34d2b26914ab2b29",
-      "title": "Greenland ‘is very important for US, but not important for Denmark’, Trump says at Nato meeting – Europe live",
-      "summary": "US president says he is not happy with Nato and tells officials to ‘cut all trade with Spain’ Trump renews call for US to take over Greenland as he arrives for Nato summitAnd that ends their short briefing, with Trump sa…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/08/trump-nato-summit-greenland-us-turkey-rutte-marine-le-pen-europe-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-08T10:52:02+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Trump tells officials to ‘cut all trade with Spain’"
-    },
-    {
-      "id": "c4cf3a5177fcc984a48f563812541090c9a740df",
-      "title": "Live Updates: Trump Lashes Out at Europe at NATO Summit",
-      "summary": "President Trump assailed allies for not joining the war in Iran, called Spain “hopeless” and repeated his desire to control Greenland. His criticism cast a pall over a meeting critical for NATO’s future.",
-      "url": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine",
-      "source": "NYT > World News",
-      "published_at": "2026-07-08T10:48:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "called Spain “hopeless”"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-12T10:48:23Z"
+  "last_updated": "2026-07-13T12:21:28Z"
 }

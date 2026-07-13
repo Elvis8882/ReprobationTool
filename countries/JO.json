@@ -1,16 +1,27 @@
 {
   "country": "JO",
-  "score": 69,
+  "score": 68,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 21,
+  "trend": -1,
+  "sources": 22,
   "sentiment": {
     "positive": 5,
     "neutral": 10,
-    "negative": 6
+    "negative": 7
   },
   "latest_articles": [
+    {
+      "id": "c92e0aa355deee5409398b0044fc6b04f44b1bd7",
+      "title": "US launches new wave of strikes against Iran as Tehran says diplomacy has proven ‘futile’",
+      "summary": "American and Iranian forces exchange heavy missile and drone attacks over control of strait of Hormuz, increasing pressure on truceUS and Iranian military forces exchanged heavy missile and drone attacks over the weekend…",
+      "url": "https://www.theguardian.com/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-13T11:35:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "hit fuel tanks and ammunition depots at Prince Hassan airbase in Jordan"
+    },
     {
       "id": "d9b943ed06734fdfbcbae62422669bcb28942ad6",
       "title": "Iran attacks Gulf countries following fresh US strikes – Middle East crisis live",
@@ -219,19 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "United States Welcomes Jordan’s Signing of the Artemis Accords"
-    },
-    {
-      "id": "e1e4c06629d4ffbb3d693e683975688dddf59331",
-      "title": "NASA Welcomes Jordan as 63rd Artemis Accords Signatory - NASA (.gov)",
-      "summary": "NASA Welcomes Jordan as 63rd Artemis Accords Signatory&nbsp;&nbsp;NASA (.gov)Jordan to sign Artemis Accords with NASA in Washington&nbsp;&nbsp;Ammon NewsLatvia joins the Artemis Accords&nbsp;&nbsp;SpaceNewsNASA Invites M…",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcGljU25RVDY2Q3NfMXJ2NkpORzlkbjdicFBKMmo1eW92cXVCUEZLVk55bHpLMlh1YnVKdzBwbmJVbmVteW5EZ2hGTkZjcE0yM2hzWVdmd01kWHNwSGxaRzlSa1lFbGFSQ0p5SGZmWVg5MVdfLXlWdW9uTzI5dU96bGQ0NTNUTUI2enJzclFUc2VPa2QtRTFTaURUbw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-23T17:32:34+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Jordan as 63rd Artemis Accords Signatory"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-12T10:48:23Z"
+  "last_updated": "2026-07-13T12:21:28Z"
 }
