@@ -1,14 +1,14 @@
 {
   "country": "CY",
-  "score": 70,
+  "score": 69,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 227,
   "sentiment": {
     "positive": 9,
-    "neutral": 209,
-    "negative": 9
+    "neutral": 208,
+    "negative": 10
   },
   "latest_articles": [
     {
@@ -31,6 +31,17 @@
       "published_at": "2026-07-13T04:00:37+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "f1a444987dbd63a85283ff33d2c03639ba242b0b",
+      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+      "summary": "The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-12T06:49:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "attack on a Cyprus-flagged vessel"
     },
     {
       "id": "7a459cb2fe37a1d8fa8632ca0b776aa50175452b",
@@ -203,18 +214,8 @@
       "published_at": "2026-06-23T16:33:42+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "b263d5d5380c2b74886a844a97688bb869207145",
-      "title": "EU’s off-patent medicines industry calls for industrial strategy at Athens summit [Advocacy Lab]",
-      "summary": "Medicines for Europe conference highlights Greece’s growing role as a pharmaceutical manufacturing hub ahead of the country’s 2027 EU Council Presidency",
-      "url": "https://www.euractiv.com/news/eus-off-patent-medicines-industry-calls-for-industrial-strategy-at-athens-summit/",
-      "source": "Euractiv",
-      "published_at": "2026-06-23T12:41:12+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-13T12:21:28Z"
+  "last_updated": "2026-07-14T11:02:18Z"
 }

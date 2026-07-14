@@ -1,16 +1,27 @@
 {
   "country": "PL",
-  "score": 89,
+  "score": 88,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 278,
   "sentiment": {
     "positive": 31,
-    "neutral": 217,
-    "negative": 31
+    "neutral": 216,
+    "negative": 32
   },
   "latest_articles": [
+    {
+      "id": "7e26dd3b03307d0338325141f9b2f13e497e370f",
+      "title": "Polish-Ukrainian solidarity over Russian threat undermined by bitter historical dispute",
+      "summary": "Kyiv’s decision to honour second world war fighters who killed about 100,000 Poles has revived simmering tensionsIn the aftermath of Russia’s attack on Ukraine in February 2022, Polish-Ukrainian solidarity emerged as one…",
+      "url": "https://www.theguardian.com/world/2026/jul/14/poland-ukraine-upa-second-world-war-massacre-dispute",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-14T08:19:19+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "threat from Poland to block Ukraine’s EU accession until it gets its historical house in order."
+    },
     {
       "id": "4c96458419e0b1e8b70a242dd9172b38fe7abb6f",
       "title": "Swedish MEP files police complaint accusing Danish colleague of racist hate speech",
@@ -208,19 +219,8 @@
       "published_at": "2026-07-01T08:08:19+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "ab464bf4d7b3c6730d604e69ce89fd5af2da0a96",
-      "title": "Videos: Roads Melt, Tram Tracks Buckle As Europe Struggles With Heatwave",
-      "summary": "The scorching heat has already set records in Poland, the Czech Republic and Germany",
-      "url": "https://www.ndtv.com/world-news/videos-roads-melt-tram-tracks-buckle-as-europe-struggles-with-heatwave-11707029#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-06-30T10:20:14+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "heatwave"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-13T12:21:28Z"
+  "last_updated": "2026-07-14T11:02:18Z"
 }
