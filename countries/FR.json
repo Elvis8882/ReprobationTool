@@ -1,16 +1,27 @@
 {
   "country": "FR",
-  "score": 77,
+  "score": 78,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 2,
-  "sources": 658,
+  "trend": 1,
+  "sources": 653,
   "sentiment": {
     "positive": 93,
-    "neutral": 484,
-    "negative": 81
+    "neutral": 480,
+    "negative": 80
   },
   "latest_articles": [
+    {
+      "id": "e1f48830241a699e0269fcf46f6a15e61c5eaea9",
+      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
+      "summary": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.",
+      "url": "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-14T19:17:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "President Emmanuel Macron of France hosted European allies"
+    },
     {
       "id": "50f469dec274ead24b050104a95a1379a3377af1",
       "title": "France hopes to send ‘strategic signal’ about Europe’s renewed military focus at Bastille Day celebrations – Europe live",
@@ -21,6 +32,17 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "France hopes to send ‘strategic signal’ about Europe’s renewed military focus"
+    },
+    {
+      "id": "471a7f443da5bc2c1aca933b4b2a18a86055fa97",
+      "title": "A French underwear brand is taking on fast fashion — with an IPO",
+      "summary": "Le Slip Français will make its stock market debut in Paris on Tuesday, betting that consumers will pay for locally made clothing amid competition from Shein.",
+      "url": "https://www.cnbc.com/2026/07/14/le-slip-francais-ipo-french-underwear.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-14T10:04:49+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "A French underwear brand is taking on fast fashion"
     },
     {
       "id": "9553e399e5831bd7aa3dd3bc1d87455b890a93c6",
@@ -98,6 +120,17 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "EU, UK slap sanctions on Russian spies and hackers"
+    },
+    {
+      "id": "2f1c9e819abded20967fbd6888b9135f04c3263e",
+      "title": "France and Germany summon Russian ambassadors over alleged cyber attacks as Macron hosts leaders for Ukraine talks – Europe live",
+      "summary": "French president hosts ‘coalition of the willing’ in Paris amid hopes that Ukraine’s recent advances could force Putin towards negotiationsin KyivMeanwhile, Russia has been forced to suspend shipping in the Sea of Azov a…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/13/emmanuel-macron-keir-starmer-friedrich-merz-volodymyr-zelenskyy-coalition-of-the-willing-ukraine-russia-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-13T11:31:37+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "France and Germany summon Russian ambassadors over alleged cyber attacks"
     },
     {
       "id": "e6b0d40a6cffe2bebd41054ea4319a64c5c5e71a",
@@ -196,40 +229,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "France had completed a 22-point swing."
-    },
-    {
-      "id": "bafc6587afde2815cb6149bcacfffa7ab042b11f",
-      "title": "C’est Couture! 5 Street Style Looks That Capture Parisian Ease in the Heat - Vogue",
-      "summary": "C’est Couture! 5 Street Style Looks That Capture Parisian Ease in the Heat&nbsp;&nbsp;VogueColumn | The coolest celebrity looks from a hot Paris Fashion Week&nbsp;&nbsp;The Washington PostI've Been Street Style Spotting…",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jcHRPMWx0azZUbS1vcjBCT1VsNFZwRzExTDJZYWdscWViSjNiM2NNdWU2MmZXODZtbzlCNElaOVRCdXhrT0hpS2JJb3dTUkVVa3VNSXZwTG95dWJMQVZJNmFYbEFKLU01UGNXaVRVNDE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-11T10:00:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Parisian Ease in the Heat"
-    },
-    {
-      "id": "54137171f77bf85e7340b61c3827506166559ffa",
-      "title": "‘Politicians have always been schemers’: upheld conviction fails to dent Le Pen’s popularity",
-      "summary": "Presidential bid by leader of far-right National Rally has no shortage of supporters in scenic MontargisIn the small French town of Montargis, Jean-Antoine, a retired decorator, was pleased Marine Le Pen had again shaken…",
-      "url": "https://www.theguardian.com/world/2026/jul/11/upheld-conviction-le-pen-popularity-france",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-11T08:00:43+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Le Pen’s newly upheld conviction for embezzlement"
-    },
-    {
-      "id": "7a459cb2fe37a1d8fa8632ca0b776aa50175452b",
-      "title": "The EU Population Grew, Latvia Experienced the Most Significant Decline - Inbox.eu",
-      "summary": "The EU Population Grew, Latvia Experienced the Most Significant Decline&nbsp;&nbsp;Inbox.euEU population continued to grow in 2025&nbsp;&nbsp;European CommissionThe Bulgarian Paradox: Highest Birth Rate, Lowest Living St…",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaXEzSjRqTHhBd1BNMEc3Zl8ta0szMW8xdjU4QnZZVmZFZE5FbjJmTWFqTDl5UDZkSV9hMV9heGdfZDN4R002Uk1wYUVVay15U2hOZV8zNjF0OHBrTUVhQ1FNbmRhU29NT0NGdkZZeWZKcXZkVlJLUTJhbG1IUHhmWUZaUzBHN1VaZFF5cDd5cEttd2xSbEhNUUlXa3ljRVI5dHBxcFFXU0tGQmVWSGhickR3?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-10T17:20:11+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-14T11:02:18Z"
+  "last_updated": "2026-07-15T11:06:07Z"
 }

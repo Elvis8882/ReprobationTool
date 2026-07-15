@@ -1,14 +1,14 @@
 {
   "country": "GL",
-  "score": 68,
+  "score": 67,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 39,
+  "trend": -1,
+  "sources": 40,
   "sentiment": {
     "positive": 6,
     "neutral": 25,
-    "negative": 8
+    "negative": 9
   },
   "latest_articles": [
     {
@@ -65,6 +65,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "repeated his desire to control Greenland"
+    },
+    {
+      "id": "fc520f2f3cf900f5bf126f8200854a55f194b5cd",
+      "title": "Trump declares ceasefire with Iran over during angry broadside at Nato summit",
+      "summary": "President calls Iranian leadership ‘scum’, rails against alliance, repeats demand for Greenland and threatens SpainMiddle East crisis live – latest updatesEurope live – latest updatesDonald Trump has declared that the ce…",
+      "url": "https://www.theguardian.com/world/2026/jul/08/trump-declares-ceasefire-iran-over-broadside-nato-summit",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-08T10:37:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "demand for Greenland"
     },
     {
       "id": "43aff240341146368388e49bdbe2fedee214103a",
@@ -219,19 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Greenland defence"
-    },
-    {
-      "id": "99f2f526d52b46d17fec01f8aa5eb52cd7cb5019",
-      "title": "At the Arctic Games, Canada and Greenland vs. Trump Feels Like Its Own Sport",
-      "summary": "Geopolitics found its way to the podium in Whitehorse as athletes from the circumpolar North competed in sports as mainstream as hockey and as unusual as the two-foot high kick.",
-      "url": "https://www.nytimes.com/2026/05/23/world/canada/canada-arctic-olympics-yellowknife.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-23T10:00:03+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "At the Arctic Games, Canada and Greenland vs. Trump"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-14T11:02:18Z"
+  "last_updated": "2026-07-15T11:06:07Z"
 }

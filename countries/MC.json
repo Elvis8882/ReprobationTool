@@ -4,11 +4,11 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 16,
+  "sources": 18,
   "sentiment": {
     "positive": 0,
     "neutral": 12,
-    "negative": 4
+    "negative": 6
   },
   "latest_articles": [
     {
@@ -21,6 +21,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "bomb in Monaco"
+    },
+    {
+      "id": "739e723c9b2b5cd99ed923e396ae2984d38cee1b",
+      "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+      "summary": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
+      "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-09T20:47:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Monaco bomb suspect changes story"
     },
     {
       "id": "7eb590dfbdccc40c5fbed9bd1ebbc209b63b4db5",
@@ -54,6 +65,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Woman suspected of Monaco bombing found shot dead"
+    },
+    {
+      "id": "ed23aaf6332e613d67b2eb724004ace860711cdb",
+      "title": "Dayslong funeral for late Supreme Leader Khamenei begins in Iran, in photos - Caledonian Record",
+      "summary": "Dayslong funeral for late Supreme Leader Khamenei begins in Iran, in photos&nbsp;&nbsp;Caledonian RecordMali government reports rebel attacks targeting northern towns&nbsp;&nbsp;Caledonian RecordAP News Summary at 12:12…",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRGJ3QnI4YXprMTJCTHRtUUx2ekg0cTFySWl5RlFVaFlGQzIyTDMyVzFqYmI1UGRVakdnX095TlZIY3pISEdLR2xNZFBPYnRaTktOU1hmZlB6VDhuNmE0bEowWm9FQlpSV2Jva0x5aFZvckxtOUZKRGd5Q2tCSjRBYUVxVU9obkdsQko2V0gxTGFaV2taaDNxU0dmM3NlTVRqUjc0aGZQMVFsY2N1bWNNdm9Dc0gxY0c4b1VnM2dlZUY4SGxfR211RTB0WnNVWXJia2VMOXZBRld0aDFCTGtKWklnREtpOVU1YXgyekpPQTNZZVE4T01HZWxOaFV0YUY1?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-04T08:02:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Monaco bombing that reportedly targeted Russia-linked Ukrainian tycoon"
     },
     {
       "id": "edbcdddf40a94fb9865e3323e82fa4eee992d64a",
@@ -189,5 +211,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-14T11:02:18Z"
+  "last_updated": "2026-07-15T11:06:07Z"
 }
