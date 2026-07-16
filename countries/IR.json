@@ -4,13 +4,200 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 2063,
+  "sources": 2050,
   "sentiment": {
-    "positive": 101,
-    "neutral": 901,
-    "negative": 1062
+    "positive": 99,
+    "neutral": 883,
+    "negative": 1069
   },
   "latest_articles": [
+    {
+      "id": "aad6c9d1915fb2b9a50782f48ea5e42b7ea0d85e",
+      "title": "Iran releases U.S. citizen in goodwill gesture, Trump says",
+      "summary": "Dena Karari had been held in Iran since December 2024, her attorney said. Several other Americans are believed to still be in Iranian custody.",
+      "url": "https://www.washingtonpost.com/world/2026/07/16/iran-releases-us-citizen-goodwill-gesture-trump-says/",
+      "source": "World (Washington post)",
+      "published_at": "2026-07-16T10:59:38+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Iran releases U.S. citizen in goodwill gesture"
+    },
+    {
+      "id": "584991f3f0365f786a658d024fa9a83246adacdb",
+      "title": "First Thing: US attacks tanker in continuing Iran conflict as Tehran releases US citizen",
+      "summary": "US renews blockade of Iranian ports, while Iran attacks sites in Bahrain and Kuwait. Plus, legendary director John Waters on 60 years of screen carnageGood morning. The US has fired on an oil tanker attempting to reach K…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/first-thing-us-attacks-tanker-in-continuing-iran-conflict-as-tehran-releases-us-citizen",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-16T10:23:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "US attacks tanker in continuing Iran conflict as Tehran releases US citizen"
+    },
+    {
+      "id": "4becf98503a55d7fb755ce63b5b1eb84e7719507",
+      "title": "Here’s Where the U.S. and Iran Have Launched Attacks as the War Escalates",
+      "summary": "The U.S. military has appeared to widen its targets in Iran, while Iran has fired at bases belonging to American allies in the Middle East.",
+      "url": "https://www.nytimes.com/2026/07/16/world/middleeast/iran-war-us-strikes.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-16T10:18:10+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "U.S. military has appeared to widen its targets in Iran, while Iran has fired at bases"
+    },
+    {
+      "id": "98a9816ce4a2d0602d949eee2760a85aa62f48ab",
+      "title": "Iran warns U.S. of Hormuz ‘red line,’ says it will retaliate to Trump’s strike threats",
+      "summary": "Trump warned that the U.S. will target Iranian infrastructure next week if negotiations do not resume.",
+      "url": "https://www.cnbc.com/2026/07/16/iran-warns-of-hormuz-red-line-retaliation-to-trumps-strike-threats.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-16T09:18:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran warns U.S. of Hormuz ‘red line,’ says it will retaliate"
+    },
+    {
+      "id": "292a5b0191799549b0b5fcbf818c74ca63404828",
+      "title": "'Strait Of Hormuz Is A Red Line': Iran's Big Warning To Trump Over US Strikes",
+      "summary": "Hormuz carried about a fifth of global oil and gas shipments before war (Representational Image)",
+      "url": "https://www.ndtv.com/world-news/hormuz-is-a-red-line-irans-big-warning-to-trump-over-us-strikes-amid-war-11778924#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-16T09:11:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Iran's Big Warning To Trump Over US Strikes"
+    },
+    {
+      "id": "36125cafd8eb6401a9a38d8325e9cba579fa5332",
+      "title": "UK economy grew by 0.1% in May despite impact of Iran war",
+      "summary": "Rise in GDP follows a 0.1% decline in April, figures from the Office for National Statistics showThe UK economy returned to growth in May, despite the impact of the Iran war on energy costs, official figures show.The Off…",
+      "url": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-16T07:36:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "impact of the Iran war on energy costs"
+    },
+    {
+      "id": "7b656db7192e2662b2fcdfe5128d37f27db5dbf0",
+      "title": "India's Big Move To Protect Indian Sailors Amid US-Iran Conflict In Hormuz",
+      "summary": "India is the world's third-largest supplier of seafarers, with more than 300,000 sailors",
+      "url": "https://www.ndtv.com/world-news/dont-send-indian-sailors-to-hormuz-new-delhi-to-shipowners-amid-iran-war-11778534#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-16T07:34:50+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Amid US-Iran Conflict In Hormuz"
+    },
+    {
+      "id": "991036bac68795f175c4d8a3550a9e716f15fe54",
+      "title": "Iran war leaves crisis-weary European airlines ready for a shakeout - Reuters",
+      "summary": "Iran war leaves crisis-weary European airlines ready for a shakeout&nbsp;&nbsp;ReutersLess than a month's supply: Europe's jet fuel stocks are wafer thin as Iran tensions flare&nbsp;&nbsp;ReutersEnergy Union Task Force t…",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdTZDTDdFekRhZC15N3daNVV3MDJrUXRBN2RsLWdrY0UzdWl3RVEwX0ZKd0ZmeUhWcklqcDl4c1pfMVlZUzdiQnV6dnhqbW5xVHVDd0p2NWNmZGVzMXp1cVFmRXN3czB5bkVFUEdSYkM5bjNRNkE1czBFaTBUUEN0Z1dweHlwQWpNUHhDa2YtVlBCU3NUb2FfSVJ4QUltNWFuQXoyNDNxMVUzRjJ1dU9NZ1RrWkVUSkZ0aTdPWmV0Nk92UQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-16T06:04:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran war leaves crisis-weary European airlines ready for a shakeout"
+    },
+    {
+      "id": "f751daac799c90c5263c6c2d3952d928af0d0dc5",
+      "title": "Will Iran Be a Forever War?",
+      "summary": "President Trump may have fallen into the same trap that his predecessors did in Iraq and Afghanistan. Our chief diplomatic correspondent explains why.",
+      "url": "https://www.nytimes.com/2026/07/15/world/iran-us-war-china-world-cup.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-16T04:52:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Will Iran Be a Forever War?"
+    },
+    {
+      "id": "a9a939bfabf6ad03c8dcc526d0cf626c2dc1f000",
+      "title": "In Iran war, Trump Risks Another American ‘Forever War’",
+      "summary": "President Trump, who promised to “end wars,” not start them, may have fallen into a familiar presidential trap.",
+      "url": "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-16T04:01:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "In Iran war, Trump Risks Another American ‘Forever War’"
+    },
+    {
+      "id": "57ffc249109f4f1de823943a1b24bf245df5252e",
+      "title": "US says latest attack wave on Iran completed – as it happened",
+      "summary": "This blog is now closed – our latest full report is hereFor a second day in a row, US strikes targeted Iran’s southern port city of Bushehr, home to the country’s only civilian nuclear plant, according to the state news…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/15/us-iran-war-live-updates-strikes-trump-power-plants-bridges-middle-east-crisis-latest-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-16T03:32:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "US strikes targeted Iran’s southern port city of Bushehr"
+    },
+    {
+      "id": "7f3944afc6cdc1bda48ccaefcf69f17cf48410e1",
+      "title": "Iranian American Woman Held in Iran on Spying Charges Is Released",
+      "summary": "The dual Iranian-U.S. citizen, Dena Karari, had her passport seized in December 2024 and had not been able to leave Iran as she faced espionage charges.",
+      "url": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-american-released-trump.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-16T03:21:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Held in Iran on Spying Charges Is Released"
+    },
+    {
+      "id": "11d1040db56d49e2eb45fb82f300c27f28a3cf63",
+      "title": "U.S. and Iran Trade Strikes With No Sign of Backing Down",
+      "summary": "On the fifth straight day of fighting, the U.S. launched a 90-minute attack on Iran, while Tehran targeted Bahrain, Jordan and Kuwait.",
+      "url": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-us-strikes-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-15T20:02:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "U.S. and Iran Trade Strikes With No Sign of Backing Down"
+    },
+    {
+      "id": "17f4c3211d4d4923565d658ef777e91f62f4e2e1",
+      "title": "Chaos and confusion bring US no closer to resolution on strait of Hormuz",
+      "summary": "Five months of U-turns and false boasts leave Donald Trump in worse position than when he startedDonald Trump has taken the war with Iran into a new, murkier phase as the two sides move further and further from the vague…",
+      "url": "https://www.theguardian.com/world/2026/jul/15/chaos-confusion-no-closer-resolution-strait-hormuz-us-iran-donald-trump",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-15T17:32:52+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Chaos and confusion bring US no closer to resolution on strait of Hormuz"
+    },
+    {
+      "id": "dea6dbea4f2bbca4a1075281cedb8c877bf0aae9",
+      "title": "U.S. Strikes Hit Greater Tunb Island in Strait of Hormuz",
+      "summary": "The U.S. military said on Wednesday it had attacked Iranian cruise missile storage and launch sites on Greater Tunb, one of several small islands in the Strait of Hormuz subject to a decades-old territorial dispute.",
+      "url": "https://www.nytimes.com/2026/07/15/world/middleeast/us-iran-hormuz-greater-tunb-island.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-15T17:04:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Iranian cruise missile storage and launch sites"
+    },
+    {
+      "id": "345012272fa404e3e0390f91e89afc1fa204affc",
+      "title": "Wholesale prices unexpectedly declined 0.3% in June on big drop in gasoline",
+      "summary": "As with consumer prices, the index benefited from easing energy costs, particularly as oil fell due to the brief pause in tensions between the U.S. and Iran.",
+      "url": "https://www.cnbc.com/2026/07/15/wholesale-inflation-june-2026-.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-15T14:22:48+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "brief pause in tensions between the U.S. and Iran"
+    },
+    {
+      "id": "00e750778a35fd7485d3a7da038e2a0f0c8dc365",
+      "title": "Renewed Hormuz hostilities drive ECB rates rethink amid ‘extremely volatile’ outlook",
+      "summary": "Several consecutive days of strikes exchanged between the U.S. and Iran have cast uncertainty on the European Central Bank's interest rate decision next week.",
+      "url": "https://www.cnbc.com/2026/07/15/ecb-interest-rates-outlook-iran-war-hormuz.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-15T11:33:19+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "strikes exchanged between the U.S. and Iran have cast uncertainty"
+    },
     {
       "id": "e1a47231268f17fc3dc0d30eed82fa45d06a9c79",
       "title": "U.S. launches fresh wave of strikes on Iran, as analysts warn conflict risks becoming 'forever war'",
@@ -34,204 +221,17 @@
       "evidence": "impact of the Iran war on oil prices"
     },
     {
-      "id": "0b2d06aa8e2ffa8a703f4c62d13eb483931d076d",
-      "title": "Oil, Shipping, Flights: Disruptions Are Back as U.S.-Iran War Reignites",
-      "summary": "Higher prices for energy, food and air travel are likely to persist as the two sides escalate their clash over the Strait of Hormuz and launch airstrikes in the Middle East.",
-      "url": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-war-oil-shipping-flight-disruptions.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-15T09:08:32+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "U.S.-Iran War Reignites"
-    },
-    {
-      "id": "4c491c6cf8d39ac648d683e8c3484a5c86f3c1c9",
-      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-      "summary": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
-      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-15T09:06:52+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Trump threatens to bomb bridges and power plants unless Iran resumes talks"
-    },
-    {
-      "id": "f300ed70a41263848755db9c82163058e6ab83b7",
-      "title": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
-      "summary": "Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.",
-      "url": "https://www.nytimes.com/2026/07/15/world/middleeast/israel-us-iran-trump.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-15T09:03:46+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "threats Iran poses to Israel"
-    },
-    {
-      "id": "bf55d76df193c0d97a5feee9a6f5cdcdadbcf252",
-      "title": "How Iran Used Data Roaming, Ad Tech To Track US Military Personnel In Gulf",
-      "summary": "he prospect of enemies stalking US personnel has alarmed American lawmakers",
-      "url": "https://www.ndtv.com/world-news/how-iran-used-data-roaming-ad-tech-to-track-us-military-personnel-in-gulf-11773907#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-15T08:07:09+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "How Iran Used Data Roaming, Ad Tech To Track US Military Personnel In Gulf"
-    },
-    {
-      "id": "8a15592461f4230ec036bfc98265a2263aef4ded",
-      "title": "U.S. strikes Iranian missile sites, defense systems and reinstates port blockade",
-      "summary": "President Donald Trump has said the U.S.-Iran ceasefire is over following multiple flare-ups of hostilities in the region.",
-      "url": "https://www.cnbc.com/2026/07/14/iran-strikes-hormuz-strait-blockade-trump-tolls.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-07-15T05:54:52+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "U.S. strikes Iranian missile sites, defense systems and reinstates port blockade"
-    },
-    {
-      "id": "1d9065a835e45cba54e3dd68240e8dce7d6e6689",
-      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-      "summary": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
-      "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-14T23:17:27+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "struggling to end Iran war"
-    },
-    {
-      "id": "4e9074181e0c7f2886fac98abcb3b772a26ede65",
-      "title": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate",
-      "summary": "The president is accustomed to forcing other countries to bend to his will. But he is struggling to come up with a strategy to extract Iranian concessions as the cease-fire he brokered collapses.",
-      "url": "https://www.nytimes.com/2026/07/14/us/politics/iran-trump-war.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-14T23:01:39+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "struggling to come up with a strategy to extract Iranian concessions"
-    },
-    {
-      "id": "1082dadbdd77540a1d2e7bc784e2bb41c7616caa",
-      "title": "Iran’s Former Leader Denies Times Report",
-      "summary": "The Times reported that Israel had planned to reinstall Mahmoud Ahmadinejad as Iran’s leader after the war.",
-      "url": "https://www.nytimes.com/2026/07/14/world/middleeast/mahmoud-ahmadinejad-iran-israeli-asset.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-14T22:16:03+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "The Times reported that Israel had planned to reinstall Mahmoud Ahmadinejad"
-    },
-    {
-      "id": "6a045d56541db4d59055f329d833324fabb0da47",
-      "title": "Watch: The clash between US and Iran for control of the Strait of Hormuz",
-      "summary": "The BBC's Barbara Plett Usher examines the latest tensions over the key international shipping channel.",
-      "url": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-14T21:13:12+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "clash between US and Iran for control of the Strait of Hormuz"
-    },
-    {
-      "id": "ce159618f1c491c60f8017f306e3ba22d61642c0",
-      "title": "Trump retreats from shipping toll in Strait of Hormuz",
-      "summary": "As European markets fell and oil prices hit a one-month high, President Donald Trump declared on Truth Social that the strait “is open to ALL Ship traffic except for Iran.”",
-      "url": "https://www.washingtonpost.com/world/2026/07/14/oil-prices-jump-after-trumps-threats-strait-hormuz/",
+      "id": "540b092a2eea175cb46129dbc5a2f1e6b4c4c498",
+      "title": "U.S. hits dozens of Iranian targets as Trump threatens power plants and bridges",
+      "summary": "The president’s threats of further military strikes underscored his rising frustration over the collapse of a preliminary truce agreement and Tehran’s refusal to bow to American demands.",
+      "url": "https://www.washingtonpost.com/world/2026/07/15/us-hits-dozens-iranian-targets-trump-demands-renewed-negotiations/",
       "source": "World (Washington post)",
-      "published_at": "2026-07-14T20:44:23+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "except for Iran"
-    },
-    {
-      "id": "91112941a0faa043d808a2a4948286f0a1cf5f8f",
-      "title": "U.S. and Iran Reignite War Over Strait of Hormuz",
-      "summary": "The two countries slid back to open war over the waterway, as the U.S. planned to reinstate a blockade on Iranian ports on Tuesday. Iran said it had attacked two tankers and fired at U.S. military sites.",
-      "url": "https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz",
-      "source": "NYT > World News",
-      "published_at": "2026-07-14T20:36:23+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Iran attacked two tankers and fired at U.S. sites."
-    },
-    {
-      "id": "e1f48830241a699e0269fcf46f6a15e61c5eaea9",
-      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
-      "summary": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.",
-      "url": "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-14T19:17:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "Europe is still on sidelines in Iran"
-    },
-    {
-      "id": "273bab0920609eb90c6ccf681186b9afb92563e1",
-      "title": "US-Iran War Live Updates: Indian seafarer missing after attack off Oman coast confirmed dead",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-updates-west-asia-conflict-strait-of-hormuz-trump-tehran-talks-ceasefire-gulf-states/liveblog/132399535.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-07-14T18:32:00+00:00",
+      "published_at": "2026-07-15T10:02:31+00:00",
       "sentiment": "negative",
       "confidence": 0.7,
-      "evidence": "Indian seafarer missing after attack off Oman coast confirmed dead"
-    },
-    {
-      "id": "af74de263531db173d9f90da1408b37636da6cf8",
-      "title": "Trump withdraws Hormuz tolls threat but says US will continue to blockade Iran",
-      "summary": "US hits targets in port cities of Bushehr and Bandar Abbas while Iran targets Bahrain and Jordan in retaliation Middle East crisis live – latest updatesDonald Trump has backed down from a threat that ships would have to…",
-      "url": "https://www.theguardian.com/world/2026/jul/14/us-strikes-iran-bahrain-jordan-uae-tankers",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-14T16:50:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Iran targets Bahrain and Jordan in retaliation Middle East crisis"
-    },
-    {
-      "id": "4a25e09b76142cbefa210e8d65d980524c9c779f",
-      "title": "India Condemns Deadly Iranian Strike on Commercial Ship",
-      "summary": "India issued a diplomatic protest after an Indian sailor was killed and dozens more were injured in an Iranian attack on a tanker in the Strait of Hormuz.",
-      "url": "https://www.nytimes.com/2026/07/14/world/middleeast/iran-killed-indian-sailors.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-14T15:34:42+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "India Condemns Deadly Iranian Strike on Commercial Ship"
-    },
-    {
-      "id": "1ce03d0e5560e7c99686c3dc4782a3307a9e1962",
-      "title": "U.S. crude jumps above $80 as Iran ceasefire fractures; Trump's Hormuz toll plans reignite supply fears",
-      "summary": "Oil prices rose on Tuesday after U.S. President Donald Trump announced plans to impose shipping fees in the Strait of Hormuz.",
-      "url": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-07-14T10:35:21+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Iran ceasefire fractures; Trump's Hormuz toll plans"
-    },
-    {
-      "id": "9690ea45167cd4df40dc3e0fe67f7f022d346dce",
-      "title": "First Thing: Trump threatens to impose US tolls on Hormuz shipping as strikes on Iran continue",
-      "summary": "Change of US position on free navigation comes as two tankers hit by Iranian cruise missiles. Plus, the international outpouring of love for the late actor Sam NeillGood morning. The US has launched its third consecutive…",
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/first-thing-trump-us-tolls-hormuz-iran",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-14T10:22:41+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "strikes on Iran continue"
-    },
-    {
-      "id": "d5188202cdcead075dba89d209d5aa1afeb7956a",
-      "title": "Iranian cruise missiles hit two UAE oil tankers in Hormuz as US strikes Iran for third night – Middle East crisis live",
-      "summary": "UAE says Iranian cruise missiles hit two oil tankers in strait, killing a crew member and wounding eightUS launches third night of strikes on Iran as Trump announces Hormuz blockadeResurgent oil and fuel prices could cem…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-14T10:22:17+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Iranian cruise missiles hit two UAE oil tankers"
+      "evidence": "U.S. hits dozens of Iranian targets as Trump threatens power plants"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-15T11:06:07Z"
+  "last_updated": "2026-07-16T11:15:39Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "JO",
-  "score": 66,
+  "score": 65,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -2,
-  "sources": 23,
+  "trend": -1,
+  "sources": 24,
   "sentiment": {
     "positive": 5,
     "neutral": 10,
-    "negative": 8
+    "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "11d1040db56d49e2eb45fb82f300c27f28a3cf63",
+      "title": "U.S. and Iran Trade Strikes With No Sign of Backing Down",
+      "summary": "On the fifth straight day of fighting, the U.S. launched a 90-minute attack on Iran, while Tehran targeted Bahrain, Jordan and Kuwait.",
+      "url": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-us-strikes-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-15T20:02:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Tehran targeted Bahrain, Jordan and Kuwait."
+    },
     {
       "id": "af74de263531db173d9f90da1408b37636da6cf8",
       "title": "Trump withdraws Hormuz tolls threat but says US will continue to blockade Iran",
@@ -219,19 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Jordan signs NASA Artemis Accords for peaceful space cooperation"
-    },
-    {
-      "id": "1f25a94a526d6ac6bffaba58b7f246cad9e99f60",
-      "title": "Travel Chaos Unleashed: US-Iran Conflict Sparks Unprecedented Flight Cancellations - Travel And Tour World",
-      "summary": "Travel Chaos Unleashed: US-Iran Conflict Sparks Unprecedented Flight Cancellations&nbsp;&nbsp;Travel And Tour WorldAirlines cancel flights amid Middle East conflict&nbsp;&nbsp;ReutersThe latest on flight cancellations to…",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY0xMWGtyVzNtR05HNldvMkVSWWswa1pGT09yZ3ctNXhFOGVxYUtuY1NrRUtpZjF4ejE4QmxVX0QtU0xzdW13eE1aOU5mLXBxRFF5OFJUUlh1RzNuNUswMWk0Y0RYR05KVW5ka0tiWlhxWk9PellnWkVNczV2M2pfTTJuMkdIQ0hEN2NObTlJVmttM3ZJUDlfV2Z4bDlNSjVZUGp2amZPb2ctNFFwN0NfRVdBNjJ3WnBvbVhxMjNaT1RJTTdleWFIRzdn?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-04-24T08:32:50+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Middle East conflict"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-15T11:06:07Z"
+  "last_updated": "2026-07-16T11:15:39Z"
 }

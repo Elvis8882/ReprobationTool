@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": null,
-  "sources": 1,
+  "sources": 2,
   "sentiment": {
     "positive": 0,
-    "neutral": 1,
+    "neutral": 2,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "7c14601495a4dd1aa30904b34d8ab7937e203321",
+      "title": "Eleven people die in fire at Algerian children's care home",
+      "summary": "Along with the fatalities, 19 people suffered injuries, the authorities say.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-16T10:34:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Eleven people die in fire at Algerian children's care home"
+    },
     {
       "id": "31e18f5f751f8bcc91ac1a11ae1ca9baa2559289",
       "title": "Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns",
@@ -24,5 +35,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-15T11:06:07Z"
+  "last_updated": "2026-07-16T11:15:39Z"
 }

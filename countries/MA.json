@@ -1,16 +1,38 @@
 {
   "country": "MA",
-  "score": 69,
+  "score": 63,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 16,
+  "trend": -6,
+  "sources": 18,
   "sentiment": {
     "positive": 1,
-    "neutral": 14,
-    "negative": 1
+    "neutral": 15,
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "ccb0f3ceefe1351f532b1de422f61f6444ef742b",
+      "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
+      "summary": "Whistleblower suggests internal security services deployed spyware from 2017 against key domestic and foreign targetsA former member of Morocco’s domestic intelligence service has helped to provide an unprecedented insig…",
+      "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-16T04:30:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software"
+    },
+    {
+      "id": "472b8560de61eb5c6de43fccc3c133c1d828e4bb",
+      "title": "He came to America as a slave. This Moroccan man later became one of North America's earliest explorers",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/us/he-came-to-america-as-a-slave-this-moroccan-man-later-became-one-of-north-americas-earliest-explorers/articleshow/132410448.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-07-15T10:30:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "This Moroccan man later became one of North America's earliest explorers"
+    },
     {
       "id": "5108561c65d3fde68012cc89d8df089e69ef52fd",
       "title": "As France and Morocco Take the Field, Colonial Past and Global Present Will Mix",
@@ -189,5 +211,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-15T11:06:07Z"
+  "last_updated": "2026-07-16T11:15:39Z"
 }

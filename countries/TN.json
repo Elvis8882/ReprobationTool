@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 3,
+  "sources": 4,
   "sentiment": {
     "positive": 0,
-    "neutral": 2,
+    "neutral": 3,
     "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "3c3541b5379cc4fed6b703c0f9949a1bcd105613",
+      "title": "‘We are dying little by little here’: asylum seekers at mercy of Home Office hotel closures",
+      "summary": "Legal challenges launched over accommodation ‘adequacy’ as UK government closes more asylum hotelsHuda and her two children aged 10 and 12 had been living in two rooms in a London hotel for six months when they were told…",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/14/asylum-seekers-mercy-home-office-hotel-closures-legal-challenge",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-14T06:00:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "engineering graduate from Tunisia fled death threats"
+    },
     {
       "id": "1489f295da914f8b020611b2f2ba49ad6bc61678",
       "title": "Tunisia sack head coach just one game into World Cup",
@@ -46,5 +57,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-15T11:06:07Z"
+  "last_updated": "2026-07-16T11:15:39Z"
 }

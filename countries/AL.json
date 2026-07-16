@@ -1,16 +1,27 @@
 {
   "country": "AL",
-  "score": 72,
+  "score": 74,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 33,
+  "trend": 2,
+  "sources": 34,
   "sentiment": {
-    "positive": 9,
+    "positive": 10,
     "neutral": 16,
     "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "cfdc81ef0bb05bbe78bb3049726c2a46ae7d6ad2",
+      "title": "Dua Lipa calls Albanian protests against Jared Kushner-backed resort ‘inspiring’",
+      "summary": "Pop star, whose parents are Kosovan Albanian, expresses admiration for demonstrations, which are entering their sixth weekAlbania’s “flamingo revolution” has won its most prominent supporter yet after the pop star Dua Li…",
+      "url": "https://www.theguardian.com/music/2026/jul/14/dua-lipa-calls-albanian-protests-against-jared-kushner-backed-resort-inspiring",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-14T17:39:38+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Pop star, whose parents are Kosovan Albanian, expresses admiration for demonstrations"
+    },
     {
       "id": "ff3d94308a53092550325a742638e61bf2470bee",
       "title": "Albanian Leader Rejects Complaints About Kanye West Concert",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "Protests in Albania grow over Jared Kushner-backed luxury resort"
-    },
-    {
-      "id": "0b9de6c80ec0f43b79d5e2357e49c13b22539b4c",
-      "title": "Protests Grow in Albania Over Kushner-Linked Project",
-      "summary": "Plans for luxury resorts on the Adriatic Sea have long worried environmentalists. The developments are now a flashpoint for broader frustrations with the government.",
-      "url": "https://www.nytimes.com/2026/06/02/world/europe/albania-kushner-protests-hotel.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-02T21:59:56+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Protests Grow in Albania Over Kushner-Linked Project"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-15T11:06:07Z"
+  "last_updated": "2026-07-16T11:15:39Z"
 }

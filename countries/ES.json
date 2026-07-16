@@ -1,16 +1,49 @@
 {
   "country": "ES",
-  "score": 76,
+  "score": 75,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 408,
+  "trend": -1,
+  "sources": 405,
   "sentiment": {
-    "positive": 29,
-    "neutral": 331,
-    "negative": 48
+    "positive": 28,
+    "neutral": 328,
+    "negative": 49
   },
   "latest_articles": [
+    {
+      "id": "d063d01484b247a668564a784e4f5711da0c5f38",
+      "title": "Zelenskyy faces outrage over defence minister sacking as Starmer makes farewell Ukraine visit as UK PM – Europe live",
+      "summary": "Arrival of outgoing British leader in Ukraine comes as Zelenskyy faces outrage after removing Mykhailo Fedorovin MadridMeanwhile, the EU’s top court has ruled that a controversial Spanish law that offered an amnesty to t…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/16/europe-ukraine-russia-zelenskyy-starmer-macron-merz-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-16T10:47:13+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "EU’s top court has ruled that a controversial Spanish law... does not violate the bloc’s rules."
+    },
+    {
+      "id": "dc489d4e2fd5afdad24db426f7baab533673972c",
+      "title": "‘Malvinas are Argentinian’: World Cup holders celebrate win over England with Falklands banner",
+      "summary": "Banner refers to Falkland Islands conflict in 1982UK business secretary calls for Fifa investigation The Argentina players celebrated their World Cup win over England with a banner saying “Las Malvinas son Argentinas”, m…",
+      "url": "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-16T08:13:50+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "face Spain in New Jersey on Sunday"
+    },
+    {
+      "id": "ccb0f3ceefe1351f532b1de422f61f6444ef742b",
+      "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
+      "summary": "Whistleblower suggests internal security services deployed spyware from 2017 against key domestic and foreign targetsA former member of Morocco’s domestic intelligence service has helped to provide an unprecedented insig…",
+      "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-16T04:30:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Spanish cabinet ministers and police officers"
+    },
     {
       "id": "784deb10e83a5f923e9df6f19db2f15b9274d206",
       "title": "Celebrations as Gibraltar-Spain border fence removed",
@@ -121,6 +154,17 @@
       "evidence": "Spain's wildfires"
     },
     {
+      "id": "f93e4ee17b738e6daf999586634b87cdb89e419a",
+      "title": "Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes",
+      "summary": "Many say communication was chaotic and even nonexistent as flames tore through the area, taking 12 lives in one of the deadliest wildfires on record in Spain.",
+      "url": "https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-12T15:31:34+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "deadliest wildfires on record in Spain"
+    },
+    {
       "id": "cecfc532df2763d5858432a5c3634302ff49026c",
       "title": "Badly burned British couple rescued from ravine during Spain wildfires",
       "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province.",
@@ -185,51 +229,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Spain battles to contain one of its deadliest wildfires"
-    },
-    {
-      "id": "f0ed4516adbfa563cd2ad7a2d8a5393599aefecf",
-      "title": "New species named after Cape Verde goalkeeper Vozinha",
-      "summary": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-10T19:30:06+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "performance against Spain at the World Cup"
-    },
-    {
-      "id": "063bb7df24f0781fab8dac6418bae6e0dd7c6401",
-      "title": "'Really frightening, unbelievably quick': Witnesses describe fleeing deadly Spain wildfire",
-      "summary": "Holidaymakers tell the BBC how they grabbed a change of clothes, bundled into cars and fled the flames and smoke.",
-      "url": "https://www.bbc.co.uk/news/articles/c932zyex1w2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-10T18:56:06+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "deadly Spain wildfire"
-    },
-    {
-      "id": "7a459cb2fe37a1d8fa8632ca0b776aa50175452b",
-      "title": "The EU Population Grew, Latvia Experienced the Most Significant Decline - Inbox.eu",
-      "summary": "The EU Population Grew, Latvia Experienced the Most Significant Decline&nbsp;&nbsp;Inbox.euEU population continued to grow in 2025&nbsp;&nbsp;European CommissionThe Bulgarian Paradox: Highest Birth Rate, Lowest Living St…",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaXEzSjRqTHhBd1BNMEc3Zl8ta0szMW8xdjU4QnZZVmZFZE5FbjJmTWFqTDl5UDZkSV9hMV9heGdfZDN4R002Uk1wYUVVay15U2hOZV8zNjF0OHBrTUVhQ1FNbmRhU29NT0NGdkZZeWZKcXZkVlJLUTJhbG1IUHhmWUZaUzBHN1VaZFF5cDd5cEttd2xSbEhNUUlXa3ljRVI5dHBxcFFXU0tGQmVWSGhickR3?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-10T17:20:11+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "8ba04b168b6aa65d6863c5df9bb64e32ff95a4a0",
-      "title": "At least 11 people killed as wildfires sweep southern Spain",
-      "summary": "The deaths in Andalusia included foreign nationals, and high temperatures raised fears of more fires across Europe.",
-      "url": "https://www.washingtonpost.com/world/2026/07/10/deadly-wildfire-southern-spain-leaves-least-11-dead/",
-      "source": "World (Washington post)",
-      "published_at": "2026-07-10T13:10:11+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "11 people killed as wildfires sweep southern Spain... fears of more fires across Europe"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-15T11:06:07Z"
+  "last_updated": "2026-07-16T11:15:39Z"
 }
