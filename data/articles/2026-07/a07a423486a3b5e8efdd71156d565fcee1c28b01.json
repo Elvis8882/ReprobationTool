@@ -1,0 +1,41 @@
+{
+  "id": "a07a423486a3b5e8efdd71156d565fcee1c28b01",
+  "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+  "summary_full": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
+  "summary_public": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
+  "url": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-07-16T13:08:28+00:00",
+  "source": "BBC News - World",
+  "language": "en",
+  "countries_detected": [
+    "PL",
+    "RU",
+    "UA"
+  ],
+  "countries_scored": [
+    "PL",
+    "RU",
+    "UA"
+  ],
+  "sentiment_by_country": {
+    "PL": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "sabotage actions in Poland for Russia"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "sabotage actions in Poland for Russia"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.4,
+      "evidence": "incite ethnic tensions between Poland and Ukraine"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-07-17T11:02:45+00:00",
+  "processed_at": "2026-07-17T11:02:45+00:00"
+}

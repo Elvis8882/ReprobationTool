@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 56,
+  "score": 57,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 41,
+  "trend": 1,
+  "sources": 42,
   "sentiment": {
-    "positive": 1,
+    "positive": 2,
     "neutral": 23,
     "negative": 17
   },
   "latest_articles": [
+    {
+      "id": "958ff79538b9e4fb947babfc0f612c09a570cf0d",
+      "title": "BP, ConocoPhillips to back Iraq with major investments as U.S. seeks to weaken Iran's energy hold",
+      "summary": "BP and ConocoPhillips are set to announce billions of dollars of new investments in Iraq on Friday.",
+      "url": "https://www.cnbc.com/2026/07/17/bp-conocophillips-to-back-iraq-with-major-energy-investment-.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-17T08:10:21+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "back Iraq with major investments"
+    },
     {
       "id": "f751daac799c90c5263c6c2d3952d928af0d0dc5",
       "title": "Will Iran Be a Forever War?",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Iraq piles pressure on OPEC over quota dispute"
-    },
-    {
-      "id": "94e384ac26cb54da54bd8efea1051350d4d59847",
-      "title": "Iraq’s New Leader Faces Resistance Trying to Bring Militias Under State Control",
-      "summary": "The Trump administration has demanded that Iraqi leaders distance themselves from Iran and rein in Iran-linked militias that are outside of government control.",
-      "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iraq-militias-state-control.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-25T09:15:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "rein in Iran-linked militias that are outside of government control"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-16T11:15:39Z"
+  "last_updated": "2026-07-17T11:02:45Z"
 }

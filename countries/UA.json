@@ -1,16 +1,104 @@
 {
   "country": "UA",
-  "score": 45,
+  "score": 39,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -2,
-  "sources": 682,
+  "trend": -6,
+  "sources": 693,
   "sentiment": {
-    "positive": 310,
-    "neutral": 139,
-    "negative": 234
+    "positive": 309,
+    "neutral": 143,
+    "negative": 242
   },
   "latest_articles": [
+    {
+      "id": "eadbe6aede2844803a335af20f93fc2da56e6448",
+      "title": "The 20-Somethings Running Ukraine’s War Machine",
+      "summary": "A new generation has been cutting red tape to speed weapons to the front. But the old guard pushed back, and now Ukraine’s young defense minister is out.",
+      "url": "https://www.nytimes.com/2026/07/17/world/europe/youth-ukraine-defense-innovation.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-17T10:29:24+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.8,
+      "evidence": "cutting red tape to speed weapons to the front. But the old guard pushed back"
+    },
+    {
+      "id": "78708f08b4c3282f180c9d8c1578cb22e5488cde",
+      "title": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies",
+      "summary": "As unmanned aerial vehicles target Israel, Persian Gulf states and U.S. forces in the Middle East, Ukraine is selling equipment, giving advice and establishing joint production lines.",
+      "url": "https://www.washingtonpost.com/world/2026/07/17/after-years-drone-warfare-ukraine-is-selling-its-blood-experience-allies/",
+      "source": "World (Washington post)",
+      "published_at": "2026-07-17T09:00:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Ukraine is selling its ‘blood experience’ to allies"
+    },
+    {
+      "id": "430cd95617a60cbc98642e389787d3d0c6c7c2ca",
+      "title": "Russian recruits survive just 20-30 minutes on Ukraine frontlines: CIA chief explains why",
+      "summary": "Russian soldiers face a brief battlefield life expectancy of minutes.  AI-powered drones have become specialized, low-cost killing machines on the front.  Ukraine's mastery of drone warfare acts as a significant equalize…",
+      "url": "https://timesofindia.indiatimes.com/defence/international/russian-recruits-survive-just-20-30-minutes-on-ukraine-frontlines-cia-chief-explains-why/articleshow/132455121.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-07-17T07:48:39+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukraine's mastery of drone warfare acts as a significant equalizer"
+    },
+    {
+      "id": "7581d736a942d7d5da235c4827c27bfb21926af4",
+      "title": "Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.",
+      "summary": "From an underground parking garage, Ukraine’s newly dismissed defense minister aired the most dramatic, public critique of the military command to emerge during the war.",
+      "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-16T22:01:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View."
+    },
+    {
+      "id": "579e4c09dc297c8ef65641212fdf47837987dfe1",
+      "title": "Zelensky ousts popular defense minister, an architect of Ukraine’s drone program",
+      "summary": "Mykhailo Fedorov's dismissal, part of a rebooting of the government announced Sunday, prompted protests in Kyiv.",
+      "url": "https://www.washingtonpost.com/world/2026/07/16/zelensky-ousts-popular-defense-minister-an-architect-ukraines-drone-program/",
+      "source": "World (Washington post)",
+      "published_at": "2026-07-16T20:53:14+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Zelensky ousts popular defense minister, an architect of Ukraine’s drone program"
+    },
+    {
+      "id": "514cc2f453ed570ccdfe09e91f794759c0a025de",
+      "title": "Political crisis and protests in Ukraine as Zelenskyy defends sacking defence minister",
+      "summary": "President says he had to choose ‘one side or the other’ after breakdown of relations between ministry and military leadersUkraine’s president, Volodymyr Zelenskyy, has defended his decision to dismiss the country’s popul…",
+      "url": "https://www.theguardian.com/world/2026/jul/17/zelenskyy-defends-sacking-ukraine-defence-minister-mykhailo-fedorov",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-16T18:25:48+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Political crisis and protests in Ukraine"
+    },
+    {
+      "id": "a07a423486a3b5e8efdd71156d565fcee1c28b01",
+      "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+      "summary": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-16T13:08:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.4,
+      "evidence": "incite ethnic tensions between Poland and Ukraine"
+    },
+    {
+      "id": "3e3aa49bffd435eaad90129b17a3339cfdff6f85",
+      "title": "Commission welcomes political agreement on the Programme for agile and rapid defence innovation (AGILE) - defence-industry-space.ec.europa.eu",
+      "summary": "Commission welcomes political agreement on the Programme for agile and rapid defence innovation (AGILE)&nbsp;&nbsp;defence-industry-space.ec.europa.euEU negotiators agree on €115mn defence innovation programme&nbsp;&nbsp…",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeU5RbzJIbmhzVHF0b2hhYkJtMmJuZ3JpUEhGTk42SDdST2xBOWM2RDYxMm1fUUdiTXZBS2IydHJmTy1CR0xtTGxTd3JrVFROQ1BaUVpic2N0MmFkeVljcWhtZWcxakdVMmpPMTR6TlBOZWVOR1ZmS3Iza3pTQ29HUk1BbXNVd2h4b1pOd0U2RVlmOWpmbWpDYVNNSUFaLTBvWU5SMHRGSVBfMXl1RDJZZjJfN25SQ3QtOTZueTlrVzFRaHktWXB5QjJ5VFRLTGRmeXdyS0lIeGtYS0pBbnlOWTd3?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-16T12:00:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Deal on new EU defence programme puts SMEs and Ukraine at the heart of Europe’s security"
+    },
     {
       "id": "d063d01484b247a668564a784e4f5711da0c5f38",
       "title": "Zelenskyy faces outrage over defence minister sacking as Starmer makes farewell Ukraine visit as UK PM – Europe live",
@@ -21,6 +109,39 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Zelenskyy faces outrage over defence minister sacking"
+    },
+    {
+      "id": "8c0adc78466fccc6604be1607c8ab01cbc6dda2b",
+      "title": "Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
+      "summary": "Mykhailo Fedorov announced he was leaving the ministry on Wednesday after conflicts with generals and military contractors over the role of innovative weaponry.",
+      "url": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-16T10:27:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Ukraine’s Minister of Defense... Is Forced Out"
+    },
+    {
+      "id": "d261379b14a0f37b36c8f809e27fca99884b17c3",
+      "title": "What to Know About Mykhailo Fedorov, Ukraine’s Ousted Defense Minister",
+      "summary": "Mr. Fedorov became the youthful face of Ukraine’s successful drone warfare program. The move to replace him has prompted street protests.",
+      "url": "https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-16T10:27:04+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Ukraine’s Ousted Defense Minister...prompted street protests"
+    },
+    {
+      "id": "d1ee91f5183ee7b0e4eaf516d7903823d0955b2e",
+      "title": "Ukraine gets new PM: Parliament approves Serhii Koretskyi amid cabinet shuffle",
+      "summary": "Ukraine's parliament approved Serhii Koretskyi as the new prime minister on Thursday. This appointment follows the resignation of former prime minister Yulia Svyrydenko. President Zelenskyy cited Koretskyi's energy secto…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/ukraine-gets-new-pm-parliament-approves-serhii-koretskyi-amid-cabinet-shuffle/articleshow/132435600.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-07-16T10:02:12+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.8,
+      "evidence": "aims to refresh leadership...sparked protests and criticism"
     },
     {
       "id": "23bb5e1a9d36157e2c6ea3f1cdb936134b6af4cf",
@@ -45,6 +166,17 @@
       "evidence": "Protests in Ukraine's cities against Zelensky's removal of defence minister"
     },
     {
+      "id": "5041a54df785797908012d718717e06625a21ce6",
+      "title": "Volodymyr Zelenskyy dismisses Ukraine’s defence minister on eve of Starmer visit",
+      "summary": "Mykhailo Fedorov, credited with transforming the ministry, ousted in reshuffle after six months in postVolodymyr Zelenskyy has dismissed Ukraine’s popular defence minister, despite pleas from foreign partners and civil s…",
+      "url": "https://www.theguardian.com/world/2026/jul/15/volodymyr-zelenskyy-dismisses-ukraines-popular-defence-minister",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-16T05:03:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "dismisses Ukraine’s defence minister on eve of Starmer visit"
+    },
+    {
       "id": "a9fa473c092fd0c75a85328adb188db357ef68df",
       "title": "Three killed as Russian bombing of Odesa continues",
       "summary": "In recent days, Russia and Ukraine have launched attacks on each others' infrastructure for shipping goods.",
@@ -54,6 +186,17 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Ukraine have launched attacks on each others' infrastructure"
+    },
+    {
+      "id": "88ce892c2a5dc0ac48538d19abb80890aa86315c",
+      "title": "Russia prepares legal offensive against Baltic states over treatment of Russian minorities - IntelliNews",
+      "summary": "Russia prepares legal offensive against Baltic states over treatment of Russian minorities&nbsp;&nbsp;IntelliNewsRussia plans to take Baltics to International Court of Justice over alleged discrimination&nbsp;&nbsp;ERRRe…",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPblhvOG5mcjZRUjhIRktNclFMb0JoaW93ZGZpT1dyWk1rNHpManZ1LTAzOWNuMGVHRUNIZzFscnJvalRHVERoQTU1bmJLc3d0Rjd2MjF0WHdXdTd4cWdjM1drSjVoRUZtY3pGekRIazlJcnB2NVcxVV9GUXZJaTNjaGlnRFBUcnUwX0FnbVNKTC04TVJuLWpWb1NYdWF2MjNldUFicXFJSE5Nem16T3NlOEdsSmFsZlNwTkE0TzE3VEZlYTYtSlRscVFhc09OSmN0cjNyMV9VMA?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-15T08:09:17+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "attacks on Ukraine"
     },
     {
       "id": "e1f48830241a699e0269fcf46f6a15e61c5eaea9",
@@ -87,151 +230,8 @@
       "sentiment": "mixed",
       "confidence": 0.4,
       "evidence": "Polish-Ukrainian solidarity over Russian threat undermined by bitter historical dispute"
-    },
-    {
-      "id": "44aeb578e82c7ddacf513647094f315474e52798",
-      "title": "How Ground Robots Became Ukraine's New Frontline Force",
-      "summary": "Robots are now capable of escorting surrendering Russian soldiers away.",
-      "url": "https://www.ndtv.com/world-news/how-ground-robots-became-ukraines-new-frontline-force-11768428#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-14T07:48:31+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Ukraine's New Frontline Force"
-    },
-    {
-      "id": "2a5750631ccd898199947b59973df8e859f7868e",
-      "title": "Latvia's honorary consuls in Ukraine given awards",
-      "summary": "On Monday, July 13th, Minister of Defense Raivis Melnis met with Latvia's honorary consuls in Ukraine to present them with&nbsp;awards.",
-      "url": "https://eng.lsm.lv/article/politics/diplomacy/14.07.2026-latvias-honorary-consuls-in-ukraine-given-awards.a654960/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-07-14T06:08:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.5,
-      "evidence": "Latvia's honorary consuls in Ukraine given awards"
-    },
-    {
-      "id": "efbe28c84fefbd71ce9a4aec71f755a2bbd0aa1b",
-      "title": "Latvia's honorary consuls in Ukraine given awards / Article - LSM",
-      "summary": "Latvia's honorary consuls in Ukraine given awards / Article&nbsp;&nbsp;LSM",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaWhrVnhtSXdpUkhrWEZIdDBWR2RhSXpNZGRmYk5aQVFKZk5XUE1PWnI4ay1oRzY0YUxXMHR0QUVIejJoRGdaTk9YNDdhSWVLX3RYMDJZZ2hVR0xhVkNTUDJXSmtzNVdpdVdfRUdYM2VhY0xtejRJbTZlZkVFcjNHOVV5bTBjZ0NiaVdVeGhZVzhWemJ4aHZ0Y0ttcFhZanlwZUV3ZnNtQzRJWjd0Wnp3SzJOUEw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-14T05:12:31+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Latvia's honorary consuls in Ukraine given awards"
-    },
-    {
-      "id": "b3fd167cbffc23901378da3b4f73c269d36c765b",
-      "title": "9 European nations, Ukraine form an anti-ballistic missile coalition",
-      "summary": "Nine European countries and Ukraine established a coalition for defensive anti-ballistic capabilities. This alliance aims to deter and defeat future missile threats effectively. The group will integrate defense industrie…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/9-european-nations-ukraine-form-an-anti-ballistic-missile-coalition/articleshow/132378931.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-07-14T01:55:07+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Nine European countries and Ukraine established a coalition"
-    },
-    {
-      "id": "75dd1718b805b02cc522b77640a5fb49d68bbc86",
-      "title": "Japan admits growing need to counter espionage after Russian ‘den of spies’ report",
-      "summary": "Issue must be addressed with ‘even greater rigour’, says government spokesman, after New York Times report on how it has become a spy hub for Vladimir PutinJapan has said it recognised the need to counter foreign intelli…",
-      "url": "https://www.theguardian.com/world/2026/jul/14/japan-espionage-russia-den-of-spies",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-14T01:10:26+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "procurement of dual-use technology needed for its war in Ukraine."
-    },
-    {
-      "id": "614e5ff9883d7e05271246f0cd3639923fbbf2c6",
-      "title": "‘Coalition of the willing’ to build shared European anti-ballistic programme",
-      "summary": "Ukraine and nine other countries including UK issue joint statement as leaders meet Volodymyr Zelenskyy in ParisUkraine and nine other countries including the UK, Germany and France are to build a shared protection progr…",
-      "url": "https://www.theguardian.com/world/2026/jul/13/coalition-of-the-willing-build-shared-european-anti-ballistic-programme",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-13T18:45:46+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukraine and nine other countries including UK issue joint statement"
-    },
-    {
-      "id": "4719dfbf784e57154eb00b40f51b6836164874e2",
-      "title": "Europe Will Defend Itself ‘With Blood, if Necessary,’ Macron Says",
-      "summary": "France’s president, Emmanuel Macron, spoke before a meeting of more than 25 allies in Paris, in a show of support for Ukraine and against Russia.",
-      "url": "https://www.nytimes.com/2026/07/13/world/europe/macron-defend-blood-ukraine-europe.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-13T17:57:49+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "show of support for Ukraine and against Russia"
-    },
-    {
-      "id": "2f1c9e819abded20967fbd6888b9135f04c3263e",
-      "title": "France and Germany summon Russian ambassadors over alleged cyber attacks as Macron hosts leaders for Ukraine talks – Europe live",
-      "summary": "French president hosts ‘coalition of the willing’ in Paris amid hopes that Ukraine’s recent advances could force Putin towards negotiationsin KyivMeanwhile, Russia has been forced to suspend shipping in the Sea of Azov a…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/13/emmanuel-macron-keir-starmer-friedrich-merz-volodymyr-zelenskyy-coalition-of-the-willing-ukraine-russia-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-13T11:31:37+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukraine’s recent advances could force Putin towards negotiations"
-    },
-    {
-      "id": "d7b6c4acee3c5ebb31194f1f337899274067eb59",
-      "title": "EU targets Russian intelligence officers accused of running a yearslong cyber spying campaign - Yahoo",
-      "summary": "EU targets Russian intelligence officers accused of running a yearslong cyber spying campaign&nbsp;&nbsp;YahooUK and EU strike Russian cyber networks with new sanctions&nbsp;&nbsp;GOV.UKFrance and Germany summon Russian…",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLU4yNENpcXVzenNKQlRkQldJZFNVdHVTMXZ6bDRqdTZFTndvTDhvejhJY0FBbng3cU8tQ2ZGTmE4NW1nYUdXaXZMckNnYkNvRXhYbU1uRnFmRjkxOTl2TEJZeTdqbDJFcEszSEw2RzRwdHdhYkJzTkgyQ0NVQVVaZFZFY2pLY3BzX01pNDRTWXVuMVFkNjVlRmxETzVadw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-13T09:32:56+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Macron hosts leaders for Ukraine talks"
-    },
-    {
-      "id": "58b0a914daafe8afbde74e6187a3188a7910c883",
-      "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
-      "summary": "The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly “America First” political orbit.",
-      "url": "https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-13T09:10:17+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukraine Loses an Ally"
-    },
-    {
-      "id": "9d79a5158011712e12ff921519bb511556487f3b",
-      "title": "The Next Phase in Ukraine’s War With Russia: The Battle for Minds",
-      "summary": "Ukrainians, already drone innovators, are turning their focus to psychological operations aimed at undercutting Russian support for the war.",
-      "url": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-war-russia-cognitive-warfare.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-13T09:02:08+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukrainians, already drone innovators, are turning their focus"
-    },
-    {
-      "id": "101d40454b52b4359ed1cdb7dd9f73653a94da12",
-      "title": "Ukrainian Drone Strike Sparks Fire At Industrial Zone In Russia",
-      "summary": "Ukraine has been striking Russia, particularly energy targets",
-      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-ukrainian-drone-strike-sparks-fire-in-russias-industrial-zone-stavropol-11762900#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-13T02:00:45+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukrainian Drone Strike Sparks Fire At Industrial Zone In Russia"
-    },
-    {
-      "id": "a914add8b647245f7443d1eaa76fd191fe680af8",
-      "title": "Russia planning to make sarcastic use of international courts against Baltics / Article - LSM",
-      "summary": "Russia planning to make sarcastic use of international courts against Baltics / Article&nbsp;&nbsp;LSMBaltic states summon Russian envoys over false deportation claims&nbsp;&nbsp;EuronewsBaltic states: Russian claims of…",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON0kteW15YzRoby0wdWxjVDlUTjdia2NvVWsxd19HeVNQakhKaG5CT0ttRUI1ZFRwaXBWZHVFMVNiYjIzdDBGbklVemF5b0VZNEl0TFYzT2VSZVlqd0x3OUhkSXdwR0R3VEhrdDVLX3JYZ3VrY1dfV0NpQ0tKMktOZXVqSEU3aExHelFhb3BYTTBOSEpHZ19XdG14YU80MjlNV3ZpaHpUcGFYMlNLQkV5Z2JFNGEzRzVPSTJlb0tCQUhMaFU3T0hnSUlCZExTcWdLSlZSbEZQYlc3S0U?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-13T01:23:12+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Russian claims of corridor for Ukrainian drones are false... Ukraine's Long-Range Strikes"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-16T11:15:39Z"
+  "last_updated": "2026-07-17T11:02:45Z"
 }
