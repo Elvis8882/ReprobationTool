@@ -1,16 +1,38 @@
 {
   "country": "UA",
-  "score": 41,
+  "score": 40,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 2,
-  "sources": 692,
+  "trend": -1,
+  "sources": 690,
   "sentiment": {
-    "positive": 311,
-    "neutral": 142,
+    "positive": 308,
+    "neutral": 143,
     "negative": 240
   },
   "latest_articles": [
+    {
+      "id": "4a4c0be58ea9e58b92945bb9af6f4c9e832623e6",
+      "title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
+      "summary": "Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen. Oleksandr Syrskyi.",
+      "url": "https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-19T07:13:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ukraine’s Top General Becomes a Target of Protesters’ Anger"
+    },
+    {
+      "id": "e492fd47f9180adb51d62433e48b8239f5c2aad6",
+      "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+      "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-18T23:59:26+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukra"
+    },
     {
       "id": "ad186a629dd3d8f50cfdfdf6b169b6c99b2ff2e9",
       "title": "The Rise and Fall of Ukraine’s Drone Warfare Mastermind",
@@ -166,6 +188,17 @@
       "evidence": "aims to refresh leadership...sparked protests and criticism"
     },
     {
+      "id": "a037d988b9ca0495268a8ecc72e3bdd4903088eb",
+      "title": "Mass Protests Across Ukraine Oppose Ouster of Defense Minister",
+      "summary": "Demonstrators demanded the reinstatement of Mykhailo Fedorov, who had come to symbolize Ukraine’s success in using drones to strike back against Russia.",
+      "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-16T09:56:04+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.7,
+      "evidence": "Protests Oppose Ouster of Defense Minister; Ukraine’s success"
+    },
+    {
       "id": "23bb5e1a9d36157e2c6ea3f1cdb936134b6af4cf",
       "title": "Ukrainians take to the streets after Zelenskyy ousts defense minister in surprise shake-up",
       "summary": "Ukrainian protesters took to the streets of Kyiv on Thursday, decrying Zelenskyy's surprise decision to dismiss Defense Minister Mykhailo Fedorov.",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "dismisses Ukraine’s defence minister on eve of Starmer visit"
-    },
-    {
-      "id": "d8941a01765fa2f8d54de3771501d329b115109d",
-      "title": "Latvia has initiated a criminal case against Belarusian border guards - Inbox.eu",
-      "summary": "Latvia has initiated a criminal case against Belarusian border guards&nbsp;&nbsp;Inbox.euLatvia logs 111 straight days of migrants pushed across from Belarus—and blames its support for Ukraine&nbsp;&nbsp;Euromaidan Press…",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd1dEOVpHYVR5N21DOXNiNnJ0a2lTaXBLSHpDVVdGMzdLWWtRWmkwT2xaTnE4VHFVbjhuMXNrZDNDMjVoNFZPVWRkcm80M2FNZG5mZWRqNXBPTWk5QnQ5MlFqVGt0eGlzb0hmTEt1WmJtVGtMQjFCNld6RjRFZ1I4M3VIWDFHSExhbFIzSHJMMTU3eWYwc1NCWC1jeDIwYlF0RWlha29Scm12dUdkaDNraw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-15T16:45:21+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "blames its support for Ukraine"
-    },
-    {
-      "id": "a9fa473c092fd0c75a85328adb188db357ef68df",
-      "title": "Three killed as Russian bombing of Odesa continues",
-      "summary": "In recent days, Russia and Ukraine have launched attacks on each others' infrastructure for shipping goods.",
-      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-15T10:17:38+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine have launched attacks on each others' infrastructure"
-    },
-    {
-      "id": "c9a39d4c2ccc1738d483bfd28dde91684959908e",
-      "title": "Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea",
-      "summary": "After striking roads and railways, Kyiv is now focusing on sea routes as it tries to disrupt fuel supplies and pressure Russia to end the war.",
-      "url": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-russia-crimea-azov-sea.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-15T09:38:52+00:00",
-      "sentiment": "positive",
-      "confidence": 1.0,
-      "evidence": "Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-18T10:30:34Z"
+  "last_updated": "2026-07-19T10:47:45Z"
 }
