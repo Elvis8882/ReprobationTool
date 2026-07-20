@@ -1,16 +1,26 @@
 {
   "country": "BE",
-  "score": 91,
+  "score": 92,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 349,
+  "trend": 1,
+  "sources": 341,
   "sentiment": {
-    "positive": 46,
-    "neutral": 267,
-    "negative": 36
+    "positive": 44,
+    "neutral": 263,
+    "negative": 34
   },
   "latest_articles": [
+    {
+      "id": "167fba563426d0e8f2d6891413740ac26f6dcbae",
+      "title": "AliExpress fined record €550m by EU for failing to stop sale of illegal and fake goods",
+      "summary": "Chinese retail platform handed penalty over listings for items such as counterfeit products and unsafe toysBusiness live – latest updatesThe Chinese online retail platform AliExpress has been fined a record €550m (£470m)…",
+      "url": "https://www.theguardian.com/business/2026/jul/20/aliexpress-fined-by-eu-sale-of-illegal-fake-goods",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-20T10:56:16+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "2540ad91a166f06a5edd390a16222db37248f517",
       "title": "Europe’s most effective tool to cut greenhouse gas emissions ‘risks being weakened’",
@@ -209,19 +219,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Trump taunted over Balogun saga after USA crash out of World Cup"
-    },
-    {
-      "id": "f1b65af9ca17348d29ac102e6840f80cf79ee7ff",
-      "title": "\"Therapy Night\": When European Leaders Discussed Trump's Greenland Threats",
-      "summary": "European leaders hold a secret emergency meeting in Brussels over US Greenland threats.",
-      "url": "https://www.ndtv.com/world-news/when-european-leaders-discussed-trumps-greenland-threats-therapy-night-11737116#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-07T06:51:54+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "European Leaders Discussed Trump's Greenland Threats"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-19T10:47:45Z"
+  "last_updated": "2026-07-20T11:58:42Z"
 }

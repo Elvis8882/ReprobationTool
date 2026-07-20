@@ -1,16 +1,27 @@
 {
   "country": "JO",
-  "score": 63,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
-  "trend": -2,
-  "sources": 29,
+  "score": 88,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
+  "trend": 25,
+  "sources": 36,
   "sentiment": {
     "positive": 5,
-    "neutral": 11,
-    "negative": 13
+    "neutral": 12,
+    "negative": 19
   },
   "latest_articles": [
+    {
+      "id": "9a7f8b7533256b90079a3ac20500a345db2552f0",
+      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+      "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
+      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-20T11:18:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Iran responded with attacks in Syria and Jordan"
+    },
     {
       "id": "4d439e5b5480e51da3593821de87bdf19150cbd2",
       "title": "Middle East crisis live: US launches new round of airstrikes to ‘swiftly punish’ Iran after American troops killed",
@@ -34,6 +45,39 @@
       "evidence": "Iranian strike on Jordan"
     },
     {
+      "id": "fdf722c98f4c690924b7cc897b124541774c8ea9",
+      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "summary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-19T05:10:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "two US soldiers killed in Jordan"
+    },
+    {
+      "id": "2a2417f69b2fb89930d56291c711c5422e182c06",
+      "title": "Two US troops killed and one missing in Jordan after Iranian attacks",
+      "summary": "Sirens sound in Bahrain and Kuwait accuses Tehran of targeting civilian sites and infrastructure as Iran strikes US alliesThe US retaliated against Iran’s Revolutionary Guard (IRGC) after two American troops were killed…",
+      "url": "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-19T04:41:49+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Two US troops killed and one missing in Jordan after Iranian attacks"
+    },
+    {
+      "id": "2c9d70afe3cea030f1ce83408232dc08c7d460ec",
+      "title": "US launches fresh airstrikes on Iran after attack on American troops in Jordan",
+      "summary": "United States forces launched new airstrikes against Iran on President Donald Trump's orders.  These strikes aim to degrade Iran's ability to threaten commercial shipping.  The operation also retaliates for recent attack…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-launches-fresh-airstrikes-on-iran-after-attack-on-american-troops-in-jordan/articleshow/132488646.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-07-18T23:10:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "attack on American troops in Jordan"
+    },
+    {
       "id": "b233e621dcf431bd2975c3072adbb819336e4981",
       "title": "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
       "summary": "Four Iranian attacks in five days have targeted U.S. troops in Jordan, U.S. officials said, including one on Friday that killed two soldiers and left another service member missing.",
@@ -43,6 +87,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Jordan Is Becoming a New Focus in the U.S.-Iran War"
+    },
+    {
+      "id": "33633af9f175ba4dc9a2ca5b4c174bd2034ef781",
+      "title": "U.S. strikes Iran after 2 service members killed, 1 missing in attack on Jordan base",
+      "summary": "The attacks mark the eighth consecutive day that U.S. forces have bombed Iran. The latest fatalities pushed the American military death toll from the conflict to 16.",
+      "url": "https://www.washingtonpost.com/world/2026/07/18/iran-us-strikes-widen-fighting-hits-critical-infrastructure/",
+      "source": "World (Washington post)",
+      "published_at": "2026-07-18T22:57:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "attack on Jordan base"
     },
     {
       "id": "0357d9b7b0846a019ecb9634f9a9c91ee3e1489e",
@@ -56,6 +111,17 @@
       "evidence": "Deaths of 2 U.S. Troops in Jordan Brings American Toll in the War With Iran to 16"
     },
     {
+      "id": "7fcebfea34417774596c6d1de9d98d5f712f2cae",
+      "title": "2 US Soldiers Killed, 1 Missing After Iranian Strikes On Jordan",
+      "summary": "Pentagon said that service member is currently missing.",
+      "url": "https://www.ndtv.com/world-news/2-us-soldiers-killed-1-missing-after-iranian-strikes-on-jordan-11789963#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-18T17:52:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Iranian Strikes On Jordan"
+    },
+    {
       "id": "3d4e7ddc8ccaf9045ae09f6069fe66671da572ea",
       "title": "US-Iran War News LIVE: Iran Says Struck US Aircraft In Jordan With Missiles, Drones",
       "summary": "US-Iran War News LIVE: The US-Iran tensions have escalated in recent days",
@@ -65,6 +131,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Struck US Aircraft In Jordan With Missiles, Drones"
+    },
+    {
+      "id": "6568a45c1dbba47ece17eda4e52f229bd16431c1",
+      "title": "US strikes expand to northern Iran as Tehran fires on Bahrain, Kuwait and Jordan – Middle East crisis live",
+      "summary": "Iran reports explosions in several cities including capital while US military says it also hit and disabled tanker in strait of Hormuz US attacks oil tanker in strait of Hormuz as strikes reported in TehranThe Lebanese f…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-16T10:40:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": ""
     },
     {
       "id": "11d1040db56d49e2eb45fb82f300c27f28a3cf63",
@@ -153,85 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Austria see off World Cup debutants Jordan"
-    },
-    {
-      "id": "c99f4f2649b79e8a17907913ecd50b923eac4804",
-      "title": "US-Iran deal may get oil flowing again, but region’s root problems are unsolved",
-      "summary": "Few analysts believe final settlement can be reached in 60 days – and even if it is, war and instability could soon returnIn much of the Middle East, news that the US and Iran had come to a fragile agreement was greeted…",
-      "url": "https://www.theguardian.com/world/2026/jun/15/us-iran-ceasefire-respite-true-peace-distant",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-16T07:35:56+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Jordanian engineer"
-    },
-    {
-      "id": "f2ab450ee66c8929c7b7a42ad51b0e6f250fca52",
-      "title": "US and Iran exchange strikes across Middle East for second day in a row",
-      "summary": "Iran says it responded to US strikes by targeting American assets in Kuwait, Jordan and Bahrain, which reported damage to its capital city overnight.",
-      "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-06-11T12:09:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "targeting American assets in Kuwait, Jordan"
-    },
-    {
-      "id": "459c9a7d00c87fa2c4ac2630d4e8a3c69fc72983",
-      "title": "Iran targets U.S. bases for a second night, raising fears of renewed combat",
-      "summary": "Iran said it launched the attacks in Kuwait, Bahrain and Jordan in response to U.S. strikes that it claimed effectively rendered the April ceasefire “meaningless.”",
-      "url": "https://www.washingtonpost.com/world/2026/06/11/iran-targets-five-us-bases-raising-fears-return-all-out-war/",
-      "source": "World (Washington post)",
-      "published_at": "2026-06-11T12:06:12+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Iran said it launched the attacks in Kuwait, Bahrain and Jordan"
-    },
-    {
-      "id": "6a3d91ab6d105a418e8fce2cd5e758be0c2abe2e",
-      "title": "US and Iran exchange strikes for second day, as ceasefire appears close to collapse",
-      "summary": "Explosions reported across Iran after Donald Trump vowed to ‘hit them hard again’, with Bahrain, Kuwait and Jordan targeted by TehranMiddle East crisis – live updatesThe US launched a new round of airstrikes on Iran into…",
-      "url": "https://www.theguardian.com/world/2026/jun/10/middle-east-peace-talks-iran-strikes",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-11T05:45:46+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Jordan targeted by Tehran"
-    },
-    {
-      "id": "2f78325cd67b1e60418299fae9e100d0c31d2ded",
-      "title": "Trump launches strikes against Iran after downing of US army helicopter",
-      "summary": "US president blames Tehran for loss of Apache gunship, whose crew were rescued  by a drone near strait of HormuzMiddle East crisis – live updatesThe US has launched strikes against Iran after Donald Trump blamed Tehran f…",
-      "url": "https://www.theguardian.com/us-news/2026/jun/09/trump-blames-iran-for-downing-of-army-helicopter-and-says-us-must-respond",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-10T05:39:58+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Tehran saying it had targeted Kuwait, Bahrain and Jordan."
-    },
-    {
-      "id": "555377f08b8301a640cc16ea05fb0faf4cdb7a6d",
-      "title": "Middle East crisis live: Iran’s Revolutionary Guards warn of war ‘beyond the region’ if US resumes attacks",
-      "summary": "IRGC comments come after Trump says he could strike Iran while insisting that Tehran still wants to make a dealTrump threatens ‘a big hit’ if Tehran does not make deal soonThe Jordanian military announced it had shot dow…",
-      "url": "https://www.theguardian.com/world/live/2026/may/20/us-iran-israel-lebanon-gaza-trump-oil-hormuz-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-20T11:25:25+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Jordanian military announced it had shot down a drone"
-    },
-    {
-      "id": "4a64c5793cdd924f0c9d4a134d21c20eb89413dc",
-      "title": "The secret mission to rescue the UN’s vital Palestinian refugee archive",
-      "summary": "Millions of documents chronicling generations of trauma saved from Gaza and East Jerusalem in 10-month Unrwa operationEast Jerusalem to Amman should have been an easy trip: a short drive down to the Dead Sea, across the…",
-      "url": "https://www.theguardian.com/world/2026/may/14/secret-mission-palestinian-refugee-archive-unrwa-israel",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-14T04:00:16+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "swiftly on to the Jordanian capital"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-19T10:47:45Z"
+  "last_updated": "2026-07-20T11:58:42Z"
 }

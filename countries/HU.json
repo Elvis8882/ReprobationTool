@@ -1,16 +1,37 @@
 {
   "country": "HU",
-  "score": 95,
+  "score": 96,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 252,
+  "trend": 1,
+  "sources": 249,
   "sentiment": {
     "positive": 24,
-    "neutral": 208,
-    "negative": 20
+    "neutral": 206,
+    "negative": 19
   },
   "latest_articles": [
+    {
+      "id": "167fba563426d0e8f2d6891413740ac26f6dcbae",
+      "title": "AliExpress fined record €550m by EU for failing to stop sale of illegal and fake goods",
+      "summary": "Chinese retail platform handed penalty over listings for items such as counterfeit products and unsafe toysBusiness live – latest updatesThe Chinese online retail platform AliExpress has been fined a record €550m (£470m)…",
+      "url": "https://www.theguardian.com/business/2026/jul/20/aliexpress-fined-by-eu-sale-of-illegal-fake-goods",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-20T10:56:16+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "5cb37f166a7178e65247569460a0d798313bf0ae",
+      "title": "Hungary’s president agrees to stand down after law change ends his term",
+      "summary": "Tamás Sulyok signed the constitutional amendment that cited ‘serious loss of confidence’ in him as leader Hungary’s president, Tamás Sulyok, has agreed to step down after signing a constitutional amendment passed by the…",
+      "url": "https://www.theguardian.com/world/2026/jul/18/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-18T22:17:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Hungary’s president agrees to stand down after law change"
+    },
     {
       "id": "a6a3a34900a7f72b72dddf6bff1c0a74082c2e77",
       "title": "Hungary's president agrees to stand down after parliament backs removal",
@@ -41,6 +62,17 @@
       "published_at": "2026-07-17T15:48:47+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "e086eba620186ba4d65fa82050403a6ebc2d4207",
+      "title": "HUN-REN Researchers Use Viruses to Fight Bacterial Infections in Major European Study - Hungary Today",
+      "summary": "HUN-REN Researchers Use Viruses to Fight Bacterial Infections in Major European Study&nbsp;&nbsp;Hungary Today",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeWxsV0JHVUlRcmF0Z1BXMzBZajBsNmJrb0doSDJDSTVPRWl3R05CYko5WElpZmdaSDJhZmRGaWpFallFZEU5bFVueW1FNFMtb1ZKa2dKNVhZRlBONjgyRXR4Y2dURlFIdkt2SzE3OWpLUFNjdUFEdXoySHM3UnFacGxrb3lfN240NWpWVWowQzEyeExpT2Q3M2NoU0w1UjRld25JOUtHRnpqaFZqN053?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-17T08:31:34+00:00",
+      "sentiment": "positive",
+      "confidence": 0.5,
+      "evidence": "Researchers Use Viruses to Fight Bacterial Infections in Major European Study"
     },
     {
       "id": "7f25fda662c65edb866282c827a69870d44fec96",
@@ -187,38 +219,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Hungary's New Indie Game Label Launching Its First Season"
-    },
-    {
-      "id": "fbd7cb5420645af6ef454c43a6775ef9813c4f47",
-      "title": "Spyware used against MEP investigating Pegasus abuses, report finds",
-      "summary": "Researchers say Stelios Kouloglou’s device was compromised after he joined European parliamentary committeeNSO Group’s hacking software was repeatedly used against a member of the European parliament while he was conduct…",
-      "url": "https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-03T05:00:20+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "7f258754367a92c1ae05c83b0862f36b18283734",
-      "title": "Google loses fight over record $4.7 billion EU antitrust fine",
-      "summary": "In 2018, the European Commission slapped Google with the record-breaking penalty on the grounds that it abused Android's mobile dominance.",
-      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-07-02T11:13:36+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "9a1f00ed389dc0c27ba7cbca65c38441a8662828",
-      "title": "Call to suspend new EU border system in peak holiday period as planes leave half full",
-      "summary": "Airlines and airports say passengers are struggling in queues of up to five hours for biometric checksAirlines and airports have called for the new EU biometric border check system to be suspended during the peak summer…",
-      "url": "https://www.theguardian.com/business/2026/jul/01/call-to-suspend-eu-border-system-peak-holiday-period-europe-travel-airport-queues",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-01T08:08:19+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-19T10:47:45Z"
+  "last_updated": "2026-07-20T11:58:42Z"
 }

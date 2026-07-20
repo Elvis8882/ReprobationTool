@@ -1,16 +1,27 @@
 {
   "country": "SY",
-  "score": 84,
+  "score": 83,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 51,
+  "trend": -1,
+  "sources": 52,
   "sentiment": {
     "positive": 2,
     "neutral": 26,
-    "negative": 23
+    "negative": 24
   },
   "latest_articles": [
+    {
+      "id": "9a7f8b7533256b90079a3ac20500a345db2552f0",
+      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+      "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
+      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-20T11:18:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Iran responded with attacks in Syria and Jordan"
+    },
     {
       "id": "584991f3f0365f786a658d024fa9a83246adacdb",
       "title": "First Thing: US attacks tanker in continuing Iran conflict as Tehran releases US citizen",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "end protected status for Haitian and Syrian immigrants"
-    },
-    {
-      "id": "3e33834443b7c0b84b62e7a68fbe37534e289234",
-      "title": "After Supreme Court TPS Ruling, What Conditions May Haitian and Syrian Deportees Face?",
-      "summary": "The Supreme Court ruled that the Trump administration could end humanitarian protections for many Haitians and Syrians in the United States, clearing the way for their potential deportation.",
-      "url": "https://www.nytimes.com/2026/06/25/world/americas/haitians-syrians-deportations-us.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-25T21:08:42+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Syrian Deportees Face Conditions After Supreme Court Ruling"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-19T10:47:45Z"
+  "last_updated": "2026-07-20T11:58:42Z"
 }

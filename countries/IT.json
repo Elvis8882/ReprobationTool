@@ -4,13 +4,45 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 385,
+  "sources": 383,
   "sentiment": {
-    "positive": 34,
-    "neutral": 314,
+    "positive": 33,
+    "neutral": 313,
     "negative": 37
   },
   "latest_articles": [
+    {
+      "id": "45da51ee70eae605ffdda19b05cf08b829bd6c73",
+      "title": "Meet Brunello Cucinelli: The billionaire building a Universal Library in Italy for the next 1,000 years with free access to humanity's greatest books, inspired by the ancient Library of Alexandria",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/meet-brunello-cucinelli-the-billionaire-building-a-universal-library-in-italy-for-the-next-1000-years-with-free-access-to-humanitys-greatest-books-inspired-by-the-ancient-library-of-alexandria/articleshow/132513750.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-07-20T11:18:21+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "building a Universal Library in Italy for the next 1,000 years"
+    },
+    {
+      "id": "167fba563426d0e8f2d6891413740ac26f6dcbae",
+      "title": "AliExpress fined record €550m by EU for failing to stop sale of illegal and fake goods",
+      "summary": "Chinese retail platform handed penalty over listings for items such as counterfeit products and unsafe toysBusiness live – latest updatesThe Chinese online retail platform AliExpress has been fined a record €550m (£470m)…",
+      "url": "https://www.theguardian.com/business/2026/jul/20/aliexpress-fined-by-eu-sale-of-illegal-fake-goods",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-20T10:56:16+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "ccaaa7ee4e619c3c86de0ab341f3deb8cc9000a2",
+      "title": "Barnaby Joyce says One Nation doesn’t want return of White Australia policy but backs Pauline Hanson on mass deportations",
+      "summary": "Lee Hanson claims her mother’s comments on Tommy Robinson podcast were ‘misinterpreted’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastBarnaby Joyce says P…",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/20/barnaby-joyce-one-nation-white-australia-policy-pauline-hanson-ntwnfb",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-20T06:59:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "backed her support for “mass deportations” of those overstaying their visas."
+    },
     {
       "id": "78979f3b877f41f72485d7b5dc5e3adc9e4b3e43",
       "title": "Bad Bunny concert in Milan abandoned because of hailstorm",
@@ -21,6 +53,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Bad Bunny concert in Milan abandoned because of hailstorm"
+    },
+    {
+      "id": "26ad4adc1e80ef68de1bb04ea35e512d838a0208",
+      "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
+      "summary": "Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.",
+      "url": "https://www.nytimes.com/2026/07/18/world/europe/tilman-fertitta-superyacht-italy-ambassador.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-18T04:01:16+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Trump Scraps With Meloni, His Envoy to Italy Is at Sea"
     },
     {
       "id": "2540ad91a166f06a5edd390a16222db37248f517",
@@ -180,50 +223,8 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "helping the continent prepare for wildfires from a giant science park in Italy"
-    },
-    {
-      "id": "8c73f15f54d7a54acdd3114d1903233534d0ee13",
-      "title": "Engineering Students In Italy Build 65-Foot Paper Plane, Set World Record",
-      "summary": "The group said the project involved months of study, simulations, mistakes, and fresh starts.",
-      "url": "https://www.ndtv.com/world-news/engineering-students-in-italy-build-65-foot-paper-plane-set-guinness-record-11752982#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-10T08:26:37+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "Engineering Students In Italy Build 65-Foot Paper Plane"
-    },
-    {
-      "id": "3887629e7d9114d16335b173d1c9f022825b7a25",
-      "title": "Australian Influencer Kidnapped Twice In One Day In Italy, Shares Terrifying Ordeal",
-      "summary": "Stephanie is known for sharing DIY home renovation videos on social media.",
-      "url": "https://www.ndtv.com/world-news/instagram-influencer-kidnapped-twice-in-one-day-in-italy-says-i-just-ran-11752646#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-10T08:10:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Australian Influencer Kidnapped Twice In One Day In Italy"
-    },
-    {
-      "id": "4c4fb1e2a7d150bf027079265634ddd768e99e3a",
-      "title": "After the NATO summit: The road to European leadership in defence - European Union Institute for Security Studies |",
-      "summary": "After the NATO summit: The road to European leadership in defence&nbsp;&nbsp;European Union Institute for Security Studies |Europe has promised cash for defence. It’s failing to provide it&nbsp;&nbsp;The EconomistEuropea…",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSU9ET2tsMzNPdGg0elY2NHhRalhjSV9LNjA3R2VnY0NQNGF3aUhMdzJhMHdwQTJpN0hyMElwYVVpbUdJSE5KdG1ibk1JbUdYdUdNTmczaGoxTHpWT0cwYjZubjlJeGhtOVAzVms3Z0hrTEptUmpnNm05RlVmTXVfdmJYWEZ6SzZ2am56MlM4WXRkVkJGWC11enZKNDNNYmJpUHc?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-09T14:15:26+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f0d42565bf47e6f5a0ebcf8d9461180be6e2b835",
-      "title": "Trump Lashes Out at Spain: ‘Cut Off All Trade.’ Here’s Why That’s Unlikely.",
-      "summary": "A move against Spain would face political, legal and practical issues and probably provoke a wider trade war with the European Union. It could also roil markets.",
-      "url": "https://www.nytimes.com/2026/07/08/world/europe/trump-spain-trade-us-iran-nato.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-08T18:07:31+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-19T10:47:45Z"
+  "last_updated": "2026-07-20T11:58:42Z"
 }

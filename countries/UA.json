@@ -1,16 +1,82 @@
 {
   "country": "UA",
-  "score": 40,
+  "score": 35,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 690,
+  "trend": -5,
+  "sources": 692,
   "sentiment": {
-    "positive": 308,
-    "neutral": 143,
-    "negative": 240
+    "positive": 304,
+    "neutral": 144,
+    "negative": 245
   },
   "latest_articles": [
+    {
+      "id": "e50b512db537a40ed7c01d9fb15a04dcb2aa3d51",
+      "title": "Why are Ukraine's military recruiters facing violence in their own country?",
+      "summary": "The latest National Police Service report recorded more than 600 assaults on recruitment officers to date and warned that the aggression has become “increasingly threatening”.",
+      "url": "https://www.bbc.co.uk/news/videos/c0kmjy02rxko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-20T08:21:09+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Ukraine's military recruiters facing violence in their own country?"
+    },
+    {
+      "id": "3f922cb4fd8843c6c7b7edd432b9b637eb6bb812",
+      "title": "Russia pounds Kyiv as NATO military chief warns Moscow would 'lose a lot' by attacking Baltics",
+      "summary": "Russia and Ukraine traded their heaviest strikes in months, fueling fears of escalation and further strain on oil supplies.",
+      "url": "https://www.cnbc.com/2026/07/20/nato-russia-ukraine-war-missile-attacks-drone-europe-defense-.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-20T04:49:24+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Ukraine traded their heaviest strikes in months"
+    },
+    {
+      "id": "23e2ec7d5c93efbaf0e48fe792a3ff2971485f89",
+      "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+      "summary": "Aggression against recruitment officers has become increasingly threatening, police say.",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-20T00:19:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Struggle to recruit soldiers in Ukraine turns violent"
+    },
+    {
+      "id": "f4bd263aa05900d86c9e4c45c0a57031e4457510",
+      "title": "Russia launches major ballistic missile attack on Kyiv",
+      "summary": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-19T09:54:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia launches major ballistic missile attack on Kyiv"
+    },
+    {
+      "id": "70a02dddf54b1ba40e9a7b57a31548d86a1aa21d",
+      "title": "Russia Batters Kyiv in Overnight Attack",
+      "summary": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.",
+      "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-19T09:43:50+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Ukraine hit two warehouses in Russia"
+    },
+    {
+      "id": "9c68651e2ad1ac26aa79fde9be815f4eaf779d1c",
+      "title": "Ukraine Release Video Of Bombing In Monaco That Injured Tycoon, His Family",
+      "summary": "The June 30 attack deeply shook the discreet and ultra-wealthy principality on the Mediterranean coast.",
+      "url": "https://www.ndtv.com/world-news/ukraine-release-video-of-bombing-in-monaco-that-injured-tycoon-vadym-yermolaiev-his-family-11791395#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-19T08:50:45+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Ukraine Release Video Of Bombing In Monaco That Injured Tycoon"
+    },
     {
       "id": "4a4c0be58ea9e58b92945bb9af6f4c9e832623e6",
       "title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
@@ -56,6 +122,17 @@
       "evidence": "Ukrainian soldiers outraged over removal of defence minister"
     },
     {
+      "id": "f818189b1aa3519c177f91e14e7e2fd4dcd77059",
+      "title": "Dismissal of Ukraine’s defence minister highlights wider issues for Zelenskyy",
+      "summary": "Mykhailo Fedorov, celebrated by many for innovative, tech-driven approach, was sidelined for military old guardVolodomyr Zelenskyy’s abrupt dismissal of Ukraine’s youthful and innovative defence minister, Mykhailo Fedoro…",
+      "url": "https://www.theguardian.com/world/2026/jul/17/dismissal-ukraine-defence-minister-mykhailo-fedorov-volodomyr-zelenskyy",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-17T13:42:25+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.6,
+      "evidence": "startled senior European officials and caused consternation"
+    },
+    {
       "id": "eadbe6aede2844803a335af20f93fc2da56e6448",
       "title": "The 20-Somethings Running Ukraine’s War Machine",
       "summary": "A new generation has been cutting red tape to speed weapons to the front. But the old guard pushed back, and now Ukraine’s young defense minister is out.",
@@ -65,6 +142,17 @@
       "sentiment": "mixed",
       "confidence": 0.8,
       "evidence": "cutting red tape to speed weapons to the front. But the old guard pushed back"
+    },
+    {
+      "id": "736722c76ff18237ca2749e48c1b000fc126da6a",
+      "title": "VIDEO | Ukraine planned to attack Russia, Simonyan claims in attempt to justify war - Baltic News Network",
+      "summary": "VIDEO | Ukraine planned to attack Russia, Simonyan claims in attempt to justify war&nbsp;&nbsp;Baltic News Network",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmRzbEhwNUVpb3F6MWpjVUtSMTc4SmdQdnByMGhKUkpMQ2VpdmloWHdXXzZlTElWRU9zRGhKTXFYZ1JOc09xZGVzakEwZi1NYnRrVnV3SkF3UHlRRTNybTlhVVpBclozdjlWMG1VQnNqY01CaVJwdV92MTU4bnNwYVVQTWdxLUIwTjY2VVY1eW9WVGxqdC1wQ0VzYi15aWRzb3dULTRRRXk3SnZZ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-17T10:00:10+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ukraine planned to attack Russia"
     },
     {
       "id": "78708f08b4c3282f180c9d8c1578cb22e5488cde",
@@ -142,96 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Deal on new EU defence programme puts SMEs and Ukraine at the heart of Europe’s security"
-    },
-    {
-      "id": "d063d01484b247a668564a784e4f5711da0c5f38",
-      "title": "Zelenskyy faces outrage over defence minister sacking as Starmer makes farewell Ukraine visit as UK PM – Europe live",
-      "summary": "Arrival of outgoing British leader in Ukraine comes as Zelenskyy faces outrage after removing Mykhailo Fedorovin MadridMeanwhile, the EU’s top court has ruled that a controversial Spanish law that offered an amnesty to t…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/16/europe-ukraine-russia-zelenskyy-starmer-macron-merz-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-16T10:47:13+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Zelenskyy faces outrage over defence minister sacking"
-    },
-    {
-      "id": "8c0adc78466fccc6604be1607c8ab01cbc6dda2b",
-      "title": "Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
-      "summary": "Mykhailo Fedorov announced he was leaving the ministry on Wednesday after conflicts with generals and military contractors over the role of innovative weaponry.",
-      "url": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-16T10:27:12+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukraine’s Minister of Defense... Is Forced Out"
-    },
-    {
-      "id": "d261379b14a0f37b36c8f809e27fca99884b17c3",
-      "title": "What to Know About Mykhailo Fedorov, Ukraine’s Ousted Defense Minister",
-      "summary": "Mr. Fedorov became the youthful face of Ukraine’s successful drone warfare program. The move to replace him has prompted street protests.",
-      "url": "https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-16T10:27:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Ukraine’s Ousted Defense Minister...prompted street protests"
-    },
-    {
-      "id": "d1ee91f5183ee7b0e4eaf516d7903823d0955b2e",
-      "title": "Ukraine gets new PM: Parliament approves Serhii Koretskyi amid cabinet shuffle",
-      "summary": "Ukraine's parliament approved Serhii Koretskyi as the new prime minister on Thursday. This appointment follows the resignation of former prime minister Yulia Svyrydenko. President Zelenskyy cited Koretskyi's energy secto…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/ukraine-gets-new-pm-parliament-approves-serhii-koretskyi-amid-cabinet-shuffle/articleshow/132435600.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-07-16T10:02:12+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.8,
-      "evidence": "aims to refresh leadership...sparked protests and criticism"
-    },
-    {
-      "id": "a037d988b9ca0495268a8ecc72e3bdd4903088eb",
-      "title": "Mass Protests Across Ukraine Oppose Ouster of Defense Minister",
-      "summary": "Demonstrators demanded the reinstatement of Mykhailo Fedorov, who had come to symbolize Ukraine’s success in using drones to strike back against Russia.",
-      "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-16T09:56:04+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.7,
-      "evidence": "Protests Oppose Ouster of Defense Minister; Ukraine’s success"
-    },
-    {
-      "id": "23bb5e1a9d36157e2c6ea3f1cdb936134b6af4cf",
-      "title": "Ukrainians take to the streets after Zelenskyy ousts defense minister in surprise shake-up",
-      "summary": "Ukrainian protesters took to the streets of Kyiv on Thursday, decrying Zelenskyy's surprise decision to dismiss Defense Minister Mykhailo Fedorov.",
-      "url": "https://www.cnbc.com/2026/07/16/ukraine-russia-zelenskyy-crimea-putin.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-07-16T09:32:12+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Ukrainians take to the streets after Zelenskyy ousts defense minister"
-    },
-    {
-      "id": "a4ec26260b97c7f99acd1bdfff77029330ae4bed",
-      "title": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
-      "summary": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-16T09:29:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Protests in Ukraine's cities against Zelensky's removal of defence minister"
-    },
-    {
-      "id": "5041a54df785797908012d718717e06625a21ce6",
-      "title": "Volodymyr Zelenskyy dismisses Ukraine’s defence minister on eve of Starmer visit",
-      "summary": "Mykhailo Fedorov, credited with transforming the ministry, ousted in reshuffle after six months in postVolodymyr Zelenskyy has dismissed Ukraine’s popular defence minister, despite pleas from foreign partners and civil s…",
-      "url": "https://www.theguardian.com/world/2026/jul/15/volodymyr-zelenskyy-dismisses-ukraines-popular-defence-minister",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-16T05:03:15+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "dismisses Ukraine’s defence minister on eve of Starmer visit"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-19T10:47:45Z"
+  "last_updated": "2026-07-20T11:58:42Z"
 }
