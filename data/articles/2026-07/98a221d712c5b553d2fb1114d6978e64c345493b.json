@@ -13,8 +13,15 @@
   "countries_scored": [
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-07-20T11:58:42+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-07-21T11:21:51+00:00",
+  "sentiment_by_country": {
+    "UA": {
+      "label": "neutral",
+      "confidence": 0.4,
+      "evidence": "Zelensky Faces Pressure to Remove Ukraine’s Top General"
+    }
+  },
+  "processed_at": "2026-07-21T11:21:51+00:00"
 }

@@ -1,16 +1,49 @@
 {
   "country": "JO",
-  "score": 88,
+  "score": 84,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 25,
-  "sources": 36,
+  "trend": -4,
+  "sources": 43,
   "sentiment": {
     "positive": 5,
-    "neutral": 12,
-    "negative": 19
+    "neutral": 14,
+    "negative": 24
   },
   "latest_articles": [
+    {
+      "id": "5af657d62ca809eb88f3f81636bf887653cb2c78",
+      "title": "First Thing: Trump urged to end Iran escalation as US deaths and injuries rise",
+      "summary": "Democrats have called for an end to the war’s resumption amid widespread anxiety over climbing casualties. Plus: Ted Lasso’s Hannah Waddingham on finding stardom in her 50sGood morning. Democrats have seized on the killi…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/first-thing-trump-iran-injured-service-members",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-21T10:31:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Jordan said they had activated defences to repel the attacks"
+    },
+    {
+      "id": "d299f4599f1f842f1c09641162ece6287a55566e",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-21T09:48:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "targets in Bahrain and Jordan"
+    },
+    {
+      "id": "5c26de214e0c9827f4ed5219455f9d3eb876cf72",
+      "title": "A Red Sea blockade threatens a new front in U.S.-Iran war",
+      "summary": "After a 10th night of U.S. strikes, Tehran retaliated with fresh attacks in Jordan and Bahrain.",
+      "url": "https://www.washingtonpost.com/world/2026/07/21/red-sea-blockade-threatens-new-front-us-iran-war/",
+      "source": "World (Washington post)",
+      "published_at": "2026-07-21T09:41:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "attacks in Jordan"
+    },
     {
       "id": "9a7f8b7533256b90079a3ac20500a345db2552f0",
       "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
@@ -21,6 +54,50 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Iran responded with attacks in Syria and Jordan"
+    },
+    {
+      "id": "0e4f5c08fb5d0f085a407367bc63fed72addb11f",
+      "title": "Another U.S. Service Member Is Killed as Iran War Expands",
+      "summary": "The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said “unidentified remains” were found in Jordan, where an earlier attack had left two soldiers dead and a…",
+      "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
+      "source": "NYT > World News",
+      "published_at": "2026-07-20T10:34:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "found in Jordan, where an earlier attack had left two soldiers dead"
+    },
+    {
+      "id": "57fa1df8487e528cf5420e0ebf6c6010ba7ab3b3",
+      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed - BBC",
+      "summary": "Trump says US strikes hit Iran in 'honour' of American soldiers killed&nbsp;&nbsp;BBCUS bombing of Iran expands as American troops killed and Tehran retaliates against the Gulf states&nbsp;&nbsp;AP NewsTrump says new Ira…",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ncUZlTmlVRTlRajA5ZlVWRURzQkR4MTk4TUlKdURpVml0TUcxS1F4ZEtKM3NCcUFkczAyVE5MWG9oTkpYbk11Y2F1M2ZKZE11UDRQMmtxNVJVQQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-20T06:31:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "killed in Jordan, Iraq attacks"
+    },
+    {
+      "id": "9d1ca5a294313eeb6f55bdccae51aba46e9910d3",
+      "title": "US says another troop killed as Israel warns Tehran’s attacks coming close",
+      "summary": "US military says service member was killed in Iraq during ‘controlled detonation’ as it launches more airstrikes at IranMiddle East crisis live: follow latest updatesThe US military announced another death of a service m…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-19T20:16:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran fired missiles toward Jordan that risked widening the conflict"
+    },
+    {
+      "id": "b1f5125d0a3e1f8e25af1a4508a41d854c348bfb",
+      "title": "Increased Cooperation With U.S. Has Put Jordan in Iran’s Cross Hairs",
+      "summary": "Jordan’s role in U.S. operations against Iran has grown as other allies in the region have restricted Washington’s ability to use their bases and airspace.",
+      "url": "https://www.nytimes.com/2026/07/19/world/middleeast/iran-war-jordan-us.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-19T18:47:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Increased Cooperation With U.S. Has Put Jordan in Iran’s Cross Hairs"
     },
     {
       "id": "4d439e5b5480e51da3593821de87bdf19150cbd2",
@@ -153,85 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Tehran targeted Bahrain, Jordan and Kuwait."
-    },
-    {
-      "id": "af74de263531db173d9f90da1408b37636da6cf8",
-      "title": "Trump withdraws Hormuz tolls threat but says US will continue to blockade Iran",
-      "summary": "US hits targets in port cities of Bushehr and Bandar Abbas while Iran targets Bahrain and Jordan in retaliation Middle East crisis live – latest updatesDonald Trump has backed down from a threat that ships would have to…",
-      "url": "https://www.theguardian.com/world/2026/jul/14/us-strikes-iran-bahrain-jordan-uae-tankers",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-14T16:50:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Iran targets Bahrain and Jordan in retaliation"
-    },
-    {
-      "id": "c92e0aa355deee5409398b0044fc6b04f44b1bd7",
-      "title": "US launches new wave of strikes against Iran as Tehran says diplomacy has proven ‘futile’",
-      "summary": "American and Iranian forces exchange heavy missile and drone attacks over control of strait of Hormuz, increasing pressure on truceUS and Iranian military forces exchanged heavy missile and drone attacks over the weekend…",
-      "url": "https://www.theguardian.com/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-13T11:35:55+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "hit fuel tanks and ammunition depots at Prince Hassan airbase in Jordan"
-    },
-    {
-      "id": "d9b943ed06734fdfbcbae62422669bcb28942ad6",
-      "title": "Iran attacks Gulf countries following fresh US strikes – Middle East crisis live",
-      "summary": "Jordan, Bahrain, Qatar, Oman and the UAE reportedly came under attack as Tehran says it is closing Strait of HormuzIn a social media post, Qatar’s transport ministry urged all marine vessel owners and users to “temporari…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/12/iran-gulf-us-strikes-jordan-qatar-uae-strait-hormuz-latest-news-updates-live",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-12T09:58:13+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Jordan, Bahrain, Qatar, Oman and the UAE reportedly came under attack"
-    },
-    {
-      "id": "e781a34e9722d8bb691352832ce66f3db8d32789",
-      "title": "Iranian Attacks on Jordan Highlight Kingdom’s Difficult Position",
-      "summary": "Iran’s military said it fired missiles at a Jordanian air base used by American forces. Jordan said it had intercepted missiles entering its air space.",
-      "url": "https://www.nytimes.com/2026/07/09/world/middleeast/jordan-iran-missiles.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-10T01:00:57+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Jordan said it had intercepted missiles"
-    },
-    {
-      "id": "daabe54d0f73f86934dd5f84116eedc5e149b6ac",
-      "title": "Israel Links With Lebanon, United States, Iran, Iraq, Jordan, Bahrain and More in New Middle East Flight Disruption Alert as US-Brokered Framework Faces Pressure, Southern Lebanon Strikes Continue and Airlines Redraw Regional Routes - Travel And Tour World",
-      "summary": "Israel Links With Lebanon, United States, Iran, Iraq, Jordan, Bahrain and More in New Middle East Flight Disruption Alert as US-Brokered Framework Faces Pressure, Southern Lebanon Strikes Continue and Airlines Redraw Reg…",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUNkMyU2NUVDBhSG1DaGFEOEFlMlB5bEpaMU10NVlrTzBoa2xTck5RWmZWbmUxY3NKS2FVYVZyWTZUVEJWQnQ3dTJYRnBSWWFNZnVLTFdFcUFYQnBQdVdvWlJvRW9ZUlNFN2FHeXpR?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-29T08:57:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Israel Links With Lebanon, United States, Iran, Iraq, Jordan"
-    },
-    {
-      "id": "58c4c142f928628a2def0293d4f8f4feba58044c",
-      "title": "Once He Wanted to Lead FIFA. This Is Much Better.",
-      "summary": "Jordan’s arrival at the World Cup is the culmination of decades of patient effort by one man, but also a moment of solidarity for his nation and its diaspora.",
-      "url": "https://www.nytimes.com/2026/06/27/world/middleeast/jordan-prince-ali-al-hussein-world-cup.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-27T13:55:44+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Jordan’s arrival at the World Cup"
-    },
-    {
-      "id": "1f608d21a68a7eddbdd3d0b3895b471471cba8ef",
-      "title": "Marko Arnautovic adds gloss to scoreline as Austria see off World Cup debutants Jordan - The Guardian",
-      "summary": "Marko Arnautovic adds gloss to scoreline as Austria see off World Cup debutants Jordan&nbsp;&nbsp;The GuardianAustria 3-1 Jordan: Arnautovic penalty seals win in thriller - as it happened&nbsp;&nbsp;ESPNWho are the BBC c…",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcXJPaG5YNGhmZUdVM09ZS0xoVWRYTFBuc3lJRGFtcGtzSXlVcUd3bFdxeTVhdVBZd2dDOG9TNEJaVWtCcXBTRzBZUFAxQTc3OE9EeEZIaFkxTkNKZUZ0YUlXOHQwbEo5VTkxRnlXRnhwMDFoTVJRdjd3enlQTEVDUm5WUEVNYm05X1JXX1hrVUtVRExPVUs1SVVn?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-17T12:06:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Austria see off World Cup debutants Jordan"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-20T11:58:42Z"
+  "last_updated": "2026-07-21T11:21:51Z"
 }

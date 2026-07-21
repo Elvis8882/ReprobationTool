@@ -1,16 +1,49 @@
 {
   "country": "IQ",
-  "score": 57,
+  "score": 87,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 42,
+  "trend": 30,
+  "sources": 44,
   "sentiment": {
     "positive": 2,
     "neutral": 23,
-    "negative": 17
+    "negative": 19
   },
   "latest_articles": [
+    {
+      "id": "0e4f5c08fb5d0f085a407367bc63fed72addb11f",
+      "title": "Another U.S. Service Member Is Killed as Iran War Expands",
+      "summary": "The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said “unidentified remains” were found in Jordan, where an earlier attack had left two soldiers dead and a…",
+      "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
+      "source": "NYT > World News",
+      "published_at": "2026-07-20T10:34:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "killed in northern Iraq while troops disposed of an Iranian drone"
+    },
+    {
+      "id": "57fa1df8487e528cf5420e0ebf6c6010ba7ab3b3",
+      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed - BBC",
+      "summary": "Trump says US strikes hit Iran in 'honour' of American soldiers killed&nbsp;&nbsp;BBCUS bombing of Iran expands as American troops killed and Tehran retaliates against the Gulf states&nbsp;&nbsp;AP NewsTrump says new Ira…",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ncUZlTmlVRTlRajA5ZlVWRURzQkR4MTk4TUlKdURpVml0TUcxS1F4ZEtKM3NCcUFkczAyVE5MWG9oTkpYbk11Y2F1M2ZKZE11UDRQMmtxNVJVQQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-20T06:31:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "killed in Jordan, Iraq attacks"
+    },
+    {
+      "id": "9d1ca5a294313eeb6f55bdccae51aba46e9910d3",
+      "title": "US says another troop killed as Israel warns Tehran’s attacks coming close",
+      "summary": "US military says service member was killed in Iraq during ‘controlled detonation’ as it launches more airstrikes at IranMiddle East crisis live: follow latest updatesThe US military announced another death of a service m…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-19T20:16:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "service member was killed in Iraq during ‘controlled detonation’"
+    },
     {
       "id": "958ff79538b9e4fb947babfc0f612c09a570cf0d",
       "title": "BP, ConocoPhillips to back Iraq with major investments as U.S. seeks to weaken Iran's energy hold",
@@ -197,41 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Israel Links With Lebanon, United States, Iran, Iraq, Jordan"
-    },
-    {
-      "id": "7f9d1b4210fb4a5c34202c2eabc9dfcdb8e47703",
-      "title": "Iraqi security forces raid Baghdad Green Zone, arrest MPs in anti-corruption crackdown",
-      "summary": "Baghdad's high-security Green Zone saw a significant crackdown as Iraqi forces arrested politicians and officials in a sweeping anti-corruption drive. Judicial orders led to pre-dawn raids, targeting individuals implicat…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/iraqi-security-forces-raid-baghdad-green-zone-arrest-mps-and-senior-officials-in-anti-corruption-crackdown/articleshow/132048592.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-06-28T09:53:18+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Iraqi security forces raid Baghdad Green Zone, arrest MPs"
-    },
-    {
-      "id": "892eaa0183ba571c2b5f56197b75302e933f5a08",
-      "title": "Shadow war: how use of proxy forces by Iran, Israel and US is driving Middle East instability",
-      "summary": "Across region there is a push to disarm militia and reinforce state authority but the temptation to use proxies remainsAs Marco Rubio ended his brief visit to the Middle East on Friday, he sought to cast in the best poss…",
-      "url": "https://www.theguardian.com/world/2026/jun/28/gulf-us-iran-war-proxies-middle-east",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-28T07:00:03+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "halt its support of Hamas in Gaza, Hezbollah in Lebanon, militia in Iraq"
-    },
-    {
-      "id": "24ce5ad2f29f293cf692cb270b15f93cdc7166d7",
-      "title": "Iraq piles pressure on OPEC over quota dispute after UAE exit",
-      "summary": "Reuters reported that though Iraq had considered leaving OPEC, the ​current plan is to remain a member of the group while seeking a higher output quota.",
-      "url": "https://www.cnbc.com/2026/06/25/iraq-opec-oil-supply-quota-exports-subdued.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-06-25T11:58:16+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Iraq piles pressure on OPEC over quota dispute"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-20T11:58:42Z"
+  "last_updated": "2026-07-21T11:21:51Z"
 }

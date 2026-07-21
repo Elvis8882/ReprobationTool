@@ -4,13 +4,35 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 242,
+  "sources": 239,
   "sentiment": {
     "positive": 6,
-    "neutral": 85,
-    "negative": 151
+    "neutral": 84,
+    "negative": 149
   },
   "latest_articles": [
+    {
+      "id": "31d16025de84b22c16a9c2a7a234ebca2647cf9a",
+      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-21T10:43:48+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal"
+    },
+    {
+      "id": "988938d76cb9055641dff9a273b2769f85388003",
+      "title": "Lebanese Troops Deploy in Israeli-Held Village Under New Cease-Fire Plan",
+      "summary": "The Israeli military withdrew from the village under a U.S.-brokered deal to transfer control of occupied areas back to Lebanon after months of war. But Hezbollah has rejected the truce.",
+      "url": "https://www.nytimes.com/2026/07/21/world/middleeast/lebanon-israel-ceasefire-plan.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-21T10:35:13+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.7,
+      "evidence": "Lebanese Troops Deploy in Israeli-Held Village... Hezbollah has rejected the truce"
+    },
     {
       "id": "6568a45c1dbba47ece17eda4e52f229bd16431c1",
       "title": "US strikes expand to northern Iran as Tehran fires on Bahrain, Kuwait and Jordan – Middle East crisis live",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "displaced Lebanese civilians will not be allowed to return"
-    },
-    {
-      "id": "c36082b73ab6be48b83dfecf02102037eb27de13",
-      "title": "Lebanon-Israel deal may stop war crime victims seeking justice, experts say",
-      "summary": "Agreement could also end hopes of ICC jurisdiction in Lebanon, which advocates pushed for to prosecute IsraelA new agreement between Lebanon and Israel could block victims of Israeli war crimes in Lebanon from pursuing a…",
-      "url": "https://www.theguardian.com/world/2026/jun/27/lebanon-israel-deal-alleged-war-crime-victims-justice-icc",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-27T15:07:58+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "block victims of Israeli war crimes in Lebanon from pursuing accountability"
-    },
-    {
-      "id": "61d5e3d47780f7b05afe2de653b7d6bc61afd1bb",
-      "title": "Netanyahu says Israel to remain in south Lebanon despite US-backed peace framework",
-      "summary": "Israel will keep troops in southern Lebanon until Hezbollah is disarmed, despite a new trilateral agreement with Lebanon and the US aimed at ending conflict. Prime Minister Netanyahu confirmed Israel's commitment to the…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-says-israel-to-remain-in-south-lebanon-despite-us-backed-peace-framework/articleshow/132027509.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-06-27T02:52:55+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "new trilateral agreement with Lebanon and the US"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-20T11:58:42Z"
+  "last_updated": "2026-07-21T11:21:51Z"
 }

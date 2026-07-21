@@ -1,16 +1,48 @@
 {
   "country": "IT",
-  "score": 86,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -2,
   "sources": 383,
   "sentiment": {
     "positive": 33,
-    "neutral": 313,
-    "negative": 37
+    "neutral": 311,
+    "negative": 39
   },
   "latest_articles": [
+    {
+      "id": "bdd44067973a2e400d1a9f2f767b4f29e6003fd0",
+      "title": "Burnham cuts VAT on electricity bills ahead of first cabinet meeting – UK politics live",
+      "summary": "Move is expected to save households around £45 a year but former minister says plan is ‘unfunded’Burnham to cut VAT on electricity bills in first cost-of-living moveAntónio Costa, the president of the European council, s…",
+      "url": "https://www.theguardian.com/politics/live/2026/jul/21/andy-burnham-pm-labour-energy-bills-cost-of-living-cabinet-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-21T10:59:46+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "d9fadf1d442ff84625ab04140708a300e2d51d74",
+      "title": "Protests in Italy after Moroccan man dies pleading for help from police",
+      "summary": "Officers use teargas and water cannon on crowds in Bologna after death of Abderrahim ⁠Fakir under police restraintPolice have clashed with demonstrators during a protest in the Italian city of Bologna after a Moroccan-bo…",
+      "url": "https://www.theguardian.com/world/2026/jul/21/protests-italy-bologna-abderrahim-fakir-police",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-21T10:09:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Protests in Italy after Moroccan man dies pleading for help from police"
+    },
+    {
+      "id": "5f383a4f4fd121b57163a0c96b864589c63057f7",
+      "title": "Outcry in Italy After Man Dies While Being Restrained by Police",
+      "summary": "The death of the man, a Moroccan resident of Italy, set off an outcry across the country and prompted comparisons to the death of George Floyd in the United States.",
+      "url": "https://www.nytimes.com/2026/07/20/world/europe/moroccan-italy-police-death-george-floyd.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-20T17:40:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Outcry in Italy After Man Dies While Being Restrained by Police"
+    },
     {
       "id": "45da51ee70eae605ffdda19b05cf08b829bd6c73",
       "title": "Meet Brunello Cucinelli: The billionaire building a Universal Library in Italy for the next 1,000 years with free access to humanity's greatest books, inspired by the ancient Library of Alexandria",
@@ -31,6 +63,17 @@
       "published_at": "2026-07-20T10:56:16+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "2b6e99bbe9cf83e2b927f18cefaa3bd308d19398",
+      "title": "New York sculptor spent $100,000 to make a Charlie Kirk statue no one wants to buy",
+      "summary": "Sergio Furnari said he thought the lifesize sculpture – which no one commissioned – would raise ‘millions’ of dollarsA New York sculptor has been left furious after spending $100,000 of his own money to build a lifesize…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/sculptor-charlie-kirk-statue-new-york",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-20T10:00:52+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "originally from Italy"
     },
     {
       "id": "ccaaa7ee4e619c3c86de0ab341f3deb8cc9000a2",
@@ -181,50 +224,8 @@
       "published_at": "2026-07-10T17:20:11+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "08a02ae769eb110e437060d635d03a001341b5e2",
-      "title": "Meta found to breach EU laws with 'addictive' Instagram, Facebook designs",
-      "summary": "Instagram and Facebook's \"addictive\" designs have put Meta in breach of the European Union's digital laws, the EU concluded Friday in a preliminary report.",
-      "url": "https://www.cnbc.com/2026/07/10/meta-instagram-facebook-addictive-design-breach-eu-laws.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-07-10T11:48:12+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "2ac383c546f8fa6a2aa33b8ffe947cd26f3a0205",
-      "title": "EU accuses Meta of failing to tackle mental health risks of ‘addictive design’",
-      "summary": "Regulators say Facebook and Instagram features such as autoplay and infinite scroll contribute to ‘compulsive use’EU regulators have accused Meta, the company behind Facebook and Instagram, of failing to tackle the risks…",
-      "url": "https://www.theguardian.com/technology/2026/jul/10/eu-accuses-meta-failing-tackle-mental-health-risks-addictive-design",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-10T11:38:29+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "e78c1b3bd55645d1ec0b56e3af6143cc4cc4abcc",
-      "title": "Chits In Walls, Meets In Park: How Italian Spies Sold NATO Secrets To Russia",
-      "summary": "Iralian spy met his Russian contact in parks and bars",
-      "url": "https://www.ndtv.com/world-news/rs-4-3-lakh-for-information-how-italian-spies-sold-nato-secrets-to-russia-11753008#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-10T09:43:18+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Italian Spies Sold NATO Secrets To Russia"
-    },
-    {
-      "id": "70c4f97fdbff8dbfef0f5d5f36f8a638e52c139d",
-      "title": "Fighting Fires With Figures, These Experts Are Trying to Stop Europe from Burning",
-      "summary": "A team of engineers, foresters and scientists is helping the continent prepare for wildfires from a giant science park in Italy. Their arsenal includes satellites, weather models and expert analysis.",
-      "url": "https://www.nytimes.com/2026/07/10/world/europe/fire-climate-change-heat-wave-global-warming.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-10T09:00:43+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "helping the continent prepare for wildfires from a giant science park in Italy"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-20T11:58:42Z"
+  "last_updated": "2026-07-21T11:21:51Z"
 }

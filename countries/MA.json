@@ -4,13 +4,35 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 18,
+  "sources": 20,
   "sentiment": {
     "positive": 1,
-    "neutral": 15,
+    "neutral": 17,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "d9fadf1d442ff84625ab04140708a300e2d51d74",
+      "title": "Protests in Italy after Moroccan man dies pleading for help from police",
+      "summary": "Officers use teargas and water cannon on crowds in Bologna after death of Abderrahim ⁠Fakir under police restraintPolice have clashed with demonstrators during a protest in the Italian city of Bologna after a Moroccan-bo…",
+      "url": "https://www.theguardian.com/world/2026/jul/21/protests-italy-bologna-abderrahim-fakir-police",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-21T10:09:06+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Moroccan man dies pleading for help from police"
+    },
+    {
+      "id": "5f383a4f4fd121b57163a0c96b864589c63057f7",
+      "title": "Outcry in Italy After Man Dies While Being Restrained by Police",
+      "summary": "The death of the man, a Moroccan resident of Italy, set off an outcry across the country and prompted comparisons to the death of George Floyd in the United States.",
+      "url": "https://www.nytimes.com/2026/07/20/world/europe/moroccan-italy-police-death-george-floyd.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-20T17:40:40+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "The death of the man, a Moroccan resident of Italy"
+    },
     {
       "id": "ccb0f3ceefe1351f532b1de422f61f6444ef742b",
       "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
@@ -211,5 +233,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-20T11:58:42Z"
+  "last_updated": "2026-07-21T11:21:51Z"
 }
