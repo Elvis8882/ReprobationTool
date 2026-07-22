@@ -1,16 +1,49 @@
 {
   "country": "SA",
-  "score": 86,
+  "score": 82,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 71,
+  "trend": -4,
+  "sources": 74,
   "sentiment": {
-    "positive": 4,
+    "positive": 3,
     "neutral": 44,
-    "negative": 23
+    "negative": 27
   },
   "latest_articles": [
+    {
+      "id": "ba3b192972a143f7e38016abac074539623aba31",
+      "title": "Middle East crisis live: US renews strikes on Iran as Trump threatens to attack nuclear site ‘very heavily’",
+      "summary": "US military completes 11th night of strikes as attacks overshadow diplomatic efforts in Pakistan to salvage interim ceasefire dealHouthis threaten attacks on shipping tankers if they use Saudi ports on Red SeaWhat is Pic…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-22T10:39:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Houthis threaten attacks on shipping tankers if they use Saudi ports"
+    },
+    {
+      "id": "db9a1c807768e209690178d6c6826943c84c5276",
+      "title": "Trump Approves Saudi Nuclear Deal That Could Allow Uranium Enrichment: Report",
+      "summary": "Trump approved an agreement with Saudi Arabia that potentially provides it with uranium enrichment",
+      "url": "https://www.ndtv.com/world-news/us-president-donald-trump-approves-saudi-arabia-nuclear-deal-that-could-allow-uranium-enrichment-report-11803828#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-22T05:43:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Saudi Nuclear Deal That Could Allow Uranium Enrichment"
+    },
+    {
+      "id": "89a47963ec12c8866b0a0ec134b0c748ce549066",
+      "title": "2 India-Bound Ships Make U-turns As Houthis Threaten Another Saudi Oil Route",
+      "summary": "Iran-backed Houthis have declared a naval blockade against Saudi Arabia",
+      "url": "https://www.ndtv.com/world-news/2-india-bound-saudi-oil-tankers-make-u-turns-amid-houthis-threats-in-red-sea-11804120#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-22T05:11:04+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Houthis Threaten Another Saudi Oil Route... naval blockade against Saudi Arabia"
+    },
     {
       "id": "0a8a130d6a420f55851de671866b2c4069d25d45",
       "title": "U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire",
@@ -21,6 +54,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Houthis threaten Saudi Arabia shipping"
+    },
+    {
+      "id": "839b33dee8d4a4be794fb5d3c5ffe6ea311d58e1",
+      "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
+      "summary": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening up a new front in the war rippling across the Middle East.",
+      "url": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-21T09:05:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Red Sea blockade on Saudi Arabia"
     },
     {
       "id": "4056f46280e7e5bf95b8234e74e800721b1f23d8",
@@ -186,52 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Saudi Aramco resumes oil loading at Ras Tanura in boost to supply"
-    },
-    {
-      "id": "9f0d934fa6c970c9ce2688a0605fd469a4703213",
-      "title": "Saudi doctor jailed for life for ramming car into German Christmas market killing 6",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-doctor-jailed-for-life-for-ramming-car-into-german-christmas-market-killing-6/articleshow/132011718.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-06-26T09:39:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Saudi doctor jailed for life for ramming car into German Christmas market"
-    },
-    {
-      "id": "ab31d0d24488695d143d982f18160d73332af435",
-      "title": "Fifa urged to drop Saudi oil giant Aramco as activists target World Cup",
-      "summary": "Fifa has defended its Aramco sponsorship, saying revenues are reinvested back into football at all levelsAs scorching temperatures beat down on World Cup soccer games across North America, climate activists – including f…",
-      "url": "https://www.theguardian.com/environment/2026/jun/19/activists-world-cup-fifa-aramco-oil-partnership",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-19T11:30:30+00:00",
-      "sentiment": "negative",
-      "confidence": 0.4,
-      "evidence": "Saudi oil giant Aramco as activists target World Cup"
-    },
-    {
-      "id": "420111e8194a886da1a729c63e302125ef32d5e4",
-      "title": "Three Saudi oil tankers carrying 6 million barrels cross Strait of Hormuz",
-      "summary": "The Saudi tankers switched their transponders on Thursday after hiding their location for more than two months.",
-      "url": "https://www.cnbc.com/2026/06/18/iran-deal-strait-hormuz-oil-tanker-saudi-arabia-traffic.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-06-18T19:31:49+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Three Saudi oil tankers carrying 6 million barrels cross Strait of Hormuz"
-    },
-    {
-      "id": "f55cac83bb7daef66f67ee0877979a6836f91732",
-      "title": "Saudi Arabia warns drivers of up to SR900 fines for illegal car window tinting",
-      "summary": "Saudi Arabia's traffic department is reminding drivers about window tinting rules. Fines of SR500 to SR900 apply for violations. Tinting is allowed but must meet specific transparency standards. The front windshield must…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-warns-drivers-of-up-to-sr900-fines-for-illegal-car-window-tinting/articleshow/131821550.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-06-18T07:38:37+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Saudi Arabia warns drivers of up to SR900 fines for illegal car window tinting"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-21T11:21:51Z"
+  "last_updated": "2026-07-22T11:23:41Z"
 }

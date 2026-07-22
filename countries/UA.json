@@ -1,16 +1,104 @@
 {
   "country": "UA",
-  "score": 36,
+  "score": 35,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 688,
+  "trend": -1,
+  "sources": 685,
   "sentiment": {
-    "positive": 304,
-    "neutral": 143,
+    "positive": 303,
+    "neutral": 141,
     "negative": 242
   },
   "latest_articles": [
+    {
+      "id": "3dcd1491bb0832ee2d05a60a91c26972bfcacb8d",
+      "title": "EU bids to finalise new Russia sanctions amid discontent from some member states – Europe live",
+      "summary": "EU ambassadors head to Brussels aiming to sign off on 21st package of sanctions, after previous attempts ended without successThe Venice Biennale said it would challenge a European Union decision to withdraw a €2 ⁠millio…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/22/ukraine-war-russia-sanctions-europe-eu-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-22T11:00:17+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "continuing aggression on Ukraine"
+    },
+    {
+      "id": "cad679478bf641fac3e5a60049276b5d74fa7855",
+      "title": "Firing of Ukraine’s Top General Signals the End of an Era",
+      "summary": "Gen. Oleksandr Syrskyi, who commanded crucial battles, oversaw an expansion of drone warfare against Russia, but many Ukrainians want even more.",
+      "url": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-22T10:46:16+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "expansion of drone warfare against Russia, but many Ukrainians want even more"
+    },
+    {
+      "id": "d588f9c465b35c770d0b96f97db4cd70920bb01f",
+      "title": "Ukraine’s New Military Chief Faces a Monumental Test",
+      "summary": "Maj. Gen. Mykhailo Drapatyi faces a balancing act between asserting the independence favored by military reformers and accommodating political input on battlefield strategy.",
+      "url": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-22T10:33:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ukraine’s New Military Chief Faces a Monumental Test"
+    },
+    {
+      "id": "e08dce5b3457b890de623d8680e721ade5cc8770",
+      "title": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
+      "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
+      "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-22T10:00:04+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukrainian drones hit more sites of Russian online retailer Wildberries"
+    },
+    {
+      "id": "bc34f2b17405288ee1b60d71dda7ae2526c821bb",
+      "title": "Zelenskyy ousts Ukraine’s army chief as protests expose wartime power struggle",
+      "summary": "The reshuffle comes after almost a week of nationwide unrest and represents one of the biggest political crises since Russia's full-scale invasion in 2022.",
+      "url": "https://www.cnbc.com/2026/07/22/ukraine-zelenskyy-protests-russia-war-putin.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-22T06:41:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Zelenskyy ousts Ukraine’s army chief as protests expose wartime power struggle"
+    },
+    {
+      "id": "4ce2c9e1e40602372fbac23a7af96c9f9889c06a",
+      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-22T05:37:43+00:00",
+      "sentiment": "negative",
+      "confidence": 0.85,
+      "evidence": "Zelensky sacks Ukraine's top army commander after days of protests"
+    },
+    {
+      "id": "b0a730b3785a50b5e7f2664e4a7f277abdf634ae",
+      "title": "Mykhailo Drapatyi: What to Know About Ukraine’s New Top General",
+      "summary": "Maj. Gen. Mykhailo Drapatyi, a decorated commander, is popular both inside and outside of his country.",
+      "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-21T23:39:36+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukraine’s New Top General... decorated commander, is popular"
+    },
+    {
+      "id": "e2f061372960fefe1f9c7b727ffda49fdde3ad6a",
+      "title": "Zelensky ousts Ukraine’s military commander as major shake-up continues",
+      "summary": "The dismissal of Gen. Oleksandr Syrsky came days after the Ukrainian president fired Defense Minister Mykhailo Fedorov.",
+      "url": "https://www.washingtonpost.com/world/2026/07/21/zelensky-ousts-ukraines-military-commander-major-shake-up-continues/",
+      "source": "World (Washington post)",
+      "published_at": "2026-07-21T22:41:32+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Zelensky ousts Ukraine’s military commander as major shake-up continues"
+    },
     {
       "id": "bdd44067973a2e400d1a9f2f767b4f29e6003fd0",
       "title": "Burnham cuts VAT on electricity bills ahead of first cabinet meeting – UK politics live",
@@ -21,6 +109,28 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "continue to cooperate to support Ukraine"
+    },
+    {
+      "id": "d813f555f474a38e0dc4b19737c3d74ee35ccc17",
+      "title": "When Protesters Speak, Zelensky Listens, in the Ukrainian Tradition",
+      "summary": "With anger high over the firing of the defense minister, the president’s office is signaling an openness to compromise.",
+      "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-zelensky-protests.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-21T09:28:09+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Zelensky Listens, in the Ukrainian Tradition... openness to compromise"
+    },
+    {
+      "id": "de5ad9ca045431b09490a2e2ffd0b8f02f2d776b",
+      "title": "Russia Could Turn Captured Ukrainian Drones Against NATO, Poland Warns - UNITED24 Media",
+      "summary": "Russia Could Turn Captured Ukrainian Drones Against NATO, Poland Warns&nbsp;&nbsp;UNITED24 MediaRussia may use captured Ukrainian drones against Poland and Baltics, Warsaw warns&nbsp;&nbsp;Defense NewsLatvia boosts secur…",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRmVNWWtEeU5wemthTjU1UmhsaTZPNjJkYk5DTU1obXlGN0xrdmJTQUlwNElheERPUEFiTHcyejBLN2daY2JhWWNGMnN4S3k2NVF6RjZ1MU0zM3JmU3VoR0t3YWNSUF9rN09jMmNPMHhZSDJHbTRVemRWd05TLVo5cHVLeWt1V0xfakZ5RmlNczdmZVpxQWhRZmluRUhKM2FsSVlyQWZPa1dnc3poR2RxUC1SUUNuNHc?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-21T08:27:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Captured Ukrainian Drones Against NATO"
     },
     {
       "id": "2747f020f52057651cc2c13a150a78d9342628cd",
@@ -43,6 +153,28 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "Ukraine’s long-range drone attacks... have undercut the Kremlin’s efforts"
+    },
+    {
+      "id": "eb6c40ee5f62298f074c431d0411772ffc453641",
+      "title": "Ukraine’s army chief expected to lose job after week of protests",
+      "summary": "Volodymyr Zelenskyy’s chief of staff hints government may be about to sack Oleksandr SyrskyiUkraine’s commander in chief Oleksandr Syrskyi is widely expected to lose his job amid signs that Volodymyr Zelenskyy has bowed…",
+      "url": "https://www.theguardian.com/world/2026/jul/20/ukraine-army-chief-oleksandr-syrskyi-expected-lose-job-week-protests",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-20T18:01:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Ukraine’s army chief expected to lose job after week of protests"
+    },
+    {
+      "id": "dd160ecdfbc16ca04b1c15398f2790dd01a373c0",
+      "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
+      "summary": "Russian strikes on the Odesa region have killed 28 people in July alone, local authorities say.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-20T16:10:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russian strikes on the Odesa region have killed 28 people"
     },
     {
       "id": "98a221d712c5b553d2fb1114d6978e64c345493b",
@@ -98,140 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Struggle to recruit soldiers in Ukraine turns violent"
-    },
-    {
-      "id": "f4bd263aa05900d86c9e4c45c0a57031e4457510",
-      "title": "Russia launches major ballistic missile attack on Kyiv",
-      "summary": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
-      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-19T09:54:50+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russia launches major ballistic missile attack on Kyiv"
-    },
-    {
-      "id": "70a02dddf54b1ba40e9a7b57a31548d86a1aa21d",
-      "title": "Russia Batters Kyiv in Overnight Attack",
-      "summary": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.",
-      "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-19T09:43:50+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Ukraine hit two warehouses in Russia"
-    },
-    {
-      "id": "9c68651e2ad1ac26aa79fde9be815f4eaf779d1c",
-      "title": "Ukraine Release Video Of Bombing In Monaco That Injured Tycoon, His Family",
-      "summary": "The June 30 attack deeply shook the discreet and ultra-wealthy principality on the Mediterranean coast.",
-      "url": "https://www.ndtv.com/world-news/ukraine-release-video-of-bombing-in-monaco-that-injured-tycoon-vadym-yermolaiev-his-family-11791395#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-19T08:50:45+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukraine Release Video Of Bombing In Monaco That Injured Tycoon"
-    },
-    {
-      "id": "28e0fbbf535c1dd0ea5b7acc03a5e658081e5682",
-      "title": "Russia pounds Kyiv for five hours in one of biggest ever ballistic missile attacks",
-      "summary": "At least one person killed after dozens of missiles arrive in less than an hour and three-storey building catches fireRussia has carried out one of its biggest-ever ballistic missile attacks on Kyiv, launching a five-hou…",
-      "url": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-19T08:35:16+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Kyiv for five hours in one of biggest ever ballistic missile"
-    },
-    {
-      "id": "4a4c0be58ea9e58b92945bb9af6f4c9e832623e6",
-      "title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
-      "summary": "Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen. Oleksandr Syrskyi.",
-      "url": "https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-19T07:13:23+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Ukraine’s Top General Becomes a Target of Protesters’ Anger"
-    },
-    {
-      "id": "e492fd47f9180adb51d62433e48b8239f5c2aad6",
-      "title": "Russians turn to cash, putting more strain on slowing wartime economy",
-      "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-18T23:59:26+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukra"
-    },
-    {
-      "id": "ad186a629dd3d8f50cfdfdf6b169b6c99b2ff2e9",
-      "title": "The Rise and Fall of Ukraine’s Drone Warfare Mastermind",
-      "summary": "The popularity of drones, and the defense minister who heavily promoted them, helped lead to a clash in which President Volodymyr Zelensky sided with the military brass.",
-      "url": "https://www.nytimes.com/2026/07/17/world/europe/ukraine-fedorov-defense-minister.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-17T23:29:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Ukraine’s Drone Warfare Mastermind"
-    },
-    {
-      "id": "592aab07c959271e020a6a1982c8d83ec15367be",
-      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-      "summary": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
-      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-17T19:04:09+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukrainian soldiers outraged over removal of defence minister"
-    },
-    {
-      "id": "f818189b1aa3519c177f91e14e7e2fd4dcd77059",
-      "title": "Dismissal of Ukraine’s defence minister highlights wider issues for Zelenskyy",
-      "summary": "Mykhailo Fedorov, celebrated by many for innovative, tech-driven approach, was sidelined for military old guardVolodomyr Zelenskyy’s abrupt dismissal of Ukraine’s youthful and innovative defence minister, Mykhailo Fedoro…",
-      "url": "https://www.theguardian.com/world/2026/jul/17/dismissal-ukraine-defence-minister-mykhailo-fedorov-volodomyr-zelenskyy",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-17T13:42:25+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.6,
-      "evidence": "startled senior European officials and caused consternation"
-    },
-    {
-      "id": "eadbe6aede2844803a335af20f93fc2da56e6448",
-      "title": "The 20-Somethings Running Ukraine’s War Machine",
-      "summary": "A new generation has been cutting red tape to speed weapons to the front. But the old guard pushed back, and now Ukraine’s young defense minister is out.",
-      "url": "https://www.nytimes.com/2026/07/17/world/europe/youth-ukraine-defense-innovation.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-17T10:29:24+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.8,
-      "evidence": "cutting red tape to speed weapons to the front. But the old guard pushed back"
-    },
-    {
-      "id": "736722c76ff18237ca2749e48c1b000fc126da6a",
-      "title": "VIDEO | Ukraine planned to attack Russia, Simonyan claims in attempt to justify war - Baltic News Network",
-      "summary": "VIDEO | Ukraine planned to attack Russia, Simonyan claims in attempt to justify war&nbsp;&nbsp;Baltic News Network",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmRzbEhwNUVpb3F6MWpjVUtSMTc4SmdQdnByMGhKUkpMQ2VpdmloWHdXXzZlTElWRU9zRGhKTXFYZ1JOc09xZGVzakEwZi1NYnRrVnV3SkF3UHlRRTNybTlhVVpBclozdjlWMG1VQnNqY01CaVJwdV92MTU4bnNwYVVQTWdxLUIwTjY2VVY1eW9WVGxqdC1wQ0VzYi15aWRzb3dULTRRRXk3SnZZ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-17T10:00:10+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Ukraine planned to attack Russia"
-    },
-    {
-      "id": "78708f08b4c3282f180c9d8c1578cb22e5488cde",
-      "title": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies",
-      "summary": "As unmanned aerial vehicles target Israel, Persian Gulf states and U.S. forces in the Middle East, Ukraine is selling equipment, giving advice and establishing joint production lines.",
-      "url": "https://www.washingtonpost.com/world/2026/07/17/after-years-drone-warfare-ukraine-is-selling-its-blood-experience-allies/",
-      "source": "World (Washington post)",
-      "published_at": "2026-07-17T09:00:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Ukraine is selling its ‘blood experience’ to allies"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-21T11:21:51Z"
+  "last_updated": "2026-07-22T11:23:41Z"
 }

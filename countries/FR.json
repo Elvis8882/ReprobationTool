@@ -1,16 +1,59 @@
 {
   "country": "FR",
-  "score": 79,
+  "score": 81,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 633,
+  "trend": 2,
+  "sources": 626,
   "sentiment": {
-    "positive": 90,
-    "neutral": 467,
-    "negative": 76
+    "positive": 91,
+    "neutral": 460,
+    "negative": 75
   },
   "latest_articles": [
+    {
+      "id": "3dcd1491bb0832ee2d05a60a91c26972bfcacb8d",
+      "title": "EU bids to finalise new Russia sanctions amid discontent from some member states – Europe live",
+      "summary": "EU ambassadors head to Brussels aiming to sign off on 21st package of sanctions, after previous attempts ended without successThe Venice Biennale said it would challenge a European Union decision to withdraw a €2 ⁠millio…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/22/ukraine-war-russia-sanctions-europe-eu-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-22T11:00:17+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "71b227acf2ecc108e4824ec883d5ed84bdad194a",
+      "title": "France Becomes First EU Nation To Ban Social Media For Children Under 15",
+      "summary": "The ban won't cover online encyclopedias, or educational or scientific directories",
+      "url": "https://www.ndtv.com/world-news/social-media-ban-for-children-france-becomes-first-eu-nation-to-ban-social-media-for-children-under-15-11803975#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-22T04:13:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "France Becomes First EU Nation To Ban Social Media"
+    },
+    {
+      "id": "85229a18fb7344f6d7d1a1c1079561aea8f52d6f",
+      "title": "France passes law banning under-15s from social media",
+      "summary": "The law will require social media platforms in France to verify all users age from January.",
+      "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-22T03:50:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "France passes law banning under-15s from social media"
+    },
+    {
+      "id": "859bec8c5fd96f2140603a61479e1e6b81f52930",
+      "title": "France becomes first EU country to ban social media access for under-15s",
+      "summary": "Parliament votes to stop children using apps such as TikTok in policy championed by Emmanuel MacronFrance’s parliament has approved a bill banning social media access for children under 15, making it the first EU country…",
+      "url": "https://www.theguardian.com/world/2026/jul/21/france-ban-social-media-access-under-15s",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-21T19:14:04+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "France becomes first EU country to ban social media access for under-15s"
+    },
     {
       "id": "bdd44067973a2e400d1a9f2f767b4f29e6003fd0",
       "title": "Burnham cuts VAT on electricity bills ahead of first cabinet meeting – UK politics live",
@@ -182,52 +225,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "French politicians"
-    },
-    {
-      "id": "5ca28a6c5f3207fd8f15d4966d612d156a527bef",
-      "title": "France Votes to Allow Assisted Dying",
-      "summary": "Lawmakers approved a bill that will allow doctors to help terminally ill patients to die, adding France to a short list of nations that allow the practice.",
-      "url": "https://www.nytimes.com/2026/07/15/world/europe/france-law-assisted-dying.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-15T19:11:21+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "France Votes to Allow Assisted Dying"
-    },
-    {
-      "id": "7c4d5f861fd70b3a2b15204991e6213a459ad249",
-      "title": "French MPs approve assisted dying law with strict rules after years of argument",
-      "summary": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
-      "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-15T17:29:26+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "French MPs approve assisted dying law"
-    },
-    {
-      "id": "e1f48830241a699e0269fcf46f6a15e61c5eaea9",
-      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
-      "summary": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.",
-      "url": "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-14T19:17:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "President Emmanuel Macron of France hosted European allies"
-    },
-    {
-      "id": "440b8c49a6480804c3bc867bc0bfc59cf5c3aa40",
-      "title": "Explanation of Vote Following the Adoption of a UN Security Council Resolution on the Red Sea - United States Mission to the United Nations (.gov)",
-      "summary": "Explanation of Vote Following the Adoption of a UN Security Council Resolution on the Red Sea&nbsp;&nbsp;United States Mission to the United Nations (.gov)Bahrain urges ‘firm’ UN Security Council response to Houthi and I…",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObnNzU05UOEszMHJiUEItbTZIMjgzWG85Qk5yQVRhV0VMdVRhVUdnTXdXanQxOHp2bGI0RWsybEpiblUtUmJJMTF3VzdwbTlrRlduWkM5V05SS1I1UzJTeXkyZk42NVpqY3VVOVIxcEx5MVhEWUEzNlU3SDBDLWsyM3pDRlFuYW9QWTVuNlhnT1A4OHhDNWtsT0FkU00tb1JudTJVcXVoaS10NGpMOEF3OWIySE5ZaWVLTW0yZWNB?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-14T16:36:41+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "France welcomes adoption of Resolution 2826"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-21T11:21:51Z"
+  "last_updated": "2026-07-22T11:23:41Z"
 }

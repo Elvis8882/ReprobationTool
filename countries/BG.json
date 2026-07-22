@@ -1,16 +1,26 @@
 {
   "country": "BG",
-  "score": 65,
+  "score": 66,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 204,
+  "trend": 1,
+  "sources": 198,
   "sentiment": {
     "positive": 5,
-    "neutral": 190,
-    "negative": 9
+    "neutral": 185,
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "3dcd1491bb0832ee2d05a60a91c26972bfcacb8d",
+      "title": "EU bids to finalise new Russia sanctions amid discontent from some member states – Europe live",
+      "summary": "EU ambassadors head to Brussels aiming to sign off on 21st package of sanctions, after previous attempts ended without successThe Venice Biennale said it would challenge a European Union decision to withdraw a €2 ⁠millio…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/22/ukraine-war-russia-sanctions-europe-eu-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-22T11:00:17+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "bdd44067973a2e400d1a9f2f767b4f29e6003fd0",
       "title": "Burnham cuts VAT on electricity bills ahead of first cabinet meeting – UK politics live",
@@ -206,18 +216,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Bulgarian Ministry\nThe flight was rerouted to Burgas"
-    },
-    {
-      "id": "9a1f00ed389dc0c27ba7cbca65c38441a8662828",
-      "title": "Call to suspend new EU border system in peak holiday period as planes leave half full",
-      "summary": "Airlines and airports say passengers are struggling in queues of up to five hours for biometric checksAirlines and airports have called for the new EU biometric border check system to be suspended during the peak summer…",
-      "url": "https://www.theguardian.com/business/2026/jul/01/call-to-suspend-eu-border-system-peak-holiday-period-europe-travel-airport-queues",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-01T08:08:19+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-21T11:21:51Z"
+  "last_updated": "2026-07-22T11:23:41Z"
 }

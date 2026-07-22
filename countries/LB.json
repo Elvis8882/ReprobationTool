@@ -4,13 +4,35 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 239,
+  "sources": 235,
   "sentiment": {
-    "positive": 6,
+    "positive": 7,
     "neutral": 84,
-    "negative": 149
+    "negative": 144
   },
   "latest_articles": [
+    {
+      "id": "81e1693b99adfbd9b0b3703317f4431370838a91",
+      "title": "Trump Resumes Direct US-Lebanon Flights After More Than 40 Years",
+      "summary": "Trump pledged to help Lebanon during a White House meeting with Joseph Aoun",
+      "url": "https://www.ndtv.com/world-news/us-president-donald-trump-resumes-direct-us-lebanon-flights-after-more-than-40-years-11803769#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-22T05:41:40+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Trump pledged to help Lebanon during a White House meeting"
+    },
+    {
+      "id": "0274f5e67684602974b163f38e7854af60710a73",
+      "title": "Trump meets with Lebanese leader, pledges support for peace efforts with Israel",
+      "summary": "The event marked the White House’s latest attempt to broker an Israeli pullout from southern Lebanon, where Israel has been fighting Hezbollah.",
+      "url": "https://www.washingtonpost.com/politics/2026/07/21/trump-pledges-support-lebanon-peace-efforts-with-israel-clashes-continue/",
+      "source": "World (Washington post)",
+      "published_at": "2026-07-21T20:29:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Israeli pullout from southern Lebanon"
+    },
     {
       "id": "31d16025de84b22c16a9c2a7a234ebca2647cf9a",
       "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
@@ -208,30 +230,8 @@
       "sentiment": "mixed",
       "confidence": 0.6,
       "evidence": "Israel strikes southern Lebanon as Hezbollah condemns new deal"
-    },
-    {
-      "id": "15435b2a4c3ba8fe8bcc5cf46755361d21675e8c",
-      "title": "Deal With Israel Divides Lebanese, Fueling Protests in Beirut",
-      "summary": "Supporters welcomed the agreement as a step toward curtailing Iran’s influence within Lebanon, but others took to the streets, calling it a capitulation.",
-      "url": "https://www.nytimes.com/2026/06/27/world/middleeast/lebanon-israel-deal-divisions-protests-beirut.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-27T17:13:00+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.6,
-      "evidence": "Deal With Israel Divides Lebanese, Fueling Protests in Beirut"
-    },
-    {
-      "id": "16e6618300b5caf2533d0b6d02e724445357b9ed",
-      "title": "Challenges That Lie Ahead For The US-Israel-Lebanon Deal",
-      "summary": "Netanyahu said displaced Lebanese civilians will not be allowed to return home to occupied areas.",
-      "url": "https://www.ndtv.com/world-news/challenges-that-lie-ahead-for-the-us-israel-lebanon-deal-11696353#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-06-27T16:51:10+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "displaced Lebanese civilians will not be allowed to return"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-21T11:21:51Z"
+  "last_updated": "2026-07-22T11:23:41Z"
 }
