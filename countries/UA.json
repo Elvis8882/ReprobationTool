@@ -1,16 +1,27 @@
 {
   "country": "UA",
-  "score": 35,
+  "score": 32,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 685,
+  "trend": -3,
+  "sources": 678,
   "sentiment": {
-    "positive": 303,
-    "neutral": 141,
-    "negative": 242
+    "positive": 297,
+    "neutral": 139,
+    "negative": 243
   },
   "latest_articles": [
+    {
+      "id": "cca625262e6b32e07409802ddb82e8e370769e44",
+      "title": "Why is Zelensky firing top leaders as Ukraine’s outlook improves?",
+      "summary": "Amid battlefield gains, President Volodymyr Zelensky removed popular officials in a major shake-up.",
+      "url": "https://www.washingtonpost.com/world/2026/07/22/why-is-zelensky-firing-top-leaders-ukraines-outlook-improves/",
+      "source": "World (Washington post)",
+      "published_at": "2026-07-22T19:11:38+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Zelensky removed popular officials in a major shake-up"
+    },
     {
       "id": "3dcd1491bb0832ee2d05a60a91c26972bfcacb8d",
       "title": "EU bids to finalise new Russia sanctions amid discontent from some member states – Europe live",
@@ -98,6 +109,28 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Zelensky ousts Ukraine’s military commander as major shake-up continues"
+    },
+    {
+      "id": "aa20486e81a882a82c0f483f3e78d820390c2f06",
+      "title": "Zelensky Dismisses Ukraine’s Top General After Protests",
+      "summary": "The move followed the firing of a popular defense minister, who had clashed with the general over how to fight the war.",
+      "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-21T21:39:10+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Dismisses Ukraine’s Top General After Protests"
+    },
+    {
+      "id": "37b7e3aef066c943c51325fd2d4d9e49e749559b",
+      "title": "Zelenskyy fires Ukraine’s army chief and offers Fedorov ‘prominent position’",
+      "summary": "After nationwide protests Oleksandr Syrskyi is to be replaced in reshuffle and popular defence minister returns to governmentVolodymyr Zelenskyy has fired Ukraine’s commander-in-chief Oleksandr Syrskyi and offered a “pro…",
+      "url": "https://www.theguardian.com/world/2026/jul/21/zelenskyy-replaces-military-leader-and-brings-back-defence-minister-he-sacked",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-21T21:34:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Zelenskyy fires Ukraine’s army chief and offered... sparked nationwide protests"
     },
     {
       "id": "bdd44067973a2e400d1a9f2f767b4f29e6003fd0",
@@ -197,41 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.5,
       "evidence": "Ukraine War Momentum Helps Spur Interest in Postwar Investment"
-    },
-    {
-      "id": "e50b512db537a40ed7c01d9fb15a04dcb2aa3d51",
-      "title": "Why are Ukraine's military recruiters facing violence in their own country?",
-      "summary": "The latest National Police Service report recorded more than 600 assaults on recruitment officers to date and warned that the aggression has become “increasingly threatening”.",
-      "url": "https://www.bbc.co.uk/news/videos/c0kmjy02rxko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-20T08:21:09+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukraine's military recruiters facing violence in their own country?"
-    },
-    {
-      "id": "3f922cb4fd8843c6c7b7edd432b9b637eb6bb812",
-      "title": "Russia pounds Kyiv as NATO military chief warns Moscow would 'lose a lot' by attacking Baltics",
-      "summary": "Russia and Ukraine traded their heaviest strikes in months, fueling fears of escalation and further strain on oil supplies.",
-      "url": "https://www.cnbc.com/2026/07/20/nato-russia-ukraine-war-missile-attacks-drone-europe-defense-.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-07-20T04:49:24+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukraine traded their heaviest strikes in months"
-    },
-    {
-      "id": "23e2ec7d5c93efbaf0e48fe792a3ff2971485f89",
-      "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
-      "summary": "Aggression against recruitment officers has become increasingly threatening, police say.",
-      "url": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-20T00:19:12+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Struggle to recruit soldiers in Ukraine turns violent"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-22T11:23:41Z"
+  "last_updated": "2026-07-23T11:23:57Z"
 }

@@ -1,16 +1,70 @@
 {
   "country": "FR",
-  "score": 81,
+  "score": 78,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 2,
-  "sources": 626,
+  "trend": -3,
+  "sources": 625,
   "sentiment": {
-    "positive": 91,
+    "positive": 88,
     "neutral": 460,
-    "negative": 75
+    "negative": 77
   },
   "latest_articles": [
+    {
+      "id": "85bd07a0469abde35d333712389b0cfb7a9e8176",
+      "title": "Thousands evacuated in France fires",
+      "summary": "A third firefighter has died in Europe while tackling ongoing wildfires across the continent.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-23T10:53:43+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Thousands evacuated in France fires"
+    },
+    {
+      "id": "6c4d8d78c442bfa392c74165861cdd8d8438696b",
+      "title": "EU fines Google €890m for competition breaches over search and apps",
+      "summary": "Firm told to treat third-party services that appear in its results in ‘fair and non-discriminatory manner’Google has been fined a total of €890m (£760m) by the EU for breaches of online competition laws by its search and…",
+      "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-23T10:00:42+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "604dd60141de0d953dfbfe1e3d05a912f7ded3e8",
+      "title": "UK Heatwave Cost Economy $1.5 Billion, Wiped Out 24 Million Work Hours: Study",
+      "summary": "The UK, France and other European countries saw an exceptional spell of heat in June",
+      "url": "https://www.ndtv.com/world-news/uk-heatwave-cost-economy-1-5-billion-dollars-wiped-out-24-million-work-hours-london-school-of-economics-study-11809763#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-23T08:46:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "France and other European countries saw an exceptional spell of heat"
+    },
+    {
+      "id": "0281fb74b9a632d8568f9b59bb4992813a14c8a1",
+      "title": "Police formally investigate woman after Brit stabbed to death in French village",
+      "summary": "Karen Carter was found with stab wounds in the Dordogne village she had lived in for over a decade.",
+      "url": "https://www.bbc.co.uk/news/articles/cwye7lv2endo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-22T19:03:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "woman after Brit stabbed to death in French village"
+    },
+    {
+      "id": "b131aa7ae24ad9313388df51619b630126349e38",
+      "title": "Watch: Louvre reopens gallery after jewellery heist",
+      "summary": "The Louvre Museum reopens its Apollo Gallery nine months after a robbery that shocked France.",
+      "url": "https://www.bbc.co.uk/news/videos/c1m15l8kgejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-22T16:54:33+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Louvre reopens gallery after jewellery heist"
+    },
     {
       "id": "3dcd1491bb0832ee2d05a60a91c26972bfcacb8d",
       "title": "EU bids to finalise new Russia sanctions amid discontent from some member states – Europe live",
@@ -20,6 +74,17 @@
       "published_at": "2026-07-22T11:00:17+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "15acc698e8209b401345d9e5c102110e58dc1c02",
+      "title": "After two years of banning bee-harming pesticides, France allows their return, facing backlash from environmentalists",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/europe/after-two-years-of-banning-bee-harming-pesticides-france-allows-their-return-facing-backlash-from-environmentalists/articleshow/132556255.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-07-22T10:20:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "France allows their return, facing backlash from environmentalists"
     },
     {
       "id": "71b227acf2ecc108e4824ec883d5ed84bdad194a",
@@ -42,6 +107,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "France passes law banning under-15s from social media"
+    },
+    {
+      "id": "264c376c3bb2f4f23838b3d415e2f2d29e4886b0",
+      "title": "France Joins a Global Move Toward Restricting Social Media for Children",
+      "summary": "Its new law, the first of its kind enacted by a European country, will ban access to some accounts for anyone under 15.",
+      "url": "https://www.nytimes.com/2026/07/21/world/europe/france-social-media-ban.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-22T02:36:52+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "France Joins a Global Move Toward Restricting Social Media for Children"
     },
     {
       "id": "859bec8c5fd96f2140603a61479e1e6b81f52930",
@@ -148,85 +224,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Hailstones the size of golf balls have been seen in French villages"
-    },
-    {
-      "id": "c46d1cc88a123238932bee1265ffe54a589c8a1f",
-      "title": "German Man Accused of Drugging and Filming the Rape of 14 Women",
-      "summary": "The case has drawn comparisons to the Pelicot trial in France, which started a discussion across Europe about sexual assault and consent.",
-      "url": "https://www.nytimes.com/2026/07/16/world/europe/german-man-rape-case.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-16T17:11:32+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "comparisons to the Pelicot trial in France"
-    },
-    {
-      "id": "60f1e4d93eb77ffa7fb1ffd1c4264017c8a43e94",
-      "title": "Volunteer firefighter suspected of starting devastating France forest fire",
-      "summary": "President Macron said there would be no leniency for arsonists, as France - along with much of Europe - deals with a series of unusual heatwaves.",
-      "url": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-16T12:44:26+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Volunteer firefighter suspected of starting devastating France forest fire"
-    },
-    {
-      "id": "ed62d210ed35967497e1e34c4ae7ac38352a281c",
-      "title": "Europe Finds It Hard to Break Up With American and Chinese Technology",
-      "summary": "France and Germany want to quit relying on America and China for key technology like artificial intelligence, but they’re having to choose where to do it.",
-      "url": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-16T08:20:56+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "France and Germany want to quit relying on American and Chinese Technology"
-    },
-    {
-      "id": "e724169444f450c457bf9c98047f4cf8c208d79f",
-      "title": "France Approves Historic Assisted-Dying Bill After Years Of Debate",
-      "summary": "Patients seeking to end their lives would have to be at least 18 years old (Representational)",
-      "url": "https://www.ndtv.com/world-news/france-approves-historic-assisted-dying-bill-after-years-of-debate-11777720#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-16T08:19:43+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "France Approves Historic Assisted-Dying Bill After Years Of Debate"
-    },
-    {
-      "id": "09721e2532e10cbe790504319973fe2d07aa8b84",
-      "title": "Transfer rumors, news: Bayern star Olise wants Real Madrid move - ESPN",
-      "summary": "Transfer rumors, news: Bayern star Olise wants Real Madrid move&nbsp;&nbsp;ESPNMichael Olise wants Real Madrid! Bayern Munich star ready to push for big transfer to unite with France co-star Kylian Mbappe&nbsp;&nbsp;Goal…",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3d6MnRFSTgwUmY1UTRLQnYwdmNoTGhGcXREeDhDQXhXSGZOdHp4N3ZYRE5NaWVnazhpVnlvM2tIMl9VM2NfVXV4OUUzR29wd2I1UnpUdm9UM05Dcnk0bWI2YVFWS2lGdlR3NVlvZlNGZ1RybFZMR0NRWHhzT3plczZra1ZVY19CaG14S0NqTTAxczdyVVQtYy1OakpHbGM3dHBrdUVfV0IyeG1sRnE2VzBtbEw1aUhrdE10UjJ3b0lKQQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-16T08:01:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "France co-star Kylian Mbappe"
-    },
-    {
-      "id": "d0110af186ffac24fc8c9dfb5f14da5ea11b008c",
-      "title": "Europe edges toward U.S.-style boat strikes in fight against cocaine surge",
-      "summary": "A French attack that disabled a drug-smuggling boat in the Atlantic opened a new front, but European proposals stop short of the Trump administration’s more aggressive tactics.",
-      "url": "https://www.washingtonpost.com/world/2026/07/16/europe-new-cocaine-highway-fuels-calls-military-style-crackdowns/",
-      "source": "World (Washington post)",
-      "published_at": "2026-07-16T05:34:27+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "A French attack that disabled a drug-smuggling boat"
-    },
-    {
-      "id": "ccb0f3ceefe1351f532b1de422f61f6444ef742b",
-      "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
-      "summary": "Whistleblower suggests internal security services deployed spyware from 2017 against key domestic and foreign targetsA former member of Morocco’s domestic intelligence service has helped to provide an unprecedented insig…",
-      "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-16T04:30:13+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "French politicians"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-22T11:23:41Z"
+  "last_updated": "2026-07-23T11:23:57Z"
 }

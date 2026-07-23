@@ -1,16 +1,26 @@
 {
   "country": "BE",
-  "score": 94,
+  "score": 96,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 2,
-  "sources": 323,
+  "sources": 316,
   "sentiment": {
-    "positive": 41,
-    "neutral": 252,
-    "negative": 30
+    "positive": 40,
+    "neutral": 249,
+    "negative": 27
   },
   "latest_articles": [
+    {
+      "id": "6c4d8d78c442bfa392c74165861cdd8d8438696b",
+      "title": "EU fines Google €890m for competition breaches over search and apps",
+      "summary": "Firm told to treat third-party services that appear in its results in ‘fair and non-discriminatory manner’Google has been fined a total of €890m (£760m) by the EU for breaches of online competition laws by its search and…",
+      "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-23T10:00:42+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "bdd44067973a2e400d1a9f2f767b4f29e6003fd0",
       "title": "Burnham cuts VAT on electricity bills ahead of first cabinet meeting – UK politics live",
@@ -207,19 +217,8 @@
       "published_at": "2026-07-07T11:52:52+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "4b6b2ee6341777456d912a1e9ede198bf0e93a34",
-      "title": "Belgium’s World Cup Win Over U.S. Fuels Triumph and Snark in Europe",
-      "summary": "President Trump had pushed to allow an American player to take the field despite a red card suspension, and the trouncing of the U.S. team was painted as a sign of justice.",
-      "url": "https://www.nytimes.com/2026/07/07/world/europe/belgium-us-world-cup-balogun-trump.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-07T11:09:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Belgium’s World Cup Win Over U.S."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-22T11:23:41Z"
+  "last_updated": "2026-07-23T11:23:57Z"
 }
