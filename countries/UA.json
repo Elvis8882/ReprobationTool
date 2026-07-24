@@ -1,16 +1,115 @@
 {
   "country": "UA",
-  "score": 32,
+  "score": 34,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -3,
+  "trend": 2,
   "sources": 678,
   "sentiment": {
-    "positive": 297,
+    "positive": 299,
     "neutral": 139,
-    "negative": 243
+    "negative": 241
   },
   "latest_articles": [
+    {
+      "id": "31d51e84df64348c6626d687fc4e7ff450cad189",
+      "title": "Russian attack cuts power to around 150,000 in Ukraine’s north as Kyiv hits missile, oil facilities",
+      "summary": "The update comes as Ukrainian President Volodymyr Zelenskyy welcomed strikes on a key missile components facility in the Russian city of Kirov.",
+      "url": "https://www.cnbc.com/2026/07/24/russia-ukraine-war-zelenskyy-putin-oil.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-24T10:07:18+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Kyiv hits missile, oil facilities"
+    },
+    {
+      "id": "aefa38349bc83ae12921f67489bec2008ff23bbc",
+      "title": "State Security Service investigates fire at Ukrainian charity warehouse / Article - LSM",
+      "summary": "State Security Service investigates fire at Ukrainian charity warehouse / Article&nbsp;&nbsp;LSM",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbUFmNlV0a1NLYnhxMDdmaHZpdnYwTlIzMXYzUmY1Qm9kRGZnMmVHVVpZSlY4aVMtNjhROXJXbkd2WWxiNDRqNUpWUzdLa3NWcTVBTFlnNGxoTjdxTTg2N2hJTjBCc180RWVhQjV5empCWmJrbUUzM0x4NDN6M0poYVlhVW96cWVXSFJYaURWd0tWQkUxZ3VYRE5CTHotbUp4d0w2OFI1SUVOU2l3a2RiWkhLRDRlcmhCY0FYa1ZsLXpRX0xnczZwVlExcFU?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-24T08:55:17+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "State Security Service investigates fire at Ukrainian charity warehouse"
+    },
+    {
+      "id": "49a7e4dc09b8b48ef22a93ebb635d6e75ce0fda6",
+      "title": "NATO tests giant grass to restore Ukraine's war-damaged soil; may break down explosive residue",
+      "summary": "Scientists in the Czech Republic are testing giant Miscanthus, a fast-growing perennial grass, to see if it can help restore Ukraine's war-damaged farmland. Backed by a NATO project, the research aims to remove pollutant…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/nato-backed-scientists-planted-13-foot-giant-grass-on-ukraines-war-damaged-land-near-bucha-its-roots-may-trap-metals-and-help-break-down-oil-and-residues-from-explosives/articleshow/132598294.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-07-24T08:13:12+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "restore Ukraine's war-damaged soil; may break down explosive residue"
+    },
+    {
+      "id": "f02d325aa95923789de49815bb98193c997c8e2d",
+      "title": "Ukraine war briefing: EU sanctions oust Russian president of world chess - The Guardian",
+      "summary": "Ukraine war briefing: EU sanctions oust Russian president of world chess&nbsp;&nbsp;The GuardianStatement by FIDE President Arkady Dvorkovich – International Chess Federation&nbsp;&nbsp;FIDERussian head of FIDE suspends…",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTjR0dXQ0ck5RVWtwZVFlSE5jMlZpTl9IRFZyODlRRUlaVnI0TjkyNmRCX21QSTQzcGV4bU9tbG84ck5zOTA4QkdUM0NmR3UzektIWWpHQmV6VkNhVDlqYS1OLUJyMzRRbmxBQ2ZEb1gyU3pHc0xiZV9fem5ReHFDamxjcDE3aFZFQXVLSW9ybUlGdTIwZlVrT0lEUmFFSEpWazMyZ1hxUVRnUmhGUjQwUUdEOURLZ0JD?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-24T05:54:29+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Ukraine war briefing"
+    },
+    {
+      "id": "16c6a00a2cb694616ea58a718c78680573dadca6",
+      "title": "Ukraine's ousted defence minister insists on being reinstated",
+      "summary": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
+      "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-23T17:37:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ukraine's ousted defence minister insists on being reinstated"
+    },
+    {
+      "id": "ccd93c0bf44f1dbfaf6bcaa1ce2ea91e41cf7443",
+      "title": "Zelensky’s Dizzying U-Turn Is the Latest Zigzag in a Presidency Full of Them",
+      "summary": "President Volodymyr Zelensky of Ukraine has pivoted from unpopular moves before, but a recent decision about military leadership and strategy could weaken his position.",
+      "url": "https://www.nytimes.com/2026/07/23/world/europe/zelensky-ukraine-military-reversal.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-23T15:45:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Zelensky’s Dizzying U-Turn...could weaken his position."
+    },
+    {
+      "id": "8109fbc1a7e6bc173a6bd6732f098dbb9734330b",
+      "title": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon",
+      "summary": "Kyiv is escalating its air war by striking commercial warehouses, trying to bring the conflict closer to home for ordinary Russians.",
+      "url": "https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-23T10:21:49+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "escalating its air war by striking commercial warehouses"
+    },
+    {
+      "id": "d06438c500b0e65f7cf4f02afb709a41a00f63bd",
+      "title": "Russia’s Amazon-style retail giant Wildberries is now in Ukraine’s crosshairs. Here's why",
+      "summary": "Ukraine has ratcheted up its attacks on Russia's Amazon-style retail giant Wildberries, signaling a new phase in the war.",
+      "url": "https://www.cnbc.com/2026/07/23/ukraine-russia-war-wildberries-drones-amazon.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-23T09:54:53+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukraine has ratcheted up its attacks on Russia's Amazon-style retail giant"
+    },
+    {
+      "id": "bea210e2aedf0a1db1fe8513f5632e17785a310b",
+      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+      "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-23T06:15:35+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukraine's attacks on Wildberries"
+    },
     {
       "id": "cca625262e6b32e07409802ddb82e8e370769e44",
       "title": "Why is Zelensky firing top leaders as Ukraine’s outlook improves?",
@@ -131,107 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Zelenskyy fires Ukraine’s army chief and offered... sparked nationwide protests"
-    },
-    {
-      "id": "bdd44067973a2e400d1a9f2f767b4f29e6003fd0",
-      "title": "Burnham cuts VAT on electricity bills ahead of first cabinet meeting – UK politics live",
-      "summary": "Move is expected to save households around £45 a year but former minister says plan is ‘unfunded’Burnham to cut VAT on electricity bills in first cost-of-living moveAntónio Costa, the president of the European council, s…",
-      "url": "https://www.theguardian.com/politics/live/2026/jul/21/andy-burnham-pm-labour-energy-bills-cost-of-living-cabinet-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-21T10:59:46+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "continue to cooperate to support Ukraine"
-    },
-    {
-      "id": "d813f555f474a38e0dc4b19737c3d74ee35ccc17",
-      "title": "When Protesters Speak, Zelensky Listens, in the Ukrainian Tradition",
-      "summary": "With anger high over the firing of the defense minister, the president’s office is signaling an openness to compromise.",
-      "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-zelensky-protests.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-21T09:28:09+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Zelensky Listens, in the Ukrainian Tradition... openness to compromise"
-    },
-    {
-      "id": "de5ad9ca045431b09490a2e2ffd0b8f02f2d776b",
-      "title": "Russia Could Turn Captured Ukrainian Drones Against NATO, Poland Warns - UNITED24 Media",
-      "summary": "Russia Could Turn Captured Ukrainian Drones Against NATO, Poland Warns&nbsp;&nbsp;UNITED24 MediaRussia may use captured Ukrainian drones against Poland and Baltics, Warsaw warns&nbsp;&nbsp;Defense NewsLatvia boosts secur…",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRmVNWWtEeU5wemthTjU1UmhsaTZPNjJkYk5DTU1obXlGN0xrdmJTQUlwNElheERPUEFiTHcyejBLN2daY2JhWWNGMnN4S3k2NVF6RjZ1MU0zM3JmU3VoR0t3YWNSUF9rN09jMmNPMHhZSDJHbTRVemRWd05TLVo5cHVLeWt1V0xfakZ5RmlNczdmZVpxQWhRZmluRUhKM2FsSVlyQWZPa1dnc3poR2RxUC1SUUNuNHc?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-21T08:27:38+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Captured Ukrainian Drones Against NATO"
-    },
-    {
-      "id": "2747f020f52057651cc2c13a150a78d9342628cd",
-      "title": "\"Unacceptable\": India Protests Deaths Of 4 Indian Sailors In Russian Attack Near Ukraine",
-      "summary": "The incident came amid escalating hostilities between Ukraine and Russia.",
-      "url": "https://www.ndtv.com/world-news/india-summons-russian-envoy-after-4-sailors-killed-in-attack-near-ukraine-11799136#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-21T07:14:04+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Deaths Of 4 Indian Sailors In Russian Attack Near Ukraine"
-    },
-    {
-      "id": "24f30896ba31113a4baa7fa766db20f44b572fc2",
-      "title": "Ukraine bombs warehouses, targeting Wildberries — Russia’s version of Amazon",
-      "summary": "Ukraine’s long-range drone attacks, including strikes this weekend on e-commerce warehouses, have undercut the Kremlin’s efforts to shield most Russian citizens from the war.",
-      "url": "https://www.washingtonpost.com/world/2026/07/20/ukraine-bombs-warehouses-targeting-wildberries-russias-version-amazon/",
-      "source": "World (Washington post)",
-      "published_at": "2026-07-20T18:22:55+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Ukraine’s long-range drone attacks... have undercut the Kremlin’s efforts"
-    },
-    {
-      "id": "eb6c40ee5f62298f074c431d0411772ffc453641",
-      "title": "Ukraine’s army chief expected to lose job after week of protests",
-      "summary": "Volodymyr Zelenskyy’s chief of staff hints government may be about to sack Oleksandr SyrskyiUkraine’s commander in chief Oleksandr Syrskyi is widely expected to lose his job amid signs that Volodymyr Zelenskyy has bowed…",
-      "url": "https://www.theguardian.com/world/2026/jul/20/ukraine-army-chief-oleksandr-syrskyi-expected-lose-job-week-protests",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-20T18:01:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Ukraine’s army chief expected to lose job after week of protests"
-    },
-    {
-      "id": "dd160ecdfbc16ca04b1c15398f2790dd01a373c0",
-      "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
-      "summary": "Russian strikes on the Odesa region have killed 28 people in July alone, local authorities say.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-20T16:10:38+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russian strikes on the Odesa region have killed 28 people"
-    },
-    {
-      "id": "98a221d712c5b553d2fb1114d6978e64c345493b",
-      "title": "Zelensky Faces Pressure to Remove Ukraine’s Top General",
-      "summary": "Demonstrators and many soldiers want President Volodymyr Zelensky to reaffirm the vision of drone warfare laid out by the defense minister he fired last week.",
-      "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-20T11:28:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "Zelensky Faces Pressure to Remove Ukraine’s Top General"
-    },
-    {
-      "id": "4cd7b8914efbaf1d137f9dcc2cd05e20c3398f08",
-      "title": "Ukraine War Momentum Helps Spur Interest in Postwar Investment",
-      "summary": "At a conference on reconstruction, the focus shifted to private investment, not donor assistance.",
-      "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-20T08:55:02+00:00",
-      "sentiment": "positive",
-      "confidence": 0.5,
-      "evidence": "Ukraine War Momentum Helps Spur Interest in Postwar Investment"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-23T11:23:57Z"
+  "last_updated": "2026-07-24T11:15:28Z"
 }

@@ -1,16 +1,38 @@
 {
   "country": "IQ",
-  "score": 88,
+  "score": 87,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 41,
+  "trend": -1,
+  "sources": 43,
   "sentiment": {
-    "positive": 2,
+    "positive": 3,
     "neutral": 21,
-    "negative": 18
+    "negative": 19
   },
   "latest_articles": [
+    {
+      "id": "1e6bf17d37cb26ae412c3e74e0bd22e00e51489c",
+      "title": "Iran Rejects U.S. Cease-Fire Deal Presented by Iraqi Leader",
+      "summary": "The details of the proposal were not immediately clear, but Iranian officials said that it was the only offer on the table.",
+      "url": "https://www.nytimes.com/2026/07/23/world/middleeast/iran-iraq-cease-fire-proposal.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-23T23:39:28+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Iraqi Leader"
+    },
+    {
+      "id": "874963ff850a77ffe419cf5428fd4c9c1e80e488",
+      "title": "Chaos Breaks Out at Border Crossings With Iraq",
+      "summary": "Videos verified by The New York Times show border crossings in southern Iraq becoming the latest target in the hostilities in the Middle East.",
+      "url": "https://www.nytimes.com/2026/07/23/world/middleeast/iraq-border-crossings-struck.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-23T20:09:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Chaos Breaks Out at Border Crossings With Iraq"
+    },
     {
       "id": "0e4f5c08fb5d0f085a407367bc63fed72addb11f",
       "title": "Another U.S. Service Member Is Killed as Iran War Expands",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Iraqi 'Godfather of traffickers'"
-    },
-    {
-      "id": "9cab2d696ba564dd72c54bf6f67c3ebc5e9f43e3",
-      "title": "U.S. Resumes Dollar Transfers to Iraq After Monthslong Suspension",
-      "summary": "The Trump administration had halted the shipments to Iraq as part of its efforts to pressure the Baghdad government to distance itself from Iran.",
-      "url": "https://www.nytimes.com/2026/07/02/world/middleeast/iraq-us-dollar-transfers-resumes.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-02T04:01:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "U.S. Resumes Dollar Transfers to Iraq"
-    },
-    {
-      "id": "daabe54d0f73f86934dd5f84116eedc5e149b6ac",
-      "title": "Israel Links With Lebanon, United States, Iran, Iraq, Jordan, Bahrain and More in New Middle East Flight Disruption Alert as US-Brokered Framework Faces Pressure, Southern Lebanon Strikes Continue and Airlines Redraw Regional Routes - Travel And Tour World",
-      "summary": "Israel Links With Lebanon, United States, Iran, Iraq, Jordan, Bahrain and More in New Middle East Flight Disruption Alert as US-Brokered Framework Faces Pressure, Southern Lebanon Strikes Continue and Airlines Redraw Reg…",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUNkMyU2NUVDBhSG1DaGFEOEFlMlB5bEpaMU10NVlrTzBoa2xTck5RWmZWbmUxY3NKS2FVYVZyWTZUVEJWQnQ3dTJYRnBSWWFNZnVLTFdFcUFYQnBQdVdvWlJvRW9ZUlNFN2FHeXpR?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-06-29T08:57:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Israel Links With Lebanon, United States, Iran, Iraq, Jordan"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-23T11:23:57Z"
+  "last_updated": "2026-07-24T11:15:28Z"
 }
