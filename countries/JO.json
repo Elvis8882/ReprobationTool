@@ -1,16 +1,38 @@
 {
   "country": "JO",
-  "score": 82,
+  "score": 80,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 41,
+  "trend": -2,
+  "sources": 43,
   "sentiment": {
     "positive": 2,
     "neutral": 13,
-    "negative": 26
+    "negative": 28
   },
   "latest_articles": [
+    {
+      "id": "0adeceaef5b81d6c5e64bc3033ea832f0ff6f7ef",
+      "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
+      "summary": "No end to fighting in sight as Revolutionary Guards launch drones at targets in Bahrain, Jordan and KuwaitThe US has struck targets across Iran, reaching as far as the Caspian Sea, as Donald Trump threatened “major milit…",
+      "url": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-24T17:58:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "launch drones at targets in Bahrain, Jordan"
+    },
+    {
+      "id": "8e8ae412b86791b3a7838d8b969052b5d2266fd8",
+      "title": "How Chinese tech and Russian tactics are aiding Iran’s bombing of US bases",
+      "summary": "Increasingly accurate and lethal attacks are revealing weaknesses in stretched defences across the GulfAs the crisis in the Middle East escalates, Iran has been bombing US bases and critical infrastructure in the Gulf wi…",
+      "url": "https://www.theguardian.com/world/2026/jul/24/irans-much-improved-missile-systems-pose-a-real-threat-to-the-us",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-24T17:13:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "attack on the Muwaffaq Salti airbase in Jordan"
+    },
     {
       "id": "e7b6f0d49a1bf1ac899600931d405918990bcd90",
       "title": "U.S. Military Presence in Jordan Makes It Iranian Target",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Deaths of 2 U.S. Troops in Jordan Brings American Toll in the War With Iran to 16"
-    },
-    {
-      "id": "7fcebfea34417774596c6d1de9d98d5f712f2cae",
-      "title": "2 US Soldiers Killed, 1 Missing After Iranian Strikes On Jordan",
-      "summary": "Pentagon said that service member is currently missing.",
-      "url": "https://www.ndtv.com/world-news/2-us-soldiers-killed-1-missing-after-iranian-strikes-on-jordan-11789963#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-18T17:52:48+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Iranian Strikes On Jordan"
-    },
-    {
-      "id": "3d4e7ddc8ccaf9045ae09f6069fe66671da572ea",
-      "title": "US-Iran War News LIVE: Iran Says Struck US Aircraft In Jordan With Missiles, Drones",
-      "summary": "US-Iran War News LIVE: The US-Iran tensions have escalated in recent days",
-      "url": "https://www.ndtv.com/world-news/us-iran-war-news-live-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-middle-east-conflict-11783939#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-17T09:33:33+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Struck US Aircraft In Jordan With Missiles, Drones"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-24T11:15:28Z"
+  "last_updated": "2026-07-25T10:45:58Z"
 }

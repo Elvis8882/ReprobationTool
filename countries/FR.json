@@ -1,16 +1,80 @@
 {
   "country": "FR",
-  "score": 74,
+  "score": 72,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -4,
-  "sources": 630,
+  "trend": -2,
+  "sources": 635,
   "sentiment": {
     "positive": 87,
-    "neutral": 461,
-    "negative": 82
+    "neutral": 463,
+    "negative": 85
   },
   "latest_articles": [
+    {
+      "id": "ff15003112b60af23d34dfb5893c2031522bcd78",
+      "title": "France and Spain race to control wildfires as Bordeaux suburbs evacuated – live",
+      "summary": "Meanwhile in the UK, a blaze in Cairngorms national park is described as ‘very serious’ by Scotland’s first ministerTell us: have you been affected by wildfires in Europe?The French prime minister, Sébastien Lecornu, has…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-25T10:27:49+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "French prime minister...requested the armed forces to deploy...to help tackle the major wildfires"
+    },
+    {
+      "id": "287474c37e98933d82421f055ddd3e8339e826ea",
+      "title": "Fires Rage in Spain and France, Forcing Thousands to Flee",
+      "summary": "Firefighters were scrambling to contain blazes that were moving toward major cities. Some 200,000 people have evacuated or sheltered at home.",
+      "url": "https://www.nytimes.com/2026/07/25/world/europe/france-spain-wildfires-evacuations.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-25T10:21:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Fires Rage in Spain and France, Forcing Thousands to Flee"
+    },
+    {
+      "id": "e73161c14f308f342b7bf04cb9aa74d0afaf99ab",
+      "title": "What to Know About the Wildfires Raging in Western Europe",
+      "summary": "Huge blazes have forced tens of thousands of residents and vacationers in France and Spain to evacuate.",
+      "url": "https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-25T10:13:30+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "forced tens of thousands of residents and vacationers in France and Spain to evacuate"
+    },
+    {
+      "id": "57b2c97f0a69235a171735f236b9abffdd1e8993",
+      "title": "Wildfire Smoke Chokes Skies in Spain and France",
+      "summary": "Hundreds of thousands of people, including residents as well as vacationers, were forced to evacuate or told to remain indoors.",
+      "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-25T09:49:31+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Wildfire Smoke Chokes Skies in France"
+    },
+    {
+      "id": "a62d184d8ea436dfdea5921d71058a61a4119cf1",
+      "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
+      "summary": "Trump on Truth Social railed against the European Union's new fine on Google and prior penalties against U.S. tech giants Apple, Meta and Amazon.",
+      "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-24T19:39:50+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "a1d351d2362216738d4a28724e89f65aca4ee31e",
+      "title": "Seven EU countries asked the European Commission to support border regions due to the decline in tourism - NEWS.am",
+      "summary": "Seven EU countries asked the European Commission to support border regions due to the decline in tourism&nbsp;&nbsp;NEWS.amSeven EU nations seek aid amid tourism decline&nbsp;&nbsp;Operativ Məlumat Mərkəzi",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE44OXRrQUV1Z1JvSEVacXFLSVlXbnVxZWdNRjdlT2xsNFpkRnFYWmZpR3VFSmR6a0ZMbUl3NEZrQ3RSdEhTSFE?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-24T13:17:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "32872672b2faef228977795a42ed5ce7106fa741",
       "title": "France evacuates Cap Ferret peninsula as Spain battles to prevent wildfires merging near Madrid – Europe live",
@@ -100,6 +164,16 @@
       "evidence": "Thousands flee wildfires in France and Spain as temperatures reach extreme levels"
     },
     {
+      "id": "d13f5fe8846cc58e384209195fc469465812246a",
+      "title": "E.U. imposes more sanctions on Russia, in compromise deal",
+      "summary": "European Union members are looking to keep up pressure on Russia as Ukraine’s outlook improves, even as some countries seek exemptions.",
+      "url": "https://www.washingtonpost.com/world/2026/07/23/eu-imposes-more-sanctions-russia-compromise-deal/",
+      "source": "World (Washington post)",
+      "published_at": "2026-07-23T12:43:15+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "85bd07a0469abde35d333712389b0cfb7a9e8176",
       "title": "Thousands evacuated in France fires",
       "summary": "A third firefighter has died in Europe while tackling ongoing wildfires across the continent.",
@@ -152,84 +226,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Louvre reopens gallery after jewellery heist"
-    },
-    {
-      "id": "3dcd1491bb0832ee2d05a60a91c26972bfcacb8d",
-      "title": "EU bids to finalise new Russia sanctions amid discontent from some member states – Europe live",
-      "summary": "EU ambassadors head to Brussels aiming to sign off on 21st package of sanctions, after previous attempts ended without successThe Venice Biennale said it would challenge a European Union decision to withdraw a €2 ⁠millio…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/22/ukraine-war-russia-sanctions-europe-eu-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-22T11:00:17+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "1ac971fff3c0a295ff9167279eb10349fc6ea041",
-      "title": "French Modelling Scout Linked To Epstein Found Dead At Home Near Paris",
-      "summary": "Siad's name appeared in more than 1,000 documents released as part of Epstein files",
-      "url": "https://www.ndtv.com/world-news/french-modelling-scout-linked-to-jeffrey-epstein-found-dead-at-home-near-paris-11805884#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-22T10:57:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "French Modelling Scout Linked To Epstein Found Dead At Home Near Paris"
-    },
-    {
-      "id": "15acc698e8209b401345d9e5c102110e58dc1c02",
-      "title": "After two years of banning bee-harming pesticides, France allows their return, facing backlash from environmentalists",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/europe/after-two-years-of-banning-bee-harming-pesticides-france-allows-their-return-facing-backlash-from-environmentalists/articleshow/132556255.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-07-22T10:20:50+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "France allows their return, facing backlash from environmentalists"
-    },
-    {
-      "id": "71b227acf2ecc108e4824ec883d5ed84bdad194a",
-      "title": "France Becomes First EU Nation To Ban Social Media For Children Under 15",
-      "summary": "The ban won't cover online encyclopedias, or educational or scientific directories",
-      "url": "https://www.ndtv.com/world-news/social-media-ban-for-children-france-becomes-first-eu-nation-to-ban-social-media-for-children-under-15-11803975#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-22T04:13:22+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "France Becomes First EU Nation To Ban Social Media"
-    },
-    {
-      "id": "85229a18fb7344f6d7d1a1c1079561aea8f52d6f",
-      "title": "France passes law banning under-15s from social media",
-      "summary": "The law will require social media platforms in France to verify all users age from January.",
-      "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-22T03:50:55+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "France passes law banning under-15s from social media"
-    },
-    {
-      "id": "264c376c3bb2f4f23838b3d415e2f2d29e4886b0",
-      "title": "France Joins a Global Move Toward Restricting Social Media for Children",
-      "summary": "Its new law, the first of its kind enacted by a European country, will ban access to some accounts for anyone under 15.",
-      "url": "https://www.nytimes.com/2026/07/21/world/europe/france-social-media-ban.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-22T02:36:52+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "France Joins a Global Move Toward Restricting Social Media for Children"
-    },
-    {
-      "id": "859bec8c5fd96f2140603a61479e1e6b81f52930",
-      "title": "France becomes first EU country to ban social media access for under-15s",
-      "summary": "Parliament votes to stop children using apps such as TikTok in policy championed by Emmanuel MacronFrance’s parliament has approved a bill banning social media access for children under 15, making it the first EU country…",
-      "url": "https://www.theguardian.com/world/2026/jul/21/france-ban-social-media-access-under-15s",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-21T19:14:04+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "France becomes first EU country to ban social media access for under-15s"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-24T11:15:28Z"
+  "last_updated": "2026-07-25T10:45:58Z"
 }
