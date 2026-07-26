@@ -1,16 +1,38 @@
 {
   "country": "SA",
-  "score": 69,
+  "score": 68,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": -1,
-  "sources": 101,
+  "sources": 107,
   "sentiment": {
-    "positive": 3,
-    "neutral": 53,
-    "negative": 45
+    "positive": 4,
+    "neutral": 56,
+    "negative": 47
   },
   "latest_articles": [
+    {
+      "id": "f5d37fbf2938eef85349f6fcc47591352e3f20ac",
+      "title": "Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit.",
+      "summary": "In some cases, no direct line can be drawn from the president’s domestic nuclear agenda to his family or close allies. But they have overlapping business ties that could position them for gains.",
+      "url": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-26T09:02:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Pushing Nuclear Energy, Including Saudi Deal"
+    },
+    {
+      "id": "6f0c02a8ae9c179406f4b103346b7aa524ad4f74",
+      "title": "Houthis claim attack on Saudi oil refinery as Iran war widens to Red Sea",
+      "summary": "The strikes by Yemen's Iran-backed Houthi rebels could add to the pressure on global oil markets on top of disruptions caused by the closure of the Strait of Hormuz.",
+      "url": "https://www.washingtonpost.com/world/2026/07/25/houthis-claim-attack-saudi-oil-refinery-iran-war-widens-red-sea/",
+      "source": "World (Washington post)",
+      "published_at": "2026-07-25T20:14:19+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "attack on Saudi oil refinery as Iran war widens to Red Sea"
+    },
     {
       "id": "ccd677c19b6b92619b391d20792b34a7920be866",
       "title": "Iran War Live Updates: U.S. Strikes Abate, Even as Trump Considers Escalation",
@@ -23,6 +45,17 @@
       "evidence": "Saudi-led forces striking Houthi targets over the Red Sea"
     },
     {
+      "id": "79b277f8fd31fd86b50b9bb37cdf94a2c35a25e8",
+      "title": "Saudi military strikes Houthi targets in Yemen after the Iran-backed militia attacked Red Sea shipping",
+      "summary": "Saudi Arabia intercepted two ballistic missiles from Yemen, Greek security sources told Reuters, as fighting in a second front in the Iran war escalates.",
+      "url": "https://www.cnbc.com/2026/07/25/saudi-military-strikes-iran-backed-houthi-targets-yemen.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-25T10:22:58+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Saudi military strikes Houthi targets in Yemen"
+    },
+    {
       "id": "4cd3f310472b926bc70baf844578d43b39332d4c",
       "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
       "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
@@ -32,6 +65,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "missile attack on Saudi Arabia"
+    },
+    {
+      "id": "73c2c013724d4405ac82cc1fa7ad608a3420edf7",
+      "title": "Saudi Strikes Houthi-Rebel-Controlled Hodeidah Province In Yemen",
+      "summary": "Saudi strikes attacked Yemen's Red Sea governorate of Hodeidah on Friday.",
+      "url": "https://www.ndtv.com/world-news/saudi-strikes-houthi-rebel-controlled-hodeidah-province-in-yemen-11818885#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-24T21:53:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Saudi Strikes Houthi-Rebel-Controlled Hodeidah Province In Yemen"
     },
     {
       "id": "ed44e3b7f20b0766e1dadfd1085f44ac39277ac7",
@@ -76,6 +120,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "threatened to target Saudi vessels in a vital shipping route"
+    },
+    {
+      "id": "74a18effc25a0e3d2220b00a1631b05744de95e0",
+      "title": "Trump’s New Demand for Nuclear Deal Puts Saudis in a Bind",
+      "summary": "Saudi Arabia has long said that a condition of normalizing relations with Israel would be a pathway toward Palestinian statehood, a prospect that Israel’s current government has rejected.",
+      "url": "https://www.nytimes.com/2026/07/23/world/middleeast/trump-saudi-arabia-palestinian-state.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-23T23:16:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "Saudi Arabia has long said that a condition of normalizing relations with Israel"
     },
     {
       "id": "07839d7ec6229e743225c9e48ef3ca66a3433aee",
@@ -175,63 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "tankers struck off Saudi Arabia"
-    },
-    {
-      "id": "b9a681b562162f4ef9392d8791ab37f836dabd02",
-      "title": "US signs landmark nuclear deal with Saudi Arabia",
-      "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
-      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-23T09:17:50+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "US signs landmark nuclear deal with Saudi Arabia"
-    },
-    {
-      "id": "b2a896215302a31edc5a1a499d65eeacf9863307",
-      "title": "Houthis claim strikes on Saudi Arabian oil tankers as Rubio says Iran not ready to make a deal",
-      "summary": "Yemen's Houthis said they had targeted two Saudi Arabian oil tankers with drones and missiles for allegedly violating its maritime blockade.",
-      "url": "https://www.cnbc.com/2026/07/23/iran-war-us-trump-houthis-red-sea-oil.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-07-23T08:15:42+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Houthis claim strikes on Saudi Arabian oil tankers"
-    },
-    {
-      "id": "9433981d5dd702e0f86c0e33cf37f8879478f2d3",
-      "title": "Saudi Arabia’s Nuclear Plans",
-      "summary": "The U.S. will help the Saudis develop a civilian nuclear program, with uncertain consequences for the Middle East.",
-      "url": "https://www.nytimes.com/2026/07/22/world/saudi-nuclear-deal-trump-houthis.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-23T04:51:49+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "uncertain consequences for the Middle East"
-    },
-    {
-      "id": "341e3e413aabb9c54afd5c1b2ef1b6c5dfb94f61",
-      "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
-      "summary": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-23T03:48:27+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "maritime embargo\" against Saudi Arabia"
-    },
-    {
-      "id": "aee42b28e3d32963f419f85a07259f91cc2f8a1f",
-      "title": "Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea",
-      "summary": "The Saudi authorities confirmed a strike on one of the ships. These are the first claimed attacks since the Iranian-backed Yemeni group announced a blockade on Saudi Arabia.",
-      "url": "https://www.nytimes.com/2026/07/22/world/middleeast/houthis-saudi-oil-tankers-red-sea.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-23T02:59:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Strikes on 2 Saudi Oil Tankers in Red Sea"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-25T10:45:58Z"
+  "last_updated": "2026-07-26T10:55:50Z"
 }

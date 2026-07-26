@@ -1,16 +1,71 @@
 {
   "country": "DE",
-  "score": 65,
+  "score": 64,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": -1,
-  "sources": 498,
+  "sources": 495,
   "sentiment": {
     "positive": 58,
-    "neutral": 360,
-    "negative": 80
+    "neutral": 356,
+    "negative": 81
   },
   "latest_articles": [
+    {
+      "id": "aab4f9975e6287b30816467dc66e288f820f256d",
+      "title": "Berlin Police Search for Suspect in Fatal Attack on Pride Parade",
+      "summary": "The hunt for a 21-year-old man with links to local Islamic groups began early Sunday. The police said they were investigating the attack as a possible act of terrorism.",
+      "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-26T09:59:47+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Fatal Attack on Pride Parade"
+    },
+    {
+      "id": "d51e5b2399855a7654cdd1707ef55070067071d1",
+      "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+      "summary": "A 21-year-old suspect has been identified by police, but he has not been found.",
+      "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-26T08:14:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Berlin Pride attack as manhunt continues"
+    },
+    {
+      "id": "9157367197155398ec07791e49eee2fc2c45f225",
+      "title": "Police hunt for suspect after one killed and 16 injured in attack at Berlin Pride",
+      "summary": "Authorities ask for help finding 21-year-old, identified only as Abdul B, after van ramming in German capitalGerman authorities have issued a wanted notice for a fugitive suspect in the van ramming near Berlin’s Pride fe…",
+      "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-26T08:02:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "one killed and 16 injured in attack at Berlin Pride"
+    },
+    {
+      "id": "8e1fe054768480586c4fbd2509b80ebd761b4531",
+      "title": "Two killed after small plane crashes into house in Germany",
+      "summary": "A light aircraft crashed into a house roof in Ganderkesee, Germany. Two men, aged sixty-five and seventy-seven, were killed in the accident. Authorities conducted a complex recovery operation to remove the embedded wreck…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/two-killed-after-small-plane-crashes-into-house-in-germany/articleshow/132635203.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-07-25T23:25:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "plane crashes into house in Germany"
+    },
+    {
+      "id": "6d1797a2039ff3e3ada0394054e7fe334993fc8e",
+      "title": "Two Dead After Plane Crashes Onto German House's Roof",
+      "summary": "The light aircraft came down in a residential area of Ganderkesee, near Oldenburg",
+      "url": "https://www.ndtv.com/world-news/two-dead-after-plane-crashes-onto-german-houses-roof-11822304#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-25T18:33:17+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Two Dead After Plane Crashes Onto German House's Roof"
+    },
     {
       "id": "a62d184d8ea436dfdea5921d71058a61a4119cf1",
       "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
@@ -167,62 +222,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Nazi Germany"
-    },
-    {
-      "id": "167fba563426d0e8f2d6891413740ac26f6dcbae",
-      "title": "AliExpress fined record €550m by EU for failing to stop sale of illegal and fake goods",
-      "summary": "Chinese retail platform handed penalty over listings for items such as counterfeit products and unsafe toysBusiness live – latest updatesThe Chinese online retail platform AliExpress has been fined a record €550m (£470m)…",
-      "url": "https://www.theguardian.com/business/2026/jul/20/aliexpress-fined-by-eu-sale-of-illegal-fake-goods",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-20T10:56:16+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "2080b9c5341bf44f6e18c284e7fdbffea9cd564d",
-      "title": "As Europe Hardens Its Line, A Quiet German Back Channel Reaches Russia",
-      "summary": "The German government has publicly distanced itself from these meetings.",
-      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-vladimir-putin-the-hidden-diplomacy-linking-berlin-and-moscow-beyond-official-channels-11795101#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-20T10:50:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "A Quiet German Back Channel Reaches Russia"
-    },
-    {
-      "id": "bf3265ccb00f54c1ee0ac262254e89a37678361b",
-      "title": "German Parliament Leader Resigns Due To Pressure Over Surrogate Baby",
-      "summary": "Surrogacy is prohibited in Germany.",
-      "url": "https://www.ndtv.com/world-news/german-parliament-leader-jens-spahn-resigns-due-to-pressure-over-surrogate-baby-11791498#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-19T09:20:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "German Parliament Leader Resigns Due To Pressure Over Surrogate Baby"
-    },
-    {
-      "id": "f68a81ac07cff6b85fe35f9f1692f679b313de51",
-      "title": "Uproar Over Surrogate Baby Prompts German Official’s Sudden Resignation",
-      "summary": "Jens Spahn, a top leader of Chancellor Friedrich Merz’s party, resigned his post after announcing that he had a baby by surrogate, which is illegal in Germany.",
-      "url": "https://www.nytimes.com/2026/07/18/world/europe/jens-spahn-surrogacy-germany.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-18T15:30:32+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Surrogate Baby Prompts German Official’s Sudden Resignation"
-    },
-    {
-      "id": "3ed861653ce144fa6afd59eb2594a7949fc42d58",
-      "title": "German politician resigns over surrogacy child controversy",
-      "summary": "Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed.",
-      "url": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-18T15:23:31+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "German politician resigns over surrogacy child controversy"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-25T10:45:58Z"
+  "last_updated": "2026-07-26T10:55:50Z"
 }

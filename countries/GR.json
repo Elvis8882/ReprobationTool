@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 250,
+  "sources": 249,
   "sentiment": {
     "positive": 10,
-    "neutral": 217,
+    "neutral": 216,
     "negative": 24
   },
   "latest_articles": [
+    {
+      "id": "79b277f8fd31fd86b50b9bb37cdf94a2c35a25e8",
+      "title": "Saudi military strikes Houthi targets in Yemen after the Iran-backed militia attacked Red Sea shipping",
+      "summary": "Saudi Arabia intercepted two ballistic missiles from Yemen, Greek security sources told Reuters, as fighting in a second front in the Iran war escalates.",
+      "url": "https://www.cnbc.com/2026/07/25/saudi-military-strikes-iran-backed-houthi-targets-yemen.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-25T10:22:58+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Greek security sources told Reuters"
+    },
     {
       "id": "2cb1fbb381b4d701b9c150bb8251c12c52dc6846",
       "title": "‘No time to waste’: Greece bids for Mount Olympus to be included on Unesco list of world heritage sites",
@@ -204,19 +215,8 @@
       "published_at": "2026-07-10T11:38:29+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "f16ee91bfa70263a70f540843b8ba0495eb99b4b",
-      "title": "Greece Arrests 3 in Connection With Bombings Targeting Governing Party",
-      "summary": "The attacks killed one person and injured others. The Greek authorities said an investigation would continue.",
-      "url": "https://www.nytimes.com/2026/07/10/world/europe/greece-bombing-arrests.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-10T11:26:02+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Greece Arrests 3 in Connection With Bombings Targeting Governing Party"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-25T10:45:58Z"
+  "last_updated": "2026-07-26T10:55:50Z"
 }

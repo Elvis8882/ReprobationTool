@@ -3,11 +3,11 @@
   "score": 80,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -2,
+  "trend": 0,
   "sources": 43,
   "sentiment": {
-    "positive": 2,
-    "neutral": 13,
+    "positive": 1,
+    "neutral": 14,
     "negative": 28
   },
   "latest_articles": [
@@ -21,6 +21,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "launch drones at targets in Bahrain, Jordan"
+    },
+    {
+      "id": "cc4ca3cb3b331e1d7ccca53f977a91ce8b422d1b",
+      "title": "Middle East crisis: US carries out strikes across Iran as Tehran targets American bases in region – as it happened",
+      "summary": "Latest attacks come after Trump vowed ‘major military punishment’ for Tehran and its Houthi alliesAs we reported earlier, Iran’s military said on Friday that it carried out attacks targeting US military assets in Bahrain…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/24/us-iran-donald-trump-iraq-bahrain-kuwait-jordan-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-24T17:20:09+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "targeting US military assets in Bahrain, Jordan"
     },
     {
       "id": "8e8ae412b86791b3a7838d8b969052b5d2266fd8",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "attack on Jordan base"
-    },
-    {
-      "id": "0357d9b7b0846a019ecb9634f9a9c91ee3e1489e",
-      "title": "Deaths of 2 U.S. Troops in Jordan Brings American Toll in the War With Iran to 16",
-      "summary": "President Trump vowed to avenge the deaths of any U.S. military personnel.",
-      "url": "https://www.nytimes.com/2026/07/18/world/middleeast/us-troops-killed-iran-war-jordan.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-18T22:53:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Deaths of 2 U.S. Troops in Jordan Brings American Toll in the War With Iran to 16"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-25T10:45:58Z"
+  "last_updated": "2026-07-26T10:55:50Z"
 }
