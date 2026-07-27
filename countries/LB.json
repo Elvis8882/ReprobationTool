@@ -1,14 +1,14 @@
 {
   "country": "LB",
-  "score": 4,
+  "score": 6,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 1,
-  "sources": 219,
+  "trend": 2,
+  "sources": 217,
   "sentiment": {
     "positive": 8,
-    "neutral": 74,
-    "negative": 137
+    "neutral": 75,
+    "negative": 134
   },
   "latest_articles": [
     {
@@ -21,6 +21,17 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Lebanese displaced by war turn to satellites"
+    },
+    {
+      "id": "69c2ff2bc3b512db3edbf07b89cea09a39f13629",
+      "title": "Japanese Militant in Tel Aviv Airport Attack Dies in Lebanon at 78",
+      "summary": "Kozo Okamoto survived a 1972 suicide mission he undertook with two other members of the Japanese Red Army, a left-wing militant group aligned with the Popular Front for the Liberation of Palestine.",
+      "url": "https://www.nytimes.com/2026/07/24/world/middleeast/japanese-militant-tel-aviv-airport.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-24T19:28:52+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Dies in Lebanon"
     },
     {
       "id": "81e1693b99adfbd9b0b3703317f4431370838a91",
@@ -219,19 +230,8 @@
       "sentiment": "mixed",
       "confidence": 0.6,
       "evidence": "Hezbollah stronghold, is stirring back to life amid a tense truce"
-    },
-    {
-      "id": "892eaa0183ba571c2b5f56197b75302e933f5a08",
-      "title": "Shadow war: how use of proxy forces by Iran, Israel and US is driving Middle East instability",
-      "summary": "Across region there is a push to disarm militia and reinforce state authority but the temptation to use proxies remainsAs Marco Rubio ended his brief visit to the Middle East on Friday, he sought to cast in the best poss…",
-      "url": "https://www.theguardian.com/world/2026/jun/28/gulf-us-iran-war-proxies-middle-east",
-      "source": "World news - The Guardian",
-      "published_at": "2026-06-28T07:00:03+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "halt its support of Hamas in Gaza, Hezbollah in Lebanon, militia in Iraq"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-26T10:55:50Z"
+  "last_updated": "2026-07-27T12:37:43Z"
 }

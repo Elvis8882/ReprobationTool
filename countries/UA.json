@@ -1,16 +1,71 @@
 {
   "country": "UA",
-  "score": 34,
+  "score": 33,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 2,
-  "sources": 676,
+  "trend": -1,
+  "sources": 675,
   "sentiment": {
-    "positive": 299,
-    "neutral": 138,
-    "negative": 240
+    "positive": 298,
+    "neutral": 137,
+    "negative": 241
   },
   "latest_articles": [
+    {
+      "id": "5f5859281b5f77a375353c3631cbb6f2154ddba2",
+      "title": "Ukrainian Attacks in Crimea Deprive Towns of Power and Water",
+      "summary": "Ukraine’s campaign to bring the war home to ordinary Russians is meant to pressure the Kremlin to negotiate. Moscow has acted as if there were no crisis.",
+      "url": "https://www.nytimes.com/2026/07/27/world/europe/ukraine-drones-crimea-blackouts.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-27T09:04:39+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukraine’s campaign to bring the war home to ordinary Russians"
+    },
+    {
+      "id": "8a5d2f54d5e99082dcd4e8a1a20d8cf98f13380c",
+      "title": "2 Dead After Russian Missiles Hit Ukraine Overnight",
+      "summary": "Blasts rocked Kyiv in the early hours of Sunday.",
+      "url": "https://www.ndtv.com/world-news/2-dead-after-russian-missiles-hit-ukraine-overnight-11825479#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-26T18:27:08+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "2 Dead After Russian Missiles Hit Ukraine Overnight"
+    },
+    {
+      "id": "cd8485714f7e44a9a14ce647367b477d97c2a11e",
+      "title": "'Blatant Violation': Iran's Araghchi Slams Ukraine Over Attack On Its Ship",
+      "summary": "Iran's foreign ministry said the attack caused the ship to explode.",
+      "url": "https://www.ndtv.com/world-news/blatant-violation-irans-araghchi-slams-ukraine-over-attack-on-its-ship-11825421#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-26T18:04:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Iran's Araghchi Slams Ukraine Over Attack On Its Ship"
+    },
+    {
+      "id": "ac5fd99ce7bb80963765355890c44c33a747c7a2",
+      "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
+      "summary": "The latest attacks by Ukraine, combined with Saudi military strikes on Iran-backed Houthi targets in Yemen, represent a widening of the Middle East conflict.",
+      "url": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-07-26T10:14:39+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukraine strikes Iranian vessels in Caspian Sea"
+    },
+    {
+      "id": "8ac8a55fb7ed355b96b7067442306d3483bd8a4a",
+      "title": "Ukraine Hits Siberian Oil Refinery As Kazakh President Urges Putin To End War",
+      "summary": "Kyiv has said its retaliatory strikes are aimed at damaging Moscow's war effort",
+      "url": "https://www.ndtv.com/world-news/ukraine-hits-siberian-oil-refinery-as-kazakh-president-urges-putin-to-end-war-11822293#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-25T18:28:14+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukraine Hits Siberian Oil Refinery"
+    },
     {
       "id": "82b0b4ff4bb7b7d5994c9b618eb6f60c340d7799",
       "title": "What’s behind Maga influencer Laura Loomer’s about-face on Ukraine?",
@@ -175,63 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "Zelensky’s Dizzying U-Turn...could weaken his position."
-    },
-    {
-      "id": "d13f5fe8846cc58e384209195fc469465812246a",
-      "title": "E.U. imposes more sanctions on Russia, in compromise deal",
-      "summary": "European Union members are looking to keep up pressure on Russia as Ukraine’s outlook improves, even as some countries seek exemptions.",
-      "url": "https://www.washingtonpost.com/world/2026/07/23/eu-imposes-more-sanctions-russia-compromise-deal/",
-      "source": "World (Washington post)",
-      "published_at": "2026-07-23T12:43:15+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine’s outlook improves"
-    },
-    {
-      "id": "8109fbc1a7e6bc173a6bd6732f098dbb9734330b",
-      "title": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon",
-      "summary": "Kyiv is escalating its air war by striking commercial warehouses, trying to bring the conflict closer to home for ordinary Russians.",
-      "url": "https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-23T10:21:49+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "escalating its air war by striking commercial warehouses"
-    },
-    {
-      "id": "d06438c500b0e65f7cf4f02afb709a41a00f63bd",
-      "title": "Russia’s Amazon-style retail giant Wildberries is now in Ukraine’s crosshairs. Here's why",
-      "summary": "Ukraine has ratcheted up its attacks on Russia's Amazon-style retail giant Wildberries, signaling a new phase in the war.",
-      "url": "https://www.cnbc.com/2026/07/23/ukraine-russia-war-wildberries-drones-amazon.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-07-23T09:54:53+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukraine has ratcheted up its attacks on Russia's Amazon-style retail giant"
-    },
-    {
-      "id": "bea210e2aedf0a1db1fe8513f5632e17785a310b",
-      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-      "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
-      "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-23T06:15:35+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine's attacks on Wildberries"
-    },
-    {
-      "id": "cca625262e6b32e07409802ddb82e8e370769e44",
-      "title": "Why is Zelensky firing top leaders as Ukraine’s outlook improves?",
-      "summary": "Amid battlefield gains, President Volodymyr Zelensky removed popular officials in a major shake-up.",
-      "url": "https://www.washingtonpost.com/world/2026/07/22/why-is-zelensky-firing-top-leaders-ukraines-outlook-improves/",
-      "source": "World (Washington post)",
-      "published_at": "2026-07-22T19:11:38+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Zelensky removed popular officials in a major shake-up"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-26T10:55:50Z"
+  "last_updated": "2026-07-27T12:37:43Z"
 }
