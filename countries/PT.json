@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 203,
+  "sources": 195,
   "sentiment": {
     "positive": 5,
-    "neutral": 194,
+    "neutral": 186,
     "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "91f278ae95359319dc2efe633e9a25c05fee272e",
+      "title": "Zoo staff rescue near-extinct snails from remote rock",
+      "summary": "Just 21 Madeiran land snails were found clinging to a rock on Portugal's Bugio Island, say conservationists.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-28T08:50:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Portugal's Bugio Island"
+    },
     {
       "id": "aeee6f8a81ef366f8b72cbb7d7baa9ec1f9b6ed8",
       "title": "New Heat Wave Could Intensify Wildfires in France and Spain",
@@ -202,18 +213,8 @@
       "published_at": "2026-07-09T14:15:26+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "f0d42565bf47e6f5a0ebcf8d9461180be6e2b835",
-      "title": "Trump Lashes Out at Spain: ‘Cut Off All Trade.’ Here’s Why That’s Unlikely.",
-      "summary": "A move against Spain would face political, legal and practical issues and probably provoke a wider trade war with the European Union. It could also roil markets.",
-      "url": "https://www.nytimes.com/2026/07/08/world/europe/trump-spain-trade-us-iran-nato.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-08T18:07:31+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-27T12:37:43Z"
+  "last_updated": "2026-07-28T11:32:51Z"
 }

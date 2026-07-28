@@ -1,16 +1,27 @@
 {
   "country": "LB",
-  "score": 6,
+  "score": 7,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 2,
+  "trend": 1,
   "sources": 217,
   "sentiment": {
     "positive": 8,
-    "neutral": 75,
-    "negative": 134
+    "neutral": 76,
+    "negative": 133
   },
   "latest_articles": [
+    {
+      "id": "64639e0a340378ae9e0cd46558a2173537cfc729",
+      "title": "A dog saved Houssein Hamze from a bomb. When war returned, he stayed to care for Lebanon’s animals",
+      "summary": "In normal times the Mashala shelter founder takes in strays, but in wartime, he is the only lifeline for animals in the areaDuring Israel’s 2006 war against Hezbollah, Houssein Hamze woke up one night to the sound of bar…",
+      "url": "https://www.theguardian.com/world/2026/jul/28/man-who-stayed-to-save-lebanon-wartime-animals-mashala-shelter",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-28T04:00:28+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "stayed to care for Lebanon’s animals"
+    },
     {
       "id": "3e9fa5e5e612de8dc28689e646223e303b043e32",
       "title": "Lebanese displaced by war turn to satellites to check their homes - NPR",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Israel Links With Lebanon... Southern Lebanon Strikes Continue"
-    },
-    {
-      "id": "fe28cbd6cb0df55025f34256fbd3fa1811b98b69",
-      "title": "What Life Is Like in Dahiya Amid a Hezbollah-Israel Truce in Lebanon",
-      "summary": "Dahiya, a sprawling area and Hezbollah stronghold, is stirring back to life amid a tense truce with Israel. “This war has brought so much loss,” one resident said.",
-      "url": "https://www.nytimes.com/2026/06/28/world/middleeast/beirut-dahiya-israel-lebanon-cease-fire.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-28T09:00:47+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.6,
-      "evidence": "Hezbollah stronghold, is stirring back to life amid a tense truce"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-27T12:37:43Z"
+  "last_updated": "2026-07-28T11:32:51Z"
 }

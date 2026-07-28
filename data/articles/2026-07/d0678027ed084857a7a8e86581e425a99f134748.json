@@ -1,0 +1,41 @@
+{
+  "id": "d0678027ed084857a7a8e86581e425a99f134748",
+  "title": "Zelensky is first foreign leader to visit Burnham, U.K.’s new prime minister",
+  "summary_full": "The meeting at a British naval base where Ukrainian military personnel are being trained highlighted ongoing support for Kyiv against Russia.",
+  "summary_public": "The meeting at a British naval base where Ukrainian military personnel are being trained highlighted ongoing support for Kyiv against Russia.",
+  "url": "https://www.washingtonpost.com/world/2026/07/27/zelensky-is-first-foreign-leader-visit-burnham-uks-new-prime-minister/",
+  "published_at": "2026-07-27T15:40:14+00:00",
+  "source": "World (Washington post)",
+  "language": "en",
+  "countries_detected": [
+    "GB",
+    "RU",
+    "UA"
+  ],
+  "countries_scored": [
+    "GB",
+    "RU",
+    "UA"
+  ],
+  "sentiment_by_country": {
+    "GB": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "British naval base where Ukrainian military personnel are being trained"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "support for Kyiv against Russia"
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "highlighted ongoing support for Kyiv"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-07-28T11:32:51+00:00",
+  "processed_at": "2026-07-28T11:32:51+00:00"
+}
