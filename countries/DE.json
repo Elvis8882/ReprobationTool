@@ -1,16 +1,49 @@
 {
   "country": "DE",
-  "score": 60,
+  "score": 61,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 479,
+  "trend": 1,
+  "sources": 468,
   "sentiment": {
-    "positive": 58,
-    "neutral": 336,
-    "negative": 85
+    "positive": 57,
+    "neutral": 328,
+    "negative": 83
   },
   "latest_articles": [
+    {
+      "id": "43a0afb912b81dd71d51a48be13de52eccf406cf",
+      "title": "Germany’s AfD Opposes Pride Flags but May Win Support After L.G.B.T.Q. Attack",
+      "summary": "Analysts say a recent attack on a Pride celebration is likely to focus fall elections on issues favoring the far-right Alternative for Germany party.",
+      "url": "https://www.nytimes.com/2026/07/28/world/europe/berlin-pride-attack-afd-politics.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-28T15:02:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Germany’s AfD Opposes Pride Flags but May Win Support"
+    },
+    {
+      "id": "f286059d215a2483bb0809694bc30a0dc689598e",
+      "title": "German scientists discovered naturally occurring microbes that removed 95% of dissolved uranium from contaminated water",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/science/german-scientists-discovered-naturally-occurring-microbes-that-removed-95-of-dissolved-uranium-from-contaminated-water/articleshow/132678290.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-07-28T07:44:34+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "German scientists discovered naturally occurring microbes that removed 95% of dissolved uranium"
+    },
+    {
+      "id": "15301df3cbb469f56c4ccf07aa11c513038cb079",
+      "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
+      "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-27T12:33:31+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Anger as Berlin Pride attacker revealed to have been freed"
+    },
     {
       "id": "cabf7acc7939ea55d6effca653f144091aee4b3d",
       "title": "Gender Pay Transparency Directive: European Commission reconfirms it expects full compliance - DLA Piper GENIE",
@@ -41,6 +74,17 @@
       "published_at": "2026-07-27T10:47:12+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "5b26d2103afcfdeb47dd0c33477244bf121c0f10",
+      "title": "Berlin Pride Attack Suspect Tried to Join ISIS, Prosecutors Say",
+      "summary": "The man was sentenced to prison for preparing a serious act of violence against the state but released from detention in May.",
+      "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-27T10:24:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Berlin Pride Attack Suspect Tried to Join ISIS"
     },
     {
       "id": "2098bb2dd7016d0c0719bc553dd88fb25f8efd39",
@@ -182,51 +226,8 @@
       "published_at": "2026-07-24T13:17:00+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "87f407c501b7b0d251a3f987865fbe0b8b6d6b65",
-      "title": "VW profits plunge and deep job cuts loom amid tough Chinese competition",
-      "summary": "Carmaker, which is pushing through cost-cutting programme, expects sales to fall by up to 3% this yearVolkswagen has reported a steep fall in profits and cut its revenue forecast amid a sales slump in China, as the Germa…",
-      "url": "https://www.theguardian.com/business/2026/jul/24/vw-profits-plunge-and-deep-job-cuts-loom-amid-tough-chinese-competition",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-24T10:34:14+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "VW profits plunge and deep job cuts loom amid tough Chinese competition"
-    },
-    {
-      "id": "44f0f492bfd10c013b6a4f164b7b6776c67723ce",
-      "title": "Spain invokes first wildfire emergency as fires rage across Europe; over 10,000 evacuated",
-      "summary": "Spain declared a national emergency due to widespread wildfires. France requested European Union assistance for a major blaze near Bordeaux. Tens of thousands were evacuated from affected tourist and residential areas. T…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/all-out-of-control-spain-invokes-first-wildfire-emergency-as-fires-rage-across-europe-over-10000-evacuated/articleshow/132601441.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-07-24T09:35:14+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "a6424af56c2bba5022322d7d882a7a9db6edba44",
-      "title": "German farmer saves 'gay' sheep from slaughter and uses proceeds to help people flee homophobic persecution",
-      "summary": "A German farmer rescues gay sheep, which are often discarded by the agricultural industry.  His Rainbow Wool project transforms these animals into symbols for animal and human rights.  Profits from wool sales and collabo…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/meet-michael-stucke-german-farmer-who-saves-gay-sheep-from-slaughter-and-uses-proceeds-to-help-people-flee-homophobic-persecution/articleshow/132600145.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-07-24T08:56:05+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "German farmer saves 'gay' sheep from slaughter and uses proceeds to help people"
-    },
-    {
-      "id": "8b85b1494457edbb65ec1c29a45042f22e49c95e",
-      "title": "Volkswagen CFO addresses plant closures, job losses as profits sink",
-      "summary": "German auto giant Volkswagen on Friday reported weaker-than-expected second-quarter profit and revised down its sales forecast for 2026.",
-      "url": "https://www.cnbc.com/2026/07/24/volkswagen-earnings-autos-germany.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-07-24T07:56:12+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Volkswagen CFO addresses plant closures, job losses as profits sink"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-28T11:32:51Z"
+  "last_updated": "2026-07-29T11:39:37Z"
 }
