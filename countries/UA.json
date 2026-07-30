@@ -1,16 +1,38 @@
 {
   "country": "UA",
-  "score": 35,
+  "score": 31,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 4,
-  "sources": 675,
+  "trend": -4,
+  "sources": 671,
   "sentiment": {
-    "positive": 301,
-    "neutral": 134,
-    "negative": 241
+    "positive": 296,
+    "neutral": 132,
+    "negative": 243
   },
   "latest_articles": [
+    {
+      "id": "60fc1b6ee082931d93191722ef44d8d5e723b5cc",
+      "title": "Russia accused of violating Polish airspace after missile explodes near village",
+      "summary": "Polish PM heads to scene of crater thought to have occurred during deadly wave of attacks on Ukraine Russia has been accused of violating Polish airspace after a missile exploded in a field in the east of the country dur…",
+      "url": "https://www.theguardian.com/world/2026/jul/30/ukraine-russia-missile-strikes-attack-kyiv",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-30T10:21:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "deadly wave of attacks on Ukraine"
+    },
+    {
+      "id": "30556073fd1957f58c450e42cd8a15f310539e28",
+      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+      "summary": "The unidentified object caused a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine during a Russian attack on the city of Lviv.",
+      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-30T09:56:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russian attack on the city of Lviv"
+    },
     {
       "id": "446674ffcab8aa869650f857660e38ae28bc3038",
       "title": "Fauci to face Republican questions over Covid pandemic origins – US politics live",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "deadly Russian strikes hit cities and ports"
-    },
-    {
-      "id": "5f5859281b5f77a375353c3631cbb6f2154ddba2",
-      "title": "Ukrainian Attacks in Crimea Deprive Towns of Power and Water",
-      "summary": "Ukraine’s campaign to bring the war home to ordinary Russians is meant to pressure the Kremlin to negotiate. Moscow has acted as if there were no crisis.",
-      "url": "https://www.nytimes.com/2026/07/27/world/europe/ukraine-drones-crimea-blackouts.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-27T09:04:39+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukraine’s campaign to bring the war home to ordinary Russians"
-    },
-    {
-      "id": "702c5e1d5d905b483f725c850e9cac97e4542651",
-      "title": "UK PM pledges continued support for Ukraine ahead of Zelensky visit",
-      "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-27T06:48:02+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "continued support for Ukraine ahead of Zelensky visit"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-29T11:39:37Z"
+  "last_updated": "2026-07-30T11:21:26Z"
 }

@@ -1,16 +1,60 @@
 {
   "country": "IQ",
-  "score": 88,
+  "score": 85,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 44,
+  "trend": -3,
+  "sources": 48,
   "sentiment": {
     "positive": 4,
     "neutral": 21,
-    "negative": 19
+    "negative": 23
   },
   "latest_articles": [
+    {
+      "id": "3e12b1ad0da79cecd0b52ad82b35f03bb3a15576",
+      "title": "New Strikes Engulf More Countries in the Iran War",
+      "summary": "The U.S. unleashed new strikes on Iran after a day in which attacks on Iraq, Jordan and Egypt threatened to expand the scope of the war.",
+      "url": "https://www.nytimes.com/2026/07/29/world/middleeast/iran-war-us-jordan-saudi-iraq.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-30T01:34:14+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "attacks on Iraq, Jordan and Egypt threatened to expand the scope of the war"
+    },
+    {
+      "id": "bb3d4466011c9e9a0c45682d96cd04074bf1a1c4",
+      "title": "US-Saudi strikes in Iraq push region into ‘uncharted territory’, analysts warn",
+      "summary": "Riyadh’s decision to join US in strikes on Iran-backed militia further complicates widening and ‘unpredictable’ warMiddle East crisis – live updatesUS-Saudi strikes on Iran-backed militia in Iraq have pushed the region i…",
+      "url": "https://www.theguardian.com/world/2026/jul/29/us-saudi-strikes-in-iraq-have-pushed-the-region-into-uncharted-territory-analysts-warn",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-29T17:55:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "US-Saudi strikes in Iraq push region into ‘uncharted territory’"
+    },
+    {
+      "id": "91da63b44d2f4ef8c1af2093e4bde2ef0244bba8",
+      "title": "Iran War Live Updates: U.S. and Saudi Airstrikes Drag More Countries Into Fighting",
+      "summary": "Global oil prices jumped on Wednesday after the U.S. and Saudi Arabia said they had carried out joint airstrikes on Iranian proxies in Iraq.",
+      "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
+      "source": "NYT > World News",
+      "published_at": "2026-07-29T11:18:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "joint airstrikes on Iranian proxies in Iraq"
+    },
+    {
+      "id": "1df098510da4ed8bf0f7672500d33c18e61fa903",
+      "title": "Saudi Arabia joins U.S. military strikes on Iranian proxies",
+      "summary": "The rare joint operation in Iraq underscores the risk that the Iran conflict could expand. It came after Iran fired missiles at a US. base in Jordan.",
+      "url": "https://www.washingtonpost.com/national-security/2026/07/28/us-says-it-shot-down-iranian-missiles-targeting-troops-middle-east/",
+      "source": "World (Washington post)",
+      "published_at": "2026-07-29T10:07:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "U.S. military strikes on Iranian proxies in Iraq"
+    },
     {
       "id": "61f1ebc9a8ddde4bba20acbe93afa5fa4ea39285",
       "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
@@ -186,52 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "ceremonies held in Iraq"
-    },
-    {
-      "id": "7e10d4578b16cf6bf7847f1fcc8a8bddb8593e6b",
-      "title": "Iraqis Turn Out in Droves to Mourn Khamenei in Show of Solidarity",
-      "summary": "In the cities of Najaf and Karbala, home to two of Shiite Islam’s holiest sites, hundreds of thousands attended commemorations for Ayatollah Ali Khamenei, who extended Iran’s influence in Iraq.",
-      "url": "https://www.nytimes.com/2026/07/08/world/middleeast/iraq-funeral-ayatollah-khamenei.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-08T11:03:01+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "hundreds of thousands attended commemorations for Ayatollah Ali Khamenei"
-    },
-    {
-      "id": "b3cbb864f023a083e7ee0f739d9966fda6314afd",
-      "title": "In Iraq, huge crowds mourning Iranian leader reveal limits of U.S. role",
-      "summary": "Some officials said the outpouring of grief was intended to show the continuing close ties between Iraq and Iran despite U.S. efforts to hold sway in Baghdad.",
-      "url": "https://www.washingtonpost.com/world/2026/07/08/funeral-rites-irans-supreme-leader-shift-shiite-cities-iraq/",
-      "source": "World (Washington post)",
-      "published_at": "2026-07-08T10:21:27+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "close ties between Iraq and Iran"
-    },
-    {
-      "id": "b50439a266cd70f45edc8d7f1a2c6cc4f20d8346",
-      "title": "Funeral of Iran's former supreme leader 'intensely political moment'",
-      "summary": "Authorities expect up to 20 million people to attend ceremonies across Iran and Iraq over the coming days.",
-      "url": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-04T21:46:43+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "across Iran and Iraq"
-    },
-    {
-      "id": "32c61b4e5ddf5786f72d9f4f7e512e3d774fc23f",
-      "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
-      "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
-      "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-04T09:45:55+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": ""
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-29T11:39:37Z"
+  "last_updated": "2026-07-30T11:21:26Z"
 }

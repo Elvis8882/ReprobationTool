@@ -4,13 +4,35 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 660,
+  "sources": 652,
   "sentiment": {
-    "positive": 34,
-    "neutral": 218,
-    "negative": 408
+    "positive": 33,
+    "neutral": 215,
+    "negative": 404
   },
   "latest_articles": [
+    {
+      "id": "825a663bd916b617bce90220300bdff3c6d392ca",
+      "title": "Israel Strikes Mosque in Gaza City",
+      "summary": "The Israeli military accused Hamas of using the mosque to store weapons. The Hamas-run government’s media office said Israel’s claims aimed to justify its attacks on mosques.",
+      "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-30T01:54:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel Strikes Mosque in Gaza City"
+    },
+    {
+      "id": "d0cf17452ce3a934bf5c6942fe0dc43cf8b0b785",
+      "title": "Hezbollah Attacks Strategic Area in Southern Lebanon, Israel Says",
+      "summary": "The Israeli military said the Iran-backed militant group had used an explosive drone to target one of its vehicles on a strategic ridge, raising fears of a renewed escalation.",
+      "url": "https://www.nytimes.com/2026/07/29/world/middleeast/israel-hezbollah-lebanon.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-29T14:39:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Hezbollah Attacks Strategic Area in Southern Lebanon, Israel Says"
+    },
     {
       "id": "446674ffcab8aa869650f857660e38ae28bc3038",
       "title": "Fauci to face Republican questions over Covid pandemic origins – US politics live",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "US-Israeli war with Iran has again escalated"
-    },
-    {
-      "id": "61fa1e5b3c6429ce92fa82a504f7b2a02db543ee",
-      "title": "Israel PM Orders New West Bank Outposts After Deadly Clash",
-      "summary": "Violence in the West Bank has surged since the Gaza war began with Hamas's October 2023 attack on Israel.",
-      "url": "https://www.ndtv.com/world-news/israel-pm-benjamin-netanyahu-orders-new-west-bank-outposts-after-deadly-clash-11818988#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-25T00:05:48+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Israel PM Orders New West Bank Outposts After Deadly Clash"
-    },
-    {
-      "id": "22c51bb32bd881286d0d967cfb946fd06da0a61c",
-      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-24T22:49:59+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Four Palestinians and two Israelis killed in West Bank shooting"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-29T11:39:37Z"
+  "last_updated": "2026-07-30T11:21:26Z"
 }

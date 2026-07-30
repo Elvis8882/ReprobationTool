@@ -1,16 +1,60 @@
 {
   "country": "FR",
-  "score": 63,
+  "score": 58,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
-  "sources": 633,
+  "trend": -5,
+  "sources": 641,
   "sentiment": {
     "positive": 81,
-    "neutral": 458,
-    "negative": 94
+    "neutral": 460,
+    "negative": 100
   },
   "latest_articles": [
+    {
+      "id": "560ba7808011a32766c682b7353cb28d5e0d6995",
+      "title": "Three people found dead on small boat in Channel crossing attempt",
+      "summary": "Group of migrants found unresponsive off coast of Dunkirk after attempting to reach UKThree people have died while trying to reach the UK on a small boat after one of the busiest days for Channel crossings this year.The…",
+      "url": "https://www.theguardian.com/world/2026/jul/30/small-boat-deaths-channel-crossing-attempt",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-30T10:42:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "found dead on a boat off the coast of Dunkirk"
+    },
+    {
+      "id": "b5755e19b8fd6c1764fd57cf68ccffea73fecb70",
+      "title": "Wildfires in Greece Kill 3 Firefighters as Blazes Still Burn in France and Spain",
+      "summary": "Greece also worked to contain blazes on Lesbos and in the Peloponnese, where another firefighter died, in the midst of a brutal wildfire season for Europe.",
+      "url": "https://www.nytimes.com/2026/07/30/world/europe/wildfires-europe-greece.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-30T10:31:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Blazes Still Burn in France and Spain"
+    },
+    {
+      "id": "607e2fd0baaa8cf1447845bbdd9afed13dbb0257",
+      "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
+      "summary": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations.",
+      "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-29T16:49:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "locals fighting France wildfire"
+    },
+    {
+      "id": "1f4edfa3ec5eec2297fb95c54bd27c1b742ef887",
+      "title": "Planes dump water on French wildfires as temperatures rise",
+      "summary": "Authorities have been trying to contain the wildfires, which have been burning for days.",
+      "url": "https://www.bbc.co.uk/news/videos/cly8xvvj8yro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-29T14:25:33+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Planes dump water on French wildfires as temperatures rise"
+    },
     {
       "id": "e23d54ebb245abb065a25326355c10a98c36a8c1",
       "title": "In 2018, an undocumented migrant scaled a Paris apartment building to save a four-year-old boy hanging from a fourth-floor balcony, earning the nickname 'Spider-Man of Paris'",
@@ -21,6 +65,39 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "honoured by the French president"
+    },
+    {
+      "id": "9282b9f0a4478f1c26055689495cbff9a9f8acd5",
+      "title": "Wildfires Slow in France and Spain, but Worse May Be Ahead",
+      "summary": "Firefighters have contained vast fires in both countries, but winds are high and temperatures rising. Spain’s prime minister said the next 12 hours would be “decisive.”",
+      "url": "https://www.nytimes.com/2026/07/29/world/europe/wildfires-spain-france.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-29T10:37:06+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Wildfires Slow in France and Spain"
+    },
+    {
+      "id": "9cbfa73706e2026306e5589fef1b8bf883388a22",
+      "title": "Petrol back above $2 a litre in some areas – as it happened",
+      "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastSpecially designed Airbus completes marathon 24-hour flight before joining Qantas fleetA specially modified Airbus A350 plane touched down…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-29T07:36:19+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "A specially modified Airbus A350 plane touched down in France"
+    },
+    {
+      "id": "44c682a32aec7d7a43092836d63f526751dffd52",
+      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+      "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-29T04:43:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Wildfires in south-west France flare up"
     },
     {
       "id": "cfa91b5979e79a4127816eab5d37b429138dcec3",
@@ -43,6 +120,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Fire Raging Near Bordeaux Brings More Bad News for Its Vineyards"
+    },
+    {
+      "id": "5cbf4457a16348fb6484d275612d7683de3513bd",
+      "title": "Badenoch urges Burnham to cancel prisoners’ early release scheme – UK politics live",
+      "summary": "The Conservative party leader said that Labour’s plan allows for too many serious offenders to be freed earlyIt is not just the Russians firing on Brits in the English Channel; Chris Philp, the shadow home secretary, has…",
+      "url": "https://www.theguardian.com/politics/live/2026/jul/28/andy-burnham-education-tories-ai-localism-devolution-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-28T11:12:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "French warship approached close and fired 17 live rounds behind us"
     },
     {
       "id": "9f2442662df11501324a2daceee1a50ee6b150d3",
@@ -142,96 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "US Diplomats Walk Out On France At UN Meeting"
-    },
-    {
-      "id": "0eba04476dc8655eb91c657827e29fbc0739d196",
-      "title": "Video: Man With 2 Big Knives In Hands, Stabs 3 Women, One Of Them Pregnant",
-      "summary": "Of the three victims, one was pregnant, according to French media reports.",
-      "url": "https://www.ndtv.com/world-news/allah-commanded-me-says-man-who-attacked-3-women-with-knives-in-paris-11830770#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-28T04:51:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Man With 2 Big Knives In Hands, Stabs 3 Women"
-    },
-    {
-      "id": "9656ffac25623855915b033a5aa56adc7acb9a20",
-      "title": "France and Spain race to contain huge wildfires before fresh heatwave begins",
-      "summary": "Coming days are ‘absolutely critical’ for firefighters before temperatures rise again this week, officials say Firefighters in France and Spain are racing to bring huge wildfires under control before another heatwave thi…",
-      "url": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-28T02:37:27+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "France and Spain race to contain huge wildfires"
-    },
-    {
-      "id": "a3653011e5694063a71a57b88a00cc27ba728ea0",
-      "title": "Heat Wave Threatens Further Wildfire Spread in France and Spain",
-      "summary": "The record wildfires, which have destroyed more than 200 homes and prompted large evacuations, could intensify with the arrival of a new heat wave.",
-      "url": "https://www.nytimes.com/2026/07/27/world/europe/france-spain-fires.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-27T20:30:03+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "wildfires, which have destroyed more than 200 homes"
-    },
-    {
-      "id": "43147b68aff2963a81f6b20a687298506aa0bab1",
-      "title": "As Communities Unite Against Europe’s Wildfires, Politicians Trade Blows",
-      "summary": "Spain’s center-left accused conservatives of underfunding the disaster response, while critics of France’s government decried delays.",
-      "url": "https://www.nytimes.com/2026/07/27/world/europe/europe-wildfires-politician-response.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-27T19:36:33+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "critics of France’s government decried delays."
-    },
-    {
-      "id": "2d11004cc7b234bcba29ae5174bb640c536ffce7",
-      "title": "Amid France Wildfires, Some Residents Help Firefighters Contain Blazes",
-      "summary": "With firefighters stretched thin, volunteers put themselves at risk, using water tanks, hoses and tractors to hold back flames from villages and farms in southwestern France.",
-      "url": "https://www.nytimes.com/2026/07/27/world/europe/residents-farmers-firefighters-france-wildfires.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-27T16:52:12+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Amid France Wildfires, Some Residents Help Firefighters"
-    },
-    {
-      "id": "3e841165700675972aa791802f56a763f14f20f0",
-      "title": "‘It felt like being in a disaster movie’: uncertainty after evacuation from France’s Gironde wildfire",
-      "summary": "Residents describe their fear as they were forced to leave their homes because of the ‘extremely intense’ blazeSitting in their suburban apartment in Mérignac on the outskirts of Bordeaux, Krishma, an interpreter, and he…",
-      "url": "https://www.theguardian.com/world/2026/jul/27/it-felt-like-being-in-a-disaster-movie-inside-the-evacuation-from-frances-bordeaux-wildfires",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-27T16:13:56+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "evacuation from France’s Gironde wildfire"
-    },
-    {
-      "id": "aeee6f8a81ef366f8b72cbb7d7baa9ec1f9b6ed8",
-      "title": "New Heat Wave Could Intensify Wildfires in France and Spain",
-      "summary": "Soaring temperatures in parts of France, Spain and Portugal could combine with dry conditions and strong winds to worsen the wildfire threat. It is the fourth heat wave to affect Europe since May.",
-      "url": "https://www.nytimes.com/2026/07/27/world/europe/heat-wave-forecast-france-spain-wildfires.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-27T12:16:31+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Soaring temperatures in parts of France, Spain and Portugal"
-    },
-    {
-      "id": "7116ff49e859aab4b998625dfb60adb6dbdc8a42",
-      "title": "Off-duty police officer detains man who attacked three women with knives in Paris",
-      "summary": "Women aged 19, 24 and 36 taken to hospital after assault in Porte de Clichy area in north of capitalA French off-duty police officer has detained a man after he attacked and wounded three women with two kitchen knives in…",
-      "url": "https://www.theguardian.com/world/2026/jul/27/off-duty-police-officer-detains-man-attacked-women-knives-paris",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-27T11:57:35+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "French off-duty police officer has detained a man"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-29T11:39:37Z"
+  "last_updated": "2026-07-30T11:21:26Z"
 }

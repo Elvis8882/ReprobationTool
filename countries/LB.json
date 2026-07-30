@@ -1,16 +1,27 @@
 {
   "country": "LB",
-  "score": 7,
+  "score": 9,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 217,
+  "trend": 2,
+  "sources": 215,
   "sentiment": {
     "positive": 8,
     "neutral": 77,
-    "negative": 132
+    "negative": 130
   },
   "latest_articles": [
+    {
+      "id": "d0cf17452ce3a934bf5c6942fe0dc43cf8b0b785",
+      "title": "Hezbollah Attacks Strategic Area in Southern Lebanon, Israel Says",
+      "summary": "The Israeli military said the Iran-backed militant group had used an explosive drone to target one of its vehicles on a strategic ridge, raising fears of a renewed escalation.",
+      "url": "https://www.nytimes.com/2026/07/29/world/middleeast/israel-hezbollah-lebanon.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-29T14:39:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Hezbollah Attacks Strategic Area in Southern Lebanon"
+    },
     {
       "id": "ebe52775a0e84db9af55a95037a68f3b4a752743",
       "title": "In 2006, a rescued dog saved Houssein Hamze from a bomb; in 2026, he refused to flee Lebanon and stayed to care for hundreds of animals",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "truce in Lebanon... risks new civil war"
-    },
-    {
-      "id": "c3d90f30e4a6aebb47b2e54ca034fb4000247135",
-      "title": "Trump Suggestion of a Syrian Crackdown on Hezbollah Confounds Many in Mideast",
-      "summary": "During peace talks, President Trump repeatedly floated the idea that Syria could help subdue Hezbollah in Lebanon. The proposal revived bitter memories.",
-      "url": "https://www.nytimes.com/2026/07/01/world/middleeast/syria-trump-hezbollah-lebanon.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-01T09:42:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Syria could help subdue Hezbollah in Lebanon"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-29T11:39:37Z"
+  "last_updated": "2026-07-30T11:21:26Z"
 }

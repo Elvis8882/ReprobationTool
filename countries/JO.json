@@ -1,16 +1,49 @@
 {
   "country": "JO",
-  "score": 79,
+  "score": 78,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 42,
+  "trend": -1,
+  "sources": 45,
   "sentiment": {
-    "positive": 0,
+    "positive": 1,
     "neutral": 14,
-    "negative": 28
+    "negative": 30
   },
   "latest_articles": [
+    {
+      "id": "9627a21672f013ed6a8320a940e9492623bb6362",
+      "title": "Middle East crisis live: Jordan says it foiled Iranian missile attack as US launches ‘heavy’ strikes on Iran after pause",
+      "summary": "Jordanian military says it intercepted five missiles targeting the kingdom after US military says it hit dozens of Revolutionary Guard targets on ThursdayUS launches fresh strikes on Iran after days-long pause, amid fear…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-30T10:36:31+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Jordan says it foiled Iranian missile attack"
+    },
+    {
+      "id": "3e12b1ad0da79cecd0b52ad82b35f03bb3a15576",
+      "title": "New Strikes Engulf More Countries in the Iran War",
+      "summary": "The U.S. unleashed new strikes on Iran after a day in which attacks on Iraq, Jordan and Egypt threatened to expand the scope of the war.",
+      "url": "https://www.nytimes.com/2026/07/29/world/middleeast/iran-war-us-jordan-saudi-iraq.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-30T01:34:14+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "attacks on Iraq, Jordan and Egypt threatened to expand the scope of the war"
+    },
+    {
+      "id": "1df098510da4ed8bf0f7672500d33c18e61fa903",
+      "title": "Saudi Arabia joins U.S. military strikes on Iranian proxies",
+      "summary": "The rare joint operation in Iraq underscores the risk that the Iran conflict could expand. It came after Iran fired missiles at a US. base in Jordan.",
+      "url": "https://www.washingtonpost.com/national-security/2026/07/28/us-says-it-shot-down-iranian-missiles-targeting-troops-middle-east/",
+      "source": "World (Washington post)",
+      "published_at": "2026-07-29T10:07:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Iran fired missiles at a US. base in Jordan"
+    },
     {
       "id": "0adeceaef5b81d6c5e64bc3033ea832f0ff6f7ef",
       "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Two US troops killed and one missing in Jordan after Iranian attacks"
-    },
-    {
-      "id": "2c9d70afe3cea030f1ce83408232dc08c7d460ec",
-      "title": "US launches fresh airstrikes on Iran after attack on American troops in Jordan",
-      "summary": "United States forces launched new airstrikes against Iran on President Donald Trump's orders.  These strikes aim to degrade Iran's ability to threaten commercial shipping.  The operation also retaliates for recent attack…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-launches-fresh-airstrikes-on-iran-after-attack-on-american-troops-in-jordan/articleshow/132488646.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-07-18T23:10:15+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "attack on American troops in Jordan"
-    },
-    {
-      "id": "b233e621dcf431bd2975c3072adbb819336e4981",
-      "title": "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
-      "summary": "Four Iranian attacks in five days have targeted U.S. troops in Jordan, U.S. officials said, including one on Friday that killed two soldiers and left another service member missing.",
-      "url": "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-18T23:03:24+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Jordan Is Becoming a New Focus in the U.S.-Iran War"
-    },
-    {
-      "id": "33633af9f175ba4dc9a2ca5b4c174bd2034ef781",
-      "title": "U.S. strikes Iran after 2 service members killed, 1 missing in attack on Jordan base",
-      "summary": "The attacks mark the eighth consecutive day that U.S. forces have bombed Iran. The latest fatalities pushed the American military death toll from the conflict to 16.",
-      "url": "https://www.washingtonpost.com/world/2026/07/18/iran-us-strikes-widen-fighting-hits-critical-infrastructure/",
-      "source": "World (Washington post)",
-      "published_at": "2026-07-18T22:57:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "attack on Jordan base"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-29T11:39:37Z"
+  "last_updated": "2026-07-30T11:21:26Z"
 }

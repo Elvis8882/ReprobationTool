@@ -1,16 +1,49 @@
 {
   "country": "GR",
-  "score": 86,
+  "score": 85,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
+  "trend": -1,
   "sources": 227,
   "sentiment": {
-    "positive": 8,
-    "neutral": 196,
-    "negative": 23
+    "positive": 9,
+    "neutral": 194,
+    "negative": 24
   },
   "latest_articles": [
+    {
+      "id": "b5755e19b8fd6c1764fd57cf68ccffea73fecb70",
+      "title": "Wildfires in Greece Kill 3 Firefighters as Blazes Still Burn in France and Spain",
+      "summary": "Greece also worked to contain blazes on Lesbos and in the Peloponnese, where another firefighter died, in the midst of a brutal wildfire season for Europe.",
+      "url": "https://www.nytimes.com/2026/07/30/world/europe/wildfires-europe-greece.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-30T10:31:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Wildfires in Greece Kill 3 Firefighters"
+    },
+    {
+      "id": "7811b160cff526827273992f5e269fa4556110a7",
+      "title": "Thousands evacuated in Crete as European wildfires continue to rage",
+      "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-30T09:10:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "wildfires continue to ravage the Greek island"
+    },
+    {
+      "id": "ea13bb3752f74866c3e2b93bab57475c05d01386",
+      "title": "Fewer viral hepatitis deaths in Cyprus than EU average - Cyprus Mail",
+      "summary": "Fewer viral hepatitis deaths in Cyprus than EU average&nbsp;&nbsp;Cyprus MailWorld Hepatitis Day: Greece’s Hepatitis Death Rate Down 28% in a Decade&nbsp;&nbsp;GreekReporter.comViral hepatitis deaths in the EU halved in…",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb1NwZ3B1RVBTeFc4eFdKYVl0UXVWdjRzX0pqcFdTRDF0bzdLRnBWcF9PQUQzSnZSbm5lWFdSSFU0UkdrSncyamFwVzdsMWgxS3RmcFlYVUExLXo3MXdzbjdrZHk0VWhZRGppSGxSMm1XTTJienNmTlZsVnRvc2pQTVA0TUNzVUVoeFg0VkVkSFBsamc?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-28T12:31:39+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Greece’s Hepatitis Death Rate Down 28% in a Decade"
+    },
     {
       "id": "cabf7acc7939ea55d6effca653f144091aee4b3d",
       "title": "Gender Pay Transparency Directive: European Commission reconfirms it expects full compliance - DLA Piper GENIE",
@@ -184,40 +217,8 @@
       "published_at": "2026-07-17T15:48:47+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "4311c02462653fe706e9ac62f514e37cb7e00921",
-      "title": "Greek islands face drought as tourist season hits - Reuters",
-      "summary": "Greek islands face drought as tourist season hits&nbsp;&nbsp;ReutersA ‘heavy industry’ with shaky foundations&nbsp;&nbsp;eKathimerini.comSantorini’s Assyrtiko Harvest Collapsed to 500 Tons&nbsp;&nbsp;VineturWater Crisis…",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaXI0QmVtdFV3cHZyVl93VDE2Q0c1TTZta0NvdDRqUXc2MFZKNmRNRXo5eEYyNHVTY2JsUDJ1ZVVkTFI1NUxucUVZNzUxV19qdVhfYkU5R3F5NXhZbk1iVlF2Wkh5aDk0SFRkTGVIQ29SNkp4Rm9pN2lDSVFEUVlVQ0xRVjNlMDdFY1dQalY4YTNHWGtTN3J6eWRRVHJpczk4M09kNU53?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-16T09:36:24+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Greek islands face drought as tourist season hits"
-    },
-    {
-      "id": "4c96458419e0b1e8b70a242dd9172b38fe7abb6f",
-      "title": "Swedish MEP files police complaint accusing Danish colleague of racist hate speech",
-      "summary": "Abir Al-Sahlani targeted on social media after condemning anti-immigration chants in European parliamentA Swedish MEP has filed a police complaint accusing a fellow MEP of racist hate speech after she was targeted on soc…",
-      "url": "https://www.theguardian.com/world/2026/jul/13/swedish-mep-abir-al-sahlani-files-police-complaint-accusing-danish-mep-of-racist-hate-speech",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-13T04:00:37+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f0e87ba08b2058cd9b5c0e0821cfa7aa0b24e185",
-      "title": "Passenger Is Partly Sucked Through Window on Ryanair Subsidiary Flight, Reports Say",
-      "summary": "A 61-year-old man was being treated for friction burns after a window was damaged during a flight from Greece to Germany. The flight was operated by the Ryanair subsidiary Malta Air.",
-      "url": "https://www.nytimes.com/2026/07/10/world/europe/ryanair-plane-greece-passenger-broken-window.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-10T20:55:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "flight from Greece to Germany"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-29T11:39:37Z"
+  "last_updated": "2026-07-30T11:21:26Z"
 }
