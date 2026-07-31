@@ -1,16 +1,60 @@
 {
   "country": "MA",
-  "score": 63,
+  "score": 59,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 19,
+  "trend": -4,
+  "sources": 23,
   "sentiment": {
     "positive": 1,
-    "neutral": 16,
-    "negative": 2
+    "neutral": 18,
+    "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "e23ce182852583dc94f7e12bce4e5717e89d521a",
+      "title": "Thousands of Migrants Enter Ceuta, a Spanish Enclave, From Morocco",
+      "summary": "The arrivals in Ceuta, a six-mile-long peninsula on Morocco’s northern coast that Spain has governed for centuries, have fueled political tensions.",
+      "url": "https://www.nytimes.com/2026/07/30/world/europe/spain-morocco-ceuta-migrants.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-31T10:14:43+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Thousands of Migrants Enter Ceuta, a Spanish Enclave, From Morocco"
+    },
+    {
+      "id": "4ad405e8bf33cdf3f508758828a391fbb8a89003",
+      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+      "summary": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
+      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-31T08:09:17+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "At least 18 people drown as migrants try to swim"
+    },
+    {
+      "id": "d2ac6391d57d3c9329782310a7dda62dc7db1661",
+      "title": "Migrants seen swimming around border fence of Spanish enclave Ceuta",
+      "summary": "The North African enclave's leader said resources were being overwhelmed after so many people entered by sea from Morocco.",
+      "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-30T19:16:18+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "so many people entered by sea from Morocco."
+    },
+    {
+      "id": "0d217b873c1cdc12412a2fd54788fde77c424ddb",
+      "title": "Moroccan Man’s Death While Restrained By Police Reverberates Across Italy",
+      "summary": "Abderrahim Fakir died after police officers pinned him to the ground. His death has evolved into a broader standoff over the treatment and role of immigrants in Italy.",
+      "url": "https://www.nytimes.com/2026/07/29/world/europe/fakir-moroccan-death-italy-police.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-29T04:01:26+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Moroccan Man’s Death"
+    },
     {
       "id": "b16f2291d6303e0ff927a17c52df422e0a9a6b2b",
       "title": "Death of Moroccan man in Italian police custody sparks protests, violence",
@@ -186,41 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Films from Palestine, Morocco, Egypt, and Iran feature prominently."
-    },
-    {
-      "id": "f0d79f2144bc30c019507860d318f6f32d4272d5",
-      "title": "Brazil stays top of latest FIFA futsal rankings - Xinhua",
-      "summary": "Brazil stays top of latest FIFA futsal rankings&nbsp;&nbsp;XinhuaFIFA Futsal Ranking - IR Iran, Japan stay top&nbsp;&nbsp;The AFCBangladesh women's futsal team climb two spots in FIFA rankings&nbsp;&nbsp;Bangladesh Sangb…",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15NFQyMGN6bnNyUUZOTndId2FhMXhRLTFVVGtWa2VONkEtVGhxWG8talI1cXFRM1luVUdXbVkwdFBjTmw1RlZGVzc2NktfbnNSZnpQV19rNzNDbjNXcS1tQVBZRUtBc2d3bXpFTUpUOVhWNlNPYUtSVVh6V2k?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-05-09T01:04:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Moroccan National Futsal Team Maintains its Sixth Place Globally"
-    },
-    {
-      "id": "5636b2ad3c6b58f8c99ac0a14e313b6c3f13bd56",
-      "title": "Two US service members reported missing in Morocco, officials say",
-      "summary": "A search and rescue operation is underway for the service members, who are believed to have been involved in an accident, according to authorities.",
-      "url": "https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-05-03T17:27:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Two US service members reported missing in Morocco"
-    },
-    {
-      "id": "faf6fb70bd7171ffbfff4e2ebb828d6b01feccc6",
-      "title": "Two US service members missing after military exercises in Morocco",
-      "summary": "Search and rescue operation launched after service members reported missing near south-western city of Tan TanTwo US service members are missing in south-western Morocco after taking part in annual multinational military…",
-      "url": "https://www.theguardian.com/us-news/2026/may/03/service-members-missing-military-exercises-morocco",
-      "source": "World news - The Guardian",
-      "published_at": "2026-05-03T12:23:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "military exercises in Morocco"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-30T11:21:26Z"
+  "last_updated": "2026-07-31T11:41:48Z"
 }

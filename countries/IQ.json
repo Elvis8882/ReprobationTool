@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 85,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
+  "score": 82,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
   "trend": -3,
-  "sources": 48,
+  "sources": 53,
   "sentiment": {
     "positive": 4,
-    "neutral": 21,
-    "negative": 23
+    "neutral": 22,
+    "negative": 27
   },
   "latest_articles": [
+    {
+      "id": "81587e8ec4d59cd75b5a4f83f6f98269e7c32251",
+      "title": "U.S.-Saudi Attack on Iraqi Militias Risks Drawing Them into War",
+      "summary": "Iran-aligned militias in Iraq were under growing pressure to disarm, but the latest strikes may embolden them to get more deeply involved in the war.",
+      "url": "https://www.nytimes.com/2026/07/30/world/europe/iraqi-militias-iran-war-saudi-arabia-us.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-30T06:20:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Iraqi Militias Risks Drawing Them into War"
+    },
     {
       "id": "3e12b1ad0da79cecd0b52ad82b35f03bb3a15576",
       "title": "New Strikes Engulf More Countries in the Iran War",
@@ -21,6 +32,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "attacks on Iraq, Jordan and Egypt threatened to expand the scope of the war"
+    },
+    {
+      "id": "3a9e0f72616e2ed8073a4ff085a7cd1e77f8104d",
+      "title": "What to Know About Iraq’s Militias",
+      "summary": "At least 20 fighters of the Popular Mobilization Forces, an umbrella group of Iraqi militias with ties to Iran, were killed in a wave of U.S. and Saudi airstrikes.",
+      "url": "https://www.nytimes.com/2026/07/29/world/middleeast/iraq-popular-mobilization-forces-iran.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-29T20:08:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Iraqi militias with ties to Iran, were killed in a wave of U.S. and Saudi airstrikes."
     },
     {
       "id": "bb3d4466011c9e9a0c45682d96cd04074bf1a1c4",
@@ -45,6 +67,17 @@
       "evidence": "joint airstrikes on Iranian proxies in Iraq"
     },
     {
+      "id": "dbce15466a9bcf28a9b0c66e5402a4aab0a7a869",
+      "title": "US blocks Iranian missile barrage as pause in fighting falters | First Thing",
+      "summary": "US military says it intercepted all Iranian missiles, as fighting threatens to resume. Plus, how Armenians seek to breathe more easily by heading undergroundDon’t already get First Thing in your inbox? Sign up hereGood m…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/29/first-thing-us-blocks-iranian-missile-barrage",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-29T10:27:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "strike sites in Iraq that Tehran-backed militias have used"
+    },
+    {
       "id": "1df098510da4ed8bf0f7672500d33c18e61fa903",
       "title": "Saudi Arabia joins U.S. military strikes on Iranian proxies",
       "summary": "The rare joint operation in Iraq underscores the risk that the Iran conflict could expand. It came after Iran fired missiles at a US. base in Jordan.",
@@ -54,6 +87,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "U.S. military strikes on Iranian proxies in Iraq"
+    },
+    {
+      "id": "eec162bd7732985bfd7b2eda347ce65754ef0e6c",
+      "title": "US joins forces with Saudis to strike Tehran-backed militias in Iraq",
+      "summary": "Oil price spikes after flare-up of fighting and claimed Iranian attacks on three tankers in strait of HormuzThe US military said it knocked down an Iranian missile barrage and worked with Saudi Arabia forces to strike si…",
+      "url": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-29T09:52:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "strike Tehran-backed militias in Iraq"
     },
     {
       "id": "61f1ebc9a8ddde4bba20acbe93afa5fa4ea39285",
@@ -76,6 +120,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "US-Saudi Strikes In Iraq"
+    },
+    {
+      "id": "353848813af9f9d495f578df032011978c9ed0fb",
+      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq - BBC",
+      "summary": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq&nbsp;&nbsp;BBCSee more headlines and perspectives on Google News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSzhZbndQb2lHQ1lnZ3FRaHdYZ1FLVGMzM1AxdnFvWWE3cW9FQW1CYlBYOGxrTnVJdXJCbXloU2V1b29xS0w0dHZYMFlNaGN2bUtxNUZ1ZXdJZw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-29T08:43:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "strikes on Iran-backed militias in Iraq"
     },
     {
       "id": "f0b6bad5b1e2ed2af228c84652bdc40e08944133",
@@ -175,63 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "back Iraq with major investments"
-    },
-    {
-      "id": "f751daac799c90c5263c6c2d3952d928af0d0dc5",
-      "title": "Will Iran Be a Forever War?",
-      "summary": "President Trump may have fallen into the same trap that his predecessors did in Iraq and Afghanistan. Our chief diplomatic correspondent explains why.",
-      "url": "https://www.nytimes.com/2026/07/15/world/iran-us-war-china-world-cup.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-16T04:52:57+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "predecessors did in Iraq and Afghanistan"
-    },
-    {
-      "id": "5947e24d1ce85bdc74ce2de5f63e8d8f13e774ee",
-      "title": "\"Tremendous Chemistry\": Trump Welcomes New Iraqi PM During White House Visit",
-      "summary": "Donald Trump gave Iraq's new prime minister an effusive welcome at the White House on Tuesday.",
-      "url": "https://www.ndtv.com/world-news/donald-trump-welcomes-new-iraqi-pm-during-white-house-visit-11772554#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-15T00:44:02+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "\"Tremendous Chemistry\": Trump Welcomes New Iraqi PM During White House Visit"
-    },
-    {
-      "id": "a92eba0095fab8fb95f31f3c45dae952e161e8d0",
-      "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
-      "summary": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.",
-      "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-13T11:36:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "became members of the Islamic State group"
-    },
-    {
-      "id": "f69d6d6a9aef7422b33ddec4b2b74527cb5de787",
-      "title": "Chaos At Ali Khamenei's Iraq Funeral As US And Iran Exchange Strikes",
-      "summary": "Mourners storm Khamenei funeral in Iraq as Gulf war strikes intensify",
-      "url": "https://www.ndtv.com/world-news/chaos-at-ali-khameneis-iraq-funeral-as-us-and-iran-exchange-strikes-11747514#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-09T08:31:29+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Chaos At Ali Khamenei's Iraq Funeral"
-    },
-    {
-      "id": "17a9de10647807a67d64bad3f9079a0bd9021b0c",
-      "title": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq",
-      "summary": "The remains of Iran's late supreme leader are transported to Najaf and Karbala, as funeral ceremonies continue for a fifth day.",
-      "url": "https://www.bbc.co.uk/news/articles/cp9le3kjj8eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-08T14:56:24+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "ceremonies held in Iraq"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-30T11:21:26Z"
+  "last_updated": "2026-07-31T11:41:48Z"
 }
