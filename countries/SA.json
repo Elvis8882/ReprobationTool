@@ -1,16 +1,27 @@
 {
   "country": "SA",
-  "score": 60,
+  "score": 61,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -3,
-  "sources": 119,
+  "trend": 1,
+  "sources": 117,
   "sentiment": {
-    "positive": 5,
-    "neutral": 57,
+    "positive": 6,
+    "neutral": 54,
     "negative": 57
   },
   "latest_articles": [
+    {
+      "id": "dced4c482c0db28792d9a033cfdd66ae0be115bb",
+      "title": "Saudi Arabia Aims to Deter Red Sea Attacks With New Coalition",
+      "summary": "Facing attacks by Yemen’s Houthi militia, Saudi Arabia has invited dozens of countries to assist it in protecting shipping in the Red Sea, diplomats say.",
+      "url": "https://www.nytimes.com/2026/07/30/world/middleeast/saudi-arabia-red-sea-houthis.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-30T18:53:16+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Saudi Arabia Aims to Deter Red Sea Attacks With New Coalition"
+    },
     {
       "id": "bd446ee6d77c2bc07692143669503cf774a99d74",
       "title": "Saudi Arabia prepares sea and possible land offensive against Houthis",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Nuclear 'Gift' To Saudi Arabia Could Haunt Middle East For Years"
-    },
-    {
-      "id": "573d0d7e4dc8063d41b1475b6efca4a9087c4e2f",
-      "title": "How the Iran-Backed Houthis Cornered Saudi Arabia Into a New Conflict",
-      "summary": "The Iran-backed Houthis have seized on a vulnerable moment for Saudi Arabia, which is reluctant to enter another war, to try to force political concessions in Yemen.",
-      "url": "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-27T09:33:36+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Saudi Arabia, which is reluctant to enter another war"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-31T11:41:48Z"
+  "last_updated": "2026-08-01T10:53:34Z"
 }

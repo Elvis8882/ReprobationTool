@@ -4,13 +4,68 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 723,
+  "sources": 726,
   "sentiment": {
-    "positive": 40,
+    "positive": 39,
     "neutral": 108,
-    "negative": 575
+    "negative": 580
   },
   "latest_articles": [
+    {
+      "id": "9d24533d98e6e9722614461891d31e7b339ca5a1",
+      "title": "The U.S. Deported Him to Jail in Russia. Then He Escaped.",
+      "summary": "Facing a long prison sentence or a forced trip to the front line of a war he opposes, Artyom Vovchenko believed it was worth taking a risk.",
+      "url": "https://www.nytimes.com/2026/08/01/world/europe/russia-war-deserter.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-01T09:00:09+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "The U.S. Deported Him to Jail in Russia. Then He Escaped."
+    },
+    {
+      "id": "b68eb2eece87d940f4b2e26bc39ec04ac64eb3bc",
+      "title": "Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8",
+      "summary": "President Volodymyr Zelensky of Ukraine said five members of a family had been killed in the latest large-scale aerial assault by Moscow.",
+      "url": "https://www.nytimes.com/2026/07/30/world/europe/russia-ukraine-war-missiles-drones-attacks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-01T08:49:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8"
+    },
+    {
+      "id": "8de3a70669af7551e80baa2063b603801f75a44b",
+      "title": "Russia Has A New Target In Ukraine War: Gas Stations Across Kyiv",
+      "summary": "The attacks have mainly targeted fuel stations close to the front lines",
+      "url": "https://www.ndtv.com/world-news/russia-has-a-new-target-in-ukraine-war-gas-stations-across-kyiv-11851886#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-08-01T08:40:35+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia Has A New Target In Ukraine War: Gas Stations"
+    },
+    {
+      "id": "1ff5373d60b0370dc4a345842514356c29fe5bc2",
+      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-01T08:24:09+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russian strikes on Kyiv kill at least nine, Ukraine officials say"
+    },
+    {
+      "id": "70fd5a88e0c66d15ed1c4553d4999bbf794dca8e",
+      "title": "Russian Missiles Kill 9 in Kyiv, Hours After Trump Backs Off Air Defense Pledge",
+      "summary": "It was the second deadly barrage to hit the Ukrainian capital in two days, as Moscow escalates its attacks in an apparent effort to exploit Ukraine’s dwindling supply of interceptors.",
+      "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-01T07:14:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russian Missiles Kill 9 in Kyiv"
+    },
     {
       "id": "5cc804e945084d4855c693f9f1a19207d6487090",
       "title": "Lithuania says defence spending typically rises toward year-end - The Baltic Times",
@@ -43,17 +98,6 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Russian missiles that violated airspace"
-    },
-    {
-      "id": "b68eb2eece87d940f4b2e26bc39ec04ac64eb3bc",
-      "title": "Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8",
-      "summary": "President Volodymyr Zelensky of Ukraine said that a family of five had been killed at home in the latest in a series of large-scale aerial assaults by Moscow.",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/russia-ukraine-war-missiles-drones-attacks.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-30T10:37:17+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8"
     },
     {
       "id": "60fc1b6ee082931d93191722ef44d8d5e723b5cc",
@@ -89,6 +133,28 @@
       "evidence": "Russia’s history of disregarding sovereignty and territorial integrity"
     },
     {
+      "id": "8f4fa88dc876576640808227520fe0d34c49fc25",
+      "title": "'Rape, Genital Mutilation': How Russia Uses Sexual Torture As War Weapon",
+      "summary": "The Russian authorities are yet to comment on the allegations.",
+      "url": "https://www.ndtv.com/world-news/rape-genital-mutilation-how-russia-uses-sexual-torture-as-war-weapon-11842207#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-30T07:45:49+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Russia Uses Sexual Torture As War Weapon"
+    },
+    {
+      "id": "ba0e99f7347e5e20a6f19a657eb6d72dfe6c560c",
+      "title": "Russia Fires Ballistic Missiles At Ukraine Amid Rising Tensions",
+      "summary": "People take shelter inside an overcrowded metro station during a Russian missile strike in Kyiv",
+      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-russia-fires-ballistic-missiles-at-ukraine-amid-rising-tensions-ukrainian-president-volodymyr-zelensky-warning-11841155#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-30T03:51:49+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Russia Fires Ballistic Missiles At Ukraine"
+    },
+    {
       "id": "bb250ea27498d2e02237165e295d899b3f58c956",
       "title": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
       "summary": "The charges against Pavel Durov reflected an ongoing fight over one of the most popular messaging and media apps in the country.",
@@ -109,6 +175,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Russia’s wartime economy"
+    },
+    {
+      "id": "d42c70b41efbe46713998c9b04953067f2bffb15",
+      "title": "Russia charges Telegram founder Durov with facilitating terrorism",
+      "summary": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-29T10:23:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia charges Telegram founder Durov with facilitating terrorism"
     },
     {
       "id": "66f72fa2d2ec76e134e51d4f22fbf98a0473fd00",
@@ -153,85 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "US Senate votes to advance Russia sanctions bill"
-    },
-    {
-      "id": "fa683d6dc5e1660fe93aafaae6ccc2bd2b504ed7",
-      "title": "Senate sets up votes to sanction Russia for Ukraine war",
-      "summary": "The sanctions target Russian officials, oligarchs, their family members, foreign persons, Russian banks and financial institutions and the Russian shadow fleet.",
-      "url": "https://www.cnbc.com/2026/07/28/russia-sanctions-congress-key-vote-lindsey-graham-ukraine.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-07-29T00:03:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "sanction Russia for Ukraine war"
-    },
-    {
-      "id": "99b100015893400ef69a00b8be07f6791342ad4d",
-      "title": "Blurred front lines: Trump to meet Zelenskyy as Ukraine, Iran wars collide",
-      "summary": "Trump and Zelenskyy's meeting comes as the U.S war against Iran and Russia's full-scale invasion of Ukraine have threatened to overlap in recent days.",
-      "url": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-07-28T11:08:51+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Russia's full-scale invasion of Ukraine"
-    },
-    {
-      "id": "06f9221cd2c0e234f494a201508d2142c7eb4a04",
-      "title": "Zelensky to press Trump on air defences while in Washington",
-      "summary": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-28T10:41:41+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russia has escalated deadly attacks."
-    },
-    {
-      "id": "84af759744f5229fa85eebf27ef6b14b5d486dd3",
-      "title": "US walks out of UN Security Council meeting during France's remarks",
-      "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
-      "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-28T09:32:25+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Russia in voting against extending the term"
-    },
-    {
-      "id": "23758202efc8f7141d3eebdd54756c8b0590b547",
-      "title": "Russia closes window for dissent as Ukraine’s attacks stir public dismay",
-      "summary": "Moscow is coming under increasing pressure over Kyiv’s relentless drone strikes. Ukraine’s president is due to meet in Washington with President Donald Trump on Tuesday.",
-      "url": "https://www.washingtonpost.com/world/2026/07/28/russia-squashes-dissent-ahead-election-public-anger-grows-over-war/",
-      "source": "World (Washington post)",
-      "published_at": "2026-07-28T09:00:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russia closes window for dissent"
-    },
-    {
-      "id": "690d5235cdfe295bae080d8b860e261fbd547fbb",
-      "title": "Donations sought to support work of Latvia's destroyed consulate in Ukraine",
-      "summary": "As previously reported, the building of the Latvian Honorary Consulate in Sloviansk was severely damaged in a Russian airstrike on&nbsp;July 24th. Now The \"Entrepreneurs for Peace\" Foundation, in cooperation with journal…",
-      "url": "https://eng.lsm.lv/article/politics/diplomacy/28.07.2026-donations-sought-to-support-work-of-latvias-destroyed-consulate-in-ukraine.a656569/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-07-28T07:47:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russian airstrike on&nbsp;July 24th"
-    },
-    {
-      "id": "6c4a85df9e40906f3747d240f00aa97eeb54ff97",
-      "title": "390 Drones In One Night: Ukraine Attacks Russia's Moscow Region",
-      "summary": "81 enemy UAVs were destroyed as they approached Moscow. (Representational)",
-      "url": "https://www.ndtv.com/world-news/390-drones-in-one-night-ukraine-attacks-russias-moscow-region-11830934#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-28T05:51:34+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukraine Attacks Russia's Moscow Region"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-31T11:41:48Z"
+  "last_updated": "2026-08-01T10:53:34Z"
 }

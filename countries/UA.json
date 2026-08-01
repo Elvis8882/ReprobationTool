@@ -1,16 +1,82 @@
 {
   "country": "UA",
-  "score": 28,
+  "score": 22,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -3,
-  "sources": 677,
+  "trend": -6,
+  "sources": 680,
   "sentiment": {
-    "positive": 299,
-    "neutral": 131,
-    "negative": 247
+    "positive": 296,
+    "neutral": 132,
+    "negative": 253
   },
   "latest_articles": [
+    {
+      "id": "0a06ec307ab9f69b5f0fddb58b1d1157b9f687f7",
+      "title": "Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More",
+      "summary": "The president misleadingly blamed the Biden administration’s weapons transfers to Ukraine for current concerns over munitions stockpiles, among other claims about the Iran war.",
+      "url": "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-01T09:02:16+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "weapons transfers to Ukraine"
+    },
+    {
+      "id": "b68eb2eece87d940f4b2e26bc39ec04ac64eb3bc",
+      "title": "Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8",
+      "summary": "President Volodymyr Zelensky of Ukraine said five members of a family had been killed in the latest large-scale aerial assault by Moscow.",
+      "url": "https://www.nytimes.com/2026/07/30/world/europe/russia-ukraine-war-missiles-drones-attacks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-01T08:49:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "latest large-scale aerial assault by Moscow."
+    },
+    {
+      "id": "8de3a70669af7551e80baa2063b603801f75a44b",
+      "title": "Russia Has A New Target In Ukraine War: Gas Stations Across Kyiv",
+      "summary": "The attacks have mainly targeted fuel stations close to the front lines",
+      "url": "https://www.ndtv.com/world-news/russia-has-a-new-target-in-ukraine-war-gas-stations-across-kyiv-11851886#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-08-01T08:40:35+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "attacks have mainly targeted fuel stations close to the front lines"
+    },
+    {
+      "id": "1ff5373d60b0370dc4a345842514356c29fe5bc2",
+      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-01T08:24:09+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russian strikes on Kyiv kill at least nine, Ukraine officials say"
+    },
+    {
+      "id": "70fd5a88e0c66d15ed1c4553d4999bbf794dca8e",
+      "title": "Russian Missiles Kill 9 in Kyiv, Hours After Trump Backs Off Air Defense Pledge",
+      "summary": "It was the second deadly barrage to hit the Ukrainian capital in two days, as Moscow escalates its attacks in an apparent effort to exploit Ukraine’s dwindling supply of interceptors.",
+      "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-01T07:14:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "escalates its attacks in an apparent effort to exploit Ukraine’s dwindling supply"
+    },
+    {
+      "id": "52326b2bdc7796a54fdf282255450b186dcd79d2",
+      "title": "Trump Says US Has Not Agreed To Ukraine Building Patriot Missiles",
+      "summary": "Trump emphasized concerns about sharing advanced US weaponry including missile technology.",
+      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-trump-says-us-has-not-agreed-to-ukraine-building-patriot-missiles-11850889#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-31T23:25:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "US Has Not Agreed To Ukraine Building Patriot Missiles"
+    },
     {
       "id": "f6eaf0c07fd2fb0fbc4a6f65edbebe0b917a203e",
       "title": "Political Turmoil Will Not Derail Killer Robot Program, Ousted Minister Says",
@@ -43,17 +109,6 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Deadly Ukraine Strike"
-    },
-    {
-      "id": "b68eb2eece87d940f4b2e26bc39ec04ac64eb3bc",
-      "title": "Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8",
-      "summary": "President Volodymyr Zelensky of Ukraine said that a family of five had been killed at home in the latest in a series of large-scale aerial assaults by Moscow.",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/russia-ukraine-war-missiles-drones-attacks.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-30T10:37:17+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8"
     },
     {
       "id": "60fc1b6ee082931d93191722ef44d8d5e723b5cc",
@@ -100,6 +155,17 @@
       "evidence": "Ukraine-tested maritime tech"
     },
     {
+      "id": "ba0e99f7347e5e20a6f19a657eb6d72dfe6c560c",
+      "title": "Russia Fires Ballistic Missiles At Ukraine Amid Rising Tensions",
+      "summary": "People take shelter inside an overcrowded metro station during a Russian missile strike in Kyiv",
+      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-russia-fires-ballistic-missiles-at-ukraine-amid-rising-tensions-ukrainian-president-volodymyr-zelensky-warning-11841155#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-07-30T03:51:49+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Fires Ballistic Missiles At Ukraine"
+    },
+    {
       "id": "446674ffcab8aa869650f857660e38ae28bc3038",
       "title": "Fauci to face Republican questions over Covid pandemic origins – US politics live",
       "summary": "Veteran medical adviser likely to face questions over disputed ‘lab leak’ theory in investigation seen by scientists as ‘vilification and harassment’ of 85-year-oldSign up for US Breaking News emailDonald Trump hosted ba…",
@@ -133,6 +199,17 @@
       "evidence": "seeking more firepower for his air defenses"
     },
     {
+      "id": "d42c70b41efbe46713998c9b04953067f2bffb15",
+      "title": "Russia charges Telegram founder Durov with facilitating terrorism",
+      "summary": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-07-29T10:23:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "recruitment by Ukraine's secret service"
+    },
+    {
       "id": "01a9d1d4e724c9c4e650ea64f9588028157c7a90",
       "title": "Monitoring Indian Seafarers' Safety Near Ukraine's Black Sea Coast: Embassy",
       "summary": "The embassy said it was in constant touch with all concerned authorities. (Representational image)",
@@ -153,85 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Zelensky and Netanyahu meet Trump"
-    },
-    {
-      "id": "a2e119a9984aa8280ac23338928add0ada7cd5e7",
-      "title": "US Senate votes to advance Russia sanctions bill that would give Trump new tariff powers – as it happened",
-      "summary": "Despite resounding 86-to-12 vote, Democratic aide warns bill gives president unchecked discretion to waive sanctions and impose tariffs. This blog is now closed.Sign up for the Breaking News US emailTrump’s meeting with…",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-29T02:01:58+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Trump and Zelenskyy had a friendly meeting"
-    },
-    {
-      "id": "fa683d6dc5e1660fe93aafaae6ccc2bd2b504ed7",
-      "title": "Senate sets up votes to sanction Russia for Ukraine war",
-      "summary": "The sanctions target Russian officials, oligarchs, their family members, foreign persons, Russian banks and financial institutions and the Russian shadow fleet.",
-      "url": "https://www.cnbc.com/2026/07/28/russia-sanctions-congress-key-vote-lindsey-graham-ukraine.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-07-29T00:03:14+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "sanction Russia for Ukraine war"
-    },
-    {
-      "id": "8c656ee655f9800fb6d7757b3e3b0a6fb6fa8ba3",
-      "title": "Ukraine’s Strike on an Iranian Ship Could Bring Two Wars Closer",
-      "summary": "The attack in the Caspian Sea was an unusually direct encounter between two countries that have been on opposite sides for years.",
-      "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-28T11:13:32+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Ukraine’s Strike on an Iranian Ship"
-    },
-    {
-      "id": "99b100015893400ef69a00b8be07f6791342ad4d",
-      "title": "Blurred front lines: Trump to meet Zelenskyy as Ukraine, Iran wars collide",
-      "summary": "Trump and Zelenskyy's meeting comes as the U.S war against Iran and Russia's full-scale invasion of Ukraine have threatened to overlap in recent days.",
-      "url": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-07-28T11:08:51+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russia's full-scale invasion of Ukraine"
-    },
-    {
-      "id": "06f9221cd2c0e234f494a201508d2142c7eb4a04",
-      "title": "Zelensky to press Trump on air defences while in Washington",
-      "summary": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-28T10:41:41+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences."
-    },
-    {
-      "id": "6fd55aebf707d005ea143bb0e54fd0f767b7298b",
-      "title": "Lindsey Graham’s funeral ceremonies to begin with Netanyahu and Zelenskyy in attendance",
-      "summary": "Memorials for the Republican senator to start in US Capitol as Israeli and Ukrainian leaders are set to meet with TrumpTwo days of funeral ceremonies for Lindsey Graham, the late South Carolina Republican senator, will b…",
-      "url": "https://www.theguardian.com/us-news/2026/jul/28/lindsey-graham-funeral",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-28T10:00:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukrainian president Volodymyr Zelenskyy.Both leaders will also meet Donald Trump"
-    },
-    {
-      "id": "23758202efc8f7141d3eebdd54756c8b0590b547",
-      "title": "Russia closes window for dissent as Ukraine’s attacks stir public dismay",
-      "summary": "Moscow is coming under increasing pressure over Kyiv’s relentless drone strikes. Ukraine’s president is due to meet in Washington with President Donald Trump on Tuesday.",
-      "url": "https://www.washingtonpost.com/world/2026/07/28/russia-squashes-dissent-ahead-election-public-anger-grows-over-war/",
-      "source": "World (Washington post)",
-      "published_at": "2026-07-28T09:00:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine’s president is due to meet in Washington"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-31T11:41:48Z"
+  "last_updated": "2026-08-01T10:53:34Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "FR",
-  "score": 59,
+  "score": 60,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 1,
-  "sources": 641,
+  "sources": 639,
   "sentiment": {
     "positive": 81,
     "neutral": 461,
-    "negative": 99
+    "negative": 97
   },
   "latest_articles": [
+    {
+      "id": "0b7da7c88cd2c521ecb109b9167b6ed1d7020793",
+      "title": "A French Village Becomes a Ghost Town After the Wildfires",
+      "summary": "Wildfires in France have forced tens of thousands of people from their homes and left entire towns deserted along the southwest coast. We visited Claouey, an empty beach town, and found a handful of residents who chose t…",
+      "url": "https://www.nytimes.com/video/world/europe/100000011063710/france-wildfires-evacuation-pets.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-01T09:02:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Wildfires in France have forced tens of thousands of people from their homes"
+    },
     {
       "id": "fc756112388cbaf4eb7424e952d6e69f3e84f1b6",
       "title": "In Area Hit by Blaze, French Officials Failed to Enforce Wildfire Rules",
@@ -218,19 +229,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "France and Spain race"
-    },
-    {
-      "id": "bcc30329dfcafeac0b8567de1d39715f71a04133",
-      "title": "Six Miles From the Flames in France: Chemical Rocket Fuel and Used Missiles",
-      "summary": "The area around Bordeaux has many plants that work with sophisticated technologies and hazardous materials.",
-      "url": "https://www.nytimes.com/2026/07/27/world/europe/france-fires-aerospace-plants.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-28T10:59:14+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "The area around Bordeaux has many plants that work with sophisticated technologies and hazardous materials."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-07-31T11:41:48Z"
+  "last_updated": "2026-08-01T10:53:34Z"
 }

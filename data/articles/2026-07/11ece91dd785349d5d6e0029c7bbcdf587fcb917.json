@@ -19,8 +19,30 @@
     "GB",
     "IR"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-07-31T11:41:48+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-08-01T10:53:34+00:00",
+  "sentiment_by_country": {
+    "AZ": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "British-Azerbaijani national has been arrested ⁠in Cyprus over alleged spying"
+    },
+    "CY": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "arrested ⁠in Cyprus on suspicion of spying... by Cypriot authorities"
+    },
+    "GB": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "spying on a British airbase on the Mediterranean island and passing information to Iran"
+    },
+    "IR": {
+      "label": "negative",
+      "confidence": 1.0,
+      "evidence": "passing information to Iran’s ⁠Islamic Revolutionary Guard ⁠Corps"
+    }
+  },
+  "processed_at": "2026-08-01T10:53:34+00:00"
 }
