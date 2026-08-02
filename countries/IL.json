@@ -7,10 +7,32 @@
   "sources": 645,
   "sentiment": {
     "positive": 35,
-    "neutral": 214,
-    "negative": 396
+    "neutral": 215,
+    "negative": 395
   },
   "latest_articles": [
+    {
+      "id": "e4cd3ae67191ecca47fad69e3a2296f8c4bdf918",
+      "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
+      "summary": "The confrontation, over a strategic ridge in southern Lebanon, challenged a fragile cease-fire between Israel and the Iran-backed militant group.",
+      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-01T20:14:08+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Israel Says It Killed Several Hezbollah Members... challenged a fragile cease-fire"
+    },
+    {
+      "id": "830e79a62e12d9279efffc3d79f3f012071131e8",
+      "title": "U.S. general warns Pentagon he lacks sufficient forces to protect Israel",
+      "summary": "A shortage of Navy destroyers, used to defend against Iranian ballistic missile attacks, will force the head of U.S. European Command to prioritize the U.S. homeland instead, officials said.",
+      "url": "https://www.washingtonpost.com/national-security/2026/08/01/general-warns-pentagon-he-lacks-sufficient-forces-protect-israel/",
+      "source": "World (Washington post)",
+      "published_at": "2026-08-01T11:00:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "lacks sufficient forces to protect Israel"
+    },
     {
       "id": "937d3ed96e2045c5bfb0d86c0eb0ead49b1d1b03",
       "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
@@ -54,6 +76,17 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Plan for Hamas to disarm offers rare hope"
+    },
+    {
+      "id": "2bf17df1cfb60b475c0b61bdbf953052a4d060e7",
+      "title": "Trump’s Announcement of Gaza Deal Raises Many Unanswered Questions",
+      "summary": "Neither Hamas nor the Israeli government has issued an official statement acknowledging the deal, raising concerns about their eagerness to implement its clauses.",
+      "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-31T11:16:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Israeli government has issued an official statement"
     },
     {
       "id": "860c295fd16de12e4ed1506314b4fcdb9747fd54",
@@ -197,41 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Israeli prime minister Benjamin Netanyahu and Ukrainian president Volodymyr Zelenskyy"
-    },
-    {
-      "id": "1a3e4e2268f8a987eef22c527aea2a361d6c3af9",
-      "title": "Why Netanyahu's visit with Trump at the White House is high-stakes",
-      "summary": "The meeting comes amid signs of friction between the two leaders and decreasing public support for Israel in the US.",
-      "url": "https://www.bbc.co.uk/news/videos/c98v94dmmz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-28T08:39:17+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "decreasing public support for Israel in the US"
-    },
-    {
-      "id": "e44f9e579c5a70adadbe1016dd1730ee7c1b8411",
-      "title": "Netanyahu To Join Trump For First Face-To-Face Meeting Since Iran War At White House",
-      "summary": "Almost 3 years after the war broke out, Gaza faces dire crisis while Israel targets militants.",
-      "url": "https://www.ndtv.com/world-news/benjamin-netanyahu-to-join-donald-trump-for-first-face-to-face-meeting-since-iran-war-at-white-house-11831162#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-28T07:39:45+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Israel targets militants."
-    },
-    {
-      "id": "64639e0a340378ae9e0cd46558a2173537cfc729",
-      "title": "A dog saved Houssein Hamze from a bomb. When war returned, he stayed to care for Lebanon’s animals",
-      "summary": "In normal times the Mashala shelter founder takes in strays, but in wartime, he is the only lifeline for animals in the areaDuring Israel’s 2006 war against Hezbollah, Houssein Hamze woke up one night to the sound of bar…",
-      "url": "https://www.theguardian.com/world/2026/jul/28/man-who-stayed-to-save-lebanon-wartime-animals-mashala-shelter",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-28T04:00:28+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Israel’s 2006 war against Hezbollah"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-01T10:53:34Z"
+  "last_updated": "2026-08-02T10:55:19Z"
 }

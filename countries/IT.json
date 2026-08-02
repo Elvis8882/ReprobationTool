@@ -1,16 +1,27 @@
 {
   "country": "IT",
-  "score": 86,
+  "score": 85,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 348,
+  "trend": -1,
+  "sources": 346,
   "sentiment": {
     "positive": 31,
-    "neutral": 281,
-    "negative": 36
+    "neutral": 278,
+    "negative": 37
   },
   "latest_articles": [
+    {
+      "id": "604cac9ea13c3b39209388c0d387dbfa43099eae",
+      "title": "Italy putting nearly all major cities on highest heat alert",
+      "summary": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-01T17:51:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Italy putting nearly all major cities on highest heat alert"
+    },
     {
       "id": "ae988ea9ef11552e9c4f3d0c71cbabf5977d9407",
       "title": "Scores injured as earthquake hits near Naples in seismic swarm",
@@ -75,6 +86,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "standoff over the treatment and role of immigrants in Italy"
+    },
+    {
+      "id": "6ebf838567c3a97d92b8f7f8e6891a3f598a2602",
+      "title": "Latvia is an EU hepatitis blackspot / Article - LSM",
+      "summary": "Latvia is an EU hepatitis blackspot / Article&nbsp;&nbsp;LSMWorld Hepatitis Day: Greece’s Hepatitis Death Rate Down 28% in a Decade&nbsp;&nbsp;GreekReporter.comViral hepatitis deaths in the EU halved in a decade&nbsp;&nb…",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaXZ3LVZBSlZnRXhvV1NVUFM0WEF4RVFydkRQM1NDbXBNTzJvY1RselVKckswZXZoT3J3dWdnNEI1WTdCdkZzSDVfOVVzcE1obFV4Nmw5VjBpZDhZREJRZGFoZTRyRUdKT1h6V0ZoRGhOSUxoMVRlMmFYNGpVOXhkY3h5Njd5OFQ5cXRUS3BiT044Z3AtYlhPV3E0LW1NQQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-07-28T19:28:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Italy tops the list"
     },
     {
       "id": "cabf7acc7939ea55d6effca653f144091aee4b3d",
@@ -199,30 +221,8 @@
       "published_at": "2026-07-23T10:00:42+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "03798c8101d6cd4096fa3502f85855f334347b15",
-      "title": "UniCredit CEO tells CNBC acquisition of Commerzbank could happen in fourth quarter",
-      "summary": "UniCredit CEO Andrea Orcel told CNBC Thursday that the Italian bank could \"potentially\" acquire Commerzbank in the fourth quarter.",
-      "url": "https://www.cnbc.com/2026/07/23/unicredit-commerzbank-takeover-acquisition-2q-earnings.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-07-23T08:57:36+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Italian bank could \"potentially\" acquire Commerzbank"
-    },
-    {
-      "id": "1e61ca18f88a0c52ba029c7168fe98f8ea1956ac",
-      "title": "$290 Million Worth Of Cocaine Found Hidden In Banana Shipment In Italy",
-      "summary": "Authorities estimated the drugs could have been worth around $290 million.",
-      "url": "https://www.ndtv.com/world-news/290-million-worth-of-cocaine-found-hidden-in-banana-shipment-in-italy-11808885#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-23T02:28:34+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Cocaine Found Hidden In Banana Shipment In Italy"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-01T10:53:34Z"
+  "last_updated": "2026-08-02T10:55:19Z"
 }

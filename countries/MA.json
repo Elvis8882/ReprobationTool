@@ -3,14 +3,58 @@
   "score": 57,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -2,
-  "sources": 30,
+  "trend": 0,
+  "sources": 31,
   "sentiment": {
     "positive": 1,
-    "neutral": 21,
-    "negative": 8
+    "neutral": 20,
+    "negative": 12
   },
   "latest_articles": [
+    {
+      "id": "e4c391c5ee25a4bb13bc1ac0aed2363f8aacce78",
+      "title": "Spain pushes migrants back to Morocco as suspicions swirl over mass border breach",
+      "summary": "The crisis in Ceuta, on the African coast, instantly became a touchstone in the global migrant debate as suspicions swirled that the viral incident was orchestrated.",
+      "url": "https://www.washingtonpost.com/world/2026/08/01/spain-pushes-migrants-back-morocco-fallout-deepens-over-mass-border-breach/",
+      "source": "World (Washington post)",
+      "published_at": "2026-08-01T17:56:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "suspicions swirled that the viral incident was orchestrated."
+    },
+    {
+      "id": "6200c443d9fc7040119c53969620ef7082efd13b",
+      "title": "What Caused the Surge of Migrants From Morocco Into Ceuta?",
+      "summary": "Speculation has focused on lax Moroccan policing, attractive Spanish immigration policies and misinformation from human traffickers. In reality, experts said, it’s too early to know.",
+      "url": "https://www.nytimes.com/2026/07/31/world/europe/migrants-surge-morocco-ceuta-spain.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-01T14:56:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "lax Moroccan policing"
+    },
+    {
+      "id": "306c262248e0efc7fc429a41fa5f49c55b77a799",
+      "title": "What to Know About Ceuta",
+      "summary": "The peninsula on Morocco’s northern coast, which Spain has governed for centuries, has been a frequent site of mass migrant crossings and political tensions.",
+      "url": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-01T14:49:27+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "frequent site of mass migrant crossings and political tensions."
+    },
+    {
+      "id": "d2ac6391d57d3c9329782310a7dda62dc7db1661",
+      "title": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
+      "summary": "Most migrants who reached Spain's North African territory of Ceuta from Morocco have returned, officials said.",
+      "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-01T12:04:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "migrants enter Spain's Ceuta from Morocco"
+    },
     {
       "id": "47ec41098a9066c7c9ce3756d7f502b6cbd0611f",
       "title": "Sánchez condemns ‘selfish’ reaction of some EU countries to Ceuta border crisis as death toll rises – Europe live",
@@ -56,17 +100,6 @@
       "evidence": "prompting political backlash"
     },
     {
-      "id": "6200c443d9fc7040119c53969620ef7082efd13b",
-      "title": "What Caused the Surge of Migrants From Morocco Into Ceuta?",
-      "summary": "Speculation has focused on lax Moroccan policing, attractive Spanish immigration policies and misinformation from human traffickers. In reality, experts said, it’s too early to know.",
-      "url": "https://www.nytimes.com/2026/07/31/world/europe/migrants-surge-morocco-ceuta-spain.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-31T19:43:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "lax Moroccan policing"
-    },
-    {
       "id": "d51dc684f812ef2217c3a5291ab6a8701e35e819",
       "title": "Far-right politicians seize on Ceuta",
       "summary": "Several migrants who crossed into Ceuta attributed their arrival to lax Moroccan border protocols. But Europe’s anti-immigrant politicians blamed Spain’s migrant-friendly policies.",
@@ -76,6 +109,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "migrants... attributed their arrival to lax Moroccan border protocols"
+    },
+    {
+      "id": "8caef9b184460c61d4efbf105896f26825c3acae",
+      "title": "At least 24 people die as thousands cross to Spanish enclave of Ceuta from Morocco",
+      "summary": "Some drowned and others got caught up in crush, official says, as incident prompts criticism by other EU nationsEurope live – latest updatesAt least 24 people have died trying to reach the Spanish enclave of Ceuta after…",
+      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+      "source": "World news - The Guardian",
+      "published_at": "2026-07-31T11:06:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "thousands cross to Spanish enclave of Ceuta from Morocco"
     },
     {
       "id": "e23ce182852583dc94f7e12bce4e5717e89d521a",
@@ -109,17 +153,6 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Thousands Breach Morocco Border With Spanish Territory"
-    },
-    {
-      "id": "d2ac6391d57d3c9329782310a7dda62dc7db1661",
-      "title": "Migrants seen swimming around border fence of Spanish enclave Ceuta",
-      "summary": "The North African enclave's leader said resources were being overwhelmed after so many people entered by sea from Morocco.",
-      "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-30T19:16:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "so many people entered by sea from Morocco."
     },
     {
       "id": "0d217b873c1cdc12412a2fd54788fde77c424ddb",
@@ -197,41 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "As France and Morocco Take the Field"
-    },
-    {
-      "id": "12ce3d572b9706a7ae88a0e7aecf5f2672cf15fb",
-      "title": "A Big Week in the West, Canada vs. Morocco, Trade and a Canada-U.S. Quiz",
-      "summary": "Prime Minister Mark Carney further diversified trade away from the U.S. this week by announcing multibillion dollar investments in Alberta and British Columbia.",
-      "url": "https://www.nytimes.com/2026/07/04/world/canada/carney-alberta-pipeline-canada-us.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-04T10:00:10+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Canada vs. Morocco, Trade"
-    },
-    {
-      "id": "bbc7193504f51729fceb1f991e2549b97762b434",
-      "title": "Why do goats climb trees in Morocco: The surprising science behind their forest-saving habit",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/science/why-do-goats-climb-trees-in-morocco-the-surprising-science-behind-their-forest-saving-habit/articleshow/132157123.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-07-03T09:14:13+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "goats climb trees in Morocco"
-    },
-    {
-      "id": "c923bfb0280eb8b156f28ca260e08648dfdc82b3",
-      "title": "Hossam Hassan and the blurring of lines between football and politics in Egypt - The Guardian",
-      "summary": "Hossam Hassan and the blurring of lines between football and politics in Egypt&nbsp;&nbsp;The GuardianHossam Hassan: 'We Respect Australia, But We Are 7-Time African Champions'&nbsp;&nbsp;ElbotolaHossam Hassan to Nationa…",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMHA3dGFKRTN4R3RtUlY0TXBZcmxSXzBPSWFzRWVqMEJWZUo0Q3F6a3o5WXJjZWFSbEN3dGI1Z3g0THFHejJnVG91LUtRcTNMeGxFVGN0a3FlcWJkY0VtRTlJT0txaXh0WWQzT0hqTGI4aFZQdUxVcXRlT051ZjFINjRzdGx2T1NjV3dkNnRNUlBWWEFNX2NGaFRrZ3IxRHJQZWtseHZ5cklCUDk4RHUzMzZQdHFaSEJm?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-03T09:03:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Hossam Hassan Praises Morocco's World Cup Experience"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-01T10:53:34Z"
+  "last_updated": "2026-08-02T10:55:19Z"
 }

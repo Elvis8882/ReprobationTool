@@ -17,8 +17,25 @@
     "IR",
     "NL"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-08-01T10:53:34+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-08-02T10:55:19+00:00",
+  "sentiment_by_country": {
+    "IL": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "accused the Israeli prime minister of being 'allegedly responsible for the war crimes'"
+    },
+    "IR": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "Tehran said on Sunday it would pause what it called “retaliatory” attacks"
+    },
+    "NL": {
+      "label": "positive",
+      "confidence": 0.7,
+      "evidence": "The court, based in The Hague in the Netherlands, issued a warrant"
+    }
+  },
+  "processed_at": "2026-08-02T10:55:19+00:00"
 }
