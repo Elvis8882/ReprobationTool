@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 31,
+  "sources": 33,
   "sentiment": {
     "positive": 1,
-    "neutral": 20,
+    "neutral": 22,
     "negative": 12
   },
   "latest_articles": [
+    {
+      "id": "e6777f2a3854dd6ea24e1d4cccfc38f148123b8a",
+      "title": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
+      "summary": "Most of the people who surged into Spain on Thursday have since returned to Morocco. A small minority are holed up on a seafront, tired, hungry and vowing to stay.",
+      "url": "https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-02T08:49:09+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Most of the people who surged into Spain on Thursday have since returned to Morocco."
+    },
     {
       "id": "e4c391c5ee25a4bb13bc1ac0aed2363f8aacce78",
       "title": "Spain pushes migrants back to Morocco as suspicions swirl over mass border breach",
@@ -21,6 +32,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "suspicions swirled that the viral incident was orchestrated."
+    },
+    {
+      "id": "8281223c3adabdeeeefdaac47704c3416c9096f5",
+      "title": "Migration Surge on the Spain-Morocco Border",
+      "summary": "Our Madrid bureau chief, Jason Horowitz, visits the coastal town of Ceuta, a Spanish territory in North Africa where there has been an unprecedented influx of migrants crossing the border from Morocco.",
+      "url": "https://www.nytimes.com/video/world/europe/100000011066115/migration-surge-on-the-spain-morocco-border.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-01T16:01:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "influx of migrants crossing the border from Morocco"
     },
     {
       "id": "6200c443d9fc7040119c53969620ef7082efd13b",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software"
-    },
-    {
-      "id": "472b8560de61eb5c6de43fccc3c133c1d828e4bb",
-      "title": "He came to America as a slave. This Moroccan man later became one of North America's earliest explorers",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/us/he-came-to-america-as-a-slave-this-moroccan-man-later-became-one-of-north-americas-earliest-explorers/articleshow/132410448.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-07-15T10:30:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "This Moroccan man later became one of North America's earliest explorers"
-    },
-    {
-      "id": "5108561c65d3fde68012cc89d8df089e69ef52fd",
-      "title": "As France and Morocco Take the Field, Colonial Past and Global Present Will Mix",
-      "summary": "History hangs over the World Cup quarterfinal between France and its former protectorate. These days, national teams intermingle and overlap.",
-      "url": "https://www.nytimes.com/2026/07/09/world/europe/france-morocco-world-cup-soccer.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-09T11:32:25+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "As France and Morocco Take the Field"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-02T10:55:19Z"
+  "last_updated": "2026-08-03T12:40:29Z"
 }

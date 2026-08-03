@@ -1,16 +1,27 @@
 {
   "country": "AZ",
   "score": 55,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 5,
+  "sources": 6,
   "sentiment": {
     "positive": 0,
     "neutral": 4,
-    "negative": 1
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "552211155d209e5992e16eda986403266450d234",
+      "title": "Man Accused of Spying for Iran at British Air Base in Cyprus",
+      "summary": "Rashad Sultanov, a dual British and Azerbaijani citizen, was arrested after accusations he surveilled the military installation, a hub for Mideast operations, and shared the details with the Revolutionary Guards.",
+      "url": "https://www.nytimes.com/2026/07/31/world/europe/iran-spy-uk-air-base-cyprus-sultanov.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-31T12:16:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "dual British and Azerbaijani citizen, was arrested"
+    },
     {
       "id": "11ece91dd785349d5d6e0029c7bbcdf587fcb917",
       "title": "British-Azerbaijani man arrested in Cyprus over alleged spying on UK airbase for Iran",
@@ -68,5 +79,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-02T10:55:19Z"
+  "last_updated": "2026-08-03T12:40:29Z"
 }
