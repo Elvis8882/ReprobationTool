@@ -1,16 +1,37 @@
 {
   "country": "HU",
-  "score": 98,
+  "score": 97,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 210,
+  "trend": -1,
+  "sources": 209,
   "sentiment": {
-    "positive": 19,
-    "neutral": 178,
-    "negative": 13
+    "positive": 18,
+    "neutral": 177,
+    "negative": 14
   },
   "latest_articles": [
+    {
+      "id": "eae1edfc4bef5c580e9ac52d9a5ce89790ee39cb",
+      "title": "Hungary comes ‘within millimetres’ of shutting down nuclear power plant amid drought crisis – Europe live",
+      "summary": "EU says it is monitoring energy crunch in Hungary, Bulgaria and Romania as extreme heat and low water levels in Danube pose challenges in regionMeanwhile, the European Commission said it was “monitoring very closely” the…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-04T10:48:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Hungary comes ‘within millimetres’ of shutting down nuclear power plant"
+    },
+    {
+      "id": "2dea8ed3ee664e387eea4ec75010cf698dab881d",
+      "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
+      "summary": "European Commission president says work needed in five areas of migration control including returning more peopleThe president of the European Commission has called for action to strengthen Europe’s borders after tens of…",
+      "url": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-03T17:44:01+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "871943801cf9285dae4d68cce2f2959195beb3ff",
       "title": "South-eastern Europe faces heatwave energy crunch as Romania detonates Danube rock to increase water flow – Europe live",
@@ -194,30 +215,8 @@
       "published_at": "2026-07-20T10:56:16+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "5cb37f166a7178e65247569460a0d798313bf0ae",
-      "title": "Hungary’s president agrees to stand down after law change ends his term",
-      "summary": "Tamás Sulyok signed the constitutional amendment that cited ‘serious loss of confidence’ in him as leader Hungary’s president, Tamás Sulyok, has agreed to step down after signing a constitutional amendment passed by the…",
-      "url": "https://www.theguardian.com/world/2026/jul/18/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-18T22:17:51+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Hungary’s president agrees to stand down after law change"
-    },
-    {
-      "id": "a6a3a34900a7f72b72dddf6bff1c0a74082c2e77",
-      "title": "Hungary's president agrees to stand down after parliament backs removal",
-      "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
-      "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-18T19:34:16+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Hungary's president agrees to stand down after parliament backs removal"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-03T12:40:29Z"
+  "last_updated": "2026-08-04T11:41:56Z"
 }

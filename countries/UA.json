@@ -1,16 +1,93 @@
 {
   "country": "UA",
-  "score": 20,
+  "score": 17,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -2,
-  "sources": 668,
+  "trend": -3,
+  "sources": 669,
   "sentiment": {
-    "positive": 289,
-    "neutral": 128,
-    "negative": 252
+    "positive": 288,
+    "neutral": 127,
+    "negative": 255
   },
   "latest_articles": [
+    {
+      "id": "2b57d9598ea9fa2d1e7502b22b5baf146591140e",
+      "title": "Ukraine strikes more Wildberries sites as five killed in Moscow region",
+      "summary": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
+      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-04T11:19:01+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine strikes more Wildberries sites"
+    },
+    {
+      "id": "54948778798c53f4e5eaf47468e543c5d1070ee5",
+      "title": "Drone Explodes on Russian Beach, Killing 7, Officials Say",
+      "summary": "It was unclear what the drone was targeting and why it crashed in the crowded resort spot, but it has been a deadly summer for civilians caught up in the Russian-Ukrainian war.",
+      "url": "https://www.nytimes.com/2026/08/03/world/europe/drone-russian-beach-explosion.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-04T09:47:42+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "deadly summer for civilians caught up in the Russian-Ukrainian war."
+    },
+    {
+      "id": "dae962519ad41d4043df53d9e74b719cf639482a",
+      "title": "Russia Turns Ukraine’s Gas Stations From Social Hubs Into Deadly Targets",
+      "summary": "Drone attacks have hit hundreds of gas stations in apparent retaliation for Ukraine’s attacks on Russian oil refineries.",
+      "url": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-04T09:42:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "retaliation for Ukraine’s attacks on Russian oil refineries."
+    },
+    {
+      "id": "131d5d2c73b76616a193da9700f3aa6883da8d64",
+      "title": "Iran won't escalate tensions but will defend itself, says Pezeshkian amid Trump's warning",
+      "summary": "Iran states it will defend its security while the US president claims a last chance for a deal. Conflicting reports emerge regarding ongoing negotiations between Iran and the United States. Shipping activity through the…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-wont-escalate-tensions-but-will-defend-itself-says-pezeshkian-as-donald-trump-claims-tehran-has-last-chance/articleshow/132855001.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-08-04T09:37:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "retaliatory strikes on Ukraine"
+    },
+    {
+      "id": "9bb6eaa9bb17b1a909c524929852f3ee5bf8c49a",
+      "title": "Russia downs 320 drones: Six killed, warehouses damaged in Moscow, St Petersburg",
+      "summary": "Russia’s defence ministry said it brought down or destroyed 320 Ukrainian drones across 19 regions overnight, as governors reported six people killed, nine injured and warehouses damaged near Moscow and St Petersburg.",
+      "url": "https://timesofindia.indiatimes.com/world/russia-downs-320-ukrainian-drones-six-killed-warehouses-damaged-in-moscow-st-petersburg/articleshow/132846897.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-08-04T06:36:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "destroyed 320 Ukrainian drones"
+    },
+    {
+      "id": "97d115e558559813272ae8a258df5f6781b78cde",
+      "title": "Russian Strike Destroyed Millions of H.I.V. Prevention Supplies in Ukraine",
+      "summary": "No medications were affected, but if new prevention items are not procured, aid groups fear a surge in new infections next year.",
+      "url": "https://www.nytimes.com/2026/08/03/health/ukraine-war-hiv-aids.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-03T14:24:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Prevention Supplies in Ukraine"
+    },
+    {
+      "id": "07c61997beb6225938cb77369a7921f65e52b33f",
+      "title": "No Peace, Just Escalation – Putin and Lavrov’s Clear Signal to the World - Kyiv Post",
+      "summary": "No Peace, Just Escalation – Putin and Lavrov’s Clear Signal to the World&nbsp;&nbsp;Kyiv PostAmbassador: Putin does not see his military options as having run out&nbsp;&nbsp;news.err.eePutin Is Still Not Interested in Ne…",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KcDN6MUNFSmdBRVpnek42dkxfc3FGNmJvNFN6UXBOU3VSOFU0YVdHd1U0blB3bnVUMXRUclN2T2RFQl8yYldVSGhORQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-08-03T13:32:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Putin and Lavrov’s Clear Signal to the World"
+    },
     {
       "id": "668e69486e9b0028a959802b106b012214c9a497",
       "title": "Ukraine hits Wildberries warehouse in latest infrastructure strike away from frontlines - BBC",
@@ -21,6 +98,17 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Ukraine hits Wildberries warehouse in latest infrastructure strike"
+    },
+    {
+      "id": "bdd1ce17ac58364bdfc9860241c8e9647967b510",
+      "title": "Russia blames Ukraine for deadly restaurant bombing in Moscow - The Guardian",
+      "summary": "Russia blames Ukraine for deadly restaurant bombing in Moscow&nbsp;&nbsp;The GuardianWhat We Know About the Deadly Moscow Restaurant Attack&nbsp;&nbsp;The Moscow TimesSteve Rosenberg at the Moscow restaurant where bomb k…",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNldQZThnV3hSVVhVWFJNazRHbmxmX2Z4MHl0RzlNSVppMU5CYnVZVnVIUjE0UlRRQy1jYWxzRkVQMmhsSlRwbTVKRnh1Y3liNTV2ak8yZ0FLVFBQWktfMF9WN2wxY00zVTBJUWwtU3JxcGRvY3dSSDhRUVBQbnU3Z1p3d3VyRUQzSGFQMGp3Z0laWm5ZeUVtUUNCMFVXXzlDTlE?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-08-03T10:43:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia blames Ukraine for deadly restaurant bombing in Moscow"
     },
     {
       "id": "7f658436997ab1bb06f6c858619e48b25810a58e",
@@ -142,96 +230,8 @@
       "sentiment": "mixed",
       "confidence": 0.7,
       "evidence": "Kyiv's Attacks Threaten Black Sea Exports"
-    },
-    {
-      "id": "f6eaf0c07fd2fb0fbc4a6f65edbebe0b917a203e",
-      "title": "Political Turmoil Will Not Derail Killer Robot Program, Ousted Minister Says",
-      "summary": "The Ukrainian former defense minister Mykhailo Fedorov, an advocate for drone and robot warfare, says the country’s tech-heavy strategy will persist.",
-      "url": "https://www.nytimes.com/2026/07/31/world/europe/federov-ukraine-killer-robots.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-31T09:25:39+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "country’s tech-heavy strategy will persist"
-    },
-    {
-      "id": "b8c01dfb38afff2b6b57662a64b8f543fc0f980c",
-      "title": "Indian Sailor Goes Missing After Drone Strike On Ukrainian Ship",
-      "summary": "His family says he last spoke to his mother, Kalpana Dubey, on the night of July 24",
-      "url": "https://www.ndtv.com/world-news/indian-sailor-goes-missing-after-drone-strike-on-ukrainian-ship-11845586#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-30T18:42:21+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Drone Strike On Ukrainian Ship"
-    },
-    {
-      "id": "086a3ee42681668074649846cc9768069cf7439a",
-      "title": "Russia Likely Used North Korean Missile In Deadly Ukraine Strike: Report",
-      "summary": "A Russian overnight attack that killed a family near the Ukrainian city of Kryvyi Rih likely used a North Korean missile, two sources said, in what would be the first time such a weapon had been fired in the war in nearl…",
-      "url": "https://www.ndtv.com/world-news/russia-likely-used-north-korean-missile-in-deadly-ukraine-strike-report-11843934#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-30T12:59:38+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Deadly Ukraine Strike"
-    },
-    {
-      "id": "60fc1b6ee082931d93191722ef44d8d5e723b5cc",
-      "title": "Russia accused of violating Polish airspace after missile explodes near village",
-      "summary": "Polish PM heads to scene of crater thought to have occurred during deadly wave of attacks on Ukraine Russia has been accused of violating Polish airspace after a missile exploded in a field in the east of the country dur…",
-      "url": "https://www.theguardian.com/world/2026/jul/30/ukraine-russia-missile-strikes-attack-kyiv",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-30T10:21:23+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "deadly wave of attacks on Ukraine"
-    },
-    {
-      "id": "30556073fd1957f58c450e42cd8a15f310539e28",
-      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "summary": "The unidentified object caused a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine during a Russian attack on the city of Lviv.",
-      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-30T09:56:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russian attack on the city of Lviv"
-    },
-    {
-      "id": "884dbcb5c17430e155cf095b78a3494060ba829d",
-      "title": "Russia’s history of disregarding the sovereignty and territorial integrity of its neighbours: UK statement to the OSCE - GOV.UK",
-      "summary": "Russia’s history of disregarding the sovereignty and territorial integrity of its neighbours: UK statement to the OSCE&nbsp;&nbsp;GOV.UKUkraine sees highest civilian casualties since 2022&nbsp;&nbsp;CNNRussia Shows No Me…",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTlpGVUNSVTh0ZlFGbDRXT09kQ0JZbng3QWlGbHZXYkxKdXpIYXlRbElubmFhVlNtUmpaZjg3bFhIcmM3S1ZKR1padHZsLU5yMk1Fa2ViQ2RGM243dkdlc1ZleXdWaml5cmhlOXlTbHhLU2w0VzBOUzRjNjhnR3NNbnNaZE5wZDJFc09jSy10WGdQOTBJYllmQnZqcG5pWGlzQzUxT2IxWnBXMERwelhJNkhzOUNGZnhuelNjaFNjRE1aY1llUjE5cDdrN05tLWNnZUNrZDEyT005RVFnWEVQUHd5SmxLMk9ETFNr?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-30T09:45:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Ukraine sees highest civilian casualties since 2022"
-    },
-    {
-      "id": "ea7a3813d4553351d1a66d134c97bd7c5f1aee98",
-      "title": "Interview with Lithuanian Foreign Minister Kestutis Budrys - Philstar.com",
-      "summary": "Interview with Lithuanian Foreign Minister Kestutis Budrys&nbsp;&nbsp;Philstar.comBudrys met with Singapore’s Minister for Foreign Affairs in the Philippines&nbsp;&nbsp;Užsienio reikalų ministerijaLithuania eyes sharing…",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVjBnZUxQVUR0Snh6QzRjMGZ2Z293S2ZWcXpkYmZTUXVHOVVNcDRrU0E3VFBWUWR3SzhuTFpCb1RTMXRJR2VPUG1XOS14TjhUNWF5dHlXd3dLdWdYMjdlbkh0Q3UxUzhIMmtJRWhkNlV3SjQ3MS1OQ3F3Mm5hWE1pTVNVSjJhT3Y3Q3AyeWhDNWt1OFFVbHlJaERrek55V1Q2TklIQUc4WGZRQTTSAbIBQVVfeXFMTzNPRTAtRDFXUGxubHAxSVk3OTloVlkzTzgxVklxNjZraGVNTVZLckZyRjVCMWZxRktMWUJiM0F0Y09HSXVQekNjWlBRY2lLT2tfbVpPRTBNV1FMRjdadktheFpLWnhfemtXX2xWeW4wRThmV1VhNVAxenZVZXFEMi1HbFBEdDJIY3p2R05jdHFUOFBjMFlLcjFqRU15bF82MzI1OXBWbVVJUmQ4aUZncXF2QQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-30T08:34:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine-tested maritime tech"
-    },
-    {
-      "id": "ba0e99f7347e5e20a6f19a657eb6d72dfe6c560c",
-      "title": "Russia Fires Ballistic Missiles At Ukraine Amid Rising Tensions",
-      "summary": "People take shelter inside an overcrowded metro station during a Russian missile strike in Kyiv",
-      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-russia-fires-ballistic-missiles-at-ukraine-amid-rising-tensions-ukrainian-president-volodymyr-zelensky-warning-11841155#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-30T03:51:49+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Fires Ballistic Missiles At Ukraine"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-03T12:40:29Z"
+  "last_updated": "2026-08-04T11:41:56Z"
 }

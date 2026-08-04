@@ -1,16 +1,60 @@
 {
   "country": "MA",
-  "score": 57,
+  "score": 56,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 33,
+  "trend": -1,
+  "sources": 37,
   "sentiment": {
     "positive": 1,
-    "neutral": 22,
-    "negative": 12
+    "neutral": 23,
+    "negative": 15
   },
   "latest_articles": [
+    {
+      "id": "5d24f14cc3a7f533f3ae0886f854b548e41d000b",
+      "title": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
+      "summary": "Dozens of people died attempting to reach the Spanish enclave of Ceuta after an estimated 50,000 crossed from Morocco last week. The incident has led to a political crisis in Spain and criticism from EU countries.Lucy Ho…",
+      "url": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-03T16:05:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Dozens of people died attempting to reach the Spanish enclave of Ceuta"
+    },
+    {
+      "id": "ad5c6d1b55e296fc2fbd3cd88ad96c4e18c8cd74",
+      "title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
+      "summary": "Juan Jesús Vivas says influx seen as ‘at least encouraged or permitted’ by Rabat, as Spain demands EU solidarityExplainer: why is Ceuta a migration flashpoint?A growing chorus of voices has accused Morocco of helping to…",
+      "url": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-03T14:13:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "accuses Morocco over ‘atrocity’ of mass border crossing"
+    },
+    {
+      "id": "72519b737cbda6969f964d29f2ed441361450ded",
+      "title": "Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People",
+      "summary": "Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.",
+      "url": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-03T09:05:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Moroccan migrants described their despair"
+    },
+    {
+      "id": "4e8e9ac711d62ef2eb6c74818f8de19589a33740",
+      "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
+      "summary": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospectsFour days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News…",
+      "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-02T13:11:56+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Chaos of border crossing gives way to limbo for Moroccans"
+    },
     {
       "id": "e6777f2a3854dd6ea24e1d4cccfc38f148123b8a",
       "title": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
@@ -186,52 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Moroccan Man’s Death"
-    },
-    {
-      "id": "b16f2291d6303e0ff927a17c52df422e0a9a6b2b",
-      "title": "Death of Moroccan man in Italian police custody sparks protests, violence",
-      "summary": "The death of Abderrahim Fakir in Italy drew parallels to the death of George Floyd.",
-      "url": "https://www.washingtonpost.com/world/2026/07/21/death-moroccan-man-italian-police-custody-sparks-protests-violence/",
-      "source": "World (Washington post)",
-      "published_at": "2026-07-21T22:52:02+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Death of Moroccan man"
-    },
-    {
-      "id": "d9fadf1d442ff84625ab04140708a300e2d51d74",
-      "title": "Protests in Italy after Moroccan man dies pleading for help from police",
-      "summary": "Officers use teargas and water cannon on crowds in Bologna after death of Abderrahim ⁠Fakir under police restraintPolice have clashed with demonstrators during a protest in the Italian city of Bologna after a Moroccan-bo…",
-      "url": "https://www.theguardian.com/world/2026/jul/21/protests-italy-bologna-abderrahim-fakir-police",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-21T10:09:06+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Moroccan man dies pleading for help from police"
-    },
-    {
-      "id": "5f383a4f4fd121b57163a0c96b864589c63057f7",
-      "title": "Outcry in Italy After Man Dies While Being Restrained by Police",
-      "summary": "The death of the man, a Moroccan resident of Italy, set off an outcry across the country and prompted comparisons to the death of George Floyd in the United States.",
-      "url": "https://www.nytimes.com/2026/07/20/world/europe/moroccan-italy-police-death-george-floyd.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-20T17:40:40+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "The death of the man, a Moroccan resident of Italy"
-    },
-    {
-      "id": "ccb0f3ceefe1351f532b1de422f61f6444ef742b",
-      "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
-      "summary": "Whistleblower suggests internal security services deployed spyware from 2017 against key domestic and foreign targetsA former member of Morocco’s domestic intelligence service has helped to provide an unprecedented insig…",
-      "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-16T04:30:13+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-03T12:40:29Z"
+  "last_updated": "2026-08-04T11:41:56Z"
 }

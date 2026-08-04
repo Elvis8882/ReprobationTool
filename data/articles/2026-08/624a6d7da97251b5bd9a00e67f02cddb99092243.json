@@ -1,0 +1,34 @@
+{
+  "id": "624a6d7da97251b5bd9a00e67f02cddb99092243",
+  "title": "Boris Nadezhdin, anti-war candidate in Russia, flees to France",
+  "summary_full": "Nadezhdin was prohibited from running in parliamentary elections in September. He posted a video from Paris, saying, \"I'm alive and free.\"",
+  "summary_public": "Nadezhdin was prohibited from running in parliamentary elections in September. He posted a video from Paris, saying, \"I'm alive and free.\"",
+  "url": "https://www.washingtonpost.com/world/2026/08/03/boris-nadezhdin-anti-war-candidate-russia-flees-france/",
+  "published_at": "2026-08-03T13:22:15+00:00",
+  "source": "World (Washington post)",
+  "language": "en",
+  "countries_detected": [
+    "FR",
+    "RU"
+  ],
+  "countries_scored": [
+    "FR",
+    "RU"
+  ],
+  "sentiment_by_country": {
+    "FR": {
+      "label": "neutral",
+      "confidence": 0.1,
+      "evidence": "flees to France"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "anti-war candidate in Russia, flees"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-08-04T11:41:56+00:00",
+  "processed_at": "2026-08-04T11:41:56+00:00"
+}
