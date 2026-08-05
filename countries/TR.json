@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 92,
+  "score": 93,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 86,
+  "trend": 1,
+  "sources": 87,
   "sentiment": {
-    "positive": 11,
+    "positive": 12,
     "neutral": 59,
     "negative": 16
   },
   "latest_articles": [
+    {
+      "id": "1b14891bbabc18e46462969f300317fa9e1fdde9",
+      "title": "MI6 is top European foreign intelligence service, peer review finds",
+      "summary": "UK’s Secret Intelligence Service praised for playing long game and having ‘a taste for dirty tricks’MI6 has been ranked as the most powerful foreign intelligence service in Europe ahead of France and the Netherlands, acc…",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/04/mi6-top-european-foreign-intelligence-service-peer-review",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-04T22:40:53+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "penetrating the ruling elites in Russia, China, Iran and Turkey"
+    },
     {
       "id": "53042f8490689063665ffa76e1aa6ae8585c4331",
       "title": "UK plastic ‘waste colonialism’ found to be polluting Turkey’s farming heartland",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "President Donald Trump spent two days in Ankara, Turkey"
-    },
-    {
-      "id": "e8bc14892e7dcd6dd44e3df5141216bea04d93e3",
-      "title": "After Insulting Allies at NATO Summit, Trump Says They Love Him",
-      "summary": "The meeting in Turkey featured President Trump at his most mercurial, veering from scorn to praise for European countries, including some whose patience with mollifying him has worn thin.",
-      "url": "https://www.nytimes.com/2026/07/08/world/europe/nato-trump-europe.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-08T21:59:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "meeting in Turkey"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-04T11:41:56Z"
+  "last_updated": "2026-08-05T11:34:06Z"
 }
