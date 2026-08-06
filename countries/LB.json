@@ -1,16 +1,38 @@
 {
   "country": "LB",
-  "score": 15,
+  "score": 14,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 3,
+  "trend": -1,
   "sources": 207,
   "sentiment": {
     "positive": 8,
-    "neutral": 76,
-    "negative": 123
+    "neutral": 75,
+    "negative": 124
   },
   "latest_articles": [
+    {
+      "id": "c73298d3a5982e5a4355dfd24efc588c92f28899",
+      "title": "Israel Strikes Lebanon After Accusing Hezbollah of Cease-Fire Violation",
+      "summary": "At the same time, Israeli and Lebanese negotiators were holding talks in Rome aimed at fostering a long-term diplomatic settlement.",
+      "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-lebanon-hezbollah-cease-fire.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-06T07:20:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel Strikes Lebanon After Accusing Hezbollah of Cease-Fire Violation"
+    },
+    {
+      "id": "c837ad8e9a6c30aeb362a08fcd1dc9995d3673f2",
+      "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
+      "summary": "Lebanese authorities says one person was killed in the strikes, which came after the first Israeli military fatalities in Lebanon in more than a month.",
+      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-05T20:03:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "one person was killed in the strikes"
+    },
     {
       "id": "e4cd3ae67191ecca47fad69e3a2296f8c4bdf918",
       "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "From Lebanon to cities across Pakistan"
-    },
-    {
-      "id": "2ccf6c04c2be8aea57cc617407252c91eccfcaa6",
-      "title": "Israeli command system identified 850,000 targets in Gaza and Lebanon wars, says supplier",
-      "summary": "Elbit Systems supplied Tzayad digital army programme to map people, vehicles and other objects in real timeIsrael identified about 1,000 potential targets a day during the first two years of the wars in Gaza and Lebanon…",
-      "url": "https://www.theguardian.com/world/2026/jul/06/israel-command-system-identified-850000-targets-gaza-lebanon-war-supplier-elbit-systems",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-06T08:00:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "identified 850,000 targets in Gaza and Lebanon wars"
-    },
-    {
-      "id": "48d3298a98a2bc3509c1e67b97aad0544367fce8",
-      "title": "Bahrain Joins UAE, Saudi Arabia, Israel, Qatar and Lebanon as IAG, Lufthansa, Air France and Other Major European Airline Route Suspension Dates Near End Post Iran Conflict Boosting Middle East Aviation Recovery and Gulf Air Connectivity - Travel And Tour World",
-      "summary": "Bahrain Joins UAE, Saudi Arabia, Israel, Qatar and Lebanon as IAG, Lufthansa, Air France and Other Major European Airline Route Suspension Dates Near End Post Iran Conflict Boosting Middle East Aviation Recovery and Gulf…",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuVk5nSjl2aHJyWUd4ZGVKdXc3ZllsV1pHbUszQks4QUVzNTFwY0JzWTVXdXVhamRZOHpHdVNhNWllc216bndYcmFmXzZtV3p2aHIyZXlhQVI0Ry0yY3U4TGZkT3RXNHFxZVc2Y3lB?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-05T13:19:48+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": ""
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-05T11:34:06Z"
+  "last_updated": "2026-08-06T11:38:04Z"
 }

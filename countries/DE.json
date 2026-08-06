@@ -1,16 +1,49 @@
 {
   "country": "DE",
-  "score": 73,
+  "score": 72,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 423,
+  "trend": -1,
+  "sources": 417,
   "sentiment": {
-    "positive": 55,
-    "neutral": 303,
-    "negative": 65
+    "positive": 54,
+    "neutral": 297,
+    "negative": 66
   },
   "latest_articles": [
+    {
+      "id": "d13797a1eeff0546693246498b35a98d9f0d4227",
+      "title": "Rheinmetall stock volatile after trimming guidance as Germany's F126 warship cancellation hits sales outlook",
+      "summary": "The company's sales grew 39% and profits grew 74% in the first half of the year.",
+      "url": "https://www.cnbc.com/2026/08/06/rheinmetall-stock-earnings-guidance-frigate.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-08-06T08:57:01+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Germany's F126 warship cancellation"
+    },
+    {
+      "id": "89b33e1e08ae095f7eea2df9b6616fe8da0b24a9",
+      "title": "Drone carrying explosives at German airport marks ‘new level of danger’, says interior minister",
+      "summary": "Investigators treating incident as part of ‘professional hybrid threat scenario’, says Alexander Dobrindt• The Leipzig drone bomb marks a dangerous escalation for EuropeGermany’s interior minister has warned that the dis…",
+      "url": "https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-plane-collides-object-leipzig",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-05T20:56:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Drone carrying explosives at German airport marks ‘new level of danger’"
+    },
+    {
+      "id": "1c9467ab690e79dc22ab625c8c2e2462da91c3d4",
+      "title": "The Leipzig drone bomb marks a dangerous escalation for Europe",
+      "summary": "Initial evidence suggests aerial drone, found near Ukrainian cargo planes at German airport, came from RussiaThe armed drone found at Leipzig airport on Wednesday may not have exploded, but the fact that it got inside th…",
+      "url": "https://www.theguardian.com/world/2026/aug/05/the-leipzig-drone-bomb-marks-a-dangerous-escalation-for-europe",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-05T17:32:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "aerial drone, found near Ukrainian cargo planes at German airport, came from Russia"
+    },
     {
       "id": "2de7a0a22acae922db6c1c6d69d564719a9b4b24",
       "title": "Nato confirms drone sighting near Ukrainian plane at German airport after ‘security incident’ – Europe live",
@@ -190,41 +223,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Islamist terror attack has been shot dead by police"
-    },
-    {
-      "id": "2098bb2dd7016d0c0719bc553dd88fb25f8efd39",
-      "title": "Berlin Pride attack suspect shot and killed during police operation",
-      "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
-      "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-26T19:21:26+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Berlin Pride attack suspect shot and killed during police operation"
-    },
-    {
-      "id": "73cab5369890fb4c43083648aefe1d6661a10b01",
-      "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
-      "summary": "German authorities said the main suspect in the crime, which they called a likely act of terrorism, had been killed in a police raid on Sunday evening.",
-      "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-26T19:10:52+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism"
-    },
-    {
-      "id": "625229df86bc361c211f72097fa3330d5405c540",
-      "title": "Chief Suspect In Deadly Attack Near Berlin Pride Parade Shot Dead",
-      "summary": "The suspect ran towards the police with a blade, prompting them to shoot him.",
-      "url": "https://www.ndtv.com/world-news/chief-suspect-in-deadly-attack-near-berlin-pride-parade-shot-dead-11825373#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-26T17:55:56+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Deadly Attack Near Berlin Pride Parade"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-05T11:34:06Z"
+  "last_updated": "2026-08-06T11:38:04Z"
 }
