@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 732,
+  "sources": 719,
   "sentiment": {
-    "positive": 38,
-    "neutral": 110,
-    "negative": 585
+    "positive": 36,
+    "neutral": 108,
+    "negative": 576
   },
   "latest_articles": [
+    {
+      "id": "a5d7ce55ab3581b9d7da6fcf1bd7bca2432bf2a2",
+      "title": "German airport drone-bomb: Could Russia be involved?",
+      "summary": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-07T08:48:16+00:00",
+      "sentiment": "negative",
+      "confidence": 0.95,
+      "evidence": "Russian-linked proxies ... delivered them to Germany"
+    },
     {
       "id": "25ea43ab2fe188c0935d05e3c29ab03007f03f9c",
       "title": "Lithuania warns Russia could be considering possible ‘false flag’ strike on the Baltics – Europe live",
@@ -43,6 +54,28 @@
       "sentiment": "mixed",
       "confidence": 0.7,
       "evidence": "Ukraine Strikes Two Oil Facilities Deep Inside Russia"
+    },
+    {
+      "id": "d38a169125e772faae74618a52ee41475f5fc1ae",
+      "title": "Russia Responds To Allegations of Using Colombian Mercenaries In Ukraine War",
+      "summary": "Russia denies recruiting mercenaries from colombia",
+      "url": "https://www.ndtv.com/world-news/russia-denies-using-colombian-mercenaries-in-ukraine-war-11872573#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-08-06T06:00:04+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia Responds To Allegations of Using Colombian Mercenaries In Ukraine War"
+    },
+    {
+      "id": "38e4ab2524b58f903198478f7750991236dc4e25",
+      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+      "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-06T05:00:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia's new Black Sea strikes"
     },
     {
       "id": "70b53cc366b75a5d109d4e193736c12d7bd0e691",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 1.0,
       "evidence": "Russian drone pursuing a street vendor in the Kherson region"
-    },
-    {
-      "id": "c65db9f5c1e68007c8beaa60bb1514f570f4717f",
-      "title": "Latvia's 'national position' on Russia and Belarus is to step up sanctions",
-      "summary": "On&nbsp;4th August, the Latvian cabinet&nbsp;approved what it dubbed the country's&nbsp;\"national position\" with regard to aggressor states Russia and Belarus.&nbsp;",
-      "url": "https://eng.lsm.lv/article/politics/diplomacy/04.08.2026-latvias-national-position-on-russia-and-belarus-is-to-step-up-sanctions.a657500/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-08-04T15:40:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Latvia's 'national position' on Russia and Belarus is to step up sanctions"
-    },
-    {
-      "id": "2b57d9598ea9fa2d1e7502b22b5baf146591140e",
-      "title": "Ukraine strikes more Wildberries sites as five killed in Moscow region",
-      "summary": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
-      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-04T11:19:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukraine strikes more Wildberries sites as five killed in Moscow region"
-    },
-    {
-      "id": "b9bfa27045d67d7d7ce73994dc20da3194ec25d3",
-      "title": "Russian hackers abuse hotel Wi-Fi networks to steal Microsoft 365 credentials and deploy malware - Help Net Security",
-      "summary": "Russian hackers abuse hotel Wi-Fi networks to steal Microsoft 365 credentials and deploy malware&nbsp;&nbsp;Help Net SecurityCaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credentia…",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZm02OGlaRXJWY3ltYVE0Q1VBV0RrS1dPOHBFNHU2QkF6ekdxbnBVdlI3Q3JQQ01lNXFCR01jUkRhQmtjUF9ZSFhSdjBlRHpPQUpPM1VLQmpBbFQ5Rmc3eTZaQUJoMTBYTEU2RmNDdGNER2hsNjA5OURraE8yUjlUZDU5YVB3VWtDVW5TT0ZGemc1Qm5i?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-04T10:45:23+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russian hackers abuse hotel Wi-Fi networks to steal credentials"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-06T11:38:04Z"
+  "last_updated": "2026-08-07T10:15:19Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "LB",
-  "score": 14,
+  "score": 13,
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": -1,
-  "sources": 207,
+  "sources": 208,
   "sentiment": {
     "positive": 8,
     "neutral": 75,
-    "negative": 124
+    "negative": 125
   },
   "latest_articles": [
+    {
+      "id": "dff84d4cc76b357f8ec3c73f35efb7cda3420658",
+      "title": "Iran says a deal with Oman to reopen the strait of Hormuz is close to being finalised – Middle East crisis live",
+      "summary": "Under the proposed agreement Tehran would control inbound traffic according to reportsUnderstanding reached on coordinates for shipping route through Hormuz, Iran saysA third day of US-mediated talks between Lebanese and…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/06/iran-oman-strait-of-hormuz-yemen-houthis-israel-lebanon-gaza-us-donald-trump-middle-east-crisis-live-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-06T10:48:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Israeli strikes killed at least one person"
+    },
     {
       "id": "c73298d3a5982e5a4355dfd24efc588c92f28899",
       "title": "Israel Strikes Lebanon After Accusing Hezbollah of Cease-Fire Violation",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Israel’s occupation of the south was preventing the Lebanese army’s deployment"
-    },
-    {
-      "id": "d8aed51d3744a62096c4c57d5be663713d66d808",
-      "title": "Khamenei’s funeral draws mourners from across Iran’s regional network.",
-      "summary": "From Lebanon to cities across Pakistan, gatherings and marches are expected to show his reach.",
-      "url": "https://www.nytimes.com/live/2026/07/06/world/iran-funeral-khamenei/khameneis-funeral-draws-mourners-from-across-irans-regional-network",
-      "source": "NYT > World News",
-      "published_at": "2026-07-06T12:10:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "From Lebanon to cities across Pakistan"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-06T11:38:04Z"
+  "last_updated": "2026-08-07T10:15:19Z"
 }

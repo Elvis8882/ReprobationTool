@@ -1,16 +1,38 @@
 {
   "country": "UA",
-  "score": 5,
+  "score": 6,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -6,
-  "sources": 675,
+  "trend": 1,
+  "sources": 670,
   "sentiment": {
-    "positive": 284,
-    "neutral": 125,
-    "negative": 267
+    "positive": 283,
+    "neutral": 123,
+    "negative": 265
   },
   "latest_articles": [
+    {
+      "id": "e843f3332f61de0a5d69b4e492ce4e7cf4bfa578",
+      "title": "Gas prices could remain high this fall even if crude prices stabilize. Here's why",
+      "summary": "The refining market is very tight due to the Ukraine and Iran wars, keeping gas prices elevated even as crude prices fall.",
+      "url": "https://www.cnbc.com/2026/08/06/refinery-gas-oil-prices-iran-ukraine-war.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-08-06T20:34:01+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ukraine wars"
+    },
+    {
+      "id": "b03d161d808c8c53a40f0dffee7c1cd90562d7a6",
+      "title": "Leipzig drone bomb was found near Ukrainian plane carrying ammunition, say police",
+      "summary": "Germany investigating whether foreign state involved as minister says ‘ripped’ detonator stopped device going offEurope live – latest updatesA catastrophe with multiple casualties was possibly narrowly averted by the dis…",
+      "url": "https://www.theguardian.com/world/2026/aug/06/leipzig-drone-bomb-found-near-ukrainian-plane-carrying-ammunition",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-06T15:06:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Ukrainian plane carrying ammunition"
+    },
     {
       "id": "a87024f4d5112ab0cff3605c1f5d94c2a8e87ee3",
       "title": "Ukraine’s military hits one of Russia’s biggest oil refineries in long-range drone attack",
@@ -45,6 +67,28 @@
       "evidence": "Ukraine Strikes Two Oil Facilities Deep Inside Russia"
     },
     {
+      "id": "d38a169125e772faae74618a52ee41475f5fc1ae",
+      "title": "Russia Responds To Allegations of Using Colombian Mercenaries In Ukraine War",
+      "summary": "Russia denies recruiting mercenaries from colombia",
+      "url": "https://www.ndtv.com/world-news/russia-denies-using-colombian-mercenaries-in-ukraine-war-11872573#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-08-06T06:00:04+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Colombian Mercenaries In Ukraine War"
+    },
+    {
+      "id": "38e4ab2524b58f903198478f7750991236dc4e25",
+      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+      "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-06T05:00:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "attacks on Ukraine's coastline"
+    },
+    {
       "id": "47967578cf260387625ae2372bae270975a089e4",
       "title": "Europe’s Control of Its Fate Is Tested by Iran and Ukraine Wars, Wildfires and Migration",
       "summary": "A brutal summer has exposed how much Britain, France, Spain and other European countries are under pressure from forces largely out of their control.",
@@ -65,6 +109,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Ukraine failed to shoot down a single ballistic missile fired by Russia"
+    },
+    {
+      "id": "7f5fdbd0dc67f45fdcaec7a10eee8303b1cecd67",
+      "title": "Explosive Drone Found at German Airport Used by Ukrainian Carrier",
+      "summary": "A second drone may have collided with a plane in the air over the airport, damaging the aircraft slightly, the authorities say.",
+      "url": "https://www.nytimes.com/2026/08/05/world/europe/germany-explosive-drone-airport.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-05T23:26:32+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Used by Ukrainian Carrier"
     },
     {
       "id": "da87ac79b71faa51177371742dbb04ddcc5c9fa7",
@@ -175,63 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Ukraine Takes IOC's Russia Decision To Sport's Top Court"
-    },
-    {
-      "id": "6336b832d396a904005e3791e3232aeeae6df82f",
-      "title": "How the Ukraine War Became a Fight for the Skies",
-      "summary": "Russia and Ukraine are producing ever larger numbers of innovative aerial weapons, hoping for a breakthrough as ground combat is largely frozen.",
-      "url": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-05T08:52:43+00:00",
-      "sentiment": "positive",
-      "confidence": 1.0,
-      "evidence": "Ukraine are producing ever larger numbers of innovative aerial weapons"
-    },
-    {
-      "id": "47bb0c9f104f418b87476a0f729260fb6bd6729d",
-      "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
-      "summary": "In today’s newsletter: The past week shows how quickly images, rumours and ​right-wing political opportunism can eclipse the facts on the groundGood morning. Last week, an estimated 72,000 migrants began crossing into a…",
-      "url": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-05T05:54:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russian strikes in and around Kyiv killed at least 14 people"
-    },
-    {
-      "id": "bbcb0836a1343b04baaee39864de87a6dda1fa4d",
-      "title": "Ukrainian vegetable seller targeted in 'human safari' drone attack",
-      "summary": "A video shows a Russian drone pursuing a street vendor in the Kherson region before exploding.",
-      "url": "https://www.bbc.co.uk/news/videos/clye173d533o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-04T19:07:19+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Ukrainian vegetable seller targeted in 'human safari' drone attack"
-    },
-    {
-      "id": "2b57d9598ea9fa2d1e7502b22b5baf146591140e",
-      "title": "Ukraine strikes more Wildberries sites as five killed in Moscow region",
-      "summary": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
-      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-04T11:19:01+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine strikes more Wildberries sites"
-    },
-    {
-      "id": "54948778798c53f4e5eaf47468e543c5d1070ee5",
-      "title": "Drone Explodes on Russian Beach, Killing 7, Officials Say",
-      "summary": "It was unclear what the drone was targeting and why it crashed in the crowded resort spot, but it has been a deadly summer for civilians caught up in the Russian-Ukrainian war.",
-      "url": "https://www.nytimes.com/2026/08/03/world/europe/drone-russian-beach-explosion.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-04T09:47:42+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "deadly summer for civilians caught up in the Russian-Ukrainian war."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-06T11:38:04Z"
+  "last_updated": "2026-08-07T10:15:19Z"
 }

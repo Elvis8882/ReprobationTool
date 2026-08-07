@@ -15,8 +15,20 @@
     "RU",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-08-06T11:38:04+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-08-07T10:15:19+00:00",
+  "sentiment_by_country": {
+    "RU": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia Responds To Allegations of Using Colombian Mercenaries In Ukraine War"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Colombian Mercenaries In Ukraine War"
+    }
+  },
+  "processed_at": "2026-08-07T10:15:19+00:00"
 }
