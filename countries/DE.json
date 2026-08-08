@@ -1,16 +1,69 @@
 {
   "country": "DE",
-  "score": 69,
+  "score": 68,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -3,
-  "sources": 416,
+  "trend": -1,
+  "sources": 419,
   "sentiment": {
-    "positive": 54,
-    "neutral": 293,
-    "negative": 69
+    "positive": 53,
+    "neutral": 296,
+    "negative": 70
   },
   "latest_articles": [
+    {
+      "id": "7f0138098fff42ef3743c99af0c57f40856fda17",
+      "title": "Europe Gets Its Starlink Rival, Expands IRIS Satellite Constellation",
+      "summary": "The European Commission plans to begin launching the first satellites in 2029 (Representational)",
+      "url": "https://www.ndtv.com/world-news/europe-gets-its-starlink-rival-expands-iris-satellite-constellation-11882249#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-08-08T05:50:31+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "f956f56f6a39b96f93e09c01e025d9b4f81511a3",
+      "title": "Germans hogging the sunloungers? Poll finds Italians and French are worse",
+      "summary": "British and Germans themselves share stereotype but other nationalities are likelier to put out towels – or umbrellasGermans are sunlounger hoggers, or so the longstanding stereotype goes. But not only is that cultural t…",
+      "url": "https://www.theguardian.com/world/2026/aug/08/sunlounger-hoggers-poll-germans-italians-french-british",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-08T04:00:35+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Germans are sunlounger hoggers, or so the longstanding stereotype goes."
+    },
+    {
+      "id": "cfc81ce7d452d1dcf627e0a0b2fe9f6b99f64ee5",
+      "title": "Sanchez vs Meloni: Spain imposes Italy border checks as Ceuta migrant row escalates",
+      "summary": "Spain has implemented temporary border checks on travelers arriving by air and sea from Italy, intensifying tensions between these two European Union nations regarding migration policies. Italy had previously enacted sim…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/sanchez-vs-meloni-spain-imposes-italy-border-checks-as-ceuta-migrant-row-escalates/articleshow/133045024.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-08-08T02:02:20+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "b703106de51d9ff53cbda855c7a5b01fc1b83187",
+      "title": "A Drying Danube River Reveals Nazi-Era Vessels, and Hazards of Heat",
+      "summary": "The river’s water levels have fallen as extreme heat has afflicted Europe, exposing sunken German vessels from World War II that are impeding navigation.",
+      "url": "https://www.nytimes.com/2026/08/07/world/europe/danube-germany-ships-serbia.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-07T20:02:01+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "exposing sunken German vessels from World War II"
+    },
+    {
+      "id": "2f83371b5baf1ce848c5ee9b408cf13393173d80",
+      "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+      "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-07T13:32:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "pay German firm $1.2bn to halt US wind projects"
+    },
     {
       "id": "a5d7ce55ab3581b9d7da6fcf1bd7bca2432bf2a2",
       "title": "German airport drone-bomb: Could Russia be involved?",
@@ -21,6 +74,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "German airport drone-bomb"
+    },
+    {
+      "id": "f771ced708eba18a2cf091272521d0b81356a96c",
+      "title": "Driver in Munich Car Ramming Attack Given Life in Prison",
+      "summary": "The attack, in 2025, was one of several carried out in Germany in recent years by men with migrant backgrounds, shaking the public’s sense of safety.",
+      "url": "https://www.nytimes.com/2026/08/06/world/europe/munich-car-attack-driver-sentence.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-06T18:16:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Car Ramming Attack... shaking the public’s sense of safety."
     },
     {
       "id": "b03d161d808c8c53a40f0dffee7c1cd90562d7a6",
@@ -159,72 +223,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "next to Berlin Wall"
-    },
-    {
-      "id": "65247bcba10d2d48592cadcdb75177dbf7f112aa",
-      "title": "GDP up by 0.4% in the euro area and by 0.5% in the EU - European Commission",
-      "summary": "GDP up by 0.4% in the euro area and by 0.5% in the EU&nbsp;&nbsp;European CommissionEurope’s sluggish recovery&nbsp;&nbsp;The EconomistEurozone Economy Advances Despite Uncertainty From Iran War&nbsp;&nbsp;WSJEurope’s fa…",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDbVRYeEhlTTRmTmtQUVI5akh2dTJxWUtHamJkX3B1VGV2Nl80UGtIT3NpcTV1UXZldXk4cGthRmZxd3MyaWk4Yjd1VkR1RWtwUFN3U21MXzhHZ1RyVVQxRnE3NXlHQUpJZDZobWx3RHFUejlCcTU3SHFuVmRyNWs?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-30T09:09:48+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "90bfeab3e4734f538dfbe1d4778c9ac85b693473",
-      "title": "Canada’s Answer to Trump’s Tariffs: More Energy Deals With Europe",
-      "summary": "The Carney government’s agreement with a German natural gas company will also reduce Europe’s dependence on a Qatari supply made more uncertain by war.",
-      "url": "https://www.nytimes.com/2026/07/29/world/canada/canada-lng-germany-carney-trump-tariffs.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-29T21:00:56+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "agreement with a German natural gas company will also reduce Europe’s dependence"
-    },
-    {
-      "id": "43a0afb912b81dd71d51a48be13de52eccf406cf",
-      "title": "Germany’s AfD Opposes Pride Flags but May Win Support After L.G.B.T.Q. Attack",
-      "summary": "Analysts say a recent attack on a Pride celebration is likely to focus fall elections on issues favoring the far-right Alternative for Germany party.",
-      "url": "https://www.nytimes.com/2026/07/28/world/europe/berlin-pride-attack-afd-politics.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-28T15:02:33+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Germany’s AfD Opposes Pride Flags but May Win Support"
-    },
-    {
-      "id": "f286059d215a2483bb0809694bc30a0dc689598e",
-      "title": "German scientists discovered naturally occurring microbes that removed 95% of dissolved uranium from contaminated water",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/science/german-scientists-discovered-naturally-occurring-microbes-that-removed-95-of-dissolved-uranium-from-contaminated-water/articleshow/132678290.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-07-28T07:44:34+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "German scientists discovered naturally occurring microbes that removed 95% of dissolved uranium"
-    },
-    {
-      "id": "15301df3cbb469f56c4ccf07aa11c513038cb079",
-      "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
-      "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-27T12:33:31+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Anger as Berlin Pride attacker revealed to have been freed"
-    },
-    {
-      "id": "cabf7acc7939ea55d6effca653f144091aee4b3d",
-      "title": "Gender Pay Transparency Directive: European Commission reconfirms it expects full compliance - DLA Piper GENIE",
-      "summary": "Gender Pay Transparency Directive: European Commission reconfirms it expects full compliance&nbsp;&nbsp;DLA Piper GENIECost of pay gap in the EU: Women earn €3,900 less than men a year&nbsp;&nbsp;Euronews.comBen – Weekly…",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNQl94WC11c192M2pfRjV2NEdaUDVuYXQ2bFFJbGRxOHlDRDA0dS1ndV9ONWwwNFFBaUU4d0J2WVVFQjllMUFGcXNXR1k1bm1RTVplck5tMWNhSmJFTUR4T08tTmdDWXo1WnFhNFF3aEZab19ZRnhQaVEta1FILVlYZ3FuaEJqTHVEX28tZkZXMXVhcjVuSEpLVnFQNzEyX2FkbFNPOVBZY2EwQ1Z3UlJ2OXV5cGpXUDRneVBwcExlUDhIOVQyUTQ0ZTlkblVVdmRYQWNBdEVuZm9LOW1mSkVuZDQ0YVBoS3FQS2YxRlZDSENISEI4QXdaUW9LcUkxX3pOMWItT3hkV1RoQWxa?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-27T11:52:42+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-07T10:15:19Z"
+  "last_updated": "2026-08-08T09:52:34Z"
 }

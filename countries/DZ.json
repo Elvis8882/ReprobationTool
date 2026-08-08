@@ -1,16 +1,27 @@
 {
   "country": "DZ",
-  "score": 100,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": null,
-  "sources": 1,
+  "score": 55,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
+  "trend": -45,
+  "sources": 2,
   "sentiment": {
     "positive": 0,
     "neutral": 1,
-    "negative": 0
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "506810ba8502e158dd68503921f1c035e91abc35",
+      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "summary": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
+      "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-07T16:13:45+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "smuggle migrants and weapons"
+    },
     {
       "id": "7c14601495a4dd1aa30904b34d8ab7937e203321",
       "title": "Eleven people die in fire at Algerian children's care home",
@@ -24,5 +35,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-07T10:15:19Z"
+  "last_updated": "2026-08-08T09:52:34Z"
 }

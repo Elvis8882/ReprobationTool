@@ -1,16 +1,38 @@
 {
   "country": "MA",
-  "score": 57,
+  "score": 88,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 41,
+  "trend": 31,
+  "sources": 43,
   "sentiment": {
     "positive": 2,
-    "neutral": 24,
-    "negative": 17
+    "neutral": 25,
+    "negative": 18
   },
   "latest_articles": [
+    {
+      "id": "df66205a66f8a6647f483cd4076c28280d4a586a",
+      "title": "Spain to introduce temporary border checks on visitors from Italy",
+      "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to CeutaSpain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measure…",
+      "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-07T21:44:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "mass rush of people from Morocco into Ceuta"
+    },
+    {
+      "id": "81eb5eafa87c459df3d548fcd6a1190e1d6f35a6",
+      "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
+      "summary": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco.",
+      "url": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-06T17:36:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "migrants crossing from neighbouring Morocco"
+    },
     {
       "id": "1955fba96e7ae12b397b17025c0be9238f9caf39",
       "title": "‘Morocco feels emboldened’: Trump’s influence in spotlight after Ceuta disaster",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "returned across the border to Morocco"
-    },
-    {
-      "id": "51f1ed889bee1920baafe1218d40a399a45e685e",
-      "title": "How 50,000 People Surged Into a Spanish Exclave in Africa",
-      "summary": "On Thursday, tens of thousands of Moroccans broke into Ceuta, a Spanish territory that neighbors Morocco. By Friday evening, most of them had left, hungry and disappointed.",
-      "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-01T04:01:14+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "tens of thousands of Moroccans broke into Ceuta"
-    },
-    {
-      "id": "9b103a0dbb61e908c9359f291bdbc9dcc03f7c04",
-      "title": "Thousands of Migrants Surge Into Ceuta from Morocco, Prompting Political Backlash",
-      "summary": "A sudden exodus of migrants from Morocco startled Spanish officials and drew heavy criticism from right-wing parties across the continent.",
-      "url": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-morocco-migrants-spain.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-01T02:35:07+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "prompting political backlash"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-07T10:15:19Z"
+  "last_updated": "2026-08-08T09:52:34Z"
 }

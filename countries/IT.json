@@ -7,10 +7,53 @@
   "sources": 334,
   "sentiment": {
     "positive": 30,
-    "neutral": 269,
-    "negative": 35
+    "neutral": 268,
+    "negative": 36
   },
   "latest_articles": [
+    {
+      "id": "7f0138098fff42ef3743c99af0c57f40856fda17",
+      "title": "Europe Gets Its Starlink Rival, Expands IRIS Satellite Constellation",
+      "summary": "The European Commission plans to begin launching the first satellites in 2029 (Representational)",
+      "url": "https://www.ndtv.com/world-news/europe-gets-its-starlink-rival-expands-iris-satellite-constellation-11882249#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-08-08T05:50:31+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "f956f56f6a39b96f93e09c01e025d9b4f81511a3",
+      "title": "Germans hogging the sunloungers? Poll finds Italians and French are worse",
+      "summary": "British and Germans themselves share stereotype but other nationalities are likelier to put out towels – or umbrellasGermans are sunlounger hoggers, or so the longstanding stereotype goes. But not only is that cultural t…",
+      "url": "https://www.theguardian.com/world/2026/aug/08/sunlounger-hoggers-poll-germans-italians-french-british",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-08T04:00:35+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Italian and French holidaymakers are the ones most likely to use their towel"
+    },
+    {
+      "id": "cfc81ce7d452d1dcf627e0a0b2fe9f6b99f64ee5",
+      "title": "Sanchez vs Meloni: Spain imposes Italy border checks as Ceuta migrant row escalates",
+      "summary": "Spain has implemented temporary border checks on travelers arriving by air and sea from Italy, intensifying tensions between these two European Union nations regarding migration policies. Italy had previously enacted sim…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/sanchez-vs-meloni-spain-imposes-italy-border-checks-as-ceuta-migrant-row-escalates/articleshow/133045024.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-08-08T02:02:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Spain imposes Italy border checks as Ceuta migrant row escalates"
+    },
+    {
+      "id": "df66205a66f8a6647f483cd4076c28280d4a586a",
+      "title": "Spain to introduce temporary border checks on visitors from Italy",
+      "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to CeutaSpain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measure…",
+      "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-07T21:44:38+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.7,
+      "evidence": "Rome imposing similar measures after mass migration rush"
+    },
     {
       "id": "052421aa80b6007f5ce53dfaaed208c9f6c41aa2",
       "title": "Italian woman accidentally throws away her $1.1 million winning lottery ticket",
@@ -181,51 +224,8 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "Italy has temporarily suspended the Schengen arrangement"
-    },
-    {
-      "id": "47ec41098a9066c7c9ce3756d7f502b6cbd0611f",
-      "title": "Sánchez condemns ‘selfish’ reaction of some EU countries to Ceuta border crisis as death toll rises – Europe live",
-      "summary": "In letter to Brussels, Spanish PM hits out at ‘polarising and illegal’ reaction after tens of thousands of people crossed from Morocco to Spanish enclaveGrande-Marlaska said between 50,000 and 60,000 people crossed from…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-01T10:05:29+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "blamed the situation in Ceuta on the Sánchez government’s decision"
-    },
-    {
-      "id": "81b939ad71dac76269b6d0becfd375bb59c97fd2",
-      "title": "Sea of blue at Kai Tak Stadium as Man City prepare for Inter Milan show - chinadailyasia.com",
-      "summary": "Sea of blue at Kai Tak Stadium as Man City prepare for Inter Milan show&nbsp;&nbsp;chinadailyasia.comTraining: All set for Inter&nbsp;&nbsp;Manchester City FCGallery: Dias, Marmoush and Nunes arrive in Hong Kong!&nbsp;&n…",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hVE9xenpvdkh4YllzSDBna1gyc3N3MS0tdng2ckJLSGg1Vk83VTBRNXpfZ3VFZ1RxV3FxNElsLW5IT2hkRkx3T3ktbVB2YWNKSmYtQ1V0UGY?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-01T02:32:06+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Inter Milan show"
-    },
-    {
-      "id": "65247bcba10d2d48592cadcdb75177dbf7f112aa",
-      "title": "GDP up by 0.4% in the euro area and by 0.5% in the EU - European Commission",
-      "summary": "GDP up by 0.4% in the euro area and by 0.5% in the EU&nbsp;&nbsp;European CommissionEurope’s sluggish recovery&nbsp;&nbsp;The EconomistEurozone Economy Advances Despite Uncertainty From Iran War&nbsp;&nbsp;WSJEurope’s fa…",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDbVRYeEhlTTRmTmtQUVI5akh2dTJxWUtHamJkX3B1VGV2Nl80UGtIT3NpcTV1UXZldXk4cGthRmZxd3MyaWk4Yjd1VkR1RWtwUFN3U21MXzhHZ1RyVVQxRnE3NXlHQUpJZDZobWx3RHFUejlCcTU3SHFuVmRyNWs?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-30T09:09:48+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "0d217b873c1cdc12412a2fd54788fde77c424ddb",
-      "title": "Moroccan Man’s Death While Restrained By Police Reverberates Across Italy",
-      "summary": "Abderrahim Fakir died after police officers pinned him to the ground. His death has evolved into a broader standoff over the treatment and role of immigrants in Italy.",
-      "url": "https://www.nytimes.com/2026/07/29/world/europe/fakir-moroccan-death-italy-police.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-29T04:01:26+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "standoff over the treatment and role of immigrants in Italy"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-07T10:15:19Z"
+  "last_updated": "2026-08-08T09:52:34Z"
 }
