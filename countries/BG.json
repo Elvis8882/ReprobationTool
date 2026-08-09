@@ -1,16 +1,27 @@
 {
   "country": "BG",
-  "score": 63,
+  "score": 62,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 172,
   "sentiment": {
     "positive": 3,
-    "neutral": 162,
-    "negative": 7
+    "neutral": 161,
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "a4fd5ecb106aee5b5eda922e486c0b37cb39a951",
+      "title": "Drone, Likely From Ukraine, Explodes In Bulgaria Near Gas Pipeline",
+      "summary": "The drone appeared to have carried a significant amount of explosives.",
+      "url": "https://www.ndtv.com/world-news/drone-likely-from-ukraine-explodes-in-bulgaria-near-gas-pipeline-11884308#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-08-08T15:58:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Explodes In Bulgaria Near Gas Pipeline"
+    },
     {
       "id": "7f0138098fff42ef3743c99af0c57f40856fda17",
       "title": "Europe Gets Its Starlink Rival, Expands IRIS Satellite Constellation",
@@ -201,19 +212,8 @@
       "published_at": "2026-07-20T10:56:16+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "d642e8e229fd13ca4bdb26e8ba7b3108450515c7",
-      "title": "Europe Was Supposed to Run Out of Jet Fuel by June. It Didn't - Crude Oil Prices Today | OilPrice.com",
-      "summary": "Europe Was Supposed to Run Out of Jet Fuel by June. It Didn't&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.comIran war leaves crisis-weary European airlines ready for a shakeout&nbsp;&nbsp;ReutersEU-16 oil product stocks…",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWTR2R1VkLTdBUl9zU282OVRpV3NaS0czZjREaUcwalFnNF9GMWU4dURwbXZyNEVMdHg0VEFxRjRMLXJ5V3E1Zlc2bkRUSXdHLXBVZ196Q0dQdmdid2txZEJuNU45NElpbnhYODVQR2tyUEZSbjFDRWNWWVFfYThacVVLWDhHY2ZSeDVIdTlsTVZyMEZ5NlI4cEdaeDZwZVBscG9SU0JOMm5fSzjSAbABQVVfeXFMTVJfTVl4VUZWcXQyemdEMzJGVG5COXZRSzhlb3JnVk4tNkk4eERjMnhNUE9SdzZLc2dRSUVZT0EtUEFKbHRfVnMtd2NXSjRaX0paakQtZnNiOXVlekdRTkxzNGFSVzczRW50WjNyZlI5TTJma053dHJaMUJzYk90SHljV3cwYmlLOTN1UVpJamN3QjRRVXlxc3ZxY2hFR1RoOURQY2o1c0owb1BJRHVzbjg?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-19T21:00:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Europe Was Supposed to Run Out of Jet Fuel"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-08T09:52:34Z"
+  "last_updated": "2026-08-09T09:53:11Z"
 }

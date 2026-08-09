@@ -3,14 +3,25 @@
   "score": 15,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 2,
-  "sources": 206,
+  "trend": 0,
+  "sources": 207,
   "sentiment": {
     "positive": 8,
-    "neutral": 75,
+    "neutral": 76,
     "negative": 123
   },
   "latest_articles": [
+    {
+      "id": "ccdfb17133c5c0bfa41e4690799ea28c8f579817",
+      "title": "Inside the War on Hezbollah’s Finances",
+      "summary": "Israel and the United States aren’t just targeting the Lebanese militant group’s weapons. They’re going after its money.",
+      "url": "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-09T09:00:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Israel and the United States aren’t just targeting the Lebanese militant group’s weapons."
+    },
     {
       "id": "dff84d4cc76b357f8ec3c73f35efb7cda3420658",
       "title": "Iran says a deal with Oman to reopen the strait of Hormuz is close to being finalised – Middle East crisis live",
@@ -32,6 +43,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Israel Strikes Lebanon After Accusing Hezbollah of Cease-Fire Violation"
+    },
+    {
+      "id": "61f2f0b9504ad7dd77af43a3ec3d90ecd3cb84a5",
+      "title": "Israeli strike that killed journalist in Lebanon was war crime, say rights groups",
+      "summary": "Investigation by Human Rights Watch, Amnesty and Legal Agenda shows Israel deliberately attacked Amal Khalil and colleague Zeinab Faraj knowing they were civiliansAn Israeli strike that killed Lebanese journalist Amal Kh…",
+      "url": "https://www.theguardian.com/world/2026/aug/06/israeli-strike-that-killed-journalist-in-lebanon-was-war-say-rights-groups",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-06T06:00:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Israeli strike that killed journalist in Lebanon was war crime"
     },
     {
       "id": "c837ad8e9a6c30aeb362a08fcd1dc9995d3673f2",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Entire towns in southern Lebanon have been hollowed out"
-    },
-    {
-      "id": "f5f362528a65d82bc1fddff7c67089115a2660d8",
-      "title": "Inside a Theater Sheltering Families in Lebanon",
-      "summary": "Our reporter Christina Goldbaum visits the Lebanese National Theater in Beirut to meet displaced families who have been sheltering there during the war.",
-      "url": "https://www.nytimes.com/video/world/100000010937075/inside-a-theater-sheltering-families-in-lebanon.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-10T09:00:19+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Theater Sheltering Families in Lebanon"
-    },
-    {
-      "id": "e4b264a9e39026e095b1caf21a82c9a2cbc0924d",
-      "title": "Middle East crisis live: Funeral procession for supreme leader Ali Khamenei begins in Iran",
-      "summary": "Millions join funeral procession in capital of Tehran to mourn Khamenei who was kiled in US-Israel airstrikes in FebruaryMeanwhile, Lebanon’s president has said that Israel’s occupation of the south was preventing the Le…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/06/iran-middle-east-crisis-funeral-supreme-leader-ali-khamenei-tehran-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-06T12:19:45+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Israel’s occupation of the south was preventing the Lebanese army’s deployment"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-08T09:52:34Z"
+  "last_updated": "2026-08-09T09:53:11Z"
 }

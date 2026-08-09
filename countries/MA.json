@@ -1,16 +1,27 @@
 {
   "country": "MA",
-  "score": 88,
+  "score": 56,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 31,
+  "trend": -32,
   "sources": 43,
   "sentiment": {
-    "positive": 2,
-    "neutral": 25,
+    "positive": 1,
+    "neutral": 26,
     "negative": 18
   },
   "latest_articles": [
+    {
+      "id": "7dc1d2ca7c7563799778ff1e29fcbc9ae2cf4de3",
+      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+      "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-07T22:13:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "migrants from Morocco into the neighbouring Spanish exclave"
+    },
     {
       "id": "df66205a66f8a6647f483cd4076c28280d4a586a",
       "title": "Spain to introduce temporary border checks on visitors from Italy",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "people crossed from Morocco to Spain’s Ceuta"
-    },
-    {
-      "id": "3d0f2cf7d63b38f71872b91e96b140f1b810d864",
-      "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
-      "summary": "Most of those who surged into the territory, a Spanish exclave in Africa, have returned across the border to Morocco. At least 67 people died trying to enter, the authorities said.",
-      "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-01T08:49:40+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "returned across the border to Morocco"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-08T09:52:34Z"
+  "last_updated": "2026-08-09T09:53:11Z"
 }

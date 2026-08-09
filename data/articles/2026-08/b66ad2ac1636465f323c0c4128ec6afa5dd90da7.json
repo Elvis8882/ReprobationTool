@@ -17,8 +17,25 @@
     "GB",
     "IE"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-08-08T09:52:34+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-08-09T09:53:11+00:00",
+  "sentiment_by_country": {
+    "ES": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Spanish mountain village braces for astrotourists"
+    },
+    "GB": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Solar eclipse in Yorkshire: When is it and how can I view it?"
+    },
+    "IE": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "From the U.K. and Ireland"
+    }
+  },
+  "processed_at": "2026-08-09T09:53:11+00:00"
 }

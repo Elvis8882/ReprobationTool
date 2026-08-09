@@ -1,16 +1,27 @@
 {
   "country": "DE",
-  "score": 68,
+  "score": 67,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": -1,
-  "sources": 419,
+  "sources": 420,
   "sentiment": {
     "positive": 53,
     "neutral": 296,
-    "negative": 70
+    "negative": 71
   },
   "latest_articles": [
+    {
+      "id": "937b4feacf151be4e58e435f10482a3e74e62472",
+      "title": "Budapest’s low Danube exposes two German soldiers and a DKW motorcycle buried for 80 years",
+      "summary": "Unusually low water levels in Budapest’s Danube River have exposed Second World War remains hidden for around 80 years. Recovery teams found the bodies of two Wehrmacht soldiers, their well-preserved identity discs, a Ge…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/budapests-low-danube-exposed-two-german-soldiers-and-a-dkw-military-motorcycle-mud-mixed-with-gas-oil-preserved-identity-discs-after-around-80-years/articleshow/133062997.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-08-09T07:00:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "two German soldiers and a DKW motorcycle"
+    },
     {
       "id": "7f0138098fff42ef3743c99af0c57f40856fda17",
       "title": "Europe Gets Its Starlink Rival, Expands IRIS Satellite Constellation",
@@ -52,6 +63,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "exposing sunken German vessels from World War II"
+    },
+    {
+      "id": "00390813053dcb4f1cd16cb172092e0a9fe05248",
+      "title": "Bus Driver Kicked Explosive Drone Out Of Air At German Airport: Lawmaker",
+      "summary": "Authorities have not named the man or said where the drone came from.",
+      "url": "https://www.ndtv.com/world-news/bus-driver-kicks-explosive-drone-out-of-air-at-german-airport-11881559#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-08-07T19:15:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Explosive Drone Out Of Air At German Airport"
     },
     {
       "id": "2f83371b5baf1ce848c5ee9b408cf13393173d80",
@@ -202,29 +224,8 @@
       "published_at": "2026-08-03T12:06:04+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "f0a30c0053b81a0199e2b4d6299cd765f4c26daa",
-      "title": "Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers",
-      "summary": "The European Commission can demand to inspect AI models, restrict market access and fine providers up to 15 million euros or 3% of turnover.",
-      "url": "https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-08-03T10:59:59+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "b4be37338fab50a278ce9f69d920c6738f1206cb",
-      "title": "‘A symbol of resistance’: the fight to save treehouse built on no man’s land next to Berlin Wall",
-      "summary": "Supporters fear structure could be torn down as safety hazard and want it to become memorial to postwar foreign labourers in honour of its Turkish creatorSometimes the currents of history converge in a single spot. In Be…",
-      "url": "https://www.theguardian.com/world/2026/aug/01/fight-to-save-treehouse-berlin-wall-germany",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-01T06:00:45+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "next to Berlin Wall"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-08T09:52:34Z"
+  "last_updated": "2026-08-09T09:53:11Z"
 }
