@@ -1,14 +1,14 @@
 {
   "country": "LB",
-  "score": 15,
+  "score": 14,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 207,
+  "trend": -1,
+  "sources": 206,
   "sentiment": {
     "positive": 8,
-    "neutral": 76,
-    "negative": 123
+    "neutral": 74,
+    "negative": 124
   },
   "latest_articles": [
     {
@@ -21,6 +21,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Israel and the United States aren’t just targeting the Lebanese militant group’s weapons."
+    },
+    {
+      "id": "925d5e2d67d150564a2e38558f1a01058099f5d5",
+      "title": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
+      "summary": "Amal Khalil was killed and her colleague Zeinab Faraj wounded in an Israeli attack in April; Israel denied targeting the journalists.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-06T14:20:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "killed Lebanese journalist an apparent war crime"
     },
     {
       "id": "dff84d4cc76b357f8ec3c73f35efb7cda3420658",
@@ -219,19 +230,8 @@
       "sentiment": "mixed",
       "confidence": 0.6,
       "evidence": "Israel and Lebanon Meet to Advance Peace Talks, as Broader Truce Unravels"
-    },
-    {
-      "id": "9ea086c342ab508ea8522b160f3285f4dd812cb4",
-      "title": "Lebanese Hold Fast to Their Land Despite Threat of Long Israeli Occupation",
-      "summary": "Entire towns in southern Lebanon have been hollowed out by the war between Israel and Hezbollah. Some residents have stayed, fearing permanent displacement.",
-      "url": "https://www.nytimes.com/2026/07/13/world/middleeast/lebanon-south-israel.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-13T09:06:37+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Entire towns in southern Lebanon have been hollowed out"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-09T09:53:11Z"
+  "last_updated": "2026-08-10T10:31:05Z"
 }

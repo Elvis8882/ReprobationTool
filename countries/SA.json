@@ -1,16 +1,38 @@
 {
   "country": "SA",
-  "score": 63,
+  "score": 62,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 128,
+  "trend": -1,
+  "sources": 132,
   "sentiment": {
     "positive": 11,
-    "neutral": 60,
-    "negative": 57
+    "neutral": 63,
+    "negative": 58
   },
   "latest_articles": [
+    {
+      "id": "fbb04abf5f61c66665d9bf24524ec437e020ad3b",
+      "title": "Opinion: Opinion | Saudi Arabia Has Money, Missiles, And America. Why Is It Still So Scared?",
+      "summary": "Saudi Crown Prince Mohammed bin Salman",
+      "url": "https://www.ndtv.com/opinion/saudi-arabia-has-money-oil-and-america-why-is-it-still-so-scared-11888428#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-08-10T05:34:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Saudi Arabia Has Money, Missiles, And America. Why Is It Still So Scared?"
+    },
+    {
+      "id": "1e9c3a57fe58746621639e1a469c31dc03d24ff8",
+      "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
+      "summary": "Iran's foreign minister reportedly said his country is not engaging in talks with the U.S., but added: \"Messages are being exchanged through intermediaries.\"",
+      "url": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-08-09T18:15:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Houthis claim attack on Saudi refinery"
+    },
     {
       "id": "0ccb4e4032f01f3337f287b2f4360bd8868cd615",
       "title": "Houthi attack suspected at Saudi gas facility in Jubail; Aramco Jazan fire extinguished",
@@ -23,6 +45,17 @@
       "evidence": "Houthi attack suspected at Saudi gas facility"
     },
     {
+      "id": "e01af2d717561c2a0f2f51a184e300629ec23deb",
+      "title": "Military Pact With Pak, Saudi Arabia Same As NATO's Defence Agreement: Turkey",
+      "summary": "Turkish Foreign Minister Hakan Fidan said the accord was not targeting Iran.",
+      "url": "https://www.ndtv.com/world-news/military-pact-with-pakistan-saudi-arabia-same-as-natos-mutual-defence-agreement-turkey-11884697#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-08-09T02:24:50+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Military Pact With Pak, Saudi Arabia"
+    },
+    {
       "id": "e2da3f1add131e30c30246cb348cded54fc5350f",
       "title": "Turkey Says New Defence Pact Does Not Contradict NATO Commitments",
       "summary": "Turkey on Friday signed defence pact with Saudi Arabia and Pakistan.",
@@ -32,6 +65,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "signed defence pact with Saudi Arabia"
+    },
+    {
+      "id": "74f64ad2387d737c23f023987ade6dd05e814d8d",
+      "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+      "summary": "The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice.",
+      "url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-07T16:29:25+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact"
     },
     {
       "id": "0e87a0d552a6287e0b14452e5aa213e91a6900d5",
@@ -186,52 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Saudi Arabia arrests over 14,000 in week-long crackdown"
-    },
-    {
-      "id": "efd99c237c2df6f4ba2c959c14f8ca460e7c7cb0",
-      "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
-      "summary": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories.",
-      "url": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-31T23:41:10+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "execution in Saudi Arabia"
-    },
-    {
-      "id": "dced4c482c0db28792d9a033cfdd66ae0be115bb",
-      "title": "Saudi Arabia Aims to Deter Red Sea Attacks With New Coalition",
-      "summary": "Facing attacks by Yemen’s Houthi militia, Saudi Arabia has invited dozens of countries to assist it in protecting shipping in the Red Sea, diplomats say.",
-      "url": "https://www.nytimes.com/2026/07/30/world/middleeast/saudi-arabia-red-sea-houthis.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-30T18:53:16+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Saudi Arabia Aims to Deter Red Sea Attacks With New Coalition"
-    },
-    {
-      "id": "bd446ee6d77c2bc07692143669503cf774a99d74",
-      "title": "Saudi Arabia prepares sea and possible land offensive against Houthis",
-      "summary": "Yemeni sources say Saudis concentrating forces for what could be attack in central YemenMiddle East crisis live – latest updatesSaudi Arabia is preparing for a major military offensive against the Houthis by sea and poss…",
-      "url": "https://www.theguardian.com/world/2026/jul/30/saudi-forces-planning-major-offensive-against-houthis-central-yemen",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-30T17:50:21+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Saudi Arabia prepares sea and possible land offensive against Houthis"
-    },
-    {
-      "id": "d61fc9a7e35c6c7a5ed215c3404eefa512a2b1d6",
-      "title": "Saudi Arabia confirmed to host Asian Champions League Elite finals - Al Jazeera",
-      "summary": "Saudi Arabia confirmed to host Asian Champions League Elite finals&nbsp;&nbsp;Al JazeeraSee more headlines and perspectives on Google News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLXFuQmROZDBDa3pPb0lmSTZILWdkNGtDT2hYejlfcUEtOVpLejZnbXNlZDJKbUpnV1doUlQ5WkQ1SHpoM1JPOXMwaHF3OWxDTnhCZC16bFZkWHRnSkl5Qkl1M0c1eEtmLUtYdlJiYWNGcW5aeTdadmZ6enZRY3Nwa1BqQk13YS13SjBNSVFKeUxsN29aLUx6TG5fUDZjSnR4ZUszNHRyVGlSY3JfX0HSAbMBQVVfeXFMTjRtVldRY1VHenFrSV9hN2UxbTJ6d09IVjVEMnY1VEZVSXZobDc5d0ZuR3RzRHVfWFh4cmoxZ21qdlNPMVFhcjZ1YnBYOXBGYWRTcEtQV2RWdFluVUNPMWhEX0ZRUjFDUkNGU1lod3V5elJ0VTItS093bDF3NEpkRWJKMUh6d1A5TlNWYVlnWVp4WFduczVqS1UwcHZtTy1RV2NqanNubnNtWGFNc3pBSEZGWE0?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-30T08:26:15+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Saudi Arabia confirmed to host Asian Champions League Elite finals"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-09T09:53:11Z"
+  "last_updated": "2026-08-10T10:31:05Z"
 }

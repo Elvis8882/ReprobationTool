@@ -1,16 +1,49 @@
 {
   "country": "UA",
-  "score": 10,
+  "score": 14,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 669,
+  "trend": 4,
+  "sources": 665,
   "sentiment": {
-    "positive": 287,
+    "positive": 288,
     "neutral": 122,
-    "negative": 261
+    "negative": 256
   },
   "latest_articles": [
+    {
+      "id": "434a42e42d191e98eb3014692ac521b70f8e874f",
+      "title": "Ukraine launches drone attack on Russian oil refining facilities – Europe live",
+      "summary": "Volodymyr Zelenskyy says that strikes on such facilities were directly linked with putting more pressure on MoscowMeanwhile, Ukraine’s ⁠military ⁠has confirmed it ⁠hit ⁠the ​Taneko ‌oil ‌refinery in ‌Russia’s Tatarstan r…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/10/ukraine-drones-russia-oil-facilities-europe-heat-drought-latest-updates-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-10T10:08:55+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "strikes on such facilities were directly linked with putting more pressure on Moscow"
+    },
+    {
+      "id": "1eeb169a71f5154985d0105a40afcf20a0ca9ec3",
+      "title": "Ukrainian Drone Attack Kills 13 Deep Inside Russia",
+      "summary": "A strike on an industrial center in Tatarstan marked one of the deadliest attacks on Russian territory since the start of the war.",
+      "url": "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-10T09:26:22+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukrainian Drone Attack Kills 13 Deep Inside Russia"
+    },
+    {
+      "id": "50acaa807e51c6d290272445505968a3bd6aa6ad",
+      "title": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say - NPR",
+      "summary": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say&nbsp;&nbsp;NPRUkrainian drone attack kills 13 in Russia's Tatarstan, officials say&nbsp;&nbsp;BBCUkraine launches drone attack on Russia…",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TTFRic1pDQ190LUw5YUNEaGRTR0VHY3BEb2hrQTVzTkp3UGNyb0licHYwejdkZ3lBaENDS2tZRkU5QTdBSU1KSVgybTVJY3pCZUZ6dTY5bnVrT3RqT2ljX0poMHRZVWdFY1VadmQxSGQ3c3U1b2lKeF9lSkVqaEk?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-08-10T08:58:22+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukrainian drone attack kills 13 in Russia's Tatarstan"
+    },
     {
       "id": "83704ab60460e8740b603acf8388972086e2062d",
       "title": "How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan",
@@ -43,6 +76,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "As Russia, Ukraine Trade Missiles"
+    },
+    {
+      "id": "2c0b17284d3c09c59be1062a24803ebc551abade",
+      "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war - Al Jazeera",
+      "summary": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war&nbsp;&nbsp;Al JazeeraUS Senate passes Russia sanctions championed by Graham; US House next&nbsp;&nbsp;ReutersUS Senate passes Russia sanctions bill…",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQejFLNGRudlRPUklQQ3BwTW1FUVliX0tOUHc3ZU5lLTVYU3E0c0dmMDVDTDdCVHQ0RndHZGhpQ3dFeEVWWW91NnZfLTUtV29pZndZcHRFQV9ZSGhpUTFqSkN0bHpWQXpmb1V6VGNLNWc1RHRNQzNZRDgtRklRdzJkV096emRTTm80dENLcUZod1BtQzlEUVM4bnJNb1VRLVF3aC1XWHdMWGwyQmdfUDFqY1lNS3Nzd9IBuwFBVV95cUxOb3FlQm5JODAtZlkxaFdOSHJLU1ppUmRFOEhsRThtaEpaV1pwVWtzZG1BbGRfSDJyTWZXX2QtTk1uRnBTOE03VUtYRk1IblU4U0V6ZGdkWlVxWmJOZFMySnZTd1Q0NXBiNG94VVpzeHVHaG9vdk9zWlkwQVpHYi1ZeHI3LXotRzIxY2xEVTBMSWtJekRnZmZtRy1CYnBXZmFfd3NNdUZ0VUIwTkxFYkx6R3hqOEdLQXJIa1pv?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-08-08T06:33:45+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "win for Ukraine supporters"
     },
     {
       "id": "d56edb344975089394f1c03bd9c81627d6cabaa8",
@@ -133,6 +177,17 @@
       "evidence": "Ukraine wars"
     },
     {
+      "id": "f6a41a9f528e847f4aba00da29ab23f51e462a3f",
+      "title": "Ukraine hits two oil refineries deep in Russian territory",
+      "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
+      "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-06T15:41:05+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukraine hits two oil refineries deep in Russian territory"
+    },
+    {
       "id": "b03d161d808c8c53a40f0dffee7c1cd90562d7a6",
       "title": "Leipzig drone bomb was found near Ukrainian plane carrying ammunition, say police",
       "summary": "Germany investigating whether foreign state involved as minister says ‘ripped’ detonator stopped device going offEurope live – latest updatesA catastrophe with multiple casualties was possibly narrowly averted by the dis…",
@@ -175,63 +230,8 @@
       "sentiment": "mixed",
       "confidence": 0.7,
       "evidence": "Ukraine Strikes Two Oil Facilities Deep Inside Russia"
-    },
-    {
-      "id": "d38a169125e772faae74618a52ee41475f5fc1ae",
-      "title": "Russia Responds To Allegations of Using Colombian Mercenaries In Ukraine War",
-      "summary": "Russia denies recruiting mercenaries from colombia",
-      "url": "https://www.ndtv.com/world-news/russia-denies-using-colombian-mercenaries-in-ukraine-war-11872573#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-08-06T06:00:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Colombian Mercenaries In Ukraine War"
-    },
-    {
-      "id": "38e4ab2524b58f903198478f7750991236dc4e25",
-      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
-      "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-06T05:00:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "attacks on Ukraine's coastline"
-    },
-    {
-      "id": "47967578cf260387625ae2372bae270975a089e4",
-      "title": "Europe’s Control of Its Fate Is Tested by Iran and Ukraine Wars, Wildfires and Migration",
-      "summary": "A brutal summer has exposed how much Britain, France, Spain and other European countries are under pressure from forces largely out of their control.",
-      "url": "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-06T04:01:07+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Iran and Ukraine Wars, Wildfires and Migration"
-    },
-    {
-      "id": "70b53cc366b75a5d109d4e193736c12d7bd0e691",
-      "title": "Nato to ‘urgently’ get air defences for Ukraine, as Zelenskyy warns of surge in Russian missile production",
-      "summary": "After Ukraine failed to shoot down a single ballistic missile fired by Russia on Wednesday, the president urged allies to increase supplies of Patriot interceptorsNato is working to get Ukraine the air defences it “urgen…",
-      "url": "https://www.theguardian.com/world/2026/aug/06/ukraine-nato-air-defences-missiles-russia-zelenskyy-patriot",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-06T02:00:35+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Ukraine failed to shoot down a single ballistic missile fired by Russia"
-    },
-    {
-      "id": "7f5fdbd0dc67f45fdcaec7a10eee8303b1cecd67",
-      "title": "Explosive Drone Found at German Airport Used by Ukrainian Carrier",
-      "summary": "A second drone may have collided with a plane in the air over the airport, damaging the aircraft slightly, the authorities say.",
-      "url": "https://www.nytimes.com/2026/08/05/world/europe/germany-explosive-drone-airport.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-05T23:26:32+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Used by Ukrainian Carrier"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-09T09:53:11Z"
+  "last_updated": "2026-08-10T10:31:05Z"
 }
