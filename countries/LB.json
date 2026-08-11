@@ -3,14 +3,25 @@
   "score": 14,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -1,
-  "sources": 206,
+  "trend": 0,
+  "sources": 205,
   "sentiment": {
-    "positive": 8,
+    "positive": 7,
     "neutral": 74,
     "negative": 124
   },
   "latest_articles": [
+    {
+      "id": "20c45a65aa543c0c0a5c8665c986200160e40b94",
+      "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
+      "summary": "Israeli PM says IDF will not withdraw until Hamas is disarmed and rebukes US pressure to end wars without his country’s buy-inIsrael’s prime minister, Benjamin Netanyahu, has rejected a US-backed 15-point peace plan for…",
+      "url": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-09T20:00:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "end wars in Gaza, Lebanon and Iran"
+    },
     {
       "id": "ccdfb17133c5c0bfa41e4690799ea28c8f579817",
       "title": "Inside the War on Hezbollah’s Finances",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "security zones” in Lebanon, Syria and Gaza"
-    },
-    {
-      "id": "70ad0046ef46e7191bdc389f86c18e921d768589",
-      "title": "Israel and Lebanon Meet to Advance Peace Talks, as Broader Truce Unravels",
-      "summary": "Expectations are low for the latest round of U.S.-mediated talks, aimed at ending months of war between Israel and t Hezbollah.",
-      "url": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-lebanon-peace-talks.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-14T15:06:02+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.6,
-      "evidence": "Israel and Lebanon Meet to Advance Peace Talks, as Broader Truce Unravels"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-10T10:31:05Z"
+  "last_updated": "2026-08-11T10:17:09Z"
 }

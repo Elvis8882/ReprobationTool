@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 184,
+  "sources": 181,
   "sentiment": {
-    "positive": 17,
-    "neutral": 162,
+    "positive": 18,
+    "neutral": 158,
     "negative": 5
   },
   "latest_articles": [
+    {
+      "id": "53527909ad08b1a9e248096b45dd424b41a9bd8a",
+      "title": "New train service connects Finland and Sweden for first time in decades",
+      "summary": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-10T18:28:11+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "New train service connects Finland and Sweden"
+    },
     {
       "id": "7f0138098fff42ef3743c99af0c57f40856fda17",
       "title": "Europe Gets Its Starlink Rival, Expands IRIS Satellite Constellation",
@@ -204,18 +215,8 @@
       "published_at": "2026-07-23T12:43:15+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "6c4d8d78c442bfa392c74165861cdd8d8438696b",
-      "title": "EU fines Google €890m for competition breaches over search and apps",
-      "summary": "Firm told to treat third-party services that appear in its results in ‘fair and non-discriminatory manner’Google has been fined a total of €890m (£760m) by the EU for breaches of online competition laws by its search and…",
-      "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-23T10:00:42+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-10T10:31:05Z"
+  "last_updated": "2026-08-11T10:17:09Z"
 }

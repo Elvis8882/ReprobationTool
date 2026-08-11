@@ -1,16 +1,27 @@
 {
   "country": "HU",
-  "score": 99,
+  "score": 97,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 186,
+  "trend": -2,
+  "sources": 181,
   "sentiment": {
-    "positive": 14,
-    "neutral": 163,
-    "negative": 9
+    "positive": 13,
+    "neutral": 158,
+    "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "1e68297ffe92b8176980e3b7290a4e2380692ad6",
+      "title": "Weather tracker: Europe breaks more heat records as temperatures soar",
+      "summary": "Drought and wildfires intensify across continent, while tropical storms bring heavy rain and disruption to east AsiaEurope live – latest updatesHigh pressure has dominated central and eastern Europe in early August, brea…",
+      "url": "https://www.theguardian.com/environment/2026/aug/10/weather-tracker-europe-break-heat-records-temperatures-drought-wildfires",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-10T09:32:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Hungary hit a peak of 41.8C"
+    },
     {
       "id": "937b4feacf151be4e58e435f10482a3e74e62472",
       "title": "Budapest’s low Danube exposes two German soldiers and a DKW motorcycle buried for 80 years",
@@ -204,18 +215,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Hungarian Choral Competition"
-    },
-    {
-      "id": "3dcd1491bb0832ee2d05a60a91c26972bfcacb8d",
-      "title": "EU bids to finalise new Russia sanctions amid discontent from some member states – Europe live",
-      "summary": "EU ambassadors head to Brussels aiming to sign off on 21st package of sanctions, after previous attempts ended without successThe Venice Biennale said it would challenge a European Union decision to withdraw a €2 ⁠millio…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/22/ukraine-war-russia-sanctions-europe-eu-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-22T11:00:17+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-10T10:31:05Z"
+  "last_updated": "2026-08-11T10:17:09Z"
 }

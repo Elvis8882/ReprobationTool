@@ -1,16 +1,38 @@
 {
   "country": "MA",
-  "score": 56,
+  "score": 86,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 44,
+  "trend": 30,
+  "sources": 47,
   "sentiment": {
     "positive": 1,
-    "neutral": 27,
-    "negative": 18
+    "neutral": 28,
+    "negative": 20
   },
   "latest_articles": [
+    {
+      "id": "739b587410848f406922083ef58df513f3eeeb18",
+      "title": "Spain’s Complex Ties With Morocco Fuel Speculation Over Ceuta Migrant Surge",
+      "summary": "Rumors swirled that Morocco, perhaps spurred by Israel and the United States, organized a recent border disaster. That unproven speculation, experts said, was exacerbated by the region’s complicated history.",
+      "url": "https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-11T09:03:49+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Morocco... organized a recent border disaster"
+    },
+    {
+      "id": "fadc666b1981052759fbf3d0edefc7c595d8e258",
+      "title": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
+      "summary": "A wave of disinformation online contributed to a surge of migrants in the Spanish enclave of Ceuta who were trying to reach Europe, resulting in about 90 deaths.",
+      "url": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-11T09:03:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "wave of disinformation online contributed to a surge of migrants"
+    },
     {
       "id": "7dc1d2ca7c7563799778ff1e29fcbc9ae2cf4de3",
       "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
@@ -54,6 +76,17 @@
       "sentiment": "neutral",
       "confidence": 0.5,
       "evidence": "migrants crossing from neighbouring Morocco"
+    },
+    {
+      "id": "8f521d2e638044ea498575376d33a53eb28faffd",
+      "title": "Trump’s Gaza Board of Peace issues first building contract – for a military base",
+      "summary": "Exclusive: Louisiana firm awarded tender to build rudimentary outpost to house Moroccan troopsDonald Trump’s Board of Peace, which was set up in January to oversee the reconstruction of Gaza, has finally issued its first…",
+      "url": "https://www.theguardian.com/world/2026/aug/06/trump-gaza-board-of-peace-first-building-contract-military-base",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-06T12:00:47+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "military outpost to house Moroccan troops"
     },
     {
       "id": "1955fba96e7ae12b397b17025c0be9238f9caf39",
@@ -197,41 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "influx of migrants crossing the border from Morocco"
-    },
-    {
-      "id": "6200c443d9fc7040119c53969620ef7082efd13b",
-      "title": "What Caused the Surge of Migrants From Morocco Into Ceuta?",
-      "summary": "Speculation has focused on lax Moroccan policing, attractive Spanish immigration policies and misinformation from human traffickers. In reality, experts said, it’s too early to know.",
-      "url": "https://www.nytimes.com/2026/07/31/world/europe/migrants-surge-morocco-ceuta-spain.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-01T14:56:40+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "lax Moroccan policing"
-    },
-    {
-      "id": "306c262248e0efc7fc429a41fa5f49c55b77a799",
-      "title": "What to Know About Ceuta",
-      "summary": "The peninsula on Morocco’s northern coast, which Spain has governed for centuries, has been a frequent site of mass migrant crossings and political tensions.",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-01T14:49:27+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "frequent site of mass migrant crossings and political tensions."
-    },
-    {
-      "id": "d2ac6391d57d3c9329782310a7dda62dc7db1661",
-      "title": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
-      "summary": "Most migrants who reached Spain's North African territory of Ceuta from Morocco have returned, officials said.",
-      "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-01T12:04:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "migrants enter Spain's Ceuta from Morocco"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-10T10:31:05Z"
+  "last_updated": "2026-08-11T10:17:09Z"
 }

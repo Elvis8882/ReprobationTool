@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 204,
+  "sources": 200,
   "sentiment": {
-    "positive": 17,
-    "neutral": 181,
+    "positive": 18,
+    "neutral": 176,
     "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "53527909ad08b1a9e248096b45dd424b41a9bd8a",
+      "title": "New train service connects Finland and Sweden for first time in decades",
+      "summary": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-10T18:28:11+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "New train service connects Finland and Sweden"
+    },
     {
       "id": "7ace3779d064be970e73b03da947718d47a24549",
       "title": "British widow, 78, told to leave Sweden under Brexit rules after living there for 21 years - The Guardian",
@@ -209,18 +220,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "researchers from Sweden, US, Switzerland and Norway"
-    },
-    {
-      "id": "a62d184d8ea436dfdea5921d71058a61a4119cf1",
-      "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
-      "summary": "Trump on Truth Social railed against the European Union's new fine on Google and prior penalties against U.S. tech giants Apple, Meta and Amazon.",
-      "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-07-24T19:39:50+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-10T10:31:05Z"
+  "last_updated": "2026-08-11T10:17:09Z"
 }

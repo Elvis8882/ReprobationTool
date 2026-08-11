@@ -6,11 +6,66 @@
   "trend": 0,
   "sources": 625,
   "sentiment": {
-    "positive": 36,
-    "neutral": 209,
+    "positive": 34,
+    "neutral": 211,
     "negative": 380
   },
   "latest_articles": [
+    {
+      "id": "739b587410848f406922083ef58df513f3eeeb18",
+      "title": "Spain’s Complex Ties With Morocco Fuel Speculation Over Ceuta Migrant Surge",
+      "summary": "Rumors swirled that Morocco, perhaps spurred by Israel and the United States, organized a recent border disaster. That unproven speculation, experts said, was exacerbated by the region’s complicated history.",
+      "url": "https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-11T09:03:49+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "perhaps spurred by Israel and the United States, organized a recent border disaster"
+    },
+    {
+      "id": "fc552f7ee2bc19334834b804546d6383f62d4224",
+      "title": "Trump-Netanyahu rift widens as election pressures pull them in opposite directions",
+      "summary": "While the Israeli leader touts a willingness to defy the U.S. on Gaza, the president needs to show progress in the foreign entanglements weighing on his approval rating.",
+      "url": "https://www.washingtonpost.com/politics/2026/08/11/trump-netanyahu-experience-tension-critical-election-year/",
+      "source": "World (Washington post)",
+      "published_at": "2026-08-11T09:00:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Trump-Netanyahu rift widens as election pressures pull them in opposite directions"
+    },
+    {
+      "id": "847a3f7d9759eed9e3a474ff13c74041f90763f2",
+      "title": "As conflict in the Middle East intensifies, India’s relationship with Israel deepens",
+      "summary": "An Amnesty International report reveals that the country is now a key part of Israel’s weapons supply chain. Plus, Assam floods, student anger spreads and a song to put in rotation• Don’t get This is India delivered to y…",
+      "url": "https://www.theguardian.com/world/2026/aug/10/this-is-india-relationship-with-israel-modi-netanyahu",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-11T06:55:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "country is now a key part of Israel’s weapons supply chain"
+    },
+    {
+      "id": "65b5b0d05275199c2acf325804bb8c89fe8c58ba",
+      "title": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
+      "summary": "The Israeli prime minister, facing a tough upcoming election, is trying to satisfy the sometimes competing demands of his right-wing base and of President Trump.",
+      "url": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-10T22:00:49+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "The Israeli prime minister, facing a tough upcoming election"
+    },
+    {
+      "id": "62ab943427f95c59824ea93512995ef957c6ce07",
+      "title": "Flip-flopping Netanyahu rejects Gaza plan but cannot placate all his allies",
+      "summary": "Israeli prime minister faces incompatible demands from his far-right government ministers and from Donald TrumpBenjamin Netanyahu’s public rejection of a US-backed deal for Gaza drew scepticism in Israel, amid reports he…",
+      "url": "https://www.theguardian.com/world/2026/aug/10/benjamin-netanyahu-rejection-us-deal-gaza-risky-gamble",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-10T17:27:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Netanyahu rejects Gaza plan"
+    },
     {
       "id": "ea17cb0ef3bad93d1e3842f278d584698ca86009",
       "title": "US-Backed Gaza Plan Rejected By Netanyahu Only Way Forward: Trump Board Head",
@@ -54,6 +109,28 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Israel attacked Iran on Feb. 28, starting a monthslong war"
+    },
+    {
+      "id": "20c45a65aa543c0c0a5c8665c986200160e40b94",
+      "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
+      "summary": "Israeli PM says IDF will not withdraw until Hamas is disarmed and rebukes US pressure to end wars without his country’s buy-inIsrael’s prime minister, Benjamin Netanyahu, has rejected a US-backed 15-point peace plan for…",
+      "url": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-09T20:00:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Netanyahu rejects US-led 15-point Gaza peace plan"
+    },
+    {
+      "id": "0e28f3cfd74f3cb41b80ff8a29f93bb2a8009ee7",
+      "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+      "summary": "The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.",
+      "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-08-09T11:31:42+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "small Israeli startup was linked to rogue AI hacks"
     },
     {
       "id": "ccdfb17133c5c0bfa41e4690799ea28c8f579817",
@@ -153,85 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Israeli strikes killed at least one person"
-    },
-    {
-      "id": "bb4fedf53ff013e3a016b1a3f4ba4f9d68a66d36",
-      "title": "Top Democrats accuse Trump officials over Israeli settlers’ ‘unbridled violence’",
-      "summary": "Letter says lifting of sanctions sent ‘clear message’ settlers can use deadly force in West Bank without consequencesSenior Democrats have accused Donald Trump’s administration of giving a green light to violent Israeli…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/06/democrats-trump-west-bank-israeli-settlers",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-06T10:00:45+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "accuse Trump’s administration of giving a green light to violent Israeli settlers"
-    },
-    {
-      "id": "c73298d3a5982e5a4355dfd24efc588c92f28899",
-      "title": "Israel Strikes Lebanon After Accusing Hezbollah of Cease-Fire Violation",
-      "summary": "At the same time, Israeli and Lebanese negotiators were holding talks in Rome aimed at fostering a long-term diplomatic settlement.",
-      "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-lebanon-hezbollah-cease-fire.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-06T07:20:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel Strikes Lebanon After Accusing Hezbollah of Cease-Fire Violation"
-    },
-    {
-      "id": "61f2f0b9504ad7dd77af43a3ec3d90ecd3cb84a5",
-      "title": "Israeli strike that killed journalist in Lebanon was war crime, say rights groups",
-      "summary": "Investigation by Human Rights Watch, Amnesty and Legal Agenda shows Israel deliberately attacked Amal Khalil and colleague Zeinab Faraj knowing they were civiliansAn Israeli strike that killed Lebanese journalist Amal Kh…",
-      "url": "https://www.theguardian.com/world/2026/aug/06/israeli-strike-that-killed-journalist-in-lebanon-was-war-say-rights-groups",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-06T06:00:34+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Israeli strike that killed journalist in Lebanon was war crime"
-    },
-    {
-      "id": "c837ad8e9a6c30aeb362a08fcd1dc9995d3673f2",
-      "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
-      "summary": "Lebanese authorities says one person was killed in the strikes, which came after the first Israeli military fatalities in Lebanon in more than a month.",
-      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-05T20:03:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Israel strikes south Lebanon after two soldiers killed"
-    },
-    {
-      "id": "31c1d4c4265275c144050bef1a3868b64a8944d3",
-      "title": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
-      "summary": "President Trump announced a proposal aimed at achieving the disarmament of Hamas and an Israeli withdrawal. Israel ramped up attacks on the Palestinian enclave.",
-      "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-05T08:59:30+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza"
-    },
-    {
-      "id": "47bb0c9f104f418b87476a0f729260fb6bd6729d",
-      "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
-      "summary": "In today’s newsletter: The past week shows how quickly images, rumours and ​right-wing political opportunism can eclipse the facts on the groundGood morning. Last week, an estimated 72,000 migrants began crossing into a…",
-      "url": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-05T05:54:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "imminent threat of an Israeli takeover of the most important Muslim site"
-    },
-    {
-      "id": "e38362ed3d5c1ad7317c489281e6fe50b652599d",
-      "title": "Mass funeral held in Gaza for victims of 2023 Israeli strike",
-      "summary": "Remains of 112 victims, including 40 children, recovered from rubble more than two years after residential block was destroyedMourners gathered in central Gaza on Tuesday for a mass funeral for 112 people, including 40 c…",
-      "url": "https://www.theguardian.com/world/2026/aug/04/mass-funeral-gaza-victims-2023-israeli-strike",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-04T17:24:41+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "deadliest Israeli strikes of the Gaza war"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-10T10:31:05Z"
+  "last_updated": "2026-08-11T10:17:09Z"
 }

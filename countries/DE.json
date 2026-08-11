@@ -3,14 +3,25 @@
   "score": 66,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 417,
+  "trend": 0,
+  "sources": 413,
   "sentiment": {
     "positive": 53,
-    "neutral": 292,
+    "neutral": 288,
     "negative": 72
   },
   "latest_articles": [
+    {
+      "id": "c24532aeeac1e7eaf73c83a18fffbd597f119bdb",
+      "title": "US intelligence ‘believes Russia was behind Leipzig airport drone bomb’",
+      "summary": "German government talks of a ‘new level of danger’ but declines to say who it thinks was responsible for deviceAmerican intelligence experts believe Russia was behind an attack on a German airport last week with a drone…",
+      "url": "https://www.theguardian.com/world/2026/aug/10/us-intelligence-russia-leipzig-airport-drone-bomb",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-10T15:55:26+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "attack on a German airport"
+    },
     {
       "id": "05b47b44e745e3001c14705e0312c38b63a4cbf2",
       "title": "German scientists made a sponge-like material that pulls drinking water from air",
@@ -216,18 +227,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "investigating ‘unidentified flying object’ disrupting flights"
-    },
-    {
-      "id": "eae1edfc4bef5c580e9ac52d9a5ce89790ee39cb",
-      "title": "Hungary comes ‘within millimetres’ of shutting down nuclear power plant amid drought crisis – Europe live",
-      "summary": "EU says it is monitoring energy crunch in Hungary, Bulgaria and Romania as extreme heat and low water levels in Danube pose challenges in regionMeanwhile, the European Commission said it was “monitoring very closely” the…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-04T10:48:29+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-10T10:31:05Z"
+  "last_updated": "2026-08-11T10:17:09Z"
 }
