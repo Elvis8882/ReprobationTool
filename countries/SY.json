@@ -1,16 +1,38 @@
 {
   "country": "SY",
-  "score": 55,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 40,
+  "score": 85,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
+  "trend": 30,
+  "sources": 42,
   "sentiment": {
     "positive": 0,
     "neutral": 21,
-    "negative": 19
+    "negative": 21
   },
   "latest_articles": [
+    {
+      "id": "4c76cad620d35c68d4be416cb60107e6ac1d57fe",
+      "title": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
+      "summary": "The former president was convicted of crimes against humanity during the country’s civil war, the first verdict since he fled to Russia in 2024.",
+      "url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-11T15:00:43+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Syria Sentences Former President al-Assad to Death"
+    },
+    {
+      "id": "6f590f0d76c58a94f72a7b6e83bf8708159c601d",
+      "title": "Syrian court sentences Bashar al-Assad to death in absentia for war crimes",
+      "summary": "Verdict relates to atrocities committed during the country’s 14-year civil war in which about 500,000 people diedA Syrian court has sentenced the country’s former president Bashar al-Assad and his brother Maher to death…",
+      "url": "https://www.theguardian.com/world/2026/aug/11/syria-bashar-al-assad-death-sentence-war-crimes",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-11T10:40:45+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Syrian court sentences Bashar al-Assad to death"
+    },
     {
       "id": "427cd01bc9b5a366df16d2337e1d3793025ecd56",
       "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Blast Near French President Macron's Damascus Hotel"
-    },
-    {
-      "id": "743af001dcbad3bc0547f930aa08d551c232d039",
-      "title": "Watch: Explosions near Macron's Damascus hotel as French leader meets Syria's president",
-      "summary": "Explosions struck central Damascus near President Emmanuel Macron's hotel. The French president proceeded with his scheduled meeting with Syrian President Ahmed al-Sharaa. Macron is the first EU leader to visit Syria sin…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/watch-explosions-near-macrons-damascus-hotel-as-french-leader-meets-syrias-president/articleshow/132234506.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-07-07T08:27:20+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "Macron meets Syrian President Ahmed al-Sharaa"
-    },
-    {
-      "id": "e4ad780642c7248dbc2952a0efa21578f34d3e71",
-      "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
-      "summary": "Two former Syrian officials went on trial in Vienna, Austria, accused of crimes against opponents of former Syrian leader Bashar al-Assad",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-06T17:22:38+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-11T10:17:09Z"
+  "last_updated": "2026-08-12T10:23:01Z"
 }

@@ -1,16 +1,38 @@
 {
   "country": "UA",
-  "score": 15,
+  "score": 17,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 658,
+  "trend": 2,
+  "sources": 655,
   "sentiment": {
     "positive": 285,
-    "neutral": 121,
-    "negative": 253
+    "neutral": 120,
+    "negative": 251
   },
   "latest_articles": [
+    {
+      "id": "82fed45eb79ddbec1e79d8363680f7e9fb208e3b",
+      "title": "Russia's Richest Woman's Empire Goes Up In Flames After Ukrainian Drone Attack",
+      "summary": "Ukrainian drone strikes damaged several Wildberries warehouses.",
+      "url": "https://www.ndtv.com/world-news/tatyana-kim-russias-richest-womans-empire-goes-up-in-flames-after-ukrainian-drone-attack-11898874#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-08-12T07:31:34+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukrainian Drone Attack"
+    },
+    {
+      "id": "bb7bbbe207e8abe4215150aa643e20d144580cdf",
+      "title": "Ukraine war sparked race for countries to build spy satellites, space-tech CEO says",
+      "summary": "Governments are ramping up satellite capabilities as space intelligence becomes increasingly critical to modern warfare.",
+      "url": "https://www.cnbc.com/2026/08/11/iceye-satellite-fleets-defense-europe.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-08-11T15:09:49+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Ukraine war sparked race for countries to build spy satellites"
+    },
     {
       "id": "ab563eb385f20a13b143836a4afa5b14dbe3b12d",
       "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
@@ -43,6 +65,17 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Ex-Ukrainian Prisoners Of War Speak At UN"
+    },
+    {
+      "id": "3c0bb75c9fb6e579cbfda0a09f0787e8be718d70",
+      "title": "Zelenskyy warns Putin is preparing for escalation by bringing in North Korean military equipment",
+      "summary": "His comments come shortly after deadly Russian attacks on cities across Ukraine overnight.",
+      "url": "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-08-11T08:20:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "deadly Russian attacks on cities across Ukraine"
     },
     {
       "id": "23ad89df29d9996d92eaa8147172ca115012981b",
@@ -87,6 +120,17 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Ukrainian drone attack kills 13 in Russia's Tatarstan"
+    },
+    {
+      "id": "70a2aea96be738fdecdc21c0201705a478a07e3d",
+      "title": "Russian family denied asylum in Finland fear reprisals for pro-Ukraine activism",
+      "summary": "Nikita and Olga Belov say they will be persecuted on return to Moscow but are yet to convince Finnish authoritiesA Russian family faces deportation from Finland after repeatedly being denied asylum – despite the threat o…",
+      "url": "https://www.theguardian.com/world/2026/aug/09/russian-family-finland-reprisals-pro-ukraine-activism",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-09T07:00:08+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "pro-Ukrainian activism"
     },
     {
       "id": "83704ab60460e8740b603acf8388972086e2062d",
@@ -186,52 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Russian attacks on hospitals and ambulances."
-    },
-    {
-      "id": "7d6b68a860f4470f99c84e47ac43909023ca4fd0",
-      "title": "Ukraine-Russia war latest: Putin could attack Nato member to test alliance’s resolve, report on US intel warns - The Independent",
-      "summary": "Ukraine-Russia war latest: Putin could attack Nato member to test alliance’s resolve, report on US intel warns&nbsp;&nbsp;The IndependentExclusive | U.S. Intel Finds Putin Could Test NATO’s Resolve With Limited Incursion…",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRGhYa3M3OG9QSmxublhHb2dGQnA2RGlBY2Vpa19rRTd5XzFTbFBCV2NfR01RME1EV1loaGpzN3Zsd0FEV2xhVno3ZkdINTd5ckVBOFZLNUZaeTY1Z2o0UVltVmdFRC1zU3RIeU1uTHZRcWRNY0N4LXBhejlqSFc0VmdVeGMzX0FOVFQ1U3pkREJMQ0R2ZWZMY0h5NDZ5VmJPUjZWOGV3SHBsZV9uX05JQzRlSVRGNWlaU3BSSHc4TDV6UQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-07T07:44:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Ukraine-Russia war latest"
-    },
-    {
-      "id": "0280c126a85a422eb9aa6d0470e28e6aa9a1cb68",
-      "title": "Russian Offensive Campaign Assessment, August 6, 2026 - Institute for the Study of War",
-      "summary": "Russian Offensive Campaign Assessment, August 6, 2026&nbsp;&nbsp;Institute for the Study of WarLithuania Sees Russia Mulling False-Flag Drone Attack on Region&nbsp;&nbsp;bloomberg.comRussia plotting 'false flag' using Uk…",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmNHMlJYSEl3b0dBdGlfWjA4aGxiNVZMOTJFNzZOR3lQZmtiNW1sc0JndTdXLUpucjlPNG5ReTkwbTRXM2ZPQ2lzRUx6UjZSeVBZV2hxN0gxTnZKMGV1bHNFRDRnV2xkVXZiOEhWckhCamJCOWcxMzZwNFdVT1Y5TVAzbXM1THFhSW9DVktnc3k4d0xSM2VhSF80M3FlSnFMQjlCbUtsWnE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-06T23:48:41+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russia will use Ukraine’s drones as false flag, spies warn"
-    },
-    {
-      "id": "e843f3332f61de0a5d69b4e492ce4e7cf4bfa578",
-      "title": "Gas prices could remain high this fall even if crude prices stabilize. Here's why",
-      "summary": "The refining market is very tight due to the Ukraine and Iran wars, keeping gas prices elevated even as crude prices fall.",
-      "url": "https://www.cnbc.com/2026/08/06/refinery-gas-oil-prices-iran-ukraine-war.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-08-06T20:34:01+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Ukraine wars"
-    },
-    {
-      "id": "f6a41a9f528e847f4aba00da29ab23f51e462a3f",
-      "title": "Ukraine hits two oil refineries deep in Russian territory",
-      "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
-      "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-06T15:41:05+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukraine hits two oil refineries deep in Russian territory"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-11T10:17:09Z"
+  "last_updated": "2026-08-12T10:23:01Z"
 }
