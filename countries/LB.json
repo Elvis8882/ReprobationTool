@@ -1,16 +1,27 @@
 {
   "country": "LB",
-  "score": 14,
+  "score": 13,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 204,
+  "trend": -1,
+  "sources": 207,
   "sentiment": {
-    "positive": 8,
+    "positive": 9,
     "neutral": 72,
-    "negative": 124
+    "negative": 126
   },
   "latest_articles": [
+    {
+      "id": "e4661cb2f1b77c075f613afb47f043b0ef2cf897",
+      "title": "Trump says ceasefire in Lebanon is working. For residents, it’s a ‘prison.’",
+      "summary": "Israeli forces continue to occupy buffer zone in effort to dismantle Hezbollah’s infrastructure, with restrictions drawing parallels to those in the West Bank.",
+      "url": "https://www.washingtonpost.com/world/2026/08/12/trump-says-ceasefire-lebanon-is-working-residents-its-prison/",
+      "source": "World (Washington post)",
+      "published_at": "2026-08-12T09:00:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "ceasefire in Lebanon is working. For residents, it’s a ‘prison.’"
+    },
     {
       "id": "93a2529732e1d7031742f4536e96debc6bd2659e",
       "title": "Israel deliberately starting wildfires in southern Lebanon, firefighters say",
@@ -23,6 +34,17 @@
       "evidence": "targeting Lebanon’s natural environment"
     },
     {
+      "id": "6479d3046a1fb58325ea616a6c5b500c6e615137",
+      "title": "Lebanon takes step to become first Arab country to abolish death penalty",
+      "summary": "The bill would make life sentence with hard labor the highest penalty that can be imposed.",
+      "url": "https://www.washingtonpost.com/world/2026/08/11/lebanon-takes-step-become-first-arab-country-abolish-death-penalty/",
+      "source": "World (Washington post)",
+      "published_at": "2026-08-11T19:15:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Lebanon takes step to become first Arab country to abolish death penalty"
+    },
+    {
       "id": "8c94fd507d2cd9ad1ad80ace085b6286edcb2973",
       "title": "Lebanon parliament votes to abolish death penalty",
       "summary": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
@@ -32,6 +54,17 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Lebanon parliament votes to abolish death penalty"
+    },
+    {
+      "id": "56f469f39f917f14db4530a7aa3fa8435dd79099",
+      "title": "Trump demands Iran pay compensation for decades of US soldier deaths",
+      "summary": "US president’s statement is latest sign that negotations to end war and reopen strait of Hormuz have stalledDonald Trump has said he will demand that Iran pay compensation for the deaths of thousands of US soldiers and I…",
+      "url": "https://www.theguardian.com/world/2026/aug/10/trump-demands-iran-pay-compensation-for-decades-of-us-soldier-deaths",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-10T20:45:52+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "US president is trying to end conflicts in Iran, Gaza and Lebanon"
     },
     {
       "id": "20c45a65aa543c0c0a5c8665c986200160e40b94",
@@ -197,41 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Israeli pullout from southern Lebanon"
-    },
-    {
-      "id": "31d16025de84b22c16a9c2a7a234ebca2647cf9a",
-      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-      "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-21T10:43:48+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal"
-    },
-    {
-      "id": "0be9f0ff98872c428dfdda28c9c9095387e406e4",
-      "title": "Iran claims attacks on strait of Hormuz ships amid fresh US strikes – Middle East crisis live",
-      "summary": "Revolutionary Guard claims attack on oil tanker and two other ships as US carries out tenth consecutive night of strikesFull report: Almost 100 troops injured in recent weeks, Pentagon admits, as Iran launches reprisals…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-21T10:40:59+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "disarmament of Hezbollah"
-    },
-    {
-      "id": "988938d76cb9055641dff9a273b2769f85388003",
-      "title": "Lebanese Troops Deploy in Israeli-Held Village Under New Cease-Fire Plan",
-      "summary": "The Israeli military withdrew from the village under a U.S.-brokered deal to transfer control of occupied areas back to Lebanon after months of war. But Hezbollah has rejected the truce.",
-      "url": "https://www.nytimes.com/2026/07/21/world/middleeast/lebanon-israel-ceasefire-plan.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-21T10:35:13+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.7,
-      "evidence": "Lebanese Troops Deploy in Israeli-Held Village... Hezbollah has rejected the truce"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-12T10:23:01Z"
+  "last_updated": "2026-08-13T10:23:01Z"
 }

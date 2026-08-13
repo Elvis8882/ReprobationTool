@@ -1,16 +1,26 @@
 {
   "country": "DE",
-  "score": 66,
+  "score": 65,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 407,
+  "trend": -1,
+  "sources": 404,
   "sentiment": {
-    "positive": 50,
-    "neutral": 286,
-    "negative": 71
+    "positive": 49,
+    "neutral": 283,
+    "negative": 72
   },
   "latest_articles": [
+    {
+      "id": "327dfe751601ec32100a0c985f5a5d856e6fdbe9",
+      "title": "Industrial production stable in the euro area and up by 0.2% in the EU - European Commission",
+      "summary": "Industrial production stable in the euro area and up by 0.2% in the EU&nbsp;&nbsp;European CommissionEuro area industrial output holds flat in June&nbsp;&nbsp;investingLiveEuro Area Industrial Output Stalls in June&nbsp;…",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RTzA3Und6VzZOaGVHSXpqeHhZMnB0Ny0xMWFXam9HcWxrQ2FXUHJYWlR5TURXTlNjMXJuc1ZOdUVwQTV0bDNaZnpfZVVpNlFDRzBZT1pzRjFhSmJteFNNazhDWElMSEdhSDZiaEk2VjJRSk5yQlg5YUNLSUZTZDg?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-08-13T09:11:24+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "c24532aeeac1e7eaf73c83a18fffbd597f119bdb",
       "title": "US intelligence ‘believes Russia was behind Leipzig airport drone bomb’",
@@ -32,6 +42,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "German scientists made a sponge-like material that pulls drinking water from air"
+    },
+    {
+      "id": "e96911170ef4f14cd281ac4bad123481c720a067",
+      "title": "CNBC Daily Open: Record heatwaves hit Europe's already expensive summer",
+      "summary": "German inflation figures and U.K. GDP will show just how deeply months of elevated energy costs have seeped into prices, and how much growth has taken a hit.",
+      "url": "https://www.cnbc.com/2026/08/10/europe-heatwaves-energy-shock-trump-iran-hormuz-.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-08-10T07:50:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "German inflation figures... how deeply months of elevated energy costs have seeped"
     },
     {
       "id": "88d93f7c4f32f32172df2cd32500dbb13e0cdb3d",
@@ -205,30 +226,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Drone carrying explosives found at German airport"
-    },
-    {
-      "id": "1c9467ab690e79dc22ab625c8c2e2462da91c3d4",
-      "title": "The Leipzig drone bomb marks a dangerous escalation for Europe",
-      "summary": "Initial evidence suggests aerial drone, found near Ukrainian cargo planes at German airport, came from RussiaThe armed drone found at Leipzig airport on Wednesday may not have exploded, but the fact that it got inside th…",
-      "url": "https://www.theguardian.com/world/2026/aug/05/the-leipzig-drone-bomb-marks-a-dangerous-escalation-for-europe",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-05T17:32:21+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "aerial drone, found near Ukrainian cargo planes at German airport, came from Russia"
-    },
-    {
-      "id": "2de7a0a22acae922db6c1c6d69d564719a9b4b24",
-      "title": "Nato confirms drone sighting near Ukrainian plane at German airport after ‘security incident’ – Europe live",
-      "summary": "German police had earlier said they were investigating ‘unidentified flying object’ disrupting flights in LeipzigFor what it’s worth, DHL Group CEO Tobias Meyer said the German logistics firm was studying ​the overnight…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/05/europe-ukraine-russia-kyiv-zelenskyy-heatwave-austria-hungary-poland-czech-republic-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-05T11:12:13+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "investigating ‘unidentified flying object’ disrupting flights"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-12T10:23:01Z"
+  "last_updated": "2026-08-13T10:23:01Z"
 }
