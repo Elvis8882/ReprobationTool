@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 622,
+  "sources": 616,
   "sentiment": {
     "positive": 33,
-    "neutral": 202,
-    "negative": 387
+    "neutral": 200,
+    "negative": 383
   },
   "latest_articles": [
+    {
+      "id": "8246a8c5bdc250754cdc48d8908ec9750ca3d765",
+      "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
+      "summary": "Former PM of Israel calls events ‘concerted and meticulous attempt at ethnic cleansing’ against PalestiniansIsraeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top…",
+      "url": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-13T18:54:09+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Israeli troops force families from homes amid settler terror campaign"
+    },
     {
       "id": "09443cca3dddb1a7ad427ed01ccd304f27238330",
       "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
@@ -32,6 +43,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Israeli militants besiege two Palestinian families in their West Bank homes"
+    },
+    {
+      "id": "c55f468eb83eb2d96a7171726737d4a7abe35184",
+      "title": "Israel's Unverified 'Iran Kill Plot' Warning Behind Trump's Secret Jet Switch In Turkey: Report",
+      "summary": "The warning was reportedly relayed to CIA by the Israeli government.",
+      "url": "https://www.ndtv.com/world-news/israels-unverified-iran-kill-plot-warning-behind-trumps-secret-jet-switch-in-turkey-report-11903101#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-08-13T04:57:12+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Israel's Unverified 'Iran Kill Plot' Warning"
     },
     {
       "id": "dbc9528934b6272cad04f3e7b72751772ef0f219",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Israel attacked Iran on Feb. 28, starting a monthslong war"
-    },
-    {
-      "id": "6e0f12b732f6a05f5c4cf969c24ad122a108989e",
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-09T21:25:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel's PM says its military will not pull out from Gaza"
-    },
-    {
-      "id": "20c45a65aa543c0c0a5c8665c986200160e40b94",
-      "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
-      "summary": "Israeli PM says IDF will not withdraw until Hamas is disarmed and rebukes US pressure to end wars without his country’s buy-inIsrael’s prime minister, Benjamin Netanyahu, has rejected a US-backed 15-point peace plan for…",
-      "url": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-09T20:00:48+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Netanyahu rejects US-led 15-point Gaza peace plan"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-13T10:23:01Z"
+  "last_updated": "2026-08-14T10:17:42Z"
 }

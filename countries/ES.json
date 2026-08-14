@@ -1,16 +1,27 @@
 {
   "country": "ES",
-  "score": 45,
+  "score": 43,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 453,
+  "trend": -2,
+  "sources": 454,
   "sentiment": {
-    "positive": 33,
-    "neutral": 330,
-    "negative": 92
+    "positive": 32,
+    "neutral": 331,
+    "negative": 93
   },
   "latest_articles": [
+    {
+      "id": "af6ff3dbdeaf85280c4b70623bf4db1312bbac70",
+      "title": "After 2 Plasma Donor Deaths, Company Pauses Clinics in Canada",
+      "summary": "Grifols, a Spanish company, said “unfounded attention” on its blood plasma business in Canada had led it to temporarily end collections at 17 clinics.",
+      "url": "https://www.nytimes.com/2026/08/13/world/canada/plasma-blood-donation-deaths-grifols.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-13T23:41:27+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Grifols, a Spanish company, said “unfounded attention”"
+    },
     {
       "id": "40a7b54ef224ddcdb371fdacc3f02781ad1a3ad3",
       "title": "Europe heatwave live: Temperatures of 40C expected in Spain, with amber heat health warning in place across large parts of UK",
@@ -218,18 +229,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Spanish mountain village braces for astrotourists"
-    },
-    {
-      "id": "7f0138098fff42ef3743c99af0c57f40856fda17",
-      "title": "Europe Gets Its Starlink Rival, Expands IRIS Satellite Constellation",
-      "summary": "The European Commission plans to begin launching the first satellites in 2029 (Representational)",
-      "url": "https://www.ndtv.com/world-news/europe-gets-its-starlink-rival-expands-iris-satellite-constellation-11882249#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-08-08T05:50:31+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-13T10:23:01Z"
+  "last_updated": "2026-08-14T10:17:42Z"
 }

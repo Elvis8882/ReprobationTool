@@ -1,16 +1,38 @@
 {
   "country": "RO",
-  "score": 81,
+  "score": 79,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 184,
+  "trend": -2,
+  "sources": 186,
   "sentiment": {
     "positive": 12,
     "neutral": 142,
-    "negative": 30
+    "negative": 32
   },
   "latest_articles": [
+    {
+      "id": "2666fa4c8cda004635e45e39f20b9e031b31ada9",
+      "title": "Romania shuts its last nuclear reactor as drought-hit Danube river drops to record low",
+      "summary": "Cernavoda shutdown poses immediate problems for Moldova, which relies on Romanian power ​to cover its own electricity shortagesRomania has been forced to shut down the last working ⁠reactor at its only nuclear plant afte…",
+      "url": "https://www.theguardian.com/world/2026/aug/14/romania-nuclear-plant-shut-down-cernavoda-danube-river-water-drought",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-14T01:20:26+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Romania shuts its last nuclear reactor as drought-hit Danube river drops"
+    },
+    {
+      "id": "91fd82f2cc467e1d4ffc93a1f7f7bd525d286062",
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-13T19:46:27+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Romania shuts only nuclear plant as heat causes huge drop"
+    },
     {
       "id": "327dfe751601ec32100a0c985f5a5d856e6fdbe9",
       "title": "Industrial production stable in the euro area and up by 0.2% in the EU - European Commission",
@@ -194,29 +216,8 @@
       "published_at": "2026-07-23T12:43:15+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "6c4d8d78c442bfa392c74165861cdd8d8438696b",
-      "title": "EU fines Google €890m for competition breaches over search and apps",
-      "summary": "Firm told to treat third-party services that appear in its results in ‘fair and non-discriminatory manner’Google has been fined a total of €890m (£760m) by the EU for breaches of online competition laws by its search and…",
-      "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-23T10:00:42+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "5c90434cea65a4b4af4d55bb62b7f58d3ebc2a5c",
-      "title": "Pride organisers vow to march in Romanian city that has blocked event four years in a row",
-      "summary": "Oradea is only major city in EU where local authorities have repeatedly blocked Pride plansCampaigners in a Romanian city have vowed to go ahead with a Pride march after local authorities denied permission for the fourth…",
-      "url": "https://www.theguardian.com/world/2026/jul/23/pride-march-romania-oradea-blocked-event-four-years-in-a-row",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-23T08:36:27+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Romanian city that has blocked event four years in a row"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-13T10:23:01Z"
+  "last_updated": "2026-08-14T10:17:42Z"
 }

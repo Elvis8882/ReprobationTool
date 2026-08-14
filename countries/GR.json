@@ -1,16 +1,27 @@
 {
   "country": "GR",
-  "score": 90,
+  "score": 89,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 198,
+  "trend": -1,
+  "sources": 199,
   "sentiment": {
-    "positive": 11,
-    "neutral": 169,
-    "negative": 18
+    "positive": 10,
+    "neutral": 170,
+    "negative": 19
   },
   "latest_articles": [
+    {
+      "id": "a2ea0f8a0db0320975fda1dcdc310c52c289adaf",
+      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+      "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-13T21:43:47+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "flight from Greece to Germany."
+    },
     {
       "id": "327dfe751601ec32100a0c985f5a5d856e6fdbe9",
       "title": "Industrial production stable in the euro area and up by 0.2% in the EU - European Commission",
@@ -20,6 +31,17 @@
       "published_at": "2026-08-13T09:11:24+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "b0b175e3ae753360bbbbba73137ec01e5d5235c4",
+      "title": "West Nile virus surge in Greece with Attica at the epicentre - Euronews.com",
+      "summary": "West Nile virus surge in Greece with Attica at the epicentre&nbsp;&nbsp;Euronews.comWest Nile virus cases in Greece more than double to 110&nbsp;&nbsp;YahooAttica steps up mosquito control as West Nile virus cases emerge…",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlJvMy15X1BrWENmZFJzMVV5UjI1Qmxfc19NNFdBVlFmbnVlLWFhZ05NQWtYT0k0YlU3QS1RczBfU054aWp5UFNhZWU4aDgxNlVfdkpTcUR5UmRvYlVqZjd6TzJKLVNLSV80dHlOci1OXy11d1dnUmxKQUxzeEFLYjVFMHJ4SVlvZHdoTFp3dDlSd0dOUS1zdTNuLTBpVmkzbXlsVFFn?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-08-13T07:58:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "West Nile virus surge in Greece"
     },
     {
       "id": "f78b1b3d71a809af64a41b076e0671a0e7e30f68",
@@ -200,30 +222,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Hundreds escape Greek wildfire by sea"
-    },
-    {
-      "id": "b5755e19b8fd6c1764fd57cf68ccffea73fecb70",
-      "title": "Wildfires in Greece Kill 3 Firefighters as Blazes Still Burn in France and Spain",
-      "summary": "Greece also worked to contain blazes on Lesbos and in the Peloponnese, where another firefighter died, in the midst of a brutal wildfire season for Europe.",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/wildfires-europe-greece.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-30T10:31:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Wildfires in Greece Kill 3 Firefighters"
-    },
-    {
-      "id": "7811b160cff526827273992f5e269fa4556110a7",
-      "title": "Thousands evacuated in Crete as European wildfires continue to rage",
-      "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
-      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-30T09:10:11+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "wildfires continue to ravage the Greek island"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-13T10:23:01Z"
+  "last_updated": "2026-08-14T10:17:42Z"
 }
