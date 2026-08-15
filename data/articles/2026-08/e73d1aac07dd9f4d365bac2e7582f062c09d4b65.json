@@ -19,8 +19,30 @@
     "GB",
     "HR"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-08-14T10:17:42+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-08-15T09:39:53+00:00",
+  "sentiment_by_country": {
+    "DE": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Fires also blaze in ... Germany"
+    },
+    "FR": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Fires also blaze in ... France"
+    },
+    "GB": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "major fire in England"
+    },
+    "HR": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Croatian PM Plenković said it was “one of the worst fires”"
+    }
+  },
+  "processed_at": "2026-08-15T09:39:53+00:00"
 }

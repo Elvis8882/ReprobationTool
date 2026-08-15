@@ -1,16 +1,27 @@
 {
   "country": "KZ",
-  "score": 74,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 4,
+  "score": 82,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": 8,
+  "sources": 5,
   "sentiment": {
-    "positive": 1,
+    "positive": 2,
     "neutral": 2,
     "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "5c0eb21d206c50617d9d516963a7b63796b37f89",
+      "title": "The return of the caspian tiger: how a species feared extinct has come back to Kazakhstan",
+      "summary": "The wild capture and release of a female big cat into a nature reserve is the first step towards reintroducing a population that hasn’t been seen for 70 yearsOn 31 July, “Umit” – which means hope in Kazakh – was released…",
+      "url": "https://www.theguardian.com/environment/2026/aug/11/extinction-caspian-tiger-release-female-kazakhstan-aoe",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-11T10:00:56+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Kazakhstan became the first country to restore its tiger range"
+    },
     {
       "id": "f81e61dcd99675fb049e1188b045ea39f9cb0b48",
       "title": "Moment first rare tiger in 70 years released in Kazakhstan",
@@ -57,5 +68,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-14T10:17:42Z"
+  "last_updated": "2026-08-15T09:39:53Z"
 }

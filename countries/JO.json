@@ -1,14 +1,14 @@
 {
   "country": "JO",
-  "score": 78,
+  "score": 77,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 44,
+  "trend": -1,
+  "sources": 45,
   "sentiment": {
     "positive": 1,
     "neutral": 12,
-    "negative": 31
+    "negative": 32
   },
   "latest_articles": [
     {
@@ -76,6 +76,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Iran’s target was a US base in Jordan"
+    },
+    {
+      "id": "b228916f8cf4203a72ab3f5c4039d6108ebf7e48",
+      "title": "Some Jordanians Dare to Speak Out Against U.S. Troop Presence",
+      "summary": "Hundreds of political, legal and other figures signed a public letter warning that Jordan’s close alliance with the United States poses a risk.",
+      "url": "https://www.nytimes.com/2026/07/29/world/middleeast/jordan-us-military-iran-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-07-29T04:01:19+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Jordanians Dare to Speak Out Against U.S. Troop Presence"
     },
     {
       "id": "0adeceaef5b81d6c5e64bc3033ea832f0ff6f7ef",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Increased Cooperation With U.S. Has Put Jordan in Iran’s Cross Hairs"
-    },
-    {
-      "id": "4d439e5b5480e51da3593821de87bdf19150cbd2",
-      "title": "Middle East crisis live: US launches new round of airstrikes to ‘swiftly punish’ Iran after American troops killed",
-      "summary": "Fresh attacks comes after Iran’s supreme leader warned Washington would pay for ‘seeking to escalate’ the conflictTwo US troops killed and one missing in Jordan after Iranian attacksThe US embassy in Jordan has said auth…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-19T10:17:55+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "US embassy in Jordan has said authorities evacuated the international airport and seaport"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-14T10:17:42Z"
+  "last_updated": "2026-08-15T09:39:53Z"
 }

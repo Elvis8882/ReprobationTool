@@ -1,16 +1,59 @@
 {
   "country": "HR",
-  "score": 100,
+  "score": 60,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 138,
+  "trend": -40,
+  "sources": 141,
   "sentiment": {
     "positive": 1,
     "neutral": 137,
-    "negative": 0
+    "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "fd0dcfb3e1cff252beafaab5fa2b16862f5fd9da",
+      "title": "Dozens injured and thousands evacuated in Croatia wildfire",
+      "summary": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
+      "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-14T20:22:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Dozens injured and thousands evacuated in Croatia wildfire"
+    },
+    {
+      "id": "f21cfbebab0e38acc09700eae03feb4fac9d38a5",
+      "title": "Europe is racing to eradicate a crayfish that can reproduce without mating; in the Czech Republic...",
+      "summary": "European conservationists are launching a campaign to eradicate new populations of marbled crayfish, notorious for their rapid reproduction and the deadly diseases they carry. Funded by the European Union, these swift ac…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/europe-is-racing-to-eradicate-a-crayfish-that-can-reproduce-without-mating-in-the-czech-republic-two-newly-detected-populations-are-being-targeted-before-they-spread/articleshow/133248632.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-08-14T19:22:44+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "f5f20ab5b68aa72a1854be7acc9877c59128653f",
+      "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
+      "summary": "One person killed and hundreds evacuated in Croatia as blazes also hit Germany, Greece and SpainAlmost 500 people have been arrested on suspicion of starting wildfires in France since the start of the summer, authorities…",
+      "url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-14T16:58:04+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "One person killed and hundreds evacuated in Croatia"
+    },
+    {
+      "id": "e73d1aac07dd9f4d365bac2e7582f062c09d4b65",
+      "title": "‘Extensive’ devastation caused by major fire in England as 150 million in Europe to experience temperatures above 35C – Europe live",
+      "summary": "Fires also blaze in Croatia, Germany and France as extreme heat continues to grip Europe todayFour taken to hospital and homes damaged in West Midlands firesSpeaking in Omiš, Croatian PM Plenković said it was “one of the…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-14T09:47:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Croatian PM Plenković said it was “one of the worst fires”"
+    },
     {
       "id": "327dfe751601ec32100a0c985f5a5d856e6fdbe9",
       "title": "Industrial production stable in the euro area and up by 0.2% in the EU - European Commission",
@@ -171,48 +214,8 @@
       "published_at": "2026-07-24T00:16:02+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "d13f5fe8846cc58e384209195fc469465812246a",
-      "title": "E.U. imposes more sanctions on Russia, in compromise deal",
-      "summary": "European Union members are looking to keep up pressure on Russia as Ukraine’s outlook improves, even as some countries seek exemptions.",
-      "url": "https://www.washingtonpost.com/world/2026/07/23/eu-imposes-more-sanctions-russia-compromise-deal/",
-      "source": "World (Washington post)",
-      "published_at": "2026-07-23T12:43:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "6c4d8d78c442bfa392c74165861cdd8d8438696b",
-      "title": "EU fines Google €890m for competition breaches over search and apps",
-      "summary": "Firm told to treat third-party services that appear in its results in ‘fair and non-discriminatory manner’Google has been fined a total of €890m (£760m) by the EU for breaches of online competition laws by its search and…",
-      "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-23T10:00:42+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "3dcd1491bb0832ee2d05a60a91c26972bfcacb8d",
-      "title": "EU bids to finalise new Russia sanctions amid discontent from some member states – Europe live",
-      "summary": "EU ambassadors head to Brussels aiming to sign off on 21st package of sanctions, after previous attempts ended without successThe Venice Biennale said it would challenge a European Union decision to withdraw a €2 ⁠millio…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/22/ukraine-war-russia-sanctions-europe-eu-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-22T11:00:17+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "bdd44067973a2e400d1a9f2f767b4f29e6003fd0",
-      "title": "Burnham cuts VAT on electricity bills ahead of first cabinet meeting – UK politics live",
-      "summary": "Move is expected to save households around £45 a year but former minister says plan is ‘unfunded’Burnham to cut VAT on electricity bills in first cost-of-living moveAntónio Costa, the president of the European council, s…",
-      "url": "https://www.theguardian.com/politics/live/2026/jul/21/andy-burnham-pm-labour-energy-bills-cost-of-living-cabinet-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-21T10:59:46+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-14T10:17:42Z"
+  "last_updated": "2026-08-15T09:39:53Z"
 }
