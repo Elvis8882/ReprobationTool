@@ -1,16 +1,27 @@
 {
   "country": "IT",
-  "score": 80,
+  "score": 81,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 322,
+  "trend": 1,
+  "sources": 319,
   "sentiment": {
-    "positive": 27,
-    "neutral": 253,
+    "positive": 28,
+    "neutral": 249,
     "negative": 42
   },
   "latest_articles": [
+    {
+      "id": "18e75ed4a94e912a14550641bcea6ac4236137a5",
+      "title": "With Priests Scarce in Rural Italy, an African Pastor Is Filling the Void",
+      "summary": "Immigrants have long eased labor shortages on farms and factories in Italy. But churches also need foreign-born priests, like the Rev. Vincent Souly of the Ivory Coast.",
+      "url": "https://www.nytimes.com/2026/08/16/world/europe/italy-priest-shortage.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-16T04:01:17+00:00",
+      "sentiment": "positive",
+      "confidence": 0.5,
+      "evidence": "Immigrants have long eased labor shortages on farms and factories in Italy."
+    },
     {
       "id": "87d1adcf2d4a5d5640d551bf374d51737363c658",
       "title": "Five Arrested in Connection to Stolen Works by Cézanne, Renoir and Matisse, Prosecutors Say",
@@ -215,19 +226,8 @@
       "published_at": "2026-08-06T12:16:47+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "dff84d4cc76b357f8ec3c73f35efb7cda3420658",
-      "title": "Iran says a deal with Oman to reopen the strait of Hormuz is close to being finalised – Middle East crisis live",
-      "summary": "Under the proposed agreement Tehran would control inbound traffic according to reportsUnderstanding reached on coordinates for shipping route through Hormuz, Iran saysA third day of US-mediated talks between Lebanese and…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/06/iran-oman-strait-of-hormuz-yemen-houthis-israel-lebanon-gaza-us-donald-trump-middle-east-crisis-live-news",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-06T10:48:02+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "talks between Lebanese and Israeli negotiators have begun in Rome"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-15T09:39:53Z"
+  "last_updated": "2026-08-16T09:41:29Z"
 }

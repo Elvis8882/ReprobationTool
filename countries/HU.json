@@ -4,13 +4,35 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 177,
+  "sources": 178,
   "sentiment": {
     "positive": 13,
     "neutral": 154,
-    "negative": 10
+    "negative": 11
   },
   "latest_articles": [
+    {
+      "id": "d20ba38f00479e945bf0d32dadc6fa57f18e3735",
+      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-16T07:04:17+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Polish bus veers off Hungarian motorway"
+    },
+    {
+      "id": "2ad4a68befb672c4727034e861ca7ea0e04c9701",
+      "title": "Destroyed crops, riverbed cyclists and a ‘Rock of Starvation’: how drought has devastated the Danube",
+      "summary": "The Guardian travelled 100 miles along the EU’s longest river, where some residents are struggling to secure drinking waterFor centuries, the rock was seen as a warning. When it began to emerge from the Danube, beneath G…",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-16T04:00:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Hungary is now facing an unprecedented energy crisis"
+    },
     {
       "id": "f21cfbebab0e38acc09700eae03feb4fac9d38a5",
       "title": "Europe is racing to eradicate a crayfish that can reproduce without mating; in the Czech Republic...",
@@ -194,28 +216,8 @@
       "published_at": "2026-07-24T09:35:14+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "6ca63747a03487f8f7de9d589cfe9406dfe584f4",
-      "title": "Thousands flee wildfires in France and Spain as temperatures reach extreme levels in southern Europe",
-      "summary": "France asks EU for help while Spain declares national emergency around Madrid, as marine heatwave sees parts of Mediterranean Sea 5C hotter than normalBrutal heat torching southern Europe has forced about 30,000 people t…",
-      "url": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-24T00:16:02+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "d13f5fe8846cc58e384209195fc469465812246a",
-      "title": "E.U. imposes more sanctions on Russia, in compromise deal",
-      "summary": "European Union members are looking to keep up pressure on Russia as Ukraine’s outlook improves, even as some countries seek exemptions.",
-      "url": "https://www.washingtonpost.com/world/2026/07/23/eu-imposes-more-sanctions-russia-compromise-deal/",
-      "source": "World (Washington post)",
-      "published_at": "2026-07-23T12:43:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-15T09:39:53Z"
+  "last_updated": "2026-08-16T09:41:29Z"
 }

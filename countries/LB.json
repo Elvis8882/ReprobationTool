@@ -1,16 +1,49 @@
 {
   "country": "LB",
-  "score": 15,
+  "score": 12,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 1,
-  "sources": 202,
+  "trend": -3,
+  "sources": 204,
   "sentiment": {
     "positive": 9,
-    "neutral": 69,
-    "negative": 124
+    "neutral": 68,
+    "negative": 127
   },
   "latest_articles": [
+    {
+      "id": "8890d3817dfdc24c5d276c5de47a0384ff82ad95",
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-15T20:21:14+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Eleven killed in Israeli strikes on southern Lebanon"
+    },
+    {
+      "id": "7a3f7f759bd12548a510d726ed443f32184cc967",
+      "title": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
+      "summary": "The Lebanese health ministry said children were among those killed. The Israeli prime minister’s office said Hezbollah had struck first, injuring three Israeli soldiers.",
+      "url": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-15T16:09:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Israeli Strikes in Lebanon Kill 11, Health Officials Say"
+    },
+    {
+      "id": "be0547c48ba1d4ad67b099171af3dc9a29198ad6",
+      "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
+      "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-ZahraniEleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebano…",
+      "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-15T13:55:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Israeli strikes on southern Lebanon kill 11"
+    },
     {
       "id": "e4661cb2f1b77c075f613afb47f043b0ef2cf897",
       "title": "Trump says ceasefire in Lebanon is working. For residents, it’s a ‘prison.’",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Lebanese displaced by war turn to satellites"
-    },
-    {
-      "id": "69c2ff2bc3b512db3edbf07b89cea09a39f13629",
-      "title": "Japanese Militant in Tel Aviv Airport Attack Dies in Lebanon at 78",
-      "summary": "Kozo Okamoto survived a 1972 suicide mission he undertook with two other members of the Japanese Red Army, a left-wing militant group aligned with the Popular Front for the Liberation of Palestine.",
-      "url": "https://www.nytimes.com/2026/07/24/world/middleeast/japanese-militant-tel-aviv-airport.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-24T19:28:52+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Dies in Lebanon"
-    },
-    {
-      "id": "81e1693b99adfbd9b0b3703317f4431370838a91",
-      "title": "Trump Resumes Direct US-Lebanon Flights After More Than 40 Years",
-      "summary": "Trump pledged to help Lebanon during a White House meeting with Joseph Aoun",
-      "url": "https://www.ndtv.com/world-news/us-president-donald-trump-resumes-direct-us-lebanon-flights-after-more-than-40-years-11803769#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-22T05:41:40+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Trump pledged to help Lebanon during a White House meeting"
-    },
-    {
-      "id": "0274f5e67684602974b163f38e7854af60710a73",
-      "title": "Trump meets with Lebanese leader, pledges support for peace efforts with Israel",
-      "summary": "The event marked the White House’s latest attempt to broker an Israeli pullout from southern Lebanon, where Israel has been fighting Hezbollah.",
-      "url": "https://www.washingtonpost.com/politics/2026/07/21/trump-pledges-support-lebanon-peace-efforts-with-israel-clashes-continue/",
-      "source": "World (Washington post)",
-      "published_at": "2026-07-21T20:29:51+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Israeli pullout from southern Lebanon"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-15T09:39:53Z"
+  "last_updated": "2026-08-16T09:41:29Z"
 }

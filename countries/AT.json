@@ -1,16 +1,27 @@
 {
   "country": "AT",
-  "score": 73,
+  "score": 74,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": 1,
   "sources": 165,
   "sentiment": {
-    "positive": 9,
-    "neutral": 149,
+    "positive": 10,
+    "neutral": 148,
     "negative": 7
   },
   "latest_articles": [
+    {
+      "id": "e00ec5a8a3cad2dffdd4d10d36a37e14555e0526",
+      "title": "Syrian Convicted in Austria of Civil War Abuses Is Detained in Syria",
+      "summary": "Musab Abu Rukbah, a former police chief, left Austria after appealing his eight-year sentence for crimes committed during Syria’s civil war.",
+      "url": "https://www.nytimes.com/2026/08/15/world/middleeast/syria-austria-arrest-civil-war-crimes.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-15T15:28:28+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Syrian Convicted in Austria of Civil War Abuses"
+    },
     {
       "id": "59c154b1ecae123a8f89451846471d00c5b56e69",
       "title": "Austrian Woman Sets World Record With 12 Nose-To-Ground Handstand Push-Ups In One Minute",
@@ -206,18 +217,8 @@
       "published_at": "2026-07-24T19:39:50+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "a1d351d2362216738d4a28724e89f65aca4ee31e",
-      "title": "Seven EU countries asked the European Commission to support border regions due to the decline in tourism - NEWS.am",
-      "summary": "Seven EU countries asked the European Commission to support border regions due to the decline in tourism&nbsp;&nbsp;NEWS.amSeven EU nations seek aid amid tourism decline&nbsp;&nbsp;Operativ Məlumat Mərkəzi",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE44OXRrQUV1Z1JvSEVacXFLSVlXbnVxZWdNRjdlT2xsNFpkRnFYWmZpR3VFSmR6a0ZMbUl3NEZrQ3RSdEhTSFE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-24T13:17:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-15T09:39:53Z"
+  "last_updated": "2026-08-16T09:41:29Z"
 }

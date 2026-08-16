@@ -1,16 +1,27 @@
 {
   "country": "BE",
-  "score": 93,
+  "score": 91,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 251,
+  "trend": -2,
+  "sources": 252,
   "sentiment": {
     "positive": 28,
-    "neutral": 198,
-    "negative": 25
+    "neutral": 197,
+    "negative": 27
   },
   "latest_articles": [
+    {
+      "id": "8f9ff5cf3b3da755eb1bb744e79e41c8213f17bf",
+      "title": "Heat Deaths in a ‘Cold’ Country Are a Warning to the Rest of Europe",
+      "summary": "A June heat wave in Belgium and neighboring countries exposed a lethal lack of readiness. That’s a risk as another wave hits Europe.",
+      "url": "https://www.nytimes.com/2026/08/15/world/europe/belgium-heat-wave-deaths.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-15T11:03:26+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Heat Deaths in a ‘Cold’ Country Are a Warning to the Rest of Europe"
+    },
     {
       "id": "dcc4a4f37406016e4533b4ada499ebe1d4098dd8",
       "title": "Heat Deaths in a ‘Cold’ Country Are a Warning to the Rest of Europe",
@@ -44,6 +55,17 @@
       "evidence": "Belgian student strikes gold worth €9m while digging a new sewer"
     },
     {
+      "id": "f6ae48084239327ab4329fa2a8d18dfd1df49f85",
+      "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
+      "summary": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-14T13:18:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "gold stash sealed in walls of Belgian property"
+    },
+    {
       "id": "327dfe751601ec32100a0c985f5a5d856e6fdbe9",
       "title": "Industrial production stable in the euro area and up by 0.2% in the EU - European Commission",
       "summary": "Industrial production stable in the euro area and up by 0.2% in the EU&nbsp;&nbsp;European CommissionEuro area industrial output holds flat in June&nbsp;&nbsp;investingLiveEuro Area Industrial Output Stalls in June&nbsp;…",
@@ -52,6 +74,17 @@
       "published_at": "2026-08-13T09:11:24+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "3909f9e6e0efb99c7d7326a4076f3e447f644c28",
+      "title": "Gangs using Airbnb-type rentals as drug stash houses, top Belgian official says",
+      "summary": "Flexible short-term bookings used to store and pack drugs and stash weapons and cash, says Ine Van WymerschAirbnb-type short-term rentals are being used as stash houses by criminal gangs for money, drugs, weapons and peo…",
+      "url": "https://www.theguardian.com/technology/2026/aug/11/airbnb-type-rentals-drugs-crime-gangs-belgium",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-11T07:47:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Gangs using Airbnb-type rentals as drug stash houses"
     },
     {
       "id": "7f0138098fff42ef3743c99af0c57f40856fda17",
@@ -185,38 +218,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "authorities in Belgium did not name the country"
-    },
-    {
-      "id": "a62d184d8ea436dfdea5921d71058a61a4119cf1",
-      "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
-      "summary": "Trump on Truth Social railed against the European Union's new fine on Google and prior penalties against U.S. tech giants Apple, Meta and Amazon.",
-      "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-07-24T19:39:50+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "a1d351d2362216738d4a28724e89f65aca4ee31e",
-      "title": "Seven EU countries asked the European Commission to support border regions due to the decline in tourism - NEWS.am",
-      "summary": "Seven EU countries asked the European Commission to support border regions due to the decline in tourism&nbsp;&nbsp;NEWS.amSeven EU nations seek aid amid tourism decline&nbsp;&nbsp;Operativ Məlumat Mərkəzi",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE44OXRrQUV1Z1JvSEVacXFLSVlXbnVxZWdNRjdlT2xsNFpkRnFYWmZpR3VFSmR6a0ZMbUl3NEZrQ3RSdEhTSFE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-24T13:17:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "44f0f492bfd10c013b6a4f164b7b6776c67723ce",
-      "title": "Spain invokes first wildfire emergency as fires rage across Europe; over 10,000 evacuated",
-      "summary": "Spain declared a national emergency due to widespread wildfires. France requested European Union assistance for a major blaze near Bordeaux. Tens of thousands were evacuated from affected tourist and residential areas. T…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/all-out-of-control-spain-invokes-first-wildfire-emergency-as-fires-rage-across-europe-over-10000-evacuated/articleshow/132601441.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-07-24T09:35:14+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-15T09:39:53Z"
+  "last_updated": "2026-08-16T09:41:29Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "ES",
-  "score": 44,
+  "score": 43,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 455,
+  "trend": -1,
+  "sources": 453,
   "sentiment": {
     "positive": 32,
-    "neutral": 333,
-    "negative": 92
+    "neutral": 330,
+    "negative": 93
   },
   "latest_articles": [
+    {
+      "id": "e5ae694f21ff6ecdc4ecfdc385dff075a964ac1d",
+      "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+      "summary": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territoryMoroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceu…",
+      "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-15T18:08:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta"
+    },
     {
       "id": "2cecd08c7099bdfa6ce7f494dd23b35d58536901",
       "title": "Where to Eat and Drink at a Barcelona Bar Like a Local",
@@ -217,19 +228,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "His Spanish Hometown"
-    },
-    {
-      "id": "3b07a6d0d0120f887b38ddbc6545b28f9a0eca8f",
-      "title": "Perseid meteor shower set to dazzle northern hemisphere this week",
-      "summary": "Astronomers say viewing conditions promising for this year’s shower, and 50 to 100 meteors an hour may be visibleThe Perseid summer light show is back, and viewing conditions are especially promising across the northern…",
-      "url": "https://www.theguardian.com/science/2026/aug/09/perseid-meteor-shower",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-09T18:43:55+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "total solar eclipse across Spain"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-15T09:39:53Z"
+  "last_updated": "2026-08-16T09:41:29Z"
 }

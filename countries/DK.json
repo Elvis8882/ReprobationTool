@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 171,
+  "sources": 170,
   "sentiment": {
     "positive": 11,
-    "neutral": 159,
+    "neutral": 158,
     "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "a91c1fa8f3389378e3e2f7c0d7c2e3f13481865f",
+      "title": "When a Rare Wolf Got Too Close, Denmark Faced a Conservation Dilemma",
+      "summary": "The authorities tracked the animal after a string of close encounters with residents, reigniting a bitter debate over how a small, densely populated country should live with wolves.",
+      "url": "https://www.nytimes.com/2026/08/14/world/europe/rare-wolf-denmark-conservation-dilemma.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-14T20:35:26+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Denmark Faced a Conservation Dilemma"
+    },
     {
       "id": "f21cfbebab0e38acc09700eae03feb4fac9d38a5",
       "title": "Europe is racing to eradicate a crayfish that can reproduce without mating; in the Czech Republic...",
@@ -202,18 +213,8 @@
       "published_at": "2026-07-23T12:43:15+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "6c4d8d78c442bfa392c74165861cdd8d8438696b",
-      "title": "EU fines Google €890m for competition breaches over search and apps",
-      "summary": "Firm told to treat third-party services that appear in its results in ‘fair and non-discriminatory manner’Google has been fined a total of €890m (£760m) by the EU for breaches of online competition laws by its search and…",
-      "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-23T10:00:42+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-15T09:39:53Z"
+  "last_updated": "2026-08-16T09:41:29Z"
 }
