@@ -4,13 +4,35 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 2,
+  "sources": 4,
   "sentiment": {
-    "positive": 1,
+    "positive": 3,
     "neutral": 1,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "efc22e59380ea5fff755efd21a54e02b49913ea4",
+      "title": "Liechtenstein Changes Its Law to Allow Women to Ascend the Throne",
+      "summary": "The move puts the principality in the majority among nearby nations with royal families.",
+      "url": "https://www.nytimes.com/2026/08/16/world/europe/liechtenstein-royal-succession-women.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-16T22:10:54+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Liechtenstein Changes Its Law to Allow Women to Ascend the Throne"
+    },
+    {
+      "id": "3084e9956572153e3e2c4c81890d59078ecb1b57",
+      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-15T19:41:57+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Liechtenstein changes succession rule to allow women to ascend the throne"
+    },
     {
       "id": "17ff8a48a9953dc00e5b2f925650e384803e37e0",
       "title": "MEPs mull European rocket launchers strategy to compete with US",
@@ -35,5 +57,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-16T09:41:29Z"
+  "last_updated": "2026-08-17T09:56:25Z"
 }

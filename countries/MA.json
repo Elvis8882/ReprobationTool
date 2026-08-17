@@ -1,16 +1,38 @@
 {
   "country": "MA",
-  "score": 84,
+  "score": 83,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 53,
+  "trend": -1,
+  "sources": 55,
   "sentiment": {
     "positive": 2,
-    "neutral": 30,
-    "negative": 23
+    "neutral": 31,
+    "negative": 24
   },
   "latest_articles": [
+    {
+      "id": "1a6ba90615611542c3b18350e0ac1a402ade9ba6",
+      "title": "Monday briefing: What can Andy Burnham learn from Spain’s Pedro Sánchez?",
+      "summary": "In today’s newsletter: The Spanish prime minister has remade himself as Europe’s leading leftwing standard-bearer. Could his success offer the UK’s PM a route forward?Good morning. To international onlookers, Pedro Sánch…",
+      "url": "https://www.theguardian.com/world/2026/aug/17/monday-briefing-what-can-andy-burnham-learn-from-spains-pedro-sanchez",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-17T05:47:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Moroccan police arrested 111 people this weekend, who were trying to enter Spain’s north African territory of Ceuta"
+    },
+    {
+      "id": "793b378b58908a2e60d19ad2c0f35990ddba15bd",
+      "title": "\"Would Rather Die\": Moroccan Migrants Protest In Spain's Ceuta, Seek Asylum",
+      "summary": "The protesters held up Spanish flags and banners.",
+      "url": "https://www.ndtv.com/world-news/would-rather-die-moroccan-migrants-protest-in-spains-ceuta-seek-asylum-11918482#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-08-16T18:40:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Moroccan Migrants Protest In Spain's Ceuta, Seek Asylum"
+    },
     {
       "id": "24de7e2006a1d8151162d8bf7d43c63c6ddd07e2",
       "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "northern Moroccan town of Fnideq"
-    },
-    {
-      "id": "d81d557ebe9ffdca456c9bd350afd726edfe9374",
-      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-      "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
-      "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-04T21:45:20+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "returned to Morocco, Spain says"
-    },
-    {
-      "id": "5d24f14cc3a7f533f3ae0886f854b548e41d000b",
-      "title": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
-      "summary": "Dozens of people died attempting to reach the Spanish enclave of Ceuta after an estimated 50,000 crossed from Morocco last week. The incident has led to a political crisis in Spain and criticism from EU countries.Lucy Ho…",
-      "url": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-03T16:05:20+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Dozens of people died attempting to reach the Spanish enclave of Ceuta"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-16T09:41:29Z"
+  "last_updated": "2026-08-17T09:56:25Z"
 }

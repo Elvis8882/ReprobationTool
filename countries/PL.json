@@ -1,14 +1,14 @@
 {
   "country": "PL",
-  "score": 84,
+  "score": 85,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 221,
+  "trend": 1,
+  "sources": 215,
   "sentiment": {
     "positive": 24,
-    "neutral": 164,
-    "negative": 34
+    "neutral": 159,
+    "negative": 33
   },
   "latest_articles": [
     {
@@ -21,6 +21,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Twelve killed as Polish bus veers off"
+    },
+    {
+      "id": "0f66f3c567fff07f900ff8d8114997b3e2c49393",
+      "title": "Hungary bus crash: 12 killed, 10 injured after Polish bus overturns on M3 motorway",
+      "summary": "Twelve people died and ten were seriously injured after a Polish bus overturned early Sunday. The bus ran off the M3 motorway and tipped into a ditch near Mezokeresztes. Hungarian Prime Minister Peter Magyar announced th…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/12-killed-10-injured-after-polish-bus-overturns-in-hungary/articleshow/133270965.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-08-16T06:21:10+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Polish bus overturns"
     },
     {
       "id": "1cc6611d18e1698ee839ddc4489f28edaea28c94",
@@ -210,19 +221,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Poland is planning the Horizontal Timetable"
-    },
-    {
-      "id": "6b13aa6f767f3f31b0b6cebbccdf9d5443a2983d",
-      "title": "Poland’s Leader Says Russian Missile May Have Struck Its Territory During Ukraine Attack",
-      "summary": "Russian missiles have briefly entered Polish airspace in the past. Investigators have yet to definitively identify the object that struck Poland overnight.",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-30T10:57:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russian Missile May Have Struck Its Territory"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-16T09:41:29Z"
+  "last_updated": "2026-08-17T09:56:25Z"
 }

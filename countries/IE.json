@@ -1,16 +1,38 @@
 {
   "country": "IE",
-  "score": 98,
+  "score": 97,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 204,
+  "trend": -1,
+  "sources": 196,
   "sentiment": {
-    "positive": 17,
-    "neutral": 174,
+    "positive": 15,
+    "neutral": 168,
     "negative": 13
   },
   "latest_articles": [
+    {
+      "id": "6bf3ff018085117e01ee896b2822ba96a2cd25c9",
+      "title": "Five teenagers killed after car driven on wrong side of Irish motorway",
+      "summary": "Head-on collision between two vehicles on M9 in County Kildare also injured four other people, say policeFive teenagers have died and four other people have been seriously injured in a crash involving a car driving in th…",
+      "url": "https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-16T21:50:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Five teenagers killed after car driven on wrong side of Irish motorway"
+    },
+    {
+      "id": "3bb636151863d96822e2178e4030fa3a116de957",
+      "title": "Safety check calls after Irish teenager electrocuted taking shower in Greece",
+      "summary": "Alex McKee died when picking up showerhead in ‘outdoor and rudimentary’ bathroom on KimolosThe death of an Irish teenager, electrocuted while taking a shower in a holiday home in Greece, has led to calls for tighter chec…",
+      "url": "https://www.theguardian.com/world/2026/aug/15/irish-teenager-electrocuted-shower-greece",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-15T14:26:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Irish teenager electrocuted"
+    },
     {
       "id": "b25d6df5102af740ba2688b2047a56d75829b3d1",
       "title": "Where Future Champions Race Against the Tide",
@@ -201,28 +223,8 @@
       "published_at": "2026-08-03T17:44:01+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "871943801cf9285dae4d68cce2f2959195beb3ff",
-      "title": "South-eastern Europe faces heatwave energy crunch as Romania detonates Danube rock to increase water flow – Europe live",
-      "summary": "Explosives used to move a large rock and let more water flow to cool nuclear power plantMore must be done ⁠to strengthen the European Union’s borders at critical points, ⁠European Commission president ⁠Ursula ​von der Le…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-03T12:06:04+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f0a30c0053b81a0199e2b4d6299cd765f4c26daa",
-      "title": "Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers",
-      "summary": "The European Commission can demand to inspect AI models, restrict market access and fine providers up to 15 million euros or 3% of turnover.",
-      "url": "https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-08-03T10:59:59+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-16T09:41:29Z"
+  "last_updated": "2026-08-17T09:56:25Z"
 }
