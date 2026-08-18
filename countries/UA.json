@@ -1,16 +1,49 @@
 {
   "country": "UA",
-  "score": 15,
+  "score": 18,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 639,
+  "trend": 3,
+  "sources": 634,
   "sentiment": {
-    "positive": 277,
-    "neutral": 115,
-    "negative": 248
+    "positive": 279,
+    "neutral": 111,
+    "negative": 245
   },
   "latest_articles": [
+    {
+      "id": "73549710cf660be045c9b9bc76faff6bc369eecf",
+      "title": "Russia warns UK will pay for supplying drones to Ukraine",
+      "summary": "Russia accuses the UK after British-made drones were used in Ukrainian strikes, but the MoD says it stands against Russian aggression.",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-18T09:33:49+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "supplying drones to Ukraine"
+    },
+    {
+      "id": "58091c314d95a9fdaa234f964de93ee92be070b6",
+      "title": "Russians pull billions from banks, fearing Kremlin will seize deposits for war",
+      "summary": "Russians are withdrawing billions, causing liquidity problems for banks and undermining the Kremlin’s ability to issue bonds to finance the fight in Ukraine.",
+      "url": "https://www.washingtonpost.com/world/2026/08/18/russians-pull-cash-banks-fearing-kremlin-will-seize-deposits-war/",
+      "source": "World (Washington post)",
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "undermining the Kremlin’s ability to issue bonds to finance the fight in Ukraine"
+    },
+    {
+      "id": "f1003e6cd93698122bd960509ad5647e40da4592",
+      "title": "Russia targets Danube port after one of Ukraine’s largest aerial attacks of the war",
+      "summary": "Russia struck port infrastructure in Ukraine’s Odesa region, damaging a Togo-flagged civilian vessel near Izmail after Kyiv launched a major drone attack on Moscow.",
+      "url": "https://www.cnbc.com/2026/08/17/ukraine-war-russia-putin-moscow.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-08-17T09:46:08+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Kyiv launched a major drone attack on Moscow"
+    },
     {
       "id": "306b8cca5a856b19610051b4977bac400bdb75ab",
       "title": "How Ukraine’s Satellites Help Drive Its War Drones",
@@ -67,6 +100,28 @@
       "evidence": "smouldering Kyiv market after Russian strikes"
     },
     {
+      "id": "20cfa26d02e62aafce48d9aefebc56b000ac342a",
+      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-16T09:04:14+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "fresh aerial attacks across Ukraine"
+    },
+    {
+      "id": "d4ef3b0d3f4e8e120132ab93067873df917c98ad",
+      "title": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
+      "summary": "Artem Murdid, his mother and his girlfriend are accused of terrorism. They say they did nothing wrong.",
+      "url": "https://www.nytimes.com/2026/08/16/world/europe/russia-detained-ukrainians-war-murdid.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-16T09:01:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Ukrainian Bank Worker Came to Face Life in a Russian Prison"
+    },
+    {
       "id": "2800596d27f434d344389ee4885420f5d0d3fc73",
       "title": "Ukraine says five killed in Russian strikes as Wildberries warehouse near Moscow hit - BBC",
       "summary": "Ukraine says five killed in Russian strikes as Wildberries warehouse near Moscow hit&nbsp;&nbsp;BBCSee more headlines and perspectives on Google News",
@@ -98,6 +153,17 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Ukrainian Drones Targeted Moscow Overnight"
+    },
+    {
+      "id": "b8e56713e6c1f68694a66749e2a386971f890440",
+      "title": "LSM launches charity drive for Ukrainian soldiers' rehabilitation / Article - LSM",
+      "summary": "LSM launches charity drive for Ukrainian soldiers' rehabilitation / Article&nbsp;&nbsp;LSMA fundraising campaign has been launched in Latvia to support the rehabilitation of wounded Ukrainian soldiers&nbsp;&nbsp;UA.NEWSL…",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbzczcnkyVExIM25PVXU3cHZlc1o1RHZoZ3B4VWtqWVhLQWRDaUh5ZTBrNE5zdlFSWHZFSHFkLW1kVUMwejMtRk81U2pZR1Z5U19IQ0F2Ukxld0RINnpuWl9tUnpoWDJBY0UtRE5PUnduTTNJbnBKQjhSRTVfOG5lVGRfbkFOZlJMTkN5REFNNGlBSXgyN29CRnpiVklQSG5qT1ByQmJEeWludXdFRHpucnRCR19VcUN0YUpPX3JFV2hmc3d1SlE?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-08-16T05:21:10+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "support the rehabilitation of wounded Ukrainian soldiers"
     },
     {
       "id": "2ef00ea7492d5c212fe86680f667602eed42704e",
@@ -164,74 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "sanctions against Russia over the Ukraine war."
-    },
-    {
-      "id": "1f95d3b02e8caf1c01d286fa36072e6f451d749f",
-      "title": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets",
-      "summary": "Ukraine has launched a heavy drone assault on warships and major Russian grain export terminals in the Black Sea port city of Novorossiysk.",
-      "url": "https://www.cnbc.com/2026/08/13/ukraine-russia-novorossiysk-grain.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-08-13T10:01:40+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Ukraine attacks Russian grain export terminals"
-    },
-    {
-      "id": "44b5a77483a8a28545374874ccb4283e0709bd1e",
-      "title": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
-      "summary": "The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.",
-      "url": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-13T08:18:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Major Ukrainian Ports Threatens Global Grain Supplies"
-    },
-    {
-      "id": "f63cbf2f3b26f6f76a44f7e1df3ecfa493cb07aa",
-      "title": "Why Putin’s first Kuril Islands visit matters as Russia-Japan ties hit new low",
-      "summary": "Russian President Vladimir Putin visited the disputed Kuril Islands for the first time.  This visit occurred amid deeply strained relations between Russia and Japan.  Japan strongly protests the visit, reiterating its te…",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/why-putins-first-kuril-islands-visit-matters-as-russia-japan-ties-hit-new-low/articleshow/133198569.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-08-13T05:33:41+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "intensified since Russia's invasion of Ukraine"
-    },
-    {
-      "id": "3742c192c5e3933f6722c2589bcb1ff9e082c2a0",
-      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-      "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-13T04:55:58+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Putin can only \"destroy Ukraine, not conquer it\""
-    },
-    {
-      "id": "e8201d357c5f2908b31d435a956af8f9e04aebe5",
-      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-      "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-13T03:28:56+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Major Russian grain export terminals hit in Ukraine Black Sea port attack"
-    },
-    {
-      "id": "6f1115f08ae263f0fc08a859196e2b215b0e9176",
-      "title": "Estonia receives first €351.6 million payment under SAFE defence instrument - defence-industry-space.ec.europa.eu",
-      "summary": "Estonia receives first €351.6 million payment under SAFE defence instrument&nbsp;&nbsp;defence-industry-space.ec.europa.euEstonia receives first SAFE payment for defence procurement&nbsp;&nbsp;euractiv.comEstonia’s drone…",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcV9BVVNOSldTMnVhV3I4OGdfaEZmTnIwdzdJejJtU1dnUUlpeVRxaGJyakNrYXBRQ2x2NWZkNnpJSXUxdEtMdU9NUXpWMmdsQldwLXhzZU5fazhHbnBmLXpRb3BIUnVWdl9VWTRBUVlzZnJheUFEV19VeDNEdDVCZGh0TlNHYnI0emtHbFNTWUVVcjJIbk9tVm5wUzdVb3NSS09FY3B1UUtBdVhFYzhTOVVrRlBRckY3aEhqY2p4eVh2T1RwQjFjRE5FX3lvQzQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-12T12:00:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Aid to Ukraine"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-17T09:56:25Z"
+  "last_updated": "2026-08-18T09:48:21Z"
 }

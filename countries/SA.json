@@ -1,16 +1,27 @@
 {
   "country": "SA",
-  "score": 63,
+  "score": 62,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 131,
+  "trend": -1,
+  "sources": 132,
   "sentiment": {
     "positive": 11,
     "neutral": 63,
-    "negative": 57
+    "negative": 58
   },
   "latest_articles": [
+    {
+      "id": "bcb5874c40332424b230a552dd823fef23aa7924",
+      "title": "Houthis Claim Strike on Saudi Vessel as Red Sea Violence Escalates",
+      "summary": "The armed group, based in Yemen and backed by Iran, said it had launched missiles near the vital maritime trade route, in a conflict that shows no sign of abating.",
+      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/houthis-saudi-strike.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-17T15:16:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Houthis Claim Strike on Saudi Vessel as Red Sea Violence Escalates"
+    },
     {
       "id": "aaac053bd7416501a1bc1928f007f611728d7b49",
       "title": "Opinion: Opinion | How Far Is Saudi Arabia Really Willing To Go For Pakistan?",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Saudi woman show repeated nasogastric tube insertions"
-    },
-    {
-      "id": "44b906117f04760eae892105bfd372850d0a7433",
-      "title": "Oil prices move higher after Yemen's Iran-backed Houthis claim Saudi tanker strike",
-      "summary": "Crude prices rose Wednesday after Yemen's Houthis claimed they had struck a Saudi Arabian oil tanker in the Red Sea.",
-      "url": "https://www.cnbc.com/2026/08/05/oil-prices-iran-war-houthis-saudi-tanker.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-08-05T09:53:06+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "Saudi tanker strike"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-17T09:56:25Z"
+  "last_updated": "2026-08-18T09:48:21Z"
 }

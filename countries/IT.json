@@ -1,13 +1,13 @@
 {
   "country": "IT",
-  "score": 81,
+  "score": 80,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 310,
+  "trend": -1,
+  "sources": 304,
   "sentiment": {
-    "positive": 28,
-    "neutral": 241,
+    "positive": 26,
+    "neutral": 237,
     "negative": 41
   },
   "latest_articles": [
@@ -21,6 +21,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Stolen From Italian Museum"
+    },
+    {
+      "id": "8d0343a74756a6f98533c2ecd744440d8fc59b63",
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-16T13:34:38+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "paintings stolen from Italian museum"
     },
     {
       "id": "18e75ed4a94e912a14550641bcea6ac4236137a5",
@@ -85,6 +96,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Italy arboviruses: West Nile virus, dengue and chikungunya"
+    },
+    {
+      "id": "3906f5043eb2eece6df0e3de6680f0bb7c474fa8",
+      "title": "Even outside the path of totality, the eclipse will provide remarkable views.",
+      "summary": "Beyond the path of totality, clear skies over London, Paris, Lisbon and Milan will reveal a crescent-shaped evening sun to millions of Europeans.",
+      "url": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/even-outside-the-path-of-totality-the-eclipse-will-provide-remarkable-views",
+      "source": "NYT > World News",
+      "published_at": "2026-08-12T15:25:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Milan"
     },
     {
       "id": "c24532aeeac1e7eaf73c83a18fffbd597f119bdb",
@@ -205,30 +227,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Spain Imposes Border Controls For Italy Over Ceuta"
-    },
-    {
-      "id": "7dc1d2ca7c7563799778ff1e29fcbc9ae2cf4de3",
-      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-      "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-07T22:13:55+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Italy introduced border controls following an influx of about 78,000 migrants"
-    },
-    {
-      "id": "df66205a66f8a6647f483cd4076c28280d4a586a",
-      "title": "Spain to introduce temporary border checks on visitors from Italy",
-      "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to CeutaSpain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measure…",
-      "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-07T21:44:38+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.7,
-      "evidence": "Rome imposing similar measures after mass migration rush"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-17T09:56:25Z"
+  "last_updated": "2026-08-18T09:48:21Z"
 }

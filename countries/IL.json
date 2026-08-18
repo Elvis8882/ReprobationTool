@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 618,
+  "sources": 614,
   "sentiment": {
     "positive": 34,
     "neutral": 201,
-    "negative": 383
+    "negative": 379
   },
   "latest_articles": [
+    {
+      "id": "64184a6682cfa378a6f19647d7001dec7324e2f1",
+      "title": "Kushner, Netanyahu make little progress on advancing Gaza deal after meeting",
+      "summary": "President Donald Trump’s son-in-law and envoy first held rare talks with Hamas’s new leader in Egypt over the weekend in his effort to advance the stalled 15-point plan.",
+      "url": "https://www.washingtonpost.com/world/2026/08/17/jared-kushner-meet-with-israel-netanyahu-after-hamas-talks/",
+      "source": "World (Washington post)",
+      "published_at": "2026-08-17T21:15:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Netanyahu make little progress on advancing Gaza deal"
+    },
     {
       "id": "2d4b21839f92bcb81fd2d8548f7b555837ea5c8d",
       "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
@@ -32,6 +43,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "striking a defiant tone on ... Israel’s actions in Gaza (“exterminating a defenceless people”)."
+    },
+    {
+      "id": "cdd4bdf84c1ecd07cd543afa9b8630437d372a3c",
+      "title": "'Not worthy of life': Israel minister Ben-Gvir calls for killing '30 to 40' people daily in Gaza",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/not-worthy-of-life-israel-minister-ben-gvir-calls-for-killing-30-to-40-people-daily-in-gaza/articleshow/133285463.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-08-17T02:59:52+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Israel minister Ben-Gvir calls for killing '30 to 40' people"
     },
     {
       "id": "25ce347a430ed838d7247dea4a1840df5675a238",
@@ -65,6 +87,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan"
+    },
+    {
+      "id": "49ce9ea1cc6697bdd88c54921f8fd1ebc3707668",
+      "title": "Trump Envoy Meets Hamas Leaders Over Gaza Plan, Will See Netanyahu Next",
+      "summary": "At stake are the lives of some 2 million people in Gaza.",
+      "url": "https://www.ndtv.com/world-news/trump-envoy-meets-hamas-leaders-over-gaza-plan-will-see-netanyahu-next-11918450#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-08-16T18:25:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Will See Netanyahu Next"
     },
     {
       "id": "8890d3817dfdc24c5d276c5de47a0384ff82ad95",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Israeli prime minister... criticised... for attacking an international ally"
-    },
-    {
-      "id": "c5376178745d41dbed79cf019754128f98367528",
-      "title": "Israeli Settlers Resume West Bank Siege After Eviction",
-      "summary": "The military’s failure to keep extremists away from two Palestinian families trapped in their West Bank homes made clear the chaos gripping the Israeli-occupied territory.",
-      "url": "https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-13T20:18:47+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "chaos gripping the Israeli-occupied territory"
-    },
-    {
-      "id": "8246a8c5bdc250754cdc48d8908ec9750ca3d765",
-      "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
-      "summary": "Former PM of Israel calls events ‘concerted and meticulous attempt at ethnic cleansing’ against PalestiniansIsraeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top…",
-      "url": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-13T18:54:09+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Israeli troops force families from homes amid settler terror campaign"
-    },
-    {
-      "id": "09443cca3dddb1a7ad427ed01ccd304f27238330",
-      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-      "summary": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-13T08:12:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "West Bank village besieged by Israeli settlers"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-17T09:56:25Z"
+  "last_updated": "2026-08-18T09:48:21Z"
 }
