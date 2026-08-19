@@ -1,16 +1,49 @@
 {
   "country": "DE",
-  "score": 68,
+  "score": 69,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 380,
+  "trend": 1,
+  "sources": 367,
   "sentiment": {
     "positive": 44,
-    "neutral": 271,
-    "negative": 65
+    "neutral": 259,
+    "negative": 64
   },
   "latest_articles": [
+    {
+      "id": "fa7ebb603c6265539362f5a206d2ac27dfaacbbc",
+      "title": "Tourists on pastry quest overrun scenic spot in Italian mountains",
+      "summary": "Alpine communities hit out after influencer videos draw huge queues to Friedrich August refuge in DolomitesHundreds of people overwhelmed a mountain hut in the Italian Dolomites, not for the panoramic views but in search…",
+      "url": "https://www.theguardian.com/world/2026/aug/19/italy-krapfen-friedrich-august-dolomites-tourists-social-media-influencers",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-19T04:00:05+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.9,
+      "evidence": "traditional German pastry"
+    },
+    {
+      "id": "4e323bc203459b8881d3c6f9cf9fafe23d3032c8",
+      "title": "Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live",
+      "summary": "Ukraine launched over 600 drones at Moscow and surrounding areas overnightMeanwhile, the German interior minister, Alexander Dobrindt, opened a new centre for drone security in Cochstedt in Saxony-Anhalt.Dobrindt said th…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-18T09:15:19+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Germany’s response to the emerging hybrid threat... supporting Ukraine"
+    },
+    {
+      "id": "34c40c0b6b826c72b3e56f7829fb1b23c549221b",
+      "title": "Sports Direct owner Mike Ashley tightens hold on Hugo Boss",
+      "summary": "Frasers Group increases stake in German fashion house to 48%, after buying Harvey Nichols chain last weekBusiness live – latest updatesThe retail billionaire Mike Ashley has given the latest indication that his summer sh…",
+      "url": "https://www.theguardian.com/business/2026/aug/18/sports-direct-mike-ashley-hugo-boss-frasers-group-harvey-nichols",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-18T08:49:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Frasers Group increases stake in German fashion house"
+    },
     {
       "id": "bf14893e0025420b4ef964b65a3a317ccdf81100",
       "title": "Frasers Group Increases Hugo Boss Stake to 48% After Offer Period - WSJ",
@@ -21,6 +54,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Frasers Lifts Stake in German Fashion House Hugo Boss to 48%"
+    },
+    {
+      "id": "e00f54baa4416c3e65b1b0f4415f1a01e73ca0f6",
+      "title": "Inside secret police warehouse as Germany targets small boats gangs",
+      "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
+      "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-18T05:02:58+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Germany targets small boats gangs"
     },
     {
       "id": "005a63a1f2bf6496a9f6e9680e816368134aad8f",
@@ -184,51 +228,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "German inflation figures... how deeply months of elevated energy costs have seeped"
-    },
-    {
-      "id": "88d93f7c4f32f32172df2cd32500dbb13e0cdb3d",
-      "title": "Drones spotted over German base days after Leipzig bomb incident",
-      "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-09T16:18:10+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Drones spotted over German base"
-    },
-    {
-      "id": "937b4feacf151be4e58e435f10482a3e74e62472",
-      "title": "Budapest’s low Danube exposes two German soldiers and a DKW motorcycle buried for 80 years",
-      "summary": "Unusually low water levels in Budapest’s Danube River have exposed Second World War remains hidden for around 80 years. Recovery teams found the bodies of two Wehrmacht soldiers, their well-preserved identity discs, a Ge…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/budapests-low-danube-exposed-two-german-soldiers-and-a-dkw-military-motorcycle-mud-mixed-with-gas-oil-preserved-identity-discs-after-around-80-years/articleshow/133062997.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-08-09T07:00:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "two German soldiers and a DKW motorcycle"
-    },
-    {
-      "id": "7f0138098fff42ef3743c99af0c57f40856fda17",
-      "title": "Europe Gets Its Starlink Rival, Expands IRIS Satellite Constellation",
-      "summary": "The European Commission plans to begin launching the first satellites in 2029 (Representational)",
-      "url": "https://www.ndtv.com/world-news/europe-gets-its-starlink-rival-expands-iris-satellite-constellation-11882249#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-08-08T05:50:31+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f956f56f6a39b96f93e09c01e025d9b4f81511a3",
-      "title": "Germans hogging the sunloungers? Poll finds Italians and French are worse",
-      "summary": "British and Germans themselves share stereotype but other nationalities are likelier to put out towels – or umbrellasGermans are sunlounger hoggers, or so the longstanding stereotype goes. But not only is that cultural t…",
-      "url": "https://www.theguardian.com/world/2026/aug/08/sunlounger-hoggers-poll-germans-italians-french-british",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-08T04:00:35+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Germans are sunlounger hoggers, or so the longstanding stereotype goes."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-18T09:48:21Z"
+  "last_updated": "2026-08-19T09:48:12Z"
 }

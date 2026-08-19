@@ -1,16 +1,38 @@
 {
   "country": "SY",
-  "score": 85,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 43,
+  "score": 83,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
+  "trend": -2,
+  "sources": 45,
   "sentiment": {
     "positive": 1,
     "neutral": 21,
-    "negative": 21
+    "negative": 23
   },
   "latest_articles": [
+    {
+      "id": "6fe7aa53581cc20ec8c2256a1e79306f35f86339",
+      "title": "Israel Says It Targeted Syria Air Base To Block Turkish Troops Deployment",
+      "summary": "Netanyahu's office confirmed in a statement that Israel had attacked the base because Syria.",
+      "url": "https://www.ndtv.com/world-news/israel-says-it-targeted-syria-air-base-to-block-turkish-troops-deployment-11928400#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-08-18T22:25:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel Says It Targeted Syria Air Base"
+    },
+    {
+      "id": "491be10bcc5ef32c3437ea86f6f3280c3c401615",
+      "title": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
+      "summary": "The attack was the latest in a series of Israeli military interventions in Syria over the past two years.",
+      "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-18T21:16:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Air Base in Syria"
+    },
     {
       "id": "e00ec5a8a3cad2dffdd4d10d36a37e14555e0526",
       "title": "Syrian Convicted in Austria of Civil War Abuses Is Detained in Syria",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Bombs explode near Damascus hotel housing Macron on Syria visit"
-    },
-    {
-      "id": "ef5bdf966c0dab5bda53137c89896379a7db310f",
-      "title": "'My visit continues': French President Macron after close shave in Syria amid explosions near hotel",
-      "summary": "French President Emmanuel Macron continued his Syria visit after explosions near his hotel. Two blasts struck central Damascus, wounding at least eighteen people earlier on Tuesday. Macron was unharmed and proceeded with…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/my-visit-continues-french-president-macron-after-close-shave-in-syria-amid-explosions-near-hotel/articleshow/132236320.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-07-07T10:13:55+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "explosions near his hotel"
-    },
-    {
-      "id": "0d6c3159faaadb1471610a577874e457ad196415",
-      "title": "'France stands by Syria's side': Macron 'most enthusiastic in Europe' to repair ties - France 24",
-      "summary": "'France stands by Syria's side': Macron 'most enthusiastic in Europe' to repair ties&nbsp;&nbsp;France 24Explosions injure 18 in Damascus during Macron's visit&nbsp;&nbsp;BBCExplosions rock Damascus near hotel where Fren…",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOREZYTFZGR2VodGd3Skp4bGZuYzJqb2laVUxJNE1WTkFuLUxwTUlXUkpvVkt3bm80YXdXR3k2c08xdi16U0daRDMtSGRVMVZ5OTdxSUZJbzJHcUdPRmFBbUJhVnR4VktwV3NLSDNZZVpKY1JodDhTdzJHQ0dVQzhmUVZ6aTdPMVdYdy04U3F4U29pSTZ0ZmRKdTVlWlJvWW1qd0ozc0g5U2hJd00?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-07T10:12:53+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "Explosions injure 18 in Damascus during Macron's visit"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-18T09:48:21Z"
+  "last_updated": "2026-08-19T09:48:12Z"
 }
