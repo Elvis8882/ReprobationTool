@@ -3,14 +3,25 @@
   "score": 83,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -2,
+  "trend": 0,
   "sources": 45,
   "sentiment": {
     "positive": 1,
-    "neutral": 21,
-    "negative": 23
+    "neutral": 20,
+    "negative": 24
   },
   "latest_articles": [
+    {
+      "id": "5435cd418a207dc81347d4f12cbb7f11a0417a5c",
+      "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
+      "summary": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
+      "url": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-19T00:48:16+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli airstrikes on Syrian airbase"
+    },
     {
       "id": "6fe7aa53581cc20ec8c2256a1e79306f35f86339",
       "title": "Israel Says It Targeted Syria Air Base To Block Turkish Troops Deployment",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Explosions injure 18 in Damascus during Macron's visit"
-    },
-    {
-      "id": "c8bedb81cbe248770777139720ba17abd7e0ee79",
-      "title": "Bombs explode near Damascus hotel housing Macron on Syria visit",
-      "summary": "Blasts did not interrupt French president’s visit but are setback for Syrian leaders’ attempt to project stabilityExplosions rocked Damascus near the hotel where French president, Emmanuel Macron, was staying on Tuesday,…",
-      "url": "https://www.theguardian.com/world/2026/jul/07/explosions-rock-damascus-near-hotel-where-french-president-was-staying",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-07T10:37:32+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Bombs explode near Damascus hotel housing Macron on Syria visit"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-19T09:48:12Z"
+  "last_updated": "2026-08-20T09:50:32Z"
 }
