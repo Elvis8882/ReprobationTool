@@ -1,16 +1,49 @@
 {
   "country": "UA",
-  "score": 10,
+  "score": 17,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -3,
-  "sources": 639,
+  "trend": 7,
+  "sources": 634,
   "sentiment": {
-    "positive": 275,
+    "positive": 277,
     "neutral": 113,
-    "negative": 252
+    "negative": 245
   },
   "latest_articles": [
+    {
+      "id": "fcfb10d2b5d4d40ec5f60666088863cf4d307b5b",
+      "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
+      "summary": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-22T09:13:26+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "killed by Russian double-tap strike on Ukraine mall"
+    },
+    {
+      "id": "0daf133012118f962fdc9a32c05244eeccbc0672",
+      "title": "Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief",
+      "summary": "Kaja Kallas, the EU’s top diplomat, threatens harshest sanctions yet on Russia after strike on Kryvyi Rih, the home town of Volodymyr Zelenskyy  Russian drones have slammed into a busy shopping centre in central Ukraine,…",
+      "url": "https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-22T01:12:32+00:00",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "Attack on Ukraine shopping centre"
+    },
+    {
+      "id": "323e2c209ca91278140f50533adf2fb59f27871e",
+      "title": "Ukraine Sanctions Russian Hit 'Masha And The Bear' Cartoon",
+      "summary": "The cartoon about a mischievous little girl and a retired circus bear is a cult classic in Russia.",
+      "url": "https://www.ndtv.com/world-news/ukraine-sanctions-russian-hit-masha-and-the-bear-cartoon-11942965#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-08-21T21:17:34+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukraine Sanctions Russian Hit"
+    },
     {
       "id": "5eea07fdb97d10e893084e487c6388abe5eda33c",
       "title": "At 77, She Walked 9 Miles Under Drone-Filled Skies to Escape From ‘Hell’",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "test Ukrainian unity"
-    },
-    {
-      "id": "aff10ed427498099df283ee4cf1eec15f6e83c73",
-      "title": "Volodymyr Zelenskyy sacks senior aide amid Ukraine corruption crisis",
-      "summary": "Presidential deputy chief of staff Iryna Mudra dismissed day after former defence minister called for wartime electionUkraine’s president Volodymyr Zelenskyy has fired a senior aide amid a fresh corruption investigation…",
-      "url": "https://www.theguardian.com/world/2026/aug/19/volodymyr-zelenskyy-sacks-senior-aide-amid-ukraine-corruption-crisis",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-19T17:14:02+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukraine corruption crisis"
-    },
-    {
-      "id": "e4ea8d1c5ac439e6188422b39657f560018c7def",
-      "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-      "summary": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
-      "url": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-19T15:38:38+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "calling for wartime elections?"
-    },
-    {
-      "id": "4ad67bf02cf1fb62187c79033326f90ad10e14b9",
-      "title": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
-      "summary": "Former Ukraine Defense Minister Mykhailo Fedorov has called for wartime elections, saying Kyiv must restore its democratic process despite the ongoing war.",
-      "url": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-08-19T09:30:25+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Kyiv must restore its democratic process despite the ongoing war"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-21T09:51:53Z"
+  "last_updated": "2026-08-22T09:46:03Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "IT",
-  "score": 79,
+  "score": 80,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 291,
+  "trend": 1,
+  "sources": 290,
   "sentiment": {
     "positive": 24,
     "neutral": 225,
-    "negative": 42
+    "negative": 41
   },
   "latest_articles": [
+    {
+      "id": "b99b1849b177e1806f417a4d3770d2d54aea8469",
+      "title": "Close and Loving, or Oppressive? A Novelist Takes Aim at Italian Families.",
+      "summary": "Many Italians see themselves in Andrea Bajani’s latest novel, a portrayal of the family as a “little totalitarian system” shaped by psychological and physical violence.",
+      "url": "https://www.nytimes.com/2026/08/22/world/europe/italian-families-novel-anniversary-bajani.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-22T09:17:14+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Novelists Takes Aim at Italian Families"
+    },
     {
       "id": "418f2199043b83c87cb77c909ba7fea22e1f6345",
       "title": "Giorgia Meloni Has a Lot to Say: The Takeaways",
@@ -86,6 +97,17 @@
       "sentiment": "neutral",
       "confidence": 0.6,
       "evidence": "Italian mountains"
+    },
+    {
+      "id": "2bfe190da8c010f49ac35f84a1dec77ccffc778e",
+      "title": "American Hiker Dies After Lightning Strike on Mount Etna in Italy",
+      "summary": "Rescuers found a 29-year-old man in serious condition on the volcano’s eastern slope on Sunday. He was later pronounced dead at a hospital in Catania.",
+      "url": "https://www.nytimes.com/2026/08/17/world/europe/mount-etna-hiker-lightning-strike-death.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-17T16:58:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Mount Etna in Italy"
     },
     {
       "id": "6b9a10695494ca5c4601d30e892440e348d07718",
@@ -205,30 +227,8 @@
       "sentiment": "positive",
       "confidence": 0.5,
       "evidence": "Italian scientists ready new solar instrument"
-    },
-    {
-      "id": "b1ee848ea1a6b7c09c6ffce7507c44faf60e5a16",
-      "title": "Italy condemns Spain’s ‘unacceptable’ border controls as Ceuta fallout intensifies",
-      "summary": "Travellers caught up in migration row as Madrid introduces checks on visitors from Italy in retaliation for Rome’s moveItaly’s foreign minister has called Spain’s decision to impose retaliatory checks on travellers from…",
-      "url": "https://www.theguardian.com/world/2026/aug/09/italy-condemns-spain-border-controls-ceuta-fallout-intensifies",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-09T14:59:39+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Rome infuriated Madrid by launching checks on 1 August"
-    },
-    {
-      "id": "4851e70c338eb3a24c35399045e4f457c7fe3274",
-      "title": "Chinese EV sales surge to new high in Europe putting tariffs under scrutiny",
-      "summary": "Imports this year now account for 14% of the market amid claims vehicles are being dumped in the EU and UKChinese electric car sales have risen across Europe to a record high driven by strong demand and low tariffs in th…",
-      "url": "https://www.theguardian.com/business/2026/aug/09/chinese-electric-car-sales-surge-to-a-record-high-in-europe",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-09T14:30:58+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "surge in buyers in Italy"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-21T09:51:53Z"
+  "last_updated": "2026-08-22T09:46:03Z"
 }

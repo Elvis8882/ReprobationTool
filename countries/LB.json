@@ -1,16 +1,27 @@
 {
   "country": "LB",
-  "score": 14,
+  "score": 15,
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 1,
   "sources": 202,
   "sentiment": {
     "positive": 9,
-    "neutral": 68,
-    "negative": 125
+    "neutral": 69,
+    "negative": 124
   },
   "latest_articles": [
+    {
+      "id": "1262d251444219125e21103cc48afaa302534fd0",
+      "title": "Lebanon’s Efforts to Tame Hezbollah Stall Amid Israel War",
+      "summary": "President Joseph Aoun took office with a popular mandate to reassert control after the militant group dragged the country back into war with Israel.",
+      "url": "https://www.nytimes.com/2026/08/22/world/middleeast/lebanon-hezbollah-israel-diplomacy.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-22T09:02:01+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "dragged the country back into war"
+    },
     {
       "id": "e96ba1d101c72d625faf39d1c766ae2229c3a8f3",
       "title": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry - CNBC",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "refused to flee Lebanon and stayed to care for hundreds of animals"
-    },
-    {
-      "id": "64639e0a340378ae9e0cd46558a2173537cfc729",
-      "title": "A dog saved Houssein Hamze from a bomb. When war returned, he stayed to care for Lebanon’s animals",
-      "summary": "In normal times the Mashala shelter founder takes in strays, but in wartime, he is the only lifeline for animals in the areaDuring Israel’s 2006 war against Hezbollah, Houssein Hamze woke up one night to the sound of bar…",
-      "url": "https://www.theguardian.com/world/2026/jul/28/man-who-stayed-to-save-lebanon-wartime-animals-mashala-shelter",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-28T04:00:28+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "stayed to care for Lebanon’s animals"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-21T09:51:53Z"
+  "last_updated": "2026-08-22T09:46:03Z"
 }

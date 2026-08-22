@@ -1,16 +1,27 @@
 {
   "country": "SY",
-  "score": 82,
+  "score": 81,
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": -1,
-  "sources": 46,
+  "sources": 47,
   "sentiment": {
     "positive": 1,
     "neutral": 20,
-    "negative": 25
+    "negative": 26
   },
   "latest_articles": [
+    {
+      "id": "6ee2d6fc6a35c6c41c7db9ca9e408eccc8230d50",
+      "title": "'Antisemitic dictator': Netanyahu slams Erdogan after Turkey seeks Interpol action",
+      "summary": "Israel's Prime Minister Netanyahu fiercely criticized Turkey's President Erdogan after Ankara sought an Interpol notice.  Erdogan's government requested the notice concerning an interception of a Gaza aid flotilla.  Neta…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/antisemitic-dictator-netanyahu-slams-turkeys-erdogan-vows-not-to-tolerate-aggression-in-syria/articleshow/133417564.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-08-22T05:07:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "tensions between the two nations over Syria"
+    },
     {
       "id": "5435cd418a207dc81347d4f12cbb7f11a0417a5c",
       "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Macron Visits Damascus"
-    },
-    {
-      "id": "6546c4d3cd67cb6a8ac0cd563945862b1d8fe904",
-      "title": "Trump immigration cuts could worsen US caregiver shortage, experts say",
-      "summary": "The loss of protections for Haitian and Syrian workers could worsen shortages of nurses, aides and home care workersThe Trump administration may remove the temporary protected status (TPS) of Haitians and Syrians in the…",
-      "url": "https://www.theguardian.com/us-news/2026/jul/09/trump-tps-haiti-syria-immigration",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-09T10:00:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "loss of protections for Haitian and Syrian workers"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-21T09:51:53Z"
+  "last_updated": "2026-08-22T09:46:03Z"
 }
