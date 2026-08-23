@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 91,
+  "score": 92,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 100,
+  "trend": 1,
+  "sources": 99,
   "sentiment": {
     "positive": 10,
     "neutral": 72,
-    "negative": 18
+    "negative": 17
   },
   "latest_articles": [
+    {
+      "id": "e31109fac92933aca985656ecba5f3857ae5d42c",
+      "title": "Syria says Israeli strike near Damascus violation of international law",
+      "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
+      "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-22T21:42:42+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "close to the Turkish border"
+    },
     {
       "id": "6ee2d6fc6a35c6c41c7db9ca9e408eccc8230d50",
       "title": "'Antisemitic dictator': Netanyahu slams Erdogan after Turkey seeks Interpol action",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.4,
       "evidence": "Nato summit in Turkey"
-    },
-    {
-      "id": "66ed401304b95492ece5d8d56a0a2a6d9fddbb7f",
-      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-      "summary": "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-11T09:58:45+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Nato summit in Turkey"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-22T09:46:03Z"
+  "last_updated": "2026-08-23T09:38:11Z"
 }

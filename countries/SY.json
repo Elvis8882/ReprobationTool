@@ -3,14 +3,25 @@
   "score": 81,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -1,
-  "sources": 47,
+  "trend": 0,
+  "sources": 48,
   "sentiment": {
     "positive": 1,
-    "neutral": 20,
+    "neutral": 21,
     "negative": 26
   },
   "latest_articles": [
+    {
+      "id": "e31109fac92933aca985656ecba5f3857ae5d42c",
+      "title": "Syria says Israeli strike near Damascus violation of international law",
+      "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
+      "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-22T21:42:42+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Syria says Israeli strike near Damascus violation of international law"
+    },
     {
       "id": "6ee2d6fc6a35c6c41c7db9ca9e408eccc8230d50",
       "title": "'Antisemitic dictator': Netanyahu slams Erdogan after Turkey seeks Interpol action",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "security zones” in Lebanon, Syria and Gaza"
-    },
-    {
-      "id": "cacf5e4541d413a61420344302f35a6b1f24c3b9",
-      "title": "France Returns 23 Syrian Treasures After 15 Years As Macron Visits Damascus",
-      "summary": "The artifacts were flown on Macron's aircraft and returned to Syria's National Museum.",
-      "url": "https://www.ndtv.com/world-news/france-returns-23-syrian-treasures-after-15-years-as-macron-visits-damascus-11752610#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-10T09:23:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Macron Visits Damascus"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-22T09:46:03Z"
+  "last_updated": "2026-08-23T09:38:11Z"
 }
