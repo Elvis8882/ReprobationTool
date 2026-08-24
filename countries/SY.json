@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 48,
+  "sources": 49,
   "sentiment": {
     "positive": 1,
-    "neutral": 21,
+    "neutral": 22,
     "negative": 26
   },
   "latest_articles": [
+    {
+      "id": "d79f6e0589d200000dc7f3eecb33c5e167091a1d",
+      "title": "Syria and Israel Hold U.S.-Mediated Talks to Try to Ease Tensions",
+      "summary": "The discussions, reported by the Syrian state news agency, came days after Israel struck an air base in Syria’s northwest, the latest in a series of military interventions.",
+      "url": "https://www.nytimes.com/2026/08/24/world/middleeast/syria-israel-talks-us-jordan.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-24T09:37:47+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.7,
+      "evidence": "Syria and Israel Hold U.S.-Mediated Talks"
+    },
     {
       "id": "e31109fac92933aca985656ecba5f3857ae5d42c",
       "title": "Syria says Israeli strike near Damascus violation of international law",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "expands attacks to Syria"
-    },
-    {
-      "id": "584991f3f0365f786a658d024fa9a83246adacdb",
-      "title": "First Thing: US attacks tanker in continuing Iran conflict as Tehran releases US citizen",
-      "summary": "US renews blockade of Iranian ports, while Iran attacks sites in Bahrain and Kuwait. Plus, legendary director John Waters on 60 years of screen carnageGood morning. The US has fired on an oil tanker attempting to reach K…",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/first-thing-us-attacks-tanker-in-continuing-iran-conflict-as-tehran-releases-us-citizen",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-16T10:23:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "security zones” in Lebanon, Syria and Gaza"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-23T09:38:11Z"
+  "last_updated": "2026-08-24T10:05:32Z"
 }
