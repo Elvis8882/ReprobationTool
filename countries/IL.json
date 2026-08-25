@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 606,
+  "sources": 605,
   "sentiment": {
     "positive": 30,
-    "neutral": 193,
-    "negative": 383
+    "neutral": 194,
+    "negative": 381
   },
   "latest_articles": [
+    {
+      "id": "c5704ab79e7089f67e389c12252cf8b0dbf4140b",
+      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-24T13:56:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Israel warns of 'forceful' response to kites"
+    },
     {
       "id": "d79f6e0589d200000dc7f3eecb33c5e167091a1d",
       "title": "Syria and Israel Hold U.S.-Mediated Talks to Try to Ease Tensions",
@@ -21,6 +32,28 @@
       "sentiment": "mixed",
       "confidence": 0.7,
       "evidence": "Hold U.S.-Mediated Talks to Try to Ease Tensions"
+    },
+    {
+      "id": "7566114791009eae526ec4c5542a7ccf6820791a",
+      "title": "Iran Says Discovered Over 200 Billion Cubic Metres Of Natural Gas",
+      "summary": "Iran's energy sector has taken a hit since joint US-Israeli strikes.",
+      "url": "https://www.ndtv.com/world-news/us-israel-iran-war-iran-says-discovered-over-200-billion-cubic-metres-of-natural-gas-11949123#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-08-23T18:25:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "joint US-Israeli strikes"
+    },
+    {
+      "id": "0f7415ce5b12a30f40334c112c439b07f01ee2d0",
+      "title": "Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide",
+      "summary": "Grassroots groups to urge PM to break with Starmer policy and impose full arms embargo on IsraelGrassroots Labour groups are gearing up for a conference showdown with Andy Burnham over Gaza, as the party’s members seek t…",
+      "url": "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-23T11:26:40+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "recognise Israel’s actions in Gaza as genocide"
     },
     {
       "id": "e31109fac92933aca985656ecba5f3857ae5d42c",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Israel rejects criminal investigation into her killing"
-    },
-    {
-      "id": "088e31d8fd42bbe82d74488ca57ac3e212e8dfaf",
-      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
-      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-20T07:33:11+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel decides not to open criminal investigation into killing of aid worker"
-    },
-    {
-      "id": "f0db32b6db4334637272351b29fd4c17449440f2",
-      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-20T04:17:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Israel confirms soldiers fired at car in which Hind Rajab was killed"
-    },
-    {
-      "id": "3d02ce96b227b875e01f36d2a36722c142c2bcba",
-      "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
-      "summary": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
-      "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-20T00:53:20+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Israel opens up bids for highly-sensitive West Bank settlement project"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-24T10:05:32Z"
+  "last_updated": "2026-08-25T09:49:55Z"
 }

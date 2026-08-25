@@ -1,16 +1,59 @@
 {
   "country": "DE",
-  "score": 67,
+  "score": 65,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 362,
+  "trend": -2,
+  "sources": 359,
   "sentiment": {
-    "positive": 43,
-    "neutral": 253,
-    "negative": 66
+    "positive": 42,
+    "neutral": 250,
+    "negative": 67
   },
   "latest_articles": [
+    {
+      "id": "3c7c1d15c5fa66f75f5139c828a7ff87c6e80e75",
+      "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
+      "summary": "UK PM to join delegation of leaders lobbying US president to step up suppliesBurnham plans trip to New York as Ukraine pleads for US-made missilesIn other news, at least 35,000 more people died during Europe’s record-bre…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-25T09:11:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "excess mortality in three of the EU’s larger countries – Germany, France and Spain"
+    },
+    {
+      "id": "d0c18661f828ea50b6ad4a4cdb122ef20b71bb9c",
+      "title": "At least 35,000 excess deaths recorded in Europe’s back-to-back heatwaves",
+      "summary": "True figure likely to be much higher as it only covers about half of continent and does not include August totalsAt least 35,000 more people died during Europe’s four record-breaking, back-to-back heatwaves this summer t…",
+      "url": "https://www.theguardian.com/environment/2026/aug/25/at-least-35000-excess-deaths-europe-back-to-back-heatwaves",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-25T04:00:47+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "excess mortality in three of the EU’s larger countries – Germany, France and Spain"
+    },
+    {
+      "id": "96466f6dd7dcb8475cbd2a174541c7257fbbfc50",
+      "title": "Porsche inks $1.5 billion deal for AI deployment with India’s largest IT services firm Tata Consultancy",
+      "summary": "Indian IT services giant TCS has secured a $1.5 billion contract to deploy AI for German sports carmaker Porsche.",
+      "url": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-08-25T03:01:16+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "AI for German sports carmaker Porsche"
+    },
+    {
+      "id": "639846f91256787e9fcd4bc6e8683a16912b742a",
+      "title": "EU Commission proposes new Baltic fishing quotas and by-catch cuts for 2027 - INSIGHT EU MONITORING",
+      "summary": "EU Commission proposes new Baltic fishing quotas and by-catch cuts for 2027&nbsp;&nbsp;INSIGHT EU MONITORINGEU Proposes 2027 Baltic Sea Fishing Quotas Amid Critical Stock Warnings&nbsp;&nbsp;environment coastal & offshor…",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNEhKQUtNTk9ETFk4NUswOHhTbXRxbzFnbmloZkZ5OGRDWVplZzFvQUc5MXhCY0ExVjY0RTUwWGpGcWNPUWhiODFLX1JaMWlvQTNLbWhDYW5VaHFBVUhpQjNnTnlBQTEwQzNNZU00Y0NCdnhTcUYxUVRaNGFPLUR4YVBwNmduTEhxRkhQdHJTTGRPbU9Kb1VzVTgzOUIwNS1DbTVOLUJmRlNYM0ItTzNRZmdrcGttNmxkLWVRbEl1ejNCeVVKQ2VMSTNvQUt5UlB6WnBzY0xNTVg3dw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-08-24T21:34:39+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "2495c9e320bda1a5189243be2349699c287eb9b1",
       "title": "Scrapping of Berlin swimming day for Black children becomes latest in long list of race-linked pool rows",
@@ -32,6 +75,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "The German actress Collien Fernandes set out to discover"
+    },
+    {
+      "id": "4f21b246542f5caf3a672137399ec7e3b23b7252",
+      "title": "Sydney Marathon admits ‘unfortunate error’ as finisher’s medal depicts Munich stadium as race highlight",
+      "summary": "‘Landmarks’ side of the medal features the Allianz Arena in  German city rather than Allianz Stadium in SydneyFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podc…",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-23T02:14:52+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Munich stadium as race highlight"
     },
     {
       "id": "8e1bf309e3f3c9e9e265808eeb27351ddfabd1bf",
@@ -174,62 +228,8 @@
       "sentiment": "neutral",
       "confidence": 0.4,
       "evidence": "creeps closer to German border prompting evacuations"
-    },
-    {
-      "id": "c3a1a5e0b7c42160b1163dbb5abca15d4bd63ff5",
-      "title": "Two pairs of North American raccoons were released in Germany's Kassel, today their population is around 30,000 and are known as 'bandits' by public",
-      "summary": "Intriguingly, German raccoons, previously thought to have ties to Hermann Göring, were dispersed through administrative action. Research uncovering archival documents traces their onset to Kassel in 1934. Moreover, genet…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/two-pairs-of-north-american-raccoons-were-released-in-germanys-kassel-today-it-is-called-the-raccoon-capital-of-europe-with-a-population-of-around-30000-animals-and-a-disturbed-public-life/articleshow/133288632.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-08-17T06:27:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "evidence": "Two pairs of North American raccoons were released in Germany's Kassel"
-    },
-    {
-      "id": "8d5bb7814f060d10b427329f1b0fa7234e748d12",
-      "title": "Plan to build apartments over a Nazi bunker reignites debate in Berlin",
-      "summary": "The debate centers on how Germany should address its complex history under Adolf Hitler and whether preserving Nazi-era relics might be counterproductive.",
-      "url": "https://www.washingtonpost.com/world/2026/08/15/plan-build-apartments-over-nazi-bunker-reignites-debate-berlin/",
-      "source": "World (Washington post)",
-      "published_at": "2026-08-15T09:00:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Plan to build apartments over a Nazi bunker reignites debate in Berlin"
-    },
-    {
-      "id": "b3be325bd5fdbdf6cd638ef9cee13a4f839702ae",
-      "title": "Wary of Trump, Europe Seeks Role in Eventual Russia-Ukraine Talks",
-      "summary": "French, German and British diplomats are working on a format for future negotiations — even if Russia has shown little interest.",
-      "url": "https://www.nytimes.com/2026/08/15/world/europe/wary-of-trump-europe-seeks-role-in-any-russia-ukraine-talks.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-15T04:01:09+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "French, German and British diplomats are working on a format"
-    },
-    {
-      "id": "91d64ff77630053a63feda4a8db4f28c2374474f",
-      "title": "Wary of Trump, Europe Seeks Role in Eventual Russia-Ukraine Talks",
-      "summary": "French, German and British diplomats are working on a format for future negotiations — even if Russia has shown little interest.",
-      "url": "https://www.nytimes.com/2026/08/15/world/europe/europe-russia-ukraine-talks.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-15T04:01:09+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "French, German and British diplomats are working on a format"
-    },
-    {
-      "id": "f21cfbebab0e38acc09700eae03feb4fac9d38a5",
-      "title": "Europe is racing to eradicate a crayfish that can reproduce without mating; in the Czech Republic...",
-      "summary": "European conservationists are launching a campaign to eradicate new populations of marbled crayfish, notorious for their rapid reproduction and the deadly diseases they carry. Funded by the European Union, these swift ac…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/europe-is-racing-to-eradicate-a-crayfish-that-can-reproduce-without-mating-in-the-czech-republic-two-newly-detected-populations-are-being-targeted-before-they-spread/articleshow/133248632.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-08-14T19:22:44+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-24T10:05:32Z"
+  "last_updated": "2026-08-25T09:49:55Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "IS",
-  "score": 85,
+  "score": 81,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 15,
+  "trend": -4,
+  "sources": 14,
   "sentiment": {
-    "positive": 5,
-    "neutral": 9,
+    "positive": 3,
+    "neutral": 10,
     "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "0976a5fd3b88c9f85ea90117c4c1a6d90c9d7439",
+      "title": "Iceland’s Murder Rate Is Off the Charts — in Its Books, at Least",
+      "summary": "The Nordic nation has almost no homicides, yet crime fiction is its favorite literary genre. That means writers face a challenge: making murder feel believable.",
+      "url": "https://www.nytimes.com/2026/08/24/books/iceland-crime-fiction.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-24T09:02:16+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Iceland’s Murder Rate Is Off the Charts"
+    },
     {
       "id": "8600667e5f23553112cf97d4fae62e70dcd9b100",
       "title": "Europe solar eclipse: millions watch rare spectacle across Spain, UK and Iceland – as it happened",
@@ -153,30 +164,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Iceland joining EU a ‘big step away from democracy’"
-    },
-    {
-      "id": "c075eea063575d70af942c45bcf77c6072176b52",
-      "title": "Iceland Warms to Europe",
-      "summary": "The country has always stood apart from the continent. Then President Trump started threatening Greenland.",
-      "url": "https://www.nytimes.com/2026/05/26/world/iceland-europe-iran-us-strikes.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-27T04:18:55+00:00",
-      "sentiment": "positive",
-      "confidence": 0.5,
-      "evidence": "Iceland Warms to Europe"
-    },
-    {
-      "id": "03c0a9f33be45927843f1829ffdf0fde4968c154",
-      "title": "Iceland, Rattled by Trump’s Greenland Threats, Weighs Joining the E.U.",
-      "summary": "Iceland has stood apart from the rest of Europe. But President Trump’s threats to Greenland have provoked a reconsideration.",
-      "url": "https://www.nytimes.com/2026/05/26/world/europe/iceland-eu-membership-trump.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-27T02:22:21+00:00",
-      "sentiment": "positive",
-      "confidence": 0.5,
-      "evidence": "Iceland, Rattled by Trump’s Greenland Threats, Weighs Joining the E.U."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-24T10:05:32Z"
+  "last_updated": "2026-08-25T09:49:55Z"
 }

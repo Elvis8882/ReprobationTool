@@ -1,16 +1,103 @@
 {
   "country": "FR",
-  "score": 59,
+  "score": 57,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 571,
+  "trend": -2,
+  "sources": 570,
   "sentiment": {
     "positive": 70,
-    "neutral": 408,
-    "negative": 93
+    "neutral": 404,
+    "negative": 96
   },
   "latest_articles": [
+    {
+      "id": "3c7c1d15c5fa66f75f5139c828a7ff87c6e80e75",
+      "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
+      "summary": "UK PM to join delegation of leaders lobbying US president to step up suppliesBurnham plans trip to New York as Ukraine pleads for US-made missilesIn other news, at least 35,000 more people died during Europe’s record-bre…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-25T09:11:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "excess mortality in three of the EU’s larger countries – Germany, France and Spain"
+    },
+    {
+      "id": "e4b50799747343cf80101596a364886c929b8489",
+      "title": "Dragon Ball Z theme park gets $7 billion green light",
+      "summary": "French President Emmanuel Macron and Saudi Arabia's Crown Prince Mohammed bin Salman agree on a $7 bn investment in the anime theme park.",
+      "url": "https://www.cnbc.com/2026/08/25/dragon-ball-z-theme-park-france-paris.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-08-25T08:53:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "French President Emmanuel Macron and Saudi Arabia's Crown Prince"
+    },
+    {
+      "id": "d0c18661f828ea50b6ad4a4cdb122ef20b71bb9c",
+      "title": "At least 35,000 excess deaths recorded in Europe’s back-to-back heatwaves",
+      "summary": "True figure likely to be much higher as it only covers about half of continent and does not include August totalsAt least 35,000 more people died during Europe’s four record-breaking, back-to-back heatwaves this summer t…",
+      "url": "https://www.theguardian.com/environment/2026/aug/25/at-least-35000-excess-deaths-europe-back-to-back-heatwaves",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-25T04:00:47+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "excess mortality in three of the EU’s larger countries – Germany, France and Spain"
+    },
+    {
+      "id": "1212227fd667d31eeb5c390645aa3a3140cdce7e",
+      "title": "French tourist dies in Death Valley after car gets stuck in mud",
+      "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
+      "url": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-25T02:08:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "French tourist dies"
+    },
+    {
+      "id": "e1edf19d96549135a38f55da2736bd78caccc7dc",
+      "title": "Moment tornado tears through southern France",
+      "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
+      "url": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-25T00:16:35+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Moment tornado tears through southern France"
+    },
+    {
+      "id": "639846f91256787e9fcd4bc6e8683a16912b742a",
+      "title": "EU Commission proposes new Baltic fishing quotas and by-catch cuts for 2027 - INSIGHT EU MONITORING",
+      "summary": "EU Commission proposes new Baltic fishing quotas and by-catch cuts for 2027&nbsp;&nbsp;INSIGHT EU MONITORINGEU Proposes 2027 Baltic Sea Fishing Quotas Amid Critical Stock Warnings&nbsp;&nbsp;environment coastal & offshor…",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNEhKQUtNTk9ETFk4NUswOHhTbXRxbzFnbmloZkZ5OGRDWVplZzFvQUc5MXhCY0ExVjY0RTUwWGpGcWNPUWhiODFLX1JaMWlvQTNLbWhDYW5VaHFBVUhpQjNnTnlBQTEwQzNNZU00Y0NCdnhTcUYxUVRaNGFPLUR4YVBwNmduTEhxRkhQdHJTTGRPbU9Kb1VzVTgzOUIwNS1DbTVOLUJmRlNYM0ItTzNRZmdrcGttNmxkLWVRbEl1ejNCeVVKQ2VMSTNvQUt5UlB6WnBzY0xNTVg3dw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-08-24T21:34:39+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "a1f3dc30f7bf7191f777b328a1667fd972d75f44",
+      "title": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
+      "summary": "Prime minister praised for rejecting US trade proposal as Trump shows little interest in retreating from disputeAre you a Canadian boycotting US products? We’d like to hear from youMark Carney said on Monday that while A…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-24T18:22:14+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "French language in Canada as an “irritant … in Quebec, these are rights,”"
+    },
+    {
+      "id": "d33aef7e1eef8b74a14caa773637185f171651b0",
+      "title": "France, UK step up missile support for Ukraine as European leaders meet",
+      "summary": "France and the U.K. are boosting their missile support for Ukraine following deadly Russian drone strikes.",
+      "url": "https://www.cnbc.com/2026/08/24/ukraine-coalition-support-russia-strikes.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-08-24T11:00:01+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "France... step up missile support for Ukraine"
+    },
     {
       "id": "95e7989acecfc8863ae3fdf79d839722361bbfd7",
       "title": "France links sharp rise in drownings to heatwaves",
@@ -141,96 +228,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "France 24"
-    },
-    {
-      "id": "ed80a4350c6846fe8f1e0266c58b89b89b47c77f",
-      "title": "NASA, European Space Agency astronauts conduct spacewalk to replace antenna - chinadailyasia.com",
-      "summary": "NASA, European Space Agency astronauts conduct spacewalk to replace antenna&nbsp;&nbsp;chinadailyasia.comAstronauts remove failed antenna; run out of time to install a spare&nbsp;&nbsp;Spaceflight NowNASA astronaut and 1…",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkUWtjbWlfMnBMaHpjaXFFaEdGVmhjNHhhWG1mcEFjWUo3eGg3S21manJ6eUg5UTE3YllIS2ZfUmd2VTVRTUZnM09VUW1hXzgwYXdJWDEwZFY?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-19T06:40:50+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "NASA, European Space Agency astronauts conduct spacewalk"
-    },
-    {
-      "id": "657eda19b93b1794a49fb8ce3a9712605713bb4a",
-      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-      "summary": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
-      "url": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-19T05:00:39+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": ""
-    },
-    {
-      "id": "a6d8ddfe2e68e9e7c58a25fd1b34efa9ae24ed2a",
-      "title": "Princess Diana's Brother To Reveal \"Truth\" In New Book",
-      "summary": "Princess Diana was killed in a Paris car crash in August 1997.",
-      "url": "https://www.ndtv.com/world-news/princess-dianas-brother-to-reveal-truth-in-new-book-11928580#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-08-19T01:14:52+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Princess Diana was killed in a Paris car crash"
-    },
-    {
-      "id": "f1542de3615c09a21b269494aa03bd045fa5c0d5",
-      "title": "ISS to host first spacewalk by Frenchwoman - France 24",
-      "summary": "ISS to host first spacewalk by Frenchwoman&nbsp;&nbsp;France 24See more headlines and perspectives on Google News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObC1sVWk4ODhrQTB3eFpUcFBFeHdMLTlRckgwY014MlFzbGJ2a1dUeGFreDlJOE1sRnNUcks2X1pHMEJ6MXZfQW5RdS1JSFVXSFhyWlJlVm83dHVaMUFGYzMySnhacXhFdDJrd2Q2OHBOR01MRTN3QmlLSmRmSm5ZOFdvRUhhdGVjRTY3ZVpsUEpQZ3M?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-18T08:13:12+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "first spacewalk by Frenchwoman"
-    },
-    {
-      "id": "a1050b5f0e6f12d7c9e793a7837ea8d074f41384",
-      "title": "Sports - FIFA Chief of Operations Kevin Lamour leaves after criticizing Gianni Infatino - France 24",
-      "summary": "Sports - FIFA Chief of Operations Kevin Lamour leaves after criticizing Gianni Infatino&nbsp;&nbsp;France 24Fifa: Kevin Lamour sacked after criticising president Gianni Infantino&nbsp;&nbsp;bbc.comFifa chief sacked after…",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTVBsc3VMaUE5a3g1Vk5FNFVMSnRNM0FzcVE3WmNYQ3dacXhQbkk5OGF2Ync5QkVsSnFVT1N3RTJtOG9oZi1idmUxYUNHMDY4Snl1cmtvTEx6ZU1OMHRPa0R6TWF5WE9VTFpYMmJ5bmstazBJSnMxUDY1Z3JIT0tFVy01M0JfN0EyaUZReVZoSlB5a2JVVS11WDJWZXJQbEdtb05Vdk8tejgxczBGYUozZnVwa2hqVS1RR01XZkxaOTdqcldITHZNV0ZPYw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-18T05:29:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "France 24"
-    },
-    {
-      "id": "c0862d3e6d6c83c06014a847e77592f4d5a5cad2",
-      "title": "French PM heckled over wildfire response as blazes continue across Europe",
-      "summary": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-17T18:00:55+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "French PM heckled over wildfire response"
-    },
-    {
-      "id": "01f936d7ed56ea84bd1ab315543f28b174ab297b",
-      "title": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
-      "summary": "Vegetable and grain growers call for urgent action, warning of ‘catastrophic’ harvests due to continent-wide droughtSuccessive intense heatwaves and an increasingly severe, continent-wide drought have left many of Europe…",
-      "url": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-17T16:01:47+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "French vegetable production is down by “a very significant extent”"
-    },
-    {
-      "id": "005a63a1f2bf6496a9f6e9680e816368134aad8f",
-      "title": "Belgium tackles enormous wildfire as French PM booed on visit to affected region – Europe live",
-      "summary": "Wildfire thought to be largest in Belgium’s history creeps closer to German border prompting evacuationsIn Belgium, weather agency IRM ‌said between 5 and 9 millimetres (0.2 to 0.35 inches) of rain was forecast on Monday…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-17T09:25:46+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "French PM booed on visit to affected region"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-24T10:05:32Z"
+  "last_updated": "2026-08-25T09:49:55Z"
 }
