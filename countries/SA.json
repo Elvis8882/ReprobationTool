@@ -1,16 +1,27 @@
 {
   "country": "SA",
-  "score": 62,
+  "score": 61,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 131,
   "sentiment": {
     "positive": 10,
-    "neutral": 63,
-    "negative": 58
+    "neutral": 62,
+    "negative": 59
   },
   "latest_articles": [
+    {
+      "id": "d41aa8f1e71b098e2b82c10464e4964415d08b2f",
+      "title": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk",
+      "summary": "Some Democratic lawmakers and nonproliferation advocates have criticized the pact for not including a permanent prohibition on enrichment or reprocessing.",
+      "url": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-08-26T02:34:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "warn of proliferation risk"
+    },
     {
       "id": "e4b50799747343cf80101596a364886c929b8489",
       "title": "Dragon Ball Z theme park gets $7 billion green light",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Saudi Arabia, Turkey, Pakistan To Sign Defence Pact"
-    },
-    {
-      "id": "b3a64e2dc5520458f1fdfa8da3d4275d70c68886",
-      "title": "Iran Says Close To Hormuz Plan With Oman, But Reopening Depends On US",
-      "summary": "Yemen's Houthis said separately they had struck two Saudi oil tankers",
-      "url": "https://www.ndtv.com/world-news/iran-and-oman-agree-on-strait-of-hormuz-transit-route-11872971#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-08-06T06:58:05+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Yemen's Houthis said separately they had struck two Saudi oil tankers"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-25T09:49:55Z"
+  "last_updated": "2026-08-26T09:57:42Z"
 }

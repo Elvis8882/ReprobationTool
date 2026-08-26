@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 92,
+  "score": 91,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 98,
+  "trend": -1,
+  "sources": 99,
   "sentiment": {
     "positive": 10,
     "neutral": 71,
-    "negative": 17
+    "negative": 18
   },
   "latest_articles": [
+    {
+      "id": "de20a447217a94c2de80b761f949e9328b32a3b5",
+      "title": "European rights court orders Turkey to free imprisoned businessman",
+      "summary": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
+      "url": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-25T15:58:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "European rights court orders Turkey to free imprisoned businessman"
+    },
     {
       "id": "e31109fac92933aca985656ecba5f3857ae5d42c",
       "title": "Syria says Israeli strike near Damascus violation of international law",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Trump's Turkey Flight Swap"
-    },
-    {
-      "id": "00522abffb0afc7f1f3a204ae17d2c5cd748c940",
-      "title": "Watch: What is it like to travel on Air Force One with Trump?",
-      "summary": "Donald Trump secretly swapped planes as he left a Nato summit in Turkey last month, deceiving even the press pool who flew on board without him.",
-      "url": "https://www.bbc.co.uk/news/videos/cy4k1jldxnwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-11T21:49:01+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "Nato summit in Turkey"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-25T09:49:55Z"
+  "last_updated": "2026-08-26T09:57:42Z"
 }
