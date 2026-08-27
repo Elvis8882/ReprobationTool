@@ -1,16 +1,81 @@
 {
   "country": "DE",
-  "score": 65,
+  "score": 64,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 356,
   "sentiment": {
-    "positive": 41,
+    "positive": 40,
     "neutral": 248,
-    "negative": 67
+    "negative": 68
   },
   "latest_articles": [
+    {
+      "id": "b1d03f74af8a34fda1efaaef30d0233aa2bd5c85",
+      "title": "Malaria, Likely Spread by Mosquito on Plane, Kills 2 Airport Workers in Germany",
+      "summary": "Six employees at Frankfurt Airport were infected this summer, according to German health officials and the airport’s operator. Four recovered.",
+      "url": "https://www.nytimes.com/2026/08/27/world/europe/malaria-deaths-frankfurt-airport.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-27T18:04:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Kills 2 Airport Workers in Germany"
+    },
+    {
+      "id": "90286007d0b43d6569e34420d75493ae2c192804",
+      "title": "Two German Airport Workers Die Of Malaria After Infected Mosquitoes Arrived On Plane",
+      "summary": "Mosquito traps have now been placed around Frankfurt Airport.",
+      "url": "https://www.ndtv.com/world-news/two-german-airport-workers-die-of-malaria-after-infected-mosquitoes-arrived-on-plane-11968388#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-08-27T17:54:02+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Two German Airport Workers Die Of Malaria"
+    },
+    {
+      "id": "622362d2449f0f9f1312a4e26ad36c361a87d2c1",
+      "title": "Two killed in 'domestic violence incident' at school near Berlin",
+      "summary": "Police have arrested a 19-year-old male suspect after an incident in which two people were killed near the German capital.",
+      "url": "https://www.bbc.co.uk/news/articles/cgqdy8g2zlgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-27T17:07:32+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Two killed in 'domestic violence incident' at school"
+    },
+    {
+      "id": "d4fef58cbdf742d39218c1f8977b59abf012e3fd",
+      "title": "Nordic and Baltic parliamentary speakers meet in Iceland",
+      "summary": "The speakers of the Nordic and Baltic parliaments are meeting in Iceland on Thursday and Friday for&nbsp;their annual get-together and to&nbsp;observe&nbsp;the referendum on the resumption of Iceland's&nbsp;European Unio…",
+      "url": "https://eng.lsm.lv/article/politics/diplomacy/27.08.2026-nordic-and-baltic-parliamentary-speakers-meet-in-iceland.a660441/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "source": "LSM (English)",
+      "published_at": "2026-08-27T16:52:49+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "27fc18ff5fbc6cec2260e563731d0d26fdabb940",
+      "title": "Officials urge calm after malaria outbreak kills two staff at Frankfurt airport - The Guardian",
+      "summary": "Officials urge calm after malaria outbreak kills two staff at Frankfurt airport&nbsp;&nbsp;The GuardianTwo German airport workers die of malaria after 'mosquito arrives on plane'&nbsp;&nbsp;BBCTwo airport workers in Germ…",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDVqQVZLakE5SkdkdkdMSDdJX2wzUFE3S2MxN2k1cGxGYU5QY0gwVjRzYklfazhJdXBPM2tGYmZfZDhWUWxiX3cwVVBCWnV5bVdHZkhrNXpPY0NYQ3NwazJ2bEJNN1Y0WVFfc2hNVGFnVjNLMUQ5bFdCYTZsRkZOdjlsY1ZWakZURVl4VTZIMTMtY1NkYWNTRHQzckgyYkNlVElWeDc0V1NyWkk?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-08-27T15:42:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "malaria outbreak kills two staff at Frankfurt airport"
+    },
+    {
+      "id": "800514d56949a23b2035502de68e3d3c16d5c520",
+      "title": "Officials urge calm after malaria outbreak kills two staff at Frankfurt airport",
+      "summary": "Mosquito traps are set up at Germany’s biggest airport and doctors are asked to look out for symptoms of diseaseGerman health officials are seeking to reassure the public after two workers at the country’s biggest airpor…",
+      "url": "https://www.theguardian.com/world/2026/aug/27/malaria-outbreak-kills-two-staff-at-frankfurt-airport-germany",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-27T15:23:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "two staff at Frankfurt airport"
+    },
     {
       "id": "3c7c1d15c5fa66f75f5139c828a7ff87c6e80e75",
       "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
@@ -162,74 +227,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "confesses to German cold case murder"
-    },
-    {
-      "id": "fa7ebb603c6265539362f5a206d2ac27dfaacbbc",
-      "title": "Tourists on pastry quest overrun scenic spot in Italian mountains",
-      "summary": "Alpine communities hit out after influencer videos draw huge queues to Friedrich August refuge in DolomitesHundreds of people overwhelmed a mountain hut in the Italian Dolomites, not for the panoramic views but in search…",
-      "url": "https://www.theguardian.com/world/2026/aug/19/italy-krapfen-friedrich-august-dolomites-tourists-social-media-influencers",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-19T04:00:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.9,
-      "evidence": "traditional German pastry"
-    },
-    {
-      "id": "8b8d49ad1acb88cb3dd792b21f30f7dc7bc9918b",
-      "title": "Russian Frigate Armed With Nuclear-Capable Zircons Appears Off German Coast With Tracker Switched Off - UNITED24 Media",
-      "summary": "Russian Frigate Armed With Nuclear-Capable Zircons Appears Off German Coast With Tracker Switched Off&nbsp;&nbsp;UNITED24 MediaPutin taunts Nato with warship carrying hypersonic missiles in Baltic&nbsp;&nbsp;The Telegrap…",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTGtUWW4zSTdnQWktNF9OY3ZhMDJEX2Z1amRDaEFRdHVZRnVxNkRKOGkzNUhoVnNyUmwxbk9nYlJvYlBDYjJBZGx3UldUanN6eFpTcGJNLUhGcURjUF95al9NU1ItMWhCekx6ME1uWDRoTzlRaE5jVC1zdUV1TVBuMFF4aGZfdEZxbnVaWGUycS1lSC1udlhYR0VTUGd6c0daMW5YM21WdVVxdkJkaWM5ZXJiY1dmQ0ozOFZIeVVnb3Nfc25ScGRENDU5bnJIQklrLTlKUl9R?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-18T09:59:13+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Russian Frigate Armed With Nuclear-Capable Zircons Appears Off German Coast"
-    },
-    {
-      "id": "4e323bc203459b8881d3c6f9cf9fafe23d3032c8",
-      "title": "Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live",
-      "summary": "Ukraine launched over 600 drones at Moscow and surrounding areas overnightMeanwhile, the German interior minister, Alexander Dobrindt, opened a new centre for drone security in Cochstedt in Saxony-Anhalt.Dobrindt said th…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-18T09:15:19+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Germany’s response to the emerging hybrid threat... supporting Ukraine"
-    },
-    {
-      "id": "34c40c0b6b826c72b3e56f7829fb1b23c549221b",
-      "title": "Sports Direct owner Mike Ashley tightens hold on Hugo Boss",
-      "summary": "Frasers Group increases stake in German fashion house to 48%, after buying Harvey Nichols chain last weekBusiness live – latest updatesThe retail billionaire Mike Ashley has given the latest indication that his summer sh…",
-      "url": "https://www.theguardian.com/business/2026/aug/18/sports-direct-mike-ashley-hugo-boss-frasers-group-harvey-nichols",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-18T08:49:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Frasers Group increases stake in German fashion house"
-    },
-    {
-      "id": "bf14893e0025420b4ef964b65a3a317ccdf81100",
-      "title": "Frasers Group Increases Hugo Boss Stake to 48% After Offer Period - WSJ",
-      "summary": "Frasers Group Increases Hugo Boss Stake to 48% After Offer Period&nbsp;&nbsp;WSJSports Direct owner Mike Ashley tightens hold on Hugo Boss&nbsp;&nbsp;The GuardianMike Ashley’s Frasers lifts stake in Hugo Boss to 48%&nbsp…",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd2RmR2RVODhTclNjeF9Ed09KT0JlM25tRHkwcU1Xc1lFRHE2c1NsNnBKdGxxS2NfY0xWbGdrS3RmRmQ1Ri1aUThfUmVndTJocUxKeEdNTDNiR1Y5T1c3STMtaThzbDNpZ3NFdm1tcklnNXJlUjhfTlVyckh1dmt2YVFxbXJDZGs2ZjFUaGttMnhPM0s2R2M4UWFXYVZhVmxUQlR5SA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-18T06:33:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Frasers Lifts Stake in German Fashion House Hugo Boss to 48%"
-    },
-    {
-      "id": "e00f54baa4416c3e65b1b0f4415f1a01e73ca0f6",
-      "title": "Inside secret police warehouse as Germany targets small boats gangs",
-      "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
-      "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-18T05:02:58+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Germany targets small boats gangs"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-26T09:57:42Z"
+  "last_updated": "2026-08-27T19:52:54Z"
 }

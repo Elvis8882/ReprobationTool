@@ -1,16 +1,60 @@
 {
   "country": "BA",
-  "score": 73,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 7,
+  "score": 59,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": -14,
+  "sources": 11,
   "sentiment": {
     "positive": 1,
     "neutral": 5,
-    "negative": 1
+    "negative": 5
   },
   "latest_articles": [
+    {
+      "id": "5ab0963ffd034fe2f26e3ff929545d5e70bf5f87",
+      "title": "Ratko Mladic, Murderous ‘Butcher of Bosnia,’ Dies at 83",
+      "summary": "A general during the Balkan wars of the 1990s, he was convicted in the killing of some 8,000 Muslims at Srebrenica, Europe’s deadliest massacre since World War II.",
+      "url": "https://www.nytimes.com/2026/08/27/world/europe/ratko-mladic-dead.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-27T16:57:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Murderous ‘Butcher of Bosnia,’ Dies at 83"
+    },
+    {
+      "id": "5f4dc8a70f4b460745e3aacc6583808f3777c92b",
+      "title": "Ratko Mladić, the ‘Butcher of Bosnia’, dies in The Hague",
+      "summary": "Bosnian Serb commander responsible for Srebrenica massacre dies in prison while serving life sentence for genocideFrom the archive: Fourteen years a fugitive: the hunt for the Butcher of Bosnia Ratko Mladić will die in j…",
+      "url": "https://www.theguardian.com/world/2026/aug/27/ratko-mladic-the-butcher-of-bosnia-dies-aged-84",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-27T16:12:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "responsible for Srebrenica massacre dies in prison"
+    },
+    {
+      "id": "1c62128c8de34bee56b8d550383b8abe10744079",
+      "title": "Convicted Bosnian Serb war criminal Ratko Mladic dies - Al Jazeera",
+      "summary": "Convicted Bosnian Serb war criminal Ratko Mladic dies&nbsp;&nbsp;Al JazeeraConvicted Bosnian Serb war criminal Mladić dies aged 84&nbsp;&nbsp;BBCRatko Mladić obituary&nbsp;&nbsp;The Guardian'Butcher of Bosnia' Ratko Mlad…",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaXhwN1k3TFZrQnZtV1hTV2Z3SmRIbDJURFFhLW9faE1pRV9oMktWcXhRUnZqWjhGT1VUVV9MNWk4T01wTjdtZjVlZTBEV0ZaSTl2SEpuNFc5QlE5VWctbkd4a3JJVGZuNFVwNklEYm85SlQ0S214N29GNTlURXhtbGtGTGpTckJjaXY0UVdxZnBzOXlYOERkZERPOEE1OWFuYUHSAacBQVVfeXFMTlZfbnA5RFVuaWcxWHpuSVV5SUxtUWNyNzhlMThURkhJUFdpVFZ5NFhlZ0g0bGF1MkxGWElJcXI0Ql9kWXFzTkdoSjZOdnNnZFVOUlhRNkFRdUtEZzhpWndlMTdNTW44M2dCR2JoRFBPMWFXZktPdzZKR2xCUUxmWDB5ZC0wUVBTRUUzOEZvSmtVUkdrLVhHaTRNMF94NlRIZDlmZjYtQmM?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-08-27T16:05:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Convicted Bosnian Serb war criminal Ratko Mladic dies"
+    },
+    {
+      "id": "abfeaa0419b7c88749b7e649013673cb0e9a94a4",
+      "title": "Ratko Mladic, Bosnian Serb commander found guilty of genocide, dies at 84",
+      "summary": "He was serving a life sentence for his role in the Bosnian War, when he led forces that pounded Sarajevo and carried out the Srebrenica massacre.",
+      "url": "https://www.washingtonpost.com/obituaries/2026/08/27/ratko-mladic-bosnian-serb-commander-found-guilty-genocide-dies-84/",
+      "source": "World (Washington post)",
+      "published_at": "2026-08-27T13:13:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Bosnian Serb commander found guilty of genocide, dies at 84"
+    },
     {
       "id": "3216b8207ad0f4432ef47b62ad9df7864c95490f",
       "title": "BiH FM attends Ministerial Meeting on the worrying Rise in Political Terrorism - Sarajevo Times",
@@ -90,5 +134,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-26T09:57:42Z"
+  "last_updated": "2026-08-27T19:52:54Z"
 }

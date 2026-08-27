@@ -1,16 +1,27 @@
 {
   "country": "SA",
-  "score": 61,
+  "score": 60,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": -1,
   "sources": 131,
   "sentiment": {
     "positive": 10,
-    "neutral": 62,
-    "negative": 59
+    "neutral": 61,
+    "negative": 60
   },
   "latest_articles": [
+    {
+      "id": "25353ce549a2d17618faa52b8f5f99ce03f463bb",
+      "title": "Saudi Response to Houthis’ Attacks on Ships May Be a New War",
+      "summary": "Analysts say that weeks of Houthi attacks on Saudi targets have brought the kingdom and the Iranian-backed militia to the brink of full-blown conflict, and could open a new front in the Iran war.",
+      "url": "https://www.nytimes.com/2026/08/27/world/middleeast/saudi-arabia-yemen-houthis-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-27T11:59:43+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Saudi Response to Houthis’ Attacks on Ships May Be a New War"
+    },
     {
       "id": "d41aa8f1e71b098e2b82c10464e4964415d08b2f",
       "title": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Saudi Arabia, Turkey And Pakistan To Sign Joint Defence Pact"
-    },
-    {
-      "id": "6f1393142e9bd79602b2193b9bf71acb1561210d",
-      "title": "Saudi Arabia, Turkey, Pakistan To Sign Defence Pact Today: Report",
-      "summary": "The join agreement between Pakistan, Saudi and Turkey will take place in Jeddah.",
-      "url": "https://www.ndtv.com/world-news/saudi-arabia-turkey-pakistan-to-sign-defence-pact-today-report-11877248#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-08-07T02:12:03+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Saudi Arabia, Turkey, Pakistan To Sign Defence Pact"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-26T09:57:42Z"
+  "last_updated": "2026-08-27T19:52:54Z"
 }
