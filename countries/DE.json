@@ -1,16 +1,37 @@
 {
   "country": "DE",
-  "score": 64,
+  "score": 63,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": -1,
   "sources": 356,
   "sentiment": {
-    "positive": 40,
+    "positive": 39,
     "neutral": 248,
-    "negative": 68
+    "negative": 69
   },
   "latest_articles": [
+    {
+      "id": "836717f2d177624249fd9ebce4bc0b9b5250f4e8",
+      "title": "Trump’s grab for Greenland rattles Iceland, which considers joining E.U.",
+      "summary": "Iceland will decide whether to restart talks on joining the European Union in a referendum on Saturday, with President Donald Trump's threat to annex Greenland a motivating factor.",
+      "url": "https://www.washingtonpost.com/world/2026/08/28/iceland-will-vote-restarting-negotiations-join-european-union/",
+      "source": "World (Washington post)",
+      "published_at": "2026-08-28T12:27:38+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "b6c37bf7fe73a5a73a3e25bdb8f0bc2477f53e53",
+      "title": "Volkswagen CEO warns German workers of sweeping layoffs to come",
+      "summary": "The automaker, one of the nation’s biggest employers, could shed tens of thousands of jobs amid global market shifts driven by electrification, AI and autonomous driving.",
+      "url": "https://www.washingtonpost.com/world/2026/08/28/volkswagen-ceo-warns-german-workers-sweeping-layoffs-come/",
+      "source": "World (Washington post)",
+      "published_at": "2026-08-28T09:00:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Volkswagen CEO warns German workers of sweeping layoffs to come"
+    },
     {
       "id": "b1d03f74af8a34fda1efaaef30d0233aa2bd5c85",
       "title": "Malaria, Likely Spread by Mosquito on Plane, Kills 2 Airport Workers in Germany",
@@ -75,6 +96,16 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "two staff at Frankfurt airport"
+    },
+    {
+      "id": "8db01ff08663f7d3c4065b0ed9aa7d04a6328e1c",
+      "title": "Latvia to spend 30 million euros hiring diplomats for next EU presidency",
+      "summary": "In preparation for Latvia's next presidency of the Council of the European Union in the second half of 2028, dozens of extra posts at diplomatic missions are planned.",
+      "url": "https://eng.lsm.lv/article/politics/diplomacy/26.08.2026-latvia-to-spend-30-million-euros-hiring-diplomats-for-next-eu-presidency.a660416/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "source": "LSM (English)",
+      "published_at": "2026-08-26T08:52:14+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "3c7c1d15c5fa66f75f5139c828a7ff87c6e80e75",
@@ -195,40 +226,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "secret cache of guns “on suspicion of preparing a serious act of violence"
-    },
-    {
-      "id": "896bc56b4fa180b2f3bea7794115c2865a2e0304",
-      "title": "Man arrested over Nord Stream bombing was consultant on film about it starring Sean Penn",
-      "summary": "Volodymyr Zhuravlev had been consulted on Snake Island, a dramatised reconstruction of incidentEarlier this month locals in Zagreb noticed something odd outside an art deco building. Sandbags and barricades appeared in f…",
-      "url": "https://www.theguardian.com/business/2026/aug/20/man-arrested-nord-stream-volodymyr-zhuravlev-consultant-film-sean-penn-snake-island",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-20T17:41:59+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "pipeline supplying Russian natural gas to Germany"
-    },
-    {
-      "id": "6d1f122a37b1707c2a600cdf3ebf89122470770d",
-      "title": "Baltic states reaffirm support for Ukraine on historic day in Tallinn / Article - LSM",
-      "summary": "Baltic states reaffirm support for Ukraine on historic day in Tallinn / Article&nbsp;&nbsp;LSMLatvian and Lithuanian Prime Ministers Discuss Hybrid Threats from Russia&nbsp;&nbsp;uatv.uaLithuania has called for Ukraine t…",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPak1pSnJVMGRJbEhNSFJLUXR0VzBKMWZXZmQwczExZTh2VjZFQ0c4dndkU3EybWNZek1ubVo5U1IwMTNOVnpUSlFpLUUya0t1TnlsdVNuRWpNZ1QzdnUxVHo4WENsN0dIQUhiR25QOGhaLVJtZHdoek1FenlHa3drZEtKY1VFSWRhZHF4YWQ5LWIxMjV4UVgxN1Z2QzBlMG1aNjFYV0R2UzQzZ2pWY3lBZlJ2a1BteGtqdW1UTVd2Z1VKSDh3emFKV0FYXzZWYk56?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-20T10:26:30+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "94c380ffc4dd64b086dd56e78f5c6cb074d1515c",
-      "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
-      "summary": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
-      "url": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-19T18:26:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "confesses to German cold case murder"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-27T19:52:54Z"
+  "last_updated": "2026-08-28T20:56:46Z"
 }

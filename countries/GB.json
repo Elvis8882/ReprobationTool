@@ -1,16 +1,82 @@
 {
   "country": "GB",
-  "score": 1,
+  "score": 2,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 1125,
+  "trend": 1,
+  "sources": 1126,
   "sentiment": {
-    "positive": 115,
+    "positive": 117,
     "neutral": 806,
-    "negative": 204
+    "negative": 203
   },
   "latest_articles": [
+    {
+      "id": "c704dd973486a95743fd4424e7e9e7265d95f5c8",
+      "title": "Milo Yiannopoulos, a far-right political commentator, reportedly detained by ICE",
+      "summary": "A former editor of Breitbart News, Yiannopoulos has also served as an intern for Marjorie Taylor GreeneMilo Yiannopoulos, a far-right British political commentator, was detained by Immigration and Customs Enforcement in…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/28/milo-yiannopoulos-detained-ice",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-28T20:15:49+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Milo Yiannopoulos, a far-right British political commentator, reportedly detained"
+    },
+    {
+      "id": "54a944c09d388b4c7ff6a829755ffa7b0ac09b9e",
+      "title": "Large fire near Wembley Stadium disrupts tube and rail services",
+      "summary": "About 125 firefighters tackle blaze at Neasden waste facility as nearby Amazon warehouse is evacuatedA large fire has broken out at a waste facility close to Wembley Stadium in north-west London, disrupting tube and trai…",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/28/large-fire-near-wembley-stadium-disrupts-tube-and-rail-services",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-28T18:59:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Large fire near Wembley Stadium disrupts tube and rail services"
+    },
+    {
+      "id": "4a3447a4cab7a4d631fed64ce6eef85ac806c7c7",
+      "title": "Salmonella cases in UK likely to rise until source of outbreak is found - The Guardian",
+      "summary": "Salmonella cases in UK likely to rise until source of outbreak is found&nbsp;&nbsp;The GuardianUK salmonella cases nearing 500 as egg investigations continue&nbsp;&nbsp;BBCRise in UK salmonella cases linked to imported e…",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM29OeUZjWUFSaUdsSngxZHFsOC1HTE9YcnlkbXVzZ2Rud2l0VTk2akJWbzdWTmRmVXJuem5JNVh3SzBEbVk5M2xIY0FRLW1YZWhmUjJLMHYyMzJjZWhQMkdJdkpOMWpoVXNEaHZTU0d1bEhIWnVsd0ViWlRsRnY4djRueWd1NFZ5RUVvX0hzRExQOUtnVzhjYTZJb1c0cUpVQ2hlelVfeXZobEg5ZTczejZESUxvWms?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-08-28T17:35:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Salmonella cases in UK likely to rise until source of outbreak is found"
+    },
+    {
+      "id": "3a30c00ca04766c02e2174fdab2e4573fcc14e14",
+      "title": "London Science Museum cuts links with BP after decades of partnership",
+      "summary": "Campaigners say ‘seismic shift’ follows years of pressure to sever ties with oil and gas firmThe London Science Museum has ended its decades-long partnership with the oil and gas company BP in what has been described as…",
+      "url": "https://www.theguardian.com/culture/2026/aug/28/london-science-museum-cuts-links-with-bp-after-decades-of-partnership",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-28T16:57:06+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "London Science Museum cuts links with BP after decades of partnership"
+    },
+    {
+      "id": "f89e69571ec4e138722b7890bd957a13026bfba0",
+      "title": "Salmonella cases in UK likely to rise until source of outbreak is found",
+      "summary": "Experts say imported eggs served in cafes and restaurants may be behind hundreds of infections and one deathSalmonella cases in the UK are expected to rise until the common source is identified, something that is notorio…",
+      "url": "https://www.theguardian.com/food/2026/aug/28/salmonella-cases-in-uk-likely-to-rise-until-source-of-outbreak-is-found",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-28T16:42:32+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Salmonella cases in UK likely to rise until source of outbreak is found"
+    },
+    {
+      "id": "e56fcb12c5e4e4d684130e182e9def5453ac0fb7",
+      "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
+      "summary": "Andrew and Tristan Tate's legal team argued in a Miami court that the two were not a flight risk.",
+      "url": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-28T01:43:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "seek bail in UK extradition fight"
+    },
     {
       "id": "75ea2b4095463028d34c609ad96f0bd0121ec133",
       "title": "Russia says UK ‘playing with fire’ amid reports CIA chief has warned Kremlin not to attack Nato",
@@ -23,6 +89,17 @@
       "evidence": "UK will help Ukraine start producing long-range missiles."
     },
     {
+      "id": "1dc1c226ccf5bb24af5ce3c2cd1a5ea1060d501f",
+      "title": "A London apartment burned down in 2024 and left more than 80 people homeless",
+      "summary": "Residents of London are still obligated to pay mortgages on homes that were ruined by fire, despite the complexities in the ongoing legal struggles involving insurers and administrators. The building's freeholder has gon…",
+      "url": "https://timesofindia.indiatimes.com/world/uk/a-london-apartment-burned-down-in-2024-and-left-more-than-80-people-homeless-two-years-later-one-owner-says-she-is-still-paying-the-mortgage-on-a-home-that-no-longer-exists/articleshow/133575130.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-08-27T17:47:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "A London apartment burned down in 2024 and left more than 80 people homeless"
+    },
+    {
       "id": "f8e33faf60ac4d8112ebb9c683d0a5d4b0b6ed44",
       "title": "Woman found guilty of indecent assault against two pupils at London boys’ school in 1980s",
       "summary": "Sally-Anne Bowen, now 65, convicted of assaulting boys at Christ’s College, Finchley, where she was chemistry teacherA chemistry teacher has been found guilty of indecently assaulting two teenage pupils at an all-boys sc…",
@@ -32,6 +109,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Woman found guilty of indecent assault against two pupils"
+    },
+    {
+      "id": "d7119596dcc535399f6bf346581bbaba59974d2a",
+      "title": "Cyberattack Hits 3 UK Airports, 8.7 Million Customers' Data Stolen",
+      "summary": "The information included email addresses, phone numbers, vehicle registrations and postcodes.",
+      "url": "https://www.ndtv.com/world-news/cyberattack-hits-3-uk-airports-8-7-million-customers-data-stolen-11968343#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-08-27T16:49:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Cyberattack Hits 3 UK Airports, 8.7 Million Customers' Data Stolen"
     },
     {
       "id": "d6301cf7bd2109e226ab8c0084ec88b22b007028",
@@ -89,6 +177,17 @@
       "evidence": "UK urged to help free British-Egyptian"
     },
     {
+      "id": "604d0c1fcbed35e1aa5e8eb2c71537a9797e4a17",
+      "title": "Girl, 13, among missing British citizens after flash flood in Nepal",
+      "summary": "More than 400 travellers are said to be missing after flood on Tibet border, including 33 BritonsFlash floods on Nepal-Tibet border – latest updatesThirty-three British citizens including a 13-year-old girl are among mor…",
+      "url": "https://www.theguardian.com/world/2026/aug/26/missing-british-citizens-flash-flood-nepal",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-26T19:12:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "missing British citizens after flash flood"
+    },
+    {
       "id": "d04fbdf2cc162eca3bead2693b42e380233cae96",
       "title": "More than 40,000 heat-related deaths in England since 1988",
       "summary": "ONS figures show rising toll of extreme weather, with officials warning this summer on track to set further recordsOver 40,000 more people died on the hottest days in England between 1988 and 2025 than would be expected,…",
@@ -131,107 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Heatwaves show UK must do more to promote cycling and walking"
-    },
-    {
-      "id": "1987bee18ed35383d37357effcabdc90401c7482",
-      "title": "Wednesday briefing: How Canada has turned a trade dispute into a defence of its sovereignty",
-      "summary": "In today’s newsletter: A collapsing trade deal has united Canadians more than ever, in an existential confrontation with the US presidentGood morning. When the Guardian asked Canadian readers whether they planned to boyc…",
-      "url": "https://www.theguardian.com/world/2026/aug/26/wednesday-briefing-how-canada-has-turned-a-trade-dispute-into-a-defence-of-its-sovereignty",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-26T05:47:32+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "first British citizen to die fighting for Russia in its war against Ukraine"
-    },
-    {
-      "id": "6cd6d98223843a5e79afd38e0fa0d7e8f460552f",
-      "title": "Government lays out housing plans but Burnham backtracks on social renting pledge – UK politics live",
-      "summary": "£10bn for housing with 60% social renting is at odds with PM’s previous call for programme to be spent entirely on social homesSocial housing tenants will be evicted if they fail to keep their gardens well maintained und…",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/25/housing-plans-andy-burnham-social-renting-pledge-ukraine-reform-tories-rupert-lowe-uk-politics-latest",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-25T09:26:17+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "UK politics live"
-    },
-    {
-      "id": "3c7c1d15c5fa66f75f5139c828a7ff87c6e80e75",
-      "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
-      "summary": "UK PM to join delegation of leaders lobbying US president to step up suppliesBurnham plans trip to New York as Ukraine pleads for US-made missilesIn other news, at least 35,000 more people died during Europe’s record-bre…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-25T09:11:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump"
-    },
-    {
-      "id": "1b7dd78f687d0c445b3b4c693919a97f699d65e9",
-      "title": "Year of after-school care now costs £2,800 a child in parts of UK",
-      "summary": "Bills have jumped 42% in England over the past 10 years – and that excludes the cost of breakfast clubs and extracurricular activities Parents of primary schoolchildren in England will pay 42% more for after-school child…",
-      "url": "https://www.theguardian.com/money/2026/aug/25/year-of-after-school-care-now-costs-2800-a-child-in-parts-of-uk",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-25T08:58:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "after-school care now costs £2,800 a child in parts of UK"
-    },
-    {
-      "id": "7616387b1658acbb5c59d7aadcac3930256b117c",
-      "title": "Burnham plans trip to New York as Ukraine pleads for US-made missiles",
-      "summary": "UK prime minister ‘likely’ to attend UN general assembly, after meeting Zelenskyy and saying supply problem is fixableEurope live – latest updatesAndy Burnham has said he is likely to attend the UN general assembly in Ne…",
-      "url": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-us-new-york-ukraine-patriot-missiles",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-25T08:27:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "UK prime minister ‘likely’ to attend UN general assembly"
-    },
-    {
-      "id": "937e32d862d4ed175ad26769f99b1b16b2b47124",
-      "title": "Reader Q&A: ask international correspondent Luke Harding a question now",
-      "summary": "The Guardian’s senior international reporter Luke Harding will be answering your questions live from 1pm BST. Ask him about his new book on Trump and Putin, the state of the war in Ukraine, or his career reporting from K…",
-      "url": "https://www.theguardian.com/theguardian/live/2026/aug/25/reader-q-and-a-ask-guardian-foreign-correspondant-author-luke-harding-a-question",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-25T07:00:51+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Russia’s loudening threats to Britain"
-    },
-    {
-      "id": "288c3384696fd40198c806d14d668a318cc82387",
-      "title": "Freddie Mercury’s ‘splendid things’ to go on display at V&A",
-      "summary": "Eight costumes spanning Queen frontman’s career will feature in a free trail developed with his former fianceeEight famous costumes worn by Freddie Mercury, including the outfit featured on the cover of Queen’s debut alb…",
-      "url": "https://www.theguardian.com/music/2026/aug/25/freddie-mercury-splendid-things-costumes-victoria-albert-museum-queen-v-and-a",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-25T04:00:49+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "V&A in London"
-    },
-    {
-      "id": "2b2eabcd9602e84668208eb4142173bc4f32e002",
-      "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
-      "summary": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
-      "url": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-24T15:14:14+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "UK's Storm Shadow missile a game changer for Ukraine"
-    },
-    {
-      "id": "d33aef7e1eef8b74a14caa773637185f171651b0",
-      "title": "France, UK step up missile support for Ukraine as European leaders meet",
-      "summary": "France and the U.K. are boosting their missile support for Ukraine following deadly Russian drone strikes.",
-      "url": "https://www.cnbc.com/2026/08/24/ukraine-coalition-support-russia-strikes.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-08-24T11:00:01+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "UK step up missile support for Ukraine"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-27T19:52:54Z"
+  "last_updated": "2026-08-28T20:56:46Z"
 }

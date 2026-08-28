@@ -3,14 +3,25 @@
   "score": 26,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 4,
-  "sources": 185,
+  "trend": 0,
+  "sources": 186,
   "sentiment": {
     "positive": 9,
-    "neutral": 67,
+    "neutral": 68,
     "negative": 109
   },
   "latest_articles": [
+    {
+      "id": "d9a4bcff8ff4668abf4a8a8b94a5304cd6d61250",
+      "title": "Iran calls for global pushback against U.S. sanctions, says diplomacy 'isn't impossible'",
+      "summary": "Iran said the conflict in the Gaza Strip has to end, Israel has to withdraw from Lebanon and also halt its attacks on Syria.",
+      "url": "https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-08-28T12:39:02+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "Israel has to withdraw from Lebanon"
+    },
     {
       "id": "bf8f21dfa22ee61cd1db8703fe7a52d859f5967f",
       "title": "Scenes From a Destroyed Barbershop in Lebanon",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "one person was killed in the strikes"
-    },
-    {
-      "id": "e4cd3ae67191ecca47fad69e3a2296f8c4bdf918",
-      "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
-      "summary": "The confrontation, over a strategic ridge in southern Lebanon, challenged a fragile cease-fire between Israel and the Iran-backed militant group.",
-      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-01T20:14:08+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Key Lebanon Hilltop... challenged a fragile cease-fire"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-27T19:52:54Z"
+  "last_updated": "2026-08-28T20:56:46Z"
 }
