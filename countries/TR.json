@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 91,
+  "score": 89,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 98,
+  "trend": -2,
+  "sources": 97,
   "sentiment": {
-    "positive": 10,
-    "neutral": 70,
-    "negative": 18
+    "positive": 9,
+    "neutral": 69,
+    "negative": 19
   },
   "latest_articles": [
+    {
+      "id": "01a72fbe25cdd37a278492c5c3fae3376fc16bb6",
+      "title": "Turkey and Israel Vie for Middle East Influence as Tensions Spike",
+      "summary": "Israel’s strike on a Syrian base to pre-empt the feared deployment of Turkish forces was part of a growing competition in the Middle East and beyond.",
+      "url": "https://www.nytimes.com/2026/08/29/world/middleeast/turkey-israel-tensions-region.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-29T09:03:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Turkey and Israel Vie for Middle East Influence"
+    },
     {
       "id": "de20a447217a94c2de80b761f949e9328b32a3b5",
       "title": "European rights court orders Turkey to free imprisoned businessman",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Trump's Secret Flight Out Of Turkey"
-    },
-    {
-      "id": "b63764ec968eace53e6c173b05bd79b092cad1a4",
-      "title": "Why Trump's Turkey Flight Swap Was Unlike Previous Secret Presidential Trips",
-      "summary": "Trump told reporters, 'If I go, you go, right?' without noting he wasn't on their decoy plane.",
-      "url": "https://www.ndtv.com/world-news/why-president-donald-trumps-turkey-flight-swap-was-unlike-previous-secret-presidential-trips-joe-biden-bill-clinton-11897664#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-08-12T04:13:20+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Trump's Turkey Flight Swap"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-28T20:56:46Z"
+  "last_updated": "2026-08-29T14:25:48Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "SY",
-  "score": 81,
+  "score": 80,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 51,
+  "trend": -1,
+  "sources": 52,
   "sentiment": {
     "positive": 1,
     "neutral": 24,
-    "negative": 26
+    "negative": 27
   },
   "latest_articles": [
+    {
+      "id": "01a72fbe25cdd37a278492c5c3fae3376fc16bb6",
+      "title": "Turkey and Israel Vie for Middle East Influence as Tensions Spike",
+      "summary": "Israel’s strike on a Syrian base to pre-empt the feared deployment of Turkish forces was part of a growing competition in the Middle East and beyond.",
+      "url": "https://www.nytimes.com/2026/08/29/world/middleeast/turkey-israel-tensions-region.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-29T09:03:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel’s strike on a Syrian base"
+    },
     {
       "id": "d9a4bcff8ff4668abf4a8a8b94a5304cd6d61250",
       "title": "Iran calls for global pushback against U.S. sanctions, says diplomacy 'isn't impossible'",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Syria's New Women MPs"
-    },
-    {
-      "id": "9e929112892627f2a3a38cfa184fc8cbf795f8ff",
-      "title": "Bus Collision In Syria Kills 35 And Injures Dozens",
-      "summary": "State media broadcast footage of the crash, including images of a bus on fire",
-      "url": "https://www.ndtv.com/world-news/bus-collision-in-syria-kills-35-and-injures-dozens-11822187#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-25T17:40:26+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Bus Collision In Syria Kills 35"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-28T20:56:46Z"
+  "last_updated": "2026-08-29T14:25:48Z"
 }

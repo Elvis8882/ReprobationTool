@@ -1,16 +1,47 @@
 {
   "country": "DE",
-  "score": 63,
+  "score": 61,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 356,
+  "trend": -2,
+  "sources": 357,
   "sentiment": {
-    "positive": 39,
-    "neutral": 248,
-    "negative": 69
+    "positive": 38,
+    "neutral": 249,
+    "negative": 70
   },
   "latest_articles": [
+    {
+      "id": "f12e0cb7ce8b307c7be6b0df95f9f1755fa1c1f2",
+      "title": "Why Iceland and Others Might Want In, Not Out, of the E.U. Club",
+      "summary": "A few years ago, some feared the European Union was going out of style. Now Iceland is mulling membership alongside a long list of candidates.",
+      "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-membership-europe.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-29T07:09:16+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "0625b311262525a98bc7a5d9ac5146fd84964dc7",
+      "title": "Berlin 'Blackmailed' By Hackers After Data Theft During Cyberattack: Mayor",
+      "summary": "The cyberattack on August 14 left several city administrations cut off from the network for a week.",
+      "url": "https://www.ndtv.com/world-news/berlin-blackmailed-by-hackers-after-data-theft-during-cyberattack-mayor-11973796#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-08-29T06:26:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Berlin 'Blackmailed' By Hackers After Data Theft During Cyberattack"
+    },
+    {
+      "id": "cf5a495617bb0660eb024e4f7e0493167c9134d6",
+      "title": "Icelanders Are Voting on E.U. Membership Talks. Here’s What to Know.",
+      "summary": "The Nordic nation is holding a referendum on Saturday on whether to start membership talks with the European Union. Voters are divided.",
+      "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-referendum-what-to-know.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-29T04:01:14+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "836717f2d177624249fd9ebce4bc0b9b5250f4e8",
       "title": "Trump’s grab for Greenland rattles Iceland, which considers joining E.U.",
@@ -193,41 +224,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Munich stadium as race highlight"
-    },
-    {
-      "id": "8e1bf309e3f3c9e9e265808eeb27351ddfabd1bf",
-      "title": "Germany Identifies a Plot After Finding a Weapons Cache, but Names No Culprit",
-      "summary": "Officials were careful not to point a finger, after revealing what they said was a plan for a political attack, at a time when a series of destabilizing actions have been blamed on Russia.",
-      "url": "https://www.nytimes.com/2026/08/21/world/europe/germany-foreign-plot-hidden-guns.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-21T17:28:45+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Germany Identifies a Plot After Finding a Weapons Cache"
-    },
-    {
-      "id": "46106b64e46b3b83de972d34a5979e051579d1ba",
-      "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
-      "summary": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
-      "url": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-21T16:26:53+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Germany investigates Russia links to weapons cache"
-    },
-    {
-      "id": "1b70ee8605d7a343f57d296cb9b639c025d8e839",
-      "title": "Gun stash in German forest believed to be linked to Russia, say reports",
-      "summary": "Germany seeking to extradite suspect from Romania over guns it is feared could have been used ⁠in assassinationsGermany is seeking to extradite a suspect from Romania over the discovery of an underground stash of weapons…",
-      "url": "https://www.theguardian.com/world/2026/aug/21/gun-stash-germany-forest-berlin-believed-linked-russia-reports",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-21T14:51:05+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "secret cache of guns “on suspicion of preparing a serious act of violence"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-28T20:56:46Z"
+  "last_updated": "2026-08-29T14:25:48Z"
 }
