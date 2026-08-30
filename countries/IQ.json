@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 83,
+  "score": 82,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 49,
+  "trend": -1,
+  "sources": 50,
   "sentiment": {
     "positive": 5,
     "neutral": 18,
-    "negative": 26
+    "negative": 27
   },
   "latest_articles": [
+    {
+      "id": "5be3a3e9e2cafa9b6c49b1c9adfed93be9962e7d",
+      "title": "US plans to cut off military aid to key Middle East ally, BBC told",
+      "summary": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-28T19:45:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Iraqi Kurdistan fears the Trump administration's plan"
+    },
     {
       "id": "33e561ac515bc8bdcfb4960272686b38ca9df402",
       "title": "How An Iraqi Leader Became Team Trump's Direct Secret Link To Iran Guards",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.4,
       "evidence": "Iraq prime minister, Ali al-Zaidi"
-    },
-    {
-      "id": "1e6bf17d37cb26ae412c3e74e0bd22e00e51489c",
-      "title": "Iran Rejects U.S. Cease-Fire Deal Presented by Iraqi Leader",
-      "summary": "The details of the proposal were not immediately clear, but Iranian officials said that it was the only offer on the table.",
-      "url": "https://www.nytimes.com/2026/07/23/world/middleeast/iran-iraq-cease-fire-proposal.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-23T23:39:28+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Iraqi Leader"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-29T14:25:48Z"
+  "last_updated": "2026-08-30T14:30:35Z"
 }

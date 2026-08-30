@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 31,
+  "sources": 32,
   "sentiment": {
     "positive": 2,
-    "neutral": 23,
+    "neutral": 24,
     "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "09d550988502ce43e18e251d7b16f8c2f0e06bed",
+      "title": "Icelanders reject reopening talks to join the EU despite Trump's Greenland threats",
+      "summary": "Icelanders voted 52.8% to 47.2% against reopening talks to join the European Union.",
+      "url": "https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-08-30T12:32:44+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Trump's Greenland threats"
+    },
     {
       "id": "e8420b6957dedc64b204977b9fb7e3ab9ea143e4",
       "title": "Greenland says findings on genocide allegation not final",
@@ -219,19 +230,8 @@
       "sentiment": "mixed",
       "confidence": 0.8,
       "evidence": "Greenland's leadership also opposes any US acquisition... dispute strains relations"
-    },
-    {
-      "id": "91702dc67b5b2c4867a14c5f3e0dc61b97f85eba",
-      "title": "Denmark Says It Will Defend ‘Every Inch’ of NATO as Trump Eyes Greenland Again",
-      "summary": "After President Trump once more said that the island should be under U.S. control, the Danish prime minister, Mette Frederiksen, told reporters, “We will defend the kingdom of Denmark.”",
-      "url": "https://www.nytimes.com/2026/07/08/world/europe/us-denmark-greenland-nato-frederiksen.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-08T09:49:34+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "defend the kingdom of Denmark"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-29T14:25:48Z"
+  "last_updated": "2026-08-30T14:30:35Z"
 }

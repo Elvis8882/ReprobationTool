@@ -1,16 +1,27 @@
 {
   "country": "IS",
-  "score": 86,
+  "score": 81,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 3,
-  "sources": 20,
+  "trend": -5,
+  "sources": 22,
   "sentiment": {
-    "positive": 5,
+    "positive": 6,
     "neutral": 14,
-    "negative": 1
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "4a5618ffd87846f5d4ec053c9af15a6a087349d2",
+      "title": "Iceland rejects EU accession talks in referendum after divisive campaign",
+      "summary": "Well-funded no camp prevails, winning 52.8% of votes and gaining plaudits from Eurosceptic figures across EuropeAnalysis: Definitely no or maybe yes: what tipped the Icelandic referendumVoters in Iceland have ⁠rejected ⁠…",
+      "url": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-30T13:31:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "rejects EU accession talks"
+    },
     {
       "id": "f12e0cb7ce8b307c7be6b0df95f9f1755fa1c1f2",
       "title": "Why Iceland and Others Might Want In, Not Out, of the E.U. Club",
@@ -21,6 +32,17 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "Iceland is mulling membership alongside a long list of candidates"
+    },
+    {
+      "id": "24b2fda83a35a3f4112c2511c3da43ec88a2f45f",
+      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+      "summary": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
+      "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-29T00:56:19+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Iceland votes on whether to restart talks on joining EU"
     },
     {
       "id": "c373286354edb517b581e6ddaf772c45b183e3e8",
@@ -208,30 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "EU membership would free Iceland from krona ‘inflation machine’"
-    },
-    {
-      "id": "1b6aa8a5a1f1dc966cf6e3249dc4408a35e2f7c0",
-      "title": "Norway should follow Iceland’s EU referendum, says PM",
-      "summary": "But Støre did not speculate whether that could affect Norway’s own EU prospects",
-      "url": "https://www.euractiv.com/news/norway-should-follow-icelands-eu-referendum-says-pm/",
-      "source": "Euractiv",
-      "published_at": "2026-06-11T12:39:27+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Norway should follow Iceland’s EU referendum, says PM"
-    },
-    {
-      "id": "74b28033a399ab3c2dc73a2d89914f6c59deb2cb",
-      "title": "INTERVIEW: Iceland joining EU a ‘big step away from democracy’",
-      "summary": "EU would swallow us whole, says Iceland's nei campaign",
-      "url": "https://www.euractiv.com/news/interview-iceland-joining-eu-a-big-step-away-from-democracy/",
-      "source": "Euractiv",
-      "published_at": "2026-06-10T02:00:30+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Iceland joining EU a ‘big step away from democracy’"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-29T14:25:48Z"
+  "last_updated": "2026-08-30T14:30:35Z"
 }

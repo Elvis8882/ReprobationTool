@@ -1,16 +1,26 @@
 {
   "country": "FR",
-  "score": 58,
+  "score": 59,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 2,
-  "sources": 566,
+  "trend": 1,
+  "sources": 555,
   "sentiment": {
-    "positive": 67,
-    "neutral": 406,
-    "negative": 93
+    "positive": 62,
+    "neutral": 404,
+    "negative": 89
   },
   "latest_articles": [
+    {
+      "id": "09d550988502ce43e18e251d7b16f8c2f0e06bed",
+      "title": "Icelanders reject reopening talks to join the EU despite Trump's Greenland threats",
+      "summary": "Icelanders voted 52.8% to 47.2% against reopening talks to join the European Union.",
+      "url": "https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-08-30T12:32:44+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "3ca09f5efb4f898d9a28d0dfe30aa202bb6bd384",
       "title": "Mourinho says Mbappe worthy of Ballon d'Or - France 24",
@@ -214,19 +224,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "excess mortality in three of the EU’s larger countries – Germany, France and Spain"
-    },
-    {
-      "id": "e4b50799747343cf80101596a364886c929b8489",
-      "title": "Dragon Ball Z theme park gets $7 billion green light",
-      "summary": "French President Emmanuel Macron and Saudi Arabia's Crown Prince Mohammed bin Salman agree on a $7 bn investment in the anime theme park.",
-      "url": "https://www.cnbc.com/2026/08/25/dragon-ball-z-theme-park-france-paris.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-08-25T08:53:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "French President Emmanuel Macron and Saudi Arabia's Crown Prince"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-29T14:25:48Z"
+  "last_updated": "2026-08-30T14:30:35Z"
 }

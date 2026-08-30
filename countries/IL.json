@@ -4,13 +4,35 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 579,
+  "sources": 576,
   "sentiment": {
     "positive": 28,
     "neutral": 184,
-    "negative": 367
+    "negative": 364
   },
   "latest_articles": [
+    {
+      "id": "ccfaf8f0853fae82c393a08b793df3bc57f66a51",
+      "title": "Abdul El-Sayed apologizes for comment about Michigan synagogue attack",
+      "summary": "Democratic Senate nominee is eager to push past series of controversies involving allegations of antisemitismMichigan’s Democratic US senate candidate Abdul El-Sayed apologized to the state’s Jewish Democratic Caucus on…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/abdul-el-sayed-apology-michigan-synagogue-attack-comment",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-30T13:14:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "tied to Israel’s actions in the Middle East"
+    },
+    {
+      "id": "80ad369697ca4e2487eabfb412e1ee4c6eba51e5",
+      "title": "Palestinian woman and NBC News team reportedly attacked in West Bank",
+      "summary": "Matt Bradley and crew assaulted while interviewing woman who said settlers had driven family out of homeA Palestinian woman and an NBC News team are reported to have been attacked and injured by masked Israeli settlers i…",
+      "url": "https://www.theguardian.com/world/2026/aug/29/nbc-news-team-attacked-west-bank",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-29T21:55:08+00:00",
+      "sentiment": "negative",
+      "confidence": 0.4,
+      "evidence": "attacked and injured by masked Israeli settlers"
+    },
     {
       "id": "01a72fbe25cdd37a278492c5c3fae3376fc16bb6",
       "title": "Turkey and Israel Vie for Middle East Influence as Tensions Spike",
@@ -32,6 +54,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Jerusalem's First Temple was unearthed by archaeologists"
+    },
+    {
+      "id": "a7f4b944d680bea9f7139f2e212f70975e421cea",
+      "title": "BBC tracks one week of Israeli settler violence in occupied West Bank",
+      "summary": "The BBC's Lucy Williamson reports on settler attacks on Palestinians, which have been observed over the last week alone.",
+      "url": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-28T14:06:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli settler violence in occupied West Bank"
     },
     {
       "id": "d9a4bcff8ff4668abf4a8a8b94a5304cd6d61250",
@@ -197,41 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "recognise Israel’s actions in Gaza as genocide"
-    },
-    {
-      "id": "e31109fac92933aca985656ecba5f3857ae5d42c",
-      "title": "Syria says Israeli strike near Damascus violation of international law",
-      "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
-      "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-22T21:42:42+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israeli strike near Damascus violation of international law"
-    },
-    {
-      "id": "1262d251444219125e21103cc48afaa302534fd0",
-      "title": "Lebanon’s Efforts to Tame Hezbollah Stall Amid Israel War",
-      "summary": "President Joseph Aoun took office with a popular mandate to reassert control after the militant group dragged the country back into war with Israel.",
-      "url": "https://www.nytimes.com/2026/08/22/world/middleeast/lebanon-hezbollah-israel-diplomacy.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-22T09:02:01+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Israel War"
-    },
-    {
-      "id": "07e5ed7023dc806868dfb5733f235ed14a667ae8",
-      "title": "Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine",
-      "summary": "In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade banMore than 100 French and British former diplomats have said Palestine is being eras…",
-      "url": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-22T09:00:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "accuse Israel of ethnic cleansing and call for measures including trade ban"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-29T14:25:48Z"
+  "last_updated": "2026-08-30T14:30:35Z"
 }

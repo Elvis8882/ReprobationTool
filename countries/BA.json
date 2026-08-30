@@ -1,16 +1,27 @@
 {
   "country": "BA",
-  "score": 59,
+  "score": 62,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 11,
+  "trend": 3,
+  "sources": 12,
   "sentiment": {
-    "positive": 1,
+    "positive": 2,
     "neutral": 5,
     "negative": 5
   },
   "latest_articles": [
+    {
+      "id": "6d2cad015ca35fc4028dc058d566e6b3afd7b38b",
+      "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
+      "summary": "He was jailed for life in 2017 for genocide, war crimes and crimes against  humanity during the wars in the ex-Yugoslavia in 1992-95.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-27T17:05:22+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Convicted Bosnian Serb war criminal Mladić dies"
+    },
     {
       "id": "5ab0963ffd034fe2f26e3ff929545d5e70bf5f87",
       "title": "Ratko Mladic, Murderous ‘Butcher of Bosnia,’ Dies at 83",
@@ -134,5 +145,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-29T14:25:48Z"
+  "last_updated": "2026-08-30T14:30:35Z"
 }
