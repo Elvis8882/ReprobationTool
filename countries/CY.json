@@ -1,16 +1,70 @@
 {
   "country": "CY",
-  "score": 73,
+  "score": 71,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -2,
   "sources": 133,
   "sentiment": {
-    "positive": 8,
-    "neutral": 119,
+    "positive": 7,
+    "neutral": 120,
     "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "5e212c2302c7cf414be9ea059ef316e147e57c5a",
+      "title": "Iceland opposes E.U. membership talks as local concerns outweigh fears of Trump",
+      "summary": "Opponents of restarting negotiations to join the European Union argued that joining the bloc would undermine national control of fishing, farming and other top priorities.",
+      "url": "https://www.washingtonpost.com/world/2026/08/31/iceland-opposes-eu-membership-talks-local-concerns-outweigh-fears-trump/",
+      "source": "World (Washington post)",
+      "published_at": "2026-08-31T16:20:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "413e6b8cc2cd8fd7b3c016407ddb1806ebd7ab4d",
+      "title": "‘We Are Shattered’: Survivors Recall Chaos as Ferry Sank Near Cyprus",
+      "summary": "The vessel capsized in rough seas, leaving its passengers struggling to escape. Eight were killed and 20 are still missing.",
+      "url": "https://www.nytimes.com/2026/08/31/world/europe/cyprus-ferry-turkey.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-31T15:29:49+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ferry Sank Near Cyprus"
+    },
+    {
+      "id": "8b8dbefcc48a94fe6379962cfa98d3deff9e8983",
+      "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
+      "summary": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
+      "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-31T14:50:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "children missing after ferry sinks off northern Cyprus"
+    },
+    {
+      "id": "52cf6c159d1b654cbc8f4cef4d784652e179ed0a",
+      "title": "Nearly 20 people still missing after ferry capsizes ⁠off northern Cyprus",
+      "summary": "Divers join search teams scouring deep waters for ⁠any survivors, with eight people so far confirmed to have diedNearly 20 people are still missing after a ferry capsized ⁠off northern Cyprus, killing at least eight, as…",
+      "url": "https://www.theguardian.com/world/2026/aug/31/missing-ferry-capsizes-cyprus",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-31T09:49:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "ferry capsizes ⁠off northern Cyprus"
+    },
+    {
+      "id": "29542525d5c20e5623d351d81973a26af63d0eba",
+      "title": "Ferry Carrying Hundreds of Passengers Capsizes Off Coast of Cyprus",
+      "summary": "Local authorities said 267 people were aboard the catamaran-type vessel when it began taking on water shortly after its departure from Kyrenia.",
+      "url": "https://www.nytimes.com/2026/08/30/world/europe/cyprus-ferry-capsizes-turkey.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-30T21:10:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ferry Carrying Hundreds of Passengers Capsizes Off Coast of Cyprus"
+    },
     {
       "id": "4a5618ffd87846f5d4ec053c9af15a6a087349d2",
       "title": "Iceland rejects EU accession talks in referendum after divisive campaign",
@@ -164,58 +218,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "drop-off in customers wanting to travel to Cyprus"
-    },
-    {
-      "id": "7f0138098fff42ef3743c99af0c57f40856fda17",
-      "title": "Europe Gets Its Starlink Rival, Expands IRIS Satellite Constellation",
-      "summary": "The European Commission plans to begin launching the first satellites in 2029 (Representational)",
-      "url": "https://www.ndtv.com/world-news/europe-gets-its-starlink-rival-expands-iris-satellite-constellation-11882249#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-08-08T05:50:31+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "cfc81ce7d452d1dcf627e0a0b2fe9f6b99f64ee5",
-      "title": "Sanchez vs Meloni: Spain imposes Italy border checks as Ceuta migrant row escalates",
-      "summary": "Spain has implemented temporary border checks on travelers arriving by air and sea from Italy, intensifying tensions between these two European Union nations regarding migration policies. Italy had previously enacted sim…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/sanchez-vs-meloni-spain-imposes-italy-border-checks-as-ceuta-migrant-row-escalates/articleshow/133045024.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-08-08T02:02:20+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "9b34c9d4c1d541276fd48b98c0910e1758c07d49",
-      "title": "Europe chemicals prices climb in June on previous month, soar year on year - ICIS",
-      "summary": "Europe chemicals prices climb in June on previous month, soar year on year&nbsp;&nbsp;ICISDrop in energy prices drive fall in Eurozone producer prices in June&nbsp;&nbsp;TradingViewEuro Area producer prices register firs…",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ3pCVDEwMTR2MENUTDYxdktrSHBBb1VudmNudDQwS05YOXV1NWhUTlNYZHQ5RFVWTHJpb054MW9vblVvdDhIRVpQaHpaNm91LWFxRUhKdFg0LTJIdFlrTWdyMm94WEk2YVJKUXNFa19xendyMWg5YTQ3QXd0UDJuVk9NUXVNS2ZaRnB0SDNZc1I4cnY1cHBwSC1hMGRqX3FUMGE1Sk1ZZ25ZUkJHc0dPd3hfNzRXQlZYZTlsUllCUVhEazdNdUhkcWR3S2ZQU0lPbnJ3?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-06T12:16:47+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "eae1edfc4bef5c580e9ac52d9a5ce89790ee39cb",
-      "title": "Hungary comes ‘within millimetres’ of shutting down nuclear power plant amid drought crisis – Europe live",
-      "summary": "EU says it is monitoring energy crunch in Hungary, Bulgaria and Romania as extreme heat and low water levels in Danube pose challenges in regionMeanwhile, the European Commission said it was “monitoring very closely” the…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-04T10:48:29+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "2dea8ed3ee664e387eea4ec75010cf698dab881d",
-      "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
-      "summary": "European Commission president says work needed in five areas of migration control including returning more peopleThe president of the European Commission has called for action to strengthen Europe’s borders after tens of…",
-      "url": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-03T17:44:01+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-30T14:30:35Z"
+  "last_updated": "2026-08-31T17:04:50Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "DZ",
   "score": 55,
-  "score_label": "Negative",
-  "assessment": "High negative coverage",
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 2,
+  "sources": 3,
   "sentiment": {
     "positive": 0,
-    "neutral": 1,
+    "neutral": 2,
     "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "71ec75783a5873159aee96238ccaa6b60d2e5638",
+      "title": "Algeria president seeks death penalty for arsonists after deadly forest fires",
+      "summary": "President Abdelmadjid Tebboune says he is not ruling out foul play after 100 wildfires were recorded.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-31T08:13:40+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "deadly forest fires"
+    },
     {
       "id": "506810ba8502e158dd68503921f1c035e91abc35",
       "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
@@ -35,5 +46,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-30T14:30:35Z"
+  "last_updated": "2026-08-31T17:04:50Z"
 }

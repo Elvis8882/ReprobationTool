@@ -1,16 +1,49 @@
 {
   "country": "JO",
-  "score": 76,
+  "score": 75,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 45,
+  "trend": -1,
+  "sources": 48,
   "sentiment": {
     "positive": 1,
-    "neutral": 11,
-    "negative": 33
+    "neutral": 12,
+    "negative": 35
   },
   "latest_articles": [
+    {
+      "id": "413c41fd139d690118528952fbd43a90cdc5a9c9",
+      "title": "Trump warns 'we're going to hit them hard' after Iran targets U.S. forces in Jordan: Report",
+      "summary": "The latest attacks prompted oil prices to climb above $90 a barrel, as energy market participants monitored the prospect of renewed supply risks.",
+      "url": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-08-31T15:33:30+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "U.S. forces in Jordan"
+    },
+    {
+      "id": "01273f5eeed2e60bc756ff79ce7de3284d0d9e4b",
+      "title": "First US military attacks on Iran in a month prompt retaliation",
+      "summary": "US attacks Iranian rocket launchers on island in strait of Hormuz and Tehran targets US bases in Jordan and UAEThe US has reverted to military attacks on Iran for the first time in a month, firing missiles and drones at…",
+      "url": "https://www.theguardian.com/world/2026/aug/30/us-strikes-iranian-launchers-on-larak-island-amid-strait-of-hormuz-tensions",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-31T09:37:19+00:00",
+      "sentiment": "negative",
+      "confidence": 0.4,
+      "evidence": "Tehran targets US bases in Jordan"
+    },
+    {
+      "id": "92ad4310eaa02f3977bf01f6c2837526bd43cc71",
+      "title": "Monday briefing: Nepal and Tibet’s floods are a warning for the future",
+      "summary": "In today’s newsletter: As rescuers search for survivors after catastrophic floods, the disaster offers a stark warning about the climate risks facing the region, and the worldGood morning. Over the weekend, rescue worker…",
+      "url": "https://www.theguardian.com/world/2026/aug/30/monday-briefing-nepal-and-tibets-floods-are-a-warning-for-the-future",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-31T05:44:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Iran has launched retaliatory strikes on airbases in Jordan"
+    },
     {
       "id": "d754b55eb3e4eff7b623f43864e5189891063154",
       "title": "Monday briefing: How the new phase of confrontation at al-Aqsa signals a challenge to the status quo",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Iran responded with attacks in Syria and Jordan"
-    },
-    {
-      "id": "0e4f5c08fb5d0f085a407367bc63fed72addb11f",
-      "title": "Another U.S. Service Member Is Killed as Iran War Expands",
-      "summary": "The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said “unidentified remains” were found in Jordan, where an earlier attack had left two soldiers dead and a…",
-      "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
-      "source": "NYT > World News",
-      "published_at": "2026-07-20T10:34:37+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "found in Jordan, where an earlier attack had left two soldiers dead"
-    },
-    {
-      "id": "57fa1df8487e528cf5420e0ebf6c6010ba7ab3b3",
-      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed - BBC",
-      "summary": "Trump says US strikes hit Iran in 'honour' of American soldiers killed&nbsp;&nbsp;BBCUS bombing of Iran expands as American troops killed and Tehran retaliates against the Gulf states&nbsp;&nbsp;AP NewsTrump says new Ira…",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ncUZlTmlVRTlRajA5ZlVWRURzQkR4MTk4TUlKdURpVml0TUcxS1F4ZEtKM3NCcUFkczAyVE5MWG9oTkpYbk11Y2F1M2ZKZE11UDRQMmtxNVJVQQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-20T06:31:55+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "killed in Jordan, Iraq attacks"
-    },
-    {
-      "id": "9d1ca5a294313eeb6f55bdccae51aba46e9910d3",
-      "title": "US says another troop killed as Israel warns Tehran’s attacks coming close",
-      "summary": "US military says service member was killed in Iraq during ‘controlled detonation’ as it launches more airstrikes at IranMiddle East crisis live: follow latest updatesThe US military announced another death of a service m…",
-      "url": "https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-19T20:16:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Iran fired missiles toward Jordan that risked widening the conflict"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-30T14:30:35Z"
+  "last_updated": "2026-08-31T17:04:50Z"
 }

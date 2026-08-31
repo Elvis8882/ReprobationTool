@@ -1,14 +1,14 @@
 {
   "country": "SA",
-  "score": 60,
+  "score": 59,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 131,
+  "trend": -1,
+  "sources": 132,
   "sentiment": {
     "positive": 10,
     "neutral": 60,
-    "negative": 61
+    "negative": 62
   },
   "latest_articles": [
     {
@@ -21,6 +21,17 @@
       "sentiment": "negative",
       "confidence": 0.4,
       "evidence": "Saudi Tenant Linked To 9/11 Hijackers"
+    },
+    {
+      "id": "c29b304758a54c03bb327d976cf505102e2f687b",
+      "title": "Exeter University approves deal with Saudi Arabia to train military officers and officials",
+      "summary": "In move that could generate millions, Exeter academics to deliver MA at National Defense University in RiyadhThe University of Exeter has approved plans for a “formal partnership” with Saudi Arabia to train senior milita…",
+      "url": "https://www.theguardian.com/education/2026/aug/29/exeter-university-approves-deal-with-saudi-arabia-to-train-military-officers-and-officials",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-29T08:00:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "despite long-held concerns about the Saudi government’s human rights record"
     },
     {
       "id": "fde97915fc1665c499dbd2310d3296b95ee91b0b",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "signed defence pact with Saudi Arabia"
-    },
-    {
-      "id": "d16d38017cfe419907b86cfb7d2cbfdefd07c29e",
-      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-07T17:42:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Saudi Arabia, Turkey and Pakistan sign defence pact"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-30T14:30:35Z"
+  "last_updated": "2026-08-31T17:04:50Z"
 }

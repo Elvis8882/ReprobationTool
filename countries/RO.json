@@ -4,13 +4,23 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 142,
+  "sources": 137,
   "sentiment": {
-    "positive": 10,
-    "neutral": 116,
-    "negative": 16
+    "positive": 9,
+    "neutral": 113,
+    "negative": 15
   },
   "latest_articles": [
+    {
+      "id": "5e212c2302c7cf414be9ea059ef316e147e57c5a",
+      "title": "Iceland opposes E.U. membership talks as local concerns outweigh fears of Trump",
+      "summary": "Opponents of restarting negotiations to join the European Union argued that joining the bloc would undermine national control of fishing, farming and other top priorities.",
+      "url": "https://www.washingtonpost.com/world/2026/08/31/iceland-opposes-eu-membership-talks-local-concerns-outweigh-fears-trump/",
+      "source": "World (Washington post)",
+      "published_at": "2026-08-31T16:20:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "4a5618ffd87846f5d4ec053c9af15a6a087349d2",
       "title": "Iceland rejects EU accession talks in referendum after divisive campaign",
@@ -208,19 +218,8 @@
       "published_at": "2026-08-13T09:11:24+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "2669f1bf096e41e79bc06857496d0cde34c9d116",
-      "title": "Nuclear power plants are being shut down as Europe’s drought becomes an energy crisis",
-      "summary": "Heat and drought are curbing nuclear output across Europe, with Romania starting the process of disconnecting its sole working reactor from the power grid.",
-      "url": "https://www.cnbc.com/2026/08/12/europe-heat-drought-nuclear-power.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-08-13T08:10:39+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Heat and drought are curbing nuclear output across Europe"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-30T14:30:35Z"
+  "last_updated": "2026-08-31T17:04:50Z"
 }
