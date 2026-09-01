@@ -1,16 +1,27 @@
 {
   "country": "IS",
-  "score": 75,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": -6,
-  "sources": 24,
+  "score": 67,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": -8,
+  "sources": 28,
   "sentiment": {
     "positive": 6,
     "neutral": 14,
-    "negative": 4
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "c9ada295d15b9de69296ebcc370e7d371f2696f9",
+      "title": "Iceland’s close ties with EU mean no vote is not a Brexit-style rejection",
+      "summary": "A yes to membership would have given Brussels a boost but Icelanders have not voted to isolate themselves Iceland’s 52.8% to 47.2% vote against reopening EU accession talks is, undeniably, a blow for Brussels. But claimi…",
+      "url": "https://www.theguardian.com/world/2026/sep/01/iceland-ties-eu-no-vote-not-brexit-style-rejection",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-01T04:00:43+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Iceland’s vote against reopening EU accession talks"
+    },
     {
       "id": "5e212c2302c7cf414be9ea059ef316e147e57c5a",
       "title": "Iceland opposes E.U. membership talks as local concerns outweigh fears of Trump",
@@ -43,6 +54,39 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "rejects EU accession talks"
+    },
+    {
+      "id": "f1e27afd54f7a3f83db66fe9e7a7ff2b65338e23",
+      "title": "Iceland Votes to Steer Clear of European Union Talks",
+      "summary": "After a divisive national debate, Icelanders rejected a proposal to resume negotiations on joining the bloc, according to the national broadcaster.",
+      "url": "https://www.nytimes.com/2026/08/30/world/europe/iceland-eu-referendum-talks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-30T11:57:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Iceland Votes to Steer Clear of European Union Talks"
+    },
+    {
+      "id": "a3d0d3ca0dff3984e45bdd42ddd97dd1dba8beca",
+      "title": "Iceland votes against restarting talks on joining EU",
+      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
+      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-08-30T10:49:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Iceland votes against restarting talks on joining EU"
+    },
+    {
+      "id": "bc8b8af2c82b90055a1e21e84b820abff6b67d2e",
+      "title": "Definitely no or maybe yes: what tipped the Icelandic referendum | Miranda Bryant",
+      "summary": "The no campaign was well-funded and accused of scaremongering, but the wording of the question may also have made a differenceIt was always going to be a close contest. But on the night, the figures showed just how divid…",
+      "url": "https://www.theguardian.com/world/2026/aug/30/definitely-no-or-maybe-yes-what-tipped-the-icelandic-referendum",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-30T09:37:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "whether or not to restart negotiations with the European Union."
     },
     {
       "id": "f12e0cb7ce8b307c7be6b0df95f9f1755fa1c1f2",
@@ -186,52 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Iceland’s capital, Reykjavík, has seen one of the biggest jumps"
-    },
-    {
-      "id": "3b07a6d0d0120f887b38ddbc6545b28f9a0eca8f",
-      "title": "Perseid meteor shower set to dazzle northern hemisphere this week",
-      "summary": "Astronomers say viewing conditions promising for this year’s shower, and 50 to 100 meteors an hour may be visibleThe Perseid summer light show is back, and viewing conditions are especially promising across the northern…",
-      "url": "https://www.theguardian.com/science/2026/aug/09/perseid-meteor-shower",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-09T18:43:55+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "total solar eclipse across Spain, Iceland and Greenland"
-    },
-    {
-      "id": "e3806ed204ca21de4aede45f6885f083ab0a8614",
-      "title": "Scientists in Iceland are turning carbon dioxide into stone by injecting it into volcanic rock, and it could redefine the fight against climate change",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/science/scientists-in-iceland-are-turning-carbon-dioxide-into-stone-by-injecting-it-into-volcanic-rock-and-it-could-redefine-the-fight-against-climate-change/articleshow/132852635.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-08-04T08:24:56+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Scientists in Iceland are turning carbon dioxide into stone"
-    },
-    {
-      "id": "9d24765066aa51d5a898566fa0d83251129c0cf6",
-      "title": "The world's largest waterfall isn't on land. It is hidden beneath the ocean, where billions of litres of water plunge every second",
-      "summary": "An immense underwater waterfall exists between Greenland and Iceland.  Cold, dense seawater sinks beneath warmer Atlantic waters creating this cascade.  This hidden giant plays a crucial role in ocean currents and global…",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/the-worlds-largest-waterfall-isnt-on-land-it-is-hidden-beneath-the-ocean-where-billions-of-litres-of-water-plunge-every-second/articleshow/132573338.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-07-23T06:26:22+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "between Greenland and Iceland"
-    },
-    {
-      "id": "17ff8a48a9953dc00e5b2f925650e384803e37e0",
-      "title": "MEPs mull European rocket launchers strategy to compete with US",
-      "summary": "The proposal could also extend EU space programme funding to Norway, Iceland and Liechtenstein",
-      "url": "https://www.euractiv.com/news/meps-mull-european-rocket-launchers-strategy-to-compete-with-us/",
-      "source": "Euractiv",
-      "published_at": "2026-06-19T10:59:31+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "extend EU space programme funding to Norway, Iceland and Liechtenstein"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-31T17:04:50Z"
+  "last_updated": "2026-09-01T14:12:09Z"
 }

@@ -3,14 +3,25 @@
   "score": 61,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 361,
+  "trend": 0,
+  "sources": 360,
   "sentiment": {
-    "positive": 40,
-    "neutral": 249,
+    "positive": 41,
+    "neutral": 247,
     "negative": 72
   },
   "latest_articles": [
+    {
+      "id": "57488a09ef0ac69aede6ea27b9d321392a337d70",
+      "title": "Los Angeles villa that was hub for German exiles fleeing Nazis reopens after narrow wildfire escape",
+      "summary": "Spectacular Villa Aurora, which was nearly destroyed in last year’s fires, leading the recovery as Pacific Palisades emerges from a dark chapterA hillside villa that served as a cultural hub for German writers and artist…",
+      "url": "https://www.theguardian.com/us-news/2026/sep/01/california-villa-aurora-wildfires",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-01T13:00:58+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "hub for German writers and artists fleeing the Nazis"
+    },
     {
       "id": "5e212c2302c7cf414be9ea059ef316e147e57c5a",
       "title": "Iceland opposes E.U. membership talks as local concerns outweigh fears of Trump",
@@ -86,6 +97,16 @@
       "sentiment_fallback": true
     },
     {
+      "id": "f1e27afd54f7a3f83db66fe9e7a7ff2b65338e23",
+      "title": "Iceland Votes to Steer Clear of European Union Talks",
+      "summary": "After a divisive national debate, Icelanders rejected a proposal to resume negotiations on joining the bloc, according to the national broadcaster.",
+      "url": "https://www.nytimes.com/2026/08/30/world/europe/iceland-eu-referendum-talks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-30T11:57:15+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "73148a1d700e6d2790491fd04b6057bbb069216f",
       "title": "AA could face £5bn takeover move by German insurer Allianz, reports claim - The Guardian",
       "summary": "AA could face £5bn takeover move by German insurer Allianz, reports claim&nbsp;&nbsp;The GuardianGerman insurance giant Allianz eyes £5bn takeover bid for the AA&nbsp;&nbsp;The TimesGerman insurer Allianz weighs £5bn tak…",
@@ -95,6 +116,16 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "German insurer Allianz eyes £5bn takeover bid"
+    },
+    {
+      "id": "bc8b8af2c82b90055a1e21e84b820abff6b67d2e",
+      "title": "Definitely no or maybe yes: what tipped the Icelandic referendum | Miranda Bryant",
+      "summary": "The no campaign was well-funded and accused of scaremongering, but the wording of the question may also have made a differenceIt was always going to be a close contest. But on the night, the figures showed just how divid…",
+      "url": "https://www.theguardian.com/world/2026/aug/30/definitely-no-or-maybe-yes-what-tipped-the-icelandic-referendum",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-30T09:37:29+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "1450871e5e2d10c0fd490e27a04ebdf24f0c92c1",
@@ -191,41 +222,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Volkswagen CEO warns German workers of sweeping layoffs to come"
-    },
-    {
-      "id": "b1d03f74af8a34fda1efaaef30d0233aa2bd5c85",
-      "title": "Malaria, Likely Spread by Mosquito on Plane, Kills 2 Airport Workers in Germany",
-      "summary": "Six employees at Frankfurt Airport were infected this summer, according to German health officials and the airport’s operator. Four recovered.",
-      "url": "https://www.nytimes.com/2026/08/27/world/europe/malaria-deaths-frankfurt-airport.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-27T18:04:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Kills 2 Airport Workers in Germany"
-    },
-    {
-      "id": "90286007d0b43d6569e34420d75493ae2c192804",
-      "title": "Two German Airport Workers Die Of Malaria After Infected Mosquitoes Arrived On Plane",
-      "summary": "Mosquito traps have now been placed around Frankfurt Airport.",
-      "url": "https://www.ndtv.com/world-news/two-german-airport-workers-die-of-malaria-after-infected-mosquitoes-arrived-on-plane-11968388#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-08-27T17:54:02+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Two German Airport Workers Die Of Malaria"
-    },
-    {
-      "id": "622362d2449f0f9f1312a4e26ad36c361a87d2c1",
-      "title": "Two killed in 'domestic violence incident' at school near Berlin",
-      "summary": "Police have arrested a 19-year-old male suspect after an incident in which two people were killed near the German capital.",
-      "url": "https://www.bbc.co.uk/news/articles/cgqdy8g2zlgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-27T17:07:32+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Two killed in 'domestic violence incident' at school"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-31T17:04:50Z"
+  "last_updated": "2026-09-01T14:12:09Z"
 }

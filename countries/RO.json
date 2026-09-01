@@ -1,14 +1,14 @@
 {
   "country": "RO",
-  "score": 92,
+  "score": 93,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 137,
+  "trend": 1,
+  "sources": 134,
   "sentiment": {
     "positive": 9,
-    "neutral": 113,
-    "negative": 15
+    "neutral": 111,
+    "negative": 14
   },
   "latest_articles": [
     {
@@ -38,6 +38,26 @@
       "url": "https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html",
       "source": "International: Top News And Analysis",
       "published_at": "2026-08-30T12:32:44+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "f1e27afd54f7a3f83db66fe9e7a7ff2b65338e23",
+      "title": "Iceland Votes to Steer Clear of European Union Talks",
+      "summary": "After a divisive national debate, Icelanders rejected a proposal to resume negotiations on joining the bloc, according to the national broadcaster.",
+      "url": "https://www.nytimes.com/2026/08/30/world/europe/iceland-eu-referendum-talks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-30T11:57:15+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "bc8b8af2c82b90055a1e21e84b820abff6b67d2e",
+      "title": "Definitely no or maybe yes: what tipped the Icelandic referendum | Miranda Bryant",
+      "summary": "The no campaign was well-funded and accused of scaremongering, but the wording of the question may also have made a differenceIt was always going to be a close contest. But on the night, the figures showed just how divid…",
+      "url": "https://www.theguardian.com/world/2026/aug/30/definitely-no-or-maybe-yes-what-tipped-the-icelandic-referendum",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-30T09:37:29+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -197,29 +217,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Romania shuts its last nuclear reactor as drought-hit Danube river drops"
-    },
-    {
-      "id": "91fd82f2cc467e1d4ffc93a1f7f7bd525d286062",
-      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-13T19:46:27+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Romania shuts only nuclear plant as heat causes huge drop"
-    },
-    {
-      "id": "327dfe751601ec32100a0c985f5a5d856e6fdbe9",
-      "title": "Industrial production stable in the euro area and up by 0.2% in the EU - European Commission",
-      "summary": "Industrial production stable in the euro area and up by 0.2% in the EU&nbsp;&nbsp;European CommissionEuro area industrial output holds flat in June&nbsp;&nbsp;investingLiveEuro Area Industrial Output Stalls in June&nbsp;…",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RTzA3Und6VzZOaGVHSXpqeHhZMnB0Ny0xMWFXam9HcWxrQ2FXUHJYWlR5TURXTlNjMXJuc1ZOdUVwQTV0bDNaZnpfZVVpNlFDRzBZT1pzRjFhSmJteFNNazhDWElMSEdhSDZiaEk2VjJRSk5yQlg5YUNLSUZTZDg?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-13T09:11:24+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-31T17:04:50Z"
+  "last_updated": "2026-09-01T14:12:09Z"
 }

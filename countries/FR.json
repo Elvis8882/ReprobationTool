@@ -3,14 +3,36 @@
   "score": 58,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 553,
+  "trend": 0,
+  "sources": 550,
   "sentiment": {
     "positive": 60,
-    "neutral": 403,
+    "neutral": 400,
     "negative": 90
   },
   "latest_articles": [
+    {
+      "id": "d893e3a16160dc7ba5e5045e31da861df3f4c4fc",
+      "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+      "summary": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.",
+      "url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-01T07:30:49+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "French subsidiary Pollen Robotics has sold more than 10,000 units"
+    },
+    {
+      "id": "291084dbe2ef2914e1139c274f6179ab2a4563aa",
+      "title": "Édouard Balladur, Embattled French Prime Minister, Dies at 97",
+      "summary": "His time in office coincided with France’s fraught role in the 1994 Rwandan genocide and the corruption scandal known as the Karachi affair.",
+      "url": "https://www.nytimes.com/2026/08/31/world/europe/edouard-balladur-dead.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-31T19:57:42+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "France’s fraught role in the 1994 Rwandan genocide and the corruption scandal"
+    },
     {
       "id": "5e212c2302c7cf414be9ea059ef316e147e57c5a",
       "title": "Iceland opposes E.U. membership talks as local concerns outweigh fears of Trump",
@@ -20,6 +42,28 @@
       "published_at": "2026-08-31T16:20:00+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "61a5d241d883d8df1224d84ad6b2831be18860cd",
+      "title": "Djokovic's Grand Slam future uncertain after brutal US Open defeat - France 24",
+      "summary": "Djokovic's Grand Slam future uncertain after brutal US Open defeat&nbsp;&nbsp;France 24US Open 2026: Novak Djokovic breaks down in tears during loss to Mariano Navone in New York&nbsp;&nbsp;BBCUS Open: Novak Djokovic los…",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdEJLbmRzQ0pfbTVubzlLclpXdVlJd3NZZ2JDQ2h5ZjBjWmpHUjVvYkFNNVM0N2xPanhVdnZMZjVyMlZRMlg1eXltbEdDblltUm5jQVhLY1lObHA5TXd2YXZ6Y1NzLUM5d0w0UHFma0Y3TXdvNE1Tak85T0JZTXlrMEdMTncxRjdIS180ZWNEbXQtaHhiZV94Qk5NM0ZjekJYUTJIMVhpNWxVajVKWUdhdWoyUQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-08-31T15:15:16+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Djokovic's Grand Slam future uncertain after brutal US Open defeat"
+    },
+    {
+      "id": "ebdbb3ae00381e28c84ccac59016f0adef13c05a",
+      "title": "British family pleads with French authorities to release body of relative who died in Channel",
+      "summary": "Jasmeet Wadhwa, who fled Taliban persecution in Afghanistan, lost his life while trying to reach UK in AprilA British family is pleading with French authorities to release the body of a relative that officials have held…",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/31/british-family-plead-with-french-authorities-to-release-body-of-relative-who-died-in-the-channel",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-31T13:36:18+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "British family pleads with French authorities to release body"
     },
     {
       "id": "064d11b1bedef01c7473eb999d6fd346b42102a3",
@@ -61,6 +105,26 @@
       "url": "https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html",
       "source": "International: Top News And Analysis",
       "published_at": "2026-08-30T12:32:44+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "f1e27afd54f7a3f83db66fe9e7a7ff2b65338e23",
+      "title": "Iceland Votes to Steer Clear of European Union Talks",
+      "summary": "After a divisive national debate, Icelanders rejected a proposal to resume negotiations on joining the bloc, according to the national broadcaster.",
+      "url": "https://www.nytimes.com/2026/08/30/world/europe/iceland-eu-referendum-talks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-30T11:57:15+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "bc8b8af2c82b90055a1e21e84b820abff6b67d2e",
+      "title": "Definitely no or maybe yes: what tipped the Icelandic referendum | Miranda Bryant",
+      "summary": "The no campaign was well-funded and accused of scaremongering, but the wording of the question may also have made a differenceIt was always going to be a close contest. But on the night, the figures showed just how divid…",
+      "url": "https://www.theguardian.com/world/2026/aug/30/definitely-no-or-maybe-yes-what-tipped-the-icelandic-referendum",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-30T09:37:29+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -158,73 +222,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Backing Off French Issue Could Restart U.S. Trade Talks"
-    },
-    {
-      "id": "657eb5648b6e0566ac496af5d20c910899658243",
-      "title": "Jellyfish force partial shutdown of French nuclear plant",
-      "summary": "It is the second consecutive year that jellyfish has forced the closure of the Gravelines power station in northern France.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8znx3g4e2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-27T14:49:23+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Jellyfish force partial shutdown of French nuclear plant"
-    },
-    {
-      "id": "1790e84855d673fafb41f02f2ced24fb660dbfdc",
-      "title": "Fastest-growing Ebola outbreak on record threatens to become worst in history - The Washington Post",
-      "summary": "Fastest-growing Ebola outbreak on record threatens to become worst in history&nbsp;&nbsp;The Washington PostAfter 100 days of the deadliest Ebola outbreak, it can be stopped. Here’s how&nbsp;&nbsp;The GuardianSecond meet…",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXRpTkZCc2ZJQ2VpbUpQRXpnanYzeVZEQk51V0lCMUJRLXlSMHJabmRfWEZRa0g2MXlWMk03dFp6SlRySUxteDMxbW9mTXZSZVZ4TmdYWng3S1F4NWRsNHFVb2xCcjR2RGZidmlvYTJ3X1BhcWkyMkhuMFdGQnUzUFlSSXMzazV1Ykczd3NMb0xmYzJ5UF8wTm5pSU1PcFNUU2pHNmlaYVdiQnluYnBiWVhn?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-26T09:33:43+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "area 'bigger than France'"
-    },
-    {
-      "id": "c3b1580079203f1a574281d26634363ef7d9c05b",
-      "title": "Ancient Lebanese Treasures Take a Journey From Modern-Day Conflict",
-      "summary": "Artifacts from Byblos have been on display in Paris in a show that highlights how modern-day conflict in the Middle East imperils the cultural heritage of the region.",
-      "url": "https://www.nytimes.com/2026/08/26/world/middleeast/lebanon-byblos-israel.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-26T09:02:23+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Artifacts from Byblos have been on display in Paris"
-    },
-    {
-      "id": "490195b991306dabf5ede0f51869a2b288d0a7e1",
-      "title": "Moringa lattes and tigernut kebabs: the young Ghanaians ‘taking back the power’ of their food",
-      "summary": "In Ghana, a grassroots movement is championing nutritious, homegrown, climate-resilient produce, rather than western importsAfter three years at catering school, Abiro Wisdom was certain of one thing – he did not want to…",
-      "url": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-26T09:00:39+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "focusing on French, Italian and Mexican cuisine"
-    },
-    {
-      "id": "8db01ff08663f7d3c4065b0ed9aa7d04a6328e1c",
-      "title": "Latvia to spend 30 million euros hiring diplomats for next EU presidency",
-      "summary": "In preparation for Latvia's next presidency of the Council of the European Union in the second half of 2028, dozens of extra posts at diplomatic missions are planned.",
-      "url": "https://eng.lsm.lv/article/politics/diplomacy/26.08.2026-latvia-to-spend-30-million-euros-hiring-diplomats-for-next-eu-presidency.a660416/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-08-26T08:52:14+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "4f1d340071a64363bd6dfb3d6d69f63eac2aab14",
-      "title": "Raygun opens up on her infamous Olympics breakdancing debut: ‘not as bad as I thought!’ - The Guardian",
-      "summary": "Raygun opens up on her infamous Olympics breakdancing debut: ‘not as bad as I thought!’&nbsp;&nbsp;The GuardianRaygun has made peace with the Paris Olympics — after a lot of therapy&nbsp;&nbsp;CNNBreaking's next move: es…",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaDljcjdNd0N4TWNfazJzWXA0VGpjMVpnVFlkeHlYQzR0a0dxbHBEOFNMSjdNOU9lLTRBMlc0Nk1BbHVvdTZLam1Yd1BqS0lkRVAyX0xVU0EtYk1XSzVxRkIxXzVBS0NleE90SThwNjVTRWJQRFRVcERJUWVFWi1ENXpMSmhDd05zVlhtdzhnODVCTVpCR3MwY004czQ2TjgwQjlidnF0djNIQ2xTSXlUU2FfOHJnMVFWUnVXUkVNUWk?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-26T07:02:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Raygun opens up on her infamous Olympics breakdancing debut"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-31T17:04:50Z"
+  "last_updated": "2026-09-01T14:12:09Z"
 }

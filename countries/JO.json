@@ -3,14 +3,36 @@
   "score": 75,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -1,
-  "sources": 48,
+  "trend": 0,
+  "sources": 50,
   "sentiment": {
     "positive": 1,
-    "neutral": 12,
-    "negative": 35
+    "neutral": 13,
+    "negative": 36
   },
   "latest_articles": [
+    {
+      "id": "ba4d34d97a69031accdeab9bb979a140c5936790",
+      "title": "Tehran urges return to June deal, oil prices rise as Trump vows to hit Iran 'hard'",
+      "summary": "Iran launched an attack on two American bases in Jordan on Monday in retaliation for the U.S. attack on its Larak Island.",
+      "url": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-01T12:22:42+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "American bases in Jordan"
+    },
+    {
+      "id": "20436c3fa08bc58cd737e2aa1ab348cfb63d08e1",
+      "title": "Trump threatens further action as US and Iran exchange fire in new flare-up",
+      "summary": "Washington says it acted after observing Iran was planning to deploy fresh mines in strait of HormuzThe US and Iran have exchanged fire for the first time in a month, with missiles and drones fired at Iranian rocket laun…",
+      "url": "https://www.theguardian.com/world/2026/aug/31/trump-threatens-further-action-us-iran-exchange-fire",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-31T17:13:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Iran targeting US military bases in Jordan"
+    },
     {
       "id": "413c41fd139d690118528952fbd43a90cdc5a9c9",
       "title": "Trump warns 'we're going to hit them hard' after Iran targets U.S. forces in Jordan: Report",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "targets in Bahrain and Jordan"
-    },
-    {
-      "id": "5c26de214e0c9827f4ed5219455f9d3eb876cf72",
-      "title": "A Red Sea blockade threatens a new front in U.S.-Iran war",
-      "summary": "After a 10th night of U.S. strikes, Tehran retaliated with fresh attacks in Jordan and Bahrain.",
-      "url": "https://www.washingtonpost.com/world/2026/07/21/red-sea-blockade-threatens-new-front-us-iran-war/",
-      "source": "World (Washington post)",
-      "published_at": "2026-07-21T09:41:29+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "attacks in Jordan"
-    },
-    {
-      "id": "9a7f8b7533256b90079a3ac20500a345db2552f0",
-      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-      "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
-      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-20T11:18:40+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Iran responded with attacks in Syria and Jordan"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-08-31T17:04:50Z"
+  "last_updated": "2026-09-01T14:12:09Z"
 }
