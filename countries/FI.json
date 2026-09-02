@@ -4,10 +4,10 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 137,
+  "sources": 133,
   "sentiment": {
-    "positive": 18,
-    "neutral": 114,
+    "positive": 17,
+    "neutral": 111,
     "negative": 5
   },
   "latest_articles": [
@@ -78,6 +78,16 @@
       "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-referendum-what-to-know.html",
       "source": "NYT > World News",
       "published_at": "2026-08-29T04:01:14+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "e4a5bf572109e3fc4b5e3ffe1c4944d0fede5ddb",
+      "title": "‘The Sauna Is Hot and Uncomfortable’: Vote on E.U. Talks Makes Iceland Sweat",
+      "summary": "The usually genial country has been bitterly divided over a vote this weekend on whether to enter membership talks with the European Union.",
+      "url": "https://www.nytimes.com/2026/08/28/world/europe/iceland-european-union-vote.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-28T15:08:22+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -205,18 +215,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Russian family denied asylum in Finland fear reprisals for pro-Ukraine"
-    },
-    {
-      "id": "7f0138098fff42ef3743c99af0c57f40856fda17",
-      "title": "Europe Gets Its Starlink Rival, Expands IRIS Satellite Constellation",
-      "summary": "The European Commission plans to begin launching the first satellites in 2029 (Representational)",
-      "url": "https://www.ndtv.com/world-news/europe-gets-its-starlink-rival-expands-iris-satellite-constellation-11882249#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-08-08T05:50:31+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-01T14:12:09Z"
+  "last_updated": "2026-09-02T13:37:22Z"
 }

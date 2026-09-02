@@ -1,16 +1,27 @@
 {
   "country": "DK",
-  "score": 86,
+  "score": 87,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 132,
+  "trend": 1,
+  "sources": 129,
   "sentiment": {
-    "positive": 8,
-    "neutral": 122,
+    "positive": 9,
+    "neutral": 118,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "d08d6e315613c7ed29ce271484aef1b9385206b9",
+      "title": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions",
+      "summary": "To protect its waters from overexposure to nitrates, Denmark is proposing a crackdown on fertilizer use. Farmers aren’t happy.",
+      "url": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-01T19:18:46+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Denmark is proposing a crackdown on fertilizer use"
+    },
     {
       "id": "5e212c2302c7cf414be9ea059ef316e147e57c5a",
       "title": "Iceland opposes E.U. membership talks as local concerns outweigh fears of Trump",
@@ -78,6 +89,16 @@
       "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-referendum-what-to-know.html",
       "source": "NYT > World News",
       "published_at": "2026-08-29T04:01:14+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "e4a5bf572109e3fc4b5e3ffe1c4944d0fede5ddb",
+      "title": "‘The Sauna Is Hot and Uncomfortable’: Vote on E.U. Talks Makes Iceland Sweat",
+      "summary": "The usually genial country has been bitterly divided over a vote this weekend on whether to enter membership talks with the European Union.",
+      "url": "https://www.nytimes.com/2026/08/28/world/europe/iceland-european-union-vote.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-28T15:08:22+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -196,28 +217,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Denmark Faced a Conservation Dilemma"
-    },
-    {
-      "id": "f21cfbebab0e38acc09700eae03feb4fac9d38a5",
-      "title": "Europe is racing to eradicate a crayfish that can reproduce without mating; in the Czech Republic...",
-      "summary": "European conservationists are launching a campaign to eradicate new populations of marbled crayfish, notorious for their rapid reproduction and the deadly diseases they carry. Funded by the European Union, these swift ac…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/europe-is-racing-to-eradicate-a-crayfish-that-can-reproduce-without-mating-in-the-czech-republic-two-newly-detected-populations-are-being-targeted-before-they-spread/articleshow/133248632.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-08-14T19:22:44+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "327dfe751601ec32100a0c985f5a5d856e6fdbe9",
-      "title": "Industrial production stable in the euro area and up by 0.2% in the EU - European Commission",
-      "summary": "Industrial production stable in the euro area and up by 0.2% in the EU&nbsp;&nbsp;European CommissionEuro area industrial output holds flat in June&nbsp;&nbsp;investingLiveEuro Area Industrial Output Stalls in June&nbsp;…",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RTzA3Und6VzZOaGVHSXpqeHhZMnB0Ny0xMWFXam9HcWxrQ2FXUHJYWlR5TURXTlNjMXJuc1ZOdUVwQTV0bDNaZnpfZVVpNlFDRzBZT1pzRjFhSmJteFNNazhDWElMSEdhSDZiaEk2VjJRSk5yQlg5YUNLSUZTZDg?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-13T09:11:24+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-01T14:12:09Z"
+  "last_updated": "2026-09-02T13:37:22Z"
 }

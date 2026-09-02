@@ -4,10 +4,10 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 168,
+  "sources": 163,
   "sentiment": {
     "positive": 17,
-    "neutral": 146,
+    "neutral": 141,
     "negative": 5
   },
   "latest_articles": [
@@ -89,6 +89,16 @@
       "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-referendum-what-to-know.html",
       "source": "NYT > World News",
       "published_at": "2026-08-29T04:01:14+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "e4a5bf572109e3fc4b5e3ffe1c4944d0fede5ddb",
+      "title": "‘The Sauna Is Hot and Uncomfortable’: Vote on E.U. Talks Makes Iceland Sweat",
+      "summary": "The usually genial country has been bitterly divided over a vote this weekend on whether to enter membership talks with the European Union.",
+      "url": "https://www.nytimes.com/2026/08/28/world/europe/iceland-european-union-vote.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-28T15:08:22+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -207,19 +217,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "old masters of Dutch and Flemish painting"
-    },
-    {
-      "id": "7664de900b77afc68346913d855eb7a561ce9876",
-      "title": "Childhood Friends, Adopted From India, Discover They’re Sisters",
-      "summary": "Meena Geltink and Minal Tijssen were adopted from India by families in the Netherlands and grew up less than 100 miles apart.",
-      "url": "https://www.nytimes.com/2026/08/18/world/europe/friends-adopted-sisters-india-netherlands.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-18T09:02:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "families in the Netherlands"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-01T14:12:09Z"
+  "last_updated": "2026-09-02T13:37:22Z"
 }

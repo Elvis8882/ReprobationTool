@@ -1,16 +1,38 @@
 {
   "country": "DE",
-  "score": 61,
+  "score": 63,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 360,
+  "trend": 2,
+  "sources": 354,
   "sentiment": {
-    "positive": 41,
-    "neutral": 247,
-    "negative": 72
+    "positive": 42,
+    "neutral": 242,
+    "negative": 70
   },
   "latest_articles": [
+    {
+      "id": "90a76b863ea49da7200a950a006377d5503548a2",
+      "title": "Russia increasingly reckless, says Nato’s Rutte as Germany blames Moscow for Leipzig drone incident – Europe live",
+      "summary": "Nato’s Mark Rutte’s comments come as EU ministers meet to consider their response to drone attack last monthGerman police have opened a investigation into yesterday’s attempt to disrupt the operation of a power substatio…",
+      "url": "https://www.theguardian.com/world/live/2026/sep/02/europe-eu-germany-leipzig-drone-attack-russia-ukraine-macron-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-02T13:11:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Germany blames Moscow for Leipzig drone incident"
+    },
+    {
+      "id": "e830a7947dcc67e08a259d84d2d30d97613ba896",
+      "title": "Germany blames Russia for drone attack on airport, announces countermeasures",
+      "summary": "Officials said the Aug. 4 attempt was part of a campaign aimed at undermining European support for Ukraine against Russia.",
+      "url": "https://www.washingtonpost.com/world/2026/09/01/germany-blames-russia-drone-attack-airport-announces-countermeasures/",
+      "source": "World (Washington post)",
+      "published_at": "2026-09-01T22:23:57+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Germany blames Russia for drone attack on airport, announces countermeasures"
+    },
     {
       "id": "57488a09ef0ac69aede6ea27b9d321392a337d70",
       "title": "Los Angeles villa that was hub for German exiles fleeing Nazis reopens after narrow wildfire escape",
@@ -201,29 +223,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Berlin is being blackmailed by hackers, mayor says"
-    },
-    {
-      "id": "836717f2d177624249fd9ebce4bc0b9b5250f4e8",
-      "title": "Trump’s grab for Greenland rattles Iceland, which considers joining E.U.",
-      "summary": "Iceland will decide whether to restart talks on joining the European Union in a referendum on Saturday, with President Donald Trump's threat to annex Greenland a motivating factor.",
-      "url": "https://www.washingtonpost.com/world/2026/08/28/iceland-will-vote-restarting-negotiations-join-european-union/",
-      "source": "World (Washington post)",
-      "published_at": "2026-08-28T12:27:38+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "b6c37bf7fe73a5a73a3e25bdb8f0bc2477f53e53",
-      "title": "Volkswagen CEO warns German workers of sweeping layoffs to come",
-      "summary": "The automaker, one of the nation’s biggest employers, could shed tens of thousands of jobs amid global market shifts driven by electrification, AI and autonomous driving.",
-      "url": "https://www.washingtonpost.com/world/2026/08/28/volkswagen-ceo-warns-german-workers-sweeping-layoffs-come/",
-      "source": "World (Washington post)",
-      "published_at": "2026-08-28T09:00:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Volkswagen CEO warns German workers of sweeping layoffs to come"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-01T14:12:09Z"
+  "last_updated": "2026-09-02T13:37:22Z"
 }

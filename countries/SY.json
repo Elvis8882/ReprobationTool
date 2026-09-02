@@ -1,16 +1,27 @@
 {
   "country": "SY",
-  "score": 81,
+  "score": 80,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 51,
+  "trend": -1,
+  "sources": 52,
   "sentiment": {
     "positive": 1,
     "neutral": 24,
-    "negative": 26
+    "negative": 27
   },
   "latest_articles": [
+    {
+      "id": "5a96500539c79676c0732f3c5b36b947e26af90b",
+      "title": "Syria, eyeing role as Middle East hub, offers options to bypass Hormuz",
+      "summary": "The wartime blockage of cargo traffic in the Strait of Hormuz is a boon for Syria, which is poised to capitalize on a need for alternative transit routes for oil.",
+      "url": "https://www.washingtonpost.com/world/2026/09/02/syria-eyeing-role-middle-east-hub-offers-options-bypass-hormuz/",
+      "source": "World (Washington post)",
+      "published_at": "2026-09-02T09:00:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "boon for Syria, which is poised to capitalize on a need"
+    },
     {
       "id": "01a72fbe25cdd37a278492c5c3fae3376fc16bb6",
       "title": "Turkey and Israel Vie for Middle East Influence as Tensions Spike",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Syria Agrees to Reorganized Russian Military Presence"
-    },
-    {
-      "id": "35e98b896d87e04746d9b2f507dbe71b953e2750",
-      "title": "Actor, Engineer, Extremist's Widow Among Syria's New Women MPs",
-      "summary": "The parliament held its opening session in July",
-      "url": "https://www.ndtv.com/world-news/actress-engineer-jihadists-widow-among-syrias-new-women-mps-11877561#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-08-07T07:38:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Syria's New Women MPs"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-01T14:12:09Z"
+  "last_updated": "2026-09-02T13:37:22Z"
 }

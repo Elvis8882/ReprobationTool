@@ -4,13 +4,57 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 561,
+  "sources": 553,
   "sentiment": {
-    "positive": 27,
-    "neutral": 185,
-    "negative": 349
+    "positive": 26,
+    "neutral": 176,
+    "negative": 351
   },
   "latest_articles": [
+    {
+      "id": "f68dbfeae48aef6438869fac7b5baed541d1b71f",
+      "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
+      "summary": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
+      "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-02T05:03:09+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel expanding positions"
+    },
+    {
+      "id": "3da3ed249d39df332642871eec5f28b7d59617ea",
+      "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
+      "summary": "Israel said it seized the head of Hamas’s internal security force in the deadly operation. Fighting has continued in the enclave despite a U.S.-backed truce.",
+      "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-02T03:27:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli Raid in Gaza Kills 4"
+    },
+    {
+      "id": "77086b03c526840e504a767e77f5a5094efbac3a",
+      "title": "Israeli Authorities Charge 12 Guards in Beating Death of Palestinian Prisoner",
+      "summary": "The rare prosecution comes amid widespread reports from rights groups about mistreatment in Israeli detention centers, where, activists say, scores of Palestinians have died since October 2023.",
+      "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-guards-palestinian-prisoner.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-01T21:47:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli Authorities Charge 12 Guards in Beating Death of Palestinian Prisoner"
+    },
+    {
+      "id": "fa0d3213626d8c09f5cc2e060b54dd9e157c1576",
+      "title": "Ed Miliband promises ‘comprehensive reset’ of UK policy toward Israel",
+      "summary": "Foreign secretary tells MPs he will try to stop illegal settlements carving up the West BankEd Miliband has promised to “reset” Britain’s policy on Israel, saying he will try to stop British companies helping build settl…",
+      "url": "https://www.theguardian.com/politics/2026/sep/01/ed-miliband-promises-reset-of-uk-policy-toward-israel",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-01T18:37:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "stop illegal settlements carving up the West Bank"
+    },
     {
       "id": "1452b76e2d1ae5d8995219041d991e4fc95f73f8",
       "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
@@ -21,6 +65,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Israel says senior Hamas member seized as strikes kill three"
+    },
+    {
+      "id": "50361988254dd999676a1c58be8cd907ded4bc06",
+      "title": "\"Ethnic Cleansing\": Israeli Ex-Generals On Attacks In West Bank",
+      "summary": "The Israeli military has rejected claims that it supports violent settlers.",
+      "url": "https://www.ndtv.com/world-news/ethnic-cleansing-israeli-ex-generals-on-attacks-in-west-bank-11986303#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-01T09:36:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli Ex-Generals On Attacks In West Bank"
     },
     {
       "id": "73072ff617ce8a23c225033409cff48a33bfccc2",
@@ -34,6 +89,17 @@
       "evidence": "visit of Israeli president Isaac Herzog"
     },
     {
+      "id": "e519b94f479c9dcba01fab6a866ca65dd17ee98d",
+      "title": "Mansour Abbas Recruits Yoav Segalovitz to Join Raam Party in Israeli Election",
+      "summary": "Mansour Abbas has recruited a Jewish lawmaker best known for reducing the crime rate in Arab cities. Could that be enough to get Mr. Abbas a seat in the next government?",
+      "url": "https://www.nytimes.com/2026/08/31/world/middleeast/israel-raam-recruits-zionist.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-01T04:07:48+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Raam Party in Israeli Election"
+    },
+    {
       "id": "48dff5a29e7bd1b4f01758adccaf1ae9c3df288d",
       "title": "Israel and Greece Reach $3.5 Billion Defense Deal",
       "summary": "Despite the growing diplomatic isolation of the government, the agreement makes clear that the Israeli defense industry is still finding considerable demand abroad.",
@@ -43,6 +109,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Israel and Greece Reach $3.5 Billion Defense Deal"
+    },
+    {
+      "id": "58bd93cde81f55d2eec4692f2c604d4b6830dca1",
+      "title": "Morocco not to blame for Ceuta border breach, says Spanish PM",
+      "summary": "Pedro Sánchez says two countries cooperating and accuses Israel and Russia of spreading fake news about migrationSpain’s prime minister, Pedro Sánchez, has said there is no evidence to suggest the Moroccan government was…",
+      "url": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez",
+      "source": "World news - The Guardian",
+      "published_at": "2026-08-31T10:21:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "accuses Israel and Russia of spreading fake news"
     },
     {
       "id": "bad0f71f9c2d7bc0b62ffff7ed8d54393a9a7273",
@@ -153,85 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Israeli settler violence in occupied West Bank"
-    },
-    {
-      "id": "d9a4bcff8ff4668abf4a8a8b94a5304cd6d61250",
-      "title": "Iran calls for global pushback against U.S. sanctions, says diplomacy 'isn't impossible'",
-      "summary": "Iran said the conflict in the Gaza Strip has to end, Israel has to withdraw from Lebanon and also halt its attacks on Syria.",
-      "url": "https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-08-28T12:39:02+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Israel has to withdraw from Lebanon and also halt its attacks on Syria."
-    },
-    {
-      "id": "abd8e6afd9c1153f77d6f4cd1f5025f86929a4b3",
-      "title": "Bondi library returns book How to Sell a Genocide to shelves after State Library ‘outlines the law’",
-      "summary": "Book was removed for review earlier this month following complaint but reinstated after petition and State Library letter to Waverley councilFollow our Australia news live blog for latest updatesGet our breaking news ema…",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/28/sydney-library-returns-book-how-to-sell-a-genocide-to-shelves-after-state-library-intervenes-ntwnfb",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-28T04:25:16+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "book critical of Israel"
-    },
-    {
-      "id": "abe4d85973bf3fcf12eb4dbf76ad96184af6e5ec",
-      "title": "Hanochi brings power and purpose as Israel fights to stay in running - The Jerusalem Post",
-      "summary": "Hanochi brings power and purpose as Israel fights to stay in running&nbsp;&nbsp;The Jerusalem PostChasing perfection: Can Poland reach elusive 12-0?&nbsp;&nbsp;FIBAIsrael faces Poland in Latvia in a critical battle to ke…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YLUpuUDlrc3doSW1jejZsMjFzUUlVSmt1R0R4ZTBDMDcyNDRINmNNazFLVWNxZWd0czlreDUtV3ROblh2Y1BWZXpJQmVzeVBac0pMZ1pHOG9idzZOOEFiNVU3MzR4UQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-28T04:17:25+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Israel fights to stay in running"
-    },
-    {
-      "id": "17195c2718379dbc918173c81294fed6b8134566",
-      "title": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
-      "summary": "Nickolay Mladenov warns that a collapse of last October's ceasefire would be \"a point of no return\" for the region.",
-      "url": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-27T14:17:24+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "criticises Israeli strikes"
-    },
-    {
-      "id": "980d6cccbe3497f977f2a850f77475c10fa89009",
-      "title": "Man who attacked nun on CCTV in Jerusalem acquitted on grounds of mental health",
-      "summary": "A Jerusalem court said the Jewish attacker was having a psychotic episode when he assaulted the nun, in an incident which caused outrage.",
-      "url": "https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-27T11:23:28+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Jerusalem court said the Jewish attacker was having a psychotic episode"
-    },
-    {
-      "id": "bf8f21dfa22ee61cd1db8703fe7a52d859f5967f",
-      "title": "Scenes From a Destroyed Barbershop in Lebanon",
-      "summary": "Our reporter Abdi Latif Dahir visits a barbershop in Lebanon that was demolished in an Israeli airstrike in the conflict between Israel and Hezbollah.",
-      "url": "https://www.nytimes.com/video/world/middleeast/100000011005726/scenes-from-a-destroyed-barbershop-in-lebanon.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-27T10:28:17+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "demolished in an Israeli airstrike in the conflict between Israel and Hezbollah."
-    },
-    {
-      "id": "47bd033b1168667066c3377100f7149654d189f0",
-      "title": "Iran weighs harsh penalties for contact with outside media in ‘foreign influence’ bill",
-      "summary": "The push comes nearly six months after the U.S. and Israel launched the war, with no immediate diplomatic breakthrough in sight.",
-      "url": "https://www.washingtonpost.com/world/2026/08/27/iran-weighs-harsh-penalties-contact-with-outside-media-foreign-influence-bill/",
-      "source": "World (Washington post)",
-      "published_at": "2026-08-27T09:00:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "U.S. and Israel launched the war"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-01T14:12:09Z"
+  "last_updated": "2026-09-02T13:37:22Z"
 }

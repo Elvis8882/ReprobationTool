@@ -3,14 +3,25 @@
   "score": 93,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 158,
+  "trend": 0,
+  "sources": 155,
   "sentiment": {
     "positive": 8,
-    "neutral": 138,
+    "neutral": 135,
     "negative": 12
   },
   "latest_articles": [
+    {
+      "id": "89efde81f9fab39ec72ca29d2e93611a60c8f81d",
+      "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
+      "summary": "As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape.",
+      "url": "https://www.nytimes.com/2026/09/01/world/europe/greece-wildfires-ancient-sites.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-01T10:59:16+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Greece Is Trying. Can Ancient Ruins Be Protected From Wildfires?"
+    },
     {
       "id": "48dff5a29e7bd1b4f01758adccaf1ae9c3df288d",
       "title": "Israel and Greece Reach $3.5 Billion Defense Deal",
@@ -100,6 +111,16 @@
       "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-referendum-what-to-know.html",
       "source": "NYT > World News",
       "published_at": "2026-08-29T04:01:14+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "e4a5bf572109e3fc4b5e3ffe1c4944d0fede5ddb",
+      "title": "‘The Sauna Is Hot and Uncomfortable’: Vote on E.U. Talks Makes Iceland Sweat",
+      "summary": "The usually genial country has been bitterly divided over a vote this weekend on whether to enter membership talks with the European Union.",
+      "url": "https://www.nytimes.com/2026/08/28/world/europe/iceland-european-union-vote.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-28T15:08:22+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -196,29 +217,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Two dead and hundreds evacuated after twin fires break out on Greek island"
-    },
-    {
-      "id": "3bb636151863d96822e2178e4030fa3a116de957",
-      "title": "Safety check calls after Irish teenager electrocuted taking shower in Greece",
-      "summary": "Alex McKee died when picking up showerhead in ‘outdoor and rudimentary’ bathroom on KimolosThe death of an Irish teenager, electrocuted while taking a shower in a holiday home in Greece, has led to calls for tighter chec…",
-      "url": "https://www.theguardian.com/world/2026/aug/15/irish-teenager-electrocuted-shower-greece",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-15T14:26:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "electrocuted taking shower in Greece"
-    },
-    {
-      "id": "f21cfbebab0e38acc09700eae03feb4fac9d38a5",
-      "title": "Europe is racing to eradicate a crayfish that can reproduce without mating; in the Czech Republic...",
-      "summary": "European conservationists are launching a campaign to eradicate new populations of marbled crayfish, notorious for their rapid reproduction and the deadly diseases they carry. Funded by the European Union, these swift ac…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/europe-is-racing-to-eradicate-a-crayfish-that-can-reproduce-without-mating-in-the-czech-republic-two-newly-detected-populations-are-being-targeted-before-they-spread/articleshow/133248632.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-08-14T19:22:44+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-01T14:12:09Z"
+  "last_updated": "2026-09-02T13:37:22Z"
 }

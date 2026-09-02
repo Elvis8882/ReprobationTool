@@ -1,13 +1,13 @@
 {
   "country": "AT",
-  "score": 80,
+  "score": 78,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 128,
+  "trend": -2,
+  "sources": 122,
   "sentiment": {
-    "positive": 7,
-    "neutral": 118,
+    "positive": 6,
+    "neutral": 113,
     "negative": 3
   },
   "latest_articles": [
@@ -91,6 +91,16 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Vienna museum"
+    },
+    {
+      "id": "e4a5bf572109e3fc4b5e3ffe1c4944d0fede5ddb",
+      "title": "‘The Sauna Is Hot and Uncomfortable’: Vote on E.U. Talks Makes Iceland Sweat",
+      "summary": "The usually genial country has been bitterly divided over a vote this weekend on whether to enter membership talks with the European Union.",
+      "url": "https://www.nytimes.com/2026/08/28/world/europe/iceland-european-union-vote.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-28T15:08:22+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "ca01dbb3476b82de6352d32a6eed40090fc7e62b",
@@ -205,19 +215,8 @@
       "published_at": "2026-08-13T09:11:24+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "1e68297ffe92b8176980e3b7290a4e2380692ad6",
-      "title": "Weather tracker: Europe breaks more heat records as temperatures soar",
-      "summary": "Drought and wildfires intensify across continent, while tropical storms bring heavy rain and disruption to east AsiaEurope live – latest updatesHigh pressure has dominated central and eastern Europe in early August, brea…",
-      "url": "https://www.theguardian.com/environment/2026/aug/10/weather-tracker-europe-break-heat-records-temperatures-drought-wildfires",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-10T09:32:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Austria recorded a high of 41.2C"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-01T14:12:09Z"
+  "last_updated": "2026-09-02T13:37:22Z"
 }

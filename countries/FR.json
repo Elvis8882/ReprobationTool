@@ -1,16 +1,49 @@
 {
   "country": "FR",
-  "score": 58,
+  "score": 59,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 550,
+  "trend": 1,
+  "sources": 541,
   "sentiment": {
-    "positive": 60,
-    "neutral": 400,
-    "negative": 90
+    "positive": 59,
+    "neutral": 395,
+    "negative": 88
   },
   "latest_articles": [
+    {
+      "id": "9a2a4630ae2a03142e9dde66cc04918dd44b04d7",
+      "title": "Earth Set To Overshoot Paris Agreement's 1.5 Degree Threshold Of Warming: UN",
+      "summary": "Optimistic scenario puts peak temperature rise at 1.8 degree Celsius over pre-industrial levels",
+      "url": "https://www.ndtv.com/world-news/earth-set-to-overshoot-paris-agreements-1-5-degree-threshold-of-warming-un-11990296#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-02T05:09:43+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Earth Set To Overshoot Paris Agreement's 1.5 Degree Threshold"
+    },
+    {
+      "id": "291084dbe2ef2914e1139c274f6179ab2a4563aa",
+      "title": "Édouard Balladur, Embattled French Prime Minister, Dies at 97",
+      "summary": "His time in office coincided with France’s fraught role in the 1994 Rwandan genocide and the corruption scandal known as the Karachi affair.",
+      "url": "https://www.nytimes.com/2026/08/31/world/europe/edouard-balladur-dead.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-01T18:41:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "France’s fraught role in the 1994 Rwandan genocide and the corruption scandal"
+    },
+    {
+      "id": "f8870adb1678347488a4e4f818926487b6c1f396",
+      "title": "Pistol in a lake gives hope for French cold case",
+      "summary": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
+      "url": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-01T16:33:29+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Pistol in a lake gives hope for French cold case"
+    },
     {
       "id": "d893e3a16160dc7ba5e5045e31da861df3f4c4fc",
       "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
@@ -21,17 +54,6 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "French subsidiary Pollen Robotics has sold more than 10,000 units"
-    },
-    {
-      "id": "291084dbe2ef2914e1139c274f6179ab2a4563aa",
-      "title": "Édouard Balladur, Embattled French Prime Minister, Dies at 97",
-      "summary": "His time in office coincided with France’s fraught role in the 1994 Rwandan genocide and the corruption scandal known as the Karachi affair.",
-      "url": "https://www.nytimes.com/2026/08/31/world/europe/edouard-balladur-dead.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-31T19:57:42+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "France’s fraught role in the 1994 Rwandan genocide and the corruption scandal"
     },
     {
       "id": "5e212c2302c7cf414be9ea059ef316e147e57c5a",
@@ -160,6 +182,16 @@
       "sentiment_fallback": true
     },
     {
+      "id": "e4a5bf572109e3fc4b5e3ffe1c4944d0fede5ddb",
+      "title": "‘The Sauna Is Hot and Uncomfortable’: Vote on E.U. Talks Makes Iceland Sweat",
+      "summary": "The usually genial country has been bitterly divided over a vote this weekend on whether to enter membership talks with the European Union.",
+      "url": "https://www.nytimes.com/2026/08/28/world/europe/iceland-european-union-vote.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-28T15:08:22+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "2c3daa57705aca6912dea1568fada920e80fbe44",
       "title": "French far-right leader Jordan Bardella to address Reform UK party conference",
       "summary": "Speech part of effort to strengthen National Rally party’s international ties before Marine Le Pen’s presidential bidThe French far-right leader Jordan Bardella is to give a speech at Reform UK’s party conference in Birm…",
@@ -190,40 +222,8 @@
       "published_at": "2026-08-28T12:27:38+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "75ea2b4095463028d34c609ad96f0bd0121ec133",
-      "title": "Russia says UK ‘playing with fire’ amid reports CIA chief has warned Kremlin not to attack Nato",
-      "summary": "Moscow threatens retaliation after Andy Burnham says UK will help Ukraine start producing long-range missilesRussia has said it could retaliate against the UK for its support of Kyiv by striking military targets inside a…",
-      "url": "https://www.theguardian.com/world/2026/aug/27/britain-ukraine-war-russia",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-27T19:26:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "France has also agreed to supply missile technology."
-    },
-    {
-      "id": "d4fef58cbdf742d39218c1f8977b59abf012e3fd",
-      "title": "Nordic and Baltic parliamentary speakers meet in Iceland",
-      "summary": "The speakers of the Nordic and Baltic parliaments are meeting in Iceland on Thursday and Friday for&nbsp;their annual get-together and to&nbsp;observe&nbsp;the referendum on the resumption of Iceland's&nbsp;European Unio…",
-      "url": "https://eng.lsm.lv/article/politics/diplomacy/27.08.2026-nordic-and-baltic-parliamentary-speakers-meet-in-iceland.a660441/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-08-27T16:52:49+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "8f81763dac7d4a35efb16c307d9c2005e4fd6e8e",
-      "title": "Backing Off French Issue Could Restart U.S. Trade Talks, Canadian Official Says",
-      "summary": "The minister in charge of trade with the United States was responding to comments by Jamieson Greer, the U.S. trade representative, to a Canadian broadcaster.",
-      "url": "https://www.nytimes.com/2026/08/27/world/canada/trade-war-french-language.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-27T16:43:20+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Backing Off French Issue Could Restart U.S. Trade Talks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-01T14:12:09Z"
+  "last_updated": "2026-09-02T13:37:22Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "LB",
-  "score": 40,
+  "score": 41,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 3,
-  "sources": 159,
+  "trend": 1,
+  "sources": 151,
   "sentiment": {
     "positive": 7,
-    "neutral": 64,
-    "negative": 88
+    "neutral": 57,
+    "negative": 87
   },
   "latest_articles": [
+    {
+      "id": "f68dbfeae48aef6438869fac7b5baed541d1b71f",
+      "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
+      "summary": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
+      "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-02T05:03:09+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "occupied Lebanon"
+    },
     {
       "id": "d9a4bcff8ff4668abf4a8a8b94a5304cd6d61250",
       "title": "Iran calls for global pushback against U.S. sanctions, says diplomacy 'isn't impossible'",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Israeli strike that killed journalist in Lebanon was war crime"
-    },
-    {
-      "id": "c837ad8e9a6c30aeb362a08fcd1dc9995d3673f2",
-      "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
-      "summary": "Lebanese authorities says one person was killed in the strikes, which came after the first Israeli military fatalities in Lebanon in more than a month.",
-      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-05T20:03:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "one person was killed in the strikes"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-01T14:12:09Z"
+  "last_updated": "2026-09-02T13:37:22Z"
 }

@@ -1,14 +1,14 @@
 {
   "country": "PL",
-  "score": 82,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 174,
+  "trend": 2,
+  "sources": 168,
   "sentiment": {
     "positive": 13,
-    "neutral": 130,
-    "negative": 31
+    "neutral": 126,
+    "negative": 29
   },
   "latest_articles": [
     {
@@ -78,6 +78,16 @@
       "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-referendum-what-to-know.html",
       "source": "NYT > World News",
       "published_at": "2026-08-29T04:01:14+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "e4a5bf572109e3fc4b5e3ffe1c4944d0fede5ddb",
+      "title": "‘The Sauna Is Hot and Uncomfortable’: Vote on E.U. Talks Makes Iceland Sweat",
+      "summary": "The usually genial country has been bitterly divided over a vote this weekend on whether to enter membership talks with the European Union.",
+      "url": "https://www.nytimes.com/2026/08/28/world/europe/iceland-european-union-vote.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-28T15:08:22+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -206,18 +216,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Poland says it thwarted Russian assassination attempt on U.S. citizen in Warsaw"
-    },
-    {
-      "id": "327dfe751601ec32100a0c985f5a5d856e6fdbe9",
-      "title": "Industrial production stable in the euro area and up by 0.2% in the EU - European Commission",
-      "summary": "Industrial production stable in the euro area and up by 0.2% in the EU&nbsp;&nbsp;European CommissionEuro area industrial output holds flat in June&nbsp;&nbsp;investingLiveEuro Area Industrial Output Stalls in June&nbsp;…",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RTzA3Und6VzZOaGVHSXpqeHhZMnB0Ny0xMWFXam9HcWxrQ2FXUHJYWlR5TURXTlNjMXJuc1ZOdUVwQTV0bDNaZnpfZVVpNlFDRzBZT1pzRjFhSmJteFNNazhDWElMSEdhSDZiaEk2VjJRSk5yQlg5YUNLSUZTZDg?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-13T09:11:24+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-01T14:12:09Z"
+  "last_updated": "2026-09-02T13:37:22Z"
 }

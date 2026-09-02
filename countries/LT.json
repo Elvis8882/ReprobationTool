@@ -4,10 +4,10 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 160,
+  "sources": 156,
   "sentiment": {
     "positive": 30,
-    "neutral": 125,
+    "neutral": 121,
     "negative": 5
   },
   "latest_articles": [
@@ -89,6 +89,16 @@
       "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-referendum-what-to-know.html",
       "source": "NYT > World News",
       "published_at": "2026-08-29T04:01:14+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "e4a5bf572109e3fc4b5e3ffe1c4944d0fede5ddb",
+      "title": "‘The Sauna Is Hot and Uncomfortable’: Vote on E.U. Talks Makes Iceland Sweat",
+      "summary": "The usually genial country has been bitterly divided over a vote this weekend on whether to enter membership talks with the European Union.",
+      "url": "https://www.nytimes.com/2026/08/28/world/europe/iceland-european-union-vote.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-28T15:08:22+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -208,19 +218,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Latvian and Lithuanian PMs stress eastern border security"
-    },
-    {
-      "id": "9e644f9c9a137b1d22344afea1b944078656fdb3",
-      "title": "Baltic states reaffirm support for Ukraine on historic day in Tallinn",
-      "summary": "Today, on the 35th&nbsp;anniversary of the restoration of Estonia’s independence, President of the Riigikogu (parliament) of Estonia&nbsp;Lauri Hussar, Speaker of the Saeima of Latvia&nbsp;Daiga Mieriņa&nbsp;and Speaker…",
-      "url": "https://eng.lsm.lv/article/politics/diplomacy/20.08.2026-baltic-states-reaffirm-support-for-ukraine-on-historic-day-in-tallinn.a659626/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-08-20T11:18:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Lithuania...reaffirm their strong support for Ukraine"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-01T14:12:09Z"
+  "last_updated": "2026-09-02T13:37:22Z"
 }

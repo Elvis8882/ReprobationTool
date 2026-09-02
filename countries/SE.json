@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 149,
+  "sources": 145,
   "sentiment": {
-    "positive": 15,
-    "neutral": 127,
-    "negative": 7
+    "positive": 14,
+    "neutral": 123,
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "ff3cde2af9b7ee240da0292337864ea27b67f1ab",
+      "title": "Swedish minister defends strict post-Brexit removals of Britons",
+      "summary": "Minister says Sweden has ‘fulfilled its commitments’ amid criticism of ‘unjust’ decisions such as case of Joyce ThomasThe Swedish government has doubled down on its position on removing and deporting British citizens on…",
+      "url": "https://www.theguardian.com/world/2026/sep/02/swedish-minister-removals-deportations-britons-brexit",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-02T12:59:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Swedish minister defends strict post-Brexit removals of Britons"
+    },
     {
       "id": "5e212c2302c7cf414be9ea059ef316e147e57c5a",
       "title": "Iceland opposes E.U. membership talks as local concerns outweigh fears of Trump",
@@ -78,6 +89,16 @@
       "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-referendum-what-to-know.html",
       "source": "NYT > World News",
       "published_at": "2026-08-29T04:01:14+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "e4a5bf572109e3fc4b5e3ffe1c4944d0fede5ddb",
+      "title": "‘The Sauna Is Hot and Uncomfortable’: Vote on E.U. Talks Makes Iceland Sweat",
+      "summary": "The usually genial country has been bitterly divided over a vote this weekend on whether to enter membership talks with the European Union.",
+      "url": "https://www.nytimes.com/2026/08/28/world/europe/iceland-european-union-vote.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-28T15:08:22+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -197,29 +218,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "sword attack at Swedish school"
-    },
-    {
-      "id": "6d1f122a37b1707c2a600cdf3ebf89122470770d",
-      "title": "Baltic states reaffirm support for Ukraine on historic day in Tallinn / Article - LSM",
-      "summary": "Baltic states reaffirm support for Ukraine on historic day in Tallinn / Article&nbsp;&nbsp;LSMLatvian and Lithuanian Prime Ministers Discuss Hybrid Threats from Russia&nbsp;&nbsp;uatv.uaLithuania has called for Ukraine t…",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPak1pSnJVMGRJbEhNSFJLUXR0VzBKMWZXZmQwczExZTh2VjZFQ0c4dndkU3EybWNZek1ubVo5U1IwMTNOVnpUSlFpLUUya0t1TnlsdVNuRWpNZ1QzdnUxVHo4WENsN0dIQUhiR25QOGhaLVJtZHdoek1FenlHa3drZEtKY1VFSWRhZHF4YWQ5LWIxMjV4UVgxN1Z2QzBlMG1aNjFYV0R2UzQzZ2pWY3lBZlJ2a1BteGtqdW1UTVd2Z1VKSDh3emFKV0FYXzZWYk56?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-20T10:26:30+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "a17afd982358dbe58078334460fd6b9dcc3f75e2",
-      "title": "Swedish MP intervenes in ‘damaging’ Brexit row over elderly Britons ordered to leave",
-      "summary": "Migration minister asked how he intends to stop deportations of people ‘who had lived in Sweden for decades’The deportation and removal of British citizens from Sweden over Brexit residency rights is damaging relations w…",
-      "url": "https://www.theguardian.com/politics/2026/aug/18/swedish-mp-intervenes-brexit-row-elderly-britons-ordered-leave",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-18T18:44:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.4,
-      "evidence": "deportation and removal of British citizens from Sweden over Brexit residency rights"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-01T14:12:09Z"
+  "last_updated": "2026-09-02T13:37:22Z"
 }

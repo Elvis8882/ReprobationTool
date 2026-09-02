@@ -1,13 +1,13 @@
 {
   "country": "PT",
-  "score": 85,
+  "score": 81,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 130,
+  "trend": -4,
+  "sources": 124,
   "sentiment": {
-    "positive": 4,
-    "neutral": 125,
+    "positive": 3,
+    "neutral": 120,
     "negative": 1
   },
   "latest_articles": [
@@ -91,6 +91,16 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Portuguese researchers discover underground rock system to store renewable energy"
+    },
+    {
+      "id": "e4a5bf572109e3fc4b5e3ffe1c4944d0fede5ddb",
+      "title": "‘The Sauna Is Hot and Uncomfortable’: Vote on E.U. Talks Makes Iceland Sweat",
+      "summary": "The usually genial country has been bitterly divided over a vote this weekend on whether to enter membership talks with the European Union.",
+      "url": "https://www.nytimes.com/2026/08/28/world/europe/iceland-european-union-vote.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-28T15:08:22+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "836717f2d177624249fd9ebce4bc0b9b5250f4e8",
@@ -205,19 +215,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Lisbon"
-    },
-    {
-      "id": "bacf17e168dc09d809109924cc3f3df434c795ee",
-      "title": "Total solar eclipse 2026: Here’s where Americans will see today’s eclipse",
-      "summary": "Today brings a spectacular total solar eclipse as the Moon neatly aligns between Earth and the Sun. This extraordinary event will unveil its shadow over the Northern Hemisphere, with totality observable in regions like G…",
-      "url": "https://timesofindia.indiatimes.com/science/total-solar-eclipse-2026-will-americans-see-todays-eclipse-heres-where-it-is-visible/articleshow/133173633.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-08-12T06:49:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "certain areas of Spain and Portugal"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-01T14:12:09Z"
+  "last_updated": "2026-09-02T13:37:22Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "IT",
-  "score": 84,
+  "score": 85,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 256,
+  "trend": 1,
+  "sources": 253,
   "sentiment": {
-    "positive": 21,
-    "neutral": 202,
-    "negative": 33
+    "positive": 22,
+    "neutral": 199,
+    "negative": 32
   },
   "latest_articles": [
+    {
+      "id": "4c4a23e3537c7bc9d8102a4ae2abee131ac7a30b",
+      "title": "Talking With Giorgia Meloni",
+      "summary": "In an interview, Italy’s hard-right leader reveals how pragmatism is reshaping her vision for Europe.",
+      "url": "https://www.nytimes.com/2026/09/01/world/giorgia-meloni-interview-bonds-iran.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-02T04:18:16+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "pragmatism is reshaping her vision for Europe"
+    },
     {
       "id": "92f3fbb5a9efa005a331e0d1d1aa7d41d67b13fd",
       "title": "‘My jaw physically dropped like a cartoon’: US woman summoned to court on wedding day in Rome",
@@ -76,6 +87,17 @@
       "sentiment_fallback": true
     },
     {
+      "id": "a1fd8f09eb6fdd9484f83ee386f6a41567cca22f",
+      "title": "Trump’s ambassador to Italy is flaunting his wealth, and it’s dividing Italians",
+      "summary": "With a net worth of $11.1 billion, Tilman Fertitta, a great-grandson of Sicilian immigrants, is one of the wealthiest people ever to be a U.S. ambassador.",
+      "url": "https://www.washingtonpost.com/world/2026/08/30/trumps-ambassador-italy-conducts-love-boat-diplomacy-his-megayacht/",
+      "source": "World (Washington post)",
+      "published_at": "2026-08-30T13:09:33+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Trump’s ambassador to Italy is flaunting his wealth"
+    },
+    {
       "id": "09d550988502ce43e18e251d7b16f8c2f0e06bed",
       "title": "Icelanders reject reopening talks to join the EU despite Trump's Greenland threats",
       "summary": "Icelanders voted 52.8% to 47.2% against reopening talks to join the European Union.",
@@ -122,6 +144,16 @@
       "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-referendum-what-to-know.html",
       "source": "NYT > World News",
       "published_at": "2026-08-29T04:01:14+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "e4a5bf572109e3fc4b5e3ffe1c4944d0fede5ddb",
+      "title": "‘The Sauna Is Hot and Uncomfortable’: Vote on E.U. Talks Makes Iceland Sweat",
+      "summary": "The usually genial country has been bitterly divided over a vote this weekend on whether to enter membership talks with the European Union.",
+      "url": "https://www.nytimes.com/2026/08/28/world/europe/iceland-european-union-vote.html",
+      "source": "NYT > World News",
+      "published_at": "2026-08-28T15:08:22+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -186,41 +218,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Novelists Takes Aim at Italian Families"
-    },
-    {
-      "id": "418f2199043b83c87cb77c909ba7fea22e1f6345",
-      "title": "Giorgia Meloni Has a Lot to Say: The Takeaways",
-      "summary": "The Italian prime minister is leading what will soon be the longest-lasting government in the country’s postwar history. She shows herself by turns funny and fierce in a rare interview.",
-      "url": "https://www.nytimes.com/2026/08/21/world/europe/giorgia-meloni-rare-interview-takeaways.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-21T09:04:12+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "longest-lasting government in the country’s postwar history"
-    },
-    {
-      "id": "c89740ebc81a955e36e045991615b393a69e05d7",
-      "title": "Giorgia Meloni Cuts the Hard Right a Path to Power",
-      "summary": "In a rare interview, the onetime political outcast reflects on her route from “the uncomfortable side of history” to the threshold of leading Italy’s most durable postwar government.",
-      "url": "https://www.nytimes.com/2026/08/21/world/europe/italy-giorgia-meloni-interview-profile.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-21T09:01:20+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Giorgia Meloni Cuts the Hard Right a Path to Power"
-    },
-    {
-      "id": "8b65c32ad1d85b52b0b9596d7dbac7661ea52cec",
-      "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
-      "summary": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
-      "url": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-20T20:08:29+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Como mayor hit by electric bike"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-01T14:12:09Z"
+  "last_updated": "2026-09-02T13:37:22Z"
 }

@@ -19,8 +19,30 @@
     "MA",
     "RU"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-09-01T14:12:09+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-09-02T13:37:22+00:00",
+  "sentiment_by_country": {
+    "ES": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Morocco not to blame for Ceuta border breach"
+    },
+    "IL": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "accuses Israel and Russia of spreading fake news"
+    },
+    "MA": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Moroccan government was behind last month’s massive border crossing"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "accuses Israel and Russia of spreading fake news"
+    }
+  },
+  "processed_at": "2026-09-02T13:37:22+00:00"
 }
