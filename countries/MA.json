@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 57,
+  "sources": 58,
   "sentiment": {
     "positive": 2,
     "neutral": 33,
-    "negative": 24
+    "negative": 25
   },
   "latest_articles": [
+    {
+      "id": "11ae75dd60328ee1920ed1198a29f8fe7086649d",
+      "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
+      "summary": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross borderEurope live – latest updatesSpain has seen no evidence “whatsoever” that Morocco planned or facilitated a mass…",
+      "url": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-03T12:52:08+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Moroccan border forces had actively aided about 70,000 people"
+    },
     {
       "id": "8bc338b3ad984d9162e31bcac765fb13cff16f60",
       "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "Morocco feels emboldened"
-    },
-    {
-      "id": "9db07b01a6a2ea3a1cbe1402a84ff72d1a8aa3c2",
-      "title": "Migrant Crisis Reveals Vast Differences Between Ceuta and Its Moroccan Neighbor",
-      "summary": "Ceuta, Spain, and Fnideq, Morocco, are physically separated by only a mile, but they are intertwined by family and trade. A recent border crisis is the latest chapter in their story.",
-      "url": "https://www.nytimes.com/2026/08/05/world/europe/ceuta-spain-fnideq-morocco-migration.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-05T10:09:52+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Fnideq, Morocco, are physically"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-02T13:37:22Z"
+  "last_updated": "2026-09-03T13:34:36Z"
 }

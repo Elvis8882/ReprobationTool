@@ -4,13 +4,35 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 676,
+  "sources": 662,
   "sentiment": {
     "positive": 37,
-    "neutral": 90,
-    "negative": 551
+    "neutral": 85,
+    "negative": 542
   },
   "latest_articles": [
+    {
+      "id": "0621f3b78ea48070b39117c96377e9b34bae1343",
+      "title": "Putin floats 'chance' at peace with Ukraine as NATO chief warns Russia is becoming 'increasingly reckless'",
+      "summary": "Putin said peace with Ukraine remains possible while calling Kyiv’s warning on Russian airspace “state terrorism,” as NATO flags fresh risks.",
+      "url": "https://www.cnbc.com/2026/09/03/putin-peace-russia-ukraine-nato-defense.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-03T11:41:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "NATO chief warns Russia is becoming 'increasingly reckless'"
+    },
+    {
+      "id": "88ed7bf3ba6a04672374b370c885d155712372ee",
+      "title": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
+      "summary": "Each side is using missiles and drones to try to pound the other into giving up, breeding ceaseless human suffering. But there is no sign that either country’s determination will weaken.",
+      "url": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-03T11:35:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "For Russia and Ukraine, an Escalating Spiral With No End in Sight"
+    },
     {
       "id": "4ce72792147be16ffe4a5307b99ab6e41b9553dd",
       "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
@@ -65,6 +87,28 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Russia’s airspace is becoming unsafe for commercial airlines"
+    },
+    {
+      "id": "e14046376059231901d15197236b71637515fd5b",
+      "title": "Zelenskyy says airlines should avoid Russian airspace as Ukraine expands drone operations",
+      "summary": "Zelenskyy urged airlines to avoid Russian airspace, warning that expanding Ukrainian drone operations are making the skies increasingly unsafe.",
+      "url": "https://www.cnbc.com/2026/09/02/ukraine-zelenskyy-airlines-russia-drone-war.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-02T09:56:26+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "airlines should avoid Russian airspace as Ukraine expands drone operations"
+    },
+    {
+      "id": "cb52551bc432b86d179b9ce58dcbf6824b3822f6",
+      "title": "Attacks in Black Sea Threaten to Strangle Global Grain Supply",
+      "summary": "Strikes on ports and vessels by both Russia and Ukraine have left farmers facing ruin and could cause another worldwide food shock.",
+      "url": "https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-02T09:05:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Strikes on ports and vessels by both Russia"
     },
     {
       "id": "a3e4c7dac32726f596b0bd81ad7ed3afec6ae174",
@@ -186,52 +230,8 @@
       "sentiment": "negative",
       "confidence": 1.0,
       "evidence": "feeding Russia’s war in Ukraine"
-    },
-    {
-      "id": "067e4606c31167e1ab64901fc09bba9a5e838cc4",
-      "title": "Indian Among 12 Killed In Russian Attack On Kyiv, Says Ukraine's Zelensky",
-      "summary": "Ukraine has been engaged in war with Russia since February 2022",
-      "url": "https://www.ndtv.com/world-news/indian-among-12-killed-in-russian-attack-on-kyiv-says-ukraines-zelensky-11985931#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-01T07:48:04+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Russian Attack On Kyiv"
-    },
-    {
-      "id": "d1a645077425dd8f1460a07acfef93522d3a67a4",
-      "title": "CNBC Daily Open: A surprise seat for Russia at the G20 table",
-      "summary": "The appearance of Russia's Finance Minister at the G20 meeting in North Carolina sparks dismay amoung European officials.",
-      "url": "https://www.cnbc.com/2026/09/01/russia-g20-seat.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-09-01T06:24:46+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "sparks dismay amoung European officials"
-    },
-    {
-      "id": "e22c34e8bcc063b993cf911fd4a12c28e838bfc4",
-      "title": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
-      "summary": "Indian PM Narendra Modi has urged Russia to end the Ukraine war and to cease hostilities.",
-      "url": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-09-01T06:23:21+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "asks Putin to end Ukraine war"
-    },
-    {
-      "id": "1576d650bacde915efb34b25ded91ad632322de3",
-      "title": "Russian finance minister, invited by Trump, draws objections at G-20 meeting",
-      "summary": "As Moscow pounds Ukraine, the appearance by Finance Minister Anton Siluanov was “quite troubling,” said one attendee. U.S. officials cited a need for “dialogue.”",
-      "url": "https://www.washingtonpost.com/world/2026/08/31/russian-finance-minister-invited-by-trump-draws-objections-g-20-meeting/",
-      "source": "World (Washington post)",
-      "published_at": "2026-08-31T22:29:38+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Moscow pounds Ukraine"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-02T13:37:22Z"
+  "last_updated": "2026-09-03T13:34:36Z"
 }

@@ -1,16 +1,38 @@
 {
   "country": "ES",
-  "score": 46,
+  "score": 45,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 2,
-  "sources": 408,
+  "trend": -1,
+  "sources": 403,
   "sentiment": {
-    "positive": 30,
-    "neutral": 292,
-    "negative": 88
+    "positive": 28,
+    "neutral": 288,
+    "negative": 89
   },
   "latest_articles": [
+    {
+      "id": "11ae75dd60328ee1920ed1198a29f8fe7086649d",
+      "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
+      "summary": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross borderEurope live – latest updatesSpain has seen no evidence “whatsoever” that Morocco planned or facilitated a mass…",
+      "url": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-03T12:52:08+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Pedro Sánchez continues to defend Rabat"
+    },
+    {
+      "id": "292e784a2d86cce42b1f290d943e4bbd6e337cbc",
+      "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
+      "summary": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
+      "url": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-03T12:18:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis"
+    },
     {
       "id": "1f48d385726519f24f27423b6a987033bd497073",
       "title": "Nearly 2,000-year-old vessel with two snake heads found at Roman villa in Spain",
@@ -200,28 +222,8 @@
       "published_at": "2026-08-28T15:08:22+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "836717f2d177624249fd9ebce4bc0b9b5250f4e8",
-      "title": "Trump’s grab for Greenland rattles Iceland, which considers joining E.U.",
-      "summary": "Iceland will decide whether to restart talks on joining the European Union in a referendum on Saturday, with President Donald Trump's threat to annex Greenland a motivating factor.",
-      "url": "https://www.washingtonpost.com/world/2026/08/28/iceland-will-vote-restarting-negotiations-join-european-union/",
-      "source": "World (Washington post)",
-      "published_at": "2026-08-28T12:27:38+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "d4fef58cbdf742d39218c1f8977b59abf012e3fd",
-      "title": "Nordic and Baltic parliamentary speakers meet in Iceland",
-      "summary": "The speakers of the Nordic and Baltic parliaments are meeting in Iceland on Thursday and Friday for&nbsp;their annual get-together and to&nbsp;observe&nbsp;the referendum on the resumption of Iceland's&nbsp;European Unio…",
-      "url": "https://eng.lsm.lv/article/politics/diplomacy/27.08.2026-nordic-and-baltic-parliamentary-speakers-meet-in-iceland.a660441/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-08-27T16:52:49+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-02T13:37:22Z"
+  "last_updated": "2026-09-03T13:34:36Z"
 }

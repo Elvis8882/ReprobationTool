@@ -1,16 +1,38 @@
 {
   "country": "UA",
-  "score": 26,
+  "score": 24,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -4,
-  "sources": 627,
+  "trend": -2,
+  "sources": 619,
   "sentiment": {
-    "positive": 290,
-    "neutral": 96,
-    "negative": 242
+    "positive": 285,
+    "neutral": 94,
+    "negative": 241
   },
   "latest_articles": [
+    {
+      "id": "0621f3b78ea48070b39117c96377e9b34bae1343",
+      "title": "Putin floats 'chance' at peace with Ukraine as NATO chief warns Russia is becoming 'increasingly reckless'",
+      "summary": "Putin said peace with Ukraine remains possible while calling Kyiv’s warning on Russian airspace “state terrorism,” as NATO flags fresh risks.",
+      "url": "https://www.cnbc.com/2026/09/03/putin-peace-russia-ukraine-nato-defense.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-03T11:41:40+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Putin floats 'chance' at peace with Ukraine"
+    },
+    {
+      "id": "88ed7bf3ba6a04672374b370c885d155712372ee",
+      "title": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
+      "summary": "Each side is using missiles and drones to try to pound the other into giving up, breeding ceaseless human suffering. But there is no sign that either country’s determination will weaken.",
+      "url": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-03T11:35:44+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "But there is no sign that either country’s determination will weaken."
+    },
     {
       "id": "4ce72792147be16ffe4a5307b99ab6e41b9553dd",
       "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
@@ -43,6 +65,28 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "growing number of attack drones being flown into the country by Ukraine"
+    },
+    {
+      "id": "e14046376059231901d15197236b71637515fd5b",
+      "title": "Zelenskyy says airlines should avoid Russian airspace as Ukraine expands drone operations",
+      "summary": "Zelenskyy urged airlines to avoid Russian airspace, warning that expanding Ukrainian drone operations are making the skies increasingly unsafe.",
+      "url": "https://www.cnbc.com/2026/09/02/ukraine-zelenskyy-airlines-russia-drone-war.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-02T09:56:26+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukraine expands drone operations are making the skies increasingly unsafe."
+    },
+    {
+      "id": "cb52551bc432b86d179b9ce58dcbf6824b3822f6",
+      "title": "Attacks in Black Sea Threaten to Strangle Global Grain Supply",
+      "summary": "Strikes on ports and vessels by both Russia and Ukraine have left farmers facing ruin and could cause another worldwide food shock.",
+      "url": "https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-02T09:05:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Strikes on ports and vessels by both Russia and Ukraine"
     },
     {
       "id": "a3e4c7dac32726f596b0bd81ad7ed3afec6ae174",
@@ -186,52 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "70 thousand euros donated so far in LSM's campaign for Ukraine"
-    },
-    {
-      "id": "8ec6e4a140fa585a181a164ba2248e20da74a305",
-      "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
-      "summary": "The nearly constant air raids, a shift from years of largely overnight attacks, have left residents exhausted and on edge.",
-      "url": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-31T15:42:20+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "War in Kyiv... have left residents exhausted and on edge."
-    },
-    {
-      "id": "d07351cd784fb9a989da902998225cd4002edcd8",
-      "title": "‘Uncertainties’ rising: Xi calls for stronger cooperation in meeting with Putin",
-      "summary": "Russian President Vladimir Putin and Chinese President Xi Jinping met at the SCO summit. They discussed strengthening bilateral ties and international regional issues. Cooperation in artificial intelligence and digital i…",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/uncertainties-rising-xi-jinping-calls-for-stronger-china-russia-cooperation-in-meeting-with-putin-at-sco-summit/articleshow/133656849.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-08-31T15:37:51+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "touched upon the Ukraine conflict during their talks"
-    },
-    {
-      "id": "627f0a0cc63aa259af21d86e5a1724c7c1b60625",
-      "title": "Germany poised to identify suspect in Leipzig drone attack on Ukrainian plane",
-      "summary": "Berlin expected to outline response to incident this month widely speculated to have been coordinated by RussiaThe German government is imminently expected to announce who it believes was behind a suspected drone attack…",
-      "url": "https://www.theguardian.com/world/2026/aug/31/germany-leipzig-drone-attack-ukrainian-plane",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-31T14:14:56+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "drone attack on Ukrainian plane"
-    },
-    {
-      "id": "3bbe0932cd1a12d5bf8c09f6c01b44a8b641b2f3",
-      "title": "Russia preparing 'massive strikes' on Ukraine's energy sites after deadliest attack of the year",
-      "summary": "Russia's Defense Ministry has announced preparations for \"massive strikes\" on Ukraine's energy infrastructure.",
-      "url": "https://www.cnbc.com/2026/08/31/russia-massive-strikes-ukraine-energy-infrastructure.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-08-31T07:29:27+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "massive strikes' on Ukraine's energy sites"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-02T13:37:22Z"
+  "last_updated": "2026-09-03T13:34:36Z"
 }

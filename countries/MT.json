@@ -1,16 +1,27 @@
 {
   "country": "MT",
-  "score": 64,
+  "score": 62,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 110,
+  "trend": -2,
+  "sources": 107,
   "sentiment": {
     "positive": 2,
-    "neutral": 105,
-    "negative": 3
+    "neutral": 101,
+    "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "5c03405ea73e0b0c64e2964609caa9f8d4f19802",
+      "title": "Maltese tycoon found not guilty of involvement in Daphne Caruana Galizia murder",
+      "summary": "Yorgen Fenech cleared on both charges he faced over 2017 killing of journalist that prompted global outrageOne of Malta’s richest men has been found not guilty of involvement in the murder of the anti-corruption journali…",
+      "url": "https://www.theguardian.com/world/2026/sep/02/maltese-tycoon-yorgen-fenech-daphne-caruana-galizia-killing-not-guilty",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-02T19:26:32+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "found not guilty of involvement in the murder"
+    },
     {
       "id": "5e212c2302c7cf414be9ea059ef316e147e57c5a",
       "title": "Iceland opposes E.U. membership talks as local concerns outweigh fears of Trump",
@@ -204,18 +215,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Malta Road Accident"
-    },
-    {
-      "id": "7f0138098fff42ef3743c99af0c57f40856fda17",
-      "title": "Europe Gets Its Starlink Rival, Expands IRIS Satellite Constellation",
-      "summary": "The European Commission plans to begin launching the first satellites in 2029 (Representational)",
-      "url": "https://www.ndtv.com/world-news/europe-gets-its-starlink-rival-expands-iris-satellite-constellation-11882249#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-08-08T05:50:31+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-02T13:37:22Z"
+  "last_updated": "2026-09-03T13:34:36Z"
 }

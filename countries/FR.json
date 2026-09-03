@@ -3,14 +3,25 @@
   "score": 59,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 541,
+  "trend": 0,
+  "sources": 534,
   "sentiment": {
-    "positive": 59,
-    "neutral": 395,
-    "negative": 88
+    "positive": 58,
+    "neutral": 390,
+    "negative": 87
   },
   "latest_articles": [
+    {
+      "id": "a8c7acaa5b5c7a6d69396a5345a80d52b4f91383",
+      "title": "Vietnam Sentences 11 to Death Penalty in Drug Trafficking Case",
+      "summary": "The authorities said they uncovered the network after four flight attendants arriving from Paris were found with narcotics hidden in toothpaste tubes.",
+      "url": "https://www.nytimes.com/2026/09/03/world/asia/vietnam-death-penalty-drug-trafficking.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-03T11:48:18+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "arriving from Paris"
+    },
     {
       "id": "9a2a4630ae2a03142e9dde66cc04918dd44b04d7",
       "title": "Earth Set To Overshoot Paris Agreement's 1.5 Degree Threshold Of Warming: UN",
@@ -212,18 +223,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Rock en Seine: Visually impaired spectators enjoy festival"
-    },
-    {
-      "id": "836717f2d177624249fd9ebce4bc0b9b5250f4e8",
-      "title": "Trump’s grab for Greenland rattles Iceland, which considers joining E.U.",
-      "summary": "Iceland will decide whether to restart talks on joining the European Union in a referendum on Saturday, with President Donald Trump's threat to annex Greenland a motivating factor.",
-      "url": "https://www.washingtonpost.com/world/2026/08/28/iceland-will-vote-restarting-negotiations-join-european-union/",
-      "source": "World (Washington post)",
-      "published_at": "2026-08-28T12:27:38+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-02T13:37:22Z"
+  "last_updated": "2026-09-03T13:34:36Z"
 }

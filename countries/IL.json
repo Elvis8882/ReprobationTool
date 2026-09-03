@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 553,
+  "sources": 545,
   "sentiment": {
     "positive": 26,
-    "neutral": 176,
-    "negative": 351
+    "neutral": 171,
+    "negative": 348
   },
   "latest_articles": [
+    {
+      "id": "fd7fdb28a09f6811364e3a929dfc61b5b9970b08",
+      "title": "Israel ‘seeking Trump’s support for plan to expel Palestinians from Gaza’",
+      "summary": "Defence minister says he believes US backing could tip regional balance in favour of forced resettlementIsrael’s defence minister has said his country is seeking Donald Trump’s support to approve plans to expel Palestini…",
+      "url": "https://www.theguardian.com/world/2026/sep/02/israel-seeking-trumps-support-for-plan-to-expel-palestinians-from-gaza",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-02T18:20:36+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "plan to expel Palestinians from Gaza’... condemned as a potential war crime."
+    },
     {
       "id": "f68dbfeae48aef6438869fac7b5baed541d1b71f",
       "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Jerusalem's First Temple was unearthed by archaeologists"
-    },
-    {
-      "id": "a7f4b944d680bea9f7139f2e212f70975e421cea",
-      "title": "BBC tracks one week of Israeli settler violence in occupied West Bank",
-      "summary": "The BBC's Lucy Williamson reports on settler attacks on Palestinians, which have been observed over the last week alone.",
-      "url": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-28T14:06:13+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israeli settler violence in occupied West Bank"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-02T13:37:22Z"
+  "last_updated": "2026-09-03T13:34:36Z"
 }
