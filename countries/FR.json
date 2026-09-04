@@ -1,16 +1,26 @@
 {
   "country": "FR",
-  "score": 59,
+  "score": 60,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 534,
+  "trend": 1,
+  "sources": 532,
   "sentiment": {
-    "positive": 58,
-    "neutral": 390,
+    "positive": 59,
+    "neutral": 387,
     "negative": 87
   },
   "latest_articles": [
+    {
+      "id": "9a78c16392f90c05de2ef16d9ad3712c4d86036e",
+      "title": "Volume of retail trade down by 0.6% in the euro area and by 0.4% in the EU - Euro indicators - Eurostat - European Commission",
+      "summary": "Volume of retail trade down by 0.6% in the euro area and by 0.4% in the EU - Euro indicators - Eurostat&nbsp;&nbsp;European CommissionSoft Retail Sales Reveal Cracks in Eurozone Resilience to Energy Shock&nbsp;&nbsp;WSJE…",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdUlhR0FubkRNcnM5RmhjRGYtTjZzbTBTY0xVRjY4TVJJcWxLa2N2ZFJ5N3Z5X2NIS19uS2FFdHM2QkFyRVNkR2Z2dlFmNXlWZG51MF9Ud3pvRlhQdzJGa0lLaktOWnpMZkh6MnpBa2UzSnpUb25ka3p5b3BKaU96UlQ1NA?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-09-04T09:02:17+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "a8c7acaa5b5c7a6d69396a5345a80d52b4f91383",
       "title": "Vietnam Sentences 11 to Death Penalty in Drug Trafficking Case",
@@ -21,6 +31,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "arriving from Paris"
+    },
+    {
+      "id": "eca0fc692bc0cd5c149cf42f1dccd1b161b926c6",
+      "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
+      "summary": "PM will aim to centre talks with French president on key foreign policy issues such as Iran, smuggling gangs and EU relationsAndy Burnham will begin the process of courting European leaders when he welcomes Emmanuel Macr…",
+      "url": "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-migrant-crisis-macron-downing-street",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-02T21:30:35+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "talks with French president on key foreign policy issues... EU relations"
     },
     {
       "id": "9a2a4630ae2a03142e9dde66cc04918dd44b04d7",
@@ -54,6 +75,16 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Pistol in a lake gives hope for French cold case"
+    },
+    {
+      "id": "4715ccb6c8217b70bec90a5955428ea25aaf9cd2",
+      "title": "German police investigating reported explosives at Brandenburg power substation – Europe live",
+      "summary": "Police responding to explosives reported in Turnow-Preilack, near the coal-fired Jänschwalde power plantOver in Brussels, the European Commission is just starting its first midday briefing of the autumn.It opens with an…",
+      "url": "https://www.theguardian.com/world/live/2026/sep/01/ukraine-russia-strikes-attacks-odesa-zelenskyy-putin-eu-defence-europe-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-01T13:42:01+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "d893e3a16160dc7ba5e5045e31da861df3f4c4fc",
@@ -191,40 +222,8 @@
       "published_at": "2026-08-29T04:01:14+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "e4a5bf572109e3fc4b5e3ffe1c4944d0fede5ddb",
-      "title": "‘The Sauna Is Hot and Uncomfortable’: Vote on E.U. Talks Makes Iceland Sweat",
-      "summary": "The usually genial country has been bitterly divided over a vote this weekend on whether to enter membership talks with the European Union.",
-      "url": "https://www.nytimes.com/2026/08/28/world/europe/iceland-european-union-vote.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-28T15:08:22+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "2c3daa57705aca6912dea1568fada920e80fbe44",
-      "title": "French far-right leader Jordan Bardella to address Reform UK party conference",
-      "summary": "Speech part of effort to strengthen National Rally party’s international ties before Marine Le Pen’s presidential bidThe French far-right leader Jordan Bardella is to give a speech at Reform UK’s party conference in Birm…",
-      "url": "https://www.theguardian.com/world/2026/aug/28/french-far-right-leader-jordan-bardella-address-reform-uk-party-conference",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-28T13:57:30+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "French far-right leader Jordan Bardella"
-    },
-    {
-      "id": "cc36ab410830f30871a329b17e4850e747f0c190",
-      "title": "Rock en Seine: Visually impaired spectators enjoy festival with audio description - France 24",
-      "summary": "Rock en Seine: Visually impaired spectators enjoy festival with audio description&nbsp;&nbsp;France 24See more headlines and perspectives on Google News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcVhJeFNJbW12R0d4RGpNUmw0YUNpSkEySS1WeUdCa3paZDU2QTVRVlpBb3lqbnpkXzhQaEhzRW5tMWlfQ1NIYndGbWRtNmNGekxIbVExcVR0b3J2enFwbk1CdkRPWGwzaFZjeWlRbnF5WkhyNFFuZk5oNzkwbWNFWmV1MmlYanA1S2s0OEctb2t6WmhWNmRVMWRyY0tLWTNDc0xxQjhITV9Gb1FE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-28T12:56:49+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Rock en Seine: Visually impaired spectators enjoy festival"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-03T13:34:36Z"
+  "last_updated": "2026-09-04T13:30:59Z"
 }

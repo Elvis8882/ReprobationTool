@@ -1,16 +1,38 @@
 {
   "country": "LB",
-  "score": 41,
+  "score": 42,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 148,
+  "trend": 1,
+  "sources": 149,
   "sentiment": {
     "positive": 7,
-    "neutral": 55,
-    "negative": 86
+    "neutral": 57,
+    "negative": 85
   },
   "latest_articles": [
+    {
+      "id": "30084f4965c38c0721071a7053fbef633f36a2b9",
+      "title": "Israel Says It Cleared Tunnels to Strategic Hezbollah Fortress in Lebanon",
+      "summary": "The operation, which began in June and is ongoing, came as fighting between the U.S. and Iran flared anew.",
+      "url": "https://www.nytimes.com/2026/09/03/world/middleeast/israeli-hezbollah-lebanon.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-04T01:42:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Strategic Hezbollah Fortress in Lebanon"
+    },
+    {
+      "id": "1efc0eceb3cb3569f27b3924e9f51880f07a2161",
+      "title": "Israel Is Expected to Release Lebanese Prisoners, in Rare Sign of Progress",
+      "summary": "The move would come amid struggling talks between Israel and Lebanon aimed at disarming Hezbollah and ending Israel’s invasion.",
+      "url": "https://www.nytimes.com/2026/09/03/world/middleeast/israel-lebanon-prisoners-release.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-03T17:29:38+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "Israel Is Expected to Release Lebanese Prisoners"
+    },
     {
       "id": "f68dbfeae48aef6438869fac7b5baed541d1b71f",
       "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
@@ -21,6 +43,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "occupied Lebanon"
+    },
+    {
+      "id": "f1ad7c162fdffc4679797554bff60088124fc792",
+      "title": "Charles Perrottet told fugitive developer plan at Nobu dinner to have NSW MP ‘on his knees’, Icac hears",
+      "summary": "Liberal party figure tells inquiry he never asked Jean Nassif ‘for payments for political outcomes’ as lawyer tells him she is ‘gobsmacked’ by his ‘obfuscation’Get our breaking news email, free app or daily news podcastT…",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/01/charles-perrottet-told-fugitive-developer-plan-at-nobu-dinner-to-have-nsw-mp-on-his-knees-icac-hears-ntwnfb",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-01T07:49:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "developer Jean Nassif had withdrawn from a scheduled videolink appearance from Lebanon"
     },
     {
       "id": "d9a4bcff8ff4668abf4a8a8b94a5304cd6d61250",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "killed Lebanese journalist an apparent war crime"
-    },
-    {
-      "id": "dff84d4cc76b357f8ec3c73f35efb7cda3420658",
-      "title": "Iran says a deal with Oman to reopen the strait of Hormuz is close to being finalised – Middle East crisis live",
-      "summary": "Under the proposed agreement Tehran would control inbound traffic according to reportsUnderstanding reached on coordinates for shipping route through Hormuz, Iran saysA third day of US-mediated talks between Lebanese and…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/06/iran-oman-strait-of-hormuz-yemen-houthis-israel-lebanon-gaza-us-donald-trump-middle-east-crisis-live-news",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-06T10:48:02+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Israeli strikes killed at least one person"
-    },
-    {
-      "id": "c73298d3a5982e5a4355dfd24efc588c92f28899",
-      "title": "Israel Strikes Lebanon After Accusing Hezbollah of Cease-Fire Violation",
-      "summary": "At the same time, Israeli and Lebanese negotiators were holding talks in Rome aimed at fostering a long-term diplomatic settlement.",
-      "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-lebanon-hezbollah-cease-fire.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-06T07:20:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel Strikes Lebanon After Accusing Hezbollah of Cease-Fire Violation"
-    },
-    {
-      "id": "61f2f0b9504ad7dd77af43a3ec3d90ecd3cb84a5",
-      "title": "Israeli strike that killed journalist in Lebanon was war crime, say rights groups",
-      "summary": "Investigation by Human Rights Watch, Amnesty and Legal Agenda shows Israel deliberately attacked Amal Khalil and colleague Zeinab Faraj knowing they were civiliansAn Israeli strike that killed Lebanese journalist Amal Kh…",
-      "url": "https://www.theguardian.com/world/2026/aug/06/israeli-strike-that-killed-journalist-in-lebanon-was-war-say-rights-groups",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-06T06:00:34+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Israeli strike that killed journalist in Lebanon was war crime"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-03T13:34:36Z"
+  "last_updated": "2026-09-04T13:30:59Z"
 }

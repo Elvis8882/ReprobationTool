@@ -1,0 +1,41 @@
+{
+  "id": "e3a987a5e829169060f43d5607310b288f099060",
+  "title": "Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries",
+  "summary_full": "Higher prices come as Ukraine pounds Russian refineries, forcing Moscow to ban diesel exports.",
+  "summary_public": "Higher prices come as Ukraine pounds Russian refineries, forcing Moscow to ban diesel exports.",
+  "url": "https://www.cnbc.com/2026/09/04/diesel-price-record-high-ukraine-iran-inflation.html",
+  "published_at": "2026-09-04T12:40:43+00:00",
+  "source": "International: Top News And Analysis",
+  "language": "en",
+  "countries_detected": [
+    "IR",
+    "RU",
+    "UA"
+  ],
+  "countries_scored": [
+    "IR",
+    "RU",
+    "UA"
+  ],
+  "sentiment_by_country": {
+    "IR": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran wars knock out refineries, fueling inflation worries"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Russian refineries, forcing Moscow to ban diesel exports"
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukraine pounds Russian refineries"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-09-04T13:30:59+00:00",
+  "processed_at": "2026-09-04T13:30:59+00:00"
+}

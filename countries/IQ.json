@@ -1,14 +1,14 @@
 {
   "country": "IQ",
-  "score": 82,
+  "score": 81,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 51,
+  "trend": -1,
+  "sources": 52,
   "sentiment": {
     "positive": 5,
     "neutral": 19,
-    "negative": 27
+    "negative": 28
   },
   "latest_articles": [
     {
@@ -21,6 +21,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "targeted US forces in Jordan, Bahrain, and Erbil"
+    },
+    {
+      "id": "81b2a81ece01751f700c66fd525f06767cd8577a",
+      "title": "US and Iran exchange more airstrikes, fuelling fears of wider return to hostilities",
+      "summary": "Attacks on Iran’s Revolutionary Guard and reprisals against US bases in Middle East quash hopes that flare-up last weekend was limited in natureThe US has launched new airstrikes on Iranian targets, prompting counter str…",
+      "url": "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-02T01:06:08+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Tehran targeting American interests in Bahrain, Kuwait, Jordan and Iraq"
     },
     {
       "id": "85ad63ccac37b8198b12e8b1940b7822099e989c",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "strikes on Iran-backed militias in Iraq"
-    },
-    {
-      "id": "f0b6bad5b1e2ed2af228c84652bdc40e08944133",
-      "title": "US, Saudi Forces Strike Iran-Backed Groups In Iraq",
-      "summary": "Control of the Strait of Hormuz remains a hurdle to any peaceful resolution to the Mideast war.",
-      "url": "https://www.ndtv.com/world-news/us-saudi-airstrikes-iraq-strait-of-hormuz-tensions-crude-oil-prices-trump-netanyahu-meet-amid-middle-east-tensions-over-strait-of-hormuz-11836472#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-29T07:01:03+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "US, Saudi Forces Strike Iran-Backed Groups In Iraq"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-03T13:34:36Z"
+  "last_updated": "2026-09-04T13:30:59Z"
 }
