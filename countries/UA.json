@@ -3,14 +3,58 @@
   "score": 21,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -3,
-  "sources": 619,
+  "trend": 0,
+  "sources": 622,
   "sentiment": {
     "positive": 284,
-    "neutral": 91,
-    "negative": 245
+    "neutral": 95,
+    "negative": 244
   },
   "latest_articles": [
+    {
+      "id": "83f9a270e22c04aa4285151146ab7d582d8381a1",
+      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+      "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-05T12:23:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "travelling to Ukraine on Sunday"
+    },
+    {
+      "id": "6d3b5604c5abe89f2a507d84859dd5995c15ccbc",
+      "title": "Trump Envoys Arrive in Moscow for Talks on Ukraine War",
+      "summary": "Steve Witkoff, President Trump’s special envoy, and Jared Kushner, his son-in-law, plan to visit Kyiv next, in an effort to revive peace negotiations between Russia and Ukraine.",
+      "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-05T10:05:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "plan to visit Kyiv next, in an effort to revive peace negotiations"
+    },
+    {
+      "id": "ce249bb9b9f190d9792632f6b559a77ce85bef7c",
+      "title": "Witkoff, Kushner Heading To Russia, Ukraine To Present Peace Deal: Trump",
+      "summary": "It will be the first time that Kushner and Witkoff have visited Kyiv since Trump returned to office.",
+      "url": "https://www.ndtv.com/world-news/steve-witkoff-jared-kushner-heading-to-russia-ukraine-to-present-peace-deal-trump-12004039#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-04T19:47:01+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Ukraine To Present Peace Deal"
+    },
+    {
+      "id": "2812aaa9cbdb1d51475bcf65bd1761329b0d1097",
+      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-04T16:02:32+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia hits Ukrainian security headquarters in drone attack"
+    },
     {
       "id": "16a54eff1b953cdd17e5b48c9888fd8f9a258df7",
       "title": "After CIA director’s visit to Moscow, Putin escalates Ukraine strikes",
@@ -34,6 +78,17 @@
       "evidence": "Ukraine pounds Russian refineries"
     },
     {
+      "id": "501bd6d120cfd1c9b930428173e8b8a555285c47",
+      "title": "Latvian Leaders Flew to the Vatican and Discussed Russia, Ukraine, and Iran with the Pope - Inbox.eu",
+      "summary": "Latvian Leaders Flew to the Vatican and Discussed Russia, Ukraine, and Iran with the Pope&nbsp;&nbsp;Inbox.euPope receives Latvian President Edgars Rinkēvičs&nbsp;&nbsp;Vatican NewsVatican Latvia&nbsp;&nbsp;Bluefield Dai…",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNejFXczVuQzVLclR6emo1cnJ0elQyeTlQeERnZ1ZhRmxUVUYwUDh2S2tkblRaYnZEczVrLUZmdjM3b1lnN2VtQmpiazU3Tmh4Sko3Mmp4SkdVUGxpOEF5UHlVVjBhMzFYSjVjU1RQdjJndUZPcjVXemp6cjRTZ2p3TkxRTXJpaG9MZjhCOWc5YmZxakk0dDFac0FPRkdCdjVVdTdxT0xXb19Va3hUckZXWVdHY2Rld2JudS1OYXFFM3p4eENBNElTYw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-09-04T10:18:58+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Ukraine with the Pope"
+    },
+    {
       "id": "c8b43e29945ec8269f39bbaf517b9797ad75625c",
       "title": "After Fighting Russia Fiercely, He Wants to Forge Ukraine’s Path to Peace",
       "summary": "Kyrylo Budanov, a decorated soldier and former military spy chief, advocates a negotiated settlement. Talks are expected to resume this month.",
@@ -54,6 +109,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "explosives-laden drone was discovered next to a Ukrainian cargo plane"
+    },
+    {
+      "id": "f94b5a16de95c9f3fb02748511f29ec9520c3c27",
+      "title": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
+      "summary": "President Volodymyr Zelensky described the shootout on the streets of the Ukrainian capital as an “absolutely shameful event” and ordered an investigation.",
+      "url": "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-03T14:41:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv"
     },
     {
       "id": "0621f3b78ea48070b39117c96377e9b34bae1343",
@@ -164,74 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Strikes on ports and vessels by both Russia and Ukraine"
-    },
-    {
-      "id": "a3e4c7dac32726f596b0bd81ad7ed3afec6ae174",
-      "title": "Russia’s jet-powered drones are overwhelming Ukraine’s air defenses",
-      "summary": "Russia is pounding Ukraine with jet-propelled drones, forcing Kyiv to adapt once again in an arms race that is increasingly defining the war.",
-      "url": "https://www.washingtonpost.com/world/2026/09/02/russias-jet-powered-drones-are-overwhelming-ukraines-air-defenses/",
-      "source": "World (Washington post)",
-      "published_at": "2026-09-02T09:00:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russia’s jet-powered drones are overwhelming Ukraine’s air defenses"
-    },
-    {
-      "id": "1337de9c94177bea856addc4093591dbee37206d",
-      "title": "Putin Pledges Increased Strikes in Ukraine and Support for Iran",
-      "summary": "The Russian president promised continued retaliation against the Ukrainians and “full solidarity” with Iran.",
-      "url": "https://www.nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-02T01:53:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "continued retaliation against the Ukrainians"
-    },
-    {
-      "id": "064d93454b02464d22939357b16312f9d3dc221b",
-      "title": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
-      "summary": "The country said Moscow was behind an explosive-laden drone found near a Ukrainian plane at a German airport last month. President Vladimir Putin of Russia called the accusation “a grave mistake.”",
-      "url": "https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-01T23:38:03+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "explosive-laden drone found near a Ukrainian plane"
-    },
-    {
-      "id": "e830a7947dcc67e08a259d84d2d30d97613ba896",
-      "title": "Germany blames Russia for drone attack on airport, announces countermeasures",
-      "summary": "Officials said the Aug. 4 attempt was part of a campaign aimed at undermining European support for Ukraine against Russia.",
-      "url": "https://www.washingtonpost.com/world/2026/09/01/germany-blames-russia-drone-attack-airport-announces-countermeasures/",
-      "source": "World (Washington post)",
-      "published_at": "2026-09-01T22:23:57+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "undermining European support for Ukraine against Russia"
-    },
-    {
-      "id": "9ebe994b3f5efe9833aef5a381628ee115420511",
-      "title": "Why did Modi urge Putin to end Ukraine war - and will he listen?",
-      "summary": "BBC correspondents in Delhi and Moscow look at why the Indian PM made a very public peace plea to his Russian ally.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zy3wdqqeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-01T11:55:51+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Modi urge Putin to end Ukraine war"
-    },
-    {
-      "id": "7af0d74c8105361bf89bce8025d931f0af7290b9",
-      "title": "Bessent reportedly tells Russia it won't get economic relief until it ends Ukraine war",
-      "summary": "The meeting underscored Washington's willingness to reopen diplomatic talks with Moscow, as Europe intends to isolate the nation while the war continues.",
-      "url": "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-09-01T11:35:54+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "ends Ukraine war"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-04T13:30:59Z"
+  "last_updated": "2026-09-05T12:48:32Z"
 }

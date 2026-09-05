@@ -1,16 +1,82 @@
 {
   "country": "GB",
-  "score": 9,
+  "score": 8,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 1106,
+  "trend": -1,
+  "sources": 1105,
   "sentiment": {
     "positive": 123,
-    "neutral": 789,
-    "negative": 195
+    "neutral": 786,
+    "negative": 197
   },
   "latest_articles": [
+    {
+      "id": "a141279522faaa2051cc3a3b20a7a0f4a7be30bf",
+      "title": "Jenrick speaks on final day of Reform conference marred by scandal and protests – UK politics live",
+      "summary": "Farage, who had earlier suspended two close aides, had his keynote speech interrupted multiple times by protesters on FridayNo real mention by Anderson of the problems that overshadowed events yesterday. He ended his ope…",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-05T11:59:32+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "UK politics live"
+    },
+    {
+      "id": "11a3fbbe89c64e049313887de8bdf0a72f3f0880",
+      "title": "‘Stop the boats’: Masked men block roads to Dover port in anti-immigration protest",
+      "summary": "Masked men blocked roads leading to Britain's busiest ferry port in Dover. This protest disrupted traffic around the major cross-Channel hub on Saturday morning. Port officials stated that all traffic in and out of the p…",
+      "url": "https://timesofindia.indiatimes.com/world/uk/stop-the-boats-masked-men-block-roads-to-dover-port-in-anti-immigration-protest/articleshow/133798997.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-09-05T11:43:47+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "protest disrupted traffic around the major cross-Channel hub"
+    },
+    {
+      "id": "25402f22ab78ec0879a4b35e4803652cba23ff83",
+      "title": "‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike",
+      "summary": "Exclusive: Guardian investigation reveals targeting of World Central Kitchen convoy was result of widely used military tactic• Death on the road to Rafah: the night the IDF targeted World Central Kitchen aid workersSeven…",
+      "url": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-05T11:08:31+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Three British humanitarian workers along with an Australian, a Palestinian, a Pole and a dual US-Canadian national were killed."
+    },
+    {
+      "id": "fd72555c6fced943324dfbe1a552b219c608512d",
+      "title": "Sweden confirms 458 Britons deported or forcibly removed since Brexit",
+      "summary": "Scale of deportations made public for first time amid criticism of hardline approach to UK citizensSweden has confirmed 458 British citizens have been deported or forcibly removed by police since Brexit.It is the first t…",
+      "url": "https://www.theguardian.com/politics/2026/sep/05/sweden-britons-deportations-brexit",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-05T09:16:01+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "458 Britons deported or forcibly removed since Brexit"
+    },
+    {
+      "id": "007a11ad0f665dc041fe016382cabf4946a5ccad",
+      "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
+      "summary": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations.",
+      "url": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-05T07:20:17+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "fighting extradition to the UK over separate charges"
+    },
+    {
+      "id": "50b8cc60bf30341649f7fb0c234e1e3e363aaf6d",
+      "title": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
+      "summary": "US president suggests he might support his Argentinian acolyte’s drive to reclaim sovereignty of disputed islandsDonald Trump has long embraced vengeance. “I am your retribution,” he declared to an admiring audience at t…",
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-04T20:21:52+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Trump’s ‘retribution’ could now include Falklands as favor to Milei"
+    },
     {
       "id": "86ff5082cfa55456d04e5e903e930a7e2253fb0d",
       "title": "Reform suspends two officials over donations sting as Farage admits their comments ‘don’t look good’ – UK politics live",
@@ -65,6 +131,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "fuel price surge hits farmers in UK"
+    },
+    {
+      "id": "143a09d01691c6db331c5b7edee0406e55759b85",
+      "title": "Indian-Origin Cop Charged For Sexually Assaulting 4 Women In London",
+      "summary": "So far, the charges against Patel are allegations (Representative Image)",
+      "url": "https://www.ndtv.com/world-news/indian-origin-cop-charged-for-sexually-assaulting-4-women-in-london-12001392#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-04T08:30:58+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Cop Charged For Sexually Assaulting 4 Women In London"
     },
     {
       "id": "94bce2d42686fa534e4a97e6d59df7cbdd72ac77",
@@ -153,85 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Off-grid UK-Australian couple describe ‘anguish’ at removal of children"
-    },
-    {
-      "id": "a406f64c495e0d762ced6c2587f9c796ddd17f56",
-      "title": "EnQuest is interested in buying BP’s North Sea assets, CEO tells CNBC",
-      "summary": "EnQuest CEO Amjad Bseisu told CNBC the company is interested in BP’s U.K. North Sea assets as the oil major explores a sale of the business.",
-      "url": "https://www.cnbc.com/2026/09/03/bp-north-sea-oil-gas-enquest.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-09-03T09:57:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "BP’s U.K. North Sea assets"
-    },
-    {
-      "id": "6c37dad052831e599b22c2fcd8b46f6b46986cd7",
-      "title": "Dutch central bank moves gold bars out of U.S. and Canada, citing ‘crisis preparedness’",
-      "summary": "DNB said gold stored with the Bank of England is more readily tradable, allowing it to be deployed more quickly in a severe crisis.",
-      "url": "https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-09-03T09:38:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "gold stored with the Bank of England is more readily tradable"
-    },
-    {
-      "id": "846d937ee63616a1b21d12f6e9605c18a1cf285d",
-      "title": "Wife of British man at risk of deportation from Sweden calls on Burnham to intervene",
-      "summary": "Case is latest in string of post-Brexit deportations from country, which has been criticised for high refusal rate for British people to remainThe wife of a British man detained by police in Stockholm on Tuesday ahead of…",
-      "url": "https://www.theguardian.com/world/2026/sep/03/wife-of-british-man-at-risk-of-deportation-from-sweden-calls-on-burnham-to-intervene",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-03T06:00:45+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "post-Brexit deportations from country... for British people"
-    },
-    {
-      "id": "77fe8f0922073820c113dd03a656f68f02ff2b71",
-      "title": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’",
-      "summary": "Bank says gold reserves held in London could be traded more easily and the move will allow it to respond more rapidly in a ‘crisis situation’The Dutch central bank says it has moved 86 tonnes of its gold reserves out of…",
-      "url": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-02T23:47:15+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Dutch central bank moves 86 tonnes of gold to UK"
-    },
-    {
-      "id": "81a303d0b6d5cef282fce22415ba03288aaa8ab8",
-      "title": "Rocky Horror star Tim Curry's cause of death revealed as coronary artery disease",
-      "summary": "The British actor had significant conditions, cited on his death certificate in Los Angeles County.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-02T23:47:02+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "The British actor"
-    },
-    {
-      "id": "ff3cde2af9b7ee240da0292337864ea27b67f1ab",
-      "title": "Swedish minister defends strict post-Brexit removals of Britons",
-      "summary": "Minister says Sweden has ‘fulfilled its commitments’ amid criticism of ‘unjust’ decisions such as case of Joyce ThomasThe Swedish government has doubled down on its position on removing and deporting British citizens on…",
-      "url": "https://www.theguardian.com/world/2026/sep/02/swedish-minister-removals-deportations-britons-brexit",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-02T12:59:23+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "post-Brexit removals of Britons"
-    },
-    {
-      "id": "8ab970c9f88dfa4a35d0221766aa0210a0bcfded",
-      "title": "Ex-pop star Gary Glitter pleads not guilty to U.K. charges of historical sex offenses - NBC News",
-      "summary": "Ex-pop star Gary Glitter pleads not guilty to U.K. charges of historical sex offenses&nbsp;&nbsp;NBC NewsSee more headlines and perspectives on Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaDM0Z2o2NXh2UTNVcm50Tl9UTlRoSnhwT0RieThYUFlRT2t0VmVnVVNoQ2wxbUV5NnVMQ0NiQjd0QjMtSzMxcDFBcjFHQ3J4ckZTNlEyUjZXeThjRmxkNjh6UWpfeXJjZ0NfY2tKWDJDcmt2OUhRbk8tQ0h6X2RIbnFyd3E0LS14QUFEbGdBU3JHaFdkdzJ2MEM4ZlhwOEM1NzFRRXFkUmcyeU04Z1h1WEdlckdFSzFaZVhoMkg4TDJGQQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-02T12:53:40+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "U.K. charges of historical sex offenses"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-04T13:30:59Z"
+  "last_updated": "2026-09-05T12:48:32Z"
 }

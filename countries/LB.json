@@ -1,16 +1,27 @@
 {
   "country": "LB",
-  "score": 42,
+  "score": 44,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 1,
-  "sources": 149,
+  "trend": 2,
+  "sources": 147,
   "sentiment": {
     "positive": 7,
-    "neutral": 57,
-    "negative": 85
+    "neutral": 58,
+    "negative": 82
   },
   "latest_articles": [
+    {
+      "id": "6069377d38f19102722b9533e8e7947d01a1a3d9",
+      "title": "U.A.E. Pardons Egyptian Dissident Sentenced to 10 Years in Prison",
+      "summary": "Abdulrahman al-Qaradawi was extradited from Lebanon to the Emirates, a close U.S. ally, after criticizing its government, in a case that alarmed human rights experts.",
+      "url": "https://www.nytimes.com/2026/09/04/world/middleeast/lebanon-uae-pardon-egypt-dissident.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-04T14:14:29+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "extradited from Lebanon to the Emirates, a close U.S. ally, after criticizing its government"
+    },
     {
       "id": "30084f4965c38c0721071a7053fbef633f36a2b9",
       "title": "Israel Says It Cleared Tunnels to Strategic Hezbollah Fortress in Lebanon",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Israel and the United States aren’t just targeting the Lebanese militant group’s weapons."
-    },
-    {
-      "id": "925d5e2d67d150564a2e38558f1a01058099f5d5",
-      "title": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
-      "summary": "Amal Khalil was killed and her colleague Zeinab Faraj wounded in an Israeli attack in April; Israel denied targeting the journalists.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-06T14:20:15+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "killed Lebanese journalist an apparent war crime"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-04T13:30:59Z"
+  "last_updated": "2026-09-05T12:48:32Z"
 }
