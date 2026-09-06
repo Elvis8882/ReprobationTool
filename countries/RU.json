@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 662,
+  "sources": 656,
   "sentiment": {
     "positive": 38,
-    "neutral": 87,
-    "negative": 539
+    "neutral": 86,
+    "negative": 534
   },
   "latest_articles": [
+    {
+      "id": "5ea7c78ca31e6d4444a7521861d0eb4136f03a7b",
+      "title": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
+      "summary": "Steve Witkoff and Jared Kushner arrived in Kyiv on Sunday, having \"discussed substantive plans for next steps\" with Putin on Saturday, according to the White House.",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-06T11:19:30+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "meeting Putin in Russia"
+    },
     {
       "id": "83f9a270e22c04aa4285151146ab7d582d8381a1",
       "title": "US envoys arrive in Moscow ahead of Ukraine talks",
@@ -111,6 +122,17 @@
       "evidence": "Russia hits Ukrainian security headquarters in drone attack"
     },
     {
+      "id": "3699defcceb3927d2a45175f9d6a3717533daef4",
+      "title": "Russia strikes Ukraine intelligence HQ in ‘major escalation’",
+      "summary": "Volodymyr Zelenskyy says he has told SBU to deliver ‘appropriate, tangible response’ to Kyiv strikeThe head office of Ukraine’s SBU intelligence agency has been hit in a Russian drone attack, sending plumes of black smok…",
+      "url": "https://www.theguardian.com/world/2026/sep/04/russia-strikes-ukraine-intelligence-hq-kyiv-major-escalation",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-04T15:37:52+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Russia strikes Ukraine intelligence HQ in ‘major escalation’"
+    },
+    {
       "id": "16a54eff1b953cdd17e5b48c9888fd8f9a258df7",
       "title": "After CIA director’s visit to Moscow, Putin escalates Ukraine strikes",
       "summary": "The rare trip by CIA chief John Ratcliff failed to persuade Putin to stop the war and may have hardened the Russian's leaders resolve to seek military victory.",
@@ -142,6 +164,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Discussed Russia"
+    },
+    {
+      "id": "4217cb2605bd0c31df750c5e5a7007da58f364b9",
+      "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
+      "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-04T10:00:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia is the chief suspect"
     },
     {
       "id": "a82693d8068989c72d392de90f73c42c23a856f3",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic"
-    },
-    {
-      "id": "0621f3b78ea48070b39117c96377e9b34bae1343",
-      "title": "Putin floats 'chance' at peace with Ukraine as NATO chief warns Russia is becoming 'increasingly reckless'",
-      "summary": "Putin said peace with Ukraine remains possible while calling Kyiv’s warning on Russian airspace “state terrorism,” as NATO flags fresh risks.",
-      "url": "https://www.cnbc.com/2026/09/03/putin-peace-russia-ukraine-nato-defense.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-09-03T11:41:40+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "NATO chief warns Russia is becoming 'increasingly reckless'"
-    },
-    {
-      "id": "88ed7bf3ba6a04672374b370c885d155712372ee",
-      "title": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
-      "summary": "Each side is using missiles and drones to try to pound the other into giving up, breeding ceaseless human suffering. But there is no sign that either country’s determination will weaken.",
-      "url": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-03T11:35:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "For Russia and Ukraine, an Escalating Spiral With No End in Sight"
-    },
-    {
-      "id": "6b1a33196059f51d53b168fc650fbb5e9fac116c",
-      "title": "Putin says he won’t deal with Ukrainian ‘terrorists’ but praises U.S. mediators",
-      "summary": "The Russian president’s remarks at a 3 a.m. news conference — and Moscow’s intensifying strikes on Kyiv — suggested that he sees little chance of a deal to end his war in Ukraine.",
-      "url": "https://www.washingtonpost.com/world/2026/09/02/putin-says-he-wont-deal-with-ukrainian-terrorists-praises-us-mediators/",
-      "source": "World (Washington post)",
-      "published_at": "2026-09-02T17:26:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "intensifying strikes on Kyiv — suggested that he sees little chance of a deal"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-05T12:48:32Z"
+  "last_updated": "2026-09-06T12:52:20Z"
 }

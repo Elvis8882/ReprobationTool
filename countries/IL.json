@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 544,
+  "sources": 523,
   "sentiment": {
     "positive": 27,
-    "neutral": 175,
-    "negative": 342
+    "neutral": 172,
+    "negative": 324
   },
   "latest_articles": [
+    {
+      "id": "ae1d504f0359893dafdfa90d1084ed0501876a58",
+      "title": "Huckabee Condemns ‘Terrorist’ Attacks on Palestinians in West Bank Town Hall",
+      "summary": "Mike Huckabee, the U.S. ambassador to Israel, made a rare trip to meet with Palestinians after international backlash over attacks by Israeli settlers.",
+      "url": "https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-05T22:40:27+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "attacks by Israeli settlers"
+    },
     {
       "id": "25402f22ab78ec0879a4b35e4803652cba23ff83",
       "title": "‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Israeli Raid in Gaza Kills 4"
-    },
-    {
-      "id": "77086b03c526840e504a767e77f5a5094efbac3a",
-      "title": "Israeli Authorities Charge 12 Guards in Beating Death of Palestinian Prisoner",
-      "summary": "The rare prosecution comes amid widespread reports from rights groups about mistreatment in Israeli detention centers, where, activists say, scores of Palestinians have died since October 2023.",
-      "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-guards-palestinian-prisoner.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-01T21:47:07+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israeli Authorities Charge 12 Guards in Beating Death of Palestinian Prisoner"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-05T12:48:32Z"
+  "last_updated": "2026-09-06T12:52:20Z"
 }

@@ -1,16 +1,26 @@
 {
   "country": "AT",
-  "score": 78,
+  "score": 77,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 118,
+  "trend": -1,
+  "sources": 117,
   "sentiment": {
-    "positive": 6,
+    "positive": 5,
     "neutral": 109,
     "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "5c6e43e0953b8202fa45ba59adff65ef971bc5dc",
+      "title": "Travellers to EU face renewed queues as border-check flexibility rules expire",
+      "summary": "Sources indicate some members states will not enforce EES biometric controls after 6 September deadlineWhat are the new EU border checks and how will they affect your holiday?Travellers to the EU could face renewed borde…",
+      "url": "https://www.theguardian.com/business/2026/sep/06/travellers-eu-queues-border-check-flexibility-rules-expire-entry-exit-system-ees",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-06T05:00:56+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "b98508f3bc1426a4b2f142d58eb3383cbefe79d1",
       "title": "Five EU countries move towards first ‘return hub’ for rejected asylum seekers",
@@ -203,19 +213,8 @@
       "published_at": "2026-08-20T10:26:30+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "e00ec5a8a3cad2dffdd4d10d36a37e14555e0526",
-      "title": "Syrian Convicted in Austria of Civil War Abuses Is Detained in Syria",
-      "summary": "Musab Abu Rukbah, a former police chief, left Austria after appealing his eight-year sentence for crimes committed during Syria’s civil war.",
-      "url": "https://www.nytimes.com/2026/08/15/world/middleeast/syria-austria-arrest-civil-war-crimes.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-15T15:28:28+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Syrian Convicted in Austria of Civil War Abuses"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-05T12:48:32Z"
+  "last_updated": "2026-09-06T12:52:20Z"
 }

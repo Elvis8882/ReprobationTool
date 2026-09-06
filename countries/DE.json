@@ -1,16 +1,37 @@
 {
   "country": "DE",
-  "score": 56,
+  "score": 52,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
-  "sources": 351,
+  "trend": -4,
+  "sources": 348,
   "sentiment": {
-    "positive": 41,
-    "neutral": 232,
-    "negative": 78
+    "positive": 37,
+    "neutral": 230,
+    "negative": 81
   },
   "latest_articles": [
+    {
+      "id": "6b8b7b729914430ce6e0909ba3f700cbd32f63c1",
+      "title": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know",
+      "summary": "Elections in Saxony-Anhalt, in the country’s east, could result in an outright majority for the Alternative for Germany party.",
+      "url": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-06T07:58:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era"
+    },
+    {
+      "id": "5c6e43e0953b8202fa45ba59adff65ef971bc5dc",
+      "title": "Travellers to EU face renewed queues as border-check flexibility rules expire",
+      "summary": "Sources indicate some members states will not enforce EES biometric controls after 6 September deadlineWhat are the new EU border checks and how will they affect your holiday?Travellers to the EU could face renewed borde…",
+      "url": "https://www.theguardian.com/business/2026/sep/06/travellers-eu-queues-border-check-flexibility-rules-expire-entry-exit-system-ees",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-06T05:00:56+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "b98508f3bc1426a4b2f142d58eb3383cbefe79d1",
       "title": "Five EU countries move towards first ‘return hub’ for rejected asylum seekers",
@@ -53,6 +74,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Volkswagen plans 50,000 job cuts"
+    },
+    {
+      "id": "4217cb2605bd0c31df750c5e5a7007da58f364b9",
+      "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
+      "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-04T10:00:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Germany has blamed Russia for an attack on Leipzig airport"
     },
     {
       "id": "2ced24161292ed6167883d279c21273f79e47443",
@@ -120,6 +152,17 @@
       "evidence": "Germany blames Moscow for Leipzig drone incident"
     },
     {
+      "id": "15381f586f47af328162151162e7a009428353bb",
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-02T13:04:47+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "'new escalation' in Germany"
+    },
+    {
       "id": "064d93454b02464d22939357b16312f9d3dc221b",
       "title": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
       "summary": "The country said Moscow was behind an explosive-laden drone found near a Ukrainian plane at a German airport last month. President Vladimir Putin of Russia called the accusation “a grave mistake.”",
@@ -183,51 +226,8 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "Germany poised to identify suspect in Leipzig drone attack"
-    },
-    {
-      "id": "66fbc9773a86f9eedc9b132abc6b98323ef154ef",
-      "title": "Goodbye to Babylon Berlin, the 1920s TV drama that has eerily foreshadowed real-life politics - The Guardian",
-      "summary": "Goodbye to Babylon Berlin, the 1920s TV drama that has eerily foreshadowed real-life politics&nbsp;&nbsp;The GuardianFinal season of ‘Babylon Berlin’ will show Hitler’s rise to power&nbsp;&nbsp;ua.newsBabylon Berlin Unve…",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNc196QS0xMnl6azRsb2ppVnhOMFZjdDNSZ2ZFZkhDbjgwWVBpTGpPUDEydExlajc1WWZSdlVUcGdya2h2NVRhWXBZeVBLbjVFQzNRZnRVNDl2UnBhb1ZFeDVLZUVuYjZ6ejRxMHlfTzlnczVGbk9tYWRsbE16eWgwUk1ybWV2bnV5YkkwVzdaSGdQNlVYSkhaY2dMYTZoUExSeU9NVEZfa1ZnYUZZem4tRkJaMnd4TktBeng4Q2NzbkRNTlE3ZGowVGg0RGNpdDZXaFpDcGdSaHlrV0NWdEE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-31T13:47:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Babylon Berlin"
-    },
-    {
-      "id": "fc082ae0c2510a5439472b0e748c93db2f7e6d8d",
-      "title": "Goodbye to Babylon Berlin, the 1920s TV drama that has eerily foreshadowed real-life politics",
-      "summary": "The long-running drama reaches Hitler’s rise to power in its final season as its creators reflect on the unsettling parallels between Weimar Germany and the present dayIt’s the global hit TV series that pulled audiences…",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/31/goodbye-to-babylon-berlin-the-1920s-tv-drama-that-has-eerily-foreshadowed-real-life-politics",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-31T06:00:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Babylon Berlin, the 1920s TV drama that has eerily foreshadowed real-life politics"
-    },
-    {
-      "id": "4a5618ffd87846f5d4ec053c9af15a6a087349d2",
-      "title": "Iceland rejects EU accession talks in referendum after divisive campaign",
-      "summary": "Well-funded no camp prevails, winning 52.8% of votes and gaining plaudits from Eurosceptic figures across EuropeAnalysis: Definitely no or maybe yes: what tipped the Icelandic referendumVoters in Iceland have ⁠rejected ⁠…",
-      "url": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-30T13:31:53+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "762f2558adf402023629f96126d2df2b7eb83ceb",
-      "title": "Man arrested over fatal stabbing of British woman in Germany",
-      "summary": "Rosenheim police detain 27-year-old German man after woman, 31, killed outside train station early on SundayA man has been detained in Germany on suspicion of the fatal stabbing of a 31-year-old British woman in Rosenhei…",
-      "url": "https://www.theguardian.com/world/2026/aug/30/man-arrested-fatal-stabbing-british-woman-germany-rosenheim-train-station",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-30T13:27:48+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Man arrested over fatal stabbing of British woman in Germany"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-05T12:48:32Z"
+  "last_updated": "2026-09-06T12:52:20Z"
 }

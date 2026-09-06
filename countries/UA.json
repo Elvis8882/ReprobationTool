@@ -1,16 +1,71 @@
 {
   "country": "UA",
-  "score": 21,
+  "score": 20,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 622,
+  "trend": -1,
+  "sources": 618,
   "sentiment": {
-    "positive": 284,
-    "neutral": 95,
-    "negative": 244
+    "positive": 279,
+    "neutral": 97,
+    "negative": 243
   },
   "latest_articles": [
+    {
+      "id": "8f2a6544ec60cd67af84ab8f090380c034201ea9",
+      "title": "US envoys Kushner and Witkoff arrive in Kyiv to hold talks on ending war",
+      "summary": "Arrival marks the pair’s first visit to Ukraine and comes day after ‘substantive plans’ were discussed in MoscowThe US negotiators Jared Kushner and Steve Witkoff have arrived in Kyiv for a second day of talks on how to…",
+      "url": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-06T11:37:36+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "US envoys Kushner and Witkoff arrive in Kyiv to hold talks on ending war"
+    },
+    {
+      "id": "5ea7c78ca31e6d4444a7521861d0eb4136f03a7b",
+      "title": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
+      "summary": "Steve Witkoff and Jared Kushner arrived in Kyiv on Sunday, having \"discussed substantive plans for next steps\" with Putin on Saturday, according to the White House.",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-06T11:19:30+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "US envoys arrive in Ukraine for talks"
+    },
+    {
+      "id": "98b5ba3abe4b0a02e6d6f5e986a68ca3b4785f21",
+      "title": "What Secret Audits Tell Us About How Ukraine’s Military Is Spending Its Money",
+      "summary": "The documents amount to an autopsy of the weapons-contracting process.",
+      "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-military-audits-spending-weapons.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-06T09:02:23+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.7,
+      "evidence": "Secret Audits Tell Us About How Ukraine’s Military Is Spending Its Money"
+    },
+    {
+      "id": "dc72c61930facae29edd47167175b7fe5d5eb3be",
+      "title": "\"Situation Not Simple\": Putin Meets US Envoys, Talks To End Ukraine War Begin",
+      "summary": "The talks come as the grinding war saw increasing civilian deaths and attacks this summer.",
+      "url": "https://www.ndtv.com/world-news/situation-not-simple-vladimir-putin-meets-us-envoys-jared-kushner-steve-witkoff-talks-to-end-ukraine-war-begin-12007385#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-05T18:30:43+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Talks To End Ukraine War Begin"
+    },
+    {
+      "id": "ea10e13a1f9f818bf4fb7de0032f53ebc88d59eb",
+      "title": "Putin Says 'No Strikes On Kyiv For 3 Days' After Zelensky's Ceasefire Pitch",
+      "summary": "The visit by the US envoys came as both the rival countries escalated their aerial attacks",
+      "url": "https://www.ndtv.com/world-news/putin-says-no-strikes-on-kyiv-for-3-days-after-zelenskys-ceasefire-pitch-12006030#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-05T12:53:29+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Putin Says 'No Strikes On Kyiv For 3 Days' After Zelensky's Ceasefire Pitch"
+    },
     {
       "id": "83f9a270e22c04aa4285151146ab7d582d8381a1",
       "title": "US envoys arrive in Moscow ahead of Ukraine talks",
@@ -54,6 +109,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Russia hits Ukrainian security headquarters in drone attack"
+    },
+    {
+      "id": "3699defcceb3927d2a45175f9d6a3717533daef4",
+      "title": "Russia strikes Ukraine intelligence HQ in ‘major escalation’",
+      "summary": "Volodymyr Zelenskyy says he has told SBU to deliver ‘appropriate, tangible response’ to Kyiv strikeThe head office of Ukraine’s SBU intelligence agency has been hit in a Russian drone attack, sending plumes of black smok…",
+      "url": "https://www.theguardian.com/world/2026/sep/04/russia-strikes-ukraine-intelligence-hq-kyiv-major-escalation",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-04T15:37:52+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia strikes Ukraine intelligence HQ in ‘major escalation’"
     },
     {
       "id": "16a54eff1b953cdd17e5b48c9888fd8f9a258df7",
@@ -164,74 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "intensifying strikes on Kyiv — suggested that he sees little chance of a deal"
-    },
-    {
-      "id": "4ce72792147be16ffe4a5307b99ab6e41b9553dd",
-      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-02T13:16:26+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine escalates drone operations"
-    },
-    {
-      "id": "95c14df7e3cd9138035bea4e4c2066eaaa66603f",
-      "title": "Telangana Migrant Worker Killed In Russian Missile Attack On Ukraine",
-      "summary": "The Indian Embassy in Ukraine promised all possible assistance to Vavilala Sudarshan Goud's family",
-      "url": "https://www.ndtv.com/world-news/telangana-migrant-worker-killed-in-russian-missile-attack-on-ukraine-11991870#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-02T10:18:43+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russian Missile Attack On Ukraine"
-    },
-    {
-      "id": "0563db14f264707ceee988753792423d141b089a",
-      "title": "Russian airspace becoming unsafe for commercial airlines, Zelenskyy says",
-      "summary": "Ukraine’s president says aviation industry needs to take account of growing number of Ukrainian drones in RussiaEurope live – latest updatesVolodymyr Zelenskyy has said Russia’s airspace is becoming unsafe for commercial…",
-      "url": "https://www.theguardian.com/world/2026/sep/02/russian-airspace-unsafe-commercial-airlines-zelenskyy",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-02T10:18:10+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "growing number of attack drones being flown into the country by Ukraine"
-    },
-    {
-      "id": "e14046376059231901d15197236b71637515fd5b",
-      "title": "Zelenskyy says airlines should avoid Russian airspace as Ukraine expands drone operations",
-      "summary": "Zelenskyy urged airlines to avoid Russian airspace, warning that expanding Ukrainian drone operations are making the skies increasingly unsafe.",
-      "url": "https://www.cnbc.com/2026/09/02/ukraine-zelenskyy-airlines-russia-drone-war.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-09-02T09:56:26+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine expands drone operations are making the skies increasingly unsafe."
-    },
-    {
-      "id": "4c5367ceeddcc2fb88181a87fa8fddd65aa50b6a",
-      "title": "Palantir CEO Alex Karp backs ousted Ukraine defense minister's new defense tech startup",
-      "summary": "Fedorov is launching a defense tech company backed by Palantir CEO Alex Karp, aiming to turn Ukraine’s wartime experience into new technologies.",
-      "url": "https://www.cnbc.com/2026/09/02/palantir-alex-karp-ukraine-federov-defense-startup.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-09-02T09:30:09+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Palantir CEO Alex Karp backs ousted Ukraine defense minister's new defense tech startup"
-    },
-    {
-      "id": "cb52551bc432b86d179b9ce58dcbf6824b3822f6",
-      "title": "Attacks in Black Sea Threaten to Strangle Global Grain Supply",
-      "summary": "Strikes on ports and vessels by both Russia and Ukraine have left farmers facing ruin and could cause another worldwide food shock.",
-      "url": "https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-02T09:05:50+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Strikes on ports and vessels by both Russia and Ukraine"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-05T12:48:32Z"
+  "last_updated": "2026-09-06T12:52:20Z"
 }

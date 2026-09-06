@@ -1,16 +1,26 @@
 {
   "country": "ES",
-  "score": 45,
+  "score": 44,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 401,
+  "trend": -1,
+  "sources": 397,
   "sentiment": {
-    "positive": 27,
-    "neutral": 288,
+    "positive": 25,
+    "neutral": 286,
     "negative": 89
   },
   "latest_articles": [
+    {
+      "id": "5c6e43e0953b8202fa45ba59adff65ef971bc5dc",
+      "title": "Travellers to EU face renewed queues as border-check flexibility rules expire",
+      "summary": "Sources indicate some members states will not enforce EES biometric controls after 6 September deadlineWhat are the new EU border checks and how will they affect your holiday?Travellers to the EU could face renewed borde…",
+      "url": "https://www.theguardian.com/business/2026/sep/06/travellers-eu-queues-border-check-flexibility-rules-expire-entry-exit-system-ees",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-06T05:00:56+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "b98508f3bc1426a4b2f142d58eb3383cbefe79d1",
       "title": "Five EU countries move towards first ‘return hub’ for rejected asylum seekers",
@@ -212,18 +222,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Spaniards are eating earlier in the evening"
-    },
-    {
-      "id": "bc8b8af2c82b90055a1e21e84b820abff6b67d2e",
-      "title": "Definitely no or maybe yes: what tipped the Icelandic referendum | Miranda Bryant",
-      "summary": "The no campaign was well-funded and accused of scaremongering, but the wording of the question may also have made a differenceIt was always going to be a close contest. But on the night, the figures showed just how divid…",
-      "url": "https://www.theguardian.com/world/2026/aug/30/definitely-no-or-maybe-yes-what-tipped-the-icelandic-referendum",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-30T09:37:29+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-05T12:48:32Z"
+  "last_updated": "2026-09-06T12:52:20Z"
 }
