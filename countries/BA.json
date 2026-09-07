@@ -1,16 +1,38 @@
 {
   "country": "BA",
-  "score": 61,
+  "score": 60,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 11,
+  "trend": -1,
+  "sources": 13,
   "sentiment": {
     "positive": 2,
     "neutral": 3,
-    "negative": 6
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "c1da64501919f8ad802aaf3abe76c09a4ebf2b79",
+      "title": "Thousands of Serbs Gather to Mourn Ratko Mladic, the ‘Butcher of Bosnia’",
+      "summary": "The government insisted the funeral was a private affair, even as government ministers attended and state-controlled news media lavished praise on the convicted war criminal.",
+      "url": "https://www.nytimes.com/2026/09/07/world/europe/ratko-mladic-funeral-serbia.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-07T13:38:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Thousands of Serbs Gather to Mourn Ratko Mladic, the ‘Butcher of Bosnia’"
+    },
+    {
+      "id": "8a23b28787cc720aa239f7fbef4304591f075a8d",
+      "title": "Ratko Mladić, the ‘Butcher of Bosnia’, given hero’s funeral in Serbia",
+      "summary": "Fanfare at Belgrade funeral of man convicted of genocide raises questions from EU over Serbia’s membership planEurope live – latest updatesThousands of mourners have gathered in Belgrade for the funeral of Ratko Mladić,…",
+      "url": "https://www.theguardian.com/world/2026/sep/07/ratko-mladic-butcher-of-bosnia-funeral-belgrade-serbia",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-07T11:20:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "hero’s funeral in Serbia raises questions from EU over Serbia’s membership plan"
+    },
     {
       "id": "c421f9f7d013fe178d02f8e2b95a151cc7551920",
       "title": "Allan Little: I met dangerously fanatical Mladić early in Bosnian war",
@@ -134,5 +156,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-06T12:52:20Z"
+  "last_updated": "2026-09-07T15:08:00Z"
 }

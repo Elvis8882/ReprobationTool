@@ -1,16 +1,49 @@
 {
   "country": "LB",
-  "score": 50,
+  "score": 48,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 6,
+  "trend": -2,
   "sources": 138,
   "sentiment": {
     "positive": 7,
-    "neutral": 57,
-    "negative": 74
+    "neutral": 55,
+    "negative": 76
   },
   "latest_articles": [
+    {
+      "id": "7f86881fb24a6ea3097f8e8739a2cb1cd79b08e1",
+      "title": "Israel Launches Deadly Strikes in Lebanon as Military Campaign Intensifies",
+      "summary": "The bombardment killed nine people, Lebanese officials said, after days of attacks that have spurred worries that Israel is looking to push deeper into Lebanese territory.",
+      "url": "https://www.nytimes.com/2026/09/07/world/middleeast/israel-lebanon-strikes-hezbollah.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-07T14:43:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "bombardment killed nine people"
+    },
+    {
+      "id": "115206efe78357cb663308759b64fabdecbcbe2b",
+      "title": "Israeli strikes in southern Lebanese village kill 12",
+      "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-07T13:39:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Israeli escalation is jeopardising a US-brokered ceasefire"
+    },
+    {
+      "id": "5163ebdc441e5b3115813ef5e9e8232f62ddb3db",
+      "title": "Israel-Hezbollah clashes kill 11 as Mideast conflict escalation gathers pace after U.S.-Iran strikes",
+      "summary": "Lebanese President Joseph Aoun called on the U.S. to help stop Israeli attacks after Sunday strikes killed at least seven people.",
+      "url": "https://www.cnbc.com/2026/09/07/us-iran-war-trump-hormuz-israel-hezbollah-fighting-strikes-.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-07T09:26:27+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Lebanese President Joseph Aoun called on the U.S. to help stop Israeli attacks"
+    },
     {
       "id": "6069377d38f19102722b9533e8e7947d01a1a3d9",
       "title": "U.A.E. Pardons Egyptian Dissident Sentenced to 10 Years in Prison",
@@ -21,6 +54,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "extradited from Lebanon to the Emirates, a close U.S. ally, after criticizing its government"
+    },
+    {
+      "id": "dab7cb2173ce9cbdd9435d267b0e5495434df1da",
+      "title": "Israel Says It Is Cementing Its Foothold in Southern Lebanon",
+      "summary": "The recent capture of a strategic ridge has further entrenched the Israeli occupation of Lebanese territory, as efforts to broker lasting peace have floundered.",
+      "url": "https://www.nytimes.com/2026/09/04/world/middleeast/israel-captures-ridge-occupation-katz.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-04T12:16:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "entrenched the Israeli occupation of Lebanese territory"
     },
     {
       "id": "30084f4965c38c0721071a7053fbef633f36a2b9",
@@ -186,52 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Lebanon takes step to become first Arab country to abolish death penalty"
-    },
-    {
-      "id": "8c94fd507d2cd9ad1ad80ace085b6286edcb2973",
-      "title": "Lebanon parliament votes to abolish death penalty",
-      "summary": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
-      "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-11T15:24:07+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Lebanon parliament votes to abolish death penalty"
-    },
-    {
-      "id": "56f469f39f917f14db4530a7aa3fa8435dd79099",
-      "title": "Trump demands Iran pay compensation for decades of US soldier deaths",
-      "summary": "US president’s statement is latest sign that negotations to end war and reopen strait of Hormuz have stalledDonald Trump has said he will demand that Iran pay compensation for the deaths of thousands of US soldiers and I…",
-      "url": "https://www.theguardian.com/world/2026/aug/10/trump-demands-iran-pay-compensation-for-decades-of-us-soldier-deaths",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-10T20:45:52+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "US president is trying to end conflicts in Iran, Gaza and Lebanon"
-    },
-    {
-      "id": "20c45a65aa543c0c0a5c8665c986200160e40b94",
-      "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
-      "summary": "Israeli PM says IDF will not withdraw until Hamas is disarmed and rebukes US pressure to end wars without his country’s buy-inIsrael’s prime minister, Benjamin Netanyahu, has rejected a US-backed 15-point peace plan for…",
-      "url": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-09T20:00:48+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "end wars in Gaza, Lebanon and Iran"
-    },
-    {
-      "id": "ccdfb17133c5c0bfa41e4690799ea28c8f579817",
-      "title": "Inside the War on Hezbollah’s Finances",
-      "summary": "Israel and the United States aren’t just targeting the Lebanese militant group’s weapons. They’re going after its money.",
-      "url": "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-09T09:00:15+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Israel and the United States aren’t just targeting the Lebanese militant group’s weapons."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-06T12:52:20Z"
+  "last_updated": "2026-09-07T15:08:00Z"
 }

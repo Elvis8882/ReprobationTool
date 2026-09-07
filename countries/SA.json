@@ -4,13 +4,35 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 133,
+  "sources": 135,
   "sentiment": {
     "positive": 10,
-    "neutral": 61,
-    "negative": 62
+    "neutral": 62,
+    "negative": 63
   },
   "latest_articles": [
+    {
+      "id": "3ca9920f773a40cef61273cd7cec0849fcbd7625",
+      "title": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?",
+      "summary": "Omar al-Bayoumi has always denied being an extremist and a Saudi spy.",
+      "url": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-07T06:32:06+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?"
+    },
+    {
+      "id": "712bc8cbbdeefe98bcb3f5c0398dd5d9ee35c210",
+      "title": "Civilians among at least 60 killed in Yemen as ground fighting escalates",
+      "summary": "Houthi rebel offensive against government forces on west coast leads to some of deadliest clashes in yearsClashes between Yemen’s Saudi-backed government forces and the Iran-aligned Houthi rebel movement have killed more…",
+      "url": "https://www.theguardian.com/world/2026/sep/05/yemen-ground-fighting-escalates-houthi-rebels-government-forces",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-05T13:47:19+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Saudi-backed government forces and the Iran-aligned Houthi rebel movement"
+    },
     {
       "id": "97d81397cc687acf29acd329d991687257282e75",
       "title": "Amid Iran War, US Approves $5 Billion Sale Of Bombs To Saudi",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "targeted a Saudi oil refinery"
-    },
-    {
-      "id": "1e9c3a57fe58746621639e1a469c31dc03d24ff8",
-      "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
-      "summary": "Iran's foreign minister reportedly said his country is not engaging in talks with the U.S., but added: \"Messages are being exchanged through intermediaries.\"",
-      "url": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-08-09T18:15:57+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Houthis claim attack on Saudi refinery"
-    },
-    {
-      "id": "6c61fead8ba735443d9bc8eacb706f65404bbca4",
-      "title": "Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia",
-      "summary": "Drone strike comes after Riyadh signs defence pact and Tehran issues tough demands to reopen strait of HormuzYemen’s Tehran-aligned Houthis have claimed responsibility for an attack on a refinery in Saudi Arabia, two day…",
-      "url": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-09T15:11:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "attacked oil refinery in Saudi Arabia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-06T12:52:20Z"
+  "last_updated": "2026-09-07T15:08:00Z"
 }
