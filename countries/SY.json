@@ -1,16 +1,27 @@
 {
   "country": "SY",
-  "score": 80,
+  "score": 79,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 51,
+  "trend": -1,
+  "sources": 52,
   "sentiment": {
     "positive": 1,
     "neutral": 23,
-    "negative": 27
+    "negative": 28
   },
   "latest_articles": [
+    {
+      "id": "fd1c5c1967c00656c89d5a4cb55a5604d456ca7e",
+      "title": "Syrian reactor could have been used for nuclear weapons if completed, UN says",
+      "summary": "Chief of nuclear watchdog says secret Assad-era facility would have been able to produce fissile material A nearly complete nuclear reactor built secretly during the rule of the toppled Syrian leader Bashar al-Assad woul…",
+      "url": "https://www.theguardian.com/world/2026/sep/07/syrian-reactor-could-nuclear-weapons-if-completed-un",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-07T16:37:31+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Syrian reactor could have been used for nuclear weapons"
+    },
     {
       "id": "5a96500539c79676c0732f3c5b36b947e26af90b",
       "title": "Syria, eyeing role as Middle East hub, offers options to bypass Hormuz",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Syrian Holdout Province, Sweida, Fears a Government Takeover"
-    },
-    {
-      "id": "f3637b42265cea9d53fc07c74a8d97194eba4603",
-      "title": "Syria Agrees to Reorganized Russian Military Presence",
-      "summary": "After more than a year and a half of negotiations, Syria and Russia have agreed on new parameters of Russia’s military presence in Syria. Syria said it opens the way for a new phase in relations.",
-      "url": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-09T15:57:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Syria Agrees to Reorganized Russian Military Presence"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-07T15:08:00Z"
+  "last_updated": "2026-09-08T13:37:42Z"
 }

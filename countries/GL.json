@@ -1,16 +1,38 @@
 {
   "country": "GL",
-  "score": 62,
+  "score": 65,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 33,
+  "trend": 3,
+  "sources": 35,
   "sentiment": {
-    "positive": 2,
-    "neutral": 25,
+    "positive": 3,
+    "neutral": 26,
     "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "9cda88b677e9c75ba40abf8b8a97dfd4291c077a",
+      "title": "Indian-Origin US Citizen Claims He Was Detained At US Border After Greenland Holiday",
+      "summary": "The incident comes amid heightened immigration enforcement under the Donald Trump administration.",
+      "url": "https://www.ndtv.com/world-news/indian-origin-us-citizen-claims-he-was-detained-at-us-border-after-greenland-holiday-12017255#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-08T09:35:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Greenland Holiday"
+    },
+    {
+      "id": "aed1677a41b243d37f56d169217d303e21f3b7a8",
+      "title": "Greenland welcomes major funding boost from EU amid Trump’s annexation threats",
+      "summary": "It comes shortly after Icelanders voted to reject restarting EU membership talks and as Trump renews his push to acquire Greenland on national security grounds.",
+      "url": "https://www.cnbc.com/2026/09/07/greenland-eu-trump-critical-minerals-arctic.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-07T13:09:36+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Greenland welcomes major funding boost from EU"
+    },
     {
       "id": "8722764df9961daa1b3b526f15718f59ff6c5fde",
       "title": "From Trump’s takeover threats to a ‘northern neighborhood,’ why the EU chief is going to Greenland",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Trump renews call for US to take over Greenland"
-    },
-    {
-      "id": "c4cf3a5177fcc984a48f563812541090c9a740df",
-      "title": "Live Updates: Trump Lashes Out at Europe at NATO Summit",
-      "summary": "President Trump assailed allies for not joining the war in Iran, called Spain “hopeless” and repeated his desire to control Greenland. His criticism cast a pall over a meeting critical for NATO’s future.",
-      "url": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine",
-      "source": "NYT > World News",
-      "published_at": "2026-07-08T10:48:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "repeated his desire to control Greenland"
-    },
-    {
-      "id": "fc520f2f3cf900f5bf126f8200854a55f194b5cd",
-      "title": "Trump declares ceasefire with Iran over during angry broadside at Nato summit",
-      "summary": "President calls Iranian leadership ‘scum’, rails against alliance, repeats demand for Greenland and threatens SpainMiddle East crisis live – latest updatesEurope live – latest updatesDonald Trump has declared that the ce…",
-      "url": "https://www.theguardian.com/world/2026/jul/08/trump-declares-ceasefire-iran-over-broadside-nato-summit",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-08T10:37:48+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "demand for Greenland"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-07T15:08:00Z"
+  "last_updated": "2026-09-08T13:37:42Z"
 }

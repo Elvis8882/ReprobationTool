@@ -1,16 +1,27 @@
 {
   "country": "DE",
-  "score": 48,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": -4,
-  "sources": 351,
+  "score": 43,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": -5,
+  "sources": 350,
   "sentiment": {
-    "positive": 37,
-    "neutral": 227,
-    "negative": 87
+    "positive": 38,
+    "neutral": 219,
+    "negative": 93
   },
   "latest_articles": [
+    {
+      "id": "95e856979383b3fad1ae08519c3ec8529176451c",
+      "title": "AfD’s Far Right Win Puts New Pressure on Germany’s Leader Merz",
+      "summary": "Antipathy to Chancellor Friedrich Merz was a reason the far right surged in a state election. Though he does not face a national election until 2029, his leadership is under increasing scrutiny.",
+      "url": "https://www.nytimes.com/2026/09/08/world/europe/germany-merz-pressure-afd.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-08T12:57:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "AfD’s Far Right Win Puts New Pressure on Germany’s Leader"
+    },
     {
       "id": "d7b9a3ee9aa8799d1d61097d2fc2b4a423514870",
       "title": "Merz says ‘shock’ AfD victory in key German state ‘is an election result we cannot simply move past’ – Europe live",
@@ -21,6 +32,28 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "vote for far-right party ‘will have repercussions’ across the country"
+    },
+    {
+      "id": "4f676f399c4bb3c8bd86d7738d6f8840ada37905",
+      "title": "World Insights: From labs to life, Chinese tech redefines innovation at IFA Berlin 2026 - Xinhua",
+      "summary": "World Insights: From labs to life, Chinese tech redefines innovation at IFA Berlin 2026&nbsp;&nbsp;XinhuaThe best tech and gadgets announced at IFA 2026&nbsp;&nbsp;The VergeThe 5 coolest phones I saw at IFA 2026 – includ…",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JbHlXUXpIbmRKdGcwajZLM0luc29nLVVEa2p0N0dZZ1hkeWJhS1pXUGVGM05fbVMycGEtbTVvRVM0UW5keUVOOG53MDM3dzVtbThzRFdxaDNtTnJaMzdieFZnOE52YnpjcEp3S1djY2tqdW4wc0dUcmxNLTg?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-09-07T14:08:15+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "IFA Berlin 2026 - Xinhua"
+    },
+    {
+      "id": "88a0d915ed05e549e4ce748eb44017d3285ff20a",
+      "title": "Why is far-right AfD’s state victory significant and what might happen next in German politics?",
+      "summary": "Aftershocks of party’s win in Saxony-Anhalt will ripple across Germany, with two more state elections this monthEurope live – latest updatesGermany is reeling from the biggest far-right victory in a state election since…",
+      "url": "https://www.theguardian.com/world/2026/sep/07/why-far-right-afd-state-victory-significant-german-politics-germany-explainer",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-07T14:04:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "anti-immigration, pro-Kremlin Alternative für Deutschland (AfD) party"
     },
     {
       "id": "826be3ecd39b9f0d6e2b3ff06d7df0f16da59aec",
@@ -34,6 +67,17 @@
       "evidence": "Germany's far-right AfD says 'democracy demands' parties work with them"
     },
     {
+      "id": "1df53a69f3f0e190a69ad54382c449e41e869199",
+      "title": "Germany’s ‘Firewall’ Against the Far Right Is Being Tested as Never Before",
+      "summary": "A blowout win by the far-right Alternative for Germany party in a state election has revealed a split among voters about whether to uphold a decades-old strategy for sidelining extremists.",
+      "url": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-election-saxony-anhalt-election.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-07T13:54:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "blowout win by the far-right Alternative for Germany party"
+    },
+    {
       "id": "fa3966367091a5edc54d49a17f19cac90e4fc948",
       "title": "German nationalists’ big win sounds alarm for mainstream politicians in Europe",
       "summary": "“This has shaken us,” Chancellor Friedrich Merz said after Ulrich Siegmund led his Alternative for Germany party to victory in Saxony-Anhalt.",
@@ -45,6 +89,28 @@
       "evidence": "German nationalists’ big win sounds alarm for mainstream politicians"
     },
     {
+      "id": "67c6b8fed5ccfd7d69e72e1207c9ffe8b8bfeecb",
+      "title": "Far-right AfD landslide in German state piles pressure on federal government",
+      "summary": "The \"extraordinary\" result may be the \"most consequential German state-election result of the postwar era,\" according to analysts.",
+      "url": "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-07T13:07:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Far-right AfD landslide in German state piles pressure on federal government"
+    },
+    {
+      "id": "9dc50459af579affa7f46e3510afb2b6ce988432",
+      "title": "SpaceX rival launches rocket in historic first, says industry is 'desperate' for more",
+      "summary": "Isar Aerospace reached orbit on its second test flight as the German rocket startup looks to scale production amid booming satellite launch demand.",
+      "url": "https://www.cnbc.com/2026/09/07/isar-aerospace-spacex-rival-rocket-launch.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-07T12:26:40+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "German rocket startup looks to scale production"
+    },
+    {
       "id": "a56a1533696a10e809e398f9ffa1e6a9af3adbc4",
       "title": "Elon Musk thanked by German far-right leader after landmark election win praised by Russia | First Thing",
       "summary": "Populist, far-right, anti-immigration AfD wins vote in eastern state of Saxony-Anhalt. Plus, 50 years since The Muppet Show first hit our screensDon’t already get First Thing in your inbox? Sign up hereGood morning. A fa…",
@@ -54,6 +120,28 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "far-right leader after landmark election win praised by Russia"
+    },
+    {
+      "id": "af28608005f2da39c497e69441d10235357d5f5a",
+      "title": "Far-right AfD win in Germany is ‘grave moment’ for Europe, politicians warn",
+      "summary": "Mainstream politicians express alarm while lead candidate in Saxony-Anhalt welcomes congratulations from Elon MuskAfD wins key German state election but falls just short of majorityMainstream politicians around Europe ha…",
+      "url": "https://www.theguardian.com/world/2026/sep/07/afd-thanks-elon-musk-german-state-elections-2026-win",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-07T10:49:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Far-right AfD win in Germany is ‘grave moment’ for Europe"
+    },
+    {
+      "id": "ed82e353c9380c0def526f9ab802f73dc1f119ad",
+      "title": "Germany's Far-Right AfD Scores Landslide Win In Key State Election",
+      "summary": "All major parties have agreed on a \"firewall\" of non-cooperation with the AfD",
+      "url": "https://www.ndtv.com/world-news/germanys-far-right-afd-scores-landslide-win-in-key-state-election-german-politics-12012761#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-07T09:30:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Germany's Far-Right AfD Scores Landslide Win"
     },
     {
       "id": "cc0c13dd856b0ef93fc7863dc3c6b90f81b872c1",
@@ -122,6 +210,17 @@
       "evidence": "populist, far-right, anti-immigration Alternative für Deutschland (AfD) is predicted to emerge on top"
     },
     {
+      "id": "661a033ac4fcc185638a6c7e9aaaa71ca55ef1c3",
+      "title": "‘Can no longer be stopped’: AfD races towards historic win in Germany state vote",
+      "summary": "Voting is currently taking place in Saxony-Anhalt's vital state election, representing an important benchmark for the far-right AfD party. Latest surveys indicate they are notably ahead, with a chance to obtain a full ma…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/can-no-longer-be-stopped-afd-races-towards-historic-win-in-germany-state-vote/articleshow/133832682.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-09-06T09:46:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "AfD races towards historic win in Germany state vote"
+    },
+    {
       "id": "6b8b7b729914430ce6e0909ba3f700cbd32f63c1",
       "title": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know",
       "summary": "Elections in Saxony-Anhalt, in the country’s east, could result in an outright majority for the Alternative for Germany party.",
@@ -131,105 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era"
-    },
-    {
-      "id": "5c6e43e0953b8202fa45ba59adff65ef971bc5dc",
-      "title": "Travellers to EU face renewed queues as border-check flexibility rules expire",
-      "summary": "Sources indicate some members states will not enforce EES biometric controls after 6 September deadlineWhat are the new EU border checks and how will they affect your holiday?Travellers to the EU could face renewed borde…",
-      "url": "https://www.theguardian.com/business/2026/sep/06/travellers-eu-queues-border-check-flexibility-rules-expire-entry-exit-system-ees",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-06T05:00:56+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "e35eee010924a47592ed66c3c108774d8d3d626f",
-      "title": "In Germany, Ulrich Siegmund Is Bringing the AfD to the Cusp of Power",
-      "summary": "Ulrich Siegmund, 35, once sold air fresheners. Now his far-right party is the favorite to win a state election in eastern Germany on Sunday.",
-      "url": "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-06T04:01:32+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "far-right party is the favorite to win a state election"
-    },
-    {
-      "id": "b98508f3bc1426a4b2f142d58eb3383cbefe79d1",
-      "title": "Five EU countries move towards first ‘return hub’ for rejected asylum seekers",
-      "summary": "Five European Union nations are planning migrant return hubs outside the EU.  These facilities aim to process rejected asylum seekers for repatriation.  The countries hope to finalize agreements with a partner nation thi…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/five-eu-countries-move-towards-first-return-hub-for-rejected-asylum-seekers/articleshow/133795917.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-09-05T10:06:40+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "0c2260fc15829e018c90d3bd45b3febebbb1381a",
-      "title": "German Far-Right Surges, in Threat to Postwar Taboo on Extremists in Power",
-      "summary": "Sunday’s vote in the state of Saxony-Anhalt could produce the strongest showing in the history of the Alternative for Germany party, and potentially a far-right government in the statehouse.",
-      "url": "https://www.nytimes.com/2026/09/05/world/europe/germany-afd-saxony-anhalt.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-05T04:01:07+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "German Far-Right Surges, in Threat to Postwar Taboo on Extremists"
-    },
-    {
-      "id": "d86a7d908263a42b012134ce1d0b88829118504c",
-      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
-      "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-04T23:07:23+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Germany's far-right AfD bids for first taste of power"
-    },
-    {
-      "id": "f8a6d56728c1a146263b683e91223584cc12056d",
-      "title": "Volkswagen plans 50,000 job cuts as analysts see ‘halo effect’ for German auto industry",
-      "summary": "Volkswagen shares jumped on Friday after it announced plans to slash a further 50,000 jobs as part of its transformation plan.",
-      "url": "https://www.cnbc.com/2026/09/04/volkswagen-job-cuts-tariffs-china.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-09-04T13:04:49+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Volkswagen plans 50,000 job cuts"
-    },
-    {
-      "id": "4217cb2605bd0c31df750c5e5a7007da58f364b9",
-      "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
-      "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-04T10:00:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Germany has blamed Russia for an attack on Leipzig airport"
-    },
-    {
-      "id": "2ced24161292ed6167883d279c21273f79e47443",
-      "title": "Volkswagen to cut further 50,000 jobs as it ends row with union over revival plan",
-      "summary": "Under-pressure carmaker will shed 15% of workforce and halve its product line in sector’s biggest ever restructureThe car company Volkswagen has approved controversial plans to shed 100,000 jobs in a battle for survival…",
-      "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-04T09:43:58+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "further 50,000 job cuts and agreed a staggered end to current production at four German plants"
-    },
-    {
-      "id": "aad4a276818118ab12a8c0b6404711726cb12215",
-      "title": "Germany’s Far Right, Edging Close to Power, Remains Close to Extremists",
-      "summary": "The Alternative for Germany party has tried to soften its hard-line image but is still privately working with extremists. It could win a state election on Sunday.",
-      "url": "https://www.nytimes.com/2026/09/04/world/europe/germany-afd-extremists.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-04T09:02:56+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Germany’s Far Right, Edging Close to Power, Remains Close to Extremists"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-07T15:08:00Z"
+  "last_updated": "2026-09-08T13:37:42Z"
 }

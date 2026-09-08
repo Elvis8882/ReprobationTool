@@ -1,16 +1,82 @@
 {
   "country": "SA",
-  "score": 59,
+  "score": 56,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 135,
+  "trend": -3,
+  "sources": 141,
   "sentiment": {
     "positive": 10,
-    "neutral": 62,
-    "negative": 63
+    "neutral": 64,
+    "negative": 67
   },
   "latest_articles": [
+    {
+      "id": "490544dbcf9577f1408e26d0a5e95e8d7c6ae17e",
+      "title": "Brent crude oil near $98 after Iran's Houthi allies attack multiple Saudi energy facilities",
+      "summary": "Oil prices rose Tuesday on worries over escalating Mideast tensions after the U.S. and Iran traded strikes over the weekend.",
+      "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-08T13:17:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "attack multiple Saudi energy facilities"
+    },
+    {
+      "id": "c2a8d541422159ae4226a88a640ce22cfaa4ddc4",
+      "title": "Video: Houthis Lay Waste To Saudi Weapons Trucks, Riyadh Vows Response",
+      "summary": "The video also showed the soldiers fleeing the camp amid massive explosions",
+      "url": "https://www.ndtv.com/world-news/video-houthis-lay-waste-to-saudi-weapons-trucks-riyadh-vows-response-12018385#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-08T12:45:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Houthis Lay Waste To Saudi Weapons Trucks"
+    },
+    {
+      "id": "cf594c42518914d098b7917ef08d5acf75100271",
+      "title": "UK pays highest borrowing rate since 1998 as pressure builds on public finances – business live",
+      "summary": "Saudi authorities said operations at some energy facilities have been attacked ‌by Yemen’s Iran-aligned Houthis Gas prices are rising this morning, putting pressure on European countries who need to stock up their storag…",
+      "url": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-08T12:08:04+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Saudi authorities said operations at some energy facilities have been attacked"
+    },
+    {
+      "id": "9dc68de6e26ba7afd1b8963e9bd01b63049d1336",
+      "title": "Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens",
+      "summary": "The latest escalation threatens to drag Saudi Arabia and the Iran-backed Houthi militia back into a full-blown war.",
+      "url": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-08T10:54:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "threatens to drag Saudi Arabia... back into a full-blown war"
+    },
+    {
+      "id": "21d7bbfa0d5f4a9e6c182f1bb06fbde01be81807",
+      "title": "Iran war latest: GCC chief condemns 'malicious' Houthi attacks on Saudi Arabia - thenationalnews.com",
+      "summary": "Iran war latest: GCC chief condemns 'malicious' Houthi attacks on Saudi Arabia&nbsp;&nbsp;thenationalnews.comHe was hosting his daughter’s wedding. Then a deadly strike tore through his home in southern Iran.&nbsp;&nbsp;…",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWWZwYVd5ZkUwZE1QSU9VclpYam10NVFMZ194cDRqMEJ3YVZjTHp2NVpISkVFQ0k2R0wyeS1Gem9INUFObWN3TmUtZUFyZDRkUUJOVlFrb2xKODRvdTBMWi1abUUzVFFQZ25TMXVJalBoRXZ5QmhPdlJ1REpqYlBpalBfTnV5NHFYRUhlUjd1SVNHRW9WNHVqdVRYUQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-09-08T09:43:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "GCC chief condemns 'malicious' Houthi attacks on Saudi Arabia"
+    },
+    {
+      "id": "bee9b186b64a8e6aa52a4d1a450c6329cd73ed8e",
+      "title": "73 Injured In Houthi Attack On Saudi Arabia's Airports, Aramco Oil Sites",
+      "summary": "The Houthis have claimed the attack",
+      "url": "https://www.ndtv.com/world-news/73-injured-in-houthi-attack-on-saudi-arabias-airports-aramco-oil-sites-12017034#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-08T08:42:26+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "73 Injured In Houthi Attack On Saudi Arabia's Airports, Aramco Oil Sites"
+    },
     {
       "id": "3ca9920f773a40cef61273cd7cec0849fcbd7625",
       "title": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?",
@@ -164,74 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "How Far Is Saudi Arabia Really Willing To Go For Pakistan?"
-    },
-    {
-      "id": "8d174a010bbed5daf7367b8d7f59bcbe46ecb225",
-      "title": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea",
-      "summary": "Oil exports from Egypt's Mediterranean port of Sidi Kerir have more than doubled. The crude is mostly from Saudi Arabia, according to Kpler.",
-      "url": "https://www.cnbc.com/2026/08/12/saudi-arabia-iran-oil-red-sea-houthi-suez-canal-strait-hormuz.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-08-12T21:04:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Saudi Arabia ramps up oil exports through Mediterranean pipeline"
-    },
-    {
-      "id": "610a3de8147b9e208a2a30c834d76b7abe833461",
-      "title": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
-      "summary": "The Yemeni government said the ship was carrying food supplies to a port on the Bab al-Mandab Strait while the Iran-backed Houthis accused Saudi Arabia of transporting weapons.",
-      "url": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-12T08:55:55+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Houthis accused Saudi Arabia of transporting weapons"
-    },
-    {
-      "id": "2f1b3d32f90f672236cd5c76e9d79c34019f9713",
-      "title": "In 1977, a Saudi prince towed an Alaskan iceberg to Iowa; now engineers are exploring the idea as freshwater scarcity worsens",
-      "summary": "In a bold venture back in 1977, a Saudi prince attempted to tow an iceberg to address a water supply dilemma. This audacious project confronted considerable engineering hurdles and substantial expenses. With current desa…",
-      "url": "https://timesofindia.indiatimes.com/science/in-1977-a-saudi-prince-towed-an-alaskan-iceberg-to-iowa-to-pitch-shipping-icebergs-to-arabia-for-drinking-water-now-engineers-are-exploring-the-idea-as-freshwater-scarcity-worsens/articleshow/133147897.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-08-11T08:39:45+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Saudi prince towed an Alaskan iceberg to Iowa"
-    },
-    {
-      "id": "6cc097290869a2daa1f8f81665a83e055e2d54ae",
-      "title": "Opinion: Opinion | Three Adversaries Become 4: Why The Saudi-Turkey-Pak Deal Is A Headache For India",
-      "summary": "With Turkey already in Islamabad's corner and Saudi Arabia now signing up to a mutual-defence pact, Pakistan's bilateral rivalry with India may now become a much wider strategic equation.",
-      "url": "https://www.ndtv.com/opinion/three-adversaries-become-4-why-the-saudi-turkey-pak-deal-is-a-headache-for-india-11892814#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-08-11T04:31:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Saudi Arabia now signing up to a mutual-defence pact"
-    },
-    {
-      "id": "fbb04abf5f61c66665d9bf24524ec437e020ad3b",
-      "title": "Opinion: Opinion | Saudi Arabia Has Money, Missiles, And America. Why Is It Still So Scared?",
-      "summary": "Saudi Crown Prince Mohammed bin Salman",
-      "url": "https://www.ndtv.com/opinion/saudi-arabia-has-money-oil-and-america-why-is-it-still-so-scared-11888428#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-08-10T05:34:55+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Saudi Arabia Has Money, Missiles, And America. Why Is It Still So Scared?"
-    },
-    {
-      "id": "85d9fc2535348b16e473abcd11a95cac6f2e9451",
-      "title": "Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms – as it happened",
-      "summary": "This live blog is now closed.Israel rejects US-led 15-point Gaza peace plan, says NetanyahuIsraeli prime minister Benjamin Netanyahu rejected a Gaza plan hailed by US president Donald Trump, vowing no military pullout of…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-09T19:54:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "targeted a Saudi oil refinery"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-07T15:08:00Z"
+  "last_updated": "2026-09-08T13:37:42Z"
 }

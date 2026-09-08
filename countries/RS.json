@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 10,
+  "sources": 11,
   "sentiment": {
     "positive": 0,
     "neutral": 6,
-    "negative": 4
+    "negative": 5
   },
   "latest_articles": [
+    {
+      "id": "58e356deedb567bd23cb50262c1eaab2481b5cf1",
+      "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
+      "summary": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
+      "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-07T14:50:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "EU warned Serbia not to glorify the convicted war criminal."
+    },
     {
       "id": "8a23b28787cc720aa239f7fbef4304591f075a8d",
       "title": "Ratko Mladić, the ‘Butcher of Bosnia’, given hero’s funeral in Serbia",
@@ -123,5 +134,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-07T15:08:00Z"
+  "last_updated": "2026-09-08T13:37:42Z"
 }
