@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 90,
+  "score": 91,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": 1,
   "sources": 98,
   "sentiment": {
     "positive": 9,
-    "neutral": 71,
-    "negative": 18
+    "neutral": 72,
+    "negative": 17
   },
   "latest_articles": [
+    {
+      "id": "b23b07a359360c741130fa834260084ae314f0a1",
+      "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
+      "summary": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of AfricaThe scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned…",
+      "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-08T04:00:27+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "military equipment for Turkey"
+    },
     {
       "id": "96284ed64bfb7fbd517750a90d9541e011e482c9",
       "title": "Turkish deep-sea search vessel joins efforts to retrieve 20 still missing after Cyprus ferry disaster",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Credible Missile Threat Behind Trump's Secret Aircraft Switch In Turkey"
-    },
-    {
-      "id": "762b8955ebc1458571e2643b11be7f073a6b6892",
-      "title": "Trump’s secret flight switch indicates severity of assassination threat by Iran",
-      "summary": "Iran lost top leaders in the war and US ‘humiliation ... a form of revenge’, say experts, after administration’s flight ruseSince the joint US-Israeli strikes in February that killed Iran’s supreme leader Ayatollah Ali K…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/12/trump-catering-cart-iran-threat",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-12T10:00:27+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Trump off of Air Force One in Turkey last month"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-08T13:37:42Z"
+  "last_updated": "2026-09-09T13:47:49Z"
 }

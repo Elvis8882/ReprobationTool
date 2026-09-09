@@ -1,16 +1,38 @@
 {
   "country": "IS",
-  "score": 68,
+  "score": 66,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 28,
+  "trend": -2,
+  "sources": 29,
   "sentiment": {
     "positive": 6,
-    "neutral": 15,
-    "negative": 7
+    "neutral": 14,
+    "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "d2abb148c74e3a8c82b8efbb3d8beb5d0e2a3e00",
+      "title": "‘This is not a joke’: Iceland condemns Trump’s post showing island under American flag",
+      "summary": "Denmark and Mexico also objected, underscoring the diplomatic backlash to Trump's territorial ambitions.",
+      "url": "https://www.cnbc.com/2026/09/09/iceland-trump-map-us-flag-greenland-mexico.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-09T08:00:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Iceland condemns Trump’s post showing island under American flag"
+    },
+    {
+      "id": "a0f0a2e45ead03ffac1dc23b5327605753634d25",
+      "title": "Iceland Summons U.S. Ambassador Over Provocative Trump Map",
+      "summary": "After voting against talks to join the European Union, Iceland is reacting forcefully to a slight against its sovereignty.",
+      "url": "https://www.nytimes.com/2026/09/08/world/europe/iceland-summon-ambassador-trump-map-greenland.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-08T18:14:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "voting against talks to join the European Union"
+    },
     {
       "id": "c9ada295d15b9de69296ebcc370e7d371f2696f9",
       "title": "Iceland’s close ties with EU mean no vote is not a Brexit-style rejection",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "In Iceland, the eclipse czar is broken-hearted over the weather."
-    },
-    {
-      "id": "b1dcffabf9d524b0b482b5604a7c3fba51f076b0",
-      "title": "Solar eclipse drives Europe hotel prices to over $1,000 a night",
-      "summary": "Eclipse demand pushed some Spain and Iceland stays above $1,000 a night, while Iceland hotels cut prices sharply closer to Aug. 12.",
-      "url": "https://www.cnbc.com/2026/08/12/solar-eclipse-europe-hotel-prices.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-08-12T13:40:40+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Eclipse demand pushed some Spain and Iceland stays"
-    },
-    {
-      "id": "bacf17e168dc09d809109924cc3f3df434c795ee",
-      "title": "Total solar eclipse 2026: Here’s where Americans will see today’s eclipse",
-      "summary": "Today brings a spectacular total solar eclipse as the Moon neatly aligns between Earth and the Sun. This extraordinary event will unveil its shadow over the Northern Hemisphere, with totality observable in regions like G…",
-      "url": "https://timesofindia.indiatimes.com/science/total-solar-eclipse-2026-will-americans-see-todays-eclipse-heres-where-it-is-visible/articleshow/133173633.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-08-12T06:49:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "regions like Greenland, Iceland"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-08T13:37:42Z"
+  "last_updated": "2026-09-09T13:47:49Z"
 }

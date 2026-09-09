@@ -1,16 +1,38 @@
 {
   "country": "SA",
-  "score": 56,
+  "score": 54,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -3,
-  "sources": 141,
+  "trend": -2,
+  "sources": 144,
   "sentiment": {
     "positive": 10,
-    "neutral": 64,
-    "negative": 67
+    "neutral": 65,
+    "negative": 69
   },
   "latest_articles": [
+    {
+      "id": "0f0cd0a57b10b50cc7e66f268324d02f9e6c5707",
+      "title": "UK Businessman Detained In Saudi Arabia, Family Speaks Out After 9 Years",
+      "summary": "He was subject to torture and released a year later.",
+      "url": "https://www.ndtv.com/world-news/rami-naimi-uk-businessman-detained-in-saudi-arabia-family-speaks-out-after-9-years-12021364#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-09T05:31:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "subject to torture"
+    },
+    {
+      "id": "25a76ca00d0bc0ce35b35a9ce356522809eba772",
+      "title": "Crude Oil Surges Towards $100 As Iran-US Conflict Fuels Supply Concerns",
+      "summary": "The waterway is an increasingly important route for Saudi oil with the Strait of Hormuz shut.",
+      "url": "https://www.ndtv.com/world-news/crude-oil-surges-towards-100-as-iran-us-conflict-fuels-supply-concerns-12021386#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-09T04:39:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "important route for Saudi oil"
+    },
     {
       "id": "490544dbcf9577f1408e26d0a5e95e8d7c6ae17e",
       "title": "Brent crude oil near $98 after Iran's Houthi allies attack multiple Saudi energy facilities",
@@ -43,6 +65,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Saudi authorities said operations at some energy facilities have been attacked"
+    },
+    {
+      "id": "c2a40c5625c5a83633b125833b28bca7db4c780d",
+      "title": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
+      "summary": "Riyadh says it will retaliate after overnight attacks by Iran-backed Yemen group on oil facilities wound more than 70Yemen’s Iran-backed Houthis have attacked four cities in Saudi Arabia, wounding more than 70 people and…",
+      "url": "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-08T12:05:31+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Houthis strike Saudi Arabian cities"
     },
     {
       "id": "9dc68de6e26ba7afd1b8963e9bd01b63049d1336",
@@ -197,41 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Saudi Arabia's Crown Prince Mohammed bin Salman agree"
-    },
-    {
-      "id": "bcb5874c40332424b230a552dd823fef23aa7924",
-      "title": "Houthis Claim Strike on Saudi Vessel as Red Sea Violence Escalates",
-      "summary": "The armed group, based in Yemen and backed by Iran, said it had launched missiles near the vital maritime trade route, in a conflict that shows no sign of abating.",
-      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/houthis-saudi-strike.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-17T15:16:11+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Houthis Claim Strike on Saudi Vessel as Red Sea Violence Escalates"
-    },
-    {
-      "id": "1ee1e3761bd9c5b2c28dfed8aab9ea5f5dc11c10",
-      "title": "US backs 'Islamic Nato': Trump calls Saudi-Turkey-Pakistan pact 'big, bold and important step'",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-backs-islamic-nato-trump-calls-saudi-turkey-pakistan-pact-big-bold-and-important-step/articleshow/133285023.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-08-17T02:42:10+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Trump calls Saudi-Turkey-Pakistan pact 'big, bold and important step'"
-    },
-    {
-      "id": "aaac053bd7416501a1bc1928f007f611728d7b49",
-      "title": "Opinion: Opinion | How Far Is Saudi Arabia Really Willing To Go For Pakistan?",
-      "summary": "Riyadh may not afford to fully align its security commitments under the Mecca pact in a way that undermines its relationship with New Delhi.",
-      "url": "https://www.ndtv.com/opinion/how-far-is-saudi-arabia-really-willing-to-go-for-pakistan-11908761#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-08-14T06:56:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "How Far Is Saudi Arabia Really Willing To Go For Pakistan?"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-08T13:37:42Z"
+  "last_updated": "2026-09-09T13:47:49Z"
 }

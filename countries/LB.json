@@ -1,16 +1,27 @@
 {
   "country": "LB",
-  "score": 51,
+  "score": 54,
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 3,
-  "sources": 134,
+  "sources": 132,
   "sentiment": {
     "positive": 7,
-    "neutral": 55,
-    "negative": 72
+    "neutral": 56,
+    "negative": 69
   },
   "latest_articles": [
+    {
+      "id": "f0668b8104ee4600320a53a1b1fad88c49f865af",
+      "title": "Renewed fighting in southern Lebanon strains U.S.-backed ceasefire",
+      "summary": "In war-weary Lebanon, Israeli strikes have intensified in response to Hezbollah drone attacks.",
+      "url": "https://www.washingtonpost.com/world/2026/09/08/renewed-fighting-southern-lebanon-strains-us-backed-ceasefire/",
+      "source": "World (Washington post)",
+      "published_at": "2026-09-08T21:44:24+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Renewed fighting in southern Lebanon"
+    },
     {
       "id": "7f86881fb24a6ea3097f8e8739a2cb1cd79b08e1",
       "title": "Israel Launches Deadly Strikes in Lebanon as Military Campaign Intensifies",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "targeting Lebanon’s natural environment"
-    },
-    {
-      "id": "6479d3046a1fb58325ea616a6c5b500c6e615137",
-      "title": "Lebanon takes step to become first Arab country to abolish death penalty",
-      "summary": "The bill would make life sentence with hard labor the highest penalty that can be imposed.",
-      "url": "https://www.washingtonpost.com/world/2026/08/11/lebanon-takes-step-become-first-arab-country-abolish-death-penalty/",
-      "source": "World (Washington post)",
-      "published_at": "2026-08-11T19:15:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Lebanon takes step to become first Arab country to abolish death penalty"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-08T13:37:42Z"
+  "last_updated": "2026-09-09T13:47:49Z"
 }

@@ -1,16 +1,60 @@
 {
   "country": "UA",
-  "score": 10,
+  "score": 9,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -4,
-  "sources": 620,
+  "trend": -1,
+  "sources": 624,
   "sentiment": {
     "positive": 268,
-    "neutral": 103,
-    "negative": 250
+    "neutral": 106,
+    "negative": 251
   },
   "latest_articles": [
+    {
+      "id": "c9167f8fb61671fe402663403b841d5389c87ddd",
+      "title": "Putin, Trump Discussed Potential Trilateral Meeting With Xi Jinping: Kremlin",
+      "summary": "The November summit comes as Washington pushes Russia for an end to the Ukraine war",
+      "url": "https://www.ndtv.com/world-news/vladimir-putin-donald-trump-discussed-potential-trilateral-meeting-with-xi-jinping-kremlin-12023511#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-09T12:03:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "end to the Ukraine war"
+    },
+    {
+      "id": "61c7a290617023828f261e0a95910530bf6788b5",
+      "title": "Thousands Gather for Funeral of Norway’s King Harald",
+      "summary": "Royal families and heads of state, including President Volodymyr Zelensky of Ukraine, attended the funeral of King Harald V in Oslo.",
+      "url": "https://www.nytimes.com/2026/09/09/world/europe/norway-king-harald-funeral.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-09T11:56:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "President Volodymyr Zelensky of Ukraine, attended the funeral"
+    },
+    {
+      "id": "a30a4aacf40cd041f13b0cd7d919fb7fba65b02b",
+      "title": "Ukraine’s Unexpected $27 Billion Budget Gap Rattles Europe",
+      "summary": "An unexpected request from President Volodymyr Zelensky offered a stark reminder that the cost of the war will rise, challenging Europe.",
+      "url": "https://www.nytimes.com/2026/09/09/world/europe/ukraine-says-it-needs-27-billion-more-europe-wants-to-know-why.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-09T09:05:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Budget Gap Rattles Europe... challenging Europe."
+    },
+    {
+      "id": "b77f9001ba1957ebd0448ef7fba7e88a097e1551",
+      "title": "Trump told Putin U.S.-Russia ties could be 'fully restored' with swift end to Ukraine war, Kremlin says",
+      "summary": "The leaders were said to have discussed recent U.S. envoy visits to Moscow and Kyiv as peace talks remain stalled.",
+      "url": "https://www.cnbc.com/2026/09/09/trump-putin-us-russia-ukraine-war.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-09T09:00:49+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "swift end to Ukraine war, Kremlin says... peace talks remain stalled"
+    },
     {
       "id": "00b8e99f29515652a8471d8cd020f14a57f884dd",
       "title": "Russia says it will give a ‘harsh and painful’ response after Hungary expels 10 diplomats - Europe live",
@@ -89,6 +133,17 @@
       "evidence": "a trip to Kyiv was just an initial step. Any new talks will happen alongside escalating fighting."
     },
     {
+      "id": "c8b043b5cc98eee829f961f57986de64e7b1b743",
+      "title": "Russia Not Ruling Out Three-Way Peace Talks With Ukraine, US: Kremlin",
+      "summary": "Russian and Ukrainian negotiators last met for US-mediated talks in February.",
+      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-russia-not-ruling-out-three-way-peace-talks-with-ukraine-us-kremlin-12013794#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-07T12:47:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Three-Way Peace Talks With Ukraine"
+    },
+    {
       "id": "a56a1533696a10e809e398f9ffa1e6a9af3adbc4",
       "title": "Elon Musk thanked by German far-right leader after landmark election win praised by Russia | First Thing",
       "summary": "Populist, far-right, anti-immigration AfD wins vote in eastern state of Saxony-Anhalt. Plus, 50 years since The Muppet Show first hit our screensDon’t already get First Thing in your inbox? Sign up hereGood morning. A fa…",
@@ -98,6 +153,17 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "pushing for Ukrainians in Germany to no longer receive refugee status"
+    },
+    {
+      "id": "f61e2412c3d90dba757185ce69f46f481397026d",
+      "title": "What Secret Ukrainian Military Audits Reveal: 4 Key Findings",
+      "summary": "Audits reveal Ukraine military overspent on weapons due to intermediaries and failed suppliers.",
+      "url": "https://www.ndtv.com/world-news/what-secret-ukrainian-military-audits-reveal-4-key-findings-12012568#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-07T09:13:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Ukraine military overspent on weapons due to intermediaries"
     },
     {
       "id": "a13a5e8a23f7a0cafd4d0a47b76c851fe9204d59",
@@ -164,74 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "In Kyiv, U.S. envoys say push is on for trilateral talks"
-    },
-    {
-      "id": "8f2a6544ec60cd67af84ab8f090380c034201ea9",
-      "title": "US envoys Kushner and Witkoff arrive in Kyiv to hold talks on ending war",
-      "summary": "Arrival marks the pair’s first visit to Ukraine and comes day after ‘substantive plans’ were discussed in MoscowThe US negotiators Jared Kushner and Steve Witkoff have arrived in Kyiv for a second day of talks on how to…",
-      "url": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-06T11:37:36+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "US envoys Kushner and Witkoff arrive in Kyiv to hold talks on ending war"
-    },
-    {
-      "id": "5ea7c78ca31e6d4444a7521861d0eb4136f03a7b",
-      "title": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
-      "summary": "Steve Witkoff and Jared Kushner arrived in Kyiv on Sunday, having \"discussed substantive plans for next steps\" with Putin on Saturday, according to the White House.",
-      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-06T11:19:30+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "US envoys arrive in Ukraine for talks"
-    },
-    {
-      "id": "b4808b17daa18a542baddd242d606ea98efea864",
-      "title": "Trump Envoys Reach Kyiv By Train Despite Temporary Russia-Ukraine Ceasefire",
-      "summary": "For many Ukrainians, hopes of a breakthrough remain slim.",
-      "url": "https://www.ndtv.com/world-news/trump-envoys-reach-kyiv-by-train-despite-temporary-russia-ukraine-ceasefire-12009285#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-06T11:07:51+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "For many Ukrainians, hopes of a breakthrough remain slim."
-    },
-    {
-      "id": "37d665c20f72abe6113c957b36e4cdd438e41497",
-      "title": "Witkoff and Kushner discussed ‘next steps’ with Putin to end Ukraine war, says US",
-      "summary": "Donald Trump’s business ally and son-in-law now heading from Moscow to Kyiv to meet ZelenskyySteve Witkoff and Jared Kushner are heading to Kyiv for the first time in their roles as Donald Trump’s peace envoys to Ukraine…",
-      "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-06T09:23:22+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "heading from Moscow to Kyiv to meet Zelenskyy"
-    },
-    {
-      "id": "98b5ba3abe4b0a02e6d6f5e986a68ca3b4785f21",
-      "title": "What Secret Audits Tell Us About How Ukraine’s Military Is Spending Its Money",
-      "summary": "The documents amount to an autopsy of the weapons-contracting process.",
-      "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-military-audits-spending-weapons.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-06T09:02:23+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.7,
-      "evidence": "Secret Audits Tell Us About How Ukraine’s Military Is Spending Its Money"
-    },
-    {
-      "id": "7b7edf54c18b702bc652f0f12756d4602672ef52",
-      "title": "In Ukraine, Fraud and Waste Are Rewarded With More Weapons Contracts",
-      "summary": "Secret military audits reveal a military procurement system riddled with mismanagement. In 2024 alone, Ukraine lost $1.2 billion to fraud and waste.",
-      "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-war-weapons-fraud-corruption.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-06T09:00:10+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Fraud and Waste Are Rewarded With More Weapons Contracts"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-08T13:37:42Z"
+  "last_updated": "2026-09-09T13:47:49Z"
 }

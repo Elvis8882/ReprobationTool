@@ -3,7 +3,7 @@
   "score": 73,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 1,
+  "trend": 0,
   "sources": 54,
   "sentiment": {
     "positive": 1,
@@ -11,6 +11,39 @@
     "negative": 38
   },
   "latest_articles": [
+    {
+      "id": "9c85c345624140c5a9ad1656b89656cfa2a239da",
+      "title": "Trump center stage at RNC in midterms gamble – US politics live",
+      "summary": "President to give speeches on both days of unprecedented gatheringRepublicans look to ‘midterm convention’ to overcome Trump unpopularitySign up for US Breaking News emailAs the US and Iran again trade fire in the Middle…",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/09/donald-trump-rnc-republican-national-convention-jd-vance-midterms-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-09T13:09:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "targeting a US base in Jordan"
+    },
+    {
+      "id": "dff96fc0ee11c88cca62295470c5894e0b72c469",
+      "title": "Iran sends wave of missiles toward U.S. base in Jordan after vowing escalation",
+      "summary": "Under economic pressure from the U.S., Iranian leaders have signaled they will not capitulate amid stunted diplomatic efforts to end the war.",
+      "url": "https://www.washingtonpost.com/national-security/2026/09/08/us-launches-strikes-5-iranian-oil-tankers-after-latest-attacks-warships/",
+      "source": "World (Washington post)",
+      "published_at": "2026-09-09T08:33:10+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "U.S. base in Jordan"
+    },
+    {
+      "id": "3a693654242ef64a8d7124b5978fe17587fed912",
+      "title": "U.S. Hits 5 Iranian Oil Tankers, Citing Attempted Strikes on Warship",
+      "summary": "Iran retaliated by launching missiles at Jordan, raising the specter of still more fighting.",
+      "url": "https://www.nytimes.com/2026/09/08/world/middleeast/us-strikes-iran-tankers.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-09T00:50:19+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Iran retaliated by launching missiles at Jordan"
+    },
     {
       "id": "42f325713a0c9380da308d10ad0ec272bb56e876",
       "title": "U.S. crude near $90 as Iran retaliates with strikes on Kuwait, Jordan and Bahrain",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Iran’s target was a US base in Jordan"
-    },
-    {
-      "id": "b228916f8cf4203a72ab3f5c4039d6108ebf7e48",
-      "title": "Some Jordanians Dare to Speak Out Against U.S. Troop Presence",
-      "summary": "Hundreds of political, legal and other figures signed a public letter warning that Jordan’s close alliance with the United States poses a risk.",
-      "url": "https://www.nytimes.com/2026/07/29/world/middleeast/jordan-us-military-iran-war.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-29T04:01:19+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Jordanians Dare to Speak Out Against U.S. Troop Presence"
-    },
-    {
-      "id": "0adeceaef5b81d6c5e64bc3033ea832f0ff6f7ef",
-      "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
-      "summary": "No end to fighting in sight as Revolutionary Guards launch drones at targets in Bahrain, Jordan and KuwaitThe US has struck targets across Iran, reaching as far as the Caspian Sea, as Donald Trump threatened “major milit…",
-      "url": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-24T17:58:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "launch drones at targets in Bahrain, Jordan"
-    },
-    {
-      "id": "cc4ca3cb3b331e1d7ccca53f977a91ce8b422d1b",
-      "title": "Middle East crisis: US carries out strikes across Iran as Tehran targets American bases in region – as it happened",
-      "summary": "Latest attacks come after Trump vowed ‘major military punishment’ for Tehran and its Houthi alliesAs we reported earlier, Iran’s military said on Friday that it carried out attacks targeting US military assets in Bahrain…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/24/us-iran-donald-trump-iraq-bahrain-kuwait-jordan-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-24T17:20:09+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "targeting US military assets in Bahrain, Jordan"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-08T13:37:42Z"
+  "last_updated": "2026-09-09T13:47:49Z"
 }
