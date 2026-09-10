@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 9,
+  "sources": 10,
   "sentiment": {
     "positive": 5,
-    "neutral": 1,
+    "neutral": 2,
     "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "13b238d95246bc10a1afcc49185bded8c2ad1151",
+      "title": "Russian Drone Incursion Delayed Zelensky Flight to Oslo, Moldova Says",
+      "summary": "An airspace closure delayed the Ukrainian leader’s trip between Moldova and Norway, officials said. They did not confirm a claim by Norway’s prime minister that a drone had “almost hit” the plane.",
+      "url": "https://www.nytimes.com/2026/09/10/world/europe/zelensky-plane-drone-moldova.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-10T12:35:12+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Moldova Says"
+    },
     {
       "id": "4b940431bec919e75024b4d43e4cb060d72fec02",
       "title": "Lithuania to use EU presidency to accelerate Moldova accession, FM says - baltictimes.com",
@@ -112,5 +123,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-09T13:47:49Z"
+  "last_updated": "2026-09-10T13:36:45Z"
 }

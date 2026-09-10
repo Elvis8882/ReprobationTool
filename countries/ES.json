@@ -1,16 +1,27 @@
 {
   "country": "ES",
-  "score": 44,
+  "score": 43,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 383,
+  "trend": -1,
+  "sources": 378,
   "sentiment": {
-    "positive": 23,
-    "neutral": 275,
-    "negative": 88
+    "positive": 22,
+    "neutral": 270,
+    "negative": 89
   },
   "latest_articles": [
+    {
+      "id": "710026623b8ec28b159574c75f567500c6953574",
+      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+      "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
+      "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-09T21:23:45+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Spanish intelligence warned of Ceuta mass crossing plans before surge"
+    },
     {
       "id": "a96d02e9f40b2202a39f684640ca70b748cbf535",
       "title": "Real Madrid make Declan Rice a priority target as Arsenal face transfer fight - Yahoo Sports",
@@ -210,19 +221,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "5,000 Migrants Are Still in Ceuta"
-    },
-    {
-      "id": "c4f939777fadcdbb7d909b5b3e858b92adbf14f6",
-      "title": "Italy Extends Spain Border Checks A Month After Ceuta Migrant Crisis",
-      "summary": "Spanish authorities say between 5,000 and 8,000 people remain in Ceuta.",
-      "url": "https://www.ndtv.com/world-news/italy-extends-spain-border-checks-a-month-after-ceuta-migrant-crisis-11981702#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-08-31T15:03:16+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Spain Border Checks A Month After Ceuta Migrant Crisis"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-09T13:47:49Z"
+  "last_updated": "2026-09-10T13:36:45Z"
 }

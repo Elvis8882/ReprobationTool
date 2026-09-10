@@ -1,16 +1,27 @@
 {
   "country": "FR",
-  "score": 60,
+  "score": 61,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 508,
+  "trend": 1,
+  "sources": 503,
   "sentiment": {
-    "positive": 53,
-    "neutral": 373,
-    "negative": 83
+    "positive": 54,
+    "neutral": 369,
+    "negative": 81
   },
   "latest_articles": [
+    {
+      "id": "78136219ba865cd33d3450312a329b3e14fc0cdf",
+      "title": "Silver Lake to merge two software firms in $11.6 billion bet on AI",
+      "summary": "French firms Cegid, which sells business management software, and Silae, a payroll and HR platform, are set to combine.",
+      "url": "https://www.cnbc.com/2026/09/09/silver-lake-merges-cegid-silae-ai-software-deal.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-09T17:36:02+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "French firms Cegid... and Silae... set to combine."
+    },
     {
       "id": "81c3e28a0a84a544ca64c749badc27fe2eeb602a",
       "title": "Europe Unites to Pressure Israel, Breaking With U.S.",
@@ -119,6 +130,17 @@
       "evidence": "alongside France and Canada, on trade with Israeli settlements"
     },
     {
+      "id": "2c9421d91e25da05f185f13d1cb87ba74ac8dfd3",
+      "title": "Artworks stolen from Renoir Museum on French Riviera in latest heist",
+      "summary": "Thieves took four artworks but it is thought they dropped two in museum garden as they fledTwo thieves have broken into a museum dedicated to the French impressionist painter Pierre-Auguste Renoir in southern France, ste…",
+      "url": "https://www.theguardian.com/world/2026/sep/08/artworks-stolen-france-renoir-museum-french-riviera-art-heist",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-08T12:26:35+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Artworks stolen from Renoir Museum on French Riviera"
+    },
+    {
       "id": "b1ad3a0a8a225dc4ad6a64318343b88f4c16a0b7",
       "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
       "summary": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day.",
@@ -202,30 +224,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "arriving from Paris"
-    },
-    {
-      "id": "eca0fc692bc0cd5c149cf42f1dccd1b161b926c6",
-      "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
-      "summary": "PM will aim to centre talks with French president on key foreign policy issues such as Iran, smuggling gangs and EU relationsAndy Burnham will begin the process of courting European leaders when he welcomes Emmanuel Macr…",
-      "url": "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-migrant-crisis-macron-downing-street",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-02T21:30:35+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "talks with French president on key foreign policy issues... EU relations"
-    },
-    {
-      "id": "9a2a4630ae2a03142e9dde66cc04918dd44b04d7",
-      "title": "Earth Set To Overshoot Paris Agreement's 1.5 Degree Threshold Of Warming: UN",
-      "summary": "Optimistic scenario puts peak temperature rise at 1.8 degree Celsius over pre-industrial levels",
-      "url": "https://www.ndtv.com/world-news/earth-set-to-overshoot-paris-agreements-1-5-degree-threshold-of-warming-un-11990296#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-02T05:09:43+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Earth Set To Overshoot Paris Agreement's 1.5 Degree Threshold"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-09T13:47:49Z"
+  "last_updated": "2026-09-10T13:36:45Z"
 }

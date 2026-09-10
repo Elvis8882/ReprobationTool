@@ -1,16 +1,27 @@
 {
   "country": "GB",
-  "score": 14,
+  "score": 18,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 5,
-  "sources": 1097,
+  "trend": 4,
+  "sources": 1082,
   "sentiment": {
     "positive": 123,
-    "neutral": 787,
-    "negative": 188
+    "neutral": 778,
+    "negative": 182
   },
   "latest_articles": [
+    {
+      "id": "55dca51cde7c66e27f7336dde448830b72bbf78b",
+      "title": "Watch: How a community living under demolition orders from Israel view UK sanctions",
+      "summary": "Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar, and the neighbouring Israeli settlement of Maale Admumim.",
+      "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-09T22:17:22+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "UK sanctions"
+    },
     {
       "id": "fdb050850f9d159507329600993f56fde80028c9",
       "title": "Polanski calls for report on ecosystem collapse to be published in full",
@@ -98,6 +109,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Tea and Cantaloupe Grow as the Climate Warms"
+    },
+    {
+      "id": "4511941ef3b079a144586895572e58455c8f6258",
+      "title": "Family of British man found dead in Grenada ask local police to work with UK investigators",
+      "summary": "Andrew Frederick’s body was found in property he was staying at in Grenada in JanuaryThe family of a British father who was found dead in the Caribbean in January is urging authorities in Grenada to work with UK police t…",
+      "url": "https://www.theguardian.com/world/2026/sep/09/family-andrew-frederick-british-man-found-dead-grenada-local-police-uk-investigators",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-09T08:00:03+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "British man found dead in Grenada"
     },
     {
       "id": "f1ee0b88666a7c1dbf24d591e49da3cdaa6be4c4",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Westminster council for keeping ‘vertical drinking’ curbs on pubs"
-    },
-    {
-      "id": "cd2357684ab1738e3ffeac6636d0615e5d490115",
-      "title": "UK Imposes Sanctions on Israeli Settlements in West Bank, Accuses Settlers of Ethnic Cleansing",
-      "summary": "Ed Miliband, the U.K. foreign secretary, said Britain believes there is ethnic cleansing of Palestinians in areas of the West Bank, and will ban goods from illegal settlements.",
-      "url": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-08T12:49:14+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "UK Imposes Sanctions on Israeli Settlements in West Bank"
-    },
-    {
-      "id": "472bc04cefe2ee605baffa88afbf26580c13b965",
-      "title": "UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing",
-      "summary": "In strongest condemnation ever by UK government, Ed Miliband announces sweeping sanctions on trade with Israeli settlementsUK politics live – latest updatesIsraeli “terrorists” are conducting ethnic cleansing in the West…",
-      "url": "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-08T12:43:55+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-09T13:47:49Z"
+  "last_updated": "2026-09-10T13:36:45Z"
 }

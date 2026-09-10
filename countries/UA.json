@@ -1,16 +1,38 @@
 {
   "country": "UA",
-  "score": 9,
+  "score": 6,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 624,
+  "trend": -3,
+  "sources": 625,
   "sentiment": {
-    "positive": 268,
+    "positive": 266,
     "neutral": 106,
-    "negative": 251
+    "negative": 254
   },
   "latest_articles": [
+    {
+      "id": "13b238d95246bc10a1afcc49185bded8c2ad1151",
+      "title": "Russian Drone Incursion Delayed Zelensky Flight to Oslo, Moldova Says",
+      "summary": "An airspace closure delayed the Ukrainian leader’s trip between Moldova and Norway, officials said. They did not confirm a claim by Norway’s prime minister that a drone had “almost hit” the plane.",
+      "url": "https://www.nytimes.com/2026/09/10/world/europe/zelensky-plane-drone-moldova.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-10T12:35:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Zelensky Flight to Oslo"
+    },
+    {
+      "id": "10969d400c094f73ee22b996fe6c9a013aba61d1",
+      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
+      "summary": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
+      "url": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-10T04:43:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Ukraine's air defences"
+    },
     {
       "id": "c9167f8fb61671fe402663403b841d5389c87ddd",
       "title": "Putin, Trump Discussed Potential Trilateral Meeting With Xi Jinping: Kremlin",
@@ -32,6 +54,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "President Volodymyr Zelensky of Ukraine, attended the funeral"
+    },
+    {
+      "id": "2f9d5874f4dc7c3c8ebc94557b713f29ed3effe9",
+      "title": "Ukraine’s Unexpected $27 Billion Budget Gap Rattles Europe",
+      "summary": "An unexpected request from President Volodymyr Zelensky offered a stark reminder that the cost of the war will rise, challenging Europe.",
+      "url": "https://www.nytimes.com/2026/09/09/world/europe/ukraine-war-cost.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-09T09:05:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Budget Gap Rattles Europe... challenging Europe."
     },
     {
       "id": "a30a4aacf40cd041f13b0cd7d919fb7fba65b02b",
@@ -197,41 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "campaign for Ukrainian soldiers continues"
-    },
-    {
-      "id": "b9e625182f748ac78c18463d84db97db3f8d77b8",
-      "title": "Ukraine seeks to seize water company owned by billionaire family of British theatre mogul",
-      "summary": "Dispute centres on stake held by Patarkatsishvili family in bottled water firm it jointly owns with Russian oligarchA British theatre impresario and her billionaire family are embroiled in a bitter dispute with Ukrainian…",
-      "url": "https://www.theguardian.com/world/2026/sep/07/ukraine-seeks-to-seize-water-company-owned-by-billionaire-family-of-british-theatre-mogul",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-07T04:00:25+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Ukrainian authorities seeking to seize a water company"
-    },
-    {
-      "id": "4b22560d8220b367a340a157cb3a3e2df7299ccc",
-      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-      "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
-      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-06T20:52:12+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "expectation in Kyiv is the fighting will continue"
-    },
-    {
-      "id": "373ac5e2343c6c184ea48edec0646ce733a7abbf",
-      "title": "In Kyiv, U.S. envoys say push is on for trilateral talks to end Russia’s war",
-      "summary": "Sunday’s visit by Steve Witkoff and Jared Kushner marks the first by President Donald Trump’s emissaries to the Ukrainian capital.",
-      "url": "https://www.washingtonpost.com/world/2026/09/06/us-envoys-kyiv-russia-ukraine-peace-talks-after-meeting-with-putin/",
-      "source": "World (Washington post)",
-      "published_at": "2026-09-06T19:05:20+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "In Kyiv, U.S. envoys say push is on for trilateral talks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-09T13:47:49Z"
+  "last_updated": "2026-09-10T13:36:45Z"
 }

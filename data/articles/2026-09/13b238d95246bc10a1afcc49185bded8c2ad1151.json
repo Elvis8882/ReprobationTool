@@ -1,0 +1,48 @@
+{
+  "id": "13b238d95246bc10a1afcc49185bded8c2ad1151",
+  "title": "Russian Drone Incursion Delayed Zelensky Flight to Oslo, Moldova Says",
+  "summary_full": "An airspace closure delayed the Ukrainian leader’s trip between Moldova and Norway, officials said. They did not confirm a claim by Norway’s prime minister that a drone had “almost hit” the plane.",
+  "summary_public": "An airspace closure delayed the Ukrainian leader’s trip between Moldova and Norway, officials said. They did not confirm a claim by Norway’s prime minister that a drone had “almost hit” the plane.",
+  "url": "https://www.nytimes.com/2026/09/10/world/europe/zelensky-plane-drone-moldova.html",
+  "published_at": "2026-09-10T12:35:12+00:00",
+  "source": "NYT > World News",
+  "language": "en",
+  "countries_detected": [
+    "MD",
+    "NO",
+    "RU",
+    "UA"
+  ],
+  "countries_scored": [
+    "MD",
+    "NO",
+    "RU",
+    "UA"
+  ],
+  "sentiment_by_country": {
+    "MD": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Moldova Says"
+    },
+    "NO": {
+      "label": "mixed",
+      "confidence": 0.7,
+      "evidence": "Zelensky Flight to Oslo, Moldova Says"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "Russian Drone Incursion Delayed Zelensky Flight"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Zelensky Flight to Oslo"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-09-10T13:36:45+00:00",
+  "processed_at": "2026-09-10T13:36:45+00:00"
+}

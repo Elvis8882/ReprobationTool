@@ -1,16 +1,38 @@
 {
   "country": "NO",
-  "score": 86,
+  "score": 98,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 42,
+  "trend": 12,
+  "sources": 41,
   "sentiment": {
     "positive": 4,
     "neutral": 38,
-    "negative": 1
+    "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "13b238d95246bc10a1afcc49185bded8c2ad1151",
+      "title": "Russian Drone Incursion Delayed Zelensky Flight to Oslo, Moldova Says",
+      "summary": "An airspace closure delayed the Ukrainian leader’s trip between Moldova and Norway, officials said. They did not confirm a claim by Norway’s prime minister that a drone had “almost hit” the plane.",
+      "url": "https://www.nytimes.com/2026/09/10/world/europe/zelensky-plane-drone-moldova.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-10T12:35:12+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.7,
+      "evidence": "Zelensky Flight to Oslo, Moldova Says"
+    },
+    {
+      "id": "cd7433f4291bb5b91036d1086887988207f00236",
+      "title": "Watch: Norway bids farewell to King Harald",
+      "summary": "Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.",
+      "url": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-09T16:36:45+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Norway bids farewell to King Harald"
+    },
     {
       "id": "df768f00f7035a2b105f1c4fb044293915b37d50",
       "title": "Germany’s Merz cancels phone call with Trump after social media post celebrating AfD win – Europe live",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "National Museum of Norway in Oslo"
-    },
-    {
-      "id": "0c85865712954f23f867de1e94cef23be450a588",
-      "title": "Scientists warn melting glaciers could form more than 50,000 new lakes in areas covered by ice",
-      "summary": "In a study published in Nature Communications, researchers from Sweden, US, Switzerland and Norway mapped what lies beneath all the glaciers on the planet and reached a shocking conclusion: when part of this ice disappea…",
-      "url": "https://timesofindia.indiatimes.com/science/scientists-warn-melting-glaciers-could-form-more-than-50000-new-lakes-in-areas-covered-by-ice-could-increase-the-risk-of-flooding-in-asia-andes-alaska-and-the-arctic/articleshow/132621456.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-07-25T07:57:22+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "researchers from Sweden, US, Switzerland and Norway"
-    },
-    {
-      "id": "d7029674c845676943859583d991e1ff9280c1e2",
-      "title": "Norway’s national oil company profits double to $11.5bn amid war on Iran",
-      "summary": "Equinor benefits from move to increase oil and gas production during strait of Hormuz blockadesBusiness live – latest updatesProfits at Norway’s state oil company nearly doubled to $11.5bn (£8.6bn) in the three months to…",
-      "url": "https://www.theguardian.com/world/2026/jul/22/norway-national-oil-company-equinor-profits-double-115bn-war-iran",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-22T08:39:12+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "Norway’s national oil company profits double to $11.5bn"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-09T13:47:49Z"
+  "last_updated": "2026-09-10T13:36:45Z"
 }

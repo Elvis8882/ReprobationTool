@@ -1,16 +1,27 @@
 {
   "country": "MA",
-  "score": 83,
+  "score": 82,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 59,
+  "trend": -1,
+  "sources": 60,
   "sentiment": {
     "positive": 2,
     "neutral": 35,
-    "negative": 25
+    "negative": 26
   },
   "latest_articles": [
+    {
+      "id": "710026623b8ec28b159574c75f567500c6953574",
+      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+      "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
+      "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-09T21:23:45+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Moroccan authorities were alerted to social media calls for a mass migrant crossing"
+    },
     {
       "id": "906b5f9393b3938be315bb4a254a4b18411ef8e6",
       "title": "Spain’s Leader Questions Morocco Border Control During Ceuta Migrant Surge",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.5,
       "evidence": "migrants crossing from neighbouring Morocco"
-    },
-    {
-      "id": "8f521d2e638044ea498575376d33a53eb28faffd",
-      "title": "Trump’s Gaza Board of Peace issues first building contract – for a military base",
-      "summary": "Exclusive: Louisiana firm awarded tender to build rudimentary outpost to house Moroccan troopsDonald Trump’s Board of Peace, which was set up in January to oversee the reconstruction of Gaza, has finally issued its first…",
-      "url": "https://www.theguardian.com/world/2026/aug/06/trump-gaza-board-of-peace-first-building-contract-military-base",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-06T12:00:47+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "military outpost to house Moroccan troops"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-09T13:47:49Z"
+  "last_updated": "2026-09-10T13:36:45Z"
 }

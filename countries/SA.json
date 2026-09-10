@@ -1,16 +1,38 @@
 {
   "country": "SA",
-  "score": 54,
+  "score": 53,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -2,
-  "sources": 144,
+  "trend": -1,
+  "sources": 146,
   "sentiment": {
     "positive": 10,
     "neutral": 65,
-    "negative": 69
+    "negative": 71
   },
   "latest_articles": [
+    {
+      "id": "bf566c20b87b4d55c17251eba8c45751bb9c30ed",
+      "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast",
+      "summary": "Iran and its proxies move closer to full control of two shipping chokepoints as regional conflict widensYemen’s Houthi rebels are making a concerted drive to take full control of the country’s Red Sea coast, claiming con…",
+      "url": "https://www.theguardian.com/world/2026/sep/10/houthis-seize-key-port-mocha-yemen-red-sea-coast-iran-saudi-arabia-us",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-10T11:39:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "strategic disaster for Saudi Arabia and the US"
+    },
+    {
+      "id": "75b55c5004488fece4e2162e710e5b4008192c08",
+      "title": "Yemen Tilts Toward Full-Scale War as Saudi-Houthi Clashes Escalate",
+      "summary": "With its oil-export routes once again under threat, Saudi Arabia is stepping up its military campaign against an old antagonist.",
+      "url": "https://www.nytimes.com/2026/09/09/world/middleeast/saudi-yemen-strilkes.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-09T21:09:08+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Saudi Arabia is stepping up its military campaign"
+    },
     {
       "id": "0f0cd0a57b10b50cc7e66f268324d02f9e6c5707",
       "title": "UK Businessman Detained In Saudi Arabia, Family Speaks Out After 9 Years",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Saudi Response to Houthis’ Attacks on Ships May Be a New War"
-    },
-    {
-      "id": "d41aa8f1e71b098e2b82c10464e4964415d08b2f",
-      "title": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk",
-      "summary": "Some Democratic lawmakers and nonproliferation advocates have criticized the pact for not including a permanent prohibition on enrichment or reprocessing.",
-      "url": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-08-26T02:34:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "warn of proliferation risk"
-    },
-    {
-      "id": "e4b50799747343cf80101596a364886c929b8489",
-      "title": "Dragon Ball Z theme park gets $7 billion green light",
-      "summary": "French President Emmanuel Macron and Saudi Arabia's Crown Prince Mohammed bin Salman agree on a $7 bn investment in the anime theme park.",
-      "url": "https://www.cnbc.com/2026/08/25/dragon-ball-z-theme-park-france-paris.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-08-25T08:53:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Saudi Arabia's Crown Prince Mohammed bin Salman agree"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-09T13:47:49Z"
+  "last_updated": "2026-09-10T13:36:45Z"
 }
