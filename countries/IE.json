@@ -1,16 +1,26 @@
 {
   "country": "IE",
-  "score": 82,
+  "score": 81,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 2,
-  "sources": 147,
+  "trend": -1,
+  "sources": 146,
   "sentiment": {
-    "positive": 12,
+    "positive": 11,
     "neutral": 131,
     "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "371ce173409ae48634d2b6e2bfa7d0c14aa62720",
+      "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – Europe live",
+      "summary": "Ulf Kristersson’s comments come ahead of the parliamentary election taking place this Sundayin BrusselsThe European Commission has said it is assessing whether Ukraine has a funding shortfall, amid renewed pressure to us…",
+      "url": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-11T12:57:55+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "8d92b4e3f72b407760faba7117100919e9be0f21",
       "title": "EU unveils ‘buy European’ public procurement rules to counter China",
@@ -209,18 +219,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "In the UK and Ireland, Samaritans"
-    },
-    {
-      "id": "09d550988502ce43e18e251d7b16f8c2f0e06bed",
-      "title": "Icelanders reject reopening talks to join the EU despite Trump's Greenland threats",
-      "summary": "Icelanders voted 52.8% to 47.2% against reopening talks to join the European Union.",
-      "url": "https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-08-30T12:32:44+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-10T13:36:45Z"
+  "last_updated": "2026-09-11T13:35:08Z"
 }

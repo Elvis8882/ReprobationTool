@@ -3,11 +3,11 @@
   "score": 82,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 60,
+  "trend": 0,
+  "sources": 61,
   "sentiment": {
     "positive": 2,
-    "neutral": 35,
+    "neutral": 36,
     "negative": 26
   },
   "latest_articles": [
@@ -21,6 +21,17 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Moroccan authorities were alerted to social media calls for a mass migrant crossing"
+    },
+    {
+      "id": "25f3b866c4f1662c4dd81c7fd0c27cd287889b06",
+      "title": "Spain Declassifies Warning to Morocco About Migrant Crossing Plans",
+      "summary": "Spain’s intelligence service had alerted Morocco about social media calls for a border exodus into Ceuta, which led to more than 100 deaths and a political crisis in Spain.",
+      "url": "https://www.nytimes.com/2026/09/09/world/europe/spain-ceuta-migrants-report.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-09T18:56:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Migrant Crossing Plans"
     },
     {
       "id": "906b5f9393b3938be315bb4a254a4b18411ef8e6",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Morocco World News"
-    },
-    {
-      "id": "81eb5eafa87c459df3d548fcd6a1190e1d6f35a6",
-      "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
-      "summary": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco.",
-      "url": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-06T17:36:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "migrants crossing from neighbouring Morocco"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-10T13:36:45Z"
+  "last_updated": "2026-09-11T13:35:08Z"
 }

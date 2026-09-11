@@ -1,16 +1,27 @@
 {
   "country": "CH",
-  "score": 64,
+  "score": 66,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 82,
+  "trend": 2,
+  "sources": 77,
   "sentiment": {
     "positive": 4,
-    "neutral": 70,
-    "negative": 8
+    "neutral": 67,
+    "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "24d251fe761d433947ea9495444d34e1533fea3a",
+      "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+      "summary": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-11T08:54:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "coach crash in Swiss Alps"
+    },
     {
       "id": "904e43fa1efad3d32ecdf3450c2723a886b20ba8",
       "title": "Meet Franklin Howley-Dumit Serulle, whose online insect photo helped reveal a new hoverfly",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Arctic charr from Lake Geneva were stocked into Lake Allos"
-    },
-    {
-      "id": "6c0c4bdf9a1b1ee08cb840b605a821fb8772ce52",
-      "title": "Fifty-three days and counting: 93-year-old leader’s record absence fuels health speculation",
-      "summary": "Cameroon’s Paul Biya has not made a statement or been seen since leaving for ‘brief private stay’ at Swiss hotel on 7 JuneA record 53-day absence by the world’s oldest head of state has renewed speculation in his native…",
-      "url": "https://www.theguardian.com/world/2026/jul/30/record-absence-paul-biya-cameroon-president-health-speculation",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-30T12:36:02+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "leaving for ‘brief private stay’ at Swiss hotel"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-10T13:36:45Z"
+  "last_updated": "2026-09-11T13:35:08Z"
 }

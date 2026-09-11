@@ -3,14 +3,24 @@
   "score": 43,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 378,
+  "trend": 0,
+  "sources": 376,
   "sentiment": {
-    "positive": 22,
-    "neutral": 270,
+    "positive": 21,
+    "neutral": 269,
     "negative": 89
   },
   "latest_articles": [
+    {
+      "id": "371ce173409ae48634d2b6e2bfa7d0c14aa62720",
+      "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – Europe live",
+      "summary": "Ulf Kristersson’s comments come ahead of the parliamentary election taking place this Sundayin BrusselsThe European Commission has said it is assessing whether Ukraine has a funding shortfall, amid renewed pressure to us…",
+      "url": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-11T12:57:55+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "710026623b8ec28b159574c75f567500c6953574",
       "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
@@ -21,6 +31,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Spanish intelligence warned of Ceuta mass crossing plans before surge"
+    },
+    {
+      "id": "25f3b866c4f1662c4dd81c7fd0c27cd287889b06",
+      "title": "Spain Declassifies Warning to Morocco About Migrant Crossing Plans",
+      "summary": "Spain’s intelligence service had alerted Morocco about social media calls for a border exodus into Ceuta, which led to more than 100 deaths and a political crisis in Spain.",
+      "url": "https://www.nytimes.com/2026/09/09/world/europe/spain-ceuta-migrants-report.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-09T18:56:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Spain Declassifies Warning to Morocco About Migrant Crossing Plans"
     },
     {
       "id": "a96d02e9f40b2202a39f684640ca70b748cbf535",
@@ -200,29 +221,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "noise levels that were many times the legal decibel limit."
-    },
-    {
-      "id": "5e212c2302c7cf414be9ea059ef316e147e57c5a",
-      "title": "Iceland opposes E.U. membership talks as local concerns outweigh fears of Trump",
-      "summary": "Opponents of restarting negotiations to join the European Union argued that joining the bloc would undermine national control of fishing, farming and other top priorities.",
-      "url": "https://www.washingtonpost.com/world/2026/08/31/iceland-opposes-eu-membership-talks-local-concerns-outweigh-fears-trump/",
-      "source": "World (Washington post)",
-      "published_at": "2026-08-31T16:20:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "2cc0b3291db9eb52e0fb88115cac28f3976913ad",
-      "title": "Spanish Leader Says 5,000 Migrants Are Still in Ceuta, Weeks After Border Surge",
-      "summary": "Their continued presence has roiled the Spanish territory in Africa and heaped pressure on Prime Minister Pedro Sánchez.",
-      "url": "https://www.nytimes.com/2026/08/31/world/europe/ceuta-migrants-pedro-sanchez-north-africa.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-31T15:59:04+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "5,000 Migrants Are Still in Ceuta"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-10T13:36:45Z"
+  "last_updated": "2026-09-11T13:35:08Z"
 }

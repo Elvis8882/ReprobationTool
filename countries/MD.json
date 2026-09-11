@@ -4,10 +4,10 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 10,
+  "sources": 11,
   "sentiment": {
     "positive": 5,
-    "neutral": 2,
+    "neutral": 3,
     "negative": 3
   },
   "latest_articles": [
@@ -21,6 +21,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Moldova Says"
+    },
+    {
+      "id": "54e80567fdca5b25fee33c04dac91c1bf01df90f",
+      "title": "Russia and Ukraine exchange strikes as two killed at Moldova border",
+      "summary": "Meanwhile, four people, including a child, were killed in the southern Russian city of Novorossiysk.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-09T10:59:18+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "killed at Moldova border"
     },
     {
       "id": "4b940431bec919e75024b4d43e4cb060d72fec02",
@@ -123,5 +134,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-10T13:36:45Z"
+  "last_updated": "2026-09-11T13:35:08Z"
 }
