@@ -15,8 +15,20 @@
     "IL",
     "LB"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-09-11T13:35:08+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-09-12T12:54:55+00:00",
+  "sentiment_by_country": {
+    "IL": {
+      "label": "positive",
+      "confidence": 0.7,
+      "evidence": "Israel Destroys Underground Hezbollah Base"
+    },
+    "LB": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Hezbollah Base in Southern Lebanon"
+    }
+  },
+  "processed_at": "2026-09-12T12:54:55+00:00"
 }

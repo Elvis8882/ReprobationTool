@@ -1,16 +1,38 @@
 {
   "country": "DE",
-  "score": 36,
+  "score": 34,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 347,
+  "trend": -2,
+  "sources": 351,
   "sentiment": {
     "positive": 36,
-    "neutral": 212,
-    "negative": 99
+    "neutral": 213,
+    "negative": 102
   },
   "latest_articles": [
+    {
+      "id": "73c2f206ec2ef6301b732af74c61f80ee7190485",
+      "title": "Porn Actor, Secret Cop: German Party Under Scrutiny Over Backgrounds Of MPs",
+      "summary": "The AfD secured a major victory in Saxony-Anhalt, winning 44 per cent of the seats.",
+      "url": "https://www.ndtv.com/world-news/porn-actor-secret-cop-german-party-alternative-fur-deutschland-under-scrutiny-over-backgrounds-of-mps-12036898#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-12T10:31:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "German Party Under Scrutiny Over Backgrounds Of MPs"
+    },
+    {
+      "id": "2b19bf43f9a613b7e211fe76bd1db258a83ca287",
+      "title": "Firewall compromised: has Friedrich Merz blown ‘democracy’s last shot’?",
+      "summary": "Many fear chancellor is wrong man for the job at a time when Germany’s defences against far right are crumblingA cataclysm. A 9.0 earthquake. A five-alarm fire. A bitter rejection of Germany’s joyous reunification three…",
+      "url": "https://www.theguardian.com/world/2026/sep/12/friedrich-merz-far-right-firewall-afd-germany-future",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-12T04:00:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "threat to the democratic postwar order"
+    },
     {
       "id": "371ce173409ae48634d2b6e2bfa7d0c14aa62720",
       "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – Europe live",
@@ -31,6 +53,49 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "yield on German 10-year bonds, seen as the euro area benchmark"
+    },
+    {
+      "id": "3b91b16ba28c03a9b910fc2ed05c2166220b2fde",
+      "title": "Russia’s actions have strengthened European case for boosting defence spending, says Nato chief – Europe live",
+      "summary": "Mark Rutte said that Europeans ‘increasingly understand’ the need for their countries to take ‘greater responsibility for our own security’Addressing German ambassadors, Wadephul repeats that the Russian threat “has reac…",
+      "url": "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-10T13:08:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "attempted attack at the airport in Leipzig"
+    },
+    {
+      "id": "93dedf5b2f8f3ea8cfbbe87da294caa4de060405",
+      "title": "Ryanair will dispute passenger’s claim he was sucked out of window",
+      "summary": "CEO Michael O’Leary tells reporters the businessman was sucked ‘towards’ but not out of the openingBusiness live – latest updatesRyanair has said it will be “disputing” that any part of a passenger’s body was sucked outs…",
+      "url": "https://www.theguardian.com/business/2026/sep/10/ryanair-dispute-sucked-out-of-window-michael-o-leary",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-10T12:10:42+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ryanair flight from Greece to Germany"
+    },
+    {
+      "id": "a37a09f11ec677c672e1e97049963611f32b3d2e",
+      "title": "With Messaging That Mirrors Putin’s, Germany’s Far-Right Party Gains Ground",
+      "summary": "Embracing positions extolled by the Kremlin, the Alternative for Germany party may govern for the first time in a German state.",
+      "url": "https://www.nytimes.com/2026/09/10/world/europe/germany-russia-afd-putin.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-10T09:44:32+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Germany’s Far-Right Party Gains Ground... may govern"
+    },
+    {
+      "id": "6ba05e2180994195ac6bbe53566846b544988a8b",
+      "title": "How Fighting Fires Became an All-of-Europe Project",
+      "summary": "The European Union isn’t known for firefighting expertise. But with the continent ablaze, Brussels is playing a growing role.",
+      "url": "https://www.nytimes.com/2026/09/09/world/europe/eu-fire-fighting.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-10T02:44:43+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "4b9e58b413d5e6fab75025310e67059f35bfcb4e",
@@ -159,74 +224,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "pro-Russian AfD, which has called for mass deportations"
-    },
-    {
-      "id": "38783dfc546ceedf69b8416074ee7e1b9273421a",
-      "title": "Containing Germany’s Far Right",
-      "summary": "The AfD victory in a state election is forcing a rethink of the country’s postwar strategy to safeguard democracy.",
-      "url": "https://www.nytimes.com/2026/09/07/world/germany-election-afd-indonesia-microplastics.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-08T04:26:19+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "AfD victory in a state election is forcing a rethink"
-    },
-    {
-      "id": "d7b9a3ee9aa8799d1d61097d2fc2b4a423514870",
-      "title": "Merz says ‘shock’ AfD victory in key German state ‘is an election result we cannot simply move past’ – Europe live",
-      "summary": "German chancellor says vote for far-right party ‘will have repercussions’ across the countryFar-right AfD wins key German state election but falls just short of majorityAfD’s Chrupalla continues in this vein, saying the…",
-      "url": "https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-07T14:42:49+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "vote for far-right party ‘will have repercussions’ across the country"
-    },
-    {
-      "id": "d1d79bb2bffec2cd9485e727779084fc87220dd2",
-      "title": "After Victory in German State, Far Right Needs Help to Take Power",
-      "summary": "The Alternative for Germany, or AfD, does not have a straightforward path to governing Saxony-Anhalt, but a small populist party could clear the way.",
-      "url": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-elections-bsw.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-07T14:33:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Victory in German State, Far Right Needs Help to Take Power"
-    },
-    {
-      "id": "f98fc145961a19b08d5ba0d0d7cbdefba970c006",
-      "title": "AfD Victory in Saxony-Anhalt Sends a Signal to Europe",
-      "summary": "A vote in eastern Germany has given fresh momentum to hard-right parties hoping to win elections elsewhere on the continent next year, analysts said.",
-      "url": "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-europe-far-right-saxony-anhalt.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-07T14:24:08+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "AfD Victory in Saxony-Anhalt Sends a Signal to Europe"
-    },
-    {
-      "id": "4f676f399c4bb3c8bd86d7738d6f8840ada37905",
-      "title": "World Insights: From labs to life, Chinese tech redefines innovation at IFA Berlin 2026 - Xinhua",
-      "summary": "World Insights: From labs to life, Chinese tech redefines innovation at IFA Berlin 2026&nbsp;&nbsp;XinhuaThe best tech and gadgets announced at IFA 2026&nbsp;&nbsp;The VergeThe 5 coolest phones I saw at IFA 2026 – includ…",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JbHlXUXpIbmRKdGcwajZLM0luc29nLVVEa2p0N0dZZ1hkeWJhS1pXUGVGM05fbVMycGEtbTVvRVM0UW5keUVOOG53MDM3dzVtbThzRFdxaDNtTnJaMzdieFZnOE52YnpjcEp3S1djY2tqdW4wc0dUcmxNLTg?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-07T14:08:15+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "IFA Berlin 2026 - Xinhua"
-    },
-    {
-      "id": "88a0d915ed05e549e4ce748eb44017d3285ff20a",
-      "title": "Why is far-right AfD’s state victory significant and what might happen next in German politics?",
-      "summary": "Aftershocks of party’s win in Saxony-Anhalt will ripple across Germany, with two more state elections this monthEurope live – latest updatesGermany is reeling from the biggest far-right victory in a state election since…",
-      "url": "https://www.theguardian.com/world/2026/sep/07/why-far-right-afd-state-victory-significant-german-politics-germany-explainer",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-07T14:04:23+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "anti-immigration, pro-Kremlin Alternative für Deutschland (AfD) party"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-11T13:35:08Z"
+  "last_updated": "2026-09-12T12:54:55Z"
 }

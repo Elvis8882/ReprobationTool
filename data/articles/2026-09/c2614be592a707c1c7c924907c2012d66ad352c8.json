@@ -15,8 +15,20 @@
     "CH",
     "NL"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-09-11T13:35:08+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-09-12T12:54:55+00:00",
+  "sentiment_by_country": {
+    "CH": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Crashes In Swiss Alps"
+    },
+    "NL": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Bus With Dutch Tourists Crashes"
+    }
+  },
+  "processed_at": "2026-09-12T12:54:55+00:00"
 }

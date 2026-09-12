@@ -1,16 +1,60 @@
 {
   "country": "SA",
-  "score": 50,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
-  "trend": -3,
-  "sources": 150,
+  "score": 48,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
+  "trend": -2,
+  "sources": 152,
   "sentiment": {
     "positive": 10,
-    "neutral": 66,
-    "negative": 74
+    "neutral": 64,
+    "negative": 78
   },
   "latest_articles": [
+    {
+      "id": "d58302dcd8e339c82621e5df699a99dcf1243f55",
+      "title": "‘We Left in the Clothes We Were Wearing’: Yemenis Flee New Fighting",
+      "summary": "Hunger and disease have tormented Yemen for years. Now, fighting between the Saudi-backed government and Iran-backed Houthis is pushing it to the brink.",
+      "url": "https://www.nytimes.com/2026/09/12/world/middleeast/yemen-iran-war-houthis.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-12T12:20:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Saudi-backed government and Iran-backed Houthis is pushing it to the brink."
+    },
+    {
+      "id": "dbb34488a1b83c4ec572cf0d0978dd3045caa91d",
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-12T12:15:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Saudi Arabia shuts key oil pipeline after drone attack"
+    },
+    {
+      "id": "ce12e842157b096e7a244e34f3aa30f3d1470024",
+      "title": "Saudi Arabia shuts critical oil pipeline after drone attack: What it means - Al Jazeera",
+      "summary": "Saudi Arabia shuts critical oil pipeline after drone attack: What it means&nbsp;&nbsp;Al JazeeraSaudi Arabia has few options as it faces mounting threats from Iran and its allies&nbsp;&nbsp;AP NewsClosure of Critical Sau…",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORUJVdmZzRjhhZXFCWHhYMXhRSlJQRGdySlNwQW41dkJaRXd1ZnBlbE5ZR2c5Wk5xYTNRRzJNRzUxTF9oN095Mi0taGRZaXpOZVNtYlJVSjFpNkV5NjBuQXBmb1dTWUs3RmNsQlVPWEh5WnFFc0plcDNnUDNjUVpiZUN2M0VrX0xQVXVoLXNoa2hQelVfa19LX3F2R3BwTExwV0JkLWJKNFRMd1BJX1k0VFJVUkLSAboBQVVfeXFMTktuU3M2eUZqUkt0aVBWRGpUQVQxZGNRRHVfTG9CMXlGbTljTm43SkFYVWR3UzBxSGRyR2tOQUx6M0lvdzVYcWNsNnBVNVhJR3FwRUJKRmszaE5CUUE2UWk4dDJySHcxTWpsdjJZbnVYYjRzOFpOQU0wZHVvT1BlS2V6VXpQWTUyYmhfRHJyWkFfdS1JSUlUQU5WNnQwNDYzSTdXSGV5S0xCaTNqTE83YjF4aXViNnVtMk53?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-09-12T10:48:08+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Saudi Arabia shuts critical oil pipeline after drone attack"
+    },
+    {
+      "id": "d53771b4c723f5e9881c9f7a58964c7769343013",
+      "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
+      "summary": "Rampant Yemeni fighters take control of island in narrow point of Bab al-Mandab strait, which Saudi is relying on for oil exportsViolence in Yemen: why it matters and how it is linked to the US-Iran warYemen’s rampant Ho…",
+      "url": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-11T12:00:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Saudi is relying on for oil exports"
+    },
     {
       "id": "6f3d47bc0f3565f8e75b2dd5c070b5be4e8a8780",
       "title": "Iranian-backed Houthis fight to block Red Sea passage for Saudi oil",
@@ -186,52 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?"
-    },
-    {
-      "id": "712bc8cbbdeefe98bcb3f5c0398dd5d9ee35c210",
-      "title": "Civilians among at least 60 killed in Yemen as ground fighting escalates",
-      "summary": "Houthi rebel offensive against government forces on west coast leads to some of deadliest clashes in yearsClashes between Yemen’s Saudi-backed government forces and the Iran-aligned Houthi rebel movement have killed more…",
-      "url": "https://www.theguardian.com/world/2026/sep/05/yemen-ground-fighting-escalates-houthi-rebels-government-forces",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-05T13:47:19+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Saudi-backed government forces and the Iran-aligned Houthi rebel movement"
-    },
-    {
-      "id": "97d81397cc687acf29acd329d991687257282e75",
-      "title": "Amid Iran War, US Approves $5 Billion Sale Of Bombs To Saudi",
-      "summary": "US on Friday announced the approval of a $5 billion sale of bombs and other equipment to Saudi.",
-      "url": "https://www.ndtv.com/world-news/amid-iran-war-us-approves-5-billion-sale-of-bombs-to-saudi-12004186#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-04T21:38:14+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Sale Of Bombs To Saudi"
-    },
-    {
-      "id": "f9694e301b4ca6c5c1e66ad671d3518a0a22ac55",
-      "title": "81 Killed As Yemen's Houthis Push Towards Key Red Sea Strait",
-      "summary": "The government has sent reinforcements to Taiz from Aden on Saudi orders, an official said. (File)",
-      "url": "https://www.ndtv.com/world-news/81-killed-as-yemens-houthis-push-towards-key-red-sea-strait-12001536#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-04T09:08:35+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "on Saudi orders"
-    },
-    {
-      "id": "540f36bfd573d1cd6de9810d8ea55788f7c454c5",
-      "title": "Iran war latest: Two supertankers struck in Strait of Hormuz - thenationalnews.com",
-      "summary": "Iran war latest: Two supertankers struck in Strait of Hormuz&nbsp;&nbsp;thenationalnews.comHormuz Hostilities Pick Up as Two Tankers Reportedly Struck&nbsp;&nbsp;Bloomberg.comTwo Tankers Attacked on Midnight Run Through…",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pV2lQMF85U2EtYnhGZ1p6Y0s2S1pJUWtHWTVfa3AtM3FqX0JXX2l2V3hTOERfNV9UcDFxdTY4a0hvZnFIVDZhSVEteW53VW9PbVNXZGNWOWVLbHhxTHY1dThoZWZyTTVZd2gzVHhIWWdGbkFweDU4R09BaEhudw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-01T10:28:25+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Two tankers carrying Saudi oil attacked"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-11T13:35:08Z"
+  "last_updated": "2026-09-12T12:54:55Z"
 }

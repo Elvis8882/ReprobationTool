@@ -1,14 +1,14 @@
 {
   "country": "UA",
-  "score": 5,
+  "score": 3,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 628,
+  "trend": -2,
+  "sources": 626,
   "sentiment": {
-    "positive": 266,
-    "neutral": 108,
-    "negative": 255
+    "positive": 265,
+    "neutral": 106,
+    "negative": 256
   },
   "latest_articles": [
     {
@@ -34,6 +34,17 @@
       "evidence": "Russia targets Kyiv petrol stations for first time with jet-powered drones"
     },
     {
+      "id": "3905398503a69c8c87ff85dab8ad19c590fbc130",
+      "title": "As Russia Again Draws Near, a Frontline City Fears Obliteration This Time",
+      "summary": "The Ukrainian city of Izium still bears the scars of Russian occupation from four years ago. As Moscow’s forces approach, residents are bracing for the worst.",
+      "url": "https://www.nytimes.com/2026/09/11/world/europe/ukraine-russia-izium-donetsk.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-11T09:00:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "The Ukrainian city of Izium still bears the scars"
+    },
+    {
       "id": "858afc7f61c6ed5a6368ded02a0616f33b520748",
       "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
       "summary": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
@@ -43,6 +54,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Civilians told to flee Ukraine's fortress cities"
+    },
+    {
+      "id": "94b32db9b2dd15cfadd6f9de021e66b16774ff22",
+      "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
+      "summary": "Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian communityCanada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone stocks, as the count…",
+      "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-10T20:35:06+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Canada offered support on Thursday to boost Ukraine’s air defenses"
     },
     {
       "id": "13b238d95246bc10a1afcc49185bded8c2ad1151",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "transferring billions of our tax money to Ukraine"
-    },
-    {
-      "id": "1972c80998436f1cd22727f156539a5e2f6151f0",
-      "title": "They Went to Ukraine on the ‘Peace Express.’ Detours Are Likely Ahead.",
-      "summary": "The Trump administration had let the peace process enter such a freeze that a trip to Kyiv was just an initial step. Any new talks will happen alongside escalating fighting.",
-      "url": "https://www.nytimes.com/2026/09/07/world/europe/ukraine-russia-witkoff-kushner-trump.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-07T13:29:56+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "a trip to Kyiv was just an initial step. Any new talks will happen alongside escalating fighting."
-    },
-    {
-      "id": "c8b043b5cc98eee829f961f57986de64e7b1b743",
-      "title": "Russia Not Ruling Out Three-Way Peace Talks With Ukraine, US: Kremlin",
-      "summary": "Russian and Ukrainian negotiators last met for US-mediated talks in February.",
-      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-russia-not-ruling-out-three-way-peace-talks-with-ukraine-us-kremlin-12013794#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-07T12:47:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Three-Way Peace Talks With Ukraine"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-11T13:35:08Z"
+  "last_updated": "2026-09-12T12:54:55Z"
 }

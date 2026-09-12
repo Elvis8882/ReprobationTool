@@ -1,0 +1,41 @@
+{
+  "id": "dbb34488a1b83c4ec572cf0d0978dd3045caa91d",
+  "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+  "summary_full": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+  "summary_public": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+  "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-09-12T12:15:50+00:00",
+  "source": "BBC News - World",
+  "language": "en",
+  "countries_detected": [
+    "IQ",
+    "IR",
+    "SA"
+  ],
+  "countries_scored": [
+    "IQ",
+    "IR",
+    "SA"
+  ],
+  "sentiment_by_country": {
+    "IQ": {
+      "label": "neutral",
+      "confidence": 0.4,
+      "evidence": "drone attack launched from Iraq"
+    },
+    "IR": {
+      "label": "neutral",
+      "confidence": 0.4,
+      "evidence": "area bordering Iran."
+    },
+    "SA": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Saudi Arabia shuts key oil pipeline after drone attack"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-09-12T12:54:55+00:00",
+  "processed_at": "2026-09-12T12:54:55+00:00"
+}

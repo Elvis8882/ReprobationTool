@@ -1,16 +1,60 @@
 {
   "country": "IQ",
-  "score": 82,
+  "score": 80,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 50,
+  "trend": -2,
+  "sources": 54,
   "sentiment": {
     "positive": 5,
-    "neutral": 18,
-    "negative": 27
+    "neutral": 20,
+    "negative": 29
   },
   "latest_articles": [
+    {
+      "id": "dbb34488a1b83c4ec572cf0d0978dd3045caa91d",
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-12T12:15:50+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "drone attack launched from Iraq"
+    },
+    {
+      "id": "ce12e842157b096e7a244e34f3aa30f3d1470024",
+      "title": "Saudi Arabia shuts critical oil pipeline after drone attack: What it means - Al Jazeera",
+      "summary": "Saudi Arabia shuts critical oil pipeline after drone attack: What it means&nbsp;&nbsp;Al JazeeraSaudi Arabia has few options as it faces mounting threats from Iran and its allies&nbsp;&nbsp;AP NewsClosure of Critical Sau…",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORUJVdmZzRjhhZXFCWHhYMXhRSlJQRGdySlNwQW41dkJaRXd1ZnBlbE5ZR2c5Wk5xYTNRRzJNRzUxTF9oN095Mi0taGRZaXpOZVNtYlJVSjFpNkV5NjBuQXBmb1dTWUs3RmNsQlVPWEh5WnFFc0plcDNnUDNjUVpiZUN2M0VrX0xQVXVoLXNoa2hQelVfa19LX3F2R3BwTExwV0JkLWJKNFRMd1BJX1k0VFJVUkLSAboBQVVfeXFMTktuU3M2eUZqUkt0aVBWRGpUQVQxZGNRRHVfTG9CMXlGbTljTm43SkFYVWR3UzBxSGRyR2tOQUx6M0lvdzVYcWNsNnBVNVhJR3FwRUJKRmszaE5CUUE2UWk4dDJySHcxTWpsdjJZbnVYYjRzOFpOQU0wZHVvT1BlS2V6VXpQWTUyYmhfRHJyWkFfdS1JSUlUQU5WNnQwNDYzSTdXSGV5S0xCaTNqTE83YjF4aXViNnVtMk53?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-09-12T10:48:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "drones from Iraq"
+    },
+    {
+      "id": "2bf60c03beca6906ef46ee3554ca2a0999cbe128",
+      "title": "Saudi Arabia shuts down oil pipeline, blaming drones from Iraq",
+      "summary": "Riyadh has increased its use of the East-West pipeline since the start of the Middle East war to bypass the closure of the strait of HormuzSaudi authorities said Friday drones launched from Iraq led to the temporary clos…",
+      "url": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-12T05:22:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "drones from Iraq led to the temporary closure of a crucial oil export route"
+    },
+    {
+      "id": "a5fd00758f210673f900185d563389f1f34195cd",
+      "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
+      "summary": "Iran-allied Houthi militants in Yemen have escalated strikes on Saudi Arabia this week.",
+      "url": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-11T21:35:14+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "multiple attacks by drones from Iraq"
+    },
     {
       "id": "8e475aacbb729297530a7338abe4209b32c42a22",
       "title": "Iran Says Attacked US Military Targets In UAE, Kuwait",
@@ -186,52 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "U.S. military strikes on Iranian proxies in Iraq"
-    },
-    {
-      "id": "eec162bd7732985bfd7b2eda347ce65754ef0e6c",
-      "title": "US joins forces with Saudis to strike Tehran-backed militias in Iraq",
-      "summary": "Oil price spikes after flare-up of fighting and claimed Iranian attacks on three tankers in strait of HormuzThe US military said it knocked down an Iranian missile barrage and worked with Saudi Arabia forces to strike si…",
-      "url": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-29T09:52:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "strike Tehran-backed militias in Iraq"
-    },
-    {
-      "id": "61f1ebc9a8ddde4bba20acbe93afa5fa4ea39285",
-      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-      "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
-      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-07-29T09:39:56+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "US in strikes on Iran-backed militias in Iraq"
-    },
-    {
-      "id": "394ecf66d99082099d7c618cec6c3138ff1a5e85",
-      "title": "Multiple Dead, Wounded In US-Saudi Strikes In Iraq: Report",
-      "summary": "The claim was made by Popular Mobilization Forces.",
-      "url": "https://www.ndtv.com/world-news/multiple-dead-wounded-in-us-saudi-strikes-in-iraq-former-paramilitaries-11836482#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-07-29T08:57:09+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "US-Saudi Strikes In Iraq"
-    },
-    {
-      "id": "353848813af9f9d495f578df032011978c9ed0fb",
-      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq - BBC",
-      "summary": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq&nbsp;&nbsp;BBCSee more headlines and perspectives on Google News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSzhZbndQb2lHQ1lnZ3FRaHdYZ1FLVGMzM1AxdnFvWWE3cW9FQW1CYlBYOGxrTnVJdXJCbXloU2V1b29xS0w0dHZYMFlNaGN2bUtxNUZ1ZXdJZw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-29T08:43:46+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "strikes on Iran-backed militias in Iraq"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-11T13:35:08Z"
+  "last_updated": "2026-09-12T12:54:55Z"
 }

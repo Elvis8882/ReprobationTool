@@ -1,16 +1,27 @@
 {
   "country": "JO",
-  "score": 73,
+  "score": 72,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 54,
+  "trend": -1,
+  "sources": 55,
   "sentiment": {
     "positive": 1,
     "neutral": 15,
-    "negative": 38
+    "negative": 39
   },
   "latest_articles": [
+    {
+      "id": "b4a09d2fc6c49d0c64d1a995fb3b8a12b075b382",
+      "title": "Several US Warplanes Damaged In Iranian Strike On Jordan: Report",
+      "summary": "One A-10 Thunderbolt, known as the Warthog, was struck and left with a missing wing, while roughly eight F-15s sustained light damage, the report said.",
+      "url": "https://www.ndtv.com/world-news/several-us-war-planes-damaged-in-iranian-strike-on-jordan-report-12026179#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-10T04:32:04+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "US Warplanes Damaged In Iranian Strike On Jordan"
+    },
     {
       "id": "9c85c345624140c5a9ad1656b89656cfa2a239da",
       "title": "Trump center stage at RNC in midterms gamble – US politics live",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Iran fired missiles at a US. base in Jordan"
-    },
-    {
-      "id": "eec162bd7732985bfd7b2eda347ce65754ef0e6c",
-      "title": "US joins forces with Saudis to strike Tehran-backed militias in Iraq",
-      "summary": "Oil price spikes after flare-up of fighting and claimed Iranian attacks on three tankers in strait of HormuzThe US military said it knocked down an Iranian missile barrage and worked with Saudi Arabia forces to strike si…",
-      "url": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-29T09:52:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Iran’s target was a US base in Jordan"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-11T13:35:08Z"
+  "last_updated": "2026-09-12T12:54:55Z"
 }

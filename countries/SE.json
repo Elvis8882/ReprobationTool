@@ -1,16 +1,27 @@
 {
   "country": "SE",
-  "score": 99,
+  "score": 98,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 134,
+  "trend": -1,
+  "sources": 136,
   "sentiment": {
     "positive": 12,
-    "neutral": 114,
-    "negative": 8
+    "neutral": 115,
+    "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "5daf617156b2dcb7614525a478a7cab580672d66",
+      "title": "Russia, Trump and a battle over welfare loom over Sweden’s election",
+      "summary": "Russia's war, permanently higher defense spending and uncertainty over U.S. commitments are narrowing the choices facing whoever wins Sunday's election.",
+      "url": "https://www.cnbc.com/2026/09/12/sweden-election-russia-trump-welfare-defense.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-12T05:00:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Sweden’s election... narrowing the choices facing whoever wins"
+    },
     {
       "id": "371ce173409ae48634d2b6e2bfa7d0c14aa62720",
       "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – Europe live",
@@ -21,6 +32,16 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’"
+    },
+    {
+      "id": "6ba05e2180994195ac6bbe53566846b544988a8b",
+      "title": "How Fighting Fires Became an All-of-Europe Project",
+      "summary": "The European Union isn’t known for firefighting expertise. But with the continent ablaze, Brussels is playing a growing role.",
+      "url": "https://www.nytimes.com/2026/09/09/world/europe/eu-fire-fighting.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-10T02:44:43+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "8d92b4e3f72b407760faba7117100919e9be0f21",
@@ -196,28 +217,8 @@
       "published_at": "2026-08-30T11:57:15+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "bc8b8af2c82b90055a1e21e84b820abff6b67d2e",
-      "title": "Definitely no or maybe yes: what tipped the Icelandic referendum | Miranda Bryant",
-      "summary": "The no campaign was well-funded and accused of scaremongering, but the wording of the question may also have made a differenceIt was always going to be a close contest. But on the night, the figures showed just how divid…",
-      "url": "https://www.theguardian.com/world/2026/aug/30/definitely-no-or-maybe-yes-what-tipped-the-icelandic-referendum",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-30T09:37:29+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f12e0cb7ce8b307c7be6b0df95f9f1755fa1c1f2",
-      "title": "Why Iceland and Others Might Want In, Not Out, of the E.U. Club",
-      "summary": "A few years ago, some feared the European Union was going out of style. Now Iceland is mulling membership alongside a long list of candidates.",
-      "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-membership-europe.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-29T07:09:16+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-11T13:35:08Z"
+  "last_updated": "2026-09-12T12:54:55Z"
 }

@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 157,
+  "sources": 158,
   "sentiment": {
     "positive": 12,
-    "neutral": 130,
+    "neutral": 131,
     "negative": 15
   },
   "latest_articles": [
+    {
+      "id": "a1156d6470c99b88611c3d629cdd011046ec1956",
+      "title": "Police Uncover Scheme Using Fake Horse Passports to Traffic Animals",
+      "summary": "The police in Belgium, France, Ireland and the Netherlands say they suspect a fraud network of faking identities and duplicating microchips for hundreds of horses.",
+      "url": "https://www.nytimes.com/2026/09/11/world/europe/horses-trafficked-europe-fake-passports.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-11T18:35:40+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Police Uncover Scheme Using Fake Horse Passports to Traffic Animals"
+    },
     {
       "id": "371ce173409ae48634d2b6e2bfa7d0c14aa62720",
       "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – Europe live",
@@ -203,19 +214,8 @@
       "published_at": "2026-08-28T15:08:22+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "e8c75d23987bd9b993f13526ff1bc2d0e0a8d46c",
-      "title": "Shootings surge as drug gangs torment Brussels",
-      "summary": "This year alone there have been more than 65 shootings in the Belgian capital, as drug crime soars.",
-      "url": "https://www.bbc.co.uk/news/articles/c9w4r7e7z4ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-28T13:41:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "drug gangs torment Brussels"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-11T13:35:08Z"
+  "last_updated": "2026-09-12T12:54:55Z"
 }
