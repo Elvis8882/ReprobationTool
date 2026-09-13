@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 676,
+  "sources": 664,
   "sentiment": {
     "positive": 37,
-    "neutral": 93,
-    "negative": 548
+    "neutral": 91,
+    "negative": 538
   },
   "latest_articles": [
+    {
+      "id": "525a61150d61862701a8e66b19d7e67bcd8a941e",
+      "title": "Ukraine deploys drone specialists to Africa, Middle East to target Russian interests: Report",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/europe/ukraine-deploys-drone-specialists-to-africa-middle-east-to-target-russian-interests-report/articleshow/134188878.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-09-13T08:49:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "target Russian interests"
+    },
     {
       "id": "e1c85a80133443bd125b939c73efdea1e029c439",
       "title": "'BRICS Not Against Anyone': PM Modi's Big Message To West At Summit",
@@ -32,6 +43,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "China, Russia, UAE: What Each Country Wants From BRICS"
+    },
+    {
+      "id": "c3000382249f4e20d80062e3f85b7221b09e3b44",
+      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "summary": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-12T05:55:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia's full-scale invasion"
     },
     {
       "id": "5daf617156b2dcb7614525a478a7cab580672d66",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "14-Year Prison Sentence For Taking Photos Of Military Graves In Russia"
-    },
-    {
-      "id": "10969d400c094f73ee22b996fe6c9a013aba61d1",
-      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-      "summary": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
-      "url": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-10T04:43:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russia's new jet-powered drones outpacing Ukraine's air defences"
-    },
-    {
-      "id": "7ef1c9751e22b82e7b133de4ae68d19a462dbeee",
-      "title": "Wes Streeting praises Wargame TV series for highlighting UK defence needs",
-      "summary": "Minister says new series, which depicts Russian attack and features Michael Gove and Nicola Sturgeon, will ‘make people think’A docudrama depicting a Russian attack on a Britain led by an unlikely pairing of Michael Gove…",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/09/wes-streeting-wargame-tv-docudrama-uk-defence",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-09T12:55:55+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "depicts Russian attack on a Britain"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-12T12:54:55Z"
+  "last_updated": "2026-09-13T13:52:58Z"
 }

@@ -3,12 +3,12 @@
   "score": 56,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 1,
-  "sources": 128,
+  "trend": 0,
+  "sources": 119,
   "sentiment": {
-    "positive": 7,
-    "neutral": 55,
-    "negative": 66
+    "positive": 6,
+    "neutral": 48,
+    "negative": 65
   },
   "latest_articles": [
     {
@@ -21,6 +21,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Hezbollah Base in Southern Lebanon"
+    },
+    {
+      "id": "d4d2cc152e847a566d62796ce875136ae74fe293",
+      "title": "Inside an Ancient Lebanese City Engulfed by War",
+      "summary": "The Lebanese city of Tyre, one of the oldest metropolises in the world, has been left scarred.",
+      "url": "https://www.nytimes.com/2026/09/11/world/middleeast/tyre-engulfed-war-lebanon.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-11T11:25:47+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Lebanese City Engulfed by War"
     },
     {
       "id": "f0668b8104ee4600320a53a1b1fad88c49f865af",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Israeli strikes on southern Lebanon kill 11"
-    },
-    {
-      "id": "e4661cb2f1b77c075f613afb47f043b0ef2cf897",
-      "title": "Trump says ceasefire in Lebanon is working. For residents, it’s a ‘prison.’",
-      "summary": "Israeli forces continue to occupy buffer zone in effort to dismantle Hezbollah’s infrastructure, with restrictions drawing parallels to those in the West Bank.",
-      "url": "https://www.washingtonpost.com/world/2026/08/12/trump-says-ceasefire-lebanon-is-working-residents-its-prison/",
-      "source": "World (Washington post)",
-      "published_at": "2026-08-12T09:00:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "ceasefire in Lebanon is working. For residents, it’s a ‘prison.’"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-12T12:54:55Z"
+  "last_updated": "2026-09-13T13:52:58Z"
 }
