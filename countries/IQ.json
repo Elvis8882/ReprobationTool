@@ -1,16 +1,49 @@
 {
   "country": "IQ",
-  "score": 80,
+  "score": 79,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 54,
+  "trend": -1,
+  "sources": 57,
   "sentiment": {
     "positive": 5,
-    "neutral": 20,
-    "negative": 29
+    "neutral": 21,
+    "negative": 31
   },
   "latest_articles": [
+    {
+      "id": "3963fa9128c719eaeaa6d43651ecbb6f80ea8571",
+      "title": "First Thing: Oil prices surge as attacks on Saudi Arabia stoke supply fears",
+      "summary": "Strike on kingdom’s east-west pipeline could affect 4% of global oil supply. Plus, report reveals British monarchy’s role in financing slave tradeDon’t already get First Thing in your inbox? Sign up hereGood morning. Oil…",
+      "url": "https://www.theguardian.com/us-news/2026/sep/14/first-thing-oil-prices-surge-houthi-attack-saudi-arabia-supply-fears",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-14T11:29:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "attacks were launched from its territory"
+    },
+    {
+      "id": "9b356662c8f9f02965542f722dc962f96824b027",
+      "title": "Iraq To Open Iran Crossings After Drone Attack Prompts Saudi Pipeline Closure",
+      "summary": "The crossings are Shalamsheh in Basra, al-Shib in Missan, and al-Mandali in Diyala.",
+      "url": "https://www.ndtv.com/world-news/iraq-to-open-iran-crossings-after-drone-attack-prompts-saudi-pipeline-closure-12040561#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-13T09:25:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Iraq To Open Iran Crossings"
+    },
+    {
+      "id": "30298121c78dd077165d7875b2bbfcfa89c2e7ae",
+      "title": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.",
+      "summary": "A drone attack from Iraq forced Saudi Arabia to close its East-West pipeline, the kingdom said, threatening a key workaround to Iran’s Persian Gulf blockade.",
+      "url": "https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-12T18:02:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "drone attack from Iraq forced Saudi Arabia to close its East-West pipeline"
+    },
     {
       "id": "dbb34488a1b83c4ec572cf0d0978dd3045caa91d",
       "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "US-Saudi strikes in Iraq push region into ‘uncharted territory’"
-    },
-    {
-      "id": "91da63b44d2f4ef8c1af2093e4bde2ef0244bba8",
-      "title": "Iran War Live Updates: U.S. and Saudi Airstrikes Drag More Countries Into Fighting",
-      "summary": "Global oil prices jumped on Wednesday after the U.S. and Saudi Arabia said they had carried out joint airstrikes on Iranian proxies in Iraq.",
-      "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
-      "source": "NYT > World News",
-      "published_at": "2026-07-29T11:18:29+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "joint airstrikes on Iranian proxies in Iraq"
-    },
-    {
-      "id": "dbce15466a9bcf28a9b0c66e5402a4aab0a7a869",
-      "title": "US blocks Iranian missile barrage as pause in fighting falters | First Thing",
-      "summary": "US military says it intercepted all Iranian missiles, as fighting threatens to resume. Plus, how Armenians seek to breathe more easily by heading undergroundDon’t already get First Thing in your inbox? Sign up hereGood m…",
-      "url": "https://www.theguardian.com/us-news/2026/jul/29/first-thing-us-blocks-iranian-missile-barrage",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-29T10:27:41+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "strike sites in Iraq that Tehran-backed militias have used"
-    },
-    {
-      "id": "1df098510da4ed8bf0f7672500d33c18e61fa903",
-      "title": "Saudi Arabia joins U.S. military strikes on Iranian proxies",
-      "summary": "The rare joint operation in Iraq underscores the risk that the Iran conflict could expand. It came after Iran fired missiles at a US. base in Jordan.",
-      "url": "https://www.washingtonpost.com/national-security/2026/07/28/us-says-it-shot-down-iranian-missiles-targeting-troops-middle-east/",
-      "source": "World (Washington post)",
-      "published_at": "2026-07-29T10:07:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "U.S. military strikes on Iranian proxies in Iraq"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-13T13:52:58Z"
+  "last_updated": "2026-09-14T15:58:26Z"
 }

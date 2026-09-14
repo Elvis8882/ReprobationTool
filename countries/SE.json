@@ -3,14 +3,25 @@
   "score": 97,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 138,
+  "trend": 0,
+  "sources": 129,
   "sentiment": {
-    "positive": 12,
-    "neutral": 115,
-    "negative": 11
+    "positive": 11,
+    "neutral": 108,
+    "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "e2a8040159d3433768a28636cc1c0131859485e6",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "summary": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-14T08:36:09+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Swedish left-wing bloc narrowly ahead"
+    },
     {
       "id": "4a4e40f77b8238d39eedfbf7cc38bdae9ec6c742",
       "title": "Canada explores ‘associate member’ status with EU amid US trade tensions",
@@ -74,6 +85,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Sweden’s election... narrowing the choices facing whoever wins"
+    },
+    {
+      "id": "0350024b0780db8f374d1c6074aedfad948b43c8",
+      "title": "‘Absurd, hardline calls’: questions over Sweden’s post-Brexit migration policy",
+      "summary": "Sweden has ordered more Britons, including vulnerable people, to leave post-Brexit than any other EU countryHe arrived with nothing other than the clothes he wore that morning. Hours later he was banged up in a detention…",
+      "url": "https://www.theguardian.com/world/2026/sep/11/sweden-brexit-hardline-migration-policy-britons-eu",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-11T17:41:50+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Sweden has ordered more Britons... to leave post-Brexit"
     },
     {
       "id": "371ce173409ae48634d2b6e2bfa7d0c14aa62720",
@@ -198,30 +220,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Swedish opposition pledges to help Britons facing deportation"
-    },
-    {
-      "id": "846d937ee63616a1b21d12f6e9605c18a1cf285d",
-      "title": "Wife of British man at risk of deportation from Sweden calls on Burnham to intervene",
-      "summary": "Case is latest in string of post-Brexit deportations from country, which has been criticised for high refusal rate for British people to remainThe wife of a British man detained by police in Stockholm on Tuesday ahead of…",
-      "url": "https://www.theguardian.com/world/2026/sep/03/wife-of-british-man-at-risk-of-deportation-from-sweden-calls-on-burnham-to-intervene",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-03T06:00:45+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "deportation from Sweden calls on Burnham"
-    },
-    {
-      "id": "ff3cde2af9b7ee240da0292337864ea27b67f1ab",
-      "title": "Swedish minister defends strict post-Brexit removals of Britons",
-      "summary": "Minister says Sweden has ‘fulfilled its commitments’ amid criticism of ‘unjust’ decisions such as case of Joyce ThomasThe Swedish government has doubled down on its position on removing and deporting British citizens on…",
-      "url": "https://www.theguardian.com/world/2026/sep/02/swedish-minister-removals-deportations-britons-brexit",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-02T12:59:23+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Swedish minister defends strict post-Brexit removals of Britons"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-13T13:52:58Z"
+  "last_updated": "2026-09-14T15:58:26Z"
 }

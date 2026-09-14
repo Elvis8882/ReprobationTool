@@ -1,16 +1,60 @@
 {
   "country": "SA",
-  "score": 48,
+  "score": 46,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 154,
+  "trend": -2,
+  "sources": 158,
   "sentiment": {
-    "positive": 10,
-    "neutral": 66,
-    "negative": 78
+    "positive": 11,
+    "neutral": 65,
+    "negative": 82
   },
   "latest_articles": [
+    {
+      "id": "10f376c5c6f3172b36ba0f3f35532d41b1839a79",
+      "title": "Saudi Leader Meets U.S. Commander as Widening Conflict Threatens Oil Markets",
+      "summary": "Crown Prince Mohammed bin Salman asked the United States for more U.S. military help last week after the Iranian-backed Houthi forces in Yemen launched a broad offensive.",
+      "url": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-leader-meets-centcom.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-14T15:43:44+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Saudi Leader Meets U.S. Commander as Widening Conflict Threatens Oil Markets"
+    },
+    {
+      "id": "c7dc7c1ccb057a8085e0e51414675295e4446fdd",
+      "title": "Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies",
+      "summary": "Impasse comes amid growing Saudi anger with Tehran over Houthi advances and strikes on airbase and pipelineOil prices rise after drone attacks shut down Saudi Arabia’s east-west pipelineGulf states have postponed a criti…",
+      "url": "https://www.theguardian.com/world/2026/sep/14/gulf-states-postpone-strait-of-hormuz-talks-iran-yemen-houthi-saudi-arabia-airbase-pipeline",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-14T12:22:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Houthi rebels launched a fresh barrage of missile and drone attacks"
+    },
+    {
+      "id": "3963fa9128c719eaeaa6d43651ecbb6f80ea8571",
+      "title": "First Thing: Oil prices surge as attacks on Saudi Arabia stoke supply fears",
+      "summary": "Strike on kingdom’s east-west pipeline could affect 4% of global oil supply. Plus, report reveals British monarchy’s role in financing slave tradeDon’t already get First Thing in your inbox? Sign up hereGood morning. Oil…",
+      "url": "https://www.theguardian.com/us-news/2026/sep/14/first-thing-oil-prices-surge-houthi-attack-saudi-arabia-supply-fears",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-14T11:29:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "attacks on Saudi Arabia stoke supply fears"
+    },
+    {
+      "id": "405aef948432b0bacf0686e174e14941e070d8e8",
+      "title": "Pakistan's Damage Control With Saudi After Backtracking On Houthi Fight",
+      "summary": "Sharif expressed \"complete solidarity\" with Saudi Arabia",
+      "url": "https://www.ndtv.com/world-news/pakistans-damage-control-with-saudi-after-backtracking-on-houthi-fight-12044362#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-14T10:27:32+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Sharif expressed \"complete solidarity\" with Saudi Arabia"
+    },
     {
       "id": "774aa0351c2f4c0864039a529e28f34e049e8795",
       "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
@@ -23,6 +67,17 @@
       "evidence": "attack on Saudi base as fighting flares"
     },
     {
+      "id": "9b356662c8f9f02965542f722dc962f96824b027",
+      "title": "Iraq To Open Iran Crossings After Drone Attack Prompts Saudi Pipeline Closure",
+      "summary": "The crossings are Shalamsheh in Basra, al-Shib in Missan, and al-Mandali in Diyala.",
+      "url": "https://www.ndtv.com/world-news/iraq-to-open-iran-crossings-after-drone-attack-prompts-saudi-pipeline-closure-12040561#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-13T09:25:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Drone Attack Prompts Saudi Pipeline Closure"
+    },
+    {
       "id": "b94b7d5355a31cca0b2a7295f22b8b0511183bea",
       "title": "'Everything Will Work Out': Trump Says Houthis Have Asked US Not To Intervene",
       "summary": "Trump also mentioned having spoken to Saudi Crown Prince Mohammed bin Salman",
@@ -32,6 +87,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "spoken to Saudi Crown Prince Mohammed bin Salman"
+    },
+    {
+      "id": "30298121c78dd077165d7875b2bbfcfa89c2e7ae",
+      "title": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.",
+      "summary": "A drone attack from Iraq forced Saudi Arabia to close its East-West pipeline, the kingdom said, threatening a key workaround to Iran’s Persian Gulf blockade.",
+      "url": "https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-12T18:02:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked"
     },
     {
       "id": "d58302dcd8e339c82621e5df699a99dcf1243f55",
@@ -76,6 +142,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Saudi is relying on for oil exports"
+    },
+    {
+      "id": "ae53ee0b6811df1fbbfd8c03eed485d22588606f",
+      "title": "Trump Rejected Saudi Crown Prince's Request To Attack Houthis: Report",
+      "summary": "The US is increasingly concerned about the rapidly escalating conflict in Yemen",
+      "url": "https://www.ndtv.com/world-news/trump-rejected-saudi-crown-princes-request-to-attack-houthis-report-12033246#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-11T11:29:19+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Saudi Crown Prince's Request To Attack Houthis"
     },
     {
       "id": "6f3d47bc0f3565f8e75b2dd5c070b5be4e8a8780",
@@ -153,85 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "subject to torture"
-    },
-    {
-      "id": "25a76ca00d0bc0ce35b35a9ce356522809eba772",
-      "title": "Crude Oil Surges Towards $100 As Iran-US Conflict Fuels Supply Concerns",
-      "summary": "The waterway is an increasingly important route for Saudi oil with the Strait of Hormuz shut.",
-      "url": "https://www.ndtv.com/world-news/crude-oil-surges-towards-100-as-iran-us-conflict-fuels-supply-concerns-12021386#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-09T04:39:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "important route for Saudi oil"
-    },
-    {
-      "id": "490544dbcf9577f1408e26d0a5e95e8d7c6ae17e",
-      "title": "Brent crude oil near $98 after Iran's Houthi allies attack multiple Saudi energy facilities",
-      "summary": "Oil prices rose Tuesday on worries over escalating Mideast tensions after the U.S. and Iran traded strikes over the weekend.",
-      "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-09-08T13:17:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "attack multiple Saudi energy facilities"
-    },
-    {
-      "id": "c2a8d541422159ae4226a88a640ce22cfaa4ddc4",
-      "title": "Video: Houthis Lay Waste To Saudi Weapons Trucks, Riyadh Vows Response",
-      "summary": "The video also showed the soldiers fleeing the camp amid massive explosions",
-      "url": "https://www.ndtv.com/world-news/video-houthis-lay-waste-to-saudi-weapons-trucks-riyadh-vows-response-12018385#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-08T12:45:23+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Houthis Lay Waste To Saudi Weapons Trucks"
-    },
-    {
-      "id": "cf594c42518914d098b7917ef08d5acf75100271",
-      "title": "UK pays highest borrowing rate since 1998 as pressure builds on public finances – business live",
-      "summary": "Saudi authorities said operations at some energy facilities have been attacked ‌by Yemen’s Iran-aligned Houthis Gas prices are rising this morning, putting pressure on European countries who need to stock up their storag…",
-      "url": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-08T12:08:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Saudi authorities said operations at some energy facilities have been attacked"
-    },
-    {
-      "id": "c2a40c5625c5a83633b125833b28bca7db4c780d",
-      "title": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
-      "summary": "Riyadh says it will retaliate after overnight attacks by Iran-backed Yemen group on oil facilities wound more than 70Yemen’s Iran-backed Houthis have attacked four cities in Saudi Arabia, wounding more than 70 people and…",
-      "url": "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-08T12:05:31+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Houthis strike Saudi Arabian cities"
-    },
-    {
-      "id": "9dc68de6e26ba7afd1b8963e9bd01b63049d1336",
-      "title": "Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens",
-      "summary": "The latest escalation threatens to drag Saudi Arabia and the Iran-backed Houthi militia back into a full-blown war.",
-      "url": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-08T10:54:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "threatens to drag Saudi Arabia... back into a full-blown war"
-    },
-    {
-      "id": "21d7bbfa0d5f4a9e6c182f1bb06fbde01be81807",
-      "title": "Iran war latest: GCC chief condemns 'malicious' Houthi attacks on Saudi Arabia - thenationalnews.com",
-      "summary": "Iran war latest: GCC chief condemns 'malicious' Houthi attacks on Saudi Arabia&nbsp;&nbsp;thenationalnews.comHe was hosting his daughter’s wedding. Then a deadly strike tore through his home in southern Iran.&nbsp;&nbsp;…",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWWZwYVd5ZkUwZE1QSU9VclpYam10NVFMZ194cDRqMEJ3YVZjTHp2NVpISkVFQ0k2R0wyeS1Gem9INUFObWN3TmUtZUFyZDRkUUJOVlFrb2xKODRvdTBMWi1abUUzVFFQZ25TMXVJalBoRXZ5QmhPdlJ1REpqYlBpalBfTnV5NHFYRUhlUjd1SVNHRW9WNHVqdVRYUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-08T09:43:51+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "GCC chief condemns 'malicious' Houthi attacks on Saudi Arabia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-13T13:52:58Z"
+  "last_updated": "2026-09-14T15:58:26Z"
 }

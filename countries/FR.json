@@ -1,16 +1,38 @@
 {
   "country": "FR",
-  "score": 64,
+  "score": 63,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 3,
-  "sources": 497,
+  "trend": -1,
+  "sources": 488,
   "sentiment": {
-    "positive": 53,
-    "neutral": 367,
+    "positive": 52,
+    "neutral": 359,
     "negative": 78
   },
   "latest_articles": [
+    {
+      "id": "8bf0e13ae3a5155e9cdd414ccc61b8f8e190b91d",
+      "title": "France Mocked U.S. for Human Rights Vote, Then Quietly Apologized",
+      "summary": "After the Trump administration blocked a new ambassador to Washington, the country expressed regret for a post from a French official social media account.",
+      "url": "https://www.nytimes.com/2026/09/14/world/europe/france-ambassador-trump-tweet.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-14T15:25:26+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "France Mocked U.S. for Human Rights Vote, Then Quietly Apologized"
+    },
+    {
+      "id": "1ce8c86f5619203b9a87ad63a066d1625460c747",
+      "title": "‘Signs of violence’: asylum seekers arriving in France injured after being deported from UK",
+      "summary": "French health service documents injuries including fractures and bruising after detention and return under ‘one in one out’ schemeMultiple injuries including bruising and fractures have been documented by a health servic…",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/14/asylum-seekers-removed-uk-france-injured-one-in-one-out",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-14T15:22:35+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "asylum seekers arriving in France injured after being deported from UK"
+    },
     {
       "id": "4a4e40f77b8238d39eedfbf7cc38bdae9ec6c742",
       "title": "Canada explores ‘associate member’ status with EU amid US trade tensions",
@@ -43,6 +65,28 @@
       "evidence": "dying heart of rural France: the village bistro"
     },
     {
+      "id": "e0dfb0ddd1205ee52b21f12e75885e080ff13e23",
+      "title": "'She's back': Fans dance, sing and cry after Céline Dion's comeback concert in Paris",
+      "summary": "Thousands turned out to witness Céline Dion perform in Paris on Saturday, her first show after a six year illness-induced hiatus.",
+      "url": "https://www.bbc.co.uk/news/videos/cpq01p1wn78o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-13T02:59:29+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Céline Dion perform in Paris on Saturday"
+    },
+    {
+      "id": "ad59eb6e9bc6037b66ad0b12dd79effd5ae8b9cc",
+      "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
+      "summary": "The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.",
+      "url": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-13T02:41:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "comeback show in Paris"
+    },
+    {
       "id": "44f55a1149241868780e18ca814c26ee87d4097d",
       "title": "Céline Dion fans prepare for comeback concert in Paris",
       "summary": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
@@ -52,6 +96,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "comeback concert in Paris"
+    },
+    {
+      "id": "50eead3bd20c6a2f58a8af1cb1ccf42b8128bf4d",
+      "title": "French officials investigate if malicious act caused train derailment",
+      "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
+      "url": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-12T15:05:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "French officials investigate if malicious act caused train derailment"
     },
     {
       "id": "a95a11f55bd827e100d4df8ead271671137f5431",
@@ -172,61 +227,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "France in banning trade with Israeli settlements"
-    },
-    {
-      "id": "6ba05e2180994195ac6bbe53566846b544988a8b",
-      "title": "How Fighting Fires Became an All-of-Europe Project",
-      "summary": "The European Union isn’t known for firefighting expertise. But with the continent ablaze, Brussels is playing a growing role.",
-      "url": "https://www.nytimes.com/2026/09/09/world/europe/eu-fire-fighting.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-10T02:44:43+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "78136219ba865cd33d3450312a329b3e14fc0cdf",
-      "title": "Silver Lake to merge two software firms in $11.6 billion bet on AI",
-      "summary": "French firms Cegid, which sells business management software, and Silae, a payroll and HR platform, are set to combine.",
-      "url": "https://www.cnbc.com/2026/09/09/silver-lake-merges-cegid-silae-ai-software-deal.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-09-09T17:36:02+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "French firms Cegid... and Silae... set to combine."
-    },
-    {
-      "id": "81c3e28a0a84a544ca64c749badc27fe2eeb602a",
-      "title": "Europe Unites to Pressure Israel, Breaking With U.S.",
-      "summary": "Britain once followed in France’s slipstream when it came to pressuring Israel. Under new leadership, it is spearheading opposition to Israeli settlements, risking American anger.",
-      "url": "https://www.nytimes.com/2026/09/09/world/europe/britain-france-israel-settlements-trade.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-09T12:15:45+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "France’s slipstream when it came to pressuring Israel"
-    },
-    {
-      "id": "8d92b4e3f72b407760faba7117100919e9be0f21",
-      "title": "EU unveils ‘buy European’ public procurement rules to counter China",
-      "summary": "Authorities and public bodies to be urged to buy goods and services from Europe, but without binding quotasEuropean authorities will be encouraged to buy more domestic goods and services when they spend public money unde…",
-      "url": "https://www.theguardian.com/world/2026/sep/09/eu-buy-european-public-procurement-rules-china-goods-services",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-09T11:30:49+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "86f103dc5b896e9162152db6a4147935f412a5f7",
-      "title": "EU helps cities tighten screws on Airbnb, holiday rentals - France 24",
-      "summary": "EU helps cities tighten screws on Airbnb, holiday rentals&nbsp;&nbsp;France 24Proposed EU rules would curb Airbnb, short-term rental homes, draft shows&nbsp;&nbsp;ReutersEU Offers Legal Backing for Cities Targeting Short…",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUo5aGFLSzNtdU5hMExZUGlLN1EzQnZIeElBZDRaaHVnSFlUXzk3VGY3R2tZZGxmTEJ2WHJ0aHY0LUFCN2I1THk0QlBrWEpNSVZtSzdocURRWDYzVTZvbVdRaG5TRl9BaFFfeWlTMFAwN096dGo2U3hhSGpMX0Z1ZnVqNmFDVWFfbWowTXVoUmtTazVxZHJmZk5abGJtM0NiVTNob3ZB?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-09T10:45:14+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "EU helps cities tighten screws on Airbnb, holiday rentals"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-13T13:52:58Z"
+  "last_updated": "2026-09-14T15:58:26Z"
 }

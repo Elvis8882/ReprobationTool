@@ -1,0 +1,41 @@
+{
+  "id": "5da656c4bacc5c175faffb838b887306c9867370",
+  "title": "Russian Strikes on Ukraine Hits Near David Petraeus, ex-C.I.A. Chief",
+  "summary_full": "David Petraeus was at a rail station when a drone hit. Another train, with former Prime Minister Boris Johnson of Britain and other dignitaries, had just left, Ukrainian officials said.",
+  "summary_public": "David Petraeus was at a rail station when a drone hit. Another train, with former Prime Minister Boris Johnson of Britain and other dignitaries, had just left, Ukrainian officials said.",
+  "url": "https://www.nytimes.com/2026/09/13/world/europe/ukraine-petraeus-russian-strike.html",
+  "published_at": "2026-09-13T23:48:50+00:00",
+  "source": "NYT > World News",
+  "language": "en",
+  "countries_detected": [
+    "GB",
+    "RU",
+    "UA"
+  ],
+  "countries_scored": [
+    "GB",
+    "RU",
+    "UA"
+  ],
+  "sentiment_by_country": {
+    "GB": {
+      "label": "positive",
+      "confidence": 0.7,
+      "evidence": "Boris Johnson of Britain and other dignitaries, had just left"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "Russian Strikes on Ukraine Hits Near David Petraeus"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Russian Strikes on Ukraine Hits Near David Petraeus"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-09-14T15:58:26+00:00",
+  "processed_at": "2026-09-14T15:58:26+00:00"
+}
