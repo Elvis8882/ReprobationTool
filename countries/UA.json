@@ -1,16 +1,82 @@
 {
   "country": "UA",
-  "score": 5,
+  "score": 1,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": -4,
-  "sources": 613,
+  "sources": 618,
   "sentiment": {
     "positive": 259,
     "neutral": 105,
-    "negative": 250
+    "negative": 255
   },
   "latest_articles": [
+    {
+      "id": "42f38dd08f324ce88a81a74f7948c6223f1e398a",
+      "title": "Ukraine and Russia Deny Trump’s Claims of an Energy Truce",
+      "summary": "The Kremlin said that an agreement would be “a very good idea” but that any deal would not have much effect on fuel markets, as President Trump had suggested.",
+      "url": "https://www.nytimes.com/2026/09/15/world/europe/trump-energy-truce-ukraine-russia.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-15T13:43:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ukraine Deny Trump’s Claims"
+    },
+    {
+      "id": "87d62c77d066ae700b5941f7ac20add2097faf5a",
+      "title": "Explosive device found on drone shot down in Lithuania, says minister - Europe live",
+      "summary": "The European Commission’s president warned that recent actions in Denmark and Lithuania are ‘not isolated incidents’Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over LithuaniaUkrainian…",
+      "url": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-15T13:39:49+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukraine is ready to contribute to all efforts"
+    },
+    {
+      "id": "16c614175ff1ffdbc6d3d170e4c5573f1aec02b1",
+      "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
+      "summary": "Danish prime minister Mette Frederiksen condemns ‘reckless action from Russia towards Denmark’s military’A Russian warship has fired two emergency flares at a Danish helicopter in the Baltic Sea, and Nato fighter jets ha…",
+      "url": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-15T10:37:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia’s war against Ukraine."
+    },
+    {
+      "id": "9e7024bf93e4a30a5ac1cc029b749a9b7a2d81ad",
+      "title": "Ukraine's postal workers deliver lifeline under Russian fire",
+      "summary": "The state post service delivers pensions, medicine and letters to people just miles from the front.",
+      "url": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-15T05:01:46+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Ukraine's postal workers deliver lifeline"
+    },
+    {
+      "id": "34ac987201482f0f9955315ad06181d5a321bcd9",
+      "title": "What I saw when drones targeted a train in Ukraine, with ex-CIA director aboard",
+      "summary": "A freelance journalist was on a train with retired Gen. David Petraeus when a sleek drone, with four fins and a rear-mounted engine, whistled in low like a small jet.",
+      "url": "https://www.washingtonpost.com/world/2026/09/14/when-drones-targeted-our-train-journey-out-ukraine/",
+      "source": "World (Washington post)",
+      "published_at": "2026-09-14T22:28:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "drones targeted a train in Ukraine"
+    },
+    {
+      "id": "97b9465a3640dd5d1b5129e5cd923795b6712805",
+      "title": "Latvia's Prime Minister noted that Europe is beginning to understand the threat posed by Russia — Euronews - UA.NEWS",
+      "summary": "Latvia's Prime Minister noted that Europe is beginning to understand the threat posed by Russia — Euronews&nbsp;&nbsp;UA.NEWS'We were right': EU finally listening to Baltic warnings on Russia, Latvian PM says&nbsp;&nbsp;…",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVVhtZnQ2NzNBOVB1LUUtZW5jcm9Jd1hhbERHUkJWQ05SQVV1ZXZzSlFCVWYxLVNsdzA5VGZERklXUTNvVEx6MWZOWHY4M0hOelhzZElDYXBTYVpEQzJDSDY0R21TdzY2QTVpZDJOclFRM3dNVFc3UV9QRmcycXQxNXd3QTNBMmNoM0R6SkJPOS03NDV4WlIwM1ZIdnZobEVTMGpBc3c2ZDB4UXpBVFE?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-09-14T16:46:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": ""
+    },
     {
       "id": "e5df37640573489c26c27c5131c4b946a0a932c4",
       "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims  – Europe live",
@@ -43,6 +109,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "stationary Ukrainian locomotive on the Polish border"
+    },
+    {
+      "id": "5d412f9f0305be4dfa11cb79f4ff07ad70a716cf",
+      "title": "Drone strike on train is calculated escalation by Putin, German minister says - Yahoo",
+      "summary": "Drone strike on train is calculated escalation by Putin, German minister says&nbsp;&nbsp;YahooRussia hits Ukrainian train shortly after Boris Johnson and top European officials leave station&nbsp;&nbsp;BBCBoris Johnson n…",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWxtUUZPOWNTUU5sOTdVV0poczRMTmMyXzZMVjg0MWFUdU44NUJraTJwMlpKVUFyV3lCU3hNLVh6d0ZQZ2g4ZDVfVjl6NXZYb00tOXZzdkZiaVBHMk45b1FWSHhKdUpHencwYkQ5UU0zc1VDZG5zaUhLaXczbzk3cUVDdC1wSnVjSUdJSFAtaW1xbEdTcFE?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-09-14T11:30:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia hits Ukrainian train"
     },
     {
       "id": "099082b584bd18ead79e6e6ec3b785b78f0fd970",
@@ -122,6 +199,28 @@
       "evidence": "Ukraine's 2024 incursion"
     },
     {
+      "id": "420d57a0ec272f065400f4e8273ead5eba221734",
+      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+      "summary": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-12T20:27:25+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Ukraine tennis player after Russian strike hits flat"
+    },
+    {
+      "id": "230d59703e38317a09ca6bb84c05f67094fb7a96",
+      "title": "‘Western troops in Ukraine would mean war with Russia’: Putin ahead of Brics meet",
+      "summary": "President Putin warned that the presence of foreign troops in Ukraine would escalate into war with Russia. He refuted claims that Russia poses a threat to European countries, stating that previous disagreements have been…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/western-troops-in-ukraine-would-mean-war-with-russia-putin-ahead-of-brics-meet/articleshow/134115367.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-09-12T07:24:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Western troops in Ukraine would mean war with Russia"
+    },
+    {
       "id": "c3000382249f4e20d80062e3f85b7221b09e3b44",
       "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
       "summary": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
@@ -131,107 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Ukraine faces 'toughest winter' since Russia's full-scale invasion"
-    },
-    {
-      "id": "371ce173409ae48634d2b6e2bfa7d0c14aa62720",
-      "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – Europe live",
-      "summary": "Ulf Kristersson’s comments come ahead of the parliamentary election taking place this Sundayin BrusselsThe European Commission has said it is assessing whether Ukraine has a funding shortfall, amid renewed pressure to us…",
-      "url": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-11T12:57:55+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "assessing whether Ukraine has a funding shortfall"
-    },
-    {
-      "id": "7ff0c367bc9ab5a688b0d3e9c681ba7be51ffc12",
-      "title": "Russia targets Kyiv petrol stations for first time with jet-powered drones",
-      "summary": "Three facilities in two days struck as bombardment of Ukraine’s capital enters new phase of intensityEurope live – latest updatesPetrol stations in Kyiv have been hit by jet-powered drones in a wave of targeted Russian a…",
-      "url": "https://www.theguardian.com/world/2026/sep/11/russia-kyiv-petrol-stations-jet-powered-drones-ukraine",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-11T12:01:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russia targets Kyiv petrol stations for first time with jet-powered drones"
-    },
-    {
-      "id": "546d0f9fcf211dd86a26f4ebef5d4d66d3f02ce8",
-      "title": "IEA warns global oil refining system ‘stretched to the limit’ as Iran, Ukraine wars tighten market",
-      "summary": "The energy agency warned shrinking inventories and strained refineries could further tighten markets.",
-      "url": "https://www.cnbc.com/2026/09/11/iran-war-oil-diesel-iea-hormuz.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-09-11T10:56:45+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Iran, Ukraine wars tighten market"
-    },
-    {
-      "id": "3905398503a69c8c87ff85dab8ad19c590fbc130",
-      "title": "As Russia Again Draws Near, a Frontline City Fears Obliteration This Time",
-      "summary": "The Ukrainian city of Izium still bears the scars of Russian occupation from four years ago. As Moscow’s forces approach, residents are bracing for the worst.",
-      "url": "https://www.nytimes.com/2026/09/11/world/europe/ukraine-russia-izium-donetsk.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-11T09:00:38+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "The Ukrainian city of Izium still bears the scars"
-    },
-    {
-      "id": "858afc7f61c6ed5a6368ded02a0616f33b520748",
-      "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
-      "summary": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-10T23:22:11+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Civilians told to flee Ukraine's fortress cities"
-    },
-    {
-      "id": "94b32db9b2dd15cfadd6f9de021e66b16774ff22",
-      "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
-      "summary": "Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian communityCanada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone stocks, as the count…",
-      "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-10T20:35:06+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Canada offered support on Thursday to boost Ukraine’s air defenses"
-    },
-    {
-      "id": "9b472edf152337de29b052f6a01cb3a810ce0788",
-      "title": "Moscow Claims Ukraine Planned to Start a War Between Russia and the U.K.",
-      "summary": "Britain warned that Russia uses disinformation to divide Ukraine from its international partners.",
-      "url": "https://www.nytimes.com/2026/09/10/world/europe/russia-ukraine-uk-embassy.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-10T18:47:10+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "divide Ukraine from its international partners"
-    },
-    {
-      "id": "13b238d95246bc10a1afcc49185bded8c2ad1151",
-      "title": "Russian Drone Incursion Delayed Zelensky Flight to Oslo, Moldova Says",
-      "summary": "An airspace closure delayed the Ukrainian leader’s trip between Moldova and Norway, officials said. They did not confirm a claim by Norway’s prime minister that a drone had “almost hit” the plane.",
-      "url": "https://www.nytimes.com/2026/09/10/world/europe/zelensky-plane-drone-moldova.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-10T12:35:12+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Zelensky Flight to Oslo"
-    },
-    {
-      "id": "967bbcee982c14a5892e8c0a7ce1409f0502ebcd",
-      "title": "Latvia, Estonia, Ukraine joining forces to clean up the world / Article - LSM",
-      "summary": "Latvia, Estonia, Ukraine joining forces to clean up the world / Article&nbsp;&nbsp;LSMHow to get involved in Monaco’s World Cleanup Day 2026&nbsp;&nbsp;Monaco LifeRiga to broadcast World Cleanup Day with Kyiv and Tallinn…",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTWxqMXFpdUhWZGtBU1VHQVloTGxMMXcxVllXN0pxT1ZJWnhLbzBTZTZ4dFVnVFFrV0pqVUtHcVV1d3ZxV24taWpnUzhPcUNWanBibnVLSnhqa1lxZDU0SUtrVXdHVnFWbVFTMDlZZlhrVHpSQXdjVjlteU1ERjZnM2RISVBwc0E5elpBSXo3NkFERHd0ckgtVkltMU9PdzlXbjFQMFRoWnc5cHV2Z09FQjJqM2xuY2J5UnhkWktyQUg5SlQt?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-10T09:11:48+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Ukraine joining forces to clean up the world"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-14T15:58:26Z"
+  "last_updated": "2026-09-15T14:37:56Z"
 }

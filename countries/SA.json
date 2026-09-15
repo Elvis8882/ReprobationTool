@@ -1,16 +1,60 @@
 {
   "country": "SA",
-  "score": 46,
+  "score": 42,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -2,
-  "sources": 158,
+  "trend": -4,
+  "sources": 166,
   "sentiment": {
     "positive": 11,
-    "neutral": 65,
-    "negative": 82
+    "neutral": 68,
+    "negative": 87
   },
   "latest_articles": [
+    {
+      "id": "b79c7a696bedd7dd38d7b0c7d9dbae9cb63e124f",
+      "title": "Oil prices rise as market awaits updates on Saudi pipeline outage",
+      "summary": "Iran-backed Houthi militants in Yemen, meanwhile, carried out renewed strikes on Saudi Arabia this week.",
+      "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-15T14:00:43+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Oil prices rise as market awaits updates on Saudi pipeline outage"
+    },
+    {
+      "id": "be068508db4933ef2c1b2b2c53030899b07b85c3",
+      "title": "Houthis Report Deadly Saudi Airstrikes as Kingdom Issues Mass Alerts",
+      "summary": "The two sides traded accusations of attacks as fighting inside Yemen remains fierce. The escalating conflict threatens to further destabilize the Middle East.",
+      "url": "https://www.nytimes.com/2026/09/15/world/middleeast/yemen-saudi-arabia-houthis-attacks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-15T13:43:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Deadly Saudi Airstrikes"
+    },
+    {
+      "id": "3ac801265aa0d1a05034631ff45fab9f4b28fd7a",
+      "title": "Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline",
+      "summary": "Analysts warn oil prices could rally sharply if the pipeline remains offline beyond an estimated five-to-seven-day inventory cushion.",
+      "url": "https://www.cnbc.com/2026/09/15/oil-prices-saudi-arabia-east-west-pipeline-iran.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-15T11:25:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Saudi Arabia races to restart a key pipeline"
+    },
+    {
+      "id": "77e6a5cba73ffcec081606e8522514f41952c5e2",
+      "title": "Saudi Arabia's Limited Options Against Houthis After Trump's Rebuff",
+      "summary": "Mohammed bin Salman, has spent years trying to build ties with US",
+      "url": "https://www.ndtv.com/world-news/saudi-arabias-limited-options-against-houthis-after-trumps-rebuff-12048813#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-15T09:31:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "Limited Options Against Houthis"
+    },
     {
       "id": "10f376c5c6f3172b36ba0f3f35532d41b1839a79",
       "title": "Saudi Leader Meets U.S. Commander as Widening Conflict Threatens Oil Markets",
@@ -21,6 +65,39 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "Saudi Leader Meets U.S. Commander as Widening Conflict Threatens Oil Markets"
+    },
+    {
+      "id": "23dd6b387aab3653d4074e68b9f9202fd076dafb",
+      "title": "Brent crude tops $109 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz",
+      "summary": "Saudi Arabia has faced escalating attacks from Iran-allied militant groups in recent days.",
+      "url": "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-14T15:01:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz"
+    },
+    {
+      "id": "219622d034c12ad1525f3a3a0261af7eaf657a94",
+      "title": "Saudi Arabia Faces ‘Worst-Case Scenario’ After Iran’s Attacks and Trump’s Rebuffs",
+      "summary": "The kingdom is in a state of strategic shock after coming under attack from an emboldened Iran and failing to win more U.S. military support, analysts say.",
+      "url": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-14T14:46:17+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Saudi Arabia Faces ‘Worst-Case Scenario’ After Iran’s Attacks"
+    },
+    {
+      "id": "d85187b311c3dd6425fc69f5247289bc47216e72",
+      "title": "Oil prices soar above $108 as Houthis strike Saudi infrastructure",
+      "summary": "Iran-linked rebels force closure of east-west pipeline and capture strategic island in Bab al-Mandab straitBusiness news – live updatesOil prices have climbed above $108 a barrel after a series of drone attacks forced Sa…",
+      "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-14T12:32:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Houthis strike Saudi infrastructure"
     },
     {
       "id": "c7dc7c1ccb057a8085e0e51414675295e4446fdd",
@@ -76,6 +153,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Drone Attack Prompts Saudi Pipeline Closure"
+    },
+    {
+      "id": "7d6aabdaab3a064bf5becec0f275481c38065653",
+      "title": "Fresh attacks on Strait of Hormuz shipping fuel fears over oil supplies",
+      "summary": "During its passage through the Strait of Hormuz, a ship was hit by a projectile, raising alarms about the stability of global energy supplies following a prior drone attack. In response, Saudi Arabia has temporarily clos…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/fresh-attacks-on-strait-of-hormuz-shipping-fuel-fears-over-oil-supplies/articleshow/134188805.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-09-13T08:53:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "Saudi Arabia has temporarily closed its crucial East-West oil pipeline"
     },
     {
       "id": "b94b7d5355a31cca0b2a7295f22b8b0511183bea",
@@ -142,96 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Saudi is relying on for oil exports"
-    },
-    {
-      "id": "ae53ee0b6811df1fbbfd8c03eed485d22588606f",
-      "title": "Trump Rejected Saudi Crown Prince's Request To Attack Houthis: Report",
-      "summary": "The US is increasingly concerned about the rapidly escalating conflict in Yemen",
-      "url": "https://www.ndtv.com/world-news/trump-rejected-saudi-crown-princes-request-to-attack-houthis-report-12033246#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-11T11:29:19+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Saudi Crown Prince's Request To Attack Houthis"
-    },
-    {
-      "id": "6f3d47bc0f3565f8e75b2dd5c070b5be4e8a8780",
-      "title": "Iranian-backed Houthis fight to block Red Sea passage for Saudi oil",
-      "summary": "Houthi control of the Bab al-Mandab Strait would be a setback for the Trump administration in its war with Iran, which has already blocked the Strait of Hormuz.",
-      "url": "https://www.washingtonpost.com/world/2026/09/10/iranian-backed-houthis-fight-block-red-sea-passage-saudi-oil/",
-      "source": "World (Washington post)",
-      "published_at": "2026-09-10T13:03:15+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Iranian-backed Houthis fight to block Red Sea passage"
-    },
-    {
-      "id": "bf566c20b87b4d55c17251eba8c45751bb9c30ed",
-      "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast",
-      "summary": "Iran and its proxies move closer to full control of two shipping chokepoints as regional conflict widensYemen’s Houthi rebels are making a concerted drive to take full control of the country’s Red Sea coast, claiming con…",
-      "url": "https://www.theguardian.com/world/2026/sep/10/houthis-seize-key-port-mocha-yemen-red-sea-coast-iran-saudi-arabia-us",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-10T11:39:56+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "strategic disaster for Saudi Arabia and the US"
-    },
-    {
-      "id": "905eac4f99a2631348d793fb5c36f41ab89b6dd2",
-      "title": "Why Yemen Is Back on the Brink of War",
-      "summary": "The Houthi militia, the Yemeni government, Iran and Saudi Arabia all have reasons to escalate the conflict.",
-      "url": "https://www.nytimes.com/2026/09/10/world/middleeast/yemen-houthis-saudis-war.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-10T09:08:43+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Iran and Saudi Arabia all have reasons to escalate the conflict"
-    },
-    {
-      "id": "c93f4e91623b4d1f0f5bf0223743ee1842b4102f",
-      "title": "Iran war latest: Pakistan warns Iran to rein in Houthis after Saudi attacks - thenationalnews.com",
-      "summary": "Iran war latest: Pakistan warns Iran to rein in Houthis after Saudi attacks&nbsp;&nbsp;thenationalnews.comEXCLUSIVE: Pakistan warns Iran to rein in Houthis as Riyadh strikes back&nbsp;&nbsp;ReutersThe Houthis are testing…",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONXZ6QWhpaVE4VWJzamtoZmliN1BTLUV6N1Nud0x0ZGJjaTNZTTZDUzRpeHhLUmhXV25kcFZrTjVTY0dkRFpKd2xiWVMyS0kzUDJzZGVjQjFqc25WTGtSNG5fVXBnOUo2eXdfelA2VDdZOEx0S0Y3X2VTbFpDZHBWUG9RaEFfX3Zvc180VVFIc2hOcktqWVlWelZlYlpNVUJKOEE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-10T08:03:58+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Houthi attacks on Saudi Arabia ignite fires at oil facilities"
-    },
-    {
-      "id": "c518a347c20c79e793e23593f0c6b5fe4eb62b94",
-      "title": "Houthis Escalate Attacks On Saudi Arabia, 'Islamic NATO' Faces Test",
-      "summary": "Houthi rebels have been attacking commercial vessels in the Red Sea",
-      "url": "https://www.ndtv.com/world-news/houthis-escalate-attacks-on-saudi-arabia-muslim-nato-faces-test-12025301#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-10T05:53:20+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Houthis Escalate Attacks On Saudi Arabia"
-    },
-    {
-      "id": "75b55c5004488fece4e2162e710e5b4008192c08",
-      "title": "Yemen Tilts Toward Full-Scale War as Saudi-Houthi Clashes Escalate",
-      "summary": "With its oil-export routes once again under threat, Saudi Arabia is stepping up its military campaign against an old antagonist.",
-      "url": "https://www.nytimes.com/2026/09/09/world/middleeast/saudi-yemen-strilkes.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-09T21:09:08+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Saudi Arabia is stepping up its military campaign"
-    },
-    {
-      "id": "0f0cd0a57b10b50cc7e66f268324d02f9e6c5707",
-      "title": "UK Businessman Detained In Saudi Arabia, Family Speaks Out After 9 Years",
-      "summary": "He was subject to torture and released a year later.",
-      "url": "https://www.ndtv.com/world-news/rami-naimi-uk-businessman-detained-in-saudi-arabia-family-speaks-out-after-9-years-12021364#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-09T05:31:13+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "subject to torture"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-14T15:58:26Z"
+  "last_updated": "2026-09-15T14:37:56Z"
 }

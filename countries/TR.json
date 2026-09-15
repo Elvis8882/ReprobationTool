@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 91,
+  "score": 90,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 97,
+  "trend": -1,
+  "sources": 98,
   "sentiment": {
     "positive": 9,
     "neutral": 71,
-    "negative": 17
+    "negative": 18
   },
   "latest_articles": [
+    {
+      "id": "afcdebd2945353c4369d98b5d867dd6a22e99ad0",
+      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
+      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-13T14:25:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists"
+    },
     {
       "id": "b23b07a359360c741130fa834260084ae314f0a1",
       "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Trump's Secret Jet Switch In Turkey"
-    },
-    {
-      "id": "0101e6a131e444d67cf750498b001784c73fc0d5",
-      "title": "Credible Missile Threat Behind Trump's Secret Aircraft Switch In Turkey: Report",
-      "summary": "The threat emerged on the final day of Trump's visit to Ankara",
-      "url": "https://www.ndtv.com/world-news/credible-missile-threat-behind-trumps-secret-aircraft-switch-in-turkey-report-11902846#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-08-13T02:29:17+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Credible Missile Threat Behind Trump's Secret Aircraft Switch In Turkey"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-14T15:58:26Z"
+  "last_updated": "2026-09-15T14:37:56Z"
 }

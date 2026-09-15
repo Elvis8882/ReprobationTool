@@ -1,0 +1,41 @@
+{
+  "id": "7e51f55f4e55d8e0de44fe0c25badc80499abdf9",
+  "title": "Nato jets down drone that entered Lithuanian airspace",
+  "summary_full": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
+  "summary_public": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
+  "url": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-09-15T09:07:35+00:00",
+  "source": "BBC News - World",
+  "language": "en",
+  "countries_detected": [
+    "BY",
+    "LT",
+    "RU"
+  ],
+  "countries_scored": [
+    "BY",
+    "LT",
+    "RU"
+  ],
+  "sentiment_by_country": {
+    "BY": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "neighbouring Belarus"
+    },
+    "LT": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Nato jets down drone that entered Lithuanian airspace"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "ally of Russia."
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-09-15T14:37:56+00:00",
+  "processed_at": "2026-09-15T14:37:56+00:00"
+}
