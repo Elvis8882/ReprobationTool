@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 79,
+  "score": 78,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 58,
+  "trend": -1,
+  "sources": 59,
   "sentiment": {
     "positive": 5,
     "neutral": 21,
-    "negative": 32
+    "negative": 33
   },
   "latest_articles": [
+    {
+      "id": "c1d5999e12c67910114e636bccf8ffab14bece5d",
+      "title": "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy secretary tells CNBC",
+      "summary": "The Saudis closed the East-West pipeline after it sustained damage in a drone attack launched from Iraq.",
+      "url": "https://www.cnbc.com/2026/09/15/saud-arabia-east-west-pipeline-iran-war-chris-wright.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-15T18:29:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "drone attack launched from Iraq."
+    },
     {
       "id": "3963fa9128c719eaeaa6d43651ecbb6f80ea8571",
       "title": "First Thing: Oil prices surge as attacks on Saudi Arabia stoke supply fears",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Strikes in Iraq targeting Iran-backed militias"
-    },
-    {
-      "id": "3a9e0f72616e2ed8073a4ff085a7cd1e77f8104d",
-      "title": "What to Know About Iraq’s Militias",
-      "summary": "At least 20 fighters of the Popular Mobilization Forces, an umbrella group of Iraqi militias with ties to Iran, were killed in a wave of U.S. and Saudi airstrikes.",
-      "url": "https://www.nytimes.com/2026/07/29/world/middleeast/iraq-popular-mobilization-forces-iran.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-29T20:08:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Iraqi militias with ties to Iran, were killed in a wave of U.S. and Saudi airstrikes."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-15T14:37:56Z"
+  "last_updated": "2026-09-16T14:17:15Z"
 }

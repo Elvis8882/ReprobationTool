@@ -4,13 +4,35 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 669,
+  "sources": 659,
   "sentiment": {
     "positive": 37,
-    "neutral": 89,
-    "negative": 545
+    "neutral": 88,
+    "negative": 536
   },
   "latest_articles": [
+    {
+      "id": "4ae0571a891e9b88ca0f2055b02d531c2c96d710",
+      "title": "Russia’s Election Result Won’t Be a Shock. What Comes Next Could Be.",
+      "summary": "Russians are braced for what may follow for the military and economy after a parliamentary election that the Kremlin sees as a means of legitimizing its policies.",
+      "url": "https://www.nytimes.com/2026/09/16/world/europe/russia-duma-election.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-16T12:44:17+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia’s Election Result Won’t Be a Shock. What Comes Next Could Be."
+    },
+    {
+      "id": "5d734d8399ffd14e231bdac304d6ebc03c8b2bee",
+      "title": "NHL star Alexander Ovechkin campaigns for pro-Putin party in new ad",
+      "summary": "Ovechkin appeared in a video for United Russia, the country’s ruling party, as the country heads into key parliamentary elections this weekend.",
+      "url": "https://www.washingtonpost.com/sports/2026/09/15/nhl-star-alexander-ovechkin-campaigns-pro-putin-party-new-ad/",
+      "source": "World (Washington post)",
+      "published_at": "2026-09-15T18:39:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "campaigns for pro-Putin party"
+    },
     {
       "id": "42f38dd08f324ce88a81a74f7948c6223f1e398a",
       "title": "Ukraine and Russia Deny Trump’s Claims of an Energy Truce",
@@ -54,6 +76,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "arms race with Russia and China in Earth’s orbit"
+    },
+    {
+      "id": "990d9aa8fcf48fcec95862a9d16b235dcb03dc1d",
+      "title": "World’s top 20 private equity firms produce more greenhouse gases a year than most countries, report finds",
+      "summary": "Firms manage $7.3tn in assets and could afford to transition away from fossil fuels yet invest in natural gas and coal-fired plants to power datacentersThe energy portfolios of 20 private equity firms produce 1.5bn tons…",
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/private-equity-firms-energy-assets-greenhouse-gas",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-15T12:42:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "annual emissions of any country except China, the US, India and Russia"
     },
     {
       "id": "ec12e53202dc089bb556b48e9444e8f3ccbbfc2c",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "funded by Russian oligarch close to Putin"
-    },
-    {
-      "id": "5923a3a276c942b1718ebb7317bde86a30df4a2c",
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-14T12:18:13+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russia hits Ukrainian train shortly after Boris Johnson"
-    },
-    {
-      "id": "5d412f9f0305be4dfa11cb79f4ff07ad70a716cf",
-      "title": "Drone strike on train is calculated escalation by Putin, German minister says - Yahoo",
-      "summary": "Drone strike on train is calculated escalation by Putin, German minister says&nbsp;&nbsp;YahooRussia hits Ukrainian train shortly after Boris Johnson and top European officials leave station&nbsp;&nbsp;BBCBoris Johnson n…",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWxtUUZPOWNTUU5sOTdVV0poczRMTmMyXzZMVjg0MWFUdU44NUJraTJwMlpKVUFyV3lCU3hNLVh6d0ZQZ2g4ZDVfVjl6NXZYb00tOXZzdkZiaVBHMk45b1FWSHhKdUpHencwYkQ5UU0zc1VDZG5zaUhLaXczbzk3cUVDdC1wSnVjSUdJSFAtaW1xbEdTcFE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-14T11:30:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Drone strike on train is calculated escalation by Putin"
-    },
-    {
-      "id": "099082b584bd18ead79e6e6ec3b785b78f0fd970",
-      "title": "Ukraine’s war outlook worsens as Kyiv confronts budget and weapons shortfalls",
-      "summary": "Amid constant Russian drone and missile attacks, two shortfalls are raising the greatest alarm: a lack of air defense interceptors and an unexpected $27 billion defense budget gap.",
-      "url": "https://www.washingtonpost.com/world/2026/09/14/ukraines-war-outlook-worsens-kyiv-confronts-budget-weapons-shortfalls/",
-      "source": "World (Washington post)",
-      "published_at": "2026-09-14T11:16:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "constant Russian drone and missile attacks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-15T14:37:56Z"
+  "last_updated": "2026-09-16T14:17:15Z"
 }

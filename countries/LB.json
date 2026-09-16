@@ -3,7 +3,7 @@
   "score": 58,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 1,
+  "trend": 0,
   "sources": 113,
   "sentiment": {
     "positive": 6,
@@ -11,6 +11,17 @@
     "negative": 63
   },
   "latest_articles": [
+    {
+      "id": "ec022e13389d0d30466a686c020bd9fb5af6f46c",
+      "title": "‘It’s how Jean does business’: fugitive developer left Jeremy Greenwood ‘high and dry’, Icac hears",
+      "summary": "Greenwood denies that invoices for almost $1m sent in a single day in September 2021 were ‘bogus accounts’ to cover up political donationsFollow our Australia news live blog for latest updatesGet our breaking news email,…",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/16/jeremy-greenwood-icac-evidence-perrottet-payments-ntwnfb",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-16T08:41:09+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Beirut bedroom"
+    },
     {
       "id": "4ce2a2e5cd332d4523210857afb4799da32a1afe",
       "title": "‘Mafia boys’ and ‘corrupt politicians’: fugitive developer Jean Nassif rants to Icac from Beirut bedroom",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Eleven killed in Israeli strikes on southern Lebanon"
-    },
-    {
-      "id": "7a3f7f759bd12548a510d726ed443f32184cc967",
-      "title": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
-      "summary": "The Lebanese health ministry said children were among those killed. The Israeli prime minister’s office said Hezbollah had struck first, injuring three Israeli soldiers.",
-      "url": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-15T16:09:55+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Israeli Strikes in Lebanon Kill 11, Health Officials Say"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-15T14:37:56Z"
+  "last_updated": "2026-09-16T14:17:15Z"
 }

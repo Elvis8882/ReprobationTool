@@ -1,16 +1,38 @@
 {
   "country": "TR",
-  "score": 90,
+  "score": 88,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 98,
+  "trend": -2,
+  "sources": 100,
   "sentiment": {
     "positive": 9,
     "neutral": 71,
-    "negative": 18
+    "negative": 20
   },
   "latest_articles": [
+    {
+      "id": "c64a6a436f45e8d04506b079ba591d86e8f4c514",
+      "title": "Turkey Begins Broad Crackdown on L.G.B.T.Q. Community",
+      "summary": "The government has called the campaign an effort to protect families. Rights organizations have accused the authorities of criminalizing L.G.B.T.Q. people and of seeking to thwart political activism.",
+      "url": "https://www.nytimes.com/2026/09/16/world/middleeast/lgbtq-arrests-erdogan-turkey.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-16T13:10:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Turkey Begins Broad Crackdown on L.G.B.T.Q. Community"
+    },
+    {
+      "id": "7965f37bd9eeb871e0ebe1243a74633bbd66b678",
+      "title": "Turkey expands arrests after LGBTQ+ crackdown",
+      "summary": "Turkey’s Justice Minister Akin Gurlek launched the crackdown, saying it was part of an initiative to protect children and family values.",
+      "url": "https://www.washingtonpost.com/world/2026/09/15/turkey-expands-arrests-after-lgbtq-crackdown/",
+      "source": "World (Washington post)",
+      "published_at": "2026-09-15T21:07:43+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Turkey expands arrests after LGBTQ+ crackdown"
+    },
     {
       "id": "afcdebd2945353c4369d98b5d867dd6a22e99ad0",
       "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "'secret' Turkey flight"
-    },
-    {
-      "id": "5853ee8f18367cd89b364d549b83d96be01d31a6",
-      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-13T09:40:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Trump boarded a different plane in Turkey"
-    },
-    {
-      "id": "c55f468eb83eb2d96a7171726737d4a7abe35184",
-      "title": "Israel's Unverified 'Iran Kill Plot' Warning Behind Trump's Secret Jet Switch In Turkey: Report",
-      "summary": "The warning was reportedly relayed to CIA by the Israeli government.",
-      "url": "https://www.ndtv.com/world-news/israels-unverified-iran-kill-plot-warning-behind-trumps-secret-jet-switch-in-turkey-report-11903101#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-08-13T04:57:12+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Trump's Secret Jet Switch In Turkey"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-15T14:37:56Z"
+  "last_updated": "2026-09-16T14:17:15Z"
 }
