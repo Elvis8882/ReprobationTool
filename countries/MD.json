@@ -1,14 +1,14 @@
 {
   "country": "MD",
-  "score": 71,
+  "score": 68,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 9,
+  "trend": -3,
+  "sources": 10,
   "sentiment": {
     "positive": 3,
     "neutral": 3,
-    "negative": 3
+    "negative": 4
   },
   "latest_articles": [
     {
@@ -21,6 +21,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Moldova Says"
+    },
+    {
+      "id": "8ad3cd17c81309d76a6963a3377bc55c22fb4870",
+      "title": "Plane carrying Zelensky threatened by drone in Moldova, Norway’s premier says",
+      "summary": "The Ukrainian president was on his way to the funeral of Norway’s King Harald.",
+      "url": "https://www.washingtonpost.com/world/2026/09/09/plane-carrying-zelensky-threatened-by-drone-moldova-norways-premier-says/",
+      "source": "World (Washington post)",
+      "published_at": "2026-09-09T23:03:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Plane carrying Zelensky threatened by drone in Moldova"
     },
     {
       "id": "54e80567fdca5b25fee33c04dac91c1bf01df90f",
@@ -112,5 +123,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-16T14:17:15Z"
+  "last_updated": "2026-09-17T14:21:33Z"
 }

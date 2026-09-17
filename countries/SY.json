@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 48,
+  "sources": 49,
   "sentiment": {
     "positive": 1,
-    "neutral": 20,
+    "neutral": 21,
     "negative": 27
   },
   "latest_articles": [
+    {
+      "id": "a02f0832748be1cb316a9316d624d9ccfa55910d",
+      "title": "Latest Energy Crisis Leaves Governments With Few Good Options",
+      "summary": "From Indonesia to Guatemala to Syria, shortages and price increases are setting off protests and blackouts.",
+      "url": "https://www.nytimes.com/2026/09/15/world/asia/syria-fuel-price-protests-world.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-15T13:52:33+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Syria, shortages and price increases are setting off protests"
+    },
     {
       "id": "c966c65a093a775223e215bd4b551fb1aaabaaf4",
       "title": "14 Killed in Weapons Depot Blast in Northwest Syria",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Syrian court sentences Bashar al-Assad to death"
-    },
-    {
-      "id": "427cd01bc9b5a366df16d2337e1d3793025ecd56",
-      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
-      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-11T09:42:48+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Ousted Syrian dictator Bashar al-Assad sentenced to death"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-16T14:17:15Z"
+  "last_updated": "2026-09-17T14:21:33Z"
 }

@@ -17,8 +17,25 @@
     "RU",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-09-16T14:17:15+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-09-17T14:21:33+00:00",
+  "sentiment_by_country": {
+    "IR": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran wars drive broader energy supply concerns."
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Ukraine to stop ‘knocking out’ Russian oil refineries"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Ukraine and Iran wars drive broader energy supply concerns."
+    }
+  },
+  "processed_at": "2026-09-17T14:21:33+00:00"
 }

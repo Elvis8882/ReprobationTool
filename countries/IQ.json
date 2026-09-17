@@ -3,14 +3,25 @@
   "score": 78,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -1,
-  "sources": 59,
+  "trend": 0,
+  "sources": 60,
   "sentiment": {
     "positive": 5,
-    "neutral": 21,
+    "neutral": 22,
     "negative": 33
   },
   "latest_articles": [
+    {
+      "id": "7db99f7efc644f200dc453c9491903ea95c05cb2",
+      "title": "How Sept. 11 Paved the Way to Mideast Power for Iran",
+      "summary": "The American invasion of Iraq in 2003 set the path for Tehran to dominate its neighbor and whetted its appetite to expand its influence across the greater Middle East.",
+      "url": "https://www.nytimes.com/2026/09/16/world/middleeast/sept-11-iran-islamic-state-iraq.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-16T12:49:05+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "The American invasion of Iraq in 2003 set the path"
+    },
     {
       "id": "c1d5999e12c67910114e636bccf8ffab14bece5d",
       "title": "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy secretary tells CNBC",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "attacks on Iraq, Jordan and Egypt threatened to expand the scope of the war"
-    },
-    {
-      "id": "6a438945a74f28c777f2afbd1fa3867881b8460c",
-      "title": "Saudi Arabia’s Strikes in Iraq Mark Entry Into U.S.-Iran War.",
-      "summary": "The kingdom’s defense ministry said airstrikes in Iraq targeting Iran-backed militias were in retaliation for attacks on Saudi oil facilities this week.",
-      "url": "https://www.nytimes.com/2026/07/29/world/middleeast/saudi-arabia-us-iran-war.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-29T20:35:32+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Strikes in Iraq targeting Iran-backed militias"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-16T14:17:15Z"
+  "last_updated": "2026-09-17T14:21:33Z"
 }

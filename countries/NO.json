@@ -1,12 +1,12 @@
 {
   "country": "NO",
-  "score": 98,
+  "score": 97,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 40,
+  "trend": -1,
+  "sources": 39,
   "sentiment": {
-    "positive": 4,
+    "positive": 3,
     "neutral": 37,
     "negative": 0
   },
@@ -21,6 +21,17 @@
       "sentiment": "mixed",
       "confidence": 0.7,
       "evidence": "Zelensky Flight to Oslo, Moldova Says"
+    },
+    {
+      "id": "8ad3cd17c81309d76a6963a3377bc55c22fb4870",
+      "title": "Plane carrying Zelensky threatened by drone in Moldova, Norway’s premier says",
+      "summary": "The Ukrainian president was on his way to the funeral of Norway’s King Harald.",
+      "url": "https://www.washingtonpost.com/world/2026/09/09/plane-carrying-zelensky-threatened-by-drone-moldova-norways-premier-says/",
+      "source": "World (Washington post)",
+      "published_at": "2026-09-09T23:03:39+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Norway’s premier says"
     },
     {
       "id": "cd7433f4291bb5b91036d1086887988207f00236",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "King of Norway's health has worsened"
-    },
-    {
-      "id": "fb1b2269d70dfab0d924226ef139eaae2520324f",
-      "title": "Norway's king admitted to hospital and put on sick leave",
-      "summary": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-17T21:34:26+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Norway's king admitted to hospital"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-16T14:17:15Z"
+  "last_updated": "2026-09-17T14:21:33Z"
 }
