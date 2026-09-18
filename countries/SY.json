@@ -1,16 +1,49 @@
 {
   "country": "SY",
-  "score": 80,
+  "score": 79,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 49,
+  "trend": -1,
+  "sources": 52,
   "sentiment": {
-    "positive": 1,
-    "neutral": 21,
-    "negative": 27
+    "positive": 2,
+    "neutral": 22,
+    "negative": 28
   },
   "latest_articles": [
+    {
+      "id": "91533d028c578f4f07405770552c2ebc683f8a9d",
+      "title": "After 15 Years In Hiding, Syrian Man Breaks Wall To Recover A Lost Library",
+      "summary": "The library represents a lifetime of collecting and religious study.",
+      "url": "https://www.ndtv.com/world-news/after-15-years-in-hiding-syrian-man-breaks-wall-to-recover-a-lost-library-12063174#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-18T11:09:40+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Syrian Man Breaks Wall To Recover A Lost Library"
+    },
+    {
+      "id": "e5be5812b6d789fa0aee5050ea91a9606df4af23",
+      "title": "US court sentences ex-Syrian official who ran notorious ‘punishment wing’ to 60 years",
+      "summary": "Samir Ousman al-Sheikh, part of Bashar al-Assad’s regime, was in charge of Adra prison where prisoners were torturedThis article contains descriptions of torture.A US federal court in Los Angeles sentenced a former Syria…",
+      "url": "https://www.theguardian.com/us-news/2026/sep/17/court-sentence-ex-syrian-official",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-18T00:37:22+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "sentenced former Syrian official who ran notorious prison"
+    },
+    {
+      "id": "99aca68ee45f6b9e02e2e19eef601b39c5c30b4c",
+      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+      "summary": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
+      "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-17T05:00:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Assad regime planned US journalist's kidnap"
+    },
     {
       "id": "a02f0832748be1cb316a9316d624d9ccfa55910d",
       "title": "Latest Energy Crisis Leaves Governments With Few Good Options",
@@ -197,41 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Syrian Convicted in Austria of Civil War Abuses Is Detained in Syria"
-    },
-    {
-      "id": "4c76cad620d35c68d4be416cb60107e6ac1d57fe",
-      "title": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
-      "summary": "The former president was convicted of crimes against humanity during the country’s civil war, the first verdict since he fled to Russia in 2024.",
-      "url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-11T15:00:43+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Syria Sentences Former President al-Assad to Death"
-    },
-    {
-      "id": "da03e2acec5f0a8449f8c83c2109c7afdf3bf290",
-      "title": "Former Syrian dictator Bashar al-Assad is sentenced to death in absentia",
-      "summary": "Assad, who has been living in exile in Russia since his 2024 ouster, was sentenced for crimes against humanity and war crimes during the country's years-long civil war.",
-      "url": "https://www.washingtonpost.com/world/2026/08/11/former-syrian-dictator-bashar-al-assad-is-sentenced-death-absentia/",
-      "source": "World (Washington post)",
-      "published_at": "2026-08-11T13:39:25+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Syrian dictator Bashar al-Assad is sentenced to death in absentia"
-    },
-    {
-      "id": "6f590f0d76c58a94f72a7b6e83bf8708159c601d",
-      "title": "Syrian court sentences Bashar al-Assad to death in absentia for war crimes",
-      "summary": "Verdict relates to atrocities committed during the country’s 14-year civil war in which about 500,000 people diedA Syrian court has sentenced the country’s former president Bashar al-Assad and his brother Maher to death…",
-      "url": "https://www.theguardian.com/world/2026/aug/11/syria-bashar-al-assad-death-sentence-war-crimes",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-11T10:40:45+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Syrian court sentences Bashar al-Assad to death"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-17T14:21:33Z"
+  "last_updated": "2026-09-18T13:40:03Z"
 }
