@@ -1,16 +1,27 @@
 {
   "country": "PL",
-  "score": 84,
+  "score": 85,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 144,
+  "trend": 1,
+  "sources": 142,
   "sentiment": {
     "positive": 8,
     "neutral": 110,
-    "negative": 26
+    "negative": 24
   },
   "latest_articles": [
+    {
+      "id": "480944219ac6fc34034e26246f2d4d43aec99a07",
+      "title": "The gunzels’ grand final: Melbourne Tramaroos’ campaign derails at European TramDriver Championship",
+      "summary": "The Warsaw event saw 26 teams compete across a series of demanding tasks, inspired - to varying degrees - by tram drivers’ day-to-day tasksGet our breaking news email, free app or daily news podcastIt’s the grand final f…",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/20/the-gunzels-grand-final-melbourne-tramaroos-campaign-derails-at-european-tramdriver-championship",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-20T08:16:39+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "The Warsaw event saw 26 teams compete"
+    },
     {
       "id": "e264c125b4e8830fc06439e2c8fad5a7bddc9419",
       "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
@@ -205,19 +216,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Russian drone attack on a train close to Ukraine’s border with Poland"
-    },
-    {
-      "id": "5923a3a276c942b1718ebb7317bde86a30df4a2c",
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-14T12:18:13+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Ukrainian locomotive on the Polish border this morning"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-19T13:08:22Z"
+  "last_updated": "2026-09-20T13:46:34Z"
 }

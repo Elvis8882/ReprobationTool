@@ -1,16 +1,27 @@
 {
   "country": "GL",
-  "score": 66,
+  "score": 65,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 2,
-  "sources": 40,
+  "trend": -1,
+  "sources": 41,
   "sentiment": {
     "positive": 5,
     "neutral": 26,
-    "negative": 9
+    "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "2e619c1ffd7d69015b62f1b4fc88ca27cd5a8aed",
+      "title": "‘Nervous and Skeptical,’ Greenlanders Question the New Deal With Trump",
+      "summary": "The U.S. president’s threats to seize Greenland left its people on edge, and with details scarce, the news of an agreement didn’t seem to be putting minds at ease.",
+      "url": "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-deal.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-19T20:35:27+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "U.S. president’s threats to seize Greenland left its people on edge"
+    },
     {
       "id": "7ffe8b5c7454717b27e9b6b2b894bdddf791a2ef",
       "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "regions like Greenland, Iceland"
-    },
-    {
-      "id": "3b07a6d0d0120f887b38ddbc6545b28f9a0eca8f",
-      "title": "Perseid meteor shower set to dazzle northern hemisphere this week",
-      "summary": "Astronomers say viewing conditions promising for this year’s shower, and 50 to 100 meteors an hour may be visibleThe Perseid summer light show is back, and viewing conditions are especially promising across the northern…",
-      "url": "https://www.theguardian.com/science/2026/aug/09/perseid-meteor-shower",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-09T18:43:55+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "total solar eclipse across Spain, Iceland and Greenland"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-19T13:08:22Z"
+  "last_updated": "2026-09-20T13:46:34Z"
 }
