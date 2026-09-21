@@ -1,16 +1,27 @@
 {
   "country": "IE",
-  "score": 82,
+  "score": 100,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 154,
+  "trend": 18,
+  "sources": 149,
   "sentiment": {
     "positive": 14,
-    "neutral": 135,
-    "negative": 5
+    "neutral": 129,
+    "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "79829a1181896a089272e58e48d438c3e7a4192c",
+      "title": "Google fined more than €400m by Irish regulator over its use of location data",
+      "summary": "Watchdog says users may have been unaware their information was used to target adverts or infer their interestsGoogle has been fined more than €400m (£345m) over the way it processed users’ location data, following claim…",
+      "url": "https://www.theguardian.com/technology/2026/sep/21/google-is-fined-more-than-400m-by-irish-regulator-over-its-use-of-location-data",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-21T10:57:26+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Google fined more than €400m by Irish regulator"
+    },
     {
       "id": "ebf595db5aafcee115961e6795a671cfe55493d5",
       "title": "Dublin thought a 13th-century Norman castle had been demolished 150 years ago; a researcher has now shown its walls, courtyard and medieval features were hiding inside a university",
@@ -206,19 +217,8 @@
       "published_at": "2026-09-15T09:32:04+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "20650bd9989863c2797c077a6b446f0e7f30a382",
-      "title": "Tuesday briefing: How to understand Wales, Scotland and Northern Ireland’s joint call for change",
-      "summary": "In today’s newsletter: Plaid Cymru, the SNP and Sinn Féin have signed an agreement for greater powers, as pressure grows on Westminster over the UK’s futureGood morning. Back in May, the shape of British politics shifted…",
-      "url": "https://www.theguardian.com/world/2026/sep/15/tuesday-briefing-how-to-understand-wales-scotland-and-northern-irelands-joint-call-for-change",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-15T05:45:49+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "Ireland, Mary Lou McDonald"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-20T13:46:34Z"
+  "last_updated": "2026-09-21T15:59:50Z"
 }

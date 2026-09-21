@@ -1,16 +1,71 @@
 {
   "country": "DE",
-  "score": 32,
+  "score": 31,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 333,
   "sentiment": {
-    "positive": 29,
-    "neutral": 203,
-    "negative": 101
+    "positive": 31,
+    "neutral": 198,
+    "negative": 104
   },
   "latest_articles": [
+    {
+      "id": "de21b6709e343ed70013aa4aebc4813d6cbb3fd3",
+      "title": "Chancellor vows to stay on for Germany’s ‘democratic future’ after latest loss to far-right AfD",
+      "summary": "Merz seeks to shore up support after CDU loses two state elections and is ejected from Mecklenburg parliamentLatest German election humiliation puts Merz on borrowed time as CDU unrest growsGermany’s beleaguered leader,…",
+      "url": "https://www.theguardian.com/world/2026/sep/21/germany-chancellor-freidrich-merz-cdu-christian-democratic-union-state-election-defeats-mecklenburg-western-pomerania-berlin",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-21T15:38:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "suffered a drubbing at the polls in two state elections"
+    },
+    {
+      "id": "eeaf29f080d591fca1d832b632a61acd3b45af4b",
+      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+      "summary": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
+      "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-21T14:26:29+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "keep coalition together for Germany's 'democratic future'"
+    },
+    {
+      "id": "67f3d88b46a3e6f82438573e28f9dea23da2348f",
+      "title": "Merz's political crisis threatens Germany's obsession with stability",
+      "summary": "Political shifts in Germany are being watched closely in Europe and beyond, Katya Adler writes.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyz1n0v1xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-21T13:30:45+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "threatens Germany's obsession with stability"
+    },
+    {
+      "id": "0b553bcb5d72a594069888e658e9999f989d7acb",
+      "title": "German voters turn to left and far-right as 'disaster' for ruling CDU threatens pro-growth reforms",
+      "summary": "Another local election drubbing for the ruling CDU has increased political instability and threatens growth prospects, economists said.",
+      "url": "https://www.cnbc.com/2026/09/21/german-election-result.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-21T13:22:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Another local election drubbing for the ruling CDU"
+    },
+    {
+      "id": "247bc56827663cb8a79a331fb7f155a1d7c1b044",
+      "title": "How does the Nations League work and who is in each league? - Yahoo Sports",
+      "summary": "How does the Nations League work and who is in each league?&nbsp;&nbsp;Yahoo SportsNew promotion/relegation system for UEFA Nations League 2026/27&nbsp;&nbsp;UEFA.comItaly handed Nations League relegation reprieve as UEF…",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdFpkWGkyTWstT0E1WDQzQkU2SVJiX0J1VjI1YWdzY1JuYWRWVmk3bmtoMVVBSDl2S3dQVHN3b1V0ZXNHdU9nM2Mydkk1emlNaW95ZDF1S1YwMGxKdkpNa1A3bnVVU2ZSYkNaaGJ5S3FmWm9hdTB2MHNzVFJSVGYxRQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-09-21T09:16:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Netherlands vs Germany"
+    },
     {
       "id": "17be63b9d8396dc86326a02b9af1b1a4e6141948",
       "title": "Future of German chancellor hangs in the balance as two states go to polls",
@@ -53,6 +108,17 @@
       "published_at": "2026-09-19T10:36:18+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "2d5f65ada63329695d1f333a5a5e9184ce8eb23c",
+      "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
+      "summary": "German minister says companies are ‘exploiting situation’ in Middle East, as sky-high prices become major domestic issue for leadersEuropean governments have discussed imposing a bloc-wide windfall tax on energy companie…",
+      "url": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-19T06:46:18+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "German minister says companies are ‘exploiting situation’"
     },
     {
       "id": "98799a1ce69dbe120253011e2a4604a5cf519676",
@@ -159,70 +225,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Germany boss Jürgen Klopp expecting big things from Bayern Munich’s star"
-    },
-    {
-      "id": "d3c8f985fb924ef05d845566b01c4360455ea062",
-      "title": "Taoiseach to meet European Council President António Costa in Dublin - gov.ie",
-      "summary": "Taoiseach to meet European Council President António Costa in Dublin&nbsp;&nbsp;gov.ieSee more headlines and perspectives on Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYjBtUjhjQUpvcTd4NUJKU2VpU3ZpQzR3OC0xMHIwX3g1VHhkemJXY185QzBrUWRsTFFiWDlzaGZRajB0X2Q4SVFabXpNcG93by12SXU4S25KeEY5amNnVzFBcjZGdHJNMnZxTGpDU05TYWR0NnFCQXd6Mk13SzI5MndsYlpTaTk5N3Y0dGpHZzExYkg4R05IY19DQkk2Z0R6SVJ2R3ZlOE01cUNwZ1dYWWZBXzM2N0FfWGxTT3Z4Qlk5X3pWMVhCcXRnT3JBbURuRnZ6X1B5SHQ5elRf?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-17T06:26:25+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "5a5d882af54fe721448640f074f3f63803d6fa20",
-      "title": "‘Made in Europe’ law threatens UK plans for reset with EU",
-      "summary": "Government sources say legislation aimed at China poses a risk to British businesses and must be addressedThe UK government’s EU reset summit will be delayed again unless the bloc agrees to discuss legislation that could…",
-      "url": "https://www.theguardian.com/world/2026/sep/16/made-in-europe-laws-could-derail-uk-eu-reset-plans",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-16T19:39:28+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f8eba46a46fcb1218ec95b27063fa61bcd65b041",
-      "title": "Eight German state premiers back Merz amid speculation over future",
-      "summary": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
-      "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-16T14:50:26+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Eight German state premiers back Merz amid speculation over future"
-    },
-    {
-      "id": "3bae708d0a13f13164c42f84236e180fff3eb367",
-      "title": "European Union invites Canada to become first ever ‘associate member’",
-      "summary": "Commission president says EU must ‘urgently reimagine our partnerships’ as she makes unprecedented offerEurope live – latest updatesCanada has been invited to become the first “associate member” of the EU by the European…",
-      "url": "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-16T13:48:07+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "52224b24a0b8666014a40c5bc90752fc155d5fb1",
-      "title": "E.U. Offers to Make Canada ‘Associate Member’ as U.S. Ties Weaken for Both",
-      "summary": "Canada and the European Union have been confronting an increasingly challenging relationship with the United States under President Trump.",
-      "url": "https://www.nytimes.com/2026/09/16/world/europe/eu-canada-associate-member.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-16T11:23:13+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "15429653b8564a8500e4d6acad6caf0f78df92c0",
-      "title": "Migrants Fear Discrimination After Far Right Surge in German State",
-      "summary": "Alternative for Germany, an anti-immigrant party widely known as the AfD, could take power in the state of Saxony-Anhalt, spurring panic among its immigrant population.",
-      "url": "https://www.nytimes.com/2026/09/16/world/europe/migrants-germany-far-right-afd.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-16T09:06:09+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Far Right Surge in German State"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-20T13:46:34Z"
+  "last_updated": "2026-09-21T15:59:50Z"
 }

@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 3,
+  "sources": 4,
   "sentiment": {
     "positive": 0,
-    "neutral": 2,
+    "neutral": 3,
     "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "fe7c99efa2aec2861f200edd789f9fb46fe4079e",
+      "title": "Elaine Mokhtefi, American Witness to Algeria’s Revolution, Dies at 97",
+      "summary": "As a fixer for Algeria’s government, she befriended radicals and revolutionaries and helped the Black Panthers establish an international base in Algiers.",
+      "url": "https://www.nytimes.com/2026/09/19/world/africa/elaine-mokhtefi-dead.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-19T23:36:43+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Algeria’s government, she befriended radicals and revolutionaries"
+    },
     {
       "id": "71ec75783a5873159aee96238ccaa6b60d2e5638",
       "title": "Algeria president seeks death penalty for arsonists after deadly forest fires",
@@ -46,5 +57,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-20T13:46:34Z"
+  "last_updated": "2026-09-21T15:59:50Z"
 }

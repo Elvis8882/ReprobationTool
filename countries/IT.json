@@ -1,14 +1,14 @@
 {
   "country": "IT",
-  "score": 91,
+  "score": 90,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 2,
-  "sources": 209,
+  "trend": -1,
+  "sources": 200,
   "sentiment": {
-    "positive": 20,
-    "neutral": 167,
-    "negative": 22
+    "positive": 19,
+    "neutral": 158,
+    "negative": 23
   },
   "latest_articles": [
     {
@@ -31,6 +31,17 @@
       "published_at": "2026-09-19T10:36:18+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "2d5f65ada63329695d1f333a5a5e9184ce8eb23c",
+      "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
+      "summary": "German minister says companies are ‘exploiting situation’ in Middle East, as sky-high prices become major domestic issue for leadersEuropean governments have discussed imposing a bloc-wide windfall tax on energy companie…",
+      "url": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-19T06:46:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "elections due next year in eight EU countries"
     },
     {
       "id": "39c0b091bd98be5d4cf2b0b5c5fb1b79d18040cb",
@@ -204,19 +215,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy."
-    },
-    {
-      "id": "596462b26ab09f1e1cd8b572bce5af312994929e",
-      "title": "Emma Bonino, Italian Campaigner for Civil Rights, Dies at 78",
-      "summary": "In nearly five decades in politics, Ms. Bonino wielded outsize influence on Italian discourse, helping erode the political sway of the Catholic Church.",
-      "url": "https://www.nytimes.com/2026/09/11/world/europe/emma-bonino-italian-campaigner-dies.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-11T19:47:07+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "helping erode the political sway of the Catholic Church"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-20T13:46:34Z"
+  "last_updated": "2026-09-21T15:59:50Z"
 }

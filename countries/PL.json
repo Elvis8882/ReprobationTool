@@ -3,11 +3,11 @@
   "score": 85,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 142,
+  "trend": 0,
+  "sources": 136,
   "sentiment": {
     "positive": 8,
-    "neutral": 110,
+    "neutral": 104,
     "negative": 24
   },
   "latest_articles": [
@@ -31,6 +31,17 @@
       "published_at": "2026-09-19T10:36:18+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "2d5f65ada63329695d1f333a5a5e9184ce8eb23c",
+      "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
+      "summary": "German minister says companies are ‘exploiting situation’ in Middle East, as sky-high prices become major domestic issue for leadersEuropean governments have discussed imposing a bloc-wide windfall tax on energy companie…",
+      "url": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-19T06:46:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "elections due next year in eight EU countries"
     },
     {
       "id": "39c0b091bd98be5d4cf2b0b5c5fb1b79d18040cb",
@@ -205,19 +216,8 @@
       "sentiment": "neutral",
       "confidence": 0.4,
       "evidence": "Ukraine-Poland Border Seen as Warning"
-    },
-    {
-      "id": "76226ea09f2b1f87f6cc7057dde363e344ab9402",
-      "title": "Russian strike on passenger train will not deter Ukraine’s backers, Nato chief says",
-      "summary": "Mark Rutte says attack that narrowly missed Boris Johnson and David Petraeus shows Vladimir Putin’s desperationEurope live – latest updatesThe head of Nato has said a Russian drone attack on a train close to Ukraine’s bo…",
-      "url": "https://www.theguardian.com/world/2026/sep/14/ukraine-kallas-not-scared-russian-strike-train",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-14T14:01:43+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Russian drone attack on a train close to Ukraine’s border with Poland"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-20T13:46:34Z"
+  "last_updated": "2026-09-21T15:59:50Z"
 }
