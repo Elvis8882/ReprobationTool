@@ -1,16 +1,27 @@
 {
   "country": "BY",
-  "score": 69,
+  "score": 68,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 55,
+  "trend": -1,
+  "sources": 56,
   "sentiment": {
     "positive": 1,
     "neutral": 13,
-    "negative": 41
+    "negative": 42
   },
   "latest_articles": [
+    {
+      "id": "c12174f23d7bbc47935979208cb91b5705c36e8f",
+      "title": "Trump seeks fertilizer deal with Russia ally Belarus amid Canadian tensions",
+      "summary": "The proposed potash purchases would expand trade with a country that helped Moscow launch its invasion of Ukraine.",
+      "url": "https://www.washingtonpost.com/politics/2026/09/21/trump-seeks-fertilizer-deal-with-russia-ally-belarus-amid-canadian-tensions/",
+      "source": "World (Washington post)",
+      "published_at": "2026-09-21T20:15:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "country that helped Moscow launch its invasion of Ukraine."
+    },
     {
       "id": "9a29a25105d552b5993e8831a7270ead890c9504",
       "title": "Kulbergs and Braže meet U.S. envoy to Belarus",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Latvia broadens list of banned items from Russia and Belarus"
-    },
-    {
-      "id": "4d1035764df732753efd53fa5effc5433e26189a",
-      "title": "“Today we understand how fragile it is”: Tsikhanouskaya marks anniversary of Belarus’s restored independence - Belsat",
-      "summary": "“Today we understand how fragile it is”: Tsikhanouskaya marks anniversary of Belarus’s restored independence&nbsp;&nbsp;Belsat\"If there were no BPF, there would be no session. The communists wouldn't have gathered for it…",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWkkzaUZtT2dUNkJTNjM5UjdPY0YtXzdPZlN1VHFPSHAwNDRtVDExX21oQXlNcTJhZDYwcVdFSEx1THI1S09ybzlnZUp1LUd5cjRXZVNBeDFSMUtYZXVxWjNPbUJfMlZaa3UzSkhoMGU3VnU4VlBvMmdWdWVDVmdkWUx2RkdHTXVybWMyQXc2elhJbDNJTTcyeklJeTg5R1F5ZThyUE9kem13TWNBNklXNFhpLVRGLUQ5bjF5U1ZEdDJLb015MERJNEMzWnoxUlk?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-25T12:14:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Łukašenka sacrificed Belarus’ independence to stay in power"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-21T15:59:50Z"
+  "last_updated": "2026-09-22T14:08:09Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "DE",
-  "score": 31,
+  "score": 29,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 333,
+  "trend": -2,
+  "sources": 329,
   "sentiment": {
     "positive": 31,
-    "neutral": 198,
-    "negative": 104
+    "neutral": 192,
+    "negative": 106
   },
   "latest_articles": [
+    {
+      "id": "471f80c344d3e70a10f3d7b9995d78138ee2fcd4",
+      "title": "German Leaders Prepare to Deny Far Right Access to Secret War Plan",
+      "summary": "With the Alternative for Germany party close to power in a German state, federal officials are planning to limit the group’s access to classified intelligence.",
+      "url": "https://www.nytimes.com/2026/09/22/world/europe/germany-afd-secrets-restriction.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-22T04:00:10+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Deny Far Right Access to Secret War Plan"
+    },
     {
       "id": "de21b6709e343ed70013aa4aebc4813d6cbb3fd3",
       "title": "Chancellor vows to stay on for Germany’s ‘democratic future’ after latest loss to far-right AfD",
@@ -21,6 +32,16 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "suffered a drubbing at the polls in two state elections"
+    },
+    {
+      "id": "d6c72cbd39aaf660c8954401e3de02c161bc6a2f",
+      "title": "On a Dot of France Off Canada, Carney and Macron Talk Partnership",
+      "summary": "Prime Minister Mark Carney of Canada and President Emmanuel Macron of France met just after the European Union invited Canada to become its first “associate member.”",
+      "url": "https://www.nytimes.com/2026/09/20/world/canada/carney-macron-saint-pierre-miquelon-canada-eu.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-21T14:47:07+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "eeaf29f080d591fca1d832b632a61acd3b45af4b",
@@ -56,6 +77,28 @@
       "evidence": "Another local election drubbing for the ruling CDU"
     },
     {
+      "id": "bec5431c5bb9b53d44d98ea12fd1338a9dc4d5a8",
+      "title": "German voters turn to left and far-right as 'disaster' for ruling CDU threatens pro-growth reforms - cnbc.com",
+      "summary": "German voters turn to left and far-right as 'disaster' for ruling CDU threatens pro-growth reforms&nbsp;&nbsp;cnbc.comGerman Chancellor Merz calls state election a 'disaster' for his party but vows to stay on&nbsp;&nbsp;…",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55ZzUxTXZjLVVxRjFBeTE4SDJOUzk4TEQ3cHJ6RlNkMzlYMzRnZmJJSFJQZXo1MG5XZF9XNTZQRDJzRktqZS0zRE8wemdIRWdBcEllQkQ0TW1iRk5tY3hSck5OUWtFTS1VUWR30gFwQVVfeXFMT3FrOTlCZUxGR3FxTGgwM0pCT21fYjYyUmVWQUcwLTZ4YkxNb3JMWWNiWU40Wl9kU3ZlYjlPRWx3c3JURlNuejNuQ0ZYRHV0SFFIUGN1aGpJNmtVWjdvRWRqejJKdnZZN01iTFUxc1o1dg?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-09-21T12:46:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "voters turn to left and far-right as 'disaster' for ruling CDU threatens"
+    },
+    {
+      "id": "7609a51130d0b028231d1018a500555e224fb616",
+      "title": "Latest German election humiliation puts Merz on borrowed time as CDU unrest grows",
+      "summary": "Chancellor acknowledges disastrous state election results but vow to push on is likely to further alienate voters, and his own partyGerman chancellor clinging to power after another loss to far-right AfDFriedrich Merz ca…",
+      "url": "https://www.theguardian.com/world/2026/sep/21/german-state-election-humiliation-friedrich-merz-borrowed-time-cdu-unrest-grows",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-21T10:04:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "another loss to far-right AfD"
+    },
+    {
       "id": "247bc56827663cb8a79a331fb7f155a1d7c1b044",
       "title": "How does the Nations League work and who is in each league? - Yahoo Sports",
       "summary": "How does the Nations League work and who is in each league?&nbsp;&nbsp;Yahoo SportsNew promotion/relegation system for UEFA Nations League 2026/27&nbsp;&nbsp;UEFA.comItaly handed Nations League relegation reprieve as UEF…",
@@ -65,6 +108,27 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Netherlands vs Germany"
+    },
+    {
+      "id": "dcadafec03ae9b2d2dcc66d096b269b41b54c822",
+      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+      "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
+      "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-21T04:00:38+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "1a80e1f1ead80e14ed290d53c805bc2ab8e063ab",
+      "title": "Germans Are Voting Again, Amid a Far-Right Surge. Here’s What to Watch.",
+      "summary": "Elections in eastern Germany on Sunday could galvanize the Alternative for Germany, an ascendant far-right party, or spur a backlash.",
+      "url": "https://www.nytimes.com/2026/09/20/world/europe/germany-afd-elections-berlin-mecklenburg.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-20T04:01:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Amid a Far-Right Surge"
     },
     {
       "id": "17be63b9d8396dc86326a02b9af1b1a4e6141948",
@@ -162,71 +226,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Germany U-21 squad will have some familiar talent"
-    },
-    {
-      "id": "e346151d00f1c50dea5edb8301197db2457b4942",
-      "title": "EU Commission proposes €489m storm recovery aid for four member states - INSIGHT EU MONITORING",
-      "summary": "EU Commission proposes €489m storm recovery aid for four member states&nbsp;&nbsp;INSIGHT EU MONITORINGCommission proposes €489 million to help Portugal, Spain, Italy and Malta recover from severe storms&nbsp;&nbsp;The E…",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSVNYc1p6OGl5dmliQ2d6bkQ0RHdBd1NVdThva3dzMEQxc2FVNkR2d1hObHpXbUJOMEM2M0RxWkl6ZHR4Y3lhZS15N1cyWV9qZ3lUSlkxbnVKSkx3LWpQckhadlpTUVVNdVlqNi15eGxXaDJzNDJKZ3otNEZLQWZFWmpoUk5yaHNUUllyZjlDTk54SXI5NXdFdE9OS0d4b240ZlNLY3luUVlxMGZVSmx5U2c3SVNDTUhLNmxhaFR5WjdIYldZa1dRdnljV0lzTWh5VENN?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-17T19:24:21+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "6f8665e841a0b35c250a3a7a05557c1f2cced10f",
-      "title": "Taking on Trump: Canada and EU forge closer ties – The Latest",
-      "summary": "Canadian prime minister, Mark Carney, has welcomed the EU’s proposal for Canada to become the bloc’s first ‘associate member’, despite threats from Donald Trump over the plan. The US president said Washington could impos…",
-      "url": "https://www.theguardian.com/news/audio/2026/sep/17/taking-on-trump-canada-and-eu-forge-closer-ties-the-latest",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-17T18:22:14+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "d61e2b5182af5a8bd4bb5de9a1c6ebeeb71aa48a",
-      "title": "Is Canada about to join the EU?",
-      "summary": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
-      "url": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-17T16:18:35+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "552547a8679fc20c090beabfb2c56fc0fe86e887",
-      "title": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
-      "summary": "Although Mark Carney welcomed offer to become bloc’s first associate member, no one seems to know what that meansEurope live – latest updatesMark Carney received a rapturous reception in the European parliament when he g…",
-      "url": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-17T15:46:15+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "said the German Green MEP Terry Reintke"
-    },
-    {
-      "id": "3c6698541a6ef7871b41d3b7581100bc26b6a4c5",
-      "title": "Klopp wants to 'reclaim' flag amid German elections",
-      "summary": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-17T13:02:40+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Klopp wants to 'reclaim' flag amid German elections"
-    },
-    {
-      "id": "a6610340b93d5322af8b44a551e0d40131eed60c",
-      "title": "Germany boss Jürgen Klopp expecting big things from Bayern Munich’s ‘cheeky’, ‘powerhouse’ star Lennart Karl - Yahoo Sports",
-      "summary": "Germany boss Jürgen Klopp expecting big things from Bayern Munich’s ‘cheeky’, ‘powerhouse’ star Lennart Karl&nbsp;&nbsp;Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QWndzeU5MR1Vpdl9IQmxjTnpoMGFfSXJBVDdObmNVa25ISVJ2VTQ5OEV5N0U2SlBDUE83dUhsNUFTQTdXVTFjOVJuUlRtbUk4X21MMUxuZkdHOW0tblBUdzE5c1RBZjFJclIzdzBhSWh5VnVxaS11UmJUSUgxODg?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-17T11:00:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Germany boss Jürgen Klopp expecting big things from Bayern Munich’s star"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-21T15:59:50Z"
+  "last_updated": "2026-09-22T14:08:09Z"
 }
