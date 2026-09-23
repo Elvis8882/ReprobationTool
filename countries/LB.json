@@ -1,16 +1,27 @@
 {
   "country": "LB",
-  "score": 77,
-  "score_label": "Negative",
-  "assessment": "High negative coverage",
-  "trend": 1,
-  "sources": 70,
+  "score": 79,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": 2,
+  "sources": 69,
   "sentiment": {
     "positive": 6,
-    "neutral": 29,
-    "negative": 35
+    "neutral": 30,
+    "negative": 33
   },
   "latest_articles": [
+    {
+      "id": "7a1bb6a304bf0c3e019ac50222ae0b900728b6f9",
+      "title": "Why a Law to Help Prisoners Became a New Sectarian Flashpoint in Lebanon",
+      "summary": "An amnesty measure was supposed to ease prison overcrowding and pressure on the judiciary. Instead, it highlighted the country’s divides.",
+      "url": "https://www.nytimes.com/2026/09/21/world/middleeast/lebanon-amnesty-law-aoun.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-21T08:45:56+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Sectarian Flashpoint in Lebanon"
+    },
     {
       "id": "ec022e13389d0d30466a686c020bd9fb5af6f46c",
       "title": "‘It’s how Jean does business’: fugitive developer left Jeremy Greenwood ‘high and dry’, Icac hears",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Oil Swings With Lebanon Tensions"
-    },
-    {
-      "id": "8890d3817dfdc24c5d276c5de47a0384ff82ad95",
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-15T20:21:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Eleven killed in Israeli strikes on southern Lebanon"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-22T14:08:09Z"
+  "last_updated": "2026-09-23T14:20:09Z"
 }

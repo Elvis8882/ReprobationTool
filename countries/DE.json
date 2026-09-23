@@ -1,16 +1,38 @@
 {
   "country": "DE",
-  "score": 29,
+  "score": 26,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -2,
+  "trend": -3,
   "sources": 329,
   "sentiment": {
-    "positive": 31,
-    "neutral": 192,
-    "negative": 106
+    "positive": 30,
+    "neutral": 191,
+    "negative": 108
   },
   "latest_articles": [
+    {
+      "id": "9485c85461bdf6cef590e2d8e0e29d48796d5a58",
+      "title": "Why Germany’s Leader Merz Is Struggling to Sway Voters",
+      "summary": "As the far right surges, Chancellor Friedrich Merz’s unpopular economic policies and gruff manner have failed to sway voters turned by rivals’ promises of easy fixes.",
+      "url": "https://www.nytimes.com/2026/09/23/world/europe/germany-merz-afd-economy.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-23T09:02:24+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "As the far right surges"
+    },
+    {
+      "id": "63f5e3fba4c9dd993478ddc6f119781459af2c68",
+      "title": "Victories by far left and far right show Germans sick of politics as usual",
+      "summary": "In a striking show of antiestablishment voter sentiment, the Left won in Berlin on the same night that the far-right Alternative for Germany won in Mecklenburg-West Pomerania.",
+      "url": "https://www.washingtonpost.com/world/2026/09/22/victories-by-far-left-far-right-show-germans-sick-politics-usual/",
+      "source": "World (Washington post)",
+      "published_at": "2026-09-22T19:34:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Victories by far left and far right"
+    },
     {
       "id": "471f80c344d3e70a10f3d7b9995d78138ee2fcd4",
       "title": "German Leaders Prepare to Deny Far Right Access to Secret War Plan",
@@ -32,6 +54,17 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "suffered a drubbing at the polls in two state elections"
+    },
+    {
+      "id": "ab93d16ddbaac1edd8593574d0a8bc1b3146b0c1",
+      "title": "Germany’s Merz ‘grateful’ centre-left SPD wants to stay in coalition after CDU’s heavy losses – as it happened",
+      "summary": "CDU suffered heavy losses in two regional elections, including in home state of former leader Angela Merkel, where it polled just 4.9%Staying in Germany, tens of thousands of automotive workers at Volkswagen, BMW, Merced…",
+      "url": "https://www.theguardian.com/world/live/2026/sep/21/merz-german-chancellor-state-elections-russia-ukraine-europe-live-latest-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-21T15:02:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "German car industry into crisis"
     },
     {
       "id": "d6c72cbd39aaf660c8954401e3de02c161bc6a2f",
@@ -120,6 +153,28 @@
       "sentiment_fallback": true
     },
     {
+      "id": "09d92e32316daa02dee91c7b24b0d750dba99fdd",
+      "title": "Afghan man arrested over suspected synagogue arson attempt in Germany ahead of holiest Jewish day",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/europe/afghan-man-arrested-over-suspected-synagogue-arson-attempt-in-germany-ahead-of-holiest-jewish-day/articleshow/134366910.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-09-20T10:42:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "suspected synagogue arson attempt in Germany"
+    },
+    {
+      "id": "07d55433e254a6dda803da9ad4d3e83ae360f9f8",
+      "title": "German elections under way which could decide fate of Chancellor Merz",
+      "summary": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
+      "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-20T07:57:32+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "German elections under way"
+    },
+    {
       "id": "1a80e1f1ead80e14ed290d53c805bc2ab8e063ab",
       "title": "Germans Are Voting Again, Amid a Far-Right Surge. Here’s What to Watch.",
       "summary": "Elections in eastern Germany on Sunday could galvanize the Alternative for Germany, an ascendant far-right party, or spur a backlash.",
@@ -172,62 +227,8 @@
       "published_at": "2026-09-19T10:36:18+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "2d5f65ada63329695d1f333a5a5e9184ce8eb23c",
-      "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
-      "summary": "German minister says companies are ‘exploiting situation’ in Middle East, as sky-high prices become major domestic issue for leadersEuropean governments have discussed imposing a bloc-wide windfall tax on energy companie…",
-      "url": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-19T06:46:18+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "German minister says companies are ‘exploiting situation’"
-    },
-    {
-      "id": "98799a1ce69dbe120253011e2a4604a5cf519676",
-      "title": "Swedish teenager jailed for attempted murder, rape and assault committed online, with victims in Germany and Australia",
-      "summary": "Eighteen-year-old known as Chai was active in networks notorious for their sadistic exploitation of young peopleA Swedish teenager known as Chai has been sentenced to more than 10 years in jail for attempted murder, rape…",
-      "url": "https://www.theguardian.com/technology/2026/sep/19/swedish-teenager-jailed-cybercrime-attempted-murder-rape-germany-australia-ntwnfb",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-18T15:00:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "victims in Germany"
-    },
-    {
-      "id": "6a9d4cbe36a7652d884a1c7f6d31d4e6e4ad6365",
-      "title": "German Art Institutions Prepare for a Fight as Far Right Looks to Take Power",
-      "summary": "As the Alternative for Germany party seeks to control a state government for the first time, its push for “patriotic” art has drawn comparisons with Nazi policies.",
-      "url": "https://www.nytimes.com/2026/09/18/world/europe/germany-afd-bauhaus-culture.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-18T11:51:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Far Right Looks to Take Power"
-    },
-    {
-      "id": "39c0b091bd98be5d4cf2b0b5c5fb1b79d18040cb",
-      "title": "Finland, Slovenia post biggest construction output growth in EU in July - SeeNews",
-      "summary": "Finland, Slovenia post biggest construction output growth in EU in July&nbsp;&nbsp;SeeNewsEurozone construction output stable in July&nbsp;&nbsp;Breakingthenews.netEuro area services production falls in June as Cyprus re…",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeU9Cd2FrY2dWVm5MRmk4OFdUeVQxZkNzelJMbnM4eFhDMVgzUjB4d05vSkhSX3luUk1NcmF6MUV3bEEzbVpNRlJMRG9WeGNqVk1QUnN1X3R4LVhZRy1IMzRWeTNOSjRjd05WYmVHeVFNMzUycWJEcVZvbWxEQUQybWY1QWdaZk9EY3FkLTNVTVlQU3oybmRXTUtPZUM5RTJjbDJBZkZn?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-18T11:03:04+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "a2710829440797893afadcbaf8e96a59afe4a97b",
-      "title": "Germany U-21 squad will have some familiar talent - Yahoo Sports",
-      "summary": "Germany U-21 squad will have some familiar talent&nbsp;&nbsp;Yahoo SportsSee more headlines and perspectives on Google News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNenBSTi0zZG5OMVc0ekdMRmt5R1ZDMHlGYTBCdmx2M1daMXlIc3NWNEFoc0JVc1I1WFB3RnpoaHB0cU1oalcxNmI5bTZCSzJGMDRyZGFKbDlNU2RyOTZXdDhlQVZNTnU4Nk9pQ2c0SWtzajRNNGhnNDJyWmpvZ1JzNWZn?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-18T02:52:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Germany U-21 squad will have some familiar talent"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-22T14:08:09Z"
+  "last_updated": "2026-09-23T14:20:09Z"
 }

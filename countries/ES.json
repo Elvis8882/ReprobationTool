@@ -1,16 +1,27 @@
 {
   "country": "ES",
-  "score": 47,
+  "score": 48,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 346,
+  "trend": 1,
+  "sources": 341,
   "sentiment": {
     "positive": 20,
-    "neutral": 246,
-    "negative": 83
+    "neutral": 242,
+    "negative": 82
   },
   "latest_articles": [
+    {
+      "id": "a61ab9356fd44be73b785901601e40d5c8dcd9b4",
+      "title": "Police use teargas on protesters as disabled woman, 87, evicted from Madrid home",
+      "summary": "Housing rights campaigners decry landlord’s ‘barbaric behaviour’ after apartment Maricarmen had lived in for 71 years was bought by a developerThere were violent scenes in Madrid on Wednesday as riot police fought with p…",
+      "url": "https://www.theguardian.com/world/2026/sep/23/madrid-police-teargas-protesters-disabled-woman-evicted",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-23T12:00:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Police use teargas on protesters as disabled woman, 87, evicted"
+    },
     {
       "id": "d6c72cbd39aaf660c8954401e3de02c161bc6a2f",
       "title": "On a Dot of France Off Canada, Carney and Macron Talk Partnership",
@@ -209,19 +220,8 @@
       "published_at": "2026-09-16T13:48:07+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "03fd293485a9b37a3d1340afdfee08a71645e3b3",
-      "title": "Former Manchester City star praises rival boss around Spain move - Yahoo Sports",
-      "summary": "Former Manchester City star praises rival boss around Spain move&nbsp;&nbsp;Yahoo SportsRodri called José Mourinho after turning down Real Madrid for rivals Barcelona&nbsp;&nbsp;ESPNRodri Reveals Five Damning Reasons for…",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPckNGTUlzekd5d0YyX2dGUmFOdWVFNjZqRmtlMFJZd1l1MG55dTVBeTBjNU9zRHpGUkM0SVFIZlJfWG93cUVZdGlYTkZBbkRNNWQxUDEyQ0o0QWRkRWtVZUlJZGw3d0NYZDJXMXcyLTJWNlZveGZmRlp6TENWN3dRY0RNVXVUSUZ0alhrVQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-16T11:50:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Rodri called José Mourinho after turning down Real Madrid for rivals Barcelona"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-22T14:08:09Z"
+  "last_updated": "2026-09-23T14:20:09Z"
 }

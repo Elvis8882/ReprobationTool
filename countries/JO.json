@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 53,
+  "sources": 54,
   "sentiment": {
-    "positive": 1,
+    "positive": 2,
     "neutral": 13,
     "negative": 39
   },
   "latest_articles": [
+    {
+      "id": "89795657e006f7c4000092fa373a71f9020456ec",
+      "title": "Jordan’s King Abdullah Likely to Focus on Palestinians at U.N. General Assembly",
+      "summary": "The Jordanian monarch will most likely base his speech on the expansion of illegal Israeli settlements in the West Bank and other Palestinian issues.",
+      "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/king-abdullah-jordan-gaza-unga",
+      "source": "NYT > World News",
+      "published_at": "2026-09-22T11:54:32+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Jordan’s King Abdullah Likely to Focus on Palestinians"
+    },
     {
       "id": "b4a09d2fc6c49d0c64d1a995fb3b8a12b075b382",
       "title": "Several US Warplanes Damaged In Iranian Strike On Jordan: Report",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "attacks on Iraq, Jordan and Egypt threatened to expand the scope of the war"
-    },
-    {
-      "id": "1df098510da4ed8bf0f7672500d33c18e61fa903",
-      "title": "Saudi Arabia joins U.S. military strikes on Iranian proxies",
-      "summary": "The rare joint operation in Iraq underscores the risk that the Iran conflict could expand. It came after Iran fired missiles at a US. base in Jordan.",
-      "url": "https://www.washingtonpost.com/national-security/2026/07/28/us-says-it-shot-down-iranian-missiles-targeting-troops-middle-east/",
-      "source": "World (Washington post)",
-      "published_at": "2026-07-29T10:07:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Iran fired missiles at a US. base in Jordan"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-22T14:08:09Z"
+  "last_updated": "2026-09-23T14:20:09Z"
 }
