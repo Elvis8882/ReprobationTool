@@ -3,14 +3,25 @@
   "score": 28,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -1,
-  "sources": 214,
+  "trend": 0,
+  "sources": 215,
   "sentiment": {
     "positive": 18,
     "neutral": 85,
-    "negative": 111
+    "negative": 112
   },
   "latest_articles": [
+    {
+      "id": "db64db80922a830efc94620c4a3bde3b64f76bbb",
+      "title": "Saudi Arabia Downs Houthi Missiles Targeting Kingdom, Officials Say",
+      "summary": "The Iran-backed militia in Yemen fired six ballistic missiles at cities deep in Saudi Arabia, the authorities said, in what appeared to be a sharp escalation in fighting between the two sides.",
+      "url": "https://www.nytimes.com/2026/09/24/world/middleeast/saudi-arabia-houthi-missile-attack-yemen-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-24T13:51:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Saudi Arabia Downs Houthi Missiles Targeting Kingdom"
+    },
     {
       "id": "dcea437846ac76cf049e3a17f2412eee14791d25",
       "title": "Yemen government forces claim control of Mount Qarfan in Taiz - Al Jazeera",
@@ -32,6 +43,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Saudi-backed government forces"
+    },
+    {
+      "id": "147ec0dad904d552899324e8cf9642a0c4618efd",
+      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+      "summary": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-22T13:39:09+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Houthi attacks on Saudi Arabia"
     },
     {
       "id": "39d094084a16c38e520edc0da009bb9bec30884a",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Saudi Capital Riyadh Issues 1st Air Raid Alert Since Fresh Fighting"
-    },
-    {
-      "id": "0dbae9feb4aff3dc657c0b21bc307fc0de21fbf0",
-      "title": "Saudi Arabia Crude Output Hits 30-Year Low As Non-Gulf Producers Step Up",
-      "summary": "Six months into the conflict, oil production and exports from the Gulf remain heavily constrained.",
-      "url": "https://www.ndtv.com/world-news/us-iran-war-saudi-arabia-crude-output-hits-30-year-low-as-non-gulf-producers-step-up-12068646#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-19T11:03:48+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Saudi Arabia Crude Output Hits 30-Year Low"
-    },
-    {
-      "id": "f55c26890865e8136f176b718cb7b9a3392914ee",
-      "title": "As attacks choke off Saudi oil, kingdom confronts limits of Trump’s friendship",
-      "summary": "Riyadh is paying a steep price for the Iran war. Help from Washington remains circumscribed.",
-      "url": "https://www.washingtonpost.com/world/2026/09/19/attacks-choke-off-saudi-oil-kingdom-confronts-limits-trumps-friendship/",
-      "source": "World (Washington post)",
-      "published_at": "2026-09-19T10:09:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "attacks choke off Saudi oil"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-23T14:20:09Z"
+  "last_updated": "2026-09-24T14:17:55Z"
 }

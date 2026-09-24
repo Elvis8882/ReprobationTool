@@ -3,14 +3,25 @@
   "score": 59,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -4,
-  "sources": 44,
+  "trend": 0,
+  "sources": 46,
   "sentiment": {
     "positive": 1,
-    "neutral": 39,
+    "neutral": 41,
     "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "c58fb0f4ce6dc8b3551736cdefe9bdad00e8f7d6",
+      "title": "Switzerland is keeping rates at 0% — for now",
+      "summary": "The Swiss National Bank held rates at 0% as low inflation and a strong franc enable it to diverge from other central banks, though markets expect hikes ahead.",
+      "url": "https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-24T11:34:56+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "diverge from other central banks, though markets expect hikes"
+    },
     {
       "id": "bf2e07dd4c5acd42d0b204f28ff58ff089600113",
       "title": "Trump addresses UN with mixture of boasts, threats and jibes | First Thing",
@@ -65,6 +76,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Swiss sportswear maker forays into soccer"
+    },
+    {
+      "id": "cb04f3b98ea4a8434025c454bc751b2479622af4",
+      "title": "'Rape, Shocks To Genitals': UN On Sexual Violence Horrors In Russia-Ukraine War",
+      "summary": "Russia's permanent diplomatic mission in Geneva declined to comment on the report.",
+      "url": "https://www.ndtv.com/world-news/rape-shocks-to-genitals-un-on-sexual-violence-horrors-in-russia-ukraine-war-12075672#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-21T09:24:52+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Russia's permanent diplomatic mission in Geneva"
     },
     {
       "id": "2a5518e0e2498c160d95ad426390f34c03952791",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "shooting at rave"
-    },
-    {
-      "id": "49408c9e196019ce7fa35285eba65eefcfcf2bf6",
-      "title": "Hunt Underway After Deadly Shooting at Swiss Rave",
-      "summary": "One reveler was killed and five were injured early Sunday at a dance party at a horseracing track in Switzerland’s north.",
-      "url": "https://www.nytimes.com/2026/08/30/world/europe/switzerland-rave-shooting.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-30T17:59:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Deadly Shooting at Swiss Rave"
-    },
-    {
-      "id": "868f6bb6e2a977d4c1f9c930db949ae202f268d5",
-      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-      "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
-      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-30T12:44:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "shooting at Swiss rave kills woman"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-23T14:20:09Z"
+  "last_updated": "2026-09-24T14:17:55Z"
 }

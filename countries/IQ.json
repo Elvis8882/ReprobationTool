@@ -3,14 +3,25 @@
   "score": 79,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 1,
-  "sources": 57,
+  "trend": 0,
+  "sources": 58,
   "sentiment": {
     "positive": 5,
-    "neutral": 20,
+    "neutral": 21,
     "negative": 32
   },
   "latest_articles": [
+    {
+      "id": "327853d76072bd71bc490e4cc757327173b4ecf5",
+      "title": "Iran Airlines Cancel International Flights As US Tightens Sanctions",
+      "summary": "A travel agent in Tehran told AFP that flights to Baghdad, Muscat and Qatar were also halted.",
+      "url": "https://www.ndtv.com/world-news/iran-airlines-cancels-international-flights-as-us-tightens-sanctions-on-tehran-aviation-sector-12090085#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-24T09:32:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "flights to Baghdad... halted"
+    },
     {
       "id": "7db99f7efc644f200dc453c9491903ea95c05cb2",
       "title": "How Sept. 11 Paved the Way to Mideast Power for Iran",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Iraqi Militias Risks Drawing Them into War"
-    },
-    {
-      "id": "3e12b1ad0da79cecd0b52ad82b35f03bb3a15576",
-      "title": "New Strikes Engulf More Countries in the Iran War",
-      "summary": "The U.S. unleashed new strikes on Iran after a day in which attacks on Iraq, Jordan and Egypt threatened to expand the scope of the war.",
-      "url": "https://www.nytimes.com/2026/07/29/world/middleeast/iran-war-us-jordan-saudi-iraq.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-30T01:34:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "attacks on Iraq, Jordan and Egypt threatened to expand the scope of the war"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-23T14:20:09Z"
+  "last_updated": "2026-09-24T14:17:55Z"
 }
