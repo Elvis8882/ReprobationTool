@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 84,
+  "score": 83,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 110,
+  "trend": -1,
+  "sources": 111,
   "sentiment": {
     "positive": 9,
     "neutral": 76,
-    "negative": 25
+    "negative": 26
   },
   "latest_articles": [
+    {
+      "id": "dff1e34fb21d284fd029d83965feaa5772dd9339",
+      "title": "Netanyahu Brings A Pager To UN In Hopes Of Cheers, Gets Jeers Instead",
+      "summary": "Netanyahu accused Turkey of backing Iran-backed Islamist group Hamas",
+      "url": "https://www.ndtv.com/world-news/remember-beepers-netanyahu-brings-pager-to-un-for-hezbollah-reminder-12095410#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-25T04:45:31+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Netanyahu accused Turkey of backing Iran-backed Islamist group Hamas"
+    },
     {
       "id": "ea81ecac4bfad4130541f83a44e58993f9561404",
       "title": "Shooting Near High School in Turkey Injures 11",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Turkey and Israel Vie for Middle East Influence"
-    },
-    {
-      "id": "de20a447217a94c2de80b761f949e9328b32a3b5",
-      "title": "European rights court orders Turkey to free imprisoned businessman",
-      "summary": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
-      "url": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-25T15:58:20+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "European rights court orders Turkey to free imprisoned businessman"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-24T14:17:55Z"
+  "last_updated": "2026-09-25T14:44:35Z"
 }

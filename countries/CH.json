@@ -1,16 +1,27 @@
 {
   "country": "CH",
-  "score": 59,
+  "score": 69,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 46,
+  "trend": 10,
+  "sources": 44,
   "sentiment": {
     "positive": 1,
-    "neutral": 41,
-    "negative": 4
+    "neutral": 42,
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "aea272cade748332822dcd2e903afc77f8048581",
+      "title": "Air India Pilot Found Drunk Shortly Before Zurich-Delhi Flight, Suspended",
+      "summary": "He was found drunk before the Zurich-Delhi flight on September 6 (File)",
+      "url": "https://www.ndtv.com/india-news/air-india-pilot-fails-alcohol-test-before-zurich-delhi-flight-suspended-12096297#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-25T08:21:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Zurich-Delhi Flight"
+    },
     {
       "id": "c58fb0f4ce6dc8b3551736cdefe9bdad00e8f7d6",
       "title": "Switzerland is keeping rates at 0% — for now",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Man arrested after Swiss rave shooting that killed woman"
-    },
-    {
-      "id": "c73c53694b1d17d6089194985921578577bd803d",
-      "title": "Swiss man arrested after one killed in shooting at rave, police say - Euronews.com",
-      "summary": "Swiss man arrested after one killed in shooting at rave, police say&nbsp;&nbsp;Euronews.comMan arrested after Swiss rave shooting that killed woman&nbsp;&nbsp;BBCPolice in Switzerland make arrest after deadly rave shooti…",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQWtBOGtwMnRhdGdERVlQczJOTzlqR0RIOF9iQ2VobGt0VnZiUldCOHJuemFadXNiMVpqaU9jNGlEMXk3M3FhUnM0STRQZGh0X0xsRzFYUVpLdTBaYTRFS0lxQ2FCc0NRQXJKNGVJeGJhX0pVTk9fclFhUkppaDJ0T1BaVDRabkt0VGp3d0ZDUkkxT2F6M3hZOEJ5S2c4YXBDZGRHRENsQzZ4b1FVTGV3Wm1oYkZmX3NnQWNlM2dCbmw2M2xSc2c?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-31T12:47:20+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "shooting at rave"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-24T14:17:55Z"
+  "last_updated": "2026-09-25T14:44:35Z"
 }

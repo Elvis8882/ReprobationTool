@@ -4,13 +4,57 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 606,
+  "sources": 608,
   "sentiment": {
-    "positive": 242,
+    "positive": 240,
     "neutral": 108,
-    "negative": 257
+    "negative": 261
   },
   "latest_articles": [
+    {
+      "id": "478d8544bf6c1be88d51361759a993173a5db82b",
+      "title": "Stuck on the Battlefield, Russia Wages ‘Total War’ on Ukraine’s Economy",
+      "summary": "The economic damage from Russian strikes, resulting in lost sales, disrupted workdays and logistical snarls, is in the billions of dollars.",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/ukraine-russia-economy.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-25T09:02:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "The economic damage from Russian strikes, resulting in lost sales, disrupted workdays"
+    },
+    {
+      "id": "f3a52a254e3f223d575730b38db008f6dfb65313",
+      "title": "Russian Attacks Destroy Millions of Books, the Heart of Ukrainian Culture",
+      "summary": "A publisher whose warehouse was hit twice said Moscow “thinks that books are more dangerous for them than military equipment.”",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/russia-ukraine-books-attacks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-25T09:01:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russian Attacks Destroy Millions of Books, the Heart of Ukrainian Culture"
+    },
+    {
+      "id": "4dc5a0817b68c3746409295249850de07c8853c4",
+      "title": "Ukraine weighs legalizing pornography to raise tax revenue and buy drones",
+      "summary": "Decriminalizing porn would help close a huge budget gap but is a fraught step in a nation long stained by a reputation for exploiting its women.",
+      "url": "https://www.washingtonpost.com/world/2026/09/25/ukraine-weighs-legalizing-pornography-raise-taxes-buy-more-drones/",
+      "source": "World (Washington post)",
+      "published_at": "2026-09-25T09:00:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "raise tax revenue and buy drones... help close a huge budget gap"
+    },
+    {
+      "id": "663e4ff02e8c23f9ce2c3a34cc8e97103e0ae459",
+      "title": "Schoolchildren Take Shelter in Kyiv",
+      "summary": "Our Ukraine correspondent Siobhán O’Grady visits a school in Kyiv where air raid sirens interrupt classes all day and children must take shelter.",
+      "url": "https://www.nytimes.com/video/world/europe/100000011139361/schoolchildren-take-shelter-in-kyiv.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-24T17:47:39+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Schoolchildren Take Shelter in Kyiv"
+    },
     {
       "id": "df918b19d7b7e5b60d03904f9b3e88565f761d22",
       "title": "Border controls on grain shipments to be introduced in Latvia",
@@ -45,6 +89,28 @@
       "evidence": "for its war in Ukraine"
     },
     {
+      "id": "b2d945798ff93286f3638c1a236e69fccbf03bf8",
+      "title": "S Jaishankar 'Reiterates India's Concerns' To Rubio Over Russia Sanction Bill",
+      "summary": "After Russia invaded Ukraine, India sharply increased purchases of discounted Russian crude.",
+      "url": "https://www.ndtv.com/world-news/s-jaishankar-reiterates-indias-concerns-to-marco-rubio-over-russia-sanction-bill-trump-12090207#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-09-24T06:03:14+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia invaded Ukraine"
+    },
+    {
+      "id": "fee0261949c119001f32678aafef9717d55690fd",
+      "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
+      "summary": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
+      "url": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-23T23:58:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\"."
+    },
+    {
       "id": "2d5d62a38b69f41b28e173c9f2a506deae13242a",
       "title": "Zelensky Warns Russia’s War Will Expand if It Is Not Ended Soon",
       "summary": "The Ukrainian president called for measures to disrupt “Russia’s finances and Russia’s production” before another deadly winter of war.",
@@ -54,6 +120,17 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "Zelensky Warns Russia’s War"
+    },
+    {
+      "id": "65ee7dec04ac9d01c446d715fcb05998ee530069",
+      "title": "Trump invites Putin to this year’s G-20 summit in Florida",
+      "summary": "Planning for the December gathering in Miami comes as security experts warn that escalations between Ukraine and Russia risk deepening the war.",
+      "url": "https://www.washingtonpost.com/national-security/2026/09/23/trump-invites-putin-this-years-g-20-summit-florida/",
+      "source": "World (Washington post)",
+      "published_at": "2026-09-23T19:47:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "escalations between Ukraine and Russia risk deepening the war"
     },
     {
       "id": "99d0ea9e8ac3bd45fff9adf1acaf9c61518d0f7f",
@@ -111,6 +188,17 @@
       "evidence": "Ukraine ready for ‘energy ceasefire,’ calls for trilateral meeting"
     },
     {
+      "id": "b227d2e508da05247a37e2e71ecb81e49a5a0a5a",
+      "title": "AI drone maker hits $6.4 billion valuation as Ukraine war spurs defense tech",
+      "summary": "Tekever is one of a number of European defense tech startups raising sizable rounds amid a rearmament campaign from countries in the region.",
+      "url": "https://www.cnbc.com/2026/09/23/ai-drone-maker-ukraine-war-defense-tech.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-23T09:47:31+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine war spurs defense tech"
+    },
+    {
       "id": "4ea15f6bdd3ecee18005c7722b5a84d7fbad9024",
       "title": "Andy Burnham, U.K.’s New Prime Minister, Prepares for U.N. Spotlight",
       "summary": "Andy Burnham appears likely to promote support for Ukraine and hold to tough lines on Israel and the war on Iran.",
@@ -142,96 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Kyiv said the move sent Moscow the wrong signals."
-    },
-    {
-      "id": "0acb7df6f8df4c26c73b13d99a74491ce00393c4",
-      "title": "EU removes two oligarchs from Russia sanctions list as deadline looms",
-      "summary": "Alisher Usmanov and Mikhail Fridman delisted in what Ireland’s EU presidency calls ‘a difficult compromise’ for the blocThe EU has agreed to remove two Russian billionaires, Alisher Usmanov and Mikhail Fridman, from its…",
-      "url": "https://www.theguardian.com/world/2026/sep/22/eu-removes-oligarchs-from-russia-sanctions-list-as-deadline-looms",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-22T18:07:19+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "accused of supporting the war on Ukraine"
-    },
-    {
-      "id": "4251b1aa59e879adc22ca911c429c9028f379f92",
-      "title": "Trump set to address UNGA with Middle East and Ukraine on agenda – US politics live",
-      "summary": "While the contents of his speech are unknown, Trump last year caused a ⁠stir with a combative address; president also due to meet with 11 world leadersSign up for US Breaking News emailsIn his address to the world leader…",
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-22T13:51:29+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Ukraine on agenda"
-    },
-    {
-      "id": "f5ca7d10261ef2dd83f72e3522c45464a2474b5a",
-      "title": "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war",
-      "summary": "U.S. President Donald Trump said Russia has “lost control” of its diesel oil industry due to the Ukraine war, as he presses Kyiv to agree to an energy truce.",
-      "url": "https://www.cnbc.com/2026/09/22/trump-zelenskyy-ukraine-russia-putin-diesel-oil.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-09-22T13:30:53+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Ukraine war"
-    },
-    {
-      "id": "9b3339aa52cc74020189c989b8081785ef786f09",
-      "title": "Trump to address U.N. as annual session opens",
-      "summary": "President Donald Trump is due to sign off on a new security arrangement with Denmark and Greenland, as well as meet leaders from Ukraine and Persian Gulf nations.",
-      "url": "https://www.washingtonpost.com/politics/2026/09/23/un-general-assembly-set-open-new-york-amid-wars-iran-ukraine/",
-      "source": "World (Washington post)",
-      "published_at": "2026-09-22T12:49:03+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": ""
-    },
-    {
-      "id": "bf8c2e9acadea2d428383c0fdef3e7a1dd6994dd",
-      "title": "EU Russia Sanctions in Peril Over French Bid to Spare Tycoon Usmanov - Bloomberg.com",
-      "summary": "EU Russia Sanctions in Peril Over French Bid to Spare Tycoon Usmanov&nbsp;&nbsp;Bloomberg.comEU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live&nbsp;&nbsp;The GuardianHow Fra…",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0xTVUYwdFRBcERJWmRYWHBReXJ2QnZlTG9oYy1MWHNWMjVRNVBwQS1vTHIyanFvb1dPR05QcjktejFpOHRHRDJ1MWZHRlRURXBPQm1JUGlWdUlsd0xCQVJ6Y01SQm1ZdkdPSTZFSk03dWRxU2YydjA4dVExdzBacHBWa3NYSEFGakNpd1Q3NGFkZzJPS3Uzem1kQWtJQ01zbkNSWkNRR2dpcU9mS0lDa2p1bnJBQQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-22T12:39:47+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Ukraine slams EU's 'unacceptable' move to lift sanctions"
-    },
-    {
-      "id": "525ef80266aa1eda0a2c7819520d58e18ada141b",
-      "title": "How Russia, Ukraine traded strikes overnight on oil, energy sites as Zelenskyy visited US - videos",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/europe/how-russia-ukraine-traded-strikes-overnight-on-oil-energy-sites-as-zelenskyy-visited-us-videos/articleshow/134409083.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-09-22T10:03:38+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukraine traded strikes overnight on oil, energy sites as Zelenskyy visited US"
-    },
-    {
-      "id": "2a76a75c934ddc7adb2049984f973608f2566c70",
-      "title": "Latvia Blocks EU Russia Sanctions Deal Over Usmanov and Fridman - EU Today",
-      "summary": "Latvia Blocks EU Russia Sanctions Deal Over Usmanov and Fridman&nbsp;&nbsp;EU TodayUkraine anger as EU removes Russian oligarchs from sanctions list&nbsp;&nbsp;BBCEU angers Ukraine by lifting sanctions on Russian billion…",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fNkgtS25kLXllZk1nSWJoc2F0NlY5N1BKZm95dlFZc1JIQ0RZUlJuTkdZWWh2VjBRNjVSUFlKWWZOVVdDUUd4NkI5NjNMalBCRjJSNEJyeHpOcW01QWRubnVjd1R1ZVRTbGhfel80TGhma3hxZTNPRXlR?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-22T09:12:40+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Ukraine anger as EU removes Russian oligarchs"
-    },
-    {
-      "id": "eaa788b9c70933ad231740e7aebae84b065bac76",
-      "title": "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war - CNBC",
-      "summary": "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war&nbsp;&nbsp;CNBCWorld Leader Humiliates Trump by Ignoring His Desperate Plea&nbsp;&nbsp;The Daily BeastDonald Trump press…",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU3VOUDE2WFpHSE50Nk40elJZZ1pObDJFano0bmpvN2ZpMmJrc2pJSVlqTlQ3QTFySFNnZldHLUR0T3U3UGpEaV9MazBNNldTY1dCRm5tY254bWFhYW5rQkk0bXpiT0tkX3FzdHQxbThaaTJWakM1X29YclJuSDFNS0xzdUhpSmhaZWp4U9IBkgFBVV95cUxNTnlqQ25DZ1V5RUY1OXB6UFFCYzZuV0lIM3d2Z1ByT2F0ZlJURVhUQlFvWVp6QlU4UkhJRTJQVTgxaWwyY21TUWhfVHd5NWxFQjNPMkFvcFdVTll4RlRNd2lONy1FLVlCZUhGOWdwZlFFUHozRHZsNVhvdU84cHh0Z0YtYTY0UHJnQ2NuZUpLZEE1UQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-22T08:54:03+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Trump to press Zelenskyy for energy truce"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-24T14:17:55Z"
+  "last_updated": "2026-09-25T14:44:35Z"
 }

@@ -1,16 +1,103 @@
 {
   "country": "FR",
-  "score": 60,
+  "score": 61,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
-  "sources": 429,
+  "trend": 1,
+  "sources": 436,
   "sentiment": {
-    "positive": 44,
-    "neutral": 308,
-    "negative": 78
+    "positive": 45,
+    "neutral": 315,
+    "negative": 77
   },
   "latest_articles": [
+    {
+      "id": "a86acf3a588626c0fdefe49d97ff8e9b180aae05",
+      "title": "Leo XIV, Trying to Be Everyone’s Pope, Tours Secular France",
+      "summary": "After visiting Africa, Pope Leo’s four-day trip to France shows how he is seeking to appeal to Roman Catholicism’s original heartlands as well as to the church’s newest strongholds.",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/pope-leo-france-visit.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-25T14:16:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Pope Leo’s four-day trip to France"
+    },
+    {
+      "id": "5650625ff0c7dfa344ef1d85af310c5989f1dc6c",
+      "title": "Pope Leo warns against AI and says technology ‘must remain at service of humans’ during first visit to France – Europe live",
+      "summary": "The pope gives landmark speech on AI development and Europe’s future Later today, Pope Leo will go to the Élysée Palace for (another) formal welcome and a meeting with authorities, civil society and the diplomatic corps,…",
+      "url": "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-25T14:12:49+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Pope Leo warns against AI and says technology ‘must remain at service of humans’"
+    },
+    {
+      "id": "e9f31910b6b982fa1a7eef5da7e5d97bb8714b58",
+      "title": "Pope Leo Signals Support for Journalists Targeted by Trump",
+      "summary": "Asked about the Trump administration’s restrictions on journalists, Leo told reporters accompanying him on a flight to France that they were “all welcome.”",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/pope-leo-media-trump.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-25T13:44:20+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Pope Leo Signals Support for Journalists Targeted by Trump"
+    },
+    {
+      "id": "8f316ab13d5ee00812663f6f3a1b6cef5aa6d50e",
+      "title": "Pope warns against 'losing humanity' to AI machines",
+      "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-25T12:44:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "his trip to France on Friday"
+    },
+    {
+      "id": "d1f5a9029136ca799a70a6e965143932ba4b10bf",
+      "title": "UNESCO Deputy Director: Pope’s visit is timely for our world - Vatican News",
+      "summary": "UNESCO Deputy Director: Pope’s visit is timely for our world&nbsp;&nbsp;Vatican NewsPope warns against 'losing humanity' to AI machines&nbsp;&nbsp;BBCPope Leo warns against AI creating ‘paradise of machines’ in first vis…",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVdwcEdKWmFEZ1E2M19YWWN6cVRhR2FsWW5UamVhT2ZhTnZTbDRpV2pIcTVNbUU3MDN1QXJEQ2N2WmhRcUNqYzQyZDczWEhkb1Rady1wSHRUdmRVVHJUN0htazJzQVl1anhOaEExNDdZeXZrUFFYb3BDOV96dGFTU2hzT0d2aWhmYVY2YWc0TDMzTTdSOG9nS0NzZDZsa2t0akNtbWc5LUdvMzUzUF9lcWxkbWM?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-09-25T12:23:09+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Macron rolls out red carpet for Pope"
+    },
+    {
+      "id": "b96deb1d8389a8d411b1396b70237ef4b906759b",
+      "title": "Tall, dark and hated: plan to renovate ‘Paris’s ugliest building’ put on hold",
+      "summary": "Tour Montparnasse modernisation project at a standstill after clashes over pricing and other issuesIt has been called a carbuncle on the Paris skyline, a sombre skyscraper where visitors to its viewing platform often jok…",
+      "url": "https://www.theguardian.com/world/2026/sep/25/tour-montparnasse-renovation-halted-paris",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-25T11:25:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "plan to renovate ‘Paris’s ugliest building’ put on hold"
+    },
+    {
+      "id": "80356026dbb0d7709dcf56f36e1897568f2c0be4",
+      "title": "Delays in Rail Baltica construction in Estonia frustrate locals - Baltic News Network",
+      "summary": "Delays in Rail Baltica construction in Estonia frustrate locals&nbsp;&nbsp;Baltic News NetworkRail Baltica's deadline officially extended by all Baltic States / Article&nbsp;&nbsp;LSMBaltic Prime Ministers Join Forces: i…",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1pzcHlSSkJNZFJzdGoxMGh5ZjNfUHFTVXJkNDZVR2FrRHU5Mnc5dVRrdHJyTWVEUHpxaF9ISTRVU1lITWNWMGgtWXUwdjBGVWpBNWVVQkVTWTFHcHl2MFBDVFFvX3BsZm9sblhWaFpBZkV3NmNnTzNoNjhLdFB6UzMyNjVsOFFxNVI3VWI1elR1Q0F6Q1E?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-09-25T11:14:48+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "2ea700f0f81445721e750b02374072396d11af4d",
+      "title": "Pope Leo visits secular France as surge of converts jolts a flagging faith",
+      "summary": "TikTok-savvy Catholic priests and candlelight Masses ending with recruiters sharing QR codes are helping the unbaptized connect with their grandparents’ faith.",
+      "url": "https://www.washingtonpost.com/world/2026/09/25/pope-leo-visits-secular-france-surge-converts-jolts-flagging-faith/",
+      "source": "World (Washington post)",
+      "published_at": "2026-09-25T09:17:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Pope Leo visits secular France"
+    },
     {
       "id": "b9420c3b05c8f28c022ab95a0953b21e5bc9a440",
       "title": "Ancient Wall Found in Paris Provides Clues to City’s Origins",
@@ -43,6 +130,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Clan leader in Paris sentenced to eight years over child pickpocketing gangs"
+    },
+    {
+      "id": "01780b0c6a75c266146000b24b9d3be3ce7adb84",
+      "title": "France's fresh budget battle threatens to topple another government",
+      "summary": "Time is not on the side of French government bonds, strategists have warned, as the nation's deficit balloons.",
+      "url": "https://www.cnbc.com/2026/09/24/france-budget-debt-deficit-government.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-24T06:21:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "France's fresh budget battle threatens to topple another government"
     },
     {
       "id": "6cdcb35f7c5e7cce31e38a7bca63463807a6d513",
@@ -100,6 +198,16 @@
       "evidence": "Brigitte Bardot’s 285 belongings beat a €50,000 estimate"
     },
     {
+      "id": "aecd22306c6d0cacf495e43fc227b136eec71acf",
+      "title": "The EU Council extended anti-Russian sanctions against 3,000 people and legal entities for 3 years - ИА Ореанда-Новости",
+      "summary": "The EU Council extended anti-Russian sanctions against 3,000 people and legal entities for 3 years&nbsp;&nbsp;ИА Ореанда-НовостиЕвросоюз решил снять санкции с российских бизнесменов Алишера Усманова и Михаила Фридмана&nb…",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMUZseEdfQnlaN3I1OVA4bGRjUFhZMWpwMGFXYW9CWmQxbERFV1h6U2R2d2tSQTVLOFAzY2RpaVc0dy1KNnBEWGd0U1g5Wnk3OC1wZGJmTWNhODlFVExDcnNQTjRNWVh2TXNpN2hrZkk5U1hfNWNibWlUQU9MUHBRdXZlODRJMzBoVVk3ZWtKZTY4U3hKczlQb2xTV0hFaVJZLVlYN0Iyb242Rnc2cWdMdnFWZDU4ZzB1U3Foa0lJQXZ3bXBNVTBVZ1dNa1ZXZw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-09-22T18:17:15+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "2d5380de42cbe5e32786227d0f717b4b99c56e1a",
       "title": "Macron to Make His Final U.N. General Assembly Appearance as France’s President",
       "summary": "During his tenure as France’s president, Emmanuel Macron has evolved from a political upstart to a senior statesman.",
@@ -120,117 +228,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Agence France-Presse reported"
-    },
-    {
-      "id": "56ccacfa045e7acd695fc3a10fb90299afc4bac0",
-      "title": "France blocks E.U. sanctions on Russia in push to spare oligarch Usmanov",
-      "summary": "The French request would lift E.U. sanctions on Alisher Usmanov, whom the E.U referred to as “one of Vladimir Putin’s favorite oligarchs,” in a bid to free French citizens held in Azerbaijan.",
-      "url": "https://www.washingtonpost.com/world/2026/09/22/france-pushes-end-sanctions-alisher-usmanov-oligarch-tied-putin/",
-      "source": "World (Washington post)",
-      "published_at": "2026-09-22T13:35:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "France blocks E.U. sanctions on Russia"
-    },
-    {
-      "id": "bf8c2e9acadea2d428383c0fdef3e7a1dd6994dd",
-      "title": "EU Russia Sanctions in Peril Over French Bid to Spare Tycoon Usmanov - Bloomberg.com",
-      "summary": "EU Russia Sanctions in Peril Over French Bid to Spare Tycoon Usmanov&nbsp;&nbsp;Bloomberg.comEU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live&nbsp;&nbsp;The GuardianHow Fra…",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0xTVUYwdFRBcERJWmRYWHBReXJ2QnZlTG9oYy1MWHNWMjVRNVBwQS1vTHIyanFvb1dPR05QcjktejFpOHRHRDJ1MWZHRlRURXBPQm1JUGlWdUlsd0xCQVJ6Y01SQm1ZdkdPSTZFSk03dWRxU2YydjA4dVExdzBacHBWa3NYSEFGakNpd1Q3NGFkZzJPS3Uzem1kQWtJQ01zbkNSWkNRR2dpcU9mS0lDa2p1bnJBQQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-22T12:39:47+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "French Bid to Spare Tycoon Usmanov"
-    },
-    {
-      "id": "a5d05ce2bfad37a70bfbe80ab5914c7613eba7e0",
-      "title": "Business - New report tackles problem of governments' overreliance on consulting firms - France 24",
-      "summary": "Business - New report tackles problem of governments' overreliance on consulting firms&nbsp;&nbsp;France 24See more headlines and perspectives on Google News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORmotV3FNNEgwT2NGemFnR3RvUkJwTWlsMk92TWcwUnBPWERObWhzZnNKSGl3aUtmNS12NzVHZ2tPZFBfZ2MxOHJETS1nWFFFQ2U2YTA4N1lJTmJNb2J4YmFNeUlXX1V3MWtKYUN2NjQ3MENFblVCU3kwT3NPWDdFSm5YdjlycGRaS09fSFM3OWVFYnNtNUVfQXZtdlZuOWp1M3JodklzVE1kMUJEaUlFYlg5cDhWTEVwbjBYb0Z3a29BZVJlUzZZXw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-22T12:35:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "New report tackles problem of governments' overreliance on consulting firms"
-    },
-    {
-      "id": "27ed6ff77c7025e16cf459bffb74341f20bf1ca5",
-      "title": "Climate change, overfishing: Lake Chad sees fish stocks dwindle - Focus - france24.com",
-      "summary": "Climate change, overfishing: Lake Chad sees fish stocks dwindle - Focus&nbsp;&nbsp;france24.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM1NBZng4N09wUVhQZmw2aE9jeHVZc05XRnZkNXQ0VmlOWGtyd2ZnT0c0SXpHLVZjem5qTHA5U0RrT2RDYWRnTlFjSE1VLWw2ZkdQYzNvOFJ2QVc4ak1qOVFwZWZLczVpanRaaU9Cd2tRRVM2RjduY1o4S1NRaF82eTA0TWNYVllISWJNdWUyWjE3bFYzOUM1UmJOendEMVlHVkJqUUs4RTBmU29lQlpGV3d2dw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-22T11:30:56+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Climate change, overfishing: Lake Chad sees fish stocks dwindle"
-    },
-    {
-      "id": "f38af36e66edbc3c7678f26bd41653f2d721ae6f",
-      "title": "Poorer nations will be among the last to benefit if global emissions cut to net zero",
-      "summary": "Scientists found unequal impact of the climate crisis would not be reversed even if implicit goal of the 2015 Paris agreement is achievedThe unequal impact of the climate crisis on the world’s poorest people, including t…",
-      "url": "https://www.theguardian.com/environment/2026/sep/22/climate-inequality-tropics-among-last-places-to-benefit-net-zero",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-22T11:13:19+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Poorer nations will be among the last to benefit"
-    },
-    {
-      "id": "2dff950cc7d48b9f80e637e93ded09163b5f0183",
-      "title": "Brigitte Bardot’s personal items sell for nearly €1m at auction in Paris",
-      "summary": "Dog collars, guitars and self-portraits among 285 objects, with money going to her animal welfare foundation and sonAn auction of the French film star turned animal rights activist Brigitte Bardot’s personal items has fe…",
-      "url": "https://www.theguardian.com/film/2026/sep/22/brigitte-bardot-auction-paris-animal-welfare",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-22T07:14:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "auction in Paris... French film star"
-    },
-    {
-      "id": "d6c72cbd39aaf660c8954401e3de02c161bc6a2f",
-      "title": "On a Dot of France Off Canada, Carney and Macron Talk Partnership",
-      "summary": "Prime Minister Mark Carney of Canada and President Emmanuel Macron of France met just after the European Union invited Canada to become its first “associate member.”",
-      "url": "https://www.nytimes.com/2026/09/20/world/canada/carney-macron-saint-pierre-miquelon-canada-eu.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-21T14:47:07+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Macron of France met just after the European Union invited Canada"
-    },
-    {
-      "id": "c88d435ae2f8c87d29d06c378b6601a5cc802ad9",
-      "title": "Zinedine Zidane’s next move as France coach may reveal the wizard behind the curtain - The Irish Times",
-      "summary": "Zinedine Zidane’s next move as France coach may reveal the wizard behind the curtain&nbsp;&nbsp;The Irish TimesUnprecedented development: Zinedine Zidane \"under tight security\"&nbsp;&nbsp;Goal.comFrance squad: I adore hi…",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORDBpUmxsTlgza1lEdi1QWUN1Wmt2VWtpNGh2SFVJNU5DdEhKRWRrTWpCSVBwMzJpVm02RlJzRFNaMk5lSkhJUmwzUG1iTXJmYnE4NmY1b0E0Q2M2cGw1MGZQQ2pndUYteThoTTVQV3BkYXhVS2U4MzE0QlowWm9kLW5vLW5aZXZfZ1I1cmc0SHJFTGFtLVJaeU1LX1VkUk4zYVY4MjItSFo5YndRQnhJUlpBT1pEcVdTMDZlVkFZVlBPdDhL?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-21T14:01:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Zinedine Zidane’s next move as France coach"
-    },
-    {
-      "id": "90183d2dec7936e2fc9ad5adf46177f9d4aa9aa2",
-      "title": "Soccer superstar Kylian Mbappé on ending 20-year journey with Nike: 'It was time to change' - cnbc.com",
-      "summary": "Soccer superstar Kylian Mbappé on ending 20-year journey with Nike: 'It was time to change'&nbsp;&nbsp;cnbc.comOn signs French football star Mbappé, delivering another knock for Nike&nbsp;&nbsp;CNNMbappe leaves Nike, sig…",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMV96R3hPRVdRdTl4NUlydXlOOVpZczVjd01rWWNXbTNJbnVZaWRGcHhMNXVtMldkaVNiWkkxUGViMWtJUHFUZGx2cV94dE1NWU85RHA1dFNkVS1xUnZIMlZ4dTRMSGtsTUJqT1ZEV2JjbVh1Tk9UbTdURlhtSFM3bGo3bF9Nd9IBiwFBVV95cUxOQUZVSVJvaFpSa2lReUhrTVdiTUxMVEpXcGlGQmRzZ0JWTk9sdU81TU5rZl9kdV84akNRMEJpM3FJOXpwNUlUVVJXdGNHcWxESWdRREZFZVBZYUF2RWcwUDNXOWJNNzZBejk3Szkzd3NIaDBjNXpOb1RSakpFVkxkaFVtX0hVc0tKOUhJ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-21T12:16:49+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "French football star Mbappé"
-    },
-    {
-      "id": "dcadafec03ae9b2d2dcc66d096b269b41b54c822",
-      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-      "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
-      "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-21T04:00:38+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-24T14:17:55Z"
+  "last_updated": "2026-09-25T14:44:35Z"
 }
