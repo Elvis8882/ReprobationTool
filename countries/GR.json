@@ -1,16 +1,59 @@
 {
   "country": "GR",
-  "score": 64,
+  "score": 63,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 126,
+  "trend": -1,
+  "sources": 130,
   "sentiment": {
     "positive": 4,
-    "neutral": 115,
-    "negative": 7
+    "neutral": 118,
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "bd43d03632873c7c0b8da0d2366070b57b7209e8",
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
+      "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-26T12:47:25+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "six dead in building explosion close to Acropolis"
+    },
+    {
+      "id": "8ac04fb3e765c6eaf2f4cd46cfd924987ee7af96",
+      "title": "Six Dead After Explosion in Athens Tourist District",
+      "summary": "Local officials said a gas leak might have caused the blast, which rattled a part of the Greek capital that draws many visitors.",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-26T12:04:42+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Six Dead After Explosion in Athens Tourist District"
+    },
+    {
+      "id": "5fadd0e105ae1d11b1918c05dabe9a3b215c79ba",
+      "title": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
+      "summary": "Canada’s prime minister is pursuing deeper trade, defense and cultural ties with China, India and the European Union, but none are likely to replace ties to the United States.",
+      "url": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-25T21:36:39+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "8ad0cc7109ce5c824ecb9beaa321af7cdedf07d9",
+      "title": "EU targets majority of member states for missed deadlines on key reforms - The Brussels Times",
+      "summary": "EU targets majority of member states for missed deadlines on key reforms&nbsp;&nbsp;The Brussels TimesEU starts action against Greece on energy, money-laundering, human trafficking&nbsp;&nbsp;eKathimerini.comBrussels put…",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOW9VX0wwRk1lRTlrdHRVSDZqLVI2ZG54M2VVdVg3VVNFNm9mUThwdW5uX0g1MlZiRlNOMVpjRXgzZ29VLW9RUGs4T0ItQWNLYS1sOWRWWDFkRmpPTXRpNTFiQWt0WU85Z2pCNDdCMURkU0p3dFREaU9kaHNXTHA4ZHJSZWpiRk10Si1HZS1wMU9tTm1UZzEzOVdrYmpyQl80OHhkQ0FuS21EVlBXcWUxVnRfeURHQlZodXI5eXRn?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-09-25T18:33:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "EU starts action against Greece on energy, money-laundering"
+    },
     {
       "id": "80356026dbb0d7709dcf56f36e1897568f2c0be4",
       "title": "Delays in Rail Baltica construction in Estonia frustrate locals - Baltic News Network",
@@ -173,48 +216,8 @@
       "published_at": "2026-09-16T19:39:28+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "3bae708d0a13f13164c42f84236e180fff3eb367",
-      "title": "European Union invites Canada to become first ever ‘associate member’",
-      "summary": "Commission president says EU must ‘urgently reimagine our partnerships’ as she makes unprecedented offerEurope live – latest updatesCanada has been invited to become the first “associate member” of the EU by the European…",
-      "url": "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-16T13:48:07+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "52224b24a0b8666014a40c5bc90752fc155d5fb1",
-      "title": "E.U. Offers to Make Canada ‘Associate Member’ as U.S. Ties Weaken for Both",
-      "summary": "Canada and the European Union have been confronting an increasingly challenging relationship with the United States under President Trump.",
-      "url": "https://www.nytimes.com/2026/09/16/world/europe/eu-canada-associate-member.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-16T11:23:13+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "8534cb16b12a3c6e9d34374686dcac5f75b25e0e",
-      "title": "EU approves sending mountains of trash to Turkey despite environmental fears - politico.eu",
-      "summary": "EU approves sending mountains of trash to Turkey despite environmental fears&nbsp;&nbsp;politico.euEU to continue sending waste to Turkey; environmental concerns persist&nbsp;&nbsp;Baltic News NetworkThe European Commiss…",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOem0wb01LYko5UlNrZTRvaWE1OE5EeHliRGJ6MmJad3FFLXQzWTRxZ2FqNzZ0MlZ2SWltWWZHLTVEdXcxT3MyLUtIaEVXTEttajdYS2RXeDIyaHk1MjEtNE03dWEzSW1lYm1fUzV2TzduRkRRcnlwUUNvYUFkTUp6dHh3?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-15T17:49:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "87d62c77d066ae700b5941f7ac20add2097faf5a",
-      "title": "Explosive device found on drone shot down in Lithuania, says minister - Europe live",
-      "summary": "The European Commission’s president warned that recent actions in Denmark and Lithuania are ‘not isolated incidents’Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over LithuaniaUkrainian…",
-      "url": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-15T13:39:49+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-25T14:44:35Z"
+  "last_updated": "2026-09-26T13:50:18Z"
 }

@@ -4,13 +4,23 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 140,
+  "sources": 142,
   "sentiment": {
     "positive": 21,
-    "neutral": 113,
+    "neutral": 115,
     "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "5fadd0e105ae1d11b1918c05dabe9a3b215c79ba",
+      "title": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
+      "summary": "Canada’s prime minister is pursuing deeper trade, defense and cultural ties with China, India and the European Union, but none are likely to replace ties to the United States.",
+      "url": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-25T21:36:39+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "80356026dbb0d7709dcf56f36e1897568f2c0be4",
       "title": "Delays in Rail Baltica construction in Estonia frustrate locals - Baltic News Network",
@@ -20,6 +30,17 @@
       "published_at": "2026-09-25T11:14:48+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "a2b347563e49eca3b4181ebb7d6234a4fca33b2f",
+      "title": "Workers on 13 Bathla sites stood down as funding runs out – as it happened",
+      "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastMore than 600 Qantas ground crew workers have begun a 24-hour strike this morning across the country over an escalating industrial dispute…",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-24T08:43:17+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "Australia and the Netherlands remain resolute in their commitment to pursuing truth"
     },
     {
       "id": "9f89ca267c8d2188043da3ab74b436d948ff36c3",
@@ -194,30 +215,8 @@
       "published_at": "2026-09-16T13:48:07+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "4cd17fa36d175f28399d0d25798d2a991b5fc185",
-      "title": "Kosovo’s former president jailed for 25 years over war crimes",
-      "summary": "Hashim Thaçi, 58, was convicted by The Hague for crimes committed while he was senior commander of the Kosovo Liberation ArmyEurope live – latest updatesHashim Thaçi, the former president of Kosovo, has been sentenced to…",
-      "url": "https://www.theguardian.com/world/2026/sep/16/kosovo-former-president-hashim-thaci-jailed-war-crimes",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-16T13:40:05+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "The European-backed Kosovo Specialist Chambers, convicted Thaci"
-    },
-    {
-      "id": "6d290c7a8db0d6678dd4d7bcf44e0d017f2eff93",
-      "title": "Kosovo’s Former Leader Is Sentenced to 25 Years in War Crimes Case",
-      "summary": "A tribunal in The Hague found Hashim Thaci, who led Kosovo’s independence struggle in the 1990s, responsible for arbitrary detention, torture and murder.",
-      "url": "https://www.nytimes.com/2026/09/16/world/europe/kosovo-thaci-war-crimes-hague-serbia.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-16T13:11:04+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "A tribunal in The Hague found Hashim Thaci"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-25T14:44:35Z"
+  "last_updated": "2026-09-26T13:50:18Z"
 }

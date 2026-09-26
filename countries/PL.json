@@ -1,16 +1,26 @@
 {
   "country": "PL",
-  "score": 87,
+  "score": 86,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 129,
+  "trend": -1,
+  "sources": 132,
   "sentiment": {
     "positive": 7,
-    "neutral": 101,
-    "negative": 21
+    "neutral": 103,
+    "negative": 22
   },
   "latest_articles": [
+    {
+      "id": "5fadd0e105ae1d11b1918c05dabe9a3b215c79ba",
+      "title": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
+      "summary": "Canada’s prime minister is pursuing deeper trade, defense and cultural ties with China, India and the European Union, but none are likely to replace ties to the United States.",
+      "url": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-25T21:36:39+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "80356026dbb0d7709dcf56f36e1897568f2c0be4",
       "title": "Delays in Rail Baltica construction in Estonia frustrate locals - Baltic News Network",
@@ -20,6 +30,28 @@
       "published_at": "2026-09-25T11:14:48+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "241f7b81bddbf36cdc9d386d519636df3485f9c9",
+      "title": "Priest killed and four injured in knife attack at Polish abbey",
+      "summary": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
+      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-24T19:18:12+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "knife attack at Polish abbey"
+    },
+    {
+      "id": "66a415dfdff85dc64000b1c9dd4125492a40a37d",
+      "title": "Poland accuses Russian military helicopter of violating its airspace",
+      "summary": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
+      "url": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-23T15:37:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Poland accuses Russian military helicopter of violating its airspace"
     },
     {
       "id": "aecd22306c6d0cacf495e43fc227b136eec71acf",
@@ -183,38 +215,8 @@
       "published_at": "2026-09-16T13:48:07+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "52224b24a0b8666014a40c5bc90752fc155d5fb1",
-      "title": "E.U. Offers to Make Canada ‘Associate Member’ as U.S. Ties Weaken for Both",
-      "summary": "Canada and the European Union have been confronting an increasingly challenging relationship with the United States under President Trump.",
-      "url": "https://www.nytimes.com/2026/09/16/world/europe/eu-canada-associate-member.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-16T11:23:13+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "8534cb16b12a3c6e9d34374686dcac5f75b25e0e",
-      "title": "EU approves sending mountains of trash to Turkey despite environmental fears - politico.eu",
-      "summary": "EU approves sending mountains of trash to Turkey despite environmental fears&nbsp;&nbsp;politico.euEU to continue sending waste to Turkey; environmental concerns persist&nbsp;&nbsp;Baltic News NetworkThe European Commiss…",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOem0wb01LYko5UlNrZTRvaWE1OE5EeHliRGJ6MmJad3FFLXQzWTRxZ2FqNzZ0MlZ2SWltWWZHLTVEdXcxT3MyLUtIaEVXTEttajdYS2RXeDIyaHk1MjEtNE03dWEzSW1lYm1fUzV2TzduRkRRcnlwUUNvYUFkTUp6dHh3?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-15T17:49:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "87d62c77d066ae700b5941f7ac20add2097faf5a",
-      "title": "Explosive device found on drone shot down in Lithuania, says minister - Europe live",
-      "summary": "The European Commission’s president warned that recent actions in Denmark and Lithuania are ‘not isolated incidents’Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over LithuaniaUkrainian…",
-      "url": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-15T13:39:49+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-25T14:44:35Z"
+  "last_updated": "2026-09-26T13:50:18Z"
 }

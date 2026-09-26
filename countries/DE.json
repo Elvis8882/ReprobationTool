@@ -1,16 +1,26 @@
 {
   "country": "DE",
-  "score": 30,
+  "score": 29,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 321,
+  "trend": -1,
+  "sources": 318,
   "sentiment": {
-    "positive": 30,
-    "neutral": 187,
+    "positive": 29,
+    "neutral": 185,
     "negative": 104
   },
   "latest_articles": [
+    {
+      "id": "5fadd0e105ae1d11b1918c05dabe9a3b215c79ba",
+      "title": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
+      "summary": "Canada’s prime minister is pursuing deeper trade, defense and cultural ties with China, India and the European Union, but none are likely to replace ties to the United States.",
+      "url": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-25T21:36:39+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "80356026dbb0d7709dcf56f36e1897568f2c0be4",
       "title": "Delays in Rail Baltica construction in Estonia frustrate locals - Baltic News Network",
@@ -214,19 +224,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "suspected synagogue arson attempt in Germany"
-    },
-    {
-      "id": "07d55433e254a6dda803da9ad4d3e83ae360f9f8",
-      "title": "German elections under way which could decide fate of Chancellor Merz",
-      "summary": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
-      "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-20T07:57:32+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "German elections under way"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-25T14:44:35Z"
+  "last_updated": "2026-09-26T13:50:18Z"
 }

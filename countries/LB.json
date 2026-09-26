@@ -1,16 +1,27 @@
 {
   "country": "LB",
-  "score": 78,
+  "score": 80,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -1,
-  "sources": 67,
+  "trend": 2,
+  "sources": 61,
   "sentiment": {
-    "positive": 6,
-    "neutral": 27,
-    "negative": 34
+    "positive": 7,
+    "neutral": 23,
+    "negative": 31
   },
   "latest_articles": [
+    {
+      "id": "e70516b03e13ec6d4fe7e5b646528ee1a00fc107",
+      "title": "Trump faces tough choices as Iran dangles deal to reopen Hormuz before US midterms",
+      "summary": "Iran’s seven-day timetable would restart nuclear talks, but will the US be willing to deliver on terms that include reining in Israel in Lebanon?Iran’s seven-day timetable to reopen the strait of Hormuz and start talks o…",
+      "url": "https://www.theguardian.com/world/2026/sep/25/trump-tough-choices-iran-accelerated-deal-reopen-hormuz-midterm-elections",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-25T15:43:59+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Israel’s attacks on Hezbollah in Lebanon"
+    },
     {
       "id": "7293e1b4689bbac06a9fc24f709bc15adae3ae6b",
       "title": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "barbershop in Lebanon that was demolished in an Israeli airstrike"
-    },
-    {
-      "id": "c3b1580079203f1a574281d26634363ef7d9c05b",
-      "title": "Ancient Lebanese Treasures Take a Journey From Modern-Day Conflict",
-      "summary": "Artifacts from Byblos have been on display in Paris in a show that highlights how modern-day conflict in the Middle East imperils the cultural heritage of the region.",
-      "url": "https://www.nytimes.com/2026/08/26/world/middleeast/lebanon-byblos-israel.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-26T09:02:23+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "modern-day conflict in the Middle East imperils the cultural heritage"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-25T14:44:35Z"
+  "last_updated": "2026-09-26T13:50:18Z"
 }

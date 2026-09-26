@@ -4,11 +4,11 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 58,
+  "sources": 57,
   "sentiment": {
     "positive": 5,
     "neutral": 21,
-    "negative": 32
+    "negative": 31
   },
   "latest_articles": [
     {
@@ -21,6 +21,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "flights to Baghdad... halted"
+    },
+    {
+      "id": "e136d79ff4551dfd4b121929570f2d1dcb4d2898",
+      "title": "Iraq’s Prime Minister Al-Zaidi Vows to Disarm Iran-backed Militias",
+      "summary": "Ali al-Zaidi is a political neophyte hoping to succeed where previous leaders failed. In an interview, he laid out an ambitious timeline that could prove hard to meet.",
+      "url": "https://www.nytimes.com/2026/09/21/world/middleeast/iraq-prime-minister-interview-disarm-militias.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-21T21:04:34+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Iraq’s Prime Minister Al-Zaidi Vows to Disarm Iran-backed Militias"
     },
     {
       "id": "7db99f7efc644f200dc453c9491903ea95c05cb2",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Iraq strikes"
-    },
-    {
-      "id": "81587e8ec4d59cd75b5a4f83f6f98269e7c32251",
-      "title": "U.S.-Saudi Attack on Iraqi Militias Risks Drawing Them into War",
-      "summary": "Iran-aligned militias in Iraq were under growing pressure to disarm, but the latest strikes may embolden them to get more deeply involved in the war.",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/iraqi-militias-iran-war-saudi-arabia-us.html",
-      "source": "NYT > World News",
-      "published_at": "2026-07-30T06:20:03+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Iraqi Militias Risks Drawing Them into War"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-25T14:44:35Z"
+  "last_updated": "2026-09-26T13:50:18Z"
 }

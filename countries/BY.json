@@ -1,16 +1,27 @@
 {
   "country": "BY",
-  "score": 67,
+  "score": 66,
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": -1,
-  "sources": 57,
+  "sources": 58,
   "sentiment": {
     "positive": 1,
     "neutral": 13,
-    "negative": 43
+    "negative": 44
   },
   "latest_articles": [
+    {
+      "id": "3c8190a3a5af4100851a7871cc1aeaeba45a945e",
+      "title": "He Ran a Top Lady Gaga Fan Page. Then He Vanished.",
+      "summary": "Kirill Nguyen, the founder of Gaga Daily, said he had been imprisoned in Belarus for participating in pro-democracy protests. He resurfaced this week after an absence of more than two years.",
+      "url": "https://www.nytimes.com/2026/09/26/world/europe/lady-gaga-daily-founder-belarus-prison.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-26T08:24:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "imprisoned in Belarus for participating in pro-democracy protests"
+    },
     {
       "id": "169e746931e12a23a857f10260001bc5221cb318",
       "title": "The Latvian Ministry of Foreign Affairs explained why the restrictions on the entry of Russians and Belarusians want to be extended - Inbox.eu",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Strengthen the Border with Belarus"
-    },
-    {
-      "id": "3bd45da375290eade6e87926cd757852446b403a",
-      "title": "Latvian border guards find cigarette-smuggling drone / Article - LSM",
-      "summary": "Latvian border guards find cigarette-smuggling drone / Article&nbsp;&nbsp;LSM847,800 cigarettes without Latvian excise stamps seized in Riga&nbsp;&nbsp;UA.NEWSDrone Carrying Belarusian Cigarettes Flies Into Latvia&nbsp;&…",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONHdmbGdXdkp5N1ZCRE1XV3cxdWkzclQ1a2RraGhpQmhuR3h1WDZ2RGJ2OEp4ZEZrV2NfdUxpM0ZaQVNtUFNlczhCYnhKbVAyUS00czJzUV9hQ3dnR1R0UmdjdGt5aXhxMDRKb0dvaV9GeTVtdjhUZGU3ZjFpcV9HaUJ3Vi1QNWN4QzhVcV8xczh6RlJlZXBHTUsyS1FzODA5dktxWVRlWGJtOU9YbzFMQS1mcw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-01T01:42:53+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Drone Carrying Belarusian Cigarettes Flies Into Latvia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-25T14:44:35Z"
+  "last_updated": "2026-09-26T13:50:18Z"
 }
