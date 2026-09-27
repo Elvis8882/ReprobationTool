@@ -1,16 +1,38 @@
 {
   "country": "DE",
-  "score": 29,
+  "score": 30,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 318,
+  "trend": 1,
+  "sources": 314,
   "sentiment": {
     "positive": 29,
-    "neutral": 185,
-    "negative": 104
+    "neutral": 182,
+    "negative": 103
   },
   "latest_articles": [
+    {
+      "id": "4ed2ad01a4c3459a35a2518566ff61833965644c",
+      "title": "Russian Foreign Minister Vows Russia Will See Ukraine War Through",
+      "summary": "Russia’s foreign minister met with his German counterpart during the U.N. General Assembly but spent part of his address defending his country’s war on Ukraine.",
+      "url": "https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-27T00:49:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "met with his German counterpart"
+    },
+    {
+      "id": "264bf969ca73fcc716837082c142243533c70ab8",
+      "title": "German town bans 'stumbling stone' memorials to Nazi victims",
+      "summary": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-26T15:48:51+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.7,
+      "evidence": "German town bans 'stumbling stone' memorials to Nazi victims"
+    },
     {
       "id": "5fadd0e105ae1d11b1918c05dabe9a3b215c79ba",
       "title": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
@@ -18,6 +40,16 @@
       "url": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html",
       "source": "NYT > World News",
       "published_at": "2026-09-25T21:36:39+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "783594403b40fc3e45b027e827fd53a1eafa93f2",
+      "title": "EU Commission targets all 27 states over industrial emissions rules - INSIGHT EU MONITORING",
+      "summary": "EU Commission targets all 27 states over industrial emissions rules&nbsp;&nbsp;INSIGHT EU MONITORINGEU starts action against Greece on energy, money-laundering, human trafficking&nbsp;&nbsp;eKathimerini.comBrussels puts…",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdE9jYl9jcmN6ajhuTlpvamZTRk5kOU9reHEtSjVDM0dBR1dJQThKa0RFVUtleEJvM1FkaGdheWMybGgwa01JSF93cjhFVXZwNkMwWnBIR0pvM0haU25wTEM5TjdONjJZZzhmZDU5ZGRRTjRHUmYtZ2F3cXF1LUtuX0oybDRrUHNNUHNDbW5UdGRXSG1NcVBVTHVnTjRSUEVadE1VRmY4WUdvYmtNQ0ludndaVy12TWxOV3hQSmdNdE0tMnp3RWZ3RDFXVFBUYkU?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-09-25T15:12:43+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -41,6 +73,16 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "105-year-old investigated for crimes at Nazi PoW camp in Germany"
+    },
+    {
+      "id": "0e2f8cebe04c8ea740d3b3ce659e866fefe57442",
+      "title": "Rail Baltica: on the brink of fateful decisions - Inbox.eu",
+      "summary": "Rail Baltica: on the brink of fateful decisions&nbsp;&nbsp;Inbox.euRail Baltica's deadline officially extended by all Baltic States / Article&nbsp;&nbsp;LSMHome secretary orders 'urgent review' as second small boat in tw…",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTGxIS1E2MFVvOFctNk9UZklMSURONlpFckxVQWhZNEdZcDl4b2xWczdMdmNBeWN1YXh4Q2t5cm1mMS12VnVaS2FPNllJUFQ0bDhnUk96WnNYRDlSRzYwai0xLW9rVlU5YjNsN0xTVVQ3NHMtUkRvcHRLanNTSWJ2QTFXb1BaYzhGWDJMeVZOeUozZw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-09-24T03:05:40+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "c5e88cfe6befc9a78491a2fa6a567ac423336693",
@@ -181,51 +223,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "voters turn to left and far-right as 'disaster' for ruling CDU threatens"
-    },
-    {
-      "id": "7609a51130d0b028231d1018a500555e224fb616",
-      "title": "Latest German election humiliation puts Merz on borrowed time as CDU unrest grows",
-      "summary": "Chancellor acknowledges disastrous state election results but vow to push on is likely to further alienate voters, and his own partyGerman chancellor clinging to power after another loss to far-right AfDFriedrich Merz ca…",
-      "url": "https://www.theguardian.com/world/2026/sep/21/german-state-election-humiliation-friedrich-merz-borrowed-time-cdu-unrest-grows",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-21T10:04:46+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "another loss to far-right AfD"
-    },
-    {
-      "id": "247bc56827663cb8a79a331fb7f155a1d7c1b044",
-      "title": "How does the Nations League work and who is in each league? - Yahoo Sports",
-      "summary": "How does the Nations League work and who is in each league?&nbsp;&nbsp;Yahoo SportsNew promotion/relegation system for UEFA Nations League 2026/27&nbsp;&nbsp;UEFA.comItaly handed Nations League relegation reprieve as UEF…",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdFpkWGkyTWstT0E1WDQzQkU2SVJiX0J1VjI1YWdzY1JuYWRWVmk3bmtoMVVBSDl2S3dQVHN3b1V0ZXNHdU9nM2Mydkk1emlNaW95ZDF1S1YwMGxKdkpNa1A3bnVVU2ZSYkNaaGJ5S3FmWm9hdTB2MHNzVFJSVGYxRQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-21T09:16:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Netherlands vs Germany"
-    },
-    {
-      "id": "dcadafec03ae9b2d2dcc66d096b269b41b54c822",
-      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-      "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
-      "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-21T04:00:38+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "09d92e32316daa02dee91c7b24b0d750dba99fdd",
-      "title": "Afghan man arrested over suspected synagogue arson attempt in Germany ahead of holiest Jewish day",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/europe/afghan-man-arrested-over-suspected-synagogue-arson-attempt-in-germany-ahead-of-holiest-jewish-day/articleshow/134366910.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-09-20T10:42:33+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "suspected synagogue arson attempt in Germany"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-26T13:50:18Z"
+  "last_updated": "2026-09-27T14:46:53Z"
 }

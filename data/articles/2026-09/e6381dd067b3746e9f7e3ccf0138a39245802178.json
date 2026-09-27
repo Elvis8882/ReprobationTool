@@ -15,8 +15,20 @@
     "IL",
     "MA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-09-26T13:50:18+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-09-27T14:46:53+00:00",
+  "sentiment_by_country": {
+    "IL": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "anti-Israel rallying calls"
+    },
+    "MA": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "shaping Morocco's election... promises of jobs"
+    }
+  },
+  "processed_at": "2026-09-27T14:46:53+00:00"
 }
