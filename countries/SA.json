@@ -1,16 +1,27 @@
 {
   "country": "SA",
-  "score": 24,
+  "score": 23,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 222,
+  "trend": -1,
+  "sources": 223,
   "sentiment": {
     "positive": 17,
     "neutral": 88,
-    "negative": 117
+    "negative": 118
   },
   "latest_articles": [
+    {
+      "id": "8398dd9c9818412d753ad1b178d76727e43d5f0e",
+      "title": "Children forced to give up school for work as fighting upends daily life in Yemen",
+      "summary": "Renewed fighting between Iran-aligned Houthis and Saudi-backed Yemeni forces has shattered four years of relative calmIn the mornings, 13-year-old Muneer Farie went to school, and in the afternoons he helped his father f…",
+      "url": "https://www.theguardian.com/world/2026/sep/28/yemen-fighting-houthis-families-flee-displacement",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-28T07:07:26+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Saudi-backed Yemeni forces has shattered four years of relative calm"
+    },
     {
       "id": "c6fea2cfb42eacad13c88464fc951ad3162256c3",
       "title": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "US president reportedly changed his mind over Saudi Arabia’s pleas for assistance"
-    },
-    {
-      "id": "ed31ac73a4990691a05b46160c3e8cc236aa97d5",
-      "title": "Why the Iran-Backed Houthis in Yemen and Saudi Arabia Are Back at War",
-      "summary": "The conflict has opened a second front in the Middle East after the United States and Israel attacked Iran, adding to global uncertainty and turmoil in energy markets.",
-      "url": "https://www.nytimes.com/2026/09/21/world/middleeast/yemen-houthis-saudi-war.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-21T15:28:27+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Saudi Arabia Are Back at War"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-27T14:46:53Z"
+  "last_updated": "2026-09-28T17:39:42Z"
 }
