@@ -7,10 +7,20 @@
   "sources": 133,
   "sentiment": {
     "positive": 7,
-    "neutral": 104,
-    "negative": 22
+    "neutral": 103,
+    "negative": 23
   },
   "latest_articles": [
+    {
+      "id": "fe621f08a19cd9994c3d4b32b2de79e4c38dda5a",
+      "title": "Trump’s proposed diesel export ban spurs fear of energy crunch in Europe",
+      "summary": "The European Union's energy commissioner sent a letter to the bloc's 27 member states recommending that they all cut gas and electricity consumption “for as long as necessary.”",
+      "url": "https://www.washingtonpost.com/world/2026/09/29/european-fears-energy-crunch-over-trumps-proposed-ban-diesel-exports/",
+      "source": "World (Washington post)",
+      "published_at": "2026-09-29T12:10:02+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "a6454d7794b00c70b0fb80dd205e82ddb30d067e",
       "title": "Pope Leo leans into statesman role, urging peace in an era of renewed war",
@@ -72,6 +82,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Police in Poland Arrest Ukrainian Citizen Over Fatal Stabbing"
+    },
+    {
+      "id": "225c216237cabf051a3fd43c11c20f8ab064d91b",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-24T11:59:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Poland says fire at Starlink station is sabotage"
     },
     {
       "id": "0e2f8cebe04c8ea740d3b3ce659e866fefe57442",
@@ -196,28 +217,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Polish officials intercept truck with migrants"
-    },
-    {
-      "id": "e346151d00f1c50dea5edb8301197db2457b4942",
-      "title": "EU Commission proposes €489m storm recovery aid for four member states - INSIGHT EU MONITORING",
-      "summary": "EU Commission proposes €489m storm recovery aid for four member states&nbsp;&nbsp;INSIGHT EU MONITORINGCommission proposes €489 million to help Portugal, Spain, Italy and Malta recover from severe storms&nbsp;&nbsp;The E…",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSVNYc1p6OGl5dmliQ2d6bkQ0RHdBd1NVdThva3dzMEQxc2FVNkR2d1hObHpXbUJOMEM2M0RxWkl6ZHR4Y3lhZS15N1cyWV9qZ3lUSlkxbnVKSkx3LWpQckhadlpTUVVNdVlqNi15eGxXaDJzNDJKZ3otNEZLQWZFWmpoUk5yaHNUUllyZjlDTk54SXI5NXdFdE9OS0d4b240ZlNLY3luUVlxMGZVSmx5U2c3SVNDTUhLNmxhaFR5WjdIYldZa1dRdnljV0lzTWh5VENN?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-17T19:24:21+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "6f8665e841a0b35c250a3a7a05557c1f2cced10f",
-      "title": "Taking on Trump: Canada and EU forge closer ties – The Latest",
-      "summary": "Canadian prime minister, Mark Carney, has welcomed the EU’s proposal for Canada to become the bloc’s first ‘associate member’, despite threats from Donald Trump over the plan. The US president said Washington could impos…",
-      "url": "https://www.theguardian.com/news/audio/2026/sep/17/taking-on-trump-canada-and-eu-forge-closer-ties-the-latest",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-17T18:22:14+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-28T17:39:42Z"
+  "last_updated": "2026-09-29T15:42:47Z"
 }

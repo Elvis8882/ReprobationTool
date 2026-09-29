@@ -1,16 +1,27 @@
 {
   "country": "AZ",
   "score": 55,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 8,
+  "sources": 9,
   "sentiment": {
     "positive": 0,
-    "neutral": 6,
+    "neutral": 7,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "cc136f0c46c6bad3ca3f21a6a86763b73158754c",
+      "title": "Russian strikes on Kyiv kills 3 as Ukraine targets oil, military sites",
+      "summary": "In recent Russian strikes on Kyiv, three people lost their lives, including an Azerbaijani citizen. In Kharkiv, numerous injuries were documented. Ukraine retaliated with targeted counterstrikes against Russian oil and m…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/russian-strikes-on-kyiv-kills-3-as-ukraine-targets-oil-military-sites/articleshow/134544592.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-09-28T13:49:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "including an an Azerbaijani citizen"
+    },
     {
       "id": "56ccacfa045e7acd695fc3a10fb90299afc4bac0",
       "title": "France blocks E.U. sanctions on Russia in push to spare oligarch Usmanov",
@@ -101,5 +112,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-28T17:39:42Z"
+  "last_updated": "2026-09-29T15:42:47Z"
 }

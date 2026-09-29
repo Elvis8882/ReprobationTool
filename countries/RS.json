@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 12,
+  "sources": 13,
   "sentiment": {
     "positive": 0,
-    "neutral": 5,
+    "neutral": 6,
     "negative": 7
   },
   "latest_articles": [
+    {
+      "id": "c2d86172d268a619f155a0c9c6cbb6c9dca7f62f",
+      "title": "Serbia’s Longtime President Aleksandar Vucic Resigns Post",
+      "summary": "Aleksandar Vucic, one of Europe’s longest-serving leaders, resigned as president, paving the way for him to become prime minister after elections next month.",
+      "url": "https://www.nytimes.com/2026/09/27/world/europe/serbia-president-aleksandar-vucicto-resigns.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-27T21:22:29+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Serbia’s Longtime President Aleksandar Vucic Resigns Post"
+    },
     {
       "id": "4cd17fa36d175f28399d0d25798d2a991b5fc185",
       "title": "Kosovo’s former president jailed for 25 years over war crimes",
@@ -145,5 +156,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-28T17:39:42Z"
+  "last_updated": "2026-09-29T15:42:47Z"
 }

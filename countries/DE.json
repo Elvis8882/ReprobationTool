@@ -1,16 +1,26 @@
 {
   "country": "DE",
-  "score": 31,
+  "score": 30,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 308,
+  "trend": -1,
+  "sources": 303,
   "sentiment": {
-    "positive": 28,
-    "neutral": 179,
+    "positive": 26,
+    "neutral": 176,
     "negative": 101
   },
   "latest_articles": [
+    {
+      "id": "fe621f08a19cd9994c3d4b32b2de79e4c38dda5a",
+      "title": "Trump’s proposed diesel export ban spurs fear of energy crunch in Europe",
+      "summary": "The European Union's energy commissioner sent a letter to the bloc's 27 member states recommending that they all cut gas and electricity consumption “for as long as necessary.”",
+      "url": "https://www.washingtonpost.com/world/2026/09/29/european-fears-energy-crunch-over-trumps-proposed-ban-diesel-exports/",
+      "source": "World (Washington post)",
+      "published_at": "2026-09-29T12:10:02+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "a6454d7794b00c70b0fb80dd205e82ddb30d067e",
       "title": "Pope Leo leans into statesman role, urging peace in an era of renewed war",
@@ -210,19 +220,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "keep coalition together for Germany's 'democratic future'"
-    },
-    {
-      "id": "67f3d88b46a3e6f82438573e28f9dea23da2348f",
-      "title": "Merz's political crisis threatens Germany's obsession with stability",
-      "summary": "Political shifts in Germany are being watched closely in Europe and beyond, Katya Adler writes.",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyz1n0v1xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-21T13:30:45+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "threatens Germany's obsession with stability"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-28T17:39:42Z"
+  "last_updated": "2026-09-29T15:42:47Z"
 }
