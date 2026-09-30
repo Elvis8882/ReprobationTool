@@ -1,14 +1,14 @@
 {
   "country": "HR",
-  "score": 60,
+  "score": 59,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 92,
   "sentiment": {
     "positive": 1,
-    "neutral": 87,
-    "negative": 4
+    "neutral": 86,
+    "negative": 5
   },
   "latest_articles": [
     {
@@ -60,6 +60,17 @@
       "published_at": "2026-09-25T11:14:48+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "539f609a467f25d3d48e0c90d4f1eac748dcd4c6",
+      "title": "How the illegal dumping of toxic waste in a Croatian town sparked national calls for clean-up",
+      "summary": "After years of illegal mass flytipping in Gospić, fed-up residents decided to take matters into their own hands“Gospić is our home,” Željka Šikić shouted to a crowd of 40,000 people outside the Croatian parliament earlie…",
+      "url": "https://www.theguardian.com/environment/2026/sep/25/toxic-waste-dumped-croatian-town-gospic",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-25T11:00:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "illegal dumping of toxic waste in a Croatian town sparked national calls"
     },
     {
       "id": "0e2f8cebe04c8ea740d3b3ce659e866fefe57442",
@@ -200,18 +211,8 @@
       "published_at": "2026-09-16T19:39:28+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "3bae708d0a13f13164c42f84236e180fff3eb367",
-      "title": "European Union invites Canada to become first ever ‘associate member’",
-      "summary": "Commission president says EU must ‘urgently reimagine our partnerships’ as she makes unprecedented offerEurope live – latest updatesCanada has been invited to become the first “associate member” of the EU by the European…",
-      "url": "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-16T13:48:07+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-29T15:42:47Z"
+  "last_updated": "2026-09-30T15:57:22Z"
 }

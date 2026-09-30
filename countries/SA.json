@@ -1,16 +1,104 @@
 {
   "country": "SA",
-  "score": 23,
+  "score": 22,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 223,
+  "trend": -1,
+  "sources": 231,
   "sentiment": {
     "positive": 17,
-    "neutral": 88,
-    "negative": 118
+    "neutral": 95,
+    "negative": 119
   },
   "latest_articles": [
+    {
+      "id": "9484fa7ce2e1205b47666cb00f4d5974b6623722",
+      "title": "Pilot on Tel Aviv-bound flight tried to crash plane after cockpit stabbing, Netanyahu says",
+      "summary": "Flydubai Flight 1073 was carrying about 180 passengers to Tel Aviv from Dubai when it made the emergency landing in Saudi Arabia.",
+      "url": "https://www.washingtonpost.com/world/2026/09/30/flydubai-flight-tel-aviv-diverted-saudi-arabia-after-onboard-altercation/",
+      "source": "World (Washington post)",
+      "published_at": "2026-09-30T15:32:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "emergency landing in Saudi Arabia."
+    },
+    {
+      "id": "08411f00fc3864cf3da0cc655bcfa3b7a8e4a017",
+      "title": "Live Updates: Pilot May Have Attempted to Crash Flight to Israel, Netanyahu Says",
+      "summary": "Passengers intervened and “prevented a disaster” after one pilot stabbed another during a flight from Dubai, Prime Minister Benjamin Netanyahu said. The plane landed safely in Saudi Arabia. The motive for the attack was…",
+      "url": "https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots",
+      "source": "NYT > World News",
+      "published_at": "2026-09-30T15:31:44+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "The plane landed safely in Saudi Arabia."
+    },
+    {
+      "id": "cd5fdbbb6e2987ad9c02c39944dfffd30b72c107",
+      "title": "Netanyahu says pilot arrested after stabbing fellow pilot and apparently trying to crash Israel-bound plane – latest",
+      "summary": "Israeli PM issues statement on flydubai incident, which saw plane plummet mid-air before emergency landing in Saudi ArabiaFull report: Pilot on Israel-bound plane stabbed co-pilot and tried to crash aircraft, passenger s…",
+      "url": "https://www.theguardian.com/world/live/2026/sep/30/dubai-israel-saudi-arabia-flydubai-flight-diversion-pilots-fight-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-30T15:30:06+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "emergency landing in Saudi Arabia"
+    },
+    {
+      "id": "7f3db7dc3a6780288757dd6fc83472b069d96883",
+      "title": "Pilot who stabbed co-pilot on Israel-bound plane may have tried to crash it, says Netanyahu",
+      "summary": "Israeli officials investigating if incident, which forced plane to make emergency landing in Saudi Arabia, was attempted terror attackOne of the pilots of a plane flying from the UAE to Israel stabbed his co-pilot and ap…",
+      "url": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-30T15:16:37+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "emergency landing in Saudi Arabia"
+    },
+    {
+      "id": "eb16341793cbdd58eb01718ca62a6bfaf796f7b8",
+      "title": "Israel and Saudi Arabia don’t have formal ties, but Israelis have occasionally landed there.",
+      "summary": "",
+      "url": "https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots/israel-and-saudi-arabia-dont-have-formal-ties-but-israelis-have-occasionally-landed-there",
+      "source": "NYT > World News",
+      "published_at": "2026-09-30T14:18:58+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Israel and Saudi Arabia don’t have formal ties"
+    },
+    {
+      "id": "20274cac82a2c4f5e1fe80db3ee6a2a43514977c",
+      "title": "Flydubai flight incident: Netanyahu says Israel preparing for other ‘potential threats’",
+      "summary": "A flydubai flight from Dubai to Tel Aviv experienced a serious incident that required an emergency landing. Following a cockpit altercation, one pilot was arrested and investigated by Saudi authorities. Israeli Prime Min…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/flydubai-flight-incident-netanyahu-says-israel-preparing-for-other-potential-threats-top-developments/articleshow/134595815.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-09-30T13:54:26+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "pilot was arrested and investigated by Saudi authorities"
+    },
+    {
+      "id": "e63bb3380b1ce3e0bdab5944bf131a5a55c51925",
+      "title": "'Terrorist pilot planned to crash plane': Israel security minister on flydubai cockpit incident",
+      "summary": "Israel's National Security Minister has denounced a terrifying incident on a flydubai flight traveling from Dubai to Tel Aviv, where a pilot was stabbed, igniting fear among the 180 onboard passengers, which included num…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/terrorist-pilot-planned-to-crash-plane-israel-security-minister-on-flydubai-cockpit-incident/articleshow/134592703.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-09-30T11:46:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "safe diversion landing in Saudi Arabia."
+    },
+    {
+      "id": "d3860b10e9f80abf1bb7146b1a6aab6e8905c13b",
+      "title": "Over 800 Killed in Renewed Houthi-Saudi War in Yemen, W.H.O. Says",
+      "summary": "The fighting between the Iran-backed Houthi militia and Saudi-backed government forces has exacerbated one of the world’s worst humanitarian crises, the World Health Organization said.",
+      "url": "https://www.nytimes.com/2026/09/28/world/middleeast/yemen-war-800-dead.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-28T16:20:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Saudi-backed government forces has exacerbated one of the world’s worst humanitarian crises"
+    },
     {
       "id": "8398dd9c9818412d753ad1b178d76727e43d5f0e",
       "title": "Children forced to give up school for work as fighting upends daily life in Yemen",
@@ -142,96 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Saudi Arabia Downs Houthi Missiles Targeting Kingdom"
-    },
-    {
-      "id": "dcea437846ac76cf049e3a17f2412eee14791d25",
-      "title": "Yemen government forces claim control of Mount Qarfan in Taiz - Al Jazeera",
-      "summary": "Yemen government forces claim control of Mount Qarfan in Taiz&nbsp;&nbsp;Al JazeeraHouthis Push to Expand Territory as Tensions With Saudi Arabia Rise&nbsp;&nbsp;The New York TimesUp to 169 killed in Yemen as Houthis bat…",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOWdOaFJhWXc3dHROLXdnUzktVVJfdWxPelBhOTBuT1U0bkhVN19mdm5PUWRMSlI4a0J5WnhVTU1HNEtlTndadUV4Q2czaFBCeVItYVUtWko5VFJvOS1vMXR4RlQyZ0VWZDFLTWVWdWhlNDl5RW9ZQXNnUkE5NmNwQWxGM2VqeS1fVldxdUh3b0FROXcwUXRiME81ZE5Nc25FNHVYR9IBqgFBVV95cUxOcGNYLUdJdzMyS05SWUxQbHNHajA5OXdMb2RyUUE4OGRSM01sMktaNDNwQWFBaGJMaWdvN29hNkhRU0Y1N09YdTRPbVVYR2Z5RFQ4akpjMEg5aHUtQ2ZfVGpFb1JiRDRzcFhLeXN3dkVaSkZlYjhRdzhMZlBkYy1VTWZyS0R6QjhCVktDbGpvSHRoOGZxNWdrdUplZy1qazMwbTZHbWxpQVVCQQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-23T10:36:37+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Tensions With Saudi Arabia Rise"
-    },
-    {
-      "id": "3a47e8b82a1be5ee5a8c045110dc6a0e178a12ed",
-      "title": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
-      "summary": "Thousands flee fighting as Iran-aligned group seeks to consolidate territorial gains against Saudi-backed government forcesMiddle East live – latest updatesAs many as 169 people have been reportedly killed in Yemen in th…",
-      "url": "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-22T13:57:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Saudi-backed government forces"
-    },
-    {
-      "id": "147ec0dad904d552899324e8cf9642a0c4618efd",
-      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-      "summary": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-22T13:39:09+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Houthi attacks on Saudi Arabia"
-    },
-    {
-      "id": "39d094084a16c38e520edc0da009bb9bec30884a",
-      "title": "Trump Set to Meet With Persian Gulf Allies as Middle East Wars Widen",
-      "summary": "The Iran war and the fight between the Houthis and Saudi Arabia in Yemen have forced Gulf Arab states to reckon with spiraling conflicts and to reassess U.S. security guarantees.",
-      "url": "https://www.nytimes.com/2026/09/22/world/middleeast/trump-persian-gulf-leaders-meeting.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-22T12:56:19+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "the Houthis and Saudi Arabia in Yemen"
-    },
-    {
-      "id": "4f6946a89c8e839350c0b48741c3321f0844d069",
-      "title": "Saudi Arabia restarts East-West oil pipeline, sources say - Reuters",
-      "summary": "Saudi Arabia restarts East-West oil pipeline, sources say&nbsp;&nbsp;ReutersOil prices reverse gains as United Nations General Assembly meeting lifts hopes for Iran war diplomacy&nbsp;&nbsp;CNBCOil Prices Fall for Fourth…",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNmJidHFzNHlscWlnT2hsWFdKc1hNRFMxOWRnTTRQRHVHbV9tRTJySFJoOGFoZXdNdTIwMngxZlczRmY3dWJxWkNiWTRYclVyT0JoWXQyUHJpNThicmpUNDMwWjNqREdrYmw3Ty1peU9oaEtRdC1GWXE1S0o1eGlrWDZONDhqS0FDbWotZXV1LXBvTEhUWHdlT1BzYU5udjNKTTFXdk1hX0wwVk1yczRTdV94R0p4UUQ1bEViTXJ2S2pEaTVLTFlvdw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-22T11:41:47+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Saudi Arabia restarts East-West oil pipeline"
-    },
-    {
-      "id": "a6e9cd67e0d38b56a453432234099c1eb5dae88a",
-      "title": "UK to give support to Saudi jets in attempt to counter Houthi fighters",
-      "summary": "Andy Burnham seeks stability in Middle East to bring down prices at home as first meeting with Trump loomsThe UK has agreed to provide defensive air support to Saudi Arabia to help counter Houthi fighters and restore sta…",
-      "url": "https://www.theguardian.com/politics/2026/sep/21/uk-to-give-support-to-saudi-jets-in-attempt-to-counter-houthi-fighters",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-21T21:33:09+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "support to Saudi jets in attempt to counter Houthi fighters"
-    },
-    {
-      "id": "9481b6e4bf2460d2460ba30ace149fa24fb23047",
-      "title": "Saudi Arabia cancels star-studded film fest amid Middle East war",
-      "summary": "The Red Sea International Film Festival has drawn such Hollywood A-listers as Emily Blunt, Adrien Brody, Gwyneth Paltrow and Michael Caine.",
-      "url": "https://www.washingtonpost.com/world/2026/09/21/saudi-arabia-cancels-star-studded-film-fest-amid-middle-east-war/",
-      "source": "World (Washington post)",
-      "published_at": "2026-09-21T21:20:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "Saudi Arabia cancels star-studded film fest amid Middle East war"
-    },
-    {
-      "id": "def282929eecc193494b0171ff5b10dfdb8a1313",
-      "title": "Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute",
-      "summary": "US president reportedly changed his mind over Saudi Arabia’s pleas for assistance as bombs were being loadedHouthi fighters are moving to seize strategic heights in Yemen that would cut the Red Sea coast off from areas h…",
-      "url": "https://www.theguardian.com/world/2026/sep/21/houthis-seize-strategic-terrain-yemen-trump-calls-off-airstrikes-last-minute",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-21T16:14:38+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "US president reportedly changed his mind over Saudi Arabia’s pleas for assistance"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-29T15:42:47Z"
+  "last_updated": "2026-09-30T15:57:22Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "DE",
-  "score": 30,
+  "score": 29,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": -1,
-  "sources": 303,
+  "sources": 300,
   "sentiment": {
-    "positive": 26,
-    "neutral": 176,
+    "positive": 24,
+    "neutral": 175,
     "negative": 101
   },
   "latest_articles": [
+    {
+      "id": "5b148285f5c50cf79a1092814596918164bc7d82",
+      "title": "Deutsche Bank CEO warns Germany’s political shift is troubling foreign investors",
+      "summary": "Deutsche Bank CEO Christian Sewing warned that recent election results could hurt Germany’s appeal to international investors.",
+      "url": "https://www.cnbc.com/2026/09/30/deutsche-bank-germany-investors-elections.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-30T15:00:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "troubling foreign investors"
+    },
     {
       "id": "fe621f08a19cd9994c3d4b32b2de79e4c38dda5a",
       "title": "Trump’s proposed diesel export ban spurs fear of energy crunch in Europe",
@@ -52,6 +63,28 @@
       "sentiment": "mixed",
       "confidence": 0.7,
       "evidence": "German town bans 'stumbling stone' memorials to Nazi victims"
+    },
+    {
+      "id": "49be5b4f230b38e9b0bac08448ce8094660ce925",
+      "title": "Work intensifying on UK laws to stamp out concert ticket touts, say sources - The Guardian",
+      "summary": "Work intensifying on UK laws to stamp out concert ticket touts, say sources&nbsp;&nbsp;The GuardianTouts in US, Latvia and Germany selling Manchester gig tickets&nbsp;&nbsp;BBCThree ticket touts responsible for 75% of 1,…",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR090QVlhRlFCNTRjSkhCWkpwNkV2OHpjU3FXSjBlM3FrTG1hUV91YWR5YU9KWjhwVENjT0hkY0tDc1ZMYVU5dzJPcVRjQlJtQk9oNi1obXhKM1lPUG1jOW1NRC1xY002enhNOUE4d3R4Z0NzMjhsSWZOWTROdGl0X21Ta0d6RFhBRmZTSEJXY3Z2OWFXb21welI0bkVkTDBiNF9xTU1DX0E?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-09-26T11:02:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Latvia and Germany selling Manchester gig tickets"
+    },
+    {
+      "id": "7b4ee96ff74304368b550ab6dffc9ebfb48ba955",
+      "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
+      "summary": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-25T23:08:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Voters are turning away from the centre in Germany as fears grow"
     },
     {
       "id": "5fadd0e105ae1d11b1918c05dabe9a3b215c79ba",
@@ -188,40 +221,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "suffered a drubbing at the polls in two state elections"
-    },
-    {
-      "id": "ab93d16ddbaac1edd8593574d0a8bc1b3146b0c1",
-      "title": "Germany’s Merz ‘grateful’ centre-left SPD wants to stay in coalition after CDU’s heavy losses – as it happened",
-      "summary": "CDU suffered heavy losses in two regional elections, including in home state of former leader Angela Merkel, where it polled just 4.9%Staying in Germany, tens of thousands of automotive workers at Volkswagen, BMW, Merced…",
-      "url": "https://www.theguardian.com/world/live/2026/sep/21/merz-german-chancellor-state-elections-russia-ukraine-europe-live-latest-news",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-21T15:02:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "German car industry into crisis"
-    },
-    {
-      "id": "d6c72cbd39aaf660c8954401e3de02c161bc6a2f",
-      "title": "On a Dot of France Off Canada, Carney and Macron Talk Partnership",
-      "summary": "Prime Minister Mark Carney of Canada and President Emmanuel Macron of France met just after the European Union invited Canada to become its first “associate member.”",
-      "url": "https://www.nytimes.com/2026/09/20/world/canada/carney-macron-saint-pierre-miquelon-canada-eu.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-21T14:47:07+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "eeaf29f080d591fca1d832b632a61acd3b45af4b",
-      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
-      "summary": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
-      "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-21T14:26:29+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "keep coalition together for Germany's 'democratic future'"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-29T15:42:47Z"
+  "last_updated": "2026-09-30T15:57:22Z"
 }

@@ -4,13 +4,35 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 60,
+  "sources": 62,
   "sentiment": {
     "positive": 2,
-    "neutral": 36,
+    "neutral": 38,
     "negative": 25
   },
   "latest_articles": [
+    {
+      "id": "baf14339c0cbe8c522ebe8aee2d71753ac45ffad",
+      "title": "Morocco’s King Names a Female Prime Minister, in a Historic First",
+      "summary": "Fatima Ezzahra El Mansouri, a lawyer and politician from the centrist Authenticity and Modernity Party, is only the second woman to lead the government of a North African country.",
+      "url": "https://www.nytimes.com/2026/09/29/world/middleeast/morocco-first-woman-prime-minister.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-30T14:14:29+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Morocco’s King Names a Female Prime Minister"
+    },
+    {
+      "id": "2c21f8aebdff5e6a39ef7bdb49221d3a48c1a4d9",
+      "title": "Morocco appoints its first female prime minister",
+      "summary": "A royal decree issued by Morocco’s King Muhammed VI tasked Fatima Zahra El Mansouri with forming a new cabinet, probably a coalition government with other political groups.",
+      "url": "https://www.washingtonpost.com/world/2026/09/29/morocco-appoints-its-first-female-prime-minister/",
+      "source": "World (Washington post)",
+      "published_at": "2026-09-29T22:02:26+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Morocco appoints its first female prime minister"
+    },
     {
       "id": "c887a52c62ba63dcc6512be34538ac210659e5bd",
       "title": "Youth Frustration and Migration Shadow Morocco’s Election",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "wave of disinformation online contributed to a surge of migrants"
-    },
-    {
-      "id": "0d8bf6d2f6c3a9424d8d64cfc69ac84c1fd25058",
-      "title": "Chaos at Spain’s border underscores how migrant flows can be weaponized",
-      "summary": "Authorities have not said who organized a suspicious border breach in Ceuta, a Spanish exclave in North Africa. Social media posts in Morocco are urging another push.",
-      "url": "https://www.washingtonpost.com/world/2026/08/10/spain-border-collapse-reveals-risk-weaponized-migration-eu-us/",
-      "source": "World (Washington post)",
-      "published_at": "2026-08-10T11:03:41+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Social media posts in Morocco are urging another push"
-    },
-    {
-      "id": "7dc1d2ca7c7563799778ff1e29fcbc9ae2cf4de3",
-      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-      "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-07T22:13:55+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "migrants from Morocco into the neighbouring Spanish exclave"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-29T15:42:47Z"
+  "last_updated": "2026-09-30T15:57:22Z"
 }
