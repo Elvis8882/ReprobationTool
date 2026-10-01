@@ -1,16 +1,93 @@
 {
   "country": "GB",
-  "score": 26,
+  "score": 25,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": -1,
-  "sources": 1036,
+  "sources": 1037,
   "sentiment": {
     "positive": 130,
-    "neutral": 732,
-    "negative": 175
+    "neutral": 731,
+    "negative": 177
   },
   "latest_articles": [
+    {
+      "id": "8d6a99dfc7ed9a681d8afa6684a9b747c5d9e408",
+      "title": "Naomi Campbell wins legal challenge over charity trustee ban",
+      "summary": "Supermodel was disqualified from role in 2024 after Charity Commission accused her of misusing funds and abdicating responsibilitiesNaomi Campbell has won a legal challenge to overturn a five-year ban on being a charity…",
+      "url": "https://www.theguardian.com/society/2026/oct/01/naomi-campbell-wins-legal-challenge-charity-trustee-ban",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-01T15:50:42+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Charity Commission – which regulates charities in England and Wales"
+    },
+    {
+      "id": "9d467da4ebb96fffe7c0b80bfec8d7dab46d8fa2",
+      "title": "Burnham’s reopening of Brexit debate is ‘biggest boost in my career’, says Farage",
+      "summary": "Reform UK leader tells supporters PM’s move has ‘opened up a huge flank to us’UK politics live – latest updatesNigel Farage has claimed that Andy Burnham has given him “the biggest boost in my career” by reviving the Bre…",
+      "url": "https://www.theguardian.com/politics/2026/oct/01/burnhams-reopening-of-brexit-debate-is-biggest-boost-in-my-career-says-farage",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-01T15:47:43+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.7,
+      "evidence": "rejoining the EU was among options the government would look at"
+    },
+    {
+      "id": "31282f925d70110caf388237a859ee250086cd0c",
+      "title": "Global bond sell-off intensifies, as UK long-term borrowing costs pass 6%",
+      "summary": "Fears that US deficit is unsustainable drive yields on Treasury bills and UK gilts to multi-decade highsBusiness live – latest updatesThe turmoil in global bond markets has intensified amid fears the US deficit is reachi…",
+      "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-01T14:48:45+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "UK long-term borrowing costs pass 6%"
+    },
+    {
+      "id": "71815dc09fe4d1ddf859fbd179a4e4fad8fad00d",
+      "title": "Tourette syndrome campaigner John Davidson to watch Bafta Scotland awards in separate ‘relaxed’ space",
+      "summary": "Decision follows independent review into handling of February ceremony, where his involuntary tics caused a BBC crisisJohn Davidson, the Tourette syndrome campaigner whose outburst at the British Academy film awards in F…",
+      "url": "https://www.theguardian.com/film/2026/oct/01/tourette-syndrome-campaigner-john-davidson-to-watch-bafta-scotland-awards-in-separate-relaxed-space",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-01T14:06:40+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Bafta had “strengthened and centralised our safeguarding, risk assessment"
+    },
+    {
+      "id": "a60e23a472925720751279792d1c786749397d58",
+      "title": "Bargain Britain lures foreign buyers as hostile takeovers surge",
+      "summary": "International capital is driving a surge in public takeovers in the G7’s fastest-growing economy.",
+      "url": "https://www.cnbc.com/2026/10/01/hostile-takeovers-mergers-acquisitions-uk.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-01T10:53:11+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "Bargain Britain lures foreign buyers"
+    },
+    {
+      "id": "620bbc746ff5e579cd00633b92e88c7e5c856240",
+      "title": "Driver Strikes 4 People Outside a Mall in British Columbia, Killing 2, Police Say",
+      "summary": "The accident occurred as hundreds of people were gathering nearby for a National Day of Truth and Reconciliation march near Delta, a city south of Vancouver, the authorities said.",
+      "url": "https://www.nytimes.com/2026/09/30/world/canada/british-columbia-crash-medical-emergency.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-30T22:14:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Driver Strikes 4 People Outside a Mall in British Columbia"
+    },
+    {
+      "id": "98e606cabe145a00ae3aed9f91ba61c634bf300b",
+      "title": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
+      "summary": "The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why.",
+      "url": "https://www.nytimes.com/2026/09/30/world/europe/uk-iran-raf-fairford-burnham.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-30T21:31:42+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident"
+    },
     {
       "id": "cbcc5b414c5e0e3af9240f0ac637aad8982ff9a9",
       "title": "We need ‘right to intervene’ in AI amid growing threat, says Bank of England boss",
@@ -78,6 +155,17 @@
       "evidence": "resilient economy"
     },
     {
+      "id": "ac5335e1cbae60c15e1b9cdf7181bb0c6e341ccc",
+      "title": "‘Of course I’m the underdog’: the British former spin doctor trying to turn California red",
+      "summary": "Steve Hilton’s long-shot campaign for governor is courting Golden state voters with unapologetically populist messageSteve Hilton stands almost no chance of becoming California’s next governor, but that isn’t stopping hi…",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/30/california-governor-steve-hilton-race",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-30T14:00:42+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "the British former spin doctor trying to turn California red"
+    },
+    {
       "id": "dae71122322e45ee821ab81dd879e05d836f2068",
       "title": "MI5 China alert will send chill through UK’s cash-strapped universities",
       "summary": "Institutions have for years turned to China for funding opportunities but national security concerns are mountingMI5 issues spy alert to UK universities over Chinese front company stealing researchThe security alert issu…",
@@ -89,6 +177,17 @@
       "evidence": "MI5 China alert will send chill through UK’s cash-strapped universities"
     },
     {
+      "id": "9537df8e5267abdc117990f564554d83e3d97135",
+      "title": "MI5 issues spy alert to UK universities over Chinese front company stealing research",
+      "summary": "Security service says academics should stop taking grants from and working with firm backed by China’s intelligence serviceMI5 China alert will send chill through UK’s cash-strapped universitiesChina’s intelligence servi…",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-30T13:00:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "MI5 issues spy alert to UK universities over Chinese front company stealing research"
+    },
+    {
       "id": "a9f2a45f7d9b53fa632785f0dfaa9ac0e41c9cc1",
       "title": "UK-France ‘one in one out’ deal to expire on Thursday, say sources",
       "summary": "Deal aimed at deterring small boat arrivals set to end as talks stall over French demand for EU-wide schemeUK politics live – latest updatesThe UK government’s “one in one out” deal with France, which was supposed to hel…",
@@ -98,6 +197,17 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "UK-France ‘one in one out’ deal to expire"
+    },
+    {
+      "id": "582de66cfeb12c80641a498432b5b12071daf7cf",
+      "title": "'Reckless': Prince Harry, Meghan's children targeted by 'European paparazzi' at UK school",
+      "summary": "Concerns have arisen regarding Prince Harry and Meghan Markle's children's safety as European paparazzi have been spotted lurking near their new school, jeopardizing their privacy. This move back to Britain was intended…",
+      "url": "https://timesofindia.indiatimes.com/world/uk/reckless-prince-harry-meghans-children-targeted-by-european-paparazzi-at-uk-school/articleshow/134594187.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-09-30T12:40:47+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "'Reckless': Prince Harry, Meghan's children targeted by 'European paparazzi'"
     },
     {
       "id": "1a0961ba4606e22842ffb663c403e65e8def9400",
@@ -120,118 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "uncertainty surrounding a suspected plot"
-    },
-    {
-      "id": "ab1c77fe1f5c197f19f17b023b4eae7937ce6816",
-      "title": "Andy Burnham: UK could ‘go all the way’ by rejoining EU",
-      "summary": "PM says he is looking at all options and ministers will examine ‘what is doable’ and the ‘pros and cons’UK politics live – latest updatesAndy Burnham has opened the door to the UK rejoining the EU, saying Britain could “…",
-      "url": "https://www.theguardian.com/politics/2026/sep/30/andy-burnham-uk-could-go-all-the-way-rejoining-eu",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-30T07:41:26+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "UK rejoining the EU, saying Britain could “go all the way”"
-    },
-    {
-      "id": "e3ff3f33b1ee039ee33d4905dd9755f9934a39a6",
-      "title": "Britain pledges nuclear deterrent to defence of Baltic / Article - LSM",
-      "summary": "Britain pledges nuclear deterrent to defence of Baltic / Article&nbsp;&nbsp;LSMUK Offers ‘Nuclear Umbrella’ to JEF Alliance Members&nbsp;&nbsp;МілітарнийThe UK has clarified that there will be no separate nuclear umbrell…",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHRPTzRxU1I1bVBCX3c3d2hQUzhFSERSb1JmaVpJc2tyRWRsMWYzZ2hUalBYQWlGbmE5ZDBsTE5IYUJUWFljbTdGSndISkRJMXAtcU5RM0UxMmI2REM1R1V2ekE4dUVvQTh6NzZPZWMwUzF2MnJsUzJSN09wcUtzR1J2X1VuWHlkdlYzZ1phQVhnS2NocG5LQWg3YjFMLV9iM3gzLVN5ZDk5dUUwcVM0dW5OSnhGcmRt?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-30T07:21:46+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Britain pledges nuclear deterrent to defence of Baltic"
-    },
-    {
-      "id": "c48fcdb529bb0167d008006c0e0699c6615449ba",
-      "title": "Burnham says he would put PR in Labour manifesto and scrap triple lock to fund social care – UK politics live",
-      "summary": "PM, in first speech to party conference as leader, insists his plans are a ‘good deal’ for older peopleBurnham to signal willingness to look at scrapping pension triple lock to fund social careAngela Rayner, the housing…",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/29/andy-burnham-labour-conference-liverpool-speech-triple-lock-pension-angela-rayner-lucy-powell-bridget-phillipson-uk-politics-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-29T15:23:38+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "scrap triple lock to fund social care"
-    },
-    {
-      "id": "3a816f787f34054ab4d5be65c745bea8f4353e97",
-      "title": "Body of newborn baby found on Welsh shoreline, prompting search for mother",
-      "summary": "Police and medics fear mother could be ‘extremely vulnerable’, after discovery in Bangor close to Menai strait on SundayPolice are searching for the mother of a newborn baby whose body was found on a Welsh shoreline, fea…",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/29/body-newborn-baby-found-bangor-menai-strait-wales-search-for-mother",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-29T15:03:47+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Body of newborn baby found on Welsh shoreline"
-    },
-    {
-      "id": "d4919fc24881e2af04d139b4fc1bf98378704c11",
-      "title": "Prime Minister Andy Burnham Lays Out Plan to Change UK in Emotional Speech at Labour Conference",
-      "summary": "Prime Minister Andy Burnham outlined his proposals for major policy changes and said: “I accept people will not agree with every part of it.”",
-      "url": "https://www.nytimes.com/2026/09/29/world/europe/andy-burnham-labour-conference-uk.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-29T15:01:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Prime Minister Andy Burnham Lays Out Plan to Change UK"
-    },
-    {
-      "id": "88ff9201a2e11c19ad5125a89d43eba7fdfaefd6",
-      "title": "Opinion: Opinion | India Has A 'Lobbying' Problem In Washington, And It Has Come Back To Haunt It",
-      "summary": "While the EU, Japan, the UK and South Korea secured quick deals, India's efforts were getting drained in prolonged negotiations and the wrong kind of lobbying.",
-      "url": "https://www.ndtv.com/opinion/how-indias-lobbying-problems-have-come-back-to-haunt-it-in-washington-12114282#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-29T10:48:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "the UK and South Korea secured quick deals"
-    },
-    {
-      "id": "56c2388fd3038904df3ad11517f569430688c01a",
-      "title": "Rubio Says Incident at UK Air Base RAF Fairford ‘Clearly Involved’ a Foreign Actor",
-      "summary": "The U.S. secretary of state, Marco Rubio, told Fox News that what happened at a base used by U.S. bombers flying to Iran was “very serious,” without providing details.",
-      "url": "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-29T10:44:22+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Incident at UK Air Base RAF Fairford ‘Clearly Involved’ a Foreign Actor"
-    },
-    {
-      "id": "10b405488c1184d76206641ebbb2569cd08adff4",
-      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
-      "summary": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-29T03:50:40+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Argentina threatens legal action against UK over Falkland Islands"
-    },
-    {
-      "id": "6ccf9cd4e255e355a161ff9c8048593e1fba3272",
-      "title": "Possible Terrorist Plot at RAF Fairford Air Base in U.K.: What We Know",
-      "summary": "Five British men who were arrested as they neared R.A.F. Fairford, a base used by the United States in the war on Iran, were to be released on bail but remained suspects.",
-      "url": "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-28T17:10:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Possible Terrorist Plot at RAF Fairford"
-    },
-    {
-      "id": "e0ec3b6d5d13cac4a449f8dcb8a23a13e21eac81",
-      "title": "Investigation of alleged gang-rape at Cornell University fraternity house reopened",
-      "summary": "Outrage over treatment of alleged offenders, members of Chi Phi fraternity, has grown since lawsuit was made publicSign up for the Breaking News US newsletter emailProsecutors in New York said on Monday that they have re…",
-      "url": "https://www.theguardian.com/us-news/2026/sep/28/cornell-fraternity-investigation-alleged-gang-rape",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-28T17:05:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "In the UK, Rape Crisis offers support on 0808 500 2222."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-30T15:57:22Z"
+  "last_updated": "2026-10-01T16:20:45Z"
 }

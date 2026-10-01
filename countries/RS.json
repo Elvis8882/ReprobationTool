@@ -4,10 +4,10 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 13,
+  "sources": 14,
   "sentiment": {
     "positive": 0,
-    "neutral": 6,
+    "neutral": 7,
     "negative": 7
   },
   "latest_articles": [
@@ -21,6 +21,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Serbia’s Longtime President Aleksandar Vucic Resigns Post"
+    },
+    {
+      "id": "dd7f9186901b17b815b1b6d327bc79b936f8a1e0",
+      "title": "Embattled Serbian president resigns, paving way for early elections",
+      "summary": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
+      "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-27T20:04:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "allegations of corruption"
     },
     {
       "id": "4cd17fa36d175f28399d0d25798d2a991b5fc185",
@@ -156,5 +167,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-30T15:57:22Z"
+  "last_updated": "2026-10-01T16:20:45Z"
 }

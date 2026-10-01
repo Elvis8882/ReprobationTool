@@ -17,8 +17,25 @@
     "RU",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-09-30T15:57:22+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-10-01T16:20:45+00:00",
+  "sentiment_by_country": {
+    "EE": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "Estonia blames Russia for arson at defence factory"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "Estonia blames Russia for arson"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "produces vehicles Ukraine has used"
+    }
+  },
+  "processed_at": "2026-10-01T16:20:45+00:00"
 }

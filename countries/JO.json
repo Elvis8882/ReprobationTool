@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 53,
+  "sources": 54,
   "sentiment": {
     "positive": 2,
-    "neutral": 12,
+    "neutral": 13,
     "negative": 39
   },
   "latest_articles": [
+    {
+      "id": "f4e89a8c24370f1396400f231f4ca1206de067e3",
+      "title": "What we know so far about alleged stabbing of pilot by co-pilot on flight to Israel",
+      "summary": "Plane made emergency landing after pilot tried to crash aircraft, Israeli PM says, as officials investigate whether it was an attempted terror attackOne of the pilots of a plane flying from the UAE to Israel stabbed his…",
+      "url": "https://www.theguardian.com/world/2026/sep/30/what-we-know-alleged-stabbing-pilot-copilot-flight-israel",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-30T15:00:54+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "The flydubai flight was over Jordan"
+    },
     {
       "id": "c41b0e31389dba7906e7ff696876cf7cf3867983",
       "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
@@ -219,19 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Jordan says it foiled Iranian missile attack"
-    },
-    {
-      "id": "e8847d104d4d31ec899b31093d363997e5fb248a",
-      "title": "US launches fresh strikes on Iran after days-long pause, amid fears the war is widening",
-      "summary": "Trump vowed to hit Iran ‘very hard’ after it targeted a base in Jordan that hosts US troops, a day after joint US-Saudi strikes on militants in IraqMiddle East crisis – live updatesThe US military has launched strikes on…",
-      "url": "https://www.theguardian.com/world/2026/jul/30/us-strikes-iran-war-widening-iraq",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-30T03:17:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "base in Jordan that hosts US troops"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-30T15:57:22Z"
+  "last_updated": "2026-10-01T16:20:45Z"
 }

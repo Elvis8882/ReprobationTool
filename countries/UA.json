@@ -4,13 +4,57 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 617,
+  "sources": 616,
   "sentiment": {
-    "positive": 238,
-    "neutral": 112,
-    "negative": 268
+    "positive": 239,
+    "neutral": 111,
+    "negative": 267
   },
   "latest_articles": [
+    {
+      "id": "d2ba5cf1559634c8e23f1784bbc4fba916c9418e",
+      "title": "Russia to Sharply Increase War Spending and Cut Social Programs",
+      "summary": "Both sides are finding it increasingly difficult to finance the conflict in Ukraine. Russia’s 2027 budget envisions more debt, higher taxes and lower social benefits.",
+      "url": "https://www.nytimes.com/2026/10/01/world/europe/russia-war-budget.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-01T16:00:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Both sides finding it difficult to finance the conflict in Ukraine."
+    },
+    {
+      "id": "bc8dabc66f7950407e7854263670d4287d1c74b4",
+      "title": "Ukraine persists with Russian oil refinery strikes in defiance of Trump",
+      "summary": "US president blames attacks for driving up fuel prices before midterms, though analysts say his Iran war is main causeEurope live – latest updatesUkraine is pressing on with strikes on Russian oil refineries, defying Don…",
+      "url": "https://www.theguardian.com/world/2026/oct/01/ukraine-russian-oil-refinery-strikes-defying-trump-fuel-price-warnings",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-01T12:09:34+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukraine persists with Russian oil refinery strikes"
+    },
+    {
+      "id": "3111b5c58eb2119adcef83ad6f5fe4226e3cbef8",
+      "title": "Long-time civil servant: MoD permanent secretary dismissed without due process - ERR",
+      "summary": "Long-time civil servant: MoD permanent secretary dismissed without due process&nbsp;&nbsp;ERREstonia wanted to buy Indian ammunition for Ukraine. It backfired spectacularly&nbsp;&nbsp;Veridica.ro70 million euro deal scan…",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1dUT0pRSGwxMjh1bUZzaFVfYmJkR3hqRFlOQkNsU3dDRnppTFplOHZqdXFFZk9fUVcwWXFocDNlcFF0cW40MjVYelV3elZHcmlBX2dRUTlLMzZ5QzJRcDVGeWZLcDVvWU9hQjJUVVBWc3ctblE4VThTOGNZUV9JempqSU50aDRwMVdhVklqTTZnTHJiRFQ0UlBTT3gyc1F2S2E1QXlDRkRDUnI1?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-10-01T06:00:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Estonia wanted to buy Indian ammunition for Ukraine."
+    },
+    {
+      "id": "0073ff5f9ff9574259d14ef8e8e44aff3fa67010",
+      "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-09-30T23:10:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine"
+    },
     {
       "id": "a7d768dd51af6e97e2dbe5a07e6fedca2e101ecf",
       "title": "No imminent threat to Nato territory but alliance is prepared for Russian aggression, says Rutte - as it happened",
@@ -54,6 +98,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Russian airstrikes left particles in the air"
+    },
+    {
+      "id": "28ff85d830418159da1ab2acb3beda89e99d5b4b",
+      "title": "How Ukraine’s Naval Drones Are Remaking War at Sea",
+      "summary": "They began as modified motorboats. Now, Ukrainian sea drones act as miniature aircraft carriers, and other countries want in.",
+      "url": "https://www.nytimes.com/2026/09/30/world/europe/ukraine-naval-drones-russia.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-30T09:00:11+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukraine’s Naval Drones Are Remaking War at Sea"
     },
     {
       "id": "e0170e5d097bb666228a8b940aa52679e158a125",
@@ -133,6 +188,17 @@
       "evidence": "drone maker supplying Ukraine"
     },
     {
+      "id": "31daf2312a6138b82adbee2571edd08f73e970e9",
+      "title": "Estonia Says Arson at Defense Company Was ‘Deliberate’ Attack by Russia",
+      "summary": "A fire broke out at Milrem Robotics, which manufactures and supplies unmanned vehicles for Ukraine, in August.",
+      "url": "https://www.nytimes.com/2026/09/29/world/europe/estonia-russia-ukraine-milrem-fire.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-29T13:39:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "manufactures and supplies unmanned vehicles for Ukraine"
+    },
+    {
       "id": "2b0443e41cd766e0646dc345e6f0b47a463b07bf",
       "title": "Estonia accuses Russia of arson attack on defence firm supplying Ukraine - Al Jazeera",
       "summary": "Estonia accuses Russia of arson attack on defence firm supplying Ukraine&nbsp;&nbsp;Al JazeeraEstonia blames Russia for arson at defence company supplying Ukraine&nbsp;&nbsp;BBC‘We will not be intimidated,’ says Estonian…",
@@ -164,74 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "defence company supplying Ukraine"
-    },
-    {
-      "id": "39b532a43b91670ef61a5a7693243e6c7a272135",
-      "title": "Russia Paying US Recruits $26,000 To Sign Up For Ukraine War: Report",
-      "summary": "US recruits are usually paid a $26,000 signing bonus and $2,000 per month.",
-      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-russia-paying-us-recruits-26-000-to-sign-up-for-ukraine-war-report-12114812#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-29T12:36:29+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Sign Up For Ukraine War"
-    },
-    {
-      "id": "5a149d8ba0d40db3507f84460e155d8656363361",
-      "title": "Bomb by Bomb, the Slow Death of My Hometown in Ukraine",
-      "summary": "It was possible, for a time, to think that Kramatorsk, where I was born and raised, would survive the war mostly unscathed. Not any more.",
-      "url": "https://www.nytimes.com/2026/09/29/world/europe/ukraine-kramatorsk.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-29T09:01:15+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Bomb by Bomb, the Slow Death of My Hometown in Ukraine"
-    },
-    {
-      "id": "1acbb073e809eec0c8704018813f75c4294631cd",
-      "title": "Their Sons Are Dying on Battlefields in Ukraine. They Still Back Russia’s War.",
-      "summary": "The Russian region of North Ossetia has suffered a heavy toll, yet many accept the Kremlin’s line that the fighting must continue until victory is secured.",
-      "url": "https://www.nytimes.com/2026/09/28/world/europe/ukraine-russia-war-soldiers-deaths-north-ossetia.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-28T17:11:27+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Their Sons Are Dying on Battlefields in Ukraine"
-    },
-    {
-      "id": "4cb9134952ac781f326ffb94913aa7383f94c94f",
-      "title": "Russian Drone Strikes Ukraine’s Science Academy, Causing Fire in City Center",
-      "summary": "A Russian jet-powered drone hit Ukraine’s National Academy of Sciences, the source of almost all of the country’s major scientific discoveries.",
-      "url": "https://www.nytimes.com/2026/09/28/world/europe/urkaine-drone-attack-kyiv-academy-sciences.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-28T17:10:20+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Ukraine’s Science Academy, Causing Fire in City Center"
-    },
-    {
-      "id": "19c83ca53546c53051bbe24391ee929482d29412",
-      "title": "People escape historic Kyiv building hit by Russian drone",
-      "summary": "The BBC's Paul Adams reports from the scene of the strike on Ukraine's National Academy of Sciences.",
-      "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-28T17:04:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Kyiv building hit by Russian drone"
-    },
-    {
-      "id": "cedd5b8bce012a3ead6e21b0b51b97e22e79644e",
-      "title": "World’s top 10 economy airlines revealed — and only one is U.S. based - New York Post",
-      "summary": "World’s top 10 economy airlines revealed — and only one is U.S. based&nbsp;&nbsp;New York PostThe world's five best economy airlines for 2026 - and what makes them so much better&nbsp;&nbsp;BBCThe World's Best Airline Ac…",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ09jZnNIdXd1cjB6VTVHeGNzT1JMbjd1WFhGODlDZDA2c3h1RV9pREhKcGlOVEpGRXFrREhWME10dmk0eS1uOWZKRFpCMzJ0M0x4Y2tnY05CU3JxRU1mMnU3NmJpQlhLdlFoN29BRUFrdGhqbUJqSzNDOGc3TFAtdTNyRGpYQ05CeWVNT2JwYnNIc1d2dExadEVZTExMeU5yQy0yazBtZElsVExMY2pJUA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-28T16:00:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Visit Ukraine Today"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-30T15:57:22Z"
+  "last_updated": "2026-10-01T16:20:45Z"
 }

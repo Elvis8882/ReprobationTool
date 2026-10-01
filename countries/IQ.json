@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 79,
+  "score": 77,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 58,
+  "trend": -2,
+  "sources": 60,
   "sentiment": {
     "positive": 5,
-    "neutral": 22,
-    "negative": 31
+    "neutral": 21,
+    "negative": 34
   },
   "latest_articles": [
+    {
+      "id": "6c95ab4d669dfba2c7886e710dabd078e9406697",
+      "title": "Pentagon says it has formally completed withdrawal of US troops from Iraq",
+      "summary": "Announcement comes two years after withdrawal was agreed to and 12 years since US mission to fight IS began The Pentagon announced on Wednesday that it has formally completed its withdrawal of US troops from Iraq, two ye…",
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/pentagon-formal-withdrawal-troops-iraq",
+      "source": "World news - The Guardian",
+      "published_at": "2026-09-30T14:31:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "worry that the withdrawal could give the Islamic State a chance"
+    },
     {
       "id": "3254e5488b44801b0419ba50dab1a76c0b2af417",
       "title": "U.S. withdraws forces in Iraq as balance of power shifts to Iran",
@@ -21,6 +32,17 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "U.S. withdraws forces in Iraq as balance of power shifts to Iran"
+    },
+    {
+      "id": "10878501edcee87109d1fc22b9ce0ff27d1f2c65",
+      "title": "American Forces Withdraw From Iraq 23 Years After Invading",
+      "summary": "The Americans did not understand the country when they invaded in 2003. Over a correspondent’s many trips there, it was not clear that this ever changed much.",
+      "url": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-troop-withdrawal.html",
+      "source": "NYT > World News",
+      "published_at": "2026-09-30T12:58:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Americans did not understand the country when they invaded"
     },
     {
       "id": "ba0ad10f1ceb2f93abcecd63be8982e445fdceb9",
@@ -54,6 +76,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "How US Controls Iraq's Oil Revenues"
+    },
+    {
+      "id": "c3acbdbbfca70b2d85256cc233f37409a1d8d07f",
+      "title": "Oil prices off highs after reports Saudi pipeline ramping back up",
+      "summary": "The Saudis shutdown the pipeline earlier this month after it sustained damage in a drone strike launched form Iraq.",
+      "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-09-28T17:25:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "damage in a drone strike launched form Iraq"
     },
     {
       "id": "327853d76072bd71bc490e4cc757327173b4ecf5",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "targeted US forces in Jordan, Bahrain, and Erbil"
-    },
-    {
-      "id": "81b2a81ece01751f700c66fd525f06767cd8577a",
-      "title": "US and Iran exchange more airstrikes, fuelling fears of wider return to hostilities",
-      "summary": "Attacks on Iran’s Revolutionary Guard and reprisals against US bases in Middle East quash hopes that flare-up last weekend was limited in natureThe US has launched new airstrikes on Iranian targets, prompting counter str…",
-      "url": "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-02T01:06:08+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Tehran targeting American interests in Bahrain, Kuwait, Jordan and Iraq"
-    },
-    {
-      "id": "85ad63ccac37b8198b12e8b1940b7822099e989c",
-      "title": "Bulgaria, Latvia and Romania receive first payments under SAFE defence instrument - defence-industry-space.ec.europa.eu",
-      "summary": "Bulgaria, Latvia and Romania receive first payments under SAFE defence instrument&nbsp;&nbsp;defence-industry-space.ec.europa.euBulgaria Receives First EUR 489.3 Mln Payment under EU SAFE Defence Instrument » Iraqi News…",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX2VBMTdNdUZjdTBoeXg2Y25xUkoxX3owTzZ6T2tJeE9pcXR5b3VhR241cnpWVThyRU9pSm1ObFMxbDJDLXA4Q1V5elg4ZmFIYVlQOW5OazVVbFc5QWVFUTZ4YW1qUVYwRHFlVThpUEIyaDFDUXpRVFBVZ2ZJdlFtODZLWWt1NXFXSGZuV1FvWHRqb0VzbmRBcVMwYmVVU2lrYndiTnprb1llTHV2S2dMMlZjbjQ2YktRY3BqVVo3M1QxdVdJQ29FMmtRWEZEMzBZMlNJTw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-08-31T12:00:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Iraqi News Agency"
-    },
-    {
-      "id": "5be3a3e9e2cafa9b6c49b1c9adfed93be9962e7d",
-      "title": "US plans to cut off military aid to key Middle East ally, BBC told",
-      "summary": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-28T19:45:39+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Iraqi Kurdistan fears the Trump administration's plan"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-09-30T15:57:22Z"
+  "last_updated": "2026-10-01T16:20:45Z"
 }
