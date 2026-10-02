@@ -1,16 +1,104 @@
 {
   "country": "GB",
-  "score": 25,
+  "score": 27,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 1037,
+  "trend": 2,
+  "sources": 1027,
   "sentiment": {
     "positive": 130,
-    "neutral": 731,
-    "negative": 177
+    "neutral": 724,
+    "negative": 174
   },
   "latest_articles": [
+    {
+      "id": "384d0df8fbbb30f333705094293ead1274ee4ea3",
+      "title": "U.S. and Allies Agree to Release Diesel Reserves as Prices Soar",
+      "summary": "The Group of 7, which includes Britain, France and Japan, announced the release of 100 million barrels over four months, effective immediately.",
+      "url": "https://www.nytimes.com/2026/10/02/business/diesel-reserves-g7.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-02T15:25:05+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Group of 7, which includes Britain, France... announced the release of 100 million barrels"
+    },
+    {
+      "id": "7d05219e20d3db4bb7402becf3df59069087c734",
+      "title": "British Teen Admits To Attempting Sexual Act With Pony, Faces Jail",
+      "summary": "Teenager admits to sexual offence involving a pony at Gledhill Farm near Huddersfield.",
+      "url": "https://www.ndtv.com/world-news/british-teen-admits-to-attempting-sexual-act-with-pony-faces-jail-12130916#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-02T14:26:16+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "British Teen Admits To Attempting Sexual Act With Pony"
+    },
+    {
+      "id": "56089032ae0d5c1d83ffdaec118d5df349f892c0",
+      "title": "Palestine Action crowdfunder for UK supreme court challenge blocked due to US sanctions",
+      "summary": "Exclusive: CrowdJustice platform says US firm Stripe, its payment processor, ‘cannot support accounts or transactions’ linked to groupAn online crowdfunder to raise money for the UK supreme court challenge to the ban on…",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/02/palestine-action-crowdfunder-supreme-court-challenge-blocked-us-sanctions",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-02T14:00:10+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "UK supreme court challenge blocked due to US sanctions"
+    },
+    {
+      "id": "0f215528233a210150d82684141ba3555427ced4",
+      "title": "Minister denies UK faces diesel shortage after Trump threatens to ban exports",
+      "summary": "In effort to avoid panic at pumps, Keir Mather insists supply of fuel to Britain is ‘inherently resilient’UK diesel price hits record high of £2 a litreBusiness live – latest updatesThe government has sought to avert pan…",
+      "url": "https://www.theguardian.com/business/2026/oct/02/uk-is-not-facing-diesel-shortage-despite-fears-of-trump-export-ban-minister-says",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-02T10:31:39+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Minister denies UK faces diesel shortage after Trump threatens to ban exports"
+    },
+    {
+      "id": "44fe48b703f469b7c8ee4074ded8b93d51885cb6",
+      "title": "OpenAI disclose another hack on government department in Australia",
+      "summary": "Attack accessing historical data on bushfires occurred in June but not disclosed by the tech company until ThursdayGet our breaking news email, free app or daily news podcastArtificial intelligence company OpenAI has dis…",
+      "url": "https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-02T10:00:05+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "OpenAI disclose another hack on government department in Australia"
+    },
+    {
+      "id": "ba9224c831703aec338a42aceeed6e60d4a78fb8",
+      "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
+      "summary": "In today’s newsletter: When a passenger plane plunges 17,000ft amid claims of terrorism, hijacking and geopolitical intrigue, Guardian journalists have to try and separate fact from fiction in real timeGood morning. Shoc…",
+      "url": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-02T05:45:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "UK politics | Ministers are working up sweeping plans for welfare changes"
+    },
+    {
+      "id": "9306b6aa6682e39c83db3cc103e32a8db687db64",
+      "title": "A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here’s what’s at stake",
+      "summary": "Britain voted to leave the European Union in 2016.",
+      "url": "https://www.cnbc.com/2026/10/02/brexit-uk-rejoin-eu-referendum.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-02T05:00:01+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "A Brexit reversal is on the table"
+    },
+    {
+      "id": "54c50f6c63fe7bfa68b37dcd13a2ae3f87ae3a03",
+      "title": "UK-Iranian Man Arrested in Connection to RAF Fairford Air Base Incident",
+      "summary": "British police said a 25-year-old British-Iranian dual national was arrested Thursday. British officials have said they believe Iran played a part in planning the incident at R.A.F. Fairford.",
+      "url": "https://www.nytimes.com/2026/10/01/world/europe/uk-iran-terrorism-raf-fairford.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-01T19:42:50+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "UK-Iranian Man Arrested in Connection to RAF Fairford Air Base Incident"
+    },
     {
       "id": "8d6a99dfc7ed9a681d8afa6684a9b747c5d9e408",
       "title": "Naomi Campbell wins legal challenge over charity trustee ban",
@@ -34,6 +122,17 @@
       "evidence": "rejoining the EU was among options the government would look at"
     },
     {
+      "id": "4be84b5fb5213eaf28eec0ce075b3d4da5521278",
+      "title": "Matt Kean warns climate crisis ‘isn’t someone else’s problem’ as largest coal project in NSW history greenlit",
+      "summary": "Exclusive: Climate Change Authority chair says planning commission did not account for climate-related economic damage in NSWSign up for climate and environment editor Adam Morton’s free Clear Air newsletter hereA senior…",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/02/hunter-valley-operations-coal-mine-extension-nsw",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-01T15:00:54+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Matt Kean warns climate crisis ‘isn’t someone else’s problem’"
+    },
+    {
       "id": "31282f925d70110caf388237a859ee250086cd0c",
       "title": "Global bond sell-off intensifies, as UK long-term borrowing costs pass 6%",
       "summary": "Fears that US deficit is unsustainable drive yields on Treasury bills and UK gilts to multi-decade highsBusiness live – latest updatesThe turmoil in global bond markets has intensified amid fears the US deficit is reachi…",
@@ -54,6 +153,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Bafta had “strengthened and centralised our safeguarding, risk assessment"
+    },
+    {
+      "id": "5b38a34913127dfb503982d7c47cd17c88dc3f91",
+      "title": "British Sikh activist released from Delhi jail after nine-year detention",
+      "summary": "Indian government issued with warning it would be in contempt of court if it failed to release Jagtar Singh JohalThe British Sikh activist Jagtar Singh Johal has been released from a Delhi prison after the Indian high co…",
+      "url": "https://www.theguardian.com/world/2026/oct/01/british-sikh-activist-jagtar-singh-johal-released-delhi-jail-india",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-01T13:10:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "British Sikh activist released from Delhi jail after nine-year detention"
     },
     {
       "id": "a60e23a472925720751279792d1c786749397d58",
@@ -120,118 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "UK income growth revised upwards as markets hail ‘resilient’ economy"
-    },
-    {
-      "id": "99b4eb6080ec3ef4feb3c45cd5beca87912e32b1",
-      "title": "BBC removes article linking bare nails trend to ‘white supremacist standards of beauty’",
-      "summary": "Corporation says story did not meet editorial standards after it attracts criticism from US and UK mediaA BBC article that included a claim that a trend for bare nails was linked to “white supremacist standards of beauty…",
-      "url": "https://www.theguardian.com/media/2026/sep/30/bbc-removes-article-linking-bare-nails-trend-white-supremacist-standards-beauty",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-30T14:38:43+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "removes article linking bare nails trend"
-    },
-    {
-      "id": "10968cdf35780b39d5d869bbd66ecb4663ed6f7d",
-      "title": "U.K. accuses China of operating institute as front for espionage",
-      "summary": "The “espionage alert” issued by MI5 is part of an extraordinary shift by the British government to raise public alarms about the scale and threat of Chinese espionage.",
-      "url": "https://www.washingtonpost.com/world/2026/09/30/uk-accuses-china-operating-institute-front-espionage/",
-      "source": "World (Washington post)",
-      "published_at": "2026-09-30T14:26:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "U.K. accuses China of operating institute as front for espionage"
-    },
-    {
-      "id": "5e3cb855ac2816c2d0ae7e91fa92ef639fb91fc5",
-      "title": "UK income growth revised upwards as markets hail ‘resilient’ economy",
-      "summary": "Boost for John Healey before budget as GDP figure shows UK economy grew faster than first estimated in second quarterBusiness live – latest updatesUK household income grew at a stronger pace than previously estimated dur…",
-      "url": "https://www.theguardian.com/business/2026/sep/30/uk-income-growth-john-healey-budget-gdp-ons",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-30T14:13:55+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "resilient economy"
-    },
-    {
-      "id": "ac5335e1cbae60c15e1b9cdf7181bb0c6e341ccc",
-      "title": "‘Of course I’m the underdog’: the British former spin doctor trying to turn California red",
-      "summary": "Steve Hilton’s long-shot campaign for governor is courting Golden state voters with unapologetically populist messageSteve Hilton stands almost no chance of becoming California’s next governor, but that isn’t stopping hi…",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/30/california-governor-steve-hilton-race",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-30T14:00:42+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "the British former spin doctor trying to turn California red"
-    },
-    {
-      "id": "dae71122322e45ee821ab81dd879e05d836f2068",
-      "title": "MI5 China alert will send chill through UK’s cash-strapped universities",
-      "summary": "Institutions have for years turned to China for funding opportunities but national security concerns are mountingMI5 issues spy alert to UK universities over Chinese front company stealing researchThe security alert issu…",
-      "url": "https://www.theguardian.com/education/2026/sep/30/mi5-china-alert-uk-universities-funding-financing",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-30T13:36:25+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "MI5 China alert will send chill through UK’s cash-strapped universities"
-    },
-    {
-      "id": "9537df8e5267abdc117990f564554d83e3d97135",
-      "title": "MI5 issues spy alert to UK universities over Chinese front company stealing research",
-      "summary": "Security service says academics should stop taking grants from and working with firm backed by China’s intelligence serviceMI5 China alert will send chill through UK’s cash-strapped universitiesChina’s intelligence servi…",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-30T13:00:41+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "MI5 issues spy alert to UK universities over Chinese front company stealing research"
-    },
-    {
-      "id": "a9f2a45f7d9b53fa632785f0dfaa9ac0e41c9cc1",
-      "title": "UK-France ‘one in one out’ deal to expire on Thursday, say sources",
-      "summary": "Deal aimed at deterring small boat arrivals set to end as talks stall over French demand for EU-wide schemeUK politics live – latest updatesThe UK government’s “one in one out” deal with France, which was supposed to hel…",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/30/uk-france-one-in-one-out-deal-to-expire-on-thursday-say-sources",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-30T12:52:16+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "UK-France ‘one in one out’ deal to expire"
-    },
-    {
-      "id": "582de66cfeb12c80641a498432b5b12071daf7cf",
-      "title": "'Reckless': Prince Harry, Meghan's children targeted by 'European paparazzi' at UK school",
-      "summary": "Concerns have arisen regarding Prince Harry and Meghan Markle's children's safety as European paparazzi have been spotted lurking near their new school, jeopardizing their privacy. This move back to Britain was intended…",
-      "url": "https://timesofindia.indiatimes.com/world/uk/reckless-prince-harry-meghans-children-targeted-by-european-paparazzi-at-uk-school/articleshow/134594187.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-09-30T12:40:47+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "'Reckless': Prince Harry, Meghan's children targeted by 'European paparazzi'"
-    },
-    {
-      "id": "1a0961ba4606e22842ffb663c403e65e8def9400",
-      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-      "summary": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
-      "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-30T11:36:23+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Last UK and US troops leave Iraq"
-    },
-    {
-      "id": "b08ee3237ff39542daf30f246009064eead989e4",
-      "title": "U.K. counterterrorism police say no explosives found in vans near air base",
-      "summary": "The failure to detect explosives adds to the uncertainty surrounding a suspected plot targeting Royal Air Force Fairford in the U.K.",
-      "url": "https://www.washingtonpost.com/world/2026/09/30/no-explosives-found-vans-near-raf-fairford-uk-counterterrorism-police-say/",
-      "source": "World (Washington post)",
-      "published_at": "2026-09-30T10:26:52+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "uncertainty surrounding a suspected plot"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-01T16:20:45Z"
+  "last_updated": "2026-10-02T15:43:58Z"
 }

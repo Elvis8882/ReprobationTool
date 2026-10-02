@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 59,
+  "sources": 60,
   "sentiment": {
     "positive": 7,
-    "neutral": 22,
+    "neutral": 23,
     "negative": 30
   },
   "latest_articles": [
+    {
+      "id": "623d60856de781194710c4f0e85f4c9f24247bd2",
+      "title": "Israelis divided as vote that could oust Netanyahu only weeks away",
+      "summary": "Some on streets of Jerusalem pledge their support to prime minister while others hope for changeOn the streets of Jerusalem, crowded with secular and ultra-Orthodox Jews, religious nationalists, settlers, Palestinians, a…",
+      "url": "https://www.theguardian.com/world/2026/oct/01/israel-election-benjamin-netanyahu-gadi-eisenkot",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-01T04:00:30+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "war in Gaza, Lebanon and Iran"
+    },
     {
       "id": "e70516b03e13ec6d4fe7e5b646528ee1a00fc107",
       "title": "Trump faces tough choices as Iran dangles deal to reopen Hormuz before US midterms",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "developer Jean Nassif had withdrawn from a scheduled videolink appearance from Lebanon"
-    },
-    {
-      "id": "d9a4bcff8ff4668abf4a8a8b94a5304cd6d61250",
-      "title": "Iran calls for global pushback against U.S. sanctions, says diplomacy 'isn't impossible'",
-      "summary": "Iran said the conflict in the Gaza Strip has to end, Israel has to withdraw from Lebanon and also halt its attacks on Syria.",
-      "url": "https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-08-28T12:39:02+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "Israel has to withdraw from Lebanon"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-01T16:20:45Z"
+  "last_updated": "2026-10-02T15:43:58Z"
 }

@@ -1,16 +1,26 @@
 {
   "country": "DE",
-  "score": 28,
+  "score": 29,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
+  "trend": 1,
   "sources": 297,
   "sentiment": {
     "positive": 24,
-    "neutral": 170,
-    "negative": 103
+    "neutral": 171,
+    "negative": 102
   },
   "latest_articles": [
+    {
+      "id": "9306b6aa6682e39c83db3cc103e32a8db687db64",
+      "title": "A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here’s what’s at stake",
+      "summary": "Britain voted to leave the European Union in 2016.",
+      "url": "https://www.cnbc.com/2026/10/02/brexit-uk-rejoin-eu-referendum.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-02T05:00:01+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "0c5ce46ca8ae15b0759ba35a825de765d48ffc6b",
       "title": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say - Reuters",
@@ -21,6 +31,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "US tells France and Germany to release diesel stocks"
+    },
+    {
+      "id": "0222c7b19441c2ef47d0b2b8433a545798398cd2",
+      "title": "Jürgen Klopp disgusted by claims his Germany team are ‘not white enough’",
+      "summary": "Says social media claims are ‘nonsense’ and ‘idiocy’Coach sees ‘no reason to pay attention to these people’Jürgen Klopp has reacted with disgust to a social media debate questioning whether the Germany team he is in the…",
+      "url": "https://www.theguardian.com/football/2026/oct/01/jurgen-klopp-germany-team-not-white-enough-disgusted-claims",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-01T10:06:14+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "claims his Germany team are ‘not white enough’"
     },
     {
       "id": "631937e9151021959aba2bdbc340bd08865d8e7f",
@@ -201,29 +222,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "As the far right surges"
-    },
-    {
-      "id": "63f5e3fba4c9dd993478ddc6f119781459af2c68",
-      "title": "Victories by far left and far right show Germans sick of politics as usual",
-      "summary": "In a striking show of antiestablishment voter sentiment, the Left won in Berlin on the same night that the far-right Alternative for Germany won in Mecklenburg-West Pomerania.",
-      "url": "https://www.washingtonpost.com/world/2026/09/22/victories-by-far-left-far-right-show-germans-sick-politics-usual/",
-      "source": "World (Washington post)",
-      "published_at": "2026-09-22T19:34:15+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Victories by far left and far right"
-    },
-    {
-      "id": "aecd22306c6d0cacf495e43fc227b136eec71acf",
-      "title": "The EU Council extended anti-Russian sanctions against 3,000 people and legal entities for 3 years - ИА Ореанда-Новости",
-      "summary": "The EU Council extended anti-Russian sanctions against 3,000 people and legal entities for 3 years&nbsp;&nbsp;ИА Ореанда-НовостиЕвросоюз решил снять санкции с российских бизнесменов Алишера Усманова и Михаила Фридмана&nb…",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMUZseEdfQnlaN3I1OVA4bGRjUFhZMWpwMGFXYW9CWmQxbERFV1h6U2R2d2tSQTVLOFAzY2RpaVc0dy1KNnBEWGd0U1g5Wnk3OC1wZGJmTWNhODlFVExDcnNQTjRNWVh2TXNpN2hrZkk5U1hfNWNibWlUQU9MUHBRdXZlODRJMzBoVVk3ZWtKZTY4U3hKczlQb2xTV0hFaVJZLVlYN0Iyb242Rnc2cWdMdnFWZDU4ZzB1U3Foa0lJQXZ3bXBNVTBVZ1dNa1ZXZw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-22T18:17:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-01T16:20:45Z"
+  "last_updated": "2026-10-02T15:43:58Z"
 }
