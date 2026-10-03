@@ -1,16 +1,26 @@
 {
   "country": "BE",
-  "score": 60,
+  "score": 58,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 117,
+  "trend": -2,
+  "sources": 116,
   "sentiment": {
-    "positive": 2,
+    "positive": 1,
     "neutral": 107,
     "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "0104714cc5e0992f079b00240493828a329db03b",
+      "title": "Understanding Canada’s Europe Pivot",
+      "summary": "You sent us your questions about the prime minister’s plan to form a closer relationship with the European Union. Our Canada bureau chief answers them.",
+      "url": "https://www.nytimes.com/2026/10/03/world/canada/carney-canada-european-union-trade-currency.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-03T10:00:13+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "9306b6aa6682e39c83db3cc103e32a8db687db64",
       "title": "A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here’s what’s at stake",
@@ -202,18 +212,8 @@
       "published_at": "2026-09-17T16:18:35+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "552547a8679fc20c090beabfb2c56fc0fe86e887",
-      "title": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
-      "summary": "Although Mark Carney welcomed offer to become bloc’s first associate member, no one seems to know what that meansEurope live – latest updatesMark Carney received a rapturous reception in the European parliament when he g…",
-      "url": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-17T15:46:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-02T15:43:58Z"
+  "last_updated": "2026-10-03T14:22:32Z"
 }

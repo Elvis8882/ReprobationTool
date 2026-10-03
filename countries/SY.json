@@ -1,16 +1,27 @@
 {
   "country": "SY",
-  "score": 81,
+  "score": 80,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 47,
+  "trend": -1,
+  "sources": 48,
   "sentiment": {
     "positive": 2,
     "neutral": 19,
-    "negative": 26
+    "negative": 27
   },
   "latest_articles": [
+    {
+      "id": "ac7bbc7b1df3079329b650ef1ce98321174ac123",
+      "title": "Born In UAE, Then 'Mysterious' Syria Chapter: Details Of flydubai Copilot",
+      "summary": "Hamam al-Hammami holds an Omani citizenship.",
+      "url": "https://www.ndtv.com/world-news/flydubai-co-pilot-hamam-al-hammami-life-career-syria-connection-attacked-smit-machchhar-on-aircraft-12134130#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-03T13:10:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "'Mysterious' Syria Chapter"
+    },
     {
       "id": "135ff4a2b751acf1be3bbf84c0e806c394bc9d13",
       "title": "At U.N. Meeting, Syria’s Leader Is Strengthened, but Faces a Difficult Test",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Israeli airstrikes on Syrian airbase"
-    },
-    {
-      "id": "6fe7aa53581cc20ec8c2256a1e79306f35f86339",
-      "title": "Israel Says It Targeted Syria Air Base To Block Turkish Troops Deployment",
-      "summary": "Netanyahu's office confirmed in a statement that Israel had attacked the base because Syria.",
-      "url": "https://www.ndtv.com/world-news/israel-says-it-targeted-syria-air-base-to-block-turkish-troops-deployment-11928400#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-08-18T22:25:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel Says It Targeted Syria Air Base"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-02T15:43:58Z"
+  "last_updated": "2026-10-03T14:22:32Z"
 }

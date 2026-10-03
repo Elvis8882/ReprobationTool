@@ -3,14 +3,24 @@
   "score": 88,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 3,
+  "trend": 0,
   "sources": 129,
   "sentiment": {
     "positive": 6,
-    "neutral": 103,
-    "negative": 20
+    "neutral": 104,
+    "negative": 19
   },
   "latest_articles": [
+    {
+      "id": "0104714cc5e0992f079b00240493828a329db03b",
+      "title": "Understanding Canada’s Europe Pivot",
+      "summary": "You sent us your questions about the prime minister’s plan to form a closer relationship with the European Union. Our Canada bureau chief answers them.",
+      "url": "https://www.nytimes.com/2026/10/03/world/canada/carney-canada-european-union-trade-currency.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-03T10:00:13+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "9306b6aa6682e39c83db3cc103e32a8db687db64",
       "title": "A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here’s what’s at stake",
@@ -205,19 +215,8 @@
       "published_at": "2026-09-19T10:36:18+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "2d5f65ada63329695d1f333a5a5e9184ce8eb23c",
-      "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
-      "summary": "German minister says companies are ‘exploiting situation’ in Middle East, as sky-high prices become major domestic issue for leadersEuropean governments have discussed imposing a bloc-wide windfall tax on energy companie…",
-      "url": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-19T06:46:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "elections due next year in eight EU countries"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-02T15:43:58Z"
+  "last_updated": "2026-10-03T14:22:32Z"
 }

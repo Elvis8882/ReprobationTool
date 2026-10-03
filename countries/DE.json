@@ -3,14 +3,24 @@
   "score": 29,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 297,
+  "trend": 0,
+  "sources": 298,
   "sentiment": {
     "positive": 24,
-    "neutral": 171,
+    "neutral": 172,
     "negative": 102
   },
   "latest_articles": [
+    {
+      "id": "0104714cc5e0992f079b00240493828a329db03b",
+      "title": "Understanding Canada’s Europe Pivot",
+      "summary": "You sent us your questions about the prime minister’s plan to form a closer relationship with the European Union. Our Canada bureau chief answers them.",
+      "url": "https://www.nytimes.com/2026/10/03/world/canada/carney-canada-european-union-trade-currency.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-03T10:00:13+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "9306b6aa6682e39c83db3cc103e32a8db687db64",
       "title": "A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here’s what’s at stake",
@@ -211,19 +221,8 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "German Envoy On India-EU Free Trade Deal"
-    },
-    {
-      "id": "9485c85461bdf6cef590e2d8e0e29d48796d5a58",
-      "title": "Why Germany’s Leader Merz Is Struggling to Sway Voters",
-      "summary": "As the far right surges, Chancellor Friedrich Merz’s unpopular economic policies and gruff manner have failed to sway voters turned by rivals’ promises of easy fixes.",
-      "url": "https://www.nytimes.com/2026/09/23/world/europe/germany-merz-afd-economy.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-23T09:02:24+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "As the far right surges"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-02T15:43:58Z"
+  "last_updated": "2026-10-03T14:22:32Z"
 }

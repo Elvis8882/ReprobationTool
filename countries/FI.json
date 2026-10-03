@@ -1,16 +1,26 @@
 {
   "country": "FI",
-  "score": 89,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 105,
+  "trend": -5,
+  "sources": 107,
   "sentiment": {
     "positive": 11,
-    "neutral": 92,
-    "negative": 2
+    "neutral": 93,
+    "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "0104714cc5e0992f079b00240493828a329db03b",
+      "title": "Understanding Canada’s Europe Pivot",
+      "summary": "You sent us your questions about the prime minister’s plan to form a closer relationship with the European Union. Our Canada bureau chief answers them.",
+      "url": "https://www.nytimes.com/2026/10/03/world/canada/carney-canada-european-union-trade-currency.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-03T10:00:13+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "9306b6aa6682e39c83db3cc103e32a8db687db64",
       "title": "A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here’s what’s at stake",
@@ -31,6 +41,17 @@
       "sentiment": "neutral",
       "confidence": 0.4,
       "evidence": "Finnish Lawmakers Report Suspicious Home Break-Ins"
+    },
+    {
+      "id": "f27d9f04e85f3cb330f7666b276341060ffbc14d",
+      "title": "Finnish PM says suspected break-ins at MPs’ homes could be work of foreign power",
+      "summary": "Police investigating reports of politicians’ homes being broken into in last year with nothing being stolenThe Finnish prime minister, Petteri Orpo, has said a foreign power could be responsible for a series of suspected…",
+      "url": "https://www.theguardian.com/world/2026/oct/01/finland-suspected-break-ins-mp-homes-foreign-power",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-01T14:29:26+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Finnish PM says suspected break-ins at MPs’ homes could be work of foreign power"
     },
     {
       "id": "631937e9151021959aba2bdbc340bd08865d8e7f",
@@ -194,29 +215,8 @@
       "published_at": "2026-09-19T10:36:18+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "39c0b091bd98be5d4cf2b0b5c5fb1b79d18040cb",
-      "title": "Finland, Slovenia post biggest construction output growth in EU in July - SeeNews",
-      "summary": "Finland, Slovenia post biggest construction output growth in EU in July&nbsp;&nbsp;SeeNewsEurozone construction output stable in July&nbsp;&nbsp;Breakingthenews.netEuro area services production falls in June as Cyprus re…",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeU9Cd2FrY2dWVm5MRmk4OFdUeVQxZkNzelJMbnM4eFhDMVgzUjB4d05vSkhSX3luUk1NcmF6MUV3bEEzbVpNRlJMRG9WeGNqVk1QUnN1X3R4LVhZRy1IMzRWeTNOSjRjd05WYmVHeVFNMzUycWJEcVZvbWxEQUQybWY1QWdaZk9EY3FkLTNVTVlQU3oybmRXTUtPZUM5RTJjbDJBZkZn?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-18T11:03:04+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Finland, Slovenia post biggest construction output growth in EU"
-    },
-    {
-      "id": "e346151d00f1c50dea5edb8301197db2457b4942",
-      "title": "EU Commission proposes €489m storm recovery aid for four member states - INSIGHT EU MONITORING",
-      "summary": "EU Commission proposes €489m storm recovery aid for four member states&nbsp;&nbsp;INSIGHT EU MONITORINGCommission proposes €489 million to help Portugal, Spain, Italy and Malta recover from severe storms&nbsp;&nbsp;The E…",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSVNYc1p6OGl5dmliQ2d6bkQ0RHdBd1NVdThva3dzMEQxc2FVNkR2d1hObHpXbUJOMEM2M0RxWkl6ZHR4Y3lhZS15N1cyWV9qZ3lUSlkxbnVKSkx3LWpQckhadlpTUVVNdVlqNi15eGxXaDJzNDJKZ3otNEZLQWZFWmpoUk5yaHNUUllyZjlDTk54SXI5NXdFdE9OS0d4b240ZlNLY3luUVlxMGZVSmx5U2c3SVNDTUhLNmxhaFR5WjdIYldZa1dRdnljV0lzTWh5VENN?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-17T19:24:21+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-02T15:43:58Z"
+  "last_updated": "2026-10-03T14:22:32Z"
 }
