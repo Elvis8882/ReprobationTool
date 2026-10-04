@@ -1,16 +1,49 @@
 {
   "country": "FR",
-  "score": 58,
+  "score": 59,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 456,
+  "trend": 1,
+  "sources": 457,
   "sentiment": {
-    "positive": 49,
-    "neutral": 324,
-    "negative": 84
+    "positive": 50,
+    "neutral": 325,
+    "negative": 83
   },
   "latest_articles": [
+    {
+      "id": "46b2b9c329926e97e84f792961517bd772b4239b",
+      "title": "French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live",
+      "summary": "At least 5,000 people, mainly teenagers, have been arrested while dozens of people, including students and teachers, have been injuredGermany is Ukraine’s largest donor and has sent Kyiv more than €43.3 billion ($48.8 bi…",
+      "url": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-04T14:16:32+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "French education minister says up to 500 schools will remain partially or fully closed"
+    },
+    {
+      "id": "701cf0e59ed5463bfd997877e73a9999d765ed8f",
+      "title": "Explained: Why Are Students Protesting In France",
+      "summary": "More than 5,000 people have been arrested in France since Monday.",
+      "url": "https://www.ndtv.com/world-news/explained-why-are-students-protesting-in-france-12135794#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-04T04:46:47+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Students Protesting In France"
+    },
+    {
+      "id": "5abdddd8f168321a021e40cc0cebc0ae90e41fd2",
+      "title": "What to Know About France’s High School Protests",
+      "summary": "Students angry over the state of the country’s education system have blockaded hundreds of schools. Thousands of protesters have been arrested and dozens of people injured.",
+      "url": "https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-03T15:00:01+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "France’s High School Protests"
+    },
     {
       "id": "572f59f0f3adbd1a89dacdeacd308c2ef69a694c",
       "title": "France to step up Ebola funding in Congo amid resurgence fears, minister says - Reuters",
@@ -53,6 +86,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "France 24"
+    },
+    {
+      "id": "dc6e5aedc5cf4ad0034bd843608a095ecac29e20",
+      "title": "Riot police clash with students as education protests rage in France",
+      "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-02T21:13:27+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "education protests rage in France"
     },
     {
       "id": "384d0df8fbbb30f333705094293ead1274ee4ea3",
@@ -121,6 +165,17 @@
       "evidence": "School protests send shivers down French government's spine"
     },
     {
+      "id": "2349c377e7c1d7842ab9b7d53370a5e73372af96",
+      "title": "A violent classroom revolt is becoming France's next big crisis",
+      "summary": "Hundreds of French high schools closed Friday after nationwide student protests over school conditions escalated into violence.",
+      "url": "https://www.cnbc.com/2026/10/02/france-student-protests-budget-debt.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-02T12:10:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "violent classroom revolt is becoming France's next big crisis"
+    },
+    {
       "id": "711e2824e5b8f7d2a8e1f8777f9171203f7162cb",
       "title": "US discusses NATO's future with Baltic states also in other formats - Kulbergs - The Baltic Times",
       "summary": "US discusses NATO's future with Baltic states also in other formats - Kulbergs&nbsp;&nbsp;The Baltic TimesPentagon excludes key allies from NATO meeting&nbsp;&nbsp;PoliticoBritain excluded from US talks on Nato’s future&…",
@@ -153,6 +208,17 @@
       "sentiment_fallback": true
     },
     {
+      "id": "6915f6bfe80bdc934681a84be46ba751f47672ab",
+      "title": "Lucien Lazare, Jewish Resistance Fighter in Occupied France, Dies at 101",
+      "summary": "He and a small troop of French Jews worked with the Allies to distribute supplies and fight the Nazis, ambushing a German train and liberating a city in the south.",
+      "url": "https://www.nytimes.com/2026/10/01/world/lucien-lazare-dead.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-01T21:32:47+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Jewish Resistance Fighter in Occupied France"
+    },
+    {
       "id": "0c5ce46ca8ae15b0759ba35a825de765d48ffc6b",
       "title": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say - Reuters",
       "summary": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say&nbsp;&nbsp;ReutersTrump’s energy chief asked Europe to release more than a third of its diesel reserves&nbsp;&nbsp;politi…",
@@ -162,73 +228,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "US tells France and Germany to release diesel stocks"
-    },
-    {
-      "id": "0f1016877b621a09d99ca1a206e4572556c00bc3",
-      "title": "Estonia imposes a ban on the transit of Russian grain - Yahoo",
-      "summary": "Estonia imposes a ban on the transit of Russian grain&nbsp;&nbsp;YahooEstonia bans transit of Russian, Belarusian grain through its territory&nbsp;&nbsp;ReutersLatvian Saeima extends ban on food imports from Russia and B…",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNajgwdGh0OHRfR1BaRDBlMnA0ZDlIUGdCb1J4eWtKVnIxaFhBb2lDb1FHeWt6YUFpVTlvOFJITXNMb3lWRWZZZ2FTWjB5ZEh1OTZwZkRfSFVmZGFVSGpoWUpLZ3NNMkV4R25PSDN5a1JtaThJVkRObnUyel9lbVEwSlB1bXFEYVpra3NzOHkzaVVHVnFvaktF?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-01T14:33:35+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "UK-France 'one in, one out' migrant deal scrapped"
-    },
-    {
-      "id": "f78a271d03e450e1a9a4e2794b2ab7827714eebd",
-      "title": "Watch: Why are students protesting at schools in France?",
-      "summary": "The BBC's Hugh Schofield is in Paris as a wave of school protests over overcrowded classes and teacher shortages spreads across France.",
-      "url": "https://www.bbc.co.uk/news/videos/cwy8z8rney97o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-01T12:31:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "students protesting at schools in France"
-    },
-    {
-      "id": "78a22310f3a09cfdb5f35d7719efe53fa01d5c8c",
-      "title": "Hundreds Detained in France as Some Student Protests Turn Violent",
-      "summary": "French high schoolers are protesting teacher shortages and overcrowded classrooms, in France’s latest flare-up over education and public services.",
-      "url": "https://www.nytimes.com/2026/09/30/world/europe/france-student-protest-arrests.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-30T20:58:26+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Some Student Protests Turn Violent"
-    },
-    {
-      "id": "631937e9151021959aba2bdbc340bd08865d8e7f",
-      "title": "Telia to provide connectivity for Lithuania's EU Presidency - Telecompaper",
-      "summary": "Telia to provide connectivity for Lithuania's EU Presidency&nbsp;&nbsp;TelecompaperVice-Minister Mitkus in Estonia: we must pay even more attention to the European Union’s resilience, security, and competitiveness&nbsp;&…",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOUUyS1JoR28xRG5MWVdjRk04ZHJNbG1ZaXdrTTFBU05TZ0FFV2ZGNVB5OW1nQWJWRC1Pc1VBVkdVOXZOelJoZHc2Z3k4MjBFeW80WXR1QlJjbEpyYnhNMTNrMWoxdVJsTXlOVGxTUmJpNjJPM0dLMlBMNFRCSWowUDIydm52eEI3eS1DQTdleWlneWZHQTFHVUZXQUpVTjhNNDZj?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-30T15:14:31+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "83686a5657fad90c38aa9910747010603c79afc2",
-      "title": "Dozens hurt and hundreds arrested in wave of French school protests",
-      "summary": "Students have been protesting against conditions and resources in secondary schools since last week.",
-      "url": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-30T13:18:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Dozens hurt and hundreds arrested in wave of French school protests"
-    },
-    {
-      "id": "a9f2a45f7d9b53fa632785f0dfaa9ac0e41c9cc1",
-      "title": "UK-France ‘one in one out’ deal to expire on Thursday, say sources",
-      "summary": "Deal aimed at deterring small boat arrivals set to end as talks stall over French demand for EU-wide schemeUK politics live – latest updatesThe UK government’s “one in one out” deal with France, which was supposed to hel…",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/30/uk-france-one-in-one-out-deal-to-expire-on-thursday-say-sources",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-30T12:52:16+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "French demands for a Europe-wide deal"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-03T14:22:32Z"
+  "last_updated": "2026-10-04T14:53:51Z"
 }
