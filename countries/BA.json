@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 9,
+  "sources": 10,
   "sentiment": {
     "positive": 2,
     "neutral": 0,
-    "negative": 7
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "e9d4cfb0eeab1608219191f66d86286d9dcf4f03",
+      "title": "Biljana Plavsic, a Former Bosnian Serb Political Leader, Has Died",
+      "summary": "Biljana Plavsic, a Bosnian Serb, pleaded guilty to one count of crimes against humanity. She later recanted and said she “would do the same again.”",
+      "url": "https://www.nytimes.com/2026/10/04/world/europe/biljana-plavsic-dead.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-05T09:42:16+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "pleaded guilty to one count of crimes against humanity. She later recanted"
+    },
     {
       "id": "c1da64501919f8ad802aaf3abe76c09a4ebf2b79",
       "title": "Thousands of Serbs Gather to Mourn Ratko Mladic, the ‘Butcher of Bosnia’",
@@ -112,5 +123,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-04T14:53:51Z"
+  "last_updated": "2026-10-05T18:19:20Z"
 }

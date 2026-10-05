@@ -1,16 +1,27 @@
 {
   "country": "DE",
-  "score": 29,
+  "score": 28,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 301,
   "sentiment": {
-    "positive": 26,
-    "neutral": 172,
+    "positive": 25,
+    "neutral": 173,
     "negative": 103
   },
   "latest_articles": [
+    {
+      "id": "dc7779782bf418cf7384b3dad08a579e1bb56ec1",
+      "title": "Nobel Prize awarded for revealing inner workings of the brain",
+      "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-05T11:04:37+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "German colleagues Peter Hegemann and Georg Nagel"
+    },
     {
       "id": "46b2b9c329926e97e84f792961517bd772b4239b",
       "title": "French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live",
@@ -45,12 +56,33 @@
       "evidence": "German chancellor makes surprise visit"
     },
     {
+      "id": "9d64ed8c92d11d4ff60f7c787a41c06cd0618873",
+      "title": "Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support",
+      "summary": "Attack happened shortly after Friedrich Merz arrived in city, on unannounced visit intended to underline Germany’s backingRussia has struck another major bridge in Kyiv as the German chancellor, Friedrich Merz, arrived i…",
+      "url": "https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-04T11:53:09+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "German chancellor visits Ukraine in show of support"
+    },
+    {
       "id": "0104714cc5e0992f079b00240493828a329db03b",
       "title": "Understanding Canada’s Europe Pivot",
       "summary": "You sent us your questions about the prime minister’s plan to form a closer relationship with the European Union. Our Canada bureau chief answers them.",
       "url": "https://www.nytimes.com/2026/10/03/world/canada/carney-canada-european-union-trade-currency.html",
       "source": "NYT > World News",
       "published_at": "2026-10-03T10:00:13+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "0bb7ff149c0ce5129420ba9cbbd8cd667cb66e94",
+      "title": "Half of UK wants to rejoin EU and backing it could drive up Labour vote, megapoll finds",
+      "summary": "Exclusive: Findings will bolster those in No 10 who want to negotiate on re-entry but some senior figures remain waryAndy Burnham’s personal preference to rejoin the European Union after the next election is supported by…",
+      "url": "https://www.theguardian.com/world/2026/oct/03/half-want-to-rejoin-eu-and-backing-it-could-drive-up-labour-vote-megapoll-finds",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-03T05:00:52+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -87,6 +119,17 @@
       "evidence": "US tells France and Germany to release diesel stocks"
     },
     {
+      "id": "b151a7e82ddff41a1ad10ea1305ce7cd39c1c9ff",
+      "title": "French high school protests escalate with violence reported – Europe live",
+      "summary": "Authorities have reported dozens of injuries, including from hurled objects but also, in some suspected cases, from police riot-control projectilesThe ⁠EU Commission, France, Italy, Ireland ⁠and ⁠Britain are ​holding a c…",
+      "url": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-01T15:44:56+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "Trump administration has told Germany and France to draw down emergency diesel"
+    },
+    {
       "id": "0222c7b19441c2ef47d0b2b8433a545798398cd2",
       "title": "Jürgen Klopp disgusted by claims his Germany team are ‘not white enough’",
       "summary": "Says social media claims are ‘nonsense’ and ‘idiocy’Coach sees ‘no reason to pay attention to these people’Jürgen Klopp has reacted with disgust to a social media debate questioning whether the Germany team he is in the…",
@@ -96,6 +139,16 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "claims his Germany team are ‘not white enough’"
+    },
+    {
+      "id": "b78e1cbcef4977099523fc6f090cec11b16d37fa",
+      "title": "House prices up by 4.0% in the euro area - Euro indicators - Eurostat - European Commission",
+      "summary": "House prices up by 4.0% in the euro area - Euro indicators - Eurostat&nbsp;&nbsp;European CommissionHouse prices up by 4.0% in the euro area&nbsp;&nbsp;European CommissionPortugal records biggest EU rise in house prices…",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkZOZi1iQXYyNzc1RDY0RTE1V1JhNHdvM3kzWjlzcWJZUExyM0dNZWJrUlo3eUhONWc5U3R0LXR5b3dDRDdUa1NSdndRT3k2djM2THRyWVQ1dUVzLVhLb2VuNl9fRkpFU2xVOFhvXzdCQnpqOVVxVEhLX1k5em1iQzlnYw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-10-01T09:44:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "631937e9151021959aba2bdbc340bd08865d8e7f",
@@ -170,61 +223,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "met with his German counterpart"
-    },
-    {
-      "id": "264bf969ca73fcc716837082c142243533c70ab8",
-      "title": "German town bans 'stumbling stone' memorials to Nazi victims",
-      "summary": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-26T15:48:51+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.7,
-      "evidence": "German town bans 'stumbling stone' memorials to Nazi victims"
-    },
-    {
-      "id": "49be5b4f230b38e9b0bac08448ce8094660ce925",
-      "title": "Work intensifying on UK laws to stamp out concert ticket touts, say sources - The Guardian",
-      "summary": "Work intensifying on UK laws to stamp out concert ticket touts, say sources&nbsp;&nbsp;The GuardianTouts in US, Latvia and Germany selling Manchester gig tickets&nbsp;&nbsp;BBCThree ticket touts responsible for 75% of 1,…",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR090QVlhRlFCNTRjSkhCWkpwNkV2OHpjU3FXSjBlM3FrTG1hUV91YWR5YU9KWjhwVENjT0hkY0tDc1ZMYVU5dzJPcVRjQlJtQk9oNi1obXhKM1lPUG1jOW1NRC1xY002enhNOUE4d3R4Z0NzMjhsSWZOWTROdGl0X21Ta0d6RFhBRmZTSEJXY3Z2OWFXb21welI0bkVkTDBiNF9xTU1DX0E?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-26T11:02:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Latvia and Germany selling Manchester gig tickets"
-    },
-    {
-      "id": "7b4ee96ff74304368b550ab6dffc9ebfb48ba955",
-      "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
-      "summary": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-25T23:08:02+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Voters are turning away from the centre in Germany as fears grow"
-    },
-    {
-      "id": "5fadd0e105ae1d11b1918c05dabe9a3b215c79ba",
-      "title": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
-      "summary": "Canada’s prime minister is pursuing deeper trade, defense and cultural ties with China, India and the European Union, but none are likely to replace ties to the United States.",
-      "url": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-25T21:36:39+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "783594403b40fc3e45b027e827fd53a1eafa93f2",
-      "title": "EU Commission targets all 27 states over industrial emissions rules - INSIGHT EU MONITORING",
-      "summary": "EU Commission targets all 27 states over industrial emissions rules&nbsp;&nbsp;INSIGHT EU MONITORINGEU starts action against Greece on energy, money-laundering, human trafficking&nbsp;&nbsp;eKathimerini.comBrussels puts…",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdE9jYl9jcmN6ajhuTlpvamZTRk5kOU9reHEtSjVDM0dBR1dJQThKa0RFVUtleEJvM1FkaGdheWMybGgwa01JSF93cjhFVXZwNkMwWnBIR0pvM0haU25wTEM5TjdONjJZZzhmZDU5ZGRRTjRHUmYtZ2F3cXF1LUtuX0oybDRrUHNNUHNDbW5UdGRXSG1NcVBVTHVnTjRSUEVadE1VRmY4WUdvYmtNQ0ludndaVy12TWxOV3hQSmdNdE0tMnp3RWZ3RDFXVFBUYkU?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-25T15:12:43+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-04T14:53:51Z"
+  "last_updated": "2026-10-05T18:19:20Z"
 }

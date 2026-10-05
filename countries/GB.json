@@ -1,16 +1,192 @@
 {
   "country": "GB",
-  "score": 23,
+  "score": 21,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -3,
-  "sources": 1029,
+  "trend": -2,
+  "sources": 1040,
   "sentiment": {
-    "positive": 133,
-    "neutral": 716,
-    "negative": 181
+    "positive": 135,
+    "neutral": 721,
+    "negative": 185
   },
   "latest_articles": [
+    {
+      "id": "5aba1df4afe6dd0b2c131429e0d1388a2a134dc8",
+      "title": "British Museum Says It’s Extending Bayeux Tapestry Viewing Hours",
+      "summary": "The museum has been struggling to fit ticket holders into the exceptionally popular display, and it’s also up against the constraints of protecting the artwork.",
+      "url": "https://www.nytimes.com/2026/10/05/arts/design/bayeux-tapestry-british-museum.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-05T18:00:54+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "British Museum Says It’s Extending Bayeux Tapestry Viewing Hours"
+    },
+    {
+      "id": "cbb0c9677017d4b0acd7e70c7e6a2d54c632df5c",
+      "title": "UK threatens to expel Israeli diplomats after closing of East Jerusalem consulate",
+      "summary": "Tit-for-tat expulsions expected after relations deteriorate as a result of UK ban on goods from illegal settlementsThe UK has threatened to expel one Israeli diplomat for every British diplomat forced to leave Israel as…",
+      "url": "https://www.theguardian.com/world/2026/oct/05/uk-threatens-to-expel-israeli-diplomats-after-closing-of-east-jerusalem-consulate",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-05T17:53:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "UK threatens to expel Israeli diplomats"
+    },
+    {
+      "id": "9839a201ee0c2cdb5638e1d706c24c24af426fb0",
+      "title": "Tory plan to cut energy efficiency rule for builders will cost new home owners £1,000 a year, says thinktank – as it happened",
+      "summary": "A researcher at a climate change think tank says the Conservative policy would be a ‘disaster for first time buyers’Yesterday, as a gimmick, the Tories were handing out “Bottler Burnham” bottles of water (“0% strength”)…",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/05/tory-party-conference-labour-reform-planning-economy-business-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-05T17:06:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "cut energy efficiency rule for builders will cost new home owners"
+    },
+    {
+      "id": "9d6d3c8e15b7b9a1fccb9f6601cfa95edc90a6b4",
+      "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
+      "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-05T16:13:35+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers"
+    },
+    {
+      "id": "3da480fa8b653a13d5ab57815a1d3c4086dc36a0",
+      "title": "Norway plans temporary ban on smart glasses in some public places",
+      "summary": "Camera-enabled Meta spectacles are already restricted in UK and US because of fears about covert recordingNorway is planning a temporary ban on smart glasses in some public places, amid rising global concern at the sprea…",
+      "url": "https://www.theguardian.com/world/2026/oct/05/norway-temporary-ban-smart-glasses-public-places",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-05T16:11:31+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Camera-enabled Meta spectacles are already restricted in UK"
+    },
+    {
+      "id": "6c60b97c0ef32cb2ac808338362139f3eae9c516",
+      "title": "Glasgow city council reaches pay deal with union to avert fire-and-rehire plan",
+      "summary": "‘Strong and fair’ proposal to be taken to members’ ballot after previous offer led Unison to walk out of negotiationsGlasgow city council has reached an agreement with the trade union Unison over pay and grading, avertin…",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/05/glasgow-city-council-reaches-pay-deal-with-union-to-avert-fire-and-rehire-plan",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-05T16:08:14+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Glasgow city council reaches pay deal with union to avert fire-and-rehire plan"
+    },
+    {
+      "id": "a5865119d807a87f059fffdecc7ebb2ee4686a65",
+      "title": "Green party drops longstanding opposition to nuclear power",
+      "summary": "Party in England and Wales ditches commitment to phase out nuclear in major shift in its energy policyGreen party members have voted to end the party’s opposition to nuclear power, dropping a commitment to phase out the…",
+      "url": "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-05T15:53:49+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Green party drops longstanding opposition to nuclear power"
+    },
+    {
+      "id": "fefb48fc729874174c2b08c4e6535d1dc660c6c0",
+      "title": "Why did the US rush to withdraw bombers from RAF Fairford? - The Latest",
+      "summary": "The US withdrew its bombers from RAF Fairford after an investigation into an alleged planned terrorist attack on the base. At least 10 B-1 bombers used by the US military in the Iran conflict flew out of Fairford on Sund…",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/05/why-did-us-withdraw-bombers-from-raf-fairford-the-latest",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-05T15:45:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "US withdrew its bombers from RAF Fairford after an investigation"
+    },
+    {
+      "id": "1ff1d9dced2ff96f007c0cc9f85e041e47af26bd",
+      "title": "Sainsbury’s and Morrisons ‘held talks this year’ on multibillion-pound merger",
+      "summary": "Deal would have created a supermarket with a market share of 23.6%, still well behind Tesco’s 27.8%Sainsbury’s held merger talks with rival Morrisons this year to discuss a multibillion-pound deal that would have been th…",
+      "url": "https://www.theguardian.com/business/2026/oct/05/sainsburys-morrisons-merger-talks",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-05T15:24:29+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "supermarket with a market share of 23.6%"
+    },
+    {
+      "id": "263104a7d4300069c3309504d99155b074a3a3d8",
+      "title": "Mel B ‘heartbroken’ by Windrush scandal victims’ fight for justice",
+      "summary": "Public figures back commissioner’s call for government commitment to funding legal support for those affectedThe singer and television personality Mel B has said she is “heartbroken” by the Windrush scandal victims’ figh…",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/05/mel-b-windrush-scandal-fight-for-justice-legal-support-commissioner",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-05T14:11:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Windrush scandal victims’ fight for justice"
+    },
+    {
+      "id": "a2a744da071b617161656c4009cce74e985e4688",
+      "title": "UK nuclear umbrella comments prompt Estonia defense debate - news.inbox.eu",
+      "summary": "UK nuclear umbrella comments prompt Estonia defense debate&nbsp;&nbsp;news.inbox.euTowards a JEF naval ecosystem: A blueprint for British leadership in the High North&nbsp;&nbsp;Britain’s WorldFirst Sea Lord Strengthens…",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFFPVHZmWFdEU0pkOUNNSEQ1d2xhTmJweGlTcDF6REFKQ3pSaUlScGstLU1BNEFrZEFKTVFkN3A1bFRnMjVNQ3BOQkRwV2ZVVG1BNE02Y2d5R2dBV3FDQURHY3VCZVlwMThLOGswX3VLcmkzdG9DUmhPMTJjRm9mQU1WUG5OQWNWVUtmcmNieHBTNVRBUzZtTEZuS2xVZG1DU2c?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-10-05T14:09:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "blueprint for British leadership in the High North"
+    },
+    {
+      "id": "f9bbf82ccaa5117110c1f232d6a0e9f8d91556ee",
+      "title": "Hundreds of Australians, including war veterans, are being buried in unmarked communal graves",
+      "summary": "Exclusive: Guardian Australia investigation reveals state governments use shared graves to bury those deemed too poor to pay for funerals. ‘It’s unspeakable,’ one relative saysFind more from the Unmarked graves investiga…",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/06/poor-australians-war-veterans-buried-unmarked-graves",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-05T14:00:28+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Hundreds of Australians"
+    },
+    {
+      "id": "bcb957d2719decbb93647ed23f913ca9c898792b",
+      "title": "Former Prince Andrew Sues UK Police After Arrest Linked to Epstein Investigation",
+      "summary": "Andrew Mountbatten-Windsor is taking action over the warrants used to search two properties after his arrest in February, as part of a British investigation into his ties to Jeffrey Epstein.",
+      "url": "https://www.nytimes.com/2026/10/05/world/europe/former-prince-andrew-police-lawsuit-epstein-uk-arrest.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-05T13:59:16+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Former Prince Andrew Sues UK Police After Arrest"
+    },
+    {
+      "id": "9f408ff3460197f449ddd105456d9a9f57c79be0",
+      "title": "Relocation of U.S. bombers in U.K. highlights new risks for military bases",
+      "summary": "Technological advances in warfare have heightened concerns about the vulnerability of air bases and other hard-to-protect military facilities in populated areas.",
+      "url": "https://www.washingtonpost.com/world/2026/10/05/relocation-us-bombers-uk-highlights-new-risks-military-bases/",
+      "source": "World (Washington post)",
+      "published_at": "2026-10-05T13:05:47+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Relocation of U.S. bombers in U.K. highlights new risks for military bases"
+    },
+    {
+      "id": "2ba95978c4a9473dd3e3090bc81fd3a98f8d9f3d",
+      "title": "Andrew Mountbatten-Windsor takes police to court over search warrants",
+      "summary": "Britain's former prince lodged a judicial review over the legality of search warrants in his arrest on suspicion of misconduct in public office in a case related to his Jeffrey Epstein ties. He has denied wrongdoing.",
+      "url": "https://www.washingtonpost.com/world/2026/10/05/andrew-mountbatten-windsor-takes-police-court-over-search-warrants/",
+      "source": "World (Washington post)",
+      "published_at": "2026-10-05T11:24:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Britain's former prince lodged a judicial review"
+    },
+    {
+      "id": "379bdc2b6a109b434b7b86e9b493c327d1ae865f",
+      "title": "U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats",
+      "summary": "The withdrawal came with unusual speed, following what U.S. officials said were threats of an Iran-based plot against the installation.",
+      "url": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-04T22:34:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats"
+    },
     {
       "id": "e88e013b6a28d47697c6c22e05f5261f84955e9b",
       "title": "‘Zionism is racism’ motion passed by Green party at annual conference – UK politics live",
@@ -54,184 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Former Tory minister defends UK decision to enter war in podcast with US rightwinger"
-    },
-    {
-      "id": "2338de396522553f16e0edc436735e370a9101ce",
-      "title": "Costa’s coffee shops return to profit with iced drinks and matcha on the menu",
-      "summary": "Costa Ltd reports operating profit of £20m in year to 31 December 2025 after losses of £13.5m in 2024Costa’s main coffee shop arm has returned to an operating profit after revamping its high street outlets and broadening…",
-      "url": "https://www.theguardian.com/business/2026/oct/04/costa-coffee-shops-return-profit-iced-drinks-matcha",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-04T09:50:28+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "opened a net 50 new outlets in the UK last year"
-    },
-    {
-      "id": "89c534ee8beef30c477f987c0eee01286408e313",
-      "title": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
-      "summary": "The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.",
-      "url": "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-04T09:03:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare"
-    },
-    {
-      "id": "04a0de1d013b3a8e5594f7013319ef7fda39b1ef",
-      "title": "Lack of inspections at fish slaughterhouses a ‘disgrace’, says Animal Equality UK",
-      "summary": "Charity calls for faster progress on humane slaughter laws for farmed fish in England and WalesUp to 77m fish are slaughtered each year in the UK but there are no routine or mandatory inspections of fish slaughterhouses…",
-      "url": "https://www.theguardian.com/world/2026/oct/04/mandatory-inspections-fish-slaughterhouses-england-wales",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-04T08:00:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Lack of inspections at fish slaughterhouses a ‘disgrace’"
-    },
-    {
-      "id": "016777bedf555da0cfa42b6b5a121f991b269c5b",
-      "title": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets",
-      "summary": "Britain under pressure to put tariffs on cheap Chinese vehicle imports ahead of protectionist trade measuresBritain’s car industry is grappling with a “difficult trade-off” between China and Europe, as manufacturers stru…",
-      "url": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-04T05:00:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "trade measures that could restrict UK exports to the EU"
-    },
-    {
-      "id": "f570070b805d45f9f9b7eee169a0c0693e44b8e5",
-      "title": "How RAF Fairford in a Quiet Corner of England Became a U.S.-Iran Flashpoint",
-      "summary": "A mysterious call last Sunday near a military base used by the U.S. set in motion a huge counterterrorism response and days of uncertainty in Britain.",
-      "url": "https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-03T13:45:56+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "days of uncertainty in Britain"
-    },
-    {
-      "id": "cc97cc7d9a7ce5ca0c38630cfb5483b00e7d6e56",
-      "title": "UK-Iran national arrested over alleged bomb plot at RAF Fairford released on bail",
-      "summary": "The 25-year-old was the sixth man detained as counter-terrorism police investigate ‘possible foreign state involvement’A sixth man who was arrested in connection with a suspected terrorist plot at RAF Fairford has been r…",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/03/uk-iran-national-arrested-alleged-bomb-plot-raf-fairford-released-bail",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-03T13:19:35+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "alleged bomb plot at RAF Fairford"
-    },
-    {
-      "id": "5cd099378aed7e25faa2a80798a9ba46f82cc5cb",
-      "title": "Greens would nationalise Thames and SE Water without paying compensation, says deputy leader – as it happened",
-      "summary": "This live blog is now closed, you can find more of our UK political coverage hereAli says Britain is a multiracial, multicultural democracy that needs to protect “everyone’s equal right to belong.”At a time when Britain…",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/03/green-party-conference-zack-polanski-uk-politics-latest-news-updates-labour-conservatives-reform",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-03T13:16:31+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Britain is becoming more diverse, not less."
-    },
-    {
-      "id": "ad05ed03cf52021d7f48a443eef29ad196334a1f",
-      "title": "‘He feels more relatable’: Burnham’s conference speech wins praise from drifting Labour voters",
-      "summary": "The UK prime minister has earned his party a rehearing but the battle of public opinion is not yet won“He’s offering what no other politician has offered for a long, long time. He actually feels like he’s one of us,” was…",
-      "url": "https://www.theguardian.com/politics/2026/oct/03/andy-burnham-conference-speech-wins-praise-from-drifting-labour-voters",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-03T12:00:58+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "The UK prime minister has earned his party a rehearing"
-    },
-    {
-      "id": "3e00876c93d1431023545bae729bad7a862d144b",
-      "title": "Nitrite-free bacon sales boom in UK amid fears over curing chemicals - The Guardian",
-      "summary": "Nitrite-free bacon sales boom in UK amid fears over curing chemicals&nbsp;&nbsp;The GuardianTesco launches nitrite-free bacon and ham range using 100 percent British pork&nbsp;&nbsp;New FoodWaitrose expands nitrite-free…",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX3kycHE3Z1FUM01Nc0pjUVJDQ0lDcXV6azZYS3FrNlh3MUIxOTlZZlRBQVpDVFNnZTkxUVhabHd3QUtUYnBRRDE4c2VEZjJuNW11ZTVBaG5zTW0tZC1uV1FkZVk3bldZS0FoVlJXNUpDUzcxTnpkU2tUWERudm9tNEstWTBLNjZpX3VMWWt2Y1kwZ3prSEI0?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-03T12:00:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Nitrite-free bacon sales boom in UK"
-    },
-    {
-      "id": "3064646746e693693ab5917d6d22670bfed5cff8",
-      "title": "Manchester City whistleblower ready to help UK authorities in return for protection - The Guardian",
-      "summary": "Manchester City whistleblower ready to help UK authorities in return for protection&nbsp;&nbsp;The GuardianDissecting the claims Gianni Infantino let off Man City and ‘betrayed’ Uefa&nbsp;&nbsp;The TelegraphMan City whis…",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUWhDLW1sNWdCWTVaRWlncUFYTkN1NENhQnBSbXR0TzhMTHdxT3lHcW1Zb3dldlQ5OTdXWFFTN3FRSVh4WFVPcXFyMXYxV0tzUTQ0WWtNOHc1WGd2QXhUbE5MVU5lZ3pndU5QaDQwT1pkSHdXbjhOOWVkczN3RG1ERFVZbWY1NDRhRDFPVkxuSWJMLUxCUGkwazM1ZlFrQzNqRmhTenBIREVGNDZLODVRMlh2SUhkbkxwVXBnWk8wY1REYXdNZ0pSNXkyREpaMUlpd192eDVWSzc1UQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-03T11:24:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "whistleblower ready to help UK authorities in return for protection"
-    },
-    {
-      "id": "63b04ab3f69dd07ca78f264db8a5dfbcd44c4702",
-      "title": "Remains of medieval tsar return to Bulgaria after decades-long dispute with Greece",
-      "summary": "Greek PM hopes handover of Tsar Samuel will help persuade Britain to return Parthenon marblesThe remains of medieval ruler Tsar Samuel will arrive in Bulgaria on Saturday amid great pomp and ceremony, after decades of ne…",
-      "url": "https://www.theguardian.com/world/2026/oct/03/remains-czar-samuel-return-bulgaria-greece-talks",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-03T10:31:54+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "persuade Britain to return Parthenon marbles"
-    },
-    {
-      "id": "90e18535cf6c6977fedc3d539324346d26835452",
-      "title": "Five-year-old girl in critical condition after car hits crowd in Newcastle",
-      "summary": "P-plate driver arrested at scene after vehicle strikes Knights fans attending grand final farewell, leaving 10 injured including three childrenGet our breaking news email, free app or daily news podcastTen people have be…",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/03/several-people-injured-after-vehicle-hits-crowd-at-knights-grand-final-farewell-in-newcastle",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-03T10:12:43+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "car hits crowd in Newcastle"
-    },
-    {
-      "id": "6140b8d9069e2d7e5a5d613d97d49cd6072f2ed0",
-      "title": "Suffragette cities: blazing Sylvia Pankhurst musical hits the road – in pictures - The Guardian",
-      "summary": "Suffragette cities: blazing Sylvia Pankhurst musical hits the road – in pictures&nbsp;&nbsp;The GuardianSylvia with Beverley Knight and Naomi Katiyo at Curve and on tour – review&nbsp;&nbsp;WhatsOnStageFirst look at 'Syl…",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb29uUGxGWGhlU3IwME03X1lPbTQyYTdGaFF3MDZxWno1QVZqRmN0N3FqQVk3MDFaSUFyLVVNd2pDd2FkdjVDSVk4bVBwa3BrVVNQaC12RkJMRENJU1RIWnZRbDU0c29STXc2bVhTOUM5cy1TU01KRkJZeFpUZkk5R2N3eVNLU1pqeTFTa0x6bVk0d2FpNXBBcnJOR1dtWk1ZNU9RNHRBQ2pYZ2Y0bUdB?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-03T09:00:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Sylvia Pankhurst musical hits the road"
-    },
-    {
-      "id": "1306da6ec538c313b9dba27bf87ff7eb083d21fa",
-      "title": "Bangkok at breaking point as floods turn streets into stagnant lakes",
-      "summary": "With 40 dead and a disaster declared across all 50 city districts, experts warn extreme flooding will only worsen across south-east AsiaBangkok is used to absorbing the sudden afternoon downpours that inundate the city d…",
-      "url": "https://www.theguardian.com/world/2026/oct/03/bangkok-thailand-floods-breaking-point-stagnant-lakes",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-03T02:00:46+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "equivalent of half a year of average rainfall in London"
-    },
-    {
-      "id": "b1e131771698abba584e657657a0f8487dd12634",
-      "title": "2 Iranian Men Charged in U.K. Over Suspected Plot to Target Jews",
-      "summary": "The British police said the two Iranian nationals were charged Friday with terrorism offenses.",
-      "url": "https://www.nytimes.com/2026/10/02/world/europe/uk-manchester-terror-plot-iranians-jews.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-02T21:54:22+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "British police said the two Iranian nationals were charged"
-    },
-    {
-      "id": "73c9106df422d9a186d4668957113c75759f7872",
-      "title": "Widdecombe Murder Suspect Charged With Preparing Acts of Terrorism, Including Against Farage",
-      "summary": "Joshua Kerry, a 28-year-old British man accused of killing the former lawmaker Ann Widdecombe, was charged on Friday.",
-      "url": "https://www.nytimes.com/2026/10/02/world/europe/uk-terrorism-nigel-farage.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-02T21:15:50+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "British man accused of killing the former lawmaker"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-04T14:53:51Z"
+  "last_updated": "2026-10-05T18:19:20Z"
 }

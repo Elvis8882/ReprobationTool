@@ -4,10 +4,10 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 88,
+  "sources": 90,
   "sentiment": {
     "positive": 0,
-    "neutral": 87,
+    "neutral": 89,
     "negative": 1
   },
   "latest_articles": [
@@ -22,12 +22,42 @@
       "sentiment_fallback": true
     },
     {
+      "id": "0bb7ff149c0ce5129420ba9cbbd8cd667cb66e94",
+      "title": "Half of UK wants to rejoin EU and backing it could drive up Labour vote, megapoll finds",
+      "summary": "Exclusive: Findings will bolster those in No 10 who want to negotiate on re-entry but some senior figures remain waryAndy Burnham’s personal preference to rejoin the European Union after the next election is supported by…",
+      "url": "https://www.theguardian.com/world/2026/oct/03/half-want-to-rejoin-eu-and-backing-it-could-drive-up-labour-vote-megapoll-finds",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-03T05:00:52+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "9306b6aa6682e39c83db3cc103e32a8db687db64",
       "title": "A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here’s what’s at stake",
       "summary": "Britain voted to leave the European Union in 2016.",
       "url": "https://www.cnbc.com/2026/10/02/brexit-uk-rejoin-eu-referendum.html",
       "source": "International: Top News And Analysis",
       "published_at": "2026-10-02T05:00:01+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "b151a7e82ddff41a1ad10ea1305ce7cd39c1c9ff",
+      "title": "French high school protests escalate with violence reported – Europe live",
+      "summary": "Authorities have reported dozens of injuries, including from hurled objects but also, in some suspected cases, from police riot-control projectilesThe ⁠EU Commission, France, Italy, Ireland ⁠and ⁠Britain are ​holding a c…",
+      "url": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-01T15:44:56+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "b78e1cbcef4977099523fc6f090cec11b16d37fa",
+      "title": "House prices up by 4.0% in the euro area - Euro indicators - Eurostat - European Commission",
+      "summary": "House prices up by 4.0% in the euro area - Euro indicators - Eurostat&nbsp;&nbsp;European CommissionHouse prices up by 4.0% in the euro area&nbsp;&nbsp;European CommissionPortugal records biggest EU rise in house prices…",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkZOZi1iQXYyNzc1RDY0RTE1V1JhNHdvM3kzWjlzcWJZUExyM0dNZWJrUlo3eUhONWc5U3R0LXR5b3dDRDdUa1NSdndRT3k2djM2THRyWVQ1dUVzLVhLb2VuNl9fRkpFU2xVOFhvXzdCQnpqOVVxVEhLX1k5em1iQzlnYw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-10-01T09:44:33+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -182,38 +212,8 @@
       "published_at": "2026-09-19T10:36:18+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "39c0b091bd98be5d4cf2b0b5c5fb1b79d18040cb",
-      "title": "Finland, Slovenia post biggest construction output growth in EU in July - SeeNews",
-      "summary": "Finland, Slovenia post biggest construction output growth in EU in July&nbsp;&nbsp;SeeNewsEurozone construction output stable in July&nbsp;&nbsp;Breakingthenews.netEuro area services production falls in June as Cyprus re…",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeU9Cd2FrY2dWVm5MRmk4OFdUeVQxZkNzelJMbnM4eFhDMVgzUjB4d05vSkhSX3luUk1NcmF6MUV3bEEzbVpNRlJMRG9WeGNqVk1QUnN1X3R4LVhZRy1IMzRWeTNOSjRjd05WYmVHeVFNMzUycWJEcVZvbWxEQUQybWY1QWdaZk9EY3FkLTNVTVlQU3oybmRXTUtPZUM5RTJjbDJBZkZn?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-18T11:03:04+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "e346151d00f1c50dea5edb8301197db2457b4942",
-      "title": "EU Commission proposes €489m storm recovery aid for four member states - INSIGHT EU MONITORING",
-      "summary": "EU Commission proposes €489m storm recovery aid for four member states&nbsp;&nbsp;INSIGHT EU MONITORINGCommission proposes €489 million to help Portugal, Spain, Italy and Malta recover from severe storms&nbsp;&nbsp;The E…",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSVNYc1p6OGl5dmliQ2d6bkQ0RHdBd1NVdThva3dzMEQxc2FVNkR2d1hObHpXbUJOMEM2M0RxWkl6ZHR4Y3lhZS15N1cyWV9qZ3lUSlkxbnVKSkx3LWpQckhadlpTUVVNdVlqNi15eGxXaDJzNDJKZ3otNEZLQWZFWmpoUk5yaHNUUllyZjlDTk54SXI5NXdFdE9OS0d4b240ZlNLY3luUVlxMGZVSmx5U2c3SVNDTUhLNmxhaFR5WjdIYldZa1dRdnljV0lzTWh5VENN?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-17T19:24:21+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "6f8665e841a0b35c250a3a7a05557c1f2cced10f",
-      "title": "Taking on Trump: Canada and EU forge closer ties – The Latest",
-      "summary": "Canadian prime minister, Mark Carney, has welcomed the EU’s proposal for Canada to become the bloc’s first ‘associate member’, despite threats from Donald Trump over the plan. The US president said Washington could impos…",
-      "url": "https://www.theguardian.com/news/audio/2026/sep/17/taking-on-trump-canada-and-eu-forge-closer-ties-the-latest",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-17T18:22:14+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-04T14:53:51Z"
+  "last_updated": "2026-10-05T18:19:20Z"
 }

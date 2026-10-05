@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": null,
-  "sources": 2,
+  "sources": 3,
   "sentiment": {
     "positive": 0,
-    "neutral": 2,
+    "neutral": 3,
     "negative": 0
   },
   "latest_articles": [
+    {
+      "id": "3cce02fdd6caf75510ee63baf9cfadcb97ce83b6",
+      "title": "Georgia officials hunt for suspect in shooting that killed two and injured 35",
+      "summary": "A homecoming celebration turned into a scene of deadly violence, as dozens of shots were fired into a crowd.",
+      "url": "https://www.bbc.co.uk/news/articles/c6e9lj5r3ej7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-05T12:08:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Georgia officials hunt for suspect in shooting"
+    },
     {
       "id": "4bf805a75f790f86d1dc4adf85e081d963c4141c",
       "title": "Hyundai has grown more than any automaker in the U.S. — and it's not done yet",
@@ -35,5 +46,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-04T14:53:51Z"
+  "last_updated": "2026-10-05T18:19:20Z"
 }

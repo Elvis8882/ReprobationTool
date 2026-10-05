@@ -1,13 +1,13 @@
 {
   "country": "FI",
-  "score": 84,
+  "score": 83,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 107,
+  "trend": -1,
+  "sources": 108,
   "sentiment": {
-    "positive": 11,
-    "neutral": 93,
+    "positive": 10,
+    "neutral": 95,
     "negative": 3
   },
   "latest_articles": [
@@ -18,6 +18,16 @@
       "url": "https://www.nytimes.com/2026/10/03/world/canada/carney-canada-european-union-trade-currency.html",
       "source": "NYT > World News",
       "published_at": "2026-10-03T10:00:13+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "0bb7ff149c0ce5129420ba9cbbd8cd667cb66e94",
+      "title": "Half of UK wants to rejoin EU and backing it could drive up Labour vote, megapoll finds",
+      "summary": "Exclusive: Findings will bolster those in No 10 who want to negotiate on re-entry but some senior figures remain waryAndy Burnham’s personal preference to rejoin the European Union after the next election is supported by…",
+      "url": "https://www.theguardian.com/world/2026/oct/03/half-want-to-rejoin-eu-and-backing-it-could-drive-up-labour-vote-megapoll-finds",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-03T05:00:52+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -43,6 +53,16 @@
       "evidence": "Finnish Lawmakers Report Suspicious Home Break-Ins"
     },
     {
+      "id": "b151a7e82ddff41a1ad10ea1305ce7cd39c1c9ff",
+      "title": "French high school protests escalate with violence reported – Europe live",
+      "summary": "Authorities have reported dozens of injuries, including from hurled objects but also, in some suspected cases, from police riot-control projectilesThe ⁠EU Commission, France, Italy, Ireland ⁠and ⁠Britain are ​holding a c…",
+      "url": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-01T15:44:56+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "f27d9f04e85f3cb330f7666b276341060ffbc14d",
       "title": "Finnish PM says suspected break-ins at MPs’ homes could be work of foreign power",
       "summary": "Police investigating reports of politicians’ homes being broken into in last year with nothing being stolenThe Finnish prime minister, Petteri Orpo, has said a foreign power could be responsible for a series of suspected…",
@@ -52,6 +72,16 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Finnish PM says suspected break-ins at MPs’ homes could be work of foreign power"
+    },
+    {
+      "id": "b78e1cbcef4977099523fc6f090cec11b16d37fa",
+      "title": "House prices up by 4.0% in the euro area - Euro indicators - Eurostat - European Commission",
+      "summary": "House prices up by 4.0% in the euro area - Euro indicators - Eurostat&nbsp;&nbsp;European CommissionHouse prices up by 4.0% in the euro area&nbsp;&nbsp;European CommissionPortugal records biggest EU rise in house prices…",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkZOZi1iQXYyNzc1RDY0RTE1V1JhNHdvM3kzWjlzcWJZUExyM0dNZWJrUlo3eUhONWc5U3R0LXR5b3dDRDdUa1NSdndRT3k2djM2THRyWVQ1dUVzLVhLb2VuNl9fRkpFU2xVOFhvXzdCQnpqOVVxVEhLX1k5em1iQzlnYw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-10-01T09:44:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "631937e9151021959aba2bdbc340bd08865d8e7f",
@@ -184,39 +214,8 @@
       "published_at": "2026-09-21T14:47:07+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "dcadafec03ae9b2d2dcc66d096b269b41b54c822",
-      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-      "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
-      "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-21T04:00:38+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "11c58ea3e1f75a7d3f5515fcb4331bc3c21a4a40",
-      "title": "Finland Considers Renting Prison Space Abroad Amid Overcrowding",
-      "summary": "Finland looks into leasing prison capacity abroad to manage increasing inmate population.",
-      "url": "https://www.ndtv.com/world-news/finland-considers-renting-prison-space-abroad-amid-overcrowding-12068699#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-19T11:19:15+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Finland Considers Renting Prison Space Abroad Amid Overcrowding"
-    },
-    {
-      "id": "e264c125b4e8830fc06439e2c8fad5a7bddc9419",
-      "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
-      "summary": "Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.",
-      "url": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-09-19T10:36:18+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-04T14:53:51Z"
+  "last_updated": "2026-10-05T18:19:20Z"
 }
