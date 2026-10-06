@@ -1,16 +1,27 @@
 {
   "country": "IQ",
-  "score": 77,
+  "score": 78,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 57,
+  "trend": 1,
+  "sources": 55,
   "sentiment": {
     "positive": 6,
-    "neutral": 17,
-    "negative": 34
+    "neutral": 16,
+    "negative": 33
   },
   "latest_articles": [
+    {
+      "id": "e55d20f24628a06c96c6ba882af0f4bf563678a8",
+      "title": "Iraq Wins U.S. Permission to Resume Iran Flights, Prime Minister Says",
+      "summary": "Flights between the neighboring countries had been halted after broad U.S. penalties on Iran’s aviation industry.",
+      "url": "https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-03T10:25:33+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Iraq Wins U.S. Permission to Resume Iran Flights"
+    },
     {
       "id": "44b13888e009d8edab443e6b397574382e078353",
       "title": "After US Exit, Iraq Gives Iran-Backed Militias Until June 2027 To Disarm",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.4,
       "evidence": "drones from Iraq"
-    },
-    {
-      "id": "2bf60c03beca6906ef46ee3554ca2a0999cbe128",
-      "title": "Saudi Arabia shuts down oil pipeline, blaming drones from Iraq",
-      "summary": "Riyadh has increased its use of the East-West pipeline since the start of the Middle East war to bypass the closure of the strait of HormuzSaudi authorities said Friday drones launched from Iraq led to the temporary clos…",
-      "url": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-12T05:22:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "drones from Iraq led to the temporary closure of a crucial oil export route"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-05T18:19:20Z"
+  "last_updated": "2026-10-06T16:04:03Z"
 }

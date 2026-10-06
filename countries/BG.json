@@ -1,16 +1,27 @@
 {
   "country": "BG",
-  "score": 66,
+  "score": 64,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -3,
+  "trend": -2,
   "sources": 96,
   "sentiment": {
     "positive": 2,
-    "neutral": 91,
-    "negative": 3
+    "neutral": 90,
+    "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "c85bcb548a2a6303f6a87445aee17b5a315b6e2f",
+      "title": "Drones Hit Ships Off Bulgaria’s Black Sea Coast, Prime Minister Says",
+      "summary": "A rescue effort was underway, Prime Minister Rumen Radev said, after one of the two ships sank. It was not immediately clear where the drones originated.",
+      "url": "https://www.nytimes.com/2026/10/06/world/europe/bulgaria-drones-black-sea.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-06T13:57:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Drones Hit Ships Off Bulgaria’s Black Sea Coast"
+    },
     {
       "id": "63b04ab3f69dd07ca78f264db8a5dfbcd44c4702",
       "title": "Remains of medieval tsar return to Bulgaria after decades-long dispute with Greece",
@@ -203,18 +214,8 @@
       "published_at": "2026-09-21T04:00:38+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "e264c125b4e8830fc06439e2c8fad5a7bddc9419",
-      "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
-      "summary": "Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.",
-      "url": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-09-19T10:36:18+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-05T18:19:20Z"
+  "last_updated": "2026-10-06T16:04:03Z"
 }
