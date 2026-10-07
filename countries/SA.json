@@ -1,16 +1,38 @@
 {
   "country": "SA",
-  "score": 20,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 249,
+  "score": 18,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
+  "trend": -2,
+  "sources": 250,
   "sentiment": {
     "positive": 20,
-    "neutral": 106,
-    "negative": 124
+    "neutral": 105,
+    "negative": 126
   },
   "latest_articles": [
+    {
+      "id": "8ad8d1b738eabe94918858d1a95c038b5bc82782",
+      "title": "Oil edges higher as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
+      "summary": "Iran's move to step up attacks on tankers which are transiting through the Strait of Hormuz has also led to renewed worries over oil supplies among traders.",
+      "url": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-07T12:23:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Houthi attacks on Saudi Arabia"
+    },
+    {
+      "id": "22405ff3551b29a21e24da7228125f19ff986e00",
+      "title": "How An Angry Facebook Post Led To Saudi Death Penalty For Sri Lankan Man",
+      "summary": "Sivarasa's family has not heard from him since September 28.",
+      "url": "https://www.ndtv.com/world-news/sri-lankan-mother-pleads-saudi-authorities-to-spare-son-facing-death-penalty-for-facebook-post-12149388#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-07T06:39:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Saudi Death Penalty For Sri Lankan Man"
+    },
     {
       "id": "179eabffb7a92724b8a5c379652ff8afb7e4731e",
       "title": "Pak, Saudi Arabia and Turkiye agree to deploy forces in Gulf country amid Houthi attacks",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.5,
       "evidence": "The plane landed safely in Saudi Arabia."
-    },
-    {
-      "id": "87bbda71fdfe7388f376c0e4b30d4391ec0b093f",
-      "title": "Opinion: Opinion | Are Saudi Arabia And UAE Reuniting Again After 10 Years?",
-      "summary": "On Tuesday, the UAE's Vice President, Deputy Prime Minister and Chairman of the Presidential Court, Mansour bin Zayed, met Saudi Crown Prince Mohammed bin Salman.",
-      "url": "https://www.ndtv.com/opinion/are-saudi-arabia-and-uae-joining-hands-again-after-decades-12125303#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-01T11:16:23+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "met Saudi Crown Prince Mohammed bin Salman"
-    },
-    {
-      "id": "9484fa7ce2e1205b47666cb00f4d5974b6623722",
-      "title": "Pilot on Tel Aviv-bound flight tried to crash plane after cockpit stabbing, Netanyahu says",
-      "summary": "Flydubai Flight 1073 was carrying about 180 passengers to Tel Aviv from Dubai when it made the emergency landing in Saudi Arabia.",
-      "url": "https://www.washingtonpost.com/world/2026/09/30/flydubai-flight-tel-aviv-diverted-saudi-arabia-after-onboard-altercation/",
-      "source": "World (Washington post)",
-      "published_at": "2026-09-30T15:32:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "emergency landing in Saudi Arabia."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-06T16:04:03Z"
+  "last_updated": "2026-10-07T16:22:43Z"
 }
