@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 77,
+  "sources": 75,
   "sentiment": {
-    "positive": 4,
-    "neutral": 50,
-    "negative": 23
+    "positive": 2,
+    "neutral": 51,
+    "negative": 22
   },
   "latest_articles": [
+    {
+      "id": "9eda09598c4ccac1adf23288c3bdb40a5cc31168",
+      "title": "Munir overrules Pak PM, to deploy more military assets to Riyadh under Mecca pact",
+      "summary": "Pakistan's defence forces chief Asim Munir has confirmed plans to deploy additional troops to Saudi Arabia. This deployment comes despite the country's parliament deciding against involvement in the Houthi conflict previ…",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/pak-army-chief-munir-bypasses-pm-sharif-moves-to-deploy-more-military-assets-to-saudi-arabia/articleshow/134792840.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-10-08T14:05:52+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "signed Mecca defence pact between Pakistan, Saudi Arabia, and Turkey"
+    },
     {
       "id": "7290650b16349517186976fa69dd4d941b545274",
       "title": "Mayor of Turkish opposition stronghold defects to Erdoğan’s party amid political crackdown",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Turkey Begins Broad Crackdown on L.G.B.T.Q. Community"
-    },
-    {
-      "id": "7965f37bd9eeb871e0ebe1243a74633bbd66b678",
-      "title": "Turkey expands arrests after LGBTQ+ crackdown",
-      "summary": "Turkey’s Justice Minister Akin Gurlek launched the crackdown, saying it was part of an initiative to protect children and family values.",
-      "url": "https://www.washingtonpost.com/world/2026/09/15/turkey-expands-arrests-after-lgbtq-crackdown/",
-      "source": "World (Washington post)",
-      "published_at": "2026-09-15T21:07:43+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Turkey expands arrests after LGBTQ+ crackdown"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-07T16:22:43Z"
+  "last_updated": "2026-10-08T16:23:01Z"
 }

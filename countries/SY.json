@@ -3,14 +3,25 @@
   "score": 84,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -1,
+  "trend": 0,
   "sources": 39,
   "sentiment": {
     "positive": 2,
-    "neutral": 15,
-    "negative": 22
+    "neutral": 16,
+    "negative": 21
   },
   "latest_articles": [
+    {
+      "id": "64542f3c2752543654eafb103dbbd5c9939bfacd",
+      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+      "summary": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
+      "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-08T05:00:44+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "US and Lebanon protecting wanted Syrian general"
+    },
     {
       "id": "1a1a72ab8b1775983d4e3cb5b1aa8d8b3ae9eee4",
       "title": "Opinion: Opinion | flydubai Hijack, And How Syria's Descent Into 'Jihadism' Has Now Become Everyone's Problem",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Syria says Israeli strike near Damascus violation of international law"
-    },
-    {
-      "id": "6ee2d6fc6a35c6c41c7db9ca9e408eccc8230d50",
-      "title": "'Antisemitic dictator': Netanyahu slams Erdogan after Turkey seeks Interpol action",
-      "summary": "Israel's Prime Minister Netanyahu fiercely criticized Turkey's President Erdogan after Ankara sought an Interpol notice.  Erdogan's government requested the notice concerning an interception of a Gaza aid flotilla.  Neta…",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/antisemitic-dictator-netanyahu-slams-turkeys-erdogan-vows-not-to-tolerate-aggression-in-syria/articleshow/133417564.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-08-22T05:07:40+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "tensions between the two nations over Syria"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-07T16:22:43Z"
+  "last_updated": "2026-10-08T16:23:01Z"
 }

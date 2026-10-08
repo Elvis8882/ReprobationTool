@@ -1,16 +1,60 @@
 {
   "country": "SA",
-  "score": 18,
+  "score": 17,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -2,
-  "sources": 250,
+  "trend": -1,
+  "sources": 256,
   "sentiment": {
-    "positive": 20,
-    "neutral": 105,
-    "negative": 126
+    "positive": 21,
+    "neutral": 107,
+    "negative": 129
   },
   "latest_articles": [
+    {
+      "id": "4e2cb2b3fecb932942f660266e078beefa6cbbc3",
+      "title": "Blasts Rattle Riyadh as Saudi Arabia Hit by Deadliest Houthi Attacks So Far",
+      "summary": "The Saudi authorities said they intercepted two missiles targeting Riyadh, a day after they said Houthi strikes on airports in the kingdom killed three people.",
+      "url": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-08T15:31:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Blasts Rattle Riyadh as Saudi Arabia Hit by Deadliest Houthi Attacks"
+    },
+    {
+      "id": "9eda09598c4ccac1adf23288c3bdb40a5cc31168",
+      "title": "Munir overrules Pak PM, to deploy more military assets to Riyadh under Mecca pact",
+      "summary": "Pakistan's defence forces chief Asim Munir has confirmed plans to deploy additional troops to Saudi Arabia. This deployment comes despite the country's parliament deciding against involvement in the Houthi conflict previ…",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/pak-army-chief-munir-bypasses-pm-sharif-moves-to-deploy-more-military-assets-to-saudi-arabia/articleshow/134792840.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-10-08T14:05:52+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "deploy more military assets to Riyadh under Mecca pact"
+    },
+    {
+      "id": "9b52baf3c3025aea03f8ff5cba47110caf0e84ed",
+      "title": "3 Killed and Dozens Injured in Attacks on Saudi Airports, as Houthis Claim Strikes",
+      "summary": "Residents of Saudi Arabia’s capital reported hearing booms on Thursday, a day after the Saudi government said two women and a Sudanese man died in strikes on two airports.",
+      "url": "https://www.nytimes.com/2026/10/07/world/middleeast/saudi-arabia-airports-houthis.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-08T08:33:45+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "3 Killed and Dozens Injured in Attacks on Saudi Airports"
+    },
+    {
+      "id": "331d32f0d5edd47891b8af2e2c4a9ada40f06095",
+      "title": "Houthi forces appear to make slow advance in south-west Yemen",
+      "summary": "Group’s fighters hit key airport in Aden with explosive moments before plane from Cairo was due to landHouthi forces appeared to be making slow advances on Wednesday in south-west Yemen, approaching the city of Taiz and…",
+      "url": "https://www.theguardian.com/world/2026/oct/07/houthi-forces-slow-advance-south-west-yemen-taiz-aden-airport",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-07T19:45:47+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "the Saudi-backed government"
+    },
     {
       "id": "8ad8d1b738eabe94918858d1a95c038b5bc82782",
       "title": "Oil edges higher as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
@@ -65,6 +109,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Undergoes Emergency Surgery In Saudi"
+    },
+    {
+      "id": "69552a3f893aa0ad8759c2dc00ef3ae64bb0a3da",
+      "title": "Saudi-Backed Yemeni Forces Expel Houthis From Several Areas Around Key Strait",
+      "summary": "The Saudi-backed government said it was mobilising troops across government-held areas.",
+      "url": "https://www.ndtv.com/world-news/saudi-backed-yemeni-forces-expel-houthis-from-several-areas-around-key-strait-12144143#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-06T05:53:52+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Saudi-Backed Yemeni Forces Expel Houthis From Several Areas"
     },
     {
       "id": "3fd55062614fcbd8cd28ab5a4f85f63dd477f65b",
@@ -166,72 +221,17 @@
       "evidence": "Houthis said last week they had attacked Saudi Aramco facilities"
     },
     {
-      "id": "0d1b415bf6b7803eea15673c7162a5ebb5fac941",
-      "title": "Why Were 4 Pilots Aboard FlyDubai Flight 1073?",
-      "summary": "After the co-pilot stabbed the captain, two pilots who were seated in the cabin intervened alongside passengers and safely landed the Boeing 737 in Saudi Arabia.",
-      "url": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-flight-cockpit-stabbing-extra-pilots.html",
+      "id": "0d47cfdee34e579254efdedc9468699f7ea45343",
+      "title": "What to Know About Fighting Between Ethiopia and Rebels in Tigray",
+      "summary": "The conflict is raising fears of a regional war in the Horn of Africa, drawing in foreign powers including Eritrea, Egypt, the United Arab Emirates and Saudi Arabia.",
+      "url": "https://www.nytimes.com/2026/10/02/world/africa/ethiopia-tigray-conflict.html",
       "source": "NYT > World News",
-      "published_at": "2026-10-02T16:53:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "safely landed the Boeing 737 in Saudi Arabia"
-    },
-    {
-      "id": "15040b50b4a7550af11e472d2f11aaacb6fe426a",
-      "title": "UAE Official Calls flydubai Attack \"Terrorist Act\", Praises Smit Machchhar",
-      "summary": "The aircraft carrying 174 people was forced to make an emergency landing in Saudi Arabia.",
-      "url": "https://www.ndtv.com/world-news/uae-official-calls-flydubai-attack-terrorist-act-praises-smit-machchhar-12130766#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-02T13:59:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "UAE Official Calls flydubai Attack \"Terrorist Act\""
-    },
-    {
-      "id": "3ff67af76f609289d2c80c40af934ea9dd6e3874",
-      "title": "'Fake News': Saudi On 'Suicide Bomber' Video From Mecca Mosque",
-      "summary": "The authorities said security agencies have launched a probe into the incident.",
-      "url": "https://www.ndtv.com/world-news/fake-news-saudi-on-suicide-bomber-video-from-mecca-mosque-12129624#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-02T09:39:03+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Saudi On 'Suicide Bomber' Video From Mecca Mosque"
-    },
-    {
-      "id": "0d67d4435f0f63396fe3b7410363d841e34f19cc",
-      "title": "Co-pilot in flight stabbing had ‘Islamic radical indoctrination’, says Netanyahu",
-      "summary": "Alleged flydubai attacker interrogated by Saudi security services as investigation into apparent crash attempt opensThe Omani co-pilot who stabbed his captain in an apparent attempt to crash an Israel-bound flight from D…",
-      "url": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-01T15:21:28+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "land it safely in Saudi Arabia"
-    },
-    {
-      "id": "b5cec00fcd420dabe1534e38ab44726e15caa6af",
-      "title": "Hero flydubai Pilot Smit Machchhar Airlifted From Saudi Arabia To Abu Dhabi",
-      "summary": "Indian pilot captain Smit Machchhar was stabbed by his co-pilot inside the cockpit aboard flydubai flight FZ1073 from Dubai to Tel Aviv. The co-pilot apparently wanted to crash the plane.",
-      "url": "https://www.ndtv.com/world-news/captain-smit-machchhar-airlifted-from-saudi-arabia-to-dubai-hospital-by-flydubai-12124735#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-01T14:39:56+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Hero flydubai Pilot Smit Machchhar Airlifted From Saudi Arabia"
-    },
-    {
-      "id": "7ca33839adc1b744fde168dbf7be257b1eabfc70",
-      "title": "FlyDubai Flight to Israel Diverted After Clash Between Pilots: What We Know and Don’t Know",
-      "summary": "Prime Minister Benjamin Netanyahu of Israel said the attack might have been an attempt to crash the flight from Dubai to Tel Aviv. The plane landed safely in Saudi Arabia.",
-      "url": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-dubai-israel-flight-diverted.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-01T12:53:13+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "The plane landed safely in Saudi Arabia."
+      "published_at": "2026-10-03T02:03:10+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "drawing in foreign powers including ... Saudi Arabia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-07T16:22:43Z"
+  "last_updated": "2026-10-08T16:23:01Z"
 }
