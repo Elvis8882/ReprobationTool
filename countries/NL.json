@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 141,
+  "sources": 139,
   "sentiment": {
     "positive": 18,
-    "neutral": 118,
+    "neutral": 116,
     "negative": 5
   },
   "latest_articles": [
+    {
+      "id": "dc322a688a35d3259e21a6c4ba0890554839e001",
+      "title": "Nobel Peace Prize Choice Amounts to Implicit Rebuke of Trump",
+      "summary": "The Trump administration has repeatedly attacked the international legal order and the International Criminal Court in The Hague, where the Peace Prize winner, Navi Pillay, served as a judge.",
+      "url": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-trump-international-law.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-09T15:01:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "International Criminal Court in The Hague"
+    },
     {
       "id": "be23509539f3b7afc96acd2ce4045d420cc0403f",
       "title": "Latvian book exhibition opens at European Parliament / Article - LSM",
@@ -205,19 +216,8 @@
       "published_at": "2026-09-25T11:14:48+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "a2b347563e49eca3b4181ebb7d6234a4fca33b2f",
-      "title": "Workers on 13 Bathla sites stood down as funding runs out – as it happened",
-      "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastMore than 600 Qantas ground crew workers have begun a 24-hour strike this morning across the country over an escalating industrial dispute…",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-24T08:43:17+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "Australia and the Netherlands remain resolute in their commitment to pursuing truth"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-08T16:23:01Z"
+  "last_updated": "2026-10-09T16:08:09Z"
 }

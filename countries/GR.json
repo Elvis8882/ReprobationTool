@@ -1,16 +1,27 @@
 {
   "country": "GR",
-  "score": 69,
+  "score": 71,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 3,
+  "trend": 2,
   "sources": 135,
   "sentiment": {
-    "positive": 6,
-    "neutral": 123,
+    "positive": 7,
+    "neutral": 122,
     "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "d313a458c0307c1ce7b273a9e4fd020d75153d44",
+      "title": "Margaret Papandreou, American-Born First Lady of Greece, Dies at 102",
+      "summary": "The wife of Prime Minister Andreas Papandreou, she led reforms in the 1980s that helped legalize abortion and end other legal and social restrictions on women.",
+      "url": "https://www.nytimes.com/2026/10/08/world/europe/margaret-papandreou-dead.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-08T18:53:52+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "led reforms in the 1980s that helped legalize abortion"
+    },
     {
       "id": "721ce071533c6f5de20f38d621439b37fc5f2892",
       "title": "Two Latvian men arrested for trespass offences at RAF airbase – Europe live",
@@ -21,6 +32,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "address allegations of misconduct by Kimberly Guilfoyle"
+    },
+    {
+      "id": "1f96de97074178fd0edd8f3d9c9e4a993cacaf5f",
+      "title": "From France to Italy, Belgium to Greece, student protests spread across Europe",
+      "summary": "The movement began in the Paris region in mid-September, when high-school students and teachers protested over a lack of resources and staff. It quickly spread across France, with students blocking school entrances and l…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/from-france-to-italy-belgium-to-greece-student-protests-spread-across-europe/articleshow/134785388.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-10-08T13:04:32+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": ""
     },
     {
       "id": "be23509539f3b7afc96acd2ce4045d420cc0403f",
@@ -197,30 +219,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Blast In Athens Building... caused by a massive gas leak"
-    },
-    {
-      "id": "06383431c1feee7568899b051db83bc9874937c6",
-      "title": "Greek authorities seek answers after six killed in Athens apartment block explosion",
-      "summary": "Emergency teams discovered victims after two-storey building in historic Plaka district collapsed ‘in seconds’Greek authorities say they are trying to discover what caused a two-storey apartment block in the heart of anc…",
-      "url": "https://www.theguardian.com/world/2026/sep/26/greek-authorities-seek-answers-after-six-killed-in-athens-apartment-block-explosion",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-26T16:54:55+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Greek authorities seek answers after six killed in Athens apartment block explosion"
-    },
-    {
-      "id": "bd43d03632873c7c0b8da0d2366070b57b7209e8",
-      "title": "British national among six dead in building explosion close to Acropolis in Athens",
-      "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-26T12:47:25+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "six dead in building explosion close to Acropolis"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-08T16:23:01Z"
+  "last_updated": "2026-10-09T16:08:09Z"
 }

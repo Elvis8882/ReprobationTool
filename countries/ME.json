@@ -1,16 +1,27 @@
 {
   "country": "ME",
-  "score": 100,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": null,
-  "sources": 2,
+  "score": 55,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": -45,
+  "sources": 3,
   "sentiment": {
     "positive": 0,
     "neutral": 2,
-    "negative": 0
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "ffeac62e54f0c5413cf6e50407ff120465a8f1fa",
+      "title": "Pro-Kremlin Russian military blogger Mikhail Zvinchuk arrested in Montenegro",
+      "summary": "Founder of influential Rybar blog detained after warnings of attempts to destabilise Balkan country, officials sayA leading pro-Kremlin Russian military blogger with reported ties to Russia’s intelligence services has be…",
+      "url": "https://www.theguardian.com/world/2026/oct/09/russian-military-blogger-mikhail-zvinchuk-rybar-arrested-montenegro",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-09T11:51:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "arrested in Montenegro, after warnings of attempts to destabilise the Balkan country"
+    },
     {
       "id": "8cced6b1bed384a0450d8529e87b01cdc15525d7",
       "title": "Montenegro reduces fuel excise duties further - SeeNews",
@@ -35,5 +46,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-08T16:23:01Z"
+  "last_updated": "2026-10-09T16:08:09Z"
 }

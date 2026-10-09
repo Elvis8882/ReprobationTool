@@ -4,13 +4,35 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 112,
+  "sources": 113,
   "sentiment": {
     "positive": 1,
-    "neutral": 103,
+    "neutral": 104,
     "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "a4b5c55c61129747a3ef6eb543521219546d2943",
+      "title": "Sydney festival 2027: 11 international dance works to headline ‘once-in-a-lifetime’ program",
+      "summary": "Making its southern hemisphere debut, Dance Reflections will feature collaborators of Rosalía, Madonna and Beyoncé – and a high-wire takeover of the CutawayGet our weekend culture and lifestyle emailA “once-in-a-lifetime…",
+      "url": "https://www.theguardian.com/culture/2026/oct/09/sydney-festival-2027-international-dance-headline-program",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-09T01:00:34+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "works from France, Belgium"
+    },
+    {
+      "id": "1f96de97074178fd0edd8f3d9c9e4a993cacaf5f",
+      "title": "From France to Italy, Belgium to Greece, student protests spread across Europe",
+      "summary": "The movement began in the Paris region in mid-September, when high-school students and teachers protested over a lack of resources and staff. It quickly spread across France, with students blocking school entrances and l…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/from-france-to-italy-belgium-to-greece-student-protests-spread-across-europe/articleshow/134785388.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-10-08T13:04:32+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": ""
+    },
     {
       "id": "be23509539f3b7afc96acd2ce4045d420cc0403f",
       "title": "Latvian book exhibition opens at European Parliament / Article - LSM",
@@ -20,6 +42,17 @@
       "published_at": "2026-10-08T06:56:13+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "89e6b5d2bca09142567621ac723cd04d5a3b79e4",
+      "title": "CNBC Daily Open: The blame game — Brussels vs Beijing",
+      "summary": "The scene is set for tough talks in Beijing as European and Chinese officials seek to avoid stoking trade tensions.",
+      "url": "https://www.cnbc.com/2026/10/08/cnbc-daily-europe-autos-china-trade-sefcovic.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-08T06:45:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Brussels vs Beijing"
     },
     {
       "id": "5fe47395b6b0e06f67883312a632e6589b0a8a28",
@@ -183,38 +216,8 @@
       "published_at": "2026-09-24T03:05:40+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "aecd22306c6d0cacf495e43fc227b136eec71acf",
-      "title": "The EU Council extended anti-Russian sanctions against 3,000 people and legal entities for 3 years - ИА Ореанда-Новости",
-      "summary": "The EU Council extended anti-Russian sanctions against 3,000 people and legal entities for 3 years&nbsp;&nbsp;ИА Ореанда-НовостиЕвросоюз решил снять санкции с российских бизнесменов Алишера Усманова и Михаила Фридмана&nb…",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMUZseEdfQnlaN3I1OVA4bGRjUFhZMWpwMGFXYW9CWmQxbERFV1h6U2R2d2tSQTVLOFAzY2RpaVc0dy1KNnBEWGd0U1g5Wnk3OC1wZGJmTWNhODlFVExDcnNQTjRNWVh2TXNpN2hrZkk5U1hfNWNibWlUQU9MUHBRdXZlODRJMzBoVVk3ZWtKZTY4U3hKczlQb2xTV0hFaVJZLVlYN0Iyb242Rnc2cWdMdnFWZDU4ZzB1U3Foa0lJQXZ3bXBNVTBVZ1dNa1ZXZw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-22T18:17:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "02b0db74ecae10209af6b33189c7c6dd5d30efc6",
-      "title": "Andy Burnham does not rule out Brexit reversal being in next Labour manifesto",
-      "summary": "PM says immediate focus is on rebuilding bridges with EU as he prepares for first meeting with Ursula von der LeyenAndy Burnham has opened the door to fighting the next election on the UK rejoining the EU, but said his i…",
-      "url": "https://www.theguardian.com/politics/2026/sep/22/andy-burnham-fails-rule-out-brexit-reversal-next-labour-manifesto",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-22T08:00:38+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "9b44068358f79baabc39a03785d00cb4deac9bda",
-      "title": "Ukraine’s first cluster joins the European Network of Defence-related Regions (ENDR) - defence-industry-space.ec.europa.eu",
-      "summary": "Ukraine’s first cluster joins the European Network of Defence-related Regions (ENDR)&nbsp;&nbsp;defence-industry-space.ec.europa.euEU and Ukraine hold Third Security and Defence Dialogue in Kyiv&nbsp;&nbsp;EU NEIGHBOURS…",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbXhMVjVITnVmZWtQdTFYd0hCN0tEM01DRGhtWE1sdlkyRVZVLWtNNFkxT3ZLTEpNMW01Z0NudnZ4VmRuZE03RU42cjFTMjJMQjZObUN4eHE2ZjBkeG5mTlU1REFKXzIySlEtazhvNWExQXR2UllrZk1qR1JzaHhrYnpGUURYSkNyQ1pTeUZUbHI4UGwzLUE0U1E0ZXI1ZmtMZHJhSXBWSGxnQ0lWb1AtQ3BidlJ4ZTRLVGpCdURXc0k2RFRkeVR2cC01NHo?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-21T19:34:27+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-08T16:23:01Z"
+  "last_updated": "2026-10-09T16:08:09Z"
 }

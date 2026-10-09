@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 299,
+  "sources": 297,
   "sentiment": {
     "positive": 25,
-    "neutral": 166,
+    "neutral": 164,
     "negative": 108
   },
   "latest_articles": [
+    {
+      "id": "1ec9e5c40314b280c5d289f6052d80f058e36e1a",
+      "title": "Adidas sues Australian label White Fox over four stripes design",
+      "summary": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-09T03:36:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": ""
+    },
     {
       "id": "259be33b388e2a06c86f6e25ca986a1686f0e16f",
       "title": "Chinese runner dropped by sponsor after riding bike during marathon - BBC",
@@ -213,19 +224,8 @@
       "published_at": "2026-10-02T05:00:01+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "6915f6bfe80bdc934681a84be46ba751f47672ab",
-      "title": "Lucien Lazare, Jewish Resistance Fighter in Occupied France, Dies at 101",
-      "summary": "He and a small troop of French Jews worked with the Allies to distribute supplies and fight the Nazis, ambushing a German train and liberating a city in the south.",
-      "url": "https://www.nytimes.com/2026/10/01/world/lucien-lazare-dead.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-01T21:32:47+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "ambushing a German train and liberating a city"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-08T16:23:01Z"
+  "last_updated": "2026-10-09T16:08:09Z"
 }

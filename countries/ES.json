@@ -1,16 +1,38 @@
 {
   "country": "ES",
-  "score": 49,
+  "score": 48,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 345,
+  "trend": -1,
+  "sources": 341,
   "sentiment": {
     "positive": 21,
-    "neutral": 246,
-    "negative": 81
+    "neutral": 241,
+    "negative": 82
   },
   "latest_articles": [
+    {
+      "id": "2907b7cc8fe8759cc2ed70afc73290d17168747a",
+      "title": "Spain’s Protesters See ‘Madness’ of Rising Rent and a ‘Martyr’ in Maricarmen",
+      "summary": "Thousands of protesters marched in Madrid on Thursday, a day after the death of María del Carmen Abascal, an 87-year-old whose eviction became a symbol of the country’s housing crisis.",
+      "url": "https://www.nytimes.com/2026/10/08/world/europe/spain-protests-maricarmen-housing.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-08T21:27:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Spain’s Protesters See ‘Madness’ of Rising Rent"
+    },
+    {
+      "id": "c6d0f8504d2964f3697844482bb955825b0d0b88",
+      "title": "Thousands to march in Madrid after death of evicted pensioner Maricarmen",
+      "summary": "Rally to remember woman, 87, whose rent battle with investment firm triggered nationwide protests over housing crisisThousands of people are expected to march through the centre of Madrid on Thursday evening in memory of…",
+      "url": "https://www.theguardian.com/world/2026/oct/08/thousands-to-march-in-madrid-after-death-of-evicted-pensioner-maricarmen",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-08T15:15:12+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Spain’s housing crisis"
+    },
     {
       "id": "be23509539f3b7afc96acd2ce4045d420cc0403f",
       "title": "Latvian book exhibition opens at European Parliament / Article - LSM",
@@ -20,6 +42,17 @@
       "published_at": "2026-10-08T06:56:13+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "92abe3e1378e0f9dd7d109d1b8f5c8458c9d2f17",
+      "title": "‘Now is the moment’: housing activists at Madrid encampment pin wary hopes on Spain’s early election",
+      "summary": "Campaigners set up in more than 1,200 tents in Puerto del Sol square say challenge now is to translate a groundswell of public support into concrete changeAt a makeshift lunch counter tucked within a maze of tents at a h…",
+      "url": "https://www.theguardian.com/world/2026/oct/07/housing-activists-madrid-encampment-hopes-spain-early-election",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-07T12:43:36+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "housing activists at Madrid encampment pin wary hopes on Spain’s early election"
     },
     {
       "id": "5fe47395b6b0e06f67883312a632e6589b0a8a28",
@@ -194,39 +227,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Protesters across Spain demand action over housing crisis"
-    },
-    {
-      "id": "521d48f4837cfb6ab8ffec206a139a635671f472",
-      "title": "Will Spain's housing crisis lead to a snap election?",
-      "summary": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
-      "url": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-03T12:26:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Spain's housing crisis lead to a snap election?"
-    },
-    {
-      "id": "0104714cc5e0992f079b00240493828a329db03b",
-      "title": "Understanding Canada’s Europe Pivot",
-      "summary": "You sent us your questions about the prime minister’s plan to form a closer relationship with the European Union. Our Canada bureau chief answers them.",
-      "url": "https://www.nytimes.com/2026/10/03/world/canada/carney-canada-european-union-trade-currency.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-03T10:00:13+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "0bb7ff149c0ce5129420ba9cbbd8cd667cb66e94",
-      "title": "Half of UK wants to rejoin EU and backing it could drive up Labour vote, megapoll finds",
-      "summary": "Exclusive: Findings will bolster those in No 10 who want to negotiate on re-entry but some senior figures remain waryAndy Burnham’s personal preference to rejoin the European Union after the next election is supported by…",
-      "url": "https://www.theguardian.com/world/2026/oct/03/half-want-to-rejoin-eu-and-backing-it-could-drive-up-labour-vote-megapoll-finds",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-03T05:00:52+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-08T16:23:01Z"
+  "last_updated": "2026-10-09T16:08:09Z"
 }
