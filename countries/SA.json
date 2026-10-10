@@ -1,13 +1,13 @@
 {
   "country": "SA",
   "score": 15,
-  "score_label": "Negative",
-  "assessment": "High negative coverage",
-  "trend": -2,
-  "sources": 263,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": 0,
+  "sources": 264,
   "sentiment": {
     "positive": 21,
-    "neutral": 111,
+    "neutral": 112,
     "negative": 132
   },
   "latest_articles": [
@@ -43,6 +43,17 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Houthi attacks on Riyadh airport"
+    },
+    {
+      "id": "33e13e211a5b1ff81616f518345737defe1fcea2",
+      "title": "3 Including Pilot Killed In Houthi Attacks On Riyadh Airport: Saudi Arabia",
+      "summary": "Houthis have also attacked Saudi transport hubs",
+      "url": "https://www.ndtv.com/world-news/3-including-pilot-killed-in-houthi-attacks-on-riyadh-airport-saudi-arabia-12162057#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-09T12:22:39+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Houthi Attacks On Riyadh Airport: Saudi Arabia"
     },
     {
       "id": "495948c20a29ca14ec363cf5268f13e692e08b2f",
@@ -219,19 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Saudi-backed forces... 'secured' Red Sea waterway"
-    },
-    {
-      "id": "70aa004fc9c281a1e570cd23edc8fdf738c31e44",
-      "title": "Saudi and Yemeni Forces Attack Houthis to Retake Control of Red Sea Coast",
-      "summary": "The offensive is an effort to wrest control of the Bab al-Mandab Strait from the Houthis, a militia in Yemen backed by Iran.",
-      "url": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-yemen-houthis-bab-al-mandab-strait.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-05T17:22:22+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Saudi and Yemeni Forces Attack Houthis to Retake Control of Red Sea"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-09T16:08:09Z"
+  "last_updated": "2026-10-10T15:15:35Z"
 }

@@ -1,14 +1,14 @@
 {
   "country": "CY",
-  "score": 66,
+  "score": 71,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": 5,
   "sources": 100,
   "sentiment": {
     "positive": 2,
-    "neutral": 95,
-    "negative": 3
+    "neutral": 96,
+    "negative": 2
   },
   "latest_articles": [
     {
@@ -38,6 +38,16 @@
       "url": "https://www.nytimes.com/2026/10/07/business/china-europe-trade-issues.html",
       "source": "NYT > World News",
       "published_at": "2026-10-07T09:06:15+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "b0bfcb206f235590d3f215d81dbc0dd72dbc429e",
+      "title": "‘No more Viktor Orbán’: EU plans 15-year probation period for new member states",
+      "summary": "Enlargement commissioner Marta Kos outlines proposed safeguards to protect EU from undemocratic leadersThe European Commission wants to ensure there is no repeat Viktor Orbán among the next generation of EU member states…",
+      "url": "https://www.theguardian.com/world/2026/oct/06/eu-plans-15-year-probation-period-new-member-states-viktor-orban",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-06T14:38:16+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -201,18 +211,8 @@
       "published_at": "2026-09-21T19:34:27+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "d6c72cbd39aaf660c8954401e3de02c161bc6a2f",
-      "title": "On a Dot of France Off Canada, Carney and Macron Talk Partnership",
-      "summary": "Prime Minister Mark Carney of Canada and President Emmanuel Macron of France met just after the European Union invited Canada to become its first “associate member.”",
-      "url": "https://www.nytimes.com/2026/09/20/world/canada/carney-macron-saint-pierre-miquelon-canada-eu.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-21T14:47:07+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-09T16:08:09Z"
+  "last_updated": "2026-10-10T15:15:35Z"
 }

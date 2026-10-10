@@ -4,10 +4,10 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 122,
+  "sources": 123,
   "sentiment": {
     "positive": 6,
-    "neutral": 107,
+    "neutral": 108,
     "negative": 9
   },
   "latest_articles": [
@@ -38,6 +38,16 @@
       "url": "https://www.nytimes.com/2026/10/07/business/china-europe-trade-issues.html",
       "source": "NYT > World News",
       "published_at": "2026-10-07T09:06:15+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "b0bfcb206f235590d3f215d81dbc0dd72dbc429e",
+      "title": "‘No more Viktor Orbán’: EU plans 15-year probation period for new member states",
+      "summary": "Enlargement commissioner Marta Kos outlines proposed safeguards to protect EU from undemocratic leadersThe European Commission wants to ensure there is no repeat Viktor Orbán among the next generation of EU member states…",
+      "url": "https://www.theguardian.com/world/2026/oct/06/eu-plans-15-year-probation-period-new-member-states-viktor-orban",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-06T14:38:16+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -205,19 +215,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Russia could attack a NATO country within months, Danish intelligence warns"
-    },
-    {
-      "id": "225c216237cabf051a3fd43c11c20f8ab064d91b",
-      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-24T11:59:23+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Denmark warns of rising Russian threat"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-09T16:08:09Z"
+  "last_updated": "2026-10-10T15:15:35Z"
 }

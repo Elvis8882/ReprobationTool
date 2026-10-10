@@ -4,13 +4,90 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 608,
+  "sources": 609,
   "sentiment": {
     "positive": 222,
-    "neutral": 106,
-    "negative": 281
+    "neutral": 105,
+    "negative": 283
   },
   "latest_articles": [
+    {
+      "id": "495ff983bc7e7e8e299a657a46c36fa16e8e83ec",
+      "title": "Ukraine hit by deadly Russian strikes as ‘thanks’ for Trump diesel deal, Zelenskyy says",
+      "summary": "Ukrainian president says money from fuel sales will intensify war as European leaders reiterate support for KyivRussia launched deadly strikes on civilians in Ukraine as “thanks” for a deal cut by Donald Trump with Vladi…",
+      "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-10T14:45:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Ukraine hit by deadly Russian strikes"
+    },
+    {
+      "id": "2b3762f9568b90ea41eb73768f062956be7c26be",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-10T14:24:14+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Zelensky calls it a gift to Putin"
+    },
+    {
+      "id": "0a1d2419560d9c2b07d8e0d301b5e6cd9d3f109f",
+      "title": "Ukraine Peace Talks Sputter After Trump and Putin Strike Fuel Deal",
+      "summary": "Hours after President Trump said the United States would buy Russian diesel, the Kremlin said there would be no immediate resumption of discussions to end the war.",
+      "url": "https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-10T12:13:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Ukraine Peace Talks Sputter"
+    },
+    {
+      "id": "90d548fba6a43b32eb6efc1722345fedc08847d8",
+      "title": "Russian strikes kill 12 in Ukraine after Trump announces diesel deal with Putin",
+      "summary": "A recent barrage of Russian airstrikes in Zaporizhzhia claimed at least 12 lives, including those of children. Ukrainian President Volodymyr Zelenskyy denounced a fresh diesel agreement forged by Donald Trump with Russia…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/russian-strikes-kill-12-in-ukraine-after-trump-announces-diesel-deal-with-putin/articleshow/134852330.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-10-10T11:12:32+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Russian strikes kill 12 in Ukraine... diesel agreement forged by Donald Trump with Russia"
+    },
+    {
+      "id": "b6c08aaad88266f8e714ffa9272868993db29165",
+      "title": "After Russian strike wipes out three families, Ukrainian town gathers to mourn",
+      "summary": "In Pryluky’s town square, hundreds gathered around the coffins. Among them were grief-stricken classmates of the children who were killed.",
+      "url": "https://www.washingtonpost.com/world/2026/10/10/after-russian-strike-wipes-out-three-families-ukrainian-town-gathers-mourn/",
+      "source": "World (Washington post)",
+      "published_at": "2026-10-10T09:00:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Ukrainian town gathers to mourn"
+    },
+    {
+      "id": "f5434a10af41f7636dd0c2e83406f40089c35257",
+      "title": "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia",
+      "summary": "Government planes reported to be carrying the Russian president and his aides home from Turkmenistan were forced to circle or divert to another city.",
+      "url": "https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-09T20:15:34+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukrainian Drones Close Moscow Airports"
+    },
+    {
+      "id": "d7528ef91e9402de6342df61a4302d809d68e261",
+      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+      "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-09T17:14:44+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukrainian strikes on data centres"
+    },
     {
       "id": "683225b7ee258f343047f8b559f1f878c15a21a7",
       "title": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
@@ -153,85 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Bombarded by Ukraine"
-    },
-    {
-      "id": "ff25098848c2cd9118e2018a8a5ac35aa193fc96",
-      "title": "ELEKS acquires majority stake in ADM Interactive, strengthening Estonia–Ukraine digital cooperation - Inbox.eu",
-      "summary": "ELEKS acquires majority stake in ADM Interactive, strengthening Estonia–Ukraine digital cooperation&nbsp;&nbsp;Inbox.eu",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeXl2cjRNaWVhWW5RMkh5S0VMb0xRZ1Zkcmw0SnQ5OVlDZkgyWXYtMXN6TE1LbENEc3lFYmFuSkM0dGozRFNDUUxsTDVlZDZtTk5Kc2JzYzRiZENvNzFkaDNaMUVhTE9mYXZIRTBpYS1wZ1dNU29NdTdiREpyTDYzVGc3LU1RLTBVbnhfbjZkb29tS2s5MzU2YzN5cnYtQWpTYmVobm5OcHhrQlhYMDFRclJVUE5LWVV4aEtXWmZrZ0FWUEwtUjhITGlaRkdMdWRPenpoY3FhRQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-08T05:11:29+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "strengthening Estonia–Ukraine digital cooperation"
-    },
-    {
-      "id": "746e419cb5cdf9293eccfb8fd2d696257d3f8860",
-      "title": "Ukraine Claws Back Land in the Donbas, Thwarting a Russian Push",
-      "summary": "Moscow says its capture of the region is inevitable. But Kyiv has so far stymied Russian efforts to encircle Ukrainian “fortress belt” cities.",
-      "url": "https://www.nytimes.com/2026/10/07/world/europe/ukraine-battlefield-operation-vivaldi.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-07T12:02:09+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukraine Claws Back Land in the Donbas"
-    },
-    {
-      "id": "64caa2995eff294b4048a8548b12daac0ba560c9",
-      "title": "AI-powered robots are next in war tech, Ukraine’s former defense minister says",
-      "summary": "Mykhailo Fedorov, an architect of Ukraine’s drone program, says his country needs to deploy AI on the battlefield to defend against Russia — no matter the risks.",
-      "url": "https://www.washingtonpost.com/world/2026/10/07/ai-powered-robots-are-next-war-tech-ukraines-former-defense-minister-says/",
-      "source": "World (Washington post)",
-      "published_at": "2026-10-07T09:00:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukraine’s drone program, says his country needs to deploy AI"
-    },
-    {
-      "id": "c59dfe943ef4d4437ca8d24e03a48681d9199a9c",
-      "title": "ClickFix campaign in Ukraine compromises over 100 websites to spread Lunex malware - The Record from Recorded Future News",
-      "summary": "ClickFix campaign in Ukraine compromises over 100 websites to spread Lunex malware&nbsp;&nbsp;The Record from Recorded Future NewsClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits&nbsp;&nbsp;T…",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KV29ockJSTW1yUmZObzRGU2lhRHpSZ2JDWXpsODVVVFZyeVRIaFRoMFJ6WEhWVTNyeS10dW9EMXZxRndIbWNjVUo2M0FOX3o3SzZ3YkhFUU80cktYdFBKWmNEelk5TEk5N2NfY3loaGg?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-06T13:24:25+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "campaign in Ukraine compromises over 100 websites to spread Lunex malware"
-    },
-    {
-      "id": "e8d3bfd1f5b03d762d65691beba3683c14ea2938",
-      "title": "Ship sinks and crew missing after Black Sea drone attack",
-      "summary": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-06T11:53:21+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "part of its war against Ukraine"
-    },
-    {
-      "id": "caedf5ce6f2b2f5db5f5024b3f04450989578171",
-      "title": "President asks Kulbergs to form next Latvian government / Article - eng.lsm.lv",
-      "summary": "President asks Kulbergs to form next Latvian government / Article&nbsp;&nbsp;eng.lsm.lvLatvian PM on track to lead pro-Ukraine coalition after election win&nbsp;&nbsp;ReutersLatvian PM Kulbergs' party achieves a historic…",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRUI2bUF5OElFNlpCX19kcy1PV2VRQjZkcUM1Zkc3SXRJOFl5Ykhjb0lmNmNkZUt3NEtFWjV4QXFUb2Zac0l0QmJSMmpWMEtqd21GSDVZelJzSzB4YlRfY1NWQmlabHBXM2RKVkg5aDQ3OFN6SWdSR3E4R0k4UWc5cTNvNVJETVdPd3ZYVm5GdU5zdU5zUWFsVW9vZWZEemJ2TWR4ZEFIQWxWanpjMmRlQk1XMnJjRHhqV25QZQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-06T10:14:57+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "pro-Ukraine coalition after election win"
-    },
-    {
-      "id": "77b11184248e640e0d863c354c3f46fcdd779f0e",
-      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
-      "summary": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-06T09:48:37+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "caught in the crosshairs of Russia's attacks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-09T16:08:09Z"
+  "last_updated": "2026-10-10T15:15:35Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "BE",
-  "score": 58,
+  "score": 60,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 113,
+  "trend": 2,
+  "sources": 114,
   "sentiment": {
-    "positive": 1,
+    "positive": 2,
     "neutral": 104,
     "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "b6ae54e1fd6005b71403b87a5eb147310a6b9d92",
+      "title": "Mehul Choksi's Lawyer Charged With Rape, Sexual Assault In London",
+      "summary": "Vijay Aggarwal represented fugitive businessman Mehul Choksi in Belgium extradition proceedings.",
+      "url": "https://www.ndtv.com/world-news/mehul-choksis-lawyer-vijay-aggarwal-charged-with-rape-sexual-assault-in-london-12163167#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-10T02:36:04+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Belgium extradition proceedings"
+    },
     {
       "id": "a4b5c55c61129747a3ef6eb543521219546d2943",
       "title": "Sydney festival 2027: 11 international dance works to headline ‘once-in-a-lifetime’ program",
@@ -84,6 +95,16 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "living in self-imposed exile in Belgium"
+    },
+    {
+      "id": "b0bfcb206f235590d3f215d81dbc0dd72dbc429e",
+      "title": "‘No more Viktor Orbán’: EU plans 15-year probation period for new member states",
+      "summary": "Enlargement commissioner Marta Kos outlines proposed safeguards to protect EU from undemocratic leadersThe European Commission wants to ensure there is no repeat Viktor Orbán among the next generation of EU member states…",
+      "url": "https://www.theguardian.com/world/2026/oct/06/eu-plans-15-year-probation-period-new-member-states-viktor-orban",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-06T14:38:16+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "0104714cc5e0992f079b00240493828a329db03b",
@@ -196,28 +217,8 @@
       "published_at": "2026-09-25T15:12:43+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "80356026dbb0d7709dcf56f36e1897568f2c0be4",
-      "title": "Delays in Rail Baltica construction in Estonia frustrate locals - Baltic News Network",
-      "summary": "Delays in Rail Baltica construction in Estonia frustrate locals&nbsp;&nbsp;Baltic News NetworkRail Baltica's deadline officially extended by all Baltic States / Article&nbsp;&nbsp;LSMBaltic Prime Ministers Join Forces: i…",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1pzcHlSSkJNZFJzdGoxMGh5ZjNfUHFTVXJkNDZVR2FrRHU5Mnc5dVRrdHJyTWVEUHpxaF9ISTRVU1lITWNWMGgtWXUwdjBGVWpBNWVVQkVTWTFHcHl2MFBDVFFvX3BsZm9sblhWaFpBZkV3NmNnTzNoNjhLdFB6UzMyNjVsOFFxNVI3VWI1elR1Q0F6Q1E?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-25T11:14:48+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "0e2f8cebe04c8ea740d3b3ce659e866fefe57442",
-      "title": "Rail Baltica: on the brink of fateful decisions - Inbox.eu",
-      "summary": "Rail Baltica: on the brink of fateful decisions&nbsp;&nbsp;Inbox.euRail Baltica's deadline officially extended by all Baltic States / Article&nbsp;&nbsp;LSMHome secretary orders 'urgent review' as second small boat in tw…",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTGxIS1E2MFVvOFctNk9UZklMSURONlpFckxVQWhZNEdZcDl4b2xWczdMdmNBeWN1YXh4Q2t5cm1mMS12VnVaS2FPNllJUFQ0bDhnUk96WnNYRDlSRzYwai0xLW9rVlU5YjNsN0xTVVQ3NHMtUkRvcHRLanNTSWJ2QTFXb1BaYzhGWDJMeVZOeUozZw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-24T03:05:40+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-09T16:08:09Z"
+  "last_updated": "2026-10-10T15:15:35Z"
 }
