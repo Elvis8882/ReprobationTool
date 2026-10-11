@@ -1,16 +1,27 @@
 {
   "country": "IT",
-  "score": 89,
+  "score": 88,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 195,
   "sentiment": {
     "positive": 16,
-    "neutral": 156,
-    "negative": 23
+    "neutral": 155,
+    "negative": 24
   },
   "latest_articles": [
+    {
+      "id": "3b968077cbfb9848ca0b5854241c0a3b7f69f94c",
+      "title": "After France, is Italy next? Goldman Sachs flags bond risks as Rome's deficit widens",
+      "summary": "Goldman Sachs says Italy’s higher 2027-28 deficit targets, rising yields and election uncertainty could weaken its debt outlook.",
+      "url": "https://www.cnbc.com/2026/10/11/italy-government-bonds-sovereign-debt-giorgia-meloni.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-11T05:00:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Italy’s higher 2027-28 deficit targets, rising yields and election uncertainty"
+    },
     {
       "id": "eb8e171640bd71b0b99b4ef81daa72f9e8b1ddef",
       "title": "Kean ruled out of Como vs. Roma after Italy injury - Yahoo Sports",
@@ -212,18 +223,8 @@
       "sentiment": "neutral",
       "confidence": 0.4,
       "evidence": "Italy ​are ​holding a call on ​the possible need to release diesel ​stocks"
-    },
-    {
-      "id": "b78e1cbcef4977099523fc6f090cec11b16d37fa",
-      "title": "House prices up by 4.0% in the euro area - Euro indicators - Eurostat - European Commission",
-      "summary": "House prices up by 4.0% in the euro area - Euro indicators - Eurostat&nbsp;&nbsp;European CommissionHouse prices up by 4.0% in the euro area&nbsp;&nbsp;European CommissionPortugal records biggest EU rise in house prices…",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkZOZi1iQXYyNzc1RDY0RTE1V1JhNHdvM3kzWjlzcWJZUExyM0dNZWJrUlo3eUhONWc5U3R0LXR5b3dDRDdUa1NSdndRT3k2djM2THRyWVQ1dUVzLVhLb2VuNl9fRkpFU2xVOFhvXzdCQnpqOVVxVEhLX1k5em1iQzlnYw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-01T09:44:33+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-10T15:15:35Z"
+  "last_updated": "2026-10-11T15:36:58Z"
 }
