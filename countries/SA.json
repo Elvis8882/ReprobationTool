@@ -1,16 +1,115 @@
 {
   "country": "SA",
-  "score": 5,
+  "score": 3,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -10,
-  "sources": 277,
+  "trend": -2,
+  "sources": 284,
   "sentiment": {
     "positive": 21,
-    "neutral": 112,
-    "negative": 145
+    "neutral": 117,
+    "negative": 147
   },
   "latest_articles": [
+    {
+      "id": "7475f8d6b58996139be57598ec9bacf88c14b7ac",
+      "title": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
+      "summary": "The FAA warned U.S. airlines about flight risks over Saudi Arabia as Riyadh airport attacks disrupt travel and Delta weighs an Oct. 23 launch.",
+      "url": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-12T16:50:44+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "safety risks over Saudi Arabia after attacks"
+    },
+    {
+      "id": "407faddc8b9443e159be69d43f8fd0e7ef851bf2",
+      "title": "Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks",
+      "summary": "Delta planned to begin the route on Oct. 23, in what would have marked the first nonstop commercial flight between the U.S. and Saudi Arabia.",
+      "url": "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-12T15:48:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Riyadh airport attacks"
+    },
+    {
+      "id": "3e33923ce6b9d4e8cba98f6970fe80afb2c0ce77",
+      "title": "Saudi Arabia Faces More Attacks as It Reels From Airport Strikes",
+      "summary": "The Saudi authorities said they were fending off drone and missile attacks after a weekend of confrontation with the Houthi militia in Yemen, whose patrons Iran offered to mediate.",
+      "url": "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-12T15:44:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Saudi Arabia Faces More Attacks"
+    },
+    {
+      "id": "dac222794fca76ac5e27f1d8b6a546ce856c02f5",
+      "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
+      "summary": "Energy minister says ‘fear has no place in the Saudi lexicon’ as paramilitary group again breaches stretched defencesWhy are the Houthis attacking Saudi airports and how are the missiles getting through?Saudi Arabia has…",
+      "url": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-12T15:42:37+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "deadly Houthi attack on airport"
+    },
+    {
+      "id": "c146a77e72f0a1aecf27ee4aa676079f1b69c982",
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-12T14:00:03+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Saudi minister vows 'serious response' to Houthi attacks"
+    },
+    {
+      "id": "4354d5d80f4043f49fca1ef3c1eba1c80bf41d63",
+      "title": "Saudi Arabia says drones and missiles still targeting kingdom as Iran-backed Houthis step up attacks",
+      "summary": "The Saudi-led coalition responding to the attacks said Monday it was dealing with more drones and missiles heading toward the kingdom.",
+      "url": "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-12T13:01:49+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "drones and missiles still targeting kingdom"
+    },
+    {
+      "id": "65326f10d7c139d0ccbfaebb84cf8e6390118801",
+      "title": "Why is it so hard to fight the Houthis?",
+      "summary": "Security correspondent Frank Gardner explains how the Iran-backed Houthis' precision strikes and guerrilla tactics have made it difficult for Saudi forces to gain the upper hand.",
+      "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-12T12:15:01+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "difficult for Saudi forces to gain the upper hand"
+    },
+    {
+      "id": "fa8a0659e5f52fb62927dde00a7057495bbf8730",
+      "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
+      "summary": "Footage from inside the airport shows the moment the strike hit on Saturday.",
+      "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-12T09:38:03+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "missile hits Riyadh airport"
+    },
+    {
+      "id": "8828d128fff0f059baec3d117a0aaaf17c7e3f34",
+      "title": "Why Saudi Arabia's $83 Billion Military Is Struggling Against Houthis",
+      "summary": "Houthis' strikes on Saudi have exposed vulnerabilities in Saudi's billion-dollar defence capabilities.",
+      "url": "https://www.ndtv.com/world-news/why-saudi-arabias-83-billion-military-is-struggling-against-houthis-12172593#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-12T07:14:17+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Saudi Arabia's $83 Billion Military Is Struggling Against Houthis"
+    },
     {
       "id": "930efb8254ecf251091d6a89c7bb45da09d312b5",
       "title": "Middle East crisis live: Riyadh airport reportedly hit again, day after deadly attack that killed 12",
@@ -78,6 +177,28 @@
       "evidence": "Saudi Arabia vows major response after Houthi strike"
     },
     {
+      "id": "e66dbca8e8f55e0743c632a653b8f7b2f38b9d84",
+      "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+      "summary": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-11T11:32:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "reputation for stability is taking a battering"
+    },
+    {
+      "id": "f31c17db6e149dd32983005dc523398446d232e0",
+      "title": "Day After Attack Kills 12 At Saudi Airport, A Fresh Warning From Houthis",
+      "summary": "Saturday's attack was a sharp escalation in the Yemen war.",
+      "url": "https://www.ndtv.com/world-news/day-after-attack-kills-12-at-saudi-airport-a-fresh-warning-from-houthis-12169804#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-11T11:25:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Attack Kills 12 At Saudi Airport"
+    },
+    {
       "id": "a9666d09ef0d222b5dda4c449888f265790e0f0b",
       "title": "Houthis exempt Mecca, Medina airports from attacks as Riyadh vows revenge",
       "summary": "On Sunday, the Houthis issued a warning against using Saudi airspace for all but Mecca and Medina airports. This warning follows an attack on Riyadh's international airport that resulted in civilian casualties and fatali…",
@@ -109,129 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Saudi Arabia’s Riyadh Airport Attacked Again"
-    },
-    {
-      "id": "6c4b509c4c00f1dd7bfdcb16fb4068a6fd26f77f",
-      "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
-      "summary": "Donald Trump evaluating whether US should join Saudi strikes against the Iran-backed Yemeni rebelsThe latest attack on the international airport in Saudi Arabia’s capital of Riyadh killed 12 people and injured more than…",
-      "url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-10T23:37:27+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Houthi attack at Riyadh airport, Saudi strikes against the Iran-backed"
-    },
-    {
-      "id": "8d138b5067c2c8b972005f1f34e3c23b2ac621e7",
-      "title": "Riyadh Airport Attacked Again, Evacuated, Air Traffic Stopped: Report",
-      "summary": "There was no immediate Houthi statement Saturday.",
-      "url": "https://www.ndtv.com/world-news/riyadh-airport-attacked-again-evacuated-air-traffic-stopped-report-12166907#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-10T14:37:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Riyadh Airport Attacked Again, Evacuated, Air Traffic Stopped"
-    },
-    {
-      "id": "d6dcfd5236614ca022c8c07850497ab6aaacf66c",
-      "title": "Saudi Arabia faces new level of peril in Houthi attacks, amid wider Iran war",
-      "summary": "Yemen’s Houthis are striking Saudi oil infrastructure, as compounding Middle East conflicts threaten to expand.",
-      "url": "https://www.washingtonpost.com/world/2026/10/10/saudi-arabia-faces-new-level-peril-houthi-attacks-amid-wider-iran-war/",
-      "source": "World (Washington post)",
-      "published_at": "2026-10-10T09:00:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Saudi Arabia faces new level of peril in Houthi attacks"
-    },
-    {
-      "id": "a43b15582abe7aac31e03c650983be4bf58d2e9d",
-      "title": "Days of Deadly Houthi Attacks Show Saudi Arabia’s Vulnerabilities",
-      "summary": "The escalating violence has brought the conflict in Yemen to the doorstep of the Saudi capital, and the kingdom has no easy options to curtail the increasingly sophisticated and targeted strikes.",
-      "url": "https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-09T15:17:54+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Deadly Houthi Attacks Show Saudi Arabia’s Vulnerabilities"
-    },
-    {
-      "id": "62c2227cc90dd99c0af1034f3b7f2d5a8433f52a",
-      "title": "Pete Hegseth’s plan to livestream execution puts US in dubious company",
-      "summary": "Only Iran and Afghanistan routinely carry out sentences in public, with Saudi Arabia appearing to have ended practiceUS politics – live updatesIf the US defence secretary, Pete Hegseth, goes ahead with plans to livestrea…",
-      "url": "https://www.theguardian.com/world/2026/oct/09/pete-hegseth-public-execution-nidal-hasan-capital-sentences",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-09T13:55:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Saudi Arabia appearing to have ended practice"
-    },
-    {
-      "id": "96e0059faecd7ec376f9a8b7af663514e232711c",
-      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-      "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
-      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-09T13:50:25+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Houthi attacks on Riyadh airport"
-    },
-    {
-      "id": "33e13e211a5b1ff81616f518345737defe1fcea2",
-      "title": "3 Including Pilot Killed In Houthi Attacks On Riyadh Airport: Saudi Arabia",
-      "summary": "Houthis have also attacked Saudi transport hubs",
-      "url": "https://www.ndtv.com/world-news/3-including-pilot-killed-in-houthi-attacks-on-riyadh-airport-saudi-arabia-12162057#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-09T12:22:39+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Houthi Attacks On Riyadh Airport: Saudi Arabia"
-    },
-    {
-      "id": "495948c20a29ca14ec363cf5268f13e692e08b2f",
-      "title": "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response",
-      "summary": "Two attacks were launched on Saudi Arabia's King Khalid International Airport Thursday, officials said.",
-      "url": "https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-09T11:51:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "attacks by Iran-backed Houthis on Riyadh airport"
-    },
-    {
-      "id": "5461ea696c34c76c6407377229c0004bf69cc6d8",
-      "title": "Three Saudis killed in Riyadh airport attack claimed by Houthis",
-      "summary": "Attack is deadliest in kingdom since it launched major military offensive with allies against Houthis in YemenThree Saudi citizens have been killed and several other people were wounded in attacks targeting Riyadh ⁠airpo…",
-      "url": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-09T09:47:10+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Three Saudis killed in Riyadh airport attack claimed by Houthis"
-    },
-    {
-      "id": "4e2cb2b3fecb932942f660266e078beefa6cbbc3",
-      "title": "Blasts Rattle Riyadh as Saudi Arabia Hit by Deadliest Houthi Attacks So Far",
-      "summary": "The Saudi authorities said they intercepted two missiles targeting Riyadh, a day after they said Houthi strikes on airports in the kingdom killed three people.",
-      "url": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-08T15:31:41+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Blasts Rattle Riyadh as Saudi Arabia Hit by Deadliest Houthi Attacks"
-    },
-    {
-      "id": "9eda09598c4ccac1adf23288c3bdb40a5cc31168",
-      "title": "Munir overrules Pak PM, to deploy more military assets to Riyadh under Mecca pact",
-      "summary": "Pakistan's defence forces chief Asim Munir has confirmed plans to deploy additional troops to Saudi Arabia. This deployment comes despite the country's parliament deciding against involvement in the Houthi conflict previ…",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/pak-army-chief-munir-bypasses-pm-sharif-moves-to-deploy-more-military-assets-to-saudi-arabia/articleshow/134792840.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-10-08T14:05:52+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "deploy more military assets to Riyadh under Mecca pact"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-11T15:36:58Z"
+  "last_updated": "2026-10-12T18:55:05Z"
 }

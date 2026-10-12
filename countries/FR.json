@@ -1,16 +1,91 @@
 {
   "country": "FR",
-  "score": 49,
+  "score": 46,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 469,
+  "trend": -3,
+  "sources": 467,
   "sentiment": {
-    "positive": 43,
-    "neutral": 333,
-    "negative": 94
+    "positive": 39,
+    "neutral": 334,
+    "negative": 95
   },
   "latest_articles": [
+    {
+      "id": "1fae22144c3f9a88ffb6a2cfbd7693fd93b5fa43",
+      "title": "Fridges in French supermarkets hit by cyber attack",
+      "summary": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-12T18:31:32+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Fridges in French supermarkets hit by cyber attack"
+    },
+    {
+      "id": "cf12391aacbc2b55d78f00cdca14d87b2476d39f",
+      "title": "Burnham says ‘public will be the boss’ in any future decision about closer relationship with the EU – as it happened",
+      "summary": "The prime minister tells MPs the next summit with the EU will be held on 20 NovemberBurnham to urge MPs to embrace closer ties with EUZia Yusuf, Reform UK’s home affairs spokesperson, is speaking now. He started his spee…",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/12/uk-politics-live-tories-andy-burnham-russian-interference-brexit-eu-latest",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-12T17:34:40+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "067b124919943c1661997104958a2dbb88b6a867",
+      "title": "Stellantis and Renault back UK to get EU car industry protection",
+      "summary": "Bosses of Citroën owner and French carmaker also urge UK government to consider limiting imports from ChinaStellantis and Renault have backed the UK car industry for inclusion in proposed rules to protect EU industry, bu…",
+      "url": "https://www.theguardian.com/business/2026/oct/12/stellantis-renault-uk-eu-car-industry-imports-china",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-12T17:22:05+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "French carmaker also urge UK government to consider limiting imports from China"
+    },
+    {
+      "id": "bc0df26272a5c416e4080eb0d1987eac6466ed95",
+      "title": "Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges",
+      "summary": "Le Marché des Enfants Rouges, which opened in 1615 as a vibrant food hall, was a fixture for chefs, cooks and tourists.",
+      "url": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-12T12:36:54+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Fire Devastates Paris’s Oldest Covered Food Market"
+    },
+    {
+      "id": "8183caa2e554b091d82588febf497ca1a7e4fb33",
+      "title": "EU to limit Chinese hybrid vehicle imports to 350,000 a year",
+      "summary": "Brussels uses WTO rules to quickly impose quota, which will halve Chinese market share to 3%Business live – latest updatesVW boss backs EU plan to bolster domestic industryThe EU is to limit the number of hybrid electric…",
+      "url": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-12T11:23:55+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "0980eadbe2e2c814befcf82c7812113967241868",
+      "title": "Headmaster, Teacher Shot With Hunting Rifle In French School, Teen Arrested",
+      "summary": "A third person was grazed in the shooting in the southern town of Aubagne near Marseille.",
+      "url": "https://www.ndtv.com/world-news/headmaster-teacher-shot-with-hunting-rifle-in-french-school-teen-arrested-12173578#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-12T10:35:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "shooting in the southern town of Aubagne near Marseille"
+    },
+    {
+      "id": "2a5d507a8652a84dc24643884e909c09311a7613",
+      "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
+      "summary": "Oliver Blume says ‘Made in Europe’ rules to counter rapid rise of lower-price Chinese brands ‘must reward real value creation’The boss of Volkswagen has backed EU proposals to boost its domestic industry, arguing Europea…",
+      "url": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-11T16:53:01+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "speaking in Paris"
+    },
     {
       "id": "b46ff628f88c357fba1b298e94cdb4339c684f2c",
       "title": "Zheng beats Andreeva to become first home player to win China Open - France 24",
@@ -153,85 +228,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "France promises 3,000 extra teachers in first step to calm student protests"
-    },
-    {
-      "id": "51961ea82b80de7f322c3237d389271d50dbeeb7",
-      "title": "Nobel winner Krugman says France may have become 'too big to save'",
-      "summary": "Economist Paul Krugman sounded the alarm on a looming \"ugly crisis,\" while former ECB head Jean-Claude Trichet said French politicians must compromise.",
-      "url": "https://www.cnbc.com/2026/10/09/nobel-krugman-france-debt.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-09T11:33:48+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "France may have become 'too big to save'"
-    },
-    {
-      "id": "58c571a4567decddff2aa399ba62eb4a6e4c9374",
-      "title": "France’s Long, Fervent History of Protest",
-      "summary": "Student demonstrations in recent weeks re-lit a centuries-old torch of civil resistance. How do they compare to previous movements in France?",
-      "url": "https://www.nytimes.com/2026/10/09/world/europe/france-protest-history.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-09T09:03:55+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "France’s Long, Fervent History of Protest"
-    },
-    {
-      "id": "a4b5c55c61129747a3ef6eb543521219546d2943",
-      "title": "Sydney festival 2027: 11 international dance works to headline ‘once-in-a-lifetime’ program",
-      "summary": "Making its southern hemisphere debut, Dance Reflections will feature collaborators of Rosalía, Madonna and Beyoncé – and a high-wire takeover of the CutawayGet our weekend culture and lifestyle emailA “once-in-a-lifetime…",
-      "url": "https://www.theguardian.com/culture/2026/oct/09/sydney-festival-2027-international-dance-headline-program",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-09T01:00:34+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "works from France, Belgium"
-    },
-    {
-      "id": "9acef072cf7c8fc7adc63154a5bded1080bd78c1",
-      "title": "French Student Protests Continue as Government Seeks Way Out of Crisis",
-      "summary": "Mass protests over decrepit schools and absent teachers are in their third week, with more planned. Officials have failed so far to quell a movement drawing many adult supporters.",
-      "url": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-08T19:31:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Mass protests over decrepit schools and absent teachers"
-    },
-    {
-      "id": "f19745e2c1325fc3cbc4081e7ab017d79ee06184",
-      "title": "The Wave of Student Protests Roiling France",
-      "summary": "Anger about classroom overcrowding, teacher shortages and broken-down buildings has boiled over in recent weeks, and threatens to coalesce into broader grievances in a heated political season.",
-      "url": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-08T16:04:42+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "The Wave of Student Protests Roiling France"
-    },
-    {
-      "id": "2ebf40bbaaa195c6d933513900a8d8162d9043a1",
-      "title": "Here’s the latest.",
-      "summary": "French activists were set to rally across France on Thursday, in another test of whether a nationwide pro",
-      "url": "https://www.nytimes.com/live/2026/10/08/world/france-protests-students-schools/france-protests-unrest-students",
-      "source": "NYT > World News",
-      "published_at": "2026-10-08T15:32:13+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "French activists were set to rally across France on Thursday"
-    },
-    {
-      "id": "c329c15473bb4d301e10735f518239de511b94a2",
-      "title": "French students vow to continue protests, saying ministers’ pledges not enough",
-      "summary": "Schools blockaded again across country as teenagers and teachers demand more investment and ‘concrete measures’ to improve conditionsEurope live – latest updatesHigh school students have again blockaded schools and march…",
-      "url": "https://www.theguardian.com/world/2026/oct/08/france-student-protests-schools-vow-to-continue",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-08T15:00:03+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "protests that have left hundreds injured"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-11T15:36:58Z"
+  "last_updated": "2026-10-12T18:55:05Z"
 }
