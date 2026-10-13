@@ -1,16 +1,27 @@
 {
   "country": "DE",
-  "score": 22,
+  "score": 23,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 294,
+  "trend": 1,
+  "sources": 295,
   "sentiment": {
-    "positive": 21,
+    "positive": 22,
     "neutral": 165,
     "negative": 108
   },
   "latest_articles": [
+    {
+      "id": "96dce22393e1ef7ab37bc6b4327849f7a3b9ea48",
+      "title": "Nuremberg Airport in Germany Is Briefly Shut by False Alarm of Hijacking",
+      "summary": "German police said they had determined there was “no danger” after a plane mistakenly transmitted a code suggesting a possible hijacking onboard.",
+      "url": "https://www.nytimes.com/2026/10/13/world/europe/germany-flight-nuremberg.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-13T16:08:04+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "German police said they had determined there was “no danger”"
+    },
     {
       "id": "cf12391aacbc2b55d78f00cdca14d87b2476d39f",
       "title": "Burnham says ‘public will be the boss’ in any future decision about closer relationship with the EU – as it happened",
@@ -213,19 +224,8 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "German Chancellor Visits Kyiv"
-    },
-    {
-      "id": "64aa4378c789d5a2d7f6a1a75a00dde8903316e3",
-      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-      "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
-      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-04T12:09:04+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "German chancellor makes surprise visit"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-12T18:55:05Z"
+  "last_updated": "2026-10-13T16:59:53Z"
 }
