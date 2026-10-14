@@ -17,8 +17,25 @@
     "RU",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-10-13T16:59:53+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-10-14T14:35:44+00:00",
+  "sentiment_by_country": {
+    "GB": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "U.K. and Europe Recoil From Trump’s Diesel Deal With Putin"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "gift” to President Putin"
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.7,
+      "evidence": "Ukraine has called “a gift” to President Putin"
+    }
+  },
+  "processed_at": "2026-10-14T14:35:44+00:00"
 }

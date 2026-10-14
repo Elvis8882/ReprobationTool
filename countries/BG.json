@@ -1,16 +1,36 @@
 {
   "country": "BG",
-  "score": 65,
+  "score": 66,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 3,
-  "sources": 98,
+  "trend": 1,
+  "sources": 102,
   "sentiment": {
-    "positive": 3,
-    "neutral": 90,
-    "negative": 5
+    "positive": 4,
+    "neutral": 92,
+    "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "e7415c964eefd02508be6effb58dd8eeda8e836d",
+      "title": "EU says ‘no indication’ intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power – Europe live",
+      "summary": "European Commission declined to comment on reported disruption to Starlink’s services in UkraineUkrainian soldiers have access to Starlink satellite internet restrictedRutte gets asked “is Russia foolish enough to consid…",
+      "url": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-14T13:40:28+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "5e96e0c83a6975a059cc398c57870f78b6c3c8b3",
+      "title": "‘Very risky choice’: Meloni warns US-Russia diesel deal could help fund Ukraine war",
+      "summary": "Giorgia Meloni has expressed concerns about the US agreement with Russia regarding diesel supplies during her parliament address. She believes the deal could financially aid Russia's war efforts in Ukraine. Meloni urged…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/very-risky-choice-italys-meloni-warns-us-russia-diesel-deal-could-help-fund-war-in-ukraine/articleshow/134941715.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-10-14T11:59:17+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "b60b862edf5a071bac4cf2cf276dd4a7d102aa3c",
       "title": "2 spacecraft in orbit and 8 more coming soon: Varda has big plans for in-space manufacturing - Space",
@@ -23,6 +43,17 @@
       "evidence": "Bulgarian-Founded Varda Space Hits $1.6B Valuation After $250M Raise"
     },
     {
+      "id": "ae895f000892f669a7a53a529cf1b9272de18c81",
+      "title": "Bulgaria Summons Russian Ambassador After More Black Sea Drone Strikes",
+      "summary": "Drones struck two ships off Bulgaria’s Black Sea coast, according to the country’s prime minister.",
+      "url": "https://www.nytimes.com/2026/10/13/world/europe/black-sea-drones-russia-bulgaria-nato.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-13T15:56:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "More Black Sea Drone Strikes"
+    },
+    {
       "id": "510cc81ec38a616a54192ff6c93e7f425c9d2e70",
       "title": "11 Missing After 2 Merchant Ships Struck Off Bulgarian Coast",
       "summary": "EU chief Ursula von der Leyen condemned the latest attacks",
@@ -32,6 +63,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "EU chief Ursula von der Leyen condemned the latest attacks"
+    },
+    {
+      "id": "8669f2494bbb7a3d771e7a2b2f16f6b28f76f234",
+      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+      "summary": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-13T14:51:59+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Bulgaria summons Russian ambassador"
     },
     {
       "id": "cf12391aacbc2b55d78f00cdca14d87b2476d39f",
@@ -176,49 +218,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Bulgaria had EU’s second-highest increase in house prices"
-    },
-    {
-      "id": "b78e1cbcef4977099523fc6f090cec11b16d37fa",
-      "title": "House prices up by 4.0% in the euro area - Euro indicators - Eurostat - European Commission",
-      "summary": "House prices up by 4.0% in the euro area - Euro indicators - Eurostat&nbsp;&nbsp;European CommissionHouse prices up by 4.0% in the euro area&nbsp;&nbsp;European CommissionPortugal records biggest EU rise in house prices…",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkZOZi1iQXYyNzc1RDY0RTE1V1JhNHdvM3kzWjlzcWJZUExyM0dNZWJrUlo3eUhONWc5U3R0LXR5b3dDRDdUa1NSdndRT3k2djM2THRyWVQ1dUVzLVhLb2VuNl9fRkpFU2xVOFhvXzdCQnpqOVVxVEhLX1k5em1iQzlnYw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-01T09:44:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Bulgaria had EU’s second-highest increase in house prices"
-    },
-    {
-      "id": "631937e9151021959aba2bdbc340bd08865d8e7f",
-      "title": "Telia to provide connectivity for Lithuania's EU Presidency - Telecompaper",
-      "summary": "Telia to provide connectivity for Lithuania's EU Presidency&nbsp;&nbsp;TelecompaperVice-Minister Mitkus in Estonia: we must pay even more attention to the European Union’s resilience, security, and competitiveness&nbsp;&…",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOUUyS1JoR28xRG5MWVdjRk04ZHJNbG1ZaXdrTTFBU05TZ0FFV2ZGNVB5OW1nQWJWRC1Pc1VBVkdVOXZOelJoZHc2Z3k4MjBFeW80WXR1QlJjbEpyYnhNMTNrMWoxdVJsTXlOVGxTUmJpNjJPM0dLMlBMNFRCSWowUDIydm52eEI3eS1DQTdleWlneWZHQTFHVUZXQUpVTjhNNDZj?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-30T15:14:31+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "fe621f08a19cd9994c3d4b32b2de79e4c38dda5a",
-      "title": "Trump’s proposed diesel export ban spurs fear of energy crunch in Europe",
-      "summary": "The European Union's energy commissioner sent a letter to the bloc's 27 member states recommending that they all cut gas and electricity consumption “for as long as necessary.”",
-      "url": "https://www.washingtonpost.com/world/2026/09/29/european-fears-energy-crunch-over-trumps-proposed-ban-diesel-exports/",
-      "source": "World (Washington post)",
-      "published_at": "2026-09-29T12:10:02+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "a6454d7794b00c70b0fb80dd205e82ddb30d067e",
-      "title": "Pope Leo leans into statesman role, urging peace in an era of renewed war",
-      "summary": "On a four-day trip to France, the Pope praised the European Union for “tearing down walls.”",
-      "url": "https://www.washingtonpost.com/world/2026/09/28/pope-leo-leans-into-statesman-role-urging-peace-an-era-renewed-war/",
-      "source": "World (Washington post)",
-      "published_at": "2026-09-28T10:28:38+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-13T16:59:53Z"
+  "last_updated": "2026-10-14T14:35:44Z"
 }

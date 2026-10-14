@@ -15,8 +15,20 @@
     "DE",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-10-13T16:59:53+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-10-14T14:35:44+00:00",
+  "sentiment_by_country": {
+    "DE": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "German police followed the evidence"
+    },
+    "UA": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "Ukrainian man is set to stand trial in Hamburg accused of sabotaging"
+    }
+  },
+  "processed_at": "2026-10-14T14:35:44+00:00"
 }

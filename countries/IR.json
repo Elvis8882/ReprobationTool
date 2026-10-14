@@ -4,13 +4,90 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 1067,
+  "sources": 1055,
   "sentiment": {
     "positive": 58,
-    "neutral": 277,
-    "negative": 733
+    "neutral": 274,
+    "negative": 724
   },
   "latest_articles": [
+    {
+      "id": "22eecc58c7f769121a48d2009e50f35b70f2c176",
+      "title": "‘Why Did They Kill Him?’ Mourning Victims of Houthi Attack on a Saudi Airport",
+      "summary": "The strike was the Iran-backed militia’s most lethal against Saudi Arabia, by far, during their long conflict.",
+      "url": "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-14T14:15:31+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran-backed militia’s most lethal against Saudi Arabia"
+    },
+    {
+      "id": "bb2c693d79c5ed42d49735a5bd90e54a1de7ec9b",
+      "title": "Iran says it’s ‘counting the moments’ until it can attack U.S. warships; Saudi Aramco facilities attacked",
+      "summary": "Meanwhile, Saudi Arabia's Aramco reportedly came under fresh attack overnight.",
+      "url": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-14T12:43:45+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Iran says it’s ‘counting the moments’ until it can attack U.S. warships"
+    },
+    {
+      "id": "9ead41faf1306d454325366b72c97645e697b932",
+      "title": "Oil Market Report - October 2026 - IEA - International Energy Agency",
+      "summary": "Oil Market Report - October 2026&nbsp;&nbsp;IEA - International Energy AgencyDiesel shortages could persist well into 2027, IEA says&nbsp;&nbsp;ReutersGlobal Diesel Squeeze to Drag Into 2027, IEA Says&nbsp;&nbsp;WSJDiese…",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OQmtselAxckpkSnVscEVwVEZyRHRYaUs4aUJucmhrcUZ4NGVyTW42YlViMjI5aHFuX2dJQUFKTVVpc040V0l2SEhQT2N5aFBYTTVPajJyeVV4U3A0Ni1hZHQxTnJRYjhiZEE?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-10-14T08:00:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Iran war disrupts supply"
+    },
+    {
+      "id": "188c8b71da550ae1e18214c69139d111b5523f80",
+      "title": "To Strike Or Not To Strike: Inside Trump, Netanyahu's Iran War Dilemma",
+      "summary": "Trump initially seemed to be leaning toward resuming attacks but grew hesitant later",
+      "url": "https://www.ndtv.com/world-news/to-strike-or-not-to-strike-inside-trump-netanyahus-iran-war-dilemma-12182414#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-14T05:16:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Trump, Netanyahu's Iran War Dilemma"
+    },
+    {
+      "id": "8062c9a1f8ce22961f4f18594851ac148a1ee38d",
+      "title": "Iranian woman handed death sentence for ‘blasphemy’ in social media post",
+      "summary": "Rights groups warn of Tehran regime’s increasing use of executions to suppress dissent, with at least 600 this yearHuman rights groups have raised the alarm over the growing number of death sentences and executions in Ir…",
+      "url": "https://www.theguardian.com/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-14T04:00:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Iranian woman handed death sentence for ‘blasphemy’"
+    },
+    {
+      "id": "c4a65dc72a0846a7f09f36f200489adfacbe1893",
+      "title": "War In The Time Of AI: How Technology Is Rewriting The Battlefield",
+      "summary": "Iran is the first major use of AI in modern warfare.",
+      "url": "https://www.ndtv.com/world-news/war-in-the-time-of-ai-how-technology-is-rewriting-the-battlefield-12182132#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-14T03:24:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran is the first major use of AI in modern warfare."
+    },
+    {
+      "id": "3da26f09f6ffc449256f516f18e62592a632941b",
+      "title": "Saudi Arabia strikes oil depots in Yemen and says missiles launched toward location of Saudi Aramco HQ",
+      "summary": "Civilians warned to leave target area near Sana’a before attacks as conflict between Riyadh and Houthi forces escalatesSaudi Arabia has launched a series of strikes on a strategic oil depot on the outskirts of Yemen’s ca…",
+      "url": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-13T17:26:08+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Iran-backed Houthi forces"
+    },
     {
       "id": "c43a6407ebc083facc299b6b0e6b4cb20215b3ba",
       "title": "Saudi Arabia and Yemen’s Houthis Trade Threats To Hit Oil Facilities",
@@ -34,6 +111,17 @@
       "evidence": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes"
     },
     {
+      "id": "436f7fa1860c3d712332d79daca6270aaef991e3",
+      "title": "Iran seeking to expand attacks in UK to military sites, MI5 chief warns",
+      "summary": "Iran is reportedly increasing its focus on military targets in Britain, including RAF Fairford. The suspected plot against the air base has prompted significant security responses and investigations. British authorities…",
+      "url": "https://timesofindia.indiatimes.com/world/uk/not-unique-iran-seeking-to-expand-attacks-in-uk-to-military-sites-mi5-chief-warns-after-raf-fairford-incident/articleshow/134919421.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-10-13T13:53:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Iran seeking to expand attacks in UK to military sites"
+    },
+    {
       "id": "60e7397fa08f3e683c7087eddb228d4317275ea0",
       "title": "Saudi-Led Coalition Says Intercepted 3 Drones Near Riyadh",
       "summary": "The Saudi-led coalition is fighting Iran-backed Houthis",
@@ -54,6 +142,28 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "China and Russia both maintain strong ties with Iran"
+    },
+    {
+      "id": "cccc6f0ef7865cad3368b3899f3cadf5820c5d2f",
+      "title": "Pakistan's Dual Messaging To Iran And Saudi Amid Escalating Houthi Attacks",
+      "summary": "Pakistan has run on two tracks since the spring.",
+      "url": "https://www.ndtv.com/world-news/pakistans-dual-messaging-to-iran-and-saudi-amid-escalating-houthi-attacks-12177490#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-13T06:39:38+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Pakistan's Dual Messaging To Iran"
+    },
+    {
+      "id": "670760b8421e00ad6ad5ab5973a6ed7d7abf490b",
+      "title": "\"Almost Certainly\": UK PM Says Iran Guards Behind Airbase Scare",
+      "summary": "The source and nature of the threat have remained shrouded in mystery.",
+      "url": "https://www.ndtv.com/world-news/almost-certainly-uk-pm-andy-burnham-says-iran-guards-behind-airbase-scare-12175833#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-12T17:23:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Iran Guards Behind Airbase Scare"
     },
     {
       "id": "f8a7e7e8dd815713b8f03f5690f84f2064f24822",
@@ -120,118 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Iran-aligned Houthis ⁠on the kingdom."
-    },
-    {
-      "id": "1b0d7222026b9ef4df37578cdc33686fc33367a5",
-      "title": "Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport",
-      "summary": "Official says coalition will ‘respond firmly’ as Houthis warn people to avoid Saudi airports and US considers interveningMiddle East crisis live – latest updatesAnalysis: attack will force rethink of Trump strategyThe Sa…",
-      "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-11T14:23:34+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Iran-allied Houthi rebel movement for the strike"
-    },
-    {
-      "id": "05f12879afaebfdaefaa3be7f8058aa3d59a4890",
-      "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
-      "summary": "U.S. military involvement in the fight against the Houthis would stretch resources in the Middle East already committed to fighting Iran, analysts said.",
-      "url": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-11T14:09:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "fighting Iran-backed Houthis after deadly airport strike"
-    },
-    {
-      "id": "42d5f8b80d1f6a68355c67bb3dee9e87293e8539",
-      "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
-      "summary": "Three deadly attacks by the Iran-backed Houthis in Yemen on an airport in the Saudi capital underscored the asymmetrical nature of their conflict with the kingdom.",
-      "url": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-11T13:23:37+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Iran-backed Houthis in Yemen"
-    },
-    {
-      "id": "adbc6606e5d115a10620d53625d891b093558243",
-      "title": "Houthi attack on Riyadh airport forces swift rethink of Trump’s new strategy",
-      "summary": "US president’s plan to park the wars in Iran and Yemen, while blaming Ukraine for diesel prices, looks unsustainableMiddle East crisis live - latest updatesThe reckless missile attack on King Khalid international airport…",
-      "url": "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-11T13:23:02+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "war of choice in Iran and its spillover"
-    },
-    {
-      "id": "5b0d4a265d63433b1d9cb19eb07d82345e4d26de",
-      "title": "Saudi Arabia vows major response after Houthi strike on airport kills 12, injures 309",
-      "summary": "The U.S. has stopped short of direct military support against the Houthis in Yemen, but President Donald Trump is weighing joining strikes on the Iranian-backed rebels.",
-      "url": "https://www.washingtonpost.com/world/2026/10/11/saudi-arabia-vows-retaliation-against-houthis-after-riyadh-airport-strike/",
-      "source": "World (Washington post)",
-      "published_at": "2026-10-11T12:19:30+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Iranian-backed rebels"
-    },
-    {
-      "id": "ecab9dd712f10fbaf8da23fd5ae53263da2003a4",
-      "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
-      "summary": "The strike on Saturday was the deadliest attack in a Gulf Arab country since the U.S.-Israeli war with Iran began in February, and forced the airport to temporarily suspend operations.",
-      "url": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-11T08:55:26+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "U.S.-Israeli war with Iran began in February"
-    },
-    {
-      "id": "39f5109eed3fc33da21701e73e663ce7f13c9820",
-      "title": "Video: Supertanker Hits Mine, Catches Fire While Trying To Exit Strait",
-      "summary": "Iran said a tanker hit a naval mine in the Strait of Hormuz",
-      "url": "https://www.ndtv.com/world-news/tanker-explodes-after-it-hits-mine-in-unauthorised-strait-route-iran-12168716#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-11T05:48:02+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Iran said a tanker hit a naval mine in the Strait of Hormuz"
-    },
-    {
-      "id": "6c4b509c4c00f1dd7bfdcb16fb4068a6fd26f77f",
-      "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
-      "summary": "Donald Trump evaluating whether US should join Saudi strikes against the Iran-backed Yemeni rebelsThe latest attack on the international airport in Saudi Arabia’s capital of Riyadh killed 12 people and injured more than…",
-      "url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-10T23:37:27+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Iran-backed Houthi rebels"
-    },
-    {
-      "id": "932c8e0e441d3e062d1d52116d3b3ed8ea25688e",
-      "title": "\"Even Tweet Written By US\": Iran MP Mocks Pakistan's Mediation Efforts",
-      "summary": "The comments by Zanganeh came during a visit to Afghanistan",
-      "url": "https://www.ndtv.com/world-news/even-tweet-written-by-us-iran-mp-mocks-pakistans-mediation-efforts-12166888#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-10T14:15:06+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Iran MP Mocks Pakistan's Mediation Efforts"
-    },
-    {
-      "id": "bd67e8f7c23710b49a93077fa1a368eb3f2155b8",
-      "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
-      "summary": "Putin's reported call with Trump regarding the Iran war comes on the heels of a deal for the U.S. to buy Russian diesel amid a surge in fuel prices.",
-      "url": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-10T13:42:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Putin relayed Iran war proposal to Trump"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-13T16:59:53Z"
+  "last_updated": "2026-10-14T14:35:44Z"
 }

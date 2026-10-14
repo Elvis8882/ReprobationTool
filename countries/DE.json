@@ -1,16 +1,47 @@
 {
   "country": "DE",
-  "score": 23,
+  "score": 25,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
+  "trend": 2,
   "sources": 295,
   "sentiment": {
-    "positive": 22,
+    "positive": 24,
     "neutral": 165,
-    "negative": 108
+    "negative": 106
   },
   "latest_articles": [
+    {
+      "id": "881c1b6b773845dbb7f44fc427971f1e162fff9d",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-14T13:41:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines"
+    },
+    {
+      "id": "e7415c964eefd02508be6effb58dd8eeda8e836d",
+      "title": "EU says ‘no indication’ intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power – Europe live",
+      "summary": "European Commission declined to comment on reported disruption to Starlink’s services in UkraineUkrainian soldiers have access to Starlink satellite internet restrictedRutte gets asked “is Russia foolish enough to consid…",
+      "url": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-14T13:40:28+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "5e96e0c83a6975a059cc398c57870f78b6c3c8b3",
+      "title": "‘Very risky choice’: Meloni warns US-Russia diesel deal could help fund Ukraine war",
+      "summary": "Giorgia Meloni has expressed concerns about the US agreement with Russia regarding diesel supplies during her parliament address. She believes the deal could financially aid Russia's war efforts in Ukraine. Meloni urged…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/very-risky-choice-italys-meloni-warns-us-russia-diesel-deal-could-help-fund-war-in-ukraine/articleshow/134941715.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-10-14T11:59:17+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "96dce22393e1ef7ab37bc6b4327849f7a3b9ea48",
       "title": "Nuremberg Airport in Germany Is Briefly Shut by False Alarm of Hijacking",
@@ -21,6 +52,28 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "German police said they had determined there was “no danger”"
+    },
+    {
+      "id": "c191b5454773c29cd7cf527b83dda5d42f8e9f7c",
+      "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – as it happened",
+      "summary": "Ukraine’s president says his country has halted strikes on Russian oil refineries for two days after Trump’s energy ceasefire announcementOn frozen Russian assets, Poland’s Sikorski says the use of frozen Russian assets…",
+      "url": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-13T15:54:55+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "the German government is is backing the Ukrainian government... completely."
+    },
+    {
+      "id": "e1038cc3ed5f7744f519d286ac88eeb3edda68d5",
+      "title": "16-Year-Old Girl Allegedly Groped By Robot In Germany, Police Seize Machine",
+      "summary": "Police said the robot touched the girl's buttocks and made thrusting movements against her.",
+      "url": "https://www.ndtv.com/world-news/16-year-old-girl-allegedly-groped-by-robot-in-germany-police-seize-machine-12177408#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-13T06:30:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Robot In Germany, Police Seize Machine"
     },
     {
       "id": "cf12391aacbc2b55d78f00cdca14d87b2476d39f",
@@ -52,6 +105,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Germany defeat CommBank Matildas 4-2"
+    },
+    {
+      "id": "83517855766b8c7c81c7318866456bdf79800b09",
+      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+      "summary": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
+      "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-10T04:51:57+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "German police followed the evidence"
     },
     {
       "id": "1ec9e5c40314b280c5d289f6052d80f058e36e1a",
@@ -158,74 +222,8 @@
       "sentiment": "mixed",
       "confidence": 0.8,
       "evidence": "Germany arrests former intelligence chief over alleged spying"
-    },
-    {
-      "id": "c42e202ba152a9cb7a4147dbc0775d863037efe1",
-      "title": "Germany’s Far Right Claims Its First Statehouse Speaker Since 1945",
-      "summary": "After winning a state election last month, the Alternative for Germany is the first far-right party to oversee a state legislature since the Nazi era.",
-      "url": "https://www.nytimes.com/2026/10/06/world/europe/germany-afd-saxony-anhalt.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-06T11:04:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Germany’s Far Right Claims Its First Statehouse Speaker Since 1945"
-    },
-    {
-      "id": "6b094b95e20ffa311a4c44104b966a57aa70ce00",
-      "title": "Former German spy chief arrested for espionage and treason",
-      "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
-      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-06T10:05:42+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Former German spy chief arrested for espionage and treason"
-    },
-    {
-      "id": "6d28f25c9f56eb0da2f6ee60974f0c2b02dc09b8",
-      "title": "Germany's Far-Right AfD On Path To Take Over State Assembly For 1st Time",
-      "summary": "The anti-immigration and Moscow-friendly AfD narrowly missed out on an absolute majority",
-      "url": "https://www.ndtv.com/world-news/germanys-far-right-afd-on-path-to-take-over-state-assembly-for-1st-time-12145123#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-06T09:08:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Far-Right AfD On Path To Take Over State Assembly"
-    },
-    {
-      "id": "dc7779782bf418cf7384b3dad08a579e1bb56ec1",
-      "title": "Nobel Prize awarded for revealing inner workings of the brain",
-      "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-05T11:04:37+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "German colleagues Peter Hegemann and Georg Nagel"
-    },
-    {
-      "id": "46b2b9c329926e97e84f792961517bd772b4239b",
-      "title": "French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live",
-      "summary": "At least 5,000 people, mainly teenagers, have been arrested while dozens of people, including students and teachers, have been injuredGermany is Ukraine’s largest donor and has sent Kyiv more than €43.3 billion ($48.8 bi…",
-      "url": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-04T14:16:32+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Germany is Ukraine’s largest donor and has sent Kyiv more than €43.3 billion"
-    },
-    {
-      "id": "3e7e77a963172975387b292c3d2cab019d198a3d",
-      "title": "Russia Pounds Ukraine With Drone Strikes As German Chancellor Visits Kyiv",
-      "summary": "In its latest attack on the Ukrainian capital, Russia struck another major bridge in Kyiv",
-      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-updates-russia-pounds-ukraine-with-drone-strikes-as-german-chancellor-visits-kyiv-12137394#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-04T12:34:07+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "German Chancellor Visits Kyiv"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-13T16:59:53Z"
+  "last_updated": "2026-10-14T14:35:44Z"
 }

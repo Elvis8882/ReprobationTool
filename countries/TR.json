@@ -1,16 +1,38 @@
 {
   "country": "TR",
-  "score": 84,
+  "score": 83,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 73,
+  "trend": -1,
+  "sources": 75,
   "sentiment": {
     "positive": 2,
     "neutral": 49,
-    "negative": 22
+    "negative": 24
   },
   "latest_articles": [
+    {
+      "id": "daa50105e7e1443f56c71f4ede67359b5b02f20c",
+      "title": "Turkey Raids Pro-Opposition TV Station",
+      "summary": "The government appointed its own manager of the last big news channel to be critical of President Recep Tayyip Erdogan. The authorities have now replaced leadership at five major news outlets.",
+      "url": "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-14T13:18:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Turkey Raids Pro-Opposition TV Station"
+    },
+    {
+      "id": "abed68806a0e2657ecd8e269f3dc2efb884709a3",
+      "title": "Turkish police raid opposition TV station, halting live broadcasts",
+      "summary": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
+      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-14T10:50:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Turkish police raid opposition TV station, halting live broadcasts"
+    },
     {
       "id": "b0c4b32999416118a816f0ea59b77b1a4e786b46",
       "title": "Three Indians rescued from attacked cargo ship in Black sea depart for India",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Mahan Air... would stop flying to Turkey"
-    },
-    {
-      "id": "9bbaecbafa20742b2a0d169967a558810156807f",
-      "title": "EU warns Turkey to clean up waste treatment or face trade ban - politico.eu",
-      "summary": "EU warns Turkey to clean up waste treatment or face trade ban&nbsp;&nbsp;politico.euEU to continue plastic waste exports to Türkiye despite concerns&nbsp;&nbsp;operativmm.azGermany sent nearly one-fifth of its plastic wa…",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNkZqLXlxX01pR3JBWXVDa3VLLTE1RFEybUQxWnU0cVFWVm5NdXloR1BYcjBqYi1QZ1ZROWJPU2lkcXJFSV9pcHZBRS01S1dzTk1tcnFaXzlDSGdXUzdGakNPS3kyQlM1YzlpTHRzNXNVR2FCRGpxeUxKNV9sUEZfU0ROZjVyd0pmYUdZazByVkhVc0k3MnNHZ2lB?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-18T05:00:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "EU warns Turkey to clean up waste treatment or face trade ban"
-    },
-    {
-      "id": "a3e74643f09c54f963ff00ceb3539492a979315d",
-      "title": "Opinion: Opinion | How The Houthis Have Exposed Saudi-Pak-Turkey Pact For What It Is",
-      "summary": "The spectacular no-show by Saudi Arabia's two defence allies - Pakistan, a nuclear power, and Turkey, which has NATO's second-largest army - is astounding",
-      "url": "https://www.ndtv.com/opinion/how-the-houthis-have-exposed-pak-and-turkeys-real-intentions-12058423#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-17T07:56:58+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Turkey... spectacular no-show by Saudi Arabia's two defence allies"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-13T16:59:53Z"
+  "last_updated": "2026-10-14T14:35:44Z"
 }
