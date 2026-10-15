@@ -3,14 +3,25 @@
   "score": 83,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
+  "trend": 0,
   "sources": 75,
   "sentiment": {
     "positive": 2,
-    "neutral": 49,
-    "negative": 24
+    "neutral": 50,
+    "negative": 23
   },
   "latest_articles": [
+    {
+      "id": "1cf796ca9a8d7255230ae284a2694fc27decd4f6",
+      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+      "summary": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
+      "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-15T10:05:29+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Two dead in Istanbul after heaviest rainfall"
+    },
     {
       "id": "daa50105e7e1443f56c71f4ede67359b5b02f20c",
       "title": "Turkey Raids Pro-Opposition TV Station",
@@ -32,6 +43,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Turkish police raid opposition TV station, halting live broadcasts"
+    },
+    {
+      "id": "f69e12669fd78aa1e7007f25145e49275741246f",
+      "title": "World's oldest shipwreck found off coast of Turkey",
+      "summary": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
+      "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-14T05:00:35+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "World's oldest shipwreck found off coast of Turkey"
     },
     {
       "id": "b0c4b32999416118a816f0ea59b77b1a4e786b46",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Gunman opens fire near high school in western Turkiye"
-    },
-    {
-      "id": "b68713b1f89eb134308e1303a27b220d0e43da33",
-      "title": "Turkey’s LGBT crackdown draws international condemnation, protests",
-      "summary": "Turkish authorities have raided the offices of LGBT organizations and places frequented by the community.",
-      "url": "https://www.washingtonpost.com/world/2026/09/18/turkeys-lgbt-crackdown-draws-international-condemnation-protests/",
-      "source": "World (Washington post)",
-      "published_at": "2026-09-18T22:36:48+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Turkey’s LGBT crackdown draws international condemnation"
-    },
-    {
-      "id": "89b0817a06a59ea5513f355f124cbbf00261add5",
-      "title": "Iran’s Isolation Grows After U.S. Imposes Sweeping Sanctions on Airlines",
-      "summary": "Mahan Air, a major airline, said it would stop flying to Turkey and Oman just over a week after new restrictions were announced, adding to U.S. pressure on the economy.",
-      "url": "https://www.nytimes.com/2026/09/17/world/middleeast/iranian-airlines-suspend-flights-us-sanctions.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-18T07:51:45+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Mahan Air... would stop flying to Turkey"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-14T14:35:44Z"
+  "last_updated": "2026-10-15T14:11:45Z"
 }

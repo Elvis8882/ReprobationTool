@@ -3,14 +3,36 @@
   "score": 1,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -2,
-  "sources": 300,
+  "trend": 0,
+  "sources": 303,
   "sentiment": {
     "positive": 21,
-    "neutral": 128,
-    "negative": 152
+    "neutral": 130,
+    "negative": 153
   },
   "latest_articles": [
+    {
+      "id": "a5b29adaaac2c6cdb783b9ea9ac52e5548a4af4d",
+      "title": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
+      "summary": "The Saudi military has expensive equipment, but the missiles and drones used by the Yemeni militia are difficult to detect and stop.",
+      "url": "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-15T11:53:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Saudi Arabia Struggle to Stop Houthi Attacks?"
+    },
+    {
+      "id": "dc10b744fb07ebad82ce7641bb5e7886a0fcefb8",
+      "title": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
+      "summary": "\"Like countless Americans, Mr. Alfozan came to this country years ago as a young person with a dream,\" his criminal defense lawyer said Wednesday.",
+      "url": "https://www.cnbc.com/2026/10/14/openai-alfozan-recording-raed-ventures.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-14T21:18:13+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "booked one-way ticket to Saudi Arabia with family before arrest"
+    },
     {
       "id": "22eecc58c7f769121a48d2009e50f35b70f2c176",
       "title": "‘Why Did They Kill Him?’ Mourning Victims of Houthi Attack on a Saudi Airport",
@@ -133,6 +155,17 @@
       "evidence": "A Saudi-led coalition... said it had intercepted another attack on Riyadh."
     },
     {
+      "id": "067cbb40c526b1c4ebbc8f68fd970c60a17b6260",
+      "title": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
+      "summary": "Oil prices fell as investors assess potential supply disruptions against prospects of more Russian diesel entering global markets.",
+      "url": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-13T13:29:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Saudi-Houthi conflict"
+    },
+    {
       "id": "60e7397fa08f3e683c7087eddb228d4317275ea0",
       "title": "Saudi-Led Coalition Says Intercepted 3 Drones Near Riyadh",
       "summary": "The Saudi-led coalition is fighting Iran-backed Houthis",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Riyadh airport attacks"
-    },
-    {
-      "id": "3e33923ce6b9d4e8cba98f6970fe80afb2c0ce77",
-      "title": "Saudi Arabia Faces More Attacks as It Reels From Airport Strikes",
-      "summary": "The Saudi authorities said they were fending off drone and missile attacks after a weekend of confrontation with the Houthi militia in Yemen, whose patrons Iran offered to mediate.",
-      "url": "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-12T15:44:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Saudi Arabia Faces More Attacks"
-    },
-    {
-      "id": "dac222794fca76ac5e27f1d8b6a546ce856c02f5",
-      "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
-      "summary": "Energy minister says ‘fear has no place in the Saudi lexicon’ as paramilitary group again breaches stretched defencesWhy are the Houthis attacking Saudi airports and how are the missiles getting through?Saudi Arabia has…",
-      "url": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-12T15:42:37+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "deadly Houthi attack on airport"
-    },
-    {
-      "id": "c146a77e72f0a1aecf27ee4aa676079f1b69c982",
-      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
-      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-12T14:00:03+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Saudi minister vows 'serious response' to Houthi attacks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-14T14:35:44Z"
+  "last_updated": "2026-10-15T14:11:45Z"
 }

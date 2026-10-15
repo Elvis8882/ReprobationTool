@@ -1,16 +1,27 @@
 {
   "country": "AL",
-  "score": 100,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": null,
-  "sources": 1,
+  "score": 55,
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
+  "trend": -45,
+  "sources": 2,
   "sentiment": {
     "positive": 0,
     "neutral": 1,
-    "negative": 0
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "2eb83a2c23e74c6bcc6e642c5d87befa8a7481dd",
+      "title": "Student protesters attack government buildings in Albania",
+      "summary": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
+      "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-14T20:29:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Student protesters attack government buildings in Albania"
+    },
     {
       "id": "d1aa9ec7e17a8e8c586ec78ceefbdc6726102943",
       "title": "Albanian ambassador attacks UK right wing for ‘unhinged’ fixation with 2022 migrant surge",
@@ -24,5 +35,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-14T14:35:44Z"
+  "last_updated": "2026-10-15T14:11:45Z"
 }
