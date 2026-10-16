@@ -3,14 +3,25 @@
   "score": 55,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": -45,
-  "sources": 2,
+  "trend": 0,
+  "sources": 3,
   "sentiment": {
     "positive": 0,
     "neutral": 1,
-    "negative": 1
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "2cc31e1edcbf7f0d7092bed42b74be71d10bbb41",
+      "title": "Violent Protests in Albania",
+      "summary": "Opposition to a luxury resort project linked to Jared Kushner has collided with rising discontent over corruption and the cost of living.",
+      "url": "https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-15T21:40:24+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Violent Protests in Albania"
+    },
     {
       "id": "2eb83a2c23e74c6bcc6e642c5d87befa8a7481dd",
       "title": "Student protesters attack government buildings in Albania",
@@ -35,5 +46,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-15T14:11:45Z"
+  "last_updated": "2026-10-16T14:00:19Z"
 }

@@ -4,13 +4,35 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 303,
+  "sources": 309,
   "sentiment": {
     "positive": 21,
-    "neutral": 130,
-    "negative": 153
+    "neutral": 134,
+    "negative": 155
   },
   "latest_articles": [
+    {
+      "id": "6e4e806721268105246ace505bf1831b1e389624",
+      "title": "Missiles, Drones, 'Battle-Hardened Group': Houthis' Arsenal Against Saudi",
+      "summary": "The Houthis possess a large range of ballistic missiles and drones.",
+      "url": "https://www.ndtv.com/world-news/houthis-arsenal-against-saudi-yemen-missiles-drones-battle-hardened-group-12194304#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-16T09:10:30+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Houthis' Arsenal Against Saudi"
+    },
+    {
+      "id": "be0f74ed7dfb4700e10f30968f64e8e7d41eaa05",
+      "title": "Houthi missiles strike Yemen presidential palace, killing five",
+      "summary": "Attack was the first on Aden’s Al-Maashiq palace ⁠in the latest fighting between ​the Iran-aligned Houthis and Saudi ArabiaYemen’s Houthis fired missiles at the presidential palace complex in the southern city of Aden on…",
+      "url": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-16T00:27:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Houthi attacks on Saudi infrastructure"
+    },
     {
       "id": "a5b29adaaac2c6cdb783b9ea9ac52e5548a4af4d",
       "title": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
@@ -21,6 +43,39 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Saudi Arabia Struggle to Stop Houthi Attacks?"
+    },
+    {
+      "id": "f0565b46eda3313de7147d670e11f562c1aa9df9",
+      "title": "Missile heading towards Medina destroyed, says Saudi Arabia; Houthis deny attack",
+      "summary": "A missile targeting Saudi Arabia's Medina region was intercepted by the Saudi-led coalition according to their spokesperson. Houthi spokesperson Yahya Saree refuted this claim, stating no operations were conducted toward…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/cruise-missile-heading-towards-medina-destroyed-says-saudi-arabia-houthis-deny-attack/articleshow/134965953.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-10-15T11:14:37+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Missile heading towards Medina destroyed, says Saudi Arabia"
+    },
+    {
+      "id": "774623944f760e4d9016b71b18cc6f77a58f2211",
+      "title": "OpenAI Employee Suspected Of Bugging Office Booked One-Way Ticket To Saudi",
+      "summary": "OpenAI said one of its security teams discovered the device on September 30.",
+      "url": "https://www.ndtv.com/world-news/openai-employee-suspected-of-bugging-office-booked-one-way-ticket-to-saudi-12187968#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-15T05:29:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Booked One-Way Ticket To Saudi"
+    },
+    {
+      "id": "4fe23fb9dfbee5e70b11efc72f375faa355c4c1b",
+      "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
+      "summary": "The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.",
+      "url": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-15T02:27:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "advised government agencies in Saudi Arabia"
     },
     {
       "id": "dc10b744fb07ebad82ce7641bb5e7886a0fcefb8",
@@ -65,6 +120,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Saudi Aramco facilities attacked"
+    },
+    {
+      "id": "a8608ca9a0bb1c367eae1b414558003671a39ec4",
+      "title": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
+      "summary": "The Saudi energy ministry says the Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-14T12:26:13+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Houthi missile hits Aramco building after Saudi-led coalition strike"
     },
     {
       "id": "84fb33bbcccb5a5dc34d039f7fd8e50b270d9dd5",
@@ -164,74 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Saudi-Houthi conflict"
-    },
-    {
-      "id": "60e7397fa08f3e683c7087eddb228d4317275ea0",
-      "title": "Saudi-Led Coalition Says Intercepted 3 Drones Near Riyadh",
-      "summary": "The Saudi-led coalition is fighting Iran-backed Houthis",
-      "url": "https://www.ndtv.com/world-news/saudi-led-coalition-says-intercepted-3-drones-near-riyadh-12179594#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-13T13:02:23+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Saudi-Led Coalition Says Intercepted 3 Drones"
-    },
-    {
-      "id": "28a3ec6ea8f5c80e4a3858e9eedc8efd4f91e5e3",
-      "title": "Houthis' Saudi Airport Attacks Pressure Trump To Boost US Role In Yemen",
-      "summary": "The latest flare-up in Middle East is poorly timed for Trump, who already faces tough midterm election",
-      "url": "https://www.ndtv.com/world-news/houthis-saudi-riyadh-airport-attacks-pressure-trump-to-boost-us-role-in-yemen-12177835#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-13T07:59:32+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Houthis' Saudi Airport Attacks"
-    },
-    {
-      "id": "538c630f4403bd98a2370f2e0430799356c74cb2",
-      "title": "Saudi Intercepts More Houthi Missiles As Conflict Shows No Signs Of Easing",
-      "summary": "Moment King Khalid International Airport in Riyadh was hit by a Houthi strike",
-      "url": "https://www.ndtv.com/world-news/saudi-intercepts-more-houthi-missiles-as-conflict-shows-no-signs-of-easing-12177550#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-13T06:51:53+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "Saudi Intercepts More Houthi Missiles As Conflict Shows No Signs Of Easing"
-    },
-    {
-      "id": "cccc6f0ef7865cad3368b3899f3cadf5820c5d2f",
-      "title": "Pakistan's Dual Messaging To Iran And Saudi Amid Escalating Houthi Attacks",
-      "summary": "Pakistan has run on two tracks since the spring.",
-      "url": "https://www.ndtv.com/world-news/pakistans-dual-messaging-to-iran-and-saudi-amid-escalating-houthi-attacks-12177490#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-13T06:39:38+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Messaging To Iran And Saudi Amid Escalating Houthi Attacks"
-    },
-    {
-      "id": "7475f8d6b58996139be57598ec9bacf88c14b7ac",
-      "title": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
-      "summary": "The FAA warned U.S. airlines about flight risks over Saudi Arabia as Riyadh airport attacks disrupt travel and Delta weighs an Oct. 23 launch.",
-      "url": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-12T16:50:44+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "safety risks over Saudi Arabia after attacks"
-    },
-    {
-      "id": "407faddc8b9443e159be69d43f8fd0e7ef851bf2",
-      "title": "Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks",
-      "summary": "Delta planned to begin the route on Oct. 23, in what would have marked the first nonstop commercial flight between the U.S. and Saudi Arabia.",
-      "url": "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-12T15:48:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Riyadh airport attacks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-15T14:11:45Z"
+  "last_updated": "2026-10-16T14:00:19Z"
 }

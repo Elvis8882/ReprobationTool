@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 11,
+  "sources": 12,
   "sentiment": {
     "positive": 0,
     "neutral": 5,
-    "negative": 6
+    "negative": 7
   },
   "latest_articles": [
+    {
+      "id": "b7ff269fece18d2829c305ff4f2bd92a73983875",
+      "title": "Revealed: Serbian ruler’s secret role in ‘illegal’ effort to help Trump business",
+      "summary": "Exclusive: Aleksandar Vučić personally intervened to push plans for controversial $500m Trump Tower in Belgrade, which sparked protests and a criminal caseSerbia’s authoritarian ruler personally intervened to advance an…",
+      "url": "https://www.theguardian.com/world/2026/oct/15/trump-kushner-vucic-belgrade-serbia",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-15T11:00:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Serbian ruler’s secret role in ‘illegal’ effort to help Trump business"
+    },
     {
       "id": "c2d86172d268a619f155a0c9c6cbb6c9dca7f62f",
       "title": "Serbia’s Longtime President Aleksandar Vucic Resigns Post",
@@ -134,5 +145,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-15T14:11:45Z"
+  "last_updated": "2026-10-16T14:00:19Z"
 }
