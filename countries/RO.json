@@ -1,14 +1,14 @@
 {
   "country": "RO",
-  "score": 72,
+  "score": 97,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 110,
+  "trend": 25,
+  "sources": 111,
   "sentiment": {
     "positive": 10,
     "neutral": 91,
-    "negative": 9
+    "negative": 10
   },
   "latest_articles": [
     {
@@ -30,6 +30,17 @@
       "published_at": "2026-10-16T11:07:08+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "8697722038835d3513174c17a01415f5435faead",
+      "title": "Zelenskyy says latest Russian attacks come ‘in response to signals from US’ – Europe live",
+      "summary": "Ukrainian president warns of ‘dangerous signals about the possibility of further sanctions relief’ after Russian strike on a supermarketJust as the leaders sit down at the big table in Brussels, Romania has said that sev…",
+      "url": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-15T13:26:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russian drones have hit several ships off Romania and neighbouring Bulgaria"
     },
     {
       "id": "2bc3b4bbb30fa8f852cbea89678a2397919f98b0",
@@ -203,18 +214,8 @@
       "published_at": "2026-10-01T15:44:56+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "b78e1cbcef4977099523fc6f090cec11b16d37fa",
-      "title": "House prices up by 4.0% in the euro area - Euro indicators - Eurostat - European Commission",
-      "summary": "House prices up by 4.0% in the euro area - Euro indicators - Eurostat&nbsp;&nbsp;European CommissionHouse prices up by 4.0% in the euro area&nbsp;&nbsp;European CommissionPortugal records biggest EU rise in house prices…",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkZOZi1iQXYyNzc1RDY0RTE1V1JhNHdvM3kzWjlzcWJZUExyM0dNZWJrUlo3eUhONWc5U3R0LXR5b3dDRDdUa1NSdndRT3k2djM2THRyWVQ1dUVzLVhLb2VuNl9fRkpFU2xVOFhvXzdCQnpqOVVxVEhLX1k5em1iQzlnYw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-01T09:44:33+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-16T14:00:19Z"
+  "last_updated": "2026-10-17T12:57:34Z"
 }

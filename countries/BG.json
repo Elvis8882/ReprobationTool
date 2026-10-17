@@ -1,14 +1,14 @@
 {
   "country": "BG",
-  "score": 66,
+  "score": 65,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 103,
+  "trend": -1,
+  "sources": 104,
   "sentiment": {
     "positive": 4,
     "neutral": 93,
-    "negative": 6
+    "negative": 7
   },
   "latest_articles": [
     {
@@ -30,6 +30,17 @@
       "published_at": "2026-10-16T11:07:08+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "8697722038835d3513174c17a01415f5435faead",
+      "title": "Zelenskyy says latest Russian attacks come ‘in response to signals from US’ – Europe live",
+      "summary": "Ukrainian president warns of ‘dangerous signals about the possibility of further sanctions relief’ after Russian strike on a supermarketJust as the leaders sit down at the big table in Brussels, Romania has said that sev…",
+      "url": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-15T13:26:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russian drones have hit several ships off Romania and neighbouring Bulgaria"
     },
     {
       "id": "e174e49ab396f243397160351fcc1e942850b2a2",
@@ -207,18 +218,8 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "Remains of medieval tsar return to Bulgaria after decades-long dispute with Greece"
-    },
-    {
-      "id": "0104714cc5e0992f079b00240493828a329db03b",
-      "title": "Understanding Canada’s Europe Pivot",
-      "summary": "You sent us your questions about the prime minister’s plan to form a closer relationship with the European Union. Our Canada bureau chief answers them.",
-      "url": "https://www.nytimes.com/2026/10/03/world/canada/carney-canada-european-union-trade-currency.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-03T10:00:13+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-16T14:00:19Z"
+  "last_updated": "2026-10-17T12:57:34Z"
 }

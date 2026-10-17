@@ -4,13 +4,90 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 805,
+  "sources": 815,
   "sentiment": {
     "positive": 36,
-    "neutral": 120,
-    "negative": 651
+    "neutral": 122,
+    "negative": 659
   },
   "latest_articles": [
+    {
+      "id": "5c71d088edddbbad84ddecca863beedef7aef8fa",
+      "title": "Bank of England governor walks out of IMF summit in protest against Russia",
+      "summary": "Andrew Bailey among finance leaders to leave session in Bangkok when Russian finance minister addressed groupThe Bank of England governor, Andrew Bailey, has taken part in a walkout of finance leaders who left an Interna…",
+      "url": "https://www.theguardian.com/business/2026/oct/17/bank-of-england-governor-andrew-bailey-walks-out-imf-summit-protest-russia",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-17T12:15:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "protest against Russia"
+    },
+    {
+      "id": "693cc2ae2f773abff328f7349b69f67ecc2814da",
+      "title": "Ministers must be honest about Russian threat to UK, says former Foreign Office head",
+      "summary": "Peter Ricketts calls for more resilience in protecting banking, energy and water systems from cyber-assaultsMinisters need to be honest with the British public about the immediate threat posed by Russia, which could soon…",
+      "url": "https://www.theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-17T10:19:32+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Russian threat to UK"
+    },
+    {
+      "id": "9e5d1151b5fd631277f8857d418f43e98a53e3e9",
+      "title": "Pope Leo Speaks To Putin From Hospital, Seeks Russia-Ukraine Ceasefire",
+      "summary": "The statement added that Leo \"reaffirmed the Holy See's commitment to promoting dialogue and peace.\"",
+      "url": "https://www.ndtv.com/world-news/pope-leo-xiv-speaks-to-russian-president-vladimir-putin-from-hospital-seeks-russia-ukraine-ceasefire-12198253#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-17T06:39:38+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Seeks Russia-Ukraine Ceasefire"
+    },
+    {
+      "id": "dfae70abda43289bce6b880ec6153ba3079c2b9e",
+      "title": "Trump Waives Russia Sanctions That Threatened 100% Tariffs On India",
+      "summary": "The executive order came as Trump has been warming toward Russia",
+      "url": "https://www.ndtv.com/world-news/donald-trump-waives-many-russia-related-sanctions-tariffs-under-lindsey-graham-act-in-relief-for-india-china-amid-ukraine-war-12197563#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-17T06:37:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Waives Russia Sanctions"
+    },
+    {
+      "id": "277e5050f30ec92f469c0a5cfa6a578800deadc4",
+      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+      "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+      "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-16T23:54:35+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia's full-scale invasion"
+    },
+    {
+      "id": "0e2aa49c3ad6750cb027675d826481fc5d276891",
+      "title": "Trump denies limiting Ukraine access to Starlink network",
+      "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-16T19:33:48+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "deadly Russian attacks"
+    },
+    {
+      "id": "acc3dc264d522c141265fe32a989e62617b652a2",
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-16T16:00:30+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Ukrainian offensive pushing Russia back"
+    },
     {
       "id": "04d2e1d5dfd259abcf008547aa098c2344406582",
       "title": "UN warns Russian attacks and winter hardship could displace more Ukrainians",
@@ -43,6 +120,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "EU intended to increase pressure on Russia, promising a 22nd round of sanctions"
+    },
+    {
+      "id": "60d443898492789a5d5735cebe533e5a294f8e6f",
+      "title": "U.S. Starlink curbs embolden Russia to intensify attacks on Ukraine, minister tells CNBC",
+      "summary": "Ukraine is seeking winter energy and air-defense support as Russian strikes intensify and Starlink limits disrupt military operations.",
+      "url": "https://www.cnbc.com/2026/10/16/zelenskyy-trump-eu-summit-russia-ukraine.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-16T10:25:46+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "embolden Russia to intensify attacks on Ukraine"
     },
     {
       "id": "3f1d45cba743e1d21228694805692be96db36317",
@@ -100,6 +188,17 @@
       "evidence": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe"
     },
     {
+      "id": "5935d5dd1b031ff53772144ff237dcac6d330f84",
+      "title": "Earthquake Of Magnitude 7 Strikes Russia, Japan Mistakenly Issues 9.9 Warning",
+      "summary": "The seismic event was recorded at around 3:35 pm local time.",
+      "url": "https://www.ndtv.com/world-news/russia-earthquake-earthquake-of-magnitude-7-strikes-russias-kamchatka-peninsula-12193129#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-16T04:59:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Earthquake Of Magnitude 7 Strikes Russia"
+    },
+    {
       "id": "ef6ef22a07ad010a871d17d0c7d4d814a8a0b82a",
       "title": "They fled Russia, but the West sent them back",
       "summary": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.",
@@ -111,6 +210,17 @@
       "evidence": "anti-government activists deported to Russia from the EU"
     },
     {
+      "id": "2cce6d6bae2a678b1804c5cda6fecffbf8fc8ebf",
+      "title": "\"We're Done\": Zelensky Feels 'Betrayed' By Trump, Ukraine Attacks Russian Refinery",
+      "summary": "Zelensky said he was outraged by Russia's continuing aerial bombardment of energy infrastructure.",
+      "url": "https://www.ndtv.com/world-news/ukraine-energy-truce-were-done-zelensky-feels-betrayed-by-trump-attacks-russian-refinery-12193215#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-16T04:39:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia's continuing aerial bombardment of energy infrastructure"
+    },
+    {
       "id": "b75a49f62fe8c1677d9d903551efbd319e8a86d4",
       "title": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End",
       "summary": "The Ukrainian president’s defiant decision to continue attacking Russian refineries underscores President Trump’s inability to end a war he had promised to resolve.",
@@ -120,118 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Trump’s Deal With Russia Inflames Ukraine War"
-    },
-    {
-      "id": "c6fa11337fd332903db0b0a00109157bf8310b85",
-      "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
-      "summary": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
-      "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-15T17:31:37+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Ukraine-Russia war"
-    },
-    {
-      "id": "76b28f30d48a7f58f90fc257ad8339a6dbb9af41",
-      "title": "Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter",
-      "summary": "Moscow is not winning on the battlefield. Instead, it is seizing an opening to inflict immense human suffering in Ukrainian cities.",
-      "url": "https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-15T13:45:52+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russia Sees a Window to Bomb Ukraine Into Submission"
-    },
-    {
-      "id": "92dbe4dfb586de8a2850f46c8573ca14e731e65f",
-      "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
-      "summary": "President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.",
-      "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-15T13:40:14+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": ""
-    },
-    {
-      "id": "9a6e77069ea3c6d7226ea55ae83561156e953e48",
-      "title": "Nazi-Looted Kandinsky Painting Sells for $42 Million at Auction",
-      "summary": "“The Colorful Life,” a 1907 work by the Russian painter Wassily Kandinsky, had been returned to the original owners’ heirs in 2023.",
-      "url": "https://www.nytimes.com/2026/10/15/world/europe/kandinsky-nazi-looted-art-auction.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-15T13:29:13+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Russian painter Wassily Kandinsky"
-    },
-    {
-      "id": "98fb856ff261288c258257269d633d993c8c3e6e",
-      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-15T12:03:51+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Russia accuses Ukraine of attacking oil refinery"
-    },
-    {
-      "id": "aefb49f99a5913e1ade2a8b7c965293150681a92",
-      "title": "Sanctions conference in Rīga will discuss 'Degrading Russia’s War Machine' / Article - Latvian Public Media",
-      "summary": "Sanctions conference in Rīga will discuss 'Degrading Russia’s War Machine' / Article&nbsp;&nbsp;Latvian Public Media",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNTR5bFpBTUFoS21rT2hrNzhEWjUtQWo5YU9lSWR0VTZGQWFkZ2xla3Z5WGRwVnRzWmVLYkd2N0c2QjI4c1lFemVuTzl2dDhmT1JuczFwckFhRm00SWJSNDZOQ1BtSEZqYms0TGo1bGhnMU9JQXFKM3VwUnFtUjJ0VmtSa0lMVGthdkJBMTRlMngtTS05RS1HdXFKcE1lVm1fWTNERW12eENqZkhQdjJ1bmd2MHc4THJ6d0MyVWpoQVU1dUYyZFZYaWQtSy0?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-15T10:54:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "'Degrading Russia’s War Machine'"
-    },
-    {
-      "id": "726960e96fefb8b2862a73497dec1e0721d4d0d7",
-      "title": "Inside the Plague Research Labs at the Heart of a Russian Mystery",
-      "summary": "A Russian researcher, who died from an unknown illness, worked at a remote anti-plague facility. Few foreigners have visited these labs, which dot the former Soviet states, and are shrouded in secrecy.",
-      "url": "https://www.nytimes.com/2026/10/15/science/russia-plague-laboratory-mystery.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-15T09:04:13+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Russian Mystery"
-    },
-    {
-      "id": "41d161228e37d40713648d39f8e453c3dc36ad23",
-      "title": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
-      "summary": "Ukrainian engineers are rushing to perfect A.I.-guided, jet-driven interceptors. Their goal: to stop a fast Russian threat in the latest round of a deadly tech duel.",
-      "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-15T09:03:54+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "fast Russian threat"
-    },
-    {
-      "id": "4fef02b44c65ae4aa0c94b9fcebd79c8f864e8e5",
-      "title": "Why Trump Made a Diesel Deal With Putin",
-      "summary": "Our national security and White House correspondent David E. Sanger breaks down why President Donald Trump struck a deal with President Vladimir V. Putin to import Russian diesel fuel in the coming months, despite having…",
-      "url": "https://www.nytimes.com/video/world/europe/100000011205967/00vid-rv-trump-putin-deal.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-14T22:26:38+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "import Russian diesel fuel in the coming months, despite having signed recent congressional legislation tightening energy sanctions"
-    },
-    {
-      "id": "693557710ca54e1eba8a0150d01f7dfb3ea29300",
-      "title": "Ukraine’s Vulnerability Grows as Starlink Is Restricted and Russia Escalates",
-      "summary": "A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.",
-      "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-14T14:06:41+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russia Escalates"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-16T14:00:19Z"
+  "last_updated": "2026-10-17T12:57:34Z"
 }

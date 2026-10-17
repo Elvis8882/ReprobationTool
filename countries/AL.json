@@ -4,11 +4,11 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 3,
+  "sources": 4,
   "sentiment": {
     "positive": 0,
     "neutral": 1,
-    "negative": 2
+    "negative": 3
   },
   "latest_articles": [
     {
@@ -21,6 +21,17 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "Violent Protests in Albania"
+    },
+    {
+      "id": "090584bc945ef8fff488b851335de7b3ee87872a",
+      "title": "Albania’s prime minister vows not to resign over student-led protests",
+      "summary": "Demonstrators are demanding resignation of Edi Rama after three days of clashes in TiranaAlbania’s prime minister, Edi Rama, has said he will not resign over student-led demonstrations, as protesters and police clashed i…",
+      "url": "https://www.theguardian.com/world/2026/oct/15/albania-prime-minister-edi-rama-vows-not-to-resign-student-led-protests",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-15T10:34:51+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Albania’s prime minister vows not to resign over student-led protests"
     },
     {
       "id": "2eb83a2c23e74c6bcc6e642c5d87befa8a7481dd",
@@ -46,5 +57,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-16T14:00:19Z"
+  "last_updated": "2026-10-17T12:57:34Z"
 }

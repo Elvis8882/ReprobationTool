@@ -1,16 +1,27 @@
 {
   "country": "BE",
-  "score": 62,
+  "score": 64,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 114,
+  "trend": 2,
+  "sources": 116,
   "sentiment": {
-    "positive": 3,
-    "neutral": 103,
+    "positive": 4,
+    "neutral": 104,
     "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "de00db75434b57a3e5f7f9f4ad8fedcaf44827c1",
+      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+      "summary": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
+      "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-16T15:45:10+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "meeting with the EU in Brussels"
+    },
     {
       "id": "4a50a29eb00154e58b95f3a8d17e39b85d738633",
       "title": "ERA Living Guidelines on the responsible use of Generative AI in research updated - European Commission",
@@ -30,6 +41,17 @@
       "published_at": "2026-10-16T11:07:08+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "8697722038835d3513174c17a01415f5435faead",
+      "title": "Zelenskyy says latest Russian attacks come ‘in response to signals from US’ – Europe live",
+      "summary": "Ukrainian president warns of ‘dangerous signals about the possibility of further sanctions relief’ after Russian strike on a supermarketJust as the leaders sit down at the big table in Brussels, Romania has said that sev…",
+      "url": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-15T13:26:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "leaders sit down at the big table in Brussels"
     },
     {
       "id": "e174e49ab396f243397160351fcc1e942850b2a2",
@@ -196,28 +218,8 @@
       "published_at": "2026-10-03T10:00:13+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "0bb7ff149c0ce5129420ba9cbbd8cd667cb66e94",
-      "title": "Half of UK wants to rejoin EU and backing it could drive up Labour vote, megapoll finds",
-      "summary": "Exclusive: Findings will bolster those in No 10 who want to negotiate on re-entry but some senior figures remain waryAndy Burnham’s personal preference to rejoin the European Union after the next election is supported by…",
-      "url": "https://www.theguardian.com/world/2026/oct/03/half-want-to-rejoin-eu-and-backing-it-could-drive-up-labour-vote-megapoll-finds",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-03T05:00:52+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "9306b6aa6682e39c83db3cc103e32a8db687db64",
-      "title": "A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here’s what’s at stake",
-      "summary": "Britain voted to leave the European Union in 2016.",
-      "url": "https://www.cnbc.com/2026/10/02/brexit-uk-rejoin-eu-referendum.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-02T05:00:01+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-16T14:00:19Z"
+  "last_updated": "2026-10-17T12:57:34Z"
 }
