@@ -4,13 +4,68 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 815,
+  "sources": 822,
   "sentiment": {
-    "positive": 36,
+    "positive": 37,
     "neutral": 122,
-    "negative": 659
+    "negative": 665
   },
   "latest_articles": [
+    {
+      "id": "13481defb80ae9db19d4dfcc100c8dcb63d0c571",
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-18T11:57:49+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Oil facilities hit in deadly overnight attack"
+    },
+    {
+      "id": "2f7dadac7f08d953e40e7803f6c8b03f9b43d006",
+      "title": "Ukraine Fires 1,000 Drones At Russia, St Petersburg Oil Sites Ablaze",
+      "summary": "People watch the burning oil terminal following an air attack in Saint Petersburg.",
+      "url": "https://www.ndtv.com/world-news/ukraine-fires-1-000-drones-at-russia-st-petersburg-oil-sites-ablaze-12202700#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-18T11:30:19+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "St Petersburg Oil Sites Ablaze"
+    },
+    {
+      "id": "92fad37efd7ca7c501321a9a1e4318a936a86330",
+      "title": "Suspected drone destroyed in Lithuania as it approached Latvia / Article - Latvian Public Media",
+      "summary": "Suspected drone destroyed in Lithuania as it approached Latvia / Article&nbsp;&nbsp;Latvian Public MediaLithuania tells residents to go to shelters after detecting suspected drone&nbsp;&nbsp;ReutersUkraine-Russia war liv…",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd2ppUUVGWExVT29PdDdlU1RSQXlFQjdfWTU5Mlcwb2NlZ0xXUkZtQWtXVUdEa2stQVE1SnB1aGI3SmQzT3lUT0FSMEVsQUpwTUpNclVfalZQZXd5UUZwbUs3SHVSVUxKM0dRUWJqN3JvZEE3aHNZUVhIQnFnUzM1TkF3TElBY2xZaDhVcVpabTY2ZVBGYVgtZUlqVlNmUy1wZVhnV0pUTHNUZjViWXJ4OHVfSXM5NmNGUVkwcGNBcU5YX2s?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-10-18T08:06:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Ukraine-Russia war live"
+    },
+    {
+      "id": "0ba4e2c6d1bb6fe4b45ff002561c76d394070d2f",
+      "title": "'Hard For India To Move Away From Russian Energy': Team Trump On Waivers",
+      "summary": "The US has repeatedly targeted India for buying Russian oil",
+      "url": "https://www.ndtv.com/world-news/team-trump-on-waivers-hard-for-india-to-move-away-from-russian-energy-says-marco-rubio-amid-ukraine-war-12201303#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-18T03:39:52+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "buying Russian oil"
+    },
+    {
+      "id": "7b03e19db9665330152ff2376cacabad5248c6f5",
+      "title": "U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe",
+      "summary": "The Trump administration is pitching the idea as part of a peace deal with Ukraine, but Europe is wary and critics say Russia would be strengthened.",
+      "url": "https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-17T18:00:45+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Allowing More Gas Sales to Europe... Russia would be strengthened."
+    },
     {
       "id": "5c71d088edddbbad84ddecca863beedef7aef8fa",
       "title": "Bank of England governor walks out of IMF summit in protest against Russia",
@@ -21,6 +76,28 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "protest against Russia"
+    },
+    {
+      "id": "bf5b022d453c47829c0b74ea2a9f0f0597a36750",
+      "title": "Russia targets energy grid: Russia launches 320 missiles and drones; Zelenskyy warns of winter blackout",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/europe/russia-rains-over-300-drones-missiles-on-ukraine-hits-15-plus-energy-facilities/articleshow/135012663.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-10-17T11:45:54+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Russia targets energy grid"
+    },
+    {
+      "id": "50ffba9c93137659410ba151d731dc92b292a191",
+      "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
+      "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+      "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-17T10:20:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Trump waives broad new Russia sanctions"
     },
     {
       "id": "693cc2ae2f773abff328f7349b69f67ecc2814da",
@@ -153,85 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Exiled Russian Journalist Targeted as a ‘Foreign Agent’"
-    },
-    {
-      "id": "ad84220940a1b22839976d34398e45fe322d38e3",
-      "title": "Trump Says He Is Talking To Russia And China About Denuclearisation",
-      "summary": "Trump said he expects China to \"catch up\" with the US within the next five years",
-      "url": "https://www.ndtv.com/world-news/trump-says-he-is-talking-to-russia-and-china-about-denuclearisation-12193734#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-16T07:00:39+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Trump Says He Is Talking To Russia"
-    },
-    {
-      "id": "a9baa2a46a1d6e77dd126b908c3ca7fcfc9a7e8d",
-      "title": "Ukraine Out Of US-Made Patriot Interceptors Amid Increased Russian Attacks: Report",
-      "summary": "Zelensky has repeatedly complained that Ukraine is running short of US-made interceptors",
-      "url": "https://www.ndtv.com/world-news/ukraine-out-of-us-made-patriot-interceptors-amid-increased-russian-attacks-report-12193696#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-16T06:52:11+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Increased Russian Attacks"
-    },
-    {
-      "id": "cb89d53b64ee0cb9cc6f50be5f52616445ed3f28",
-      "title": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
-      "summary": "Russia’s return to the G20 table has tested how far Washington’s outreach to Moscow will strain ties with European allies.",
-      "url": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-16T06:11:35+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe"
-    },
-    {
-      "id": "5935d5dd1b031ff53772144ff237dcac6d330f84",
-      "title": "Earthquake Of Magnitude 7 Strikes Russia, Japan Mistakenly Issues 9.9 Warning",
-      "summary": "The seismic event was recorded at around 3:35 pm local time.",
-      "url": "https://www.ndtv.com/world-news/russia-earthquake-earthquake-of-magnitude-7-strikes-russias-kamchatka-peninsula-12193129#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-16T04:59:51+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Earthquake Of Magnitude 7 Strikes Russia"
-    },
-    {
-      "id": "ef6ef22a07ad010a871d17d0c7d4d814a8a0b82a",
-      "title": "They fled Russia, but the West sent them back",
-      "summary": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-16T04:57:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "anti-government activists deported to Russia from the EU"
-    },
-    {
-      "id": "2cce6d6bae2a678b1804c5cda6fecffbf8fc8ebf",
-      "title": "\"We're Done\": Zelensky Feels 'Betrayed' By Trump, Ukraine Attacks Russian Refinery",
-      "summary": "Zelensky said he was outraged by Russia's continuing aerial bombardment of energy infrastructure.",
-      "url": "https://www.ndtv.com/world-news/ukraine-energy-truce-were-done-zelensky-feels-betrayed-by-trump-attacks-russian-refinery-12193215#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-16T04:39:51+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russia's continuing aerial bombardment of energy infrastructure"
-    },
-    {
-      "id": "b75a49f62fe8c1677d9d903551efbd319e8a86d4",
-      "title": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End",
-      "summary": "The Ukrainian president’s defiant decision to continue attacking Russian refineries underscores President Trump’s inability to end a war he had promised to resolve.",
-      "url": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-16T01:02:09+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Trump’s Deal With Russia Inflames Ukraine War"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-17T12:57:34Z"
+  "last_updated": "2026-10-18T13:15:32Z"
 }

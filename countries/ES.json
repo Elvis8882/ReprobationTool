@@ -1,16 +1,27 @@
 {
   "country": "ES",
-  "score": 48,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 330,
+  "score": 47,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": -1,
+  "sources": 317,
   "sentiment": {
-    "positive": 16,
-    "neutral": 237,
+    "positive": 15,
+    "neutral": 225,
     "negative": 80
   },
   "latest_articles": [
+    {
+      "id": "588d66a1ae3bb80fb035d3b8abeee183e69689a0",
+      "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
+      "summary": "Hundreds at Lisbon tent camp demand action, as Giorgia Meloni says march in Italy was exploited by ‘hooligans’The angry protests that have convulsed Spain and France in recent weeks have spilled over to Italy and Portuga…",
+      "url": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-18T11:02:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "angry protests that have convulsed Spain and France"
+    },
     {
       "id": "6ff59e03a37e28e8db0c2400ab35e8f961f4781b",
       "title": "Mourinho sends emotional message to AS Roma fans after Real Madrid win: ‘Eternal gratitude’ - Yahoo Sports",
@@ -210,19 +221,8 @@
       "published_at": "2026-10-08T06:56:13+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "92abe3e1378e0f9dd7d109d1b8f5c8458c9d2f17",
-      "title": "‘Now is the moment’: housing activists at Madrid encampment pin wary hopes on Spain’s early election",
-      "summary": "Campaigners set up in more than 1,200 tents in Puerto del Sol square say challenge now is to translate a groundswell of public support into concrete changeAt a makeshift lunch counter tucked within a maze of tents at a h…",
-      "url": "https://www.theguardian.com/world/2026/oct/07/housing-activists-madrid-encampment-hopes-spain-early-election",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-07T12:43:36+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "housing activists at Madrid encampment pin wary hopes on Spain’s early election"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-17T12:57:34Z"
+  "last_updated": "2026-10-18T13:15:32Z"
 }

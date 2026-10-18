@@ -1,16 +1,104 @@
 {
   "country": "FR",
-  "score": 42,
+  "score": 37,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 486,
+  "trend": -5,
+  "sources": 494,
   "sentiment": {
     "positive": 43,
-    "neutral": 342,
-    "negative": 102
+    "neutral": 344,
+    "negative": 108
   },
   "latest_articles": [
+    {
+      "id": "588d66a1ae3bb80fb035d3b8abeee183e69689a0",
+      "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
+      "summary": "Hundreds at Lisbon tent camp demand action, as Giorgia Meloni says march in Italy was exploited by ‘hooligans’The angry protests that have convulsed Spain and France in recent weeks have spilled over to Italy and Portuga…",
+      "url": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-18T11:02:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "angry protests that have convulsed Spain and France"
+    },
+    {
+      "id": "fe0b6e873f7ecd01c0d19a3589c8e443555dde5a",
+      "title": "Parisians wake up to protest damage and looted shops",
+      "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
+      "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-18T10:58:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Violence broke out across France on Saturday during the latest day of demonstrations"
+    },
+    {
+      "id": "62a765bff35611a954429341b77da1435b530647",
+      "title": "She bought a glass vase for £1 at Scottish car-boot sale, used it as a plant pot; it sold for £32,450",
+      "summary": "In 2008, a woman bought a glass vase for just £1 at a car-boot sale in Dumfries, Scotland, and used it as a plant pot. She later discovered it was a rare 1929 creation by French designer René Lalique. After experts value…",
+      "url": "https://timesofindia.indiatimes.com/world/uk/in-2008-a-woman-bought-a-glass-vase-for-1-at-a-scottish-car-boot-sale-and-used-it-as-a-plant-pot-after-experts-identified-it-as-a-1929-ren-lalique-piece-christies-sold-it-for-32450/articleshow/135025620.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-10-18T09:28:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "rare 1929 creation by French designer René Lalique"
+    },
+    {
+      "id": "3cefe810cd459dade0d1279c5a0acf49c31c5991",
+      "title": "France in Shock After Protests Devolve Into Riots",
+      "summary": "Centrist and leftist leaders blamed each other after anti-government protests devolved into chaos.",
+      "url": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-18T08:44:26+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Protests Devolve Into Riots"
+    },
+    {
+      "id": "87f321ddcc293169a9733ad301e2ccc91157bdf4",
+      "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
+      "summary": "Riots broke out in several French cities alongside peaceful marches of tens of thousands of people demonstrating against rising living costs and poor school conditions.",
+      "url": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-18T06:59:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Unrest Mars Day of Protest in France, as Student Movement Turns National"
+    },
+    {
+      "id": "375e519c189627eefa8eafb5096586c6389aecad",
+      "title": "\"Let's Go To France\": Trump Mocks Nationwide Protests, Violence",
+      "summary": "Trump's remarks came as France woke up Sunday to devastated streets after major protests",
+      "url": "https://www.ndtv.com/world-news/france-violence-lets-go-to-france-us-president-donald-trump-mocks-about-nationwide-protests-violence-12201392#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-18T04:19:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Trump Mocks Nationwide Protests, Violence"
+    },
+    {
+      "id": "9edf563710ccedceb7f4d97125f2ea1d06198a27",
+      "title": "Israeli settlers attack European diplomats in West Bank",
+      "summary": "French mayor and archbishop also attacked during violent attempt to stop Palestinians harvesting olives Israeli settler militants have attacked European diplomats, a French mayor and the archbishop of Cambrai in Taybeh,…",
+      "url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-17T18:57:56+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "French mayor and archbishop also attacked"
+    },
+    {
+      "id": "9d41742fa46f9c143faeed49981b9c7e1362ae96",
+      "title": "Why Are There Protests in France?",
+      "summary": "Student demonstrations converged on Saturday with a broader protest movement against rising living costs, heightening a national reckoning.",
+      "url": "https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-17T12:39:10+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Protests in France"
+    },
     {
       "id": "3f2e65e4265abf5cb3c5185e05befb61b7636f16",
       "title": "How Bally Bagayoko, a 53-Year-Old Mayor, Became the Face of France’s Youth Protests",
@@ -54,6 +142,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "in France"
+    },
+    {
+      "id": "a7ef8b1a5a1c45fe46574f1fbfbd5323dab0d30a",
+      "title": "Rare pink diamond goes on display in France 100 years after amateur heist - BBC",
+      "summary": "Rare pink diamond goes on display in France 100 years after amateur heist&nbsp;&nbsp;BBCSee more headlines and perspectives on Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fWXBXS1M1bmJkdS1iSE9Vb3AyMmdubkxWclo4NWhCYVhRMEtHa3NEZ2U2bHRiZmlPVmFNUTVaSTY1ZTZOdVUxbnAzY01ZTjY0bXNDZ2xzakVLSFE?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-10-17T10:46:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Rare pink diamond goes on display in France"
     },
     {
       "id": "a14bc391c5d6eb77ac07158c2d4bdeb8a0d65447",
@@ -130,104 +229,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "France 24"
-    },
-    {
-      "id": "cb66e2f01bd03d4bdc6cdb67e5bb1884faa866d1",
-      "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
-      "summary": "A surge of abuse accusations has led Parisian authorities to acknowledge a “collective failure” to prevent sexual offenders from working in schools.",
-      "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-16T08:22:09+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Sexual Abuse Crisis in Paris’s Public Schools"
-    },
-    {
-      "id": "08d3b66205a51e809c8fdce9591dd8c7002f4129",
-      "title": "Are student protests being manipulated ahead of France's presidential election?",
-      "summary": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
-      "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-15T23:25:06+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "student anger is being weaponised"
-    },
-    {
-      "id": "00114a70b39a0329a56e2910817c415bfe47565d",
-      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-      "summary": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-15T22:37:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Bus hits train stopped on French side of Channel Tunnel"
-    },
-    {
-      "id": "49113c6ba6b565aeb529cfefeedbd331e82a321d",
-      "title": "Ledger Unveils $899 Smartphone-Like Device After $90 Million Crypto Theft - Bloomberg.com",
-      "summary": "Ledger Unveils $899 Smartphone-Like Device After $90 Million Crypto Theft&nbsp;&nbsp;Bloomberg.comLedger’s new hardware wallet is an Android phone without the phone&nbsp;&nbsp;The VergeLedger unveils $899 Atom Android se…",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc1Vpa3lienRfd2pwckh2UDdjRmJCMkV1VVlFcHFRc252U0w3MTZxZno0R1hWQTU1SXhwbmU0eDJHQW5zdVlfTHNhQ05FaXMxb25LcGdhLUp0UjQ0bEVYeTZSbWIzRmZVcW5WNUVtMTJrQ1J4SEpFckdDejJRVE5QTVN4aXRtemRKVkpfc21FeW1FQ1JmOExIRVZxQ051NVpiZFlzOWY0VU9fLTBjczlLQmUtdmxHWWtZSmF5UXFtUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-15T12:00:00+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.6,
-      "evidence": "French crypto unicorn Ledger warns of AI security risks"
-    },
-    {
-      "id": "2d39944477a54dd3e3288db2234bdbb04d00aab4",
-      "title": "France is ‘putting the house in order’ and can slash deficit to 3% in three years, central bank governor tells CNBC",
-      "summary": "France is able to slash its huge budget deficit troubling investors across the globe, according to the head of the country's central bank.",
-      "url": "https://www.cnbc.com/2026/10/15/france-budget-deficit-moulin-protests.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-15T10:05:53+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "France is able to slash its huge budget deficit"
-    },
-    {
-      "id": "e174e49ab396f243397160351fcc1e942850b2a2",
-      "title": "Industrial production down by 0.5% in the euro area and by 0.3% in the EU - Euro indicators - Eurostat - European Commission",
-      "summary": "Industrial production down by 0.5% in the euro area and by 0.3% in the EU - Euro indicators - Eurostat&nbsp;&nbsp;European CommissionEurozone Industrial Resilience Falters as Energy Shock Bites&nbsp;&nbsp;WSJIndustrial p…",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbU5mT21GSnk0dkZvOC1ab2thWWNTZ2h2bm52SnF4bFNlU2dDMzJidExiRTA3YzVCU2E3QlNFaFlGTmV1ZUhRLS1xMG1lQUJ6SEdMN2I5UDA2aU5tdVY3eWdscVg1SnZCMHB1U2J6ZVRna1V6N0EzakloVTRhWGlMWFF6NA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-15T09:07:08+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f50f2d475f5891f9f8a74b9425071927772619f6",
-      "title": "Meet Jean-Eric Paquet, EU Ambassador Set To Speak At NDTV World Summit 2026",
-      "summary": "Paquet was Deputy Secretary-General of the European Commission",
-      "url": "https://www.ndtv.com/world-news/meet-jean-eric-paquet-eu-ambassador-set-to-speak-at-ndtv-world-summit-2026-12184510#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-15T05:59:26+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "17ac9587a456e4c152bbe7fc969daa77c85ddd24",
-      "title": "Dalí Book Cover Stolen in France",
-      "summary": "Three thieves broke into a private museum in central France and took off with a 330-pound book cover created by the surrealist master Salvador Dalí.",
-      "url": "https://www.nytimes.com/2026/10/14/world/europe/france-dali-theft.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-14T14:15:56+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Dalí Book Cover Stolen in France"
-    },
-    {
-      "id": "e7415c964eefd02508be6effb58dd8eeda8e836d",
-      "title": "EU says ‘no indication’ intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power – Europe live",
-      "summary": "European Commission declined to comment on reported disruption to Starlink’s services in UkraineUkrainian soldiers have access to Starlink satellite internet restrictedRutte gets asked “is Russia foolish enough to consid…",
-      "url": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-14T13:40:28+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-17T12:57:34Z"
+  "last_updated": "2026-10-18T13:15:32Z"
 }
