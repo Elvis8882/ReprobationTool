@@ -1,16 +1,27 @@
 {
   "country": "BG",
-  "score": 65,
+  "score": 67,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": 2,
   "sources": 102,
   "sentiment": {
-    "positive": 4,
-    "neutral": 91,
+    "positive": 5,
+    "neutral": 90,
     "negative": 7
   },
   "latest_articles": [
+    {
+      "id": "555308cc61752aa7ab165c97ae9fbfcf665d7e4f",
+      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
+      "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
+      "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-19T06:29:55+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "landed safely in Bulgaria and all passengers and crew aboard were unharmed"
+    },
     {
       "id": "4a50a29eb00154e58b95f3a8d17e39b85d738633",
       "title": "ERA Living Guidelines on the responsible use of Generative AI in research updated - European Commission",
@@ -207,19 +218,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Drones strike two vessels in Bulgaria's economic zone"
-    },
-    {
-      "id": "63b04ab3f69dd07ca78f264db8a5dfbcd44c4702",
-      "title": "Remains of medieval tsar return to Bulgaria after decades-long dispute with Greece",
-      "summary": "Greek PM hopes handover of Tsar Samuel will help persuade Britain to return Parthenon marblesThe remains of medieval ruler Tsar Samuel will arrive in Bulgaria on Saturday amid great pomp and ceremony, after decades of ne…",
-      "url": "https://www.theguardian.com/world/2026/oct/03/remains-czar-samuel-return-bulgaria-greece-talks",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-03T10:31:54+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Remains of medieval tsar return to Bulgaria after decades-long dispute with Greece"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-18T13:15:32Z"
+  "last_updated": "2026-10-19T16:29:15Z"
 }

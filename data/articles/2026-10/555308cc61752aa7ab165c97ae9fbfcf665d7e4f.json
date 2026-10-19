@@ -1,0 +1,41 @@
+{
+  "id": "555308cc61752aa7ab165c97ae9fbfcf665d7e4f",
+  "title": "Bomb threat forces Israel to Austria flight into emergency landing",
+  "summary_full": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
+  "summary_public": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
+  "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-10-19T06:29:55+00:00",
+  "source": "BBC News - World",
+  "language": "en",
+  "countries_detected": [
+    "AT",
+    "BG",
+    "IL"
+  ],
+  "countries_scored": [
+    "AT",
+    "BG",
+    "IL"
+  ],
+  "sentiment_by_country": {
+    "AT": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel to Austria flight"
+    },
+    "BG": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "landed safely in Bulgaria and all passengers and crew aboard were unharmed"
+    },
+    "IL": {
+      "label": "negative",
+      "confidence": 0.6,
+      "evidence": "Bomb threat forces Israel to Austria flight"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-10-19T16:29:15+00:00",
+  "processed_at": "2026-10-19T16:29:15+00:00"
+}

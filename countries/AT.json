@@ -1,16 +1,27 @@
 {
   "country": "AT",
-  "score": 74,
+  "score": 70,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 4,
+  "trend": -4,
   "sources": 105,
   "sentiment": {
     "positive": 3,
-    "neutral": 100,
-    "negative": 2
+    "neutral": 99,
+    "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "555308cc61752aa7ab165c97ae9fbfcf665d7e4f",
+      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
+      "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
+      "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-19T06:29:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israel to Austria flight"
+    },
     {
       "id": "32e0abd3c996322e682a65c4b413e14b9aca4401",
       "title": "‘I felt disgusted’: MEP speaks out over nude deepfakes and urges EU action",
@@ -203,18 +214,8 @@
       "published_at": "2026-10-01T15:44:56+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "b78e1cbcef4977099523fc6f090cec11b16d37fa",
-      "title": "House prices up by 4.0% in the euro area - Euro indicators - Eurostat - European Commission",
-      "summary": "House prices up by 4.0% in the euro area - Euro indicators - Eurostat&nbsp;&nbsp;European CommissionHouse prices up by 4.0% in the euro area&nbsp;&nbsp;European CommissionPortugal records biggest EU rise in house prices…",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkZOZi1iQXYyNzc1RDY0RTE1V1JhNHdvM3kzWjlzcWJZUExyM0dNZWJrUlo3eUhONWc5U3R0LXR5b3dDRDdUa1NSdndRT3k2djM2THRyWVQ1dUVzLVhLb2VuNl9fRkpFU2xVOFhvXzdCQnpqOVVxVEhLX1k5em1iQzlnYw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-01T09:44:33+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-18T13:15:32Z"
+  "last_updated": "2026-10-19T16:29:15Z"
 }

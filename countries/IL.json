@@ -4,13 +4,79 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 530,
+  "sources": 528,
   "sentiment": {
-    "positive": 16,
-    "neutral": 191,
-    "negative": 324
+    "positive": 14,
+    "neutral": 188,
+    "negative": 327
   },
   "latest_articles": [
+    {
+      "id": "00659f6c4f2570808521470b956f5fa6ea7214e6",
+      "title": "Israeli Police Detain 10 Over Violent Settler Attacks in West Bank",
+      "summary": "Israel has faced pressure, including from the United States, to investigate the attacks. Rights groups say most inquiries into extremist assaults on Palestinians go nowhere.",
+      "url": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-19T14:22:13+00:00",
+      "sentiment": "negative",
+      "confidence": 0.4,
+      "evidence": "Violent Settler Attacks in West Bank"
+    },
+    {
+      "id": "bfb2157321b04df7d936794ac4d590d7977dee0a",
+      "title": "Will Trump’s Endorsement of Netanyahu Fire Up His Campaign or Fizzle?",
+      "summary": "President Trump said Benjamin Netanyahu was a “Great Warrior,” as he faces a tough re-election bid for prime minister. But the Trump brand is not what it once was in Israel, analysts say.",
+      "url": "https://www.nytimes.com/2026/10/19/world/middleeast/trump-netanyahu-endorsement-election.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-19T14:21:13+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Will Trump’s Endorsement of Netanyahu Fire Up His Campaign or Fizzle?"
+    },
+    {
+      "id": "e008fdf29234684c23d2132c5a56690daded1df9",
+      "title": "For Israelis and Jews in the U.A.E., an Eroding Sense of Security",
+      "summary": "The Emirates’ reputation as a haven was shaken by what the authorities said was a plot last month aimed at crashing a flight from Dubai to Tel Aviv.",
+      "url": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-19T13:00:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "plot aimed at crashing a flight to Tel Aviv"
+    },
+    {
+      "id": "005ed156c7ecfd659a6a4b711d67e9b2126b54cc",
+      "title": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
+      "summary": "Two-thirds of population face crisis levels of food insecurity and 200,000 people are in danger of famineThis winter is likely to deepen hunger for Palestinians in Gaza, after sweeping aid cuts forced the UN’s World Food…",
+      "url": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-19T09:54:33+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Palestinians in Gaza... Trump-brokered ceasefire"
+    },
+    {
+      "id": "555308cc61752aa7ab165c97ae9fbfcf665d7e4f",
+      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
+      "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
+      "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-19T06:29:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Bomb threat forces Israel to Austria flight"
+    },
+    {
+      "id": "8ede70574916890749645281e765c4433cd3b575",
+      "title": "Guardian reporter filmed masked militants seconds before West Bank attack on French mayor",
+      "summary": "New video footage of Israeli settler assault on European delegation as Netanyahu attempts to raise doubtHours after Israeli militants attacked a delegation of European diplomats, French clerics and a visiting mayor in th…",
+      "url": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-18T18:39:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Israeli settler assault on European delegation"
+    },
     {
       "id": "46647e0022809cb145be09dcb33125a124d19440",
       "title": "European diplomats attacked by Israeli settlers in West Bank",
@@ -21,6 +87,17 @@
       "sentiment": "negative",
       "confidence": 1.0,
       "evidence": "European diplomats attacked by Israeli settlers in West Bank"
+    },
+    {
+      "id": "a0b37a78c129788b6bb041e95fce24f2e21dcf7d",
+      "title": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
+      "summary": "Extremists assaulted residents and broke a European diplomatic vehicle’s window, witnesses said, as settler violence surges in the territory during the olive harvest.",
+      "url": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-18T07:36:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Israeli Settlers Attack Palestinians and European Officials"
     },
     {
       "id": "fcf5cd16e59bf2d2bfed3a02c9953074ac370b41",
@@ -89,6 +166,17 @@
       "evidence": "Israeli Settlers Attack Palestinians"
     },
     {
+      "id": "052ae2b76c9b8179b89832b9abf11cc6fd30c92d",
+      "title": "‘Tough to watch, impossible to ignore’: reviewers on NAZA documentary",
+      "summary": "Film interviewing military insiders about mass killing of civilians in Gaza wins widespread praise around the worldCritics around the world have hailed the award-winning documentary NAZA as a “brilliant and harrowing” fi…",
+      "url": "https://www.theguardian.com/film/2026/oct/16/tough-to-watch-impossible-to-ignore-what-the-reviewers-say-about-naza-documentary",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-16T15:42:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "details Israel’s mass killing of civilians in Gaza"
+    },
+    {
       "id": "363fbc099b3910a09c62a9c90362652478303c42",
       "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
       "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
@@ -142,96 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "China tells Israel to stop 'forced establishment' of West Bank settlements"
-    },
-    {
-      "id": "ad2f1d16b12194886fa899f902d15bc66be9ca58",
-      "title": "Texas Democrat James Talarico faces grilling from voters at town hall in tight Senate race",
-      "summary": "Talarico casts himself as a moderate who would put Texans’ needs over party allegiances amid close contest against Republican Ken PaxtonJames Talarico, the Texas Democratic nominee for Senate, sat face to face with skept…",
-      "url": "https://www.theguardian.com/us-news/2026/oct/15/texas-democrat-james-talarico-televised-town-hall-us-politics",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-15T12:47:29+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Israel’s military campaign in Gaza"
-    },
-    {
-      "id": "dd6f355945e4ab4d17d719964791baa9673b5cc0",
-      "title": "WATCH: Iran And Turkish Delegates Walk Out Of Herzog Speech At Azerbaijan Summit - i24NEWS",
-      "summary": "WATCH: Iran And Turkish Delegates Walk Out Of Herzog Speech At Azerbaijan Summit&nbsp;&nbsp;i24NEWSHerzog flies over Turkey despite ban on Israeli state planes, joins summit alongside Iranian representative&nbsp;&nbsp;Yn…",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUXF3WjN5XzFKMVpTYTUydmQ4OFExX1ZsenRqUm5KQU95LVJfdFB4aXJTZV80elBwNndZd2pVSXpDQ3JJYXpacjJfMldaY3ZhdHpwWHpYejU0UHFDX3NvNHFWWkhVRnBrMFRiLURXa0k5ZkktNnhfYkZieU9zNUFiX2ZPeGR5SERrT215RllhbDVtYmVQUjhlM21YWnNxUG42cmNaYzR1aVRiTzhiU3V3OXpnUGZvLW5RdjFla0hSS0xWdTRVTVE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-15T09:45:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Herzog urges closer ties with Asian nations"
-    },
-    {
-      "id": "626f1c88462603a3f9d3b774e20185f0c84bdb95",
-      "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
-      "summary": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
-      "url": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-15T05:00:23+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "IDF investigations into killings still have no public outcome"
-    },
-    {
-      "id": "43563c1cd3bc8d42f648a924a6785b3de791339c",
-      "title": "Two container ships sink near strait of Hormuz amid surge in Iranian attacks",
-      "summary": "Vessels were hit by missiles as rise in strikes suggests Iran is trying to close waterway before US midterm electionsTwo container ships near the strait of Hormuz have ⁠sunk after being struck by missiles, amid the sharp…",
-      "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-14T17:05:42+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "US-Israel war with Iran"
-    },
-    {
-      "id": "f6897a77380fd2f56b4ba6cbc60aea5db8922f00",
-      "title": "New UK sanctions powers will enable action against supporters of illegal Israeli settlements",
-      "summary": "Global human rights commitments adopted by government extend reach to enablers of unlawful activityThe UK is expanding its sanctions powers to freeze assets and target entities enabling illegal Israeli settlements, obstr…",
-      "url": "https://www.theguardian.com/politics/2026/oct/14/uk-sanctions-powers-action-supporters-israeli-settlements",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-14T16:51:25+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "enablers of illegal Israeli settlements, obstructing humanitarian aid"
-    },
-    {
-      "id": "6048e613819c0e9e0f75f1c10025318e5d738a48",
-      "title": "flydubai Failed, UAE Owes Answers: Ex-Israel Army Spokesperson To NDTV",
-      "summary": "Lt Col Conricus said the flydubai incident will force global aviation authorities to have more rigorous security systems and verification protocols for cockpit staff, which was lacking.",
-      "url": "https://www.ndtv.com/world-news/flydubai-failed-uae-owes-answers-ex-israel-army-spokesperson-to-ndtv-pilot-al-hammami-smit-machchar-12182203#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-14T03:46:22+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Ex-Israel Army Spokesperson... more rigorous security systems"
-    },
-    {
-      "id": "0825fae90344f4cbe5f917317311ba2150c396a9",
-      "title": "Salesforce buys AI analytics startup Loops - MarTech",
-      "summary": "Salesforce buys AI analytics startup Loops&nbsp;&nbsp;MarTechSalesforce Signs Definitive Agreement to Acquire Loops&nbsp;&nbsp;SalesforceSalesforce acquires Israeli startup Loops in deal estimated at $30 million&nbsp;&nb…",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5V3JoVVBma3FIYXlFa01pSDUwTFp4UXJkbzlJZ0MzNkZHVEdhVnZRZ0p5VTRPNk82eUoyWDJRakVabS1VekpxcVppdVRBU2Q4bFpQWWtwX19xS005SVdRQ0RTUmNXVXlsQ2E1Z1l0T1I?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-13T14:55:28+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Salesforce acquires Israeli startup Loops"
-    },
-    {
-      "id": "5d7f8a189b01aad44bfd91d1e7684392c2381cfa",
-      "title": "Palestinian grand mufti calls for boycott of settler olive oil amid harvest season - Arab News",
-      "summary": "Palestinian grand mufti calls for boycott of settler olive oil amid harvest season&nbsp;&nbsp;Arab NewsTwo Palestinians Injured in Settler Attack as Women Detained During West Bank Olive Harvest&nbsp;&nbsp;Middle East Mo…",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdk1mc1BJT1VScEFKS0dkZy1kaTAwYWNPVmJTb0lVYVY0VzYzbmx0N1hCZnZsNXhTT1U5TXdxeUo2T1pfYy04RXo4YnZHZnkzSEUzbUI3UGoyc25QcjhqV2lYV2trNDc3ZGtFa1A2cDFIU01VNEcxMnRXUWJJX0Q4ZUgyampIbUlNWTBtMVMzTVM5bFYwbU5NdEVhM1JCY3E5Uy1GemVET2JIRDduSFF5aGFaZE9Fdl82VkNUN0JoOVBldXIzTVE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-13T14:39:58+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Israeli attacks on West Bank agriculture cause $3mn in losses"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-18T13:15:32Z"
+  "last_updated": "2026-10-19T16:29:15Z"
 }

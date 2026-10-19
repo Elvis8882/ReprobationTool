@@ -3,14 +3,25 @@
   "score": 86,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
-  "sources": 196,
+  "trend": 0,
+  "sources": 195,
   "sentiment": {
     "positive": 13,
     "neutral": 157,
-    "negative": 26
+    "negative": 25
   },
   "latest_articles": [
+    {
+      "id": "3b62a89f066dff57e4772080149a3b8bb22a5698",
+      "title": "Meloni calls emergency meeting after weekend of violent clashes",
+      "summary": "More than 200 people were detained during two days of rioting in the city, Italian media reports.",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-19T11:23:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "weekend of violent clashes"
+    },
     {
       "id": "588d66a1ae3bb80fb035d3b8abeee183e69689a0",
       "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
@@ -43,6 +54,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Rioters loot stores in Milan during cost-of-living protest"
+    },
+    {
+      "id": "f76392c23980e2fc77328ae4db61743351839832",
+      "title": "Vatican Says Pope Leo Will Leave Hospital on Saturday, Days After Lung Surgery",
+      "summary": "Leo XIV had been treated for lung cancer at Gemelli Hospital in Rome.",
+      "url": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-17T10:03:58+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Gemelli Hospital in Rome"
     },
     {
       "id": "277e5050f30ec92f469c0a5cfa6a578800deadc4",
@@ -200,30 +222,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Kean ruled out of Como vs. Roma after Italy injury"
-    },
-    {
-      "id": "02dca47a3414a2eede6c452950bb994f86ffa54e",
-      "title": "30,000 Bottles of Italian Red Wine Stolen in Brazen Tuscan Heist",
-      "summary": "As many as 10 men made off with more than $5 million of first-rate Italian red wine.",
-      "url": "https://www.nytimes.com/2026/10/09/world/europe/wine-heist-italy-marchesi-antinori.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-09T17:33:39+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Italian Red Wine Stolen"
-    },
-    {
-      "id": "ade37664afadfe132fe3c530ddd88e2f9bbfa64e",
-      "title": "Thieves make off with €5m haul from prestigious Italian winery",
-      "summary": "Gang breaks into cellar of Marchesi Antinori in Cortona and loads two trucks with 30,000 bottles before getawayThousands of bottles of wine worth €5m (£4.2m) have been stolen from a prestigious winery in Tuscany in what…",
-      "url": "https://www.theguardian.com/world/2026/oct/09/thieves-make-off-with-haul-from-prestigious-italian-winery-marchesi-antinori",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-09T11:57:49+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "prestigious Italian winery"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-18T13:15:32Z"
+  "last_updated": "2026-10-19T16:29:15Z"
 }

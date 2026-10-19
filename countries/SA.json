@@ -1,16 +1,49 @@
 {
   "country": "SA",
   "score": 1,
-  "score_label": "Negative",
-  "assessment": "High negative coverage",
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 313,
+  "sources": 312,
   "sentiment": {
     "positive": 22,
-    "neutral": 134,
-    "negative": 158
+    "neutral": 136,
+    "negative": 155
   },
   "latest_articles": [
+    {
+      "id": "1b564fcc6958a4105a507c409735021b30589ad5",
+      "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
+      "summary": "Iran-backed Houthi militants have launched repeated volleys of missiles and drones at Saudi Arabia since a deadly airport attack earlier this month.",
+      "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-19T16:17:09+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Iran-backed Houthis escalate attacks on kingdom"
+    },
+    {
+      "id": "0b78cdba8a951211c374b20e12942ea1b19ce270",
+      "title": "Ex-OpenAI Employee Who Planted Device Had Saudi Backing, Court Filing Shows",
+      "summary": "The court filing alleges significant ties between Saudi government and Alfozan.",
+      "url": "https://www.ndtv.com/world-news/ex-openai-employee-who-planted-device-had-saudi-backing-court-filing-shows-12207729#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-19T15:42:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Saudi Backing, Court Filing Shows"
+    },
+    {
+      "id": "e8646dd63b22cf7851c589c0235c7f27e0648649",
+      "title": "People scour strait of Hormuz for spilt cargo after Iran attacks container ships",
+      "summary": "At least 15 vessels struck in waterway in past 10 days, with rumours that they were carrying valuable goodsPeople have been scouring the strait of Hormuz for spilt cargo after Iran attacked at least 15 container ships pa…",
+      "url": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-19T14:48:56+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Saudi port of Jubail"
+    },
     {
       "id": "51e2c9b10e7715656c8c11cc43f6c2323dd49a03",
       "title": "Egypt’s Defense Chiefs Pledge to Support Saudi Arabia After Houthi Attacks",
@@ -21,6 +54,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Support Saudi Arabia After Houthi Attacks"
+    },
+    {
+      "id": "7a758285487fea0ed775512263fba9aed9f73907",
+      "title": "Egypt’s President Says He Will Leave Office in 2030",
+      "summary": "President Abdel Fattah el-Sisi, who has so far ruled for over a dozen years, pledged to respect constitutional limits while also seeking parliamentary approval to help defend Saudi Arabia.",
+      "url": "https://www.nytimes.com/2026/10/17/world/middleeast/egypt-president-el-sisi-term-limits-2030.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-17T18:06:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "help defend Saudi Arabia."
     },
     {
       "id": "9211ba12dec672bc64243120878d12e1d0c22e2b",
@@ -186,52 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Houthi missile hits Aramco building after Saudi-led coalition strike"
-    },
-    {
-      "id": "84fb33bbcccb5a5dc34d039f7fd8e50b270d9dd5",
-      "title": "Saudi Arabia Says It Intercepted Houthi Missile Aimed At Riyadh",
-      "summary": "Most strikes on Saudi Arabia have targeted infrastructure on the outskirts of the capital",
-      "url": "https://www.ndtv.com/world-news/saudi-arabia-says-it-intercepted-houthi-missile-aimed-at-riyadh-12183598#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-14T08:53:04+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "evidence": "Saudi Arabia Says It Intercepted Houthi Missile Aimed At Riyadh"
-    },
-    {
-      "id": "338417843f917adbeb00105d3a3be8631b071944",
-      "title": "18 Deaths, 2 Dozen Strikes, 15,000 sqkm Lost: A Month Of Houthi-Saudi War",
-      "summary": "King Khalid International Airport in Riyadh was hit at least three times in four days",
-      "url": "https://www.ndtv.com/world-news/18-deaths-2-dozen-strikes-15-000-sqkm-lost-a-month-of-houthi-saudi-war-12181183#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-14T06:47:32+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "18 Deaths, 2 Dozen Strikes, 15,000 sqkm Lost: A Month Of Houthi-Saudi War"
-    },
-    {
-      "id": "aa337c25492c7411bf48392fbf6a4094f5efb691",
-      "title": "Saudi employee charged with planting recording device in OpenAI office",
-      "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
-      "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-13T21:42:49+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Saudi employee charged with planting recording device"
-    },
-    {
-      "id": "58b51462ac59495ea7988408df6704b730c9c064",
-      "title": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
-      "summary": "Deadly attacks at Riyadh’s main airport are disrupting airlines, closing airspace and raising new security questions for commercial aviation.",
-      "url": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-13T18:33:42+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Deadly attacks at Riyadh’s main airport"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-18T13:15:32Z"
+  "last_updated": "2026-10-19T16:29:15Z"
 }
