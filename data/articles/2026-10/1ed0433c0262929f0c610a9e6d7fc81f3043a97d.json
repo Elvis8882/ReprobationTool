@@ -13,8 +13,15 @@
   "countries_scored": [
     "IR"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-10-19T16:29:15+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-10-20T14:21:41+00:00",
+  "sentiment_by_country": {
+    "IR": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran says it has a 'new operational plan' if the U.S. resumes attacks"
+    }
+  },
+  "processed_at": "2026-10-20T14:21:41+00:00"
 }

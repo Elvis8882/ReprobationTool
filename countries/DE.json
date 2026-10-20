@@ -1,16 +1,27 @@
 {
   "country": "DE",
-  "score": 24,
+  "score": 25,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -2,
-  "sources": 295,
+  "trend": 1,
+  "sources": 294,
   "sentiment": {
-    "positive": 25,
-    "neutral": 163,
-    "negative": 107
+    "positive": 26,
+    "neutral": 162,
+    "negative": 106
   },
   "latest_articles": [
+    {
+      "id": "f6665aaf2b2a7086a247ef224b9139bb7a9d96cf",
+      "title": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
+      "summary": "Nvidia announced planned investments in four German startups as Chancellor Friedrich Merz urged businesses to embrace AI at an industry summit in Berlin.",
+      "url": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-20T02:16:25+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "German chancellor urges businesses to embrace AI"
+    },
     {
       "id": "b2284d6e2a78983503c6f43c23a2b66c12cde577",
       "title": "France hit by debt sell-off as violent protests unnerve investors",
@@ -212,18 +223,8 @@
       "published_at": "2026-10-12T17:34:40+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "8183caa2e554b091d82588febf497ca1a7e4fb33",
-      "title": "EU to limit Chinese hybrid vehicle imports to 350,000 a year",
-      "summary": "Brussels uses WTO rules to quickly impose quota, which will halve Chinese market share to 3%Business live – latest updatesVW boss backs EU plan to bolster domestic industryThe EU is to limit the number of hybrid electric…",
-      "url": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-12T11:23:55+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-19T16:29:15Z"
+  "last_updated": "2026-10-20T14:21:41Z"
 }

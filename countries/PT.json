@@ -1,16 +1,27 @@
 {
   "country": "PT",
-  "score": 74,
+  "score": 67,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 101,
+  "trend": -7,
+  "sources": 102,
   "sentiment": {
     "positive": 3,
-    "neutral": 96,
-    "negative": 2
+    "neutral": 95,
+    "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "3d0b6a6492c7d9b21f8c7faedb0ffa9ee087b461",
+      "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
+      "summary": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in yearsA dispatch here from Sam Jones, our reporter in Madrid, as protests have spread to Italy and PortugalThe angry protests that have co…",
+      "url": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-18T12:58:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "protests have spread to... Portugal, with... tent encampment springing up in Lisbon"
+    },
     {
       "id": "588d66a1ae3bb80fb035d3b8abeee183e69689a0",
       "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
@@ -21,6 +32,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "tent encampment springing up in Lisbon over the weekend"
+    },
+    {
+      "id": "b61e36c0517dcc4f6ef351a1a7d39c7f3ac70d66",
+      "title": "Season Of Anger: Protests Break Out Across France, Italy, Portugal, US",
+      "summary": "Major protests have been reported from many countries in recent days and weeks",
+      "url": "https://www.ndtv.com/world-news/a-season-of-anger-protests-in-many-nations-around-the-same-time-12201681#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-18T07:03:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Italy, Portugal, US"
     },
     {
       "id": "4a50a29eb00154e58b95f3a8d17e39b85d738633",
@@ -193,29 +215,8 @@
       "published_at": "2026-10-02T05:00:01+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "b151a7e82ddff41a1ad10ea1305ce7cd39c1c9ff",
-      "title": "French high school protests escalate with violence reported – Europe live",
-      "summary": "Authorities have reported dozens of injuries, including from hurled objects but also, in some suspected cases, from police riot-control projectilesThe ⁠EU Commission, France, Italy, Ireland ⁠and ⁠Britain are ​holding a c…",
-      "url": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-01T15:44:56+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "8b7e0501d2b8baee151ddf4e756210e4e80e8233",
-      "title": "Portugal records biggest EU rise in house prices in second quarter - Euronews.com",
-      "summary": "Portugal records biggest EU rise in house prices in second quarter&nbsp;&nbsp;Euronews.comHouse prices and rents continued to rise in Q2 2026&nbsp;&nbsp;European CommissionPortugal sees the largest rise in house prices i…",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb1J5RXlhMzJNRzRBRU43aC1naC16VUFrUkRTb2hOYWY4U25QX0VKSEc2azFfbDBCVDRZT010V3hsX05Vd1JPWnNiMU9yMHhwV2tUZTViYlFkMEUyU2EtSkVEc1JOV3YtNE9iTGx3c3ZSSmllejlhUDctc1BsNTY4a1p0VG1KcUNmN3RpTXBmVTljR0taR2RQSWwwTjlyTjF2OW0xSg?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-01T10:49:25+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Portugal records biggest EU rise in house prices"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-19T16:29:15Z"
+  "last_updated": "2026-10-20T14:21:41Z"
 }

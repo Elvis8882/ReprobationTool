@@ -4,13 +4,46 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 991,
+  "sources": 976,
   "sentiment": {
     "positive": 56,
-    "neutral": 268,
-    "negative": 668
+    "neutral": 264,
+    "negative": 657
   },
   "latest_articles": [
+    {
+      "id": "7d66b331129bf5b477b4322688daa1465dee3f48",
+      "title": "Yemeni City of Taiz Running Out of Essentials as Houthis Close in",
+      "summary": "The Iranian-backed Houthi militia has cut road access to Taiz, one of Yemen’s largest cities, besieging it. Officials there warn of an impending humanitarian disaster.",
+      "url": "https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-20T14:03:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Iranian-backed Houthi militia has cut road access... besieging it."
+    },
+    {
+      "id": "358a5655a25b1262c003d27392a5044aecd7691c",
+      "title": "UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks",
+      "summary": "R.A.F. Typhoon fighter jets will be deployed to protect infrastructure in Saudi Arabia, Britain said, after a spike in attacks by the Iran-backed Houthi militia.",
+      "url": "https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-20T12:34:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Iran-backed Houthi militia"
+    },
+    {
+      "id": "3a6ff0c1b1cc45f114666698ee325c9366e0f967",
+      "title": "Iran Guards Say 2 \"Violating\" Oil Tankers Set Ablaze In Strait Of Hormuz",
+      "summary": "The two tankers were set ablaze.",
+      "url": "https://www.ndtv.com/world-news/iran-guards-say-2-violating-oil-tankers-set-ablaze-in-strait-of-hormuz-12210436#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-20T10:29:31+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Iran Guards Say 2 \"Violating\" Oil Tankers Set Ablaze In Strait Of Hormuz"
+    },
     {
       "id": "1b564fcc6958a4105a507c409735021b30589ad5",
       "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
@@ -54,6 +87,17 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Iran's New Defence Minister Has 42 Years Of Experience"
+    },
+    {
+      "id": "1ed0433c0262929f0c610a9e6d7fc81f3043a97d",
+      "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
+      "summary": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said the country's military has prepared a response to any new attacks.",
+      "url": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-18T13:52:24+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran says it has a 'new operational plan' if the U.S. resumes attacks"
     },
     {
       "id": "4bfc6ae78c400805dccd33a1786a4f27a42b4177",
@@ -186,52 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Iran vows to fight on"
-    },
-    {
-      "id": "733e6acd82cdda2473815b23ba42c73de8d8277a",
-      "title": "Trump returns to Washington amid midterms campaign blitz as new polls reveal voters’s concern about US economy – live",
-      "summary": "Dire polling for Trump’s economy and war in Iran could spell trouble for the Republican Party as it aims to keep control of both chambers of CongressKey US voters say economy is getting worse, poll findsQ&amp;A: Will Tru…",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-15T13:49:11+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "war in Iran"
-    },
-    {
-      "id": "e56b4113512c9da7fd07b95e7775dcae8bd5be0f",
-      "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-      "summary": "Iran has escalated its strikes on commercial ships transiting Hormuz in recent weeks, as it tries to choke off a rebound in crude oil exports.",
-      "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-15T13:30:13+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Iran steps up attacks"
-    },
-    {
-      "id": "dd6f355945e4ab4d17d719964791baa9673b5cc0",
-      "title": "WATCH: Iran And Turkish Delegates Walk Out Of Herzog Speech At Azerbaijan Summit - i24NEWS",
-      "summary": "WATCH: Iran And Turkish Delegates Walk Out Of Herzog Speech At Azerbaijan Summit&nbsp;&nbsp;i24NEWSHerzog flies over Turkey despite ban on Israeli state planes, joins summit alongside Iranian representative&nbsp;&nbsp;Yn…",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUXF3WjN5XzFKMVpTYTUydmQ4OFExX1ZsenRqUm5KQU95LVJfdFB4aXJTZV80elBwNndZd2pVSXpDQ3JJYXpacjJfMldaY3ZhdHpwWHpYejU0UHFDX3NvNHFWWkhVRnBrMFRiLURXa0k5ZkktNnhfYkZieU9zNUFiX2ZPeGR5SERrT215RllhbDVtYmVQUjhlM21YWnNxUG42cmNaYzR1aVRiTzhiU3V3OXpnUGZvLW5RdjFla0hSS0xWdTRVTVE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-15T09:45:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Iran And Turkish Delegates Walk Out Of Herzog Speech"
-    },
-    {
-      "id": "43563c1cd3bc8d42f648a924a6785b3de791339c",
-      "title": "Two container ships sink near strait of Hormuz amid surge in Iranian attacks",
-      "summary": "Vessels were hit by missiles as rise in strikes suggests Iran is trying to close waterway before US midterm electionsTwo container ships near the strait of Hormuz have ⁠sunk after being struck by missiles, amid the sharp…",
-      "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-14T17:05:42+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "surge in Iranian attacks... trying to close waterway"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-19T16:29:15Z"
+  "last_updated": "2026-10-20T14:21:41Z"
 }

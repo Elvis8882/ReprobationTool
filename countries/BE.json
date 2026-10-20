@@ -1,16 +1,27 @@
 {
   "country": "BE",
-  "score": 64,
+  "score": 66,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 114,
+  "trend": 2,
+  "sources": 115,
   "sentiment": {
-    "positive": 4,
+    "positive": 5,
     "neutral": 102,
     "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "9dab936790ae90c6250292541edd25828e430402",
+      "title": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
+      "summary": "Ukrainian president says US limiting access was a ‘dangerous and unpleasant surprise’, amid reports the order came from inside White HouseVolodymyr Zelenskyy has said the Ukrainian military’s access to the Starlink satel…",
+      "url": "https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-16T18:01:19+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Zelenskyy met European leaders on Friday in Brussels"
+    },
     {
       "id": "de00db75434b57a3e5f7f9f4ad8fedcaf44827c1",
       "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
@@ -208,18 +219,8 @@
       "published_at": "2026-10-06T14:38:16+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "0104714cc5e0992f079b00240493828a329db03b",
-      "title": "Understanding Canada’s Europe Pivot",
-      "summary": "You sent us your questions about the prime minister’s plan to form a closer relationship with the European Union. Our Canada bureau chief answers them.",
-      "url": "https://www.nytimes.com/2026/10/03/world/canada/carney-canada-european-union-trade-currency.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-03T10:00:13+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-19T16:29:15Z"
+  "last_updated": "2026-10-20T14:21:41Z"
 }

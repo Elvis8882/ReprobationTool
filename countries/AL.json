@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 9,
+  "sources": 10,
   "sentiment": {
     "positive": 0,
     "neutral": 2,
-    "negative": 7
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "26da7bffb335c5fa03b8961bf53f7cb5386b907e",
+      "title": "Seventh day of violent clashes between Albanian protesters and police",
+      "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-20T02:45:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "violent clashes between Albanian protesters and police"
+    },
     {
       "id": "5d0523b92f170ac97b1163064cc60ee3c4e712d2",
       "title": "Albania accused of rushing through Trump-linked resort in formerly protected landscape",
@@ -112,5 +123,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-19T16:29:15Z"
+  "last_updated": "2026-10-20T14:21:41Z"
 }

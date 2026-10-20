@@ -17,8 +17,25 @@
     "IT",
     "PT"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-10-19T16:29:15+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-10-20T14:21:41+00:00",
+  "sentiment_by_country": {
+    "FR": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Protests Break Out Across France"
+    },
+    "IT": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Across France, Italy, Portugal"
+    },
+    "PT": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Italy, Portugal, US"
+    }
+  },
+  "processed_at": "2026-10-20T14:21:41+00:00"
 }

@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 12,
+  "sources": 13,
   "sentiment": {
     "positive": 0,
     "neutral": 5,
-    "negative": 7
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "b5590346ec5f1c286115634a93091f9090411936",
+      "title": "Serbian prosecutor who investigated Belgrade Trump tower project ‘targeted with spyware’",
+      "summary": "Apparent attempt to hack Rade Bajić’s iPhone comes amid efforts to undermine landmark criminal caseA Serbian prosecutor who investigated the authorities’ allegedly illegal scheme to help the Trumps build a tower in Belgr…",
+      "url": "https://www.theguardian.com/world/2026/oct/20/serbia-prosecutor-belgrade-trump-tower-project-targeted-spyware",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-20T09:00:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "authoritarian Serbian regime’s campaign to undermine... criminal case"
+    },
     {
       "id": "b7ff269fece18d2829c305ff4f2bd92a73983875",
       "title": "Revealed: Serbian ruler’s secret role in ‘illegal’ effort to help Trump business",
@@ -145,5 +156,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-19T16:29:15Z"
+  "last_updated": "2026-10-20T14:21:41Z"
 }

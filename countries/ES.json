@@ -1,16 +1,27 @@
 {
   "country": "ES",
   "score": 47,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 314,
+  "sources": 315,
   "sentiment": {
     "positive": 13,
     "neutral": 225,
-    "negative": 79
+    "negative": 80
   },
   "latest_articles": [
+    {
+      "id": "345880ab1bffab217c782ee8c225f15eb96330c9",
+      "title": "Getting Ziggy with it: David Bowie’s alter egos inspire dance show that will transform his songs",
+      "summary": "Subject to Change: A Dance for David Bowie will explore how the musician ‘practised a form of artistic reincarnation’, says choreographer Marcos Morau‘Let’s dance,” sang David Bowie in 1983, commanding: “Put on your red…",
+      "url": "https://www.theguardian.com/stage/2026/oct/20/david-bowie-dance-marcos-morau",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-20T07:30:19+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Spanish choreographer Marcos Morau"
+    },
     {
       "id": "86b8170b2b7f231b6b76a0f6a1c616f14c20d29b",
       "title": "Catalonia's former rebel president can return to Spain, court rules",
@@ -21,6 +32,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Catalonia's former rebel president can return to Spain"
+    },
+    {
+      "id": "3d0b6a6492c7d9b21f8c7faedb0ffa9ee087b461",
+      "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
+      "summary": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in yearsA dispatch here from Sam Jones, our reporter in Madrid, as protests have spread to Italy and PortugalThe angry protests that have co…",
+      "url": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-18T12:58:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "angry protests that have convulsed Spain"
     },
     {
       "id": "588d66a1ae3bb80fb035d3b8abeee183e69689a0",
@@ -200,30 +222,8 @@
       "published_at": "2026-10-12T11:23:55+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "9a74495f9c194a843f0cd4b98050137a6b76a2b3",
-      "title": "Barcelona head of scouting all but confirms interest in Brazilian defender: ‘Looking for a profile like his’ - Yahoo Sports",
-      "summary": "Barcelona head of scouting all but confirms interest in Brazilian defender: ‘Looking for a profile like his’&nbsp;&nbsp;Yahoo SportsArthur Dias to Tottenham: How He Fits De Zerbi's Defence&nbsp;&nbsp;The False 9Barcelona…",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT2V5WjZhNUc1Mk9rVk1nSFpzVUgwWjVIUzg1QnB2bTNwQkNjSnU1UGFtNmRKT0pCLWdvU0FJZGVIWmpXWks3TVFYMjdBRFZZZU8wY2ZHWDd2V2ZrYkJWWVdMbUpzZHRxekpDX0hkYVRPaFA1a1cxSzlPWWxkTzB2azV5a1oyd1E3bnFIZVVNMXlnUUpV?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-11T13:40:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Barcelona head of scouting all but confirms interest"
-    },
-    {
-      "id": "2907b7cc8fe8759cc2ed70afc73290d17168747a",
-      "title": "Spain’s Protesters See ‘Madness’ of Rising Rent and a ‘Martyr’ in Maricarmen",
-      "summary": "Thousands of protesters marched in Madrid on Thursday, a day after the death of María del Carmen Abascal, an 87-year-old whose eviction became a symbol of the country’s housing crisis.",
-      "url": "https://www.nytimes.com/2026/10/08/world/europe/spain-protests-maricarmen-housing.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-08T21:27:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Spain’s Protesters See ‘Madness’ of Rising Rent"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-19T16:29:15Z"
+  "last_updated": "2026-10-20T14:21:41Z"
 }
