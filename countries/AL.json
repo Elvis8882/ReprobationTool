@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 10,
+  "sources": 11,
   "sentiment": {
     "positive": 0,
-    "neutral": 2,
+    "neutral": 3,
     "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "7f114bb51a78bc1fa9660a7db3622a1073aecad6",
+      "title": "‘A powerful warning’: will Europe’s angry protests lead to real political change?",
+      "summary": "Hamstrung governments seem to have no answer to the public’s furious demands, making further discontent likelyEurope live – latest updatesIn France, it was the piles of wheelie bins stacked up against school entrances th…",
+      "url": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-21T09:00:03+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "clashes have convulsed Albania’s capital of Tirana"
+    },
     {
       "id": "26da7bffb335c5fa03b8961bf53f7cb5386b907e",
       "title": "Seventh day of violent clashes between Albanian protesters and police",
@@ -123,5 +134,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-21T14:34:23Z"
+  "last_updated": "2026-10-22T14:36:12Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "JO",
-  "score": 88,
+  "score": 87,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 1,
-  "sources": 28,
+  "trend": -1,
+  "sources": 29,
   "sentiment": {
     "positive": 2,
     "neutral": 8,
-    "negative": 18
+    "negative": 19
   },
   "latest_articles": [
+    {
+      "id": "286892780cea69df0bcc9f869f0c079f386dede8",
+      "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+      "summary": "Similar withdrawals from UAE, Jordan, Qatar and Bahrain reported as concerns grow about restart of war on Iran after US midterm electionsThe US state department has ordered some diplomats and the families of US governmen…",
+      "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-22T13:05:30+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Similar withdrawals from UAE, Jordan, Qatar and Bahrain reported"
+    },
     {
       "id": "f4e89a8c24370f1396400f231f4ca1206de067e3",
       "title": "What we know so far about alleged stabbing of pilot by co-pilot on flight to Israel",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Jordan is convening an emergency meeting"
-    },
-    {
-      "id": "9627a21672f013ed6a8320a940e9492623bb6362",
-      "title": "Middle East crisis live: Jordan says it foiled Iranian missile attack as US launches ‘heavy’ strikes on Iran after pause",
-      "summary": "Jordanian military says it intercepted five missiles targeting the kingdom after US military says it hit dozens of Revolutionary Guard targets on ThursdayUS launches fresh strikes on Iran after days-long pause, amid fear…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
-      "source": "World news - The Guardian",
-      "published_at": "2026-07-30T10:36:31+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Jordan says it foiled Iranian missile attack"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-21T14:34:23Z"
+  "last_updated": "2026-10-22T14:36:12Z"
 }

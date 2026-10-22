@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 13,
+  "sources": 14,
   "sentiment": {
     "positive": 0,
     "neutral": 5,
-    "negative": 8
+    "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "678236f77b9e746b14f53eaf21bc1db4f6a83a68",
+      "title": "Serbian Election Underscores the Region’s Long Political Limbo",
+      "summary": "Aleksandar Vucic, Serbia’s dominant political figure since 2012, may extend his grip, using the Balkans’ unresolved nationalist resentments.",
+      "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-22T09:01:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "using the Balkans’ unresolved nationalist resentments"
+    },
     {
       "id": "b5590346ec5f1c286115634a93091f9090411936",
       "title": "Serbian prosecutor who investigated Belgrade Trump tower project ‘targeted with spyware’",
@@ -156,5 +167,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-21T14:34:23Z"
+  "last_updated": "2026-10-22T14:36:12Z"
 }
