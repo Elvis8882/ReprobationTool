@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 956,
+  "sources": 937,
   "sentiment": {
-    "positive": 57,
-    "neutral": 266,
-    "negative": 635
+    "positive": 56,
+    "neutral": 260,
+    "negative": 623
   },
   "latest_articles": [
+    {
+      "id": "46165f3ed7c16f4037e5778ad10c9279390123a7",
+      "title": "Brent crude tops $112 after Trump says no negotiations with Iran, something will happen 'fairly soon'",
+      "summary": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
+      "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-22T14:10:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Middle East conflict could flare up again... strikes against Iran"
+    },
     {
       "id": "37b61fd13ffd89cdcd25ae69f91e7712712fe3ed",
       "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
@@ -76,6 +87,17 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "escalation may not wait long after that"
+    },
+    {
+      "id": "fb1b0ba1107ed438b38f913930c740394a598376",
+      "title": "Besieged Yemeni city on verge of ‘unmanageable’ crisis, aid workers warn",
+      "summary": "Water and fresh food running out in Taiz as fighting intensifies and Houthi advance cuts off most supply routesThe humanitarian crisis in the besieged Yemeni city of Taiz is becoming unmanageable as the city runs out of…",
+      "url": "https://www.theguardian.com/world/2026/oct/21/besieged-yemeni-city-taiz-houthis-humanitarian-crisis-aid-workers",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-21T14:24:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran-allied Houthi forces have largely encircled the city"
     },
     {
       "id": "a391135e8393271df9f5685aaa287242e4cebf6f",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "What Trump's 'Mother Of All Bombs' Could Actually Do To Iran"
-    },
-    {
-      "id": "1b564fcc6958a4105a507c409735021b30589ad5",
-      "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-      "summary": "Iran-backed Houthi militants have launched repeated volleys of missiles and drones at Saudi Arabia since a deadly airport attack earlier this month.",
-      "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-19T16:17:09+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Iran-backed Houthis escalate attacks on kingdom"
-    },
-    {
-      "id": "99abdaee01dc075a4b9575a2f8126d47e6c15695",
-      "title": "Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say",
-      "summary": "The Iranian-backed militia struck with ballistic missiles deep in government-held central Yemen, in what appeared to be among the deadliest attacks of the renewed war.",
-      "url": "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-19T15:26:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "The Iranian-backed militia struck with ballistic missiles"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-22T14:36:12Z"
+  "last_updated": "2026-10-23T14:19:18Z"
 }

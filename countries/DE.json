@@ -1,16 +1,49 @@
 {
   "country": "DE",
-  "score": 25,
+  "score": 24,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 286,
+  "trend": -1,
+  "sources": 290,
   "sentiment": {
     "positive": 25,
-    "neutral": 155,
-    "negative": 106
+    "neutral": 158,
+    "negative": 107
   },
   "latest_articles": [
+    {
+      "id": "cd3decac8440bbf5ebf4348642e0ca6f5b7b907b",
+      "title": "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
+      "summary": "The word on the ground from Nvidia's GTC conference in Berlin.",
+      "url": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-23T12:08:30+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Nvidia's GTC conference in Berlin"
+    },
+    {
+      "id": "0eed5b1118a280f8a23a0b38a02a118991e48d9e",
+      "title": "A rare 1800s Washington folk art drawing, hidden for 60 years, sold at auction for $226,600",
+      "summary": "A remarkable early 19th-century folk art piece, showcasing George Washington, has achieved a staggering auction price of $226,600 after lying dormant for 60 years. This striking artwork embodies the fraktur tradition of…",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-the-early-1800s-a-pennsylvania-artist-painted-george-washington-and-a-13-star-eagle-on-a-bookplate-after-over-60-years-in-a-private-collection-it-emerged-from-a-manila-folder-and-sold-for-226600/articleshow/135143813.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-10-23T12:07:02+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Pennsylvania German heritage"
+    },
+    {
+      "id": "676bfadc26ed9503f9af4ec7df93ff33f789d977",
+      "title": "Leaked trove reveals extent of far-right AfD’s efforts to court Trump and Maga allies",
+      "summary": "Exclusive: Documents show German party’s scramble to request support after president’s 2016 election win and co-leader’s pursuit of Steve BannonA data leak from Germany’s far-right German Alternative für Deutschland (AfD…",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-afd-maga-allies",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-23T11:07:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Leaked trove reveals extent of far-right AfD’s efforts to court Trump"
+    },
     {
       "id": "7781a36970df557c368f29c8a522ab55999244a6",
       "title": "EU and Western Balkan partners deepen research and innovation cooperation to support EU integration - European Commission",
@@ -18,6 +51,27 @@
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQcG56LUIzZkZueWF2RTNXdWtVZWw2Xy12V1MyMHpWZjctTUdaRXlfVmdwQ2VxcUJ1akN6Ynl2ZW1LbllDVU9lSFhKSTZGNkplU2ZvRTdPbHJHQmotVkEzRElwLURsaTV5amxOQ2JvTElfUVVvbm9NSnJybE5Ka0FYTE51dXg5S2otN19kUW93Um94SVlMZlFTU1BwZnZxT3VvSG5BNDNDd2FSYzlUYkx2bjZBaFV4VXYwcEQzQURkeXpOQi15QkpzUFd0ZnlLMHI0cTBiZjFicGY5Rm5vUWtYRFVCNlBScE1QSlRfWk4weVdwa3ppZlhBN3RjTl9xdWVzTFhrOW1oSGpHVGRCQTM5eEhYRjh6OS1HdzFLR2dB?oc=5",
       "source": "Top stories - Google News",
       "published_at": "2026-10-22T11:57:30+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "5284405ffb4dab96981420de964632bb309e9a80",
+      "title": "Russia 'is boiling the frog.' Minister on attacks on NATO countries - Defence24.com",
+      "summary": "Russia 'is boiling the frog.' Minister on attacks on NATO countries&nbsp;&nbsp;Defence24.comLatvian official warns Russia 'tempted to test' European readiness, sounds alarm over border issues&nbsp;&nbsp;Breaking DefenseL…",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOajRrR0VUOF81UUg4QUU5bzlpd1RiRV9BdXVqUWw5MWFMRzcxbUV3eGh3UGplOUxpNHl2VmNqazB1VWtmS09FbmJFVF9KYUd3aHRINU84TlhPbUZGU3V4TWFXMk5xOWw3N1pnblNLS285d0tNNnJaWGJPQWlqUXNzNE1OOVpJS1VUcWFMajBwcExvZTdqZndEX2dXbURkSENVdm00?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-10-22T08:24:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "DER SPIEGEL - The German View"
+    },
+    {
+      "id": "87f0db5c8b6e024e35155d0e5fb52864c2f9d36f",
+      "title": "Government debt at 88.8% of GDP in euro area - European Commission",
+      "summary": "Government debt at 88.8% of GDP in euro area&nbsp;&nbsp;European CommissionEuro under pressure: Europe’s debt and growth dilemma&nbsp;&nbsp;Daily SabahEurope's Bigger Risk: When Weak Growth Collides With Rising Borrowing…",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wb2FWNEpvMW9yOGdDZkc1alpxRlBBeTFpYlp4MUZXVEhjaTVLelQxTlJUSnR6QjA4ckNpMEpoWHRuTFB2allqZWpqYVlXbEY2d2JEcDhzQ0ZZZHpDMDVzM0dzc1Zoc28xX0FZdDlad3BmZGZMYVYxNkgyZENsNE0?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-10-21T09:24:17+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -169,61 +223,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Jasper Wieck, Germany's India Envoy"
-    },
-    {
-      "id": "881c1b6b773845dbb7f44fc427971f1e162fff9d",
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
-      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-14T13:41:51+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines"
-    },
-    {
-      "id": "e7415c964eefd02508be6effb58dd8eeda8e836d",
-      "title": "EU says ‘no indication’ intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power – Europe live",
-      "summary": "European Commission declined to comment on reported disruption to Starlink’s services in UkraineUkrainian soldiers have access to Starlink satellite internet restrictedRutte gets asked “is Russia foolish enough to consid…",
-      "url": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-14T13:40:28+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "5e96e0c83a6975a059cc398c57870f78b6c3c8b3",
-      "title": "‘Very risky choice’: Meloni warns US-Russia diesel deal could help fund Ukraine war",
-      "summary": "Giorgia Meloni has expressed concerns about the US agreement with Russia regarding diesel supplies during her parliament address. She believes the deal could financially aid Russia's war efforts in Ukraine. Meloni urged…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/very-risky-choice-italys-meloni-warns-us-russia-diesel-deal-could-help-fund-war-in-ukraine/articleshow/134941715.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-10-14T11:59:17+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "96dce22393e1ef7ab37bc6b4327849f7a3b9ea48",
-      "title": "Nuremberg Airport in Germany Is Briefly Shut by False Alarm of Hijacking",
-      "summary": "German police said they had determined there was “no danger” after a plane mistakenly transmitted a code suggesting a possible hijacking onboard.",
-      "url": "https://www.nytimes.com/2026/10/13/world/europe/germany-flight-nuremberg.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-13T16:08:04+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "German police said they had determined there was “no danger”"
-    },
-    {
-      "id": "c191b5454773c29cd7cf527b83dda5d42f8e9f7c",
-      "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – as it happened",
-      "summary": "Ukraine’s president says his country has halted strikes on Russian oil refineries for two days after Trump’s energy ceasefire announcementOn frozen Russian assets, Poland’s Sikorski says the use of frozen Russian assets…",
-      "url": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-13T15:54:55+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "the German government is is backing the Ukrainian government... completely."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-22T14:36:12Z"
+  "last_updated": "2026-10-23T14:19:18Z"
 }

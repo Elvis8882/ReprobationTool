@@ -4,13 +4,35 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 526,
+  "sources": 521,
   "sentiment": {
     "positive": 12,
-    "neutral": 189,
-    "negative": 326
+    "neutral": 188,
+    "negative": 322
   },
   "latest_articles": [
+    {
+      "id": "c0e79d37fc6fb2a84d0d4e4a637783cee37dab7d",
+      "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+      "summary": "The Israeli military said two soldiers had been killed, and Prime Minister Benjamin Netanyahu threatened to launch a major offensive in the Israeli-occupied territory.",
+      "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-23T13:58:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "threatened to launch a major offensive in the Israeli-occupied territory"
+    },
+    {
+      "id": "7718246191f00e579f72e802cf6d58b797b8a66f",
+      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+      "summary": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-23T12:48:52+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Two Israeli soldiers killed in attack"
+    },
     {
       "id": "0c142a1059849c95b1d397704da653daf3699908",
       "title": "Netanyahu denies report that Trump blocked planned Israeli strike on October 10",
@@ -98,6 +120,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "US-Israeli airstrikes and Tehran’s attacks on shipping"
+    },
+    {
+      "id": "182da20842556ee5cadd7ec01c89d0aaf501dccd",
+      "title": "Fifth foreign firm pulls out of controversial Israeli cable car project to East Jerusalem",
+      "summary": "Rights groups say the planned 1.4km route, which ends at compound run by far-right settler group Elad, will displace Palestinians and reshape the cultural landscapeA fifth foreign company has pulled out of a plan to buil…",
+      "url": "https://www.theguardian.com/world/2026/oct/21/fifth-firm-pulls-out-israeli-cable-car-project-east-jerusalem",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-21T04:00:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "controversial Israeli cable car project... will displace Palestinians and reshape cultural landscape"
     },
     {
       "id": "b4dbadab8632a6758f8ce4bf5c7e2c772c79dc67",
@@ -197,41 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Palestinians in Gaza... Trump-brokered ceasefire"
-    },
-    {
-      "id": "5644ca85b6142e6f8902faecb8e4ac7a328dc3f3",
-      "title": "'Can Plumber Land Aircraft'? flydubai Indian Pilot On Role Of Israeli Hero",
-      "summary": "Machchhar remembered later being hauled out of the cockpit amid \"chaos and commotion\"",
-      "url": "https://www.ndtv.com/world-news/can-plumber-land-aircraft-flydubai-indian-pilot-on-role-of-israeli-hero-12205096#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-19T08:32:45+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Israeli Hero"
-    },
-    {
-      "id": "c48fb63bbf087d730a44b701dc965a151460e896",
-      "title": "Netanyahu Calls For Stronger India Ties, Fears Future US Hostility For Israel",
-      "summary": "In May, the Israeli PM said that his country enjoys a \"unique relationship\" with \"huge power\" India",
-      "url": "https://www.ndtv.com/world-news/netanyahus-reliance-on-india-ties-amid-thinning-us-support-for-israel-12205387#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-19T07:58:47+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Netanyahu Calls For Stronger India Ties"
-    },
-    {
-      "id": "555308cc61752aa7ab165c97ae9fbfcf665d7e4f",
-      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
-      "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
-      "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-19T06:29:55+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Bomb threat forces Israel to Austria flight"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-22T14:36:12Z"
+  "last_updated": "2026-10-23T14:19:18Z"
 }
