@@ -1,14 +1,14 @@
 {
   "country": "BG",
-  "score": 67,
+  "score": 66,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 98,
+  "trend": -1,
+  "sources": 99,
   "sentiment": {
     "positive": 5,
     "neutral": 86,
-    "negative": 7
+    "negative": 8
   },
   "latest_articles": [
     {
@@ -30,6 +30,17 @@
       "published_at": "2026-10-21T09:24:17+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "995a49d363b343d79ba509b265999d61da0b9126",
+      "title": "Fire at Starlink Center in Lithuania Was Sabotage, Officials Say",
+      "summary": "The fire, which did not seriously damage the network, came after similar incidents in Bulgaria and Poland involving the satellite internet provider, a key defense tool for Ukraine’s armed forces.",
+      "url": "https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-19T15:48:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "similar incidents in Bulgaria and Poland involving the satellite internet provider"
     },
     {
       "id": "b9fb054647353c295b3ec875741bee55dc1ae311",
@@ -206,18 +217,8 @@
       "published_at": "2026-10-07T09:28:07+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "8b9ea6e6d4ed62b7236cc1d5c4e303c084236cc2",
-      "title": "Europe’s Trade Tensions With China Are Coming to a Head",
-      "summary": "The European Union is weighing tougher trade measures as negotiators prepare to meet Chinese officials in Beijing, with surging exports from China pressuring key industries in Europe.",
-      "url": "https://www.nytimes.com/2026/10/07/business/china-europe-trade-issues.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-07T09:06:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-23T14:19:18Z"
+  "last_updated": "2026-10-24T13:21:46Z"
 }

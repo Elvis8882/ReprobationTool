@@ -1,16 +1,38 @@
 {
   "country": "DE",
-  "score": 24,
+  "score": 29,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
-  "sources": 290,
+  "trend": 5,
+  "sources": 284,
   "sentiment": {
     "positive": 25,
     "neutral": 158,
-    "negative": 107
+    "negative": 101
   },
   "latest_articles": [
+    {
+      "id": "1420b454f28905e534bb7954d8df179245367cf4",
+      "title": "‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire",
+      "summary": "The police said on Saturday that the structure, a tourist attraction for decades, was probably not salvageable. A man was arrested in connection with the blaze.",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-24T11:10:50+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire"
+    },
+    {
+      "id": "cc84288b4a7b225d1a9e3ac7f82d01ac3ecae870",
+      "title": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
+      "summary": "About 200 firefighters deployed to tackle blaze at former Nazi mountain retreat in remote part of southern GermanyGerman police have arrested a suspect after a fire ripped through Adolf Hitler’s former mountain retreat i…",
+      "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-24T10:04:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria"
+    },
     {
       "id": "cd3decac8440bbf5ebf4348642e0ca6f5b7b907b",
       "title": "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
@@ -202,29 +224,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "3 Indians Killed In Germany Fire"
-    },
-    {
-      "id": "f50f2d475f5891f9f8a74b9425071927772619f6",
-      "title": "Meet Jean-Eric Paquet, EU Ambassador Set To Speak At NDTV World Summit 2026",
-      "summary": "Paquet was Deputy Secretary-General of the European Commission",
-      "url": "https://www.ndtv.com/world-news/meet-jean-eric-paquet-eu-ambassador-set-to-speak-at-ndtv-world-summit-2026-12184510#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-15T05:59:26+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "38aa6ee7ec4f718641ab7eb45eb97304fdd1f3da",
-      "title": "NDTV World Summit 2026: Meet Jasper Wieck, Germany's India Envoy",
-      "summary": "Wieck came to India in 2017 as Deputy Head of Mission at the German Embassy in New Delhi.",
-      "url": "https://www.ndtv.com/world-news/ndtv-world-summit-2026-meet-jasper-wieck-germanys-india-envoy-12184491#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-15T05:42:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Jasper Wieck, Germany's India Envoy"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-23T14:19:18Z"
+  "last_updated": "2026-10-24T13:21:46Z"
 }

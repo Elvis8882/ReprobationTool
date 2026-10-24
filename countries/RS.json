@@ -1,16 +1,27 @@
 {
   "country": "RS",
-  "score": 55,
+  "score": 57,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 14,
+  "trend": 2,
+  "sources": 15,
   "sentiment": {
-    "positive": 0,
+    "positive": 1,
     "neutral": 5,
     "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "c4c48ac6498255104cb2f3085d4bd1ba5ecb8fe8",
+      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+      "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-23T23:08:23+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Student List has emerged from almost two years of anti-corruption protests"
+    },
     {
       "id": "678236f77b9e746b14f53eaf21bc1db4f6a83a68",
       "title": "Serbian Election Underscores the Region’s Long Political Limbo",
@@ -167,5 +178,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-23T14:19:18Z"
+  "last_updated": "2026-10-24T13:21:46Z"
 }

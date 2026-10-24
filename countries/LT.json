@@ -1,14 +1,14 @@
 {
   "country": "LT",
-  "score": 100,
+  "score": 99,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 142,
+  "trend": -1,
+  "sources": 143,
   "sentiment": {
     "positive": 26,
     "neutral": 103,
-    "negative": 13
+    "negative": 14
   },
   "latest_articles": [
     {
@@ -63,6 +63,17 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "Lithuanian President Meets Polish Prime Minister in Warsaw"
+    },
+    {
+      "id": "995a49d363b343d79ba509b265999d61da0b9126",
+      "title": "Fire at Starlink Center in Lithuania Was Sabotage, Officials Say",
+      "summary": "The fire, which did not seriously damage the network, came after similar incidents in Bulgaria and Poland involving the satellite internet provider, a key defense tool for Ukraine’s armed forces.",
+      "url": "https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-19T15:48:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Fire at Starlink Center in Lithuania Was Sabotage"
     },
     {
       "id": "b9fb054647353c295b3ec875741bee55dc1ae311",
@@ -208,18 +219,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Strong winds leave 2,900 customers without power in Lithuania"
-    },
-    {
-      "id": "be23509539f3b7afc96acd2ce4045d420cc0403f",
-      "title": "Latvian book exhibition opens at European Parliament / Article - LSM",
-      "summary": "Latvian book exhibition opens at European Parliament / Article&nbsp;&nbsp;LSM",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN2tta2Vkd2pvS3FVY2MxOENXNlFyV1R5UVF6RFZfdno4QWpreW16RlpuV3BKR3BLekhVZThGc085YWxkMFg1QkpsSFBBWFBrYWQ3VF9SbE9xWXl3N3dPZjBMVjU1cnpnNXRtX21Nb18tbUlBVGJjeDJ4V3VjU05nX0RMcVRCT3l3YXhwcUhKcVNkb0dkMldidkdoajgtb1NqbGltbzRpRUpRcktfdlBnN3l5bEphbzhFYnc?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-08T06:56:13+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-23T14:19:18Z"
+  "last_updated": "2026-10-24T13:21:46Z"
 }

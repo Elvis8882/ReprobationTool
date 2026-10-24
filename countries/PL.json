@@ -1,14 +1,14 @@
 {
   "country": "PL",
-  "score": 91,
+  "score": 90,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 134,
+  "trend": -1,
+  "sources": 135,
   "sentiment": {
     "positive": 11,
     "neutral": 105,
-    "negative": 18
+    "negative": 19
   },
   "latest_articles": [
     {
@@ -52,6 +52,17 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "Polish Prime Minister in Warsaw"
+    },
+    {
+      "id": "995a49d363b343d79ba509b265999d61da0b9126",
+      "title": "Fire at Starlink Center in Lithuania Was Sabotage, Officials Say",
+      "summary": "The fire, which did not seriously damage the network, came after similar incidents in Bulgaria and Poland involving the satellite internet provider, a key defense tool for Ukraine’s armed forces.",
+      "url": "https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-19T15:48:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "similar incidents in Bulgaria and Poland involving the satellite internet provider"
     },
     {
       "id": "ee9caab227cfe04b8bdd99af89c86640d306584e",
@@ -208,19 +219,8 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "Poland detains man suspected of planning assassination of PM Tusk"
-    },
-    {
-      "id": "14570dd0460a78b67350ab851351287afa714164",
-      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
-      "summary": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
-      "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-11T15:18:52+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Poland stabbings driven by online glorification of violence"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-23T14:19:18Z"
+  "last_updated": "2026-10-24T13:21:46Z"
 }
