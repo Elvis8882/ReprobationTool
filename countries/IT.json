@@ -1,16 +1,59 @@
 {
   "country": "IT",
-  "score": 84,
+  "score": 83,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 193,
   "sentiment": {
     "positive": 12,
-    "neutral": 153,
-    "negative": 28
+    "neutral": 152,
+    "negative": 29
   },
   "latest_articles": [
+    {
+      "id": "5acb92b3c272172c9a2dad7572e8397e372616e6",
+      "title": "Protests engulf Europe: People take to streets in France, Albania, Italy, Spain, Portugal",
+      "summary": "Thousands of people protested across Europe over the weekend, demanding action against rising living costs and government corruption. Demonstrations were reported in France, Italy, Albania, Spain, and Portugal, with vary…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/europe-spring-protests-engulf-continent-as-people-take-to-streets-in-france-albania-italy-spain-portugal/articleshow/135185017.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-10-25T07:02:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Thousands of people protested across Europe... varying degrees of violence"
+    },
+    {
+      "id": "97154c53282e48515e31f7c293591eee11278d47",
+      "title": "Over 5,000 Soldiers Guard Milan As Thousands March Across Italian Cities",
+      "summary": "In Milan, huge crowds of mostly young people gathered as night fell.",
+      "url": "https://www.ndtv.com/world-news/over-5-000-soldiers-guard-milan-thousands-march-across-italian-cities-milan-rome-europe-12231895#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-25T02:34:43+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Over 5,000 Soldiers Guard Milan As Thousands March Across Italian Cities"
+    },
+    {
+      "id": "2551e4e2007999c79bae777ca0f6eb67e0eab69c",
+      "title": "Estonia passes the presidency of the Baltic Assembly to Lithuania",
+      "summary": "At the 45th&nbsp;Session of the Baltic Assembly, held&nbsp;in Tallinn, Estonia, members of the parliaments of the three Baltic States adopted a Resolution in which they emphasized, among other things, that the 35th&nbsp;…",
+      "url": "https://eng.lsm.lv/article/politics/diplomacy/24.10.2026-estonia-passes-the-presidency-of-the-baltic-assembly-to-lithuania.a668941/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "source": "LSM (English)",
+      "published_at": "2026-10-24T15:13:37+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "85a48481e4d46bd152b6423e45e2316a822e896a",
+      "title": "Thousands march in Paris as protests take place across Europe – Europe live",
+      "summary": "French police have made 135 arrests, while Italian officers have raided homes in Milan, with protests also taking place in Spain and AlbaniaJesse, 40, a charity worker from the north of Paris, had turned out for the stre…",
+      "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-24T12:54:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Italian officers have raided homes in Milan"
+    },
     {
       "id": "34c8d4ae195b068b3b2512c997d09d86eebf80d6",
       "title": "Rome MIA Market Takeaways, From Netflix Firings to Italian Slump - Variety",
@@ -183,50 +226,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Rioters loot stores in Milan during cost-of-living protest"
-    },
-    {
-      "id": "f76392c23980e2fc77328ae4db61743351839832",
-      "title": "Vatican Says Pope Leo Will Leave Hospital on Saturday, Days After Lung Surgery",
-      "summary": "Leo XIV had been treated for lung cancer at Gemelli Hospital in Rome.",
-      "url": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-17T10:03:58+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Gemelli Hospital in Rome"
-    },
-    {
-      "id": "277e5050f30ec92f469c0a5cfa6a578800deadc4",
-      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-      "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
-      "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-16T23:54:35+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Italian minister tells BBC"
-    },
-    {
-      "id": "4a50a29eb00154e58b95f3a8d17e39b85d738633",
-      "title": "ERA Living Guidelines on the responsible use of Generative AI in research updated - European Commission",
-      "summary": "ERA Living Guidelines on the responsible use of Generative AI in research updated&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSnd3VVhSRnJwRUJPU3FpQ1AtZTY5dFo3ZkFLVVBERjFQOTVyeElyS3FERHBLYkI2NUcwNGF5ajdKTDdEeUUwLUhyRWhsaVZmZV84dFZGYXRoRmJzOUlLY1ZfU1piVE9hb05CMnY2cmlkTEM2OXc2Nkw2LVZpYnRjeUstQUEwUmRkbTdoRHRfRC1xNTRVeTlfLTB3TGpMeEF4RkpxOVFzbDFTbUZROHZfQ0lQX1pEUDhSSGo3NVFaQm5RLWF2eWpPZGhCdUZMWFZTaC11WjAtMlQ5M0ZGZUFJRnBrc1lSY1FYX3lkWjBvc1lHckg5LUFieA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-16T11:26:19+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "6a9be0b914fd2632581d1da78e971901daa3b244",
-      "title": "First Thing: Three young children killed in Oregon elementary school shooting",
-      "summary": "Attacker also killed a teacher and was shot dead by a community member. Plus, NAZA film-makers describe Israel’s attempts to retaliateDon’t already get First Thing in your inbox? Sign up hereGood morning. A 16-year-old s…",
-      "url": "https://www.theguardian.com/us-news/2026/oct/16/first-thing-three-young-children-killed-in-oregon-elementary-school-shooting",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-16T11:07:08+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-24T13:21:46Z"
+  "last_updated": "2026-10-25T13:47:39Z"
 }

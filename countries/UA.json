@@ -4,13 +4,68 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 652,
+  "sources": 658,
   "sentiment": {
     "positive": 230,
-    "neutral": 108,
-    "negative": 315
+    "neutral": 110,
+    "negative": 319
   },
   "latest_articles": [
+    {
+      "id": "2f7ad053a046a014db2527e3f6148f2f002e0cc4",
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-25T09:00:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "SpaceX restricted Ukraine's Starlink connection as service restored"
+    },
+    {
+      "id": "5ea50f26ff13ac88f557a5116b3a47b0e93a2a90",
+      "title": "Ukraine drone attacks kill three, injure 14 in Russia’s Belgorod region",
+      "summary": "A drone strike carried out by Ukrainian forces hit Belgorod, leading to two confirmed deaths and injuring at least 13 people. Local officials highlighted significant destruction to housing, vehicles, and local infrastruc…",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/ukraine-drone-attacks-kill-three-injure-14-in-russias-belgorod-region/articleshow/135186534.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-10-25T08:25:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "escalating along the Russia-Ukraine border"
+    },
+    {
+      "id": "c8d839f31aa658bccdd4401b6f81cb57c0d8707a",
+      "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+      "summary": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet.",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-25T05:45:31+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Ukraine needs another satellite internet service"
+    },
+    {
+      "id": "67efb573cd485ba5c790e9dba1e540227db2059f",
+      "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+      "summary": "But Elon Musk, whose company SpaceX owns Starlink, accuses Ukrainian military of violating ⁠the company’s termsUkraine’s military has a “stable connection to Starlink”, the Ukrainian government said, 10 days after its ab…",
+      "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-24T21:25:58+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.8,
+      "evidence": "connection stable... accused Ukrainian military of violating terms"
+    },
+    {
+      "id": "2551e4e2007999c79bae777ca0f6eb67e0eab69c",
+      "title": "Estonia passes the presidency of the Baltic Assembly to Lithuania",
+      "summary": "At the 45th&nbsp;Session of the Baltic Assembly, held&nbsp;in Tallinn, Estonia, members of the parliaments of the three Baltic States adopted a Resolution in which they emphasized, among other things, that the 35th&nbsp;…",
+      "url": "https://eng.lsm.lv/article/politics/diplomacy/24.10.2026-estonia-passes-the-presidency-of-the-baltic-assembly-to-lithuania.a668941/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "source": "LSM (English)",
+      "published_at": "2026-10-24T15:13:37+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "urged the member states of the European Union and NATO to strengthen all necessary support for Ukraine."
+    },
     {
       "id": "b911a918838af32a0397704f1fa0cd68466e310e",
       "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
@@ -56,6 +111,17 @@
       "evidence": "Ukraine drone attacks cut power and water in Crimea, hit Russian petrochemical plant"
     },
     {
+      "id": "92a5ebab95f859a74527ac461e053ad2d8900064",
+      "title": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
+      "summary": "The United States once declared that Ukraine’s fight was the front line in a global battle for freedom. Now the Trump administration is sending money to Moscow.",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-24T09:03:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Ukraine’s Feeling of Moral Whiplash"
+    },
+    {
       "id": "f8deac049ef3f2c702051ee48cb912d087bec4c0",
       "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
       "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
@@ -65,6 +131,28 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "truce in Russian-occupied Oleshky, where residents have had to eat garden weeds"
+    },
+    {
+      "id": "a14a58cb665e96fe2087c27cf01f494985968461",
+      "title": "US Asked Musk For Years To Alter Starlink Service In Ukraine, Middle East: Report",
+      "summary": "A Ukrainian serviceman of 47th brigade prepares a Starlink satellite internet systems",
+      "url": "https://www.ndtv.com/world-news/us-asked-elon-musk-for-years-to-alter-starlink-service-in-ukraine-middle-east-report-12228449#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-24T04:18:16+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Alter Starlink Service In Ukraine"
+    },
+    {
+      "id": "674cb007261db711aedf20c648e29dc6a648c913",
+      "title": "The Myth of Inevitable Russian Victory over Ukraine - Institute for the Study of War",
+      "summary": "The Myth of Inevitable Russian Victory over Ukraine&nbsp;&nbsp;Institute for the Study of WarRussia cannot be allowed to win in Ukraine&nbsp;&nbsp;Washington ExaminerPutin Doesn't Need Victory? Portnikov on Russia's True…",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM1RiUlN1NE1XVzdzNHRubnhmZkp3Mm5Uek5aSWgyVmZxazhpLU5ZTzBBUWVVZFRtV2xodjhqQmhZMjlENzlnRm5PYWVQUGRJQU9ZOGViaXNOMnFBaHFDVnBOVzR5QVhfTzFHTW45OTh1MGZJaTlxS2lfeV9Ic2x0amRUcHYxbkYwS3ZVOWdzYURTa2xTMUJn?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-10-23T22:49:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia cannot be allowed to win in Ukraine"
     },
     {
       "id": "12660d8e1a47559d1a912d279066c1b872cfe670",
@@ -78,6 +166,17 @@
       "evidence": "limits to the technology continue to affect Ukrainian forces"
     },
     {
+      "id": "508371583d1b8c61bf48e9a0810d7c4169478310",
+      "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+      "summary": "With SpaceX imposing speed limits on Starlink in Ukraine and hampering military operations, Kyiv is looking for alternatives.",
+      "url": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-23T20:52:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "SpaceX imposing speed limits on Starlink in Ukraine and hampering military operations"
+    },
+    {
       "id": "e30bbbd765362b5f14076c0f75bfad85ca693d51",
       "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
       "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
@@ -87,6 +186,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say"
+    },
+    {
+      "id": "e406db6a9c154f83341ffeb2e4d40526568003bf",
+      "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+      "summary": "Since last week, Ukraine has reported restrictions on Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
+      "url": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-23T19:50:26+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "hampering its military operations against Russia"
     },
     {
       "id": "6060ad731ab6d716c81fe4eb654c00ad98d00fa5",
@@ -120,118 +230,8 @@
       "sentiment": "mixed",
       "confidence": 0.6,
       "evidence": "Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks"
-    },
-    {
-      "id": "9c464aa25357ec3d69354672de0ddf22b3326004",
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
-      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-23T11:01:08+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Issues remain with the network used by the Ukrainian military"
-    },
-    {
-      "id": "d30172c022d164832916b9dea737ee6e4e3007ce",
-      "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
-      "summary": "Elon Musk, a critic of Ukrainian President Volodymyr Zelenskyy, had ordered the slowdown of SpaceX's Starlink, The Wall Street Journal previously reported.",
-      "url": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-22T21:02:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Trump asked Musk to lift Starlink slowdown"
-    },
-    {
-      "id": "ca69a5b65ecc9eb2e663afa6dd5dc8cd80241949",
-      "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
-      "summary": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
-      "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-22T17:49:13+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukraine hit by strikes after Russia agrees to new peace talks"
-    },
-    {
-      "id": "39361b784c650163f772ce1c92d9063eae99ef1c",
-      "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
-      "summary": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working.",
-      "url": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-22T11:11:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "separate the war in Ukraine from potential business deals and diplomacy"
-    },
-    {
-      "id": "5e76ea46833730ff1a8aeb6794e8bff9bbb12a7a",
-      "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
-      "summary": "Experts say Russia is trying to destroy energy infrastructure before winter and US ‘appeasement and flattery’ will not achieve peaceEurope live – latest updatesRussia has carried out a massive “demonstrative” attack on U…",
-      "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-22T10:14:23+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russia bombards Kyiv with missiles hours after agreeing to resume talks"
-    },
-    {
-      "id": "020c23c2780c2494df9ddbaa54d94ef408375210",
-      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-21T21:27:41+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Russia agrees to US call to resume Ukraine peace talks"
-    },
-    {
-      "id": "e46938e2ca16347edb0443b8aa30b2f1815550f3",
-      "title": "How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier",
-      "summary": "President Donald Trump has blamed Ukraine for surging diesel prices that are hurting Republicans' election chances with the midterms just two weeks away.",
-      "url": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-21T17:27:34+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier"
-    },
-    {
-      "id": "a6d6e5c92d7d523c94d0ab34fab724fa10337e22",
-      "title": "Thousands march in Greece over public education failures as Macron blasts ‘stupid’ commentary on French protests – Europe live",
-      "summary": "Students, teachers and civil servants have shown up in Athens, with demonstrations also in Thessaloniki and other citiesMeanwhile, back to Witkoff’s meeting with Putin in St Petersburg, the US president, Donald Trump, ha…",
-      "url": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-21T14:19:25+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "fighting as a mercenary for Ukraine"
-    },
-    {
-      "id": "2a9f73105a96ceaca83a42db71f4b1743d5a850c",
-      "title": "Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
-      "summary": "Speaking in Oslo on Tuesday, Zelenskyy said Washington had reaffirmed its commitment to providing Ukraine with security guarantees.",
-      "url": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-21T14:12:35+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Washington had reaffirmed its commitment to providing Ukraine with security guarantees."
-    },
-    {
-      "id": "9189b8a3b95bfbe086d9380c11128cb6056ead8f",
-      "title": "Elon Musk ordered Starlink slowdown for Ukraine: Report",
-      "summary": "Musk and President Donald Trump have both recently criticized Ukrainian President Volodymyr Zelenskyy, who has also flagged disruptions in U.S. intel sharing.",
-      "url": "https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-21T13:35:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Elon Musk ordered Starlink slowdown for Ukraine"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-24T13:21:46Z"
+  "last_updated": "2026-10-25T13:47:39Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "RS",
-  "score": 57,
+  "score": 60,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 2,
-  "sources": 15,
+  "trend": 3,
+  "sources": 16,
   "sentiment": {
-    "positive": 1,
-    "neutral": 5,
-    "negative": 9
+    "positive": 2,
+    "neutral": 6,
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "9e31dedae1a17615a73dbf1f3830199547f31876",
+      "title": "What to Know as Serbia Votes for a New Parliament",
+      "summary": "A student-led movement is challenging the governing party of Aleksandar Vucic, who has dominated Serbian politics for over a decade.",
+      "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-25T04:01:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Serbia Votes for a New Parliament"
+    },
     {
       "id": "c4c48ac6498255104cb2f3085d4bd1ba5ecb8fe8",
       "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
@@ -21,6 +32,17 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Student List has emerged from almost two years of anti-corruption protests"
+    },
+    {
+      "id": "325ad236f1131ca065f67517c9e1645d5b32cf20",
+      "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+      "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-23T06:26:25+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "student protest movement is challenging 12 years of Vučić rule in Serbia"
     },
     {
       "id": "678236f77b9e746b14f53eaf21bc1db4f6a83a68",
@@ -164,19 +186,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Serbian and Romanian border"
-    },
-    {
-      "id": "248e52d58c5caa3a9f5c7a4c0d745c74d064d942",
-      "title": "How Serbia could further complicate Ukraine's EU accession bid - Euronews.com",
-      "summary": "How Serbia could further complicate Ukraine's EU accession bid&nbsp;&nbsp;Euronews.comMost EU supporters oppose the SNS government: What should Brussels take away from this?&nbsp;&nbsp;European Western BalkansA love tria…",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLVUxZlIzM29iRlhFa1lLNE1FcXNXcXE0YWlCdU9TTEFHcEl2dW42UGNoc0h4bl9sXzdFODQwcC04elZYVW9xMUxZVHdCTHlqbUJWVG1rN3dwdWE2eVVQUnFYT2UwQnEyZG9qSlJIWHJSSEdzQ0ZGUzBnckR4M3owMWdld0ZOemdERkhNaUozdDlJSC1lLVdldW5tS1lpSk9oaGZPT0ZaaDB5ODQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-07-27T06:58:08+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "How Serbia could further complicate Ukraine's EU accession bid"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-24T13:21:46Z"
+  "last_updated": "2026-10-25T13:47:39Z"
 }

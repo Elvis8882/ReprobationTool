@@ -1,16 +1,37 @@
 {
   "country": "RO",
-  "score": 71,
+  "score": 70,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 102,
   "sentiment": {
     "positive": 9,
-    "neutral": 84,
-    "negative": 9
+    "neutral": 83,
+    "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "2551e4e2007999c79bae777ca0f6eb67e0eab69c",
+      "title": "Estonia passes the presidency of the Baltic Assembly to Lithuania",
+      "summary": "At the 45th&nbsp;Session of the Baltic Assembly, held&nbsp;in Tallinn, Estonia, members of the parliaments of the three Baltic States adopted a Resolution in which they emphasized, among other things, that the 35th&nbsp;…",
+      "url": "https://eng.lsm.lv/article/politics/diplomacy/24.10.2026-estonia-passes-the-presidency-of-the-baltic-assembly-to-lithuania.a668941/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "source": "LSM (English)",
+      "published_at": "2026-10-24T15:13:37+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "71725447174a6f708660b400d5a31a118a896017",
+      "title": "1 Dead, 3 Missing After Suspected Russian Drone Attack On Ship In Black Sea",
+      "summary": "Drones have struck merchant vessels in the Black Sea off Romania and Bulgaria in the last three weeks",
+      "url": "https://www.ndtv.com/world-news/1-dead-3-missing-after-suspected-russian-drone-attack-on-ship-in-black-sea-12225412#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-23T11:10:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Drones have struck merchant vessels in the Black Sea off Romania"
+    },
     {
       "id": "7781a36970df557c368f29c8a522ab55999244a6",
       "title": "EU and Western Balkan partners deepen research and innovation cooperation to support EU integration - European Commission",
@@ -194,28 +215,8 @@
       "published_at": "2026-10-07T09:06:15+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "b0bfcb206f235590d3f215d81dbc0dd72dbc429e",
-      "title": "‘No more Viktor Orbán’: EU plans 15-year probation period for new member states",
-      "summary": "Enlargement commissioner Marta Kos outlines proposed safeguards to protect EU from undemocratic leadersThe European Commission wants to ensure there is no repeat Viktor Orbán among the next generation of EU member states…",
-      "url": "https://www.theguardian.com/world/2026/oct/06/eu-plans-15-year-probation-period-new-member-states-viktor-orban",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-06T14:38:16+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "0104714cc5e0992f079b00240493828a329db03b",
-      "title": "Understanding Canada’s Europe Pivot",
-      "summary": "You sent us your questions about the prime minister’s plan to form a closer relationship with the European Union. Our Canada bureau chief answers them.",
-      "url": "https://www.nytimes.com/2026/10/03/world/canada/carney-canada-european-union-trade-currency.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-03T10:00:13+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-24T13:21:46Z"
+  "last_updated": "2026-10-25T13:47:39Z"
 }

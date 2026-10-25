@@ -1,16 +1,49 @@
 {
   "country": "SA",
-  "score": 11,
+  "score": 12,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 289,
+  "trend": 1,
+  "sources": 288,
   "sentiment": {
-    "positive": 24,
-    "neutral": 128,
+    "positive": 25,
+    "neutral": 126,
     "negative": 138
   },
   "latest_articles": [
+    {
+      "id": "bfabd481a2164039ed2ed7291aa26e93a19419dd",
+      "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+      "summary": "Saudi Arabia says it intercepted Houthi missiles and drones, while the Houthis claimed attacks on airports and energy sites amid rising regional supply risks.",
+      "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-25T12:49:33+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Saudi Arabia says it intercepted missiles and drones"
+    },
+    {
+      "id": "68a81b1e4016e6e448acde4a1b4752de631c1783",
+      "title": "Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks",
+      "summary": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month and have threatened to strike it again.",
+      "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-25T12:36:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks"
+    },
+    {
+      "id": "6f8a7dae411e2b7ec51ac086f60e674a7fdbb981",
+      "title": "Saudi Says Missiles Intercepted Over Mecca, Medina, Houthis Call It \"Huge Lie\"",
+      "summary": "Saudi Arabia has come under repeated attack from Yemen's Houthis in recent weeks.",
+      "url": "https://www.ndtv.com/world-news/saudi-says-shrapnel-fell-in-mecca-medina-after-houthi-attack-12231192#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-25T01:45:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Saudi Says Missiles Intercepted Over Mecca, Medina, Houthis Call It \"Huge Lie\""
+    },
     {
       "id": "6526b1931c3139f70384ca44b9ae14eab8cd82fe",
       "title": "US on alert as Iran's plan to target Americans abroad in 'advanced stages': Report",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Saudi Backing, Court Filing Shows"
-    },
-    {
-      "id": "bfe2fee56f83b398f14a3ca350f6dc8401c7b75d",
-      "title": "OpenAI bugging suspect's conduct could pose danger to U.S. national security, feds warn",
-      "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
-      "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-19T15:10:54+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Saudi national Abdulrahman Alfozan is accused of planting"
-    },
-    {
-      "id": "e8646dd63b22cf7851c589c0235c7f27e0648649",
-      "title": "People scour strait of Hormuz for spilt cargo after Iran attacks container ships",
-      "summary": "At least 15 vessels struck in waterway in past 10 days, with rumours that they were carrying valuable goodsPeople have been scouring the strait of Hormuz for spilt cargo after Iran attacked at least 15 container ships pa…",
-      "url": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-19T14:48:56+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Saudi port of Jubail"
-    },
-    {
-      "id": "a2f4bcccbdecdfa37fa28371883ba33b3959adbb",
-      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-      "summary": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
-      "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-19T08:17:19+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Saudi Arabia said it executed two Bangladeshis last week"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-24T13:21:46Z"
+  "last_updated": "2026-10-25T13:47:39Z"
 }

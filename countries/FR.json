@@ -1,16 +1,81 @@
 {
   "country": "FR",
-  "score": 7,
+  "score": 1,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 530,
+  "trend": -6,
+  "sources": 532,
   "sentiment": {
     "positive": 43,
-    "neutral": 345,
-    "negative": 143
+    "neutral": 338,
+    "negative": 152
   },
   "latest_articles": [
+    {
+      "id": "0a5bd0ce690d5e0eaa678e4d0c79ea4c981b0a1c",
+      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-25T10:38:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "More than 1,300 arrested as clashes follow another day"
+    },
+    {
+      "id": "5acb92b3c272172c9a2dad7572e8397e372616e6",
+      "title": "Protests engulf Europe: People take to streets in France, Albania, Italy, Spain, Portugal",
+      "summary": "Thousands of people protested across Europe over the weekend, demanding action against rising living costs and government corruption. Demonstrations were reported in France, Italy, Albania, Spain, and Portugal, with vary…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/europe-spring-protests-engulf-continent-as-people-take-to-streets-in-france-albania-italy-spain-portugal/articleshow/135185017.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-10-25T07:02:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Thousands of people protested across Europe... varying degrees of violence"
+    },
+    {
+      "id": "15516a0f1244c26f796ba6d04ec48d420b831c7a",
+      "title": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
+      "summary": "After largely peaceful marches on Saturday, clashes broke out in the evening. But a large-scale police presence, 1,000 arrests and the rerouting of protest routes kept a lid on wholesale vandalism.",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-24T21:23:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Unrest Erupts Again in France, but This Time, With Less Property Damage"
+    },
+    {
+      "id": "26282d0195bf8c53369ba1b163eaa33deffa14f4",
+      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
+      "summary": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+      "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-24T19:37:35+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "protesters and riot police clash in Paris"
+    },
+    {
+      "id": "712b8c7555c658d88d8c37f7ad5b32b9ea2f85f2",
+      "title": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
+      "summary": "Americans on hand for the N.F.L.’s first-ever game in France found famous museums closed and shops boarded up.",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-24T16:00:32+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors"
+    },
+    {
+      "id": "2551e4e2007999c79bae777ca0f6eb67e0eab69c",
+      "title": "Estonia passes the presidency of the Baltic Assembly to Lithuania",
+      "summary": "At the 45th&nbsp;Session of the Baltic Assembly, held&nbsp;in Tallinn, Estonia, members of the parliaments of the three Baltic States adopted a Resolution in which they emphasized, among other things, that the 35th&nbsp;…",
+      "url": "https://eng.lsm.lv/article/politics/diplomacy/24.10.2026-estonia-passes-the-presidency-of-the-baltic-assembly-to-lithuania.a668941/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "source": "LSM (English)",
+      "published_at": "2026-10-24T15:13:37+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "0018fc7a570d5e89a96f344d83019118c8f1d7ff",
       "title": "Live Updates: France Deploys Vast Security Force in Bid to Prevent More Riots",
@@ -21,6 +86,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "France Deploys Vast Security Force to Prevent More Riots"
+    },
+    {
+      "id": "85a48481e4d46bd152b6423e45e2316a822e896a",
+      "title": "Thousands march in Paris as protests take place across Europe – Europe live",
+      "summary": "French police have made 135 arrests, while Italian officers have raided homes in Milan, with protests also taking place in Spain and AlbaniaJesse, 40, a charity worker from the north of Paris, had turned out for the stre…",
+      "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-24T12:54:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Thousands march in Paris"
     },
     {
       "id": "76f6c6eeed3f8a9be4a563b354553a0a998ab93d",
@@ -43,6 +119,39 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "major rival Paris"
+    },
+    {
+      "id": "b94c778166d84372f33ccec437671d9ba765d993",
+      "title": "Martial arts fighter identified by club as victim of suspected racist attack near Paris",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/europe/he-was-one-of-us-martial-arts-fighter-26-identified-by-club-as-victim-of-suspected-racist-attack-near-paris/articleshow/135167011.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-10-24T09:48:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "victim of suspected racist attack near Paris"
+    },
+    {
+      "id": "2ab5ae5cb13b4fdf2b5f2df19c596f11f56e4d5a",
+      "title": "How a Small Student Protest Spread Across France",
+      "summary": "A movement that began with a few high schools has broadened to encompass labor unions and other activists.",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-24T09:46:49+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Small Student Protest Spread Across France"
+    },
+    {
+      "id": "f5588f1e3131e6cfa0c7da5e5726c0c51d5b1aa3",
+      "title": "Looting Left Damage and Fear on Paradise Street in Marseille",
+      "summary": "Looters ravaged a storied commercial avenue in France’s second-largest city. Its merchants fear that more unrest could follow.",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-24T09:04:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Looting Left Damage and Fear on Paradise Street"
     },
     {
       "id": "3d5dcec87d3aec24073179c6b5376dcf6f213257",
@@ -100,137 +209,28 @@
       "evidence": "Anti-terror police investigate as one person killed in shooting near Paris"
     },
     {
-      "id": "6a64a8e8d933ed4036cad73f675e5101d640a1dc",
-      "title": "‘An orchestra being gassed should be an alarm signal’: the musical activists targeted in Paris",
-      "summary": "New World Orchestra’s musicians are shocked at French police targeting peaceful gathering with teargasEurope live – latest updatesAs riot police encircled Place de la République last week, lobbing teargas canisters to di…",
-      "url": "https://www.theguardian.com/world/2026/oct/23/france-protests-new-world-orchestra-gassed-paris-police",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-23T11:57:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "French police targeting peaceful gathering with teargas"
-    },
-    {
-      "id": "bf0719f7efa21e5b2bb394817e21e272b05d868d",
-      "title": "In the Wake of Riots, the French Authorities Ban Some Protests",
-      "summary": "President Emmanuel Macron said the move was necessary “so that calm prevails.”",
-      "url": "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-22T19:02:05+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "French Authorities Ban Some Protests... necessary “so that calm prevails.”"
-    },
-    {
-      "id": "ddcbd56a95210e58790cad514221412dbf86894f",
-      "title": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
-      "summary": "France is facing a mounting economic crisis that pushed its 10-year government bond yield to a new 24-year high on Thursday.",
-      "url": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-22T14:21:56+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "France is facing a mounting economic crisis"
-    },
-    {
-      "id": "1928454a3088c1dfb5a20283ba6b870fb6eb7caa",
-      "title": "Macron condemns ‘seditious acts’ by ‘ultra-left’ and says he will seek to ban some protests – Europe live",
-      "summary": "French government will show ‘absolute’ determination to stop the riots, Macron saysAs we are waiting for Macron, first details of the planned police response to this weekend’s protests are emerging.Junior interior minist…",
-      "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-22T14:10:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Macron condemns ‘seditious acts’... will seek to ban some protests"
-    },
-    {
-      "id": "db746dbf03eccc347a556785bb0708bf2a5b2b99",
-      "title": "First human case of Shamonda virus detected in France, officials say",
-      "summary": "The disease, which usually affects cattle, has been identified in a patient who died in early October.",
-      "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-22T13:53:32+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Shamonda virus detected in France"
-    },
-    {
-      "id": "7781a36970df557c368f29c8a522ab55999244a6",
-      "title": "EU and Western Balkan partners deepen research and innovation cooperation to support EU integration - European Commission",
-      "summary": "EU and Western Balkan partners deepen research and innovation cooperation to support EU integration&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQcG56LUIzZkZueWF2RTNXdWtVZWw2Xy12V1MyMHpWZjctTUdaRXlfVmdwQ2VxcUJ1akN6Ynl2ZW1LbllDVU9lSFhKSTZGNkplU2ZvRTdPbHJHQmotVkEzRElwLURsaTV5amxOQ2JvTElfUVVvbm9NSnJybE5Ka0FYTE51dXg5S2otN19kUW93Um94SVlMZlFTU1BwZnZxT3VvSG5BNDNDd2FSYzlUYkx2bjZBaFV4VXYwcEQzQURkeXpOQi15QkpzUFd0ZnlLMHI0cTBiZjFicGY5Rm5vUWtYRFVCNlBScE1QSlRfWk4weVdwa3ppZlhBN3RjTl9xdWVzTFhrOW1oSGpHVGRCQTM5eEhYRjh6OS1HdzFLR2dB?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-22T11:57:30+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "88140f35a8f75dbd99357b5c1421ff4490e18cdd",
-      "title": "France unrest: Macron vows ban on 'illegitimate' protests in coming days",
-      "summary": "In response to escalating unrest, French President Emmanuel Macron unveiled plans to prohibit unauthorized protests while ramping up security measures. Following extensive riots and vandalism, authorities brace for furth…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/france-unrest-macron-vows-ban-on-illegitimate-protests-in-coming-days-blames-seditious-ultra-left/articleshow/135117417.cms",
+      "id": "212e44d395539faaf10d95bf14eff57f797ec136",
+      "title": "France students' unrest: 70,000 police deployed, museums closed ahead of fresh weekend protests",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/europe/france-students-unrest-70000-police-deployed-paris-museums-closed-ahead-of-fresh-weekend-protests/articleshow/135146267.cms",
       "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-10-22T11:26:32+00:00",
+      "published_at": "2026-10-23T13:13:39+00:00",
       "sentiment": "negative",
       "confidence": 0.9,
-      "evidence": "escalating unrest, French President Emmanuel Macron unveiled plans to prohibit unauthorized protests"
+      "evidence": "France students' unrest: 70,000 police deployed"
     },
     {
-      "id": "1c56cf9341962550eeb9565dfafd43fa05268fea",
-      "title": "At least four dead after storm brings flooding to southern France",
-      "summary": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-22T11:23:16+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "storm brings flooding to southern France"
-    },
-    {
-      "id": "6f32ff0be0b464cd3e31c12636898724e7e2a222",
-      "title": "‘America, this is a warning’: pro- Trump Maga media in a froth over Europe protests",
-      "summary": "Fox News and others have toed president’s line – seemingly hoping unrest abroad will make people vote RepublicanDonald Trump sought to capitalize on the scenes of unrest in France, telling a crowd in Kansas on Monday tha…",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-maga-media-europe-protests",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-22T11:00:42+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "unrest in France, telling a crowd in Kansas"
-    },
-    {
-      "id": "501d3c37c8f5f44e29739e23868d72fbcd7e4ef1",
-      "title": "Looted iPhones Become Useless After Apple Remotely Locks Devices In France",
-      "summary": "Apple's built-in security features kicked in, shutting down the hardware.",
-      "url": "https://www.ndtv.com/world-news/looted-iphones-become-useless-after-apple-remotely-locks-devices-in-france-12220129#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-22T10:57:58+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Apple Remotely Locks Devices In France"
-    },
-    {
-      "id": "bafa9e0f22f4b48d2a02e5facfda2790148784b4",
-      "title": "France Reports First Ever Case Of Human Shamonda Virus, 1 Dead",
-      "summary": "The patient suffering from the virus has died. (Representational Image)",
-      "url": "https://www.ndtv.com/world-news/france-reports-first-ever-case-of-human-shamonda-virus-1-dead-12219412#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-22T09:37:57+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "France Reports First Ever Case Of Human Shamonda Virus"
-    },
-    {
-      "id": "44803ba294198d2cb93abd0984c4d5f9da67c1d9",
-      "title": "Student Protests Mushroom Across Europe, Exposing Bleak Views of the Future",
-      "summary": "Since high school students began protesting in France in September, they’ve been joined by young demonstrators in at least seven other European countries.",
-      "url": "https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html",
+      "id": "e08e964396b801f0ab57a9d176b725081e7dc9e9",
+      "title": "One Killed Near Paris After Gunman Fires at Random, Officials Say",
+      "summary": "The shooter was arrested after firing from a car in several locations southwest of the capital. Antiterrorism prosecutors said they were exploring a racial or religious motive.",
+      "url": "https://www.nytimes.com/2026/10/23/world/europe/france-shooting.html",
       "source": "NYT > World News",
-      "published_at": "2026-10-21T21:05:46+00:00",
+      "published_at": "2026-10-23T13:10:09+00:00",
       "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "high school students began protesting in France in September"
+      "confidence": 0.9,
+      "evidence": "One Killed Near Paris After Gunman Fires at Random"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-24T13:21:46Z"
+  "last_updated": "2026-10-25T13:47:39Z"
 }
