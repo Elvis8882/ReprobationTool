@@ -1,9 +1,9 @@
 {
   "country": "SA",
-  "score": 12,
+  "score": 11,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
+  "trend": -1,
   "sources": 288,
   "sentiment": {
     "positive": 25,
@@ -11,6 +11,39 @@
     "negative": 138
   },
   "latest_articles": [
+    {
+      "id": "5902f60665f792bbb006d9523ef202e163141230",
+      "title": "Oil prices fall as Saudi defense minister travels to Iran for talks to de-escalate conflict",
+      "summary": "Oil prices fell as investors weighed the threat of further attacks on Saudi Arabian energy infrastructure against concerns that elevated prices could erode demand.",
+      "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-26T15:48:43+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "threat of further attacks on Saudi Arabian energy infrastructure"
+    },
+    {
+      "id": "039269debb69440c3c4b0d3065c87fd7343f6ae5",
+      "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
+      "summary": "Saudi Arabia, Turkey and Pakistan made a rare joint visit to Tehran amid reports that the U.S. and Israel were drawing up plans to renew their attacks on Iran.",
+      "url": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-26T14:30:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Saudi Arabia, Turkey and Pakistan made a rare joint visit"
+    },
+    {
+      "id": "e38b03a59d6122ef579f1e0639b5c1df65b86882",
+      "title": "High-level delegation visits Iran to try to avert flare-up with US and Israel",
+      "summary": "Senior officials from Saudi Arabia, Pakistan and Turkey travel to Tehran as bellicose rhetoric heightensHigh-level diplomatic delegations from Saudi Arabia, Turkey and Pakistan have travelled to Tehran in an attempt to p…",
+      "url": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-26T14:03:06+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.6,
+      "evidence": "Senior officials from Saudi Arabia... attacks on infrastructure in Saudi Arabia"
+    },
     {
       "id": "bfabd481a2164039ed2ed7291aa26e93a19419dd",
       "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
@@ -197,41 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "ties with Saudi royal family"
-    },
-    {
-      "id": "f9cad54fff25928c136e7894832915f6439bebb7",
-      "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
-      "summary": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
-      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-19T21:12:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "had Saudi support, claims prosecutors"
-    },
-    {
-      "id": "1b564fcc6958a4105a507c409735021b30589ad5",
-      "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-      "summary": "Iran-backed Houthi militants have launched repeated volleys of missiles and drones at Saudi Arabia since a deadly airport attack earlier this month.",
-      "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-19T16:17:09+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Iran-backed Houthis escalate attacks on kingdom"
-    },
-    {
-      "id": "0b78cdba8a951211c374b20e12942ea1b19ce270",
-      "title": "Ex-OpenAI Employee Who Planted Device Had Saudi Backing, Court Filing Shows",
-      "summary": "The court filing alleges significant ties between Saudi government and Alfozan.",
-      "url": "https://www.ndtv.com/world-news/ex-openai-employee-who-planted-device-had-saudi-backing-court-filing-shows-12207729#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-19T15:42:05+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Saudi Backing, Court Filing Shows"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-25T13:47:39Z"
+  "last_updated": "2026-10-26T16:07:34Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "GE",
-  "score": 100,
+  "score": 55,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": null,
-  "sources": 5,
+  "trend": -45,
+  "sources": 6,
   "sentiment": {
     "positive": 0,
     "neutral": 5,
-    "negative": 0
+    "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "63c8b994d4ee4cf89e975f1fac95230ff841d1bb",
+      "title": "Audi boss under fire in Germany for Trump rally appearance",
+      "summary": "Gernot Döllner criticised for in-person announcement of major investment in US days before midterm electionsThe head of the luxury carmaker Audi is under fire in Germany for appearing at a rally with Donald Trump just da…",
+      "url": "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-26T14:42:27+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Audi boss under fire in Germany for Trump rally appearance"
+    },
     {
       "id": "14def571c6969ae3cffd2dcc0a948746deaad47d",
       "title": "What we know about the deadly Six Flags rollercoaster incident in Georgia",
@@ -68,5 +79,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-25T13:47:39Z"
+  "last_updated": "2026-10-26T16:07:34Z"
 }

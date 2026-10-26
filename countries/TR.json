@@ -1,16 +1,38 @@
 {
   "country": "TR",
-  "score": 82,
+  "score": 83,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 75,
+  "trend": 1,
+  "sources": 77,
   "sentiment": {
-    "positive": 2,
-    "neutral": 49,
+    "positive": 3,
+    "neutral": 50,
     "negative": 24
   },
   "latest_articles": [
+    {
+      "id": "039269debb69440c3c4b0d3065c87fd7343f6ae5",
+      "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
+      "summary": "Saudi Arabia, Turkey and Pakistan made a rare joint visit to Tehran amid reports that the U.S. and Israel were drawing up plans to renew their attacks on Iran.",
+      "url": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-26T14:30:53+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Saudi Arabia, Turkey and Pakistan made a rare joint visit"
+    },
+    {
+      "id": "e38b03a59d6122ef579f1e0639b5c1df65b86882",
+      "title": "High-level delegation visits Iran to try to avert flare-up with US and Israel",
+      "summary": "Senior officials from Saudi Arabia, Pakistan and Turkey travel to Tehran as bellicose rhetoric heightensHigh-level diplomatic delegations from Saudi Arabia, Turkey and Pakistan have travelled to Tehran in an attempt to p…",
+      "url": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-26T14:03:06+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Senior officials from... Turkey travel to Tehran to avert flare-up"
+    },
     {
       "id": "9c2079e3b58587938434e9aac2031704f8e372c2",
       "title": "Stock fixing scandal could see Turkish companies frozen out of global indexes",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Netanyahu accused Turkey of backing Iran-backed Islamist group Hamas"
-    },
-    {
-      "id": "ea81ecac4bfad4130541f83a44e58993f9561404",
-      "title": "Shooting Near High School in Turkey Injures 11",
-      "summary": "The attack came months after back-to-back school shootings in the country, where educators have been warning about rising violence.",
-      "url": "https://www.nytimes.com/2026/09/22/world/europe/turkey-school-shooting-injured.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-22T18:59:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Shooting Near High School in Turkey Injures 11"
-    },
-    {
-      "id": "3f5ff8901349b336c7a5220e8f32b89405d03b6e",
-      "title": "11 Students Injured After Teenager Opens Fire Outside Turkey School",
-      "summary": "The suspect's parents and grandfather had also been detained by investigators probing the attack",
-      "url": "https://www.ndtv.com/world-news/11-students-injured-after-teenager-opens-fire-outside-turkey-school-12081146#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-22T11:08:44+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": ""
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-25T13:47:39Z"
+  "last_updated": "2026-10-26T16:07:34Z"
 }

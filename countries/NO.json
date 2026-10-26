@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 35,
+  "sources": 36,
   "sentiment": {
     "positive": 3,
-    "neutral": 31,
+    "neutral": 32,
     "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "db522042a4225bc87b40a58e965faf52a6e304ec",
+      "title": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
+      "summary": "Norwegian officials emphasized that their government does not have any influence over who receives the Peace Prize, after President Trump used crude language to express his frustration.",
+      "url": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-26T15:41:29+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Trump Disparages It Over Nobel Prize Decision"
+    },
     {
       "id": "6d5bacfecc60d32a0494bd34ae6633246a4bd678",
       "title": "Trump and Zelensky at loggerheads despite new optimism",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Norway's $2.3 trillion investment fund says it can diversify"
-    },
-    {
-      "id": "08ada737a1fe252b51062c23901d5ab426ccf642",
-      "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
-      "summary": "Empowered by an international court order, Norway captured the vessel as part of a global effort to seize Russian assets. The Russians called it “piracy.”",
-      "url": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-03T21:12:44+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-25T13:47:39Z"
+  "last_updated": "2026-10-26T16:07:34Z"
 }
