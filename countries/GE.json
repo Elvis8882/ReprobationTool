@@ -1,16 +1,27 @@
 {
   "country": "GE",
   "score": 55,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": -45,
-  "sources": 6,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": 0,
+  "sources": 7,
   "sentiment": {
     "positive": 0,
     "neutral": 5,
-    "negative": 1
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "171f5431ff5115cad1209a6b7632ac65b2b071f7",
+      "title": "Georgia businessman jailed for 15 years for $76m Ponzi scheme targeting 300+ investors",
+      "summary": "Edwin Brant Frost IV, a businessman from Georgia, has received a 15-year prison sentence following his involvement in a Ponzi scheme that deceived more than 300 investors. This fraudulent operation caused a staggering lo…",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-georgia-businessman-promised-investors-8-to-18-returns-from-small-business-loans-but-diverted-funds-to-luxury-spending-and-politics-he-has-been-sentenced-to-15-years-over-a-76-million-ponzi-scheme/articleshow/135237028.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-10-27T14:21:42+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Georgia businessman jailed for 15 years for $76m Ponzi scheme"
+    },
     {
       "id": "63c8b994d4ee4cf89e975f1fac95230ff841d1bb",
       "title": "Audi boss under fire in Germany for Trump rally appearance",
@@ -79,5 +90,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-26T16:07:34Z"
+  "last_updated": "2026-10-27T15:23:37Z"
 }

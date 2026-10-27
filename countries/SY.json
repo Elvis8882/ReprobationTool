@@ -1,16 +1,49 @@
 {
   "country": "SY",
-  "score": 87,
+  "score": 84,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 33,
+  "trend": -3,
+  "sources": 36,
   "sentiment": {
     "positive": 2,
     "neutral": 13,
-    "negative": 18
+    "negative": 21
   },
   "latest_articles": [
+    {
+      "id": "ef8a7d6422e7d92ee2a1f72ce561ba0bf7bda8f7",
+      "title": "Jordan Says Its Deadly Strikes in Syria Targeted Islamic State",
+      "summary": "The airstrikes late Monday, which a Syrian agency said killed at least seven civilians, were in retaliation for an attack on a Jordanian church, Jordan said.",
+      "url": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-27T13:42:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "killed at least seven civilians...retaliation for an attack"
+    },
+    {
+      "id": "12bda8609c193e900a54b696c760fbff438f566a",
+      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-27T02:40:17+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "deadly strike in Syria killed five people"
+    },
+    {
+      "id": "a0b1885af39049da197c7c70d20deab5956e88ac",
+      "title": "Jordan attacks militants in Syria in retaliation for church attack",
+      "summary": "Jordanian air force says it carried out strikes against ‘terrorist groups’ tied to killing of nine during funeralJordan has carried out airstrikes against armed groups in Syria in retaliation for Friday’s attack on a Gre…",
+      "url": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-26T22:08:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Jordan attacks militants in Syria in retaliation for church attack"
+    },
     {
       "id": "64542f3c2752543654eafb103dbbd5c9939bfacd",
       "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
@@ -197,41 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "US removes Syria from terrorism list"
-    },
-    {
-      "id": "4ff6fd0394b8a139d6a881bb6654b8d5f198d9cf",
-      "title": "US removes Syria from list of state sponsors of terrorism",
-      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
-      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-25T00:17:25+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "US removes Syria from list of state sponsors of terrorism, embraces militant"
-    },
-    {
-      "id": "d79f6e0589d200000dc7f3eecb33c5e167091a1d",
-      "title": "Syria and Israel Hold U.S.-Mediated Talks to Try to Ease Tensions",
-      "summary": "The discussions, reported by the Syrian state news agency, came days after Israel struck an air base in Syria’s northwest, the latest in a series of military interventions.",
-      "url": "https://www.nytimes.com/2026/08/24/world/middleeast/syria-israel-talks-us-jordan.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-24T09:37:47+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.7,
-      "evidence": "Syria and Israel Hold U.S.-Mediated Talks"
-    },
-    {
-      "id": "e31109fac92933aca985656ecba5f3857ae5d42c",
-      "title": "Syria says Israeli strike near Damascus violation of international law",
-      "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
-      "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-22T21:42:42+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Syria says Israeli strike near Damascus violation of international law"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-26T16:07:34Z"
+  "last_updated": "2026-10-27T15:23:37Z"
 }

@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 4,
+  "sources": 5,
   "sentiment": {
     "positive": 0,
     "neutral": 2,
-    "negative": 2
+    "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "a46df0cdb05e74c0a0ee88f0e6822cb13cd8932a",
+      "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+      "summary": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-27T14:29:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "journalist jailed in Algeria...accused of supporting terrorism"
+    },
     {
       "id": "61a75ff6453da4e1f501156b46e4bcb145f5b05f",
       "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
@@ -57,5 +68,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-26T16:07:34Z"
+  "last_updated": "2026-10-27T15:23:37Z"
 }

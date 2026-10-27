@@ -1,16 +1,38 @@
 {
   "country": "RS",
-  "score": 64,
+  "score": 68,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 4,
-  "sources": 19,
+  "sources": 23,
   "sentiment": {
-    "positive": 4,
-    "neutral": 7,
+    "positive": 6,
+    "neutral": 9,
     "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "bbe0a0e382e138860b9666c9ddae88cfb6d54a0b",
+      "title": "Cardiologist, Banker, PhD Holders: How Serbia's New Parliament Will Be Different",
+      "summary": "Supporters of Student List celebrate its election win in Serbia.",
+      "url": "https://www.ndtv.com/world-news/cardiologist-banker-phd-holders-how-serbias-new-parliament-will-be-different-12242282#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-27T09:36:06+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "election win in Serbia"
+    },
+    {
+      "id": "d83987691c6e2943e9cee34d09bfc8ffa555ad22",
+      "title": "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
+      "summary": "In much of Europe, the advance of the right has been seen as unstoppable. But in the east, nationalists are being cast aside in places where they long governed.",
+      "url": "https://www.nytimes.com/2026/10/26/world/europe/serbia-election-vucic-nationalist-populists.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-27T03:29:47+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Serbia’s Election Shows New Vulnerability for Nationalist Populists"
+    },
     {
       "id": "f30416b60067a3287f68f38a82ef662e8b28b8f2",
       "title": "Serbia wakes up to new reality after student-led movement ousts Vučić – Europe live",
@@ -43,6 +65,28 @@
       "sentiment": "neutral",
       "confidence": 0.4,
       "evidence": "Aleksandar Vucic Concedes Defeat in Serbian Election"
+    },
+    {
+      "id": "3624607e43accdb7a6a90cf2e5418e97e8dc2978",
+      "title": "Brazil keeps left: what Lula’s victory means for his country and beyond",
+      "summary": "In today’s newsletter: As Luiz Inácio Lula da Silva secured victory in the presidential race, we look the implications for democracy, the environment and international relationsGood morning. Chances are you woke this mor…",
+      "url": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-26T06:44:33+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Serbia, a student-led movement has ousted the country’s long-serving leader"
+    },
+    {
+      "id": "3a94b70ec6e9109a860c72a8f15fc6ee26fbbaa2",
+      "title": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
+      "summary": "Vučić’s 12-year reign looks to have been ended by record turnout of voters in election provoked by student-led protestsThe long-serving leader of Serbia, Aleksandar Vučić, has conceded defeat, ushering in a seismic polit…",
+      "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-25T23:42:32+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Serbian leader Aleksandar Vučić ousted by student movement"
     },
     {
       "id": "9e31dedae1a17615a73dbf1f3830199547f31876",
@@ -186,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "hero’s funeral in Serbia raises questions from EU over Serbia’s membership plan"
-    },
-    {
-      "id": "5f4dc8a70f4b460745e3aacc6583808f3777c92b",
-      "title": "Ratko Mladić, the ‘Butcher of Bosnia’, dies in The Hague",
-      "summary": "Bosnian Serb commander responsible for Srebrenica massacre dies in prison while serving life sentence for genocideFrom the archive: Fourteen years a fugitive: the hunt for the Butcher of Bosnia Ratko Mladić will die in j…",
-      "url": "https://www.theguardian.com/world/2026/aug/27/ratko-mladic-the-butcher-of-bosnia-dies-aged-84",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-27T16:12:15+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "infamous Serbian general convicted of genocide"
-    },
-    {
-      "id": "4e180b5098e75387312f425d69a4c56e2aac22cb",
-      "title": "As Russia, Ukraine Trade Missiles, Zelensky Lands In Moscow-Friendly Serbia",
-      "summary": "Zelenskyy arrived in Belgrade on Friday for his first official visit to Serbia.",
-      "url": "https://www.ndtv.com/world-news/as-russia-ukraine-trade-missiles-zelensky-lands-in-moscow-friendly-serbia-11884208#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-08-08T15:20:58+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "Zelenskyy arrived in Belgrade on Friday for his first official visit"
-    },
-    {
-      "id": "2b59527c60bba07beb2c4bc778e56eb5548e067f",
-      "title": "Nazi shipwrecks emerge from the depths as Europe’s Danube dries up",
-      "summary": "Unexploded ordnance and a military motorcycle also recovered following record heat and drought conditionsRecord-low water levels in the Danube have exposed remnants of Europe’s Nazi past, with dozens of second world war…",
-      "url": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
-      "source": "World news - The Guardian",
-      "published_at": "2026-08-08T10:55:15+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Serbian and Romanian border"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-26T16:07:34Z"
+  "last_updated": "2026-10-27T15:23:37Z"
 }

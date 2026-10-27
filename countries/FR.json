@@ -1,16 +1,71 @@
 {
   "country": "FR",
-  "score": 2,
+  "score": 1,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 519,
+  "trend": -1,
+  "sources": 523,
   "sentiment": {
     "positive": 43,
-    "neutral": 327,
-    "negative": 150
+    "neutral": 328,
+    "negative": 153
   },
   "latest_articles": [
+    {
+      "id": "a46df0cdb05e74c0a0ee88f0e6822cb13cd8932a",
+      "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+      "summary": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-27T14:29:39+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "French sports journalist jailed in Algeria"
+    },
+    {
+      "id": "f8a0b434e80f1b8aa9f67e661b8e4dcbabf52ff8",
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-27T13:25:54+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Mbappé sorry for 'ill-judged' Mao remark"
+    },
+    {
+      "id": "e04be64cfe18e7feeb32d3d56e9780c16de21ee4",
+      "title": "Melting glaciers in Dolomites reveal cache of first world war munitions",
+      "summary": "Italian army removes and defuses 250 explosives encased in ice for more than 100 years after hikers’ sightingsA significant cache of unexploded bombs from the first world war emerged this summer from rapidly retreating g…",
+      "url": "https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-27T07:00:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "French mortar bombs"
+    },
+    {
+      "id": "7aea0a39e9f8d404c312b97bf734bac5d8b9762c",
+      "title": "France Makes Concessions to Students, but Not Enough to Halt Protests",
+      "summary": "The government promised to phase out an unpopular university admissions system by 2028. Student groups are pushing for more.",
+      "url": "https://www.nytimes.com/2026/10/26/world/europe/france-student-protests.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-27T01:59:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "France Makes Concessions to Students, but Not Enough to Halt Protests"
+    },
+    {
+      "id": "018c83d76b4e49a751a3ed3cac6f69b0df52e7ca",
+      "title": "Protest leaders urge French pupils to keep barricading their schools",
+      "summary": "Activists say struggle must go on until their ‘maximum’ demands are met over teacher shortages and building repairsFrench children should continue to barricade their schools and take part in street protests, a student un…",
+      "url": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-26T20:17:16+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Protest leaders urge French pupils to keep barricading their schools"
+    },
     {
       "id": "7a695e6a87c7ec6272a76c1905ac89254745e1c8",
       "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
@@ -44,6 +99,17 @@
       "evidence": "chaos in France is a ‘warning signal’ for Australia’s public spending"
     },
     {
+      "id": "3624607e43accdb7a6a90cf2e5418e97e8dc2978",
+      "title": "Brazil keeps left: what Lula’s victory means for his country and beyond",
+      "summary": "In today’s newsletter: As Luiz Inácio Lula da Silva secured victory in the presidential race, we look the implications for democracy, the environment and international relationsGood morning. Chances are you woke this mor…",
+      "url": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-26T06:44:33+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Emmanuel Macron faces a social and political crisis in his final months"
+    },
+    {
       "id": "fa795b3ffb0b56d3ebe82b9af1021010bea8ee4f",
       "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
       "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
@@ -53,6 +119,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Suspect in deadly Paris suburb shooting sent for psychiatric observation"
+    },
+    {
+      "id": "5dbd5e1a6d69b642a44e3e67ab66f91f7bac6a80",
+      "title": "Hundreds of thousands march across France in protests over schools and policing",
+      "summary": "Almost 1,000 arrested as police charge crowd in Paris and teargas used to stop protesters reaching other city centresHundreds of thousands marched in cities across France on Saturday in largely peaceful protests to suppo…",
+      "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-25T12:07:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Hundreds of thousands march across France in protests over schools and policing"
     },
     {
       "id": "b55e32c9c2e2d41e4d1467637e547393ac01337b",
@@ -77,6 +154,17 @@
       "evidence": "More than 1,300 arrested as clashes follow another day"
     },
     {
+      "id": "ca5566a38b29a224461b796c683e7d029d0466c6",
+      "title": "Natalie Portman's €15.2 million Paris mansion near the Eiffel Tower has a 100-year-old history",
+      "summary": "Natalie Portman purchased a 550-square-metre mansion in Paris for €15.2 million in September 2023. Built in 1912, the four-storey property once served as an embassy before undergoing extensive renovation. Located near th…",
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/in-2023-natalie-portman-bought-a-1912-paris-mansion-that-once-served-as-an-embassy-for-15-2-million-the-550-square-metre-home-near-the-eiffel-tower-had-been-restored-with-a-garden-gym-and-glass-roofed-reception-room/articleshow/135185316.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-10-25T10:05:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Natalie Portman purchased a 550-square-metre mansion in Paris"
+    },
+    {
       "id": "5acb92b3c272172c9a2dad7572e8397e372616e6",
       "title": "Protests engulf Europe: People take to streets in France, Albania, Italy, Spain, Portugal",
       "summary": "Thousands of people protested across Europe over the weekend, demanding action against rising living costs and government corruption. Demonstrations were reported in France, Italy, Albania, Spain, and Portugal, with vary…",
@@ -86,6 +174,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Thousands of people protested across Europe... varying degrees of violence"
+    },
+    {
+      "id": "2e2d526dfa7aaea4ae5580bed288174935bf6b5b",
+      "title": "Video: Superheroes 'Black Panther', 'Captain America' Join France Protests",
+      "summary": "Last week, Interior Minister Laurent Nunez said that police could not control the mass looting and arson.",
+      "url": "https://www.ndtv.com/world-news/video-superheroes-black-panther-captain-america-join-france-protests-12232038#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-25T04:14:16+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "mass looting and arson"
     },
     {
       "id": "15516a0f1244c26f796ba6d04ec48d420b831c7a",
@@ -129,107 +228,8 @@
       "published_at": "2026-10-24T15:13:37+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "0018fc7a570d5e89a96f344d83019118c8f1d7ff",
-      "title": "Live Updates: France Deploys Vast Security Force in Bid to Prevent More Riots",
-      "summary": "As many as 70,000 police and security officers will try to avert the arson and looting that shocked the country last weekend. The interior minister estimated that 35,000 people were out on streets nationwide by midday.",
-      "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
-      "source": "NYT > World News",
-      "published_at": "2026-10-24T12:57:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "France Deploys Vast Security Force to Prevent More Riots"
-    },
-    {
-      "id": "85a48481e4d46bd152b6423e45e2316a822e896a",
-      "title": "Thousands march in Paris as protests take place across Europe – Europe live",
-      "summary": "French police have made 135 arrests, while Italian officers have raided homes in Milan, with protests also taking place in Spain and AlbaniaJesse, 40, a charity worker from the north of Paris, had turned out for the stre…",
-      "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-24T12:54:41+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Thousands march in Paris"
-    },
-    {
-      "id": "76f6c6eeed3f8a9be4a563b354553a0a998ab93d",
-      "title": "France on edge: Thousands on streets as weekend of protests begin; 70k cops deployed",
-      "summary": "France is taking significant measures to manage mounting tensions, deploying around 70,000 police officers to supervise protests over education funding and escalating living costs. In response to previous violent outbrea…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/france-unrest-70000-police-officers-tear-gas-fired-as-thousands-take-to-streets-top-developments/articleshow/135169631.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-10-24T11:53:29+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "France on edge: Thousands on streets as protests begin"
-    },
-    {
-      "id": "12d28c168b5ce2a360b43f8372b06a4d84050dbd",
-      "title": "Is London really the most-taxed city? Banks accused of cherrypicking data",
-      "summary": "Lobby group’s figures, shared with John Healey, are misleading as they do not include major rival Paris, say campaignersA banking lobby group has been accused of cherrypicking data and trying to mislead the British gover…",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/24/banking-lobby-group-accused-cherry-picking-data-healey-tax-rise",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-24T11:00:31+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "major rival Paris"
-    },
-    {
-      "id": "b94c778166d84372f33ccec437671d9ba765d993",
-      "title": "Martial arts fighter identified by club as victim of suspected racist attack near Paris",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/europe/he-was-one-of-us-martial-arts-fighter-26-identified-by-club-as-victim-of-suspected-racist-attack-near-paris/articleshow/135167011.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-10-24T09:48:41+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "victim of suspected racist attack near Paris"
-    },
-    {
-      "id": "2ab5ae5cb13b4fdf2b5f2df19c596f11f56e4d5a",
-      "title": "How a Small Student Protest Spread Across France",
-      "summary": "A movement that began with a few high schools has broadened to encompass labor unions and other activists.",
-      "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-24T09:46:49+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Small Student Protest Spread Across France"
-    },
-    {
-      "id": "f5588f1e3131e6cfa0c7da5e5726c0c51d5b1aa3",
-      "title": "Looting Left Damage and Fear on Paradise Street in Marseille",
-      "summary": "Looters ravaged a storied commercial avenue in France’s second-largest city. Its merchants fear that more unrest could follow.",
-      "url": "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-24T09:04:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Looting Left Damage and Fear on Paradise Street"
-    },
-    {
-      "id": "3d5dcec87d3aec24073179c6b5376dcf6f213257",
-      "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
-      "summary": "French unrest pushed bond yields to a 24-year high as investors weigh budget, growth and sectors risks ahead of more protests.",
-      "url": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-24T06:23:02+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "French unrest pushed bond yields to a 24-year high"
-    },
-    {
-      "id": "0ff8532abe0e637885978dc1effa25d27b554ab1",
-      "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
-      "summary": "Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy.",
-      "url": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-23T23:09:16+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "France divided by national protests, destruction of their town hall"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-26T16:07:34Z"
+  "last_updated": "2026-10-27T15:23:37Z"
 }
