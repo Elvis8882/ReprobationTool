@@ -1,16 +1,38 @@
 {
   "country": "RS",
-  "score": 68,
+  "score": 66,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 4,
-  "sources": 23,
+  "trend": -2,
+  "sources": 26,
   "sentiment": {
     "positive": 6,
-    "neutral": 9,
-    "negative": 8
+    "neutral": 10,
+    "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "36cb54dc27024ed18e66ef5afa027ca386df7fa7",
+      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-28T10:17:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Serbian shot dead after attacking officer outside Israeli embassy"
+    },
+    {
+      "id": "ba764b739b9b6d5de4b262b939d71d08c9ab0dc3",
+      "title": "Serbian Students, Victorious and Leaderless, Go After the Media",
+      "summary": "Supporters of the opposition movement that won Sunday’s election stormed the offices of a pro-government tabloid. Another news outlet apologized for years of “one-sided” coverage.",
+      "url": "https://www.nytimes.com/2026/10/27/world/europe/serbia-student-list-news-media-vucic.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-27T17:14:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "stormed the offices of a pro-government tabloid"
+    },
     {
       "id": "bbe0a0e382e138860b9666c9ddae88cfb6d54a0b",
       "title": "Cardiologist, Banker, PhD Holders: How Serbia's New Parliament Will Be Different",
@@ -21,6 +43,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "election win in Serbia"
+    },
+    {
+      "id": "3ce09dce441521d3325718fa50432f8e756c9c3a",
+      "title": "Election Surprises",
+      "summary": "Serbia and Brazil are very different countries. But their unexpected election results tell us a lot.",
+      "url": "https://www.nytimes.com/2026/10/26/world/brazil-serbia-election-results-anthropic.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-27T05:41:47+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Serbia and Brazil are very different countries."
     },
     {
       "id": "d83987691c6e2943e9cee34d09bfc8ffa555ad22",
@@ -197,41 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "war crimes during the violent break from Serbia in the 1990s"
-    },
-    {
-      "id": "c6e85eced575b8519e79861020dd54276adf429a",
-      "title": "UN experts outraged by funeral honours accorded to Ratko Mladić, former general convicted of Srebrenica genocide - ohchr",
-      "summary": "UN experts outraged by funeral honours accorded to Ratko Mladić, former general convicted of Srebrenica genocide&nbsp;&nbsp;ohchrVon der Leyen ‘horrified’ by Mladić funeral, holds off Serbia action&nbsp;&nbsp;Euronews.co…",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWG9Zc3VJcHF3V2ExM2t0OWQ3ZHpjdkl2ZG03bEpoamtKM0JYeTN1ajduXzVyaHJWOURGWDk2N3NhOHNSUjQtRGFZSVFuLWJremJ6a2k1bERsdF8tOXlpX1RHMU9WeDZrd0I0X0N2MDFSdWs2TTlDSmF3QlhwNk5JQ24wbHUyTmxjSkRMdTcycnlzM255RmhQV0NwODFOemtQVVRTNWdTZkdoSlZoaXBIT1RaYjRXMmh2ek1DYw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-09-16T12:34:59+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Von der Leyen ‘horrified’ by Mladić funeral, holds off Serbia action"
-    },
-    {
-      "id": "58e356deedb567bd23cb50262c1eaab2481b5cf1",
-      "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
-      "summary": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
-      "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-07T14:50:50+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "EU warned Serbia not to glorify the convicted war criminal."
-    },
-    {
-      "id": "8a23b28787cc720aa239f7fbef4304591f075a8d",
-      "title": "Ratko Mladić, the ‘Butcher of Bosnia’, given hero’s funeral in Serbia",
-      "summary": "Fanfare at Belgrade funeral of man convicted of genocide raises questions from EU over Serbia’s membership planEurope live – latest updatesThousands of mourners have gathered in Belgrade for the funeral of Ratko Mladić,…",
-      "url": "https://www.theguardian.com/world/2026/sep/07/ratko-mladic-butcher-of-bosnia-funeral-belgrade-serbia",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-07T11:20:15+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "hero’s funeral in Serbia raises questions from EU over Serbia’s membership plan"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-27T15:23:37Z"
+  "last_updated": "2026-10-28T16:00:07Z"
 }

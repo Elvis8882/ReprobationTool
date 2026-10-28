@@ -1,14 +1,14 @@
 {
   "country": "JO",
-  "score": 87,
+  "score": 56,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 31,
+  "trend": -31,
+  "sources": 29,
   "sentiment": {
-    "positive": 2,
-    "neutral": 10,
-    "negative": 19
+    "positive": 1,
+    "neutral": 11,
+    "negative": 17
   },
   "latest_articles": [
     {
@@ -43,6 +43,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Jordan attacks militants in Syria in retaliation for church attack"
+    },
+    {
+      "id": "3522d6f683a87dac4ac44722dc31633aef21e85b",
+      "title": "Jordan Arrests 3 in Connection With Church Attack, State Media Reports",
+      "summary": "Nine people were killed and dozens were wounded in the attack last week on a Greek Orthodox Church in southern Jordan.",
+      "url": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-26T12:09:50+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Jordan Arrests 3 in Connection With Church Attack"
     },
     {
       "id": "515643313a673cda6422226b2f1b7ef31b92f2b5",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "10 people from Jordan"
-    },
-    {
-      "id": "8e475aacbb729297530a7338abe4209b32c42a22",
-      "title": "Iran Says Attacked US Military Targets In UAE, Kuwait",
-      "summary": "The Revolutionary Guards also said they targeted US forces in Jordan, Bahrain, and Erbil",
-      "url": "https://www.ndtv.com/world-news/iran-says-attacked-us-military-targets-in-uae-kuwait-11991010#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-02T07:09:09+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "targeted US forces in Jordan"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-27T15:23:37Z"
+  "last_updated": "2026-10-28T16:00:07Z"
 }
