@@ -1,16 +1,27 @@
 {
   "country": "GE",
   "score": 55,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 7,
+  "sources": 10,
   "sentiment": {
     "positive": 0,
-    "neutral": 5,
+    "neutral": 8,
     "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "63d5467ca74acd54ee6851c3d5e183935439f4d9",
+      "title": "A Georgia court vacated a $186,000 renovation default judgment, sending the dispute back to court",
+      "summary": "A Georgia appeals court has recently vacated a default judgment related to a home construction issue between Juan Ramirez and Big Sky Remodel. The court identified that the initial trial court lacked adequate jurisdictio…",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-2021-a-georgia-home-renovation-ended-in-a-contractor-dispute-a-186000-default-judgment-followed-in-2022-but-an-october-2026-appeals-ruling-vacated-the-award-and-sent-the-case-back-for-review/articleshow/135270731.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-10-28T15:16:33+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "A Georgia court vacated a $186,000 renovation default judgment"
+    },
     {
       "id": "171f5431ff5115cad1209a6b7632ac65b2b071f7",
       "title": "Georgia businessman jailed for 15 years for $76m Ponzi scheme targeting 300+ investors",
@@ -23,6 +34,17 @@
       "evidence": "Georgia businessman jailed for 15 years for $76m Ponzi scheme"
     },
     {
+      "id": "6f226cf360f5eb4eaf975b431f3dda73466aaf30",
+      "title": "Audi CEO faces backlash after joining Trump at midterm campaign rally - Reuters",
+      "summary": "Audi CEO faces backlash after joining Trump at midterm campaign rally&nbsp;&nbsp;ReutersAudi Will Build Its First U.S. Factory in Georgia, Investing $4 Billion and Promising 4500 New Jobs&nbsp;&nbsp;Car and DriverTrump r…",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaC1sRVBIdlJKRXRwLVp2Y2RtYjVoUFRoSU00anpHOHdsMzR0ZUJfcmoybHF5UG5PRW1uZVc0VTdIV1hJWVR3R0t0cGljZDlkNGppY0VjaXVmRlBQMWs3alMxS2NCbjRpakVTbzVoOTRZYVdxbmRJVmE0NnZ6MGdHM1VYUmhCMmlERHFrX3BnR1lhSjJFY1htZlhvbWxUWERzWWJCVGh1WEhJeUF2UW8xVm50ME1rNDJ1Y2pjQVp1dG1UTVd4dEp2aHZPdE5jMWI0ekNPNzhnY1V0UQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-10-26T15:05:44+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Audi Will Build Its First U.S. Factory in Georgia"
+    },
+    {
       "id": "63c8b994d4ee4cf89e975f1fac95230ff841d1bb",
       "title": "Audi boss under fire in Germany for Trump rally appearance",
       "summary": "Gernot Döllner criticised for in-person announcement of major investment in US days before midterm electionsThe head of the luxury carmaker Audi is under fire in Germany for appearing at a rally with Donald Trump just da…",
@@ -32,6 +54,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Audi boss under fire in Germany for Trump rally appearance"
+    },
+    {
+      "id": "5888c5be6e2345aa467004ef2d2e15bea7210666",
+      "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
+      "summary": "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S. tariffs.",
+      "url": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-25T16:42:42+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Audi defends plans for a $4 billion Georgia plant"
     },
     {
       "id": "14def571c6969ae3cffd2dcc0a948746deaad47d",
@@ -90,5 +123,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-28T16:00:07Z"
+  "last_updated": "2026-10-29T16:07:54Z"
 }

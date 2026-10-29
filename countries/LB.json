@@ -1,16 +1,27 @@
 {
   "country": "LB",
-  "score": 82,
+  "score": 81,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 44,
+  "trend": -1,
+  "sources": 45,
   "sentiment": {
     "positive": 4,
     "neutral": 13,
-    "negative": 27
+    "negative": 28
   },
   "latest_articles": [
+    {
+      "id": "06dd93661310ec1060e074872602a70ea6bc0eb3",
+      "title": "First Thing: Brazil re-elects Lula in comeback rebuke for Bolsonaro and far right",
+      "summary": "Leftwing incumbent becomes first candidate to reverse first-round defeat, but far-right son of former president rejects result. Plus, interviews with two legendary songwritersGood morning. Luiz Inácio Lula da Silva has s…",
+      "url": "https://www.theguardian.com/us-news/2026/oct/26/first-thing-brazil-re-elects-lula-comeback-bolsonaro",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-26T14:00:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "buried under rubble beside a dying colleague while reporting in Lebanon"
+    },
     {
       "id": "6526b1931c3139f70384ca44b9ae14eab8cd82fe",
       "title": "US on alert as Iran's plan to target Americans abroad in 'advanced stages': Report",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "entrenched the Israeli occupation of Lebanese territory"
-    },
-    {
-      "id": "30084f4965c38c0721071a7053fbef633f36a2b9",
-      "title": "Israel Says It Cleared Tunnels to Strategic Hezbollah Fortress in Lebanon",
-      "summary": "The operation, which began in June and is ongoing, came as fighting between the U.S. and Iran flared anew.",
-      "url": "https://www.nytimes.com/2026/09/03/world/middleeast/israeli-hezbollah-lebanon.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-04T01:42:02+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Strategic Hezbollah Fortress in Lebanon"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-28T16:00:07Z"
+  "last_updated": "2026-10-29T16:07:54Z"
 }

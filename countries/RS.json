@@ -1,16 +1,27 @@
 {
   "country": "RS",
-  "score": 66,
+  "score": 67,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -2,
-  "sources": 26,
+  "trend": 1,
+  "sources": 28,
   "sentiment": {
-    "positive": 6,
+    "positive": 7,
     "neutral": 10,
-    "negative": 10
+    "negative": 11
   },
   "latest_articles": [
+    {
+      "id": "ff09646fc4dfd043b2149cb83db6f169faef037d",
+      "title": "Knife-Wielding Attacker Fatally Shot Outside Israeli Embassy in Serbia",
+      "summary": "The attacker, a minor, appeared to be a supporter of the Islamic State, the government said. Authorities have described it as a terrorist attack.",
+      "url": "https://www.nytimes.com/2026/10/28/world/europe/knife-wielding-attacker-fatally-shot-outside-israeli-embassy-in-serbia.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-28T15:26:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Outside Israeli Embassy in Serbia...described it as a terrorist attack"
+    },
     {
       "id": "36cb54dc27024ed18e66ef5afa027ca386df7fa7",
       "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
@@ -43,6 +54,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "election win in Serbia"
+    },
+    {
+      "id": "7b5aa57409392cce8e58d083f016f7ae2ad8dec6",
+      "title": "‘It’s the smell of freedom’: Belgrade cleans up after Student List triumph",
+      "summary": "Binbag-wielding volunteers clear encampment used by thugs to intimidate opponents of deposed governmentStudent List cleaned up at Serbia’s parliamentary elections. So it was only fitting that the morning after a night of…",
+      "url": "https://www.theguardian.com/world/2026/oct/27/belgrade-cleans-up-after-student-list-triumph-serbia",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-27T06:00:04+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Belgrade cleans up after Student List triumph... thugs to intimidate opponents"
     },
     {
       "id": "3ce09dce441521d3325718fa50432f8e756c9c3a",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "allegations of corruption"
-    },
-    {
-      "id": "4cd17fa36d175f28399d0d25798d2a991b5fc185",
-      "title": "Kosovo’s former president jailed for 25 years over war crimes",
-      "summary": "Hashim Thaçi, 58, was convicted by The Hague for crimes committed while he was senior commander of the Kosovo Liberation ArmyEurope live – latest updatesHashim Thaçi, the former president of Kosovo, has been sentenced to…",
-      "url": "https://www.theguardian.com/world/2026/sep/16/kosovo-former-president-hashim-thaci-jailed-war-crimes",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-16T13:40:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "during the country’s war for independence from Serbia"
-    },
-    {
-      "id": "7d1459070b923b9d0d2c6e1c42c4a166369aefbd",
-      "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – Europe live",
-      "summary": "Thaçi held criminally responsible for war crimes during the violent break from Serbia in the 1990s Von der Leyen says “kickstarting Europe’s economy is our number one priority,” as Europe needs to tap into its huge marke…",
-      "url": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-16T13:18:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "war crimes during the violent break from Serbia in the 1990s"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-28T16:00:07Z"
+  "last_updated": "2026-10-29T16:07:54Z"
 }

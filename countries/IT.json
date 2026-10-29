@@ -1,16 +1,38 @@
 {
   "country": "IT",
-  "score": 83,
+  "score": 82,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 194,
+  "trend": -1,
+  "sources": 195,
   "sentiment": {
-    "positive": 12,
-    "neutral": 153,
-    "negative": 29
+    "positive": 13,
+    "neutral": 152,
+    "negative": 30
   },
   "latest_articles": [
+    {
+      "id": "c60f1c1e38d313de1aa3499db214223869b3176c",
+      "title": "Behind Italy’s Protests: Rising Prices and Sinking Hopes",
+      "summary": "Inspired in part by French demonstrations, protests in Italy by students in the north and truckers in the south could affect national elections next year.",
+      "url": "https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-28T13:16:35+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "protests in Italy by students...could affect national elections"
+    },
+    {
+      "id": "7f5057072eed06bf6667bcd5dcab04888c049864",
+      "title": "Florence Agenda sets out regional priorities - The Florentine",
+      "summary": "Florence Agenda sets out regional priorities&nbsp;&nbsp;The FlorentineHealth Care: Mattarella Calls for Protection and Expansion&nbsp;&nbsp;italien.newsNRRP, Meloni: \"Italy leads Europe in goals achieved, thanks to teamw…",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc0pieVU4MV9rWlRmRncwd24waVlRaFhiOUl0RWQwRWZkYmlCWVZBV29PNXZneTNBM1ZNTkdjeGc1N3JxZUdVWGpQT0MyUmxRenkwbUNlS1Nnc1VkdFJRZzZrR0NUUTlUcEFsVmRRdmJ1b2o4UnhaRjhNX3RrbWZXSS1tUWk4cTJpMlhBeERlRQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-10-27T17:00:49+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Meloni: \"Italy leads Europe in goals achieved, thanks to teamwork.\""
+    },
     {
       "id": "08b88cd20d6693e2af73c0d7b41f06bb5818f572",
       "title": "Giorgia Meloni’s email targeted in cyberattack on Italian parliament’s IT systems",
@@ -204,29 +226,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Protests by young people in northern cities ended in riots"
-    },
-    {
-      "id": "3b62a89f066dff57e4772080149a3b8bb22a5698",
-      "title": "Meloni calls emergency meeting after weekend of violent clashes",
-      "summary": "More than 200 people were detained during two days of rioting in the city, Italian media reports.",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-19T11:23:36+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "weekend of violent clashes"
-    },
-    {
-      "id": "b9fb054647353c295b3ec875741bee55dc1ae311",
-      "title": "Latvian diplomat gets important EU human rights job",
-      "summary": "On 19th October 2026, the Council of the European Union (EU) appointed Ilze Brands-Kehris as the EU Special Representative for Human Rights, according to a release from the Latvian Foreign Ministry.",
-      "url": "https://eng.lsm.lv/article/politics/diplomacy/19.10.2026-latvian-diplomat-gets-important-eu-human-rights-job.a668181/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-10-19T11:01:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-28T16:00:07Z"
+  "last_updated": "2026-10-29T16:07:54Z"
 }
