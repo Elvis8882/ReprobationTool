@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 83,
+  "score": 82,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 80,
   "sentiment": {
     "positive": 3,
-    "neutral": 53,
-    "negative": 24
+    "neutral": 52,
+    "negative": 25
   },
   "latest_articles": [
+    {
+      "id": "dc4941fcf4015bc4e74a841efeb068a31a441b77",
+      "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
+      "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expectedHeavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days…",
+      "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-30T10:07:16+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Turkey has been hit by powerful thunderstorms and a fatal tornado"
+    },
     {
       "id": "72ab5d9bfb445b69d4f8005d93fb84a838c74299",
       "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "accuses President Recep Tayyip Erdogan of hollowing out Turkey’s democracy"
-    },
-    {
-      "id": "cbc8079c5c4c81b668ba114b2fbc493b9f232737",
-      "title": "Australia and Turkey criticised for hosting UN climate conference while embracing coal",
-      "summary": "Global campaign group 350.org urges Cop31 hosts to announce a coal phase-out date and national roadmaps to get off fossil fuelsSign up for climate and environment editor Adam Morton’s free Clear Air newsletter hereThe ho…",
-      "url": "https://www.theguardian.com/environment/2026/oct/05/australia-and-turkey-criticised-for-hosting-un-climate-conference-while-embracing-coal",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-04T14:00:32+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Turkey and Australia, are facing criticism for being partners in a coal supply chain"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-29T16:07:54Z"
+  "last_updated": "2026-10-30T15:53:10Z"
 }

@@ -4,10 +4,10 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 5,
+  "sources": 6,
   "sentiment": {
     "positive": 0,
-    "neutral": 2,
+    "neutral": 3,
     "negative": 3
   },
   "latest_articles": [
@@ -21,6 +21,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "journalist jailed in Algeria...accused of supporting terrorism"
+    },
+    {
+      "id": "333d63b9b449cb848f25d3f3eef937882d6d2b3f",
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-26T13:18:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "Algeria to send troops to Niger"
     },
     {
       "id": "61a75ff6453da4e1f501156b46e4bcb145f5b05f",
@@ -68,5 +79,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-29T16:07:54Z"
+  "last_updated": "2026-10-30T15:53:10Z"
 }

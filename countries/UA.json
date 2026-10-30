@@ -4,13 +4,57 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 654,
+  "sources": 649,
   "sentiment": {
-    "positive": 225,
+    "positive": 226,
     "neutral": 112,
-    "negative": 317
+    "negative": 311
   },
   "latest_articles": [
+    {
+      "id": "7a105fd2eb1226a8eb292764b9eedf756a3276d4",
+      "title": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
+      "summary": "Global diesel prices surged as Ukraine and Iran struck refineries in Russia and the Middle East.",
+      "url": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-30T15:37:29+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.6,
+      "evidence": "Ukraine and Iran struck refineries in Russia"
+    },
+    {
+      "id": "5d065ae14db2a0a0159dfc045c723726a7a6b592",
+      "title": "Newly Freed American Describes His Years in Russian Prison",
+      "summary": "Stephen James Hubbard, the retired teacher arrested soon after Russia’s full-scale invasion of Ukraine in 2022, said he sometimes lost hope.",
+      "url": "https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-30T12:48:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Russia’s full-scale invasion of Ukraine"
+    },
+    {
+      "id": "6fbe5df8ff305c8c8f58cf170c428fb37c98f27c",
+      "title": "Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks",
+      "summary": "Russian strikes caused major power outages in Dnipro as a reported Ukrainian drone attack sparked a fire at a Russian oil refinery.",
+      "url": "https://www.cnbc.com/2026/10/30/russia-ukraine-putin-zelenskyy-energy-strikes.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-30T11:29:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Ukrainian city into blackout as Zelenskyy warns of more missile attacks"
+    },
+    {
+      "id": "7eeb7a627f895e0f0bb16c82bb6e622cf3f1c046",
+      "title": "How Ukrainian Soldiers Are Moving Underground",
+      "summary": "Ukrainian soldiers are traveling underground through abandoned gas pipes to reach positions near the front. Our correspondent Maria Varenikova joins them on the journey through the kill zone and into positions where troo…",
+      "url": "https://www.nytimes.com/video/world/europe/100000011210889/how-ukrainian-soldiers-are-moving-underground.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-30T11:14:40+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Ukrainian soldiers are traveling underground through abandoned gas pipes to reach positions"
+    },
     {
       "id": "872089d012ee81717d04224a49a4d95bdaa186ec",
       "title": "Commission invites Member States to use €21.3 billion under SAFE to boost Defence Readiness and support to Ukraine - https://defence-industry-space.ec.europa.eu/",
@@ -186,52 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Cease-Fire Brokered by Melania Trump Begins in Ukrainian City"
-    },
-    {
-      "id": "ddd9ded4bfb4632a209bb17738d25c393f179a23",
-      "title": "Civilian Suffering Was Goal of Russian Strikes in Ukraine, U.N. Panel Says",
-      "summary": "The assaults on infrastructure, which cut off heat and power on bitterly cold winter days, amounted to a crime against humanity, investigators said.",
-      "url": "https://www.nytimes.com/2026/10/26/world/europe/russia-ukraine-energy-strikes-un.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-26T23:12:02+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Civilian Suffering Was Goal of Russian Strikes in Ukraine"
-    },
-    {
-      "id": "0b09811305104dcdbfc6ad7a641b96d67eb4b64c",
-      "title": "Trump intensifies anti-Muslim rhetoric against Abdul El-Sayed at Michigan rally – US politics live",
-      "summary": "The US president was condemned for remarks that questioned the senate candidate’s loyalty to the countryWhat are the US midterm elections and why do they matter?Sign up for Breaking News US emailIn a post to social media…",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-26T15:40:35+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukraine was facing dwindling stocks of Patriot interceptor missiles"
-    },
-    {
-      "id": "7dbce69597de8fc5e26df07eabbf2a492a076cc7",
-      "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
-      "summary": "Ukraine challenged Musk’s claim that its military violated Starlink terms, arguing that commercial Starlink limits prevented medium- and long-range strike use.",
-      "url": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-25T18:18:49+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Ukraine disputes Elon Musk’s claim"
-    },
-    {
-      "id": "2f7ad053a046a014db2527e3f6148f2f002e0cc4",
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-25T09:00:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "SpaceX restricted Ukraine's Starlink connection as service restored"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-29T16:07:54Z"
+  "last_updated": "2026-10-30T15:53:10Z"
 }

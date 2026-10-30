@@ -4,13 +4,101 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 830,
+  "sources": 832,
   "sentiment": {
-    "positive": 34,
+    "positive": 35,
     "neutral": 130,
-    "negative": 667
+    "negative": 668
   },
   "latest_articles": [
+    {
+      "id": "7a105fd2eb1226a8eb292764b9eedf756a3276d4",
+      "title": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
+      "summary": "Global diesel prices surged as Ukraine and Iran struck refineries in Russia and the Middle East.",
+      "url": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-30T15:37:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "refineries in Russia and the Middle East"
+    },
+    {
+      "id": "a8ad104e4ff479ec99e53ab45db5f37efdfb2653",
+      "title": "Report: U.S. pressures Baltics not to say nasty things about Russia",
+      "summary": "Pentagon officials have urged several NATO allies, including the Baltic states,&nbsp;to tone down their public rhetoric about the threat posed by Russia, arguing that some statements by European leaders and official&nbsp…",
+      "url": "https://eng.lsm.lv/article/politics/diplomacy/30.10.2026-report-us-pressures-baltics-not-to-say-nasty-things-about-russia.a669926/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "source": "LSM (English)",
+      "published_at": "2026-10-30T14:51:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "threat posed by Russia"
+    },
+    {
+      "id": "c92173bccada4b69bd1bbe001955538535f39588",
+      "title": "Novaya Gazeta, Fiercely Independent Russian News Outlet, Says It Will Shut Down",
+      "summary": "Journalists at Novaya Gazeta, whose co-founder received the Nobel Peace Prize, said the government had orchestrated its demise: “They killed us.”",
+      "url": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-30T14:12:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russian News Outlet, Says It Will Shut Down... government had orchestrated its demise"
+    },
+    {
+      "id": "c784771dd5a216c064f69ff006e2e828fe9ab9e8",
+      "title": "Video: Thick Columns Of Smoke Rise From Russian Oil Refinery After Drone Attack",
+      "summary": "Multiple thick, tall columns of dark gray smoke rose high into the sky",
+      "url": "https://www.ndtv.com/world-news/video-thick-columns-of-smoke-rise-from-novokuybyshevsk-russian-oil-refinery-after-drone-attack-12259683#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-10-30T13:33:24+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Thick Columns Of Smoke Rise From Russian Oil Refinery After Drone Attack"
+    },
+    {
+      "id": "5d065ae14db2a0a0159dfc045c723726a7a6b592",
+      "title": "Newly Freed American Describes His Years in Russian Prison",
+      "summary": "Stephen James Hubbard, the retired teacher arrested soon after Russia’s full-scale invasion of Ukraine in 2022, said he sometimes lost hope.",
+      "url": "https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-30T12:48:15+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Russia’s full-scale invasion of Ukraine in 2022"
+    },
+    {
+      "id": "2ec54ff601cb314a11b79d61659236e1d69ad24a",
+      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+      "summary": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
+      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-30T12:25:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "devastated Russian-occupied Oleshky as evacuation corridor opens"
+    },
+    {
+      "id": "6fbe5df8ff305c8c8f58cf170c428fb37c98f27c",
+      "title": "Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks",
+      "summary": "Russian strikes caused major power outages in Dnipro as a reported Ukrainian drone attack sparked a fire at a Russian oil refinery.",
+      "url": "https://www.cnbc.com/2026/10/30/russia-ukraine-putin-zelenskyy-energy-strikes.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-10-30T11:29:59+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russian strikes plunge Ukrainian city into blackout"
+    },
+    {
+      "id": "24c469249420b41a050fc698e6c79667b3a452d2",
+      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-30T11:23:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russian newspaper shuts down under pressure from authorities"
+    },
     {
       "id": "d4f72b2bef19d61ffe62e8745ae3959899f348d6",
       "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
@@ -142,96 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Trump administration may let more Russian diesel onto market"
-    },
-    {
-      "id": "4ce40386cade254da65c1cffaa57c8dd6f7e6d9d",
-      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-      "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-27T22:11:08+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russia and Ukraine say no breaches have been reported."
-    },
-    {
-      "id": "eaf6f6cabf1e8d833c79e35418e4ac7d76b48b8f",
-      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
-      "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
-      "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-27T20:42:38+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russian-occupied city of Oleshky has had no electricity, gas or water"
-    },
-    {
-      "id": "bbcf7b2c06c7eac613e31f7a77e70a840ddfc87e",
-      "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
-      "summary": "Frontline near Russian-occupied city in southern Ukraine quiet for first time in years ahead of planned evacuationA local ceasefire in a southern Ukrainian city under Russian occupation appeared to be holding on Tuesday,…",
-      "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-27T17:43:02+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russian-occupied city in southern Ukraine quiet for first time"
-    },
-    {
-      "id": "5da481dc97b7cc7c3634c50236de7e5402377683",
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "summary": "This is the first time European leaders have had direct communication with Russia's president in more than a year.",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-27T14:23:05+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Norway and Finland leaders hold rare call with Putin"
-    },
-    {
-      "id": "d8ad753e5f0d0df9f23af8f8c70a7a9d58ede37d",
-      "title": "Finland, Norway Leaders Hold \"Frank\" Call With Putin On Ukraine War",
-      "summary": "The Kremlin said the three leaders had \"agreed to continue maintaining direct contact by telephone\".",
-      "url": "https://www.ndtv.com/world-news/finland-norway-leaders-hold-frank-call-with-putin-on-ukraine-war-12244115#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-27T14:00:17+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Finland, Norway Leaders Hold \"Frank\" Call With Putin On Ukraine War"
-    },
-    {
-      "id": "0b107147f2e1ba1d2537afe8a7321ab5a203d91a",
-      "title": "Melania Trump-brokered local ceasefire begins as Russia continues attacks on Ukraine",
-      "summary": "An Oleshky ceasefire brokered by Melania Trump began Tuesday as Russia launched missiles and drones at cities across Ukraine.",
-      "url": "https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-27T11:18:31+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russia continues attacks on Ukraine"
-    },
-    {
-      "id": "534eb9fb102a96a8dedc83b94b63df00b6ff9ffb",
-      "title": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
-      "summary": "China and Russia are tightening their grip on Arctic shipping routes, turning the rapidly warming region into a new geopolitical battleground with Europe.",
-      "url": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-27T01:24:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russia are redrawing Arctic trade."
-    },
-    {
-      "id": "ddd9ded4bfb4632a209bb17738d25c393f179a23",
-      "title": "Civilian Suffering Was Goal of Russian Strikes in Ukraine, U.N. Panel Says",
-      "summary": "The assaults on infrastructure, which cut off heat and power on bitterly cold winter days, amounted to a crime against humanity, investigators said.",
-      "url": "https://www.nytimes.com/2026/10/26/world/europe/russia-ukraine-energy-strikes-un.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-26T23:12:02+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Russian Strikes in Ukraine... amounted to a crime against humanity"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-29T16:07:54Z"
+  "last_updated": "2026-10-30T15:53:10Z"
 }

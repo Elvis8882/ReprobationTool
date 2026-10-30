@@ -1,16 +1,27 @@
 {
   "country": "RS",
-  "score": 67,
+  "score": 68,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 1,
-  "sources": 28,
+  "sources": 29,
   "sentiment": {
-    "positive": 7,
+    "positive": 8,
     "neutral": 10,
     "negative": 11
   },
   "latest_articles": [
+    {
+      "id": "c36b33e7f6c0ea439c184f10cf6fbf3abd0c0259",
+      "title": "Student-backed election winners demand sweeping resignations in Serbia",
+      "summary": "Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-30T00:17:28+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "ousting Aleksandar Vučić's party from power, Student List MPs call"
+    },
     {
       "id": "ff09646fc4dfd043b2149cb83db6f169faef037d",
       "title": "Knife-Wielding Attacker Fatally Shot Outside Israeli Embassy in Serbia",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Serbia’s Longtime President Aleksandar Vucic Resigns Post"
-    },
-    {
-      "id": "dd7f9186901b17b815b1b6d327bc79b936f8a1e0",
-      "title": "Embattled Serbian president resigns, paving way for early elections",
-      "summary": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
-      "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-27T20:04:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "allegations of corruption"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-29T16:07:54Z"
+  "last_updated": "2026-10-30T15:53:10Z"
 }

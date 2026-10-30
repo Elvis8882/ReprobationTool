@@ -1,16 +1,38 @@
 {
   "country": "GR",
-  "score": 67,
+  "score": 66,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 138,
+  "trend": -1,
+  "sources": 140,
   "sentiment": {
     "positive": 5,
-    "neutral": 126,
-    "negative": 7
+    "neutral": 127,
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "a482c32ba25e0a7200c0ff5363919b0fde59eb71",
+      "title": "3 Arrested in Connection With Deadly Blast in Central Athens",
+      "summary": "The authorities said an attempt to steal copper gas pipes ultimately led to the massive explosion last month, which killed six people.",
+      "url": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-30T14:45:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Deadly Blast in Central Athens"
+    },
+    {
+      "id": "dc4941fcf4015bc4e74a841efeb068a31a441b77",
+      "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
+      "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expectedHeavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days…",
+      "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-30T10:07:16+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Severe rainfall and flood warnings issued for central Greece"
+    },
     {
       "id": "a0b1885af39049da197c7c70d20deab5956e88ac",
       "title": "Jordan attacks militants in Syria in retaliation for church attack",
@@ -198,29 +220,8 @@
       "published_at": "2026-10-14T13:40:28+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "5e96e0c83a6975a059cc398c57870f78b6c3c8b3",
-      "title": "‘Very risky choice’: Meloni warns US-Russia diesel deal could help fund Ukraine war",
-      "summary": "Giorgia Meloni has expressed concerns about the US agreement with Russia regarding diesel supplies during her parliament address. She believes the deal could financially aid Russia's war efforts in Ukraine. Meloni urged…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/very-risky-choice-italys-meloni-warns-us-russia-diesel-deal-could-help-fund-war-in-ukraine/articleshow/134941715.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-10-14T11:59:17+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "b91386fcbef1957f44ed153ec0e83080bd73c70f",
-      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "summary": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
-      "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-13T19:23:28+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "US ambassador to Greece after corruption allegations"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-29T16:07:54Z"
+  "last_updated": "2026-10-30T15:53:10Z"
 }
