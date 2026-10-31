@@ -1,0 +1,41 @@
+{
+  "id": "77e8331448e47476a0b649109cf2ebe66584cb3e",
+  "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+  "summary_full": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+  "summary_public": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+  "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-10-30T22:11:52+00:00",
+  "source": "BBC News - World",
+  "language": "en",
+  "countries_detected": [
+    "GB",
+    "RU",
+    "UA"
+  ],
+  "countries_scored": [
+    "GB",
+    "RU",
+    "UA"
+  ],
+  "sentiment_by_country": {
+    "GB": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "protests over presence of Russian minister"
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.7,
+      "evidence": "killing innocent civilians in Ukraine"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-10-31T15:19:37+00:00",
+  "processed_at": "2026-10-31T15:19:37+00:00"
+}
