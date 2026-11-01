@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 652,
+  "sources": 648,
   "sentiment": {
-    "positive": 227,
-    "neutral": 112,
-    "negative": 313
+    "positive": 226,
+    "neutral": 111,
+    "negative": 311
   },
   "latest_articles": [
+    {
+      "id": "d3dffc6bf36942f862d75bff9675a016784c38e5",
+      "title": "Ukrainian Evacuees From Oleshky Tell Survival Stories",
+      "summary": "Safely out of Oleshky after enduring years in the combat zone and a harrowing 24-hour journey, weary civilians reunited with family and friends.",
+      "url": "https://www.nytimes.com/2026/10/31/world/europe/ukraine-evacuees-oleshky.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-31T21:43:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Ukrainian Evacuees From Oleshky Tell Survival Stories"
+    },
     {
       "id": "763a99da6625bb996630857a6e433e06b71bd9f4",
       "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Ukraine-Russia truce in Oleshky, brokered by Melania Trump"
-    },
-    {
-      "id": "bbcf7b2c06c7eac613e31f7a77e70a840ddfc87e",
-      "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
-      "summary": "Frontline near Russian-occupied city in southern Ukraine quiet for first time in years ahead of planned evacuationA local ceasefire in a southern Ukrainian city under Russian occupation appeared to be holding on Tuesday,…",
-      "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-27T17:43:02+00:00",
-      "sentiment": "mixed",
-      "confidence": 0.7,
-      "evidence": "local ceasefire in Russian-occupied Oleshky; Ukrainian troops recaptured Kherson"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-31T15:19:37Z"
+  "last_updated": "2026-11-01T16:01:48Z"
 }

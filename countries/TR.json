@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 82,
+  "score": 81,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 80,
+  "trend": -1,
+  "sources": 81,
   "sentiment": {
     "positive": 3,
     "neutral": 52,
-    "negative": 25
+    "negative": 26
   },
   "latest_articles": [
+    {
+      "id": "5a99f5545bfd718fe73758a41a4c4441ca474ced",
+      "title": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
+      "summary": "A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis.",
+      "url": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-31T17:56:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "agreement with Turkey and Pakistan"
+    },
     {
       "id": "dc4941fcf4015bc4e74a841efeb068a31a441b77",
       "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Cop31 UN climate summit in Turkey"
-    },
-    {
-      "id": "fd85eae4c90475d441216c5efecbe43b90e07a55",
-      "title": "Turkey Banned a Book by a Jailed Presidential Hopeful. We Read It.",
-      "summary": "From jail, the former mayor of Istanbul accuses President Recep Tayyip Erdogan of hollowing out Turkey’s democracy to stay in power.",
-      "url": "https://www.nytimes.com/2026/10/05/world/middleeast/turkey-banned-book-opposition-leader.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-05T09:23:01+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "accuses President Recep Tayyip Erdogan of hollowing out Turkey’s democracy"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-31T15:19:37Z"
+  "last_updated": "2026-11-01T16:01:48Z"
 }

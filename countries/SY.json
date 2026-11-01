@@ -1,16 +1,27 @@
 {
   "country": "SY",
-  "score": 84,
+  "score": 83,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
-  "sources": 37,
+  "trend": -1,
+  "sources": 38,
   "sentiment": {
     "positive": 2,
     "neutral": 13,
-    "negative": 22
+    "negative": 23
   },
   "latest_articles": [
+    {
+      "id": "5a99f5545bfd718fe73758a41a4c4441ca474ced",
+      "title": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
+      "summary": "A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis.",
+      "url": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-31T17:56:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Syria Weighs Joining Saudi Mutual Defense Pact"
+    },
     {
       "id": "2b5190d25efaa4afa0281b4f1d0d174f51811f6b",
       "title": "US teen whose father arranged her marriage to Islamic State fighter convicted for weapons training",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.5,
       "evidence": "halt its attacks on Syria."
-    },
-    {
-      "id": "ae1baf987a355efa366f2f2d3b54c6653a124f37",
-      "title": "Kurdish-Led Militia in Syria Disbands in Boost for U.S.-Backed Government",
-      "summary": "The Syrian Democratic Forces, a Kurdish-led armed group that has lost territory and authority in recent months, will integrate with the country’s military.",
-      "url": "https://www.nytimes.com/2026/08/26/world/middleeast/kurdish-militia-syria-disbands.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-26T19:46:10+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Kurdish-Led Militia in Syria Disbands in Boost for U.S.-Backed Government"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-31T15:19:37Z"
+  "last_updated": "2026-11-01T16:01:48Z"
 }

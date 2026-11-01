@@ -1,16 +1,27 @@
 {
   "country": "RS",
-  "score": 68,
+  "score": 96,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 29,
+  "trend": 28,
+  "sources": 30,
   "sentiment": {
-    "positive": 8,
+    "positive": 9,
     "neutral": 10,
     "negative": 11
   },
   "latest_articles": [
+    {
+      "id": "b7a9812ee980d5efb1cb4116b7faad1460db6c0e",
+      "title": "‘Swift justice’: Student List supporters focus on cleaning up Serbia’s rotten institutions",
+      "summary": "After improbable election victory, the unconventional grassroots movement says it will prioritise dismissal of corrupt officialsIn Belgrade’s Pioneers Park, just across from the national assembly, a small crowd craned th…",
+      "url": "https://www.theguardian.com/world/2026/oct/30/student-list-focus-on-cleaning-up-serbia-corruption",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-30T10:54:17+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "cleaning up Serbia’s rotten institutions"
+    },
     {
       "id": "c36b33e7f6c0ea439c184f10cf6fbf3abd0c0259",
       "title": "Student-backed election winners demand sweeping resignations in Serbia",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Serbian ruler’s secret role in ‘illegal’ effort to help Trump business"
-    },
-    {
-      "id": "c2d86172d268a619f155a0c9c6cbb6c9dca7f62f",
-      "title": "Serbia’s Longtime President Aleksandar Vucic Resigns Post",
-      "summary": "Aleksandar Vucic, one of Europe’s longest-serving leaders, resigned as president, paving the way for him to become prime minister after elections next month.",
-      "url": "https://www.nytimes.com/2026/09/27/world/europe/serbia-president-aleksandar-vucicto-resigns.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-27T21:22:29+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Serbia’s Longtime President Aleksandar Vucic Resigns Post"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-31T15:19:37Z"
+  "last_updated": "2026-11-01T16:01:48Z"
 }

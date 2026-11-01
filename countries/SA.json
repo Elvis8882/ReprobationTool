@@ -1,16 +1,27 @@
 {
   "country": "SA",
-  "score": 15,
+  "score": 14,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": -1,
-  "sources": 272,
+  "sources": 271,
   "sentiment": {
-    "positive": 21,
+    "positive": 19,
     "neutral": 121,
-    "negative": 131
+    "negative": 132
   },
   "latest_articles": [
+    {
+      "id": "5a99f5545bfd718fe73758a41a4c4441ca474ced",
+      "title": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
+      "summary": "A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis.",
+      "url": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
+      "source": "NYT > World News",
+      "published_at": "2026-10-31T17:56:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Saudi Mutual Defense Pact as Yemen War Rages"
+    },
     {
       "id": "e0a768bfd165e3b4b98bb0d19a476492a034a223",
       "title": "Saudi \"Destroys Houthi Drone\" In Mecca, Group Call It \"Fabrication\"",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "US diplomats told to leave Saudi Arabia amid Houthi attacks"
-    },
-    {
-      "id": "f742c3911c3533b1b3d0190237a5198a4700e940",
-      "title": "Oil prices jump to five-month high as attacks threaten global supply",
-      "summary": "Iran’s IRGC says it hit four vessels in the northern Gulf and three more struck mines near the strait of HormuzShipping workers: how is the Middle East conflict affecting you?Business live – latest updatesOil prices jump…",
-      "url": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-22T11:28:11+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "attacks in Saudi Arabia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-31T15:19:37Z"
+  "last_updated": "2026-11-01T16:01:48Z"
 }

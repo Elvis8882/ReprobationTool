@@ -1,16 +1,27 @@
 {
   "country": "ES",
-  "score": 70,
+  "score": 71,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 3,
-  "sources": 267,
+  "trend": 1,
+  "sources": 264,
   "sentiment": {
-    "positive": 12,
-    "neutral": 207,
-    "negative": 48
+    "positive": 10,
+    "neutral": 209,
+    "negative": 45
   },
   "latest_articles": [
+    {
+      "id": "744b3c145f8ccb86d09db6be3fc4f493f85ef4e1",
+      "title": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
+      "summary": "Dr Marta Shahbazi was travelling to a conference to receive award for scientific excellence in developmental biologyAn “inspiring” University of Cambridge scientist died in the Spanish train collision on Wednesday that k…",
+      "url": "https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-01T15:00:14+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "died in Spain train crash"
+    },
     {
       "id": "ece0b1c71b32fac68fcdf60b1125c8062e24bb92",
       "title": "Train Disaster Is Blow to Spain’s Leader, Already Election Underdog",
@@ -54,6 +65,28 @@
       "sentiment_fallback": true
     },
     {
+      "id": "8610d06d514b3a1ad1c7a2744b27bba8178d4821",
+      "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – Europe live",
+      "summary": "Some 69 people have been confirmed dead but the toll may rise further, with at least 70 people reported missingPeunte begins by paying tribute to all affected by the incident.He says that “at present, evidence points to…",
+      "url": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-30T15:31:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "killed or injured in Spain train crash"
+    },
+    {
+      "id": "2a7e38a5920263ac89535b1e9dadf829c28e619e",
+      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+      "summary": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-30T15:03:39+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Spain transport minister says he won't resign"
+    },
+    {
       "id": "46feefc256343398ee69c39dcd789c121bc76bb5",
       "title": "Cost of living protests  to spread to Germany and reignite in France on Halloween",
       "summary": "Activists call for people to make their anger known over poor public services including education and housingEurope live – latest updatesStreet protests sweeping Europe are expected to spread to Germany and reignite in F…",
@@ -74,6 +107,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Spain’s trust in high-speed rail ‘broken’ after second deadly crash"
+    },
+    {
+      "id": "a1b6e2b85e258508defda0e8a1e952f54cc5b003",
+      "title": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
+      "summary": "In today’s newsletter: Benjamin Netanyahu has been left without a majority, now it is up to the coalition to find out whether the desire for change will prove to be a defining political momentGood morning. It was describ…",
+      "url": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-30T06:44:29+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "evidence": "Spain began three days of mourning on Thursday"
     },
     {
       "id": "9971a5e4ef2ea3c4917f192e2f3ca13d2a6401cd",
@@ -184,52 +228,8 @@
       "sentiment": "neutral",
       "confidence": 0.5,
       "evidence": "Huge Anti-Government Protests In Spain After Train Crash Kill 68"
-    },
-    {
-      "id": "5732b53dcf71f5e7040154d421901270d50dba9a",
-      "title": "Spain Train Crash Kills at Least 68",
-      "summary": "The accident, the second in less than a year on the same busy rail line, was one of the deadliest in the country’s history.",
-      "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-28T20:26:04+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Spain Train Crash Kills at Least 68"
-    },
-    {
-      "id": "1c0e5ec1e52dbc73d45f1eb3393ecd2fd114f196",
-      "title": "Spain’s Transportation Minister Said Incorrect Instructions Led to Train Crash",
-      "summary": "An “inexplicable” decision by traffic control operators sent a train on its way toward another stopped miles in front of it, the minister said.",
-      "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-cause.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-28T17:36:08+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Spain’s Transportation Minister Said Incorrect Instructions Led to Train Crash"
-    },
-    {
-      "id": "fd3331955f578166f58c5eae4a4eb733d5537ce8",
-      "title": "Spain Crash Survivor Describes a ‘Twisted Tangle of Metal’",
-      "summary": "Fernando Seco, 62, said he and others moved at least a dozen wounded passengers from the crash site, using parts of the wreckage as makeshift stretchers.",
-      "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-survivor.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-28T17:29:30+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Spain Crash Survivor Describes a ‘Twisted Tangle of Metal’"
-    },
-    {
-      "id": "647f75df7ba2514ad4d3020978059f17bcf4b229",
-      "title": "Watch: At the scene of Spain's deadly train crash",
-      "summary": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
-      "url": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-28T16:45:16+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Spain's deadly train crash... country's worst disaster since 2013"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-10-31T15:19:37Z"
+  "last_updated": "2026-11-01T16:01:48Z"
 }
