@@ -4,13 +4,79 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 829,
+  "sources": 825,
   "sentiment": {
     "positive": 36,
-    "neutral": 125,
-    "negative": 669
+    "neutral": 126,
+    "negative": 664
   },
   "latest_articles": [
+    {
+      "id": "5514758bae729bb20b3c1f775f1b0deda13dc5f0",
+      "title": "Russia Senses Opportunity in Polish Political Turmoil",
+      "summary": "After its sometime allies were ousted in elections in Hungary and Serbia, Moscow has seized on Poland’s constitutional standoff in its effort to weaken Europe’s support for Ukraine.",
+      "url": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-02T19:05:52+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Moscow seized on Poland’s constitutional standoff to weaken Europe’s support"
+    },
+    {
+      "id": "7584627279c216f260bf9c743ecc155b3626f315",
+      "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+      "summary": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-02T18:48:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russian bombing kills 24 people at Ukraine aid centre"
+    },
+    {
+      "id": "9021f5cfb428211cb7da37d8bc39262a3f10e977",
+      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+      "summary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
+      "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-02T18:34:24+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Many Ukrainians, who have faced years of Russian attacks"
+    },
+    {
+      "id": "cc0d6d4d3c641eaea763e1b56d45bb185c34207e",
+      "title": "Ikea among shops affected by fridge cyber-hacks – Europe live",
+      "summary": "Supermarkets across Europe have experienced temperature-control meddlingThe fake nuclear threats to Ukraine came as Russia resumed its attacks on the southern city of Kherson, just hours after the end of a ceasefire duri…",
+      "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-02T16:17:14+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia resumed its attacks on the southern city of Kherson"
+    },
+    {
+      "id": "513169a5683f45e98724ffd1afdebb1e5a6a6898",
+      "title": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
+      "summary": "Russia and Ukraine both report cyberattacks on their alerting systems, as strikes continue across the countries.",
+      "url": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-11-02T15:28:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Moscow, Kyiv report separate cyberattacks on emergency apps"
+    },
+    {
+      "id": "b98972249986cabd5b2a7da4dee5984f7ee15645",
+      "title": "What we know about the alert app hack in Ukraine and Russia",
+      "summary": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
+      "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-02T14:24:25+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Russia say their air raid alert apps were cyber-attacked"
+    },
     {
       "id": "b45f277e5a702b71da36628fca9b0778697aed4e",
       "title": "Putin Breaks Down His Isolation, With a Big Assist From Trump",
@@ -54,6 +120,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Russia-occupied city where residents ate weeds"
+    },
+    {
+      "id": "1e34b1a854c2be35df50c7558804661e47e90e4e",
+      "title": "Starmer says UK must get closer to Europe as US relationship changes",
+      "summary": "Shift in dealings with Washington not likely to reset once Trump leaves Oval Office, former PM saysThe UK and other European nations must draw closer together as the US becomes a less-reliable partner, Keir Starmer has s…",
+      "url": "https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump",
+      "source": "World news - The Guardian",
+      "published_at": "2026-10-31T13:32:25+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "threat posed by Russia"
     },
     {
       "id": "008e0f544cd298c599a52d00eda3816ae1848295",
@@ -153,85 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "threat posed by Russia"
-    },
-    {
-      "id": "c92173bccada4b69bd1bbe001955538535f39588",
-      "title": "Novaya Gazeta, Fiercely Independent Russian News Outlet, Says It Will Shut Down",
-      "summary": "Journalists at Novaya Gazeta, whose co-founder received the Nobel Peace Prize, said the government had orchestrated its demise: “They killed us.”",
-      "url": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-30T14:12:50+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russian News Outlet, Says It Will Shut Down... government had orchestrated its demise"
-    },
-    {
-      "id": "c784771dd5a216c064f69ff006e2e828fe9ab9e8",
-      "title": "Video: Thick Columns Of Smoke Rise From Russian Oil Refinery After Drone Attack",
-      "summary": "Multiple thick, tall columns of dark gray smoke rose high into the sky",
-      "url": "https://www.ndtv.com/world-news/video-thick-columns-of-smoke-rise-from-novokuybyshevsk-russian-oil-refinery-after-drone-attack-12259683#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-30T13:33:24+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Thick Columns Of Smoke Rise From Russian Oil Refinery After Drone Attack"
-    },
-    {
-      "id": "5d065ae14db2a0a0159dfc045c723726a7a6b592",
-      "title": "Newly Freed American Describes His Years in Russian Prison",
-      "summary": "Stephen James Hubbard, the retired teacher arrested soon after Russia’s full-scale invasion of Ukraine in 2022, said he sometimes lost hope.",
-      "url": "https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-30T12:48:15+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Russia’s full-scale invasion of Ukraine in 2022"
-    },
-    {
-      "id": "2ec54ff601cb314a11b79d61659236e1d69ad24a",
-      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-      "summary": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
-      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-30T12:25:53+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "devastated Russian-occupied Oleshky as evacuation corridor opens"
-    },
-    {
-      "id": "6fbe5df8ff305c8c8f58cf170c428fb37c98f27c",
-      "title": "Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks",
-      "summary": "Russian strikes caused major power outages in Dnipro as a reported Ukrainian drone attack sparked a fire at a Russian oil refinery.",
-      "url": "https://www.cnbc.com/2026/10/30/russia-ukraine-putin-zelenskyy-energy-strikes.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-30T11:29:59+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russian strikes plunge Ukrainian city into blackout"
-    },
-    {
-      "id": "24c469249420b41a050fc698e6c79667b3a452d2",
-      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
-      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-30T11:23:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russian newspaper shuts down under pressure from authorities"
-    },
-    {
-      "id": "d4f72b2bef19d61ffe62e8745ae3959899f348d6",
-      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-29T14:17:35+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russian drone attack on Ukrainian train station kills at least 14"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-01T16:01:48Z"
+  "last_updated": "2026-11-02T19:28:09Z"
 }

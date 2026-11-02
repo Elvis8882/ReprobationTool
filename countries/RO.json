@@ -1,16 +1,26 @@
 {
   "country": "RO",
-  "score": 69,
+  "score": 70,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 103,
+  "trend": 1,
+  "sources": 102,
   "sentiment": {
     "positive": 8,
     "neutral": 85,
-    "negative": 10
+    "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "7af52f266eee7f62e7865400bc47a64d28b9a18a",
+      "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
+      "summary": "Former chancellor says leaving European Union has made Britain ‘poorer, weaker and less secure’The former chancellor Rachel Reeves has argued Britain’s future should be back in the European Union, saying Brexit has made…",
+      "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-01T09:55:20+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "d410dc18f2e079a047bc5675baf35c55180d312e",
       "title": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
@@ -204,19 +214,8 @@
       "published_at": "2026-10-12T11:23:55+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "b0c4b32999416118a816f0ea59b77b1a4e786b46",
-      "title": "Three Indians rescued from attacked cargo ship in Black sea depart for India",
-      "summary": "Amidst a distressing attack on the Turkish-owned MV Royad Mammadov cargo vessel in the Black Sea, three Indian nationals were successfully rescued. After receiving medical care in Romania, they were declared stable. The…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/three-indians-rescued-from-attacked-cargo-ship-in-black-sea-depart-for-india/articleshow/134868464.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-10-11T10:26:22+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "After receiving medical care in Romania, they were declared stable."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-01T16:01:48Z"
+  "last_updated": "2026-11-02T19:28:09Z"
 }

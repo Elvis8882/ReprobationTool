@@ -1,16 +1,27 @@
 {
   "country": "BY",
-  "score": 73,
+  "score": 74,
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 1,
-  "sources": 45,
+  "sources": 44,
   "sentiment": {
     "positive": 1,
-    "neutral": 8,
-    "negative": 36
+    "neutral": 9,
+    "negative": 34
   },
   "latest_articles": [
+    {
+      "id": "896568e9efb4f58271138b911284227e876b7a17",
+      "title": "Emotional reunions with loved ones for Oleshky evacuees",
+      "summary": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.",
+      "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-10-31T16:55:47+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Ukrainian border with Belarus"
+    },
     {
       "id": "8a371349e4b0c56fed7e9071be50bbd3cda3f844",
       "title": "Estonia reports 388 detentions since July linked to Belarus route - InfoMigrants",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "neighbouring Belarus"
-    },
-    {
-      "id": "4ff4d8be708e78c5110d4e4eb5fa4db89d9865b7",
-      "title": "Saeima moves toward grain transit sanctions on Russia, Belarus",
-      "summary": "Latvia's parliament, the&nbsp;Saeima, decided on September 10th to back initial proposals that will extend the sanctions in place against aggressor states Russia and Belarus.",
-      "url": "https://eng.lsm.lv/article/politics/saeima/10.09.2026-saeima-moves-toward-grain-transit-sanctions-on-russia-belarus.a662594/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-09-10T13:45:09+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "extend the sanctions in place against aggressor states Russia and Belarus."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-01T16:01:48Z"
+  "last_updated": "2026-11-02T19:28:09Z"
 }

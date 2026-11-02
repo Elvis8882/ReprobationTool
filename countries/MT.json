@@ -1,16 +1,26 @@
 {
   "country": "MT",
-  "score": 66,
+  "score": 67,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 93,
+  "trend": 1,
+  "sources": 91,
   "sentiment": {
     "positive": 4,
-    "neutral": 83,
-    "negative": 6
+    "neutral": 82,
+    "negative": 5
   },
   "latest_articles": [
+    {
+      "id": "7af52f266eee7f62e7865400bc47a64d28b9a18a",
+      "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
+      "summary": "Former chancellor says leaving European Union has made Britain ‘poorer, weaker and less secure’The former chancellor Rachel Reeves has argued Britain’s future should be back in the European Union, saying Brexit has made…",
+      "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-01T09:55:20+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "d410dc18f2e079a047bc5675baf35c55180d312e",
       "title": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
@@ -201,18 +211,8 @@
       "published_at": "2026-10-07T09:06:15+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "b0bfcb206f235590d3f215d81dbc0dd72dbc429e",
-      "title": "‘No more Viktor Orbán’: EU plans 15-year probation period for new member states",
-      "summary": "Enlargement commissioner Marta Kos outlines proposed safeguards to protect EU from undemocratic leadersThe European Commission wants to ensure there is no repeat Viktor Orbán among the next generation of EU member states…",
-      "url": "https://www.theguardian.com/world/2026/oct/06/eu-plans-15-year-probation-period-new-member-states-viktor-orban",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-06T14:38:16+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-01T16:01:48Z"
+  "last_updated": "2026-11-02T19:28:09Z"
 }

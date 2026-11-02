@@ -1,16 +1,27 @@
 {
   "country": "DE",
-  "score": 30,
+  "score": 29,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -3,
-  "sources": 288,
+  "trend": -1,
+  "sources": 287,
   "sentiment": {
-    "positive": 24,
-    "neutral": 164,
-    "negative": 100
+    "positive": 23,
+    "neutral": 163,
+    "negative": 101
   },
   "latest_articles": [
+    {
+      "id": "0296f94c979d99a5b9962855a15bdd565423396d",
+      "title": "A Lesson From Germany",
+      "summary": "Trump is betting on economic incentives to stop Putin in Ukraine. Germany’s experience shows why that strategy is risky.",
+      "url": "https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-02T05:35:54+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Germany’s experience shows why that strategy is risky."
+    },
     {
       "id": "de77300dcc63145ae5aceee7a73cc5f5a94f0a25",
       "title": "Shops looted as German cost-of-living protests turn violent",
@@ -21,6 +32,16 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Shops looted as German cost-of-living protests turn violent"
+    },
+    {
+      "id": "7af52f266eee7f62e7865400bc47a64d28b9a18a",
+      "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
+      "summary": "Former chancellor says leaving European Union has made Britain ‘poorer, weaker and less secure’The former chancellor Rachel Reeves has argued Britain’s future should be back in the European Union, saying Brexit has made…",
+      "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-01T09:55:20+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "6b764bad8f8e4bbb1f1bce45b26eeba6340ad861",
@@ -204,30 +225,8 @@
       "published_at": "2026-10-24T15:13:37+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "3c59e84754bad299c632beee639a21f8fc9a749d",
-      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-24T11:23:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "fire at Hitler's mountaintop Eagle's Nest retreat in Germany"
-    },
-    {
-      "id": "1420b454f28905e534bb7954d8df179245367cf4",
-      "title": "‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire",
-      "summary": "The police said on Saturday that the structure, a tourist attraction for decades, was probably not salvageable. A man was arrested in connection with the blaze.",
-      "url": "https://www.nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-24T11:10:50+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-01T16:01:48Z"
+  "last_updated": "2026-11-02T19:28:09Z"
 }

@@ -1,16 +1,26 @@
 {
   "country": "BG",
-  "score": 65,
+  "score": 66,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 99,
+  "trend": 1,
+  "sources": 98,
   "sentiment": {
     "positive": 5,
     "neutral": 85,
-    "negative": 9
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "7af52f266eee7f62e7865400bc47a64d28b9a18a",
+      "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
+      "summary": "Former chancellor says leaving European Union has made Britain ‘poorer, weaker and less secure’The former chancellor Rachel Reeves has argued Britain’s future should be back in the European Union, saying Brexit has made…",
+      "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-01T09:55:20+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "d410dc18f2e079a047bc5675baf35c55180d312e",
       "title": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
@@ -206,19 +216,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "More Black Sea Drone Strikes"
-    },
-    {
-      "id": "510cc81ec38a616a54192ff6c93e7f425c9d2e70",
-      "title": "11 Missing After 2 Merchant Ships Struck Off Bulgarian Coast",
-      "summary": "EU chief Ursula von der Leyen condemned the latest attacks",
-      "url": "https://www.ndtv.com/world-news/11-missing-after-2-merchant-ships-struck-off-bulgarian-coast-12180323#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-13T14:52:17+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "EU chief Ursula von der Leyen condemned the latest attacks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-01T16:01:48Z"
+  "last_updated": "2026-11-02T19:28:09Z"
 }

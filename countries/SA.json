@@ -1,6 +1,6 @@
 {
   "country": "SA",
-  "score": 14,
+  "score": 13,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": -1,
@@ -8,16 +8,38 @@
   "sentiment": {
     "positive": 19,
     "neutral": 121,
-    "negative": 132
+    "negative": 133
   },
   "latest_articles": [
+    {
+      "id": "e69bb1b22463825f751e675bc46810d5d1859c4b",
+      "title": "Houthis Claim 'Attacked' Dammam Airport In Saudi Arabia With Drones",
+      "summary": "Houthis on Monday said they targeted Dammam airport in eastern Saudi Arabia",
+      "url": "https://www.ndtv.com/world-news/houthis-claim-attacked-dammam-airport-in-saudi-arabia-with-drones-12273219#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-02T17:16:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Attacked' Dammam Airport In Saudi Arabia With Drones"
+    },
+    {
+      "id": "aaf925535119d439a293876dadb4b59bd801f6f6",
+      "title": "Opinion: Opinion | Why Saudi Arabia Can't Control Houthis, Despite Its Billions In Arms",
+      "summary": "The report that the Saudis have offered $1 billion to the Houthis raises many questions",
+      "url": "https://www.ndtv.com/opinion/why-saudi-arabias-money-and-arms-are-unable-to-control-the-houthis-12271629#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-02T12:38:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Why Saudi Arabia Can't Control Houthis, Despite Its Billions In Arms"
+    },
     {
       "id": "5a99f5545bfd718fe73758a41a4c4441ca474ced",
       "title": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
       "summary": "A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis.",
       "url": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
       "source": "NYT > World News",
-      "published_at": "2026-10-31T17:56:18+00:00",
+      "published_at": "2026-11-01T20:08:50+00:00",
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Saudi Mutual Defense Pact as Yemen War Rages"
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Houthi attack on airport in eastern Saudi Arabia"
-    },
-    {
-      "id": "37b61fd13ffd89cdcd25ae69f91e7712712fe3ed",
-      "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
-      "summary": "The airport is in Dammam, which is near the headquarters of oil giant Saudi Aramco. For weeks, Yemen’s Iran-backed Houthi militia has been attacking the kingdom’s aviation and energy sectors.",
-      "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-22T13:34:27+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Houthi Strike on Saudi Airport Kills 2"
-    },
-    {
-      "id": "286892780cea69df0bcc9f869f0c079f386dede8",
-      "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
-      "summary": "Similar withdrawals from UAE, Jordan, Qatar and Bahrain reported as concerns grow about restart of war on Iran after US midterm electionsThe US state department has ordered some diplomats and the families of US governmen…",
-      "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-22T13:05:30+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "US diplomats told to leave Saudi Arabia amid Houthi attacks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-01T16:01:48Z"
+  "last_updated": "2026-11-02T19:28:09Z"
 }

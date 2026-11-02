@@ -1,16 +1,37 @@
 {
   "country": "FI",
-  "score": 84,
+  "score": 81,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -3,
   "sources": 113,
   "sentiment": {
     "positive": 14,
-    "neutral": 95,
-    "negative": 4
+    "neutral": 94,
+    "negative": 5
   },
   "latest_articles": [
+    {
+      "id": "993570a5e9b2d2127d587dd6ff7ee82bf5b04531",
+      "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
+      "summary": "Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French shopsWho is hacking Europe’s supermarket fridges and freezers, and why?Supermarket chains in at least seven Eur…",
+      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-02T16:39:20+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Retailers in...Finland...reported problems with their refrigeration systems on Monday"
+    },
+    {
+      "id": "7af52f266eee7f62e7865400bc47a64d28b9a18a",
+      "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
+      "summary": "Former chancellor says leaving European Union has made Britain ‘poorer, weaker and less secure’The former chancellor Rachel Reeves has argued Britain’s future should be back in the European Union, saying Brexit has made…",
+      "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-01T09:55:20+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "d410dc18f2e079a047bc5675baf35c55180d312e",
       "title": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
@@ -202,28 +223,8 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "Finland seeking one million land mines as it eyes Russian threat"
-    },
-    {
-      "id": "b9fb054647353c295b3ec875741bee55dc1ae311",
-      "title": "Latvian diplomat gets important EU human rights job",
-      "summary": "On 19th October 2026, the Council of the European Union (EU) appointed Ilze Brands-Kehris as the EU Special Representative for Human Rights, according to a release from the Latvian Foreign Ministry.",
-      "url": "https://eng.lsm.lv/article/politics/diplomacy/19.10.2026-latvian-diplomat-gets-important-eu-human-rights-job.a668181/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-10-19T11:01:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "4a50a29eb00154e58b95f3a8d17e39b85d738633",
-      "title": "ERA Living Guidelines on the responsible use of Generative AI in research updated - European Commission",
-      "summary": "ERA Living Guidelines on the responsible use of Generative AI in research updated&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSnd3VVhSRnJwRUJPU3FpQ1AtZTY5dFo3ZkFLVVBERjFQOTVyeElyS3FERHBLYkI2NUcwNGF5ajdKTDdEeUUwLUhyRWhsaVZmZV84dFZGYXRoRmJzOUlLY1ZfU1piVE9hb05CMnY2cmlkTEM2OXc2Nkw2LVZpYnRjeUstQUEwUmRkbTdoRHRfRC1xNTRVeTlfLTB3TGpMeEF4RkpxOVFzbDFTbUZROHZfQ0lQX1pEUDhSSGo3NVFaQm5RLWF2eWpPZGhCdUZMWFZTaC11WjAtMlQ5M0ZGZUFJRnBrc1lSY1FYX3lkWjBvc1lHckg5LUFieA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-16T11:26:19+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-01T16:01:48Z"
+  "last_updated": "2026-11-02T19:28:09Z"
 }

@@ -3,14 +3,24 @@
   "score": 65,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 127,
+  "trend": 0,
+  "sources": 126,
   "sentiment": {
     "positive": 7,
-    "neutral": 108,
+    "neutral": 107,
     "negative": 12
   },
   "latest_articles": [
+    {
+      "id": "7af52f266eee7f62e7865400bc47a64d28b9a18a",
+      "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
+      "summary": "Former chancellor says leaving European Union has made Britain ‘poorer, weaker and less secure’The former chancellor Rachel Reeves has argued Britain’s future should be back in the European Union, saying Brexit has made…",
+      "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-01T09:55:20+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "f2c395c84c785c08873639fc428496f3d3f6fad6",
       "title": "English children’s homes are in crisis. Does Denmark hold the answers?",
@@ -206,19 +216,8 @@
       "published_at": "2026-10-14T11:59:17+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "033c6c98df4b9eec10f907224ad29c98f000771e",
-      "title": "Cyberattack Hits Hundreds of Supermarket Refrigeration Systems in France",
-      "summary": "The attack targeted a Danish software system in more than 400 supermarkets, forcing some shops to throw out frozen produce. The attackers have not been identified.",
-      "url": "https://www.nytimes.com/2026/10/13/world/europe/france-cyberattack-supermarkets-refrigeration.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-13T16:21:17+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "attack targeted a Danish software system in more than 400 supermarkets"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-01T16:01:48Z"
+  "last_updated": "2026-11-02T19:28:09Z"
 }
