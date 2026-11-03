@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 99,
+  "sources": 100,
   "sentiment": {
     "positive": 4,
-    "neutral": 89,
+    "neutral": 90,
     "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "a80c9e9fe5bea21653004cb159487a701db34f71",
+      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+      "summary": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-03T13:55:47+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "and Portugal"
+    },
     {
       "id": "7af52f266eee7f62e7865400bc47a64d28b9a18a",
       "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
@@ -207,18 +218,8 @@
       "published_at": "2026-10-15T05:59:26+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "e7415c964eefd02508be6effb58dd8eeda8e836d",
-      "title": "EU says ‘no indication’ intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power – Europe live",
-      "summary": "European Commission declined to comment on reported disruption to Starlink’s services in UkraineUkrainian soldiers have access to Starlink satellite internet restrictedRutte gets asked “is Russia foolish enough to consid…",
-      "url": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-14T13:40:28+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-02T19:28:09Z"
+  "last_updated": "2026-11-03T17:02:42Z"
 }

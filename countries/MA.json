@@ -1,16 +1,27 @@
 {
   "country": "MA",
-  "score": 59,
+  "score": 58,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 36,
+  "trend": -1,
+  "sources": 32,
   "sentiment": {
-    "positive": 2,
-    "neutral": 24,
-    "negative": 10
+    "positive": 1,
+    "neutral": 22,
+    "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "0b546e2829a2761120659e9c29edce6414b83f94",
+      "title": "Why a US-Russia showdown left Morocco celebrating",
+      "summary": "An impasse between the US and Russia at the UN means its peacekeeping mission in Western Sahara has ended after 35 years.",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-03T07:29:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Morocco celebrating"
+    },
     {
       "id": "37a7894265f04f6696e773f0257f0ae6b663a4d8",
       "title": "As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta"
-    },
-    {
-      "id": "36c71486f9a3ddb647c03d97c85913925af0c268",
-      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-      "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
-      "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-08-14T12:19:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-02T19:28:09Z"
+  "last_updated": "2026-11-03T17:02:42Z"
 }

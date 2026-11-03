@@ -1,16 +1,27 @@
 {
   "country": "PL",
-  "score": 89,
+  "score": 88,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
-  "sources": 134,
+  "trend": -1,
+  "sources": 133,
   "sentiment": {
-    "positive": 11,
+    "positive": 10,
     "neutral": 103,
     "negative": 20
   },
   "latest_articles": [
+    {
+      "id": "861c5ba5b8f73cfbeeb1bdd63a3ca3820ea71a45",
+      "title": "Seven reported bomb threats against European flights confirmed as false alarms – Europe live",
+      "summary": "Bomb threats were made on routes involving a number of airlines, including Ryanair and WizzAirBack to Poland, Warsaw Modlin airport says it has resumed operations after an earlier bomb threat – but a part of the airport…",
+      "url": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-03T16:41:44+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Warsaw Modlin airport says it has resumed operations after an earlier bomb threat"
+    },
     {
       "id": "5514758bae729bb20b3c1f775f1b0deda13dc5f0",
       "title": "Russia Senses Opportunity in Polish Political Turmoil",
@@ -212,18 +223,8 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Polish border guards to come to Latvian aid"
-    },
-    {
-      "id": "b9fb054647353c295b3ec875741bee55dc1ae311",
-      "title": "Latvian diplomat gets important EU human rights job",
-      "summary": "On 19th October 2026, the Council of the European Union (EU) appointed Ilze Brands-Kehris as the EU Special Representative for Human Rights, according to a release from the Latvian Foreign Ministry.",
-      "url": "https://eng.lsm.lv/article/politics/diplomacy/19.10.2026-latvian-diplomat-gets-important-eu-human-rights-job.a668181/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-10-19T11:01:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-02T19:28:09Z"
+  "last_updated": "2026-11-03T17:02:42Z"
 }
