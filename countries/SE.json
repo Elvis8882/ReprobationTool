@@ -1,16 +1,27 @@
 {
   "country": "SE",
-  "score": 94,
+  "score": 93,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 138,
+  "trend": -1,
+  "sources": 136,
   "sentiment": {
-    "positive": 13,
-    "neutral": 110,
-    "negative": 15
+    "positive": 12,
+    "neutral": 108,
+    "negative": 16
   },
   "latest_articles": [
+    {
+      "id": "89a3a43b3fd1b055b5043837520cf417fd262ccd",
+      "title": "More than 900 academics urge UK to reverse decision to bar Andreas Malm",
+      "summary": "Blocking Swedish writer’s entry for event with Palestine Action co-founder is attack on free expression, letter saysMore than 900 academics have voiced their opposition to the government’s decision to block the climate a…",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/04/andreas-malm-academics-letter-uk-reverse-entry-bar",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-04T12:00:10+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "attack on free expression"
+    },
     {
       "id": "a80c9e9fe5bea21653004cb159487a701db34f71",
       "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
@@ -210,18 +221,8 @@
       "published_at": "2026-10-16T11:26:19+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "6a9be0b914fd2632581d1da78e971901daa3b244",
-      "title": "First Thing: Three young children killed in Oregon elementary school shooting",
-      "summary": "Attacker also killed a teacher and was shot dead by a community member. Plus, NAZA film-makers describe Israel’s attempts to retaliateDon’t already get First Thing in your inbox? Sign up hereGood morning. A 16-year-old s…",
-      "url": "https://www.theguardian.com/us-news/2026/oct/16/first-thing-three-young-children-killed-in-oregon-elementary-school-shooting",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-16T11:07:08+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-03T17:02:42Z"
+  "last_updated": "2026-11-04T17:10:12Z"
 }

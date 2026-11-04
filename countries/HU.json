@@ -1,16 +1,27 @@
 {
   "country": "HU",
-  "score": 78,
+  "score": 76,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 2,
+  "trend": -2,
   "sources": 108,
   "sentiment": {
     "positive": 7,
-    "neutral": 98,
-    "negative": 3
+    "neutral": 97,
+    "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "06f4ca386e495aa27451c1d530ab324e2b3c8a9a",
+      "title": "Secret police files released in Hungary, 47 years after fall of communism",
+      "summary": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
+      "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-04T15:28:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "risks sowing division and causing unnecessary anguish."
+    },
     {
       "id": "5514758bae729bb20b3c1f775f1b0deda13dc5f0",
       "title": "Russia Senses Opportunity in Polish Political Turmoil",
@@ -206,18 +217,8 @@
       "published_at": "2026-10-14T13:40:28+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "5e96e0c83a6975a059cc398c57870f78b6c3c8b3",
-      "title": "‘Very risky choice’: Meloni warns US-Russia diesel deal could help fund Ukraine war",
-      "summary": "Giorgia Meloni has expressed concerns about the US agreement with Russia regarding diesel supplies during her parliament address. She believes the deal could financially aid Russia's war efforts in Ukraine. Meloni urged…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/very-risky-choice-italys-meloni-warns-us-russia-diesel-deal-could-help-fund-war-in-ukraine/articleshow/134941715.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-10-14T11:59:17+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-03T17:02:42Z"
+  "last_updated": "2026-11-04T17:10:12Z"
 }

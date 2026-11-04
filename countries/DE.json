@@ -1,16 +1,27 @@
 {
   "country": "DE",
-  "score": 29,
+  "score": 33,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 288,
+  "trend": 4,
+  "sources": 282,
   "sentiment": {
     "positive": 23,
-    "neutral": 164,
-    "negative": 101
+    "neutral": 162,
+    "negative": 97
   },
   "latest_articles": [
+    {
+      "id": "0515ad2f27b03657ae31989ecf69729af8ffd514",
+      "title": "BMW warns on profits as it counts cost of plan for 8,000 job cuts",
+      "summary": "German carmaker slashes profit margin to between -0.5% and 0.5% this year in face of competition from ChinaThe German carmaker BMW has issued its second profit warning in a year, blaming the costs of a restructuring prog…",
+      "url": "https://www.theguardian.com/business/2026/nov/04/bmw-warns-on-profits-counts-cost-plan-for-8000-job-cuts",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-04T11:58:19+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "German carmaker slashes profit margin... significant job losses"
+    },
     {
       "id": "861c5ba5b8f73cfbeeb1bdd63a3ca3820ea71a45",
       "title": "Seven reported bomb threats against European flights confirmed as false alarms – Europe live",
@@ -215,19 +226,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Audi CEO defends US investment plan against criticism over Germany cuts"
-    },
-    {
-      "id": "81de1e3990e2bac6cb943d41f2303fa2375ff02e",
-      "title": "Suspect Detained After Fire In Adolf Hitler's Mountain Retreat, Arson Suspected",
-      "summary": "The suspect is a 33-year-old German with ties to the area but who does not live there.",
-      "url": "https://www.ndtv.com/world-news/suspect-detained-after-fire-in-adolf-hitlers-mountain-retreat-eagles-nest-arson-suspected-12231361#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-24T18:40:13+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "The suspect is a 33-year-old German with ties to the area"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-03T17:02:42Z"
+  "last_updated": "2026-11-04T17:10:12Z"
 }
