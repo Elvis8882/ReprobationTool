@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 80,
+  "score": 81,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 76,
+  "trend": 1,
+  "sources": 73,
   "sentiment": {
     "positive": 2,
-    "neutral": 48,
-    "negative": 27
+    "neutral": 46,
+    "negative": 26
   },
   "latest_articles": [
+    {
+      "id": "b191861c3b26642695409b388acaac7a5e5d269d",
+      "title": "Eight killed in series of shootings in western Turkey",
+      "summary": "Victims are found in several locations in three separate vehicles, according to local reports.",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-05T19:32:54+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Eight killed in series of shootings in western Turkey"
+    },
     {
       "id": "5a99f5545bfd718fe73758a41a4c4441ca474ced",
       "title": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "attack on the Turkish-owned ship"
-    },
-    {
-      "id": "cad03541e81c0b76be62da51b22cd883a81c5c94",
-      "title": "Mixed start for pre-Cop as just two non-Pacific leaders accept Australian invitation to climate summit",
-      "summary": "Anthony Albanese joins about 4,000 people in Fiji for preparatory meeting for year-ending Cop31 UN climate summitSign up for climate and environment editor Adam Morton’s free Clear Air newsletter hereThe Australian prime…",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/05/mixed-start-for-pre-cop-as-just-two-non-pacific-leaders-accept-australian-invitation-to-climate-summit",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-05T09:52:03+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Cop31 UN climate summit in Turkey"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-05T17:23:00Z"
+  "last_updated": "2026-11-06T16:48:48Z"
 }

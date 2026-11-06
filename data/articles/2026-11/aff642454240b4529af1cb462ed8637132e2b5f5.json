@@ -17,8 +17,25 @@
     "IE",
     "IT"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-11-05T17:23:00+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-11-06T16:48:48+00:00",
+  "sentiment_by_country": {
+    "FR": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Military Air Base In France Over Bomb Threat"
+    },
+    "IE": {
+      "label": "neutral",
+      "confidence": 0.1,
+      "evidence": "Dublin-Rome Flight Diverted"
+    },
+    "IT": {
+      "label": "neutral",
+      "confidence": 0.1,
+      "evidence": "Dublin-Rome Flight Diverted"
+    }
+  },
+  "processed_at": "2026-11-06T16:48:48+00:00"
 }

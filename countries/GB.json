@@ -1,16 +1,104 @@
 {
   "country": "GB",
-  "score": 23,
+  "score": 22,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
-  "sources": 1003,
+  "trend": -1,
+  "sources": 1010,
   "sentiment": {
-    "positive": 134,
-    "neutral": 688,
-    "negative": 182
+    "positive": 133,
+    "neutral": 694,
+    "negative": 184
   },
   "latest_articles": [
+    {
+      "id": "f2cd36f3aa4967f56f2ec688e3da61a4d8d832ee",
+      "title": "Police chief condemns ‘terrifying’ Bonfire Night violence across Scotland",
+      "summary": "Multiple arrests, emergency services targeted and police van set alight while disorder also erupts in north-east EnglandA police chief has condemned the “unacceptable and terrifying” Bonfire Night disorder that resulted…",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/06/arrests-glasgow-bonfire-night-violence-scotland",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-06T15:38:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Bonfire Night violence across Scotland"
+    },
+    {
+      "id": "3f0350e1c9945a5541679b79b524bc57e7e032e6",
+      "title": "UK government to extend controversial Palantir NHS contract as it draws up plan for British alternative – as it happened",
+      "summary": "Health secretary Yvette Cooper has faced calls to axe US tech firm’s contract to deliver the flagship government AI system, report saysHere are some more photos from prime minister Andy Burnham’s visit to Siemens Rail Te…",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-06T15:38:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "UK government to extend controversial Palantir NHS contract"
+    },
+    {
+      "id": "2b8b76c54a3c3401eeec1f8c368b29eccd36d3ba",
+      "title": "‘I feel free now’: Shabana Mahmood’s immigration shake-up provokes mixed emotions",
+      "summary": "Some relatives of British citizens say they feel left behind, but announcement has brought relief to many care workers“The only time we’re regarded as human beings is when they need a lot of hands onboard, like during Co…",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/06/shabana-mahmood-uk-immigration-shakeup-reaction",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-06T15:28:18+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Shabana Mahmood’s immigration shake-up provokes mixed emotions"
+    },
+    {
+      "id": "c6531d8501632228368d4c5d49ed29191812975d",
+      "title": "Further bomb threats disrupt at least another 18 flights across Europe",
+      "summary": "Media organisations in Ireland and UK also affected as apparently coordinated effort to cause chaos continuesA fresh wave of bomb threats has disrupted air traffic across Europe but the affected planes landed safely and…",
+      "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-06T13:34:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Media organisations in Ireland and UK also affected"
+    },
+    {
+      "id": "44a540af28f1f31c9f8976b8e141e83ecee59702",
+      "title": "European Countries Push, Again, To Deport Migrants to Rwanda",
+      "summary": "Five European nations are closing in on a plan to send rejected migrants to Rwanda following a failed U.K. deal with the country.",
+      "url": "https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-06T10:00:58+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "failed U.K. deal with the country"
+    },
+    {
+      "id": "402519e27b05829ce45f2d8f46d9e150f3d2784c",
+      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+      "summary": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-06T06:00:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "British families demand to know why"
+    },
+    {
+      "id": "23708090426bccf5efcae90b3dab19cbe8ea6c32",
+      "title": "Beau Lamarre-Condon tells double murder trial firing first shot at Jesse Baird’s shoulder was ‘the right move’",
+      "summary": "Former NSW police officer gives evidence for a second day after pleading not guilty to murdering Baird and Luke Davies in early 2024The day in court: Prosecution begins cross-examination of double murder accused Beau Lam…",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-06T05:17:05+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "double murder trial firing first shot at Jesse Baird’s shoulder"
+    },
+    {
+      "id": "acfedb7255c43c47cb0b250aa8fd2113c9981b53",
+      "title": "British Citizen Infected With Ebola in Congo to Be Evacuated to UK, BBC Reports",
+      "summary": "The government said the risk to the British public from the disease was low. The current outbreak in Africa has spread widely across the continent, killing more than 5,000 people.",
+      "url": "https://www.nytimes.com/2026/11/05/world/europe/british-ebola-case-congo-uk.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-05T17:03:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Evacuated to UK, BBC Reports"
+    },
     {
       "id": "d73e60372f997abe44d74b32155d74ff6bbd1115",
       "title": "Burnham says long-awaited 10-year plan may be delayed until January – UK politics live",
@@ -21,6 +109,39 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "UK will have to align with EU sanitary and phytosanitary rules"
+    },
+    {
+      "id": "a09ac2cdda652bedacf15b5d873cb26dbac2f541",
+      "title": "EU presses UK to guarantee discounted university tuition fees for European students",
+      "summary": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members sayUK politics live – latest updatesThe EU is seeking a firmer pledge from the British government to guarantee E…",
+      "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-05T16:22:47+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "EU presses UK to guarantee discounted university tuition fees for European students"
+    },
+    {
+      "id": "4bf32da94e2c6cf17cb4a07a44f09c29807342d9",
+      "title": "Burnham wants to ‘recast’ Chagos Islands deal after US resistance",
+      "summary": "UK PM says he wants ‘a new discussion’ with Washington over the disputed islandsUK politics live – latest updatesAndy Burnham has said he wants to “recast” the UK’s deal to cede control of the Chagos Islands after resist…",
+      "url": "https://www.theguardian.com/politics/2026/nov/05/andy-burnham-recast-chagos-islands-deal-us-resistance",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-05T16:17:48+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "UK’s deal to cede control of the Chagos Islands"
+    },
+    {
+      "id": "5303a7848ad1c49ecde96db6c6849f0ecc5214fc",
+      "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+      "summary": "One policymaker voted to raise the bank's key interest rate to 4.25%.",
+      "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-11-05T16:01:47+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Bank of England hikes interest rate"
     },
     {
       "id": "063a42c3997153e4a28e79e8fd98144f63ef5b84",
@@ -34,6 +155,28 @@
       "evidence": "disrupting air travel across London, Dublin, and Helsinki"
     },
     {
+      "id": "f7646d52edce5f71d9ca156b028fee4b5c7ee72a",
+      "title": "The England player turned World Cup referee - Yahoo Sports",
+      "summary": "The England player turned World Cup referee&nbsp;&nbsp;Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1A3Q3J6QVJQOVA4UERLR3cyUi1UMHg3Ui1VcDdhdFZWdVRDSElPckU2US1EbFV5ZWtYd3hOMGUta081dWZKeU1RSWl2b0YtMFJwZTBIelY3RkRncm9ibHczOU5IbjctVnpmYnphMWExMkVheTk3bUNlZVpPbnhYak5BeXBrRmc?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-11-05T13:36:02+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "The England player turned World Cup referee"
+    },
+    {
+      "id": "428f3a669f6588447d8780985eb239ad27b22609",
+      "title": "UK’s Burnham won’t invite Putin to G20 summit next year; he skips them anyway",
+      "summary": "British Prime Minister Andy Burnham confirmed that Vladimir Putin would not be invited to the 2027 G20 summit. This comes amid the intensified Russia-Ukraine war. However, the US has invited Putin to this year's G20, whi…",
+      "url": "https://timesofindia.indiatimes.com/world/europe/uks-burnham-wont-invite-putin-to-g20-summit-next-year-he-skips-them-anyway/articleshow/135574555.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-11-05T13:00:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "UK’s Burnham won’t invite Putin to G20 summit"
+    },
+    {
       "id": "155e203a7518751b25ebbff63a70ca47cfd13e09",
       "title": "Bomb threats disrupt at least 15 flights across Europe, raising hybrid war fears",
       "summary": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travelEurope live – latest updatesBomb threats have caused diversions and emergency landings for at least 15 flights across Euro…",
@@ -43,6 +186,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Bomb threats disrupt at least 15 flights across Europe"
+    },
+    {
+      "id": "9e0176657cd228bde38c6e19297f86225b944ee1",
+      "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+      "summary": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification The UK is “dangerously” dependent on China for critical raw materials needed for the military, renew…",
+      "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-05T05:00:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "UK found to be ‘dangerously’ reliant on China for critical minerals"
     },
     {
       "id": "4e302aa30a44862474bac58a4d7f3c87099a7685",
@@ -56,6 +210,17 @@
       "evidence": "British healthcare worker with Ebola to be evacuated from DRC to UK"
     },
     {
+      "id": "2791455f2104be28c42ffd98b4fdbce3643c16b3",
+      "title": "Burnham says US midterm results have created ‘opportunity’ for world to focus on cost of living and ending Iran war – UK politics live",
+      "summary": "‘I think people want to see the world coming together and focusing on the things that matter to people,’ PM saysLouise Haigh starts by saying she is standing in for Andy Burnham.She says this weekend the whole country wi…",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-04T16:29:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "US midterm results have created ‘opportunity’"
+    },
+    {
       "id": "6e28e25d8777dd338e1bacc1565416690163bad6",
       "title": "Palestine Action activists used similar tactics to the suffragettes, court told",
       "summary": "Lawyers tell supreme court decision to proscribe organisation as terrorist group is attack on freedom of speech and protestPalestine Action was banned as a terrorist group after using tactics similar to – or less extreme…",
@@ -65,173 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "the UK’s highest court has heard"
-    },
-    {
-      "id": "89a3a43b3fd1b055b5043837520cf417fd262ccd",
-      "title": "More than 900 academics urge UK to reverse decision to bar Andreas Malm",
-      "summary": "Blocking Swedish writer’s entry for event with Palestine Action co-founder is attack on free expression, letter saysMore than 900 academics have voiced their opposition to the government’s decision to block the climate a…",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/04/andreas-malm-academics-letter-uk-reverse-entry-bar",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-04T12:00:10+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "attack on free expression"
-    },
-    {
-      "id": "a23fc048c0b5e9d1b69ef5593b072322af67ada9",
-      "title": "U.K. Supreme Court Hears Challenge to Ban on Palestine Action: What to Know",
-      "summary": "The government designated the protest group as a terrorist organization last year, prompting criticism. The country’s Supreme Court is hearing a challenge to the ban on Wednesday.",
-      "url": "https://www.nytimes.com/2026/11/04/world/europe/palestine-action-ban-uk-supreme-court.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-04T10:38:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Supreme Court Hears Challenge to Ban on Palestine Action"
-    },
-    {
-      "id": "3c4589849d2208dd04b88e67df9963652911a7f8",
-      "title": "Tennis player Jodie Burrage receives vile message: \"I hope you kill yourself\" - MARCA",
-      "summary": "Tennis player Jodie Burrage receives vile message: \"I hope you kill yourself\"&nbsp;&nbsp;MARCAJodie Burrage offered support by WTA after death threats and online abuse&nbsp;&nbsp;The GuardianJodie Burrage: British tennis…",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRGFtQjMwXzcwNVlDVUhQQnNCeDRndlp5N1Etc203RzNRTUF5T09ReFZEMGxGMExkcE94alJjNTAwRmhNdk9oRk1SV3ctYUpTVnk5SUJ2dUVCSmtNNHRBeG9wV1NhVEVBUnN0SkRXLXdEbU9obnhHQmUyRUxHdTJST3BLN214U3p5UEdleS05VE5KSDhZOVFvZHpOckw5TnhKcm1ZWkhxVlI5MWI3V2FWZEJTanBseGJSZWZpRGE1SdIBvwFBVV95cUxNT2tCLXYxTU5tVm01T1ZxNzF3OUN0aGpNck85WmJxRjlwbS1aWjU0ZHBYcGU4RUJhb0wtRWtqV3ZOeERreXlKY3JGUDVIOVdWVmt2b3N2b0ctQ0ZDNEZyMzh5MlpLcHE3RnFqTzZPVmtCZHIxZDU2WDRYQ0M2QzRNTm1Vd3kyVm54VzNlOVd6WHZNS1JuTUtfNEhCQmJ2eHVKandXUnZQNkNZVjJNODlseTRRRTdmUjFGQWdCREp1Zw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-11-04T10:30:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "British tennis player receives death threats and social media abuse"
-    },
-    {
-      "id": "495b4219ed373aab270ced1293a9bd37c3883097",
-      "title": "Primark brings forward home deliveries plan by two years after profits slide",
-      "summary": "Retailer acquires robot-assisted warehouse and intends to have UK service up and running before end of 2027Primark is to begin making home deliveries by the end of next year as it aims to win new shoppers after a slide i…",
-      "url": "https://www.theguardian.com/business/2026/nov/03/primark-brings-forward-home-deliveries-plan-by-two-years-after-profits-slide",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-03T16:40:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Primark brings forward home deliveries plan by two years after profits slide"
-    },
-    {
-      "id": "f4195c8319081fa768368d5cb2f5872734f5efc2",
-      "title": "King tells Commonwealth leaders that Britain’s role in slave trade was ‘shameful’ but stops short of apology – UK politics live",
-      "summary": "Speech by Charles marks formal opening of Commonwealth Heads of Government Meeting (Chogm) in AntiguaQ: Do you think the UK should reconsider Commonwealth membership, given other countries just keep asking us for slavery…",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-03T16:33:48+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "King tells Commonwealth leaders that Britain’s role in slave trade"
-    },
-    {
-      "id": "6756cd00b2f94c4ca4e53aa23ad5a06a65e6f35f",
-      "title": "Reform UK councillor charged with 12 counts of rape and multiple other offences",
-      "summary": "George Madgwick, party leader on Hampshire county council, faces charges related to four teenagers between 2008 and 2021Reform UK’s leader on Hampshire county council has been charged with 12 counts of rape and one of di…",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/reform-uk-councillor-george-madgwick-charged-12-counts-rape",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-03T16:24:29+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Reform UK councillor charged with 12 counts of rape"
-    },
-    {
-      "id": "f2b7af65fe4f1772b653da25a7a9ba152e320da7",
-      "title": "Freezers of UK meat suppliers heat up after cyber-attacks in Europe",
-      "summary": "Cybersecurity experts say incidents had minimal effect but may represent the ‘foothills’ of a wider threatMeat suppliers in the UK have been hit by cyber-attacks after hackers raised the temperatures of supermarket freez…",
-      "url": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-03T15:43:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "UK meat suppliers heat up after cyber-attacks"
-    },
-    {
-      "id": "8f0f519eb58888629518802c4347a56f18274d39",
-      "title": "King Charles Says U.K.’s Role in Slave Trade ‘Fills My Heart With Horror’",
-      "summary": "The monarch called Britain’s trafficking of slaves from Africa a “shameful chapter of history” at a meeting of Commonwealth heads of government in Antigua.",
-      "url": "https://www.nytimes.com/2026/11/03/world/europe/king-charles-speech-uk-slave-trade-antigua.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-03T15:33:45+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "King Charles Says U.K.’s Role in Slave Trade ‘Fills My Heart With Horror’"
-    },
-    {
-      "id": "2bd2477364ab984830b55be4103b2dfc11bb72b6",
-      "title": "Nest Of 5,000 Rare Ants Stolen From England Nature Reserve, Police Launch Investigation",
-      "summary": "Narrow-headed ants are named after the distinctive narrow shape of their heads.",
-      "url": "https://www.ndtv.com/world-news/nest-of-5-000-rare-ants-stolen-from-england-nature-reserve-police-launch-investigation-12276671#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-11-03T11:59:38+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Nest Of 5,000 Rare Ants Stolen From England Nature Reserve"
-    },
-    {
-      "id": "40915792c9b05836f6d240c1fd8f18605eb8c3b2",
-      "title": "UK High Court rules assets were gifted before death, orders £259,725 in legal costs",
-      "summary": "A High Court judge ruled that specific assets of the deceased were legitimate gifts received by Masudur Rahman before death, dating back to October 2020. This ruling ignited legal contention with four co-defendants. The…",
-      "url": "https://timesofindia.indiatimes.com/world/uk/uk-high-court-rules-that-deceased-mans-assets-were-gifted-before-his-death-orders-defendants-to-pay-259725-towards-claimants-legal-costs/articleshow/135490325.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-11-03T11:10:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "UK High Court rules assets were gifted"
-    },
-    {
-      "id": "5527979fd572405ed3ab7894f0469b833aa35c6e",
-      "title": "Australia seeks to change visa deal with UK after influx of Britons",
-      "summary": "Australia says easing of rules has led to surge in British visitor numbers, putting pressure on local workforceUK politics live – latest updatesThe Australian prime minister, Anthony Albanese, has told Andy Burnham he is…",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/australia-seeks-to-change-visa-deal-uk",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-03T08:36:41+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Australia seeks to change visa deal with UK after influx of Britons"
-    },
-    {
-      "id": "edcd84e645f60434eb4d7d5d0a40fc015eb4560a",
-      "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
-      "summary": "Guardian and Mongabay reveal approaches to officials and MPs on behalf of  Vantara zoo ahead of UK-chaired Cites meeting on endangered animal importsBritish government ministers were told not to engage formally with Vant…",
-      "url": "https://www.theguardian.com/environment/2026/nov/03/uk-ministers-anant-ambani-indian-zoo-vantara-freedom-information-endangered-animals-cites",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-03T06:00:39+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "UK-chaired Cites meeting on endangered animal imports"
-    },
-    {
-      "id": "81949b5b21f90c9a0b235eb0a136b68a0dfaafa8",
-      "title": "Shabana Mahmood softens immigration plans in face of cabinet backlash",
-      "summary": "Exception for care workers will allow an estimated 280,000 people and their dependants to apply for indefinite leave to remain after five yearsUK politics live – latest updatesShabana Mahmood rowed back on her most hardl…",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/02/shabana-mahmood-softens-immigration-plans-cabinet-backlash-leave-to-remain",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-02T19:06:40+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "softens immigration plans in face of cabinet backlash"
-    },
-    {
-      "id": "32f890107f389cbf7c540c042ab8f21283544215",
-      "title": "Charities condemn proposal to make some refugees wait up to 30 years for settlement – as it happened",
-      "summary": "Executive director of external affairs at the Refugee Council called the proposals ‘unfair and unworkable’ Downing Street has declined to say how much it cost for the plane carrying Andy Burnham and UK delegates to a Com…",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/02/andy-burnham-shabana-mahmood-migration-indefinite-leave-to-remain-care-workers-uk-politics-latest-news",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-02T18:38:22+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Charities condemn proposal to make some refugees wait up to 30 years"
-    },
-    {
-      "id": "8bc6bfdc537ad1fe333eddb3d228e17c2b9c2c03",
-      "title": "King Charles Meets Both Joy and Criticism on Caribbean Tour",
-      "summary": "During the king’s visits to three former colonies, many people came out for celebratory parades and events. Others said the British state needed to atone for slavery’s toll.",
-      "url": "https://www.nytimes.com/2026/11/02/world/europe/king-charles-caribbean-slavery-commonwealth.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-02T18:26:28+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Others said the British state needed to atone for slavery’s toll."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-05T17:23:00Z"
+  "last_updated": "2026-11-06T16:48:48Z"
 }

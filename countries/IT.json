@@ -1,16 +1,91 @@
 {
   "country": "IT",
-  "score": 81,
+  "score": 82,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
-  "sources": 189,
+  "trend": 1,
+  "sources": 191,
   "sentiment": {
     "positive": 13,
-    "neutral": 145,
-    "negative": 31
+    "neutral": 149,
+    "negative": 29
   },
   "latest_articles": [
+    {
+      "id": "35d583ecb9bdf6120f290036df06f58a908c0f7c",
+      "title": "EU charges TikTok with failing to protect users’ mental health",
+      "summary": "Regulator’s initial ruling says algorithm ‘can be harmful’ and led young and vulnerable viewers ‘down rabbit holes they can’t easily escape’Business live – latest updatesTikTok has been charged by the European Commission…",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-06T15:17:08+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "c6531d8501632228368d4c5d49ed29191812975d",
+      "title": "Further bomb threats disrupt at least another 18 flights across Europe",
+      "summary": "Media organisations in Ireland and UK also affected as apparently coordinated effort to cause chaos continuesA fresh wave of bomb threats has disrupted air traffic across Europe but the affected planes landed safely and…",
+      "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-06T13:34:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "affected at least 18 flights to or from Italy"
+    },
+    {
+      "id": "45dad41d13d4c45decdd862bd5cd87366a2985ef",
+      "title": "Lithuania, European Commission sign deal to rebuild a school in Ukraine - The Baltic Times",
+      "summary": "Lithuania, European Commission sign deal to rebuild a school in Ukraine&nbsp;&nbsp;The Baltic Times",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXl2UUhmRmN2QnlnMDlZY241NENuWTJob2lxbVAtMWZGZzVuS1lFaHVDWXVlWnkxbkl6WEkya0VsUGV6UkJZV1dTa25RYWdqOGhDNDFmV0tMaFNBNjBvaFQ1Q2pRLURoMmpvaVFNZzd2RkdVRU1xalRjUHNPU0lOcmkyMGFoZ25iSTJZbm1BMGpRbjRjRHRPWUEteFhNMm05Rmc?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-11-06T13:13:49+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "1c62aa343620e5709ad46bb06b811e1cbcec08c8",
+      "title": "Bomb Threats Disrupt European Flights and Rattle Passengers",
+      "summary": "Passengers recounted landing at a military base and being subjected to security checks and travel delays after threats that turned out to be hoaxes affected planes in Italy, Poland and Spain.",
+      "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-05T19:39:19+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.4,
+      "evidence": "threats that turned out to be hoaxes affected planes in Italy"
+    },
+    {
+      "id": "3284095eed7875361b8e1300c113ef14c5e483ae",
+      "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+      "summary": "EU transport commissioner says ‘too early’ to say if bomb threats to 20 flights are linkedTell us: have you been affected by the bomb threats?And the Italian news agency Ansa reported that two more planes with links to I…",
+      "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-05T16:54:47+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Italian news agency Ansa reported that two more planes"
+    },
+    {
+      "id": "7dc0fae70d6121e327787732800a95d835e9eba2",
+      "title": "American Is Convicted of Murder in Case That Gripped Italy",
+      "summary": "A TV program helped to identify the victims, a Russian woman and her young daughter, who were found dead in a Rome park.",
+      "url": "https://www.nytimes.com/2026/11/05/world/europe/italy-american-murder-case.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-05T16:33:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "American Is Convicted of Murder in Case That Gripped Italy"
+    },
+    {
+      "id": "16b67c918e8fd4e14115b04515ce4ef3fd53a8ae",
+      "title": "Europe’s far right has a Trump problem after Republican US midterms wipeout",
+      "summary": "European far-right leaders quick to distance themselves from US president and stress their own prioritiesEurope live – latest updatesUS midterms live – latest updatesThe historic Republican defeat in the US midterm elect…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/05/republican-wipeout-donald-trump-us-midterms-europe-far-right-message",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-05T13:36:31+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Europe’s far right has a Trump problem"
+    },
     {
       "id": "fd1fd80fc2eeb2c652f6993113485ae8d30d5750",
       "title": "Commission invites nominations for the next President of the European Research Council - European Commission",
@@ -42,6 +117,28 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Plane Escorted To Rome By Fighter Jet After Bomb Alerts"
+    },
+    {
+      "id": "aff642454240b4529af1cb462ed8637132e2b5f5",
+      "title": "Dublin-Rome Flight Diverted To Military Air Base In France Over Bomb Threat",
+      "summary": "Several flights across Europe received hoax bomb threats this week",
+      "url": "https://www.ndtv.com/world-news/dublin-rome-flight-diverted-to-military-air-base-in-france-over-bomb-threat-12286951#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-05T09:34:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Dublin-Rome Flight Diverted"
+    },
+    {
+      "id": "8fe19bb2da564bf421b36baf726e9bc1d6b74e7f",
+      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+      "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-05T02:09:23+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Pope Leo hosts Bob Dylan at official residence in Rome"
     },
     {
       "id": "a80c9e9fe5bea21653004cb159487a701db34f71",
@@ -127,106 +224,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Milan Football Clubs Unveil €2.3 Billion Stadium Plan"
-    },
-    {
-      "id": "f69fb2e4dfa051141e6a8f6af63ba5bb7090136d",
-      "title": "Lost Renaissance plaques found in English home sell for £100,000 after 142 years",
-      "summary": "A pair of exquisite 16th-century maiolica plaques by renowned artist Francesco Xanto Avelli recently fetched an impressive £100,000 at auction after lying unnoticed in a Dorset home for years. The family unearthed these…",
-      "url": "https://timesofindia.indiatimes.com/world/uk/in-1884-two-renaissance-plaques-disappeared-from-public-view-after-an-auction-142-years-later-they-were-identified-in-an-english-familys-hallway-and-sold-for-more-than-100000-in-october-2026/articleshow/135360766.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-10-30T12:14:44+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Italian Renaissance treasures"
-    },
-    {
-      "id": "e36e1dce71885f9c0bfef16d34633a96b6d49fdc",
-      "title": "Knot for eating: Welcome to the Italian restaurant where every meal is knitted - Euronews.com",
-      "summary": "Knot for eating: Welcome to the Italian restaurant where every meal is knitted&nbsp;&nbsp;Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaHUzN1F2a2R3RHkwWlg2bDVoQ01JbTM2N3VPZWlxNUIzTTI3SjExRG1QRFdZZE9Kcm00UkwtTWs0Uk1vN3o3dUlicFZ5bkdmN21oX1hFMnBHT1djSW15Wk1iR1F3di1GUm9MZThOeUlaMUJnQUlITmF2dTl0dXBSRWRlajJaVjJKSDlwZURmYVhmLU8waTRrQWVBQjFnMmpCemZBRE8xakdadGxpUTdmVEU3NA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-30T07:14:04+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Welcome to the Italian restaurant where every meal is knitted"
-    },
-    {
-      "id": "c60f1c1e38d313de1aa3499db214223869b3176c",
-      "title": "Behind Italy’s Protests: Rising Prices and Sinking Hopes",
-      "summary": "Inspired in part by French demonstrations, protests in Italy by students in the north and truckers in the south could affect national elections next year.",
-      "url": "https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-28T13:16:35+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "protests in Italy by students...could affect national elections"
-    },
-    {
-      "id": "7f5057072eed06bf6667bcd5dcab04888c049864",
-      "title": "Florence Agenda sets out regional priorities - The Florentine",
-      "summary": "Florence Agenda sets out regional priorities&nbsp;&nbsp;The FlorentineHealth Care: Mattarella Calls for Protection and Expansion&nbsp;&nbsp;italien.newsNRRP, Meloni: \"Italy leads Europe in goals achieved, thanks to teamw…",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc0pieVU4MV9rWlRmRncwd24waVlRaFhiOUl0RWQwRWZkYmlCWVZBV29PNXZneTNBM1ZNTkdjeGc1N3JxZUdVWGpQT0MyUmxRenkwbUNlS1Nnc1VkdFJRZzZrR0NUUTlUcEFsVmRRdmJ1b2o4UnhaRjhNX3RrbWZXSS1tUWk4cTJpMlhBeERlRQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-27T17:00:49+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Meloni: \"Italy leads Europe in goals achieved, thanks to teamwork.\""
-    },
-    {
-      "id": "08b88cd20d6693e2af73c0d7b41f06bb5818f572",
-      "title": "Giorgia Meloni’s email targeted in cyberattack on Italian parliament’s IT systems",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/europe/giorgia-melonis-email-targeted-in-cyberattack-on-italian-parliaments-it-systems/articleshow/135237311.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-10-27T14:17:35+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "cyberattack on Italian parliament’s IT systems"
-    },
-    {
-      "id": "e04be64cfe18e7feeb32d3d56e9780c16de21ee4",
-      "title": "Melting glaciers in Dolomites reveal cache of first world war munitions",
-      "summary": "Italian army removes and defuses 250 explosives encased in ice for more than 100 years after hikers’ sightingsA significant cache of unexploded bombs from the first world war emerged this summer from rapidly retreating g…",
-      "url": "https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-27T07:00:04+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Italian army removes and defuses 250 explosives"
-    },
-    {
-      "id": "f30416b60067a3287f68f38a82ef662e8b28b8f2",
-      "title": "Serbia wakes up to new reality after student-led movement ousts Vučić – Europe live",
-      "summary": "Hopes raised for a reset in relations with EU and other partners following the defeat of authoritarian presidentSerbian leader ousted by student movement in seismic electionBack to Serbia, we are expecting to hear from t…",
-      "url": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-26T15:40:08+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "5acb92b3c272172c9a2dad7572e8397e372616e6",
-      "title": "Protests engulf Europe: People take to streets in France, Albania, Italy, Spain, Portugal",
-      "summary": "Thousands of people protested across Europe over the weekend, demanding action against rising living costs and government corruption. Demonstrations were reported in France, Italy, Albania, Spain, and Portugal, with vary…",
-      "url": "https://timesofindia.indiatimes.com/world/europe/europe-spring-protests-engulf-continent-as-people-take-to-streets-in-france-albania-italy-spain-portugal/articleshow/135185017.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-10-25T07:02:02+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Thousands of people protested across Europe... varying degrees of violence"
-    },
-    {
-      "id": "97154c53282e48515e31f7c293591eee11278d47",
-      "title": "Over 5,000 Soldiers Guard Milan As Thousands March Across Italian Cities",
-      "summary": "In Milan, huge crowds of mostly young people gathered as night fell.",
-      "url": "https://www.ndtv.com/world-news/over-5-000-soldiers-guard-milan-thousands-march-across-italian-cities-milan-rome-europe-12231895#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-25T02:34:43+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Over 5,000 Soldiers Guard Milan As Thousands March Across Italian Cities"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-05T17:23:00Z"
+  "last_updated": "2026-11-06T16:48:48Z"
 }

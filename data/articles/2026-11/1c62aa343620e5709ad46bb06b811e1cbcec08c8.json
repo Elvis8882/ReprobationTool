@@ -1,0 +1,41 @@
+{
+  "id": "1c62aa343620e5709ad46bb06b811e1cbcec08c8",
+  "title": "Bomb Threats Disrupt European Flights and Rattle Passengers",
+  "summary_full": "Passengers recounted landing at a military base and being subjected to security checks and travel delays after threats that turned out to be hoaxes affected planes in Italy, Poland and Spain.",
+  "summary_public": "Passengers recounted landing at a military base and being subjected to security checks and travel delays after threats that turned out to be hoaxes affected planes in Italy, Poland and Spain.",
+  "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
+  "published_at": "2026-11-05T19:39:19+00:00",
+  "source": "NYT > World News",
+  "language": "en",
+  "countries_detected": [
+    "ES",
+    "IT",
+    "PL"
+  ],
+  "countries_scored": [
+    "ES",
+    "IT",
+    "PL"
+  ],
+  "sentiment_by_country": {
+    "ES": {
+      "label": "neutral",
+      "confidence": 0.4,
+      "evidence": "threats that turned out to be hoaxes affected planes in Spain"
+    },
+    "IT": {
+      "label": "neutral",
+      "confidence": 0.4,
+      "evidence": "threats that turned out to be hoaxes affected planes in Italy"
+    },
+    "PL": {
+      "label": "neutral",
+      "confidence": 0.4,
+      "evidence": "threats that turned out to be hoaxes affected planes in Poland"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-11-06T16:48:48+00:00",
+  "processed_at": "2026-11-06T16:48:48+00:00"
+}

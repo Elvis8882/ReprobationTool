@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 263,
+  "sources": 262,
   "sentiment": {
     "positive": 19,
-    "neutral": 115,
+    "neutral": 114,
     "negative": 131
   },
   "latest_articles": [
+    {
+      "id": "0161e188ff477670fcd5a1e3fa9f931287353d43",
+      "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
+      "summary": "The attack in October cast a spotlight on civilian casualties in the Saudi-led and U.S.-assisted bombing campaign against the Houthis.",
+      "url": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-06T16:24:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members"
+    },
     {
       "id": "e69bb1b22463825f751e675bc46810d5d1859c4b",
       "title": "Houthis Claim 'Attacked' Dammam Airport In Saudi Arabia With Drones",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "escalating drone and missile strikes targeting Saudi Arabia"
-    },
-    {
-      "id": "e74ce2d5138089d75c29bbf50aa779f24bf4a7aa",
-      "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
-      "summary": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom.",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-22T13:46:33+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Houthi attack on airport in eastern Saudi Arabia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-05T17:23:00Z"
+  "last_updated": "2026-11-06T16:48:48Z"
 }

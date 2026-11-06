@@ -3,14 +3,56 @@
   "score": 96,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
-  "sources": 172,
+  "trend": 0,
+  "sources": 174,
   "sentiment": {
     "positive": 14,
-    "neutral": 147,
-    "negative": 11
+    "neutral": 148,
+    "negative": 12
   },
   "latest_articles": [
+    {
+      "id": "a0e3033170715478d161f53f7d1118dced2d3dc3",
+      "title": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says",
+      "summary": "Multiple flights in Europe were disrupted and several newsrooms in Ireland were evacuated after bomb threats, the latest of a series of security incidents.",
+      "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-06T15:46:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "newsrooms in Ireland were evacuated after bomb threats"
+    },
+    {
+      "id": "35d583ecb9bdf6120f290036df06f58a908c0f7c",
+      "title": "EU charges TikTok with failing to protect users’ mental health",
+      "summary": "Regulator’s initial ruling says algorithm ‘can be harmful’ and led young and vulnerable viewers ‘down rabbit holes they can’t easily escape’Business live – latest updatesTikTok has been charged by the European Commission…",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-06T15:17:08+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "c6531d8501632228368d4c5d49ed29191812975d",
+      "title": "Further bomb threats disrupt at least another 18 flights across Europe",
+      "summary": "Media organisations in Ireland and UK also affected as apparently coordinated effort to cause chaos continuesA fresh wave of bomb threats has disrupted air traffic across Europe but the affected planes landed safely and…",
+      "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-06T13:34:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Media organisations in Ireland and UK also affected"
+    },
+    {
+      "id": "45dad41d13d4c45decdd862bd5cd87366a2985ef",
+      "title": "Lithuania, European Commission sign deal to rebuild a school in Ukraine - The Baltic Times",
+      "summary": "Lithuania, European Commission sign deal to rebuild a school in Ukraine&nbsp;&nbsp;The Baltic Times",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXl2UUhmRmN2QnlnMDlZY241NENuWTJob2lxbVAtMWZGZzVuS1lFaHVDWXVlWnkxbkl6WEkya0VsUGV6UkJZV1dTa25RYWdqOGhDNDFmV0tMaFNBNjBvaFQ1Q2pRLURoMmpvaVFNZzd2RkdVRU1xalRjUHNPU0lOcmkyMGFoZ25iSTJZbm1BMGpRbjRjRHRPWUEteFhNMm05Rmc?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-11-06T13:13:49+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "063a42c3997153e4a28e79e8fd98144f63ef5b84",
       "title": "Bomb threats disrupt flights across Europe for the second time. Here’s what we know",
@@ -42,6 +84,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Bomb threats disrupt at least 15 flights across Europe"
+    },
+    {
+      "id": "aff642454240b4529af1cb462ed8637132e2b5f5",
+      "title": "Dublin-Rome Flight Diverted To Military Air Base In France Over Bomb Threat",
+      "summary": "Several flights across Europe received hoax bomb threats this week",
+      "url": "https://www.ndtv.com/world-news/dublin-rome-flight-diverted-to-military-air-base-in-france-over-bomb-threat-12286951#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-05T09:34:41+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Dublin-Rome Flight Diverted"
     },
     {
       "id": "dd0aef57b332d62912ebe278e4794b5ed38d5864",
@@ -170,62 +223,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Irish sanctuary"
-    },
-    {
-      "id": "2551e4e2007999c79bae777ca0f6eb67e0eab69c",
-      "title": "Estonia passes the presidency of the Baltic Assembly to Lithuania",
-      "summary": "At the 45th&nbsp;Session of the Baltic Assembly, held&nbsp;in Tallinn, Estonia, members of the parliaments of the three Baltic States adopted a Resolution in which they emphasized, among other things, that the 35th&nbsp;…",
-      "url": "https://eng.lsm.lv/article/politics/diplomacy/24.10.2026-estonia-passes-the-presidency-of-the-baltic-assembly-to-lithuania.a668941/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-10-24T15:13:37+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "7f64e377f64a1c5f87b986e79ed76f105e250df8",
-      "title": "Three released without charge after fatal arson attack in Ireland",
-      "summary": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
-      "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-24T09:38:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "fatal arson attack in Ireland"
-    },
-    {
-      "id": "82d3056728e45850a0e94eb2906f37d8f907f006",
-      "title": "Dónal Lunny, ‘colossus of Irish music’, dies aged 79",
-      "summary": "Founding member of Planxty, Lunny went on to play for bands such as Moving Hearts, the Bothy Band and CoolfinThe Irish traditional musician Dónal Lunny has died at the age of 79 from cancer.Lunny rose to prominence in th…",
-      "url": "https://www.theguardian.com/music/2026/oct/24/donal-lunny-colossus-irish-music-dies-aged-79",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-24T08:44:44+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "colossus of Irish music"
-    },
-    {
-      "id": "8633f99af68cf060c7e5a29ffeaf8e76e4129d05",
-      "title": "Dónal Lunny, ‘colossus of Irish music’, dies aged 79 - The Guardian",
-      "summary": "Dónal Lunny, ‘colossus of Irish music’, dies aged 79&nbsp;&nbsp;The GuardianChristy Moore pays tribute to ‘best man and dear friend’ Dónal Lunny&nbsp;&nbsp;The Irish TimesDonal Lunny remembered - 5 classic performances f…",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWVg0c2RKc29DQXhnZ0FaNHFsdHdndlJVOE9mUjFyTG9ZOGhEVW5hTWIwRkJ6WXZILTV5S2F4dlRzaUpTTXpNdE1OMm5wX2dXV2V1Zk1VMVpNY3lvMEJreVYyTTQxREtFcXdyQjkyQ2c0UzhsSl81MF9qdVM4WmFUOXp1ODRTTkJyT2txMjZONlVibXdzakE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-24T08:44:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "colossus of Irish music"
-    },
-    {
-      "id": "9950f4bd931e041b91299cbac84c6846d4cfd3f1",
-      "title": "New London Irish owners aim to return club to English rugby’s second tier - The Irish Times",
-      "summary": "New London Irish owners aim to return club to English rugby’s second tier&nbsp;&nbsp;The Irish TimesLondon Irish target 2027 return after takeover&nbsp;&nbsp;BBCLondon Irish eye return to English rugby after securing new…",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUVGOV9UV2JNcHo4OUNpQVozZUMyMXh5V0RySzNkWEFadVJ1dkM3cDVNUDZxX3BUemhFTmd2Z1R2SS1Ic2ZwNjlzU19yMExnbTVtT0wxd2xCUmtLNHBGQjIxaVNHSlhHSHY0Q19STmcwZXdOaTNzd3d4RVF1SmNqc3R6UGRCa1RmZ3lkWl83dWhTU0wyT1c5SVhKUHVrU1dwT0FUZElZSV96WkRJeDRkLWRBdGVkUmZWTDFRdmdXeWQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-23T10:27:19+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "London Irish owners aim to return club to English rugby’s second tier"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-05T17:23:00Z"
+  "last_updated": "2026-11-06T16:48:48Z"
 }
