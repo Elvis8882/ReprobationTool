@@ -4,13 +4,34 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 280,
+  "sources": 284,
   "sentiment": {
     "positive": 23,
-    "neutral": 162,
-    "negative": 95
+    "neutral": 165,
+    "negative": 96
   },
   "latest_articles": [
+    {
+      "id": "958ad9717fc535a6037158d95c197dd5e7813cf9",
+      "title": "Nazi spies landed on US soil days before German U-boat sank Canadian ship off Maine in 1944; 82 years later, divers find wreck 400 feet underwater",
+      "summary": "Divers from the Nomad Exploration Team located the wreck of the SS Cornwallis nearly 400 feet underwater. This ship was torpedoed by a German submarine in December 1944, resulting in the deaths of 43 crew members. The su…",
+      "url": "https://timesofindia.indiatimes.com/world/us/nazi-spies-landed-on-us-soil-days-before-a-german-u-boat-sank-a-canadian-ship-off-maine-in-1944-82-years-later-divers-uncover-the-long-lost-wreck-400-feet-below-the-atlantic/articleshow/135595740.cms",
+      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "published_at": "2026-11-07T14:03:37+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "German U-boat sank Canadian ship off Maine in 1944"
+    },
+    {
+      "id": "58b959ca0c3dd0ed97b3115cab15ebfe60c09db0",
+      "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
+      "summary": "Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complicationsExposure to a new generation of allegedly “safe” plasticizers is linked to lower birth weight and fetal dev…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-07T12:00:13+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "35d583ecb9bdf6120f290036df06f58a908c0f7c",
       "title": "EU charges TikTok with failing to protect users’ mental health",
@@ -54,6 +75,27 @@
       "evidence": "spiders were on their way to Germany, where they could fetch an estimated €1.5m"
     },
     {
+      "id": "eeec90d29d9ec04a329ceae0e3ff676187fb6cf6",
+      "title": "Klaus-Michael Kühne Has Died. His Company Played a Dark Role in Nazi Germany.",
+      "summary": "As Klaus-Michael Kühne’s business became a global force in container shipping, he resisted demands to document its wartime activities. He was 89.",
+      "url": "https://www.nytimes.com/2026/11/05/world/europe/klaus-michael-kuhne-dead.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-05T21:16:14+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Played a Dark Role in Nazi Germany."
+    },
+    {
+      "id": "d7c2914ea1b601a2ef6c1b84256e70c1d6716716",
+      "title": "Bomb scares disrupt multiple flights across Europe",
+      "summary": "The European Union’s transport commissioner said it was “too early to draw conclusions on whether the incidents are linked.”",
+      "url": "https://www.washingtonpost.com/world/2026/11/05/bomb-threats-target-multiple-flights-across-europe/",
+      "source": "World (Washington post)",
+      "published_at": "2026-11-05T18:43:06+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "fd1fd80fc2eeb2c652f6993113485ae8d30d5750",
       "title": "Commission invites nominations for the next President of the European Research Council - European Commission",
       "summary": "Commission invites nominations for the next President of the European Research Council&nbsp;&nbsp;European Commission",
@@ -73,6 +115,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "delays to German military projects and artillery ammunition deliveries"
+    },
+    {
+      "id": "7ecdf22efae84da29b152fcc2dd4e4528ca0eae6",
+      "title": "Sharp objects found in Halloween sweets in three European nations",
+      "summary": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
+      "url": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-04T12:34:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "cases are reported in Austria, Germany and Hungary"
     },
     {
       "id": "0515ad2f27b03657ae31989ecf69729af8ffd514",
@@ -171,61 +224,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Protests under way in Germany"
-    },
-    {
-      "id": "d410dc18f2e079a047bc5675baf35c55180d312e",
-      "title": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
-      "summary": "The move is part of the Canadian prime minister’s effort to reduce American influence over Canada and expand trade to other parts of the world.",
-      "url": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-30T21:08:01+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "756b69a462ff27bbf9690532e32434d5bbde86bc",
-      "title": "Canada and EU announce new alliance open to like-minded countries",
-      "summary": "Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’Canada and Europe have announced a new alliance of like-minded nations to serve as both a “prote…",
-      "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-30T19:42:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "46feefc256343398ee69c39dcd789c121bc76bb5",
-      "title": "Cost of living protests  to spread to Germany and reignite in France on Halloween",
-      "summary": "Activists call for people to make their anger known over poor public services including education and housingEurope live – latest updatesStreet protests sweeping Europe are expected to spread to Germany and reignite in F…",
-      "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-30T14:42:46+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "protests sweeping Europe are expected to spread to Germany"
-    },
-    {
-      "id": "eff192d75243c4868f39e2cf685fb816f19ab090",
-      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-      "summary": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-29T15:14:34+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "opposition of the bloc's members, including Germany"
-    },
-    {
-      "id": "55fdc1c5994638fc97ec78bf6d7b7e3d66926c7a",
-      "title": "Girl seriously injured in wolf attack at German wildlife park",
-      "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
-      "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-28T22:08:52+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "Girl seriously injured in wolf attack at German wildlife park"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-06T16:48:48Z"
+  "last_updated": "2026-11-07T15:40:33Z"
 }

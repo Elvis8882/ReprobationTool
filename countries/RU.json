@@ -4,13 +4,79 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 809,
+  "sources": 813,
   "sentiment": {
-    "positive": 37,
+    "positive": 38,
     "neutral": 126,
-    "negative": 647
+    "negative": 650
   },
   "latest_articles": [
+    {
+      "id": "393e0d6d578ae99a25295e781a98e00e18bf8a95",
+      "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
+      "summary": "Moscow used 172 drones and 36 ballistic missiles in attacks on electricity substations and bridge over the DniproVolodymyr Zelenskyy has accused Russia of trying to “plunge Kyiv and the entire country into a blackout”, a…",
+      "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-07T13:03:03+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Russia strikes Ukraine’s energy grid"
+    },
+    {
+      "id": "e6afdaa46c60a4421819ab559f7fdda1058c60c2",
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-07T12:49:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russian strikes wound nine and damage Ukraine's power network"
+    },
+    {
+      "id": "9dc169ec0e846b22de31d2cbee9d39c73d312f24",
+      "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
+      "summary": "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.",
+      "url": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-07T10:01:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "reverse some Russian territorial gains"
+    },
+    {
+      "id": "e4e8c1b78f07878ff6fb653659c0d5eb2b7c44bf",
+      "title": "Trump's New Chief Of Staff Once Criticised India Over Russian Oil, Trade",
+      "summary": "Stephen Miller made several remarks criticising India",
+      "url": "https://www.ndtv.com/world-news/stephen-miller-trumps-new-chief-of-staff-once-criticised-india-over-russian-oil-trade-russia-ukraine-war-white-house-chief-of-staff-12295810#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-07T05:38:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Criticised India Over Russian Oil, Trade"
+    },
+    {
+      "id": "ea37f3e65943f82e1be227f67ade6288b2123402",
+      "title": "Russian extremist group denies sending hoax bomb threats",
+      "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-06T12:51:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russian extremist group denies sending hoax bomb threats"
+    },
+    {
+      "id": "5a56f3812c17115cc8728c98c8c9873f7d634b87",
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-06T07:56:19+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "hosts Russian and Ukrainian officials"
+    },
     {
       "id": "dc7cb6353f94f07a1f3471b151f80bf507c18d2f",
       "title": "Putin accuses hockey organizations of 'gross violation' as Canada bars Russia from World Juniors | OutKick - Fox News",
@@ -34,6 +100,17 @@
       "evidence": "victims, a Russian woman and her young daughter"
     },
     {
+      "id": "159c8b63c8bb58ad07e25b22859dce6af59db207",
+      "title": "How Melania Trump Became a Dark Horse Diplomat on Ukraine",
+      "summary": "Both Moscow and Kyiv say Mrs. Trump’s team was the driving force behind an evacuation of a besieged city. It was also in their interest to deliver her a humanitarian win.",
+      "url": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-05T15:41:34+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "It was also in their interest to deliver her a humanitarian win."
+    },
+    {
       "id": "428f3a669f6588447d8780985eb239ad27b22609",
       "title": "UK’s Burnham won’t invite Putin to G20 summit next year; he skips them anyway",
       "summary": "British Prime Minister Andy Burnham confirmed that Vladimir Putin would not be invited to the 2027 G20 summit. This comes amid the intensified Russia-Ukraine war. However, the US has invited Putin to this year's G20, whi…",
@@ -43,6 +120,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "intensified Russia-Ukraine war"
+    },
+    {
+      "id": "2c648fe71a2d908445f168e2b260f7e95b6c2143",
+      "title": "Russia, China may be more aggressive if they feel Trump is on 'his way out': Brookings",
+      "summary": "Russia and China may be more aggressive if they feel that U.S. President Donald Trump is on \"his way out\" after the Democratic Party flipped the midterms.",
+      "url": "https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-11-05T05:58:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia... may be more aggressive if they feel Trump is on 'his way out'"
     },
     {
       "id": "aeefaffecbfd742cf2bb2b0ebdb5d2f93ee1ea8e",
@@ -142,96 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.4,
       "evidence": "Russia confirms new Ukraine peace talks"
-    },
-    {
-      "id": "40214cc09cede38813241116b89def611731beca",
-      "title": "Investment protection agreements with Russia must be terminated - Baltic states - The Baltic Times",
-      "summary": "Investment protection agreements with Russia must be terminated - Baltic states&nbsp;&nbsp;The Baltic TimesBaltic states and Poland urge EU countries to terminate investment protection treaties with Russia&nbsp;&nbsp;Arm…",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaTI2WFVmWHNFWWRkXzRpZXByc0d6cjl2c2Nhd0dkemVGUFl4dnAwanFZcjhwejZDSmRUZVdqWVFWbWN2RFplMUVNS3RmTGJQMzdzdEtwOWp4VmJoMGsxRHZwdEJ0WUhsSUdOV3haU3hfcmpPelZzSEZwNVZIemhsVW5Fa0RvNVFPWWtqUkpOdVJvN2I4MjctQU1vU3pZdTdkUmdyTHhnQUpQOXow?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-11-03T13:20:55+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Investment protection agreements with Russia must be terminated"
-    },
-    {
-      "id": "8eb8876b84d09db9c3a7b34a8a5ef98cfee92df2",
-      "title": "Russia bombs humanitarian hub in Ukraine, killing at least 31 people",
-      "summary": "Other overnight strikes targeted power plants across Ukraine, damaged hospitals and wounded scores of peopleRussia has bombed a humanitarian hub in southern Ukraine, killing at least 31 people and leaving dozens missing,…",
-      "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-03T12:25:07+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russia bombs humanitarian hub in Ukraine, killing at least 31 people"
-    },
-    {
-      "id": "ceba3b54df3184f0fcd489959173cd70b9eb6f57",
-      "title": "WATCH: Latvia lays out its plans for the United Nations Security Council / Article - LSM",
-      "summary": "WATCH: Latvia lays out its plans for the United Nations Security Council / Article&nbsp;&nbsp;LSMLatvia seeks UN Security Council meeting on Russia's Ukraine attacks&nbsp;&nbsp;YahooFM Gerapetritis speaks with Latvian co…",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdUliSi1wMlZFcDEwb0pTb0NZRWtTY3hLZFQ5eWxTMndZVS1oN0dGY2F2ZXc2b3lSVkJfaGxaWGtIMDk0QXo1N2IxWFFadl9KWE9WcEc5dm5EWGt5WVIxczM2WUc3ZWF0bEIxR0o1RFNPeFBxUWhaRWh0enhZbHI2OFhnTE1tbW5mbkpCQlE0THd2SmdYZHd0NDdBSkNMdWVFeDBJdzBrQkNiUkQ2aGpqT19qRG9CcVlCSVVPSDFpU25lYjdMd0JPdncyTHZfQQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-11-03T09:14:38+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Latvia seeks UN Security Council meeting on Russia's Ukraine attacks"
-    },
-    {
-      "id": "0b546e2829a2761120659e9c29edce6414b83f94",
-      "title": "Why a US-Russia showdown left Morocco celebrating",
-      "summary": "An impasse between the US and Russia at the UN means its peacekeeping mission in Western Sahara has ended after 35 years.",
-      "url": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-11-03T07:29:46+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "impasse between the US and Russia at the UN"
-    },
-    {
-      "id": "6aeffac3401ce8bd5bc4481e9082319c33321157",
-      "title": "Russian Strike On Ukraine Aid Distribution Site Kills 26 After Ceasefire Ends",
-      "summary": "Ukrainian rescuers work at the site of Russian strike on an educational facility in Zaporizhzhia",
-      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-russian-strike-on-ukraine-aid-distribution-site-kills-26-after-ceasefire-ends-12275451#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-11-03T07:27:45+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russian Strike On Ukraine Aid Distribution Site Kills 26"
-    },
-    {
-      "id": "27a64164fbd18fbb682deb31582606ae0bd6097c",
-      "title": "Russian Strike on Ukraine Humanitarian Hub Kills Dozens",
-      "summary": "The strike in the Zaporizhzhia region came a day after a brief humanitarian truce ended in neighboring Kherson.",
-      "url": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-02T20:50:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russian Strike on Ukraine Humanitarian Hub Kills Dozens"
-    },
-    {
-      "id": "5514758bae729bb20b3c1f775f1b0deda13dc5f0",
-      "title": "Russia Senses Opportunity in Polish Political Turmoil",
-      "summary": "After its sometime allies were ousted in elections in Hungary and Serbia, Moscow has seized on Poland’s constitutional standoff in its effort to weaken Europe’s support for Ukraine.",
-      "url": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-02T19:05:52+00:00",
-      "sentiment": "negative",
-      "confidence": 1.0,
-      "evidence": "Moscow seized on Poland’s constitutional standoff to weaken Europe’s support"
-    },
-    {
-      "id": "7584627279c216f260bf9c743ecc155b3626f315",
-      "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
-      "summary": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-11-02T18:48:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russian bombing kills 24 people at Ukraine aid centre"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-06T16:48:48Z"
+  "last_updated": "2026-11-07T15:40:33Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "SA",
-  "score": 14,
+  "score": 15,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 262,
+  "trend": 1,
+  "sources": 261,
   "sentiment": {
     "positive": 19,
-    "neutral": 114,
-    "negative": 131
+    "neutral": 115,
+    "negative": 129
   },
   "latest_articles": [
+    {
+      "id": "21cf97eeaf11ae09bea2c5baf25b8554840f70c2",
+      "title": "OpenAI bugging suspect Alfozan pleads not guilty",
+      "summary": "Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
+      "url": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-11-06T21:15:47+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Saudi national Abdulrahman Alfozan is charged"
+    },
     {
       "id": "0161e188ff477670fcd5a1e3fa9f931287353d43",
       "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
@@ -21,6 +32,17 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members"
+    },
+    {
+      "id": "97a61a9c26a187c3734a1fcfddc228f1e66cdd67",
+      "title": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
+      "summary": "Dismissals follow Houthi victories and pressure from southern Yemenis for more powerThe UN-recognised government of Yemen has shaken up its political and military leadership in an attempt to regain territory lost to the…",
+      "url": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-05T13:47:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Saudi Arabia – which has had to fend off near-daily Houthi attacks"
     },
     {
       "id": "e69bb1b22463825f751e675bc46810d5d1859c4b",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "drawing down staff at other missions"
-    },
-    {
-      "id": "3c221471550eb077a7303c0364c4acb7dc27d606",
-      "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
-      "summary": "The Yemeni militia is using the culture of its sworn enemies in the renewed fighting with Saudi Arabia.",
-      "url": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-23T12:18:37+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "renewed fighting with Saudi Arabia."
-    },
-    {
-      "id": "856b9edfd267b75a3ca74d5d4cbb13bfbd053ea6",
-      "title": "IndiGo Cancels Saudi Flights Till October 31 Amid Regional Tensions",
-      "summary": "The flight disruptions come amid escalating drone and missile strikes targeting Saudi Arabia.",
-      "url": "https://www.ndtv.com/world-news/indigo-cancels-saudi-arabia-flights-till-october-31-amid-regional-tensions-12224659#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-23T09:18:12+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "escalating drone and missile strikes targeting Saudi Arabia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-06T16:48:48Z"
+  "last_updated": "2026-11-07T15:40:33Z"
 }

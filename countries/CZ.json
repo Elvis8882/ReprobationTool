@@ -1,16 +1,37 @@
 {
   "country": "CZ",
-  "score": 77,
+  "score": 71,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 89,
+  "trend": -6,
+  "sources": 93,
   "sentiment": {
     "positive": 2,
-    "neutral": 86,
-    "negative": 1
+    "neutral": 89,
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "58b959ca0c3dd0ed97b3115cab15ebfe60c09db0",
+      "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
+      "summary": "Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complicationsExposure to a new generation of allegedly “safe” plasticizers is linked to lower birth weight and fetal dev…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-07T12:00:13+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "72ce0af5d0cf86240314cf5c37efcf6869ad8ba8",
+      "title": "Bomb threats against European flights ‘likely a coordinated campaign of disruption’, Ireland says – Europe live",
+      "summary": "Irish government issues statement in response to latest bomb threats against European flights after some Irish media organisations received similar threats Tell us: have you been affected by the bomb threats to flights i…",
+      "url": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-06T16:16:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Tarom flight from Prague to Bucharest is the latest believed to be affected"
+    },
     {
       "id": "35d583ecb9bdf6120f290036df06f58a908c0f7c",
       "title": "EU charges TikTok with failing to protect users’ mental health",
@@ -43,6 +64,16 @@
       "sentiment_fallback": true
     },
     {
+      "id": "d7c2914ea1b601a2ef6c1b84256e70c1d6716716",
+      "title": "Bomb scares disrupt multiple flights across Europe",
+      "summary": "The European Union’s transport commissioner said it was “too early to draw conclusions on whether the incidents are linked.”",
+      "url": "https://www.washingtonpost.com/world/2026/11/05/bomb-threats-target-multiple-flights-across-europe/",
+      "source": "World (Washington post)",
+      "published_at": "2026-11-05T18:43:06+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "fd1fd80fc2eeb2c652f6993113485ae8d30d5750",
       "title": "Commission invites nominations for the next President of the European Research Council - European Commission",
       "summary": "Commission invites nominations for the next President of the European Research Council&nbsp;&nbsp;European Commission",
@@ -62,6 +93,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Bomb threats disrupt at least 15 flights across Europe"
+    },
+    {
+      "id": "fe11d322878f5c563e3591f6e9b2a5b7fd6e2fed",
+      "title": "Biggest risk to the Baltic states identified following Democrats' victory in US midterm elections - Baltic News Network",
+      "summary": "Biggest risk to the Baltic states identified following Democrats' victory in US midterm elections&nbsp;&nbsp;Baltic News NetworkHow the US midterms could affect Czech jobs, security and your money&nbsp;&nbsp;Expats.czUS…",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaGh1aWFsam5kcnJ5LVBNNzNLeVJKU0hLTktTNFIxZk5YZHZKbHUtTlpWeEFhakpsLUVGSFBnYUszT1M2bW9MTTZSeGhMb2w4LXlNb0I3TjhXZXlpMVE5bEQ1Z0R0eGhFRUNCWWNHVEhoQld1dFA4QmNZUnlqRFVrRXJyRTA4dy16dFVnS0hiUVZ4Tm83ZGZyYkp4SURmUVh2akQtQ3hFWUhHSGFvcHhHNjFaOU12SHBMcjY5V1hDa3dVRFNUS1pZRVhpWQ?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-11-05T07:36:22+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "How the US midterms could affect Czech jobs, security and your money"
     },
     {
       "id": "7af52f266eee7f62e7865400bc47a64d28b9a18a",
@@ -173,49 +215,8 @@
       "published_at": "2026-10-16T11:07:08+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "c017688d20074ba2df35582d708dd137de4dac42",
-      "title": "Ukraine’s association with the European Defence Fund and European Defence Industry Porgramme funding entered into force - defence-industry-space.ec.europa.eu",
-      "summary": "Ukraine’s association with the European Defence Fund and European Defence Industry Porgramme funding entered into force&nbsp;&nbsp;defence-industry-space.ec.europa.euEU strategy to end war based on ‘peace through strengt…",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQX3ZOUXFhTkZXTHpHRko2di1qemFFUVF5cm5RS2ZGWjl0UVNEVUQtX0JRc2xqMlVmeWt5WTZaQ3dmaXpwNzgxZURia2R0a1o1S1laSjZLdVh1RmgwMFZINFNoSnFGTnFjWl9mc3Azd042VXNKTG1PZWVBMnRYTTlGMGdOX1V3OGRUM1FRS2JmMzBMT2hnUENJSEdpZHYzZjBkVDdRRFoyTUhEWW9BTkZLZHBxNFJpTEo2RTV5N3NXNU9WbnBJbUppZDNObVlwcks3bUJOQl9HZHVoYUNURDVnTFZKeUt5OWZScUM4TA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-16T07:00:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "ambassador to Czechia calls for stronger civil security partnership"
-    },
-    {
-      "id": "e174e49ab396f243397160351fcc1e942850b2a2",
-      "title": "Industrial production down by 0.5% in the euro area and by 0.3% in the EU - Euro indicators - Eurostat - European Commission",
-      "summary": "Industrial production down by 0.5% in the euro area and by 0.3% in the EU - Euro indicators - Eurostat&nbsp;&nbsp;European CommissionEurozone Industrial Resilience Falters as Energy Shock Bites&nbsp;&nbsp;WSJIndustrial p…",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbU5mT21GSnk0dkZvOC1ab2thWWNTZ2h2bm52SnF4bFNlU2dDMzJidExiRTA3YzVCU2E3QlNFaFlGTmV1ZUhRLS1xMG1lQUJ6SEdMN2I5UDA2aU5tdVY3eWdscVg1SnZCMHB1U2J6ZVRna1V6N0EzakloVTRhWGlMWFF6NA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-15T09:07:08+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "f50f2d475f5891f9f8a74b9425071927772619f6",
-      "title": "Meet Jean-Eric Paquet, EU Ambassador Set To Speak At NDTV World Summit 2026",
-      "summary": "Paquet was Deputy Secretary-General of the European Commission",
-      "url": "https://www.ndtv.com/world-news/meet-jean-eric-paquet-eu-ambassador-set-to-speak-at-ndtv-world-summit-2026-12184510#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-15T05:59:26+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "e7415c964eefd02508be6effb58dd8eeda8e836d",
-      "title": "EU says ‘no indication’ intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power – Europe live",
-      "summary": "European Commission declined to comment on reported disruption to Starlink’s services in UkraineUkrainian soldiers have access to Starlink satellite internet restrictedRutte gets asked “is Russia foolish enough to consid…",
-      "url": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-14T13:40:28+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-06T16:48:48Z"
+  "last_updated": "2026-11-07T15:40:33Z"
 }

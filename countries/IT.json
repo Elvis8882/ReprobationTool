@@ -1,16 +1,26 @@
 {
   "country": "IT",
-  "score": 82,
+  "score": 85,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 191,
+  "trend": 3,
+  "sources": 190,
   "sentiment": {
     "positive": 13,
-    "neutral": 149,
-    "negative": 29
+    "neutral": 151,
+    "negative": 26
   },
   "latest_articles": [
+    {
+      "id": "58b959ca0c3dd0ed97b3115cab15ebfe60c09db0",
+      "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
+      "summary": "Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complicationsExposure to a new generation of allegedly “safe” plasticizers is linked to lower birth weight and fetal dev…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-07T12:00:13+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "35d583ecb9bdf6120f290036df06f58a908c0f7c",
       "title": "EU charges TikTok with failing to protect users’ mental health",
@@ -52,6 +62,16 @@
       "sentiment": "neutral",
       "confidence": 0.4,
       "evidence": "threats that turned out to be hoaxes affected planes in Italy"
+    },
+    {
+      "id": "d7c2914ea1b601a2ef6c1b84256e70c1d6716716",
+      "title": "Bomb scares disrupt multiple flights across Europe",
+      "summary": "The European Union’s transport commissioner said it was “too early to draw conclusions on whether the incidents are linked.”",
+      "url": "https://www.washingtonpost.com/world/2026/11/05/bomb-threats-target-multiple-flights-across-europe/",
+      "source": "World (Washington post)",
+      "published_at": "2026-11-05T18:43:06+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "3284095eed7875361b8e1300c113ef14c5e483ae",
@@ -117,6 +137,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Plane Escorted To Rome By Fighter Jet After Bomb Alerts"
+    },
+    {
+      "id": "611ee32735d325d9dc60ea70be0f398c7d1472ad",
+      "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+      "summary": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-05T10:33:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Was an Italian chef really fired over refusal to put pineapple on pizza?"
     },
     {
       "id": "aff642454240b4529af1cb462ed8637132e2b5f5",
@@ -192,40 +223,8 @@
       "published_at": "2026-10-30T21:08:01+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "756b69a462ff27bbf9690532e32434d5bbde86bc",
-      "title": "Canada and EU announce new alliance open to like-minded countries",
-      "summary": "Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’Canada and Europe have announced a new alliance of like-minded nations to serve as both a “prote…",
-      "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-30T19:42:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "46feefc256343398ee69c39dcd789c121bc76bb5",
-      "title": "Cost of living protests  to spread to Germany and reignite in France on Halloween",
-      "summary": "Activists call for people to make their anger known over poor public services including education and housingEurope live – latest updatesStreet protests sweeping Europe are expected to spread to Germany and reignite in F…",
-      "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-30T14:42:46+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "violent, student demonstrations have rocked Italy, Spain, Portugal, Albania and France"
-    },
-    {
-      "id": "fdfca8401324677e713df0e6012240adf01582ec",
-      "title": "Milan Football Clubs Unveil €2.3 Billion Stadium Plan for 2031 - Bloomberg",
-      "summary": "Milan Football Clubs Unveil €2.3 Billion Stadium Plan for 2031&nbsp;&nbsp;BloombergInter and Milan unveil plans for new shared stadium to replace San Siro&nbsp;&nbsp;The GuardianNew stadium design for AC Milan and FC Int…",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWdEbFpGMkUyMmJjR1pEM2hxU3RfdHRjcC0wTFMwd0lsX3BMRW4yeHNDT2V3THdjMU9pdHlFd2pmc0JCQ0ltQ1p5RUlGeGNxaXBiQ2ZMa3NaOWsyWGs4U0xzZDloS3N3NXhLSHlqOFpEZmhqMHlrUjRrRmpLdl9tYW94WHZ2RU56RUFYN1NWVmNETmlPQ3M2RURpNkhqWlA3NHNfTE5zb283bmNlSFdYRmF3?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-30T13:08:25+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Milan Football Clubs Unveil €2.3 Billion Stadium Plan"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-06T16:48:48Z"
+  "last_updated": "2026-11-07T15:40:33Z"
 }

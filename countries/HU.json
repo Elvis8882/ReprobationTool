@@ -1,16 +1,26 @@
 {
   "country": "HU",
-  "score": 76,
+  "score": 74,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 109,
+  "trend": -2,
+  "sources": 111,
   "sentiment": {
     "positive": 7,
-    "neutral": 98,
-    "negative": 4
+    "neutral": 99,
+    "negative": 5
   },
   "latest_articles": [
+    {
+      "id": "58b959ca0c3dd0ed97b3115cab15ebfe60c09db0",
+      "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
+      "summary": "Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complicationsExposure to a new generation of allegedly “safe” plasticizers is linked to lower birth weight and fetal dev…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-07T12:00:13+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "35d583ecb9bdf6120f290036df06f58a908c0f7c",
       "title": "EU charges TikTok with failing to protect users’ mental health",
@@ -43,6 +53,16 @@
       "sentiment_fallback": true
     },
     {
+      "id": "d7c2914ea1b601a2ef6c1b84256e70c1d6716716",
+      "title": "Bomb scares disrupt multiple flights across Europe",
+      "summary": "The European Union’s transport commissioner said it was “too early to draw conclusions on whether the incidents are linked.”",
+      "url": "https://www.washingtonpost.com/world/2026/11/05/bomb-threats-target-multiple-flights-across-europe/",
+      "source": "World (Washington post)",
+      "published_at": "2026-11-05T18:43:06+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
       "id": "fd1fd80fc2eeb2c652f6993113485ae8d30d5750",
       "title": "Commission invites nominations for the next President of the European Research Council - European Commission",
       "summary": "Commission invites nominations for the next President of the European Research Council&nbsp;&nbsp;European Commission",
@@ -62,6 +82,17 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "risks sowing division and causing unnecessary anguish."
+    },
+    {
+      "id": "7ecdf22efae84da29b152fcc2dd4e4528ca0eae6",
+      "title": "Sharp objects found in Halloween sweets in three European nations",
+      "summary": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
+      "url": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-04T12:34:33+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "cases are reported in Austria, Germany and Hungary"
     },
     {
       "id": "5514758bae729bb20b3c1f775f1b0deda13dc5f0",
@@ -187,38 +218,8 @@
       "published_at": "2026-10-21T09:24:17+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "b9fb054647353c295b3ec875741bee55dc1ae311",
-      "title": "Latvian diplomat gets important EU human rights job",
-      "summary": "On 19th October 2026, the Council of the European Union (EU) appointed Ilze Brands-Kehris as the EU Special Representative for Human Rights, according to a release from the Latvian Foreign Ministry.",
-      "url": "https://eng.lsm.lv/article/politics/diplomacy/19.10.2026-latvian-diplomat-gets-important-eu-human-rights-job.a668181/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-10-19T11:01:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "4a50a29eb00154e58b95f3a8d17e39b85d738633",
-      "title": "ERA Living Guidelines on the responsible use of Generative AI in research updated - European Commission",
-      "summary": "ERA Living Guidelines on the responsible use of Generative AI in research updated&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSnd3VVhSRnJwRUJPU3FpQ1AtZTY5dFo3ZkFLVVBERjFQOTVyeElyS3FERHBLYkI2NUcwNGF5ajdKTDdEeUUwLUhyRWhsaVZmZV84dFZGYXRoRmJzOUlLY1ZfU1piVE9hb05CMnY2cmlkTEM2OXc2Nkw2LVZpYnRjeUstQUEwUmRkbTdoRHRfRC1xNTRVeTlfLTB3TGpMeEF4RkpxOVFzbDFTbUZROHZfQ0lQX1pEUDhSSGo3NVFaQm5RLWF2eWpPZGhCdUZMWFZTaC11WjAtMlQ5M0ZGZUFJRnBrc1lSY1FYX3lkWjBvc1lHckg5LUFieA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-16T11:26:19+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "6a9be0b914fd2632581d1da78e971901daa3b244",
-      "title": "First Thing: Three young children killed in Oregon elementary school shooting",
-      "summary": "Attacker also killed a teacher and was shot dead by a community member. Plus, NAZA film-makers describe Israel’s attempts to retaliateDon’t already get First Thing in your inbox? Sign up hereGood morning. A 16-year-old s…",
-      "url": "https://www.theguardian.com/us-news/2026/oct/16/first-thing-three-young-children-killed-in-oregon-elementary-school-shooting",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-16T11:07:08+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-06T16:48:48Z"
+  "last_updated": "2026-11-07T15:40:33Z"
 }

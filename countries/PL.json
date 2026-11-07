@@ -4,13 +4,23 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 136,
+  "sources": 137,
   "sentiment": {
     "positive": 10,
-    "neutral": 106,
+    "neutral": 107,
     "negative": 20
   },
   "latest_articles": [
+    {
+      "id": "58b959ca0c3dd0ed97b3115cab15ebfe60c09db0",
+      "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
+      "summary": "Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complicationsExposure to a new generation of allegedly “safe” plasticizers is linked to lower birth weight and fetal dev…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-07T12:00:13+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "35d583ecb9bdf6120f290036df06f58a908c0f7c",
       "title": "EU charges TikTok with failing to protect users’ mental health",
@@ -52,6 +62,16 @@
       "sentiment": "neutral",
       "confidence": 0.4,
       "evidence": "threats that turned out to be hoaxes affected planes in Poland"
+    },
+    {
+      "id": "d7c2914ea1b601a2ef6c1b84256e70c1d6716716",
+      "title": "Bomb scares disrupt multiple flights across Europe",
+      "summary": "The European Union’s transport commissioner said it was “too early to draw conclusions on whether the incidents are linked.”",
+      "url": "https://www.washingtonpost.com/world/2026/11/05/bomb-threats-target-multiple-flights-across-europe/",
+      "source": "World (Washington post)",
+      "published_at": "2026-11-05T18:43:06+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "3284095eed7875361b8e1300c113ef14c5e483ae",
@@ -203,29 +223,8 @@
       "published_at": "2026-10-30T21:08:01+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "756b69a462ff27bbf9690532e32434d5bbde86bc",
-      "title": "Canada and EU announce new alliance open to like-minded countries",
-      "summary": "Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’Canada and Europe have announced a new alliance of like-minded nations to serve as both a “prote…",
-      "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-30T19:42:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "872089d012ee81717d04224a49a4d95bdaa186ec",
-      "title": "Commission invites Member States to use €21.3 billion under SAFE to boost Defence Readiness and support to Ukraine - https://defence-industry-space.ec.europa.eu/",
-      "summary": "Commission invites Member States to use €21.3 billion under SAFE to boost Defence Readiness and support to Ukraine&nbsp;&nbsp;https://defence-industry-space.ec.europa.eu/Hungary’s €5.4bn defence loan approved as EU wraps…",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVzJ3WmdPaXl4M3kxYUV5dmxFTzh6cTFVa0gtdlFDbHlYVm1oTHVrem0xSENibUR0ZjR3YldTMVR2Y0dxdUg4N3Y2ZWRvQWNFUGJMYlNfNmhXZ1o0WGpMdTBfU3lrSXZ5Nk1xaG9pSGR0c05YdnNGUWlIWVllQVVLSzVEUGdKdDgtdXFma1RKUDNzbFVYSWhNOFBzSUxQZlhRbzJTQ3hGcHVCbE1VYjY1eTFpUE1BdzJJRjY5ekswclZYaTg4RFIxX1N6SDRTalZaVmVXOFk2WmxkOFlVQkczZzFlTXBxU1h1b1pINg?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-29T14:34:51+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "That's what Poland wants"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-06T16:48:48Z"
+  "last_updated": "2026-11-07T15:40:33Z"
 }
