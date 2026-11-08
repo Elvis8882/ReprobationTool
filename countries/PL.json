@@ -1,16 +1,38 @@
 {
   "country": "PL",
-  "score": 88,
+  "score": 86,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 137,
+  "trend": -2,
+  "sources": 139,
   "sentiment": {
     "positive": 10,
     "neutral": 107,
-    "negative": 20
+    "negative": 22
   },
   "latest_articles": [
+    {
+      "id": "48b7a29b11051d48d6118d928d9b2f099ec93afa",
+      "title": "What to Know About the Mass Shooting in Krakow, Poland",
+      "summary": "At least nine people were dead and at least 16 injured after shootings in Krakow and another town, the police said. The motive remains unclear.",
+      "url": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-08T13:09:09+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Mass Shooting in Krakow, Poland At least nine people were dead"
+    },
+    {
+      "id": "36d1a006d1aab22712eb1305e721240e15398e2e",
+      "title": "Polish prosecutors open terrorism investigation into Kraków shooting",
+      "summary": "Six people killed in attack probably inspired by far right, according to officials, as police say suspect’s parents and sister found dead at his homePolish prosecutors have opened a terrorism investigation after a 24-yea…",
+      "url": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-08T11:50:15+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Polish prosecutors open a terrorism investigation into Kraków shooting"
+    },
     {
       "id": "58b959ca0c3dd0ed97b3115cab15ebfe60c09db0",
       "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
@@ -202,29 +224,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Judge Suspends Her Court's President. Protests, Coup Claim Follow"
-    },
-    {
-      "id": "2983ac9f31aee10c5c18fcd4a3f9652faf2bd1fe",
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-31T01:11:43+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "stand-off over control of top Poland court"
-    },
-    {
-      "id": "d410dc18f2e079a047bc5675baf35c55180d312e",
-      "title": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
-      "summary": "The move is part of the Canadian prime minister’s effort to reduce American influence over Canada and expand trade to other parts of the world.",
-      "url": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-30T21:08:01+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-07T15:40:33Z"
+  "last_updated": "2026-11-08T16:00:22Z"
 }

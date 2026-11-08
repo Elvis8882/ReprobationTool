@@ -4,13 +4,57 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 858,
+  "sources": 850,
   "sentiment": {
     "positive": 49,
-    "neutral": 237,
-    "negative": 575
+    "neutral": 234,
+    "negative": 570
   },
   "latest_articles": [
+    {
+      "id": "f34c68ba918b61324f9ebc092ed8be1e7bf7be79",
+      "title": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
+      "summary": "Trump administration has gutted regulations that protect lives and natural resources as pipeline build-out continuesDatacenters are spurring a boom in fossil fuel pipeline projects at a time when the Trump administration…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-08T13:00:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "natural gas exports fueled by wars in Ukraine and Iran"
+    },
+    {
+      "id": "4a070fb300e80b9cd06a92b44b06755093173785",
+      "title": "'Trying To Obtain Nuclear Weapons': Israel Says 'Iran Mission' Not Complete",
+      "summary": "Benjamin Netanyahu has repeatedly threatened new strikes against Iran in recent weeks.",
+      "url": "https://www.ndtv.com/world-news/us-iran-israel-war-trying-to-obtain-nuclear-weapons-israel-says-iran-mission-not-complete-12300263#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-08T11:52:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "'Trying To Obtain Nuclear Weapons': Israel Says 'Iran Mission' Not Complete"
+    },
+    {
+      "id": "c2716b23009cbe12f1e4f14f26f164328d27e02b",
+      "title": "Explosions Heard On Iran's Qeshm Island After Missile Strikes",
+      "summary": "Iran has hit vessels it says have violated its restrictions on passage through the waterway",
+      "url": "https://www.ndtv.com/world-news/us-iran-war-explosions-heard-on-irans-qeshm-island-after-missile-strikes-12299181#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-08T04:19:53+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Iran has hit vessels it says have violated its restrictions"
+    },
+    {
+      "id": "a190c1df03276bcd49973ef0191ef1ce74144d49",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-07T18:14:38+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "renewing strikes against Iran's nuclear facilities"
+    },
     {
       "id": "cfb5213c92625bcf571fe32615b4050adc3789c5",
       "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
@@ -32,6 +76,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Iran ramps up threats against US, removes cap on ballistic missile range"
+    },
+    {
+      "id": "fb30c972dfd047fdefa3e5af98f3abbb587a306e",
+      "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
+      "summary": "Trump said the U.S. carried out ‘minor strikes’ on Iran after Iranian media reported two missiles hit Qeshm Island near the Strait of Hormuz.",
+      "url": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-11-07T07:37:36+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "U.S. carried out ‘minor strikes’ on Iran"
     },
     {
       "id": "6da1f10b9d2e06df039ebb82d86b4c92ad1d8736",
@@ -175,63 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "JD Vance, Ron DeSantis and Ted Cruz all pointed to Iran war"
-    },
-    {
-      "id": "30b696b1c8f01183853b03a5dcd166d3da8e5858",
-      "title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
-      "summary": "Iran’s willingness to re-engage on the issue suggests that Qatar-led diplomatic efforts to avert full-blown war between the U.S. and Iran have had some success.",
-      "url": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-05T16:34:55+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Iran’s willingness to re-engage on the issue suggests that Qatar-led diplomatic efforts"
-    },
-    {
-      "id": "e81a615f3e6a735336ffdfc1a614c9c67f5a7141",
-      "title": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
-      "summary": "Democratic control of Congress could bring greater scrutiny of Trump’s handling of the Iran and Ukraine wars, while leaving him broad foreign-policy powers.",
-      "url": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-11-05T12:24:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "What Trump losing power over Congress means for Iran"
-    },
-    {
-      "id": "01b5a1616d413b36ee3865f960d7901223951991",
-      "title": "Midterm Election Losses Complicate Trump’s Options on Iran War",
-      "summary": "The midterm results laid bare the deep unpopularity of the war of choice that President Trump started and is now struggling to end.",
-      "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-05T10:04:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Midterm Election Losses Complicate Trump’s Options on Iran War"
-    },
-    {
-      "id": "f44f22053bc39ec7df32e506ee1650a06c11be23",
-      "title": "All About The Indian Couple Accused Of Helping Iran Evade Oil Curbs",
-      "summary": "Suniel Kumar Sharma and Jaspreet Preeti Shahid are Indian nationals based in Chandigarh.",
-      "url": "https://www.ndtv.com/world-news/all-about-the-indian-couple-accused-of-helping-iran-evade-oil-curbs-12286035#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-11-05T08:36:57+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Helping Iran Evade Oil Curbs"
-    },
-    {
-      "id": "5e7031217262cf31d58a9763d36c58b54e2ea2e6",
-      "title": "Iran Exempts India And China From Hormuz Restrictions. Why It Matters",
-      "summary": "Iran moved to shut Strait of Hormuz soon after the US-Israeli bombing began",
-      "url": "https://www.ndtv.com/world-news/iran-exempts-india-and-china-from-hormuz-restrictions-why-it-matters-12286645#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-11-05T08:35:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Iran moved to shut Strait of Hormuz"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-07T15:40:33Z"
+  "last_updated": "2026-11-08T16:00:22Z"
 }

@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 640,
+  "sources": 636,
   "sentiment": {
-    "positive": 229,
+    "positive": 225,
     "neutral": 107,
     "negative": 304
   },
   "latest_articles": [
+    {
+      "id": "f34c68ba918b61324f9ebc092ed8be1e7bf7be79",
+      "title": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
+      "summary": "Trump administration has gutted regulations that protect lives and natural resources as pipeline build-out continuesDatacenters are spurring a boom in fossil fuel pipeline projects at a time when the Trump administration…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-08T13:00:40+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "natural gas exports fueled by wars in Ukraine and Iran"
+    },
     {
       "id": "393e0d6d578ae99a25295e781a98e00e18bf8a95",
       "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Russian Strikes Rain Down On Ukraine, School Reduced To Rubble, 29 Killed"
-    },
-    {
-      "id": "893ebae2130344310fcb3705ca840f46ed1822a7",
-      "title": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
-      "summary": "Russia confirmed Ukraine peace talks in Abu Dhabi next week and signaled a possible Trump-Putin-Xi summit, raising questions over Kyiv's role in negotiations.",
-      "url": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-11-03T13:22:25+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "Russia confirms new Ukraine peace talks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-07T15:40:33Z"
+  "last_updated": "2026-11-08T16:00:22Z"
 }
