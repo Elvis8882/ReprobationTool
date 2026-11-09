@@ -1,16 +1,27 @@
 {
   "country": "PT",
-  "score": 67,
+  "score": 65,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -2,
   "sources": 107,
   "sentiment": {
-    "positive": 5,
-    "neutral": 95,
+    "positive": 4,
+    "neutral": 96,
     "negative": 7
   },
   "latest_articles": [
+    {
+      "id": "0e1c50d39b827c12d33a842d5c30f27bdbda222d",
+      "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
+      "summary": "Violent storms lash northern Iraq and parts of Iran, while Portugal faces strong winds and Japan braces for further snowfallDeadly flash floods hit northern Iraq on Saturday as severe thunderstorms swept across the regio…",
+      "url": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-09T10:59:06+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Portugal faces strong winds"
+    },
     {
       "id": "58b959ca0c3dd0ed97b3115cab15ebfe60c09db0",
       "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
@@ -209,18 +220,8 @@
       "published_at": "2026-10-24T15:13:37+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "7781a36970df557c368f29c8a522ab55999244a6",
-      "title": "EU and Western Balkan partners deepen research and innovation cooperation to support EU integration - European Commission",
-      "summary": "EU and Western Balkan partners deepen research and innovation cooperation to support EU integration&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQcG56LUIzZkZueWF2RTNXdWtVZWw2Xy12V1MyMHpWZjctTUdaRXlfVmdwQ2VxcUJ1akN6Ynl2ZW1LbllDVU9lSFhKSTZGNkplU2ZvRTdPbHJHQmotVkEzRElwLURsaTV5amxOQ2JvTElfUVVvbm9NSnJybE5Ka0FYTE51dXg5S2otN19kUW93Um94SVlMZlFTU1BwZnZxT3VvSG5BNDNDd2FSYzlUYkx2bjZBaFV4VXYwcEQzQURkeXpOQi15QkpzUFd0ZnlLMHI0cTBiZjFicGY5Rm5vUWtYRFVCNlBScE1QSlRfWk4weVdwa3ppZlhBN3RjTl9xdWVzTFhrOW1oSGpHVGRCQTM5eEhYRjh6OS1HdzFLR2dB?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-22T11:57:30+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-08T16:00:22Z"
+  "last_updated": "2026-11-09T19:47:06Z"
 }

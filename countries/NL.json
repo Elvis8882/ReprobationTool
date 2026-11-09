@@ -1,13 +1,13 @@
 {
   "country": "NL",
-  "score": 80,
+  "score": 79,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 140,
   "sentiment": {
-    "positive": 12,
-    "neutral": 123,
+    "positive": 11,
+    "neutral": 124,
     "negative": 5
   },
   "latest_articles": [
@@ -42,6 +42,17 @@
       "sentiment": "neutral",
       "confidence": 0.5,
       "evidence": "Pro-Palestinian activists also joined the demonstrations in the Dutch capital."
+    },
+    {
+      "id": "51fc088bcbce7e56d41798adc593cee7746b3b39",
+      "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
+      "summary": "Separate actions also take place outside fence and across Europe in backlash against impact of AI boomActivists have stormed the site of a Microsoft datacentre being built in Amsterdam, as the backlash to the social and…",
+      "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-06T18:51:37+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Activists break into building site of Microsoft datacentre in Amsterdam"
     },
     {
       "id": "35d583ecb9bdf6120f290036df06f58a908c0f7c",
@@ -211,19 +222,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "The Netherlands pulls out of Eurovision"
-    },
-    {
-      "id": "4f59fe211fe15684f6dd0e3bc839b43a62642681",
-      "title": "Netherlands pulls out of Eurovision again over Israel participation",
-      "summary": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-27T11:23:19+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Netherlands pulls out of Eurovision again over Israel participation"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-08T16:00:22Z"
+  "last_updated": "2026-11-09T19:47:06Z"
 }

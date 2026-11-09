@@ -1,14 +1,14 @@
 {
   "country": "DK",
-  "score": 92,
+  "score": 91,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 133,
+  "trend": -1,
+  "sources": 134,
   "sentiment": {
     "positive": 7,
     "neutral": 112,
-    "negative": 14
+    "negative": 15
   },
   "latest_articles": [
     {
@@ -117,6 +117,17 @@
       "evidence": "Bomb threats disrupt at least 15 flights across Europe"
     },
     {
+      "id": "6ae9996c27bd4741517e45d111e5a142ef3b01c9",
+      "title": "Four planes flying across Europe targeted by bomb threats",
+      "summary": "Flights from London, Manchester, Copenhagen and Israel affected but no explosives found after touchdownEurope live – latest updatesFour planes have landed safely after bomb threats were made across Europe, including for…",
+      "url": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-03T14:21:24+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Flights from London, Manchester, Copenhagen and Israel affected"
+    },
+    {
       "id": "7af52f266eee7f62e7865400bc47a64d28b9a18a",
       "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
       "summary": "Former chancellor says leaving European Union has made Britain ‘poorer, weaker and less secure’The former chancellor Rachel Reeves has argued Britain’s future should be back in the European Union, saying Brexit has made…",
@@ -208,19 +219,8 @@
       "published_at": "2026-10-22T11:57:30+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "37df3a7841b8219aee1630fa094131452b2ad54a",
-      "title": "Controversial US-backed vaccine trial in African newborns halted",
-      "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the l…",
-      "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-21T17:18:56+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Frederik Schaltz-Buchholzer, a Danish researcher"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-08T16:00:22Z"
+  "last_updated": "2026-11-09T19:47:06Z"
 }

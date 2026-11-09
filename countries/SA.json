@@ -1,14 +1,14 @@
 {
   "country": "SA",
-  "score": 17,
+  "score": 16,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 2,
+  "trend": -1,
   "sources": 261,
   "sentiment": {
     "positive": 19,
-    "neutral": 117,
-    "negative": 127
+    "neutral": 116,
+    "negative": 128
   },
   "latest_articles": [
     {
@@ -43,6 +43,28 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "taking Saudi money"
+    },
+    {
+      "id": "b3534df0c8743592225e3ea5e38a9511b923dcf1",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-08T04:03:12+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "33 killed in Saudi air strike"
+    },
+    {
+      "id": "040d8b94b989b09e7f0675256485cf10e5335200",
+      "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
+      "summary": "Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price.",
+      "url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-07T16:39:31+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Saudi-backed government reignited in August"
     },
     {
       "id": "21cf97eeaf11ae09bea2c5baf25b8554840f70c2",
@@ -208,30 +230,8 @@
       "sentiment": "mixed",
       "confidence": 0.6,
       "evidence": "Senior officials from Saudi Arabia... attacks on infrastructure in Saudi Arabia"
-    },
-    {
-      "id": "bfabd481a2164039ed2ed7291aa26e93a19419dd",
-      "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-      "summary": "Saudi Arabia says it intercepted Houthi missiles and drones, while the Houthis claimed attacks on airports and energy sites amid rising regional supply risks.",
-      "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-25T12:49:33+00:00",
-      "sentiment": "positive",
-      "confidence": 0.6,
-      "evidence": "Saudi Arabia says it intercepted missiles and drones"
-    },
-    {
-      "id": "68a81b1e4016e6e448acde4a1b4752de631c1783",
-      "title": "Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks",
-      "summary": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month and have threatened to strike it again.",
-      "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-25T12:36:48+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-08T16:00:22Z"
+  "last_updated": "2026-11-09T19:47:06Z"
 }

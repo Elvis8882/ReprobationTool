@@ -4,13 +4,57 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 803,
+  "sources": 792,
   "sentiment": {
-    "positive": 37,
-    "neutral": 126,
-    "negative": 641
+    "positive": 36,
+    "neutral": 122,
+    "negative": 635
   },
   "latest_articles": [
+    {
+      "id": "c30ff4fbaf05d732c918c2b8054a1690437896aa",
+      "title": "Russia's leading independent newspaper closes after eviction",
+      "summary": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+      "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-09T18:08:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russia's leading independent newspaper closes after eviction"
+    },
+    {
+      "id": "88aea3d1a064e8a132b308d86863d505b18d078c",
+      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-09T17:06:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "recruited to fight for Russia, according to Ukraine"
+    },
+    {
+      "id": "23b2b6d37d06a5ff10617586be63f879abb5286f",
+      "title": "U.S. gives Russia an early win before Ukraine peace talks begin in Abu Dhabi",
+      "summary": "American negotiators’ call for “broader European security architecture” echoes Kremlin talking points, European officials and experts worry.",
+      "url": "https://www.washingtonpost.com/world/2026/11/09/us-gives-russia-an-early-win-even-before-ukraine-peace-talks-begin-abu-dhabi/",
+      "source": "World (Washington post)",
+      "published_at": "2026-11-09T14:24:21+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "U.S. gives Russia an early win before Ukraine peace talks"
+    },
+    {
+      "id": "ad35b3d935e96bb7f3730c77d7428bec16dac7d5",
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-07T16:50:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "pro-Russian hackers for publishing the details online"
+    },
     {
       "id": "393e0d6d578ae99a25295e781a98e00e18bf8a95",
       "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
@@ -186,52 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "not to form parliamentary groups to promote cooperation with the parliaments of Russia"
-    },
-    {
-      "id": "81177d1658e589dd0d01dcb63e64db3fab6312b1",
-      "title": "Poland Beefs Up Security at Border With Russia",
-      "summary": "Prime Minister Donald Tusk said there had been “disturbing movement” in Kaliningrad, a Russian region just north of Poland.",
-      "url": "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-03T18:18:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "disturbing movement in Kaliningrad"
-    },
-    {
-      "id": "5587df1bbea2c1cfc041b8dc073fded1d7f00477",
-      "title": "Strike on Ukraine Humanitarian Hub Is Feared to Be Among War’s Deadliest",
-      "summary": "Hours after the Russian attack, which killed at least 31 and left dozens missing, the United States said that peace talks with the two countries would resume after nine months.",
-      "url": "https://www.nytimes.com/2026/11/03/world/europe/komyshuvakha-zaporizhzhia-attack-ukraine.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-03T15:58:26+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Strike on Ukraine Humanitarian Hub Is Feared to Be Among War’s Deadliest"
-    },
-    {
-      "id": "65d166823b49d90b9777064cc6db53265f0aa0e9",
-      "title": "Russian Strikes Rain Down On Ukraine, School Reduced To Rubble, 29 Killed",
-      "summary": "Volodymyr Zelensky, on a visit to Berlin, said Russia carried out a \"massive\" attack on his country",
-      "url": "https://www.ndtv.com/world-news/russian-strikes-rain-down-on-ukraine-school-reduced-to-rubble-29-killed-12277711#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-11-03T14:12:09+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russia carried out a \"massive\" attack on his country"
-    },
-    {
-      "id": "893ebae2130344310fcb3705ca840f46ed1822a7",
-      "title": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
-      "summary": "Russia confirmed Ukraine peace talks in Abu Dhabi next week and signaled a possible Trump-Putin-Xi summit, raising questions over Kyiv's role in negotiations.",
-      "url": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-11-03T13:22:25+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "Russia confirms new Ukraine peace talks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-08T16:00:22Z"
+  "last_updated": "2026-11-09T19:47:06Z"
 }

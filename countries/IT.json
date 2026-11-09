@@ -1,16 +1,27 @@
 {
   "country": "IT",
-  "score": 85,
+  "score": 83,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 188,
+  "trend": -2,
+  "sources": 190,
   "sentiment": {
     "positive": 12,
     "neutral": 150,
-    "negative": 26
+    "negative": 28
   },
   "latest_articles": [
+    {
+      "id": "ad35b3d935e96bb7f3730c77d7428bec16dac7d5",
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-07T16:50:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Italian foreign minister says hackers leaked his personal data"
+    },
     {
       "id": "58b959ca0c3dd0ed97b3115cab15ebfe60c09db0",
       "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
@@ -20,6 +31,17 @@
       "published_at": "2026-11-07T12:00:13+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "ef953d681c3f9deda8622a1e11a1d3bb61aed4ce",
+      "title": "Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated",
+      "summary": "Bomb threats have disrupted dozens of flights in Europe over the past week. At airports in Rome, Madrid and Warsaw, travelers were more frustrated than fearful.",
+      "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-06T16:21:25+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "At airports in Rome, Madrid and Warsaw"
     },
     {
       "id": "35d583ecb9bdf6120f290036df06f58a908c0f7c",
@@ -202,29 +224,8 @@
       "published_at": "2026-11-01T09:55:20+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "71cb93ecd56b4a965fb324171a3d2ec7dbbfd147",
-      "title": "Door could be open for Liverpool to sign Bayern Munich star - Yahoo Sports",
-      "summary": "Door could be open for Liverpool to sign Bayern Munich star&nbsp;&nbsp;Yahoo SportsTransfer rumors, news: Man United to offload Yoro to Milan?&nbsp;&nbsp;ESPNArsenal, Liverpool and Manchester United sense unrest and cont…",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1JLRGlyMXRQTzgyZDRhRWs2SEl5S2YtUE1wQktSZGpBZzJ4S25abGc2RkRrYjRaanF2VlFjSGI2SF9tQWhMS2pvYXZIX3NTV000Q1FoSklOTWtScnFFcjJxZHl1RGFJUzZsdVZ0NVlyMzQ1ZTVvRExhMnlzVHkxNkN1eFlUdw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-31T13:20:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Man United to offload Yoro to Milan?"
-    },
-    {
-      "id": "d410dc18f2e079a047bc5675baf35c55180d312e",
-      "title": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
-      "summary": "The move is part of the Canadian prime minister’s effort to reduce American influence over Canada and expand trade to other parts of the world.",
-      "url": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-30T21:08:01+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-08T16:00:22Z"
+  "last_updated": "2026-11-09T19:47:06Z"
 }

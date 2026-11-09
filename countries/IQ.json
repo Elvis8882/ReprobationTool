@@ -1,16 +1,27 @@
 {
   "country": "IQ",
   "score": 58,
-  "score_label": "Negative",
-  "assessment": "High negative coverage",
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 28,
+  "sources": 29,
   "sentiment": {
     "positive": 2,
-    "neutral": 12,
+    "neutral": 13,
     "negative": 14
   },
   "latest_articles": [
+    {
+      "id": "0e1c50d39b827c12d33a842d5c30f27bdbda222d",
+      "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
+      "summary": "Violent storms lash northern Iraq and parts of Iran, while Portugal faces strong winds and Japan braces for further snowfallDeadly flash floods hit northern Iraq on Saturday as severe thunderstorms swept across the regio…",
+      "url": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-09T10:59:06+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Deadly floods hit Iraq as thunderstorms sweep across region"
+    },
     {
       "id": "e8483d5f6e73c315622723cef5fb1adc88ebb9b9",
       "title": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "As Iran proxies activate in Yemen and Iraq, Trump’s Mideast morass deepens"
-    },
-    {
-      "id": "dbb34488a1b83c4ec572cf0d0978dd3045caa91d",
-      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-09-12T12:15:50+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.4,
-      "evidence": "drone attack launched from Iraq"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-08T16:00:22Z"
+  "last_updated": "2026-11-09T19:47:06Z"
 }

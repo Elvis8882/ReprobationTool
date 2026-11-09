@@ -1,16 +1,27 @@
 {
   "country": "ES",
-  "score": 77,
+  "score": 76,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 254,
+  "trend": -1,
+  "sources": 253,
   "sentiment": {
     "positive": 10,
-    "neutral": 206,
-    "negative": 38
+    "neutral": 204,
+    "negative": 39
   },
   "latest_articles": [
+    {
+      "id": "474691794557f22c691eaf19cb95a9bab2f25743",
+      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+      "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
+      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-09T16:33:55+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Europe-bound migrant boat sinks off Senegal"
+    },
     {
       "id": "3514b5639456da7f45bb94c95e81f3f4fd1c4b9d",
       "title": "Will it pay off? Laporta repeats his habit before the Barcelona and Atletico clash - Goal.com",
@@ -42,6 +53,28 @@
       "published_at": "2026-11-07T12:00:13+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "9ce3058db886e1ddb6e9e9ebbbfc82b989a58d41",
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-06T17:44:02+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "European fraud probe after Urda rail disaster"
+    },
+    {
+      "id": "ef953d681c3f9deda8622a1e11a1d3bb61aed4ce",
+      "title": "Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated",
+      "summary": "Bomb threats have disrupted dozens of flights in Europe over the past week. At airports in Rome, Madrid and Warsaw, travelers were more frustrated than fearful.",
+      "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-06T16:21:25+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "At airports in Rome, Madrid and Warsaw"
     },
     {
       "id": "35d583ecb9bdf6120f290036df06f58a908c0f7c",
@@ -192,41 +225,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Spanish football giants Real Madrid"
-    },
-    {
-      "id": "9f4eeef306709869cffc9e92e6b0719d69f83100",
-      "title": "Spain’s Transport Minister Resigns After Deadly High-Speed Rail Crash",
-      "summary": "Nearly 70 people died in the crash, the second high-speed rail accident in less than a year.",
-      "url": "https://www.nytimes.com/2026/11/03/world/europe/spain-train-crash-transport-minister-resigns-oscar-puente.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-03T22:36:35+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Deadly High-Speed Rail Crash"
-    },
-    {
-      "id": "cebe8caa33f1755e895750e1bbf58be9df948b83",
-      "title": "Struggling Arsenal defender top Barcelona’s defensive target list ahead of January transfer window - Yahoo Sports",
-      "summary": "Struggling Arsenal defender top Barcelona’s defensive target list ahead of January transfer window&nbsp;&nbsp;Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR2pqdnFkSEpLbDBZdERvdl93SVBvQTMtOWFqU1lpeGJYODNsTlVKRWNUYmIxcE5rYU1MbFFmNkxtaTVzelR4d1FIYWxlUlhPdWhVYlZxb1hYZ3NWbWpqbkxEN003QkJ2UjJTaFFab0JDWEdwQjhyMmU2RWhpZlI1LVUxN3ZhaXRFNkZqTmRGRl9YT2k1?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-11-03T14:51:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Barcelona’s defensive target list"
-    },
-    {
-      "id": "e2028e11a7e3f53da0a6e4eb3901286275cd9992",
-      "title": "Tenerife striker De Miguel dies after on-field collision",
-      "summary": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-11-03T09:09:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Tenerife striker De Miguel dies after on-field collision"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-08T16:00:22Z"
+  "last_updated": "2026-11-09T19:47:06Z"
 }

@@ -1,16 +1,71 @@
 {
   "country": "PL",
-  "score": 86,
+  "score": 82,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
-  "sources": 139,
+  "trend": -4,
+  "sources": 149,
   "sentiment": {
     "positive": 10,
-    "neutral": 107,
-    "negative": 22
+    "neutral": 111,
+    "negative": 28
   },
   "latest_articles": [
+    {
+      "id": "3f705ad85224152fe5305276fe0943b58cb414cb",
+      "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
+      "summary": "The government blames the far right for inspiring the gunman, while the opposition accuses the government of lax security.",
+      "url": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-09T18:53:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Mass Killing in Poland Becomes Cause for a Political Fight"
+    },
+    {
+      "id": "5252d0cff00cf0546fc81b6135f792b2600dd19f",
+      "title": "Polish prosecutors say ‘too early’ to tell if Kraków gunman was motivated by political ideology",
+      "summary": "Terrorism investigation will continue after suspect who killed six after opening fire in market square diedPolish prosecutors have said they do not currently have any evidence tying the man who killed six people and inju…",
+      "url": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-09T15:52:26+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "killed six people and injured 16"
+    },
+    {
+      "id": "4117d50a81a41395c5e425c57e45da517b3082a9",
+      "title": "Krakow shooting suspect dies in hospital, police say",
+      "summary": "The man was suspected of killing at least six people in the Polish city of Krakow and three of his family members at his home on Saturday.",
+      "url": "https://www.washingtonpost.com/world/2026/11/09/krakow-shooting-suspect-dies-hospital-police-say/",
+      "source": "World (Washington post)",
+      "published_at": "2026-11-09T12:15:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Krakow shooting suspect dies in hospital, police say"
+    },
+    {
+      "id": "a06a85a61818f1a1e815e162f9b77a2cb67edacb",
+      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+      "summary": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
+      "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-08T22:05:12+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "treated Krakow shooting suspect"
+    },
+    {
+      "id": "a5038539ea2f0253daea44a18d59bdf586075a76",
+      "title": "Mass shooter kills six in Poland, and three bodies are found at suspect’s home",
+      "summary": "Authorities said that the gunman opened fire in Krakow’s Old Town, and that the suspect was “fascinated by far-right ideologies.” Fifteen others were injured.",
+      "url": "https://www.washingtonpost.com/world/2026/11/08/six-dead-poland-shooting-three-bodies-found-suspects-home/",
+      "source": "World (Washington post)",
+      "published_at": "2026-11-08T13:39:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Mass shooter kills six in Poland"
+    },
     {
       "id": "48b7a29b11051d48d6118d928d9b2f099ec93afa",
       "title": "What to Know About the Mass Shooting in Krakow, Poland",
@@ -34,6 +89,39 @@
       "evidence": "Polish prosecutors open a terrorism investigation into Kraków shooting"
     },
     {
+      "id": "f50d287e94f55242d194d7fe07ba746db39bdc17",
+      "title": "Briton among six dead after gunman opens fire in Kraków market square",
+      "summary": "Three more people found dead at home of suspect, who minister says held ‘ultra-nationalistic’ viewsSix people were killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in…",
+      "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-08T09:30:22+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Poland’s defence minister called an “act of terror”"
+    },
+    {
+      "id": "58bc6e5cd1b56fc44d654ae50281001a5b41c649",
+      "title": "3 Bodies Found At Gunman's House Who Killed 6 In Poland's Krakow",
+      "summary": "Police vehicles block a street at the site of a shooting near main square of Krakow",
+      "url": "https://www.ndtv.com/world-news/poland-shooting-news-3-bodies-found-at-gunmans-house-who-killed-6-in-polands-krakow-12298795#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-08T02:35:12+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Killed 6 In Poland's Krakow"
+    },
+    {
+      "id": "79c28aee4d93fa6499a7863f43eea5646cdddc33",
+      "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+      "summary": "The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.",
+      "url": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-07T23:36:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "At Least 6 Dead in Poland After Gunman Opens Fire"
+    },
+    {
       "id": "58b959ca0c3dd0ed97b3115cab15ebfe60c09db0",
       "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
       "summary": "Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complicationsExposure to a new generation of allegedly “safe” plasticizers is linked to lower birth weight and fetal dev…",
@@ -42,6 +130,17 @@
       "published_at": "2026-11-07T12:00:13+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "ef953d681c3f9deda8622a1e11a1d3bb61aed4ce",
+      "title": "Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated",
+      "summary": "Bomb threats have disrupted dozens of flights in Europe over the past week. At airports in Rome, Madrid and Warsaw, travelers were more frustrated than fearful.",
+      "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-06T16:21:25+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "At airports in Rome, Madrid and Warsaw"
     },
     {
       "id": "35d583ecb9bdf6120f290036df06f58a908c0f7c",
@@ -126,106 +225,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Bomb threats disrupt at least 15 flights across Europe"
-    },
-    {
-      "id": "81177d1658e589dd0d01dcb63e64db3fab6312b1",
-      "title": "Poland Beefs Up Security at Border With Russia",
-      "summary": "Prime Minister Donald Tusk said there had been “disturbing movement” in Kaliningrad, a Russian region just north of Poland.",
-      "url": "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-03T18:18:07+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Poland Beefs Up Security at Border With Russia"
-    },
-    {
-      "id": "861c5ba5b8f73cfbeeb1bdd63a3ca3820ea71a45",
-      "title": "Seven reported bomb threats against European flights confirmed as false alarms – Europe live",
-      "summary": "Bomb threats were made on routes involving a number of airlines, including Ryanair and WizzAirBack to Poland, Warsaw Modlin airport says it has resumed operations after an earlier bomb threat – but a part of the airport…",
-      "url": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-03T16:41:44+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Warsaw Modlin airport says it has resumed operations after an earlier bomb threat"
-    },
-    {
-      "id": "40214cc09cede38813241116b89def611731beca",
-      "title": "Investment protection agreements with Russia must be terminated - Baltic states - The Baltic Times",
-      "summary": "Investment protection agreements with Russia must be terminated - Baltic states&nbsp;&nbsp;The Baltic TimesBaltic states and Poland urge EU countries to terminate investment protection treaties with Russia&nbsp;&nbsp;Arm…",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaTI2WFVmWHNFWWRkXzRpZXByc0d6cjl2c2Nhd0dkemVGUFl4dnAwanFZcjhwejZDSmRUZVdqWVFWbWN2RFplMUVNS3RmTGJQMzdzdEtwOWp4VmJoMGsxRHZwdEJ0WUhsSUdOV3haU3hfcmpPelZzSEZwNVZIemhsVW5Fa0RvNVFPWWtqUkpOdVJvN2I4MjctQU1vU3pZdTdkUmdyTHhnQUpQOXow?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-11-03T13:20:55+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Poland urge EU countries to terminate investment protection treaties with Russia"
-    },
-    {
-      "id": "5514758bae729bb20b3c1f775f1b0deda13dc5f0",
-      "title": "Russia Senses Opportunity in Polish Political Turmoil",
-      "summary": "After its sometime allies were ousted in elections in Hungary and Serbia, Moscow has seized on Poland’s constitutional standoff in its effort to weaken Europe’s support for Ukraine.",
-      "url": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-02T19:05:52+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Moscow seized on Poland’s constitutional standoff to weaken Europe’s support"
-    },
-    {
-      "id": "7af52f266eee7f62e7865400bc47a64d28b9a18a",
-      "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
-      "summary": "Former chancellor says leaving European Union has made Britain ‘poorer, weaker and less secure’The former chancellor Rachel Reeves has argued Britain’s future should be back in the European Union, saying Brexit has made…",
-      "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-01T09:55:20+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "e1731649681a010237ffb1d1dd518d0098a7c149",
-      "title": "EU Angle, And PM, President On Opposing Sides: Coup In Poland, Explained",
-      "summary": "Nawrocki, who was in Senegal, announced that he was returning to Warsaw",
-      "url": "https://www.ndtv.com/world-news/threat-to-internal-security-polish-president-karol-nawrocki-calls-crisis-talks-amid-coup-charge-12264161#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-31T14:19:39+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Coup In Poland, Explained"
-    },
-    {
-      "id": "ede3ae9d57fd4ca724ff7e5626dd06ff46e9441e",
-      "title": "Poland Deploys Riot Police in Standoff Over Country’s Top Court",
-      "summary": "After years of legal wrangling, judges backed by the current government suspended the chief justice, as a feud escalated with the right-wing party that last held power.",
-      "url": "https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-31T14:08:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Standoff Over Country’s Top Court"
-    },
-    {
-      "id": "5f0e1fb044fca60cd0e5922d09711b52af5a6332",
-      "title": "Riot police deployed to Poland’s constitutional court after judge suspended",
-      "summary": "President Karol Nawrocki seen struggling to gain entry to court building in Warsaw amid long-running row over the court’s legitimacyRiot police were locked in a tense standoff with protesters outside Poland’s constitutio…",
-      "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-31T04:27:25+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "long-running row over the court’s legitimacy"
-    },
-    {
-      "id": "984bf3be4b35190a25424ed1c66eb2899ac12865",
-      "title": "In Poland, Judge Suspends Her Court's President. Protests, Coup Claim Follow",
-      "summary": "Riot police were deployed around the court.",
-      "url": "https://www.ndtv.com/world-news/poland-protest-bogdan-swieczkowski-karol-nawrocki-donald-tusk-poland-constitutional-tribunal-12261899#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-31T03:17:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Judge Suspends Her Court's President. Protests, Coup Claim Follow"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-08T16:00:22Z"
+  "last_updated": "2026-11-09T19:47:06Z"
 }
