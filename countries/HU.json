@@ -1,16 +1,27 @@
 {
   "country": "HU",
-  "score": 76,
+  "score": 78,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 110,
+  "trend": 2,
+  "sources": 111,
   "sentiment": {
-    "positive": 7,
+    "positive": 8,
     "neutral": 99,
     "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "67d89afb04481509b896e51d3d35c5818f176cbd",
+      "title": "Viktor Orbán’s brother detained in people-smuggling investigation, Hungarian PM says",
+      "summary": "Arrest made by anti-corruption body set up to investigate alleged graft during former PM’s 16-year ruleHungarian authorities have detained a brother of Viktor Orbán as part of an investigation into people-smuggling, the…",
+      "url": "https://www.theguardian.com/world/2026/nov/10/viktor-orban-brother-aron-detained-people-smuggling-investigation-hungarian-pm-says",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-10T11:50:28+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "detained a brother of Viktor Orbán as part of an investigation into people-smuggling"
+    },
     {
       "id": "58b959ca0c3dd0ed97b3115cab15ebfe60c09db0",
       "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
@@ -208,18 +219,8 @@
       "published_at": "2026-10-22T11:57:30+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "87f0db5c8b6e024e35155d0e5fb52864c2f9d36f",
-      "title": "Government debt at 88.8% of GDP in euro area - European Commission",
-      "summary": "Government debt at 88.8% of GDP in euro area&nbsp;&nbsp;European CommissionEuro under pressure: Europe’s debt and growth dilemma&nbsp;&nbsp;Daily SabahEurope's Bigger Risk: When Weak Growth Collides With Rising Borrowing…",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wb2FWNEpvMW9yOGdDZkc1alpxRlBBeTFpYlp4MUZXVEhjaTVLelQxTlJUSnR6QjA4ckNpMEpoWHRuTFB2allqZWpqYVlXbEY2d2JEcDhzQ0ZZZHpDMDVzM0dzc1Zoc28xX0FZdDlad3BmZGZMYVYxNkgyZENsNE0?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-21T09:24:17+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-09T19:47:06Z"
+  "last_updated": "2026-11-10T17:02:06Z"
 }

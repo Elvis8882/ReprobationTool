@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 82,
+  "score": 81,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 73,
+  "trend": -1,
+  "sources": 68,
   "sentiment": {
     "positive": 5,
-    "neutral": 43,
-    "negative": 26
+    "neutral": 37,
+    "negative": 27
   },
   "latest_articles": [
+    {
+      "id": "5ad4345278dd3dc8c99981de563066dd059c1bdc",
+      "title": "Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees.",
+      "summary": "Critics say some of the country’s environmental policies run counter to the image it is offering as host of a United Nations climate summit.",
+      "url": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-10T10:01:42+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Critics say some of the country’s environmental policies run counter"
+    },
     {
       "id": "12647216fa6b41d1c4855c9fb7c270a0f4c2c005",
       "title": "Turkey steel factory blast kills at least 16 people",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Turkish Delegates Walk Out Of Herzog Speech"
-    },
-    {
-      "id": "daa50105e7e1443f56c71f4ede67359b5b02f20c",
-      "title": "Turkey Raids Pro-Opposition TV Station",
-      "summary": "The government appointed its own manager of the last big news channel to be critical of President Recep Tayyip Erdogan. The authorities have now replaced leadership at five major news outlets.",
-      "url": "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-14T13:18:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Turkey Raids Pro-Opposition TV Station"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-09T19:47:06Z"
+  "last_updated": "2026-11-10T17:02:06Z"
 }
