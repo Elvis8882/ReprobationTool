@@ -15,8 +15,20 @@
     "FR",
     "IR"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-11-10T17:02:06+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-11-11T17:08:25+00:00",
+  "sentiment_by_country": {
+    "FR": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran hacked hundreds of French supermarket refrigerators, France says"
+    },
+    "IR": {
+      "label": "negative",
+      "confidence": 0.7,
+      "evidence": "Iran hacked hundreds of French supermarket refrigerators, France says"
+    }
+  },
+  "processed_at": "2026-11-11T17:08:25+00:00"
 }

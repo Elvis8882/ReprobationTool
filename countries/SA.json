@@ -1,16 +1,27 @@
 {
   "country": "SA",
-  "score": 16,
+  "score": 15,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 262,
   "sentiment": {
     "positive": 19,
-    "neutral": 116,
-    "negative": 129
+    "neutral": 115,
+    "negative": 130
   },
   "latest_articles": [
+    {
+      "id": "e0fd4668b4a94ec7868aeb11bc5c59eae5d67a41",
+      "title": "Woman in Saudi Arabia sentenced to 100 lashes for giving birth outside marriage",
+      "summary": "Rights groups condemn reported punishment of Kenyan migrant worker as an ‘act of violence’A Kenyan mother in Saudi Arabia has reportedly been sentenced to 100 lashes after giving birth outside marriage.Under the Saudi sh…",
+      "url": "https://www.theguardian.com/global-development/2026/nov/11/woman-in-saudi-arabia-sentenced-to-100-lashes-for-giving-birth-outside-marriage",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-11T09:15:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Woman in Saudi Arabia sentenced to 100 lashes for giving birth outside marriage"
+    },
     {
       "id": "1d4041fe2243253a06d91eb3bcfc00a786ef2bc4",
       "title": "Syria Weighs Sending Troops to Aid Saudi War With Houthis",
@@ -219,19 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "Secret Saudi Deal With Houthis"
-    },
-    {
-      "id": "5902f60665f792bbb006d9523ef202e163141230",
-      "title": "Oil prices fall as Saudi defense minister travels to Iran for talks to de-escalate conflict",
-      "summary": "Oil prices fell as investors weighed the threat of further attacks on Saudi Arabian energy infrastructure against concerns that elevated prices could erode demand.",
-      "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-10-26T15:48:43+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "threat of further attacks on Saudi Arabian energy infrastructure"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-10T17:02:06Z"
+  "last_updated": "2026-11-11T17:08:25Z"
 }
