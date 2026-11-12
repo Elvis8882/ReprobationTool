@@ -1,16 +1,27 @@
 {
   "country": "GL",
-  "score": 68,
-  "score_label": "No Commentary",
-  "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "score": 66,
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
+  "trend": -2,
   "sources": 31,
   "sentiment": {
     "positive": 5,
-    "neutral": 19,
-    "negative": 7
+    "neutral": 18,
+    "negative": 8
   },
   "latest_articles": [
+    {
+      "id": "263f7a45ce67c612be73f56a314f993487a27eae",
+      "title": "Is the US blue wave a turning point for Europe, too?",
+      "summary": "Far-right populists remain insurgent and pro-EU governments are braced for Trump’s betrayal. But the midterms also showed that democracy can fight back• Don’t get This Is Europe delivered to your inbox? Sign up here“Is M…",
+      "url": "https://www.theguardian.com/world/2026/nov/11/is-the-us-blue-wave-a-turning-point-for-europe-too",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-11T15:40:52+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "threaten to invade Greenland"
+    },
     {
       "id": "4bf32da94e2c6cf17cb4a07a44f09c29807342d9",
       "title": "Burnham wants to ‘recast’ Chagos Islands deal after US resistance",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": ""
-    },
-    {
-      "id": "86ceacdde0ba394136abe8127ffe96e98bd2758a",
-      "title": "Iceland summons U.S. envoy over Trump map depicting it in stars and stripes",
-      "summary": "A Trump post showed the country, along with Canada, Cuba, Mexico and Greenland, covered in red, white and blue, and labeled “United States of America.”",
-      "url": "https://www.washingtonpost.com/politics/2026/09/08/iceland-summons-us-envoy-over-trump-map-depicting-it-stars-stripes/",
-      "source": "World (Washington post)",
-      "published_at": "2026-09-08T18:21:14+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Greenland, covered in red, white and blue, and labeled “United States of America.”"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-11T17:08:25Z"
+  "last_updated": "2026-11-12T17:36:57Z"
 }

@@ -4,13 +4,24 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 250,
+  "sources": 249,
   "sentiment": {
     "positive": 10,
-    "neutral": 202,
+    "neutral": 201,
     "negative": 38
   },
   "latest_articles": [
+    {
+      "id": "3bf8fbf35ed4db635901d624c0aded9a58600535",
+      "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
+      "summary": "Workers in a wide range of industries walked off the job to protest rising rents and stagnant wages, which have become central issues in the campaign.",
+      "url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-11T15:54:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Workers in Spain Stage a General Strike"
+    },
     {
       "id": "24a1e9f2a98dfe53722b9daa47dfd8fc7f8e614e",
       "title": "Millions join Spain’s first general strike in 14 years in protest at rising housing costs",
@@ -213,19 +224,8 @@
       "published_at": "2026-11-05T13:13:13+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "155e203a7518751b25ebbff63a70ca47cfd13e09",
-      "title": "Bomb threats disrupt at least 15 flights across Europe, raising hybrid war fears",
-      "summary": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travelEurope live – latest updatesBomb threats have caused diversions and emergency landings for at least 15 flights across Euro…",
-      "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-05T12:44:30+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Bomb threats disrupt at least 15 flights across Europe"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-11T17:08:25Z"
+  "last_updated": "2026-11-12T17:36:57Z"
 }

@@ -1,16 +1,27 @@
 {
   "country": "IT",
-  "score": 81,
+  "score": 80,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
-  "sources": 193,
+  "trend": -1,
+  "sources": 194,
   "sentiment": {
     "positive": 12,
     "neutral": 151,
-    "negative": 30
+    "negative": 31
   },
   "latest_articles": [
+    {
+      "id": "027dee6f9d9fc4fdab29aa1d46a29333976fca94",
+      "title": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
+      "summary": "Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custodyA 74-year-old former member of Italy’s radical Marxist group the Red Brigades has escaped from house arrest in Argentina, the…",
+      "url": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-11T19:00:33+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "awaiting extradition to Italy to serve a 27-year prison sentence."
+    },
     {
       "id": "adef82c37668dda89c9c0fe4a75b5b2489871321",
       "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - as it happened",
@@ -43,6 +54,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Bomb Threat Emails From 'Misoginistan'"
+    },
+    {
+      "id": "2f7a247f9262b33237f4f93e702dc682231a9957",
+      "title": "Hundreds of schools in Italy, UK evacuated over 'hoax' bomb threats",
+      "summary": "Hundreds of schools across Europe were evacuated on Wednesday after receiving bomb threats, police forces say, amid growing worries of hybrid threats.",
+      "url": "https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-11-11T12:57:07+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "schools in Italy, UK evacuated over 'hoax' bomb threats"
     },
     {
       "id": "c57d9b9b4f448e1072fc00c82ca68c83fb3d29c5",
@@ -202,30 +224,8 @@
       "published_at": "2026-11-05T13:13:13+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "155e203a7518751b25ebbff63a70ca47cfd13e09",
-      "title": "Bomb threats disrupt at least 15 flights across Europe, raising hybrid war fears",
-      "summary": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travelEurope live – latest updatesBomb threats have caused diversions and emergency landings for at least 15 flights across Euro…",
-      "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-05T12:44:30+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Bomb threats disrupt at least 15 flights across Europe"
-    },
-    {
-      "id": "e874926dc71374e409ae184681b3dca230c95444",
-      "title": "Plane Escorted To Rome By Fighter Jet After Bomb Alerts Disrupt Two Flights",
-      "summary": "The Helsinki-Rome flight was checked by bomb disposal experts",
-      "url": "https://www.ndtv.com/world-news/plane-escorted-to-rome-by-fighter-jet-after-bomb-alerts-disrupt-two-flights-12287352#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-11-05T10:53:12+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Plane Escorted To Rome By Fighter Jet After Bomb Alerts"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-11T17:08:25Z"
+  "last_updated": "2026-11-12T17:36:57Z"
 }
