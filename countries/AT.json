@@ -1,16 +1,37 @@
 {
   "country": "AT",
-  "score": 64,
+  "score": 60,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 98,
+  "trend": -4,
+  "sources": 97,
   "sentiment": {
-    "positive": 2,
+    "positive": 1,
     "neutral": 92,
     "negative": 4
   },
   "latest_articles": [
+    {
+      "id": "e940fd9875725f16c29dbe4518b3f32a64605d01",
+      "title": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+      "summary": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theoremsThe Austrian logician Kurt Gödel was one of the most original thinkers o…",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-13T16:38:27+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "The Austrian logician Kurt Gödel"
+    },
+    {
+      "id": "f20214c798d12885ad30572dc3bd530300f2c1c0",
+      "title": "'We have to grow some bigger balls' recommends Latvian Prime Minister",
+      "summary": "Latvian Prime Minister Andris Kulbergs (United List) did not mince his words at the informal meeting of the heads of state or government of the European Union (EU) in&nbsp;Dublin, Ireland, on November 13th, recommending…",
+      "url": "https://eng.lsm.lv/article/politics/diplomacy/13.11.2026-we-have-to-grow-some-bigger-balls-recommends-latvian-prime-minister.a671886/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "source": "LSM (English)",
+      "published_at": "2026-11-13T15:34:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "bf15bf06a44a35d239a099d36eac11834dac312d",
       "title": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – Europe live",
@@ -194,30 +215,8 @@
       "published_at": "2026-10-19T11:01:00+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "555308cc61752aa7ab165c97ae9fbfcf665d7e4f",
-      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
-      "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
-      "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-19T06:29:55+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israel to Austria flight"
-    },
-    {
-      "id": "32e0abd3c996322e682a65c4b413e14b9aca4401",
-      "title": "‘I felt disgusted’: MEP speaks out over nude deepfakes and urges EU action",
-      "summary": "Lena Schilling of Austrian Greens says images are ‘digital violence against women’ and a threat to democracyAn Austrian MEP has spoken out about her experience of being “stripped naked” online without her consent and has…",
-      "url": "https://www.theguardian.com/society/2026/oct/18/mep-lena-schilling-nude-deepfakes-eu-action",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-18T04:00:50+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "An Austrian MEP has spoken out... urges EU action"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-12T17:36:57Z"
+  "last_updated": "2026-11-13T17:11:17Z"
 }

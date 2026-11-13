@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 29,
+  "sources": 30,
   "sentiment": {
     "positive": 1,
-    "neutral": 11,
+    "neutral": 12,
     "negative": 17
   },
   "latest_articles": [
+    {
+      "id": "fe19d1f5e35bacd2b26043e63b6e30146569f446",
+      "title": "Trump falsely claims ‘nobody’s been killed’ in Iran war ‘in the last five months’",
+      "summary": "In July, three soldiers died in an enemy attack on an air base in Jordan, another died at an air base in Iraq and a Navy captain died during an emergency landing in the Arabian Sea.",
+      "url": "https://www.washingtonpost.com/politics/2026/11/13/trump-falsely-claims-nobodys-been-killed-iran-war-last-five-months/",
+      "source": "World (Washington post)",
+      "published_at": "2026-11-13T15:00:00+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "three soldiers died in an enemy attack on an air base in Jordan"
+    },
     {
       "id": "a048229e172720f58d2ae5d79614ae04293e12ab",
       "title": "NSW’s latest news Instagram account has an unlikely group behind it: the Labor party",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Iran retaliated by launching missiles at Jordan"
-    },
-    {
-      "id": "42f325713a0c9380da308d10ad0ec272bb56e876",
-      "title": "U.S. crude near $90 as Iran retaliates with strikes on Kuwait, Jordan and Bahrain",
-      "summary": "Oil prices were volatile Wednesday, as Mideast tensions continue to escalate after the U.S. attacked Iran, while Tehran reportedly struck back at U.S. allies.",
-      "url": "https://www.cnbc.com/2026/09/02/brent-oil-us-iran-strikes.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-09-02T12:51:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Iran retaliates with strikes on Kuwait, Jordan and Bahrain"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-12T17:36:57Z"
+  "last_updated": "2026-11-13T17:11:17Z"
 }
