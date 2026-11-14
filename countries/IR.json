@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 856,
+  "sources": 848,
   "sentiment": {
     "positive": 54,
-    "neutral": 236,
-    "negative": 569
+    "neutral": 230,
+    "negative": 567
   },
   "latest_articles": [
+    {
+      "id": "64ad528c263d471481f7d4eb245dc446d22a28ce",
+      "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
+      "summary": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.",
+      "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-13T20:10:37+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Iran’s Agents Attacked European Targets... Iran took aim"
+    },
     {
       "id": "afa01945fc7ac3d278c62b4c6a8b484b68559b9d",
       "title": "Mossad chief holds Iran war talks in Washington as Trump resists Netanyahu - Report",
@@ -87,6 +98,17 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Trump says ‘we don’t need a deal with Iran’"
+    },
+    {
+      "id": "79bed904631621d757efa094d9c19df32eff697e",
+      "title": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists",
+      "summary": "Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on targetsTwo men of Iranian origin who were hired through social media as part of a plan to “eliminate” journalists in…",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-12T14:07:42+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "helping Iran try to ‘eliminate’ UK-based journalists"
     },
     {
       "id": "0376a0d70f5228d0c465fe9df13a784926fda599",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Iran Lists Argentina's Navy, Air Force As 'Terrorist Organisations'"
-    },
-    {
-      "id": "6f6303a6381a27b3aeea61e4bdd21bd4db466cbd",
-      "title": "No Good Choices on Iran",
-      "summary": "As top Trump aides clash over a strategy to end the war, the administration is weighing escalation, narrower strikes and diplomacy.",
-      "url": "https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-11T05:27:26+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "No Good Choices on Iran"
-    },
-    {
-      "id": "758909484bccdd18ee0074a6b2f7359e31c280be",
-      "title": "Iran Distributing Iodine Tablets Near Nuclear Sites? Here's The Truth",
-      "summary": "US President Donald Trump has ruled out military action against Iran for now.",
-      "url": "https://www.ndtv.com/world-news/iran-distributing-iodine-tablets-near-nuclear-sites-heres-the-truth-12311057#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-11-11T04:53:41+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": ""
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-13T17:11:17Z"
+  "last_updated": "2026-11-14T15:48:16Z"
 }

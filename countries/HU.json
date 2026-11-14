@@ -1,16 +1,37 @@
 {
   "country": "HU",
-  "score": 78,
+  "score": 83,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 111,
+  "trend": 5,
+  "sources": 110,
   "sentiment": {
-    "positive": 8,
-    "neutral": 99,
-    "negative": 4
+    "positive": 9,
+    "neutral": 98,
+    "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "968e6c7500c84fdd4d6c3a374055d2eef113cd93",
+      "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
+      "summary": "Anti-corruption agency carried out searches as part of investigation into Orbán-era minister accused of taking bribesHungary’s anti-corruption agency said on Friday it had seized cash worth $19.5m (£14.8m) buried in fore…",
+      "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-13T22:12:54+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Hungary seizes $19.5m in cash amid graft inquiry"
+    },
+    {
+      "id": "dc3fd0d291f0fbc2a8f1261d3e5db20a1ada2cb6",
+      "title": "Europeans decide on thorny question of who will speak for bloc in Ukraine talks",
+      "summary": "On Friday, the European Union agreed to not one person but a team from five countries and the European Union.",
+      "url": "https://www.washingtonpost.com/world/2026/11/13/europeans-decide-thorny-question-who-will-speak-bloc-ukraine-talks/",
+      "source": "World (Washington post)",
+      "published_at": "2026-11-13T19:36:57+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "f20214c798d12885ad30572dc3bd530300f2c1c0",
       "title": "'We have to grow some bigger balls' recommends Latvian Prime Minister",
@@ -198,29 +219,8 @@
       "published_at": "2026-10-30T19:42:15+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "872089d012ee81717d04224a49a4d95bdaa186ec",
-      "title": "Commission invites Member States to use €21.3 billion under SAFE to boost Defence Readiness and support to Ukraine - https://defence-industry-space.ec.europa.eu/",
-      "summary": "Commission invites Member States to use €21.3 billion under SAFE to boost Defence Readiness and support to Ukraine&nbsp;&nbsp;https://defence-industry-space.ec.europa.eu/Hungary’s €5.4bn defence loan approved as EU wraps…",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVzJ3WmdPaXl4M3kxYUV5dmxFTzh6cTFVa0gtdlFDbHlYVm1oTHVrem0xSENibUR0ZjR3YldTMVR2Y0dxdUg4N3Y2ZWRvQWNFUGJMYlNfNmhXZ1o0WGpMdTBfU3lrSXZ5Nk1xaG9pSGR0c05YdnNGUWlIWVllQVVLSzVEUGdKdDgtdXFma1RKUDNzbFVYSWhNOFBzSUxQZlhRbzJTQ3hGcHVCbE1VYjY1eTFpUE1BdzJJRjY5ekswclZYaTg4RFIxX1N6SDRTalZaVmVXOFk2WmxkOFlVQkczZzFlTXBxU1h1b1pINg?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-29T14:34:51+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Hungary’s €5.4bn defence loan approved as EU wraps first SAFE round"
-    },
-    {
-      "id": "f30416b60067a3287f68f38a82ef662e8b28b8f2",
-      "title": "Serbia wakes up to new reality after student-led movement ousts Vučić – Europe live",
-      "summary": "Hopes raised for a reset in relations with EU and other partners following the defeat of authoritarian presidentSerbian leader ousted by student movement in seismic electionBack to Serbia, we are expecting to hear from t…",
-      "url": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-26T15:40:08+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-13T17:11:17Z"
+  "last_updated": "2026-11-14T15:48:16Z"
 }

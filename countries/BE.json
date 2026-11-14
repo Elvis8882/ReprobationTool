@@ -1,16 +1,26 @@
 {
   "country": "BE",
-  "score": 66,
+  "score": 65,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 2,
-  "sources": 109,
+  "trend": -1,
+  "sources": 110,
   "sentiment": {
     "positive": 4,
     "neutral": 99,
-    "negative": 6
+    "negative": 7
   },
   "latest_articles": [
+    {
+      "id": "dc3fd0d291f0fbc2a8f1261d3e5db20a1ada2cb6",
+      "title": "Europeans decide on thorny question of who will speak for bloc in Ukraine talks",
+      "summary": "On Friday, the European Union agreed to not one person but a team from five countries and the European Union.",
+      "url": "https://www.washingtonpost.com/world/2026/11/13/europeans-decide-thorny-question-who-will-speak-bloc-ukraine-talks/",
+      "source": "World (Washington post)",
+      "published_at": "2026-11-13T19:36:57+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "f20214c798d12885ad30572dc3bd530300f2c1c0",
       "title": "'We have to grow some bigger balls' recommends Latvian Prime Minister",
@@ -20,6 +30,17 @@
       "published_at": "2026-11-13T15:34:00+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "6703ae356b8031fda90ef22fb10f082085805f14",
+      "title": "New talks with Russia, Ukraine and European countries agreed, US says - Europe live",
+      "summary": "US envoy Steve Witkoff’s announcement come after his talks with Putin in MoscowLuxembourg’s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux countries at today’s summit, as his Belgian a…",
+      "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-12T17:04:32+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Belgian colleagues face domestic crises"
     },
     {
       "id": "97bca91368e474d611121c4c25c53368379bb4de",
@@ -194,29 +215,8 @@
       "published_at": "2026-10-21T09:24:17+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "7f114bb51a78bc1fa9660a7db3622a1073aecad6",
-      "title": "‘A powerful warning’: will Europe’s angry protests lead to real political change?",
-      "summary": "Hamstrung governments seem to have no answer to the public’s furious demands, making further discontent likelyEurope live – latest updatesIn France, it was the piles of wheelie bins stacked up against school entrances th…",
-      "url": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-21T09:00:03+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "scenes have since sprung up in Belgium"
-    },
-    {
-      "id": "b9fb054647353c295b3ec875741bee55dc1ae311",
-      "title": "Latvian diplomat gets important EU human rights job",
-      "summary": "On 19th October 2026, the Council of the European Union (EU) appointed Ilze Brands-Kehris as the EU Special Representative for Human Rights, according to a release from the Latvian Foreign Ministry.",
-      "url": "https://eng.lsm.lv/article/politics/diplomacy/19.10.2026-latvian-diplomat-gets-important-eu-human-rights-job.a668181/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-10-19T11:01:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-13T17:11:17Z"
+  "last_updated": "2026-11-14T15:48:16Z"
 }

@@ -1,16 +1,37 @@
 {
   "country": "IT",
-  "score": 80,
+  "score": 79,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 193,
+  "trend": -1,
+  "sources": 194,
   "sentiment": {
-    "positive": 12,
-    "neutral": 150,
-    "negative": 31
+    "positive": 11,
+    "neutral": 151,
+    "negative": 32
   },
   "latest_articles": [
+    {
+      "id": "3a91a62e02bc1297c71acb3f974e415709bca8b0",
+      "title": "How Does a 74-Year-Old in Argentina Escape House Arrest on the Fifth Floor?",
+      "summary": "It involved a heating pad, animal fat and a bomb scare. The police are still looking for an Italian man facing extradition on 1970s-era terrorism charges.",
+      "url": "https://www.nytimes.com/2026/11/13/world/americas/74-year-old-in-argentina-escapes-house-arrest.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-13T23:26:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Italian man facing extradition on 1970s-era terrorism charges"
+    },
+    {
+      "id": "dc3fd0d291f0fbc2a8f1261d3e5db20a1ada2cb6",
+      "title": "Europeans decide on thorny question of who will speak for bloc in Ukraine talks",
+      "summary": "On Friday, the European Union agreed to not one person but a team from five countries and the European Union.",
+      "url": "https://www.washingtonpost.com/world/2026/11/13/europeans-decide-thorny-question-who-will-speak-bloc-ukraine-talks/",
+      "source": "World (Washington post)",
+      "published_at": "2026-11-13T19:36:57+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "f20214c798d12885ad30572dc3bd530300f2c1c0",
       "title": "'We have to grow some bigger balls' recommends Latvian Prime Minister",
@@ -20,6 +41,17 @@
       "published_at": "2026-11-13T15:34:00+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "f532866572ca90b1597dbe700c093586cee7e3c8",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-12T12:39:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "bomb hoax threats force fresh evacuations of Italian schools"
     },
     {
       "id": "027dee6f9d9fc4fdab29aa1d46a29333976fca94",
@@ -191,41 +223,8 @@
       "published_at": "2026-11-05T18:43:06+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "3284095eed7875361b8e1300c113ef14c5e483ae",
-      "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
-      "summary": "EU transport commissioner says ‘too early’ to say if bomb threats to 20 flights are linkedTell us: have you been affected by the bomb threats?And the Italian news agency Ansa reported that two more planes with links to I…",
-      "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-05T16:54:47+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Italian news agency Ansa reported that two more planes"
-    },
-    {
-      "id": "7dc0fae70d6121e327787732800a95d835e9eba2",
-      "title": "American Is Convicted of Murder in Case That Gripped Italy",
-      "summary": "A TV program helped to identify the victims, a Russian woman and her young daughter, who were found dead in a Rome park.",
-      "url": "https://www.nytimes.com/2026/11/05/world/europe/italy-american-murder-case.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-05T16:33:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "American Is Convicted of Murder in Case That Gripped Italy"
-    },
-    {
-      "id": "16b67c918e8fd4e14115b04515ce4ef3fd53a8ae",
-      "title": "Europe’s far right has a Trump problem after Republican US midterms wipeout",
-      "summary": "European far-right leaders quick to distance themselves from US president and stress their own prioritiesEurope live – latest updatesUS midterms live – latest updatesThe historic Republican defeat in the US midterm elect…",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/republican-wipeout-donald-trump-us-midterms-europe-far-right-message",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-05T13:36:31+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Europe’s far right has a Trump problem"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-13T17:11:17Z"
+  "last_updated": "2026-11-14T15:48:16Z"
 }
