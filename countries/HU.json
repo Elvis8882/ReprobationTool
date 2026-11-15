@@ -1,16 +1,59 @@
 {
   "country": "HU",
-  "score": 83,
+  "score": 85,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 5,
-  "sources": 110,
+  "trend": 2,
+  "sources": 114,
   "sentiment": {
-    "positive": 9,
-    "neutral": 98,
+    "positive": 11,
+    "neutral": 100,
     "negative": 3
   },
   "latest_articles": [
+    {
+      "id": "b3730a3128e5b8f4250a9f89b9b8a9f0e338d158",
+      "title": "Could Budapest be the next digital nomad hotspot?",
+      "summary": "With its mix of sights, cafés and culture, Hungary's capital Budapest has become popular with those embracing the \"work from anywhere\" trend.",
+      "url": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-11-15T06:00:01+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Hungary's capital Budapest has become popular"
+    },
+    {
+      "id": "f8a8437145fb449f768856a36a17ffaaa7ca060d",
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-14T10:42:20+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Hungarian authorities uncover $20m during probe of Orbán-era minister"
+    },
+    {
+      "id": "1ee028689038b1eefe5c58bf5409e946cb9cc247",
+      "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
+      "summary": "Eurotunnel owner Getlink wants to replicate ‘airport experience’ at Folkestone and Calais, without making people get out of carsAirport-style passport and fingerprinting controls are to be introduced at Eurotunnel in an…",
+      "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-14T07:00:38+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "c41b7bb8a4a3ba86fb7e476e7912df98a013f4de",
+      "title": "University hounded out of Hungary by Orbán reaches out to new government",
+      "summary": "Prospect of partial return to Budapest by Central European University suggests confidence in Hungary’s futureA university that Viktor Orbán tried to chase out of Hungary is open to expanding its presence in Budapest, in…",
+      "url": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-14T05:00:35+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "mark of confidence in the country’s democratic future"
+    },
     {
       "id": "968e6c7500c84fdd4d6c3a374055d2eef113cd93",
       "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
@@ -178,49 +221,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Hungarian fighter jet escorted the aircraft"
-    },
-    {
-      "id": "7af52f266eee7f62e7865400bc47a64d28b9a18a",
-      "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
-      "summary": "Former chancellor says leaving European Union has made Britain ‘poorer, weaker and less secure’The former chancellor Rachel Reeves has argued Britain’s future should be back in the European Union, saying Brexit has made…",
-      "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-01T09:55:20+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "385c23b64dd4aa3663ffa79bdbfe22a619bbac3c",
-      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
-      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-11-01T00:55:06+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Hungary's Orbán"
-    },
-    {
-      "id": "d410dc18f2e079a047bc5675baf35c55180d312e",
-      "title": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
-      "summary": "The move is part of the Canadian prime minister’s effort to reduce American influence over Canada and expand trade to other parts of the world.",
-      "url": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-30T21:08:01+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "756b69a462ff27bbf9690532e32434d5bbde86bc",
-      "title": "Canada and EU announce new alliance open to like-minded countries",
-      "summary": "Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’Canada and Europe have announced a new alliance of like-minded nations to serve as both a “prote…",
-      "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-30T19:42:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-14T15:48:16Z"
+  "last_updated": "2026-11-15T16:19:41Z"
 }

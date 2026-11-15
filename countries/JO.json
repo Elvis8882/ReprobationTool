@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 30,
+  "sources": 31,
   "sentiment": {
     "positive": 1,
-    "neutral": 12,
+    "neutral": 13,
     "negative": 17
   },
   "latest_articles": [
+    {
+      "id": "cedd4c64ea049fa7062454bd02b393e9f45ebed3",
+      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+      "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-15T11:06:32+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "sentenced to death in Jordan over fatal church mass shooting"
+    },
     {
       "id": "fe19d1f5e35bacd2b26043e63b6e30146569f446",
       "title": "Trump falsely claims ‘nobody’s been killed’ in Iran war ‘in the last five months’",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "U.S. base in Jordan"
-    },
-    {
-      "id": "3a693654242ef64a8d7124b5978fe17587fed912",
-      "title": "U.S. Hits 5 Iranian Oil Tankers, Citing Attempted Strikes on Warship",
-      "summary": "Iran retaliated by launching missiles at Jordan, raising the specter of still more fighting.",
-      "url": "https://www.nytimes.com/2026/09/08/world/middleeast/us-strikes-iran-tankers.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-09T00:50:19+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Iran retaliated by launching missiles at Jordan"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-14T15:48:16Z"
+  "last_updated": "2026-11-15T16:19:41Z"
 }

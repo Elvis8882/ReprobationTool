@@ -1,16 +1,48 @@
 {
   "country": "IE",
-  "score": 94,
+  "score": 96,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 178,
+  "trend": 2,
+  "sources": 180,
   "sentiment": {
-    "positive": 15,
-    "neutral": 149,
-    "negative": 14
+    "positive": 16,
+    "neutral": 151,
+    "negative": 13
   },
   "latest_articles": [
+    {
+      "id": "50802ce12c20c7d7d1f0315f182f339862948274",
+      "title": "Poundland pins rescue hopes on Yorkshire Tea, Pot Noodle and Gloria Gaynor",
+      "summary": "Chain restocks stores in operation named after singer of I Will Survive, as US owners release some of withheld fundsPoundland’s under-fire US owners have released funds to help the stricken discount chain restock shelves…",
+      "url": "https://www.theguardian.com/business/2026/nov/15/poundland-pins-rescue-hopes-on-yorkshire-tea-pot-noodle-and-gloria-gaynor",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-15T13:41:01+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "about 16m grocery items were dispatched to 600 shops in the UK and Ireland"
+    },
+    {
+      "id": "1ee028689038b1eefe5c58bf5409e946cb9cc247",
+      "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
+      "summary": "Eurotunnel owner Getlink wants to replicate ‘airport experience’ at Folkestone and Calais, without making people get out of carsAirport-style passport and fingerprinting controls are to be introduced at Eurotunnel in an…",
+      "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-14T07:00:38+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "1097bcc7b3643dd6955d1479eed794f7493b154b",
+      "title": "Irish premier defends Europe’s response to Russia’s invasion of Ukraine - Leigh Journal",
+      "summary": "Irish premier defends Europe’s response to Russia’s invasion of Ukraine&nbsp;&nbsp;Leigh JournalEU seeks 'united voice' ahead of Ukraine peace talks&nbsp;&nbsp;RTE.ieWho will represent Europe in Ukraine negotiations? Wel…",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORWJpTUtHdW05TVlnVlNoWXhKWkVUS21vc0NNdjVMYU94ZzdFd0t5WFlocnk0S3hQQm9aSWJoLWhuclVqUVZTNGxMSDFTcmU3WTNTMWVVUFBBVWpLelcxb0NudHBrVldsbUo2NEt6d0RfbTZ1QlNIX2dqYm5uNy1pUFFISTVLdF9QbGZOSVpHVDVDVzBlSlYwbnlPV1ZPQ2t2c0NocEZmZEpGSmJ1YWpKamFXUTA0UXoxclE?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-11-13T21:12:11+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Irish premier defends Europe’s response to Russia’s invasion of Ukraine"
+    },
     {
       "id": "dc3fd0d291f0fbc2a8f1261d3e5db20a1ada2cb6",
       "title": "Europeans decide on thorny question of who will speak for bloc in Ukraine talks",
@@ -193,39 +225,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Media organisations in Ireland and UK also affected"
-    },
-    {
-      "id": "45dad41d13d4c45decdd862bd5cd87366a2985ef",
-      "title": "Lithuania, European Commission sign deal to rebuild a school in Ukraine - The Baltic Times",
-      "summary": "Lithuania, European Commission sign deal to rebuild a school in Ukraine&nbsp;&nbsp;The Baltic Times",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXl2UUhmRmN2QnlnMDlZY241NENuWTJob2lxbVAtMWZGZzVuS1lFaHVDWXVlWnkxbkl6WEkya0VsUGV6UkJZV1dTa25RYWdqOGhDNDFmV0tMaFNBNjBvaFQ1Q2pRLURoMmpvaVFNZzd2RkdVRU1xalRjUHNPU0lOcmkyMGFoZ25iSTJZbm1BMGpRbjRjRHRPWUEteFhNMm05Rmc?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-11-06T13:13:49+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "d7c2914ea1b601a2ef6c1b84256e70c1d6716716",
-      "title": "Bomb scares disrupt multiple flights across Europe",
-      "summary": "The European Union’s transport commissioner said it was “too early to draw conclusions on whether the incidents are linked.”",
-      "url": "https://www.washingtonpost.com/world/2026/11/05/bomb-threats-target-multiple-flights-across-europe/",
-      "source": "World (Washington post)",
-      "published_at": "2026-11-05T18:43:06+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "063a42c3997153e4a28e79e8fd98144f63ef5b84",
-      "title": "Bomb threats disrupt flights across Europe for the second time. Here’s what we know",
-      "summary": "Dozens of flights across Europe reported bomb threats on Thursday for the second time this week, disrupting air travel across London, Dublin, and Helsinki.",
-      "url": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-11-05T15:26:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "disrupting air travel across London, Dublin, and Helsinki"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-14T15:48:16Z"
+  "last_updated": "2026-11-15T16:19:41Z"
 }

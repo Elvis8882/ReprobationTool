@@ -1,16 +1,26 @@
 {
   "country": "DE",
-  "score": 35,
+  "score": 36,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
+  "trend": 1,
   "sources": 284,
   "sentiment": {
-    "positive": 25,
-    "neutral": 164,
+    "positive": 26,
+    "neutral": 163,
     "negative": 95
   },
   "latest_articles": [
+    {
+      "id": "1ee028689038b1eefe5c58bf5409e946cb9cc247",
+      "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
+      "summary": "Eurotunnel owner Getlink wants to replicate ‘airport experience’ at Folkestone and Calais, without making people get out of carsAirport-style passport and fingerprinting controls are to be introduced at Eurotunnel in an…",
+      "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-14T07:00:38+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "dc3fd0d291f0fbc2a8f1261d3e5db20a1ada2cb6",
       "title": "Europeans decide on thorny question of who will speak for bloc in Ukraine talks",
@@ -20,6 +30,17 @@
       "published_at": "2026-11-13T19:36:57+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "6bfb2c5371eccaa1127665d3265552a4dd9529d7",
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-13T15:42:52+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "German spies handed new powers to tackle 'hybrid threats'"
     },
     {
       "id": "f20214c798d12885ad30572dc3bd530300f2c1c0",
@@ -202,30 +223,8 @@
       "published_at": "2026-11-06T13:13:49+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "7dcaeed45ba7ae03485634ab008b4e90f50e102d",
-      "title": "Most Europeans want action to tackle climate crisis but not at any cost, poll shows",
-      "summary": "YouGov survey finds support for tree planting and emissions taxes but opposition to air travel and fuel leviesEurope live – latest updatesEuropeans believe human-made climate change is real, a survey has shown, with most…",
-      "url": "https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-06T12:27:54+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "69% (Germany) and 80% (France) of respondents believed"
-    },
-    {
-      "id": "8ee71cf200b4448f49f4c566be2ef4056f1b0cdc",
-      "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
-      "summary": "Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5mMore than 3,000 tarantulas were seized at an airport in Lima on their way to Germany, Peruvian authorities said…",
-      "url": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-06T01:22:49+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "spiders were on their way to Germany, where they could fetch an estimated €1.5m"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-14T15:48:16Z"
+  "last_updated": "2026-11-15T16:19:41Z"
 }
