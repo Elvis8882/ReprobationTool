@@ -1,16 +1,27 @@
 {
   "country": "LB",
   "score": 58,
-  "score_label": "Negative",
-  "assessment": "High negative coverage",
+  "score_label": "Caution",
+  "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 28,
+  "sources": 29,
   "sentiment": {
     "positive": 2,
-    "neutral": 12,
+    "neutral": 13,
     "negative": 14
   },
   "latest_articles": [
+    {
+      "id": "47b9317634fa87b50a308eb30028ba838d431d50",
+      "title": "\"Your Husband Is Old\": Lebanese Woman Says ICE Agent Offered Green Card For Sex",
+      "summary": "The woman said she was assaulted at a Texas detention facility (Representational Image)",
+      "url": "https://www.ndtv.com/world-news/lebanese-woman-accuses-texas-ice-agent-of-sexual-assault-offered-me-green-card-12328846#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-15T05:17:03+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Lebanese Woman Says ICE Agent Offered Green Card For Sex"
+    },
     {
       "id": "06dd93661310ec1060e074872602a70ea6bc0eb3",
       "title": "First Thing: Brazil re-elects Lula in comeback rebuke for Bolsonaro and far right",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "extradited from Lebanon to the Emirates, a close U.S. ally, after criticizing its government"
-    },
-    {
-      "id": "dab7cb2173ce9cbdd9435d267b0e5495434df1da",
-      "title": "Israel Says It Is Cementing Its Foothold in Southern Lebanon",
-      "summary": "The recent capture of a strategic ridge has further entrenched the Israeli occupation of Lebanese territory, as efforts to broker lasting peace have floundered.",
-      "url": "https://www.nytimes.com/2026/09/04/world/middleeast/israel-captures-ridge-occupation-katz.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-04T12:16:13+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "entrenched the Israeli occupation of Lebanese territory"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-15T16:19:41Z"
+  "last_updated": "2026-11-16T19:34:05Z"
 }

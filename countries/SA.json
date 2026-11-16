@@ -1,16 +1,38 @@
 {
   "country": "SA",
-  "score": 15,
+  "score": 16,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 260,
+  "trend": 1,
+  "sources": 262,
   "sentiment": {
-    "positive": 19,
-    "neutral": 114,
+    "positive": 20,
+    "neutral": 115,
     "negative": 129
   },
   "latest_articles": [
+    {
+      "id": "3a910931f160ac9f4f6c72af95c096f7d81cfee6",
+      "title": "Saudi Arabia challenged by Yemeni allies over ceding ground to Houthis",
+      "summary": "Strategy of redeploying forces to try to relieve siege of Taiz and protect Aden comes as Islamist group makes steady gainsSaudi Arabia has been accused by anti-Houthi forces over its military strategy after its Yemeni al…",
+      "url": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-16T19:04:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Saudi Arabia challenged by Yemeni allies"
+    },
+    {
+      "id": "12b449161b7837544695f8c720e77ce089ac01e9",
+      "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live",
+      "summary": "Iran has targeted airbase in Bahrain in latest resumption of strikes since septemberThe state-run Bahrain news agency is also carrying the statements of each country in the region responding to Iran’s actions targeting t…",
+      "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-15T15:59:04+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Saudi Arabia... strongly condemned the attack and expressed solidarity with Bahrain"
+    },
     {
       "id": "ba4053f9497006a60fbdc0f15ce700d084445ab8",
       "title": "Saudi Alliance Intercepts 2 Houthi Missiles, 3 Drones Targeting Riyadh",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden"
-    },
-    {
-      "id": "537dc7dafd81ff0b636ec00034e180f12be6e50e",
-      "title": "\"Direct Hit\": Houthis' Claim Targeted Saudi Ministry With Ballistic Missile",
-      "summary": "Explosions were reportedly heard in Riyadh earlier in the day. (File Photo)",
-      "url": "https://www.ndtv.com/world-news/direct-hit-houthis-claim-targeted-saudi-ministry-with-ballistic-missile-12244247#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-27T15:02:30+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Houthis' Claim Targeted Saudi Ministry With Ballistic Missile"
-    },
-    {
-      "id": "7a4aff4d4ab68da45385a1548997ef6051242c76",
-      "title": "Houthis Claim Missile Strike On Saudi Oil Refinery As Blasts Shake Riyadh",
-      "summary": "The Saudi-led coalition fighting the Houthis earlier said it had shot down three missiles.",
-      "url": "https://www.ndtv.com/world-news/houthis-claim-missile-strike-on-saudi-oil-refinery-as-blasts-shake-riyadh-12244075#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-27T13:53:25+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Houthis Claim Missile Strike On Saudi Oil Refinery"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-15T16:19:41Z"
+  "last_updated": "2026-11-16T19:34:05Z"
 }

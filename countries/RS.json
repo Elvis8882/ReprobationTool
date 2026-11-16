@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 31,
+  "sources": 32,
   "sentiment": {
     "positive": 11,
-    "neutral": 9,
+    "neutral": 10,
     "negative": 11
   },
   "latest_articles": [
+    {
+      "id": "4c37662ed4dcfc817ff174f4a5fa6e2ca30f5922",
+      "title": "They Defeated a Strongman. But Can They Run a Country?",
+      "summary": "Serbia’s student movement was deliberately leaderless and made group decisions to unseat Aleksandar Vucic. Now no one seems quite sure what happens next.",
+      "url": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-16T05:01:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Can They Run a Country?"
+    },
     {
       "id": "5514758bae729bb20b3c1f775f1b0deda13dc5f0",
       "title": "Russia Senses Opportunity in Polish Political Turmoil",
@@ -219,19 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Student List has emerged from almost two years of anti-corruption protests"
-    },
-    {
-      "id": "325ad236f1131ca065f67517c9e1645d5b32cf20",
-      "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
-      "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-23T06:26:25+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "student protest movement is challenging 12 years of Vučić rule in Serbia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-15T16:19:41Z"
+  "last_updated": "2026-11-16T19:34:05Z"
 }
