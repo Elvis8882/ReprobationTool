@@ -17,8 +17,25 @@
     "IL",
     "IT"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-11-16T19:34:05+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-11-17T18:29:59+00:00",
+  "sentiment_by_country": {
+    "GB": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "UK and allies call on Israel to allow rapid humanitarian access"
+    },
+    "IL": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "Israeli authorities are holding back vital supplies at the borders"
+    },
+    "IT": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "Italy say Israeli authorities are holding back vital supplies"
+    }
+  },
+  "processed_at": "2026-11-17T18:29:59+00:00"
 }

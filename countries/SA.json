@@ -1,14 +1,14 @@
 {
   "country": "SA",
-  "score": 16,
+  "score": 15,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 262,
+  "trend": -1,
+  "sources": 264,
   "sentiment": {
     "positive": 20,
-    "neutral": 115,
-    "negative": 129
+    "neutral": 116,
+    "negative": 130
   },
   "latest_articles": [
     {
@@ -23,6 +23,17 @@
       "evidence": "Saudi Arabia challenged by Yemeni allies"
     },
     {
+      "id": "7162fe1108788f687df2a871bb7ee4c9ac243093",
+      "title": "Yemeni forces retreat to defend port city from Houthis",
+      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-16T11:09:38+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Saudi-backed forces say they are moving troops"
+    },
+    {
       "id": "12b449161b7837544695f8c720e77ce089ac01e9",
       "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live",
       "summary": "Iran has targeted airbase in Bahrain in latest resumption of strikes since septemberThe state-run Bahrain news agency is also carrying the statements of each country in the region responding to Iran’s actions targeting t…",
@@ -32,6 +43,17 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "Saudi Arabia... strongly condemned the attack and expressed solidarity with Bahrain"
+    },
+    {
+      "id": "cc70f5ed8f7093124fc1bb5fd144ac65308c30ea",
+      "title": "Saudi-Backed Forces in Yemen Retreat From Red Sea as Houthis Advance",
+      "summary": "The move is a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the balance of power in the country’s civil war was tilting toward the Iran-backed Houthi militia.",
+      "url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-15T15:42:25+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "setback for the Yemeni government and its ally Saudi Arabia"
     },
     {
       "id": "ba4053f9497006a60fbdc0f15ce700d084445ab8",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Saudi Arabia has reported Houthi missiles fired in the regions of Mecca"
-    },
-    {
-      "id": "134f397a1a23f5edd10a9f13af932bb665d917af",
-      "title": "12 Killed In Saudi Strikes In Yemen, Claim Houthis",
-      "summary": "Yemen has been reeling from war since 2014.",
-      "url": "https://www.ndtv.com/world-news/12-killed-in-saudi-strikes-in-yemen-claim-houthis-12254380#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-29T13:11:34+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "12 Killed In Saudi Strikes In Yemen, Claim Houthis"
-    },
-    {
-      "id": "bd027b1e45a3792260adbb318bbdc9fd66067236",
-      "title": "Middle East latest: Houthis urge immediate evacuation of Aden airport - The National",
-      "summary": "Middle East latest: Houthis urge immediate evacuation of Aden airport&nbsp;&nbsp;The NationalHouthis strike Yemen's Aden airport after evacuation warning&nbsp;&nbsp;ReutersHouthis fire missile at Yemen’s Aden airport for…",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMUttdjlFX1NnTi01X2NGcy0ycl9wa1R5R0JTcnZXUFNtS0xEMWNPbk5wZjZsblhieXBhc25nN2NGaW15MlJDdWdLUVdabGFNaFM5S1ZSRkp1em45RnFvekxWUUNZTERwa21zMW5jZ1hZenNJek4xZXctMmhnMW1TcGoyTmV2Vkh1b1RRb1dKTE5oR0R1ek1BeG53?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-10-28T13:33:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-16T19:34:05Z"
+  "last_updated": "2026-11-17T18:30:00Z"
 }

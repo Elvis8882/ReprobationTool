@@ -1,16 +1,27 @@
 {
   "country": "TR",
-  "score": 81,
+  "score": 82,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 68,
+  "trend": 1,
+  "sources": 67,
   "sentiment": {
-    "positive": 4,
-    "neutral": 38,
-    "negative": 27
+    "positive": 5,
+    "neutral": 37,
+    "negative": 26
   },
   "latest_articles": [
+    {
+      "id": "86b3afc4c1482c5b3a1095886f242bca34f98409",
+      "title": "There’s a New Push at COP31 in Turkey: Electrification",
+      "summary": "With war squeezing global oil and gas supplies, leaders at COP31 are backing a plan that would mirror China’s rapid grid expansion.",
+      "url": "https://www.nytimes.com/2026/11/17/climate/cop31-turkey-electrification.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-17T10:03:56+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Electrification With war squeezing global oil and gas supplies"
+    },
     {
       "id": "5e2ee5839e2646b3ea6bf3fdc134ea3532b019b2",
       "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Rock collapse kills two in Turkey's Cappadocia"
-    },
-    {
-      "id": "d81cb53a294d562d17262c012c4db243ea52a064",
-      "title": "2 Killed After Rock Spire Collapses At Tourist Site In Turkey's Cappadocia",
-      "summary": "The collapse was caused by a landslide triggered after heavy rainfall in the area. (File Photo)",
-      "url": "https://www.ndtv.com/world-news/2-killed-after-rock-spire-collapses-at-tourist-site-in-turkeys-cappadocia-12254667#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-10-29T13:35:36+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Rock Spire Collapses At Tourist Site In Turkey"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-16T19:34:05Z"
+  "last_updated": "2026-11-17T18:30:00Z"
 }
