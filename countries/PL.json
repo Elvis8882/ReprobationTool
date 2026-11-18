@@ -1,16 +1,36 @@
 {
   "country": "PL",
-  "score": 83,
+  "score": 84,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": 1,
   "sources": 151,
   "sentiment": {
     "positive": 11,
-    "neutral": 113,
-    "negative": 27
+    "neutral": 114,
+    "negative": 26
   },
   "latest_articles": [
+    {
+      "id": "253d55efc9877a4bacfd0f8f8eea7140ef85606c",
+      "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+      "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loansThe European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landma…",
+      "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-18T05:00:32+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "23d25a05deabc44512ebdc7df7464e60d08c468e",
+      "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
+      "summary": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free accessThe decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exc…",
+      "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-17T21:49:29+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "2cde503d4bfa3a49615bf74fe1a84d438048d8c6",
       "title": "Appointments to the EU Court of Justice: eighth activity report of the Article 255 panel published - Council, European Union",
@@ -202,29 +222,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "At Least 6 Dead in Poland After Gunman Opens Fire"
-    },
-    {
-      "id": "58b959ca0c3dd0ed97b3115cab15ebfe60c09db0",
-      "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
-      "summary": "Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complicationsExposure to a new generation of allegedly “safe” plasticizers is linked to lower birth weight and fetal dev…",
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-07T12:00:13+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "ef953d681c3f9deda8622a1e11a1d3bb61aed4ce",
-      "title": "Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated",
-      "summary": "Bomb threats have disrupted dozens of flights in Europe over the past week. At airports in Rome, Madrid and Warsaw, travelers were more frustrated than fearful.",
-      "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-06T16:21:25+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "At airports in Rome, Madrid and Warsaw"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-17T18:30:00Z"
+  "last_updated": "2026-11-18T18:00:25Z"
 }

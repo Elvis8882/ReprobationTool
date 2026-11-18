@@ -1,16 +1,36 @@
 {
   "country": "AT",
-  "score": 58,
+  "score": 61,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 103,
+  "trend": 3,
+  "sources": 105,
   "sentiment": {
-    "positive": 1,
-    "neutral": 96,
+    "positive": 2,
+    "neutral": 97,
     "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "253d55efc9877a4bacfd0f8f8eea7140ef85606c",
+      "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+      "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loansThe European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landma…",
+      "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-18T05:00:32+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "23d25a05deabc44512ebdc7df7464e60d08c468e",
+      "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
+      "summary": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free accessThe decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exc…",
+      "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-17T21:49:29+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "2cde503d4bfa3a49615bf74fe1a84d438048d8c6",
       "title": "Appointments to the EU Court of Justice: eighth activity report of the Article 255 panel published - Council, European Union",
@@ -31,6 +51,17 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Five European Countries Plan to Deport Migrants to Rwanda"
+    },
+    {
+      "id": "8d5a143784b680b3354d7093e33b77edc29092da",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-16T16:27:24+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Austria, Greece and the Netherlands have announced a \"return hub\""
     },
     {
       "id": "115d73dd03914851a24fe8f1ebb35c5d7cd0a738",
@@ -186,39 +217,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "cases are reported in Austria, Germany and Hungary"
-    },
-    {
-      "id": "9837fcf713a3c5541685d108490c137951030b4e",
-      "title": "Veiled marble bust sells for record €1.925 million in Vienna",
-      "summary": "A marble sculpture of a veiled lady created by Antonio Corradini recently sold for €1.925 million. The auction took place in Vienna and set a new world record for the artist. The sculpture is 60 centimeters tall and show…",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/a-sculptor-transformed-solid-marble-into-the-delicate-illusion-of-a-veiled-womans-face-newly-attributed-to-antonio-corradini-the-baroque-marble-piece-sold-for-a-record-1-925-million-at-auction-in-vienna-soaring-past-its-high-estimate-of-16000/articleshow/135426281.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-11-01T11:48:56+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Veiled marble bust sells for record €1.925 million in Vienna"
-    },
-    {
-      "id": "7af52f266eee7f62e7865400bc47a64d28b9a18a",
-      "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
-      "summary": "Former chancellor says leaving European Union has made Britain ‘poorer, weaker and less secure’The former chancellor Rachel Reeves has argued Britain’s future should be back in the European Union, saying Brexit has made…",
-      "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-01T09:55:20+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "d410dc18f2e079a047bc5675baf35c55180d312e",
-      "title": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
-      "summary": "The move is part of the Canadian prime minister’s effort to reduce American influence over Canada and expand trade to other parts of the world.",
-      "url": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
-      "source": "NYT > World News",
-      "published_at": "2026-10-30T21:08:01+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-17T18:30:00Z"
+  "last_updated": "2026-11-18T18:00:25Z"
 }

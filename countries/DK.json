@@ -1,16 +1,36 @@
 {
   "country": "DK",
-  "score": 89,
+  "score": 90,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 141,
+  "trend": 1,
+  "sources": 143,
   "sentiment": {
-    "positive": 7,
-    "neutral": 117,
+    "positive": 8,
+    "neutral": 118,
     "negative": 17
   },
   "latest_articles": [
+    {
+      "id": "253d55efc9877a4bacfd0f8f8eea7140ef85606c",
+      "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+      "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loansThe European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landma…",
+      "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-18T05:00:32+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "23d25a05deabc44512ebdc7df7464e60d08c468e",
+      "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
+      "summary": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free accessThe decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exc…",
+      "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-17T21:49:29+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "2cde503d4bfa3a49615bf74fe1a84d438048d8c6",
       "title": "Appointments to the EU Court of Justice: eighth activity report of the Article 255 panel published - Council, European Union",
@@ -31,6 +51,17 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Five European Countries Plan to Deport Migrants to Rwanda"
+    },
+    {
+      "id": "8d5a143784b680b3354d7093e33b77edc29092da",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-16T16:27:24+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Denmark, Austria, Greece and the Netherlands have announced a \"return hub\""
     },
     {
       "id": "115d73dd03914851a24fe8f1ebb35c5d7cd0a738",
@@ -187,40 +218,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "America’s Greenland deal with Denmark"
-    },
-    {
-      "id": "1cde7ae404a19dcdf4a87bf62706f094fa9d63ee",
-      "title": "Why Guinea-Bissau halted a controversial hepatitis vaccine trial for babies - Al Jazeera",
-      "summary": "Why Guinea-Bissau halted a controversial hepatitis vaccine trial for babies&nbsp;&nbsp;Al JazeeraUS-funded vaccine trial on babies cancelled in Guinea-Bissau after uproar&nbsp;&nbsp;BBCGuinea-Bissau Hepatitis B Trial Col…",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS1laRGZHY1N5OGs3Y1NVcDFzcFk1UVh5WlpSbllkaDZXSUE4TkQtY1lrM05PcVVhWjg4UlpWSjVJbGRwd0JHZnhaVkNPenpCX2lfUmFkTFVCY3B4NWdHdDFSTmJyeXhUZmduTzhRR21Ybmx0MllsODUzcjBlZHpZSnU4bGRGWFYtbDh5WDVIbVpqbHhVbW1LZlZpM2JPRDJpZ1FVT3IzTnp4YzVQVjRsb1pWOU4zelXSAbwBQVVfeXFMTnBNNVFHUFBrSGlHSjg1cjBYY09CTnJLa0tNRGpib3ZlTkM5ZEtia3dZbVFQcHJUa3J3dzZnU2k3cjdsR2puOVBXT3hnWHplcHN4OThuRm5JSUtWSE9maGxMckVFb1hrc3kxaXR3OTRoRnB6X2hlV3Z3aTRkdWVKbkZvTGRJMEhxWE5UX0FaSjI5cEdLc2tadkwzN29QeVJzQ2dnNGF3eGYwNVN3ZlFMaVItUUttWFRxTUdIYVE?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-11-05T15:05:08+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Danish Researchers Say Critics Got the Facts Wrong"
-    },
-    {
-      "id": "fd1fd80fc2eeb2c652f6993113485ae8d30d5750",
-      "title": "Commission invites nominations for the next President of the European Research Council - European Commission",
-      "summary": "Commission invites nominations for the next President of the European Research Council&nbsp;&nbsp;European Commission",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObHdnSXpVNWFxLTFHTTZIN3czTEJBUkRVbkNfZ3I4VnF3alpoU2J2VU5OR1BfRDRjalVKdHM1S0xZM2ZraGNYUFh3d0gwbUVfd1RvV2VUMGdad0Mxam8wODRYbGxKV2lRYzI3cG1QVTdCNXFLWXItdXZaWjdyQTdfTjhTZlZCa3lzYm9wdG9jWDFJNm54a1BaXzZ0RnRvbVU5UVplVnByOG5pRjAzMk5SSmpQVEpFOVZwV3pTSnJNcE5uXzF2T0tPMUNDNTY0Q3Uyakk0VE9DTTZINmF0OEdNck1iNy13RmJabm9XVk4ya2dxSmROMWlhYXZUbUg?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-11-05T13:13:13+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "155e203a7518751b25ebbff63a70ca47cfd13e09",
-      "title": "Bomb threats disrupt at least 15 flights across Europe, raising hybrid war fears",
-      "summary": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travelEurope live – latest updatesBomb threats have caused diversions and emergency landings for at least 15 flights across Euro…",
-      "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-05T12:44:30+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Bomb threats disrupt at least 15 flights across Europe"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-17T18:30:00Z"
+  "last_updated": "2026-11-18T18:00:25Z"
 }

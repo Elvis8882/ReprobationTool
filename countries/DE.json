@@ -1,16 +1,47 @@
 {
   "country": "DE",
-  "score": 34,
+  "score": 35,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 281,
+  "trend": 1,
+  "sources": 285,
   "sentiment": {
-    "positive": 24,
-    "neutral": 161,
+    "positive": 26,
+    "neutral": 163,
     "negative": 96
   },
   "latest_articles": [
+    {
+      "id": "5b88b4fd6d0410db23403864e11b8a76bad11b5f",
+      "title": "These Villagers Wonder if They’re on the Front Line of Russia’s Shadow War",
+      "summary": "Russia is accused of clandestine attacks on Ukraine’s allies in Europe, most notably at Leipzig/Halle airport in eastern Germany. That has changed life for villagers nearby.",
+      "url": "https://www.nytimes.com/2026/11/18/world/europe/liepzig-airport-drone-attack-russia-ukraine-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-18T05:01:06+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Russia is accused of clandestine attacks on Ukraine’s allies in Europe"
+    },
+    {
+      "id": "253d55efc9877a4bacfd0f8f8eea7140ef85606c",
+      "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+      "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loansThe European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landma…",
+      "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-18T05:00:32+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "23d25a05deabc44512ebdc7df7464e60d08c468e",
+      "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
+      "summary": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free accessThe decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exc…",
+      "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-17T21:49:29+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "2cde503d4bfa3a49615bf74fe1a84d438048d8c6",
       "title": "Appointments to the EU Court of Justice: eighth activity report of the Article 255 panel published - Council, European Union",
@@ -20,6 +51,17 @@
       "published_at": "2026-11-17T17:37:18+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "db4d2925d4a1ef28385b99cc002c8793fc1238ae",
+      "title": "‘Spared a lot’: Kessler twins explained assisted dying decision in final letter",
+      "summary": "Pop-singing sisters, who died aged 89 last year, described their declining health and desire to depart life togetherAlice and Ellen Kessler, the identical pop-singing twins who chose to jointly end their lives through as…",
+      "url": "https://www.theguardian.com/society/2026/nov/17/kessler-twins-assisted-dying-decision",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-17T17:12:07+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "The German sisters"
     },
     {
       "id": "45452d4c6b356e7116e0abcf34006ab0c353f7fa",
@@ -33,6 +75,17 @@
       "evidence": "Five European Countries Plan to Deport Migrants to Rwanda"
     },
     {
+      "id": "8d5a143784b680b3354d7093e33b77edc29092da",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-16T16:27:24+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Germany, Denmark, Austria, Greece and the Netherlands have announced"
+    },
+    {
       "id": "115d73dd03914851a24fe8f1ebb35c5d7cd0a738",
       "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
       "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’Five EU member states have announced plans to set up an offshore centre in Rwanda for people with n…",
@@ -42,6 +95,17 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "criticised as ‘grave moral failing’"
+    },
+    {
+      "id": "36c027852976f0fb151e2baa2181e96f7dccc143",
+      "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+      "summary": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in UkraineAustralia has endorsed this week’s historic summit between Donald Trump, Xi Jinping and…",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-15T06:22:32+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "German chancellor urges the US to work with Europe for peace in Ukraine"
     },
     {
       "id": "caf1348bc34351a5b877bfc71dd855a7a72ca795",
@@ -158,74 +222,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Germany funds Pacific restoration: €20m backs seven-year island project"
-    },
-    {
-      "id": "39299601a00cf4f992bcaa6f037a58516229f09f",
-      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
-      "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
-      "url": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-11-10T13:23:54+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "occupying German forces"
-    },
-    {
-      "id": "3795d289856d5ba395051ca5c9e51a547394d0b6",
-      "title": "U.S. Forces in Europe Face Uncertainty as Pentagon Reviews Troop Levels",
-      "summary": "A U.S. Army unit in Germany is not sure what’s next as the Pentagon considers a major drawdown of forces in Europe.",
-      "url": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-10T12:58:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "U.S. Forces in Europe Face Uncertainty as Pentagon Reviews Troop Levels"
-    },
-    {
-      "id": "506254a6dc5a15def27b327b2d9f2c6f8c3d1725",
-      "title": "The two East German officials who accidentally brought down the Berlin Wall",
-      "summary": "The Cold War barrier was opened by a misinformed spokesman and a Stasi officer who wished to avoid bloodshed.",
-      "url": "https://www.washingtonpost.com/nation/2026/11/09/two-east-german-officials-who-accidentally-brought-down-berlin-wall/",
-      "source": "World (Washington post)",
-      "published_at": "2026-11-09T10:00:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "brought down the Berlin Wall"
-    },
-    {
-      "id": "0d327f71b27779189a8741b93035af209d7fe2fb",
-      "title": "Germans Miss Merkel, Their Old Chancellor, Though They Dislike Her Policies",
-      "summary": "Crowds have flocked to the stern, but reassuring, face of Angela Merkel in her official portrait, even as a backlash to her legacy roils German politics.",
-      "url": "https://www.nytimes.com/2026/11/09/world/europe/germans-angela-merkel-portrait.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-09T05:01:06+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Germans Miss Merkel, Their Old Chancellor, Though They Dislike Her Policies"
-    },
-    {
-      "id": "8c242b71cdf48438f4463781d1a35f72c4cadb54",
-      "title": "More Than 3,000 Tarantulas Found in Smugglers’ Socks at Peru Airport",
-      "summary": "The National Forest and Wildlife Service of Peru said three people had tried to smuggle the tarantulas, which included a threatened species, into Germany.",
-      "url": "https://www.nytimes.com/2026/11/08/world/americas/tarantulas-spiders-airport-peru.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-08T18:33:16+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "smuggle the tarantulas... into Germany"
-    },
-    {
-      "id": "f3a0936770736dce1e834ec92d35107430dbe838",
-      "title": "Rare Altdorfer landscape hidden for 70 years after 1957 acquisition could fetch £5 million",
-      "summary": "An undiscovered masterpiece by Albrecht Altdorfer, the renowned German Renaissance painter, is set to hit the auction block at Sotheby's this December. This exquisite work, featuring a stunning forest scene crowned by a…",
-      "url": "https://timesofindia.indiatimes.com/world/uk/a-renaissance-landscape-acquired-by-a-swiss-collectors-father-in-1957-vanished-from-public-view-for-nearly-70-years-experts-have-identified-it-as-a-rare-altdorfer-worth-up-to-5-million/articleshow/135629526.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-11-08T14:30:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "renowned German Renaissance painter"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-17T18:30:00Z"
+  "last_updated": "2026-11-18T18:00:25Z"
 }
