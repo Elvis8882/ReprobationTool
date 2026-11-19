@@ -3,14 +3,46 @@
   "score": 90,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 143,
+  "trend": 0,
+  "sources": 146,
   "sentiment": {
-    "positive": 8,
-    "neutral": 118,
+    "positive": 9,
+    "neutral": 120,
     "negative": 17
   },
   "latest_articles": [
+    {
+      "id": "7c728b04bd3cdb14dd445b3140d83abba303b3c8",
+      "title": "Greenland Pulls Closer to the U.S. — by an Hour",
+      "summary": "Greenland’s politicians voted to change the Arctic island’s time zone to be farther from Denmark, its former colonial power, and closer to the United States.",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/greenland-time-zone-change-us.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-19T16:14:05+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "farther from Denmark, its former colonial power"
+    },
+    {
+      "id": "fb9b219e0042c3628921f5631a5e105fc26cf0d4",
+      "title": "Denmark ratifies Trump security deal over Greenland after months of diplomatic tensions",
+      "summary": "It follows months of tensions after President Donald Trump repeatedly said the U.S. should take control of Greenland for national security reasons.",
+      "url": "https://www.cnbc.com/2026/11/19/greenland-denmark-trump-security-military-bases.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-11-19T12:02:08+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Denmark ratifies Trump security deal over Greenland"
+    },
+    {
+      "id": "063064e62da66f51688c41a34570a6475ce9521d",
+      "title": "Undoing Brexit",
+      "summary": "Prime Minister Andy Burnham wants a reset with the European Union. Reversing a decade of separation won’t be easy.",
+      "url": "https://www.nytimes.com/2026/11/18/world/19int-theworld-brexit-trump-xi-putin.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-19T05:48:05+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "253d55efc9877a4bacfd0f8f8eea7140ef85606c",
       "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
@@ -186,40 +218,8 @@
       "published_at": "2026-11-06T13:13:49+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "0bf1682f43fe9b9fa22738c6fa492683c577d06f",
-      "title": "Denmark’s top court to rule on ‘parallel societies’ after ‘non-western’ people evicted",
-      "summary": "Government claims removal of former residents of housing complex in Helsingør is unrelated to their ethnicityDenmark’s supreme court is expected to rule on whether the state’s classification of residents with “non-wester…",
-      "url": "https://www.theguardian.com/world/2026/nov/06/denmarks-top-court-to-rule-on-parallel-societies-after-non-western-people-evicted",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-06T10:00:49+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "state’s classification of residents with “non-western” backgrounds is covered by racial discrimination law"
-    },
-    {
-      "id": "d7c2914ea1b601a2ef6c1b84256e70c1d6716716",
-      "title": "Bomb scares disrupt multiple flights across Europe",
-      "summary": "The European Union’s transport commissioner said it was “too early to draw conclusions on whether the incidents are linked.”",
-      "url": "https://www.washingtonpost.com/world/2026/11/05/bomb-threats-target-multiple-flights-across-europe/",
-      "source": "World (Washington post)",
-      "published_at": "2026-11-05T18:43:06+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "4bf32da94e2c6cf17cb4a07a44f09c29807342d9",
-      "title": "Burnham wants to ‘recast’ Chagos Islands deal after US resistance",
-      "summary": "UK PM says he wants ‘a new discussion’ with Washington over the disputed islandsUK politics live – latest updatesAndy Burnham has said he wants to “recast” the UK’s deal to cede control of the Chagos Islands after resist…",
-      "url": "https://www.theguardian.com/politics/2026/nov/05/andy-burnham-recast-chagos-islands-deal-us-resistance",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-05T16:17:48+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "America’s Greenland deal with Denmark"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-18T18:00:25Z"
+  "last_updated": "2026-11-19T18:13:13Z"
 }

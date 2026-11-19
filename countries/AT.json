@@ -3,14 +3,24 @@
   "score": 61,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 3,
-  "sources": 105,
+  "trend": 0,
+  "sources": 106,
   "sentiment": {
     "positive": 2,
-    "neutral": 97,
+    "neutral": 98,
     "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "063064e62da66f51688c41a34570a6475ce9521d",
+      "title": "Undoing Brexit",
+      "summary": "Prime Minister Andy Burnham wants a reset with the European Union. Reversing a decade of separation won’t be easy.",
+      "url": "https://www.nytimes.com/2026/11/18/world/19int-theworld-brexit-trump-xi-putin.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-19T05:48:05+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "253d55efc9877a4bacfd0f8f8eea7140ef85606c",
       "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
@@ -206,19 +216,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Bomb threats disrupt at least 15 flights across Europe"
-    },
-    {
-      "id": "7ecdf22efae84da29b152fcc2dd4e4528ca0eae6",
-      "title": "Sharp objects found in Halloween sweets in three European nations",
-      "summary": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
-      "url": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-11-04T12:34:33+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "cases are reported in Austria, Germany and Hungary"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-18T18:00:25Z"
+  "last_updated": "2026-11-19T18:13:13Z"
 }

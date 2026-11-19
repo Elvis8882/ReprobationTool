@@ -3,14 +3,24 @@
   "score": 64,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 2,
-  "sources": 143,
+  "trend": 0,
+  "sources": 144,
   "sentiment": {
     "positive": 5,
-    "neutral": 128,
+    "neutral": 129,
     "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "063064e62da66f51688c41a34570a6475ce9521d",
+      "title": "Undoing Brexit",
+      "summary": "Prime Minister Andy Burnham wants a reset with the European Union. Reversing a decade of separation won’t be easy.",
+      "url": "https://www.nytimes.com/2026/11/18/world/19int-theworld-brexit-trump-xi-putin.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-19T05:48:05+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "253d55efc9877a4bacfd0f8f8eea7140ef85606c",
       "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
@@ -208,18 +218,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "name is a Greek goddess"
-    },
-    {
-      "id": "d7c2914ea1b601a2ef6c1b84256e70c1d6716716",
-      "title": "Bomb scares disrupt multiple flights across Europe",
-      "summary": "The European Union’s transport commissioner said it was “too early to draw conclusions on whether the incidents are linked.”",
-      "url": "https://www.washingtonpost.com/world/2026/11/05/bomb-threats-target-multiple-flights-across-europe/",
-      "source": "World (Washington post)",
-      "published_at": "2026-11-05T18:43:06+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-18T18:00:25Z"
+  "last_updated": "2026-11-19T18:13:13Z"
 }

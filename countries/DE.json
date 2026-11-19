@@ -1,16 +1,48 @@
 {
   "country": "DE",
-  "score": 35,
+  "score": 37,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
+  "trend": 2,
   "sources": 285,
   "sentiment": {
-    "positive": 26,
+    "positive": 27,
     "neutral": 163,
-    "negative": 96
+    "negative": 95
   },
   "latest_articles": [
+    {
+      "id": "5ac6485bd7372da0d8e4e307a65f4d203159af65",
+      "title": "Ukraine allies warn ‘Yalta format’ will not bring about peace – Europe live",
+      "summary": "Berlin meeting of the ‘coalition of the willing’ comes after Trump declared Putin a ‘friend’ during trilateral meeting with Xi in ChinaFor what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeti…",
+      "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-19T17:49:59+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Berlin meeting of the ‘coalition of the willing’"
+    },
+    {
+      "id": "74f73557d62f47a27e8c4c5fdc2df62991ab8727",
+      "title": "Is Europe now in the shadow of a Trump, Putin and Xi alliance? – podcast",
+      "summary": "Andy Burnham is meeting western leaders in Berlin and Brussels this week, to discuss Ukraine and closer ties to the EU. Meanwhile, Donald Trump, Vladimir Putin and Xi Jinping have met at the Apec summit in China. Is this…",
+      "url": "https://www.theguardian.com/politics/audio/2026/nov/19/is-europe-in-shadow-of-trump-putin-xi-alliance-podcast",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-19T17:23:36+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "meeting western leaders in Berlin and Brussels to discuss Ukraine"
+    },
+    {
+      "id": "063064e62da66f51688c41a34570a6475ce9521d",
+      "title": "Undoing Brexit",
+      "summary": "Prime Minister Andy Burnham wants a reset with the European Union. Reversing a decade of separation won’t be easy.",
+      "url": "https://www.nytimes.com/2026/11/18/world/19int-theworld-brexit-trump-xi-putin.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-19T05:48:05+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "5b88b4fd6d0410db23403864e11b8a76bad11b5f",
       "title": "These Villagers Wonder if They’re on the Front Line of Russia’s Shadow War",
@@ -190,40 +222,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "German long-range missiles could trigger nuclear escalation"
-    },
-    {
-      "id": "ed112b9d1f6dcb365d12e0fb74bd369e7fadd597",
-      "title": "Merz accused of ‘blackmail’ by Slovakian PM after demand for Ukraine aid in EU budget",
-      "summary": "German chancellor has signalled he will block budget with no aid deal, complaining that burden is ‘carried mostly by only a few member states’Friedrich Merz has signalled he will block the EU’s seven-year budget unless t…",
-      "url": "https://www.theguardian.com/world/2026/nov/10/friedrich-merz-accused-blackmail-ukraine-aid-eu-budget",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-10T16:44:27+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Merz accused of ‘blackmail’ by Slovakian PM after demand for Ukraine aid"
-    },
-    {
-      "id": "bf15bf06a44a35d239a099d36eac11834dac312d",
-      "title": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – Europe live",
-      "summary": "US-led talks in Abu Dhabi break up after four hours but are expected to resume tomorrow as Zelenskyy says humanitarian issues were discussedUS officials seek ‘final end’ to Russia-Ukraine war as talks beginThe EU has sai…",
-      "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-10T16:04:27+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "e9d7ff3db13d4531d21e42d1d9c8b848e0656dfd",
-      "title": "Germany funds Pacific restoration: €20m backs seven-year island project",
-      "summary": "Germany is allocating €20 million to restore biodiversity on islands in Palau, Samoa, Tonga, and Wallis and Futuna. The funding will support the ‘Restoring Pacific Islands for Nature and People’ project over the next sev…",
-      "url": "https://timesofindia.indiatimes.com/science/nature/germany-backs-20-million-project-to-restore-native-wildlife-protect-pacific-island-ecosystems-and-strengthen-climate-resilience-across-palau-samoa-tonga-and-wallis-and-futuna/articleshow/135709882.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-11-10T14:00:16+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Germany funds Pacific restoration: €20m backs seven-year island project"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-18T18:00:25Z"
+  "last_updated": "2026-11-19T18:13:13Z"
 }

@@ -4,13 +4,46 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 569,
+  "sources": 568,
   "sentiment": {
-    "positive": 10,
-    "neutral": 270,
-    "negative": 290
+    "positive": 11,
+    "neutral": 272,
+    "negative": 286
   },
   "latest_articles": [
+    {
+      "id": "a2c3574e4f0cbe70b387dbe8a1eed09f94db08fa",
+      "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+      "summary": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without NetanyahuThe Israeli military crossed into Hamas-controlled central Gaza on Wednesday in its first ground operation…",
+      "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-19T12:40:46+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Israeli tanks cross boundary"
+    },
+    {
+      "id": "b778383653563c02eeba4a8262e5ac78c7d3ba06",
+      "title": "Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests",
+      "summary": "After a historic result for Israel’s Arab-led parties, Prime Minister Benjamin Netanyahu said the vote was rigged, pointing to the detention of three opposition activists. His chief of staff has admitted being involved w…",
+      "url": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-19T12:16:39+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Netanyahu said the vote was rigged, pointing to the detention of three opposition activists"
+    },
+    {
+      "id": "966b6eb044e40a09ac2e205028d3af69b3ce8215",
+      "title": "Hannah Lillith Assadi's 'Paradiso 17' Wins National Book Award For Fiction",
+      "summary": "Hannah Lillith Assadi's \"Paradiso 17\" was inspired in part by the death of her father and haunted further by the deaths of Palestinians in the Gaza war with Israel.",
+      "url": "https://www.ndtv.com/world-news/hannah-lillith-assadis-paradiso-17-wins-national-book-award-for-fiction-12347261#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-19T09:19:14+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "deaths of Palestinians in the Gaza war with Israel"
+    },
     {
       "id": "9ff5b1461417d3df3434ce6103e681da1b666f27",
       "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
@@ -21,6 +54,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "violating the truce."
+    },
+    {
+      "id": "ed344170b43a5e1a3c4550915d24a2fce058348a",
+      "title": "Israel delays building contracts for West Bank settlement after UK sanctions",
+      "summary": "Attorney general says E1 settlement decision should not be taken by caretaker government led by NetanyahuIsrael has postponed issuing contracts for the construction of a large settlement on the West Bank seen as likely t…",
+      "url": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-18T14:05:38+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Israel delays building contracts for West Bank settlement"
     },
     {
       "id": "253d55efc9877a4bacfd0f8f8eea7140ef85606c",
@@ -54,6 +98,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Matan Kahana Elected Speaker of Israel’s Parliament"
+    },
+    {
+      "id": "399fd9cdcf1ccf6e66aa64dd9ad968466779ecf4",
+      "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
+      "summary": "Bullet hit 72-year-old Fadha Wadha in head outside her home in al-Duyuk al-Tahta, in the West Bank, say residentsA 72-year-old Palestinian woman has been shot dead in an overnight attack by Israeli settlers in a village…",
+      "url": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-17T20:21:48+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Israeli settlers fired towards Palestinian houses"
     },
     {
       "id": "f38fc2cffad6425377fc9de2062545c9807f66b8",
@@ -175,63 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Israeli authorities are holding back vital supplies at the borders"
-    },
-    {
-      "id": "a864855dadcf9b0d9d50e7f07da67d474192dc0a",
-      "title": "After Decades of Blood and Mistrust, Doubts Over Who’s to Blame for an Israeli Hostage",
-      "summary": "Israeli spies kidnapped and killed Iranians. They were convinced that Tehran was to blame for a fallen airman. Alternative theories got little attention, until now.",
-      "url": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-15T09:36:59+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israeli spies kidnapped and killed Iranians"
-    },
-    {
-      "id": "96e3b3873fda3826fff016449a2bc7d14745fae7",
-      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-11-15T08:17:41+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Israel kills Hamas commander in strike on Gaza camp"
-    },
-    {
-      "id": "49e71b8bfdbf128928d73e5618db6dab18fde519",
-      "title": "Israel Kills Senior Hamas Commander Who Planned, Oversaw October 7 Attack",
-      "summary": "Gaza's civil defence spokesman said two people were wounded in the strike in Gaza's south.",
-      "url": "https://www.ndtv.com/world-news/israel-kills-senior-hamas-commander-samir-abu-younis-planned-oversaw-october-7-attack-12328458#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-11-15T06:41:35+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Israel Kills Senior Hamas Commander Who Planned, Oversaw October 7 Attack"
-    },
-    {
-      "id": "caf1348bc34351a5b877bfc71dd855a7a72ca795",
-      "title": "ISRAEL/PALESTINE: Statement by the High Representative on behalf of the European Union on the humanitarian developments in Gaza - Council, European Union",
-      "summary": "ISRAEL/PALESTINE: Statement by the High Representative on behalf of the European Union on the humanitarian developments in Gaza&nbsp;&nbsp;Council, European UnionEU demands Israel grant ‘immediate, unimpeded’ flood aid t…",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV1F5RG5Sa1RGYXBBdkwteWVCTEZyeUJXajBhYTk1SHltMDRmWjZERTBHVzlkbjhCSDFOZmNjYnRQcTgtaHpRdHNLa0M2aG9FUy1TYi1ueF9SdGYwdTRPN2wzZHdGeVdwM3FLODdxTk0xc1drMkVVMnZWY3J5NXEzT0J0aw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-11-14T12:23:16+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "EU demands Israel grant ‘immediate, unimpeded’ flood aid to Gaza"
-    },
-    {
-      "id": "fcc1899af9d52bc9bc00596852d63c640918d8ba",
-      "title": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
-      "summary": "Prime ministerial hopeful calls Arab minority ‘an integral part of the Israeli story’ as he seeks to form governmentIsraeli prime ministerial hopeful Gadi Eisenkot condemned a “racist and aggressive campaign of delegitim…",
-      "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-14T11:11:03+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-18T18:00:25Z"
+  "last_updated": "2026-11-19T18:13:13Z"
 }

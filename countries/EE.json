@@ -1,16 +1,48 @@
 {
   "country": "EE",
-  "score": 96,
+  "score": 97,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -1,
-  "sources": 160,
+  "trend": 1,
+  "sources": 162,
   "sentiment": {
-    "positive": 27,
-    "neutral": 115,
+    "positive": 28,
+    "neutral": 116,
     "negative": 18
   },
   "latest_articles": [
+    {
+      "id": "063064e62da66f51688c41a34570a6475ce9521d",
+      "title": "Undoing Brexit",
+      "summary": "Prime Minister Andy Burnham wants a reset with the European Union. Reversing a decade of separation won’t be easy.",
+      "url": "https://www.nytimes.com/2026/11/18/world/19int-theworld-brexit-trump-xi-putin.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-19T05:48:05+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "ccd114a20f0539ac0e50d10fcab352ebc166172b",
+      "title": "EU-funded Euroguard semi-autonomous naval vessel launched in Estonia - INSIGHT EU MONITORING",
+      "summary": "EU-funded Euroguard semi-autonomous naval vessel launched in Estonia&nbsp;&nbsp;INSIGHT EU MONITORINGEstonia says it just launched its biggest warship&nbsp;&nbsp;The Defence BlogBaltic Sea surveillance boosted by new EU-…",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLTlzOUktTFVHTVUzendEZHJIMGM1VkRCVU10dTJiNmR2S2tsLWZBYnlsNGVJVzcxVEt5YmlxenVLZmpZN0ZwQmJ6amFmZGtMZzQ4Y1dFUzZyT2NadWZPc1BvcnlTSGxzclpGVXZzMkNvTjdsRUZPd05XLXN3aVByUlAyMDZxdmVmbm9VNDRVQ19PcmEzVlQzZjl4NEdPTXFnZ1I3Z0RoRl9BOHdxMHlDS003WGFuR0V3M2hSVFEtMmQtbDdCRTRweTYyMFMzTmlM?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-11-19T01:19:31+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "EU-funded Euroguard semi-autonomous naval vessel launched in Estonia"
+    },
+    {
+      "id": "69a85382a6c6b32745b51da0bd6e0b11983c3d0a",
+      "title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
+      "summary": "An Estonian tech billionaire famous for his stance that AI could end humanity is expected to be one of the biggest winners in Anthropic's upcoming IPO.",
+      "url": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-11-18T21:28:04+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "An Estonian tech billionaire famous for his stance"
+    },
     {
       "id": "253d55efc9877a4bacfd0f8f8eea7140ef85606c",
       "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
@@ -189,39 +221,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Estonia Shortlists Three Locations For First BWRX-300 Nuclear Power Plant"
-    },
-    {
-      "id": "58b959ca0c3dd0ed97b3115cab15ebfe60c09db0",
-      "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
-      "summary": "Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complicationsExposure to a new generation of allegedly “safe” plasticizers is linked to lower birth weight and fetal dev…",
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-07T12:00:13+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "0e6a8c4c162b2a5439b60efda8e5ad574951c67e",
-      "title": "Estonia narrows nuclear plant search to three sites in Viru-Nigula - ERR",
-      "summary": "Estonia narrows nuclear plant search to three sites in Viru-Nigula&nbsp;&nbsp;ERR",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNblRpNzFYOTN2Z2FWOGcyaGh2R1pjZy0zem1jQVJybTEwclZhMHlBbFd4OWxBMEtEUnUySWszZUNOYzAzNUNJTTl3WHpBdjhXR01EUW9ETnZZMXFWVkt0MURzUjJMeUN0LTRiNTNwVFgxd3Q1QmEwYmF4dHFMMEdPYk9mZkZ0N1hVdkJ2enduWWlrcUhZZW4ycjUtSWJ3dw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-11-07T09:36:00+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Estonia narrows nuclear plant search to three sites"
-    },
-    {
-      "id": "35d583ecb9bdf6120f290036df06f58a908c0f7c",
-      "title": "EU charges TikTok with failing to protect users’ mental health",
-      "summary": "Regulator’s initial ruling says algorithm ‘can be harmful’ and led young and vulnerable viewers ‘down rabbit holes they can’t easily escape’Business live – latest updatesTikTok has been charged by the European Commission…",
-      "url": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-06T15:17:08+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-18T18:00:25Z"
+  "last_updated": "2026-11-19T18:13:13Z"
 }

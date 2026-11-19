@@ -4,13 +4,34 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 255,
+  "sources": 257,
   "sentiment": {
     "positive": 8,
-    "neutral": 210,
+    "neutral": 212,
     "negative": 37
   },
   "latest_articles": [
+    {
+      "id": "6ab88146cfda7d38218e8b2f7e371f323ccb833b",
+      "title": "After Deadly Train Crash, Spain Asks: Did It Grow Too Much, Too Quickly?",
+      "summary": "As an election nears, a railway disaster in Spain has set off debate over whether maintenance of its infrastructure kept pace with its booming population.",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-19T16:56:13+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "railway disaster in Spain has set off debate"
+    },
+    {
+      "id": "063064e62da66f51688c41a34570a6475ce9521d",
+      "title": "Undoing Brexit",
+      "summary": "Prime Minister Andy Burnham wants a reset with the European Union. Reversing a decade of separation won’t be easy.",
+      "url": "https://www.nytimes.com/2026/11/18/world/19int-theworld-brexit-trump-xi-putin.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-19T05:48:05+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "ba6a46a63d246ad79262b78aec30f2b257146569",
       "title": "Spanish court investigates Julio Iglesias over sexual abuse claims - The Guardian",
@@ -201,30 +222,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Barcelona football club"
-    },
-    {
-      "id": "23565797d1ba8e8e5f4563b347d2313a702e8a1c",
-      "title": "Spain sees widespread disruption in first general strike for 14 years",
-      "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-11-11T14:06:27+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Spain sees widespread disruption in first general strike"
-    },
-    {
-      "id": "24a1e9f2a98dfe53722b9daa47dfd8fc7f8e614e",
-      "title": "Millions join Spain’s first general strike in 14 years in protest at rising housing costs",
-      "summary": "The 24-hour stoppage has drawn high participation across sectors and comes weeks before election in which far right could gain powerMillions of people across Spain have joined the country’s first general strike in 14 yea…",
-      "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-11T13:54:36+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "protest at rising housing costs"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-18T18:00:25Z"
+  "last_updated": "2026-11-19T18:13:13Z"
 }

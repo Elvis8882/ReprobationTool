@@ -4,13 +4,23 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 134,
+  "sources": 135,
   "sentiment": {
     "positive": 9,
-    "neutral": 112,
+    "neutral": 113,
     "negative": 13
   },
   "latest_articles": [
+    {
+      "id": "063064e62da66f51688c41a34570a6475ce9521d",
+      "title": "Undoing Brexit",
+      "summary": "Prime Minister Andy Burnham wants a reset with the European Union. Reversing a decade of separation won’t be easy.",
+      "url": "https://www.nytimes.com/2026/11/18/world/19int-theworld-brexit-trump-xi-putin.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-19T05:48:05+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "253d55efc9877a4bacfd0f8f8eea7140ef85606c",
       "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
@@ -205,19 +215,8 @@
       "published_at": "2026-11-01T09:55:20+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "3a1e46fd30a29916463237bd23f6685e5e8ed558",
-      "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
-      "summary": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
-      "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-31T01:32:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "people in the US, Japan, Sweden and Netherlands"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-18T18:00:25Z"
+  "last_updated": "2026-11-19T18:13:13Z"
 }
