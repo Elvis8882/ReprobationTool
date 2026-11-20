@@ -4,13 +4,35 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 29,
+  "sources": 31,
   "sentiment": {
     "positive": 2,
-    "neutral": 14,
-    "negative": 13
+    "neutral": 15,
+    "negative": 14
   },
   "latest_articles": [
+    {
+      "id": "0045ca931e1599fd5190442dd1877241fa50500f",
+      "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
+      "summary": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces.",
+      "url": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-20T16:18:21+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "army and police units were deployed in territory controlled by the group"
+    },
+    {
+      "id": "26c67f7aec1ed250f5d61061597c5624d419eb3b",
+      "title": "Iraq university’s removal of male professors teaching women sparks weeks of protests",
+      "summary": "Al-Qadisiyah University’s move a sign of the country’s slide into a Taliban-like gender segregation, say activistsThe removal of male professors teaching female students at a university in southern Iraq has sparked prote…",
+      "url": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-20T05:00:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Iraq university’s removal of male professors, country’s slide into a Taliban-like gender segregation"
+    },
     {
       "id": "fe19d1f5e35bacd2b26043e63b6e30146569f446",
       "title": "Trump falsely claims ‘nobody’s been killed’ in Iran war ‘in the last five months’",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "attacks were launched from its territory"
-    },
-    {
-      "id": "9b356662c8f9f02965542f722dc962f96824b027",
-      "title": "Iraq To Open Iran Crossings After Drone Attack Prompts Saudi Pipeline Closure",
-      "summary": "The crossings are Shalamsheh in Basra, al-Shib in Missan, and al-Mandali in Diyala.",
-      "url": "https://www.ndtv.com/world-news/iraq-to-open-iran-crossings-after-drone-attack-prompts-saudi-pipeline-closure-12040561#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-13T09:25:21+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Iraq To Open Iran Crossings"
-    },
-    {
-      "id": "30298121c78dd077165d7875b2bbfcfa89c2e7ae",
-      "title": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.",
-      "summary": "A drone attack from Iraq forced Saudi Arabia to close its East-West pipeline, the kingdom said, threatening a key workaround to Iran’s Persian Gulf blockade.",
-      "url": "https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html",
-      "source": "NYT > World News",
-      "published_at": "2026-09-12T18:02:41+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "drone attack from Iraq forced Saudi Arabia to close its East-West pipeline"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-19T18:13:13Z"
+  "last_updated": "2026-11-20T17:48:05Z"
 }

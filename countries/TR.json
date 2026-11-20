@@ -1,16 +1,38 @@
 {
   "country": "TR",
-  "score": 82,
+  "score": 83,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
+  "trend": 1,
   "sources": 65,
   "sentiment": {
     "positive": 5,
-    "neutral": 35,
-    "negative": 26
+    "neutral": 37,
+    "negative": 24
   },
   "latest_articles": [
+    {
+      "id": "f8559dd4a52572a87a00a6c591432c61fbd972a0",
+      "title": "Turkey’s Van Cats Contend With Rising Temperatures",
+      "summary": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
+      "url": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-20T17:13:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "A feline research center in Turkey uses air-conditioning and pools"
+    },
+    {
+      "id": "22506e5df2abc37c9ddafd26ed9db6ed404fec24",
+      "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
+      "summary": "A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session.",
+      "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-19T10:02:50+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "U.N. climate talks in Turkey"
+    },
     {
       "id": "86b3afc4c1482c5b3a1095886f242bca34f98409",
       "title": "There’s a New Push at COP31 in Turkey: Electrification",
@@ -208,30 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "agreement with Turkey and Pakistan"
-    },
-    {
-      "id": "dc4941fcf4015bc4e74a841efeb068a31a441b77",
-      "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
-      "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expectedHeavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days…",
-      "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-30T10:07:16+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "Turkey has been hit by powerful thunderstorms and a fatal tornado"
-    },
-    {
-      "id": "72ab5d9bfb445b69d4f8005d93fb84a838c74299",
-      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-      "summary": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
-      "url": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-29T13:44:39+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Rock collapse kills two in Turkey's Cappadocia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-19T18:13:13Z"
+  "last_updated": "2026-11-20T17:48:05Z"
 }

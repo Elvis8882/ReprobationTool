@@ -1,0 +1,41 @@
+{
+  "id": "745e2580eb536fe1c3e193305bec71d83bf6a697",
+  "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
+  "summary_full": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
+  "summary_public": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
+  "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
+  "published_at": "2026-11-20T15:49:30+00:00",
+  "source": "NYT > World News",
+  "language": "en",
+  "countries_detected": [
+    "PL",
+    "RU",
+    "UA"
+  ],
+  "countries_scored": [
+    "PL",
+    "RU",
+    "UA"
+  ],
+  "sentiment_by_country": {
+    "PL": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "Russian Objects’ Crashed in Poland, Officials Say"
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.9,
+      "evidence": "likely “provocation” from Russia"
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.6,
+      "evidence": "military exercises by Ukraine’s allies"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-11-20T17:48:05+00:00",
+  "processed_at": "2026-11-20T17:48:05+00:00"
+}

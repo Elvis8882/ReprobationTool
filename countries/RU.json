@@ -4,13 +4,46 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 850,
+  "sources": 852,
   "sentiment": {
     "positive": 36,
     "neutral": 153,
-    "negative": 662
+    "negative": 664
   },
   "latest_articles": [
+    {
+      "id": "745e2580eb536fe1c3e193305bec71d83bf6a697",
+      "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
+      "summary": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-20T15:49:30+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "likely “provocation” from Russia"
+    },
+    {
+      "id": "44786307db7acd5c1949ac0d6e0620ae4d42f032",
+      "title": "\"Intentional Provocation\": Russian Missile Meant For Ukraine Hits Poland",
+      "summary": "Mark Rutte is expected to go to Poland this weekend in response.",
+      "url": "https://www.ndtv.com/world-news/intentional-provocation-russian-missile-meant-for-ukraine-hits-poland-12355081#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-20T14:10:35+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Russian Missile Meant For Ukraine Hits Poland"
+    },
+    {
+      "id": "42a972871329f657073040499e6414507308e73f",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-20T00:50:24+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "talks with Russia on ending war in Ukraine"
+    },
     {
       "id": "c0f9ebc4783c49125adb35bdc92452565f6d05a5",
       "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
@@ -43,6 +76,28 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Russia agreed to boost the supply of refined petroleum products"
+    },
+    {
+      "id": "4dffa5bc2cfc8f13e6770fde4f28c32b4040005b",
+      "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+      "summary": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’China, Russia and the US say they have agreed a peace statement after an unprecedented trilatera…",
+      "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-19T17:13:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "no mention of the wars in Ukraine and Iran"
+    },
+    {
+      "id": "e4654b3ad6faa5d0b0698712020996e39b9172c6",
+      "title": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire",
+      "summary": "The Russian leader invited European representatives to Moscow to discuss giving them a role in negotiations. It was unclear how serious the offer was.",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-19T16:51:57+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire"
     },
     {
       "id": "f88a3502ca31e7aa32a22947b0b4185bcc3a3ab2",
@@ -175,63 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.9,
       "evidence": "Ukrainian strikes on oil refineries has knocked out about half of Russia’s refining output"
-    },
-    {
-      "id": "df23ec006e507d1653c705ee190d64afacb841e6",
-      "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
-      "summary": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Rus…",
-      "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
-      "source": "NYT > World News",
-      "published_at": "2026-11-18T17:23:48+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Putin Shake Hands as Leaders Gather in China"
-    },
-    {
-      "id": "c73c048e2de0aef0a9070e229404ae68bf406898",
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-11-18T17:00:40+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukraine is fighting an underground war with Russia"
-    },
-    {
-      "id": "40b5659e8a6151f19c84eb0dd877c085c5227570",
-      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-      "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-11-18T17:00:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "Russian troops in an old Soviet tunnel"
-    },
-    {
-      "id": "f43e2ab58292c4024868f4ee0e6fc09c8dd8e506",
-      "title": "Six weeks after Trump’s Russian diesel deal, no tankers have reached the U.S.",
-      "summary": "Two ships changed course, and another has halted hundreds of miles from the coast. Analysts say potential buyers probably are worried about the implications of accepting a Russian import.",
-      "url": "https://www.washingtonpost.com/world/2026/11/18/six-weeks-after-trumps-russian-diesel-deal-no-tankers-have-reached-us/",
-      "source": "World (Washington post)",
-      "published_at": "2026-11-18T16:30:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "worried about the implications of accepting a Russian import."
-    },
-    {
-      "id": "b598bba4a8a04c8c9c652b26951bc9b01d5dcb0d",
-      "title": "Putin renews his warm bond with Xi.",
-      "summary": "The Russian leader demonstrated that despite his isolation from many Western nations over the war in Ukraine, he remains on good terms with much of the rest of the world.",
-      "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/putin-renews-his-warm-bond-with-xi",
-      "source": "NYT > World News",
-      "published_at": "2026-11-18T14:14:34+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Putin renews his warm bond with Xi."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-19T18:13:13Z"
+  "last_updated": "2026-11-20T17:48:05Z"
 }

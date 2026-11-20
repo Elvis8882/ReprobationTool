@@ -1,12 +1,12 @@
 {
   "country": "GL",
-  "score": 68,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
-  "trend": 2,
-  "sources": 32,
+  "score": 69,
+  "score_label": "No Commentary",
+  "assessment": "Mostly neutral/positive coverage",
+  "trend": 1,
+  "sources": 33,
   "sentiment": {
-    "positive": 6,
+    "positive": 7,
     "neutral": 18,
     "negative": 8
   },
@@ -21,6 +21,17 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Greenland’s politicians voted to change the Arctic island’s time zone"
+    },
+    {
+      "id": "fc1d57a3f5c7b4034d9050ea8f817ed63c5d397b",
+      "title": "Danish MPs approve Greenland security pact with US",
+      "summary": "Danish foreign minister says deal ‘removes all uncertainty’ over territory but warns trust in US needs rebuildingEurope live – latest updatesThe Danish parliament has unanimously approved a new Arctic security pact betwe…",
+      "url": "https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-19T12:33:52+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "new Arctic security pact between Greenland, Denmark and the US"
     },
     {
       "id": "fb9b219e0042c3628921f5631a5e105fc26cf0d4",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "European Union earlier this year united to rebuke Trump"
-    },
-    {
-      "id": "bbafcc998abb17d113710f037f13acdb9ef5d6ee",
-      "title": "\"Good For NATO, Europe\": Denmark PM Endorses Trump's Greenland Security Deal",
-      "summary": "Trump said Friday that he had struck an \"infinite\" deal with Denmark",
-      "url": "https://www.ndtv.com/world-news/good-for-nato-europe-denmark-pm-mette-frederiksen-endorses-donald-trumps-greenland-security-deal-12067132#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-19T03:33:03+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Greenland Security Deal"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-19T18:13:13Z"
+  "last_updated": "2026-11-20T17:48:05Z"
 }

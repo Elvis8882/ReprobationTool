@@ -4,13 +4,57 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 673,
+  "sources": 675,
   "sentiment": {
-    "positive": 251,
-    "neutral": 116,
+    "positive": 252,
+    "neutral": 117,
     "negative": 306
   },
   "latest_articles": [
+    {
+      "id": "745e2580eb536fe1c3e193305bec71d83bf6a697",
+      "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
+      "summary": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-20T15:49:30+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "military exercises by Ukraine’s allies"
+    },
+    {
+      "id": "44786307db7acd5c1949ac0d6e0620ae4d42f032",
+      "title": "\"Intentional Provocation\": Russian Missile Meant For Ukraine Hits Poland",
+      "summary": "Mark Rutte is expected to go to Poland this weekend in response.",
+      "url": "https://www.ndtv.com/world-news/intentional-provocation-russian-missile-meant-for-ukraine-hits-poland-12355081#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-20T14:10:35+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "Russian Missile Meant For Ukraine Hits Poland"
+    },
+    {
+      "id": "d3265ec8653dd2da7165cd9e1be7f31aa39c24b2",
+      "title": "Putin scores ‘massive win’ at first trilateral meeting, rebuilding standing as Ukraine war grinds on",
+      "summary": "Putin was positioned as an equal beside the leaders of the U.S. and China, handing a win to the authoritarian leader bogged down in a multi-year war.",
+      "url": "https://www.cnbc.com/2026/11/20/putin-xi-china-trump-russia-ukraine-.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-11-20T09:26:45+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Putin scores ‘massive win’... authoritarian leader bogged down"
+    },
+    {
+      "id": "42a972871329f657073040499e6414507308e73f",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-20T00:50:24+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "war in Ukraine, European allies of Ukraine say they have a united negotiating position"
+    },
     {
       "id": "c0f9ebc4783c49125adb35bdc92452565f6d05a5",
       "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
@@ -43,6 +87,28 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "discuss Ukraine and closer ties to the EU"
+    },
+    {
+      "id": "4dffa5bc2cfc8f13e6770fde4f28c32b4040005b",
+      "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+      "summary": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’China, Russia and the US say they have agreed a peace statement after an unprecedented trilatera…",
+      "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-19T17:13:23+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "no mention of the wars in Ukraine and Iran"
+    },
+    {
+      "id": "e4654b3ad6faa5d0b0698712020996e39b9172c6",
+      "title": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire",
+      "summary": "The Russian leader invited European representatives to Moscow to discuss giving them a role in negotiations. It was unclear how serious the offer was.",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-19T16:51:57+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Ukraine Cease-Fire"
     },
     {
       "id": "f88a3502ca31e7aa32a22947b0b4185bcc3a3ab2",
@@ -164,74 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "Many excluded from the summit in Shenzhen, principally Ukraine"
-    },
-    {
-      "id": "cc2a6c2a5ead7739c2def40ddb0ccea149028440",
-      "title": "Trump, Putin to hold talks in China after 2025 Alaska summit failed to end Ukraine war",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/china/trump-putin-to-hold-talks-in-china-after-2025-alaska-summit-failed-to-end-ukraine-war/articleshow/135966064.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-11-18T14:43:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "failed to end Ukraine war"
-    },
-    {
-      "id": "b598bba4a8a04c8c9c652b26951bc9b01d5dcb0d",
-      "title": "Putin renews his warm bond with Xi.",
-      "summary": "The Russian leader demonstrated that despite his isolation from many Western nations over the war in Ukraine, he remains on good terms with much of the rest of the world.",
-      "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/putin-renews-his-warm-bond-with-xi",
-      "source": "NYT > World News",
-      "published_at": "2026-11-18T14:14:34+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "despite his isolation from many Western nations over the war in Ukraine"
-    },
-    {
-      "id": "2867d1930c8c36371fd267cc92adf7b031dc0036",
-      "title": "Putin renews his warm bond with Xi.",
-      "summary": "The Russian leader demonstrated that despite his isolation from many Western nations over the war in Ukraine, he remains on good terms with much of the rest of the world.",
-      "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/putin-renews-his-warm-bond-with-xi",
-      "source": "NYT > World News",
-      "published_at": "2026-11-18T14:14:34+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "despite his isolation from many Western nations over the war in Ukraine"
-    },
-    {
-      "id": "a64d8f6f24e9bacc1916b5ee016916b8a168bc22",
-      "title": "Zelenskyy says Starshield speed curbs still in place over parts of Ukraine",
-      "summary": "Ukraine's charge d'affaires to the U.S., Denys Sienik, said that Starshield had been speed-limited for seven days already in Ukraine.",
-      "url": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-11-18T11:58:50+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Starshield speed curbs still in place over parts of Ukraine"
-    },
-    {
-      "id": "b7e66338729bbdac4e31ab695ac920041a51357c",
-      "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
-      "summary": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-11-18T10:53:21+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "winning the war in Ukraine."
-    },
-    {
-      "id": "87c3487f69cd455a5999df2c80beca4f876a5a67",
-      "title": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit",
-      "summary": "The dispute comes ahead of a planned meeting between Donald Trump, Vladimir Putin and Xi Jinping.",
-      "url": "https://www.cnbc.com/2026/11/18/ukraine-russia-war-trump-putin-deep-strikes.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-11-18T10:49:37+00:00",
-      "sentiment": "positive",
-      "confidence": 0.5,
-      "evidence": "Ukraine allies reject U.S. criticism of deep strikes inside Russia"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-19T18:13:13Z"
+  "last_updated": "2026-11-20T17:48:05Z"
 }

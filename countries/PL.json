@@ -1,16 +1,89 @@
 {
   "country": "PL",
-  "score": 84,
+  "score": 82,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 152,
+  "trend": -2,
+  "sources": 159,
   "sentiment": {
     "positive": 11,
-    "neutral": 115,
-    "negative": 26
+    "neutral": 120,
+    "negative": 28
   },
   "latest_articles": [
+    {
+      "id": "c8606f7a59d7ed6271509f467e072cd821b52b98",
+      "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+      "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UKSenior correspondent\n \n \n Making today’s reset deal contingent on a further agreement on the level of tuition fees…",
+      "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-20T17:16:07+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "2692dbb17486b1978a2b8eefeb913816597475b5",
+      "title": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
+      "summary": "Prime Minister Andy Burnham and European leaders said they had agreed to remove some of the barriers created when Britain left the European Union.",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-20T16:50:16+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "745e2580eb536fe1c3e193305bec71d83bf6a697",
+      "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
+      "summary": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-20T15:49:30+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russian Objects’ Crashed in Poland, Officials Say"
+    },
+    {
+      "id": "44786307db7acd5c1949ac0d6e0620ae4d42f032",
+      "title": "\"Intentional Provocation\": Russian Missile Meant For Ukraine Hits Poland",
+      "summary": "Mark Rutte is expected to go to Poland this weekend in response.",
+      "url": "https://www.ndtv.com/world-news/intentional-provocation-russian-missile-meant-for-ukraine-hits-poland-12355081#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-20T14:10:35+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Russian Missile Meant For Ukraine Hits Poland"
+    },
+    {
+      "id": "a4377cc1b7249fc8afea83a4434383312b654658",
+      "title": "10 years on, Britain reopens the Brexit fight — this time embracing the E.U.",
+      "summary": "Prime Minister Andy Burnham has signed the most concrete unwinding of the severance since 2016, as more Britons say leaving the European Union was a mistake.",
+      "url": "https://www.washingtonpost.com/world/2026/11/20/10-years-britain-reopens-brexit-fight-this-time-embracing-eu/",
+      "source": "World (Washington post)",
+      "published_at": "2026-11-20T13:51:41+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "51ca9e41eaaa8cc0768d1053247b9e6ae1394bbb",
+      "title": "Race to be next UN secretary general exposes divisions among world powers",
+      "summary": "Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunnerThe race to become the next UN secretary general could reach a decisive moment on Friday when a UN security cou…",
+      "url": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-20T05:00:24+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "from a family of Polish-Jewish wartime refugees to Costa Rica"
+    },
+    {
+      "id": "9b4154e4396e71b1ca617610079e77181e9fd287",
+      "title": "European Commission prepares changes to fuel reserve rules — OilPrice - UA.NEWS",
+      "summary": "European Commission prepares changes to fuel reserve rules — OilPrice&nbsp;&nbsp;UA.NEWSEU Plans Oil Reserve Revamp to Avert Diesel, Jet Fuel Shortage&nbsp;&nbsp;Bloomberg.comEU Moves to Overhaul Emergency Oil Stockpiles…",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWVobGMtN01PVm50cUtzQm82eUN2X2E2WlZlN0hfYzFGM1RycDdFSm9CUU1WT1NBMGxxZjVjTEl4NjBKcUMwRUp2bVZRUThXcGZyaGFZMjRfbmoxamM3RzBrVklvQTRENGpES3R1SG53d2FNWEt3LV9CRFczRFg3bHJtcU9lQW84YXJ6a1Y0WWxjZGFLa21wUWhaMlQ0eXVqS01ydTVn?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-11-19T19:52:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "063064e62da66f51688c41a34570a6475ce9521d",
       "title": "Undoing Brexit",
@@ -144,85 +217,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "Krakow shooting suspect dies in hospital, police say"
-    },
-    {
-      "id": "a06a85a61818f1a1e815e162f9b77a2cb67edacb",
-      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
-      "summary": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
-      "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-11-08T22:05:12+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "treated Krakow shooting suspect"
-    },
-    {
-      "id": "08adc0b7e080cd0a46ab00145a86c636220699db",
-      "title": "Two police officers hailed as heroes for confronting Kraków gunman",
-      "summary": "Jakub Kulik critically injured and Artur Morański also wounded after actions that ‘prevented further casualties’Two Polish police officers who were injured as they pursued and detained the gunman in Kraków on Saturday ha…",
-      "url": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-08T14:49:16+00:00",
-      "sentiment": "positive",
-      "confidence": 0.8,
-      "evidence": "Two Polish police officers...hailed as heroes for confronting Kraków gunman"
-    },
-    {
-      "id": "a5038539ea2f0253daea44a18d59bdf586075a76",
-      "title": "Mass shooter kills six in Poland, and three bodies are found at suspect’s home",
-      "summary": "Authorities said that the gunman opened fire in Krakow’s Old Town, and that the suspect was “fascinated by far-right ideologies.” Fifteen others were injured.",
-      "url": "https://www.washingtonpost.com/world/2026/11/08/six-dead-poland-shooting-three-bodies-found-suspects-home/",
-      "source": "World (Washington post)",
-      "published_at": "2026-11-08T13:39:41+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Mass shooter kills six in Poland"
-    },
-    {
-      "id": "48b7a29b11051d48d6118d928d9b2f099ec93afa",
-      "title": "What to Know About the Mass Shooting in Krakow, Poland",
-      "summary": "At least nine people were dead and at least 16 injured after shootings in Krakow and another town, the police said. The motive remains unclear.",
-      "url": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-08T13:09:09+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Mass Shooting in Krakow, Poland At least nine people were dead"
-    },
-    {
-      "id": "36d1a006d1aab22712eb1305e721240e15398e2e",
-      "title": "Polish prosecutors open terrorism investigation into Kraków shooting",
-      "summary": "Six people killed in attack probably inspired by far right, according to officials, as police say suspect’s parents and sister found dead at his homePolish prosecutors have opened a terrorism investigation after a 24-yea…",
-      "url": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-08T11:50:15+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Polish prosecutors open a terrorism investigation into Kraków shooting"
-    },
-    {
-      "id": "f50d287e94f55242d194d7fe07ba746db39bdc17",
-      "title": "Briton among six dead after gunman opens fire in Kraków market square",
-      "summary": "Three more people found dead at home of suspect, who minister says held ‘ultra-nationalistic’ viewsSix people were killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in…",
-      "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-08T09:30:22+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Poland’s defence minister called an “act of terror”"
-    },
-    {
-      "id": "58bc6e5cd1b56fc44d654ae50281001a5b41c649",
-      "title": "3 Bodies Found At Gunman's House Who Killed 6 In Poland's Krakow",
-      "summary": "Police vehicles block a street at the site of a shooting near main square of Krakow",
-      "url": "https://www.ndtv.com/world-news/poland-shooting-news-3-bodies-found-at-gunmans-house-who-killed-6-in-polands-krakow-12298795#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-11-08T02:35:12+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Killed 6 In Poland's Krakow"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-19T18:13:13Z"
+  "last_updated": "2026-11-20T17:48:05Z"
 }

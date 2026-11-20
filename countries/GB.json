@@ -1,16 +1,93 @@
 {
   "country": "GB",
-  "score": 10,
+  "score": 11,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
+  "trend": 1,
   "sources": 1007,
   "sentiment": {
-    "positive": 135,
-    "neutral": 675,
+    "positive": 136,
+    "neutral": 674,
     "negative": 198
   },
   "latest_articles": [
+    {
+      "id": "c8606f7a59d7ed6271509f467e072cd821b52b98",
+      "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+      "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UKSenior correspondent\n \n \n Making today’s reset deal contingent on a further agreement on the level of tuition fees…",
+      "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-20T17:16:07+00:00",
+      "sentiment": "mixed",
+      "confidence": 0.6,
+      "evidence": "EU wants ‘closest possible relationship’ with UK... play absolute hard ball"
+    },
+    {
+      "id": "ae58bd9e7f4a921606b1007e2f9b683b4a17fb9a",
+      "title": "Cybersecurity operation thwarts attack on UK supermarket fridges and freezers",
+      "summary": "News of operation comes after supermarkets in at least seven European countries hit by cyber-attacksA secret government cybersecurity operation recently thwarted a cyber-attack on fridges and freezers in UK supermarkets,…",
+      "url": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-20T17:08:14+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Cybersecurity operation thwarts attack on UK supermarket"
+    },
+    {
+      "id": "df67e737aa0fce20ee9999bb8cd187a70e30add8",
+      "title": "Police search for teacher who missed sentencing after indecent assault conviction",
+      "summary": "Sally-Anne Bowen was found guilty of having sexual relationships with two pupils at a boys’ school in the 1980sPolice are searching for a missing chemistry teacher convicted of sexual relationships with two pupils at a b…",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-20T16:50:47+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Metropolitan police officers after her failure to attend Harrow crown court"
+    },
+    {
+      "id": "2692dbb17486b1978a2b8eefeb913816597475b5",
+      "title": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
+      "summary": "Prime Minister Andy Burnham and European leaders said they had agreed to remove some of the barriers created when Britain left the European Union.",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-20T16:50:16+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Britain Announces Brexit Reset Deal, remove some of the barriers"
+    },
+    {
+      "id": "da9d0908c1c1da59fe6ae72d3523e117e4a5eb68",
+      "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
+      "summary": "Activists in more than 20 countries demonstrate over cost of living, learning conditions and rising military spendingStudents and young workers have taken to the streets in more than 20 European countries in coordinated…",
+      "url": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-20T15:15:28+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "protests over cost of living, learning conditions and rising military spending"
+    },
+    {
+      "id": "a4377cc1b7249fc8afea83a4434383312b654658",
+      "title": "10 years on, Britain reopens the Brexit fight — this time embracing the E.U.",
+      "summary": "Prime Minister Andy Burnham has signed the most concrete unwinding of the severance since 2016, as more Britons say leaving the European Union was a mistake.",
+      "url": "https://www.washingtonpost.com/world/2026/11/20/10-years-britain-reopens-brexit-fight-this-time-embracing-eu/",
+      "source": "World (Washington post)",
+      "published_at": "2026-11-20T13:51:41+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "embracing the E.U., unwinding of the severance"
+    },
+    {
+      "id": "76b2436a9f1c0b6560e607959a0f29e931b8c6e6",
+      "title": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
+      "summary": "In the global spirits markets, while the U.S., Europe, and China are facing volume contraction, India will add nearly 100 million consumers in the next five years.",
+      "url": "https://www.cnbc.com/2026/11/20/uk-india-trade-scotch-whisky-tariffs.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-11-20T05:09:52+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "U.K.-India trade deal faces a stiff test"
+    },
     {
       "id": "fd737119107954c74384746b78e1a5ed2f1d5f58",
       "title": "Jimmy Dimly is back and we should treasure him while we can | John Crace",
@@ -89,6 +166,17 @@
       "evidence": "head of the UK’s equalities watchdog has urged people"
     },
     {
+      "id": "4f83c28623847fea9cb2b053ddca0f06e0f473ac",
+      "title": "Prosecutors allege British woman ‘trying to find someone who would kill her’ lured to US and murdered",
+      "summary": "Sonia Exelby’s disappearance sparked an international search. The accused man, Dwain Hall, denies murdering herProsecutors in Ocala, Florida, have been laying out an extraordinary criminal case against Dwain C Hall, an a…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/british-woman-florida-murder-case-sonia-exelby",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-19T16:08:17+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Sonia Exelby, of Portsmouth, England"
+    },
+    {
       "id": "8b4cd5baa5fb325d65faa52593c0a0b5d6237102",
       "title": "UK Asks YouTube To Remove Russell Brand's Innocence Claim Video",
       "summary": "Russell Brand was sentenced to 10 years in prison last week (File Photo)",
@@ -142,96 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "New pro-Brexit campaign took Westminster by surprise"
-    },
-    {
-      "id": "92794bdb7e5223a31bebf9ccb34a775c2310083a",
-      "title": "PM urges Badenoch to withdraw ‘crass’ defence of disability cuts on grounds ‘amputees run marathons’ – as it happened",
-      "summary": "This blog is now closedIn her speech today, Shabana Mahmood, the home secretary, will also announce plans for a new fast-stream police leadership programme for up to 200 recruits a year. Vikram Dodd has the details.The C…",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-18T17:06:59+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "defence of disability cuts on grounds ‘amputees run marathons’"
-    },
-    {
-      "id": "4054a219c6193a402abff456e1d7272539b1358d",
-      "title": "UK government ‘breaking the law’ by not stopping decline of wild birds",
-      "summary": "Populations at lowest level on record with 45% of native breeding species in decline, environment watchdog saysThe environment secretary, Angela Eagle, her ministers and Natural England are breaking the law by failing to…",
-      "url": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-18T16:56:18+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "UK government ‘breaking the law’ by not stopping decline of wild birds"
-    },
-    {
-      "id": "3aaf5d92c07301726a11c4e41db97b2413d09be8",
-      "title": "Labour faces double blow over UK fossil fuel projects",
-      "summary": "Large North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage siteThe energy secretary has been dealt a double blow after two UK companies signalled plans to pull thei…",
-      "url": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-18T16:19:41+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "uncertain investment environment within the UK"
-    },
-    {
-      "id": "80218bb41d90a835de3031400b7881a93bab9753",
-      "title": "BOE’s Bailey Sees Length of Iran War as Key to Rate Path - WSJ",
-      "summary": "BOE’s Bailey Sees Length of Iran War as Key to Rate Path&nbsp;&nbsp;WSJA rapid interest rate rise seems inevitable – and UK households are expected to pick up the tab&nbsp;&nbsp;The GuardianBoE chief economist says furth…",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ0lzY3ZrMFh5d2NtZUhOSDdPYjZlbXpnTnZZU3ZYN1lVc28wOGpXdDJqUDRWdVNLMG1UTnlxc184TkUyaF9qeEJfY09iRGlab2RPZUNrNjZkQzdzR25KclhCVG92bnNTMU8wS2J4NFYwMU9CcGNscEJRX2JIbXRObWUyTFpwb2w0TGxBTHZYTjdncTFWWVYzV1JlSWdWcHhtV0U3OUhmOA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-11-18T15:45:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "UK households are expected to pick up the tab"
-    },
-    {
-      "id": "600f03a897964ab8a4e9d5a9f061e7f355716057",
-      "title": "Burnham should fight next election on promise to rejoin EU, says Peter Kyle",
-      "summary": "Exclusive: Former business secretary calls for Labour manifesto commitment with referendum on final decisionAndy Burnham should fight the next election on a promise to rejoin the EU, the former business secretary Peter K…",
-      "url": "https://www.theguardian.com/politics/2026/nov/18/david-lammy-andy-burnham-campaign-rejoining-eu-election-brexit",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-18T15:18:34+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Burnham should fight next election on promise to rejoin EU"
-    },
-    {
-      "id": "18027453427c403ef1507bc95eddbad5a7154b77",
-      "title": "Joanna Page says ‘inappropriate’ male actor whispered ‘awful stuff’ to her - The Guardian",
-      "summary": "Joanna Page says ‘inappropriate’ male actor whispered ‘awful stuff’ to her&nbsp;&nbsp;The GuardianI'm a Celeb: Joanna Page reveals 'awful' comments from male actor&nbsp;&nbsp;BBCI’m a Celebrity: Joanna Page opens up abou…",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX2NOcmg1R05nS3pCaGh5Ync1Q2o0NVhVeFdBQzFZRmxVQ05sUUJ6a3RuYk9jWWE3UkRMYTlSX2llaDR6dC0zekthNHZ3dHE2VE02aWtxRGcxaWRnUUVCbGc0M09Yb2JKSjE2aXJfcWo5eEZVZnVORDFZRE5qMzhUSzVSLWRmZERVQ0I3ckVIbXBiLVBaMTdGSDRnekVfNWtKVnpTOHBlckdNYW5mdGRFa2g2eTRqOEZxXzdLY3NpOFFuelNKNmNKS1FkbjV5ZlBYR1lsUQ?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-11-18T14:56:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Joanna Page says ‘inappropriate’ male actor whispered ‘awful stuff’"
-    },
-    {
-      "id": "eee12ddb0e5e7484a6eb9a8e930bee69eb3d001a",
-      "title": "William and Kate meet Indian Prime Minister Modi in New Delhi - BBC",
-      "summary": "William and Kate meet Indian Prime Minister Modi in New Delhi&nbsp;&nbsp;BBCWilliam and Kate reflect on 'enduring' UK-India ties with Modi&nbsp;&nbsp;BBCThe royal power couple are back. What next?&nbsp;&nbsp;The Telegrap…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wWlNtX2d5UzNQeFNsM3BRUk1aMTBfVGQzTkRpa001YjRJRzI0b1ptbHF3aUlmREZWQ0dKSU9VdDJGejhOU094TWppekVzZkR3TWU1dUZOV1BwNXM?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-11-18T14:30:33+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "William and Kate meet Indian Prime Minister Modi"
-    },
-    {
-      "id": "ed344170b43a5e1a3c4550915d24a2fce058348a",
-      "title": "Israel delays building contracts for West Bank settlement after UK sanctions",
-      "summary": "Attorney general says E1 settlement decision should not be taken by caretaker government led by NetanyahuIsrael has postponed issuing contracts for the construction of a large settlement on the West Bank seen as likely t…",
-      "url": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-18T14:05:38+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "UK imposed sanctions against building firms operating in the area"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-19T18:13:13Z"
+  "last_updated": "2026-11-20T17:48:05Z"
 }

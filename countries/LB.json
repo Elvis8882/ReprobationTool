@@ -1,16 +1,27 @@
 {
   "country": "LB",
-  "score": 59,
+  "score": 61,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
+  "trend": 2,
   "sources": 30,
   "sentiment": {
-    "positive": 3,
-    "neutral": 13,
+    "positive": 4,
+    "neutral": 12,
     "negative": 14
   },
   "latest_articles": [
+    {
+      "id": "214469e67fb4dd87d42445a4082a29798e2d0c7c",
+      "title": "Seeking Mideast role, Europeans push to replace U.N. peacekeepers in Lebanon",
+      "summary": "France is leading an effort to establish a European peacekeeping mission as a successor to UNIFIL, which is set to depart at the end of the year.",
+      "url": "https://www.washingtonpost.com/world/2026/11/20/europeans-seek-replace-un-peacekeeping-force-lebanon/",
+      "source": "World (Washington post)",
+      "published_at": "2026-11-20T10:00:00+00:00",
+      "sentiment": "positive",
+      "confidence": 0.7,
+      "evidence": "peacekeepers in Lebanon, European peacekeeping mission as a successor to UNIFIL"
+    },
     {
       "id": "e079c7402a2e1f69bd1c39499340722d9dc169aa",
       "title": "Major Arab newspaper calls for decriminalization of same-sex relationships",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.5,
       "evidence": "Israeli escalation is jeopardising a US-brokered ceasefire"
-    },
-    {
-      "id": "5163ebdc441e5b3115813ef5e9e8232f62ddb3db",
-      "title": "Israel-Hezbollah clashes kill 11 as Mideast conflict escalation gathers pace after U.S.-Iran strikes",
-      "summary": "Lebanese President Joseph Aoun called on the U.S. to help stop Israeli attacks after Sunday strikes killed at least seven people.",
-      "url": "https://www.cnbc.com/2026/09/07/us-iran-war-trump-hormuz-israel-hezbollah-fighting-strikes-.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-09-07T09:26:27+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Lebanese President Joseph Aoun called on the U.S. to help stop Israeli attacks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-19T18:13:13Z"
+  "last_updated": "2026-11-20T17:48:05Z"
 }
