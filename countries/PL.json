@@ -1,14 +1,14 @@
 {
   "country": "PL",
-  "score": 82,
+  "score": 80,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": -2,
-  "sources": 159,
+  "sources": 161,
   "sentiment": {
     "positive": 11,
     "neutral": 120,
-    "negative": 28
+    "negative": 30
   },
   "latest_articles": [
     {
@@ -22,6 +22,17 @@
       "sentiment_fallback": true
     },
     {
+      "id": "acf404f6e9c1429843d21c85209dfdb99246e1c6",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-20T16:54:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Russian missile hits Poland"
+    },
+    {
       "id": "2692dbb17486b1978a2b8eefeb913816597475b5",
       "title": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
       "summary": "Prime Minister Andy Burnham and European leaders said they had agreed to remove some of the barriers created when Britain left the European Union.",
@@ -30,6 +41,17 @@
       "published_at": "2026-11-20T16:50:16+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
+    },
+    {
+      "id": "bea53ace23fa5ef2fc6d2da152e4bf103f808f4f",
+      "title": "Russian missiles and drone hit Poland during attacks on Ukraine",
+      "summary": "Polish PM calls strikes, which took place amid western military exercises, ‘an intentional provocation’ by MoscowTwo Russian cruise missiles and a jet-powered drone crashed in Poland, according to officials, during Russi…",
+      "url": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-20T16:16:01+00:00",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Russian missiles and drone hit Poland"
     },
     {
       "id": "745e2580eb536fe1c3e193305bec71d83bf6a697",
@@ -195,30 +217,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Mass Killing in Poland Becomes Cause for a Political Fight"
-    },
-    {
-      "id": "5252d0cff00cf0546fc81b6135f792b2600dd19f",
-      "title": "Polish prosecutors say ‘too early’ to tell if Kraków gunman was motivated by political ideology",
-      "summary": "Terrorism investigation will continue after suspect who killed six after opening fire in market square diedPolish prosecutors have said they do not currently have any evidence tying the man who killed six people and inju…",
-      "url": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-09T15:52:26+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "killed six people and injured 16"
-    },
-    {
-      "id": "4117d50a81a41395c5e425c57e45da517b3082a9",
-      "title": "Krakow shooting suspect dies in hospital, police say",
-      "summary": "The man was suspected of killing at least six people in the Polish city of Krakow and three of his family members at his home on Saturday.",
-      "url": "https://www.washingtonpost.com/world/2026/11/09/krakow-shooting-suspect-dies-hospital-police-say/",
-      "source": "World (Washington post)",
-      "published_at": "2026-11-09T12:15:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Krakow shooting suspect dies in hospital, police say"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-20T17:48:05Z"
+  "last_updated": "2026-11-21T16:50:46Z"
 }

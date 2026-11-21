@@ -15,8 +15,20 @@
     "RU",
     "UA"
   ],
-  "sentiment_error": "No batch result returned for this item",
-  "llm_version": null,
-  "llm_perspective": null,
-  "llm_attempted_at": "2026-11-20T17:48:05+00:00"
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-11-21T16:50:46+00:00",
+  "sentiment_by_country": {
+    "RU": {
+      "label": "negative",
+      "confidence": 1.0,
+      "evidence": "Putin vows to fight... Moscow rules out talks... threatens retaliation"
+    },
+    "UA": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "peace in Ukraine even as Putin vows to fight"
+    }
+  },
+  "processed_at": "2026-11-21T16:50:46+00:00"
 }
