@@ -1,0 +1,41 @@
+{
+  "id": "86c4e817690b99bec640fceee282b7e85aae5251",
+  "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+  "summary_full": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+  "summary_public": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+  "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-22T11:25:14+00:00",
+  "source": "BBC News - World",
+  "language": "en",
+  "countries_detected": [
+    "FI",
+    "RU",
+    "UA"
+  ],
+  "countries_scored": [
+    "FI",
+    "RU",
+    "UA"
+  ],
+  "sentiment_by_country": {
+    "FI": {
+      "label": "neutral",
+      "confidence": 0.2,
+      "evidence": "Gulf of Finland Finnish defence forces say"
+    },
+    "RU": {
+      "label": "positive",
+      "confidence": 0.8,
+      "evidence": "Russia-bound ship still on fire after attack"
+    },
+    "UA": {
+      "label": "positive",
+      "confidence": 0.9,
+      "evidence": "Ukraine was likely behind the drone attack on the vessel"
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-11-22T17:08:35+00:00",
+  "processed_at": "2026-11-22T17:08:35+00:00"
+}

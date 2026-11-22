@@ -1,16 +1,27 @@
 {
   "country": "IS",
-  "score": 61,
+  "score": 62,
   "score_label": "Negative",
   "assessment": "High negative coverage",
-  "trend": 0,
+  "trend": 1,
   "sources": 20,
   "sentiment": {
-    "positive": 3,
-    "neutral": 7,
+    "positive": 4,
+    "neutral": 6,
     "negative": 10
   },
   "latest_articles": [
+    {
+      "id": "39c291d4dc466347c4e164e47db66b4dc6ab051f",
+      "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
+      "summary": "Iceland’s famed Blue Lagoon geothermal spa is going public in a $110 million IPO, tapping investor interest in tourism and the booming wellness industry.",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-11-20T06:00:01+00:00",
+      "sentiment": "positive",
+      "confidence": 0.5,
+      "evidence": "Iceland’s famed Blue Lagoon geothermal spa is going public"
+    },
     {
       "id": "6db70951bf71372dc20e7e654c463fe8b9f5bd57",
       "title": "Ireland to boycott Eurovision again over Israeli participation and ongoing Gaza deaths",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.5,
       "evidence": "referendum on the resumption of Iceland's European Union membership negotiations."
-    },
-    {
-      "id": "0976a5fd3b88c9f85ea90117c4c1a6d90c9d7439",
-      "title": "Iceland’s Murder Rate Is Off the Charts — in Its Books, at Least",
-      "summary": "The Nordic nation has almost no homicides, yet crime fiction is its favorite literary genre. That means writers face a challenge: making murder feel believable.",
-      "url": "https://www.nytimes.com/2026/08/24/books/iceland-crime-fiction.html",
-      "source": "NYT > World News",
-      "published_at": "2026-08-24T09:02:16+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Iceland’s Murder Rate Is Off the Charts"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-21T16:50:46Z"
+  "last_updated": "2026-11-22T17:08:36Z"
 }

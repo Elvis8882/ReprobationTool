@@ -1,16 +1,38 @@
 {
   "country": "IL",
   "score": 1,
-  "score_label": "Caution",
-  "assessment": "Moderate negative coverage",
+  "score_label": "Negative",
+  "assessment": "High negative coverage",
   "trend": 0,
   "sources": 565,
   "sentiment": {
     "positive": 11,
-    "neutral": 273,
-    "negative": 282
+    "neutral": 272,
+    "negative": 283
   },
   "latest_articles": [
+    {
+      "id": "6e851483660ce9edc7cca47233d25abd53d0e3ab",
+      "title": "\"Jewish Terrorism\": Gadi Eisenkot Slams West Bank Attacks By Israeli Settlers",
+      "summary": "Israeli police said they had opened an investigation into the attacks",
+      "url": "https://www.ndtv.com/world-news/jewish-terrorism-gadi-eisenkot-slams-west-bank-attacks-by-israeli-settlers-12362681#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-22T14:40:11+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Gadi Eisenkot Slams West Bank Attacks By Israeli Settlers"
+    },
+    {
+      "id": "ec1b9724ab056d57fec63f0ba8b609176603d207",
+      "title": "Arson attacks by Israeli settlers in West Bank add to tense political debate",
+      "summary": "Opposition leader Gadi Eisenkot called the attacks “Jewish terrorism,” while Netanyahu backers accused Eisenkot of courting Arab parties to form a government.",
+      "url": "https://www.washingtonpost.com/world/2026/11/22/arson-attacks-by-israeli-settlers-west-bank-add-tense-political-debate/",
+      "source": "World (Washington post)",
+      "published_at": "2026-11-22T12:44:16+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Arson attacks by Israeli settlers in West Bank add to tense political debate"
+    },
     {
       "id": "b468c7256ded1f305a536a09cb346f57a483d3b1",
       "title": "Hit By Iran War, Israel Pivots To Cheaper Air Defence Amid Rising Tensions",
@@ -32,6 +54,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Israel has rejected the charge."
+    },
+    {
+      "id": "f3004053344a286295eb49bbe7789446090258ae",
+      "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
+      "summary": "Hailed as ‘a rare moment of justice’, judges’ decision sets out a roadmap for assessing the question of intentThe international court of justice (ICJ) verdict making Myanmar the first country in history to be found guilt…",
+      "url": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-19T17:14:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "messages’ for Israel"
     },
     {
       "id": "c3261a1d086e0f1f0aa788ca2da7f58314b6212b",
@@ -122,6 +155,17 @@
       "evidence": "could set precedent for court’s judgment on Israel’s actions in Gaza"
     },
     {
+      "id": "fa52a135487f68facaa204127be3758bb19b50a3",
+      "title": "Iran's Army Chief Threatens \"More Devastating\" Response If Attacked",
+      "summary": "Iran has been at war since February 28 when US-Israeli strikes killed its supreme leader. (File)",
+      "url": "https://www.ndtv.com/world-news/irans-army-chief-threatens-more-devastating-response-if-attacked-12343224#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-18T09:38:46+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "US-Israeli strikes killed its supreme leader"
+    },
+    {
       "id": "253d55efc9877a4bacfd0f8f8eea7140ef85606c",
       "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
       "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loansThe European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landma…",
@@ -186,52 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Anti-Arab hate speech surged on social media during Israel’s election"
-    },
-    {
-      "id": "4b6f10c89569f078133ed560a40452d41c939272",
-      "title": "UK sanctions firms over Israeli West Bank settlements",
-      "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-      "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-11-17T17:41:49+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Israeli West Bank settlements"
-    },
-    {
-      "id": "72dd44c31a08d54757538e3bd24146c2a57e11b3",
-      "title": "UK sanctions eight Israeli firms over West Bank settlements, targets Gaza aid-blocking group",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/uk/uk-sanctions-eight-israeli-firms-over-west-bank-settlements-targets-gaza-aid-blocking-group/articleshow/135933959.cms",
-      "source": "World News Headlines, Latest International News, World Breaking News - Times of India",
-      "published_at": "2026-11-17T17:01:33+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "UK sanctions eight Israeli firms over West Bank settlements"
-    },
-    {
-      "id": "43de0c327b0e7a62a03edcd2cc5c79ac71383190",
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-11-17T15:36:11+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Palestinian woman, 72, shot dead by Israeli settlers"
-    },
-    {
-      "id": "dd6353a4b3aabf83b0917b65695f3fc5e24042ec",
-      "title": "Netanyahu is pushing for new Iran attack in bid to stay in power, his rivals warn",
-      "summary": "Before the Israeli election, Prime Minister Benjamin Netanyahu agitated for fresh strikes on Iran, four people with knowledge of the matter said. Opposition leaders remain alarmed.",
-      "url": "https://www.washingtonpost.com/world/2026/11/17/netanyahu-is-pushing-new-iran-attack-bid-stay-power-his-rivals-warn/",
-      "source": "World (Washington post)",
-      "published_at": "2026-11-17T14:26:31+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Netanyahu is pushing for new Iran attack"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-21T16:50:46Z"
+  "last_updated": "2026-11-22T17:08:36Z"
 }

@@ -4,13 +4,35 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 268,
+  "sources": 270,
   "sentiment": {
-    "positive": 20,
+    "positive": 21,
     "neutral": 120,
-    "negative": 130
+    "negative": 131
   },
   "latest_articles": [
+    {
+      "id": "2d7d190b4c02be5b12ad8c6a07af3797e169bb24",
+      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+      "summary": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+      "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-22T16:32:44+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Saudi Arabia and other oil producers blocked any mention of phasing out coal"
+    },
+    {
+      "id": "4376aeb534965682f838c104282b21f76171db08",
+      "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+      "summary": "Saudi Arabia said it destroyed a drone launched by Iran-backed Houthis, while Bahrain said an industrial facility was hit by Iranian projectiles.",
+      "url": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-11-22T13:25:47+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Saudi Arabia said it destroyed a drone launched by Iran-backed Houthis"
+    },
     {
       "id": "432c7799e56bb9b254e76e5028a16f9e18b22c3c",
       "title": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
@@ -208,30 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Saudi national Abdulrahman Alfozan is charged"
-    },
-    {
-      "id": "0161e188ff477670fcd5a1e3fa9f931287353d43",
-      "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
-      "summary": "The attack in October cast a spotlight on civilian casualties in the Saudi-led and U.S.-assisted bombing campaign against the Houthis.",
-      "url": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-06T16:24:28+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members"
-    },
-    {
-      "id": "97a61a9c26a187c3734a1fcfddc228f1e66cdd67",
-      "title": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
-      "summary": "Dismissals follow Houthi victories and pressure from southern Yemenis for more powerThe UN-recognised government of Yemen has shaken up its political and military leadership in an attempt to regain territory lost to the…",
-      "url": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-05T13:47:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Saudi Arabia – which has had to fend off near-daily Houthi attacks"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-21T16:50:46Z"
+  "last_updated": "2026-11-22T17:08:36Z"
 }
