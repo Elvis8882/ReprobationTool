@@ -1,0 +1,41 @@
+{
+  "id": "4da7a52bff2e9159ab0914b10c91e81e31490b39",
+  "title": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
+  "summary_full": "“We are not in war, but we are certainly not in peace anymore, either,” Germany’s foreign minister said after Russian missiles crashed onto Polish territory.",
+  "summary_public": "“We are not in war, but we are certainly not in peace anymore, either,” Germany’s foreign minister said after Russian missiles crashed onto Polish territory.",
+  "url": "https://www.washingtonpost.com/world/2026/11/23/nato-calls-urgent-meeting-string-incidents-escalates-russia-tensions/",
+  "published_at": "2026-11-23T18:58:51+00:00",
+  "source": "World (Washington post)",
+  "language": "en",
+  "countries_detected": [
+    "DE",
+    "PL",
+    "RU"
+  ],
+  "countries_scored": [
+    "DE",
+    "PL",
+    "RU"
+  ],
+  "sentiment_by_country": {
+    "DE": {
+      "label": "neutral",
+      "confidence": 0.3,
+      "evidence": "Germany’s foreign minister said after Russian missiles crashed onto Polish territory."
+    },
+    "PL": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Russian missiles crashed onto Polish territory."
+    },
+    "RU": {
+      "label": "negative",
+      "confidence": 0.8,
+      "evidence": "Russian missiles crashed onto Polish territory."
+    }
+  },
+  "llm_version": "v3-eu",
+  "llm_perspective": "EU",
+  "llm_attempted_at": "2026-11-23T21:07:32+00:00",
+  "processed_at": "2026-11-23T21:07:32+00:00"
+}

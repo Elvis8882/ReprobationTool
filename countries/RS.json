@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 32,
+  "sources": 33,
   "sentiment": {
     "positive": 11,
     "neutral": 10,
-    "negative": 11
+    "negative": 12
   },
   "latest_articles": [
+    {
+      "id": "09653e23247a4b30b0e5e21794d29df972a82f9b",
+      "title": "\"Death Awaits You\": Over 450 German Schools Receive Bomb Threat",
+      "summary": "In recent weeks, schools in Italy, Britain, Hungary and Serbia have been sent hoax bomb threats.",
+      "url": "https://www.ndtv.com/world-news/death-awaits-you-over-450-german-schools-receive-bomb-threat-12366398#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-23T12:36:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "schools in Serbia have been sent hoax bomb threats"
+    },
     {
       "id": "4c37662ed4dcfc817ff174f4a5fa6e2ca30f5922",
       "title": "They Defeated a Strongman. But Can They Run a Country?",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Serbia Votes for a New Parliament"
-    },
-    {
-      "id": "c4c48ac6498255104cb2f3085d4bd1ba5ecb8fe8",
-      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-      "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-10-23T23:08:23+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "Student List has emerged from almost two years of anti-corruption protests"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-22T17:08:36Z"
+  "last_updated": "2026-11-23T21:07:32Z"
 }

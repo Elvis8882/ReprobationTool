@@ -1,16 +1,48 @@
 {
   "country": "DE",
-  "score": 37,
+  "score": 38,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 294,
+  "trend": 1,
+  "sources": 293,
   "sentiment": {
     "positive": 28,
     "neutral": 171,
-    "negative": 95
+    "negative": 94
   },
   "latest_articles": [
+    {
+      "id": "4da7a52bff2e9159ab0914b10c91e81e31490b39",
+      "title": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
+      "summary": "“We are not in war, but we are certainly not in peace anymore, either,” Germany’s foreign minister said after Russian missiles crashed onto Polish territory.",
+      "url": "https://www.washingtonpost.com/world/2026/11/23/nato-calls-urgent-meeting-string-incidents-escalates-russia-tensions/",
+      "source": "World (Washington post)",
+      "published_at": "2026-11-23T18:58:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Germany’s foreign minister said after Russian missiles crashed onto Polish territory."
+    },
+    {
+      "id": "43bdbf3bb830c317b576ec28554041f5e5964216",
+      "title": "Latvia lodges a protest with the Russian Federation regarding the consequences of its war of aggression against Ukraine and violations of the airspace of European Union and NATO member states - Ārlietu ministrija",
+      "summary": "Latvia lodges a protest with the Russian Federation regarding the consequences of its war of aggression against Ukraine and violations of the airspace of European Union and NATO member states&nbsp;&nbsp;Ārlietu ministrij…",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNcWNOTjAtT1Y0VFlHWE9QdkZzNV9oelRzdW5Hb3JxNTlRdmNPX0JyYzRZTGtCTlpWVXlaaDRRR25Zb3NwaW8wMzl1VHhtZGxlaTlKU1JNQnZEb1B0THpDTTZhblVvUFRQZG9OVTFrbHFESnljYmN6Mko4NTJKOW0zek5yQ2hteUNEbnFZd3V6QS1LU3V4RHBmUzlubW9Wci1ITWFvWHFwWnV2ZnM0SmhncV9yZGhZZGVHdkRoTFF1QzMxcGhQYlRTYTFFbXBWWWcwcVBoQlVybDE3WnlCTFozVm90Vm5hUDVpZGJVdTdyRnl4NFdhOVE4dDNPVm04VTRfeG5EN21wY1JweUxObTZ1TUdEMFlZb015TGZwbFptbw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-11-23T18:57:13+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "09653e23247a4b30b0e5e21794d29df972a82f9b",
+      "title": "\"Death Awaits You\": Over 450 German Schools Receive Bomb Threat",
+      "summary": "In recent weeks, schools in Italy, Britain, Hungary and Serbia have been sent hoax bomb threats.",
+      "url": "https://www.ndtv.com/world-news/death-awaits-you-over-450-german-schools-receive-bomb-threat-12366398#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-23T12:36:29+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "Over 450 German Schools Receive Bomb Threat"
+    },
     {
       "id": "a0149a11303781b27694a5973394557339d983f2",
       "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
@@ -187,38 +219,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Russia is accused of clandestine attacks on Ukraine’s allies in Europe"
-    },
-    {
-      "id": "253d55efc9877a4bacfd0f8f8eea7140ef85606c",
-      "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
-      "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loansThe European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landma…",
-      "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-18T05:00:32+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "23d25a05deabc44512ebdc7df7464e60d08c468e",
-      "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
-      "summary": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free accessThe decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exc…",
-      "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-17T21:49:29+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "2cde503d4bfa3a49615bf74fe1a84d438048d8c6",
-      "title": "Appointments to the EU Court of Justice: eighth activity report of the Article 255 panel published - Council, European Union",
-      "summary": "Appointments to the EU Court of Justice: eighth activity report of the Article 255 panel published&nbsp;&nbsp;Council, European Union",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMHNzVHFZdjNKYVc0dWtsNkd0cXlVNVlFSkVYS3hUMVBYejl1R3cyLWFCWjdIQkhqOEFibGJOQkQybXMzUGF3RnFoNUlQTExzM21xdHJteVZBVW1JSWdxbHIxd1E5aTNZUkdteEc4V0ZhTnZObi1HRG5EVFZKTVNXM1Y0TXVqWU8tY24ySVE1ZUpqTEgxY3hzOTIydFhfLV95NlJQZGx3OEcyOVlnUm5waVItZlFLRTZEMm1NOUFMSXRKQ19JTjJxcTNXN053bm1fR1Y0R1ZxT1lxZFNXZE0xcTFSNkhacWdTSWEwcmNWTjBSSHhTUlRSRw?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-11-17T17:37:18+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-22T17:08:36Z"
+  "last_updated": "2026-11-23T21:07:32Z"
 }

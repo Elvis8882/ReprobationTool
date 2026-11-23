@@ -1,16 +1,27 @@
 {
   "country": "SA",
-  "score": 15,
+  "score": 14,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
+  "trend": -1,
   "sources": 270,
   "sentiment": {
     "positive": 21,
-    "neutral": 120,
-    "negative": 131
+    "neutral": 119,
+    "negative": 132
   },
   "latest_articles": [
+    {
+      "id": "33613d30a88c11ddef0a566397423ef736a69d8d",
+      "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+      "summary": "Yemen's Iran-aligned Houthis claimed an operation against Saudi Arabia's Rabigh oil refinery, as diplomatic efforts to end the war face long odds.",
+      "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-11-23T03:52:17+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes"
+    },
     {
       "id": "2d7d190b4c02be5b12ad8c6a07af3797e169bb24",
       "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Saudi-backed government reignited in August"
-    },
-    {
-      "id": "21cf97eeaf11ae09bea2c5baf25b8554840f70c2",
-      "title": "OpenAI bugging suspect Alfozan pleads not guilty",
-      "summary": "Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
-      "url": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-11-06T21:15:47+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Saudi national Abdulrahman Alfozan is charged"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-22T17:08:36Z"
+  "last_updated": "2026-11-23T21:07:32Z"
 }
