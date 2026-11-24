@@ -1,16 +1,37 @@
 {
   "country": "DE",
-  "score": 38,
+  "score": 39,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 1,
-  "sources": 293,
+  "sources": 294,
   "sentiment": {
     "positive": 28,
-    "neutral": 171,
-    "negative": 94
+    "neutral": 173,
+    "negative": 93
   },
   "latest_articles": [
+    {
+      "id": "094d704d9aa5409c4e8f9e0b8db2734b5e8cff34",
+      "title": "EU to impose cap on Chinese hybrid EV imports next month",
+      "summary": "Temporary quotas on vehicles entering the bloc will also apply to cars from the UK, Japan and TurkeyThe EU will next month impose its threatened caps on the number of Chinese hybrid cars that can be imported into the blo…",
+      "url": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-24T10:59:40+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "9e8a6a2e3dbf5eabda3022011ecf11057f8d7af6",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-24T10:58:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "German media said Russia planned to launch a satellite"
+    },
     {
       "id": "4da7a52bff2e9159ab0914b10c91e81e31490b39",
       "title": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
@@ -29,6 +50,16 @@
       "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNcWNOTjAtT1Y0VFlHWE9QdkZzNV9oelRzdW5Hb3JxNTlRdmNPX0JyYzRZTGtCTlpWVXlaaDRRR25Zb3NwaW8wMzl1VHhtZGxlaTlKU1JNQnZEb1B0THpDTTZhblVvUFRQZG9OVTFrbHFESnljYmN6Mko4NTJKOW0zek5yQ2hteUNEbnFZd3V6QS1LU3V4RHBmUzlubW9Wci1ITWFvWHFwWnV2ZnM0SmhncV9yZGhZZGVHdkRoTFF1QzMxcGhQYlRTYTFFbXBWWWcwcVBoQlVybDE3WnlCTFozVm90Vm5hUDVpZGJVdTdyRnl4NFdhOVE4dDNPVm04VTRfeG5EN21wY1JweUxObTZ1TUdEMFlZb015TGZwbFptbw?oc=5",
       "source": "Top stories - Google News",
       "published_at": "2026-11-23T18:57:13+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "6ce3a108ac4bcdbe387de95de6709e82f06619e1",
+      "title": "Russian diplomat summoned yet again by Latvia over ongoing aggression",
+      "summary": "On 23rd November 2026, the Chargé d’Affaires ad interim of the Russian Embassy in Rīga was summoned to the Ministry of Foreign Affairs to lodge a protest with the Russian Federation over the consequences of its war of ag…",
+      "url": "https://eng.lsm.lv/article/politics/diplomacy/23.11.2026-russian-diplomat-summoned-yet-again-by-latvia-over-ongoing-aggression.a673122/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "source": "LSM (English)",
+      "published_at": "2026-11-23T17:32:00+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -188,39 +219,8 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "meeting western leaders in Berlin and Brussels to discuss Ukraine"
-    },
-    {
-      "id": "89cb1d80a52448b4b058c63b2f12fea2edaaa1a5",
-      "title": "What is at stake at the EU-UK summit in Brussels?",
-      "summary": "Leaders will wrestle with easing Brexit red tape, restoring emissions trading and opening up youth mobilityUK politics live – latest updatesThe EU and UK will hold a long-awaited summit in Brussels on Friday – the second…",
-      "url": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-19T13:11:23+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "063064e62da66f51688c41a34570a6475ce9521d",
-      "title": "Undoing Brexit",
-      "summary": "Prime Minister Andy Burnham wants a reset with the European Union. Reversing a decade of separation won’t be easy.",
-      "url": "https://www.nytimes.com/2026/11/18/world/19int-theworld-brexit-trump-xi-putin.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-19T05:48:05+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "5b88b4fd6d0410db23403864e11b8a76bad11b5f",
-      "title": "These Villagers Wonder if They’re on the Front Line of Russia’s Shadow War",
-      "summary": "Russia is accused of clandestine attacks on Ukraine’s allies in Europe, most notably at Leipzig/Halle airport in eastern Germany. That has changed life for villagers nearby.",
-      "url": "https://www.nytimes.com/2026/11/18/world/europe/liepzig-airport-drone-attack-russia-ukraine-war.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-18T05:01:06+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Russia is accused of clandestine attacks on Ukraine’s allies in Europe"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-23T21:07:32Z"
+  "last_updated": "2026-11-24T20:14:48Z"
 }

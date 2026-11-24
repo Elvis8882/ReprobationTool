@@ -4,13 +4,24 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 31,
+  "sources": 32,
   "sentiment": {
     "positive": 2,
-    "neutral": 15,
+    "neutral": 16,
     "negative": 14
   },
   "latest_articles": [
+    {
+      "id": "a335b2737bc22873763ebdb5d82b3c2ccf620661",
+      "title": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
+      "summary": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
+      "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-24T19:33:40+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region"
+    },
     {
       "id": "0045ca931e1599fd5190442dd1877241fa50500f",
       "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "drone attack launched from Iraq."
-    },
-    {
-      "id": "3963fa9128c719eaeaa6d43651ecbb6f80ea8571",
-      "title": "First Thing: Oil prices surge as attacks on Saudi Arabia stoke supply fears",
-      "summary": "Strike on kingdom’s east-west pipeline could affect 4% of global oil supply. Plus, report reveals British monarchy’s role in financing slave tradeDon’t already get First Thing in your inbox? Sign up hereGood morning. Oil…",
-      "url": "https://www.theguardian.com/us-news/2026/sep/14/first-thing-oil-prices-surge-houthi-attack-saudi-arabia-supply-fears",
-      "source": "World news - The Guardian",
-      "published_at": "2026-09-14T11:29:20+00:00",
-      "sentiment": "negative",
-      "confidence": 0.5,
-      "evidence": "attacks were launched from its territory"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-23T21:07:32Z"
+  "last_updated": "2026-11-24T20:14:48Z"
 }

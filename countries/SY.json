@@ -7,10 +7,21 @@
   "sources": 23,
   "sentiment": {
     "positive": 1,
-    "neutral": 9,
-    "negative": 14
+    "neutral": 8,
+    "negative": 15
   },
   "latest_articles": [
+    {
+      "id": "1d9e85a585e1566431c6a9dc26cf253c71f0b1a5",
+      "title": "Land mine casualties soar in Syria, two years after war",
+      "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+      "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-24T15:17:28+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Land mine casualties soar in Syria, two years after war"
+    },
     {
       "id": "1d4041fe2243253a06d91eb3bcfc00a786ef2bc4",
       "title": "Syria Weighs Sending Troops to Aid Saudi War With Houthis",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.8,
       "evidence": "Syrian reactor could have been used for nuclear weapons"
-    },
-    {
-      "id": "5a96500539c79676c0732f3c5b36b947e26af90b",
-      "title": "Syria, eyeing role as Middle East hub, offers options to bypass Hormuz",
-      "summary": "The wartime blockage of cargo traffic in the Strait of Hormuz is a boon for Syria, which is poised to capitalize on a need for alternative transit routes for oil.",
-      "url": "https://www.washingtonpost.com/world/2026/09/02/syria-eyeing-role-middle-east-hub-offers-options-bypass-hormuz/",
-      "source": "World (Washington post)",
-      "published_at": "2026-09-02T09:00:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "boon for Syria, which is poised to capitalize on a need"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-23T21:07:32Z"
+  "last_updated": "2026-11-24T20:14:48Z"
 }

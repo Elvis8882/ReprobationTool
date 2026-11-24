@@ -4,13 +4,24 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 33,
+  "sources": 34,
   "sentiment": {
     "positive": 2,
-    "neutral": 14,
+    "neutral": 15,
     "negative": 17
   },
   "latest_articles": [
+    {
+      "id": "729ee0028e4e790c29944e4e29fbce2e69521710",
+      "title": "Twenty Gaza students due to leave for Ireland after winning visa battle",
+      "summary": "Group’s evacuation follows campaign to overturn decision to deny visas to more than 60 students from territoryTwenty students from Gaza are to travel to Ireland to take up scholarships after winning a battle for visas th…",
+      "url": "https://www.theguardian.com/world/2026/nov/23/students-from-gaza-win-visa-battle-to-study-in-ireland",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-23T13:03:14+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "travel via Jordan to Dublin"
+    },
     {
       "id": "e83bd04e61d4741fc66ef41bfa9eaddce3c696ca",
       "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
@@ -219,19 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.7,
       "evidence": "Jordan’s King Abdullah Likely to Focus on Palestinians"
-    },
-    {
-      "id": "b4a09d2fc6c49d0c64d1a995fb3b8a12b075b382",
-      "title": "Several US Warplanes Damaged In Iranian Strike On Jordan: Report",
-      "summary": "One A-10 Thunderbolt, known as the Warthog, was struck and left with a missing wing, while roughly eight F-15s sustained light damage, the report said.",
-      "url": "https://www.ndtv.com/world-news/several-us-war-planes-damaged-in-iranian-strike-on-jordan-report-12026179#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-10T04:32:04+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "US Warplanes Damaged In Iranian Strike On Jordan"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-23T21:07:32Z"
+  "last_updated": "2026-11-24T20:14:48Z"
 }

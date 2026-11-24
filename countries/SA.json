@@ -1,16 +1,27 @@
 {
   "country": "SA",
-  "score": 14,
+  "score": 15,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": -1,
+  "trend": 1,
   "sources": 270,
   "sentiment": {
     "positive": 21,
-    "neutral": 119,
-    "negative": 132
+    "neutral": 120,
+    "negative": 131
   },
   "latest_articles": [
+    {
+      "id": "36c78f75926465d5820df934ac03aa63cca75016",
+      "title": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+      "summary": "The people were wounded in the strike on a building in Riyadh, the Saudi authorities said. The Iran-backed militia and Saudi Arabia have been exchanging escalating attacks for weeks.",
+      "url": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-24T19:18:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11"
+    },
     {
       "id": "33613d30a88c11ddef0a566397423ef736a69d8d",
       "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
@@ -219,19 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "33 killed in Saudi air strike"
-    },
-    {
-      "id": "040d8b94b989b09e7f0675256485cf10e5335200",
-      "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
-      "summary": "Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price.",
-      "url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-07T16:39:31+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Saudi-backed government reignited in August"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-23T21:07:32Z"
+  "last_updated": "2026-11-24T20:14:48Z"
 }
