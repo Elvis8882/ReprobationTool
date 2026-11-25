@@ -1,16 +1,27 @@
 {
   "country": "IE",
-  "score": 96,
+  "score": 95,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 194,
+  "trend": -1,
+  "sources": 195,
   "sentiment": {
     "positive": 18,
     "neutral": 162,
-    "negative": 14
+    "negative": 15
   },
   "latest_articles": [
+    {
+      "id": "ff16e47c0dbb0f2a732ea616df8f4cf8ab02ec4f",
+      "title": "Poundland collapses into administration, putting 12,000 jobs at risk",
+      "summary": "US owner Gordon Brothers rejected at least two last-ditch bids for UK budget retailerDo you work for Poundland? Tell us how you’re affectedPoundland has called in administrators, putting 12,000 jobs at risk in the run-up…",
+      "url": "https://www.theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-25T16:41:08+00:00",
+      "sentiment": "negative",
+      "confidence": 0.6,
+      "evidence": "600 stores in the UK and Ireland... significant job losses"
+    },
     {
       "id": "9f976c330c9ca685ae802a09c39e3addc113f590",
       "title": "Irish plan offers Burnham breakthrough on Made in Europe",
@@ -49,6 +60,16 @@
       "url": "https://eng.lsm.lv/article/politics/diplomacy/23.11.2026-russian-diplomat-summoned-yet-again-by-latvia-over-ongoing-aggression.a673122/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "source": "LSM (English)",
       "published_at": "2026-11-23T17:32:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "77ece0992320838f498495d3229018a022214933",
+      "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
+      "summary": "European Commission president Ursula von der Leyen sets out 22nd package of sanctionsTurning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “crucial supplies” or air defence weapons and ammunition to Uk…",
+      "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-23T16:42:56+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -195,29 +216,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Last Friday’s summit in Dublin"
-    },
-    {
-      "id": "6955630a856367cd8d2c7e61963e0fde08034089",
-      "title": "Irish Man Sabotaged U.S. Military Plane With Ax and Chemicals, Prosecutors Say",
-      "summary": "Daithi O’Corrain sealed himself inside a National Guard C-130 at Ireland’s Shannon Airport in April for hours, causing so much damage that the aircraft was retired from service, prosecutors said.",
-      "url": "https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-18T14:59:03+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Irish Man Sabotaged U.S. Military Plane"
-    },
-    {
-      "id": "253d55efc9877a4bacfd0f8f8eea7140ef85606c",
-      "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
-      "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loansThe European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landma…",
-      "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-18T05:00:32+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-24T20:14:48Z"
+  "last_updated": "2026-11-25T19:14:38Z"
 }

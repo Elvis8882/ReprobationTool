@@ -1,16 +1,27 @@
 {
   "country": "CH",
-  "score": 78,
+  "score": 82,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": 4,
   "sources": 44,
   "sentiment": {
-    "positive": 2,
-    "neutral": 41,
+    "positive": 3,
+    "neutral": 40,
     "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "bb3a04fba478d172308c0f65b7a173a353783f3b",
+      "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
+      "summary": "The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.",
+      "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-25T17:00:24+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Switzerland’s decision to impose sanctions on an international youth camp"
+    },
     {
       "id": "7f8a80f31c704b4a5ff97051e072f80b4a5c5ec3",
       "title": "U.N. Starts Uncertain Effort to Regulate Lethal Autonomous Weapons",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Swiss luxury watchmaker Audemars Piguet says its sales"
-    },
-    {
-      "id": "aea272cade748332822dcd2e903afc77f8048581",
-      "title": "Air India Pilot Found Drunk Shortly Before Zurich-Delhi Flight, Suspended",
-      "summary": "He was found drunk before the Zurich-Delhi flight on September 6 (File)",
-      "url": "https://www.ndtv.com/india-news/air-india-pilot-fails-alcohol-test-before-zurich-delhi-flight-suspended-12096297#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-09-25T08:21:36+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Zurich-Delhi Flight"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-24T20:14:48Z"
+  "last_updated": "2026-11-25T19:14:38Z"
 }

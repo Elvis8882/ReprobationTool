@@ -1,16 +1,27 @@
 {
   "country": "ME",
-  "score": 70,
+  "score": 78,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
-  "sources": 5,
+  "trend": 8,
+  "sources": 6,
   "sentiment": {
-    "positive": 1,
+    "positive": 2,
     "neutral": 3,
     "negative": 1
   },
   "latest_articles": [
+    {
+      "id": "c311e010d0f03695e06685684e7c50ed70542067",
+      "title": "Latvia calls out Russia's chemical weapons violations",
+      "summary": "On 23rd November 2026, at the 31st Session of the Conference of the States Parties to the Organisation for the Prohibition of Chemical Weapons (OPCW) in The Hague (Netherlands), Latvia and Montenegro were confirmed as Vi…",
+      "url": "https://eng.lsm.lv/article/politics/diplomacy/25.11.2026-latvia-calls-out-russias-chemical-weapons-violations.a673484/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "source": "LSM (English)",
+      "published_at": "2026-11-25T15:46:53+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Montenegro were confirmed as Vice-Chairs to the Conference"
+    },
     {
       "id": "2f81cb5bc6f6eebba45c332b619eb53942e1080d",
       "title": "Montenegro faces 10-year probation period after joining EU - Euronews.com",
@@ -68,5 +79,5 @@
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-24T20:14:48Z"
+  "last_updated": "2026-11-25T19:14:38Z"
 }

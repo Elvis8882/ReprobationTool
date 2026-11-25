@@ -1,16 +1,82 @@
 {
   "country": "SA",
-  "score": 15,
+  "score": 14,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 1,
-  "sources": 270,
+  "trend": -1,
+  "sources": 276,
   "sentiment": {
-    "positive": 21,
-    "neutral": 120,
-    "negative": 131
+    "positive": 22,
+    "neutral": 124,
+    "negative": 132
   },
   "latest_articles": [
+    {
+      "id": "732fd1570f14ddbedc9e7c14f9f8f828db630f7e",
+      "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+      "summary": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
+      "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-11-25T15:55:40+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Saudi national charged in OpenAI bugging"
+    },
+    {
+      "id": "43206f7c8d28f159d8b05d64d05b06a5074da0a2",
+      "title": "Saudi PIF looking to sell minority stake in Newcastle: report - France 24",
+      "summary": "Saudi PIF looking to sell minority stake in Newcastle: report&nbsp;&nbsp;France 24Saudi Arabia’s PIF looking to sell 25% of Newcastle through share issue&nbsp;&nbsp;The GuardianNewcastle owners to sell up to 25 per cent…",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVjhwcFJJa2JSanFiM0NVc21VVzU3dFZUdnRZSlgzUFJHR25RN0JVRThvc1c3djFvTS1IOGJ6amFSVHl1akpieWNnUDFhTF9SZVhHWDlKejRfYlFibER6Nl9tbEFoWm1HRC1NUTVoeXV5d0VDckx0RmR5bElZNUhHNXNVWUthRHdtNUVvRG5MQmVDMnlxWnFfMTRhLWpjaUk3TDlZV3FKcTh6WFk?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-11-25T15:41:15+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.2,
+      "evidence": "Saudi PIF looking to sell minority stake in Newcastle"
+    },
+    {
+      "id": "5e34a7a9f855842ac210c55346dbb859b5a2dde2",
+      "title": "How an Iranian Ally Gained the Upper Hand in Yemen’s War",
+      "summary": "The Iran-backed Houthis are on a winning streak, securing strategic territory as they fight Saudi Arabia and its Yemeni allies in an asymmetrical war of attrition.",
+      "url": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-25T13:59:32+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "fight Saudi Arabia and its Yemeni allies"
+    },
+    {
+      "id": "953d87ae028265e1004161253f09b21933ddcaf7",
+      "title": "\"No Spy Story\": Saudi Man Who Bugged OpenAI Office In US Gets Bail",
+      "summary": "Alfozan is expected to be released on Wednesday.",
+      "url": "https://www.ndtv.com/world-news/no-spy-story-saudi-man-who-bugged-openai-office-in-us-gets-bail-12374664#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-25T08:59:06+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Saudi Man Who Bugged OpenAI Office In US Gets Bail"
+    },
+    {
+      "id": "52b867026bfc0ee09028ef1f9546ee091e9471bd",
+      "title": "‘They don’t believe in freedom’: Yemenis plan their escape as Houthis advance on Aden",
+      "summary": "With Iran’s proxy fighters encircling the temporary capital, residents and NGOs prepare to evacuateHussein fled his home six years ago after it fell under Houthi control, moving as far south as he could to the port city…",
+      "url": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-25T05:00:06+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "The Saudi-backed Yemeni government"
+    },
+    {
+      "id": "32626707c81e6f583de58475c45cf7056b88dba7",
+      "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
+      "summary": "This has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties.",
+      "url": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
+      "source": "International: Top News And Analysis",
+      "published_at": "2026-11-25T02:36:43+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower"
+    },
     {
       "id": "36c78f75926465d5820df934ac03aa63cca75016",
       "title": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
@@ -21,6 +87,17 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11"
+    },
+    {
+      "id": "ace4ae954c588b8714f0d40b2eb4114575a6b7f0",
+      "title": "Riyadh's Tallest Skyscraper Hit By Airstrikes For Second Time In A Week",
+      "summary": "The Houthis have stepped up their attacks against Saudi Arabia in recent weeks",
+      "url": "https://www.ndtv.com/world-news/riyadhs-tallest-skyscraper-hit-by-airstrikes-for-second-time-in-a-week-12371632#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-24T14:29:59+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "attacks against Saudi Arabia in recent weeks"
     },
     {
       "id": "33613d30a88c11ddef0a566397423ef736a69d8d",
@@ -153,85 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.1,
       "evidence": "in Riyadh"
-    },
-    {
-      "id": "e0fd4668b4a94ec7868aeb11bc5c59eae5d67a41",
-      "title": "Woman in Saudi Arabia sentenced to 100 lashes for giving birth outside marriage",
-      "summary": "Rights groups condemn reported punishment of Kenyan migrant worker as an ‘act of violence’A Kenyan mother in Saudi Arabia has reportedly been sentenced to 100 lashes after giving birth outside marriage.Under the Saudi sh…",
-      "url": "https://www.theguardian.com/global-development/2026/nov/11/woman-in-saudi-arabia-sentenced-to-100-lashes-for-giving-birth-outside-marriage",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-11T09:15:44+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Woman in Saudi Arabia sentenced to 100 lashes for giving birth outside marriage"
-    },
-    {
-      "id": "1d4041fe2243253a06d91eb3bcfc00a786ef2bc4",
-      "title": "Syria Weighs Sending Troops to Aid Saudi War With Houthis",
-      "summary": "Syrian reconnaissance teams have visited Saudi Arabia and Yemen ahead of a potential deployment, but a final decision has not been made, officials said.",
-      "url": "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-10T16:43:59+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Syria Weighs Sending Troops to Aid Saudi War With Houthis"
-    },
-    {
-      "id": "9f79baa09d4c5182b2f856659a21fe7ca2a2c7a2",
-      "title": "Kenyan Domestic Worker Sentenced to 100 Lashes in Saudi Arabia",
-      "summary": "The kingdom’s promised reforms don’t always match the realities of its justice system. Unmarried women, particularly foreign workers, face unique perils.",
-      "url": "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-10T12:57:00+00:00",
-      "sentiment": "negative",
-      "confidence": 0.6,
-      "evidence": "kingdom’s promised reforms don’t always match the realities of its justice system."
-    },
-    {
-      "id": "e3ea76da74a2bce7d66ce33aed411876e2fd39ad",
-      "title": "Aramco Skyscraper In Riyadh Damaged In \"Attempted Attack\"",
-      "summary": "Witnesses confirmed seeing damage to the building.",
-      "url": "https://www.ndtv.com/world-news/aramco-skyscraper-in-riyadh-damaged-in-attempted-attack-12300454#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-11-08T13:09:51+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Aramco Skyscraper In Riyadh Damaged In \"Attempted Attack\""
-    },
-    {
-      "id": "507618f2546fe2c7d0a8b94d1da203275356eaf7",
-      "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
-      "summary": "The Saudi authorities said no one was injured and that “falling shrapnel” from an intercepted missile had hit the building in the capital’s financial district.",
-      "url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-08T13:05:01+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh"
-    },
-    {
-      "id": "4c747d0edeacd88ca1f6c0688edf4316ba7a93a7",
-      "title": "Sergio Garcia reveals what Luke Donald has already told him about the Ryder Cup ahead of Adare Manor - Yahoo Sports",
-      "summary": "Sergio Garcia reveals what Luke Donald has already told him about the Ryder Cup ahead of Adare Manor&nbsp;&nbsp;Yahoo Sports1 rule convinced Rory McIlroy to keep DP World Tour membership | News&nbsp;&nbsp;GOLF.comPaul Mc…",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa3ZVaFg4S2NQVWx1YnJidG5PU0JkNko2ZGl1bWlpM2FIX2pSa3BYMEdsUGJwRkdLZFM3TDFxT1hoUE9MUXlHRU1Va05ad3B5TUZBZllvRExjM1RDdW9OWC04TDQyN2htdlp5YnNzRmF1OGJCbGVNby1PamdmV1huVEplMlBBeTZfR2c?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-11-08T12:30:00+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "taking Saudi money"
-    },
-    {
-      "id": "b3534df0c8743592225e3ea5e38a9511b923dcf1",
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-11-08T04:03:12+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "33 killed in Saudi air strike"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-24T20:14:48Z"
+  "last_updated": "2026-11-25T19:14:38Z"
 }
