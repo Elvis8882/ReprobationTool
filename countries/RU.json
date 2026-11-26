@@ -4,13 +4,57 @@
   "score_label": "Negative",
   "assessment": "High negative coverage",
   "trend": 0,
-  "sources": 881,
+  "sources": 882,
   "sentiment": {
-    "positive": 36,
-    "neutral": 150,
-    "negative": 696
+    "positive": 37,
+    "neutral": 149,
+    "negative": 697
   },
   "latest_articles": [
+    {
+      "id": "c954a7b13b4c8d30a0e5ac0d86b4a85ccd5ca980",
+      "title": "Brazilian Duped Into Fighting for Russia: ‘War Is Hell’",
+      "summary": "Dozens of Brazilians have joined the Russian army, some say lured by a pair of recruiters promising money and adventure. Here is one soldier’s story.",
+      "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-26T15:27:03+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Dozens of Brazilians have joined the Russian army"
+    },
+    {
+      "id": "47226d8669ce09304a71fbff4780f274bf60e40a",
+      "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
+      "summary": "Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory.",
+      "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-26T14:01:45+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Fighting for Russia"
+    },
+    {
+      "id": "66ab6ee46b55a061cd321d5d0df99cede0cd4249",
+      "title": "Russian embassy claims are nonsense, explains Latvia",
+      "summary": "The Ministry of Foreign Affairs of Latvia issued a statement on November 26th that essentially said that the latest claims made by the&nbsp;Ministry of Foreign Affairs of Russia are 'disinformation', i.e. complete nonsen…",
+      "url": "https://eng.lsm.lv/article/politics/diplomacy/26.11.2026-russian-embassy-claims-are-nonsense-explains-latvia.a673553/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "source": "LSM (English)",
+      "published_at": "2026-11-26T08:33:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "claims made by the... Russia are 'disinformation'"
+    },
+    {
+      "id": "9a38e3655c5dfd20e56d9ed28d1980095204a747",
+      "title": "‘Trapped in grief’: wife of Japanese journalist detained by Russia pleads for his release",
+      "summary": "Yuki Imai being held in Moscow on allegations he conducted ‘espionage’ while working for a newspaper in Sakhalin island in Russia’s far eastThe wife of a Japanese journalist who has been detained in Russia for more than…",
+      "url": "https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-26T05:16:17+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Japanese journalist detained by Russia pleads for his release"
+    },
     {
       "id": "dacd2ab1df0558634bd87eef127020adb7aced18",
       "title": "Deal Signed to Sell Lukoil’s Foreign Assets, but Without Envoys’ Business Associates",
@@ -45,6 +89,28 @@
       "evidence": "Russia's chemical weapons violations"
     },
     {
+      "id": "8ea6c487602d42818c5ee472b7252ec47fa577d5",
+      "title": "Russia has passed the biggest military budget since Soviet times",
+      "summary": "Planned military spending for the 2027-29 period is over $600 billion, a sign President Vladimir Putin does not intend to end his war in Ukraine anytime soon.",
+      "url": "https://www.washingtonpost.com/world/2026/11/25/russia-has-passed-biggest-military-budget-since-soviet-times/",
+      "source": "World (Washington post)",
+      "published_at": "2026-11-25T15:40:00+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Russia has passed the biggest military budget since Soviet times"
+    },
+    {
+      "id": "2ade0562e21e5c9fa7a242e7c77c5c77024ecc93",
+      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-25T14:46:41+00:00",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "Five Russian military jets hit in airfield strike"
+    },
+    {
       "id": "0c4b2f7bb8e3120b066ca2dc261b1701160e58a3",
       "title": "Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships",
       "summary": "The Ukrainian drone strike off Libya’s coast killed two Libyan naval officers, according to the forces controlling the country’s east.",
@@ -54,6 +120,17 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Ukraine’s Attack on Russian Ships"
+    },
+    {
+      "id": "3ae1349c025d8a36020ca12b6d2b5ba5cf307b3c",
+      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-25T12:21:49+00:00",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Russia's own figures show it has lost nearly 500,000 people"
     },
     {
       "id": "7260fbc48dc3fe54440128e86c45faedbc3c7821",
@@ -153,85 +230,8 @@
       "sentiment": "negative",
       "confidence": 0.7,
       "evidence": "Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’"
-    },
-    {
-      "id": "a5d5b5c10352d17c8aa4a93ca6c4988ad7e95e0f",
-      "title": "Russian governor detained in rare criminal case against regional leader",
-      "summary": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-11-24T12:45:43+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.2,
-      "evidence": "Russian governor detained in rare criminal case against regional leader"
-    },
-    {
-      "id": "4fa81dd94c0af3c63df17b4fdfc65b7a12060986",
-      "title": "Russian Man Who Opposed Vladimir Putin Is Now Making Missiles For Ukraine",
-      "summary": "Mikhail Kokorich grew up in Siberia and left Russia in 2012",
-      "url": "https://www.ndtv.com/world-news/russian-man-mikhail-kokorich-who-opposed-vladimir-putin-is-now-making-missiles-for-ukraine-12370869#publisher=newsstand",
-      "source": "NDTV News - World-news",
-      "published_at": "2026-11-24T12:32:20+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russian Man Who Opposed Vladimir Putin Is Now Making Missiles For Ukraine"
-    },
-    {
-      "id": "9e8a6a2e3dbf5eabda3022011ecf11057f8d7af6",
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-11-24T10:58:51+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russian nuclear satellite reports"
-    },
-    {
-      "id": "d03c9347c8a2e9edfe23966b061825eb93c07932",
-      "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
-      "summary": "The order was issued after aircraft entered the country’s air defence identification zone over the island of UlleungdoResidents of a remote South Korean island were ordered to take shelter on Tuesday morning after severa…",
-      "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-24T04:14:43+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russian military aircraft came close to entering its airspace"
-    },
-    {
-      "id": "e8b12cc5b99850ca6b885e1377996a541e530ed8",
-      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
-      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-11-23T20:48:35+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes"
-    },
-    {
-      "id": "38a9edf4b96c5735abada1bb6961738bf1216e5b",
-      "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
-      "summary": "Hacked government data underscores the immense human cost of President Vladimir V. Putin’s war of attrition.",
-      "url": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-23T19:19:23+00:00",
-      "sentiment": "positive",
-      "confidence": 0.9,
-      "evidence": "Over 700,000 Russian Soldiers Have Died in Ukraine"
-    },
-    {
-      "id": "4da7a52bff2e9159ab0914b10c91e81e31490b39",
-      "title": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
-      "summary": "“We are not in war, but we are certainly not in peace anymore, either,” Germany’s foreign minister said after Russian missiles crashed onto Polish territory.",
-      "url": "https://www.washingtonpost.com/world/2026/11/23/nato-calls-urgent-meeting-string-incidents-escalates-russia-tensions/",
-      "source": "World (Washington post)",
-      "published_at": "2026-11-23T18:58:51+00:00",
-      "sentiment": "negative",
-      "confidence": 0.8,
-      "evidence": "Russian missiles crashed onto Polish territory."
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-25T19:14:38Z"
+  "last_updated": "2026-11-26T19:04:26Z"
 }
