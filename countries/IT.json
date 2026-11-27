@@ -4,13 +4,34 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 217,
+  "sources": 219,
   "sentiment": {
     "positive": 13,
-    "neutral": 167,
+    "neutral": 169,
     "negative": 37
   },
   "latest_articles": [
+    {
+      "id": "da7e1d21c2d1386e01de2b77e30a77cc4e7ee639",
+      "title": "2,000-Year-Old Makeup Bag Found In Italy's Pompeii Offers Glimpse Into Ancient Woman's Daily Life",
+      "summary": "The cupboard also contained 38 bronze coins stored in a small woven container.",
+      "url": "https://www.ndtv.com/world-news/2-000-year-old-makeup-bag-discovered-in-italys-pompeii-reveals-womans-daily-life-12385364#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-27T14:24:49+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.1,
+      "evidence": "Found In Italy's Pompeii"
+    },
+    {
+      "id": "8f76b29b161af5a099e3f5fe88f3e1b1131f9762",
+      "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
+      "summary": "The drop was largely driven by fewer people arriving from outside the European Union. It reflects government action to restrict immigration after a public backlash.",
+      "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-26T18:52:50+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "34ecedf13eaf1dafafd807079b201f82084c8f91",
       "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
@@ -18,6 +39,16 @@
       "url": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
       "source": "World news - The Guardian",
       "published_at": "2026-11-26T17:51:17+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
+    {
+      "id": "d40c4cd224002a898cdc1406e6c9ba2992164117",
+      "title": "Net Migration To UK Falls To 77,000, Lowest Since 1997 Apart From Covid Years",
+      "summary": "The fall was mainly driven by lower migration by non-European Union nationals",
+      "url": "https://www.ndtv.com/world-news/uk-says-net-immigration-lowest-since-1997-apart-from-covid-years-12380240#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-26T11:56:33+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
     },
@@ -128,6 +159,17 @@
       "evidence": "Italian Serie A stats & head-to-head"
     },
     {
+      "id": "8d1aaf14af2c4163b86ca23bbd1868d8ba88151f",
+      "title": "Tesla's Assisted Driving System Gets The Green Light For Rollout In Italy - Engadget",
+      "summary": "Tesla's Assisted Driving System Gets The Green Light For Rollout In Italy&nbsp;&nbsp;EngadgetEU may vote on authorising Tesla assisted-driving system at Dec 15 meeting&nbsp;&nbsp;ReutersTesla Slides 6% as EU Delays Vote…",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUDE1cHYtYm1PZkxoMUJLcXZUNlhiRjFsLXVvS0c3ZHE5bUcyRWxoM3hScV9DbHM5Uy01VGMyc0xIN2ZwczZGNThGYXRtU1c1akY5UThZMnhJTjdrR2xGOE0tdlc4NWJhVnZMVjlzVUZSQ2NHTlRDeDlab2pIN1NqWEgyV0VSVzVGZGhRaUh0OUx5YkRBSi1ZdWtJdUtUYzZCci1YVGZuYVVzZw?oc=5",
+      "source": "Top stories - Google News",
+      "published_at": "2026-11-21T18:29:20+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Gets The Green Light For Rollout In Italy"
+    },
+    {
       "id": "8ee2675bd1b20c161133d802956f6c8196731bd7",
       "title": "How Would You Screen This 26-Year-Old Woman for Cervical Cancer? Grand Rounds Discussion From Beth Israel Deaconess Medical Center - National Institutes of Health (NIH) | (.gov)",
       "summary": "How Would You Screen This 26-Year-Old Woman for Cervical Cancer? Grand Rounds Discussion From Beth Israel Deaconess Medical Center&nbsp;&nbsp;National Institutes of Health (NIH) | (.gov)New cervical cancer guidance to fa…",
@@ -178,49 +220,8 @@
       "published_at": "2026-11-20T17:16:07+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "2692dbb17486b1978a2b8eefeb913816597475b5",
-      "title": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
-      "summary": "Prime Minister Andy Burnham and European leaders said they had agreed to remove some of the barriers created when Britain left the European Union.",
-      "url": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-20T16:50:16+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "32041978cdef6a90bb034aa48d0bf9f7a6614cf3",
-      "title": "Latvian leader calls for closure of EU borders to all Russians - POLITICO.eu",
-      "summary": "Latvian leader calls for closure of EU borders to all Russians&nbsp;&nbsp;POLITICO.eu‘There are no real negotiations’ on Ukraine, says Prime Minister of Latvia&nbsp;&nbsp;Channel 4Russia 'not in a position' to make secur…",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmlJS29GQVp4X1EwcHc0bG9nVzdYZGN6OHVlMFlrNmM2aUxLWVpCYVd6MVgyS0ZETVRWVXpXRFpKZGNBUDl4cGFOSlE5SkJsb2NPS0dnUEFxb1MwdjMxOGJBUGpZaXJsWmRqMTBuUWxqR1RqcERkMmRUQ2ZxUEI3djZPTHZJR25rUlhGaTZtMWxRUFBhMVFRVVJLRnYxU0VSeUxyUTl1VjNsdG0wc01rdA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-11-20T16:28:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "71c26b19046c44d05c0cfbdeb7ac5e0fbd20dd16",
-      "title": "Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10",
-      "summary": "Discord between EU and UK on whether arrangements for food and drink, emissions trading and youth mobility scheme depend on settlement for studentsUK-EU summit live – latest news updatesThe UK and EU have agreed a reset…",
-      "url": "https://www.theguardian.com/politics/2026/nov/20/fallout-over-tuition-fees-may-snag-burnhams-eu-deal-say-insiders",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-20T16:03:13+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "da9d0908c1c1da59fe6ae72d3523e117e4a5eb68",
-      "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
-      "summary": "Activists in more than 20 countries demonstrate over cost of living, learning conditions and rising military spendingStudents and young workers have taken to the streets in more than 20 European countries in coordinated…",
-      "url": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-20T15:15:28+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "protests over cost of living, learning conditions and rising military spending"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-26T19:04:26Z"
+  "last_updated": "2026-11-27T18:55:17Z"
 }

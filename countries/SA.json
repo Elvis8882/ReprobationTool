@@ -1,16 +1,27 @@
 {
   "country": "SA",
-  "score": 14,
+  "score": 15,
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
-  "trend": 0,
-  "sources": 276,
+  "trend": 1,
+  "sources": 275,
   "sentiment": {
     "positive": 22,
     "neutral": 124,
-    "negative": 132
+    "negative": 131
   },
   "latest_articles": [
+    {
+      "id": "a07a9d9c0aff7436180b181a390ec03ce4a98952",
+      "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+      "summary": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-27T06:04:51+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Houthi attacks test kingdom's image of security"
+    },
     {
       "id": "732fd1570f14ddbedc9e7c14f9f8f828db630f7e",
       "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
@@ -219,19 +230,8 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "Saudi Alliance Intercepts 2 Houthi Missiles, 3 Drones Targeting Riyadh"
-    },
-    {
-      "id": "1ba89d0599701d9229e72a130d07c6ec4e7aeb05",
-      "title": "Boxing News: IBF Middleweight Champ Aaron McKenna To Make The Inaugural Defense Of His Crown Against Latvia’s Unbeaten Jevgenijs “The Hurricane” Aleksejevs » November 18, 2026 - FightNews",
-      "summary": "Boxing News: IBF Middleweight Champ Aaron McKenna To Make The Inaugural Defense Of His Crown Against Latvia’s Unbeaten Jevgenijs “The Hurricane” Aleksejevs » November 18, 2026&nbsp;&nbsp;FightNewsAaron McKenna to defend…",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUlVncTF2NmRlUnZkZ2JVTlYtdVhpRDB2cU1SeS1hVXdIUV9uaDVrLUZRdlh5SzF5eUc0WkRFUWJub2lCdWJMaklDSlJ0Rl9MUDdmRHJiUGx2Y2lyMWdMMzhuTW9zWEVveGNmUHdXSmxrNlpuTnBaa2dCMUVKT0VRVk9IdTFOTHJ0TUZOOF9OVEhSd1VWaFhoc0tBeEU2Zm5PZmdWUmxsU2xVbkJtV3JxZ0syMWF5dVlFbGNUa0hYQk82RXNxbzJoTWpXRWJCZTJFZ0lGcGw2WDJ3RUo5bUJqUmFtUERJVFBWRTBSdENjTGJBRFBLbEUyQl8zZFU?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-11-14T21:27:48+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "in Riyadh"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-26T19:04:26Z"
+  "last_updated": "2026-11-27T18:55:17Z"
 }

@@ -1,16 +1,70 @@
 {
   "country": "ES",
-  "score": 79,
+  "score": 77,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 1,
-  "sources": 267,
+  "trend": -2,
+  "sources": 271,
   "sentiment": {
-    "positive": 10,
-    "neutral": 222,
-    "negative": 35
+    "positive": 11,
+    "neutral": 223,
+    "negative": 37
   },
   "latest_articles": [
+    {
+      "id": "6818624d4fb9b71edff6111fcace22c047f53116",
+      "title": "Spanish Police Find a Vast Marijuana Bunker Beneath a Backyard Playground",
+      "summary": "Five people were arrested in southern Spain after a large marijuana farm was found under a playhouse on artificial turf.",
+      "url": "https://www.nytimes.com/2026/11/27/world/europe/marijuana-farm-spain-playground.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-27T17:45:33+00:00",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Spanish Police Find a Vast Marijuana Bunker... Five people were arrested"
+    },
+    {
+      "id": "c950a2b9e8d7850e72db90713f8839f7b75de95c",
+      "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – as it happened",
+      "summary": "This blog is now closedFreelance journalist based in Madrid and host of the Sobremesa podcastVox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and…",
+      "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-27T16:19:50+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Vox has often been portrayed... as a party of Franco nostalgists"
+    },
+    {
+      "id": "346abff31045c9e5a62db928744a37795a5d474d",
+      "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
+      "summary": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
+      "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-27T06:09:31+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Spain's young people on housing ahead of Sunday's election"
+    },
+    {
+      "id": "49d953b6158bc344f3e7a3e8913756d2622b5480",
+      "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+      "summary": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-27T06:03:39+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "Leaders clash in final Spain election debate as housing dominates"
+    },
+    {
+      "id": "8f76b29b161af5a099e3f5fe88f3e1b1131f9762",
+      "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
+      "summary": "The drop was largely driven by fewer people arriving from outside the European Union. It reflects government action to restrict immigration after a public backlash.",
+      "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-26T18:52:50+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "34ecedf13eaf1dafafd807079b201f82084c8f91",
       "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
@@ -42,6 +96,27 @@
       "sentiment": "positive",
       "confidence": 0.8,
       "evidence": "Spain’s Pablo Hernández de Cos set to lead European Central Bank"
+    },
+    {
+      "id": "f12611ab34368234c88648e80821c8c156822cdb",
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-26T15:17:18+00:00",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "possible environmental damage is still being assessed by Spain's sea rescue service."
+    },
+    {
+      "id": "d40c4cd224002a898cdc1406e6c9ba2992164117",
+      "title": "Net Migration To UK Falls To 77,000, Lowest Since 1997 Apart From Covid Years",
+      "summary": "The fall was mainly driven by lower migration by non-European Union nationals",
+      "url": "https://www.ndtv.com/world-news/uk-says-net-immigration-lowest-since-1997-apart-from-covid-years-12380240#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-26T11:56:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "44c6a8907492e8d9fa0de503b89650fd17701671",
@@ -150,78 +225,8 @@
       "published_at": "2026-11-23T18:57:13+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "6ce3a108ac4bcdbe387de95de6709e82f06619e1",
-      "title": "Russian diplomat summoned yet again by Latvia over ongoing aggression",
-      "summary": "On 23rd November 2026, the Chargé d’Affaires ad interim of the Russian Embassy in Rīga was summoned to the Ministry of Foreign Affairs to lodge a protest with the Russian Federation over the consequences of its war of ag…",
-      "url": "https://eng.lsm.lv/article/politics/diplomacy/23.11.2026-russian-diplomat-summoned-yet-again-by-latvia-over-ongoing-aggression.a673122/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "source": "LSM (English)",
-      "published_at": "2026-11-23T17:32:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "77ece0992320838f498495d3229018a022214933",
-      "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
-      "summary": "European Commission president Ursula von der Leyen sets out 22nd package of sanctionsTurning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “crucial supplies” or air defence weapons and ammunition to Uk…",
-      "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-23T16:42:56+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "8ee2675bd1b20c161133d802956f6c8196731bd7",
-      "title": "How Would You Screen This 26-Year-Old Woman for Cervical Cancer? Grand Rounds Discussion From Beth Israel Deaconess Medical Center - National Institutes of Health (NIH) | (.gov)",
-      "summary": "How Would You Screen This 26-Year-Old Woman for Cervical Cancer? Grand Rounds Discussion From Beth Israel Deaconess Medical Center&nbsp;&nbsp;National Institutes of Health (NIH) | (.gov)New cervical cancer guidance to fa…",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNVDB4dXRjUGRiSTVRSFhVYllxX0NWaGNjX3kwN1BzZGNMUkhiMC00Uk5TdzRIQmxlQVlRNG5kRXl1WWw5bm4tU2Zvc3QyTDlJNTlORFV4bENaLWNhaHRUVzYyU0VOQzNWY3BNOHVDc0VWOXduSnBhYTU5UXdxdjkxUmgxWVhQVlBwczdWYlBDRUtob1dyVzZXV3hTTWVmMkFtS1FvVHJVS1ZpUXlsVzFFbmx6aU5MT1lWeVRXcTZrOUVoWWdLbXJHMUlYcXJuRWtnWlVCb2xHZi1BM2s0Z3dJbWE3U0xNNG9pMF80LW5hWlJoRDVzVjFiTWRQTXo5dURJdjVyTUc2aVVqcXRfV1ptMFllbTFmQWd1bnhWR203YUk?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-11-21T14:15:46+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "4c1766a6097a9ad3fcfb00f8be4ab04fa488aee9",
-      "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
-      "summary": "The United Kingdom is removing barriers with the European Union a decade after it voted to leave. Global turmoil, and the disruptive policies of President Trump, helped push them back together.",
-      "url": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-20T20:22:14+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "c8606f7a59d7ed6271509f467e072cd821b52b98",
-      "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
-      "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UKSenior correspondent\n \n \n Making today’s reset deal contingent on a further agreement on the level of tuition fees…",
-      "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-20T17:16:07+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "2692dbb17486b1978a2b8eefeb913816597475b5",
-      "title": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
-      "summary": "Prime Minister Andy Burnham and European leaders said they had agreed to remove some of the barriers created when Britain left the European Union.",
-      "url": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
-      "source": "NYT > World News",
-      "published_at": "2026-11-20T16:50:16+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "32041978cdef6a90bb034aa48d0bf9f7a6614cf3",
-      "title": "Latvian leader calls for closure of EU borders to all Russians - POLITICO.eu",
-      "summary": "Latvian leader calls for closure of EU borders to all Russians&nbsp;&nbsp;POLITICO.eu‘There are no real negotiations’ on Ukraine, says Prime Minister of Latvia&nbsp;&nbsp;Channel 4Russia 'not in a position' to make secur…",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmlJS29GQVp4X1EwcHc0bG9nVzdYZGN6OHVlMFlrNmM2aUxLWVpCYVd6MVgyS0ZETVRWVXpXRFpKZGNBUDl4cGFOSlE5SkJsb2NPS0dnUEFxb1MwdjMxOGJBUGpZaXJsWmRqMTBuUWxqR1RqcERkMmRUQ2ZxUEI3djZPTHZJR25rUlhGaTZtMWxRUFBhMVFRVVJLRnYxU0VSeUxyUTl1VjNsdG0wc01rdA?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-11-20T16:28:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-26T19:04:26Z"
+  "last_updated": "2026-11-27T18:55:17Z"
 }

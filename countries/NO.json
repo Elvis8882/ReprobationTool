@@ -1,16 +1,27 @@
 {
   "country": "NO",
-  "score": 84,
+  "score": 77,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": 0,
+  "trend": -7,
   "sources": 35,
   "sentiment": {
     "positive": 4,
-    "neutral": 30,
-    "negative": 1
+    "neutral": 29,
+    "negative": 2
   },
   "latest_articles": [
+    {
+      "id": "1b530eb88d9e98fa48f41169cad144d4b5b13142",
+      "title": "Norse Atlantic Airways files for bankruptcy and cancels all future flights",
+      "summary": "Norwegian airline tells customers not to come to airports after surging fuel costs caused by Iran war ruin financesNorse Atlantic Airways has filed for bankruptcy and cancelled all future flights after surging fuel costs…",
+      "url": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights",
+      "source": "World news - The Guardian",
+      "published_at": "2026-11-27T15:40:35+00:00",
+      "sentiment": "negative",
+      "confidence": 0.7,
+      "evidence": "Norse Atlantic Airways files for bankruptcy and cancels all future flights"
+    },
     {
       "id": "8f4f4642a91f7710d32c3d972c99232299821561",
       "title": "Budget carrier Norse Atlantic falls 78% after warning its finances are ‘critical’ amid soaring fuel costs",
@@ -219,19 +230,8 @@
       "sentiment": "positive",
       "confidence": 0.6,
       "evidence": "promoting international law"
-    },
-    {
-      "id": "89cc671b7789195d1843e813b61157ac900a3c9a",
-      "title": "Norwegian princess Märtha Louise and husband sue ex-friends for ‘betrayal of trust’",
-      "summary": "Märtha Louise and Durek Verrett launch defamation lawsuit in Los Angeles, claiming ‘coordinated series of devastating public attacks’The Norwegian princess Märtha Louise and her husband, the American businessman Durek Ve…",
-      "url": "https://www.theguardian.com/us-news/2026/oct/06/norway-princess-martha-louise-husband-durek-verrett-lawsuit-defamation-los-angeles",
-      "source": "World news - The Guardian",
-      "published_at": "2026-10-06T13:59:17+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "Norwegian princess Märtha Louise"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-26T19:04:26Z"
+  "last_updated": "2026-11-27T18:55:17Z"
 }

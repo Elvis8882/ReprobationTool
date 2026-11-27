@@ -4,13 +4,23 @@
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
   "trend": 0,
-  "sources": 161,
+  "sources": 160,
   "sentiment": {
     "positive": 14,
-    "neutral": 138,
+    "neutral": 137,
     "negative": 9
   },
   "latest_articles": [
+    {
+      "id": "8f76b29b161af5a099e3f5fe88f3e1b1131f9762",
+      "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
+      "summary": "The drop was largely driven by fewer people arriving from outside the European Union. It reflects government action to restrict immigration after a public backlash.",
+      "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-26T18:52:50+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "34ecedf13eaf1dafafd807079b201f82084c8f91",
       "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
@@ -31,6 +41,16 @@
       "sentiment": "neutral",
       "confidence": 0.3,
       "evidence": "defeating his rival candidate Klaas Knot, the former head of the Dutch central bank"
+    },
+    {
+      "id": "d40c4cd224002a898cdc1406e6c9ba2992164117",
+      "title": "Net Migration To UK Falls To 77,000, Lowest Since 1997 Apart From Covid Years",
+      "summary": "The fall was mainly driven by lower migration by non-European Union nationals",
+      "url": "https://www.ndtv.com/world-news/uk-says-net-immigration-lowest-since-1997-apart-from-covid-years-12380240#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-26T11:56:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "c311e010d0f03695e06685684e7c50ed70542067",
@@ -195,29 +215,8 @@
       "sentiment": "negative",
       "confidence": 0.9,
       "evidence": "Drone Hits Dutch Embassy Compound in Kyiv"
-    },
-    {
-      "id": "26035da73ae0ea211a05fc509c5082301eb8e2d6",
-      "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
-      "summary": "Relief in the immediate aftermath of a landmark ruling, but what happens next is in the hands of governments around the worldThere were tears in the halls of The Hague in the Netherlands and an eruption of applause in th…",
-      "url": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-19T16:15:52+00:00",
-      "sentiment": "positive",
-      "confidence": 0.7,
-      "evidence": "tears in the halls of The Hague in the Netherlands"
-    },
-    {
-      "id": "89cb1d80a52448b4b058c63b2f12fea2edaaa1a5",
-      "title": "What is at stake at the EU-UK summit in Brussels?",
-      "summary": "Leaders will wrestle with easing Brexit red tape, restoring emissions trading and opening up youth mobilityUK politics live – latest updatesThe EU and UK will hold a long-awaited summit in Brussels on Friday – the second…",
-      "url": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-19T13:11:23+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-26T19:04:26Z"
+  "last_updated": "2026-11-27T18:55:17Z"
 }

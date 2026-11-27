@@ -4,13 +4,56 @@
   "score_label": "Caution",
   "assessment": "Moderate negative coverage",
   "trend": 0,
-  "sources": 543,
+  "sources": 545,
   "sentiment": {
-    "positive": 45,
+    "positive": 46,
     "neutral": 317,
-    "negative": 184
+    "negative": 185
   },
   "latest_articles": [
+    {
+      "id": "bb90cdb4ff7f346d6f61d7d0902b92cbb962b0ec",
+      "title": "Brazil pushes back on Macron calling its meat 'doped'",
+      "summary": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-27T15:54:15+00:00",
+      "sentiment": "positive",
+      "confidence": 0.6,
+      "evidence": "Macron calling its meat 'doped'"
+    },
+    {
+      "id": "4c5c77e1937043398ae16ab62a25e43c35bc0e99",
+      "title": "France’s Bookstores, Beloved Curators of Literature, Are in a Deep Crisis",
+      "summary": "Caught between by rising costs and price regulations, French booksellers are closing at a record pace, depriving new authors of vital shelf space.",
+      "url": "https://www.nytimes.com/2026/11/27/world/europe/france-bookstore-crisis-closures.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-27T15:26:55+00:00",
+      "sentiment": "neutral",
+      "confidence": 0.3,
+      "evidence": "France’s Bookstores...Are in a Deep Crisis"
+    },
+    {
+      "id": "bf3ef2791b064834195c6a11428f30f39859bdce",
+      "title": "Clashes mar European games as Macron condemns violence",
+      "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - World",
+      "published_at": "2026-11-27T10:24:24+00:00",
+      "sentiment": "negative",
+      "confidence": 0.5,
+      "evidence": "Macron condemns violence"
+    },
+    {
+      "id": "8f76b29b161af5a099e3f5fe88f3e1b1131f9762",
+      "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
+      "summary": "The drop was largely driven by fewer people arriving from outside the European Union. It reflects government action to restrict immigration after a public backlash.",
+      "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-26T18:52:50+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "34ecedf13eaf1dafafd807079b201f82084c8f91",
       "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
@@ -43,6 +86,16 @@
       "sentiment": "neutral",
       "confidence": 0.2,
       "evidence": "Gérard Depardieu Is Ordered to Stand Trial Over Rape Accusation"
+    },
+    {
+      "id": "d40c4cd224002a898cdc1406e6c9ba2992164117",
+      "title": "Net Migration To UK Falls To 77,000, Lowest Since 1997 Apart From Covid Years",
+      "summary": "The fall was mainly driven by lower migration by non-European Union nationals",
+      "url": "https://www.ndtv.com/world-news/uk-says-net-immigration-lowest-since-1997-apart-from-covid-years-12380240#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-26T11:56:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "529d01ff44c5746703c24292ba5083c7a1efc6f2",
@@ -172,62 +225,8 @@
       "published_at": "2026-11-23T17:32:00+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "77ece0992320838f498495d3229018a022214933",
-      "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
-      "summary": "European Commission president Ursula von der Leyen sets out 22nd package of sanctionsTurning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “crucial supplies” or air defence weapons and ammunition to Uk…",
-      "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-23T16:42:56+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "0c270d37a697e126b32a3d2b67f00f24e60cf84a",
-      "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
-      "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
-      "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News - World",
-      "published_at": "2026-11-23T13:09:52+00:00",
-      "sentiment": "negative",
-      "confidence": 0.9,
-      "evidence": "trying to bring down the Republic"
-    },
-    {
-      "id": "4b9fc537804f191734893196e3918099644ff8a8",
-      "title": "French biotech rejects short seller’s cancer-risk claims after shares plunge 17%",
-      "summary": "Short seller Scorpion Capital has accused Abivax of serious scientific and safety shortcomings in its experimental inflammatory bowel disease drug.",
-      "url": "https://www.cnbc.com/2026/11/23/abivax-scorpion-capital-obefazimod.html",
-      "source": "International: Top News And Analysis",
-      "published_at": "2026-11-23T09:45:42+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.3,
-      "evidence": "biotech rejects short seller’s cancer-risk claims"
-    },
-    {
-      "id": "706bee2cd349966e3e80308f2a9546c67faba41f",
-      "title": "Fernandes puts Man Utd contract talks on hold - France 24",
-      "summary": "Fernandes puts Man Utd contract talks on hold&nbsp;&nbsp;France 24'Not the right time' - Fernandes pauses Man Utd contract talks&nbsp;&nbsp;BBCBruno Fernandes: Man Utd captain confirms contract offer but says negotiation…",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWkhmOHhEWnpwenZQUzNuMXZ0OF8zY3Z6NENxYjd4Z3F2aFktVkhWMFU3dm1uajdfLUdTUloxdnloRlNqRTJ3TXNOVXJCYko5SFRDb0V2X3NmNG5jV2pqQWlzY3NFTHFqOENkZ3J6bEpsRWNFSnAyTDV2VmRNay16d2ZhQWtHWi0xWW55UmJUbmg2RlZQRktR?oc=5",
-      "source": "Top stories - Google News",
-      "published_at": "2026-11-22T15:02:15+00:00",
-      "sentiment": "neutral",
-      "confidence": 0.1,
-      "evidence": "Fernandes puts Man Utd contract talks on hold - France 24"
-    },
-    {
-      "id": "96eef9501f0cde588a1f81e2e3c4e4a632a8986b",
-      "title": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
-      "summary": "As nationalist, Eurosceptic parties surge in four of the bloc’s biggest member states, the coming year’s polls could test its resilience like never beforeIn late 1998, Tony Blair was prime minister of Britain, Lionel Jos…",
-      "url": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-22T06:00:18+00:00",
-      "sentiment": "negative",
-      "confidence": 0.7,
-      "evidence": "nationalist, Eurosceptic parties surge in... France"
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-26T19:04:26Z"
+  "last_updated": "2026-11-27T18:55:17Z"
 }

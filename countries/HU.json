@@ -3,7 +3,7 @@
   "score": 79,
   "score_label": "No Commentary",
   "assessment": "Mostly neutral/positive coverage",
-  "trend": -2,
+  "trend": 0,
   "sources": 130,
   "sentiment": {
     "positive": 12,
@@ -11,6 +11,16 @@
     "negative": 6
   },
   "latest_articles": [
+    {
+      "id": "8f76b29b161af5a099e3f5fe88f3e1b1131f9762",
+      "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
+      "summary": "The drop was largely driven by fewer people arriving from outside the European Union. It reflects government action to restrict immigration after a public backlash.",
+      "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
+      "source": "NYT > World News",
+      "published_at": "2026-11-26T18:52:50+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
+    },
     {
       "id": "34ecedf13eaf1dafafd807079b201f82084c8f91",
       "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
@@ -21,6 +31,16 @@
       "sentiment": "negative",
       "confidence": 0.6,
       "evidence": "Slovakia, Hungary and Czechia want to opt out of €45bn Ukraine loan"
+    },
+    {
+      "id": "d40c4cd224002a898cdc1406e6c9ba2992164117",
+      "title": "Net Migration To UK Falls To 77,000, Lowest Since 1997 Apart From Covid Years",
+      "summary": "The fall was mainly driven by lower migration by non-European Union nationals",
+      "url": "https://www.ndtv.com/world-news/uk-says-net-immigration-lowest-since-1997-apart-from-covid-years-12380240#publisher=newsstand",
+      "source": "NDTV News - World-news",
+      "published_at": "2026-11-26T11:56:33+00:00",
+      "sentiment": "neutral",
+      "sentiment_fallback": true
     },
     {
       "id": "d439e94f45f3d472fad9c3c85a169bece3f5943e",
@@ -194,28 +214,8 @@
       "published_at": "2026-11-19T05:48:05+00:00",
       "sentiment": "neutral",
       "sentiment_fallback": true
-    },
-    {
-      "id": "253d55efc9877a4bacfd0f8f8eea7140ef85606c",
-      "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
-      "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loansThe European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landma…",
-      "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-18T05:00:32+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
-    },
-    {
-      "id": "23d25a05deabc44512ebdc7df7464e60d08c468e",
-      "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
-      "summary": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free accessThe decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exc…",
-      "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
-      "source": "World news - The Guardian",
-      "published_at": "2026-11-17T21:49:29+00:00",
-      "sentiment": "neutral",
-      "sentiment_fallback": true
     }
   ],
   "window_days": 90,
-  "last_updated": "2026-11-26T19:04:26Z"
+  "last_updated": "2026-11-27T18:55:17Z"
 }
